@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4471 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cellular_multiprocessing> ;
+    skos:prefLabel "Cellular multiprocessing" ;
+    skos:related ocs:C10320,
+        ocs:C18258,
+        ocs:C1904,
+        ocs:C2353,
+        ocs:C24754,
+        ocs:C27392,
+        ocs:C30860,
+        ocs:C38463,
+        ocs:C39429,
+        ocs:C41698,
+        ocs:C42662,
+        ocs:C44255,
+        ocs:C4832,
+        ocs:C7009,
+        ocs:C9,
+        ocs:C9035 .
+

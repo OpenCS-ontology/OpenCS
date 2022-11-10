@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6089 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Equipment monitoring" ;
+    skos:related ocs:C12431,
+        ocs:C2,
+        ocs:C3,
+        ocs:C33,
+        ocs:C515,
+        ocs:C545,
+        ocs:C8172,
+        ocs:C8614 .
+

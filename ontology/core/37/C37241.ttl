@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37241 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C21383,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/NOEKEON> ;
+    skos:prefLabel "NOEKEON" ;
+    skos:related ocs:C202,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30003,
+        ocs:C32234,
+        ocs:C33622,
+        ocs:C35389,
+        ocs:C3541,
+        ocs:C36690,
+        ocs:C4218,
+        ocs:C43281,
+        ocs:C43883,
+        ocs:C44709,
+        ocs:C44818,
+        ocs:C45116,
+        ocs:C5527,
+        ocs:C7226 .
+

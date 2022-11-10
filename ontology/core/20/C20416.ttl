@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20416 a skos:Concept ;
+    skos:broader ocs:C10445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trading_with_the_Enemy_Act> ;
+    skos:prefLabel "Trading with the Enemy Act" ;
+    skos:related ocs:C14933,
+        ocs:C30899 .
+

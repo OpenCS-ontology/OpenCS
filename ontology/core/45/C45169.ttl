@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45169 a skos:Concept ;
+    skos:broader ocs:C29674,
+        ocs:C32333,
+        ocs:C36279,
+        ocs:C37036 ;
+    skos:prefLabel "Clique separators" .
+

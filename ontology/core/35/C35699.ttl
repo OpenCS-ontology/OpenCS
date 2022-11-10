@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35699 a skos:Concept ;
+    skos:broader ocs:C14029,
+        ocs:C19125,
+        ocs:C20849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ladder_operator> ;
+    skos:prefLabel "Ladder operator" ;
+    skos:related ocs:C23722,
+        ocs:C24854,
+        ocs:C43317,
+        ocs:C44649 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45135 a skos:Concept ;
+    skos:broader ocs:C32877 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dedekind_eta_function> ;
+    skos:prefLabel "Dedekind eta function" ;
+    skos:related ocs:C23040,
+        ocs:C23209,
+        ocs:C32124,
+        ocs:C32877,
+        ocs:C38958,
+        ocs:C39587,
+        ocs:C39710,
+        ocs:C43605 .
+

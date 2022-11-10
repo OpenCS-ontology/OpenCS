@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43659 a skos:Concept ;
+    skos:broader ocs:C30215,
+        ocs:C31028 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_Template_Framework> ;
+    skos:prefLabel "Test Template Framework" ;
+    skos:related ocs:C12495,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C23233,
+        ocs:C25956,
+        ocs:C30215,
+        ocs:C30729,
+        ocs:C30756,
+        ocs:C31028,
+        ocs:C34565,
+        ocs:C34601,
+        ocs:C35575,
+        ocs:C40291,
+        ocs:C4263,
+        ocs:C42762,
+        ocs:C44160,
+        ocs:C4759,
+        ocs:C7257 .
+

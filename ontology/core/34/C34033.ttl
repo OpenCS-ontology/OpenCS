@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34033 a skos:Concept ;
+    skos:broader ocs:C17091,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hill_cipher> ;
+    skos:prefLabel "Hill cipher" ;
+    skos:related ocs:C11704,
+        ocs:C13163,
+        ocs:C13281,
+        ocs:C14539,
+        ocs:C17856,
+        ocs:C24353,
+        ocs:C29363,
+        ocs:C30538,
+        ocs:C32109,
+        ocs:C34567,
+        ocs:C39582,
+        ocs:C40734,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C5575,
+        ocs:C6724,
+        ocs:C9491 .
+

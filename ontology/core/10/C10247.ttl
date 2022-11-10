@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10247 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Directory_Harvest_Attack> ;
+    skos:prefLabel "Directory Harvest Attack" ;
+    skos:related ocs:C11371,
+        ocs:C12106,
+        ocs:C12995,
+        ocs:C13302,
+        ocs:C14983,
+        ocs:C17567,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C3009,
+        ocs:C31112,
+        ocs:C31805,
+        ocs:C35631,
+        ocs:C36810,
+        ocs:C37829,
+        ocs:C37946,
+        ocs:C39499,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C5522 .
+

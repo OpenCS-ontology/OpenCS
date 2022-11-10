@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17598 a skos:Concept ;
+    skos:broader ocs:C77,
+        ocs:C8435,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_dynamic_programming> ;
+    skos:prefLabel "Differential dynamic programming" ;
+    skos:related ocs:C13610,
+        ocs:C15070,
+        ocs:C17096,
+        ocs:C24136,
+        ocs:C27053,
+        ocs:C29738,
+        ocs:C35866,
+        ocs:C38965,
+        ocs:C3987,
+        ocs:C77 .
+

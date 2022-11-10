@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35817 a skos:Concept ;
+    skos:broader ocs:C15173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bridging_fault> ;
+    skos:prefLabel "Bridging fault" ;
+    skos:related ocs:C10920,
+        ocs:C10965,
+        ocs:C14,
+        ocs:C210,
+        ocs:C27089,
+        ocs:C27883,
+        ocs:C33318,
+        ocs:C43052,
+        ocs:C44881,
+        ocs:C6797 .
+

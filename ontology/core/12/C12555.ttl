@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12555 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Duplicate_content> ;
+    skos:prefLabel "Duplicate content" ;
+    skos:related ocs:C14004,
+        ocs:C2474,
+        ocs:C28136,
+        ocs:C40049,
+        ocs:C40507,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C45806,
+        ocs:C4803,
+        ocs:C7963 .
+

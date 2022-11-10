@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43639 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cache_stampede> ;
+    skos:prefLabel "Cache stampede" ;
+    skos:related ocs:C12812,
+        ocs:C15883,
+        ocs:C17235,
+        ocs:C20691,
+        ocs:C23926,
+        ocs:C28236,
+        ocs:C31,
+        ocs:C32643,
+        ocs:C38129,
+        ocs:C39629,
+        ocs:C39727,
+        ocs:C6,
+        ocs:C7767,
+        ocs:C8386,
+        ocs:C9224 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29575 a skos:Concept ;
+    skos:broader ocs:C25572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algebraic_formula_for_the_variance> ;
+    skos:prefLabel "Algebraic formula for the variance" ;
+    skos:related ocs:C1844,
+        ocs:C20805,
+        ocs:C22092,
+        ocs:C25862,
+        ocs:C40063,
+        ocs:C795,
+        ocs:C9326 .
+

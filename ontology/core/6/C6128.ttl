@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6128 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Division_algorithm> ;
+    skos:prefLabel "Division algorithm" ;
+    skos:related ocs:C10,
+        ocs:C11308,
+        ocs:C12262,
+        ocs:C15418,
+        ocs:C1636,
+        ocs:C24353,
+        ocs:C28942,
+        ocs:C41652,
+        ocs:C8581 .
+

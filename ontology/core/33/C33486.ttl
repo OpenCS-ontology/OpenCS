@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33486 a skos:Concept ;
+    skos:broader ocs:C23972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schmidt_corrector_plate> ;
+    skos:prefLabel "Schmidt corrector plate" ;
+    skos:related ocs:C19644,
+        ocs:C20721,
+        ocs:C23972,
+        ocs:C25707,
+        ocs:C8085 .
+

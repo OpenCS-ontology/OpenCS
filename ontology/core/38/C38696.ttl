@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38696 a skos:Concept ;
+    skos:broader ocs:C31017 ;
+    skos:closeMatch <http://dbpedia.org/resource/URL_normalization> ;
+    skos:prefLabel "URL normalization" ;
+    skos:related ocs:C14004,
+        ocs:C17225,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C2976,
+        ocs:C30237,
+        ocs:C31,
+        ocs:C38459,
+        ocs:C38987,
+        ocs:C39074,
+        ocs:C39128,
+        ocs:C39887,
+        ocs:C40049,
+        ocs:C437,
+        ocs:C44855,
+        ocs:C6642,
+        ocs:C7147 .
+

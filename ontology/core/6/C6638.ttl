@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6638 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-organizing_network> ;
+    skos:prefLabel "Self-organizing network" ;
+    skos:related ocs:C18523,
+        ocs:C18811,
+        ocs:C21976,
+        ocs:C23025,
+        ocs:C28176,
+        ocs:C29697,
+        ocs:C29899,
+        ocs:C31996,
+        ocs:C32715,
+        ocs:C32846,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C37303,
+        ocs:C41910,
+        ocs:C43951,
+        ocs:C45492,
+        ocs:C45825,
+        ocs:C678,
+        ocs:C9113,
+        ocs:C9154 .
+

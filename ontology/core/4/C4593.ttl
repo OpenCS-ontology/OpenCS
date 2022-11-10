@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4593 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glider_(Conway's_Life)> ;
+    skos:prefLabel "Glider" ;
+    skos:related ocs:C122,
+        ocs:C12400,
+        ocs:C16298,
+        ocs:C2108,
+        ocs:C22100,
+        ocs:C2583,
+        ocs:C26275,
+        ocs:C31124,
+        ocs:C3136,
+        ocs:C3466,
+        ocs:C39944,
+        ocs:C41669,
+        ocs:C45217,
+        ocs:C45460,
+        ocs:C5097,
+        ocs:C6072,
+        ocs:C8279,
+        ocs:C8791,
+        ocs:C9833 .
+

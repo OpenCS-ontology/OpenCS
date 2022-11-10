@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15181 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Riesz_potential> ;
+    skos:prefLabel "Riesz potential" ;
+    skos:related ocs:C11150,
+        ocs:C21934,
+        ocs:C23752,
+        ocs:C26164,
+        ocs:C29528,
+        ocs:C30507,
+        ocs:C3589,
+        ocs:C42875 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29999 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_stellated_dodecahedron> ;
+    skos:prefLabel "Small stellated dodecahedron" ;
+    skos:related ocs:C34506,
+        ocs:C35232,
+        ocs:C38358,
+        ocs:C38990,
+        ocs:C40652,
+        ocs:C42873,
+        ocs:C43966 .
+

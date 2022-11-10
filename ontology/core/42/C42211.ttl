@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42211 a skos:Concept ;
+    skos:broader ocs:C33616,
+        ocs:C33621 ;
+    skos:closeMatch <http://dbpedia.org/resource/Builder_pattern> ;
+    skos:prefLabel "Builder pattern" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C12455,
+        ocs:C15786,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C30157,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C3282,
+        ocs:C33616,
+        ocs:C33621,
+        ocs:C36310,
+        ocs:C40193,
+        ocs:C43716,
+        ocs:C44286 .
+

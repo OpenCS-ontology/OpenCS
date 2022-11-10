@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C700 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_subgroup_confinement_attack> ;
+    skos:prefLabel "Small subgroup confinement attack" ;
+    skos:related ocs:C10458,
+        ocs:C17856,
+        ocs:C30656,
+        ocs:C34794,
+        ocs:C35146,
+        ocs:C40791,
+        ocs:C41838,
+        ocs:C43183,
+        ocs:C44564,
+        ocs:C45715 .
+

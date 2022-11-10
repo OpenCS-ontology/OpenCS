@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42398 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nelson–Aalen_estimator> ;
+    skos:prefLabel "Nelson–Aalen estimator" ;
+    skos:related ocs:C10670,
+        ocs:C16319,
+        ocs:C18916,
+        ocs:C22258,
+        ocs:C29878,
+        ocs:C33145 .
+

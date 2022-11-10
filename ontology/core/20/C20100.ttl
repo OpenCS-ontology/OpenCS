@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20100 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_chat> ;
+    skos:prefLabel "Online chat" ;
+    skos:related ocs:C11540,
+        ocs:C12599,
+        ocs:C12810,
+        ocs:C16205,
+        ocs:C17794,
+        ocs:C18683,
+        ocs:C18814,
+        ocs:C22407,
+        ocs:C23866,
+        ocs:C26,
+        ocs:C27498,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31,
+        ocs:C420,
+        ocs:C4712,
+        ocs:C5917,
+        ocs:C8614,
+        ocs:C9113 .
+

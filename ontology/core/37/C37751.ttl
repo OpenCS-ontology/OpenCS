@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37751 a skos:Concept ;
+    skos:broader ocs:C26947 ;
+    skos:closeMatch <http://dbpedia.org/resource/Upper_bound_theorem> ;
+    skos:prefLabel "Upper bound theorem" ;
+    skos:related ocs:C32727,
+        ocs:C34394,
+        ocs:C36820,
+        ocs:C38789,
+        ocs:C41573,
+        ocs:C43632 .
+

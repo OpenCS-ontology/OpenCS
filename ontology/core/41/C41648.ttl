@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41648 a skos:Concept ;
+    skos:broader ocs:C29898,
+        ocs:C30058 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galactic_habitable_zone> ;
+    skos:prefLabel "Galactic habitable zone" ;
+    skos:related ocs:C14270,
+        ocs:C17246,
+        ocs:C18299,
+        ocs:C26524,
+        ocs:C28456,
+        ocs:C29898,
+        ocs:C32417,
+        ocs:C36203,
+        ocs:C38786,
+        ocs:C42138,
+        ocs:C45241,
+        ocs:C597 .
+

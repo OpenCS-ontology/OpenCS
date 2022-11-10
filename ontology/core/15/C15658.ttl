@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15658 a skos:Concept ;
+    skos:broader ocs:C12580 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contact_image_sensor> ;
+    skos:prefLabel "Contact image sensor" ;
+    skos:related ocs:C1023,
+        ocs:C10700,
+        ocs:C12755,
+        ocs:C13065,
+        ocs:C14411,
+        ocs:C16368,
+        ocs:C16423,
+        ocs:C1703,
+        ocs:C19353,
+        ocs:C3077,
+        ocs:C6403,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C9611,
+        ocs:C9738 .
+

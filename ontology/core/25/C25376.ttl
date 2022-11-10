@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25376 a skos:Concept ;
+    skos:broader ocs:C1134,
+        ocs:C13724,
+        ocs:C5625,
+        ocs:C5861,
+        ocs:C8704,
+        ocs:C9264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_rescheduling_problem> ;
+    skos:prefLabel "Vehicle rescheduling problem" ;
+    skos:related ocs:C11372,
+        ocs:C17588,
+        ocs:C18259,
+        ocs:C21308,
+        ocs:C23872,
+        ocs:C2413,
+        ocs:C24647,
+        ocs:C25481,
+        ocs:C32917,
+        ocs:C3837,
+        ocs:C43576,
+        ocs:C5691,
+        ocs:C7397,
+        ocs:C7554,
+        ocs:C8944,
+        ocs:C9264 .
+

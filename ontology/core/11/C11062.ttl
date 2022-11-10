@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11062 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Caml> ;
+    skos:prefLabel "Caml" ;
+    skos:related ocs:C10284,
+        ocs:C1109,
+        ocs:C11293,
+        ocs:C11333,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C24909,
+        ocs:C28944,
+        ocs:C3639,
+        ocs:C386,
+        ocs:C4032,
+        ocs:C4097,
+        ocs:C5517,
+        ocs:C6531,
+        ocs:C6918,
+        ocs:C6941,
+        ocs:C8441 .
+

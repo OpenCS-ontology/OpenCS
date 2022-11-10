@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22777 a skos:Concept ;
+    skos:broader ocs:C9584 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relational_capital> ;
+    skos:prefLabel "Relational capital" ;
+    skos:related ocs:C12,
+        ocs:C13971,
+        ocs:C9584 .
+

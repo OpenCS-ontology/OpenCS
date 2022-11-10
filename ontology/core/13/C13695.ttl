@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13695 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Customer-premises_equipment> ;
+    skos:prefLabel "Customer-premises equipment" ;
+    skos:related ocs:C19350,
+        ocs:C21610,
+        ocs:C22331,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C27570,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C30432,
+        ocs:C35370,
+        ocs:C4433,
+        ocs:C7612,
+        ocs:C7857,
+        ocs:C9327 .
+

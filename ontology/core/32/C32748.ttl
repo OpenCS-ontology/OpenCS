@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32748 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C17240,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astrophysical_maser> ;
+    skos:prefLabel "Astrophysical maser" ;
+    skos:related ocs:C15462,
+        ocs:C17246,
+        ocs:C23267,
+        ocs:C23430,
+        ocs:C31421,
+        ocs:C597 .
+

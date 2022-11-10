@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2115 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_analysis> ;
+    skos:prefLabel "Spatial analysis" ;
+    skos:related ocs:C17728,
+        ocs:C23164,
+        ocs:C25,
+        ocs:C25847,
+        ocs:C26883,
+        ocs:C6116,
+        ocs:C8756,
+        ocs:C9428 .
+

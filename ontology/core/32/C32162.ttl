@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32162 a skos:Concept ;
+    skos:broader ocs:C19355 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_topology> ;
+    skos:prefLabel "Digital topology" ;
+    skos:related ocs:C29222,
+        ocs:C32381,
+        ocs:C37007,
+        ocs:C37203,
+        ocs:C44331,
+        ocs:C8499 .
+

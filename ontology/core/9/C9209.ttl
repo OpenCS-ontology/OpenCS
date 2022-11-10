@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9209 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_bookmarking> ;
+    skos:prefLabel "Enterprise bookmarking" ;
+    skos:related ocs:C11126,
+        ocs:C11205,
+        ocs:C12,
+        ocs:C17658,
+        ocs:C21072,
+        ocs:C22668,
+        ocs:C24857,
+        ocs:C26776,
+        ocs:C28117,
+        ocs:C31,
+        ocs:C35896,
+        ocs:C38799,
+        ocs:C40049,
+        ocs:C5140,
+        ocs:C5554,
+        ocs:C6,
+        ocs:C672,
+        ocs:C6749,
+        ocs:C8614 .
+

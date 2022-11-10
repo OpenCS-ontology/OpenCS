@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29291 a skos:Concept ;
+    skos:broader ocs:C3337 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fictive_motion> ;
+    skos:prefLabel "Fictive motion" ;
+    skos:related ocs:C12110,
+        ocs:C24549,
+        ocs:C28799,
+        ocs:C32426,
+        ocs:C34379,
+        ocs:C8696 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7571 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/RGBA_color_space> ;
+    skos:prefLabel "RGBA color space" ;
+    skos:related ocs:C10973,
+        ocs:C11043,
+        ocs:C1381,
+        ocs:C18385,
+        ocs:C18519,
+        ocs:C1935,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C24211,
+        ocs:C28172,
+        ocs:C35166,
+        ocs:C36633,
+        ocs:C40235,
+        ocs:C43198,
+        ocs:C45041,
+        ocs:C4584,
+        ocs:C4716,
+        ocs:C6942 .
+

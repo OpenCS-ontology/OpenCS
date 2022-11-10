@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14101 a skos:Concept ;
+    skos:broader ocs:C8010 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crossbar_latch> ;
+    skos:prefLabel "Crossbar latch" ;
+    skos:related ocs:C11252,
+        ocs:C11406,
+        ocs:C12781,
+        ocs:C23148,
+        ocs:C23257,
+        ocs:C25857,
+        ocs:C27322,
+        ocs:C39450,
+        ocs:C43052 .
+

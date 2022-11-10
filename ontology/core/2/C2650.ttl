@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2650 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/NetLogo> ;
+    skos:prefLabel "NetLogo" ;
+    skos:related ocs:C10720,
+        ocs:C10997,
+        ocs:C11128,
+        ocs:C1386,
+        ocs:C14371,
+        ocs:C15120,
+        ocs:C19,
+        ocs:C19727,
+        ocs:C21923,
+        ocs:C24909,
+        ocs:C26213,
+        ocs:C36022,
+        ocs:C4047,
+        ocs:C4180,
+        ocs:C5961,
+        ocs:C6670,
+        ocs:C7256,
+        ocs:C8751,
+        ocs:C9383 .
+

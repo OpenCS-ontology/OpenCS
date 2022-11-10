@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25064 a skos:Concept ;
+    skos:broader ocs:C5555,
+        ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Suspicious_activity_report> ;
+    skos:prefLabel "Suspicious activity report" ;
+    skos:related ocs:C15464,
+        ocs:C15597,
+        ocs:C24659,
+        ocs:C25013 .
+

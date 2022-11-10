@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37223 a skos:Concept ;
+    skos:broader ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Damped_Lyman-alpha_system> ;
+    skos:prefLabel "Damped Lyman-alpha system" ;
+    skos:related ocs:C17246,
+        ocs:C23267,
+        ocs:C31897,
+        ocs:C40683,
+        ocs:C45185 .
+

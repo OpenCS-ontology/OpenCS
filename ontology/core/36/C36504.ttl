@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36504 a skos:Concept ;
+    skos:broader ocs:C24651 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhombille_tiling> ;
+    skos:prefLabel "Rhombille tiling" ;
+    skos:related ocs:C30429,
+        ocs:C39625,
+        ocs:C9372 .
+

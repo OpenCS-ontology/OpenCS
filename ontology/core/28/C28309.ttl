@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28309 a skos:Concept ;
+    skos:broader ocs:C9657 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Maximum_Speed_Law> ;
+    skos:prefLabel "Speed limit laws" ;
+    skos:related ocs:C9657 .
+

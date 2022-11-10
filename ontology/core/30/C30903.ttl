@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30903 a skos:Concept ;
+    skos:broader ocs:C28744 ;
+    skos:prefLabel "Modulator/Demodulator" ;
+    skos:related ocs:C10510,
+        ocs:C10975,
+        ocs:C11443,
+        ocs:C19230,
+        ocs:C2,
+        ocs:C22451,
+        ocs:C28069,
+        ocs:C490 .
+

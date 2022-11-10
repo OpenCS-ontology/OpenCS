@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10231 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_Stealth> ;
+    skos:prefLabel "TCP Stealth" ;
+    skos:related ocs:C10008,
+        ocs:C11550,
+        ocs:C14952,
+        ocs:C16980,
+        ocs:C18502,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C2822,
+        ocs:C28592,
+        ocs:C31065,
+        ocs:C34259,
+        ocs:C36782,
+        ocs:C38032,
+        ocs:C40409,
+        ocs:C40718,
+        ocs:C41119,
+        ocs:C44603,
+        ocs:C6473,
+        ocs:C8577 .
+

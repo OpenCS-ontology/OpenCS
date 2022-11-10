@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11237 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/480p> ;
+    skos:prefLabel "480p" ;
+    skos:related ocs:C12544,
+        ocs:C12782,
+        ocs:C13586,
+        ocs:C15700,
+        ocs:C2000,
+        ocs:C21207,
+        ocs:C22257,
+        ocs:C2722,
+        ocs:C27572,
+        ocs:C38826,
+        ocs:C38956,
+        ocs:C39777,
+        ocs:C40089,
+        ocs:C40199,
+        ocs:C4448,
+        ocs:C8021 .
+

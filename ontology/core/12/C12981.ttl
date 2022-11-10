@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12981 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ultra_Port_Architecture> ;
+    skos:prefLabel "Ultra Port Architecture" ;
+    skos:related ocs:C10320,
+        ocs:C10409,
+        ocs:C11258,
+        ocs:C14376,
+        ocs:C14627,
+        ocs:C23239,
+        ocs:C25107,
+        ocs:C258,
+        ocs:C28172,
+        ocs:C29459,
+        ocs:C3935,
+        ocs:C7534 .
+

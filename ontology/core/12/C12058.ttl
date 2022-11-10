@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12058 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CIPURSE> ;
+    skos:prefLabel "CIPURSE" ;
+    skos:related ocs:C12698,
+        ocs:C20243,
+        ocs:C22776,
+        ocs:C23567,
+        ocs:C25340,
+        ocs:C25566,
+        ocs:C28781,
+        ocs:C32484,
+        ocs:C3410,
+        ocs:C35,
+        ocs:C35803,
+        ocs:C38479,
+        ocs:C40169,
+        ocs:C7770,
+        ocs:C8437 .
+

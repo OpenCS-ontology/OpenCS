@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36245 a skos:Concept ;
+    skos:broader ocs:C22326,
+        ocs:C26575 ;
+    skos:closeMatch <http://dbpedia.org/resource/In-band_on-channel> ;
+    skos:prefLabel "In-band on-channel" ;
+    skos:related ocs:C10409,
+        ocs:C12942,
+        ocs:C14053,
+        ocs:C15451,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C19903,
+        ocs:C21604,
+        ocs:C22326,
+        ocs:C23488,
+        ocs:C26768,
+        ocs:C29007,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C36707,
+        ocs:C7159 .
+

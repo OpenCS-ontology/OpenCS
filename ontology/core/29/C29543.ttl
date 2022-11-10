@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29543 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hodoscope> ;
+    skos:prefLabel "Hodoscope" ;
+    skos:related ocs:C16154,
+        ocs:C19382,
+        ocs:C19524,
+        ocs:C20168,
+        ocs:C23268,
+        ocs:C25787,
+        ocs:C27193,
+        ocs:C32169,
+        ocs:C32279,
+        ocs:C34797,
+        ocs:C44332 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43410 a skos:Concept ;
+    skos:broader ocs:C31654,
+        ocs:C33459,
+        ocs:C34895 ;
+    skos:closeMatch <http://dbpedia.org/resource/CWC_mode> ;
+    skos:prefLabel "CWC mode" ;
+    skos:related ocs:C17091,
+        ocs:C18803,
+        ocs:C20993,
+        ocs:C22949,
+        ocs:C25340,
+        ocs:C25500,
+        ocs:C26691,
+        ocs:C29363,
+        ocs:C33459,
+        ocs:C34895,
+        ocs:C35300,
+        ocs:C35389,
+        ocs:C36161,
+        ocs:C37314,
+        ocs:C38401,
+        ocs:C4218,
+        ocs:C43275,
+        ocs:C44709,
+        ocs:C45551,
+        ocs:C4751 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9874 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predictive_analytics> ;
+    skos:prefLabel "Predictive analytics" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C12238,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C37135,
+        ocs:C3736,
+        ocs:C6116,
+        ocs:C8,
+        ocs:C8695,
+        ocs:C9022,
+        ocs:C9428,
+        ocs:C9488 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24019 a skos:Concept ;
+    skos:broader ocs:C1664,
+        ocs:C3390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Highway_Capacity_Manual> ;
+    skos:prefLabel "Highway Capacity Manual" ;
+    skos:related ocs:C1207,
+        ocs:C15861,
+        ocs:C1664,
+        ocs:C17865,
+        ocs:C20171,
+        ocs:C20874,
+        ocs:C21058,
+        ocs:C21285,
+        ocs:C25484,
+        ocs:C27658,
+        ocs:C3588,
+        ocs:C36025,
+        ocs:C38216,
+        ocs:C4273,
+        ocs:C6243 .
+

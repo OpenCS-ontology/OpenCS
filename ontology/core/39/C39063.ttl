@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39063 a skos:Concept ;
+    skos:broader ocs:C31206,
+        ocs:C36328,
+        ocs:C36867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loricarioidea> ;
+    skos:prefLabel "Loricarioidea" ;
+    skos:related ocs:C24236,
+        ocs:C30248,
+        ocs:C31206,
+        ocs:C32781,
+        ocs:C36328,
+        ocs:C36867,
+        ocs:C37403,
+        ocs:C38317,
+        ocs:C41121,
+        ocs:C42154,
+        ocs:C42290,
+        ocs:C42992,
+        ocs:C44358,
+        ocs:C45586 .
+

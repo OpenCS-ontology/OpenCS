@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33272 a skos:Concept ;
+    skos:broader ocs:C23709 ;
+    skos:closeMatch <http://dbpedia.org/resource/Root_element> ;
+    skos:prefLabel "Root element" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C17401,
+        ocs:C18361,
+        ocs:C20790,
+        ocs:C24783,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C30182,
+        ocs:C33052,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C3626,
+        ocs:C38812,
+        ocs:C39286,
+        ocs:C40360,
+        ocs:C42496,
+        ocs:C6278 .
+

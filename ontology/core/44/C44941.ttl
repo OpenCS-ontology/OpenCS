@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44941 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_wheeled_robot> ;
+    skos:prefLabel "Differential wheeled robot" ;
+    skos:related ocs:C10396,
+        ocs:C15029,
+        ocs:C17236,
+        ocs:C1965,
+        ocs:C36715,
+        ocs:C7003 .
+

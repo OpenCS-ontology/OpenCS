@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40785 a skos:Concept ;
+    skos:broader ocs:C34162,
+        ocs:C35568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hockett's_design_features> ;
+    skos:prefLabel "Hockett's design features" ;
+    skos:related ocs:C1088,
+        ocs:C12110,
+        ocs:C13210,
+        ocs:C21315,
+        ocs:C23243,
+        ocs:C30276,
+        ocs:C32426,
+        ocs:C37545,
+        ocs:C7858 .
+

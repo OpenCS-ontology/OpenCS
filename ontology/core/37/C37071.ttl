@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37071 a skos:Concept ;
+    skos:broader ocs:C15071,
+        ocs:C22629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calibrated_airspeed> ;
+    skos:prefLabel "Calibrated airspeed" ;
+    skos:related ocs:C15071,
+        ocs:C22629,
+        ocs:C24485,
+        ocs:C25753,
+        ocs:C31255,
+        ocs:C670,
+        ocs:C8888 .
+

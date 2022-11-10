@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7073 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPLINK> ;
+    skos:prefLabel "CPLINK" ;
+    skos:related ocs:C14466,
+        ocs:C16481,
+        ocs:C17126,
+        ocs:C19173,
+        ocs:C22836,
+        ocs:C25856,
+        ocs:C2941,
+        ocs:C30926,
+        ocs:C32229,
+        ocs:C34356,
+        ocs:C35,
+        ocs:C39016,
+        ocs:C41205,
+        ocs:C41935,
+        ocs:C45122,
+        ocs:C45494,
+        ocs:C5821,
+        ocs:C6414,
+        ocs:C8294,
+        ocs:C8440 .
+

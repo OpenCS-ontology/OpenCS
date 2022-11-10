@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5573 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Targeted_advertising> ;
+    skos:prefLabel "Targeted advertising" ;
+    skos:related ocs:C11116,
+        ocs:C16338,
+        ocs:C18985,
+        ocs:C26014,
+        ocs:C31,
+        ocs:C31169,
+        ocs:C32220,
+        ocs:C3305,
+        ocs:C33206,
+        ocs:C40049,
+        ocs:C4433,
+        ocs:C5746,
+        ocs:C5926,
+        ocs:C8614 .
+

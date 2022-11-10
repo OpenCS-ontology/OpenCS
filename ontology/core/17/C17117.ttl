@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17117 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human–robot_interaction> ;
+    skos:prefLabel "Human–robot interaction" ;
+    skos:related ocs:C1,
+        ocs:C10396,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C17913,
+        ocs:C18,
+        ocs:C19558,
+        ocs:C30213,
+        ocs:C30677,
+        ocs:C31062,
+        ocs:C32,
+        ocs:C43845,
+        ocs:C44350,
+        ocs:C685,
+        ocs:C7,
+        ocs:C7334,
+        ocs:C8 .
+

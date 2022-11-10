@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10550 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parking_guidance_and_information> ;
+    skos:prefLabel "Parking guidance and information" ;
+    skos:related ocs:C10340,
+        ocs:C11999,
+        ocs:C14828,
+        ocs:C15115,
+        ocs:C15676,
+        ocs:C1691,
+        ocs:C1793,
+        ocs:C18080,
+        ocs:C19038,
+        ocs:C21195,
+        ocs:C27658,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

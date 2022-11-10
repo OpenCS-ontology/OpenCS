@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40230 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Build_verification_test> ;
+    skos:prefLabel "Build verification test" ;
+    skos:related ocs:C12830,
+        ocs:C13313,
+        ocs:C19404,
+        ocs:C23437,
+        ocs:C24338,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29044,
+        ocs:C29790,
+        ocs:C38557,
+        ocs:C40291,
+        ocs:C41342,
+        ocs:C41866,
+        ocs:C41989,
+        ocs:C45228,
+        ocs:C4558,
+        ocs:C4759,
+        ocs:C6780,
+        ocs:C9877 .
+

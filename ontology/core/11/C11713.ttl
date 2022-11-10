@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11713 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/GOMER> ;
+    skos:prefLabel "GOMER" ;
+    skos:related ocs:C11099,
+        ocs:C11932,
+        ocs:C12023,
+        ocs:C2298,
+        ocs:C9113 .
+

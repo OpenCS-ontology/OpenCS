@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19808 a skos:Concept ;
+    skos:broader ocs:C6753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gillick_competence> ;
+    skos:prefLabel "Gillick competence" ;
+    skos:related ocs:C13306,
+        ocs:C23200,
+        ocs:C7255,
+        ocs:C9113 .
+

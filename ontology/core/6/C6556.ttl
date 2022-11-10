@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6556 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:prefLabel "Player Out" ;
+    skos:related ocs:C1,
+        ocs:C10445,
+        ocs:C1086,
+        ocs:C24,
+        ocs:C2978,
+        ocs:C3142,
+        ocs:C35,
+        ocs:C7,
+        ocs:C8 .
+

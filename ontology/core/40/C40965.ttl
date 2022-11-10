@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40965 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Administrative_distance> ;
+    skos:prefLabel "Administrative distance" ;
+    skos:related ocs:C10563,
+        ocs:C12596,
+        ocs:C1595,
+        ocs:C26066,
+        ocs:C35734,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C38462,
+        ocs:C38632,
+        ocs:C41398,
+        ocs:C41572,
+        ocs:C42617,
+        ocs:C42853,
+        ocs:C43513,
+        ocs:C44801,
+        ocs:C44972,
+        ocs:C45818,
+        ocs:C5334,
+        ocs:C8142,
+        ocs:C8517 .
+

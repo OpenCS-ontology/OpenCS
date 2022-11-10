@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11537 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Demand_signal_repository> ;
+    skos:prefLabel "Demand signal repository" ;
+    skos:related ocs:C10979,
+        ocs:C12274,
+        ocs:C12586,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C18405,
+        ocs:C18567,
+        ocs:C23505,
+        ocs:C25,
+        ocs:C25962,
+        ocs:C33744,
+        ocs:C34,
+        ocs:C37135,
+        ocs:C3896,
+        ocs:C9488 .
+

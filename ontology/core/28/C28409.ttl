@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28409 a skos:Concept ;
+    skos:broader ocs:C5336,
+        ocs:C7165 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenCores> ;
+    skos:prefLabel "OpenCores" ;
+    skos:related ocs:C1097,
+        ocs:C13747,
+        ocs:C17693,
+        ocs:C18114,
+        ocs:C19400,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C29969,
+        ocs:C31489,
+        ocs:C3359,
+        ocs:C37773,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C856 .
+

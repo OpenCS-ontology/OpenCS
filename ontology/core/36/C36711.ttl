@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36711 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/DeCSS> ;
+    skos:prefLabel "DeCSS" ;
+    skos:related ocs:C12257,
+        ocs:C12676,
+        ocs:C13306,
+        ocs:C16369,
+        ocs:C16983,
+        ocs:C18764,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C32165,
+        ocs:C41273,
+        ocs:C4218,
+        ocs:C43244,
+        ocs:C45369,
+        ocs:C5692,
+        ocs:C6234,
+        ocs:C7170,
+        ocs:C8614,
+        ocs:C9266 .
+

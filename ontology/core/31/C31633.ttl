@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31633 a skos:Concept ;
+    skos:broader ocs:C15416 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kinematic_diagram> ;
+    skos:prefLabel "Kinematic diagram" ;
+    skos:related ocs:C14263,
+        ocs:C15416,
+        ocs:C15528,
+        ocs:C16342,
+        ocs:C17236,
+        ocs:C19233,
+        ocs:C28400,
+        ocs:C41500,
+        ocs:C44424,
+        ocs:C5394,
+        ocs:C7003,
+        ocs:C7848 .
+

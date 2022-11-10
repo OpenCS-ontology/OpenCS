@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23436 a skos:Concept ;
+    skos:broader ocs:C848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynameter> ;
+    skos:prefLabel "Dynameter" ;
+    skos:related ocs:C11994,
+        ocs:C27342,
+        ocs:C39496,
+        ocs:C7160,
+        ocs:C848,
+        ocs:C8561,
+        ocs:C9744 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18698 a skos:Concept ;
+    skos:broader ocs:C3356,
+        ocs:C9777 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neogrammarian> ;
+    skos:prefLabel "Neogrammarian" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C14550,
+        ocs:C25166,
+        ocs:C25834,
+        ocs:C2761,
+        ocs:C3356,
+        ocs:C5628,
+        ocs:C9777 .
+

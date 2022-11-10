@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13455 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geographic_Names_Information_System> ;
+    skos:prefLabel "Geographic Names Information System" ;
+    skos:related ocs:C31653 .
+

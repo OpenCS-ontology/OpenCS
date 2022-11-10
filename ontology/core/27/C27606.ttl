@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27606 a skos:Concept ;
+    skos:broader ocs:C10803,
+        ocs:C4082 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_(computing)> ;
+    skos:prefLabel "Entropy (computing)" ;
+    skos:related ocs:C10568,
+        ocs:C10994,
+        ocs:C13783,
+        ocs:C14271,
+        ocs:C15398,
+        ocs:C16481,
+        ocs:C20800,
+        ocs:C28967,
+        ocs:C31489,
+        ocs:C35371,
+        ocs:C3893,
+        ocs:C41220,
+        ocs:C45216,
+        ocs:C45553,
+        ocs:C5072,
+        ocs:C6953,
+        ocs:C7130,
+        ocs:C9 .
+

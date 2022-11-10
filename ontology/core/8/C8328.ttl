@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8328 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stored-program_computer> ;
+    skos:prefLabel "Stored-program computer" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C10772,
+        ocs:C11186,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C39944,
+        ocs:C6072,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9381,
+        ocs:C9839 .
+

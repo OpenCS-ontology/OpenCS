@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40334 a skos:Concept ;
+    skos:broader ocs:C29730 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wave_setup> ;
+    skos:prefLabel "Wave setup" ;
+    skos:related ocs:C26887,
+        ocs:C29730,
+        ocs:C29936,
+        ocs:C30110,
+        ocs:C31159,
+        ocs:C42088 .
+

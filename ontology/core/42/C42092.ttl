@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42092 a skos:Concept ;
+    skos:broader ocs:C35629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shanwick_Oceanic_Control> ;
+    skos:prefLabel "Shanwick Oceanic Control" ;
+    skos:related ocs:C12828,
+        ocs:C15050,
+        ocs:C15796,
+        ocs:C18229,
+        ocs:C22979,
+        ocs:C25311,
+        ocs:C26034,
+        ocs:C27838,
+        ocs:C30901,
+        ocs:C33217,
+        ocs:C35629,
+        ocs:C39784,
+        ocs:C4597 .
+

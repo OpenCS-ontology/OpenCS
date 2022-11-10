@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37286 a skos:Concept ;
+    skos:broader ocs:C18880,
+        ocs:C20302,
+        ocs:C27263 ;
+    skos:prefLabel "Load shift keying" .
+

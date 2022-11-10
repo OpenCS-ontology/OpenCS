@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38419 a skos:Concept ;
+    skos:broader ocs:C30982,
+        ocs:C32555,
+        ocs:C35370 ;
+    skos:prefLabel "Wireless network security" .
+

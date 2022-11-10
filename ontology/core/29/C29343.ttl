@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29343 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/RF_Planning> ;
+    skos:prefLabel "RF Planning" ;
+    skos:related ocs:C11669,
+        ocs:C17383,
+        ocs:C18520,
+        ocs:C21204,
+        ocs:C22200,
+        ocs:C23423,
+        ocs:C24151,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C28176,
+        ocs:C31423,
+        ocs:C35931,
+        ocs:C36668,
+        ocs:C4205,
+        ocs:C45299,
+        ocs:C5369,
+        ocs:C5853 .
+

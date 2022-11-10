@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43195 a skos:Concept ;
+    skos:broader ocs:C29704,
+        ocs:C30656,
+        ocs:C32299,
+        ocs:C34752,
+        ocs:C35008,
+        ocs:C35391,
+        ocs:C36136,
+        ocs:C36161 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptoperiod> ;
+    skos:prefLabel "Cryptoperiod" ;
+    skos:related ocs:C17856,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C30656,
+        ocs:C31774,
+        ocs:C35146,
+        ocs:C37854,
+        ocs:C38359,
+        ocs:C39029,
+        ocs:C41533,
+        ocs:C41929,
+        ocs:C42286,
+        ocs:C4909 .
+

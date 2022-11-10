@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40923 a skos:Concept ;
+    skos:broader ocs:C36835 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_visualization_reference_model> ;
+    skos:prefLabel "Information visualization reference model" ;
+    skos:related ocs:C1,
+        ocs:C10088,
+        ocs:C11094,
+        ocs:C12638,
+        ocs:C13547,
+        ocs:C18,
+        ocs:C20376,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C24603,
+        ocs:C24971,
+        ocs:C27031,
+        ocs:C27130,
+        ocs:C28080,
+        ocs:C36835,
+        ocs:C37642,
+        ocs:C40415,
+        ocs:C6396,
+        ocs:C7256 .
+

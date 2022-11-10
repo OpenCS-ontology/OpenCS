@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38479 a skos:Concept ;
+    skos:broader ocs:C37067 ;
+    skos:closeMatch <http://dbpedia.org/resource/BasicCard> ;
+    skos:prefLabel "BasicCard" ;
+    skos:related ocs:C12058,
+        ocs:C14632,
+        ocs:C25340,
+        ocs:C32484,
+        ocs:C37067,
+        ocs:C38995,
+        ocs:C40169,
+        ocs:C41228,
+        ocs:C41700,
+        ocs:C4218,
+        ocs:C44122,
+        ocs:C45581,
+        ocs:C5961,
+        ocs:C6457,
+        ocs:C8437 .
+

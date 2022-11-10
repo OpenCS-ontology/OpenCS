@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36712 a skos:Concept ;
+    skos:broader ocs:C19619,
+        ocs:C27076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Research_exemption> ;
+    skos:prefLabel "Research exemption" ;
+    skos:related ocs:C14403,
+        ocs:C16398,
+        ocs:C18500,
+        ocs:C23684,
+        ocs:C24730,
+        ocs:C27519,
+        ocs:C30696,
+        ocs:C31185,
+        ocs:C31789 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31468 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C26409 ;
+    skos:closeMatch <http://dbpedia.org/resource/RSA_problem> ;
+    skos:prefLabel "RSA problem" ;
+    skos:related ocs:C16125,
+        ocs:C21324,
+        ocs:C28967,
+        ocs:C36434,
+        ocs:C37205,
+        ocs:C37228,
+        ocs:C37588,
+        ocs:C38359,
+        ocs:C39034,
+        ocs:C39645,
+        ocs:C40045,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C42963,
+        ocs:C43394,
+        ocs:C44466,
+        ocs:C9499 .
+

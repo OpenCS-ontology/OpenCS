@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11786 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Traffic offense" ;
+    skos:related ocs:C12150,
+        ocs:C2543,
+        ocs:C2660,
+        ocs:C3,
+        ocs:C33,
+        ocs:C3822,
+        ocs:C4694,
+        ocs:C4930,
+        ocs:C6069,
+        ocs:C9657 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14237 a skos:Concept ;
+    skos:broader ocs:C13750,
+        ocs:C8561 ;
+    skos:closeMatch <http://dbpedia.org/resource/Laser_guide_star> ;
+    skos:prefLabel "Laser guide star" ;
+    skos:related ocs:C18230,
+        ocs:C23549,
+        ocs:C23961,
+        ocs:C24698,
+        ocs:C25936,
+        ocs:C28736,
+        ocs:C32423,
+        ocs:C38572,
+        ocs:C597,
+        ocs:C8561 .
+

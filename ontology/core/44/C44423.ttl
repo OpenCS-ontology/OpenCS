@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44423 a skos:Concept ;
+    skos:broader ocs:C30336,
+        ocs:C30409,
+        ocs:C36540,
+        ocs:C37174,
+        ocs:C37370,
+        ocs:C37443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_Driven_Development> ;
+    skos:prefLabel "Process Driven Development" ;
+    skos:related ocs:C13616,
+        ocs:C18576,
+        ocs:C2214,
+        ocs:C24477,
+        ocs:C25138,
+        ocs:C28526,
+        ocs:C34078,
+        ocs:C35144,
+        ocs:C36874,
+        ocs:C37370,
+        ocs:C37831,
+        ocs:C38385,
+        ocs:C41536,
+        ocs:C43126,
+        ocs:C43994,
+        ocs:C44699,
+        ocs:C44988,
+        ocs:C45378,
+        ocs:C45397,
+        ocs:C5869 .
+

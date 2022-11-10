@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20120 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/DNA_computing> ;
+    skos:prefLabel "DNA computing" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11252,
+        ocs:C122,
+        ocs:C20846,
+        ocs:C27,
+        ocs:C35953,
+        ocs:C3678,
+        ocs:C40871,
+        ocs:C597 .
+

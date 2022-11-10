@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45774 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C36497 ;
+    skos:prefLabel "Multicast algorithms" .
+

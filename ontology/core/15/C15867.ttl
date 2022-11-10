@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15867 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/River_morphology> ;
+    skos:prefLabel "River morphology" ;
+    skos:related ocs:C14117,
+        ocs:C21944,
+        ocs:C22631,
+        ocs:C27958,
+        ocs:C32591 .
+

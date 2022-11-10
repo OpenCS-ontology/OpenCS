@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35670 a skos:Concept ;
+    skos:broader ocs:C17717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Road_coloring_theorem> ;
+    skos:prefLabel "Road coloring theorem" ;
+    skos:related ocs:C17700,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C31629,
+        ocs:C36200,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C40165,
+        ocs:C40314,
+        ocs:C40560,
+        ocs:C40622,
+        ocs:C41767,
+        ocs:C42470,
+        ocs:C43606,
+        ocs:C43652,
+        ocs:C45005 .
+

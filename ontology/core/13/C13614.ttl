@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13614 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/UniPro> ;
+    skos:prefLabel "UniPro" ;
+    skos:related ocs:C13386,
+        ocs:C14118,
+        ocs:C1663,
+        ocs:C17505,
+        ocs:C18180,
+        ocs:C21612,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C41840,
+        ocs:C6861,
+        ocs:C796,
+        ocs:C8185,
+        ocs:C9105,
+        ocs:C9910 .
+

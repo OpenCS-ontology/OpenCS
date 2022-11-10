@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17544 a skos:Concept ;
+    skos:broader ocs:C7114 ;
+    skos:prefLabel "Falco amurensis" ;
+    skos:related ocs:C1,
+        ocs:C20677,
+        ocs:C34647 .
+

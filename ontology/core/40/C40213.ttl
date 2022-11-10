@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40213 a skos:Concept ;
+    skos:broader ocs:C35838 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_vetting> ;
+    skos:prefLabel "Online vetting" ;
+    skos:related ocs:C14105,
+        ocs:C1650,
+        ocs:C17113,
+        ocs:C17567,
+        ocs:C22956,
+        ocs:C23393,
+        ocs:C23866,
+        ocs:C25173,
+        ocs:C269,
+        ocs:C27531,
+        ocs:C28988,
+        ocs:C394,
+        ocs:C4438,
+        ocs:C811,
+        ocs:C8390,
+        ocs:C8614 .
+

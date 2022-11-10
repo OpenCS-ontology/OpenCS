@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11287 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Church–Kleene_ordinal> ;
+    skos:prefLabel "Church–Kleene ordinal" ;
+    skos:related ocs:C13708,
+        ocs:C2362,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32276,
+        ocs:C36575,
+        ocs:C38518,
+        ocs:C38955,
+        ocs:C41998,
+        ocs:C5251,
+        ocs:C5885,
+        ocs:C9885 .
+

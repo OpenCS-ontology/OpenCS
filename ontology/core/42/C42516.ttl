@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42516 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31890,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/V-Model_(software_development)> ;
+    skos:prefLabel "V-Model (software development)" ;
+    skos:related ocs:C14329,
+        ocs:C2057,
+        ocs:C21068,
+        ocs:C2214,
+        ocs:C23437,
+        ocs:C24722,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C3175,
+        ocs:C31890,
+        ocs:C37174,
+        ocs:C37447,
+        ocs:C41038,
+        ocs:C44802,
+        ocs:C44988,
+        ocs:C45554,
+        ocs:C4558,
+        ocs:C6595,
+        ocs:C666 .
+

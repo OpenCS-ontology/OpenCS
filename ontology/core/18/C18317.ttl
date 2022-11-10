@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18317 a skos:Concept ;
+    skos:broader ocs:C1040,
+        ocs:C11529,
+        ocs:C12999,
+        ocs:C13006 ;
+    skos:prefLabel "Speech summarization" .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39976 a skos:Concept ;
+    skos:broader ocs:C29601,
+        ocs:C30432,
+        ocs:C34141,
+        ocs:C34505 ;
+    skos:closeMatch <http://dbpedia.org/resource/ADSL_loop_extender> ;
+    skos:prefLabel "ADSL loop extender" ;
+    skos:related ocs:C10638,
+        ocs:C16400,
+        ocs:C19350,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C2917,
+        ocs:C29601,
+        ocs:C2988,
+        ocs:C30432,
+        ocs:C34141,
+        ocs:C34505,
+        ocs:C40684,
+        ocs:C45182,
+        ocs:C6418,
+        ocs:C7612,
+        ocs:C8668,
+        ocs:C9327 .
+

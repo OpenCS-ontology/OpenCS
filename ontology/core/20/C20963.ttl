@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20963 a skos:Concept ;
+    skos:broader ocs:C11637 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_sense> ;
+    skos:prefLabel "Word sense" ;
+    skos:related ocs:C10102,
+        ocs:C1034,
+        ocs:C1451,
+        ocs:C32,
+        ocs:C6018,
+        ocs:C6308,
+        ocs:C7558,
+        ocs:C9106 .
+

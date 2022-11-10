@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44331 a skos:Concept ;
+    skos:broader ocs:C31148,
+        ocs:C32922 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triangulation_(topology)> ;
+    skos:prefLabel "Triangulation (topology)" .
+

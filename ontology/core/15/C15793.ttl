@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15793 a skos:Concept ;
+    skos:broader ocs:C2192 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vine_training> ;
+    skos:prefLabel "Vine training" ;
+    skos:related ocs:C2192 .
+

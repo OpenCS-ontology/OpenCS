@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6918 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_inference> ;
+    skos:prefLabel "Type inference" ;
+    skos:related ocs:C10284,
+        ocs:C10384,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11816,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C2195,
+        ocs:C27380,
+        ocs:C28944,
+        ocs:C38070,
+        ocs:C4321,
+        ocs:C5517,
+        ocs:C6255,
+        ocs:C6941 .
+

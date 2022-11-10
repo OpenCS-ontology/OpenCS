@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45544 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C32978,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_technical_review> ;
+    skos:prefLabel "Software technical review" ;
+    skos:related ocs:C12257,
+        ocs:C13616,
+        ocs:C2214,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C30036,
+        ocs:C31890,
+        ocs:C3395,
+        ocs:C38023,
+        ocs:C39522,
+        ocs:C39915,
+        ocs:C40396,
+        ocs:C40979,
+        ocs:C41111,
+        ocs:C44964,
+        ocs:C45212,
+        ocs:C666,
+        ocs:C8183,
+        ocs:C8895 .
+

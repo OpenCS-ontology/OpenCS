@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43495 a skos:Concept ;
+    skos:broader ocs:C30653 ;
+    skos:closeMatch <http://dbpedia.org/resource/Face_hallucination> ;
+    skos:prefLabel "Face hallucination" ;
+    skos:related ocs:C11598,
+        ocs:C16355,
+        ocs:C16378,
+        ocs:C16780,
+        ocs:C20383,
+        ocs:C21,
+        ocs:C23246,
+        ocs:C248,
+        ocs:C27695,
+        ocs:C30653,
+        ocs:C30864,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C43013,
+        ocs:C45070,
+        ocs:C45285,
+        ocs:C6912,
+        ocs:C9489 .
+

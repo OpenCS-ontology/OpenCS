@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4502 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rate_limiting> ;
+    skos:prefLabel "Rate limiting" ;
+    skos:related ocs:C12642,
+        ocs:C16851,
+        ocs:C17625,
+        ocs:C18797,
+        ocs:C19479,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24870,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C34271,
+        ocs:C34789,
+        ocs:C37577,
+        ocs:C38818,
+        ocs:C40303,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C8614,
+        ocs:C9267 .
+

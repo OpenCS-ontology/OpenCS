@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6458 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object-capability_model> ;
+    skos:prefLabel "Object-capability model" ;
+    skos:related ocs:C10720,
+        ocs:C14271,
+        ocs:C16295,
+        ocs:C20443,
+        ocs:C21232,
+        ocs:C21951,
+        ocs:C22095,
+        ocs:C22970,
+        ocs:C24453,
+        ocs:C25382,
+        ocs:C26097,
+        ocs:C2941,
+        ocs:C30365,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C40337,
+        ocs:C41159,
+        ocs:C45563 .
+

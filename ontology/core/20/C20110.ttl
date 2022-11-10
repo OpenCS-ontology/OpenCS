@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20110 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compact_star> ;
+    skos:prefLabel "Compact star" ;
+    skos:related ocs:C18085,
+        ocs:C22542,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C35073,
+        ocs:C597 .
+

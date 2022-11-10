@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6543 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Packaging_Conventions> ;
+    skos:prefLabel "Open Packaging Conventions" ;
+    skos:related ocs:C11293,
+        ocs:C11531,
+        ocs:C11927,
+        ocs:C18361,
+        ocs:C22144,
+        ocs:C22568,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C2981,
+        ocs:C30772,
+        ocs:C3176,
+        ocs:C32481,
+        ocs:C35992,
+        ocs:C3679,
+        ocs:C41442,
+        ocs:C44193,
+        ocs:C5514,
+        ocs:C6605,
+        ocs:C9033,
+        ocs:C9269 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32015 a skos:Concept ;
+    skos:broader ocs:C23462 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telecom_Application_Map> ;
+    skos:prefLabel "Telecom Application Map" ;
+    skos:related ocs:C10904,
+        ocs:C23462,
+        ocs:C2656,
+        ocs:C3,
+        ocs:C34533,
+        ocs:C3468,
+        ocs:C8896 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9894 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real-time_web> ;
+    skos:prefLabel "Real-time web" ;
+    skos:related ocs:C14159,
+        ocs:C17235,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C25752,
+        ocs:C26337,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C33,
+        ocs:C3364,
+        ocs:C36209,
+        ocs:C39074,
+        ocs:C40049,
+        ocs:C40510,
+        ocs:C5203 .
+

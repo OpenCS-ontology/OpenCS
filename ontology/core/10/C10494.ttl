@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10494 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Swizzling_(computer_graphics)> ;
+    skos:prefLabel "Swizzling" ;
+    skos:related ocs:C10773,
+        ocs:C1381,
+        ocs:C14895,
+        ocs:C15836,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C22,
+        ocs:C22563,
+        ocs:C32716,
+        ocs:C32898,
+        ocs:C35190,
+        ocs:C37944,
+        ocs:C41902,
+        ocs:C41932,
+        ocs:C5300,
+        ocs:C5523 .
+

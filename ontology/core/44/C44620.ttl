@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44620 a skos:Concept ;
+    skos:broader ocs:C30632,
+        ocs:C32085,
+        ocs:C34986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extragalactic_planet> ;
+    skos:prefLabel "Extragalactic planet" ;
+    skos:related ocs:C14270,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C26524,
+        ocs:C30632,
+        ocs:C34986,
+        ocs:C36203,
+        ocs:C37041,
+        ocs:C38054,
+        ocs:C40408,
+        ocs:C597 .
+

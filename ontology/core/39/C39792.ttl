@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39792 a skos:Concept ;
+    skos:broader ocs:C30804 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cranoglanis> ;
+    skos:prefLabel "Cranoglanis" ;
+    skos:related ocs:C24236,
+        ocs:C30804,
+        ocs:C32611,
+        ocs:C32781,
+        ocs:C33059,
+        ocs:C36214,
+        ocs:C39463,
+        ocs:C39959,
+        ocs:C43662,
+        ocs:C43973 .
+

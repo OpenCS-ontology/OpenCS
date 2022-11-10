@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7559 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_system> ;
+    skos:prefLabel "Enterprise system" ;
+    skos:related ocs:C10764,
+        ocs:C11644,
+        ocs:C12255,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13152,
+        ocs:C13744,
+        ocs:C1496,
+        ocs:C197,
+        ocs:C21399,
+        ocs:C2304,
+        ocs:C24143,
+        ocs:C25464,
+        ocs:C2979,
+        ocs:C29870,
+        ocs:C3896,
+        ocs:C4768,
+        ocs:C6,
+        ocs:C8903 .
+

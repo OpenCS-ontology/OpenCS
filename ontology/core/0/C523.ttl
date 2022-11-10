@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C523 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deblocking_filter> ;
+    skos:prefLabel "Deblocking filter" ;
+    skos:related ocs:C11323,
+        ocs:C12046,
+        ocs:C16860,
+        ocs:C1904,
+        ocs:C19334,
+        ocs:C23318,
+        ocs:C23673,
+        ocs:C24009,
+        ocs:C29048,
+        ocs:C35808,
+        ocs:C39584,
+        ocs:C40353,
+        ocs:C45687 .
+

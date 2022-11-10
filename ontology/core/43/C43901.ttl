@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43901 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object-modeling_technique> ;
+    skos:prefLabel "Object-modeling technique" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C16758,
+        ocs:C19809,
+        ocs:C2214,
+        ocs:C24477,
+        ocs:C27386,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29840,
+        ocs:C30882,
+        ocs:C31894,
+        ocs:C34078,
+        ocs:C35144,
+        ocs:C37174,
+        ocs:C42767,
+        ocs:C43994,
+        ocs:C44031,
+        ocs:C44278,
+        ocs:C7731 .
+

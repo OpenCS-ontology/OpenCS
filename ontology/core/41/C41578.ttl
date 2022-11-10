@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41578 a skos:Concept ;
+    skos:broader ocs:C30643,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heuristic_routing> ;
+    skos:prefLabel "Heuristic routing" ;
+    skos:related ocs:C10563,
+        ocs:C12271,
+        ocs:C13626,
+        ocs:C18302,
+        ocs:C19730,
+        ocs:C20540,
+        ocs:C26,
+        ocs:C34938,
+        ocs:C38402,
+        ocs:C38632,
+        ocs:C39742,
+        ocs:C41572,
+        ocs:C41943,
+        ocs:C42853,
+        ocs:C42950,
+        ocs:C44972,
+        ocs:C4966,
+        ocs:C5210,
+        ocs:C6972 .
+

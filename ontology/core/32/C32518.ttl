@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32518 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C16690,
+        ocs:C22099,
+        ocs:C28501 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_encryption> ;
+    skos:prefLabel "Deterministic encryption" ;
+    skos:related ocs:C16125,
+        ocs:C17091,
+        ocs:C20993,
+        ocs:C22099,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C29533,
+        ocs:C32288,
+        ocs:C34295,
+        ocs:C35391,
+        ocs:C35544,
+        ocs:C38647,
+        ocs:C39645,
+        ocs:C40300,
+        ocs:C41495,
+        ocs:C41706,
+        ocs:C4218,
+        ocs:C44466,
+        ocs:C4751,
+        ocs:C8947 .
+

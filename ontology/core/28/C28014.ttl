@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28014 a skos:Concept ;
+    skos:broader ocs:C8385,
+        ocs:C9834 ;
+    skos:closeMatch <http://dbpedia.org/resource/Categorical_proposition> ;
+    skos:prefLabel "Categorical proposition" ;
+    skos:related ocs:C10825,
+        ocs:C1092,
+        ocs:C11088,
+        ocs:C11635,
+        ocs:C126,
+        ocs:C16440,
+        ocs:C16732,
+        ocs:C2418,
+        ocs:C26482,
+        ocs:C27458,
+        ocs:C7343,
+        ocs:C8077,
+        ocs:C9834 .
+

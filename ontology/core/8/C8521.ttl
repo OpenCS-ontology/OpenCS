@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8521 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leading_zero> ;
+    skos:prefLabel "Leading zero" ;
+    skos:related ocs:C12315,
+        ocs:C16377,
+        ocs:C2241,
+        ocs:C25038,
+        ocs:C25915,
+        ocs:C27879,
+        ocs:C3786,
+        ocs:C4048,
+        ocs:C6817,
+        ocs:C9162 .
+

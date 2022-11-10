@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8536 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kill_chain> ;
+    skos:prefLabel "Kill chain" ;
+    skos:related ocs:C12378,
+        ocs:C12878,
+        ocs:C13368,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C20295,
+        ocs:C28530,
+        ocs:C29377,
+        ocs:C35,
+        ocs:C38304,
+        ocs:C39626,
+        ocs:C42181,
+        ocs:C42306,
+        ocs:C44194,
+        ocs:C45654,
+        ocs:C5777,
+        ocs:C8299 .
+

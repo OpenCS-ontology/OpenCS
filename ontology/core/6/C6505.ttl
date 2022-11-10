@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6505 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chinese_characters> ;
+    skos:prefLabel "Chinese characters" ;
+    skos:related ocs:C10187,
+        ocs:C11398,
+        ocs:C25538,
+        ocs:C25565,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C7310 .
+

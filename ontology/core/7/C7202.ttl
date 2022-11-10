@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7202 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_exception_handling> ;
+    skos:prefLabel "Automated exception handling" ;
+    skos:related ocs:C10219,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C11877,
+        ocs:C11991,
+        ocs:C18578,
+        ocs:C21359,
+        ocs:C21942,
+        ocs:C23580,
+        ocs:C24646,
+        ocs:C24970,
+        ocs:C25185,
+        ocs:C27898,
+        ocs:C3071,
+        ocs:C41064,
+        ocs:C44093,
+        ocs:C5308,
+        ocs:C6887,
+        ocs:C8783 .
+

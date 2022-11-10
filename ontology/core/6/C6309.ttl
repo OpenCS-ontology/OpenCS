@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6309 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/External_Data_Representation> ;
+    skos:prefLabel "External Data Representation" ;
+    skos:related ocs:C11152,
+        ocs:C11550,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C21496,
+        ocs:C22597,
+        ocs:C24189,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C45269,
+        ocs:C686,
+        ocs:C7203,
+        ocs:C8614 .
+

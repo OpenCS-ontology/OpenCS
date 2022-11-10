@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11318 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oversampled_binary_image_sensor> ;
+    skos:prefLabel "Oversampled binary image sensor" ;
+    skos:related ocs:C10318,
+        ocs:C11747,
+        ocs:C12580,
+        ocs:C22096,
+        ocs:C25755,
+        ocs:C27649,
+        ocs:C38640,
+        ocs:C43094,
+        ocs:C6257,
+        ocs:C7789 .
+

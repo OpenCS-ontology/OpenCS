@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11869 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Road_traffic_control> ;
+    skos:prefLabel "Road traffic control" ;
+    skos:related ocs:C17865,
+        ocs:C19038,
+        ocs:C21058,
+        ocs:C21412,
+        ocs:C28361,
+        ocs:C31393,
+        ocs:C32722,
+        ocs:C3390,
+        ocs:C39139,
+        ocs:C45111,
+        ocs:C4694,
+        ocs:C6243,
+        ocs:C9657 .
+

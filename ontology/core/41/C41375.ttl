@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41375 a skos:Concept ;
+    skos:broader ocs:C37598 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting> ;
+    skos:prefLabel "Protocol for Metadata Harvesting" ;
+    skos:related ocs:C11462,
+        ocs:C11595,
+        ocs:C11927,
+        ocs:C15008,
+        ocs:C16775,
+        ocs:C23088,
+        ocs:C29129,
+        ocs:C31929,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C4335,
+        ocs:C4500,
+        ocs:C5312,
+        ocs:C6790,
+        ocs:C9096 .
+

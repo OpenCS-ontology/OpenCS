@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3122 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Method_of_steepest_descent> ;
+    skos:prefLabel "Method of steepest descent" ;
+    skos:related ocs:C11285,
+        ocs:C14414,
+        ocs:C16219,
+        ocs:C37585 .
+

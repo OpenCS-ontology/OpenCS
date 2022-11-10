@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23058 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C3168,
+        ocs:C8791 ;
+    skos:closeMatch <http://dbpedia.org/resource/SCXML> ;
+    skos:prefLabel "SCXML" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C13007,
+        ocs:C14590,
+        ocs:C14777,
+        ocs:C28801,
+        ocs:C30182,
+        ocs:C3168,
+        ocs:C33355,
+        ocs:C33709,
+        ocs:C36123,
+        ocs:C37696,
+        ocs:C37852,
+        ocs:C39183,
+        ocs:C41912,
+        ocs:C41941,
+        ocs:C43834,
+        ocs:C9436 .
+

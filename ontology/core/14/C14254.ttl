@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14254 a skos:Concept ;
+    skos:broader ocs:C11088,
+        ocs:C1722,
+        ocs:C852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analytic_reasoning> ;
+    skos:prefLabel "Analytic reasoning" ;
+    skos:related ocs:C11088,
+        ocs:C126,
+        ocs:C27896,
+        ocs:C44811,
+        ocs:C5817,
+        ocs:C8827 .
+

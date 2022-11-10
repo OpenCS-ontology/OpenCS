@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31946 a skos:Concept ;
+    skos:broader ocs:C14241,
+        ocs:C15666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_traffic_advisory_frequency> ;
+    skos:prefLabel "Common traffic advisory frequency" ;
+    skos:related ocs:C11445,
+        ocs:C12648,
+        ocs:C16010,
+        ocs:C20572,
+        ocs:C22979,
+        ocs:C23477,
+        ocs:C25871,
+        ocs:C28462,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C8764 .
+

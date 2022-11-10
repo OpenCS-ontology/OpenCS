@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18863 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fiber_pull-out> ;
+    skos:prefLabel "Fiber pull-out" ;
+    skos:related ocs:C22967,
+        ocs:C23870,
+        ocs:C24699,
+        ocs:C27183,
+        ocs:C29965 .
+

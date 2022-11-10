@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31927 a skos:Concept ;
+    skos:broader ocs:C27491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strongly_compact_cardinal> ;
+    skos:prefLabel "Strongly compact cardinal" ;
+    skos:related ocs:C15010,
+        ocs:C24167,
+        ocs:C27491,
+        ocs:C30417,
+        ocs:C31588,
+        ocs:C32492,
+        ocs:C36021,
+        ocs:C37584,
+        ocs:C5251 .
+

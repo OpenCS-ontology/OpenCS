@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24887 a skos:Concept ;
+    skos:broader ocs:C6204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rank_factorization> ;
+    skos:prefLabel "Rank factorization" ;
+    skos:related ocs:C10534,
+        ocs:C26880,
+        ocs:C27703,
+        ocs:C30770,
+        ocs:C41634 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7222 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MPACT_2> ;
+    skos:prefLabel "MPACT 2" ;
+    skos:related ocs:C10320,
+        ocs:C11326,
+        ocs:C1904,
+        ocs:C19556,
+        ocs:C20961,
+        ocs:C24015,
+        ocs:C25853,
+        ocs:C38463,
+        ocs:C40306,
+        ocs:C43505,
+        ocs:C8959,
+        ocs:C9990 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42564 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:prefLabel "Hypostomus sp." ;
+    skos:related ocs:C24236,
+        ocs:C39857,
+        ocs:C41713 .
+

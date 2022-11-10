@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42818 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Birthday_attack> ;
+    skos:prefLabel "Birthday attack" ;
+    skos:related ocs:C12109,
+        ocs:C14164,
+        ocs:C15591,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C21625,
+        ocs:C23875,
+        ocs:C29363,
+        ocs:C30340,
+        ocs:C32054,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38318,
+        ocs:C4026,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C43750,
+        ocs:C5930 .
+

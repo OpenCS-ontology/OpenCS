@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14130 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glottalic_theory> ;
+    skos:prefLabel "Glottalic theory" ;
+    skos:related ocs:C14854,
+        ocs:C15856,
+        ocs:C18819,
+        ocs:C19817,
+        ocs:C25166,
+        ocs:C25676,
+        ocs:C34296,
+        ocs:C36131 .
+

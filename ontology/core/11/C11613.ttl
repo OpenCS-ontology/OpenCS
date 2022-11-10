@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11613 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_analyzer> ;
+    skos:prefLabel "Logic analyzer" ;
+    skos:related ocs:C11,
+        ocs:C13386,
+        ocs:C22530,
+        ocs:C24204,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C3173,
+        ocs:C37895,
+        ocs:C5336,
+        ocs:C6223 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9990 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensor_hub> ;
+    skos:prefLabel "Sensor hub" ;
+    skos:related ocs:C10320,
+        ocs:C11814,
+        ocs:C12690,
+        ocs:C1904,
+        ocs:C19556,
+        ocs:C26328,
+        ocs:C29530,
+        ocs:C40306,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C7222,
+        ocs:C8474 .
+

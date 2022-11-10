@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28644 a skos:Concept ;
+    skos:broader ocs:C1299 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clinical_linguistics> ;
+    skos:prefLabel "Clinical linguistics" ;
+    skos:related ocs:C1034,
+        ocs:C12110,
+        ocs:C12696,
+        ocs:C1299,
+        ocs:C13210,
+        ocs:C15063,
+        ocs:C24640,
+        ocs:C26217,
+        ocs:C27886,
+        ocs:C30531,
+        ocs:C308,
+        ocs:C31637 .
+

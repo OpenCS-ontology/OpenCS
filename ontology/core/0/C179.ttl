@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C179 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truchet_tiles> ;
+    skos:prefLabel "Truchet tiles" ;
+    skos:related ocs:C17869,
+        ocs:C24971,
+        ocs:C26009,
+        ocs:C30429,
+        ocs:C36835,
+        ocs:C38670,
+        ocs:C43721,
+        ocs:C9372 .
+

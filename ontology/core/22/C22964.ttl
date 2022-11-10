@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22964 a skos:Concept ;
+    skos:broader ocs:C2358 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_Corpus_of_English> ;
+    skos:prefLabel "International Corpus of English" ;
+    skos:related ocs:C11712,
+        ocs:C15475,
+        ocs:C15663,
+        ocs:C18176,
+        ocs:C1948,
+        ocs:C20098,
+        ocs:C2358,
+        ocs:C23894,
+        ocs:C26469,
+        ocs:C2702,
+        ocs:C32,
+        ocs:C33532,
+        ocs:C41504,
+        ocs:C428,
+        ocs:C6194,
+        ocs:C7558,
+        ocs:C961 .
+

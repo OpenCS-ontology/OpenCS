@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6914 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sandhi> ;
+    skos:prefLabel "Sandhi" ;
+    skos:related ocs:C11932,
+        ocs:C12222,
+        ocs:C12486,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C18386,
+        ocs:C19817,
+        ocs:C2025,
+        ocs:C21948,
+        ocs:C26896,
+        ocs:C27881,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C308,
+        ocs:C6361,
+        ocs:C7501 .
+

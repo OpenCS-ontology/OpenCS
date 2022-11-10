@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17667 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incremental_compiler> ;
+    skos:prefLabel "Incremental compiler" ;
+    skos:related ocs:C10720,
+        ocs:C1142,
+        ocs:C1333,
+        ocs:C15335,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C22245,
+        ocs:C23863,
+        ocs:C23867,
+        ocs:C28073,
+        ocs:C3036,
+        ocs:C41674,
+        ocs:C4321,
+        ocs:C6531,
+        ocs:C6714,
+        ocs:C6723,
+        ocs:C6887,
+        ocs:C7066,
+        ocs:C8441,
+        ocs:C9033 .
+

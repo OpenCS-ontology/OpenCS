@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12761 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C24,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operational_system> ;
+    skos:prefLabel "Operational system" ;
+    skos:related ocs:C10496,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13372,
+        ocs:C1392,
+        ocs:C14239,
+        ocs:C20148,
+        ocs:C20446,
+        ocs:C23505,
+        ocs:C24231,
+        ocs:C25950,
+        ocs:C26014,
+        ocs:C27200,
+        ocs:C33744,
+        ocs:C35640,
+        ocs:C36510,
+        ocs:C36535,
+        ocs:C37135,
+        ocs:C3896,
+        ocs:C6 .
+

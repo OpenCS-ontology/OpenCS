@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37879 a skos:Concept ;
+    skos:broader ocs:C30059,
+        ocs:C35531,
+        ocs:C37169,
+        ocs:C37359 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sardinas–Patterson_algorithm> ;
+    skos:prefLabel "Sardinas–Patterson algorithm" ;
+    skos:related ocs:C21929 .
+

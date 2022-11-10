@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31868 a skos:Concept ;
+    skos:broader ocs:C26502,
+        ocs:C27263,
+        ocs:C27704 ;
+    skos:closeMatch <http://dbpedia.org/resource/TLLI> ;
+    skos:prefLabel "TLLI" ;
+    skos:related ocs:C1210,
+        ocs:C16315,
+        ocs:C21976,
+        ocs:C27704,
+        ocs:C31755,
+        ocs:C32231,
+        ocs:C33162,
+        ocs:C33895,
+        ocs:C34908,
+        ocs:C35200,
+        ocs:C37065,
+        ocs:C39175,
+        ocs:C40157,
+        ocs:C41910,
+        ocs:C634,
+        ocs:C6987,
+        ocs:C8872,
+        ocs:C9154,
+        ocs:C9332 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7475 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cubesort> ;
+    skos:prefLabel "Cubesort" ;
+    skos:related ocs:C2079,
+        ocs:C324,
+        ocs:C32507,
+        ocs:C33039,
+        ocs:C33859,
+        ocs:C34207,
+        ocs:C35199,
+        ocs:C36074,
+        ocs:C36120,
+        ocs:C38338,
+        ocs:C39434,
+        ocs:C40246,
+        ocs:C41255,
+        ocs:C41436,
+        ocs:C42059,
+        ocs:C42589,
+        ocs:C42816,
+        ocs:C44314,
+        ocs:C45458,
+        ocs:C45557 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36437 a skos:Concept ;
+    skos:broader ocs:C15463,
+        ocs:C17239,
+        ocs:C20249,
+        ocs:C23608,
+        ocs:C27892 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_grammar> ;
+    skos:prefLabel "Link grammar" ;
+    skos:related ocs:C1034,
+        ocs:C10498,
+        ocs:C15012,
+        ocs:C15463,
+        ocs:C16672,
+        ocs:C18082,
+        ocs:C20121,
+        ocs:C23681,
+        ocs:C24691,
+        ocs:C26896,
+        ocs:C28817,
+        ocs:C3261,
+        ocs:C34937,
+        ocs:C38182,
+        ocs:C5556,
+        ocs:C6545,
+        ocs:C8564 .
+

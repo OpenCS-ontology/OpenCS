@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37211 a skos:Concept ;
+    skos:broader ocs:C22335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modulating_retro-reflector> ;
+    skos:prefLabel "Modulating retro-reflector" ;
+    skos:related ocs:C17917,
+        ocs:C22335,
+        ocs:C3,
+        ocs:C34124,
+        ocs:C5559,
+        ocs:C8761 .
+

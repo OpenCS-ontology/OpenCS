@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23463 a skos:Concept ;
+    skos:broader ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Philosophy_of_business> ;
+    skos:prefLabel "Philosophy of business" ;
+    skos:related ocs:C2476,
+        ocs:C4558,
+        ocs:C5092,
+        ocs:C9348 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18971 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transmission_delay> ;
+    skos:prefLabel "Transmission delay" ;
+    skos:related ocs:C13786,
+        ocs:C14210,
+        ocs:C14938,
+        ocs:C15589,
+        ocs:C16243,
+        ocs:C16953,
+        ocs:C16981,
+        ocs:C19730,
+        ocs:C20330,
+        ocs:C20691,
+        ocs:C23155,
+        ocs:C23433,
+        ocs:C26,
+        ocs:C34593,
+        ocs:C38247,
+        ocs:C42093,
+        ocs:C6534,
+        ocs:C9547 .
+

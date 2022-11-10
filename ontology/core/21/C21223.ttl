@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21223 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745 ;
+    skos:prefLabel "Arrival process" .
+

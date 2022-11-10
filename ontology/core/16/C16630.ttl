@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16630 a skos:Concept ;
+    skos:broader ocs:C12222,
+        ocs:C13210,
+        ocs:C2025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secondary_articulation> ;
+    skos:prefLabel "Secondary articulation" ;
+    skos:related ocs:C11145,
+        ocs:C12222,
+        ocs:C18052,
+        ocs:C18818,
+        ocs:C2025,
+        ocs:C27881,
+        ocs:C27886,
+        ocs:C29494,
+        ocs:C31994,
+        ocs:C34054,
+        ocs:C34296,
+        ocs:C35601,
+        ocs:C6641,
+        ocs:C7425,
+        ocs:C8121 .
+

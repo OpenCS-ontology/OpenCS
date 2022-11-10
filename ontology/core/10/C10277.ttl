@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10277 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Satellite_data_unit> ;
+    skos:prefLabel "Satellite data unit" ;
+    skos:related ocs:C10919,
+        ocs:C15050,
+        ocs:C16926,
+        ocs:C18537,
+        ocs:C21418,
+        ocs:C22647,
+        ocs:C22667,
+        ocs:C24485,
+        ocs:C30951,
+        ocs:C32958,
+        ocs:C41707,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C5369,
+        ocs:C6117 .
+

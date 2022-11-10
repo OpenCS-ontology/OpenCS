@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30404 a skos:Concept ;
+    skos:broader ocs:C18138,
+        ocs:C23202,
+        ocs:C23973 ;
+    skos:closeMatch <http://dbpedia.org/resource/KcsA_potassium_channel> ;
+    skos:prefLabel "KcsA potassium channel" ;
+    skos:related ocs:C14264,
+        ocs:C18138,
+        ocs:C22527,
+        ocs:C23973,
+        ocs:C29218,
+        ocs:C32749,
+        ocs:C33852,
+        ocs:C34294,
+        ocs:C36128,
+        ocs:C37240,
+        ocs:C37784 .
+

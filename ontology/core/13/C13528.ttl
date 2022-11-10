@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13528 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/NASA_research> ;
+    skos:prefLabel "NASA research" ;
+    skos:related ocs:C20754,
+        ocs:C24017,
+        ocs:C26259,
+        ocs:C7201 .
+

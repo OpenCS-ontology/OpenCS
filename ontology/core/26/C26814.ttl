@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26814 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C6124,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbol_rate> ;
+    skos:prefLabel "Symbol rate" ;
+    skos:related ocs:C12942,
+        ocs:C16371,
+        ocs:C1727,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C20608,
+        ocs:C21929,
+        ocs:C22451,
+        ocs:C25850,
+        ocs:C29419,
+        ocs:C29471,
+        ocs:C3,
+        ocs:C35301,
+        ocs:C4099,
+        ocs:C7502,
+        ocs:C8952 .
+

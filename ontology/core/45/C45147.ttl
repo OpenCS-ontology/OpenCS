@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45147 a skos:Concept ;
+    skos:broader ocs:C29568,
+        ocs:C34898,
+        ocs:C34946 ;
+    skos:closeMatch <http://dbpedia.org/resource/SIGTRAN> ;
+    skos:prefLabel "SIGTRAN" ;
+    skos:related ocs:C11550,
+        ocs:C18213,
+        ocs:C18974,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C24323,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29359,
+        ocs:C29603,
+        ocs:C3259,
+        ocs:C36782,
+        ocs:C44603,
+        ocs:C6821,
+        ocs:C686,
+        ocs:C8515 .
+

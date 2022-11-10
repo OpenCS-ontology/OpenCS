@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2566 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTTP_message_body> ;
+    skos:prefLabel "HTTP message body" ;
+    skos:related ocs:C12055,
+        ocs:C12858,
+        ocs:C12860,
+        ocs:C14360,
+        ocs:C16338,
+        ocs:C16966,
+        ocs:C22597,
+        ocs:C23016,
+        ocs:C23503,
+        ocs:C28480,
+        ocs:C33863,
+        ocs:C34872,
+        ocs:C38118,
+        ocs:C39727,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C4663,
+        ocs:C8466,
+        ocs:C8771 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9696 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Miles_per_hour> ;
+    skos:prefLabel "Miles per hour" ;
+    skos:related ocs:C21601,
+        ocs:C9657 .
+

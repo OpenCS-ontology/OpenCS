@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1564 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise_(electronics)> ;
+    skos:prefLabel "Noise (electronics)" ;
+    skos:related ocs:C10509,
+        ocs:C11747,
+        ocs:C25042,
+        ocs:C3,
+        ocs:C3843,
+        ocs:C5505,
+        ocs:C5853,
+        ocs:C7502 .
+

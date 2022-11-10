@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38670 a skos:Concept ;
+    skos:broader ocs:C37173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniform_polyhedron> ;
+    skos:prefLabel "Uniform polyhedron" ;
+    skos:related ocs:C32168,
+        ocs:C33802,
+        ocs:C34506,
+        ocs:C35696,
+        ocs:C44451 .
+

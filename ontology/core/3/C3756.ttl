@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3756 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_technology> ;
+    skos:prefLabel "Visual technology" ;
+    skos:related ocs:C10520,
+        ocs:C11407,
+        ocs:C19575,
+        ocs:C2476,
+        ocs:C6529 .
+

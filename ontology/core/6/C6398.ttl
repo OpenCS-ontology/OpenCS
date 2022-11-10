@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6398 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trend_analysis> ;
+    skos:prefLabel "Trend analysis" ;
+    skos:related ocs:C1492,
+        ocs:C2216,
+        ocs:C22413,
+        ocs:C4768,
+        ocs:C5087,
+        ocs:C6,
+        ocs:C6116,
+        ocs:C836,
+        ocs:C9428,
+        ocs:C9874 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7233 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agent_Extensibility_Protocol> ;
+    skos:prefLabel "Agent Extensibility Protocol" ;
+    skos:related ocs:C12452,
+        ocs:C16402,
+        ocs:C17918,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C28737,
+        ocs:C29359,
+        ocs:C31146,
+        ocs:C3394,
+        ocs:C34267,
+        ocs:C34898,
+        ocs:C36896,
+        ocs:C38824,
+        ocs:C39294,
+        ocs:C3968,
+        ocs:C40698,
+        ocs:C43139,
+        ocs:C44603 .
+

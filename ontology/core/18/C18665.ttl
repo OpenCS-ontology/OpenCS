@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18665 a skos:Concept ;
+    skos:broader ocs:C7604 ;
+    skos:prefLabel "Papillary ridges" ;
+    skos:related ocs:C1,
+        ocs:C21,
+        ocs:C34,
+        ocs:C6395,
+        ocs:C7 .
+

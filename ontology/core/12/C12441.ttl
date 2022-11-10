@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12441 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lempel–Ziv–Storer–Szymanski> ;
+    skos:prefLabel "Lempel–Ziv–Storer–Szymanski" ;
+    skos:related ocs:C10780,
+        ocs:C4584,
+        ocs:C5368,
+        ocs:C6609,
+        ocs:C9269 .
+

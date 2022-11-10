@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C948 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_registration> ;
+    skos:prefLabel "Image registration" ;
+    skos:related ocs:C13142,
+        ocs:C14863,
+        ocs:C1573,
+        ocs:C19844,
+        ocs:C23060,
+        ocs:C26688,
+        ocs:C29175,
+        ocs:C31648,
+        ocs:C422,
+        ocs:C5462,
+        ocs:C7 .
+

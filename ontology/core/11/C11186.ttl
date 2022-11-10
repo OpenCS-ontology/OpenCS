@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11186 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colossus_computer> ;
+    skos:prefLabel "Colossus computer" ;
+    skos:related ocs:C10,
+        ocs:C10320,
+        ocs:C14539,
+        ocs:C1571,
+        ocs:C17856,
+        ocs:C17876,
+        ocs:C23080,
+        ocs:C2433,
+        ocs:C2534,
+        ocs:C28967,
+        ocs:C32109,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C6072,
+        ocs:C8328 .
+

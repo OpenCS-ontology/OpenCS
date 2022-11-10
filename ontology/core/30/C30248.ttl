@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30248 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aspredinidae> ;
+    skos:prefLabel "Aspredinidae" ;
+    skos:related ocs:C24236,
+        ocs:C31573,
+        ocs:C33146,
+        ocs:C35607,
+        ocs:C35705,
+        ocs:C36328,
+        ocs:C39063,
+        ocs:C41395,
+        ocs:C42154,
+        ocs:C44015 .
+

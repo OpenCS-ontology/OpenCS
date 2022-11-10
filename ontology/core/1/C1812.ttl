@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1812 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vector_space_model> ;
+    skos:prefLabel "Vector space model" ;
+    skos:related ocs:C21157,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C23070,
+        ocs:C27986,
+        ocs:C29536,
+        ocs:C312,
+        ocs:C33651,
+        ocs:C39578,
+        ocs:C39815,
+        ocs:C40049,
+        ocs:C42910,
+        ocs:C5940,
+        ocs:C8710,
+        ocs:C9287,
+        ocs:C972 .
+

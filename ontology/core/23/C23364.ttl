@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23364 a skos:Concept ;
+    skos:broader ocs:C7850 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proof_mass> ;
+    skos:prefLabel "Proof mass" ;
+    skos:related ocs:C20009,
+        ocs:C27036,
+        ocs:C7850 .
+

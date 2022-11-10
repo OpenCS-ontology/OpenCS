@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19877 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C4099,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolutional_code> ;
+    skos:prefLabel "Convolutional code" ;
+    skos:related ocs:C14926,
+        ocs:C16106,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C19174,
+        ocs:C21156,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C3,
+        ocs:C30001,
+        ocs:C32049,
+        ocs:C35138,
+        ocs:C37877,
+        ocs:C37934,
+        ocs:C40267,
+        ocs:C40903,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C43091,
+        ocs:C5816 .
+

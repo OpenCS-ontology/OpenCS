@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24770 a skos:Concept ;
+    skos:broader ocs:C2197 ;
+    skos:prefLabel "Hirudotherapy" ;
+    skos:related ocs:C24128,
+        ocs:C33225 .
+

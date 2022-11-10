@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42684 a skos:Concept ;
+    skos:broader ocs:C34609 ;
+    skos:closeMatch <http://dbpedia.org/resource/Yoke_(aeronautics)> ;
+    skos:prefLabel "Yoke (aeronautics)" ;
+    skos:related ocs:C16191,
+        ocs:C2417,
+        ocs:C25150,
+        ocs:C5030,
+        ocs:C5913 .
+

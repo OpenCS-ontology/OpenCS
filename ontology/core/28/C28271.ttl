@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28271 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C5538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_IP_address> ;
+    skos:prefLabel "Virtual IP address" ;
+    skos:related ocs:C11871,
+        ocs:C19227,
+        ocs:C2181,
+        ocs:C24348,
+        ocs:C24727,
+        ocs:C25610,
+        ocs:C27138,
+        ocs:C30211,
+        ocs:C30578,
+        ocs:C32724,
+        ocs:C36678,
+        ocs:C37893,
+        ocs:C38451,
+        ocs:C39281,
+        ocs:C41726,
+        ocs:C42235,
+        ocs:C42429,
+        ocs:C44801,
+        ocs:C44968 .
+

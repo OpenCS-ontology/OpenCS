@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16033 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Breadth-first_search> ;
+    skos:prefLabel "Breadth-first search" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C13317,
+        ocs:C14406,
+        ocs:C14693,
+        ocs:C16376,
+        ocs:C17700,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C30245,
+        ocs:C3339,
+        ocs:C37036,
+        ocs:C42401,
+        ocs:C44221,
+        ocs:C4966,
+        ocs:C6335,
+        ocs:C6697,
+        ocs:C8452,
+        ocs:C8660 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27125 a skos:Concept ;
+    skos:broader ocs:C7460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_network> ;
+    skos:prefLabel "Weighted network" ;
+    skos:related ocs:C11026,
+        ocs:C15000,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C17658,
+        ocs:C18569,
+        ocs:C18683,
+        ocs:C22417,
+        ocs:C2296,
+        ocs:C26462,
+        ocs:C28521,
+        ocs:C32056,
+        ocs:C34224,
+        ocs:C597,
+        ocs:C7460 .
+

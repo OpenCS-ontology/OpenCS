@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14248 a skos:Concept ;
+    skos:broader ocs:C12099,
+        ocs:C8791 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timed_automaton> ;
+    skos:prefLabel "Timed automaton" ;
+    skos:related ocs:C11885,
+        ocs:C12098,
+        ocs:C12427,
+        ocs:C12587,
+        ocs:C19560,
+        ocs:C2063,
+        ocs:C22626,
+        ocs:C22974,
+        ocs:C24721,
+        ocs:C25081,
+        ocs:C30272,
+        ocs:C31113,
+        ocs:C37890,
+        ocs:C39717,
+        ocs:C42922,
+        ocs:C43816,
+        ocs:C7903,
+        ocs:C8791 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31546 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C26989,
+        ocs:C29108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shortest-path_tree> ;
+    skos:prefLabel "Shortest-path tree" ;
+    skos:related ocs:C16670,
+        ocs:C16957,
+        ocs:C26989,
+        ocs:C29108,
+        ocs:C30533,
+        ocs:C33699,
+        ocs:C38361,
+        ocs:C38755,
+        ocs:C39982,
+        ocs:C42087,
+        ocs:C42244,
+        ocs:C42822,
+        ocs:C43446,
+        ocs:C43738,
+        ocs:C43782,
+        ocs:C45422,
+        ocs:C45670,
+        ocs:C4966,
+        ocs:C6335 .
+

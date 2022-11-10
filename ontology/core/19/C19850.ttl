@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19850 a skos:Concept ;
+    skos:broader ocs:C5660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exposure_assessment> ;
+    skos:prefLabel "Exposure assessment" ;
+    skos:related ocs:C21229,
+        ocs:C5660 .
+

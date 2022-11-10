@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40688 a skos:Concept ;
+    skos:broader ocs:C31165 ;
+    skos:prefLabel "Interoperability Evaluation" ;
+    skos:related ocs:C11,
+        ocs:C12,
+        ocs:C13,
+        ocs:C23885,
+        ocs:C26,
+        ocs:C28,
+        ocs:C3395,
+        ocs:C43812,
+        ocs:C6 .
+

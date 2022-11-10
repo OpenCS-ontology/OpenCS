@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24903 a skos:Concept ;
+    skos:broader ocs:C257,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_spam> ;
+    skos:prefLabel "Email spam" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C14983,
+        ocs:C17046,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C18986,
+        ocs:C20205,
+        ocs:C20937,
+        ocs:C27557,
+        ocs:C28603,
+        ocs:C28881,
+        ocs:C2941,
+        ocs:C31112,
+        ocs:C37829,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C8614 .
+

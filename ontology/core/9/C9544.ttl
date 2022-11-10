@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9544 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/ProgID> ;
+    skos:prefLabel "ProgID" ;
+    skos:related ocs:C12439,
+        ocs:C13721,
+        ocs:C23740,
+        ocs:C25795,
+        ocs:C2929,
+        ocs:C30886,
+        ocs:C3176,
+        ocs:C33249,
+        ocs:C33458,
+        ocs:C34436,
+        ocs:C35043,
+        ocs:C39394,
+        ocs:C43375,
+        ocs:C45664,
+        ocs:C567,
+        ocs:C578,
+        ocs:C9033 .
+

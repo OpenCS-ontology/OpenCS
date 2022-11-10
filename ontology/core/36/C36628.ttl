@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36628 a skos:Concept ;
+    skos:broader ocs:C16530 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_pattern> ;
+    skos:prefLabel "State pattern" ;
+    skos:related ocs:C10182,
+        ocs:C10552,
+        ocs:C10720,
+        ocs:C12455,
+        ocs:C13628,
+        ocs:C15786,
+        ocs:C27826,
+        ocs:C31483,
+        ocs:C33616,
+        ocs:C33621,
+        ocs:C36310,
+        ocs:C36729,
+        ocs:C43369,
+        ocs:C44725,
+        ocs:C9535 .
+

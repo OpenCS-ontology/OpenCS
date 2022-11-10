@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37811 a skos:Concept ;
+    skos:broader ocs:C33146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pareuchiloglanis> ;
+    skos:prefLabel "Pareuchiloglanis" ;
+    skos:related ocs:C33146,
+        ocs:C37952,
+        ocs:C38071,
+        ocs:C39729,
+        ocs:C40315,
+        ocs:C41824,
+        ocs:C42957,
+        ocs:C44889 .
+

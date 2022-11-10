@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30266 a skos:Concept ;
+    skos:broader ocs:C15126,
+        ocs:C17522,
+        ocs:C21004 ;
+    skos:prefLabel "Cardiocondyla emeryi" ;
+    skos:related ocs:C15126,
+        ocs:C17522,
+        ocs:C20240,
+        ocs:C21004,
+        ocs:C30622 .
+

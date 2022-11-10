@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44970 a skos:Concept ;
+    skos:broader ocs:C30982,
+        ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_association> ;
+    skos:prefLabel "Security association" ;
+    skos:related ocs:C15728,
+        ocs:C16125,
+        ocs:C20119,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C26,
+        ocs:C27571,
+        ocs:C30595,
+        ocs:C38359,
+        ocs:C39435,
+        ocs:C40328,
+        ocs:C40753,
+        ocs:C40789,
+        ocs:C40791,
+        ocs:C41498,
+        ocs:C42459,
+        ocs:C42909,
+        ocs:C45281,
+        ocs:C5692 .
+

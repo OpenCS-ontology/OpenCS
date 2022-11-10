@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14376 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C3935,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fireplane> ;
+    skos:prefLabel "Fireplane" ;
+    skos:related ocs:C11582,
+        ocs:C12690,
+        ocs:C12981,
+        ocs:C14627,
+        ocs:C14856,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C33886,
+        ocs:C36502,
+        ocs:C40330,
+        ocs:C4159,
+        ocs:C42243,
+        ocs:C42759,
+        ocs:C9486 .
+

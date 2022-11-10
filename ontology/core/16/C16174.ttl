@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16174 a skos:Concept ;
+    skos:broader ocs:C1134 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poisson_clumping> ;
+    skos:prefLabel "Poisson clumping" ;
+    skos:related ocs:C18165,
+        ocs:C1844,
+        ocs:C18619,
+        ocs:C22244,
+        ocs:C31158,
+        ocs:C9326 .
+

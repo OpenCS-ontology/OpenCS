@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37275 a skos:Concept ;
+    skos:broader ocs:C23077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halo_occupation_distribution> ;
+    skos:prefLabel "Halo occupation distribution" ;
+    skos:related ocs:C36635,
+        ocs:C39447,
+        ocs:C40683,
+        ocs:C45185,
+        ocs:C597 .
+

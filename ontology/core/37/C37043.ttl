@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37043 a skos:Concept ;
+    skos:broader ocs:C15115,
+        ocs:C19038 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_conflict> ;
+    skos:prefLabel "Traffic conflict" ;
+    skos:related ocs:C1664 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7117 a skos:Concept ;
+    skos:broader ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paradata> ;
+    skos:prefLabel "Paradata" ;
+    skos:related ocs:C21072 .
+

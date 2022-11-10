@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37937 a skos:Concept ;
+    skos:broader ocs:C37039 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hartley's_test> ;
+    skos:prefLabel "Hartley's test" ;
+    skos:related ocs:C11767,
+        ocs:C15258,
+        ocs:C18968,
+        ocs:C20979,
+        ocs:C30858,
+        ocs:C37039 .
+

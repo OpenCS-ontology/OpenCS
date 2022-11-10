@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24611 a skos:Concept ;
+    skos:broader ocs:C4031,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C9489 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keystroke_dynamics> ;
+    skos:prefLabel "Keystroke dynamics" ;
+    skos:related ocs:C11300,
+        ocs:C11669,
+        ocs:C13167,
+        ocs:C16,
+        ocs:C18273,
+        ocs:C20986,
+        ocs:C26343,
+        ocs:C26641,
+        ocs:C27099,
+        ocs:C4031,
+        ocs:C4513,
+        ocs:C5702,
+        ocs:C7006,
+        ocs:C7604,
+        ocs:C9374,
+        ocs:C9489,
+        ocs:C949 .
+

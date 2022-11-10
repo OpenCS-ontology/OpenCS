@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14577 a skos:Concept ;
+    skos:broader ocs:C5369,
+        ocs:C7159 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_RF_safety_monitors> ;
+    skos:prefLabel "Personal RF safety monitors" ;
+    skos:related ocs:C1219,
+        ocs:C13211,
+        ocs:C20804,
+        ocs:C33374,
+        ocs:C41805,
+        ocs:C43133,
+        ocs:C5369,
+        ocs:C8612,
+        ocs:C9113 .
+

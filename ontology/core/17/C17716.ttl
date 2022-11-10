@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17716 a skos:Concept ;
+    skos:broader ocs:C246 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classical_definition_of_probability> ;
+    skos:prefLabel "Classical definition of probability" ;
+    skos:related ocs:C22598,
+        ocs:C23670,
+        ocs:C246,
+        ocs:C32717,
+        ocs:C42482,
+        ocs:C43064,
+        ocs:C6291,
+        ocs:C6692 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32421 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nerve_guidance_conduit> ;
+    skos:prefLabel "Nerve guidance conduit" ;
+    skos:related ocs:C17377,
+        ocs:C26901 .
+

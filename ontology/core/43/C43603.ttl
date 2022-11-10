@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43603 a skos:Concept ;
+    skos:broader ocs:C32266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serre's_modularity_conjecture> ;
+    skos:prefLabel "Serre's modularity conjecture" ;
+    skos:related ocs:C23209,
+        ocs:C32266,
+        ocs:C39667,
+        ocs:C39958,
+        ocs:C41237,
+        ocs:C43343 .
+

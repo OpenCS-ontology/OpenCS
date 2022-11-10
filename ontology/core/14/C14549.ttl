@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14549 a skos:Concept ;
+    skos:broader ocs:C10554,
+        ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffusion_wavelets> ;
+    skos:prefLabel "Diffusion wavelets" ;
+    skos:related ocs:C10554,
+        ocs:C20648,
+        ocs:C26827,
+        ocs:C26880,
+        ocs:C33342,
+        ocs:C35104,
+        ocs:C38465,
+        ocs:C38730,
+        ocs:C42094,
+        ocs:C43805,
+        ocs:C43908,
+        ocs:C44267,
+        ocs:C44791,
+        ocs:C45045,
+        ocs:C45115 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3000 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Result_type> ;
+    skos:prefLabel "Result type" ;
+    skos:related ocs:C12809,
+        ocs:C16352,
+        ocs:C17183,
+        ocs:C18469,
+        ocs:C18583,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C20907,
+        ocs:C23186,
+        ocs:C24909,
+        ocs:C25313,
+        ocs:C27080,
+        ocs:C27954,
+        ocs:C34887,
+        ocs:C7202,
+        ocs:C8204,
+        ocs:C8441 .
+

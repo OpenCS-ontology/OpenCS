@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6995 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Buffer_(GIS)> ;
+    skos:prefLabel "Buffer (GIS)" ;
+    skos:related ocs:C10054,
+        ocs:C11879,
+        ocs:C11887,
+        ocs:C1651,
+        ocs:C22279,
+        ocs:C25186,
+        ocs:C32346,
+        ocs:C36077,
+        ocs:C37171,
+        ocs:C37462,
+        ocs:C7918 .
+

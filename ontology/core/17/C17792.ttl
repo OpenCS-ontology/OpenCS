@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17792 a skos:Concept ;
+    skos:broader ocs:C1092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reference_class_problem> ;
+    skos:prefLabel "Reference class problem" ;
+    skos:related ocs:C11608,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C177,
+        ocs:C2874,
+        ocs:C34619,
+        ocs:C34894,
+        ocs:C37516,
+        ocs:C38931,
+        ocs:C6291,
+        ocs:C6692 .
+

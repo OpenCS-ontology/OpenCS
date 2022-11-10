@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42397 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Periodic_points_of_complex_quadratic_mappings> ;
+    skos:prefLabel "Periodic points of complex quadratic mappings" ;
+    skos:related ocs:C13992,
+        ocs:C18223,
+        ocs:C42253,
+        ocs:C43631,
+        ocs:C44129,
+        ocs:C5867 .
+

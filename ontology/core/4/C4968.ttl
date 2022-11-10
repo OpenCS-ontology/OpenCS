@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4968 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search-based_application> ;
+    skos:prefLabel "Search-based application" ;
+    skos:related ocs:C10867,
+        ocs:C12238,
+        ocs:C12736,
+        ocs:C13744,
+        ocs:C21072,
+        ocs:C24857,
+        ocs:C2813,
+        ocs:C3364,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C40049,
+        ocs:C40051,
+        ocs:C428,
+        ocs:C45303,
+        ocs:C6749 .
+

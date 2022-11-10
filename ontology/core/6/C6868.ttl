@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6868 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_categorical_syntax> ;
+    skos:prefLabel "Recursive categorical syntax" ;
+    skos:related ocs:C1034,
+        ocs:C15463,
+        ocs:C17239,
+        ocs:C20121,
+        ocs:C20679,
+        ocs:C21985,
+        ocs:C24691,
+        ocs:C28029,
+        ocs:C29015,
+        ocs:C34287,
+        ocs:C36404,
+        ocs:C37553,
+        ocs:C38182,
+        ocs:C40442,
+        ocs:C40932,
+        ocs:C42812,
+        ocs:C43158,
+        ocs:C43813,
+        ocs:C5556 .
+

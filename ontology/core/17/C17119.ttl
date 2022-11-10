@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17119 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonlinear_distortion> ;
+    skos:prefLabel "Nonlinear distortion" ;
+    skos:related ocs:C14919,
+        ocs:C17432,
+        ocs:C1950,
+        ocs:C20333,
+        ocs:C3173 .
+

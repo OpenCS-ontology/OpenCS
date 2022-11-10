@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12093 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communication_in_small_groups> ;
+    skos:prefLabel "Communication in small groups" ;
+    skos:related ocs:C11810,
+        ocs:C16918 .
+

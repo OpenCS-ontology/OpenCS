@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37750 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17396,
+        ocs:C21195 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallel_parking_problem> ;
+    skos:prefLabel "Parallel parking problem" ;
+    skos:related ocs:C14326,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C21195,
+        ocs:C24209,
+        ocs:C29672,
+        ocs:C34535,
+        ocs:C38731,
+        ocs:C979 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22564 a skos:Concept ;
+    skos:broader ocs:C1849,
+        ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Facial_composite> ;
+    skos:prefLabel "Facial composite" ;
+    skos:related ocs:C14661,
+        ocs:C22207,
+        ocs:C27612 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14487 a skos:Concept ;
+    skos:broader ocs:C12185 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correlated_subquery> ;
+    skos:prefLabel "Correlated subquery" ;
+    skos:related ocs:C12185,
+        ocs:C14209,
+        ocs:C17103,
+        ocs:C18405,
+        ocs:C18567,
+        ocs:C23139,
+        ocs:C28963,
+        ocs:C33281,
+        ocs:C33916,
+        ocs:C3934,
+        ocs:C44420,
+        ocs:C45138,
+        ocs:C6,
+        ocs:C6857 .
+

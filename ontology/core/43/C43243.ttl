@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43243 a skos:Concept ;
+    skos:broader ocs:C31136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maurocalcine> ;
+    skos:prefLabel "Maurocalcine" ;
+    skos:related ocs:C31852,
+        ocs:C33053,
+        ocs:C33493,
+        ocs:C34824,
+        ocs:C39344,
+        ocs:C41081,
+        ocs:C42913,
+        ocs:C43976,
+        ocs:C44461,
+        ocs:C45220 .
+

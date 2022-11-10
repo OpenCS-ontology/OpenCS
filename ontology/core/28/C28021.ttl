@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28021 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulation_software> ;
+    skos:prefLabel "Simulation software" ;
+    skos:related ocs:C10921,
+        ocs:C11,
+        ocs:C11328,
+        ocs:C24,
+        ocs:C28343,
+        ocs:C28808,
+        ocs:C33,
+        ocs:C6072,
+        ocs:C7256 .
+

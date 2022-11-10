@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41458 a skos:Concept ;
+    skos:broader ocs:C34973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triangle_center> ;
+    skos:prefLabel "Triangle center" ;
+    skos:related ocs:C10672,
+        ocs:C34973,
+        ocs:C38490,
+        ocs:C38766,
+        ocs:C41109,
+        ocs:C43744,
+        ocs:C45532 .
+

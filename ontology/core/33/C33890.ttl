@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33890 a skos:Concept ;
+    skos:broader ocs:C22682 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bilinear_map> ;
+    skos:prefLabel "Bilinear map" ;
+    skos:related ocs:C20124,
+        ocs:C28787 .
+

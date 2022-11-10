@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19421 a skos:Concept ;
+    skos:broader ocs:C1340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precedence_effect> ;
+    skos:prefLabel "Precedence effect" ;
+    skos:related ocs:C14407,
+        ocs:C15341,
+        ocs:C17927,
+        ocs:C25195,
+        ocs:C26327,
+        ocs:C33367,
+        ocs:C36627,
+        ocs:C39249,
+        ocs:C45651,
+        ocs:C5711,
+        ocs:C6417 .
+

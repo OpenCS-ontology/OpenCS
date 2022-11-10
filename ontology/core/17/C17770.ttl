@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17770 a skos:Concept ;
+    skos:broader ocs:C545,
+        ocs:C8172,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constrained_Application_Protocol> ;
+    skos:prefLabel "COAP protocol" ;
+    skos:related ocs:C11,
+        ocs:C11886,
+        ocs:C1496,
+        ocs:C17536,
+        ocs:C22597,
+        ocs:C23503,
+        ocs:C26459,
+        ocs:C27560,
+        ocs:C31,
+        ocs:C33,
+        ocs:C3391,
+        ocs:C34259,
+        ocs:C35,
+        ocs:C3799,
+        ocs:C531,
+        ocs:C7106,
+        ocs:C8172,
+        ocs:C9492,
+        ocs:C9540 .
+

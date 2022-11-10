@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18271 a skos:Concept ;
+    skos:broader ocs:C13096 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trochee> ;
+    skos:prefLabel "Trochee" ;
+    skos:related ocs:C13096,
+        ocs:C25849,
+        ocs:C29934,
+        ocs:C31281,
+        ocs:C34813,
+        ocs:C847 .
+

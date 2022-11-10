@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21588 a skos:Concept ;
+    skos:broader ocs:C7008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long-Term_Mine_Reconnaissance_System> ;
+    skos:prefLabel "Long-Term Mine Reconnaissance System" ;
+    skos:related ocs:C19731,
+        ocs:C19736,
+        ocs:C7008,
+        ocs:C8182 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4382 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zolotarev's_lemma> ;
+    skos:prefLabel "Zolotarev's lemma" ;
+    skos:related ocs:C24353,
+        ocs:C37866,
+        ocs:C39062,
+        ocs:C39370,
+        ocs:C43730,
+        ocs:C9449 .
+

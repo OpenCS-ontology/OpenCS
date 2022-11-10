@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44600 a skos:Concept ;
+    skos:broader ocs:C29902,
+        ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wald's_equation> ;
+    skos:prefLabel "Wald's equation" ;
+    skos:related ocs:C15256,
+        ocs:C20228,
+        ocs:C22092,
+        ocs:C26013,
+        ocs:C37373,
+        ocs:C38455,
+        ocs:C40562 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26029 a skos:Concept ;
+    skos:broader ocs:C12427 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_Petri_net> ;
+    skos:prefLabel "Stochastic Petri net" ;
+    skos:related ocs:C12427,
+        ocs:C15549,
+        ocs:C17831,
+        ocs:C17882,
+        ocs:C22312,
+        ocs:C27278,
+        ocs:C27718,
+        ocs:C30864,
+        ocs:C32511,
+        ocs:C32961,
+        ocs:C35158,
+        ocs:C35848,
+        ocs:C5856,
+        ocs:C6594,
+        ocs:C7689 .
+

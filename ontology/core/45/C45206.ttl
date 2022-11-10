@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45206 a skos:Concept ;
+    skos:broader ocs:C32085 ;
+    skos:closeMatch <http://dbpedia.org/resource/Desert_planet> ;
+    skos:prefLabel "Desert planet" ;
+    skos:related ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C36203,
+        ocs:C38832,
+        ocs:C42138,
+        ocs:C42491 .
+

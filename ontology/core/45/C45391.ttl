@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45391 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Release_engineering> ;
+    skos:prefLabel "Release engineering" ;
+    skos:related ocs:C10091,
+        ocs:C11262,
+        ocs:C12257,
+        ocs:C12830,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29044,
+        ocs:C29525,
+        ocs:C30650,
+        ocs:C33413,
+        ocs:C35207,
+        ocs:C41908,
+        ocs:C42487,
+        ocs:C4321,
+        ocs:C43670,
+        ocs:C45228,
+        ocs:C6780,
+        ocs:C7511 .
+

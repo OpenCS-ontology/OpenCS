@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2662 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometry_pipelines> ;
+    skos:prefLabel "Geometry pipelines" ;
+    skos:related ocs:C12577,
+        ocs:C1381,
+        ocs:C16042,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24235,
+        ocs:C26812,
+        ocs:C28172,
+        ocs:C29600,
+        ocs:C31152,
+        ocs:C32556,
+        ocs:C36633,
+        ocs:C40203,
+        ocs:C44283,
+        ocs:C6448,
+        ocs:C992 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27320 a skos:Concept ;
+    skos:broader ocs:C746,
+        ocs:C7471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_least_squares_filter> ;
+    skos:prefLabel "Recursive least squares filter" ;
+    skos:related ocs:C123,
+        ocs:C13685,
+        ocs:C14414,
+        ocs:C14553,
+        ocs:C17791,
+        ocs:C17914,
+        ocs:C22258,
+        ocs:C25518,
+        ocs:C25862,
+        ocs:C34091,
+        ocs:C3987,
+        ocs:C5298,
+        ocs:C6110,
+        ocs:C6125,
+        ocs:C746,
+        ocs:C7471 .
+

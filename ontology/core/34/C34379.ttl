@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34379 a skos:Concept ;
+    skos:broader ocs:C21670 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prediction_in_language_comprehension> ;
+    skos:prefLabel "Prediction in language comprehension" ;
+    skos:related ocs:C17066,
+        ocs:C21670,
+        ocs:C45001,
+        ocs:C78 .
+

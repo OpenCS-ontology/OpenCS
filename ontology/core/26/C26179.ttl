@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26179 a skos:Concept ;
+    skos:broader ocs:C5150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lotka's_law> ;
+    skos:prefLabel "Lotka's law" ;
+    skos:related ocs:C12576,
+        ocs:C17678,
+        ocs:C19163,
+        ocs:C20017,
+        ocs:C7607 .
+

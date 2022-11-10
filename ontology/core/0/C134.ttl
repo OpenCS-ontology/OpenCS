@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C134 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/ClinicalKey> ;
+    skos:prefLabel "ClinicalKey" ;
+    skos:related ocs:C10183,
+        ocs:C11446,
+        ocs:C5016 .
+

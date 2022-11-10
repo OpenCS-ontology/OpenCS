@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31872 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:prefLabel "Vertex projection" ;
+    skos:related ocs:C1,
+        ocs:C14471,
+        ocs:C3401,
+        ocs:C7,
+        ocs:C8 .
+

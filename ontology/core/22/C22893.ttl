@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22893 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C11927,
+        ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_Cryptography_Extension> ;
+    skos:prefLabel "Java Cryptography Extension" ;
+    skos:related ocs:C12269,
+        ocs:C12814,
+        ocs:C14647,
+        ocs:C18803,
+        ocs:C18946,
+        ocs:C20993,
+        ocs:C2674,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C29572,
+        ocs:C31365,
+        ocs:C32484,
+        ocs:C34625,
+        ocs:C36136,
+        ocs:C39718,
+        ocs:C4076,
+        ocs:C41598,
+        ocs:C4218,
+        ocs:C44122,
+        ocs:C5692 .
+

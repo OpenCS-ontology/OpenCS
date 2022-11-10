@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22278 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Duffing_equation> ;
+    skos:prefLabel "Duffing equation" ;
+    skos:related ocs:C14592 .
+

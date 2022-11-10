@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38815 a skos:Concept ;
+    skos:broader ocs:C33766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Demosaicing> ;
+    skos:prefLabel "Demosaicing" ;
+    skos:related ocs:C10318,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C13970,
+        ocs:C29365,
+        ocs:C30704,
+        ocs:C34585,
+        ocs:C35429,
+        ocs:C39878,
+        ocs:C5854,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C8099,
+        ocs:C8781 .
+

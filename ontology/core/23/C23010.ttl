@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23010 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/AIMMS> ;
+    skos:prefLabel "AIMMS" ;
+    skos:related ocs:C15480,
+        ocs:C15665,
+        ocs:C19,
+        ocs:C20242,
+        ocs:C28077,
+        ocs:C5579,
+        ocs:C6196,
+        ocs:C6400,
+        ocs:C6714,
+        ocs:C8331,
+        ocs:C8435,
+        ocs:C8944 .
+

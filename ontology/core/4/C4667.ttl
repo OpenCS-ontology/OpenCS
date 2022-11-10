@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4667 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C17,
+        ocs:C18 ;
+    skos:prefLabel "Voice assistant" .
+

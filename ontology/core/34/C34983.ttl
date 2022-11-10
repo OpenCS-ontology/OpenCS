@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34983 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fréchet_derivative> ;
+    skos:prefLabel "Fréchet derivative" ;
+    skos:related ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C32157,
+        ocs:C36110,
+        ocs:C37832,
+        ocs:C40236,
+        ocs:C41933 .
+

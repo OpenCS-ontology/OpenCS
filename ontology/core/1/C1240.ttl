@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1240 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_dynamics> ;
+    skos:prefLabel "Vehicle dynamics" ;
+    skos:related ocs:C22775,
+        ocs:C24209,
+        ocs:C6758,
+        ocs:C7463,
+        ocs:C7848,
+        ocs:C8615 .
+

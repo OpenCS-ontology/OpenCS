@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8582 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Liability_and_student_records> ;
+    skos:prefLabel "Liability and student records" ;
+    skos:related ocs:C12238,
+        ocs:C12378,
+        ocs:C12434,
+        ocs:C12510,
+        ocs:C13,
+        ocs:C18084,
+        ocs:C27255,
+        ocs:C31,
+        ocs:C40538,
+        ocs:C45697,
+        ocs:C6753,
+        ocs:C7510,
+        ocs:C8614 .
+

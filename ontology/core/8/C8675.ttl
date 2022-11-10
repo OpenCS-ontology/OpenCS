@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8675 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:prefLabel "Organisational skills" ;
+    skos:related ocs:C1,
+        ocs:C17,
+        ocs:C34,
+        ocs:C4 .
+

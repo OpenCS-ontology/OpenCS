@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10146 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rosenbrock_function> ;
+    skos:prefLabel "Rosenbrock function" ;
+    skos:related ocs:C10370,
+        ocs:C14414,
+        ocs:C22089,
+        ocs:C22483,
+        ocs:C24130,
+        ocs:C30369,
+        ocs:C35866,
+        ocs:C44532,
+        ocs:C4750,
+        ocs:C753 .
+

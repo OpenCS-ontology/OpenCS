@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15196 a skos:Concept ;
+    skos:broader ocs:C1794,
+        ocs:C5234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Class_officers> ;
+    skos:prefLabel "Class officers" ;
+    skos:related ocs:C5234,
+        ocs:C6340,
+        ocs:C9855 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28478 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C6944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_management> ;
+    skos:prefLabel "Email management" ;
+    skos:related ocs:C1047,
+        ocs:C10764,
+        ocs:C10888,
+        ocs:C12928,
+        ocs:C22551,
+        ocs:C270,
+        ocs:C28603,
+        ocs:C33857,
+        ocs:C4513,
+        ocs:C6,
+        ocs:C6656,
+        ocs:C9328 .
+

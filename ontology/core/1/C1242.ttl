@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1242 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Working_set> ;
+    skos:prefLabel "Working set" ;
+    skos:related ocs:C15595,
+        ocs:C17698,
+        ocs:C23864,
+        ocs:C25960,
+        ocs:C27610,
+        ocs:C28898,
+        ocs:C3231,
+        ocs:C33,
+        ocs:C38368,
+        ocs:C38819,
+        ocs:C393,
+        ocs:C39623,
+        ocs:C40313,
+        ocs:C40341,
+        ocs:C40529,
+        ocs:C41696,
+        ocs:C42695,
+        ocs:C7900,
+        ocs:C8782,
+        ocs:C9 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18967 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bandwidth_extension> ;
+    skos:prefLabel "Bandwidth extension" ;
+    skos:related ocs:C1727,
+        ocs:C19334,
+        ocs:C21364,
+        ocs:C21413,
+        ocs:C31114,
+        ocs:C36139,
+        ocs:C44628,
+        ocs:C6816,
+        ocs:C7061,
+        ocs:C8088,
+        ocs:C836 .
+

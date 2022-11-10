@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41970 a skos:Concept ;
+    skos:broader ocs:C30078,
+        ocs:C32522,
+        ocs:C33729 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unix_signal> ;
+    skos:prefLabel "Unix signal" ;
+    skos:related ocs:C1083,
+        ocs:C1165,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C20800,
+        ocs:C25917,
+        ocs:C31489,
+        ocs:C36601,
+        ocs:C40322,
+        ocs:C41115,
+        ocs:C41159,
+        ocs:C42619,
+        ocs:C43060,
+        ocs:C43822,
+        ocs:C45142,
+        ocs:C6140,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40374 a skos:Concept ;
+    skos:broader ocs:C31577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Daly_detector> ;
+    skos:prefLabel "Daly detector" ;
+    skos:related ocs:C19353,
+        ocs:C19524,
+        ocs:C21550,
+        ocs:C28059,
+        ocs:C34178 .
+

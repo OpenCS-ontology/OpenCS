@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6446 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/DCF_Interframe_Space> ;
+    skos:prefLabel "DCF Interframe Space" ;
+    skos:related ocs:C1398,
+        ocs:C21760,
+        ocs:C2708,
+        ocs:C31252,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C36169,
+        ocs:C36375,
+        ocs:C37651,
+        ocs:C38184,
+        ocs:C39020,
+        ocs:C39494,
+        ocs:C41247,
+        ocs:C42902,
+        ocs:C43093,
+        ocs:C45396,
+        ocs:C45510,
+        ocs:C45852,
+        ocs:C4665 .
+

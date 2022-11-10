@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28289 a skos:Concept ;
+    skos:broader ocs:C4026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deer–vehicle_collisions> ;
+    skos:prefLabel "Deer–vehicle collisions" ;
+    skos:related ocs:C10409,
+        ocs:C16896,
+        ocs:C24608,
+        ocs:C24715,
+        ocs:C43680 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7434 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Texas_Instruments_TMS9900> ;
+    skos:prefLabel "Texas Instruments TMS9900" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C14063,
+        ocs:C14162,
+        ocs:C16229,
+        ocs:C19487,
+        ocs:C35009,
+        ocs:C37847,
+        ocs:C42690,
+        ocs:C44,
+        ocs:C45812,
+        ocs:C5463,
+        ocs:C8434 .
+

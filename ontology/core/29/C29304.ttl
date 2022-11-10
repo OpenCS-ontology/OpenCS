@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29304 a skos:Concept ;
+    skos:broader ocs:C10516 ;
+    skos:prefLabel "Persian gulf syndrome" ;
+    skos:related ocs:C7912,
+        ocs:C8614 .
+

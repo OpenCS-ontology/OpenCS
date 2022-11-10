@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9067 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Failing_badly> ;
+    skos:prefLabel "Failing badly" ;
+    skos:related ocs:C10449,
+        ocs:C11188,
+        ocs:C13550,
+        ocs:C13680,
+        ocs:C23204,
+        ocs:C26,
+        ocs:C26266,
+        ocs:C2878,
+        ocs:C28907,
+        ocs:C31224,
+        ocs:C35362,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C4817 .
+

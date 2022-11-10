@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25514 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_communications> ;
+    skos:prefLabel "Control communications" ;
+    skos:related ocs:C1053,
+        ocs:C10733,
+        ocs:C14210,
+        ocs:C26,
+        ocs:C26810,
+        ocs:C3,
+        ocs:C42056,
+        ocs:C43945,
+        ocs:C4620,
+        ocs:C4805,
+        ocs:C7221,
+        ocs:C8128,
+        ocs:C9739 .
+

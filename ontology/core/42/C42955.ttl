@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42955 a skos:Concept ;
+    skos:broader ocs:C29674,
+        ocs:C32333,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clique_cover_problem> ;
+    skos:prefLabel "Clique cover" ;
+    skos:related ocs:C30401,
+        ocs:C32333,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C37036,
+        ocs:C38134,
+        ocs:C38233,
+        ocs:C38781,
+        ocs:C38981,
+        ocs:C39821,
+        ocs:C40398,
+        ocs:C41182,
+        ocs:C41731,
+        ocs:C42244,
+        ocs:C42329,
+        ocs:C42470,
+        ocs:C42828,
+        ocs:C42953,
+        ocs:C44221,
+        ocs:C45741 .
+

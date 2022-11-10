@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23913 a skos:Concept ;
+    skos:broader ocs:C1399 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_security_indicators> ;
+    skos:prefLabel "Information security indicators" ;
+    skos:related ocs:C12052,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C25176,
+        ocs:C28530,
+        ocs:C34793,
+        ocs:C35,
+        ocs:C35628,
+        ocs:C35810,
+        ocs:C38304,
+        ocs:C39176,
+        ocs:C39626,
+        ocs:C40595,
+        ocs:C42306,
+        ocs:C44313,
+        ocs:C4513,
+        ocs:C45587,
+        ocs:C5493,
+        ocs:C8025,
+        ocs:C8299 .
+

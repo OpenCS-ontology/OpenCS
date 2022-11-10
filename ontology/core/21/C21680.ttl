@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21680 a skos:Concept ;
+    skos:broader ocs:C3390 ;
+    skos:prefLabel "Freeway off-ramp" ;
+    skos:related ocs:C1,
+        ocs:C20633,
+        ocs:C6243 .
+

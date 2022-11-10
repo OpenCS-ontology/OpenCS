@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7009 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zilog_Z80000> ;
+    skos:prefLabel "Zilog Z80000" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C22508,
+        ocs:C27610,
+        ocs:C2950,
+        ocs:C33174,
+        ocs:C37847,
+        ocs:C39623,
+        ocs:C43505,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856 .
+

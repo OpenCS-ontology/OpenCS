@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14586 a skos:Concept ;
+    skos:broader ocs:C12812,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_Load_Balancing_Services> ;
+    skos:prefLabel "Network Load Balancing Services" ;
+    skos:related ocs:C12812,
+        ocs:C1410,
+        ocs:C2085,
+        ocs:C21442,
+        ocs:C23334,
+        ocs:C28881,
+        ocs:C2981,
+        ocs:C3085,
+        ocs:C30860,
+        ocs:C33458,
+        ocs:C34356,
+        ocs:C35801,
+        ocs:C38032,
+        ocs:C41003,
+        ocs:C45518,
+        ocs:C5514,
+        ocs:C6312,
+        ocs:C9,
+        ocs:C9797 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8759 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hierarchical_control_system> ;
+    skos:prefLabel "Hierarchical control system" ;
+    skos:related ocs:C11593,
+        ocs:C13858,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C18078,
+        ocs:C22684,
+        ocs:C25512,
+        ocs:C26519,
+        ocs:C29173,
+        ocs:C31036,
+        ocs:C34131,
+        ocs:C34368,
+        ocs:C35231,
+        ocs:C38055,
+        ocs:C5776,
+        ocs:C8 .
+

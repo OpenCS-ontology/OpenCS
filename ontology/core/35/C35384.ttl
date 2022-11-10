@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35384 a skos:Concept ;
+    skos:broader ocs:C17407,
+        ocs:C24608 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heliconia_acuminata> ;
+    skos:prefLabel "Heliconia acuminata" .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29950 a skos:Concept ;
+    skos:broader ocs:C27557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_Defined_Perimeter> ;
+    skos:prefLabel "Software Defined Perimeter" ;
+    skos:related ocs:C11447,
+        ocs:C16338,
+        ocs:C17647,
+        ocs:C19156,
+        ocs:C19173,
+        ocs:C24131,
+        ocs:C27109,
+        ocs:C27315,
+        ocs:C31870,
+        ocs:C32485,
+        ocs:C35,
+        ocs:C37697,
+        ocs:C39421,
+        ocs:C39663,
+        ocs:C42057,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C6885,
+        ocs:C9797 .
+

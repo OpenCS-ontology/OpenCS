@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45331 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_memory_model> ;
+    skos:prefLabel "Java Memory Model" .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20143 a skos:Concept ;
+    skos:broader ocs:C6893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telecommunications_billing> ;
+    skos:prefLabel "Telecommunications billing" ;
+    skos:related ocs:C10270,
+        ocs:C10764,
+        ocs:C2304,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C34533,
+        ocs:C3468,
+        ocs:C35701,
+        ocs:C42168,
+        ocs:C44266,
+        ocs:C45515,
+        ocs:C6,
+        ocs:C6114,
+        ocs:C8614,
+        ocs:C8896,
+        ocs:C9113,
+        ocs:C9154 .
+

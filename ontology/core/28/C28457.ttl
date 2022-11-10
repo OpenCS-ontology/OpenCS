@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28457 a skos:Concept ;
+    skos:broader ocs:C9428 ;
+    skos:closeMatch <http://dbpedia.org/resource/Order_of_integration> ;
+    skos:prefLabel "Order of integration" ;
+    skos:related ocs:C13373,
+        ocs:C13607,
+        ocs:C14424,
+        ocs:C23563,
+        ocs:C260,
+        ocs:C35266,
+        ocs:C35994,
+        ocs:C836,
+        ocs:C9428 .
+

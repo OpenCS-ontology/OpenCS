@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18658 a skos:Concept ;
+    skos:broader ocs:C11540,
+        ocs:C2684,
+        ocs:C3393,
+        ocs:C8614,
+        ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/P2P_caching> ;
+    skos:prefLabel "P2P caching" ;
+    skos:related ocs:C11540,
+        ocs:C15065,
+        ocs:C16369,
+        ocs:C16666,
+        ocs:C19350,
+        ocs:C20691,
+        ocs:C23964,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C33600,
+        ocs:C37175,
+        ocs:C4129,
+        ocs:C4197,
+        ocs:C44121,
+        ocs:C7016,
+        ocs:C8614,
+        ocs:C8706 .
+

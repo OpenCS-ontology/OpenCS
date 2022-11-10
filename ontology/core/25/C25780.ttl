@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25780 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C7159 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_mask> ;
+    skos:prefLabel "Spectral mask" ;
+    skos:related ocs:C12942,
+        ocs:C14053,
+        ocs:C15451,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C21604,
+        ocs:C23488,
+        ocs:C26768,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C33773,
+        ocs:C3393,
+        ocs:C35301,
+        ocs:C36245,
+        ocs:C36707,
+        ocs:C7502 .
+

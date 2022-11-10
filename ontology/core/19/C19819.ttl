@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19819 a skos:Concept ;
+    skos:broader ocs:C5293,
+        ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Satellite_bus> ;
+    skos:prefLabel "Satellite bus" ;
+    skos:related ocs:C11201,
+        ocs:C1628,
+        ocs:C20391,
+        ocs:C2581,
+        ocs:C7201 .
+

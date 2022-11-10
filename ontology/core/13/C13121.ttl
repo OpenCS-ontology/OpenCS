@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13121 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Great_Cannon> ;
+    skos:prefLabel "Great Cannon" ;
+    skos:related ocs:C14466,
+        ocs:C16338,
+        ocs:C16481,
+        ocs:C17126,
+        ocs:C20295,
+        ocs:C20937,
+        ocs:C25856,
+        ocs:C27497,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C29663,
+        ocs:C33379,
+        ocs:C39663,
+        ocs:C41498,
+        ocs:C42100,
+        ocs:C45254,
+        ocs:C8458,
+        ocs:C8614 .
+

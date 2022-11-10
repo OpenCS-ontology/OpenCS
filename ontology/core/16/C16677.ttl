@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16677 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dependency_graph> ;
+    skos:prefLabel "Dependency graph" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C15414,
+        ocs:C17717,
+        ocs:C20376,
+        ocs:C21947,
+        ocs:C23665,
+        ocs:C30307,
+        ocs:C36126,
+        ocs:C40105,
+        ocs:C41484,
+        ocs:C41540,
+        ocs:C608,
+        ocs:C7109,
+        ocs:C8131 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41850 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_event_manager> ;
+    skos:prefLabel "Security event manager" ;
+    skos:related ocs:C1047,
+        ocs:C11184,
+        ocs:C11404,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C1665,
+        ocs:C1728,
+        ocs:C20310,
+        ocs:C34267,
+        ocs:C35628,
+        ocs:C39000,
+        ocs:C39016,
+        ocs:C41003,
+        ocs:C41901,
+        ocs:C4226,
+        ocs:C45140,
+        ocs:C8298,
+        ocs:C8665 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29809 a skos:Concept ;
+    skos:broader ocs:C15824,
+        ocs:C25328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geostationary_Earth_Radiation_Budget> ;
+    skos:prefLabel "Geostationary Earth Radiation Budget" ;
+    skos:related ocs:C19548,
+        ocs:C32137,
+        ocs:C33583,
+        ocs:C34620,
+        ocs:C4563 .
+

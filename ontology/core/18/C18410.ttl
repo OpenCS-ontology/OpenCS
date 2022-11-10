@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18410 a skos:Concept ;
+    skos:broader ocs:C11809,
+        ocs:C411 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bivariate_map> ;
+    skos:prefLabel "Bivariate map" ;
+    skos:related ocs:C11809,
+        ocs:C13748,
+        ocs:C18289,
+        ocs:C26888,
+        ocs:C29406,
+        ocs:C3065,
+        ocs:C37913,
+        ocs:C383,
+        ocs:C5874,
+        ocs:C6228 .
+

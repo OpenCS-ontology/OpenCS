@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6730 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_construction_of_technology> ;
+    skos:prefLabel "Social construction of technology" ;
+    skos:related ocs:C11407,
+        ocs:C12219,
+        ocs:C22708 .
+

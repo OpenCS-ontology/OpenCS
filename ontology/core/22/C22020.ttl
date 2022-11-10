@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22020 a skos:Concept ;
+    skos:broader ocs:C10138,
+        ocs:C13685,
+        ocs:C5087,
+        ocs:C7471,
+        ocs:C7791 ;
+    skos:prefLabel "Partitioned linear model" .
+

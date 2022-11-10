@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31844 a skos:Concept ;
+    skos:broader ocs:C17089,
+        ocs:C19490,
+        ocs:C20856,
+        ocs:C22262,
+        ocs:C23854,
+        ocs:C25210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_splitting> ;
+    skos:prefLabel "Loop splitting" ;
+    skos:related ocs:C17089,
+        ocs:C19490,
+        ocs:C19732,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C23854,
+        ocs:C25210,
+        ocs:C27080,
+        ocs:C30556,
+        ocs:C33100,
+        ocs:C37970,
+        ocs:C39814,
+        ocs:C40088,
+        ocs:C43405,
+        ocs:C45701,
+        ocs:C45909,
+        ocs:C8418 .
+

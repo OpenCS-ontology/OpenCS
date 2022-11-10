@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16180 a skos:Concept ;
+    skos:broader ocs:C355 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_SQL_Database> ;
+    skos:prefLabel "Web SQL Database" ;
+    skos:related ocs:C12477,
+        ocs:C16338,
+        ocs:C17401,
+        ocs:C25697,
+        ocs:C2674,
+        ocs:C27839,
+        ocs:C28999,
+        ocs:C31658,
+        ocs:C33916,
+        ocs:C35205,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C40902,
+        ocs:C4231,
+        ocs:C4584,
+        ocs:C4918,
+        ocs:C6278,
+        ocs:C8577 .
+

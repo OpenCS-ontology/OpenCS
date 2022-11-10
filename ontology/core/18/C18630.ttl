@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18630 a skos:Concept ;
+    skos:broader ocs:C10768,
+        ocs:C2025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vocal_fry_register> ;
+    skos:prefLabel "Vocal fry register" ;
+    skos:related ocs:C10768,
+        ocs:C22711,
+        ocs:C2408,
+        ocs:C28139,
+        ocs:C308,
+        ocs:C32925,
+        ocs:C35281,
+        ocs:C37143 .
+

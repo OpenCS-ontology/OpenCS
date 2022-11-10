@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27828 a skos:Concept ;
+    skos:broader ocs:C8435 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadratically_constrained_quadratic_program> ;
+    skos:prefLabel "Quadratically constrained quadratic program" ;
+    skos:related ocs:C12314,
+        ocs:C25119,
+        ocs:C34225,
+        ocs:C3570,
+        ocs:C513,
+        ocs:C6287,
+        ocs:C8435,
+        ocs:C8944,
+        ocs:C9243 .
+

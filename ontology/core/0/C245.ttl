@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C245 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_artifact> ;
+    skos:prefLabel "Digital artifact" ;
+    skos:related ocs:C10,
+        ocs:C16151,
+        ocs:C18519,
+        ocs:C22,
+        ocs:C2323,
+        ocs:C2810,
+        ocs:C2937,
+        ocs:C34890,
+        ocs:C35573,
+        ocs:C3843,
+        ocs:C6,
+        ocs:C6816,
+        ocs:C7239 .
+

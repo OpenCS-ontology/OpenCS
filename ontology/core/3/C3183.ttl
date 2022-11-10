@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3183 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_set_(category_theory)> ;
+    skos:prefLabel "Small set" ;
+    skos:related ocs:C10553,
+        ocs:C14151,
+        ocs:C27390,
+        ocs:C42555,
+        ocs:C5251 .
+

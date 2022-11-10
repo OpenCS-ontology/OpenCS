@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7707 a skos:Concept ;
+    skos:broader ocs:C5 ;
+    skos:prefLabel "Employee surveillance" ;
+    skos:related ocs:C1,
+        ocs:C11938,
+        ocs:C14105,
+        ocs:C35,
+        ocs:C35277,
+        ocs:C5834,
+        ocs:C7510,
+        ocs:C8614 .
+

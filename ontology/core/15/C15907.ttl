@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15907 a skos:Concept ;
+    skos:broader ocs:C11975 ;
+    skos:closeMatch <http://dbpedia.org/resource/Health_and_usage_monitoring_systems> ;
+    skos:prefLabel "Health and usage monitoring systems" ;
+    skos:related ocs:C10919,
+        ocs:C18540,
+        ocs:C20630,
+        ocs:C21418,
+        ocs:C23082,
+        ocs:C25150,
+        ocs:C33387,
+        ocs:C4045,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C511 .
+

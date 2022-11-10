@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26113 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C425 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_Documentation_Initiative> ;
+    skos:prefLabel "Data Documentation Initiative" ;
+    skos:related ocs:C10211,
+        ocs:C11927,
+        ocs:C12694,
+        ocs:C13144,
+        ocs:C23088,
+        ocs:C25617,
+        ocs:C31929,
+        ocs:C32112,
+        ocs:C33901,
+        ocs:C35637,
+        ocs:C37046,
+        ocs:C44676,
+        ocs:C45647,
+        ocs:C5126,
+        ocs:C7161,
+        ocs:C9375 .
+

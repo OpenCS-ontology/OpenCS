@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15115 a skos:Concept ;
+    skos:broader ocs:C3390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Floating_car_data> ;
+    skos:prefLabel "Floating car data" ;
+    skos:related ocs:C11656,
+        ocs:C14215,
+        ocs:C18080,
+        ocs:C19038,
+        ocs:C24884,
+        ocs:C25914,
+        ocs:C27525,
+        ocs:C31393,
+        ocs:C32722,
+        ocs:C3390,
+        ocs:C38216,
+        ocs:C43067,
+        ocs:C44290,
+        ocs:C4694,
+        ocs:C4917,
+        ocs:C6243,
+        ocs:C9100 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19683 a skos:Concept ;
+    skos:broader ocs:C11128 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aspidites> ;
+    skos:prefLabel "Aspidites" ;
+    skos:related ocs:C28749,
+        ocs:C29383,
+        ocs:C32523 .
+

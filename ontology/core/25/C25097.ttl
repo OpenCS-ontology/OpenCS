@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25097 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C5616,
+        ocs:C8704 ;
+    skos:prefLabel "Time sensitive networking" .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8199 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_clock> ;
+    skos:prefLabel "Digital clock" ;
+    skos:related ocs:C1704,
+        ocs:C2241,
+        ocs:C6001,
+        ocs:C7648 .
+

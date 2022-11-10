@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2086 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elias_omega_coding> ;
+    skos:prefLabel "Elias omega coding" ;
+    skos:related ocs:C25038,
+        ocs:C39572,
+        ocs:C42141,
+        ocs:C6942 .
+

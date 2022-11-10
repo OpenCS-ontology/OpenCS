@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1575 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ringer_equivalence_number> ;
+    skos:prefLabel "Ringer equivalence number" ;
+    skos:related ocs:C11769,
+        ocs:C13695,
+        ocs:C13714,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C6027,
+        ocs:C9327 .
+

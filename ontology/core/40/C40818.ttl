@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40818 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C31925,
+        ocs:C32645,
+        ocs:C35076,
+        ocs:C36104,
+        ocs:C36964 ;
+    skos:closeMatch <http://dbpedia.org/resource/Karp–Lipton_theorem> ;
+    skos:prefLabel "Karp–Lipton theorem" ;
+    skos:related ocs:C20382,
+        ocs:C23904,
+        ocs:C2425,
+        ocs:C25360,
+        ocs:C2807,
+        ocs:C31121,
+        ocs:C32808,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C38374,
+        ocs:C38867,
+        ocs:C39136,
+        ocs:C39855,
+        ocs:C41116,
+        ocs:C41530,
+        ocs:C43638,
+        ocs:C44886 .
+

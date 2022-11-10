@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7006 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Authentication> ;
+    skos:prefLabel "Authentication" ;
+    skos:related ocs:C16125,
+        ocs:C20243,
+        ocs:C21324,
+        ocs:C22450,
+        ocs:C24131,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C30595,
+        ocs:C31489,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C5692,
+        ocs:C816,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C8711,
+        ocs:C9,
+        ocs:C9489 .
+

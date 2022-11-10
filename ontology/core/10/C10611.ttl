@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10611 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_business> ;
+    skos:prefLabel "Electronic business" ;
+    skos:related ocs:C12146,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C26,
+        ocs:C26014,
+        ocs:C2979,
+        ocs:C3444,
+        ocs:C4768,
+        ocs:C6529,
+        ocs:C7297,
+        ocs:C8614,
+        ocs:C9886 .
+

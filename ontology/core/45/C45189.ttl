@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45189 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crossed_field_antenna> ;
+    skos:prefLabel "Crossed field antenna" ;
+    skos:related ocs:C15511,
+        ocs:C15824,
+        ocs:C17534,
+        ocs:C17577,
+        ocs:C19810,
+        ocs:C21604,
+        ocs:C37939,
+        ocs:C38309,
+        ocs:C38722,
+        ocs:C40205,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C41433,
+        ocs:C42721,
+        ocs:C43141,
+        ocs:C43628,
+        ocs:C7578,
+        ocs:C7874 .
+

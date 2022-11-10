@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31068 a skos:Concept ;
+    skos:broader ocs:C29314 ;
+    skos:closeMatch <http://dbpedia.org/resource/AddressSanitizer> ;
+    skos:prefLabel "AddressSanitizer" ;
+    skos:related ocs:C10214,
+        ocs:C12605,
+        ocs:C18586,
+        ocs:C20800,
+        ocs:C23580,
+        ocs:C2545,
+        ocs:C26602,
+        ocs:C2766,
+        ocs:C2767,
+        ocs:C29314,
+        ocs:C31866,
+        ocs:C35047,
+        ocs:C35465,
+        ocs:C39854,
+        ocs:C40322,
+        ocs:C4651,
+        ocs:C794 .
+

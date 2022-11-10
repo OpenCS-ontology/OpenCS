@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2541 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space-filling_curve> ;
+    skos:prefLabel "Space-filling curve" ;
+    skos:related ocs:C11641,
+        ocs:C16538,
+        ocs:C25142,
+        ocs:C36311 .
+

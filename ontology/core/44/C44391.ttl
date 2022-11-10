@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44391 a skos:Concept ;
+    skos:broader ocs:C34658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soft_goal> ;
+    skos:prefLabel "Soft goal" ;
+    skos:related ocs:C14316,
+        ocs:C2214,
+        ocs:C24477,
+        ocs:C26151,
+        ocs:C28454,
+        ocs:C34658 .
+

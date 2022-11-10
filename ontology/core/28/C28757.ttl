@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28757 a skos:Concept ;
+    skos:broader ocs:C260 ;
+    skos:closeMatch <http://dbpedia.org/resource/NAR_1> ;
+    skos:prefLabel "NAR 1" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C11258,
+        ocs:C12280,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C21718,
+        ocs:C31346,
+        ocs:C35009,
+        ocs:C35108,
+        ocs:C39214,
+        ocs:C3946,
+        ocs:C41964,
+        ocs:C5463,
+        ocs:C6280,
+        ocs:C7186,
+        ocs:C8434 .
+

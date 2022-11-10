@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43904 a skos:Concept ;
+    skos:broader ocs:C30856,
+        ocs:C31543,
+        ocs:C31630,
+        ocs:C36272,
+        ocs:C36680 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sample_exclusion_dimension> ;
+    skos:prefLabel "Sample exclusion dimension" ;
+    skos:related ocs:C11599,
+        ocs:C11937,
+        ocs:C15346,
+        ocs:C24337,
+        ocs:C25,
+        ocs:C3007,
+        ocs:C31543,
+        ocs:C36680,
+        ocs:C38370,
+        ocs:C40376,
+        ocs:C41772,
+        ocs:C43231,
+        ocs:C43431,
+        ocs:C5799,
+        ocs:C9019,
+        ocs:C9210 .
+

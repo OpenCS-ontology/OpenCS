@@ -1,0 +1,35 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43191 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35008,
+        ocs:C35839,
+        ocs:C36161,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Merkle–Damgård_construction> ;
+    skos:prefLabel "Merkle–Damgård construction" ;
+    skos:related ocs:C15591,
+        ocs:C23875,
+        ocs:C30340,
+        ocs:C32054,
+        ocs:C33416,
+        ocs:C35389,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C3936,
+        ocs:C39396,
+        ocs:C39524,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43967,
+        ocs:C44462,
+        ocs:C5930,
+        ocs:C8946 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22333 a skos:Concept ;
+    skos:broader ocs:C13686,
+        ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-element_Boolean_algebra> ;
+    skos:prefLabel "Two-element Boolean algebra" ;
+    skos:related ocs:C10558,
+        ocs:C10825,
+        ocs:C11635,
+        ocs:C13855,
+        ocs:C2418,
+        ocs:C36104,
+        ocs:C3894,
+        ocs:C39210,
+        ocs:C4073,
+        ocs:C42338,
+        ocs:C43897,
+        ocs:C8077 .
+

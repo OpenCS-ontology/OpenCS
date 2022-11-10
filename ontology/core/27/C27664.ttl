@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27664 a skos:Concept ;
+    skos:broader ocs:C12427 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_architecture> ;
+    skos:prefLabel "Process architecture" ;
+    skos:related ocs:C10052,
+        ocs:C10617,
+        ocs:C12427,
+        ocs:C14329,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C31201,
+        ocs:C3395,
+        ocs:C5500,
+        ocs:C5863,
+        ocs:C5974 .
+

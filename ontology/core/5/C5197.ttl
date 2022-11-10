@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5197 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Particle_swarm_optimization> ;
+    skos:prefLabel "Particle swarm optimization" ;
+    skos:related ocs:C1,
+        ocs:C10390,
+        ocs:C10502,
+        ocs:C12314,
+        ocs:C12530,
+        ocs:C13208,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C19750,
+        ocs:C23250,
+        ocs:C25,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C37049,
+        ocs:C3837,
+        ocs:C44532,
+        ocs:C5704,
+        ocs:C7513,
+        ocs:C7553 .
+

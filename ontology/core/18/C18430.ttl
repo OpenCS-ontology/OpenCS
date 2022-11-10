@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18430 a skos:Concept ;
+    skos:broader ocs:C8559 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robust_control> ;
+    skos:prefLabel "Robust control" ;
+    skos:related ocs:C25627,
+        ocs:C28698,
+        ocs:C35769,
+        ocs:C43748,
+        ocs:C492 .
+

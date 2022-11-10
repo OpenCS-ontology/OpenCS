@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8465 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flow-sensitive_typing> ;
+    skos:prefLabel "Flow-sensitive typing" ;
+    skos:related ocs:C11327,
+        ocs:C13025,
+        ocs:C16290,
+        ocs:C27185,
+        ocs:C27380,
+        ocs:C31218,
+        ocs:C34136,
+        ocs:C3513,
+        ocs:C38593,
+        ocs:C42983,
+        ocs:C5280,
+        ocs:C5722,
+        ocs:C9051 .
+

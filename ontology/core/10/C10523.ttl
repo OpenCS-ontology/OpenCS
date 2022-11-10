@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10523 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teaching_machine> ;
+    skos:prefLabel "Teaching machine" ;
+    skos:related ocs:C1261,
+        ocs:C20867,
+        ocs:C2367,
+        ocs:C27502,
+        ocs:C28055,
+        ocs:C3444,
+        ocs:C5532 .
+

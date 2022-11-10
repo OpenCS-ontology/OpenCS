@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45574 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C36703,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_transportation> ;
+    skos:prefLabel "Fuzzy transportation" ;
+    skos:related ocs:C28521,
+        ocs:C3837,
+        ocs:C38729,
+        ocs:C39591,
+        ocs:C39895,
+        ocs:C40622,
+        ocs:C43466,
+        ocs:C44806 .
+

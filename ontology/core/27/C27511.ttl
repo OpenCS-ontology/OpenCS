@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27511 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/DAB_ensemble> ;
+    skos:prefLabel "DAB ensemble" ;
+    skos:related ocs:C12942,
+        ocs:C12999,
+        ocs:C13276,
+        ocs:C15505,
+        ocs:C15774,
+        ocs:C18697,
+        ocs:C19721,
+        ocs:C20140,
+        ocs:C21613,
+        ocs:C22326,
+        ocs:C25195,
+        ocs:C26768,
+        ocs:C27572,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C32753,
+        ocs:C36245,
+        ocs:C45143 .
+

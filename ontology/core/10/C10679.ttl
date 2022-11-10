@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10679 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calligraphic_projection> ;
+    skos:prefLabel "Calligraphic projection" ;
+    skos:related ocs:C10380,
+        ocs:C15533,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C22710,
+        ocs:C26787,
+        ocs:C35621,
+        ocs:C37471,
+        ocs:C41106,
+        ocs:C5996,
+        ocs:C7749 .
+

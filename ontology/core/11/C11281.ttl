@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11281 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_striping> ;
+    skos:prefLabel "Data striping" ;
+    skos:related ocs:C10501,
+        ocs:C13783,
+        ocs:C17903,
+        ocs:C20800,
+        ocs:C26157,
+        ocs:C2878,
+        ocs:C29846,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C36822,
+        ocs:C39186,
+        ocs:C39275,
+        ocs:C6,
+        ocs:C7476,
+        ocs:C8024,
+        ocs:C8133,
+        ocs:C8298 .
+

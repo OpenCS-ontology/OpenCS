@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27200 a skos:Concept ;
+    skos:broader ocs:C2836 ;
+    skos:closeMatch <http://dbpedia.org/resource/Master_data_management> ;
+    skos:prefLabel "Master data management" ;
+    skos:related ocs:C10764,
+        ocs:C10979,
+        ocs:C12238,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C197,
+        ocs:C20446,
+        ocs:C23505,
+        ocs:C24688,
+        ocs:C25950,
+        ocs:C2836,
+        ocs:C29695,
+        ocs:C3034,
+        ocs:C3896,
+        ocs:C6 .
+

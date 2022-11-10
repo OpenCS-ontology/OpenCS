@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10629 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stackless_Python> ;
+    skos:prefLabel "Stackless Python" ;
+    skos:related ocs:C10219,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C11547,
+        ocs:C1333,
+        ocs:C1396,
+        ocs:C15595,
+        ocs:C15848,
+        ocs:C20899,
+        ocs:C2353,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C41502,
+        ocs:C5962,
+        ocs:C6072,
+        ocs:C8704,
+        ocs:C9 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38597 a skos:Concept ;
+    skos:broader ocs:C36232 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_purpose_analog_computer> ;
+    skos:prefLabel "General purpose analog computer" ;
+    skos:related ocs:C9602 .
+

@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25100 a skos:Concept ;
+    skos:broader ocs:C13610,
+        ocs:C9022 ;
+    skos:prefLabel "Pole balancing" .
+

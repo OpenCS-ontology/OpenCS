@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28534 a skos:Concept ;
+    skos:broader ocs:C12029 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_of_time> ;
+    skos:prefLabel "Value of time" ;
+    skos:related ocs:C12752,
+        ocs:C14215,
+        ocs:C25914,
+        ocs:C26695,
+        ocs:C28755,
+        ocs:C6243 .
+

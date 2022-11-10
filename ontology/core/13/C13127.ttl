@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13127 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Approval (document)" ;
+    skos:related ocs:C10,
+        ocs:C10988,
+        ocs:C1338,
+        ocs:C13545,
+        ocs:C23,
+        ocs:C2303,
+        ocs:C2543,
+        ocs:C25464,
+        ocs:C31,
+        ocs:C6,
+        ocs:C972 .
+

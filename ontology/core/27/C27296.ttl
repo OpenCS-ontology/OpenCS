@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27296 a skos:Concept ;
+    skos:broader ocs:C2469,
+        ocs:C6124,
+        ocs:C8791,
+        ocs:C9428 ;
+    skos:prefLabel "Probabilistic finite state automata" .
+

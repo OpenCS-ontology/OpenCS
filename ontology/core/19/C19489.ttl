@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19489 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bruhat_order> ;
+    skos:prefLabel "Bruhat order" ;
+    skos:related ocs:C43720 .
+

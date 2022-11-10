@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7879 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brainstorming> ;
+    skos:prefLabel "Brainstorming" ;
+    skos:related ocs:C1134,
+        ocs:C11646,
+        ocs:C17594,
+        ocs:C28881,
+        ocs:C6656,
+        ocs:C7904 .
+

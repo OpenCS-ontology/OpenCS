@@ -1,0 +1,36 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41198 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36497,
+        ocs:C36706,
+        ocs:C37073,
+        ocs:C37469 ;
+    skos:closeMatch <http://dbpedia.org/resource/ODMRP> ;
+    skos:prefLabel "ODMRP" ;
+    skos:related ocs:C11157,
+        ocs:C14160,
+        ocs:C26067,
+        ocs:C28122,
+        ocs:C28520,
+        ocs:C28850,
+        ocs:C33414,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073,
+        ocs:C38045,
+        ocs:C40576,
+        ocs:C40959,
+        ocs:C43403,
+        ocs:C43511,
+        ocs:C45003,
+        ocs:C45852,
+        ocs:C6294,
+        ocs:C6961 .
+

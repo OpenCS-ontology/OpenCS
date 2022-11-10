@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4228 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_color_(visual_art)> ;
+    skos:prefLabel "Local color" ;
+    skos:related ocs:C12053,
+        ocs:C15175,
+        ocs:C16674,
+        ocs:C2198,
+        ocs:C2531,
+        ocs:C31734,
+        ocs:C37103,
+        ocs:C41483,
+        ocs:C45860,
+        ocs:C6420,
+        ocs:C7522 .
+

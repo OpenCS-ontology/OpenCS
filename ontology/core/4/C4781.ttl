@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4781 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contextual_Query_Language> ;
+    skos:prefLabel "Contextual Query Language" ;
+    skos:related ocs:C15008,
+        ocs:C1561,
+        ocs:C1812,
+        ocs:C21005,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C264,
+        ocs:C31312,
+        ocs:C33651,
+        ocs:C33916,
+        ocs:C34208,
+        ocs:C35568,
+        ocs:C3587,
+        ocs:C40049,
+        ocs:C6790,
+        ocs:C9041 .
+

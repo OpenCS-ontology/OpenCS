@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19033 a skos:Concept ;
+    skos:broader ocs:C11282,
+        ocs:C5037,
+        ocs:C8565 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loopless_algorithm> ;
+    skos:prefLabel "Loopless algorithm" ;
+    skos:related ocs:C10,
+        ocs:C11282,
+        ocs:C18099,
+        ocs:C23311,
+        ocs:C24232,
+        ocs:C25685,
+        ocs:C36814,
+        ocs:C37833,
+        ocs:C40487,
+        ocs:C6941,
+        ocs:C8660 .
+

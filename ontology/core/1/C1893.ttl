@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1893 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Adaptation behaviour" ;
+    skos:related ocs:C12099,
+        ocs:C17,
+        ocs:C18,
+        ocs:C25,
+        ocs:C28700,
+        ocs:C2979,
+        ocs:C30,
+        ocs:C33 .
+

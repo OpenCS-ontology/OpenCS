@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42747 a skos:Concept ;
+    skos:broader ocs:C31222 ;
+    skos:closeMatch <http://dbpedia.org/resource/DNSCurve> ;
+    skos:prefLabel "DNSCurve" ;
+    skos:related ocs:C14321,
+        ocs:C16125,
+        ocs:C20205,
+        ocs:C21006,
+        ocs:C22502,
+        ocs:C24323,
+        ocs:C30500,
+        ocs:C31222,
+        ocs:C32484,
+        ocs:C34662,
+        ocs:C37824,
+        ocs:C40519,
+        ocs:C42100,
+        ocs:C4218,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C44443,
+        ocs:C45187,
+        ocs:C45216 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28543 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C5610,
+        ocs:C6594,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Borel_right_process> ;
+    skos:prefLabel "Borel right process" ;
+    skos:related ocs:C18225,
+        ocs:C1844,
+        ocs:C29727,
+        ocs:C37437 .
+

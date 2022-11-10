@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2405 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tape_bias> ;
+    skos:prefLabel "Tape bias" ;
+    skos:related ocs:C20316,
+        ocs:C25195,
+        ocs:C30569,
+        ocs:C3843,
+        ocs:C520,
+        ocs:C669,
+        ocs:C8291,
+        ocs:C9481,
+        ocs:C9775 .
+

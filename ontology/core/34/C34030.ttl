@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34030 a skos:Concept ;
+    skos:broader ocs:C25681 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disease_Ontology> ;
+    skos:prefLabel "Disease Ontology" ;
+    skos:related ocs:C12066,
+        ocs:C12856,
+        ocs:C25681,
+        ocs:C25972,
+        ocs:C30736,
+        ocs:C32303,
+        ocs:C34321,
+        ocs:C34977,
+        ocs:C37883,
+        ocs:C38158,
+        ocs:C38217,
+        ocs:C38537,
+        ocs:C40851,
+        ocs:C41212,
+        ocs:C41877,
+        ocs:C43095,
+        ocs:C44162,
+        ocs:C44939,
+        ocs:C45248,
+        ocs:C7500 .
+

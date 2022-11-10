@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4076 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_signature_forgery> ;
+    skos:prefLabel "Digital signature forgery" ;
+    skos:related ocs:C18803,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C27571,
+        ocs:C31468,
+        ocs:C33459,
+        ocs:C36161,
+        ocs:C36434,
+        ocs:C36859,
+        ocs:C37228,
+        ocs:C38377,
+        ocs:C38620,
+        ocs:C39168,
+        ocs:C39718,
+        ocs:C40978,
+        ocs:C4218,
+        ocs:C42241,
+        ocs:C43187,
+        ocs:C7292,
+        ocs:C8947 .
+

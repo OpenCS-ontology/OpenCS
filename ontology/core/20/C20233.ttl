@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20233 a skos:Concept ;
+    skos:broader ocs:C5717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emotional_prosody> ;
+    skos:prefLabel "Emotional prosody" ;
+    skos:related ocs:C10566,
+        ocs:C15475,
+        ocs:C18047,
+        ocs:C25706,
+        ocs:C25849,
+        ocs:C28748,
+        ocs:C7858 .
+

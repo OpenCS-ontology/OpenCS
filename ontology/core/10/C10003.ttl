@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10003 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agda_(programming_language)> ;
+    skos:prefLabel "Agda" ;
+    skos:related ocs:C10498,
+        ocs:C12987,
+        ocs:C16537,
+        ocs:C16614,
+        ocs:C18772,
+        ocs:C20000,
+        ocs:C20132,
+        ocs:C22266,
+        ocs:C2484,
+        ocs:C27091,
+        ocs:C27185,
+        ocs:C28944,
+        ocs:C29068,
+        ocs:C3639,
+        ocs:C37966,
+        ocs:C5517,
+        ocs:C6941 .
+

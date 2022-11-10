@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37942 a skos:Concept ;
+    skos:broader ocs:C34429,
+        ocs:C34667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bluejacking> ;
+    skos:prefLabel "Bluejacking" ;
+    skos:related ocs:C12698,
+        ocs:C13065,
+        ocs:C17976,
+        ocs:C19331,
+        ocs:C21424,
+        ocs:C31755,
+        ocs:C34172,
+        ocs:C34429,
+        ocs:C34667,
+        ocs:C36900,
+        ocs:C38851,
+        ocs:C42423,
+        ocs:C44016,
+        ocs:C4702,
+        ocs:C5086,
+        ocs:C7504,
+        ocs:C9113,
+        ocs:C9253 .
+

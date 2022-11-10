@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30513 a skos:Concept ;
+    skos:broader ocs:C17205,
+        ocs:C27557 ;
+    skos:closeMatch <http://dbpedia.org/resource/DNS_sinkhole> ;
+    skos:prefLabel "DNS sinkhole" ;
+    skos:related ocs:C11116,
+        ocs:C12812,
+        ocs:C17205,
+        ocs:C17609,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C30757,
+        ocs:C31222,
+        ocs:C32229,
+        ocs:C35631,
+        ocs:C36323,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38435,
+        ocs:C40832,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C43236,
+        ocs:C43392 .
+

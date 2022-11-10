@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2000 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telecine> ;
+    skos:prefLabel "Telecine" ;
+    skos:related ocs:C12544,
+        ocs:C13095,
+        ocs:C13466,
+        ocs:C13509,
+        ocs:C13679,
+        ocs:C15700,
+        ocs:C21097,
+        ocs:C21207,
+        ocs:C27572,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C40628,
+        ocs:C4448 .
+

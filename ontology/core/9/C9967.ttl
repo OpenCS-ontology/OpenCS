@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9967 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Multimedia object" .
+

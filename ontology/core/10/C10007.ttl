@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10007 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Driving_simulator> ;
+    skos:prefLabel "Driving simulator" ;
+    skos:related ocs:C10513,
+        ocs:C12976,
+        ocs:C13631,
+        ocs:C14113,
+        ocs:C15234,
+        ocs:C16214,
+        ocs:C16469,
+        ocs:C17865,
+        ocs:C19481,
+        ocs:C19849,
+        ocs:C24,
+        ocs:C28881,
+        ocs:C660,
+        ocs:C6881 .
+

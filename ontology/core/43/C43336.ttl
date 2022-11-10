@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43336 a skos:Concept ;
+    skos:broader ocs:C36598 ;
+    skos:closeMatch <http://dbpedia.org/resource/Counter-scanning> ;
+    skos:prefLabel "Counter-scanning" ;
+    skos:related ocs:C14110,
+        ocs:C22804,
+        ocs:C597 .
+

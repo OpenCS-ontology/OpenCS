@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41328 a skos:Concept ;
+    skos:broader ocs:C32852,
+        ocs:C37376 ;
+    skos:prefLabel "Pseudoneureclipsis" ;
+    skos:related ocs:C37378,
+        ocs:C43610 .
+

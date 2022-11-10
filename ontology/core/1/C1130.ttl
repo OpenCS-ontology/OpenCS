@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1130 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-sharing> ;
+    skos:prefLabel "Time-sharing" ;
+    skos:related ocs:C10320,
+        ocs:C1253,
+        ocs:C12815,
+        ocs:C12851,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C14538,
+        ocs:C2353,
+        ocs:C2534,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C3036,
+        ocs:C38819,
+        ocs:C5698,
+        ocs:C6714,
+        ocs:C8024,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9035 .
+

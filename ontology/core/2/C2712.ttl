@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2712 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_hacking> ;
+    skos:prefLabel "Email hacking" ;
+    skos:related ocs:C10565,
+        ocs:C13123,
+        ocs:C14983,
+        ocs:C16481,
+        ocs:C18986,
+        ocs:C22836,
+        ocs:C24903,
+        ocs:C2941,
+        ocs:C29803,
+        ocs:C30769,
+        ocs:C35,
+        ocs:C39520,
+        ocs:C42433,
+        ocs:C44566,
+        ocs:C4513,
+        ocs:C4621,
+        ocs:C8614 .
+

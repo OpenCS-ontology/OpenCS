@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6449 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimal_pair> ;
+    skos:prefLabel "Minimal pair" ;
+    skos:related ocs:C12222,
+        ocs:C12486,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C19146,
+        ocs:C2025,
+        ocs:C21409,
+        ocs:C22147,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C29289,
+        ocs:C34296,
+        ocs:C34803,
+        ocs:C6361,
+        ocs:C7501,
+        ocs:C8020 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18746 a skos:Concept ;
+    skos:broader ocs:C10510 ;
+    skos:closeMatch <http://dbpedia.org/resource/Base_address> ;
+    skos:prefLabel "Base address" ;
+    skos:related ocs:C10053,
+        ocs:C10510,
+        ocs:C1253,
+        ocs:C14162,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C2022,
+        ocs:C23956,
+        ocs:C28881,
+        ocs:C32222,
+        ocs:C35009,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C5463,
+        ocs:C7800,
+        ocs:C9,
+        ocs:C9600 .
+

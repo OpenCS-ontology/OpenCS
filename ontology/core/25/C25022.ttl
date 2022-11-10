@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25022 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C2800,
+        ocs:C9603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mixed_reality> ;
+    skos:prefLabel "Mixed reality" ;
+    skos:related ocs:C10081,
+        ocs:C13320,
+        ocs:C14032,
+        ocs:C15986,
+        ocs:C16013,
+        ocs:C19724,
+        ocs:C23978,
+        ocs:C2800,
+        ocs:C29806,
+        ocs:C31110,
+        ocs:C31131,
+        ocs:C34997,
+        ocs:C37963,
+        ocs:C3967,
+        ocs:C42202,
+        ocs:C6757,
+        ocs:C7,
+        ocs:C9047,
+        ocs:C9603 .
+

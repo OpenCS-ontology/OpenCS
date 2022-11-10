@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35271 a skos:Concept ;
+    skos:broader ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interlanguage> ;
+    skos:prefLabel "Interlanguage" ;
+    skos:related ocs:C13165,
+        ocs:C13920,
+        ocs:C16053,
+        ocs:C29973,
+        ocs:C30276,
+        ocs:C31775,
+        ocs:C32426,
+        ocs:C34162,
+        ocs:C44334,
+        ocs:C6634 .
+

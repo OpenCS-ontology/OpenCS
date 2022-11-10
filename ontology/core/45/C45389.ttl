@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45389 a skos:Concept ;
+    skos:broader ocs:C29840,
+        ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Purdue_Enterprise_Reference_Architecture> ;
+    skos:prefLabel "Purdue Enterprise Reference Architecture" ;
+    skos:related ocs:C28581,
+        ocs:C29840,
+        ocs:C34421,
+        ocs:C38217,
+        ocs:C38885,
+        ocs:C39686,
+        ocs:C42767,
+        ocs:C42780,
+        ocs:C43469,
+        ocs:C44353,
+        ocs:C44839,
+        ocs:C45082,
+        ocs:C45437 .
+

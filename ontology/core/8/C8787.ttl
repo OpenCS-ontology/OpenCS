@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8787 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcomputer> ;
+    skos:prefLabel "Microcomputer" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C11,
+        ocs:C1253,
+        ocs:C12815,
+        ocs:C12851,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19481,
+        ocs:C28881,
+        ocs:C4259,
+        ocs:C7534,
+        ocs:C9,
+        ocs:C9035 .
+

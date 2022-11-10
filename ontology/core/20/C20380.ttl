@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20380 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Undulatory_locomotion> ;
+    skos:prefLabel "Undulatory locomotion" ;
+    skos:related ocs:C10144,
+        ocs:C16527,
+        ocs:C20938,
+        ocs:C29177,
+        ocs:C41903 .
+

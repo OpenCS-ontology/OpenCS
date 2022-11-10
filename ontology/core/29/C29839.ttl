@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29839 a skos:Concept ;
+    skos:broader ocs:C29152 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_shipping_network> ;
+    skos:prefLabel "Global shipping network" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C18569,
+        ocs:C19101,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C23873,
+        ocs:C28521,
+        ocs:C3035,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C7460 .
+

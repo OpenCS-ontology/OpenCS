@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9328 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human_resource_management> ;
+    skos:prefLabel "Human resource management" ;
+    skos:related ocs:C10764,
+        ocs:C12824,
+        ocs:C1332,
+        ocs:C197,
+        ocs:C25464,
+        ocs:C2979,
+        ocs:C3738 .
+

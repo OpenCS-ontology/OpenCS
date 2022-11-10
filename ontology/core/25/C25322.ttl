@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25322 a skos:Concept ;
+    skos:broader ocs:C5072,
+        ocs:C6953 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_seed> ;
+    skos:prefLabel "Random seed" ;
+    skos:related ocs:C10,
+        ocs:C15398,
+        ocs:C16152,
+        ocs:C20993,
+        ocs:C21284,
+        ocs:C23230,
+        ocs:C24912,
+        ocs:C255,
+        ocs:C2928,
+        ocs:C29363,
+        ocs:C36136,
+        ocs:C41220,
+        ocs:C4218,
+        ocs:C45216,
+        ocs:C5072,
+        ocs:C6953,
+        ocs:C7130,
+        ocs:C7214 .
+

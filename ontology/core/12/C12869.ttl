@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12869 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infosphere> ;
+    skos:prefLabel "Infosphere" ;
+    skos:related ocs:C35,
+        ocs:C35871,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C6944,
+        ocs:C7297,
+        ocs:C7872,
+        ocs:C8614 .
+

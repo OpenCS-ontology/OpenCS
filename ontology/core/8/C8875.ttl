@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8875 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_disk_drive_platter> ;
+    skos:prefLabel "Hard disk drive platter" ;
+    skos:related ocs:C12211,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C36536,
+        ocs:C41962,
+        ocs:C754,
+        ocs:C9448 .
+

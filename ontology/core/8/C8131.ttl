@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8131 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_dependency> ;
+    skos:prefLabel "Data dependency" ;
+    skos:related ocs:C10320,
+        ocs:C12112,
+        ocs:C16677,
+        ocs:C1721,
+        ocs:C18578,
+        ocs:C21201,
+        ocs:C2478,
+        ocs:C27,
+        ocs:C33100,
+        ocs:C34127,
+        ocs:C36309,
+        ocs:C40036,
+        ocs:C40582,
+        ocs:C4321,
+        ocs:C5085,
+        ocs:C8180,
+        ocs:C9487 .
+

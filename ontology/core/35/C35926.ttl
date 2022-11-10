@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35926 a skos:Concept ;
+    skos:broader ocs:C20800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sysfs> ;
+    skos:prefLabel "sysfs" ;
+    skos:related ocs:C12683,
+        ocs:C14271,
+        ocs:C15860,
+        ocs:C20800,
+        ocs:C22569,
+        ocs:C27276,
+        ocs:C31489,
+        ocs:C33138,
+        ocs:C37964,
+        ocs:C39713,
+        ocs:C40109,
+        ocs:C42619,
+        ocs:C43202,
+        ocs:C44098,
+        ocs:C44617,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9442,
+        ocs:C9938 .
+

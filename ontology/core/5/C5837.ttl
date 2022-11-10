@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5837 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_Cookie_Transactions> ;
+    skos:prefLabel "TCP Cookie Transactions" ;
+    skos:related ocs:C11550,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C27557,
+        ocs:C30500,
+        ocs:C31257,
+        ocs:C34264,
+        ocs:C38272,
+        ocs:C38384,
+        ocs:C38814,
+        ocs:C38818,
+        ocs:C40409,
+        ocs:C41055,
+        ocs:C41119,
+        ocs:C42747,
+        ocs:C44017,
+        ocs:C6129 .
+

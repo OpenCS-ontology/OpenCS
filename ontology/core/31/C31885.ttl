@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31885 a skos:Concept ;
+    skos:broader ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transition_band> ;
+    skos:prefLabel "Transition band" ;
+    skos:related ocs:C1727,
+        ocs:C32519,
+        ocs:C3393,
+        ocs:C42625,
+        ocs:C44628,
+        ocs:C44671,
+        ocs:C45235,
+        ocs:C8101 .
+

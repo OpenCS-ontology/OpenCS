@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23673 a skos:Concept ;
+    skos:broader ocs:C11705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_compensation> ;
+    skos:prefLabel "Motion compensation" ;
+    skos:related ocs:C11323,
+        ocs:C12046,
+        ocs:C13092,
+        ocs:C16860,
+        ocs:C1904,
+        ocs:C19334,
+        ocs:C21097,
+        ocs:C23318,
+        ocs:C29048,
+        ocs:C30895,
+        ocs:C35808,
+        ocs:C39584,
+        ocs:C40353,
+        ocs:C42514,
+        ocs:C45662,
+        ocs:C45687,
+        ocs:C523 .
+

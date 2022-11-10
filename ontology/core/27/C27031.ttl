@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27031 a skos:Concept ;
+    skos:broader ocs:C8614,
+        ocs:C9704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_seeking_behavior> ;
+    skos:prefLabel "Information seeking behavior" ;
+    skos:related ocs:C13349,
+        ocs:C1680,
+        ocs:C18,
+        ocs:C2862,
+        ocs:C2979,
+        ocs:C34391,
+        ocs:C40923,
+        ocs:C4292,
+        ocs:C44599,
+        ocs:C6944,
+        ocs:C7355,
+        ocs:C9704 .
+

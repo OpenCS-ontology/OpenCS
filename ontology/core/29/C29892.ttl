@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29892 a skos:Concept ;
+    skos:broader ocs:C16687 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stellar_collision> ;
+    skos:prefLabel "Stellar collision" ;
+    skos:related ocs:C17246,
+        ocs:C18085,
+        ocs:C20110,
+        ocs:C22542,
+        ocs:C23210,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C32295,
+        ocs:C35073,
+        ocs:C36014 .
+

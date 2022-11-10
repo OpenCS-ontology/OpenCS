@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37200 a skos:Concept ;
+    skos:broader ocs:C17412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Median_cut> ;
+    skos:prefLabel "Median cut" ;
+    skos:related ocs:C11805,
+        ocs:C12054,
+        ocs:C16028,
+        ocs:C19196,
+        ocs:C2122,
+        ocs:C36074,
+        ocs:C36120,
+        ocs:C39434,
+        ocs:C39816,
+        ocs:C41129,
+        ocs:C41436,
+        ocs:C41977,
+        ocs:C42589,
+        ocs:C42816,
+        ocs:C43226,
+        ocs:C43649,
+        ocs:C45372,
+        ocs:C6113,
+        ocs:C8519 .
+

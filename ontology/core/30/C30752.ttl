@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30752 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/CNO_cycle> ;
+    skos:prefLabel "CNO cycle" ;
+    skos:related ocs:C22542,
+        ocs:C25028,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C37677,
+        ocs:C40619,
+        ocs:C597 .
+

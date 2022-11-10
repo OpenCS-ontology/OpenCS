@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32611 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aquaculture_of_catfish> ;
+    skos:prefLabel "Aquaculture of catfish" ;
+    skos:related ocs:C24236,
+        ocs:C29638,
+        ocs:C30248,
+        ocs:C36214,
+        ocs:C38348,
+        ocs:C39959,
+        ocs:C40309,
+        ocs:C41192,
+        ocs:C43662 .
+

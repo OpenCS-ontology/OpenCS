@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32815 a skos:Concept ;
+    skos:broader ocs:C21101 ;
+    skos:closeMatch <http://dbpedia.org/resource/Retrial_queue> ;
+    skos:prefLabel "Retrial queue" ;
+    skos:related ocs:C16039,
+        ocs:C18439,
+        ocs:C20842,
+        ocs:C25438,
+        ocs:C26091,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C27878,
+        ocs:C29900,
+        ocs:C30610,
+        ocs:C31158,
+        ocs:C31803,
+        ocs:C34691,
+        ocs:C35234,
+        ocs:C35837,
+        ocs:C37680,
+        ocs:C38208,
+        ocs:C42591,
+        ocs:C45748 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7973 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pan_law> ;
+    skos:prefLabel "Pan law" ;
+    skos:related ocs:C14778,
+        ocs:C16548,
+        ocs:C21364,
+        ocs:C23365,
+        ocs:C25195,
+        ocs:C26449,
+        ocs:C29049,
+        ocs:C39475,
+        ocs:C5407,
+        ocs:C5506,
+        ocs:C5843,
+        ocs:C5853,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C8502 .
+

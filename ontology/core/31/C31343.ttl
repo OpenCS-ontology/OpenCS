@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31343 a skos:Concept ;
+    skos:broader ocs:C16159 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document_type_definition> ;
+    skos:prefLabel "Document type definition" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C18361,
+        ocs:C23709,
+        ocs:C24783,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C29284,
+        ocs:C33709,
+        ocs:C355,
+        ocs:C35567,
+        ocs:C38812,
+        ocs:C41537,
+        ocs:C42905,
+        ocs:C43819,
+        ocs:C44193,
+        ocs:C44843,
+        ocs:C5126,
+        ocs:C6278 .
+

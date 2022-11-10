@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12096 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PMCD> ;
+    skos:prefLabel "PMCD" ;
+    skos:related ocs:C1666,
+        ocs:C23259,
+        ocs:C2473,
+        ocs:C24871,
+        ocs:C25195,
+        ocs:C27613,
+        ocs:C29866,
+        ocs:C3022,
+        ocs:C30312,
+        ocs:C33862,
+        ocs:C34474,
+        ocs:C3508,
+        ocs:C4916,
+        ocs:C4917,
+        ocs:C7255 .
+

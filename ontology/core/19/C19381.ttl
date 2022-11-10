@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19381 a skos:Concept ;
+    skos:broader ocs:C10516 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persian_literature> ;
+    skos:prefLabel "Persian literature" ;
+    skos:related ocs:C10516,
+        ocs:C26894,
+        ocs:C27167,
+        ocs:C401 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11290 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C34,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open-source_intelligence> ;
+    skos:prefLabel "Open-source intelligence" ;
+    skos:related ocs:C11146,
+        ocs:C12736,
+        ocs:C1331,
+        ocs:C15118,
+        ocs:C17534,
+        ocs:C1845,
+        ocs:C2008,
+        ocs:C2060,
+        ocs:C22668,
+        ocs:C28057,
+        ocs:C29462,
+        ocs:C3059,
+        ocs:C33610,
+        ocs:C37304,
+        ocs:C4163,
+        ocs:C7113,
+        ocs:C8126,
+        ocs:C8614 .
+

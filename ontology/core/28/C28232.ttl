@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28232 a skos:Concept ;
+    skos:broader ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Priority_queue> ;
+    skos:prefLabel "Priority queue" ;
+    skos:related ocs:C1,
+        ocs:C16028,
+        ocs:C2050,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C33378,
+        ocs:C34207,
+        ocs:C36112,
+        ocs:C38925,
+        ocs:C3913,
+        ocs:C42761,
+        ocs:C43640,
+        ocs:C43738,
+        ocs:C4966,
+        ocs:C5722,
+        ocs:C5745,
+        ocs:C8022 .
+

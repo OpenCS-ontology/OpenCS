@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45686 a skos:Concept ;
+    skos:broader ocs:C30729 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oriented_matroid> ;
+    skos:prefLabel "Oriented matroid" ;
+    skos:related ocs:C15480,
+        ocs:C17726,
+        ocs:C30729,
+        ocs:C34053,
+        ocs:C34975,
+        ocs:C36649,
+        ocs:C42162,
+        ocs:C42789,
+        ocs:C43508,
+        ocs:C43604,
+        ocs:C44136,
+        ocs:C45712,
+        ocs:C8944 .
+

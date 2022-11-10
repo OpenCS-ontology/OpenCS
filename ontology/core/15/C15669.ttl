@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15669 a skos:Concept ;
+    skos:broader ocs:C10492 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_edge> ;
+    skos:prefLabel "Signal edge" ;
+    skos:related ocs:C10320,
+        ocs:C11047,
+        ocs:C11186,
+        ocs:C12781,
+        ocs:C16152,
+        ocs:C210,
+        ocs:C22699,
+        ocs:C24204,
+        ocs:C29072,
+        ocs:C5506,
+        ocs:C6341,
+        ocs:C7165,
+        ocs:C9262 .
+

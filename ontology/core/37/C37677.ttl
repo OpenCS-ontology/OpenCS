@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37677 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stellar_nucleosynthesis> ;
+    skos:prefLabel "Stellar nucleosynthesis" ;
+    skos:related ocs:C22014,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C30752,
+        ocs:C31506,
+        ocs:C37301,
+        ocs:C597 .
+

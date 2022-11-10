@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4520 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_decision-making> ;
+    skos:prefLabel "Dynamic decision-making" ;
+    skos:related ocs:C1150,
+        ocs:C11749,
+        ocs:C25670,
+        ocs:C26519,
+        ocs:C37540,
+        ocs:C40277,
+        ocs:C5295,
+        ocs:C5863,
+        ocs:C6998,
+        ocs:C7163,
+        ocs:C852,
+        ocs:C9373 .
+

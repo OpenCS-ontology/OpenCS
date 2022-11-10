@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5166 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Google_Contact_Lens> ;
+    skos:prefLabel "Google Contact Lens" ;
+    skos:related ocs:C15986,
+        ocs:C22076,
+        ocs:C30634,
+        ocs:C3236,
+        ocs:C3516,
+        ocs:C9601,
+        ocs:C9603 .
+

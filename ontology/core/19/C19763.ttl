@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19763 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:prefLabel "Straight line walking" ;
+    skos:related ocs:C622,
+        ocs:C7,
+        ocs:C7848,
+        ocs:C8 .
+

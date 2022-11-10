@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39261 a skos:Concept ;
+    skos:broader ocs:C31136,
+        ocs:C33053 ;
+    skos:prefLabel "Noxiustoxin" ;
+    skos:related ocs:C18138,
+        ocs:C31852,
+        ocs:C33053 .
+

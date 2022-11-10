@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34320 a skos:Concept ;
+    skos:broader ocs:C20800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hybrid_kernel> ;
+    skos:prefLabel "Hybrid kernel" ;
+    skos:related ocs:C12683,
+        ocs:C14271,
+        ocs:C15860,
+        ocs:C19487,
+        ocs:C20800,
+        ocs:C23924,
+        ocs:C24871,
+        ocs:C26097,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31433,
+        ocs:C31489,
+        ocs:C42619,
+        ocs:C45146,
+        ocs:C45251,
+        ocs:C45816,
+        ocs:C9,
+        ocs:C9433 .
+

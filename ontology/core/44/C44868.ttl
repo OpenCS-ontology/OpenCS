@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44868 a skos:Concept ;
+    skos:broader ocs:C32825,
+        ocs:C37679 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_selection> ;
+    skos:prefLabel "Generalized selection" ;
+    skos:related ocs:C10392,
+        ocs:C10444,
+        ocs:C10622,
+        ocs:C12185,
+        ocs:C16334,
+        ocs:C17593,
+        ocs:C17701,
+        ocs:C21589,
+        ocs:C26088,
+        ocs:C28062,
+        ocs:C39542,
+        ocs:C42859,
+        ocs:C43099,
+        ocs:C4389,
+        ocs:C44339,
+        ocs:C44736,
+        ocs:C45525,
+        ocs:C5828 .
+

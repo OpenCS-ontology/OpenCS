@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45218 a skos:Concept ;
+    skos:broader ocs:C32877 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rankin–Selberg_method> ;
+    skos:prefLabel "Rankin–Selberg method" ;
+    skos:related ocs:C23209,
+        ocs:C32877,
+        ocs:C35040,
+        ocs:C43968,
+        ocs:C45445 .
+

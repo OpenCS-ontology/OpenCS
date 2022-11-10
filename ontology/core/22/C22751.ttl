@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22751 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/CompactRIO> ;
+    skos:prefLabel "CompactRIO" ;
+    skos:related ocs:C11,
+        ocs:C14967,
+        ocs:C19400,
+        ocs:C20607,
+        ocs:C26103,
+        ocs:C26155,
+        ocs:C26943,
+        ocs:C28881,
+        ocs:C29868,
+        ocs:C30085,
+        ocs:C31489,
+        ocs:C33,
+        ocs:C3416,
+        ocs:C3452,
+        ocs:C490,
+        ocs:C5336,
+        ocs:C5912,
+        ocs:C9 .
+

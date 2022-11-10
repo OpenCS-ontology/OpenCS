@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12537 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Display response" ;
+    skos:related ocs:C10321,
+        ocs:C12582,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C6069,
+        ocs:C78,
+        ocs:C8021,
+        ocs:C8438,
+        ocs:C8706,
+        ocs:C8787,
+        ocs:C9605 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33775 a skos:Concept ;
+    skos:broader ocs:C28720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temnothorax_nylanderi> ;
+    skos:prefLabel "Temnothorax nylanderi" ;
+    skos:related ocs:C19235,
+        ocs:C23059,
+        ocs:C28720,
+        ocs:C34293,
+        ocs:C36284 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8326 a skos:Concept ;
+    skos:broader ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predictive_failure_analysis> ;
+    skos:prefLabel "Predictive failure analysis" ;
+    skos:related ocs:C10269,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C15529,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27019,
+        ocs:C31489,
+        ocs:C38915,
+        ocs:C39218,
+        ocs:C41962,
+        ocs:C6397,
+        ocs:C754,
+        ocs:C7622,
+        ocs:C8173,
+        ocs:C8613,
+        ocs:C9742 .
+

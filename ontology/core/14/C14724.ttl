@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14724 a skos:Concept ;
+    skos:broader ocs:C10449,
+        ocs:C10619,
+        ocs:C11188,
+        ocs:C2878,
+        ocs:C6594,
+        ocs:C9745 ;
+    skos:prefLabel "Fault tolerant parallel processor" .
+

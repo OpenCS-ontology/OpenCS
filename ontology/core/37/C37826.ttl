@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37826 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Montgomery_curve> ;
+    skos:prefLabel "Montgomery curve" ;
+    skos:related ocs:C32484,
+        ocs:C37881,
+        ocs:C37882,
+        ocs:C39295,
+        ocs:C40480,
+        ocs:C40515,
+        ocs:C43074,
+        ocs:C43982,
+        ocs:C44743,
+        ocs:C44836,
+        ocs:C44907 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45627 a skos:Concept ;
+    skos:broader ocs:C30037,
+        ocs:C32555,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C36169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Super_G_(wireless_networking)> ;
+    skos:prefLabel "Super G" ;
+    skos:related ocs:C10732,
+        ocs:C12111,
+        ocs:C17187,
+        ocs:C18797,
+        ocs:C19350,
+        ocs:C21424,
+        ocs:C22705,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C33226,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C42902,
+        ocs:C4665 .
+

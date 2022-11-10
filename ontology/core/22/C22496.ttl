@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22496 a skos:Concept ;
+    skos:broader ocs:C4199,
+        ocs:C9546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_criminology> ;
+    skos:prefLabel "Computational criminology" ;
+    skos:related ocs:C1,
+        ocs:C13,
+        ocs:C20,
+        ocs:C21,
+        ocs:C22,
+        ocs:C23060,
+        ocs:C23564,
+        ocs:C25,
+        ocs:C29,
+        ocs:C34,
+        ocs:C7 .
+

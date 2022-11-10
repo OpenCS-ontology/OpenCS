@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10530 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/XMDP> ;
+    skos:prefLabel "XMDP" ;
+    skos:related ocs:C12477,
+        ocs:C1319,
+        ocs:C17658,
+        ocs:C20647,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C32413,
+        ocs:C33709,
+        ocs:C36357,
+        ocs:C37595,
+        ocs:C38072,
+        ocs:C3896,
+        ocs:C42182,
+        ocs:C4500,
+        ocs:C5095,
+        ocs:C7432,
+        ocs:C8572 .
+

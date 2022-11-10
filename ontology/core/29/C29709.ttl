@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29709 a skos:Concept ;
+    skos:broader ocs:C15463 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-serial_dependencies> ;
+    skos:prefLabel "Cross-serial dependencies" ;
+    skos:related ocs:C16635,
+        ocs:C17732,
+        ocs:C22093,
+        ocs:C22560,
+        ocs:C26158,
+        ocs:C27187,
+        ocs:C27343,
+        ocs:C29901,
+        ocs:C31787,
+        ocs:C35270,
+        ocs:C36538,
+        ocs:C38340,
+        ocs:C41655,
+        ocs:C42486,
+        ocs:C42701,
+        ocs:C43180,
+        ocs:C43958,
+        ocs:C5048,
+        ocs:C524 .
+

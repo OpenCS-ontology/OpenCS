@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34406 a skos:Concept ;
+    skos:broader ocs:C17378,
+        ocs:C19230,
+        ocs:C24264,
+        ocs:C28537 ;
+    skos:prefLabel "Coherent phase shift keying" .
+

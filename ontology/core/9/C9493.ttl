@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9493 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shingled_magnetic_recording> ;
+    skos:prefLabel "Shingled magnetic recording" ;
+    skos:related ocs:C11960,
+        ocs:C12324,
+        ocs:C13783,
+        ocs:C3231,
+        ocs:C36536,
+        ocs:C38915,
+        ocs:C3984,
+        ocs:C600 .
+

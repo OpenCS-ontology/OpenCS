@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22279 a skos:Concept ;
+    skos:broader ocs:C4534 ;
+    skos:closeMatch <http://dbpedia.org/resource/GIS_and_public_health> ;
+    skos:prefLabel "GIS and public health" ;
+    skos:related ocs:C13713,
+        ocs:C2115,
+        ocs:C25251,
+        ocs:C28090,
+        ocs:C31518,
+        ocs:C37642,
+        ocs:C4534 .
+

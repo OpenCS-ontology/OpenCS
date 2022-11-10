@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30923 a skos:Concept ;
+    skos:broader ocs:C25850 ;
+    skos:closeMatch <http://dbpedia.org/resource/QAM_(television)> ;
+    skos:prefLabel "QAM" ;
+    skos:related ocs:C11323,
+        ocs:C12544,
+        ocs:C13979,
+        ocs:C13994,
+        ocs:C14535,
+        ocs:C18761,
+        ocs:C19230,
+        ocs:C20140,
+        ocs:C25850,
+        ocs:C27572,
+        ocs:C30635,
+        ocs:C32488,
+        ocs:C33356,
+        ocs:C33691,
+        ocs:C34364,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C36807,
+        ocs:C4433 .
+

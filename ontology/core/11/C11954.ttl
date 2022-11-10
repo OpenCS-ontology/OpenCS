@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11954 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_textbook> ;
+    skos:prefLabel "Digital textbook" ;
+    skos:related ocs:C11058,
+        ocs:C11456,
+        ocs:C16426,
+        ocs:C17608,
+        ocs:C19005,
+        ocs:C22701,
+        ocs:C25968,
+        ocs:C3444,
+        ocs:C4164,
+        ocs:C4438,
+        ocs:C5680,
+        ocs:C6219,
+        ocs:C6234,
+        ocs:C6529,
+        ocs:C8614,
+        ocs:C9057,
+        ocs:C9113 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32681 a skos:Concept ;
+    skos:broader ocs:C17522 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solenopsis_molesta> ;
+    skos:prefLabel "Solenopsis molesta" ;
+    skos:related ocs:C14279,
+        ocs:C18735,
+        ocs:C24249,
+        ocs:C27032 .
+

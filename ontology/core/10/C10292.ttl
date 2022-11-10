@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10292 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cordless> ;
+    skos:prefLabel "Cordless" ;
+    skos:related ocs:C11581,
+        ocs:C17383,
+        ocs:C21424,
+        ocs:C29012,
+        ocs:C3236,
+        ocs:C35370,
+        ocs:C5843 .
+

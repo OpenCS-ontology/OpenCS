@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15779 a skos:Concept ;
+    skos:broader ocs:C5745,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/First-come,_first-served> ;
+    skos:prefLabel "First-come, first-served" ;
+    skos:related ocs:C12373,
+        ocs:C15172,
+        ocs:C1628,
+        ocs:C26325,
+        ocs:C27568,
+        ocs:C28952,
+        ocs:C30218,
+        ocs:C31158,
+        ocs:C41000,
+        ocs:C45252,
+        ocs:C5610,
+        ocs:C6408,
+        ocs:C8614,
+        ocs:C8704 .
+

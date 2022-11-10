@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34992 a skos:Concept ;
+    skos:broader ocs:C28941 ;
+    skos:closeMatch <http://dbpedia.org/resource/HATEOAS> ;
+    skos:prefLabel "HATEOAS" ;
+    skos:related ocs:C1521,
+        ocs:C17238,
+        ocs:C176,
+        ocs:C20329,
+        ocs:C22597,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C28941,
+        ocs:C30237,
+        ocs:C31,
+        ocs:C31894,
+        ocs:C38459,
+        ocs:C39643,
+        ocs:C40346,
+        ocs:C42972,
+        ocs:C43056,
+        ocs:C7106,
+        ocs:C7616,
+        ocs:C8312,
+        ocs:C8614 .
+

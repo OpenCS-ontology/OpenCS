@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10260 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design-based_research> ;
+    skos:prefLabel "Design-based research" ;
+    skos:related ocs:C20042,
+        ocs:C3444,
+        ocs:C8 .
+

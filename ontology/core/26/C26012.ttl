@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26012 a skos:Concept ;
+    skos:broader ocs:C11126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaborative_filtering> ;
+    skos:prefLabel "Collaborative filtering" ;
+    skos:related ocs:C10,
+        ocs:C10382,
+        ocs:C11126,
+        ocs:C12576,
+        ocs:C18683,
+        ocs:C25,
+        ocs:C263,
+        ocs:C29542,
+        ocs:C30778,
+        ocs:C312,
+        ocs:C31650,
+        ocs:C31758,
+        ocs:C33925,
+        ocs:C34361,
+        ocs:C3800,
+        ocs:C40049,
+        ocs:C4866,
+        ocs:C5140,
+        ocs:C8614,
+        ocs:C9874 .
+

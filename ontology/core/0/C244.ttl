@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C244 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereo_display> ;
+    skos:prefLabel "Stereo display" ;
+    skos:related ocs:C13549,
+        ocs:C13745,
+        ocs:C14023,
+        ocs:C14925,
+        ocs:C19228,
+        ocs:C20850,
+        ocs:C2121,
+        ocs:C23153,
+        ocs:C2422,
+        ocs:C2883,
+        ocs:C36940,
+        ocs:C653,
+        ocs:C7910,
+        ocs:C8021 .
+

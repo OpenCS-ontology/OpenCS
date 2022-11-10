@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33916 a skos:Concept ;
+    skos:broader ocs:C28117 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPARQL> ;
+    skos:prefLabel "SPARQL" ;
+    skos:related ocs:C10444,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C14209,
+        ocs:C28117,
+        ocs:C28963,
+        ocs:C2931,
+        ocs:C35570,
+        ocs:C37838,
+        ocs:C38059,
+        ocs:C39973,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C44135,
+        ocs:C44816,
+        ocs:C4921,
+        ocs:C6,
+        ocs:C9836 .
+

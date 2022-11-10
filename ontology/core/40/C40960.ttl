@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40960 a skos:Concept ;
+    skos:broader ocs:C34316,
+        ocs:C35565,
+        ocs:C37641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_usability> ;
+    skos:prefLabel "Universal usability" ;
+    skos:related ocs:C1,
+        ocs:C11046,
+        ocs:C14148,
+        ocs:C1498,
+        ocs:C15045,
+        ocs:C15131,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C197,
+        ocs:C24971,
+        ocs:C34668,
+        ocs:C3575,
+        ocs:C37641,
+        ocs:C4292,
+        ocs:C6353,
+        ocs:C7714,
+        ocs:C9607 .
+

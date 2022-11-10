@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30703 a skos:Concept ;
+    skos:broader ocs:C20540 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_set> ;
+    skos:prefLabel "IP set" ;
+    skos:related ocs:C28070,
+        ocs:C31988,
+        ocs:C34745,
+        ocs:C36942,
+        ocs:C45891,
+        ocs:C9429 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40433 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C31489,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cache_Acceleration_Software> ;
+    skos:prefLabel "Cache Acceleration Software" ;
+    skos:related ocs:C10086,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C23599,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C3229,
+        ocs:C32389,
+        ocs:C36439,
+        ocs:C39121,
+        ocs:C7622,
+        ocs:C8706 .
+

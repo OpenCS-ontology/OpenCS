@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25487 a skos:Concept ;
+    skos:broader ocs:C394 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_fraud> ;
+    skos:prefLabel "Identity fraud" ;
+    skos:related ocs:C1061,
+        ocs:C12011,
+        ocs:C12378,
+        ocs:C13975,
+        ocs:C16292,
+        ocs:C17046,
+        ocs:C17656,
+        ocs:C18100,
+        ocs:C20937,
+        ocs:C26,
+        ocs:C37095,
+        ocs:C394,
+        ocs:C44448,
+        ocs:C4917,
+        ocs:C8437,
+        ocs:C9344,
+        ocs:C9489 .
+

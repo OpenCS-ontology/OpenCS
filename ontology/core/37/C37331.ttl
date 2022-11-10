@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37331 a skos:Concept ;
+    skos:broader ocs:C18073,
+        ocs:C29171 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field-programmable_analog_array> ;
+    skos:prefLabel "Field-programmable analog array" ;
+    skos:related ocs:C13747,
+        ocs:C14650,
+        ocs:C14694,
+        ocs:C26155,
+        ocs:C26207,
+        ocs:C29006,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C8518,
+        ocs:C9908 .
+

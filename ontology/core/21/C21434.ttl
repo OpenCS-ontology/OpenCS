@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21434 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C1451,
+        ocs:C4321,
+        ocs:C7800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-IV_(specification_language)> ;
+    skos:prefLabel "Meta-IV" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C10720,
+        ocs:C13101,
+        ocs:C13624,
+        ocs:C2077,
+        ocs:C26693,
+        ocs:C28702,
+        ocs:C30651,
+        ocs:C31028,
+        ocs:C31722,
+        ocs:C31850,
+        ocs:C32014,
+        ocs:C36771,
+        ocs:C4321,
+        ocs:C5722,
+        ocs:C6714,
+        ocs:C8786,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12223 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tactical_bombing> ;
+    skos:prefLabel "Tactical bombing" ;
+    skos:related ocs:C3285,
+        ocs:C4008,
+        ocs:C5247,
+        ocs:C6589,
+        ocs:C9066 .
+

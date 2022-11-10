@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24331 a skos:Concept ;
+    skos:broader ocs:C6594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superprocess> ;
+    skos:prefLabel "Superprocess" ;
+    skos:related ocs:C25668,
+        ocs:C32491,
+        ocs:C37437,
+        ocs:C6909 .
+

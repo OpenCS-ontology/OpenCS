@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9207 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/H.323_Gateway> ;
+    skos:prefLabel "H.323 Gateway" ;
+    skos:related ocs:C12171,
+        ocs:C13848,
+        ocs:C15589,
+        ocs:C19406,
+        ocs:C21610,
+        ocs:C26809,
+        ocs:C27191,
+        ocs:C27988,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C3259,
+        ocs:C36124,
+        ocs:C38247,
+        ocs:C4166,
+        ocs:C45147,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C7112,
+        ocs:C7288 .
+

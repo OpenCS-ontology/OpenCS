@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15208 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trademark_infringement> ;
+    skos:prefLabel "Trademark infringement" ;
+    skos:related ocs:C13306,
+        ocs:C16960,
+        ocs:C18764,
+        ocs:C18872,
+        ocs:C26483,
+        ocs:C2657,
+        ocs:C27519,
+        ocs:C27675,
+        ocs:C37435,
+        ocs:C37556 .
+

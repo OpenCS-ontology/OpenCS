@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14990 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_standard_library> ;
+    skos:prefLabel "C standard library" ;
+    skos:related ocs:C1083,
+        ocs:C11293,
+        ocs:C1165,
+        ocs:C12683,
+        ocs:C1333,
+        ocs:C14271,
+        ocs:C18991,
+        ocs:C19,
+        ocs:C20800,
+        ocs:C22630,
+        ocs:C25960,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C39715,
+        ocs:C41115,
+        ocs:C42619,
+        ocs:C4321,
+        ocs:C8323,
+        ocs:C9 .
+

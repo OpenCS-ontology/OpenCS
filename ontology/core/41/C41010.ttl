@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41010 a skos:Concept ;
+    skos:broader ocs:C32086 ;
+    skos:closeMatch <http://dbpedia.org/resource/BY_Draconis_variable> ;
+    skos:prefLabel "BY Draconis variable" ;
+    skos:related ocs:C10556,
+        ocs:C14224,
+        ocs:C17920,
+        ocs:C18085,
+        ocs:C19549,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C29898,
+        ocs:C31589,
+        ocs:C32086,
+        ocs:C37682,
+        ocs:C44975,
+        ocs:C597 .
+

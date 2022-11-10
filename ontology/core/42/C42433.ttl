@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42433 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C34684,
+        ocs:C34753,
+        ocs:C36233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_encryption> ;
+    skos:prefLabel "Email encryption" ;
+    skos:related ocs:C13991,
+        ocs:C14647,
+        ocs:C14983,
+        ocs:C16125,
+        ocs:C18441,
+        ocs:C21324,
+        ocs:C24131,
+        ocs:C26892,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C32642,
+        ocs:C33191,
+        ocs:C39499,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C44566,
+        ocs:C5692,
+        ocs:C7006 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10410 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MindModeling@Home> ;
+    skos:prefLabel "MindModeling@Home" ;
+    skos:related ocs:C12475,
+        ocs:C12585,
+        ocs:C12760,
+        ocs:C17722,
+        ocs:C19002,
+        ocs:C25618,
+        ocs:C26030,
+        ocs:C27098,
+        ocs:C30525,
+        ocs:C31886,
+        ocs:C36573,
+        ocs:C8032,
+        ocs:C9091 .
+

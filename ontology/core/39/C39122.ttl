@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39122 a skos:Concept ;
+    skos:broader ocs:C35701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_asset_management> ;
+    skos:prefLabel "Software asset management" ;
+    skos:related ocs:C12149,
+        ocs:C1253,
+        ocs:C18764,
+        ocs:C197,
+        ocs:C26,
+        ocs:C27996,
+        ocs:C28881,
+        ocs:C29181,
+        ocs:C29273,
+        ocs:C29580,
+        ocs:C31489,
+        ocs:C35701,
+        ocs:C35797,
+        ocs:C3674,
+        ocs:C37971,
+        ocs:C43524,
+        ocs:C7106,
+        ocs:C9700 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43282 a skos:Concept ;
+    skos:broader ocs:C32349 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compactly_generated_space> ;
+    skos:prefLabel "Compactly generated space" ;
+    skos:related ocs:C38631,
+        ocs:C39382,
+        ocs:C42245 .
+

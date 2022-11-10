@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13630 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_Computer_Reference_Profile> ;
+    skos:prefLabel "Network Computer Reference Profile" ;
+    skos:related ocs:C13543,
+        ocs:C14627,
+        ocs:C20125,
+        ocs:C2206,
+        ocs:C22541,
+        ocs:C29798,
+        ocs:C30769,
+        ocs:C31690,
+        ocs:C34946,
+        ocs:C36401,
+        ocs:C39579,
+        ocs:C43717,
+        ocs:C44872,
+        ocs:C6768,
+        ocs:C8298,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C9 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21198 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Volterra_operator> ;
+    skos:prefLabel "Volterra operator" ;
+    skos:related ocs:C11150,
+        ocs:C14029,
+        ocs:C19125,
+        ocs:C19542,
+        ocs:C25598,
+        ocs:C28787,
+        ocs:C31849,
+        ocs:C35872,
+        ocs:C36808,
+        ocs:C39302,
+        ocs:C40662,
+        ocs:C43500,
+        ocs:C44342,
+        ocs:C44602,
+        ocs:C44691 .
+

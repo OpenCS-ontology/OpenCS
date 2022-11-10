@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37980 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Base> ;
+    skos:prefLabel "XML Base" ;
+    skos:related ocs:C11927,
+        ocs:C23709,
+        ocs:C24486,
+        ocs:C26630,
+        ocs:C30182,
+        ocs:C32506,
+        ocs:C33052,
+        ocs:C33355,
+        ocs:C34168,
+        ocs:C3679,
+        ocs:C38812,
+        ocs:C39253,
+        ocs:C40360,
+        ocs:C42496,
+        ocs:C43834,
+        ocs:C44479,
+        ocs:C5592,
+        ocs:C574,
+        ocs:C9166,
+        ocs:C9836 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26974 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5722,
+        ocs:C7006,
+        ocs:C7106,
+        ocs:C8753 ;
+    skos:prefLabel "Authenticated data structures" .
+

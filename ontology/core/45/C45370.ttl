@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45370 a skos:Concept ;
+    skos:broader ocs:C32110,
+        ocs:C37360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-phase_commit_protocol> ;
+    skos:prefLabel "Two-phase commit protocol" ;
+    skos:related ocs:C12185,
+        ocs:C22879,
+        ocs:C30,
+        ocs:C30273,
+        ocs:C33964,
+        ocs:C37360,
+        ocs:C38365,
+        ocs:C39022,
+        ocs:C40503,
+        ocs:C42517,
+        ocs:C43644,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C4504,
+        ocs:C45466,
+        ocs:C6,
+        ocs:C6754,
+        ocs:C8327,
+        ocs:C8893 .
+

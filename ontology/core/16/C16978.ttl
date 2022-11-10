@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16978 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turbo_code> ;
+    skos:prefLabel "Turbo code" ;
+    skos:related ocs:C14926,
+        ocs:C16106,
+        ocs:C18626,
+        ocs:C19174,
+        ocs:C19721,
+        ocs:C19877,
+        ocs:C21471,
+        ocs:C21929,
+        ocs:C26349,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C32049,
+        ocs:C37877,
+        ocs:C37934,
+        ocs:C40267,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C43091,
+        ocs:C44927,
+        ocs:C5816 .
+

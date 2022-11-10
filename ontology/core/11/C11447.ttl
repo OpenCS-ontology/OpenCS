@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11447 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hacker_(computer_security)> ;
+    skos:prefLabel "Hacker" ;
+    skos:related ocs:C1253,
+        ocs:C14175,
+        ocs:C17046,
+        ocs:C17873,
+        ocs:C18986,
+        ocs:C20937,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C31489,
+        ocs:C35,
+        ocs:C36682,
+        ocs:C40900,
+        ocs:C41901,
+        ocs:C4513,
+        ocs:C8458,
+        ocs:C8614,
+        ocs:C9 .
+

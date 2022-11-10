@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2583 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tag_system> ;
+    skos:prefLabel "Tag system" ;
+    skos:related ocs:C10,
+        ocs:C122,
+        ocs:C14986,
+        ocs:C22100,
+        ocs:C29939,
+        ocs:C31124,
+        ocs:C33287,
+        ocs:C34319,
+        ocs:C38406,
+        ocs:C38733,
+        ocs:C39944,
+        ocs:C40137,
+        ocs:C41669,
+        ocs:C41998,
+        ocs:C42091,
+        ocs:C4501,
+        ocs:C45460,
+        ocs:C524,
+        ocs:C6880,
+        ocs:C8334 .
+

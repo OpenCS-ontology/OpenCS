@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8945 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_type_(object-oriented_programming)> ;
+    skos:prefLabel "Object type" ;
+    skos:related ocs:C10182,
+        ocs:C10284,
+        ocs:C10411,
+        ocs:C10720,
+        ocs:C10909,
+        ocs:C1142,
+        ocs:C15051,
+        ocs:C2879,
+        ocs:C28944,
+        ocs:C3637,
+        ocs:C42032,
+        ocs:C4918,
+        ocs:C5280,
+        ocs:C6255,
+        ocs:C6587,
+        ocs:C794,
+        ocs:C8757,
+        ocs:C9023 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43052 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diode_logic> ;
+    skos:prefLabel "Diode logic" ;
+    skos:related ocs:C11252,
+        ocs:C35269,
+        ocs:C38944,
+        ocs:C39652,
+        ocs:C40416,
+        ocs:C45121 .
+

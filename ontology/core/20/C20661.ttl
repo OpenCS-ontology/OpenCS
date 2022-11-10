@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20661 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C9154 ;
+    skos:closeMatch <http://dbpedia.org/resource/FCCH> ;
+    skos:prefLabel "FCCH" ;
+    skos:related ocs:C1198,
+        ocs:C1210,
+        ocs:C17999,
+        ocs:C20746,
+        ocs:C24246,
+        ocs:C25016,
+        ocs:C25496,
+        ocs:C26274,
+        ocs:C33410,
+        ocs:C36670,
+        ocs:C37065,
+        ocs:C37543,
+        ocs:C38413,
+        ocs:C39659,
+        ocs:C43254,
+        ocs:C44506,
+        ocs:C634,
+        ocs:C6987 .
+

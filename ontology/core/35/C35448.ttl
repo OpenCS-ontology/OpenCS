@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35448 a skos:Concept ;
+    skos:broader ocs:C28736 ;
+    skos:closeMatch <http://dbpedia.org/resource/Membrane_mirror> ;
+    skos:prefLabel "Membrane mirror" ;
+    skos:related ocs:C20573,
+        ocs:C24698,
+        ocs:C25126,
+        ocs:C28736,
+        ocs:C37641,
+        ocs:C8561 .
+

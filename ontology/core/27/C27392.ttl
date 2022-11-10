@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27392 a skos:Concept ;
+    skos:broader ocs:C7056,
+        ocs:C7106,
+        ocs:C9741 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_allocation_(computer)> ;
+    skos:prefLabel "Resource allocation (computer)" ;
+    skos:related ocs:C10320,
+        ocs:C11093,
+        ocs:C1156,
+        ocs:C12683,
+        ocs:C15595,
+        ocs:C21718,
+        ocs:C2353,
+        ocs:C28761,
+        ocs:C3514,
+        ocs:C44255,
+        ocs:C4804,
+        ocs:C6072,
+        ocs:C8030,
+        ocs:C8704,
+        ocs:C9 .
+

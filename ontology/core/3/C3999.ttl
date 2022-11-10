@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3999 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/SmartLink_(television)> ;
+    skos:prefLabel "SmartLink" ;
+    skos:related ocs:C10186,
+        ocs:C13582,
+        ocs:C16777,
+        ocs:C29410,
+        ocs:C31258,
+        ocs:C33226,
+        ocs:C33773,
+        ocs:C34596,
+        ocs:C36900,
+        ocs:C38650,
+        ocs:C42521,
+        ocs:C43848,
+        ocs:C44538,
+        ocs:C4459,
+        ocs:C45119,
+        ocs:C45136,
+        ocs:C45456,
+        ocs:C5674 .
+

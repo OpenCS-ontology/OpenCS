@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42821 a skos:Concept ;
+    skos:broader ocs:C30084 ;
+    skos:closeMatch <http://dbpedia.org/resource/Level_set_(data_structures)> ;
+    skos:prefLabel "Level set (data structures)" ;
+    skos:related ocs:C13155,
+        ocs:C14416,
+        ocs:C15806,
+        ocs:C21555,
+        ocs:C23310,
+        ocs:C28233,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C29175,
+        ocs:C30084,
+        ocs:C34716,
+        ocs:C38644,
+        ocs:C5722,
+        ocs:C6279,
+        ocs:C7785,
+        ocs:C8565 .
+

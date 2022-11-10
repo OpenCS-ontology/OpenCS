@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32762 a skos:Concept ;
+    skos:broader ocs:C26025 ;
+    skos:prefLabel "Argon Ion Lasers" ;
+    skos:related ocs:C7604,
+        ocs:C8021 .
+

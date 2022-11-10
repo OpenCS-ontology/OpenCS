@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C985 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Load_management> ;
+    skos:prefLabel "Load management" ;
+    skos:related ocs:C17244,
+        ocs:C7740,
+        ocs:C8386,
+        ocs:C9718 .
+

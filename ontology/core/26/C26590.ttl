@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26590 a skos:Concept ;
+    skos:broader ocs:C12919 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geo_warping> ;
+    skos:prefLabel "Geo warping" ;
+    skos:related ocs:C12170,
+        ocs:C24208,
+        ocs:C2933,
+        ocs:C31226,
+        ocs:C8708 .
+

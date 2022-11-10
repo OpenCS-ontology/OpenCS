@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22088 a skos:Concept ;
+    skos:broader ocs:C10211 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_management_plan> ;
+    skos:prefLabel "Data management plan" ;
+    skos:related ocs:C10211,
+        ocs:C10979,
+        ocs:C13,
+        ocs:C13767,
+        ocs:C15046,
+        ocs:C25430,
+        ocs:C3037,
+        ocs:C32112,
+        ocs:C3344,
+        ocs:C33744,
+        ocs:C3896,
+        ocs:C41190,
+        ocs:C42428,
+        ocs:C5928,
+        ocs:C6225 .
+

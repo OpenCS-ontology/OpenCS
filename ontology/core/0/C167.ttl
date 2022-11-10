@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C167 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weapon_system> ;
+    skos:prefLabel "Weapon system" ;
+    skos:related ocs:C20265,
+        ocs:C24,
+        ocs:C4280,
+        ocs:C467,
+        ocs:C9066 .
+

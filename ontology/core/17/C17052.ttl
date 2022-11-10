@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17052 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Major_index> ;
+    skos:prefLabel "Major index" ;
+    skos:related ocs:C11282,
+        ocs:C18804,
+        ocs:C19033,
+        ocs:C22897,
+        ocs:C23311,
+        ocs:C2820,
+        ocs:C31106,
+        ocs:C35163,
+        ocs:C37833,
+        ocs:C39573,
+        ocs:C40487,
+        ocs:C43818 .
+

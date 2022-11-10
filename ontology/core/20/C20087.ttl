@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20087 a skos:Concept ;
+    skos:broader ocs:C12817,
+        ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polling_system> ;
+    skos:prefLabel "Polling system" ;
+    skos:related ocs:C12373,
+        ocs:C20113,
+        ocs:C20842,
+        ocs:C25438,
+        ocs:C26091,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C27878,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C34165,
+        ocs:C34691,
+        ocs:C35234,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45748 .
+

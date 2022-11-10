@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6179 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dodging_and_burning> ;
+    skos:prefLabel "Dodging and burning" ;
+    skos:related ocs:C10993,
+        ocs:C12473,
+        ocs:C21490,
+        ocs:C2895,
+        ocs:C6257,
+        ocs:C797,
+        ocs:C7981 .
+

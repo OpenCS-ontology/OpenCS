@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8308 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Anatomical boundary" ;
+    skos:related ocs:C10321,
+        ocs:C10554,
+        ocs:C11887,
+        ocs:C21,
+        ocs:C2649,
+        ocs:C26986,
+        ocs:C3740,
+        ocs:C7848 .
+

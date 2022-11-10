@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11931 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Background_noise> ;
+    skos:prefLabel "Background noise" ;
+    skos:related ocs:C11747,
+        ocs:C1564,
+        ocs:C27608,
+        ocs:C3,
+        ocs:C5505,
+        ocs:C5711,
+        ocs:C5853,
+        ocs:C7008 .
+

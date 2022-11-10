@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40976 a skos:Concept ;
+    skos:broader ocs:C30779,
+        ocs:C31528,
+        ocs:C35406 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synodontis_zambezensis> ;
+    skos:prefLabel "Synodontis zambezensis" ;
+    skos:related ocs:C30779,
+        ocs:C37727,
+        ocs:C42823,
+        ocs:C43973,
+        ocs:C45691 .
+

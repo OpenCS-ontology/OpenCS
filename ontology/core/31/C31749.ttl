@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31749 a skos:Concept ;
+    skos:broader ocs:C15728 ;
+    skos:closeMatch <http://dbpedia.org/resource/WirelessHART> ;
+    skos:prefLabel "WirelessHART" ;
+    skos:related ocs:C13593,
+        ocs:C15415,
+        ocs:C20483,
+        ocs:C21424,
+        ocs:C23438,
+        ocs:C25027,
+        ocs:C27912,
+        ocs:C29964,
+        ocs:C35370,
+        ocs:C38833,
+        ocs:C40705,
+        ocs:C8136,
+        ocs:C8172 .
+

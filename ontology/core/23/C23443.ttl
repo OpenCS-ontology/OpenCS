@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23443 a skos:Concept ;
+    skos:broader ocs:C5722 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skip_list> ;
+    skos:prefLabel "Skip list" ;
+    skos:related ocs:C1,
+        ocs:C14255,
+        ocs:C14269,
+        ocs:C2049,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28116,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C30764,
+        ocs:C32362,
+        ocs:C34716,
+        ocs:C36112,
+        ocs:C38666,
+        ocs:C38925,
+        ocs:C43106,
+        ocs:C43467,
+        ocs:C5722,
+        ocs:C8893 .
+

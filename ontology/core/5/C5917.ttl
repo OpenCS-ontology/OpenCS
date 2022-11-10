@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5917 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short_Message_Service> ;
+    skos:prefLabel "Short Message Service" ;
+    skos:related ocs:C12641,
+        ocs:C12853,
+        ocs:C18799,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C27704,
+        ocs:C28881,
+        ocs:C3,
+        ocs:C31755,
+        ocs:C35370,
+        ocs:C36500,
+        ocs:C5672,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C7102,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

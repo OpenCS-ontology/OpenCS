@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20556 a skos:Concept ;
+    skos:broader ocs:C13046 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-spectrum> ;
+    skos:prefLabel "Cross-spectrum" ;
+    skos:related ocs:C10509,
+        ocs:C11096,
+        ocs:C260,
+        ocs:C33141,
+        ocs:C34943,
+        ocs:C41480,
+        ocs:C6952,
+        ocs:C836,
+        ocs:C9428 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20117 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_walker_algorithm> ;
+    skos:prefLabel "Random walker algorithm" ;
+    skos:related ocs:C12530,
+        ocs:C14693,
+        ocs:C15460,
+        ocs:C16033,
+        ocs:C27903,
+        ocs:C29175,
+        ocs:C34708,
+        ocs:C39515,
+        ocs:C40134,
+        ocs:C40234,
+        ocs:C42302,
+        ocs:C42678,
+        ocs:C44133,
+        ocs:C4966,
+        ocs:C6335 .
+

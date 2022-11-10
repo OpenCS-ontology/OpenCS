@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35869 a skos:Concept ;
+    skos:broader ocs:C26649 ;
+    skos:closeMatch <http://dbpedia.org/resource/Erycinae> ;
+    skos:prefLabel "Erycinae" ;
+    skos:related ocs:C26649,
+        ocs:C30202,
+        ocs:C32523,
+        ocs:C35963 .
+

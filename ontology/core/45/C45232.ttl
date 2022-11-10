@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45232 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hisonotus> ;
+    skos:prefLabel "Hisonotus" ;
+    skos:related ocs:C37834,
+        ocs:C39157,
+        ocs:C39594,
+        ocs:C41487,
+        ocs:C41638,
+        ocs:C41678,
+        ocs:C42314,
+        ocs:C42992,
+        ocs:C43683,
+        ocs:C44358,
+        ocs:C44472,
+        ocs:C44890 .
+

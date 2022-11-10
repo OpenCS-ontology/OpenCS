@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8236 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technological_paradigm> ;
+    skos:prefLabel "Technological paradigm" ;
+    skos:related ocs:C11532,
+        ocs:C20841,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C32986,
+        ocs:C3321,
+        ocs:C5156,
+        ocs:C5707,
+        ocs:C6529,
+        ocs:C9656 .
+

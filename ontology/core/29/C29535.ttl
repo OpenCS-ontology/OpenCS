@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29535 a skos:Concept ;
+    skos:broader ocs:C11447 ;
+    skos:closeMatch <http://dbpedia.org/resource/Offensive_Security_Certified_Professional> ;
+    skos:prefLabel "Offensive Security Certified Professional" ;
+    skos:related ocs:C11447,
+        ocs:C14175,
+        ocs:C21322,
+        ocs:C25537,
+        ocs:C30769,
+        ocs:C31489,
+        ocs:C39307,
+        ocs:C39368,
+        ocs:C40291,
+        ocs:C40554,
+        ocs:C41901,
+        ocs:C45582,
+        ocs:C5732,
+        ocs:C8299,
+        ocs:C8458 .
+

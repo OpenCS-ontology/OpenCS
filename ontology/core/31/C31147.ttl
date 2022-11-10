@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31147 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Privacy-enhanced_Electronic_Mail> ;
+    skos:prefLabel "Privacy-enhanced Electronic Mail" ;
+    skos:related ocs:C14647,
+        ocs:C16125,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C30656,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C39718,
+        ocs:C40789,
+        ocs:C41533,
+        ocs:C4218,
+        ocs:C42304,
+        ocs:C43651,
+        ocs:C44017,
+        ocs:C44289,
+        ocs:C44491,
+        ocs:C522 .
+

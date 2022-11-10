@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45339 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C31925,
+        ocs:C35076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Majority_function> ;
+    skos:prefLabel "Majority function" ;
+    skos:related ocs:C11252,
+        ocs:C11283,
+        ocs:C13686,
+        ocs:C13855,
+        ocs:C20803,
+        ocs:C21332,
+        ocs:C22706,
+        ocs:C23148,
+        ocs:C27823,
+        ocs:C29805,
+        ocs:C30179,
+        ocs:C3894,
+        ocs:C39210,
+        ocs:C45667,
+        ocs:C45670,
+        ocs:C9450 .
+

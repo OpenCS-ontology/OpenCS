@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13555 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C28,
+        ocs:C9 ;
+    skos:prefLabel "Program writer" ;
+    skos:related ocs:C1142,
+        ocs:C19,
+        ocs:C2,
+        ocs:C28 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3789 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Essive_case> ;
+    skos:prefLabel "Essive case" ;
+    skos:related ocs:C13868,
+        ocs:C22126,
+        ocs:C23656,
+        ocs:C24499,
+        ocs:C27343,
+        ocs:C30575,
+        ocs:C31787,
+        ocs:C3261,
+        ocs:C33527,
+        ocs:C7501,
+        ocs:C7793,
+        ocs:C9533 .
+

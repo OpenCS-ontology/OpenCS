@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41992 a skos:Concept ;
+    skos:broader ocs:C30953,
+        ocs:C31164,
+        ocs:C31267,
+        ocs:C32389,
+        ocs:C32777 ;
+    skos:closeMatch <http://dbpedia.org/resource/EMC_VPLEX> ;
+    skos:prefLabel "EMC VPLEX" ;
+    skos:related ocs:C10059,
+        ocs:C10073,
+        ocs:C17533,
+        ocs:C2352,
+        ocs:C26157,
+        ocs:C27921,
+        ocs:C29116,
+        ocs:C30402,
+        ocs:C31164,
+        ocs:C379,
+        ocs:C38117,
+        ocs:C39275,
+        ocs:C4159,
+        ocs:C41658,
+        ocs:C4384,
+        ocs:C7847,
+        ocs:C8024,
+        ocs:C9426 .
+

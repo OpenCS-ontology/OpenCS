@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39021 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiprocessor_scheduling> ;
+    skos:prefLabel "Multiprocessor scheduling" ;
+    skos:related ocs:C13701,
+        ocs:C15253,
+        ocs:C19326,
+        ocs:C23872,
+        ocs:C28075,
+        ocs:C30307,
+        ocs:C31026,
+        ocs:C32878,
+        ocs:C33435,
+        ocs:C3678,
+        ocs:C38119,
+        ocs:C45029,
+        ocs:C5239,
+        ocs:C5823,
+        ocs:C7988 .
+

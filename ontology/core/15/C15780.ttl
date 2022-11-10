@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15780 a skos:Concept ;
+    skos:broader ocs:C525 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antenna_tracking_system> ;
+    skos:prefLabel "Antenna tracking system" ;
+    skos:related ocs:C11863,
+        ocs:C17661,
+        ocs:C2581,
+        ocs:C2582,
+        ocs:C31951,
+        ocs:C35301,
+        ocs:C35345,
+        ocs:C45299 .
+

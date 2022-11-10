@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13410 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/N-jet> ;
+    skos:prefLabel "N-jet" ;
+    skos:related ocs:C10554,
+        ocs:C13142,
+        ocs:C14863,
+        ocs:C17252,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C28285,
+        ocs:C31108,
+        ocs:C31308,
+        ocs:C32479,
+        ocs:C34512,
+        ocs:C37582,
+        ocs:C41327,
+        ocs:C7,
+        ocs:C8499 .
+

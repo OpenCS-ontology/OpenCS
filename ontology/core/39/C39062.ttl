@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39062 a skos:Concept ;
+    skos:broader ocs:C30919 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quartic_reciprocity> ;
+    skos:prefLabel "Quartic reciprocity" ;
+    skos:related ocs:C24353,
+        ocs:C37866,
+        ocs:C39370,
+        ocs:C43730,
+        ocs:C4382,
+        ocs:C9449 .
+

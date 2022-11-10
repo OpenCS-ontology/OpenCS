@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C207 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Little_Smalltalk> ;
+    skos:prefLabel "Little Smalltalk" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C12974,
+        ocs:C19,
+        ocs:C20150,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C23867,
+        ocs:C24909,
+        ocs:C2830,
+        ocs:C327,
+        ocs:C4180,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5308,
+        ocs:C7697,
+        ocs:C8441 .
+

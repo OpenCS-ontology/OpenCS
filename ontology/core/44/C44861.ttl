@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44861 a skos:Concept ;
+    skos:broader ocs:C34165,
+        ocs:C35234 ;
+    skos:closeMatch <http://dbpedia.org/resource/BCMP_network> ;
+    skos:prefLabel "BCMP network" ;
+    skos:related ocs:C12373,
+        ocs:C16039,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C20842,
+        ocs:C23261,
+        ocs:C27599,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C34165,
+        ocs:C34568,
+        ocs:C35234,
+        ocs:C38208,
+        ocs:C39886,
+        ocs:C40289,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C45179,
+        ocs:C45748 .
+

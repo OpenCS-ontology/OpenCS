@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15452 a skos:Concept ;
+    skos:broader ocs:C4861,
+        ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Launch_window> ;
+    skos:prefLabel "Launch window" ;
+    skos:related ocs:C1628,
+        ocs:C19614,
+        ocs:C21630,
+        ocs:C2252,
+        ocs:C27429,
+        ocs:C28072,
+        ocs:C34065,
+        ocs:C45459,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C81 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33681 a skos:Concept ;
+    skos:broader ocs:C19721 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyclic_prefix> ;
+    skos:prefLabel "Cyclic prefix" ;
+    skos:related ocs:C11150,
+        ocs:C14319,
+        ocs:C16335,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21204,
+        ocs:C24264,
+        ocs:C24558,
+        ocs:C25850,
+        ocs:C30042,
+        ocs:C35897,
+        ocs:C36670,
+        ocs:C37368 .
+

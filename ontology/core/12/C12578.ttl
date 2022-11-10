@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12578 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complexity_management> ;
+    skos:prefLabel "Complexity management" ;
+    skos:related ocs:C12146,
+        ocs:C1332,
+        ocs:C14122,
+        ocs:C197,
+        ocs:C23671,
+        ocs:C28526,
+        ocs:C29840,
+        ocs:C32589,
+        ocs:C3395,
+        ocs:C6855 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14127 a skos:Concept ;
+    skos:broader ocs:C13364,
+        ocs:C13610,
+        ocs:C5610 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proto-value_functions> ;
+    skos:prefLabel "Proto-value functions" ;
+    skos:related ocs:C13364,
+        ocs:C13610,
+        ocs:C15460,
+        ocs:C18259,
+        ocs:C18279,
+        ocs:C20003,
+        ocs:C22985,
+        ocs:C27053,
+        ocs:C27903,
+        ocs:C29574,
+        ocs:C30245,
+        ocs:C35079,
+        ocs:C39019,
+        ocs:C39595,
+        ocs:C41114,
+        ocs:C42751,
+        ocs:C7094 .
+

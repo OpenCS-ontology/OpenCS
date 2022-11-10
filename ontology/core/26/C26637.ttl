@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26637 a skos:Concept ;
+    skos:broader ocs:C10720,
+        ocs:C10909,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compatibility_of_C_and_C++> ;
+    skos:prefLabel "Compatibility of C and C++" .
+

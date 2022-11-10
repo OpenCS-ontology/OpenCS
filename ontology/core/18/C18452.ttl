@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18452 a skos:Concept ;
+    skos:broader ocs:C2874,
+        ocs:C6021,
+        ocs:C7021,
+        ocs:C9182 ;
+    skos:prefLabel "Conditional log likelihood" .
+

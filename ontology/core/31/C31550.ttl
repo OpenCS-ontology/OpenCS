@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31550 a skos:Concept ;
+    skos:broader ocs:C21382,
+        ocs:C23668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polysyllogism> ;
+    skos:prefLabel "Polysyllogism" ;
+    skos:related ocs:C11088,
+        ocs:C1315,
+        ocs:C14923,
+        ocs:C16037,
+        ocs:C21382,
+        ocs:C23668,
+        ocs:C27458,
+        ocs:C28014,
+        ocs:C34615,
+        ocs:C35456,
+        ocs:C4170,
+        ocs:C7299,
+        ocs:C7343,
+        ocs:C9834 .
+

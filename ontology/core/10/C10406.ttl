@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10406 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert's_twenty-fourth_problem> ;
+    skos:prefLabel "Hilbert's twenty-fourth problem" ;
+    skos:related ocs:C12474,
+        ocs:C16614,
+        ocs:C25442,
+        ocs:C31529,
+        ocs:C37862,
+        ocs:C37871,
+        ocs:C41538,
+        ocs:C44771,
+        ocs:C45133 .
+

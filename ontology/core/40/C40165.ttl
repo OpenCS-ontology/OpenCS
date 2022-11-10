@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40165 a skos:Concept ;
+    skos:broader ocs:C36406 ;
+    skos:closeMatch <http://dbpedia.org/resource/Four_color_theorem> ;
+    skos:prefLabel "Four color theorem" ;
+    skos:related ocs:C14693,
+        ocs:C24988,
+        ocs:C30730,
+        ocs:C31629,
+        ocs:C34542,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38853,
+        ocs:C39263,
+        ocs:C40560,
+        ocs:C41797,
+        ocs:C42060,
+        ocs:C43374,
+        ocs:C45225,
+        ocs:C45361,
+        ocs:C45513 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4057 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Acquisition technique" ;
+    skos:related ocs:C10321,
+        ocs:C12641,
+        ocs:C16,
+        ocs:C2,
+        ocs:C22,
+        ocs:C30924,
+        ocs:C33 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35110 a skos:Concept ;
+    skos:broader ocs:C17801 ;
+    skos:closeMatch <http://dbpedia.org/resource/Euhirudinea> ;
+    skos:prefLabel "Euhirudinea" ;
+    skos:related ocs:C17801,
+        ocs:C18740,
+        ocs:C24128,
+        ocs:C34201,
+        ocs:C35126 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35303 a skos:Concept ;
+    skos:broader ocs:C14151 ;
+    skos:closeMatch <http://dbpedia.org/resource/Product_(mathematics)> ;
+    skos:prefLabel "Product (mathematics)" ;
+    skos:related ocs:C14151,
+        ocs:C18434,
+        ocs:C1884 .
+

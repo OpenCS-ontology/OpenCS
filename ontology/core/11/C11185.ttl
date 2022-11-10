@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11185 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teamwork> ;
+    skos:prefLabel "Teamwork" ;
+    skos:related ocs:C10225,
+        ocs:C29364,
+        ocs:C3057,
+        ocs:C7509 .
+

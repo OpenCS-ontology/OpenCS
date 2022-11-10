@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7429 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Device_Description_Repository> ;
+    skos:prefLabel "Device Description Repository" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C13252,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C32451,
+        ocs:C33355,
+        ocs:C35205,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C37980,
+        ocs:C42496,
+        ocs:C437,
+        ocs:C44238,
+        ocs:C44835,
+        ocs:C574,
+        ocs:C7552,
+        ocs:C9836 .
+

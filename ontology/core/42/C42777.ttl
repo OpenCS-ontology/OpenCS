@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42777 a skos:Concept ;
+    skos:broader ocs:C31363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cache_invalidation> ;
+    skos:prefLabel "Cache invalidation" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C15051,
+        ocs:C15179,
+        ocs:C1595,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C29529,
+        ocs:C32161,
+        ocs:C33275,
+        ocs:C42759,
+        ocs:C44255,
+        ocs:C8024,
+        ocs:C8170,
+        ocs:C8335,
+        ocs:C8616,
+        ocs:C8706,
+        ocs:C9740 .
+

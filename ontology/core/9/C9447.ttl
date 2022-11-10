@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9447 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/IT_service_continuity> ;
+    skos:prefLabel "IT service continuity" ;
+    skos:related ocs:C12988,
+        ocs:C13412,
+        ocs:C1399,
+        ocs:C15587,
+        ocs:C197,
+        ocs:C22104,
+        ocs:C23189,
+        ocs:C2352,
+        ocs:C24942,
+        ocs:C25012,
+        ocs:C25176,
+        ocs:C30114,
+        ocs:C39372,
+        ocs:C4817,
+        ocs:C621,
+        ocs:C7106,
+        ocs:C9121,
+        ocs:C9700 .
+

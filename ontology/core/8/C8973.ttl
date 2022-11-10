@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8973 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Detect> ;
+    skos:prefLabel "Device Sensor" ;
+    skos:related ocs:C12580,
+        ocs:C1940,
+        ocs:C22,
+        ocs:C33,
+        ocs:C35,
+        ocs:C5298,
+        ocs:C8172,
+        ocs:C8614 .
+

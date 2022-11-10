@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5524 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tachograph> ;
+    skos:prefLabel "Tachograph" ;
+    skos:related ocs:C12641,
+        ocs:C15851,
+        ocs:C16884,
+        ocs:C1704,
+        ocs:C17865,
+        ocs:C520,
+        ocs:C8558,
+        ocs:C9657,
+        ocs:C9714 .
+

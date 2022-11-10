@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5202 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C17,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auditory_display> ;
+    skos:prefLabel "Auditory display" ;
+    skos:related ocs:C21199,
+        ocs:C3397,
+        ocs:C434,
+        ocs:C4397,
+        ocs:C5139,
+        ocs:C690,
+        ocs:C9428 .
+

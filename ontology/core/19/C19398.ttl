@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19398 a skos:Concept ;
+    skos:broader ocs:C3936 ;
+    skos:closeMatch <http://dbpedia.org/resource/MinHash> ;
+    skos:prefLabel "MinHash" ;
+    skos:related ocs:C10398,
+        ocs:C11722,
+        ocs:C2049,
+        ocs:C20637,
+        ocs:C25,
+        ocs:C25365,
+        ocs:C25980,
+        ocs:C26456,
+        ocs:C32077,
+        ocs:C35839,
+        ocs:C38454,
+        ocs:C38917,
+        ocs:C3936,
+        ocs:C40696,
+        ocs:C41603,
+        ocs:C45467,
+        ocs:C45584,
+        ocs:C7658,
+        ocs:C8022 .
+

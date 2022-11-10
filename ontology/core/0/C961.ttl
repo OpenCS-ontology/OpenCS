@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C961 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_corpus> ;
+    skos:prefLabel "Text corpus" ;
+    skos:related ocs:C1034,
+        ocs:C11712,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C15475,
+        ocs:C16,
+        ocs:C1948,
+        ocs:C2298,
+        ocs:C23,
+        ocs:C2358,
+        ocs:C23894,
+        ocs:C26990,
+        ocs:C2902,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C5852,
+        ocs:C9106 .
+

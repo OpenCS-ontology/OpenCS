@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14021 a skos:Concept ;
+    skos:broader ocs:C11252,
+        ocs:C12781 ;
+    skos:closeMatch <http://dbpedia.org/resource/NAND_logic> ;
+    skos:prefLabel "NAND logic" ;
+    skos:related ocs:C11252,
+        ocs:C12781,
+        ocs:C13855,
+        ocs:C15662,
+        ocs:C23425,
+        ocs:C27823,
+        ocs:C3360,
+        ocs:C3894,
+        ocs:C43103,
+        ocs:C45667,
+        ocs:C45819 .
+

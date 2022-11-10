@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5030 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autopilot> ;
+    skos:prefLabel "Autopilot" ;
+    skos:related ocs:C12641,
+        ocs:C16191,
+        ocs:C16352,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C22667,
+        ocs:C36804,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C5913 .
+

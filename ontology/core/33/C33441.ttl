@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33441 a skos:Concept ;
+    skos:broader ocs:C14248,
+        ocs:C22626,
+        ocs:C24721 ;
+    skos:closeMatch <http://dbpedia.org/resource/Counter_automaton> ;
+    skos:prefLabel "Counter automaton" ;
+    skos:related ocs:C17732,
+        ocs:C21926,
+        ocs:C22100,
+        ocs:C22624,
+        ocs:C22626,
+        ocs:C26158,
+        ocs:C283,
+        ocs:C35757,
+        ocs:C36149,
+        ocs:C37890,
+        ocs:C38067,
+        ocs:C38284,
+        ocs:C39098,
+        ocs:C39527,
+        ocs:C40182,
+        ocs:C40873,
+        ocs:C41040,
+        ocs:C42922,
+        ocs:C43277,
+        ocs:C43451 .
+

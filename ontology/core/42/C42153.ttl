@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42153 a skos:Concept ;
+    skos:broader ocs:C35534 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fact_constellation> ;
+    skos:prefLabel "Fact constellation" ;
+    skos:related ocs:C12403,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C18025,
+        ocs:C18405,
+        ocs:C26941,
+        ocs:C28633,
+        ocs:C31727,
+        ocs:C33281,
+        ocs:C34622,
+        ocs:C35534,
+        ocs:C36358,
+        ocs:C36510,
+        ocs:C37051,
+        ocs:C37135,
+        ocs:C38006,
+        ocs:C38452 .
+

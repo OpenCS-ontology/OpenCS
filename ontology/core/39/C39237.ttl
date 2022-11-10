@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39237 a skos:Concept ;
+    skos:broader ocs:C29604,
+        ocs:C36536 ;
+    skos:closeMatch <http://dbpedia.org/resource/Forensic_disk_controller> ;
+    skos:prefLabel "Forensic disk controller" ;
+    skos:related ocs:C10785,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C2054,
+        ocs:C302,
+        ocs:C32160,
+        ocs:C34298,
+        ocs:C6588,
+        ocs:C9,
+        ocs:C9401 .
+

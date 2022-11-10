@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22122 a skos:Concept ;
+    skos:broader ocs:C1399 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_27002> ;
+    skos:prefLabel "ISO/IEC 27002" ;
+    skos:related ocs:C12052,
+        ocs:C12507,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C23189,
+        ocs:C24513,
+        ocs:C25176,
+        ocs:C35810,
+        ocs:C37851,
+        ocs:C39016,
+        ocs:C39372,
+        ocs:C41901,
+        ocs:C42306,
+        ocs:C44040,
+        ocs:C45140,
+        ocs:C45654,
+        ocs:C7804,
+        ocs:C9121,
+        ocs:C9700 .
+

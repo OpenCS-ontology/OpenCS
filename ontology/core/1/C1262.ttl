@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1262 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Directive_(programming)> ;
+    skos:prefLabel "Directive" ;
+    skos:related ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12257,
+        ocs:C1333,
+        ocs:C13366,
+        ocs:C17204,
+        ocs:C18469,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C39339,
+        ocs:C39715,
+        ocs:C40088,
+        ocs:C4032,
+        ocs:C4321,
+        ocs:C5962,
+        ocs:C6714,
+        ocs:C6941 .
+

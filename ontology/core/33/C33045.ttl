@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33045 a skos:Concept ;
+    skos:broader ocs:C14353,
+        ocs:C14921,
+        ocs:C27563 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evolutionary_art> ;
+    skos:prefLabel "Evolutionary art" ;
+    skos:related ocs:C11143,
+        ocs:C12448,
+        ocs:C1740,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C37099,
+        ocs:C41431,
+        ocs:C42785,
+        ocs:C43755,
+        ocs:C7553,
+        ocs:C9022 .
+

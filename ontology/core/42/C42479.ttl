@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42479 a skos:Concept ;
+    skos:broader ocs:C33521,
+        ocs:C34448,
+        ocs:C34752 ;
+    skos:prefLabel "Logical key hierarchy" .
+

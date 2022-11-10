@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18415 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regression_testing> ;
+    skos:prefLabel "Regression testing" ;
+    skos:related ocs:C1253,
+        ocs:C19404,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C26339,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C36470,
+        ocs:C3844,
+        ocs:C38557,
+        ocs:C40291,
+        ocs:C41342,
+        ocs:C45208,
+        ocs:C45468,
+        ocs:C4558,
+        ocs:C6150,
+        ocs:C8268,
+        ocs:C8895 .
+

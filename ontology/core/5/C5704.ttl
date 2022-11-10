@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5704 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_evolution> ;
+    skos:prefLabel "Differential evolution" ;
+    skos:related ocs:C10390,
+        ocs:C12530,
+        ocs:C13208,
+        ocs:C14921,
+        ocs:C15670,
+        ocs:C22852,
+        ocs:C23250,
+        ocs:C24725,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C29738,
+        ocs:C33012,
+        ocs:C37565,
+        ocs:C40201,
+        ocs:C4216,
+        ocs:C44532,
+        ocs:C5197,
+        ocs:C7553 .
+

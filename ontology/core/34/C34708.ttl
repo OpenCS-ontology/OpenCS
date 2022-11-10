@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34708 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C17700,
+        ocs:C17717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tarjan's_strongly_connected_components_algorithm> ;
+    skos:prefLabel "Tarjan's strongly connected components algorithm" ;
+    skos:related ocs:C14406,
+        ocs:C15414,
+        ocs:C17700,
+        ocs:C17717,
+        ocs:C30307,
+        ocs:C36126,
+        ocs:C39136,
+        ocs:C39316,
+        ocs:C40560,
+        ocs:C40824,
+        ocs:C42302,
+        ocs:C43186,
+        ocs:C43652,
+        ocs:C45005,
+        ocs:C45671,
+        ocs:C4966 .
+

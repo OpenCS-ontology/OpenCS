@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45393 a skos:Concept ;
+    skos:broader ocs:C37782 ;
+    skos:closeMatch <http://dbpedia.org/resource/N-type_calcium_channel> ;
+    skos:prefLabel "N-type calcium channel" ;
+    skos:related ocs:C14264,
+        ocs:C18138,
+        ocs:C23973,
+        ocs:C25667,
+        ocs:C33985,
+        ocs:C34425,
+        ocs:C37490,
+        ocs:C38379,
+        ocs:C39977,
+        ocs:C41804 .
+

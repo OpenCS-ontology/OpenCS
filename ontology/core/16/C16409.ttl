@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16409 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:prefLabel "Test engineer" ;
+    skos:related ocs:C12257,
+        ocs:C14,
+        ocs:C2,
+        ocs:C25,
+        ocs:C29,
+        ocs:C33,
+        ocs:C41989,
+        ocs:C4237,
+        ocs:C5702,
+        ocs:C5818,
+        ocs:C6150 .
+

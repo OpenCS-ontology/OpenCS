@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9150 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document_management_system> ;
+    skos:prefLabel "Document management system" ;
+    skos:related ocs:C10052,
+        ocs:C13010,
+        ocs:C197,
+        ocs:C23103,
+        ocs:C28632,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C2981,
+        ocs:C3077,
+        ocs:C31489,
+        ocs:C34434,
+        ocs:C35701,
+        ocs:C3896,
+        ocs:C3912,
+        ocs:C5554,
+        ocs:C6,
+        ocs:C672,
+        ocs:C9 .
+

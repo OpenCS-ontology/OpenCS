@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2817 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transmitter_hunting> ;
+    skos:prefLabel "Transmitter hunting" ;
+    skos:related ocs:C10185,
+        ocs:C10587,
+        ocs:C1219,
+        ocs:C1455,
+        ocs:C16291,
+        ocs:C1793,
+        ocs:C25380,
+        ocs:C32840,
+        ocs:C38701,
+        ocs:C39720,
+        ocs:C41367,
+        ocs:C42471,
+        ocs:C6495,
+        ocs:C7159,
+        ocs:C7654 .
+

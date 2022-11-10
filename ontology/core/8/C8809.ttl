@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8809 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Core_Storage> ;
+    skos:prefLabel "Core Storage" ;
+    skos:related ocs:C10880,
+        ocs:C12211,
+        ocs:C13004,
+        ocs:C14412,
+        ocs:C14707,
+        ocs:C15529,
+        ocs:C19000,
+        ocs:C21545,
+        ocs:C22569,
+        ocs:C26157,
+        ocs:C30950,
+        ocs:C4267,
+        ocs:C43395,
+        ocs:C43718,
+        ocs:C45497,
+        ocs:C6588,
+        ocs:C7476 .
+

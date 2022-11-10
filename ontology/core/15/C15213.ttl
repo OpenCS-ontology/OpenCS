@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15213 a skos:Concept ;
+    skos:broader ocs:C12580,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Full-frame_digital_SLR> ;
+    skos:prefLabel "Full-frame digital SLR" ;
+    skos:related ocs:C10993,
+        ocs:C11324,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C20961,
+        ocs:C29172,
+        ocs:C3842,
+        ocs:C43094,
+        ocs:C6019,
+        ocs:C8021 .
+

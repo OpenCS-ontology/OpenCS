@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3835 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Descriptive_knowledge> ;
+    skos:prefLabel "Descriptive knowledge" ;
+    skos:related ocs:C33429,
+        ocs:C6290 .
+

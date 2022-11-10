@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33923 a skos:Concept ;
+    skos:broader ocs:C23875,
+        ocs:C26410,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/MDC-2> ;
+    skos:prefLabel "MDC-2" ;
+    skos:related ocs:C15591,
+        ocs:C32054,
+        ocs:C33416,
+        ocs:C35008,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39396,
+        ocs:C40584,
+        ocs:C40956,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C43199,
+        ocs:C43899,
+        ocs:C44462,
+        ocs:C5930,
+        ocs:C8946 .
+

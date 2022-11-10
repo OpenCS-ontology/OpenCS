@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42164 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Erdős–Gallai_theorem> ;
+    skos:prefLabel "Erdős–Gallai theorem" ;
+    skos:related ocs:C14693,
+        ocs:C17717,
+        ocs:C30245,
+        ocs:C32111,
+        ocs:C32746,
+        ocs:C33768,
+        ocs:C38134,
+        ocs:C39256,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C41767,
+        ocs:C43088,
+        ocs:C45422 .
+

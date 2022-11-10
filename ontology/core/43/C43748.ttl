@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43748 a skos:Concept ;
+    skos:broader ocs:C32096 ;
+    skos:closeMatch <http://dbpedia.org/resource/H-infinity_loop-shaping> ;
+    skos:prefLabel "H-infinity loop-shaping" ;
+    skos:related ocs:C18430,
+        ocs:C35769 .
+

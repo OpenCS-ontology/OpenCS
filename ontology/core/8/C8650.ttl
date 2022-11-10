@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8650 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C7 ;
+    skos:prefLabel "Tactile map" ;
+    skos:related ocs:C11934,
+        ocs:C16,
+        ocs:C17,
+        ocs:C21,
+        ocs:C22,
+        ocs:C2479,
+        ocs:C318,
+        ocs:C34535,
+        ocs:C5825 .
+

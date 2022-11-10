@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44189 a skos:Concept ;
+    skos:broader ocs:C34913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geospatial_metadata> ;
+    skos:prefLabel "Geospatial metadata" ;
+    skos:related ocs:C1037,
+        ocs:C11862,
+        ocs:C14626,
+        ocs:C15046,
+        ocs:C1651,
+        ocs:C22573,
+        ocs:C24208,
+        ocs:C27492,
+        ocs:C31518,
+        ocs:C35396,
+        ocs:C3896,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C5088,
+        ocs:C7401,
+        ocs:C9618,
+        ocs:C9836 .
+

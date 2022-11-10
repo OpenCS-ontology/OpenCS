@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38920 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31777,
+        ocs:C31949,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kasiski_examination> ;
+    skos:prefLabel "Kasiski examination" ;
+    skos:related ocs:C1027,
+        ocs:C11186,
+        ocs:C14539,
+        ocs:C1571,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C28967,
+        ocs:C30538,
+        ocs:C32079,
+        ocs:C32109,
+        ocs:C34052,
+        ocs:C35455,
+        ocs:C39140,
+        ocs:C40751,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44263,
+        ocs:C44636,
+        ocs:C5264 .
+

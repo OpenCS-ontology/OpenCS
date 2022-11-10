@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1379 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_patient> ;
+    skos:prefLabel "Virtual patient" ;
+    skos:related ocs:C12976,
+        ocs:C2973,
+        ocs:C7256 .
+

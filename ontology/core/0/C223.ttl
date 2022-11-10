@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C223 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamical_simulation> ;
+    skos:prefLabel "Dynamical simulation" ;
+    skos:related ocs:C17237,
+        ocs:C21609,
+        ocs:C28240,
+        ocs:C31985,
+        ocs:C35950,
+        ocs:C45682,
+        ocs:C5300 .
+

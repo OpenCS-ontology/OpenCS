@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33367 a skos:Concept ;
+    skos:broader ocs:C19421 ;
+    skos:closeMatch <http://dbpedia.org/resource/Franssen_effect> ;
+    skos:prefLabel "Franssen effect" ;
+    skos:related ocs:C19421,
+        ocs:C26327,
+        ocs:C387,
+        ocs:C4914,
+        ocs:C6417,
+        ocs:C9170,
+        ocs:C9481 .
+

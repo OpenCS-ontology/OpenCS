@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31902 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C17091,
+        ocs:C22099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_encryption> ;
+    skos:prefLabel "Functional encryption" ;
+    skos:related ocs:C10458,
+        ocs:C1505,
+        ocs:C18118,
+        ocs:C22099,
+        ocs:C23073,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C32484,
+        ocs:C32518,
+        ocs:C34295,
+        ocs:C34684,
+        ocs:C35391,
+        ocs:C36434,
+        ocs:C37863,
+        ocs:C39105,
+        ocs:C39645,
+        ocs:C39928,
+        ocs:C42288,
+        ocs:C43409,
+        ocs:C44856 .
+

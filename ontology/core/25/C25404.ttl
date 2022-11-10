@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25404 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C3236,
+        ocs:C4099 ;
+    skos:prefLabel "Wireless broadcasting" .
+

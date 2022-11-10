@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10320 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Central_processing_unit> ;
+    skos:prefLabel "Central processing unit" ;
+    skos:related ocs:C10409,
+        ocs:C1253,
+        ocs:C12690,
+        ocs:C17204,
+        ocs:C1904,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C4259,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C8024,
+        ocs:C856,
+        ocs:C9 .
+

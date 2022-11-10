@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31568 a skos:Concept ;
+    skos:broader ocs:C20415 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectra_Shield> ;
+    skos:prefLabel "Spectra Shield" ;
+    skos:related ocs:C13871,
+        ocs:C14450,
+        ocs:C17510,
+        ocs:C19970,
+        ocs:C20415,
+        ocs:C22545,
+        ocs:C22963,
+        ocs:C27776,
+        ocs:C28797 .
+

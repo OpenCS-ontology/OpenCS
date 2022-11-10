@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8803 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communications,_Air-interface,_Long_and_Medium_range> ;
+    skos:prefLabel "Communications, Air-interface, Long and Medium range" ;
+    skos:related ocs:C18213,
+        ocs:C19372,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C21424,
+        ocs:C24348,
+        ocs:C25799,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C29410,
+        ocs:C33773,
+        ocs:C36863,
+        ocs:C39947,
+        ocs:C40496,
+        ocs:C41543,
+        ocs:C42429,
+        ocs:C43573,
+        ocs:C44128,
+        ocs:C44571,
+        ocs:C9100 .
+

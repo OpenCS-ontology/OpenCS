@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26016 a skos:Concept ;
+    skos:broader ocs:C3851 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bézier_surface> ;
+    skos:prefLabel "Bézier surface" ;
+    skos:related ocs:C18519,
+        ocs:C19229,
+        ocs:C22,
+        ocs:C22682,
+        ocs:C25020,
+        ocs:C29473,
+        ocs:C29534,
+        ocs:C31512,
+        ocs:C35167,
+        ocs:C3851,
+        ocs:C39716,
+        ocs:C44381,
+        ocs:C44445,
+        ocs:C45109,
+        ocs:C45272,
+        ocs:C8324 .
+

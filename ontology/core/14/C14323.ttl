@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14323 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truncation_(statistics)> ;
+    skos:prefLabel "Truncation (statistics)" ;
+    skos:related ocs:C16319,
+        ocs:C22455,
+        ocs:C4752,
+        ocs:C5499,
+        ocs:C662 .
+

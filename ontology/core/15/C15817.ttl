@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15817 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/ANTIC> ;
+    skos:prefLabel "ANTIC" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C13155,
+        ocs:C1904,
+        ocs:C20331,
+        ocs:C22,
+        ocs:C24015,
+        ocs:C2434,
+        ocs:C28172,
+        ocs:C44,
+        ocs:C5101,
+        ocs:C653,
+        ocs:C8024,
+        ocs:C9,
+        ocs:C9262 .
+

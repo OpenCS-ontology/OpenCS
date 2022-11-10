@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32512 a skos:Concept ;
+    skos:broader ocs:C16916 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moving_horizon_estimation> ;
+    skos:prefLabel "Moving horizon estimation" ;
+    skos:related ocs:C10222,
+        ocs:C16916,
+        ocs:C21717,
+        ocs:C36314,
+        ocs:C3987,
+        ocs:C5298,
+        ocs:C6909,
+        ocs:C8516 .
+

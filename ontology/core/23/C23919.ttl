@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23919 a skos:Concept ;
+    skos:broader ocs:C490 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gigabit_Ethernet> ;
+    skos:prefLabel "Gigabit Ethernet" ;
+    skos:related ocs:C10320,
+        ocs:C13786,
+        ocs:C17505,
+        ocs:C18745,
+        ocs:C22559,
+        ocs:C24592,
+        ocs:C26,
+        ocs:C29125,
+        ocs:C2935,
+        ocs:C31489,
+        ocs:C35370,
+        ocs:C45502,
+        ocs:C45690,
+        ocs:C490 .
+

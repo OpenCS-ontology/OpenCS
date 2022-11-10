@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27898 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Runtime_library> ;
+    skos:prefLabel "Runtime library" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C11991,
+        ocs:C12257,
+        ocs:C14990,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21718,
+        ocs:C25127,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C5034,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C6887,
+        ocs:C7800,
+        ocs:C9 .
+

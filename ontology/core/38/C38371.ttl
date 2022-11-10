@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38371 a skos:Concept ;
+    skos:broader ocs:C32048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jump_search> ;
+    skos:prefLabel "Jump search" ;
+    skos:related ocs:C10,
+        ocs:C13317,
+        ocs:C14255,
+        ocs:C1454,
+        ocs:C19539,
+        ocs:C24943,
+        ocs:C27528,
+        ocs:C29055,
+        ocs:C32048,
+        ocs:C33435,
+        ocs:C34301,
+        ocs:C36074,
+        ocs:C37974,
+        ocs:C38856,
+        ocs:C39287,
+        ocs:C39360,
+        ocs:C40730,
+        ocs:C611,
+        ocs:C8660 .
+

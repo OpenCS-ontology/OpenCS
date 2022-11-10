@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6969 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_display> ;
+    skos:prefLabel "Text display" ;
+    skos:related ocs:C14828,
+        ocs:C21598,
+        ocs:C22265,
+        ocs:C2241,
+        ocs:C4703,
+        ocs:C5577,
+        ocs:C653,
+        ocs:C7525,
+        ocs:C7771,
+        ocs:C9453,
+        ocs:C9605 .
+

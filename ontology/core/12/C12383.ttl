@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12383 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Irish_syntax> ;
+    skos:prefLabel "Irish syntax" ;
+    skos:related ocs:C15012,
+        ocs:C15021,
+        ocs:C15641,
+        ocs:C20870,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C27337,
+        ocs:C28646,
+        ocs:C29067,
+        ocs:C34204,
+        ocs:C37038,
+        ocs:C6545 .
+

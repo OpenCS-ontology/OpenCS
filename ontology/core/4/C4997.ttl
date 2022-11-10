@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4997 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toor_(Unix)> ;
+    skos:prefLabel "toor" ;
+    skos:related ocs:C13578,
+        ocs:C14271,
+        ocs:C16481,
+        ocs:C19830,
+        ocs:C19902,
+        ocs:C24907,
+        ocs:C26754,
+        ocs:C27120,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C39252,
+        ocs:C42619,
+        ocs:C5779,
+        ocs:C7476,
+        ocs:C7516,
+        ocs:C9 .
+

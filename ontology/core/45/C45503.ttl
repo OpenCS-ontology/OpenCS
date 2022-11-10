@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45503 a skos:Concept ;
+    skos:broader ocs:C31400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commutation_theorem> ;
+    skos:prefLabel "Commutation theorem" ;
+    skos:related ocs:C17651,
+        ocs:C23890,
+        ocs:C27394,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C33554,
+        ocs:C38279,
+        ocs:C42488,
+        ocs:C44813 .
+

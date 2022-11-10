@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35137 a skos:Concept ;
+    skos:broader ocs:C14410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_industry> ;
+    skos:prefLabel "Language industry" ;
+    skos:related ocs:C12696,
+        ocs:C1411,
+        ocs:C15828,
+        ocs:C19175,
+        ocs:C19194,
+        ocs:C21320,
+        ocs:C21444,
+        ocs:C24011,
+        ocs:C24215,
+        ocs:C28527,
+        ocs:C32,
+        ocs:C5852,
+        ocs:C7575,
+        ocs:C8614,
+        ocs:C9845 .
+

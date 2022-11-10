@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9752 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Acquisition Duration" ;
+    skos:related ocs:C10052,
+        ocs:C10321,
+        ocs:C2369,
+        ocs:C33,
+        ocs:C5706,
+        ocs:C7597 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13926 a skos:Concept ;
+    skos:broader ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nasal_infix> ;
+    skos:prefLabel "Nasal infix" ;
+    skos:related ocs:C15856,
+        ocs:C16965,
+        ocs:C20344,
+        ocs:C24250,
+        ocs:C25015,
+        ocs:C35238,
+        ocs:C4755 .
+

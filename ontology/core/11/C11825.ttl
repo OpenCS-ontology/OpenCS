@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11825 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Home_wiring> ;
+    skos:prefLabel "Home wiring" ;
+    skos:related ocs:C13695,
+        ocs:C19350,
+        ocs:C27909,
+        ocs:C2935,
+        ocs:C32920,
+        ocs:C40722,
+        ocs:C4433,
+        ocs:C45182,
+        ocs:C691 .
+

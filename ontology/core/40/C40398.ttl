@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40398 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perfect_graph> ;
+    skos:prefLabel "Perfect graph" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C32333,
+        ocs:C36279,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38404,
+        ocs:C38981,
+        ocs:C41182,
+        ocs:C41229,
+        ocs:C41484,
+        ocs:C42392,
+        ocs:C42664,
+        ocs:C42828,
+        ocs:C43189,
+        ocs:C43906,
+        ocs:C44221,
+        ocs:C45741,
+        ocs:C8660 .
+

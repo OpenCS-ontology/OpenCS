@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39287 a skos:Concept ;
+    skos:broader ocs:C32048,
+        ocs:C34470,
+        ocs:C34663,
+        ocs:C35996,
+        ocs:C36112 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dichotomic_search> ;
+    skos:prefLabel "Dichotomic search" ;
+    skos:related ocs:C10,
+        ocs:C13317,
+        ocs:C14255,
+        ocs:C19539,
+        ocs:C25057,
+        ocs:C26753,
+        ocs:C32048,
+        ocs:C33435,
+        ocs:C34301,
+        ocs:C37974,
+        ocs:C38215,
+        ocs:C38371,
+        ocs:C38856,
+        ocs:C39360,
+        ocs:C40730,
+        ocs:C6759,
+        ocs:C8565,
+        ocs:C8660 .
+

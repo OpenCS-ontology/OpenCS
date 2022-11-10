@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34394 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Associahedron> ;
+    skos:prefLabel "Associahedron" ;
+    skos:related ocs:C18804,
+        ocs:C27617,
+        ocs:C30619,
+        ocs:C35696,
+        ocs:C42751,
+        ocs:C42848,
+        ocs:C45150 .
+

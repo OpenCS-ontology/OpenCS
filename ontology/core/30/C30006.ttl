@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30006 a skos:Concept ;
+    skos:broader ocs:C14270,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Super-Earth> ;
+    skos:prefLabel "Super-Earth" ;
+    skos:related ocs:C14270,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C31589,
+        ocs:C32085,
+        ocs:C34570,
+        ocs:C36203,
+        ocs:C38054,
+        ocs:C40516,
+        ocs:C42138,
+        ocs:C42700,
+        ocs:C597 .
+

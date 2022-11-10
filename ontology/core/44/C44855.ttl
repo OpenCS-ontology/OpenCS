@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44855 a skos:Concept ;
+    skos:broader ocs:C33529 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spamdexing> ;
+    skos:prefLabel "Spamdexing" ;
+    skos:related ocs:C14004,
+        ocs:C17567,
+        ocs:C26337,
+        ocs:C28136,
+        ocs:C39074,
+        ocs:C40049,
+        ocs:C40507,
+        ocs:C41105,
+        ocs:C4803,
+        ocs:C7963 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10928 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ringer_box> ;
+    skos:prefLabel "Ringer box" ;
+    skos:related ocs:C25293,
+        ocs:C28758,
+        ocs:C37673,
+        ocs:C6027,
+        ocs:C630,
+        ocs:C8291,
+        ocs:C9113 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27096 a skos:Concept ;
+    skos:broader ocs:C5712 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_innovation> ;
+    skos:prefLabel "User innovation" ;
+    skos:related ocs:C12219,
+        ocs:C12576,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C32986,
+        ocs:C3464,
+        ocs:C4866,
+        ocs:C5156,
+        ocs:C5712,
+        ocs:C5876,
+        ocs:C8343 .
+

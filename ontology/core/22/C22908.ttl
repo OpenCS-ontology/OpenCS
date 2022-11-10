@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22908 a skos:Concept ;
+    skos:broader ocs:C3001 ;
+    skos:closeMatch <http://dbpedia.org/resource/Billiken> ;
+    skos:prefLabel "Billiken" ;
+    skos:related ocs:C6340 .
+

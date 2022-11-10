@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28712 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moral_rights> ;
+    skos:prefLabel "Moral rights" ;
+    skos:related ocs:C13306,
+        ocs:C17042,
+        ocs:C18764,
+        ocs:C24008,
+        ocs:C30476,
+        ocs:C31815,
+        ocs:C31822,
+        ocs:C32847,
+        ocs:C33316,
+        ocs:C34634,
+        ocs:C40984,
+        ocs:C767,
+        ocs:C8011 .
+

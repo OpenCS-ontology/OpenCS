@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45243 a skos:Concept ;
+    skos:broader ocs:C30593,
+        ocs:C31754 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEBus> ;
+    skos:prefLabel "IEBus" ;
+    skos:related ocs:C12442,
+        ocs:C13386,
+        ocs:C22530,
+        ocs:C27350,
+        ocs:C27554,
+        ocs:C3357,
+        ocs:C7794,
+        ocs:C7927,
+        ocs:C8337,
+        ocs:C9717 .
+

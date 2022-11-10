@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11956 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effi> ;
+    skos:prefLabel "Effi" ;
+    skos:related ocs:C10629,
+        ocs:C1083,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C16874,
+        ocs:C19,
+        ocs:C22597,
+        ocs:C23836,
+        ocs:C2674,
+        ocs:C38891,
+        ocs:C39752,
+        ocs:C4700,
+        ocs:C6072,
+        ocs:C7125,
+        ocs:C7530,
+        ocs:C9033 .
+

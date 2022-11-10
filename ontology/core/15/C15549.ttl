@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15549 a skos:Concept ;
+    skos:broader ocs:C12099,
+        ocs:C7109,
+        ocs:C8791,
+        ocs:C9931 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communicating_finite-state_machine> ;
+    skos:prefLabel "Communicating finite-state machine" ;
+    skos:related ocs:C1,
+        ocs:C10147,
+        ocs:C12427,
+        ocs:C13057,
+        ocs:C21205,
+        ocs:C2170,
+        ocs:C25382,
+        ocs:C26029,
+        ocs:C27278,
+        ocs:C27718,
+        ocs:C3168,
+        ocs:C32961,
+        ocs:C35848,
+        ocs:C36771,
+        ocs:C38187,
+        ocs:C3990,
+        ocs:C44347,
+        ocs:C5974,
+        ocs:C6149 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17904 a skos:Concept ;
+    skos:broader ocs:C4257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_Colloquium_on_Computational_Complexity> ;
+    skos:prefLabel "Electronic Colloquium on Computational Complexity" ;
+    skos:related ocs:C1,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C23148,
+        ocs:C23904,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C3678,
+        ocs:C41642,
+        ocs:C4218,
+        ocs:C42400,
+        ocs:C44665,
+        ocs:C6537,
+        ocs:C8660,
+        ocs:C9450 .
+

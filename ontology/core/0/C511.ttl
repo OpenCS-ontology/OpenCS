@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C511 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Avionics> ;
+    skos:prefLabel "Avionics" ;
+    skos:related ocs:C12641,
+        ocs:C16191,
+        ocs:C21767,
+        ocs:C36804,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C5913 .
+

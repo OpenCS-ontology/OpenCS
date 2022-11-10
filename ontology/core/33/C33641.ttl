@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33641 a skos:Concept ;
+    skos:broader ocs:C16790 ;
+    skos:prefLabel "Quercus floribunda" ;
+    skos:related ocs:C15473,
+        ocs:C16790,
+        ocs:C26698 .
+

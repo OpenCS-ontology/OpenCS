@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21365 a skos:Concept ;
+    skos:broader ocs:C13686,
+        ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boole's_expansion_theorem> ;
+    skos:prefLabel "Boole's expansion theorem" ;
+    skos:related ocs:C1,
+        ocs:C10825,
+        ocs:C13686,
+        ocs:C13855,
+        ocs:C26938,
+        ocs:C30179,
+        ocs:C30314,
+        ocs:C31925,
+        ocs:C34687,
+        ocs:C35076,
+        ocs:C3894,
+        ocs:C41587,
+        ocs:C42511,
+        ocs:C45667,
+        ocs:C4986,
+        ocs:C9393,
+        ocs:C9450 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30002 a skos:Concept ;
+    skos:broader ocs:C15030,
+        ocs:C18096,
+        ocs:C25341 ;
+    skos:closeMatch <http://dbpedia.org/resource/Periscope_antenna> ;
+    skos:prefLabel "Periscope antenna" ;
+    skos:related ocs:C1219,
+        ocs:C2465,
+        ocs:C24807,
+        ocs:C31753,
+        ocs:C38309,
+        ocs:C38373,
+        ocs:C38796,
+        ocs:C39458,
+        ocs:C39964,
+        ocs:C42056,
+        ocs:C42274,
+        ocs:C43628,
+        ocs:C44664,
+        ocs:C45915,
+        ocs:C7909,
+        ocs:C9691 .
+

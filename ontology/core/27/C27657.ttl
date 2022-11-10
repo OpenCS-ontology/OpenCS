@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27657 a skos:Concept ;
+    skos:broader ocs:C3843,
+        ocs:C4528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keystone_effect> ;
+    skos:prefLabel "Keystone effect" ;
+    skos:related ocs:C1394,
+        ocs:C15787,
+        ocs:C21488,
+        ocs:C21755,
+        ocs:C23972,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C28338,
+        ocs:C3843,
+        ocs:C4528,
+        ocs:C5841,
+        ocs:C8406 .
+

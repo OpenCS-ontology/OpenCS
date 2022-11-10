@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19854 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:prefLabel "Spizaetus bartelsi" ;
+    skos:related ocs:C1142,
+        ocs:C13750,
+        ocs:C20906 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23101 a skos:Concept ;
+    skos:broader ocs:C5620 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_sorting> ;
+    skos:prefLabel "Optical sorting" ;
+    skos:related ocs:C10,
+        ocs:C10275,
+        ocs:C10465,
+        ocs:C11774,
+        ocs:C13065,
+        ocs:C16028,
+        ocs:C27569,
+        ocs:C28018,
+        ocs:C3055,
+        ocs:C5620,
+        ocs:C6760,
+        ocs:C7,
+        ocs:C8499 .
+

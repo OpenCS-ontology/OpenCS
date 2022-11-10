@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28521 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C3401,
+        ocs:C7460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_science> ;
+    skos:prefLabel "Network science" ;
+    skos:related ocs:C11026,
+        ocs:C14693,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C19399,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C28991,
+        ocs:C33768,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C7460 .
+

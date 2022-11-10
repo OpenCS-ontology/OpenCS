@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41983 a skos:Concept ;
+    skos:broader ocs:C31379,
+        ocs:C32582 ;
+    skos:prefLabel "EAP protocol" ;
+    skos:related ocs:C12853,
+        ocs:C18499,
+        ocs:C22493,
+        ocs:C3236,
+        ocs:C38690,
+        ocs:C44970,
+        ocs:C5619 .
+

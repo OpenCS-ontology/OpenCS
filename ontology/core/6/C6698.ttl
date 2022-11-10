@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6698 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_appearance> ;
+    skos:prefLabel "Visual appearance" ;
+    skos:related ocs:C1148,
+        ocs:C14115,
+        ocs:C2135,
+        ocs:C36317 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3343 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_learning> ;
+    skos:prefLabel "Organizational learning" ;
+    skos:related ocs:C10057,
+        ocs:C11021,
+        ocs:C11026,
+        ocs:C11097,
+        ocs:C12,
+        ocs:C13078,
+        ocs:C1332,
+        ocs:C3738,
+        ocs:C5092,
+        ocs:C5699,
+        ocs:C7509,
+        ocs:C9058 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42317 a skos:Concept ;
+    skos:broader ocs:C37268 ;
+    skos:closeMatch <http://dbpedia.org/resource/MCD_peptide> ;
+    skos:prefLabel "MCD peptide" ;
+    skos:related ocs:C29607,
+        ocs:C32749,
+        ocs:C37268,
+        ocs:C42913,
+        ocs:C44461 .
+

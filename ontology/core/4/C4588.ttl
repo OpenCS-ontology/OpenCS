@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4588 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_communicator> ;
+    skos:prefLabel "Personal communicator" ;
+    skos:related ocs:C1338,
+        ocs:C17625,
+        ocs:C19131,
+        ocs:C19721,
+        ocs:C21367,
+        ocs:C24173,
+        ocs:C25493,
+        ocs:C26,
+        ocs:C31258,
+        ocs:C32451,
+        ocs:C36500,
+        ocs:C36609,
+        ocs:C36939,
+        ocs:C36976,
+        ocs:C39574,
+        ocs:C41461,
+        ocs:C5406,
+        ocs:C7166 .
+

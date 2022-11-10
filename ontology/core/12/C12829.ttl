@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12829 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_computing> ;
+    skos:prefLabel "Visual computing" ;
+    skos:related ocs:C1,
+        ocs:C11392,
+        ocs:C1239,
+        ocs:C13065,
+        ocs:C13320,
+        ocs:C14465,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C23564,
+        ocs:C23978,
+        ocs:C2883,
+        ocs:C28945,
+        ocs:C37333,
+        ocs:C38164,
+        ocs:C4199,
+        ocs:C7,
+        ocs:C797,
+        ocs:C8499,
+        ocs:C850,
+        ocs:C9603 .
+

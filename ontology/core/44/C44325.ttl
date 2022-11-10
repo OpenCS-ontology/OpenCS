@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44325 a skos:Concept ;
+    skos:broader ocs:C37128 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artistic_rendering> ;
+    skos:prefLabel "Artistic rendering" ;
+    skos:related ocs:C12590,
+        ocs:C13155,
+        ocs:C13515,
+        ocs:C2135,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C22683,
+        ocs:C2366,
+        ocs:C3042,
+        ocs:C42614,
+        ocs:C667,
+        ocs:C797,
+        ocs:C8150,
+        ocs:C8399 .
+

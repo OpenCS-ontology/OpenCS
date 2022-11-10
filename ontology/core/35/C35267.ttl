@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35267 a skos:Concept ;
+    skos:broader ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_of_record> ;
+    skos:prefLabel "System of record" ;
+    skos:related ocs:C10979,
+        ocs:C1253,
+        ocs:C12694,
+        ocs:C13,
+        ocs:C1399,
+        ocs:C19680,
+        ocs:C2528,
+        ocs:C27200,
+        ocs:C29542,
+        ocs:C2979,
+        ocs:C3037,
+        ocs:C3129,
+        ocs:C33617,
+        ocs:C37237,
+        ocs:C4380,
+        ocs:C6944,
+        ocs:C8500 .
+

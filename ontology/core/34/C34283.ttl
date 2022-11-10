@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34283 a skos:Concept ;
+    skos:broader ocs:C17521,
+        ocs:C18751,
+        ocs:C18973,
+        ocs:C22259 ;
+    skos:prefLabel "Object oriented system design" .
+

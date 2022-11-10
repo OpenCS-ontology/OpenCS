@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10608 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_programming> ;
+    skos:prefLabel "Generic programming" ;
+    skos:related ocs:C10384,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C12848,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C26642,
+        ocs:C27131,
+        ocs:C28944,
+        ocs:C31014,
+        ocs:C4321,
+        ocs:C4700,
+        ocs:C5308,
+        ocs:C6918,
+        ocs:C6941,
+        ocs:C8864 .
+

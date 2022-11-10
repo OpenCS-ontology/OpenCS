@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38532 a skos:Concept ;
+    skos:broader ocs:C30569,
+        ocs:C32876 ;
+    skos:closeMatch <http://dbpedia.org/resource/8_mm_video_format> ;
+    skos:prefLabel "8 mm video format" ;
+    skos:related ocs:C10111,
+        ocs:C10778,
+        ocs:C12430,
+        ocs:C13691,
+        ocs:C1724,
+        ocs:C20316,
+        ocs:C30569,
+        ocs:C31011,
+        ocs:C38826,
+        ocs:C4374,
+        ocs:C4461,
+        ocs:C4820,
+        ocs:C520,
+        ocs:C7255,
+        ocs:C8935 .
+

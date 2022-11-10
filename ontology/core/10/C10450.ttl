@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10450 a skos:Concept ;
+    skos:broader ocs:C32,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_humor> ;
+    skos:prefLabel "Computational humor" ;
+    skos:related ocs:C1,
+        ocs:C12696,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C22254,
+        ocs:C25,
+        ocs:C32,
+        ocs:C40194,
+        ocs:C5776,
+        ocs:C6531,
+        ocs:C685,
+        ocs:C8 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2842 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_over_SONET/SDH> ;
+    skos:prefLabel "Packet over SONET/SDH" ;
+    skos:related ocs:C12227,
+        ocs:C12394,
+        ocs:C15589,
+        ocs:C18745,
+        ocs:C20314,
+        ocs:C20934,
+        ocs:C23483,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C27426,
+        ocs:C3039,
+        ocs:C31109,
+        ocs:C35346,
+        ocs:C36308,
+        ocs:C36329,
+        ocs:C490,
+        ocs:C6245,
+        ocs:C8567 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40722 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/S/PDIF> ;
+    skos:prefLabel "S/PDIF" ;
+    skos:related ocs:C10778,
+        ocs:C12449,
+        ocs:C13973,
+        ocs:C15341,
+        ocs:C1724,
+        ocs:C26268,
+        ocs:C26575,
+        ocs:C33080,
+        ocs:C37865,
+        ocs:C490,
+        ocs:C6866,
+        ocs:C7255,
+        ocs:C8237,
+        ocs:C8718 .
+

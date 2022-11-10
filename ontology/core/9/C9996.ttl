@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9996 a skos:Concept ;
+    skos:broader ocs:C32,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/PARRY> ;
+    skos:prefLabel "PARRY" ;
+    skos:related ocs:C1,
+        ocs:C12696,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C19194,
+        ocs:C21882,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C2534,
+        ocs:C29058,
+        ocs:C32,
+        ocs:C38248,
+        ocs:C4397,
+        ocs:C4602,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8965 .
+

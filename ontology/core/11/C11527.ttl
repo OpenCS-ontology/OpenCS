@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11527 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Function_application> ;
+    skos:prefLabel "Function application" ;
+    skos:related ocs:C10322,
+        ocs:C10332,
+        ocs:C10498,
+        ocs:C13411,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C24858,
+        ocs:C26024,
+        ocs:C36417,
+        ocs:C4097,
+        ocs:C41762,
+        ocs:C6941,
+        ocs:C9050 .
+

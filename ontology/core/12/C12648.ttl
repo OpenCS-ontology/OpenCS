@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12648 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-directional_beacon> ;
+    skos:prefLabel "Non-directional beacon" ;
+    skos:related ocs:C11445,
+        ocs:C11669,
+        ocs:C12641,
+        ocs:C15824,
+        ocs:C16291,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C25380,
+        ocs:C26346,
+        ocs:C30951,
+        ocs:C42471,
+        ocs:C44005,
+        ocs:C4597 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2191 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Espresso_(microprocessor)> ;
+    skos:prefLabel "Espresso" ;
+    skos:related ocs:C12690,
+        ocs:C18379,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C29766,
+        ocs:C33174,
+        ocs:C36673,
+        ocs:C4824,
+        ocs:C4863,
+        ocs:C7009,
+        ocs:C9542,
+        ocs:C9800 .
+

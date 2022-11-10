@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7622 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_Response_Technology> ;
+    skos:prefLabel "Smart Response Technology" ;
+    skos:related ocs:C10501,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C17484,
+        ocs:C1810,
+        ocs:C23599,
+        ocs:C3160,
+        ocs:C3229,
+        ocs:C40232,
+        ocs:C40433,
+        ocs:C43395,
+        ocs:C43764,
+        ocs:C8706 .
+

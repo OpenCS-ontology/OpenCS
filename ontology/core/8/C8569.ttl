@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8569 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corner_case> ;
+    skos:prefLabel "Corner case" ;
+    skos:related ocs:C1,
+        ocs:C10532,
+        ocs:C11816,
+        ocs:C1253,
+        ocs:C1333,
+        ocs:C15912,
+        ocs:C2,
+        ocs:C21942,
+        ocs:C27080,
+        ocs:C28,
+        ocs:C41064,
+        ocs:C42280,
+        ocs:C5458,
+        ocs:C6072,
+        ocs:C8783 .
+

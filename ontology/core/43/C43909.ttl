@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43909 a skos:Concept ;
+    skos:broader ocs:C30401,
+        ocs:C31884,
+        ocs:C32806,
+        ocs:C34051,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Edge_dominating_set> ;
+    skos:prefLabel "Edge dominating set" ;
+    skos:related ocs:C26989,
+        ocs:C30401,
+        ocs:C30592,
+        ocs:C31884,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C38233,
+        ocs:C38590,
+        ocs:C38781,
+        ocs:C40560,
+        ocs:C40871,
+        ocs:C41731,
+        ocs:C42329,
+        ocs:C42822,
+        ocs:C42955,
+        ocs:C44250,
+        ocs:C44560,
+        ocs:C44672,
+        ocs:C45741 .
+

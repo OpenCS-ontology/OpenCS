@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24218 a skos:Concept ;
+    skos:broader ocs:C13006 ;
+    skos:prefLabel "Sentence mapping" ;
+    skos:related ocs:C1,
+        ocs:C13006,
+        ocs:C32,
+        ocs:C8 .
+

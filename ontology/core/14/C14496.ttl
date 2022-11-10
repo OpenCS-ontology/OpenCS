@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14496 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gesomyrmex> ;
+    skos:prefLabel "Gesomyrmex" ;
+    skos:related ocs:C14314,
+        ocs:C18993,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C28251,
+        ocs:C32656 .
+

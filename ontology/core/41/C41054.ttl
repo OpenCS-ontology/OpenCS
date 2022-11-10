@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41054 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trigonometric_substitution> ;
+    skos:prefLabel "Trigonometric substitution" ;
+    skos:related ocs:C13541,
+        ocs:C24803,
+        ocs:C37825,
+        ocs:C38624,
+        ocs:C40729 .
+

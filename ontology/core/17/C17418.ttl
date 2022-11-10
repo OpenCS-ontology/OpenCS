@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17418 a skos:Concept ;
+    skos:broader ocs:C5033,
+        ocs:C5196 ;
+    skos:prefLabel "Ordered statistics" .
+

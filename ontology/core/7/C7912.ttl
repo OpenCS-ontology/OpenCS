@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7912 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_deployment> ;
+    skos:prefLabel "Software deployment" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C14329,
+        ocs:C23580,
+        ocs:C24143,
+        ocs:C2674,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C28881,
+        ocs:C30036,
+        ocs:C30078,
+        ocs:C31320,
+        ocs:C31894,
+        ocs:C35202,
+        ocs:C37174,
+        ocs:C41788,
+        ocs:C45228,
+        ocs:C7736,
+        ocs:C8889 .
+

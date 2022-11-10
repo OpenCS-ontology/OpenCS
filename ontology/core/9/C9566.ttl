@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9566 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Impaired speech" ;
+    skos:related ocs:C10985,
+        ocs:C13006,
+        ocs:C18818,
+        ocs:C2300 .
+

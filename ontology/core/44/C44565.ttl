@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44565 a skos:Concept ;
+    skos:broader ocs:C30643,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_routing> ;
+    skos:prefLabel "Fuzzy routing" ;
+    skos:related ocs:C10563,
+        ocs:C16802,
+        ocs:C26066,
+        ocs:C34711,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C37267,
+        ocs:C38451,
+        ocs:C38724,
+        ocs:C38760,
+        ocs:C38835,
+        ocs:C40041,
+        ocs:C40934,
+        ocs:C41259,
+        ocs:C42912,
+        ocs:C43513,
+        ocs:C45428,
+        ocs:C45577,
+        ocs:C45852 .
+

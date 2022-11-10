@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6711 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_start> ;
+    skos:prefLabel "Loop start" ;
+    skos:related ocs:C10699,
+        ocs:C11769,
+        ocs:C21610,
+        ocs:C2423,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C4928,
+        ocs:C4983,
+        ocs:C6027,
+        ocs:C6645,
+        ocs:C7564 .
+

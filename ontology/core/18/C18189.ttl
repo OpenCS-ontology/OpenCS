@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18189 a skos:Concept ;
+    skos:broader ocs:C10498,
+        ocs:C13511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Setoid> ;
+    skos:prefLabel "Setoid" ;
+    skos:related ocs:C10498,
+        ocs:C11060,
+        ocs:C12474,
+        ocs:C16614,
+        ocs:C17652,
+        ocs:C18772,
+        ocs:C25113,
+        ocs:C25442,
+        ocs:C31218,
+        ocs:C5251,
+        ocs:C7962 .
+

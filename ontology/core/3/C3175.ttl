@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3175 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cap_Gemini_SDM> ;
+    skos:prefLabel "Cap Gemini SDM" ;
+    skos:related ocs:C21068,
+        ocs:C22004,
+        ocs:C23437,
+        ocs:C24722,
+        ocs:C28080,
+        ocs:C3463,
+        ocs:C35144,
+        ocs:C35207,
+        ocs:C36874,
+        ocs:C37174,
+        ocs:C41007,
+        ocs:C41038,
+        ocs:C42237,
+        ocs:C42516,
+        ocs:C44802,
+        ocs:C44988,
+        ocs:C45524,
+        ocs:C4558,
+        ocs:C5822,
+        ocs:C666 .
+

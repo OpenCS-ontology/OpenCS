@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15204 a skos:Concept ;
+    skos:broader ocs:C7216 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supernatural_number> ;
+    skos:prefLabel "Supernatural number" ;
+    skos:related ocs:C37945,
+        ocs:C41535,
+        ocs:C41652 .
+

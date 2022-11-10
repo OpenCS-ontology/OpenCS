@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8619 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technophilia> ;
+    skos:prefLabel "Technophilia" ;
+    skos:related ocs:C10625,
+        ocs:C11407,
+        ocs:C11938,
+        ocs:C16205,
+        ocs:C25189,
+        ocs:C8,
+        ocs:C8614,
+        ocs:C9795 .
+

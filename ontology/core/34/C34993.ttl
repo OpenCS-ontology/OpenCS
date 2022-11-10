@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34993 a skos:Concept ;
+    skos:broader ocs:C15967 ;
+    skos:closeMatch <http://dbpedia.org/resource/Defensible_space_theory> ;
+    skos:prefLabel "Defensible space theory" ;
+    skos:related ocs:C14351,
+        ocs:C29321,
+        ocs:C4879 .
+

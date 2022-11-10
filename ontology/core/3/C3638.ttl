@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3638 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Declassification> ;
+    skos:prefLabel "Declassification" ;
+    skos:related ocs:C12434,
+        ocs:C1331,
+        ocs:C13538,
+        ocs:C15118,
+        ocs:C18977,
+        ocs:C2060,
+        ocs:C29462,
+        ocs:C2970,
+        ocs:C3048,
+        ocs:C3059,
+        ocs:C32525,
+        ocs:C44388,
+        ocs:C7113 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11371 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_address> ;
+    skos:prefLabel "Email address" ;
+    skos:related ocs:C12995,
+        ocs:C14983,
+        ocs:C17567,
+        ocs:C17794,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C30474,
+        ocs:C31,
+        ocs:C35631,
+        ocs:C40986,
+        ocs:C42304,
+        ocs:C5126,
+        ocs:C6965,
+        ocs:C8614,
+        ocs:C9162 .
+

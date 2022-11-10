@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7714 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Accessibility> ;
+    skos:prefLabel "Accessibility" ;
+    skos:related ocs:C1051,
+        ocs:C10999,
+        ocs:C11046,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C34668,
+        ocs:C39498,
+        ocs:C8614,
+        ocs:C9607 .
+

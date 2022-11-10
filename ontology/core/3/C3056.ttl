@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3056 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structured_prediction> ;
+    skos:prefLabel "Structured prediction" ;
+    skos:related ocs:C11030,
+        ocs:C12748,
+        ocs:C15879,
+        ocs:C16153,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C23929,
+        ocs:C25,
+        ocs:C25201,
+        ocs:C2874,
+        ocs:C32,
+        ocs:C39922,
+        ocs:C41275,
+        ocs:C431,
+        ocs:C5856,
+        ocs:C7301,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9874 .
+

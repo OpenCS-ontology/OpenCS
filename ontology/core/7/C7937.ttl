@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7937 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gulf_of_execution> ;
+    skos:prefLabel "Gulf of execution" ;
+    skos:related ocs:C11034,
+        ocs:C11483,
+        ocs:C12581,
+        ocs:C13413,
+        ocs:C14148,
+        ocs:C16613,
+        ocs:C16801,
+        ocs:C18,
+        ocs:C23978,
+        ocs:C30727,
+        ocs:C34564,
+        ocs:C37641,
+        ocs:C4094,
+        ocs:C42871,
+        ocs:C4292,
+        ocs:C44413,
+        ocs:C5232,
+        ocs:C5702,
+        ocs:C8269,
+        ocs:C9607 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35955 a skos:Concept ;
+    skos:broader ocs:C20391 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_Deep_Space_Transponder> ;
+    skos:prefLabel "Small Deep Space Transponder" ;
+    skos:related ocs:C11201,
+        ocs:C17174,
+        ocs:C17254,
+        ocs:C17601,
+        ocs:C28951,
+        ocs:C3068,
+        ocs:C32923,
+        ocs:C597,
+        ocs:C9385 .
+

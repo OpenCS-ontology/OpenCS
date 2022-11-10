@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36746 a skos:Concept ;
+    skos:broader ocs:C20518 ;
+    skos:closeMatch <http://dbpedia.org/resource/German_verbs> ;
+    skos:prefLabel "German verbs" ;
+    skos:related ocs:C15021,
+        ocs:C16095,
+        ocs:C20453,
+        ocs:C25169,
+        ocs:C26370,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28295,
+        ocs:C29432,
+        ocs:C34204,
+        ocs:C35405,
+        ocs:C6545 .
+

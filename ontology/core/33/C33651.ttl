@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33651 a skos:Concept ;
+    skos:broader ocs:C18149,
+        ocs:C21673 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rocchio_algorithm> ;
+    skos:prefLabel "Rocchio algorithm" ;
+    skos:related ocs:C11089,
+        ocs:C15908,
+        ocs:C16176,
+        ocs:C1812,
+        ocs:C21157,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C29536,
+        ocs:C31312,
+        ocs:C34003,
+        ocs:C34208,
+        ocs:C39815,
+        ocs:C3983,
+        ocs:C42910,
+        ocs:C972,
+        ocs:C9876 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40955 a skos:Concept ;
+    skos:broader ocs:C29844,
+        ocs:C30143 ;
+    skos:closeMatch <http://dbpedia.org/resource/N2_chart> ;
+    skos:prefLabel "N2 chart" ;
+    skos:related ocs:C11748,
+        ocs:C1253,
+        ocs:C13152,
+        ocs:C1336,
+        ocs:C14468,
+        ocs:C2,
+        ocs:C28526,
+        ocs:C39780,
+        ocs:C43589,
+        ocs:C44586,
+        ocs:C5500,
+        ocs:C5822,
+        ocs:C5869,
+        ocs:C8171 .
+

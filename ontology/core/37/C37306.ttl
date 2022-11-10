@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37306 a skos:Concept ;
+    skos:broader ocs:C25195 ;
+    skos:closeMatch <http://dbpedia.org/resource/ORTF_stereo_technique> ;
+    skos:prefLabel "ORTF stereo technique" ;
+    skos:related ocs:C12595,
+        ocs:C1340,
+        ocs:C15341,
+        ocs:C25195,
+        ocs:C32291,
+        ocs:C34538,
+        ocs:C3733,
+        ocs:C38517,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C6417,
+        ocs:C7070,
+        ocs:C7433,
+        ocs:C8291,
+        ocs:C9596 .
+

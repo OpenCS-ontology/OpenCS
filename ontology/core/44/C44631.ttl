@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44631 a skos:Concept ;
+    skos:broader ocs:C31017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Same-origin_policy> ;
+    skos:prefLabel "Same-origin policy" ;
+    skos:related ocs:C12810,
+        ocs:C13068,
+        ocs:C16338,
+        ocs:C17401,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C25697,
+        ocs:C26528,
+        ocs:C28542,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C32189,
+        ocs:C40510,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C42057,
+        ocs:C42899,
+        ocs:C45494,
+        ocs:C4918,
+        ocs:C8577 .
+

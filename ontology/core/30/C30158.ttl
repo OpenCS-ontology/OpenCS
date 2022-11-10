@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30158 a skos:Concept ;
+    skos:broader ocs:C20937 ;
+    skos:closeMatch <http://dbpedia.org/resource/SMS_phishing> ;
+    skos:prefLabel "SMS phishing" ;
+    skos:related ocs:C10084,
+        ocs:C12550,
+        ocs:C13368,
+        ocs:C17046,
+        ocs:C17567,
+        ocs:C18100,
+        ocs:C20937,
+        ocs:C22407,
+        ocs:C22546,
+        ocs:C24479,
+        ocs:C27509,
+        ocs:C33442,
+        ocs:C35,
+        ocs:C3746,
+        ocs:C394,
+        ocs:C39425,
+        ocs:C5917,
+        ocs:C6924,
+        ocs:C8294 .
+

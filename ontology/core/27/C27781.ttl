@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27781 a skos:Concept ;
+    skos:broader ocs:C5007 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_system_power> ;
+    skos:prefLabel "Total system power" ;
+    skos:related ocs:C13521,
+        ocs:C1490,
+        ocs:C25195,
+        ocs:C3733,
+        ocs:C38517,
+        ocs:C5843,
+        ocs:C9481 .
+

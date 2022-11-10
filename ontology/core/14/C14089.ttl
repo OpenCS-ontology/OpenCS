@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14089 a skos:Concept ;
+    skos:broader ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/RF_switch> ;
+    skos:prefLabel "RF switch" ;
+    skos:related ocs:C32554,
+        ocs:C5369,
+        ocs:C8436 .
+

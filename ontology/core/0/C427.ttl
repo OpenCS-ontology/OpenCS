@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C427 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/KISS_principle> ;
+    skos:prefLabel "KISS principle" ;
+    skos:related ocs:C1253,
+        ocs:C14405,
+        ocs:C1834,
+        ocs:C23437,
+        ocs:C25957,
+        ocs:C28801,
+        ocs:C31489,
+        ocs:C31696,
+        ocs:C32090,
+        ocs:C39917,
+        ocs:C4292,
+        ocs:C44815,
+        ocs:C5461,
+        ocs:C688,
+        ocs:C7395,
+        ocs:C7657 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37141 a skos:Concept ;
+    skos:broader ocs:C18258,
+        ocs:C21976,
+        ocs:C26311 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_Allocation_Code> ;
+    skos:prefLabel "Type Allocation Code" ;
+    skos:related ocs:C10770,
+        ocs:C12853,
+        ocs:C21424,
+        ocs:C25347,
+        ocs:C25712,
+        ocs:C27633,
+        ocs:C3,
+        ocs:C30090,
+        ocs:C34092,
+        ocs:C38413,
+        ocs:C40238,
+        ocs:C42131,
+        ocs:C42449,
+        ocs:C44251,
+        ocs:C796,
+        ocs:C9154 .
+

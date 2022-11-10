@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37135 a skos:Concept ;
+    skos:broader ocs:C20812,
+        ocs:C28629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_analytics> ;
+    skos:prefLabel "Business analytics" ;
+    skos:related ocs:C12238,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C18025,
+        ocs:C197,
+        ocs:C25,
+        ocs:C25962,
+        ocs:C2979,
+        ocs:C34,
+        ocs:C3485,
+        ocs:C35701,
+        ocs:C7106,
+        ocs:C9874 .
+

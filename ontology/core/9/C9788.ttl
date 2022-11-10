@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9788 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sudoku_solving_algorithms> ;
+    skos:prefLabel "Sudoku solving algorithms" ;
+    skos:related ocs:C10390,
+        ocs:C1086,
+        ocs:C11095,
+        ocs:C11372,
+        ocs:C13317,
+        ocs:C23250,
+        ocs:C2413,
+        ocs:C27129,
+        ocs:C28030,
+        ocs:C29055,
+        ocs:C2989,
+        ocs:C34333,
+        ocs:C37935,
+        ocs:C3837,
+        ocs:C38436,
+        ocs:C5242,
+        ocs:C6752 .
+

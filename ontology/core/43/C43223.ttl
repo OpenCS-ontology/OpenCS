@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43223 a skos:Concept ;
+    skos:broader ocs:C36704,
+        ocs:C37239,
+        ocs:C37518 ;
+    skos:closeMatch <http://dbpedia.org/resource/Densely_packed_decimal> ;
+    skos:prefLabel "Densely packed decimal" ;
+    skos:related ocs:C11709,
+        ocs:C11876,
+        ocs:C12262,
+        ocs:C12315,
+        ocs:C16377,
+        ocs:C21384,
+        ocs:C24189,
+        ocs:C24475,
+        ocs:C26455,
+        ocs:C26618,
+        ocs:C3450,
+        ocs:C36704,
+        ocs:C37239,
+        ocs:C37518,
+        ocs:C40069,
+        ocs:C4048,
+        ocs:C43784,
+        ocs:C7602,
+        ocs:C9162 .
+

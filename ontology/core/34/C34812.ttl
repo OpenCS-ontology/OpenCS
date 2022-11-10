@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34812 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shimura_variety> ;
+    skos:prefLabel "Shimura variety" ;
+    skos:related ocs:C23209,
+        ocs:C32392,
+        ocs:C42979,
+        ocs:C45133 .
+

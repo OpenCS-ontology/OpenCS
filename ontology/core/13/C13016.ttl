@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13016 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:prefLabel "S-Bus" ;
+    skos:related ocs:C11153,
+        ocs:C1206,
+        ocs:C1522,
+        ocs:C1626,
+        ocs:C22449,
+        ocs:C22845,
+        ocs:C7701,
+        ocs:C8733 .
+

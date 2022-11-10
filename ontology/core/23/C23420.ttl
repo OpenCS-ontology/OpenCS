@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23420 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C3401,
+        ocs:C7330,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/String_grammar> ;
+    skos:prefLabel "String grammar" ;
+    skos:related ocs:C12696,
+        ocs:C22093,
+        ocs:C22624,
+        ocs:C26158,
+        ocs:C29634,
+        ocs:C29901,
+        ocs:C30796,
+        ocs:C30921,
+        ocs:C31850,
+        ocs:C31956,
+        ocs:C33609,
+        ocs:C35270,
+        ocs:C36538,
+        ocs:C38477,
+        ocs:C4321,
+        ocs:C45758,
+        ocs:C524,
+        ocs:C5852,
+        ocs:C8564 .
+

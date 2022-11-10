@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9802 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Freedman's_paradox> ;
+    skos:prefLabel "Freedman's paradox" ;
+    skos:related ocs:C11463,
+        ocs:C11986,
+        ocs:C13371,
+        ocs:C14620,
+        ocs:C27901,
+        ocs:C37170,
+        ocs:C37302,
+        ocs:C6116,
+        ocs:C7282,
+        ocs:C9721 .
+

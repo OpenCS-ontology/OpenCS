@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12553 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pheidologeton_diversus> ;
+    skos:prefLabel "Pheidologeton diversus" ;
+    skos:related ocs:C14756,
+        ocs:C18049,
+        ocs:C22504,
+        ocs:C24249,
+        ocs:C27032,
+        ocs:C31040,
+        ocs:C38192 .
+

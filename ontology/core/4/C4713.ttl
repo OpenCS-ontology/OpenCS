@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4713 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visitor_Based_Network> ;
+    skos:prefLabel "Visitor Based Network" ;
+    skos:related ocs:C17592,
+        ocs:C19124,
+        ocs:C19350,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C24335,
+        ocs:C25516,
+        ocs:C26,
+        ocs:C27447,
+        ocs:C29568,
+        ocs:C30769,
+        ocs:C30982,
+        ocs:C31950,
+        ocs:C34874,
+        ocs:C39947,
+        ocs:C44282,
+        ocs:C4433,
+        ocs:C44603,
+        ocs:C7857,
+        ocs:C8614 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23230 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stream_cipher> ;
+    skos:prefLabel "Stream cipher" ;
+    skos:related ocs:C10,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C18803,
+        ocs:C20993,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C30768,
+        ocs:C35391,
+        ocs:C36248,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C4751,
+        ocs:C5072,
+        ocs:C8076 .
+

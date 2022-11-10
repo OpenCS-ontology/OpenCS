@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41199 a skos:Concept ;
+    skos:broader ocs:C34593 ;
+    skos:closeMatch <http://dbpedia.org/resource/OBS_model> ;
+    skos:prefLabel "OBS model" ;
+    skos:related ocs:C2045,
+        ocs:C2057,
+        ocs:C2214,
+        ocs:C28080,
+        ocs:C2897,
+        ocs:C32990,
+        ocs:C35207,
+        ocs:C39671,
+        ocs:C43994,
+        ocs:C45228,
+        ocs:C45391,
+        ocs:C8360 .
+

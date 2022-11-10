@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34315 a skos:Concept ;
+    skos:broader ocs:C16958,
+        ocs:C26990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chinese_speech_synthesis> ;
+    skos:prefLabel "Chinese speech synthesis" ;
+    skos:related ocs:C11398,
+        ocs:C13210,
+        ocs:C14777,
+        ocs:C16,
+        ocs:C1958,
+        ocs:C25352,
+        ocs:C25538,
+        ocs:C28600,
+        ocs:C320,
+        ocs:C37696,
+        ocs:C4397,
+        ocs:C6464,
+        ocs:C6505,
+        ocs:C704,
+        ocs:C8125 .
+

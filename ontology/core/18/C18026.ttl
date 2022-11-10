@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18026 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deep_dyslexia> ;
+    skos:prefLabel "Deep dyslexia" ;
+    skos:related ocs:C18035,
+        ocs:C19419,
+        ocs:C19543,
+        ocs:C28033,
+        ocs:C4531 .
+

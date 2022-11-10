@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43201 a skos:Concept ;
+    skos:broader ocs:C32717,
+        ocs:C33093,
+        ocs:C34978,
+        ocs:C35103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Borel–Kolmogorov_paradox> ;
+    skos:prefLabel "Borel–Kolmogorov paradox" ;
+    skos:related ocs:C12109,
+        ocs:C1844,
+        ocs:C246,
+        ocs:C33093,
+        ocs:C35103,
+        ocs:C41059,
+        ocs:C42482,
+        ocs:C6291,
+        ocs:C9246 .
+

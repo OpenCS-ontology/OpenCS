@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35732 a skos:Concept ;
+    skos:broader ocs:C16954,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C27111,
+        ocs:C27827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Top-hat_transform> ;
+    skos:prefLabel "Top-hat transform" ;
+    skos:related ocs:C12604,
+        ocs:C1501,
+        ocs:C17171,
+        ocs:C21158,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C29222,
+        ocs:C29694,
+        ocs:C31013,
+        ocs:C31456,
+        ocs:C33766,
+        ocs:C34134,
+        ocs:C36966,
+        ocs:C37007,
+        ocs:C38859,
+        ocs:C42753,
+        ocs:C797 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10698 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tree_alignment> ;
+    skos:prefLabel "Tree alignment" ;
+    skos:related ocs:C11372,
+        ocs:C15253,
+        ocs:C18302,
+        ocs:C19174,
+        ocs:C2930,
+        ocs:C41731,
+        ocs:C5856,
+        ocs:C77 .
+

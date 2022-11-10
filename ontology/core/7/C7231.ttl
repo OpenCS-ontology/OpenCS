@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7231 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_leakage> ;
+    skos:prefLabel "Information leakage" ;
+    skos:related ocs:C17344,
+        ocs:C20993,
+        ocs:C22251,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C31777,
+        ocs:C32109,
+        ocs:C32350,
+        ocs:C33956,
+        ocs:C36898,
+        ocs:C41186,
+        ocs:C41498,
+        ocs:C41706,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C4344,
+        ocs:C5692,
+        ocs:C9491 .
+

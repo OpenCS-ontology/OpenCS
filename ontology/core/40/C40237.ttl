@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40237 a skos:Concept ;
+    skos:broader ocs:C34663,
+        ocs:C34688 ;
+    skos:closeMatch <http://dbpedia.org/resource/Killer_heuristic> ;
+    skos:prefLabel "Killer heuristic" ;
+    skos:related ocs:C1400,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C34688,
+        ocs:C4254,
+        ocs:C43080,
+        ocs:C43808,
+        ocs:C4594,
+        ocs:C6759,
+        ocs:C6920,
+        ocs:C6945 .
+

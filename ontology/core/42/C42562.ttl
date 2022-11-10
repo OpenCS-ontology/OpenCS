@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42562 a skos:Concept ;
+    skos:broader ocs:C31809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Papyrocranus_afer> ;
+    skos:prefLabel "Papyrocranus afer" ;
+    skos:related ocs:C42956,
+        ocs:C44207 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37682 a skos:Concept ;
+    skos:broader ocs:C25412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Starspot> ;
+    skos:prefLabel "Starspot" ;
+    skos:related ocs:C10556,
+        ocs:C18085,
+        ocs:C19549,
+        ocs:C22752,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C31589,
+        ocs:C32086,
+        ocs:C597 .
+

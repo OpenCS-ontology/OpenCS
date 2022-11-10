@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28896 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expertise_finding> ;
+    skos:prefLabel "Expertise finding" ;
+    skos:related ocs:C11126,
+        ocs:C12,
+        ocs:C13,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C26012,
+        ocs:C34361,
+        ocs:C4595,
+        ocs:C6,
+        ocs:C6749,
+        ocs:C9058,
+        ocs:C9209 .
+

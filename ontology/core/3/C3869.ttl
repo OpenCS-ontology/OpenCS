@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3869 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Total price" ;
+    skos:related ocs:C17,
+        ocs:C2,
+        ocs:C3,
+        ocs:C5160,
+        ocs:C8614 .
+

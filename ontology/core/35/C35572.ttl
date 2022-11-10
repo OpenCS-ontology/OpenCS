@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35572 a skos:Concept ;
+    skos:broader ocs:C21421 ;
+    skos:closeMatch <http://dbpedia.org/resource/Obstacle_problem> ;
+    skos:prefLabel "Obstacle problem" ;
+    skos:related ocs:C20390,
+        ocs:C21421,
+        ocs:C23752,
+        ocs:C28787,
+        ocs:C35407,
+        ocs:C39746 .
+

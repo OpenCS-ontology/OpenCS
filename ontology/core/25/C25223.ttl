@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25223 a skos:Concept ;
+    skos:broader ocs:C13686,
+        ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_network> ;
+    skos:prefLabel "Boolean network" ;
+    skos:related ocs:C11252,
+        ocs:C122,
+        ocs:C14592,
+        ocs:C16955,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C32755,
+        ocs:C35153,
+        ocs:C43807,
+        ocs:C597,
+        ocs:C8791,
+        ocs:C9373 .
+

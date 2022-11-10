@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8085 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Catadioptric_system> ;
+    skos:prefLabel "Catadioptric system" ;
+    skos:related ocs:C23972,
+        ocs:C25707,
+        ocs:C33486 .
+

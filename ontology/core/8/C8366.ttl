@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8366 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_recognition> ;
+    skos:prefLabel "Word recognition" ;
+    skos:related ocs:C12759,
+        ocs:C20511,
+        ocs:C21670,
+        ocs:C34379,
+        ocs:C8020,
+        ocs:C936,
+        ocs:C9606 .
+

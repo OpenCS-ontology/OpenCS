@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5733 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Passport application" ;
+    skos:related ocs:C6,
+        ocs:C8437,
+        ocs:C9489,
+        ocs:C9607 .
+

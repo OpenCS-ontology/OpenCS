@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6174 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_time_warping> ;
+    skos:prefLabel "Dynamic time warping" ;
+    skos:related ocs:C1,
+        ocs:C10382,
+        ocs:C16,
+        ocs:C17261,
+        ocs:C19174,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C27351,
+        ocs:C3189,
+        ocs:C3987,
+        ocs:C5856,
+        ocs:C77,
+        ocs:C9022,
+        ocs:C9428 .
+

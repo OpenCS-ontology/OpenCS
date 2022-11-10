@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13115 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mode_X> ;
+    skos:prefLabel "Mode X" ;
+    skos:related ocs:C13586,
+        ocs:C13851,
+        ocs:C1835,
+        ocs:C22257,
+        ocs:C2434,
+        ocs:C28172,
+        ocs:C30378,
+        ocs:C31249,
+        ocs:C31514,
+        ocs:C31548,
+        ocs:C32920,
+        ocs:C38956,
+        ocs:C44318,
+        ocs:C45499,
+        ocs:C5854,
+        ocs:C8021,
+        ocs:C8900 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9456 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Hold (action)" ;
+    skos:related ocs:C16481,
+        ocs:C18,
+        ocs:C2480,
+        ocs:C35 .
+

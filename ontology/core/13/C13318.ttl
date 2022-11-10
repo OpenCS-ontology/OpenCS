@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13318 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C23,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/List_update_problem> ;
+    skos:prefLabel "List update problem" ;
+    skos:related ocs:C12816,
+        ocs:C15253,
+        ocs:C18215,
+        ocs:C19098,
+        ocs:C19305,
+        ocs:C20343,
+        ocs:C25201,
+        ocs:C25958,
+        ocs:C32294,
+        ocs:C33548,
+        ocs:C36120,
+        ocs:C38368,
+        ocs:C41438,
+        ocs:C41570,
+        ocs:C43196,
+        ocs:C44387,
+        ocs:C6537,
+        ocs:C7988,
+        ocs:C8660 .
+

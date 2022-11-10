@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3082 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/LogP_machine> ;
+    skos:prefLabel "LogP machine" ;
+    skos:related ocs:C11443,
+        ocs:C14131,
+        ocs:C156,
+        ocs:C1631,
+        ocs:C17376,
+        ocs:C17626,
+        ocs:C19425,
+        ocs:C22100,
+        ocs:C24700,
+        ocs:C25923,
+        ocs:C27,
+        ocs:C32088,
+        ocs:C3990,
+        ocs:C40330,
+        ocs:C43106,
+        ocs:C5766,
+        ocs:C6346,
+        ocs:C7507,
+        ocs:C8660 .
+

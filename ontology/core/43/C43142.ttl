@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43142 a skos:Concept ;
+    skos:broader ocs:C33709,
+        ocs:C35567 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chemical_Markup_Language> ;
+    skos:prefLabel "Chemical Markup Language" ;
+    skos:related ocs:C11927,
+        ocs:C16159,
+        ocs:C23709,
+        ocs:C23803,
+        ocs:C2670,
+        ocs:C33709,
+        ocs:C4035,
+        ocs:C40725,
+        ocs:C42905,
+        ocs:C43834,
+        ocs:C44193,
+        ocs:C45276,
+        ocs:C45693,
+        ocs:C6278 .
+

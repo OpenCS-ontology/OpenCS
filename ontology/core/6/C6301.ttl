@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6301 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_path> ;
+    skos:prefLabel "Trusted path" ;
+    skos:related ocs:C12052,
+        ocs:C13578,
+        ocs:C14731,
+        ocs:C16295,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C18529,
+        ocs:C21324,
+        ocs:C22929,
+        ocs:C25074,
+        ocs:C27557,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C35,
+        ocs:C43514,
+        ocs:C6476,
+        ocs:C7738,
+        ocs:C8437 .
+

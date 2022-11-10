@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21819 a skos:Concept ;
+    skos:broader ocs:C11213 ;
+    skos:closeMatch <http://dbpedia.org/resource/Received_Pronunciation> ;
+    skos:prefLabel "Received Pronunciation" ;
+    skos:related ocs:C12167,
+        ocs:C12222,
+        ocs:C12388,
+        ocs:C13096,
+        ocs:C17395,
+        ocs:C19146,
+        ocs:C19812,
+        ocs:C2025,
+        ocs:C22612,
+        ocs:C26501,
+        ocs:C27886,
+        ocs:C6194,
+        ocs:C6237 .
+

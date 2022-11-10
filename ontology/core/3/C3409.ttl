@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3409 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C23 ;
+    skos:closeMatch <http://dbpedia.org/resource/Canonicalization> ;
+    skos:prefLabel "Canonicalization" ;
+    skos:related ocs:C10,
+        ocs:C11927,
+        ocs:C13253,
+        ocs:C16028,
+        ocs:C25,
+        ocs:C29797,
+        ocs:C3614,
+        ocs:C3983,
+        ocs:C40145,
+        ocs:C40673,
+        ocs:C41699,
+        ocs:C42663,
+        ocs:C5126,
+        ocs:C8283,
+        ocs:C9162 .
+

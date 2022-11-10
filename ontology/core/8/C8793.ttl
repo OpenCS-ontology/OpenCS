@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8793 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dykstra's_projection_algorithm> ;
+    skos:prefLabel "Dykstra's projection algorithm" ;
+    skos:related ocs:C14414,
+        ocs:C15615,
+        ocs:C19348,
+        ocs:C23927,
+        ocs:C32031,
+        ocs:C6287 .
+

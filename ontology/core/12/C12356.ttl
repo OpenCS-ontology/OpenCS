@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12356 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Wallet Card" ;
+    skos:related ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C28424,
+        ocs:C30704,
+        ocs:C35,
+        ocs:C5160,
+        ocs:C6754 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4151 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_data_analysis> ;
+    skos:prefLabel "Functional data analysis" ;
+    skos:related ocs:C17858,
+        ocs:C19045,
+        ocs:C19844,
+        ocs:C20050,
+        ocs:C29209,
+        ocs:C43444,
+        ocs:C5087,
+        ocs:C5510,
+        ocs:C6912,
+        ocs:C8756,
+        ocs:C9428,
+        ocs:C9488,
+        ocs:C9538,
+        ocs:C9874 .
+

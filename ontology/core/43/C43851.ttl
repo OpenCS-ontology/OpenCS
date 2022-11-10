@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43851 a skos:Concept ;
+    skos:broader ocs:C36593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Volatile_(computer_programming)> ;
+    skos:prefLabel "volatile" ;
+    skos:related ocs:C10608,
+        ocs:C10909,
+        ocs:C1142,
+        ocs:C12108,
+        ocs:C13315,
+        ocs:C1333,
+        ocs:C16747,
+        ocs:C174,
+        ocs:C17703,
+        ocs:C21201,
+        ocs:C26466,
+        ocs:C28582,
+        ocs:C33921,
+        ocs:C39149,
+        ocs:C39243,
+        ocs:C42690,
+        ocs:C8204 .
+

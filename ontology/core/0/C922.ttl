@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C922 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reference_management_software> ;
+    skos:prefLabel "Reference management software" ;
+    skos:related ocs:C10220,
+        ocs:C10413,
+        ocs:C11446,
+        ocs:C11927,
+        ocs:C15008,
+        ocs:C22568,
+        ocs:C24871,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C3896,
+        ocs:C4781,
+        ocs:C6790,
+        ocs:C7849,
+        ocs:C9855 .
+

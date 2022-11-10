@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39135 a skos:Concept ;
+    skos:broader ocs:C32548 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_spectrum> ;
+    skos:prefLabel "Open spectrum" ;
+    skos:related ocs:C11718,
+        ocs:C1460,
+        ocs:C20804,
+        ocs:C24312,
+        ocs:C26409,
+        ocs:C27912,
+        ocs:C28404,
+        ocs:C32548,
+        ocs:C3782,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7746,
+        ocs:C8431,
+        ocs:C8612,
+        ocs:C8636 .
+

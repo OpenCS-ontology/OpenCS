@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40534 a skos:Concept ;
+    skos:broader ocs:C29568,
+        ocs:C32582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protocol_for_Carrying_Authentication_for_Network_Access> ;
+    skos:prefLabel "Protocol for Carrying Authentication for Network Access" ;
+    skos:related ocs:C12932,
+        ocs:C15174,
+        ocs:C20243,
+        ocs:C20314,
+        ocs:C23567,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C27543,
+        ocs:C29568,
+        ocs:C30769,
+        ocs:C33773,
+        ocs:C37967,
+        ocs:C38690,
+        ocs:C40328,
+        ocs:C41838,
+        ocs:C43473,
+        ocs:C44282,
+        ocs:C44603,
+        ocs:C45757,
+        ocs:C9931 .
+

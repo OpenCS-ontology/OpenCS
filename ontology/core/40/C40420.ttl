@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40420 a skos:Concept ;
+    skos:broader ocs:C35333 ;
+    skos:closeMatch <http://dbpedia.org/resource/ITU_terrain_model> ;
+    skos:prefLabel "ITU terrain model" ;
+    skos:related ocs:C10462,
+        ocs:C15254,
+        ocs:C1686,
+        ocs:C21945,
+        ocs:C22200,
+        ocs:C23423,
+        ocs:C3044,
+        ocs:C31063,
+        ocs:C33037,
+        ocs:C35333,
+        ocs:C35931,
+        ocs:C36668,
+        ocs:C38188,
+        ocs:C43545,
+        ocs:C43775,
+        ocs:C44937,
+        ocs:C45749,
+        ocs:C45826,
+        ocs:C4783,
+        ocs:C6198 .
+

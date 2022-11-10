@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29281 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Focus_film_distance> ;
+    skos:prefLabel "Focus film distance" ;
+    skos:related ocs:C19382 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32654 a skos:Concept ;
+    skos:broader ocs:C14600,
+        ocs:C19382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fano_noise> ;
+    skos:prefLabel "Fano noise" ;
+    skos:related ocs:C10318,
+        ocs:C12580,
+        ocs:C17184,
+        ocs:C25042,
+        ocs:C29365,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C8021 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15701 a skos:Concept ;
+    skos:broader ocs:C9931 ;
+    skos:prefLabel "Protocol Profile" ;
+    skos:related ocs:C11886,
+        ocs:C28,
+        ocs:C30,
+        ocs:C31,
+        ocs:C33040,
+        ocs:C6 .
+

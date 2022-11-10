@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32621 a skos:Concept ;
+    skos:broader ocs:C21424,
+        ocs:C22451,
+        ocs:C24469,
+        ocs:C28744 ;
+    skos:prefLabel "Gaussian frequency-shift keying" .
+

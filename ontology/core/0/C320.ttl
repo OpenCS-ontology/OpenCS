@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C320 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arpabet> ;
+    skos:prefLabel "Arpabet" ;
+    skos:related ocs:C13096,
+        ocs:C14527,
+        ocs:C15020,
+        ocs:C19146,
+        ocs:C2025,
+        ocs:C22147,
+        ocs:C25352,
+        ocs:C26032,
+        ocs:C27886,
+        ocs:C308,
+        ocs:C31328,
+        ocs:C34054,
+        ocs:C34315,
+        ocs:C4397,
+        ocs:C4522,
+        ocs:C6361,
+        ocs:C9162 .
+

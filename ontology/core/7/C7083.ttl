@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7083 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:prefLabel "Driver safety program" ;
+    skos:related ocs:C12,
+        ocs:C17,
+        ocs:C2863,
+        ocs:C35,
+        ocs:C5262,
+        ocs:C5633 .
+

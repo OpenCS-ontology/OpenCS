@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16276 a skos:Concept ;
+    skos:broader ocs:C10917,
+        ocs:C2478,
+        ocs:C8499,
+        ocs:C8753 ;
+    skos:prefLabel "Sliding memory" .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29064 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finance_charge> ;
+    skos:prefLabel "Finance charge" ;
+    skos:related ocs:C14059,
+        ocs:C14584,
+        ocs:C19078,
+        ocs:C24659 .
+

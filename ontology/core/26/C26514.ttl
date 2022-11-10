@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26514 a skos:Concept ;
+    skos:broader ocs:C7510 ;
+    skos:closeMatch <http://dbpedia.org/resource/Right_to_privacy> ;
+    skos:prefLabel "Right to privacy" ;
+    skos:related ocs:C28076,
+        ocs:C37237 .
+

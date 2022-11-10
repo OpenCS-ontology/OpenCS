@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13385 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Co-simulation> ;
+    skos:prefLabel "Co-simulation" ;
+    skos:related ocs:C15594,
+        ocs:C5715 .
+

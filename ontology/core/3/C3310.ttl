@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3310 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amateur_radio_repeater> ;
+    skos:prefLabel "Amateur radio repeater" ;
+    skos:related ocs:C11669,
+        ocs:C14053,
+        ocs:C1455,
+        ocs:C15099,
+        ocs:C17653,
+        ocs:C18001,
+        ocs:C21987,
+        ocs:C23488,
+        ocs:C2582,
+        ocs:C3,
+        ocs:C3690,
+        ocs:C43408,
+        ocs:C44700,
+        ocs:C44707,
+        ocs:C45495,
+        ocs:C6859,
+        ocs:C7216 .
+

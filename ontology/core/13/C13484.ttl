@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13484 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_guided_vehicle> ;
+    skos:prefLabel "Automated guided vehicle" ;
+    skos:related ocs:C10396,
+        ocs:C1253,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C35370,
+        ocs:C4398,
+        ocs:C4917,
+        ocs:C675 .
+

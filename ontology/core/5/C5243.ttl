@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5243 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contingency_theory> ;
+    skos:prefLabel "Contingency theory" ;
+    skos:related ocs:C1332,
+        ocs:C33625,
+        ocs:C40154,
+        ocs:C4510,
+        ocs:C45556,
+        ocs:C4906,
+        ocs:C5092,
+        ocs:C5863,
+        ocs:C9069 .
+

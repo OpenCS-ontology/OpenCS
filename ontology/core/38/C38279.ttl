@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38279 a skos:Concept ;
+    skos:broader ocs:C33187 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affiliated_operator> ;
+    skos:prefLabel "Affiliated operator" ;
+    skos:related ocs:C17651,
+        ocs:C19542,
+        ocs:C22086,
+        ocs:C23890,
+        ocs:C27394,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C34669,
+        ocs:C36581,
+        ocs:C40662,
+        ocs:C42488,
+        ocs:C44691,
+        ocs:C45503 .
+

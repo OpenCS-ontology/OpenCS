@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22222 a skos:Concept ;
+    skos:broader ocs:C13096,
+        ocs:C13210,
+        ocs:C6764 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonological_hierarchy> ;
+    skos:prefLabel "Phonological hierarchy" ;
+    skos:related ocs:C13096,
+        ocs:C13210,
+        ocs:C14704,
+        ocs:C15900,
+        ocs:C19812,
+        ocs:C2025,
+        ocs:C21948,
+        ocs:C24459,
+        ocs:C25115,
+        ocs:C26896,
+        ocs:C28535,
+        ocs:C29133,
+        ocs:C31453,
+        ocs:C5717,
+        ocs:C6449,
+        ocs:C6784 .
+

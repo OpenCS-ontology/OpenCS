@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42375 a skos:Concept ;
+    skos:broader ocs:C36218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Narrow-ridged_finless_porpoise> ;
+    skos:prefLabel "Narrow-ridged finless porpoise" ;
+    skos:related ocs:C18366,
+        ocs:C28188,
+        ocs:C43380 .
+

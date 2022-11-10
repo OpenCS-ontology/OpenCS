@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2200 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preference-based_planning> ;
+    skos:prefLabel "Preference-based planning" ;
+    skos:related ocs:C10511,
+        ocs:C11556,
+        ocs:C12098,
+        ocs:C13982,
+        ocs:C15062,
+        ocs:C16738,
+        ocs:C17345,
+        ocs:C18078,
+        ocs:C21264,
+        ocs:C23063,
+        ocs:C26519,
+        ocs:C2807,
+        ocs:C29173,
+        ocs:C34321,
+        ocs:C34323,
+        ocs:C35500,
+        ocs:C532,
+        ocs:C8,
+        ocs:C9450 .
+

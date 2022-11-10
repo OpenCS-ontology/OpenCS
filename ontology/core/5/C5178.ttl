@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5178 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyphenation_algorithm> ;
+    skos:prefLabel "Hyphenation algorithm" ;
+    skos:related ocs:C10284,
+        ocs:C11288,
+        ocs:C1805,
+        ocs:C19159,
+        ocs:C22568,
+        ocs:C2375,
+        ocs:C29368,
+        ocs:C44971,
+        ocs:C5126,
+        ocs:C5477,
+        ocs:C5870,
+        ocs:C6416,
+        ocs:C7064,
+        ocs:C7693,
+        ocs:C8022,
+        ocs:C8342,
+        ocs:C8522 .
+

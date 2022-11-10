@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24012 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C2469,
+        ocs:C4966 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guarded_Command_Language> ;
+    skos:prefLabel "Guarded Command Language" ;
+    skos:related ocs:C10,
+        ocs:C10140,
+        ocs:C1035,
+        ocs:C10984,
+        ocs:C14655,
+        ocs:C18606,
+        ocs:C19,
+        ocs:C19351,
+        ocs:C23140,
+        ocs:C2663,
+        ocs:C27084,
+        ocs:C28410,
+        ocs:C3514,
+        ocs:C3561,
+        ocs:C35744,
+        ocs:C37681,
+        ocs:C45658,
+        ocs:C4937,
+        ocs:C7257 .
+

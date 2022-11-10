@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7667 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uto-Aztecan_languages> ;
+    skos:prefLabel "Uto-Aztecan languages" ;
+    skos:related ocs:C12486,
+        ocs:C172,
+        ocs:C19172,
+        ocs:C6046,
+        ocs:C7501,
+        ocs:C9777 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14240 a skos:Concept ;
+    skos:broader ocs:C5362 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roadway_noise> ;
+    skos:prefLabel "Roadway noise" ;
+    skos:related ocs:C5711,
+        ocs:C7256 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40662 a skos:Concept ;
+    skos:broader ocs:C31450,
+        ocs:C34413 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_theory_of_ordinary_differential_equations> ;
+    skos:prefLabel "Spectral theory of ordinary differential equations" ;
+    skos:related ocs:C14319,
+        ocs:C16744,
+        ocs:C20699,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C31450,
+        ocs:C34413,
+        ocs:C36974,
+        ocs:C44602,
+        ocs:C44846 .
+

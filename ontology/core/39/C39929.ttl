@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39929 a skos:Concept ;
+    skos:broader ocs:C33916 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bio2RDF> ;
+    skos:prefLabel "Bio2RDF" ;
+    skos:related ocs:C28117,
+        ocs:C2931,
+        ocs:C30368,
+        ocs:C33916,
+        ocs:C38252,
+        ocs:C3854,
+        ocs:C39618,
+        ocs:C40079,
+        ocs:C40821,
+        ocs:C41204,
+        ocs:C41864,
+        ocs:C44161,
+        ocs:C45248,
+        ocs:C45861,
+        ocs:C4692,
+        ocs:C9836 .
+

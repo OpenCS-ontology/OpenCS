@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6541 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partial_evaluation> ;
+    skos:prefLabel "Partial evaluation" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10720,
+        ocs:C12257,
+        ocs:C13421,
+        ocs:C15590,
+        ocs:C17667,
+        ocs:C1781,
+        ocs:C18578,
+        ocs:C19,
+        ocs:C21201,
+        ocs:C25684,
+        ocs:C27080,
+        ocs:C35625,
+        ocs:C40088,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C6941 .
+

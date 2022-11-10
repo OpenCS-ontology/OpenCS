@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41231 a skos:Concept ;
+    skos:broader ocs:C36965 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morse–Palais_lemma> ;
+    skos:prefLabel "Morse–Palais lemma" ;
+    skos:related ocs:C17860,
+        ocs:C28787,
+        ocs:C34336,
+        ocs:C36110,
+        ocs:C36974,
+        ocs:C39658,
+        ocs:C40195,
+        ocs:C41139 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39252 a skos:Concept ;
+    skos:broader ocs:C32522 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unix_security> ;
+    skos:prefLabel "Unix security" ;
+    skos:related ocs:C12605,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C14983,
+        ocs:C16481,
+        ocs:C19830,
+        ocs:C19902,
+        ocs:C22929,
+        ocs:C24915,
+        ocs:C27120,
+        ocs:C28637,
+        ocs:C31489,
+        ocs:C34358,
+        ocs:C34914,
+        ocs:C40900,
+        ocs:C42619,
+        ocs:C4513,
+        ocs:C4997,
+        ocs:C9 .
+

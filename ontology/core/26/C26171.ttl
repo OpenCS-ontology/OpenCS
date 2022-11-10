@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26171 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Platonic_graph> ;
+    skos:prefLabel "Platonic graph" ;
+    skos:related ocs:C39110,
+        ocs:C39615,
+        ocs:C39730,
+        ocs:C39783,
+        ocs:C40446,
+        ocs:C40871,
+        ocs:C41435,
+        ocs:C42281,
+        ocs:C42525,
+        ocs:C42764,
+        ocs:C42872,
+        ocs:C43606,
+        ocs:C44281,
+        ocs:C44453,
+        ocs:C45277 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5201 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iterative_method> ;
+    skos:prefLabel "Iterative method" ;
+    skos:related ocs:C10,
+        ocs:C14414,
+        ocs:C15070,
+        ocs:C18821,
+        ocs:C19177,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C24606,
+        ocs:C36683,
+        ocs:C8944 .
+

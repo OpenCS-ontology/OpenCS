@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45052 a skos:Concept ;
+    skos:broader ocs:C32031,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biggest_little_polygon> ;
+    skos:prefLabel "Biggest little polygon" ;
+    skos:related ocs:C32462,
+        ocs:C38626,
+        ocs:C38702,
+        ocs:C39788,
+        ocs:C43235 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45113 a skos:Concept ;
+    skos:broader ocs:C31884,
+        ocs:C32111,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biregular_graph> ;
+    skos:prefLabel "Biregular graph" ;
+    skos:related ocs:C14693,
+        ocs:C16670,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C36126,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C38171,
+        ocs:C40560,
+        ocs:C41137,
+        ocs:C41373,
+        ocs:C41628,
+        ocs:C41969,
+        ocs:C44935 .
+

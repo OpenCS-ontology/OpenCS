@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40222 a skos:Concept ;
+    skos:broader ocs:C32222,
+        ocs:C33886,
+        ocs:C37234 ;
+    skos:prefLabel "Memory profiling" .
+

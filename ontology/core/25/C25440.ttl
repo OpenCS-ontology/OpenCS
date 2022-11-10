@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25440 a skos:Concept ;
+    skos:broader ocs:C11899,
+        ocs:C6697,
+        ocs:C8452,
+        ocs:C8565,
+        ocs:C935 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interval_tree> ;
+    skos:prefLabel "Interval tree" ;
+    skos:related ocs:C14269,
+        ocs:C20539,
+        ocs:C26515,
+        ocs:C26753,
+        ocs:C30594,
+        ocs:C33701,
+        ocs:C34223,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C37974,
+        ocs:C39075,
+        ocs:C42658,
+        ocs:C43467,
+        ocs:C45211,
+        ocs:C45739,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C8893 .
+

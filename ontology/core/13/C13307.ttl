@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13307 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intrusion_detection_system> ;
+    skos:prefLabel "Intrusion detection system" ;
+    skos:related ocs:C10214,
+        ocs:C10565,
+        ocs:C13786,
+        ocs:C1399,
+        ocs:C18986,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C27923,
+        ocs:C28881,
+        ocs:C2941,
+        ocs:C31489,
+        ocs:C34318,
+        ocs:C35,
+        ocs:C41003,
+        ocs:C43629,
+        ocs:C5692,
+        ocs:C8614,
+        ocs:C9 .
+

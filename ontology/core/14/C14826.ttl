@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14826 a skos:Concept ;
+    skos:broader ocs:C8702 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sorptivity> ;
+    skos:prefLabel "Sorptivity" ;
+    skos:related ocs:C26757 .
+

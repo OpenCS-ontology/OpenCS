@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7165 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_on_a_chip> ;
+    skos:prefLabel "System on a chip" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C12690,
+        ocs:C13747,
+        ocs:C1904,
+        ocs:C19556,
+        ocs:C23473,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C35370,
+        ocs:C490,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

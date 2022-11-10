@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36355 a skos:Concept ;
+    skos:broader ocs:C22527 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chloride_channel_blocker> ;
+    skos:prefLabel "Chloride channel blocker" ;
+    skos:related ocs:C19362,
+        ocs:C21055,
+        ocs:C21774,
+        ocs:C33324,
+        ocs:C37101 .
+

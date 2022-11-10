@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27903 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_Laplace_operator> ;
+    skos:prefLabel "Discrete Laplace operator" ;
+    skos:related ocs:C15460,
+        ocs:C20699,
+        ocs:C26782,
+        ocs:C28787,
+        ocs:C36974,
+        ocs:C39515,
+        ocs:C40662,
+        ocs:C45737 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15337 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_pattern> ;
+    skos:prefLabel "Channel pattern" ;
+    skos:related ocs:C15867,
+        ocs:C20613,
+        ocs:C21944,
+        ocs:C22625 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13259 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stippling> ;
+    skos:prefLabel "Stippling" ;
+    skos:related ocs:C10058,
+        ocs:C12590,
+        ocs:C13515,
+        ocs:C24211,
+        ocs:C28588 .
+

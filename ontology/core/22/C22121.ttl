@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22121 a skos:Concept ;
+    skos:broader ocs:C2529 ;
+    skos:closeMatch <http://dbpedia.org/resource/DXplain> ;
+    skos:prefLabel "DXplain" ;
+    skos:related ocs:C14954,
+        ocs:C28762,
+        ocs:C37463,
+        ocs:C5263 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23999 a skos:Concept ;
+    skos:broader ocs:C8440 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit-level_parallelism> ;
+    skos:prefLabel "Bit-level parallelism" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C11258,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C27,
+        ocs:C3981,
+        ocs:C4155,
+        ocs:C42690,
+        ocs:C43505,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C7735,
+        ocs:C8434,
+        ocs:C9,
+        ocs:C9872 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27494 a skos:Concept ;
+    skos:broader ocs:C545,
+        ocs:C9572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Object_Memory> ;
+    skos:prefLabel "Digital object memory" ;
+    skos:related ocs:C11596,
+        ocs:C12238,
+        ocs:C12755,
+        ocs:C13014,
+        ocs:C17536,
+        ocs:C17903,
+        ocs:C22668,
+        ocs:C23503,
+        ocs:C28354,
+        ocs:C28801,
+        ocs:C3231,
+        ocs:C32413,
+        ocs:C35,
+        ocs:C4917,
+        ocs:C533,
+        ocs:C5715,
+        ocs:C6225,
+        ocs:C7770 .
+

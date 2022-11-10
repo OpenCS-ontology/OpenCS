@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24313 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fock_space> ;
+    skos:prefLabel "Fock space" ;
+    skos:related ocs:C15588,
+        ocs:C24854,
+        ocs:C28787,
+        ocs:C32025,
+        ocs:C36133 .
+

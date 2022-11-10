@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21954 a skos:Concept ;
+    skos:broader ocs:C11389,
+        ocs:C12752 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cheque_truncation> ;
+    skos:prefLabel "Cheque truncation" ;
+    skos:related ocs:C12752,
+        ocs:C12993,
+        ocs:C15464,
+        ocs:C15607,
+        ocs:C17400,
+        ocs:C2124,
+        ocs:C26695,
+        ocs:C26811,
+        ocs:C26838,
+        ocs:C27327,
+        ocs:C27523,
+        ocs:C32778,
+        ocs:C33193,
+        ocs:C4779,
+        ocs:C7458 .
+

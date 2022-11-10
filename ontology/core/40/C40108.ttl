@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40108 a skos:Concept ;
+    skos:broader ocs:C35866 ;
+    skos:closeMatch <http://dbpedia.org/resource/Descent_direction> ;
+    skos:prefLabel "Descent direction" ;
+    skos:related ocs:C14414,
+        ocs:C15070,
+        ocs:C20013,
+        ocs:C20325,
+        ocs:C21263,
+        ocs:C21421,
+        ocs:C22483,
+        ocs:C24136,
+        ocs:C24725,
+        ocs:C25774,
+        ocs:C29055,
+        ocs:C29578,
+        ocs:C29738,
+        ocs:C32918,
+        ocs:C35866,
+        ocs:C37201,
+        ocs:C39395,
+        ocs:C5704 .
+

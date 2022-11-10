@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17053 a skos:Concept ;
+    skos:broader ocs:C2068 ;
+    skos:closeMatch <http://dbpedia.org/resource/CN2_algorithm> ;
+    skos:prefLabel "CN2 algorithm" ;
+    skos:related ocs:C10278,
+        ocs:C12786,
+        ocs:C12805,
+        ocs:C16171,
+        ocs:C2068,
+        ocs:C22260,
+        ocs:C22653,
+        ocs:C23275,
+        ocs:C30116,
+        ocs:C3058,
+        ocs:C31369,
+        ocs:C32775,
+        ocs:C32882,
+        ocs:C34002,
+        ocs:C36272,
+        ocs:C37267,
+        ocs:C41798,
+        ocs:C4201 .
+

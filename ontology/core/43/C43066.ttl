@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43066 a skos:Concept ;
+    skos:broader ocs:C32576,
+        ocs:C36489 ;
+    skos:closeMatch <http://dbpedia.org/resource/GPS_disciplined_oscillator> ;
+    skos:prefLabel "GPS disciplined oscillator" ;
+    skos:related ocs:C12641,
+        ocs:C19751,
+        ocs:C27546,
+        ocs:C5142,
+        ocs:C5506,
+        ocs:C5706 .
+

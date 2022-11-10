@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36821 a skos:Concept ;
+    skos:broader ocs:C23202 ;
+    skos:prefLabel "Gated Scan" ;
+    skos:related ocs:C10321,
+        ocs:C12207,
+        ocs:C19673,
+        ocs:C2,
+        ocs:C33,
+        ocs:C9483 .
+

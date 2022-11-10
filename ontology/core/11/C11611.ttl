@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11611 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frobenius_pseudoprime> ;
+    skos:prefLabel "Frobenius pseudoprime" ;
+    skos:related ocs:C2309,
+        ocs:C8628,
+        ocs:C9034 .
+

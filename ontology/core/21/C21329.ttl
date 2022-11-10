@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21329 a skos:Concept ;
+    skos:broader ocs:C10566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Facial_feedback_hypothesis> ;
+    skos:prefLabel "Facial feedback hypothesis" ;
+    skos:related ocs:C10566,
+        ocs:C15613,
+        ocs:C18440 .
+

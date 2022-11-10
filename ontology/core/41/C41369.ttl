@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41369 a skos:Concept ;
+    skos:broader ocs:C30091,
+        ocs:C32085,
+        ocs:C33774,
+        ocs:C33980,
+        ocs:C34570,
+        ocs:C34986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chthonian_planet> ;
+    skos:prefLabel "Chthonian planet" ;
+    skos:related ocs:C14270,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C32417,
+        ocs:C34228,
+        ocs:C34570,
+        ocs:C38058,
+        ocs:C42700,
+        ocs:C43847,
+        ocs:C597 .
+

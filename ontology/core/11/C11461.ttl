@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11461 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/FORMAC> ;
+    skos:prefLabel "FORMAC" ;
+    skos:related ocs:C10720,
+        ocs:C11180,
+        ocs:C12851,
+        ocs:C13101,
+        ocs:C17570,
+        ocs:C19,
+        ocs:C19128,
+        ocs:C24909,
+        ocs:C25180,
+        ocs:C28560,
+        ocs:C3006,
+        ocs:C3036,
+        ocs:C33558,
+        ocs:C659,
+        ocs:C6714,
+        ocs:C696,
+        ocs:C7289,
+        ocs:C7695,
+        ocs:C8441 .
+

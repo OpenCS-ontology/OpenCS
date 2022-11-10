@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33346 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C27571 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neural_cryptography> ;
+    skos:prefLabel "Neural cryptography" ;
+    skos:related ocs:C1511,
+        ocs:C17856,
+        ocs:C20846,
+        ocs:C22089,
+        ocs:C22099,
+        ocs:C25340,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29704,
+        ocs:C29841,
+        ocs:C31774,
+        ocs:C34052,
+        ocs:C37854,
+        ocs:C40736,
+        ocs:C41514,
+        ocs:C4218,
+        ocs:C9022 .
+

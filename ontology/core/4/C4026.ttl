@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4026 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collision_(computer_science)> ;
+    skos:prefLabel "Collision" ;
+    skos:related ocs:C1,
+        ocs:C15591,
+        ocs:C17903,
+        ocs:C23875,
+        ocs:C26456,
+        ocs:C30340,
+        ocs:C33416,
+        ocs:C35839,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38599,
+        ocs:C38795,
+        ocs:C3936,
+        ocs:C39995,
+        ocs:C40584,
+        ocs:C41603,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C42818,
+        ocs:C7436 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1641 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unix_domain_socket> ;
+    skos:prefLabel "Unix domain socket" ;
+    skos:related ocs:C1165,
+        ocs:C12385,
+        ocs:C13061,
+        ocs:C14271,
+        ocs:C15860,
+        ocs:C20800,
+        ocs:C21232,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C37732,
+        ocs:C41115,
+        ocs:C42619,
+        ocs:C43822,
+        ocs:C443,
+        ocs:C7167,
+        ocs:C7476,
+        ocs:C8901,
+        ocs:C9 .
+

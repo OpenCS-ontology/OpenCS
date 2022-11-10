@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31555 a skos:Concept ;
+    skos:broader ocs:C28955 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dickson's_lemma> ;
+    skos:prefLabel "Dickson's lemma" ;
+    skos:related ocs:C10922,
+        ocs:C17726,
+        ocs:C42066 .
+

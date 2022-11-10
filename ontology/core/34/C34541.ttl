@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34541 a skos:Concept ;
+    skos:broader ocs:C20124 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuous_linear_operator> ;
+    skos:prefLabel "Continuous linear operator" ;
+    skos:related ocs:C20124,
+        ocs:C23927,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31849,
+        ocs:C31924,
+        ocs:C39745,
+        ocs:C43695 .
+

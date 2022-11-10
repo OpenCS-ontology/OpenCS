@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5239 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_theory> ;
+    skos:prefLabel "Domain theory" ;
+    skos:related ocs:C1,
+        ocs:C1631,
+        ocs:C29139,
+        ocs:C36771 .
+

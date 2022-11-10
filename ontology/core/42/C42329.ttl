@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42329 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feedback_vertex_set> ;
+    skos:prefLabel "Feedback vertex set" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C26989,
+        ocs:C30401,
+        ocs:C31026,
+        ocs:C31629,
+        ocs:C32806,
+        ocs:C33699,
+        ocs:C36126,
+        ocs:C38590,
+        ocs:C40560,
+        ocs:C40871,
+        ocs:C41731,
+        ocs:C42953,
+        ocs:C42955,
+        ocs:C43652,
+        ocs:C44250,
+        ocs:C44560,
+        ocs:C619,
+        ocs:C6776 .
+

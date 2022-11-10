@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26469 a skos:Concept ;
+    skos:broader ocs:C2298,
+        ocs:C2358 ;
+    skos:closeMatch <http://dbpedia.org/resource/Survey_of_English_Usage> ;
+    skos:prefLabel "Survey of English Usage" ;
+    skos:related ocs:C11712,
+        ocs:C15475,
+        ocs:C15768,
+        ocs:C15826,
+        ocs:C18176,
+        ocs:C1948,
+        ocs:C22964,
+        ocs:C2358,
+        ocs:C26217,
+        ocs:C26816,
+        ocs:C26990,
+        ocs:C8125,
+        ocs:C961 .
+

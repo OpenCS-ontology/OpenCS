@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37998 a skos:Concept ;
+    skos:broader ocs:C31778,
+        ocs:C34809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Damerau–Levenshtein_distance> ;
+    skos:prefLabel "Damerau–Levenshtein distance" ;
+    skos:related ocs:C10398,
+        ocs:C16676,
+        ocs:C19174,
+        ocs:C22275,
+        ocs:C2930,
+        ocs:C31778,
+        ocs:C3189,
+        ocs:C34809,
+        ocs:C37359,
+        ocs:C39452,
+        ocs:C43627,
+        ocs:C5145,
+        ocs:C5816,
+        ocs:C6402,
+        ocs:C77,
+        ocs:C9556 .
+

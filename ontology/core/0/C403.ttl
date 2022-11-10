@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C403 a skos:Concept ;
+    skos:broader ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Completion_rate> ;
+    skos:prefLabel "Completion rate" ;
+    skos:related ocs:C11540,
+        ocs:C18814,
+        ocs:C2482,
+        ocs:C30474,
+        ocs:C31 .
+

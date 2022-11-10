@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40651 a skos:Concept ;
+    skos:broader ocs:C30242 ;
+    skos:closeMatch <http://dbpedia.org/resource/LCF_notation> ;
+    skos:prefLabel "LCF notation" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C31629,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C40560,
+        ocs:C40663,
+        ocs:C41032,
+        ocs:C41628,
+        ocs:C41759,
+        ocs:C41969,
+        ocs:C42281,
+        ocs:C42730,
+        ocs:C42872,
+        ocs:C45648 .
+

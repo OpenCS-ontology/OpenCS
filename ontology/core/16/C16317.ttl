@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16317 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/MicroMegas_detector> ;
+    skos:prefLabel "MicroMegas detector" ;
+    skos:related ocs:C16154,
+        ocs:C18360,
+        ocs:C21331,
+        ocs:C23268,
+        ocs:C27193,
+        ocs:C29906,
+        ocs:C32279,
+        ocs:C35999,
+        ocs:C45219 .
+

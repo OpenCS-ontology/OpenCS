@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42519 a skos:Concept ;
+    skos:broader ocs:C29713,
+        ocs:C33447 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xebra_(medical_imaging_software)> ;
+    skos:prefLabel "Xebra (medical imaging software)" ;
+    skos:related ocs:C11887,
+        ocs:C28789,
+        ocs:C3032,
+        ocs:C32661,
+        ocs:C33447,
+        ocs:C8302 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15015 a skos:Concept ;
+    skos:broader ocs:C13457 ;
+    skos:closeMatch <http://dbpedia.org/resource/Empty_name> ;
+    skos:prefLabel "Empty name" ;
+    skos:related ocs:C16238,
+        ocs:C19192,
+        ocs:C21127,
+        ocs:C23265,
+        ocs:C26109,
+        ocs:C28262,
+        ocs:C34578,
+        ocs:C37730,
+        ocs:C7467,
+        ocs:C9106 .
+

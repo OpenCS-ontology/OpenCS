@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17672 a skos:Concept ;
+    skos:broader ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truthmaker> ;
+    skos:prefLabel "Truthmaker" ;
+    skos:related ocs:C1443,
+        ocs:C28262,
+        ocs:C4206,
+        ocs:C7467,
+        ocs:C8077,
+        ocs:C9834 .
+

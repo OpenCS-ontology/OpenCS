@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20754 a skos:Concept ;
+    skos:broader ocs:C1628,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C81 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotic_Refueling_Mission> ;
+    skos:prefLabel "Robotic Refueling Mission" ;
+    skos:related ocs:C1628,
+        ocs:C17236,
+        ocs:C18287,
+        ocs:C21630,
+        ocs:C2252,
+        ocs:C23609,
+        ocs:C29532,
+        ocs:C3952,
+        ocs:C42136,
+        ocs:C43342,
+        ocs:C5293,
+        ocs:C7201 .
+

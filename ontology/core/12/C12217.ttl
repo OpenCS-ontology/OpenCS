@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12217 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/LINCOA> ;
+    skos:prefLabel "LINCOA" ;
+    skos:related ocs:C10,
+        ocs:C11701,
+        ocs:C15665,
+        ocs:C24725,
+        ocs:C25774,
+        ocs:C34411,
+        ocs:C34414,
+        ocs:C37565,
+        ocs:C40201,
+        ocs:C41428,
+        ocs:C41550,
+        ocs:C44532,
+        ocs:C513,
+        ocs:C8435,
+        ocs:C8781 .
+

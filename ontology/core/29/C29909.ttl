@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29909 a skos:Concept ;
+    skos:broader ocs:C15008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brochure> ;
+    skos:prefLabel "Brochure" ;
+    skos:related ocs:C5410,
+        ocs:C5477 .
+

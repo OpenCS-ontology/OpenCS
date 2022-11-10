@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20228 a skos:Concept ;
+    skos:broader ocs:C10917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Panjer_recursion> ;
+    skos:prefLabel "Panjer recursion" ;
+    skos:related ocs:C15797,
+        ocs:C1844,
+        ocs:C23888,
+        ocs:C28074,
+        ocs:C36941,
+        ocs:C39448,
+        ocs:C44600 .
+

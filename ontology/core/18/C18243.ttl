@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18243 a skos:Concept ;
+    skos:broader ocs:C10965,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silicon_compiler> ;
+    skos:prefLabel "Silicon compiler" ;
+    skos:related ocs:C10377,
+        ocs:C10965,
+        ocs:C11252,
+        ocs:C13747,
+        ocs:C14650,
+        ocs:C15664,
+        ocs:C19400,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C29412,
+        ocs:C33318,
+        ocs:C37773,
+        ocs:C5127,
+        ocs:C5336,
+        ocs:C8460 .
+

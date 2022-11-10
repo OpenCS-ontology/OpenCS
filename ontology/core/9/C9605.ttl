@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9605 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Display_device> ;
+    skos:prefLabel "Display device" ;
+    skos:related ocs:C10320,
+        ocs:C12640,
+        ocs:C13725,
+        ocs:C2241,
+        ocs:C5702,
+        ocs:C653,
+        ocs:C6969,
+        ocs:C8021,
+        ocs:C8291,
+        ocs:C9,
+        ocs:C9113 .
+

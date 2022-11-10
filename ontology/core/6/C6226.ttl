@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6226 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rotation_formalisms_in_three_dimensions> ;
+    skos:prefLabel "Rotation formalisms in three dimensions" ;
+    skos:related ocs:C11187,
+        ocs:C16671,
+        ocs:C1884 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3418 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/CDR_coding> ;
+    skos:prefLabel "CDR coding" ;
+    skos:related ocs:C10268,
+        ocs:C11990,
+        ocs:C14317,
+        ocs:C16897,
+        ocs:C20208,
+        ocs:C22266,
+        ocs:C23443,
+        ocs:C2512,
+        ocs:C26829,
+        ocs:C2885,
+        ocs:C29292,
+        ocs:C32719,
+        ocs:C3637,
+        ocs:C38666,
+        ocs:C41002,
+        ocs:C5722,
+        ocs:C8,
+        ocs:C8441,
+        ocs:C8565 .
+

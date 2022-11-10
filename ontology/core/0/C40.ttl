@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voice_interface_card> ;
+    skos:prefLabel "Voice interface card" ;
+    skos:related ocs:C10503,
+        ocs:C13786,
+        ocs:C21357,
+        ocs:C21598,
+        ocs:C30825,
+        ocs:C34874,
+        ocs:C36502,
+        ocs:C40449,
+        ocs:C40955,
+        ocs:C41542,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C6711 .
+

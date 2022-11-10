@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5461 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Worse_is_better> ;
+    skos:prefLabel "Worse is better" ;
+    skos:related ocs:C14271,
+        ocs:C14627,
+        ocs:C15650,
+        ocs:C20907,
+        ocs:C25779,
+        ocs:C29292,
+        ocs:C31489,
+        ocs:C31696,
+        ocs:C32547,
+        ocs:C39917,
+        ocs:C4269,
+        ocs:C427,
+        ocs:C44815,
+        ocs:C5702,
+        ocs:C5962,
+        ocs:C6657,
+        ocs:C8441,
+        ocs:C9 .
+

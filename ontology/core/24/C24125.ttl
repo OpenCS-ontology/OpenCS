@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24125 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudomyrmex> ;
+    skos:prefLabel "Pseudomyrmex" ;
+    skos:related ocs:C22105,
+        ocs:C34483,
+        ocs:C35777,
+        ocs:C40458,
+        ocs:C44206 .
+

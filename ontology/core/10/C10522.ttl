@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10522 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multilingual_notation> ;
+    skos:prefLabel "Multilingual notation" ;
+    skos:related ocs:C10227,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1411,
+        ocs:C19194,
+        ocs:C23928,
+        ocs:C31956,
+        ocs:C32,
+        ocs:C34574,
+        ocs:C3495,
+        ocs:C3612,
+        ocs:C38727,
+        ocs:C39236,
+        ocs:C39451,
+        ocs:C5852,
+        ocs:C7558,
+        ocs:C7650,
+        ocs:C8710 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37515 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_acquisition_device> ;
+    skos:prefLabel "Language acquisition device" ;
+    skos:related ocs:C15845,
+        ocs:C20155,
+        ocs:C2298,
+        ocs:C30276,
+        ocs:C31259,
+        ocs:C32426,
+        ocs:C39066,
+        ocs:C5556 .
+

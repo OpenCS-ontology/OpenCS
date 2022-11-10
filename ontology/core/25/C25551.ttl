@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25551 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C11384,
+        ocs:C12748,
+        ocs:C246,
+        ocs:C2469,
+        ocs:C2874 ;
+    skos:prefLabel "Context specific independence" .
+

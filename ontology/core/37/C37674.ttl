@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37674 a skos:Concept ;
+    skos:broader ocs:C26812 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single_instruction,_multiple_threads> ;
+    skos:prefLabel "Single instruction, multiple threads" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C15179,
+        ocs:C164,
+        ocs:C1904,
+        ocs:C19326,
+        ocs:C22,
+        ocs:C26812,
+        ocs:C27,
+        ocs:C32161,
+        ocs:C3355,
+        ocs:C40330,
+        ocs:C43505,
+        ocs:C7507,
+        ocs:C7735,
+        ocs:C8369,
+        ocs:C856 .
+

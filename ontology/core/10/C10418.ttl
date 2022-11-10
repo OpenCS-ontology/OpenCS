@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10418 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24,
+        ocs:C3 ;
+    skos:prefLabel "Home entertainment" ;
+    skos:related ocs:C11700,
+        ocs:C12430,
+        ocs:C16,
+        ocs:C2,
+        ocs:C22,
+        ocs:C3,
+        ocs:C33,
+        ocs:C5086,
+        ocs:C5975,
+        ocs:C8291,
+        ocs:C8614,
+        ocs:C9596 .
+

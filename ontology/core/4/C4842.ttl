@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4842 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_vision_syndrome> ;
+    skos:prefLabel "Computer vision syndrome" ;
+    skos:related ocs:C14415,
+        ocs:C2422,
+        ocs:C33343,
+        ocs:C4926 .
+

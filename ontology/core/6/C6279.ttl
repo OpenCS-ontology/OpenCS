@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6279 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_geometry> ;
+    skos:prefLabel "Computational geometry" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C14693,
+        ocs:C22,
+        ocs:C29,
+        ocs:C36077,
+        ocs:C3678,
+        ocs:C4867,
+        ocs:C5722,
+        ocs:C6289,
+        ocs:C7914,
+        ocs:C8271,
+        ocs:C8660 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11555 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_contextual_awareness> ;
+    skos:prefLabel "Spatial contextual awareness" ;
+    skos:related ocs:C10770,
+        ocs:C11696,
+        ocs:C12644,
+        ocs:C1338,
+        ocs:C14901,
+        ocs:C22956,
+        ocs:C24139,
+        ocs:C24143,
+        ocs:C2605,
+        ocs:C31149,
+        ocs:C35206,
+        ocs:C6311,
+        ocs:C7393,
+        ocs:C9047,
+        ocs:C9603 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15209 a skos:Concept ;
+    skos:broader ocs:C1647 ;
+    skos:closeMatch <http://dbpedia.org/resource/Match_report> ;
+    skos:prefLabel "Match report" ;
+    skos:related ocs:C12154,
+        ocs:C12694,
+        ocs:C12819,
+        ocs:C1488,
+        ocs:C17369,
+        ocs:C18791,
+        ocs:C20153,
+        ocs:C20667,
+        ocs:C23269,
+        ocs:C2646,
+        ocs:C28739,
+        ocs:C34720,
+        ocs:C3896,
+        ocs:C39393,
+        ocs:C404,
+        ocs:C44676,
+        ocs:C45073,
+        ocs:C45685,
+        ocs:C5822 .
+

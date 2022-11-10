@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13408 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temporal_logic> ;
+    skos:prefLabel "Temporal logic" ;
+    skos:related ocs:C1,
+        ocs:C10825,
+        ocs:C11060,
+        ocs:C12098,
+        ocs:C12474,
+        ocs:C17884,
+        ocs:C2418,
+        ocs:C30651,
+        ocs:C34795,
+        ocs:C39399,
+        ocs:C40062,
+        ocs:C41223,
+        ocs:C42583,
+        ocs:C5459,
+        ocs:C7903 .
+

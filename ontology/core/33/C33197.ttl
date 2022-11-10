@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33197 a skos:Concept ;
+    skos:broader ocs:C17927,
+        ocs:C18870 ;
+    skos:closeMatch <http://dbpedia.org/resource/3D_sound_localization> ;
+    skos:prefLabel "3D sound localization" ;
+    skos:related ocs:C10051,
+        ocs:C11096,
+        ocs:C1340,
+        ocs:C17901,
+        ocs:C17927,
+        ocs:C19905,
+        ocs:C22931,
+        ocs:C44928,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C6125,
+        ocs:C7008,
+        ocs:C8499,
+        ocs:C9022 .
+

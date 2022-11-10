@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13692 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Script.NET> ;
+    skos:prefLabel "Script.NET" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C11661,
+        ocs:C12974,
+        ocs:C13464,
+        ocs:C14632,
+        ocs:C1945,
+        ocs:C21627,
+        ocs:C22245,
+        ocs:C26572,
+        ocs:C2981,
+        ocs:C31404,
+        ocs:C3682,
+        ocs:C4032,
+        ocs:C4261,
+        ocs:C44447,
+        ocs:C578,
+        ocs:C6188 .
+

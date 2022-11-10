@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15255 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incidence_matrix> ;
+    skos:prefLabel "Incidence matrix" ;
+    skos:related ocs:C14693,
+        ocs:C15414,
+        ocs:C15460,
+        ocs:C15732,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C26989,
+        ocs:C29632,
+        ocs:C30245,
+        ocs:C33699,
+        ocs:C36126,
+        ocs:C39719,
+        ocs:C41114,
+        ocs:C41657 .
+

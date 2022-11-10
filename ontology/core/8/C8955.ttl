@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8955 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generation_gap> ;
+    skos:prefLabel "Generation gap" ;
+    skos:related ocs:C22701,
+        ocs:C26639,
+        ocs:C3852,
+        ocs:C9113 .
+

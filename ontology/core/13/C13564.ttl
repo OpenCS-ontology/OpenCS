@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13564 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Estrin's_scheme> ;
+    skos:prefLabel "Estrin's scheme" ;
+    skos:related ocs:C13615,
+        ocs:C15652,
+        ocs:C15775,
+        ocs:C18362,
+        ocs:C29473,
+        ocs:C31512,
+        ocs:C32982,
+        ocs:C36134,
+        ocs:C37392,
+        ocs:C45272 .
+

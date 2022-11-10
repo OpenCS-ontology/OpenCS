@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21759 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/TV-Anytime> ;
+    skos:prefLabel "TV-Anytime" ;
+    skos:related ocs:C11323,
+        ocs:C15774,
+        ocs:C18697,
+        ocs:C18701,
+        ocs:C20400,
+        ocs:C22326,
+        ocs:C25114,
+        ocs:C27572,
+        ocs:C30311,
+        ocs:C32350,
+        ocs:C32456,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C35819,
+        ocs:C36139,
+        ocs:C36332,
+        ocs:C37338,
+        ocs:C40667,
+        ocs:C40703 .
+

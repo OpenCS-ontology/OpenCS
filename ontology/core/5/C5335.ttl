@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5335 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modelica> ;
+    skos:prefLabel "Modelica" ;
+    skos:related ocs:C10720,
+        ocs:C11,
+        ocs:C11128,
+        ocs:C1240,
+        ocs:C13260,
+        ocs:C14316,
+        ocs:C15594,
+        ocs:C200,
+        ocs:C24,
+        ocs:C26090,
+        ocs:C26535,
+        ocs:C31724,
+        ocs:C33,
+        ocs:C33984,
+        ocs:C7256,
+        ocs:C7463 .
+

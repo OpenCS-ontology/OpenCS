@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8237 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/TOSLINK> ;
+    skos:prefLabel "TOSLINK" ;
+    skos:related ocs:C10778,
+        ocs:C13973,
+        ocs:C15341,
+        ocs:C1724,
+        ocs:C26575,
+        ocs:C3022,
+        ocs:C37865,
+        ocs:C40722,
+        ocs:C490,
+        ocs:C520,
+        ocs:C7255 .
+

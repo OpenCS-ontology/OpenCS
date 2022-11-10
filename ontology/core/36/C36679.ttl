@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36679 a skos:Concept ;
+    skos:broader ocs:C25667 ;
+    skos:closeMatch <http://dbpedia.org/resource/CACNA2D1> ;
+    skos:prefLabel "CACNA2D1" ;
+    skos:related ocs:C25667,
+        ocs:C30468,
+        ocs:C34202,
+        ocs:C37490,
+        ocs:C37782,
+        ocs:C41272,
+        ocs:C45393 .
+

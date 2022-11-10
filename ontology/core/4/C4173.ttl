@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4173 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radar_detector_detector> ;
+    skos:prefLabel "Radar detector detector" ;
+    skos:related ocs:C10376,
+        ocs:C10974,
+        ocs:C12582,
+        ocs:C28411,
+        ocs:C29664,
+        ocs:C33619,
+        ocs:C38689,
+        ocs:C4427 .
+

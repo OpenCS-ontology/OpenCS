@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1898 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frecency> ;
+    skos:prefLabel "Frecency" ;
+    skos:related ocs:C1134,
+        ocs:C11749,
+        ocs:C13783,
+        ocs:C14654,
+        ocs:C16338,
+        ocs:C2464,
+        ocs:C2592,
+        ocs:C31,
+        ocs:C34907,
+        ocs:C37698,
+        ocs:C39456,
+        ocs:C39727,
+        ocs:C41363,
+        ocs:C4207,
+        ocs:C45053,
+        ocs:C7459,
+        ocs:C964 .
+

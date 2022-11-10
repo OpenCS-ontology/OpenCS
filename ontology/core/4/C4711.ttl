@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4711 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Breakout_box> ;
+    skos:prefLabel "Breakout box" ;
+    skos:related ocs:C2305,
+        ocs:C26216,
+        ocs:C32395,
+        ocs:C8345,
+        ocs:C8718 .
+

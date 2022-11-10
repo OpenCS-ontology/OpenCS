@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12230 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/VIRVE> ;
+    skos:prefLabel "VIRVE" ;
+    skos:related ocs:C12942,
+        ocs:C13110,
+        ocs:C13316,
+        ocs:C17661,
+        ocs:C24246,
+        ocs:C24480,
+        ocs:C25347,
+        ocs:C26,
+        ocs:C29184,
+        ocs:C29611,
+        ocs:C31755,
+        ocs:C36671,
+        ocs:C37543,
+        ocs:C39175,
+        ocs:C43572,
+        ocs:C634,
+        ocs:C7216,
+        ocs:C7502,
+        ocs:C9176,
+        ocs:C9332 .
+

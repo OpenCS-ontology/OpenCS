@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3171 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Experimental_design_diagram> ;
+    skos:prefLabel "Experimental design diagram" ;
+    skos:related ocs:C11986,
+        ocs:C29226,
+        ocs:C411 .
+

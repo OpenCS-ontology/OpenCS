@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7814 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/AV.link> ;
+    skos:prefLabel "AV.link" ;
+    skos:related ocs:C13386,
+        ocs:C13973,
+        ocs:C18697,
+        ocs:C3357,
+        ocs:C39723,
+        ocs:C40722,
+        ocs:C45328,
+        ocs:C9045,
+        ocs:C9253,
+        ocs:C9262 .
+

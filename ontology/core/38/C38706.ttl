@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38706 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Well-covered_graph> ;
+    skos:prefLabel "Well-covered graph" ;
+    skos:related ocs:C19336,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C32806,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38233,
+        ocs:C38962,
+        ocs:C38981,
+        ocs:C39541,
+        ocs:C39781,
+        ocs:C40560,
+        ocs:C41435,
+        ocs:C42281,
+        ocs:C43568,
+        ocs:C43906,
+        ocs:C44460,
+        ocs:C45361,
+        ocs:C45741 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25690 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fisher_consistency> ;
+    skos:prefLabel "Fisher consistency" ;
+    skos:related ocs:C10138,
+        ocs:C13685,
+        ocs:C15256,
+        ocs:C23554,
+        ocs:C25294,
+        ocs:C30859,
+        ocs:C33312,
+        ocs:C41362,
+        ocs:C42748,
+        ocs:C43372 .
+

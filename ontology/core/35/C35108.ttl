@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35108 a skos:Concept ;
+    skos:broader ocs:C21400,
+        ocs:C27555,
+        ocs:C27610 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prefetch_input_queue> ;
+    skos:prefLabel "Prefetch input queue" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C31346,
+        ocs:C33174,
+        ocs:C35009,
+        ocs:C36894,
+        ocs:C37847,
+        ocs:C39214,
+        ocs:C41469,
+        ocs:C4863,
+        ocs:C6072,
+        ocs:C856 .
+

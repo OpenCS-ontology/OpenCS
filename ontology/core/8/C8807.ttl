@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8807 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Squeeze_page> ;
+    skos:prefLabel "Squeeze page" ;
+    skos:related ocs:C13063,
+        ocs:C13752,
+        ocs:C17045,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C2667,
+        ocs:C27097,
+        ocs:C32220,
+        ocs:C40507,
+        ocs:C5427,
+        ocs:C8614,
+        ocs:C897 .
+

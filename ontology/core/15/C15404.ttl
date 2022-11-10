@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15404 a skos:Concept ;
+    skos:broader ocs:C13047 ;
+    skos:closeMatch <http://dbpedia.org/resource/Passive_learning> ;
+    skos:prefLabel "Passive learning" ;
+    skos:related ocs:C12148,
+        ocs:C13047,
+        ocs:C14177,
+        ocs:C25892,
+        ocs:C3057,
+        ocs:C4174,
+        ocs:C763,
+        ocs:C764,
+        ocs:C934 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42425 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthogonality_principle> ;
+    skos:prefLabel "Orthogonality principle" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C13685,
+        ocs:C14553,
+        ocs:C18625,
+        ocs:C22258,
+        ocs:C25862,
+        ocs:C26880,
+        ocs:C27667,
+        ocs:C28787,
+        ocs:C34590,
+        ocs:C3987,
+        ocs:C4653,
+        ocs:C6110,
+        ocs:C6125,
+        ocs:C7471 .
+

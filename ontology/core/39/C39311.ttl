@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39311 a skos:Concept ;
+    skos:broader ocs:C30080,
+        ocs:C33887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cartesian_coordinate_robot> ;
+    skos:prefLabel "Cartesian coordinate robot" ;
+    skos:related ocs:C10396,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C19538,
+        ocs:C25273,
+        ocs:C28740,
+        ocs:C29532,
+        ocs:C30080,
+        ocs:C40076,
+        ocs:C41360,
+        ocs:C43810,
+        ocs:C44167,
+        ocs:C44558,
+        ocs:C5083 .
+

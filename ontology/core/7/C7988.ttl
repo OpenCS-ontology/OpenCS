@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7988 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bin_packing_problem> ;
+    skos:prefLabel "Bin packing problem" ;
+    skos:related ocs:C11372,
+        ocs:C23872,
+        ocs:C30401,
+        ocs:C3678,
+        ocs:C3814,
+        ocs:C38590,
+        ocs:C43638,
+        ocs:C5146,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C6776,
+        ocs:C77,
+        ocs:C8660 .
+

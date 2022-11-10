@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44480 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Completing_the_square> ;
+    skos:prefLabel "Completing the square" ;
+    skos:related ocs:C38108,
+        ocs:C3840,
+        ocs:C6204 .
+

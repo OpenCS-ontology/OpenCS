@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9908 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programmable_logic_device> ;
+    skos:prefLabel "Programmable logic device" ;
+    skos:related ocs:C11252,
+        ocs:C13747,
+        ocs:C19400,
+        ocs:C19673,
+        ocs:C21411,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C2936,
+        ocs:C37773,
+        ocs:C4259,
+        ocs:C43781,
+        ocs:C5136,
+        ocs:C5336,
+        ocs:C8518 .
+

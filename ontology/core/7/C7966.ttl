@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7966 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable-width_encoding> ;
+    skos:prefLabel "Variable-width encoding" ;
+    skos:related ocs:C10696,
+        ocs:C13253,
+        ocs:C13704,
+        ocs:C19341,
+        ocs:C2078,
+        ocs:C21496,
+        ocs:C23560,
+        ocs:C32013,
+        ocs:C33894,
+        ocs:C38862,
+        ocs:C40665,
+        ocs:C42900,
+        ocs:C5126,
+        ocs:C9162 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1358 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/MoneyBee> ;
+    skos:prefLabel "MoneyBee" ;
+    skos:related ocs:C12475,
+        ocs:C12585,
+        ocs:C15478,
+        ocs:C20747,
+        ocs:C20846,
+        ocs:C25349,
+        ocs:C25618,
+        ocs:C26030,
+        ocs:C30089,
+        ocs:C30525,
+        ocs:C34002,
+        ocs:C34814,
+        ocs:C37502,
+        ocs:C5776,
+        ocs:C8609 .
+

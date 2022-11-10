@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45705 a skos:Concept ;
+    skos:broader ocs:C36771 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scott_information_system> ;
+    skos:prefLabel "Scott information system" ;
+    skos:related ocs:C1,
+        ocs:C10498,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C1631,
+        ocs:C2418,
+        ocs:C29139,
+        ocs:C36771,
+        ocs:C39758,
+        ocs:C5239,
+        ocs:C9050 .
+

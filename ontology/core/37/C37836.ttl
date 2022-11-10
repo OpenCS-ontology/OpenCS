@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37836 a skos:Concept ;
+    skos:broader ocs:C32209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programme_making_and_special_events> ;
+    skos:prefLabel "Programme making and special events" ;
+    skos:related ocs:C12124,
+        ocs:C12999,
+        ocs:C14367,
+        ocs:C17564,
+        ocs:C2006,
+        ocs:C28716,
+        ocs:C2952,
+        ocs:C3236,
+        ocs:C33691,
+        ocs:C863,
+        ocs:C9103,
+        ocs:C9113 .
+

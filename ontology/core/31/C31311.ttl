@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31311 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C14693,
+        ocs:C18627 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chemical_graph_theory> ;
+    skos:prefLabel "Chemical graph theory" ;
+    skos:related ocs:C14693,
+        ocs:C18627,
+        ocs:C19336,
+        ocs:C31629,
+        ocs:C34498,
+        ocs:C35080,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37079,
+        ocs:C38643,
+        ocs:C39480,
+        ocs:C42271,
+        ocs:C6335 .
+

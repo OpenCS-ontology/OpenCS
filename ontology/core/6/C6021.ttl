@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6021 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Naive_Bayes_classifier> ;
+    skos:prefLabel "Naive Bayes classifier" ;
+    skos:related ocs:C11030,
+        ocs:C14620,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C21710,
+        ocs:C22643,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C2874,
+        ocs:C5856,
+        ocs:C6822,
+        ocs:C8758,
+        ocs:C9022 .
+

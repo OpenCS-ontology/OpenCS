@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10511 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pairwise_comparison> ;
+    skos:prefLabel "Pairwise comparison" ;
+    skos:related ocs:C22628,
+        ocs:C24855,
+        ocs:C26540 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36024 a skos:Concept ;
+    skos:broader ocs:C18434 ;
+    skos:closeMatch <http://dbpedia.org/resource/Addition_chain> ;
+    skos:prefLabel "Addition chain" ;
+    skos:related ocs:C10734,
+        ocs:C10922,
+        ocs:C11282,
+        ocs:C11580,
+        ocs:C18434,
+        ocs:C3931,
+        ocs:C39331,
+        ocs:C41795,
+        ocs:C8400 .
+

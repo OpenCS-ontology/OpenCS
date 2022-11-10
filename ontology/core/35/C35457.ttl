@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35457 a skos:Concept ;
+    skos:broader ocs:C22491,
+        ocs:C25787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha-particle_spectroscopy> ;
+    skos:prefLabel "Alpha-particle spectroscopy" ;
+    skos:related ocs:C16020 .
+

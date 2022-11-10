@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40347 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C34795,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Axiom_S5> ;
+    skos:prefLabel "Axiom S5" .
+

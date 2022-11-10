@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21678 a skos:Concept ;
+    skos:broader ocs:C2464,
+        ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Webgraph> ;
+    skos:prefLabel "Webgraph" ;
+    skos:related ocs:C14004,
+        ocs:C14693,
+        ocs:C1498,
+        ocs:C17225,
+        ocs:C17700,
+        ocs:C17717,
+        ocs:C18569,
+        ocs:C19399,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C30245,
+        ocs:C31,
+        ocs:C38535,
+        ocs:C39397,
+        ocs:C40049,
+        ocs:C41105,
+        ocs:C43652,
+        ocs:C44202 .
+

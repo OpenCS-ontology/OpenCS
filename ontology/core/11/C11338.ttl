@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11338 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_navigation> ;
+    skos:prefLabel "Social navigation" ;
+    skos:related ocs:C11087,
+        ocs:C16633,
+        ocs:C17394,
+        ocs:C17658,
+        ocs:C20329,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C22849,
+        ocs:C2464,
+        ocs:C25411,
+        ocs:C25752,
+        ocs:C28533,
+        ocs:C31,
+        ocs:C31650,
+        ocs:C34361,
+        ocs:C38459,
+        ocs:C39074,
+        ocs:C5 .
+

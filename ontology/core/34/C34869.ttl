@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34869 a skos:Concept ;
+    skos:broader ocs:C15193,
+        ocs:C18278,
+        ocs:C20042,
+        ocs:C28055 ;
+    skos:closeMatch <http://dbpedia.org/resource/Team_learning> ;
+    skos:prefLabel "Team learning" ;
+    skos:related ocs:C11026,
+        ocs:C11097,
+        ocs:C11810,
+        ocs:C22683,
+        ocs:C3343 .
+

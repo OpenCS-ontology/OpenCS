@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34324 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tadpole_madtom> ;
+    skos:prefLabel "Tadpole madtom" ;
+    skos:related ocs:C15911,
+        ocs:C33059,
+        ocs:C39463,
+        ocs:C39930,
+        ocs:C39959,
+        ocs:C40856 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7354 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auditory_feedback> ;
+    skos:prefLabel "Auditory feedback" ;
+    skos:related ocs:C11145,
+        ocs:C15952,
+        ocs:C17874,
+        ocs:C18818,
+        ocs:C4319,
+        ocs:C4531,
+        ocs:C9031,
+        ocs:C9278 .
+

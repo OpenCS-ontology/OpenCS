@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31154 a skos:Concept ;
+    skos:broader ocs:C17477 ;
+    skos:prefLabel "Air Sickness" ;
+    skos:related ocs:C23356,
+        ocs:C28814,
+        ocs:C3180 .
+

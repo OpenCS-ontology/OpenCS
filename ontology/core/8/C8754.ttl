@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8754 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hybrid_system> ;
+    skos:prefLabel "Hybrid system" ;
+    skos:related ocs:C12427,
+        ocs:C14327,
+        ocs:C18430,
+        ocs:C28698,
+        ocs:C30439,
+        ocs:C37406,
+        ocs:C45226,
+        ocs:C7903,
+        ocs:C8461 .
+

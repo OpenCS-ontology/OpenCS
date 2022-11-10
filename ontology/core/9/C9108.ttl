@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9108 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardiman> ;
+    skos:prefLabel "Hardiman" ;
+    skos:related ocs:C12432,
+        ocs:C23317,
+        ocs:C31957,
+        ocs:C34991,
+        ocs:C37010,
+        ocs:C37695,
+        ocs:C3808,
+        ocs:C6000,
+        ocs:C8 .
+

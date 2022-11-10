@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3063 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolutional_neural_network> ;
+    skos:prefLabel "Convolutional neural network" ;
+    skos:related ocs:C11150,
+        ocs:C14221,
+        ocs:C17261,
+        ocs:C18982,
+        ocs:C2005,
+        ocs:C20067,
+        ocs:C20377,
+        ocs:C21723,
+        ocs:C22089,
+        ocs:C25,
+        ocs:C25201,
+        ocs:C29966,
+        ocs:C35663,
+        ocs:C37012,
+        ocs:C40704,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9022 .
+

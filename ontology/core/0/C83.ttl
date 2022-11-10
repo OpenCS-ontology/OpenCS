@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C83 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nominal_group_(functional_grammar)> ;
+    skos:prefLabel "Nominal group" ;
+    skos:related ocs:C11932,
+        ocs:C12270,
+        ocs:C13006,
+        ocs:C1380,
+        ocs:C1451,
+        ocs:C16964,
+        ocs:C18082,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C2298,
+        ocs:C25169,
+        ocs:C26162,
+        ocs:C26816,
+        ocs:C28329,
+        ocs:C30931,
+        ocs:C37553,
+        ocs:C39461 .
+

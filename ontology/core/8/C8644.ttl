@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8644 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Posture training" ;
+    skos:related ocs:C17,
+        ocs:C4435,
+        ocs:C4861,
+        ocs:C6340 .
+

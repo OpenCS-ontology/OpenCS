@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12400 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speed_of_light_(cellular_automaton)> ;
+    skos:prefLabel "Speed of light (cellular automaton)" ;
+    skos:related ocs:C122,
+        ocs:C15307,
+        ocs:C16298,
+        ocs:C25857,
+        ocs:C26275,
+        ocs:C29207,
+        ocs:C29276,
+        ocs:C3136,
+        ocs:C3466,
+        ocs:C39305,
+        ocs:C41669,
+        ocs:C42055,
+        ocs:C43807,
+        ocs:C45217,
+        ocs:C4593,
+        ocs:C4788,
+        ocs:C8104 .
+

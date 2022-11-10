@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2214 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C28,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Use_case> ;
+    skos:prefLabel "Use case" ;
+    skos:related ocs:C18576,
+        ocs:C23394,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C28454,
+        ocs:C30528,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C34078,
+        ocs:C35144,
+        ocs:C37831,
+        ocs:C3904,
+        ocs:C40907,
+        ocs:C43994,
+        ocs:C44902,
+        ocs:C4558,
+        ocs:C666,
+        ocs:C8895,
+        ocs:C924 .
+

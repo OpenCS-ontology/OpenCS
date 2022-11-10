@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1039 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space–time_tradeoff> ;
+    skos:prefLabel "Space–time tradeoff" ;
+    skos:related ocs:C10,
+        ocs:C15590,
+        ocs:C16983,
+        ocs:C17089,
+        ocs:C17698,
+        ocs:C17856,
+        ocs:C23875,
+        ocs:C26456,
+        ocs:C28073,
+        ocs:C35625,
+        ocs:C4027,
+        ocs:C40476,
+        ocs:C40900,
+        ocs:C40956,
+        ocs:C4218,
+        ocs:C42606,
+        ocs:C5722,
+        ocs:C77,
+        ocs:C8660 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40765 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C33857,
+        ocs:C34537 ;
+    skos:closeMatch <http://dbpedia.org/resource/GBDE> ;
+    skos:prefLabel "GBDE" ;
+    skos:related ocs:C18091,
+        ocs:C20993,
+        ocs:C27449,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C31338,
+        ocs:C31654,
+        ocs:C33857,
+        ocs:C38723,
+        ocs:C39657,
+        ocs:C40478,
+        ocs:C43718,
+        ocs:C43761,
+        ocs:C44003,
+        ocs:C4751,
+        ocs:C7476 .
+

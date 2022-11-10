@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6664 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_epistemology> ;
+    skos:prefLabel "Computational epistemology" ;
+    skos:related ocs:C10551,
+        ocs:C11088,
+        ocs:C12474,
+        ocs:C13511,
+        ocs:C1974,
+        ocs:C3579,
+        ocs:C36680,
+        ocs:C37516,
+        ocs:C43431,
+        ocs:C45027,
+        ocs:C5507,
+        ocs:C6290,
+        ocs:C852 .
+

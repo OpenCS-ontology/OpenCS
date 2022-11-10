@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40904 a skos:Concept ;
+    skos:broader ocs:C34973 ;
+    skos:closeMatch <http://dbpedia.org/resource/De_Longchamps_point> ;
+    skos:prefLabel "de Longchamps point" ;
+    skos:related ocs:C10672,
+        ocs:C31522,
+        ocs:C34973,
+        ocs:C38766,
+        ocs:C41109,
+        ocs:C41458 .
+

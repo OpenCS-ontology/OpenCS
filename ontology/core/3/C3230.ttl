@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3230 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Celestial_navigation> ;
+    skos:prefLabel "Celestial navigation" ;
+    skos:related ocs:C10556,
+        ocs:C12641,
+        ocs:C14324,
+        ocs:C15887,
+        ocs:C16352 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38005 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Odd_graph> ;
+    skos:prefLabel "Odd graph" ;
+    skos:related ocs:C19336,
+        ocs:C20868,
+        ocs:C30730,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38121,
+        ocs:C38998,
+        ocs:C39615,
+        ocs:C39730,
+        ocs:C40560,
+        ocs:C40878,
+        ocs:C41606,
+        ocs:C42281,
+        ocs:C42340,
+        ocs:C42730,
+        ocs:C43097,
+        ocs:C44168,
+        ocs:C44281,
+        ocs:C45361,
+        ocs:C45648 .
+

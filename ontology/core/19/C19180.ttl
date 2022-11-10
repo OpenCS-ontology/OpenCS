@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19180 a skos:Concept ;
+    skos:broader ocs:C1394 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circle_of_confusion> ;
+    skos:prefLabel "Circle of confusion" ;
+    skos:related ocs:C11391,
+        ocs:C11935,
+        ocs:C1394,
+        ocs:C5978,
+        ocs:C9986 .
+

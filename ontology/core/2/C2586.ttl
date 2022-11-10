@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2586 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wadley_Loop> ;
+    skos:prefLabel "Wadley Loop" ;
+    skos:related ocs:C10376,
+        ocs:C10974,
+        ocs:C12582,
+        ocs:C14275,
+        ocs:C15511,
+        ocs:C17653,
+        ocs:C19342,
+        ocs:C29664,
+        ocs:C33619,
+        ocs:C38689,
+        ocs:C40139,
+        ocs:C4427,
+        ocs:C8348 .
+

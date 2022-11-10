@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35190 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C15820 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triangle_fan> ;
+    skos:prefLabel "Triangle fan" ;
+    skos:related ocs:C10773,
+        ocs:C11234,
+        ocs:C11689,
+        ocs:C12122,
+        ocs:C1381,
+        ocs:C15820,
+        ocs:C15836,
+        ocs:C22,
+        ocs:C24235,
+        ocs:C27264,
+        ocs:C2881,
+        ocs:C29474,
+        ocs:C29600,
+        ocs:C34704,
+        ocs:C39182,
+        ocs:C39953,
+        ocs:C6030,
+        ocs:C7390 .
+

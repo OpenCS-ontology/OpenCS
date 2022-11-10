@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1402 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C23,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multimedia_Information_Retrieval> ;
+    skos:prefLabel "Multimedia information retrieval" ;
+    skos:related ocs:C1023,
+        ocs:C14082,
+        ocs:C16,
+        ocs:C17,
+        ocs:C20383,
+        ocs:C23,
+        ocs:C248,
+        ocs:C25,
+        ocs:C33766,
+        ocs:C3896,
+        ocs:C5577,
+        ocs:C6,
+        ocs:C6652,
+        ocs:C6687,
+        ocs:C8,
+        ocs:C9312 .
+

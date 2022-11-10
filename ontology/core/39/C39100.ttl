@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39100 a skos:Concept ;
+    skos:broader ocs:C30730,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toroidal_graph> ;
+    skos:prefLabel "Toroidal graph" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C20868,
+        ocs:C30730,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38853,
+        ocs:C38998,
+        ocs:C39263,
+        ocs:C39334,
+        ocs:C39545,
+        ocs:C39783,
+        ocs:C40817,
+        ocs:C42281,
+        ocs:C42723,
+        ocs:C43652,
+        ocs:C45150,
+        ocs:C45361,
+        ocs:C45648 .
+

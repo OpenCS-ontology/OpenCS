@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33902 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C18299 ;
+    skos:closeMatch <http://dbpedia.org/resource/Great_Annihilator> ;
+    skos:prefLabel "Great Annihilator" ;
+    skos:related ocs:C17246,
+        ocs:C18299,
+        ocs:C31208,
+        ocs:C31953,
+        ocs:C32397,
+        ocs:C597 .
+

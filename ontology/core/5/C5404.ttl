@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5404 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_tracking> ;
+    skos:prefLabel "Video tracking" ;
+    skos:related ocs:C10,
+        ocs:C10382,
+        ocs:C11548,
+        ocs:C1239,
+        ocs:C13142,
+        ocs:C13509,
+        ocs:C14863,
+        ocs:C22975,
+        ocs:C248,
+        ocs:C24825,
+        ocs:C26688,
+        ocs:C29175,
+        ocs:C31308,
+        ocs:C31648,
+        ocs:C3341,
+        ocs:C7,
+        ocs:C8,
+        ocs:C948,
+        ocs:C9603 .
+

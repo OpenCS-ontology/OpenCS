@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3632 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/General-purpose_input/output> ;
+    skos:prefLabel "General-purpose input/output" ;
+    skos:related ocs:C11,
+        ocs:C13386,
+        ocs:C17404,
+        ocs:C22530,
+        ocs:C3160,
+        ocs:C35370,
+        ocs:C490,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C6538,
+        ocs:C7165 .
+

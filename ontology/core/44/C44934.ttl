@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44934 a skos:Concept ;
+    skos:broader ocs:C30725 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ordered_vector_space> ;
+    skos:prefLabel "Ordered vector space" ;
+    skos:related ocs:C11771,
+        ocs:C13406,
+        ocs:C18941,
+        ocs:C33102,
+        ocs:C4257,
+        ocs:C608 .
+

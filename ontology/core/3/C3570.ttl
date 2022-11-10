@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3570 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Karush–Kuhn–Tucker_conditions> ;
+    skos:prefLabel "Karush–Kuhn–Tucker conditions" ;
+    skos:related ocs:C11701,
+        ocs:C12314,
+        ocs:C14414,
+        ocs:C15480,
+        ocs:C513,
+        ocs:C6287,
+        ocs:C8435,
+        ocs:C8944 .
+

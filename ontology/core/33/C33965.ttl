@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33965 a skos:Concept ;
+    skos:broader ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precise_Point_Positioning> ;
+    skos:prefLabel "Precise Point Positioning" ;
+    skos:related ocs:C12641,
+        ocs:C14699,
+        ocs:C16293,
+        ocs:C20371,
+        ocs:C23009,
+        ocs:C27698,
+        ocs:C30565,
+        ocs:C34196,
+        ocs:C35730,
+        ocs:C43594 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41001 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/AISoy1> ;
+    skos:prefLabel "AISoy1" ;
+    skos:related ocs:C1042,
+        ocs:C1085,
+        ocs:C13065,
+        ocs:C15828,
+        ocs:C1670,
+        ocs:C21211,
+        ocs:C23432,
+        ocs:C23845,
+        ocs:C29012,
+        ocs:C29530,
+        ocs:C3160,
+        ocs:C39810,
+        ocs:C42061,
+        ocs:C42415,
+        ocs:C8012,
+        ocs:C9033,
+        ocs:C9119 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C939 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amplitude_modulation_signalling_system> ;
+    skos:prefLabel "Amplitude modulation signalling system" ;
+    skos:related ocs:C14053,
+        ocs:C15505,
+        ocs:C15824,
+        ocs:C16971,
+        ocs:C18001,
+        ocs:C19342,
+        ocs:C21212,
+        ocs:C22326,
+        ocs:C26768,
+        ocs:C26908,
+        ocs:C2828,
+        ocs:C29007,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C32678,
+        ocs:C32753,
+        ocs:C36245,
+        ocs:C7159 .
+

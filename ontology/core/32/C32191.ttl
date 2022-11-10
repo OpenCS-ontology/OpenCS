@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32191 a skos:Concept ;
+    skos:broader ocs:C22527 ;
+    skos:closeMatch <http://dbpedia.org/resource/CLCN2> ;
+    skos:prefLabel "CLCN2" ;
+    skos:related ocs:C22527,
+        ocs:C23973,
+        ocs:C30468,
+        ocs:C33046,
+        ocs:C37794,
+        ocs:C43795 .
+

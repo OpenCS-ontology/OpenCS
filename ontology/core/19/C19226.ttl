@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19226 a skos:Concept ;
+    skos:broader ocs:C4428 ;
+    skos:closeMatch <http://dbpedia.org/resource/Safety_Connect> ;
+    skos:prefLabel "Safety Connect" ;
+    skos:related ocs:C1346,
+        ocs:C18380,
+        ocs:C1886,
+        ocs:C21424,
+        ocs:C27671,
+        ocs:C31452,
+        ocs:C4428,
+        ocs:C6029,
+        ocs:C6862,
+        ocs:C7002,
+        ocs:C7561,
+        ocs:C7792,
+        ocs:C7850,
+        ocs:C9666,
+        ocs:C990 .
+

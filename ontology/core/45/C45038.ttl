@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45038 a skos:Concept ;
+    skos:broader ocs:C34973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conway_triangle_notation> ;
+    skos:prefLabel "Conway triangle notation" ;
+    skos:related ocs:C13541,
+        ocs:C34973,
+        ocs:C41109,
+        ocs:C41458,
+        ocs:C45532 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1784 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:prefLabel "Mande language" ;
+    skos:related ocs:C11932,
+        ocs:C12270,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C20621,
+        ocs:C2298,
+        ocs:C6545,
+        ocs:C6764 .
+

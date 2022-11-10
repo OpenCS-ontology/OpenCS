@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24515 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sheet_metal_forming_analysis> ;
+    skos:prefLabel "Sheet metal forming analysis" ;
+    skos:related ocs:C1253,
+        ocs:C23600,
+        ocs:C2703,
+        ocs:C3345 .
+

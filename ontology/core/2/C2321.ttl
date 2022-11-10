@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2321 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regularization_(mathematics)> ;
+    skos:prefLabel "Regularization (mathematics)" ;
+    skos:related ocs:C13682,
+        ocs:C14620,
+        ocs:C15346,
+        ocs:C15615,
+        ocs:C1794,
+        ocs:C18966,
+        ocs:C2005,
+        ocs:C22854,
+        ocs:C2364,
+        ocs:C25196,
+        ocs:C26398,
+        ocs:C27703,
+        ocs:C31627,
+        ocs:C34750,
+        ocs:C5087,
+        ocs:C5401,
+        ocs:C9022 .
+

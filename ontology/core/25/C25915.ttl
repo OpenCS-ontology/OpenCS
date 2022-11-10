@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25915 a skos:Concept ;
+    skos:broader ocs:C4048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trailing_zero> ;
+    skos:prefLabel "Trailing zero" ;
+    skos:related ocs:C12315,
+        ocs:C25038,
+        ocs:C27879,
+        ocs:C4048,
+        ocs:C8521 .
+

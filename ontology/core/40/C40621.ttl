@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40621 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffusing_update_algorithm> ;
+    skos:prefLabel "Diffusing update algorithm" ;
+    skos:related ocs:C10,
+        ocs:C17158,
+        ocs:C26066,
+        ocs:C28895,
+        ocs:C29569,
+        ocs:C36109,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C39424,
+        ocs:C39642,
+        ocs:C39742,
+        ocs:C41259,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C42898,
+        ocs:C43513,
+        ocs:C44582,
+        ocs:C45818,
+        ocs:C4966 .
+

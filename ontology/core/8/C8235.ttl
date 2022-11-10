@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8235 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reading_path> ;
+    skos:prefLabel "Reading path" ;
+    skos:related ocs:C1451,
+        ocs:C22704,
+        ocs:C26162,
+        ocs:C41963,
+        ocs:C5862,
+        ocs:C6687,
+        ocs:C9848 .
+

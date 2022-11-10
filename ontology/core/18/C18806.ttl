@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18806 a skos:Concept ;
+    skos:broader ocs:C5660,
+        ocs:C9745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event_tree_analysis> ;
+    skos:prefLabel "Event tree analysis" ;
+    skos:related ocs:C16709,
+        ocs:C17393,
+        ocs:C26696,
+        ocs:C27970,
+        ocs:C28631,
+        ocs:C3894,
+        ocs:C45522,
+        ocs:C697,
+        ocs:C7515,
+        ocs:C9745 .
+

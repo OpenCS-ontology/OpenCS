@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5458 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persona_(user_experience)> ;
+    skos:prefLabel "Persona" ;
+    skos:related ocs:C11667,
+        ocs:C13413,
+        ocs:C14157,
+        ocs:C18,
+        ocs:C20109,
+        ocs:C2214,
+        ocs:C23671,
+        ocs:C25671,
+        ocs:C4094,
+        ocs:C4292,
+        ocs:C6696,
+        ocs:C7435,
+        ocs:C8269,
+        ocs:C9607 .
+

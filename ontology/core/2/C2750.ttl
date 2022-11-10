@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2750 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Critical_section> ;
+    skos:prefLabel "Critical section" ;
+    skos:related ocs:C13315,
+        ocs:C14950,
+        ocs:C15595,
+        ocs:C21551,
+        ocs:C21722,
+        ocs:C27,
+        ocs:C27084,
+        ocs:C31979,
+        ocs:C32786,
+        ocs:C3514,
+        ocs:C4651,
+        ocs:C5198,
+        ocs:C5551,
+        ocs:C6346,
+        ocs:C8204,
+        ocs:C9776 .
+

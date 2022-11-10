@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17896 a skos:Concept ;
+    skos:broader ocs:C8291 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise-canceling_microphone> ;
+    skos:prefLabel "Noise-canceling microphone" ;
+    skos:related ocs:C12595,
+        ocs:C16373,
+        ocs:C21424,
+        ocs:C23996,
+        ocs:C24829,
+        ocs:C35370,
+        ocs:C5843,
+        ocs:C6295,
+        ocs:C7433,
+        ocs:C8291 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5499 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probit_model> ;
+    skos:prefLabel "Probit model" ;
+    skos:related ocs:C10504,
+        ocs:C11031,
+        ocs:C11986,
+        ocs:C28074,
+        ocs:C42461,
+        ocs:C4643,
+        ocs:C5087,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C8758 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15025 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computing_the_permanent> ;
+    skos:prefLabel "Computing the permanent" ;
+    skos:related ocs:C19336,
+        ocs:C30401,
+        ocs:C31884,
+        ocs:C34542,
+        ocs:C35163,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C38545,
+        ocs:C39136,
+        ocs:C44886,
+        ocs:C45245,
+        ocs:C45746,
+        ocs:C6537,
+        ocs:C8660 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33009 a skos:Concept ;
+    skos:broader ocs:C14852,
+        ocs:C25862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Matrix_normal_distribution> ;
+    skos:prefLabel "Matrix normal distribution" ;
+    skos:related ocs:C14852,
+        ocs:C16163,
+        ocs:C18293,
+        ocs:C25862,
+        ocs:C31579,
+        ocs:C36011,
+        ocs:C38218,
+        ocs:C40060,
+        ocs:C42795,
+        ocs:C9326 .
+

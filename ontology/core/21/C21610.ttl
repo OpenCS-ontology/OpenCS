@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21610 a skos:Concept ;
+    skos:broader ocs:C9327 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plain_old_telephone_service> ;
+    skos:prefLabel "Plain old telephone service" ;
+    skos:related ocs:C11769,
+        ocs:C19350,
+        ocs:C2188,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C6027,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9327 .
+

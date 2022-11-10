@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23105 a skos:Concept ;
+    skos:broader ocs:C2975,
+        ocs:C4865,
+        ocs:C5511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line_Impedance_Stabilization_Network> ;
+    skos:prefLabel "Line Impedance Stabilization Network" ;
+    skos:related ocs:C11554,
+        ocs:C13211,
+        ocs:C15009,
+        ocs:C19631,
+        ocs:C28800,
+        ocs:C2975,
+        ocs:C3173,
+        ocs:C5511,
+        ocs:C9718 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C307 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/TRADACOMS> ;
+    skos:prefLabel "TRADACOMS" ;
+    skos:related ocs:C11861,
+        ocs:C23319,
+        ocs:C9375 .
+

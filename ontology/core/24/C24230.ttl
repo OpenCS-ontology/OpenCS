@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24230 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nuclear_timescale> ;
+    skos:prefLabel "Nuclear timescale" ;
+    skos:related ocs:C17094,
+        ocs:C1941,
+        ocs:C21884,
+        ocs:C22649,
+        ocs:C25949,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C31589,
+        ocs:C32483,
+        ocs:C35893,
+        ocs:C37677,
+        ocs:C39392,
+        ocs:C40039,
+        ocs:C40115,
+        ocs:C40619 .
+

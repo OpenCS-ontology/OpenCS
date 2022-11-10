@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45700 a skos:Concept ;
+    skos:broader ocs:C29548,
+        ocs:C30214,
+        ocs:C33604 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_optimization> ;
+    skos:prefLabel "Random optimization" ;
+    skos:related ocs:C12105,
+        ocs:C13208,
+        ocs:C13239,
+        ocs:C14414,
+        ocs:C1885,
+        ocs:C23250,
+        ocs:C29055,
+        ocs:C33012,
+        ocs:C37565,
+        ocs:C44992,
+        ocs:C5201,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C9779,
+        ocs:C9780 .
+

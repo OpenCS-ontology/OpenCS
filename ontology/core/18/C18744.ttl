@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18744 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Syntactic_movement> ;
+    skos:prefLabel "Syntactic movement" ;
+    skos:related ocs:C1034,
+        ocs:C15463,
+        ocs:C19753,
+        ocs:C20004,
+        ocs:C21016,
+        ocs:C22961,
+        ocs:C24691,
+        ocs:C25544,
+        ocs:C25696,
+        ocs:C30451,
+        ocs:C33168,
+        ocs:C34287,
+        ocs:C5798,
+        ocs:C6764 .
+

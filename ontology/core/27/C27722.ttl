@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27722 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baby_sign_language> ;
+    skos:prefLabel "Baby sign language" ;
+    skos:related ocs:C15526,
+        ocs:C16631,
+        ocs:C19543,
+        ocs:C2480,
+        ocs:C25188,
+        ocs:C30694,
+        ocs:C34576,
+        ocs:C4531,
+        ocs:C7858 .
+

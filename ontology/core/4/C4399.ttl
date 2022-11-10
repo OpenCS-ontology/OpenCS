@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4399 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thigh_gap> ;
+    skos:prefLabel "Thigh gap" ;
+    skos:related ocs:C20044 .
+

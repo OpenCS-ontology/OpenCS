@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C809 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conjunctive_adverb> ;
+    skos:prefLabel "Conjunctive adverb" ;
+    skos:related ocs:C13006,
+        ocs:C16725,
+        ocs:C17558,
+        ocs:C19047,
+        ocs:C21988,
+        ocs:C24250,
+        ocs:C25746,
+        ocs:C26353,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C27993,
+        ocs:C29004,
+        ocs:C31289,
+        ocs:C31367,
+        ocs:C33118,
+        ocs:C33279,
+        ocs:C34230,
+        ocs:C37018 .
+

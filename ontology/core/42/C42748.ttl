@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42748 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C35061,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unbiased_estimation_of_standard_deviation> ;
+    skos:prefLabel "Unbiased estimation of standard deviation" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C13685,
+        ocs:C23554,
+        ocs:C30859,
+        ocs:C33312,
+        ocs:C43471 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40635 a skos:Concept ;
+    skos:broader ocs:C35106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algebraic_signal_processing> ;
+    skos:prefLabel "Algebraic signal processing" ;
+    skos:related ocs:C123,
+        ocs:C20124,
+        ocs:C21717,
+        ocs:C5042,
+        ocs:C836,
+        ocs:C9856 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41305 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C32645,
+        ocs:C32743,
+        ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field_of_sets> ;
+    skos:prefLabel "Field of sets" ;
+    skos:related ocs:C11771,
+        ocs:C19847,
+        ocs:C32743,
+        ocs:C39210 .
+

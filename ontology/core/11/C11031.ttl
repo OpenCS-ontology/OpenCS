@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11031 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logit> ;
+    skos:prefLabel "Logit" ;
+    skos:related ocs:C10504,
+        ocs:C14030,
+        ocs:C1844,
+        ocs:C3572,
+        ocs:C36008,
+        ocs:C4030,
+        ocs:C5499,
+        ocs:C6116,
+        ocs:C8758 .
+

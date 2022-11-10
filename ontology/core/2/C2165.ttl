@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2165 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Overflow_flag> ;
+    skos:prefLabel "Overflow flag" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12262,
+        ocs:C16377,
+        ocs:C19487,
+        ocs:C27882,
+        ocs:C3172,
+        ocs:C37134,
+        ocs:C37538,
+        ocs:C40378,
+        ocs:C8434,
+        ocs:C856 .
+

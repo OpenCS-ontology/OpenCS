@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24394 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_software> ;
+    skos:prefLabel "Mathematical software" ;
+    skos:related ocs:C10720,
+        ocs:C11293,
+        ocs:C1253,
+        ocs:C19,
+        ocs:C20,
+        ocs:C2249,
+        ocs:C25,
+        ocs:C25793,
+        ocs:C26880,
+        ocs:C34940,
+        ocs:C5579,
+        ocs:C5865,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8581 .
+

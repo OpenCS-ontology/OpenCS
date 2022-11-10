@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34115 a skos:Concept ;
+    skos:broader ocs:C17480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anscombe_transform> ;
+    skos:prefLabel "Anscombe transform" ;
+    skos:related ocs:C29423,
+        ocs:C30859,
+        ocs:C36008,
+        ocs:C4030,
+        ocs:C795 .
+

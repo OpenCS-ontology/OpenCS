@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28511 a skos:Concept ;
+    skos:broader ocs:C12270,
+        ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lithuanian_grammar> ;
+    skos:prefLabel "Lithuanian grammar" ;
+    skos:related ocs:C10570,
+        ocs:C15178,
+        ocs:C22054,
+        ocs:C23243,
+        ocs:C23681,
+        ocs:C23692,
+        ocs:C26816,
+        ocs:C28817,
+        ocs:C32159,
+        ocs:C33735,
+        ocs:C37038 .
+

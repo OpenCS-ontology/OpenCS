@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3687 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_search_engine> ;
+    skos:prefLabel "Audio search engine" ;
+    skos:related ocs:C10747,
+        ocs:C15482,
+        ocs:C1561,
+        ocs:C35013,
+        ocs:C37238,
+        ocs:C38987,
+        ocs:C40049,
+        ocs:C4211,
+        ocs:C428,
+        ocs:C5675 .
+

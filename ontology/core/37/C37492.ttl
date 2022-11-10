@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37492 a skos:Concept ;
+    skos:broader ocs:C24463 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lunar_Laser_Ranging_experiment> ;
+    skos:prefLabel "Lunar Laser Ranging experiment" ;
+    skos:related ocs:C24463,
+        ocs:C29579,
+        ocs:C597 .
+

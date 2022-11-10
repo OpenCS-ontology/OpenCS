@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45464 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Vulnerabilities_and_Exposures> ;
+    skos:prefLabel "Common Vulnerabilities and Exposures" ;
+    skos:related ocs:C10214,
+        ocs:C16125,
+        ocs:C23580,
+        ocs:C24131,
+        ocs:C27557,
+        ocs:C28881,
+        ocs:C2941,
+        ocs:C31489,
+        ocs:C35,
+        ocs:C39425,
+        ocs:C41901,
+        ocs:C4218,
+        ocs:C42432,
+        ocs:C43675,
+        ocs:C45494,
+        ocs:C9 .
+

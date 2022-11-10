@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6475 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rational_sieve> ;
+    skos:prefLabel "Rational sieve" ;
+    skos:related ocs:C10,
+        ocs:C24353,
+        ocs:C3144,
+        ocs:C37205,
+        ocs:C40515,
+        ocs:C4466,
+        ocs:C6229 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1574 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gutmann_method> ;
+    skos:prefLabel "Gutmann method" ;
+    skos:related ocs:C11960,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C17900,
+        ocs:C22904,
+        ocs:C22957,
+        ocs:C3231,
+        ocs:C328,
+        ocs:C41962,
+        ocs:C6310,
+        ocs:C6588,
+        ocs:C9 .
+

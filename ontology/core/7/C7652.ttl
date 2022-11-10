@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7652 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_tree> ;
+    skos:prefLabel "Decision tree" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10382,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C2005,
+        ocs:C22495,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25520,
+        ocs:C2874,
+        ocs:C3753,
+        ocs:C6116,
+        ocs:C7803,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9608 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9095 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Root-mean-square_deviation> ;
+    skos:prefLabel "Root-mean-square deviation" ;
+    skos:related ocs:C11425,
+        ocs:C13685,
+        ocs:C13789,
+        ocs:C23554,
+        ocs:C30859,
+        ocs:C37170,
+        ocs:C43471,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C795 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45513 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Five_color_theorem> ;
+    skos:prefLabel "Five color theorem" ;
+    skos:related ocs:C14693,
+        ocs:C14991,
+        ocs:C24988,
+        ocs:C32757,
+        ocs:C34542,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C37393,
+        ocs:C38545,
+        ocs:C40165,
+        ocs:C40560,
+        ocs:C41767,
+        ocs:C41797,
+        ocs:C42233,
+        ocs:C42822,
+        ocs:C44157,
+        ocs:C45225,
+        ocs:C45394 .
+

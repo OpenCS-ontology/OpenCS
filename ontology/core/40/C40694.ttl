@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40694 a skos:Concept ;
+    skos:broader ocs:C30533,
+        ocs:C32333,
+        ocs:C36200,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudoforest> ;
+    skos:prefLabel "Pseudoforest" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C26989,
+        ocs:C30730,
+        ocs:C33699,
+        ocs:C36406,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C40560,
+        ocs:C42060,
+        ocs:C42087,
+        ocs:C42244,
+        ocs:C43374,
+        ocs:C43912,
+        ocs:C44295,
+        ocs:C44460,
+        ocs:C44762,
+        ocs:C45225 .
+

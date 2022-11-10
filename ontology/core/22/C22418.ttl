@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22418 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_probability_space> ;
+    skos:prefLabel "Standard probability space" ;
+    skos:related ocs:C1844,
+        ocs:C35103,
+        ocs:C6909 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5575 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Four-square_cipher> ;
+    skos:prefLabel "Four-square cipher" ;
+    skos:related ocs:C1027,
+        ocs:C13163,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30538,
+        ocs:C31777,
+        ocs:C34567,
+        ocs:C35391,
+        ocs:C38924,
+        ocs:C39582,
+        ocs:C40734,
+        ocs:C41186,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C6724,
+        ocs:C9491 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14142 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurotmesis> ;
+    skos:prefLabel "Neurotmesis" ;
+    skos:related ocs:C17377,
+        ocs:C21491,
+        ocs:C25080,
+        ocs:C26901,
+        ocs:C31556,
+        ocs:C33836,
+        ocs:C34941 .
+

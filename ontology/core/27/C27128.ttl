@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27128 a skos:Concept ;
+    skos:broader ocs:C2703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analytical_stereoplotter> ;
+    skos:prefLabel "Analytical stereoplotter" ;
+    skos:related ocs:C12166,
+        ocs:C12309,
+        ocs:C18574,
+        ocs:C22199,
+        ocs:C23153,
+        ocs:C23914,
+        ocs:C25756,
+        ocs:C2703,
+        ocs:C27317,
+        ocs:C2883 .
+

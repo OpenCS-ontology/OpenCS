@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1084 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_paper> ;
+    skos:prefLabel "Electronic paper" ;
+    skos:related ocs:C10368,
+        ocs:C13725,
+        ocs:C17088,
+        ocs:C20863,
+        ocs:C33347,
+        ocs:C35370,
+        ocs:C5577,
+        ocs:C653,
+        ocs:C8021 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19831 a skos:Concept ;
+    skos:broader ocs:C8781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moving_least_squares> ;
+    skos:prefLabel "Moving least squares" ;
+    skos:related ocs:C1573,
+        ocs:C20013,
+        ocs:C20379,
+        ocs:C21547,
+        ocs:C23346,
+        ocs:C26880,
+        ocs:C27194,
+        ocs:C28523,
+        ocs:C4511,
+        ocs:C7278,
+        ocs:C7899 .
+

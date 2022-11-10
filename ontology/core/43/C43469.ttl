@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43469 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_Open_Group_Architecture_Framework> ;
+    skos:prefLabel "The Open Group Architecture Framework" ;
+    skos:related ocs:C17238,
+        ocs:C18539,
+        ocs:C2264,
+        ocs:C24477,
+        ocs:C30335,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38667,
+        ocs:C38885,
+        ocs:C40270,
+        ocs:C40895,
+        ocs:C41641,
+        ocs:C42495,
+        ocs:C44353,
+        ocs:C44909,
+        ocs:C45082,
+        ocs:C45437 .
+

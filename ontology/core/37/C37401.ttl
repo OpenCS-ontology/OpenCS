@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37401 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Upside-down_catfish> ;
+    skos:prefLabel "Upside-down catfish" ;
+    skos:related ocs:C24236,
+        ocs:C30779,
+        ocs:C31528,
+        ocs:C32607,
+        ocs:C43972,
+        ocs:C43973 .
+

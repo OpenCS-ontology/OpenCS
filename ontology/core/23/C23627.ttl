@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23627 a skos:Concept ;
+    skos:broader ocs:C10509 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cosmological_perturbation_theory> ;
+    skos:prefLabel "Cosmological perturbation theory" ;
+    skos:related ocs:C40683,
+        ocs:C43159,
+        ocs:C597 .
+

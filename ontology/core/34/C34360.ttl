@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34360 a skos:Concept ;
+    skos:broader ocs:C19524,
+        ocs:C22012 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_Area_Neutron_Detector> ;
+    skos:prefLabel "Large Area Neutron Detector" ;
+    skos:related ocs:C19524,
+        ocs:C22012,
+        ocs:C25787,
+        ocs:C34797,
+        ocs:C40003 .
+

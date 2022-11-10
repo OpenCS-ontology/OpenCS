@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16083 a skos:Concept ;
+    skos:broader ocs:C10999 ;
+    skos:prefLabel "Wheelchair armrest" ;
+    skos:related ocs:C18,
+        ocs:C2480,
+        ocs:C29046,
+        ocs:C6069,
+        ocs:C7166 .
+

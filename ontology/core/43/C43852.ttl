@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43852 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wang_and_Landau_algorithm> ;
+    skos:prefLabel "Wang and Landau algorithm" ;
+    skos:related ocs:C13208,
+        ocs:C23865,
+        ocs:C28074,
+        ocs:C31167,
+        ocs:C31458,
+        ocs:C38763,
+        ocs:C39027,
+        ocs:C41470,
+        ocs:C44604,
+        ocs:C597,
+        ocs:C6909,
+        ocs:C8516 .
+

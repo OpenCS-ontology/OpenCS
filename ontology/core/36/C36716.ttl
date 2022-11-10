@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36716 a skos:Concept ;
+    skos:broader ocs:C17916 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbolic_circuit_analysis> ;
+    skos:prefLabel "Symbolic circuit analysis" ;
+    skos:related ocs:C15194,
+        ocs:C23074,
+        ocs:C26183,
+        ocs:C39179 .
+

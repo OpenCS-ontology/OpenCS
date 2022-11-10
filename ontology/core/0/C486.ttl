@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C486 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C6 ;
+    skos:prefLabel "Report (document)" ;
+    skos:related ocs:C19350,
+        ocs:C2,
+        ocs:C28739,
+        ocs:C34,
+        ocs:C4028,
+        ocs:C6069,
+        ocs:C8614,
+        ocs:C9993 .
+

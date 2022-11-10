@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39658 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C32918,
+        ocs:C34818,
+        ocs:C35806,
+        ocs:C36275 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kuiper's_theorem> ;
+    skos:prefLabel "Kuiper's theorem" ;
+    skos:related ocs:C28787,
+        ocs:C39288 .
+

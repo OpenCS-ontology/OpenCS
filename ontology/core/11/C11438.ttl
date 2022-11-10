@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11438 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Degraded_mode> ;
+    skos:prefLabel "Degraded mode" ;
+    skos:related ocs:C10501,
+        ocs:C11281,
+        ocs:C13222,
+        ocs:C20800,
+        ocs:C2878,
+        ocs:C31772,
+        ocs:C36822,
+        ocs:C37940,
+        ocs:C40928,
+        ocs:C42460,
+        ocs:C42878,
+        ocs:C43308,
+        ocs:C43764,
+        ocs:C5694 .
+

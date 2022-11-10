@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40729 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tangent_half-angle_substitution> ;
+    skos:prefLabel "Tangent half-angle substitution" ;
+    skos:related ocs:C13541,
+        ocs:C24803,
+        ocs:C37825,
+        ocs:C40788,
+        ocs:C41054 .
+

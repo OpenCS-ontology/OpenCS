@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24386 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C12690,
+        ocs:C5279 ;
+    skos:closeMatch <http://dbpedia.org/resource/MCAPI> ;
+    skos:prefLabel "MCAPI" ;
+    skos:related ocs:C10320,
+        ocs:C12490,
+        ocs:C12690,
+        ocs:C15484,
+        ocs:C17413,
+        ocs:C19544,
+        ocs:C19876,
+        ocs:C19936,
+        ocs:C24323,
+        ocs:C26103,
+        ocs:C2674,
+        ocs:C27,
+        ocs:C29359,
+        ocs:C29376,
+        ocs:C3039,
+        ocs:C38129,
+        ocs:C5279,
+        ocs:C5766,
+        ocs:C9542,
+        ocs:C9931 .
+

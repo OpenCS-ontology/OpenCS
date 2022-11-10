@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1724 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Composite_video> ;
+    skos:prefLabel "Composite video" ;
+    skos:related ocs:C10087,
+        ocs:C10320,
+        ocs:C12430,
+        ocs:C12544,
+        ocs:C13973,
+        ocs:C16856,
+        ocs:C27086,
+        ocs:C34890,
+        ocs:C37865,
+        ocs:C38826,
+        ocs:C5369,
+        ocs:C6942 .
+

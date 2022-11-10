@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7624 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wadsworth's_cipher> ;
+    skos:prefLabel "Wadsworth's cipher" ;
+    skos:related ocs:C1027,
+        ocs:C13163,
+        ocs:C13281,
+        ocs:C14539,
+        ocs:C1571,
+        ocs:C17876,
+        ocs:C19615,
+        ocs:C23080,
+        ocs:C30699,
+        ocs:C32109,
+        ocs:C34326,
+        ocs:C38429,
+        ocs:C39582,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C6724,
+        ocs:C7567,
+        ocs:C9491 .
+

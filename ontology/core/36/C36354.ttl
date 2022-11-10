@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36354 a skos:Concept ;
+    skos:broader ocs:C27076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_thicket> ;
+    skos:prefLabel "Patent thicket" ;
+    skos:related ocs:C13306,
+        ocs:C14026,
+        ocs:C16398,
+        ocs:C16575,
+        ocs:C18582,
+        ocs:C23056,
+        ocs:C24730,
+        ocs:C26352,
+        ocs:C27519,
+        ocs:C29370,
+        ocs:C32561,
+        ocs:C33830,
+        ocs:C8997 .
+

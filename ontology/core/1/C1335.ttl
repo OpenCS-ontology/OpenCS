@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1335 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interface_(computing)> ;
+    skos:prefLabel "Interface (computing)" ;
+    skos:related ocs:C10182,
+        ocs:C10320,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11,
+        ocs:C11960,
+        ocs:C1253,
+        ocs:C1333,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2674,
+        ocs:C3231,
+        ocs:C41110,
+        ocs:C6072,
+        ocs:C6255,
+        ocs:C8024,
+        ocs:C9,
+        ocs:C9262 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43004 a skos:Concept ;
+    skos:broader ocs:C31017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clickstream> ;
+    skos:prefLabel "Clickstream" ;
+    skos:related ocs:C12238,
+        ocs:C1524,
+        ocs:C18985,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C30926,
+        ocs:C33206,
+        ocs:C36411,
+        ocs:C40049,
+        ocs:C4031,
+        ocs:C40510,
+        ocs:C40902,
+        ocs:C42101,
+        ocs:C4984,
+        ocs:C5,
+        ocs:C6552,
+        ocs:C8614 .
+

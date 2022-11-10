@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9997 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/UNIVAC_418> ;
+    skos:prefLabel "UNIVAC 418" ;
+    skos:related ocs:C10320,
+        ocs:C10341,
+        ocs:C10749,
+        ocs:C14162,
+        ocs:C16229,
+        ocs:C17204,
+        ocs:C27882,
+        ocs:C3450,
+        ocs:C3946,
+        ocs:C4128,
+        ocs:C45210,
+        ocs:C5290,
+        ocs:C7123,
+        ocs:C8783 .
+

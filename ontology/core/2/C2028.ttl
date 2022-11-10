@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2028 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Golden_section_search> ;
+    skos:prefLabel "Golden section search" ;
+    skos:related ocs:C13208,
+        ocs:C13317,
+        ocs:C14414,
+        ocs:C19177,
+        ocs:C20325,
+        ocs:C23152,
+        ocs:C29738,
+        ocs:C34414,
+        ocs:C37565,
+        ocs:C38215,
+        ocs:C77 .
+

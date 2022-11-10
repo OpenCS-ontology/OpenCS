@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29732 a skos:Concept ;
+    skos:broader ocs:C14470,
+        ocs:C15661,
+        ocs:C28016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupt_vector_table> ;
+    skos:prefLabel "Interrupt vector table" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C14470,
+        ocs:C15661,
+        ocs:C19487,
+        ocs:C24590,
+        ocs:C28016,
+        ocs:C30108,
+        ocs:C38481,
+        ocs:C39555,
+        ocs:C41110,
+        ocs:C42313,
+        ocs:C5147,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

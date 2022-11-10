@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23472 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006,
+        ocs:C2298,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thai_grammar> ;
+    skos:prefLabel "Thai grammar" ;
+    skos:related ocs:C10570,
+        ocs:C11932,
+        ocs:C15012,
+        ocs:C16424,
+        ocs:C18700,
+        ocs:C18978,
+        ocs:C20870,
+        ocs:C23243,
+        ocs:C23681,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C28295,
+        ocs:C28817,
+        ocs:C37038,
+        ocs:C4755 .
+

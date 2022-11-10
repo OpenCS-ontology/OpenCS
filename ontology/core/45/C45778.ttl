@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45778 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555,
+        ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-frequency_network> ;
+    skos:prefLabel "Multi-frequency network" ;
+    skos:related ocs:C11027,
+        ocs:C16773,
+        ocs:C19721,
+        ocs:C20804,
+        ocs:C21613,
+        ocs:C22335,
+        ocs:C26768,
+        ocs:C27572,
+        ocs:C27966,
+        ocs:C31025,
+        ocs:C32456,
+        ocs:C33691,
+        ocs:C34148,
+        ocs:C37037,
+        ocs:C43141,
+        ocs:C44707,
+        ocs:C7857,
+        ocs:C9253 .
+

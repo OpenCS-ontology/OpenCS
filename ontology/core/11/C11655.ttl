@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11655 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/X.29> ;
+    skos:prefLabel "X.29" ;
+    skos:related ocs:C10049,
+        ocs:C1144,
+        ocs:C13130,
+        ocs:C13629,
+        ocs:C13718,
+        ocs:C16953,
+        ocs:C17699,
+        ocs:C2435,
+        ocs:C26809,
+        ocs:C2917,
+        ocs:C30303,
+        ocs:C40353,
+        ocs:C40505,
+        ocs:C43595,
+        ocs:C6861,
+        ocs:C6930,
+        ocs:C978 .
+

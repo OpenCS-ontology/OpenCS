@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10044 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/SITOR> ;
+    skos:prefLabel "SITOR" ;
+    skos:related ocs:C10460,
+        ocs:C10826,
+        ocs:C12652,
+        ocs:C21929,
+        ocs:C22451,
+        ocs:C2534,
+        ocs:C26814,
+        ocs:C27316,
+        ocs:C36670,
+        ocs:C38424,
+        ocs:C43599,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C6034,
+        ocs:C8147,
+        ocs:C9162 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19671 a skos:Concept ;
+    skos:broader ocs:C5990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Languages_of_Asia> ;
+    skos:prefLabel "Languages of Asia" ;
+    skos:related ocs:C10516,
+        ocs:C11458,
+        ocs:C1583,
+        ocs:C17262,
+        ocs:C19172,
+        ocs:C36131,
+        ocs:C401 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3844 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acceptance_testing> ;
+    skos:prefLabel "Acceptance testing" ;
+    skos:related ocs:C1253,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C20241,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C25956,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C37174,
+        ocs:C40291,
+        ocs:C41038,
+        ocs:C42762,
+        ocs:C4558,
+        ocs:C8268,
+        ocs:C8895 .
+

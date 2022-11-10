@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31900 a skos:Concept ;
+    skos:broader ocs:C26337 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guide_to_information_sources> ;
+    skos:prefLabel "Guide to information sources" ;
+    skos:related ocs:C10220,
+        ocs:C10413,
+        ocs:C10801,
+        ocs:C24257,
+        ocs:C25354,
+        ocs:C26542,
+        ocs:C27199,
+        ocs:C3119,
+        ocs:C4,
+        ocs:C5031,
+        ocs:C6688,
+        ocs:C6915,
+        ocs:C6916,
+        ocs:C8770,
+        ocs:C9214,
+        ocs:C9704 .
+

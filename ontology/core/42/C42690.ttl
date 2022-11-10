@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42690 a skos:Concept ;
+    skos:broader ocs:C31754,
+        ocs:C32222 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory-mapped_I/O> ;
+    skos:prefLabel "Memory-mapped I/O" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C3231,
+        ocs:C41110,
+        ocs:C4259,
+        ocs:C45812,
+        ocs:C5463,
+        ocs:C8024,
+        ocs:C8434,
+        ocs:C9,
+        ocs:C9262 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40596 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complex_polygon> ;
+    skos:prefLabel "Complex polygon" ;
+    skos:related ocs:C22,
+        ocs:C28787,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C38358,
+        ocs:C42768,
+        ocs:C42873 .
+

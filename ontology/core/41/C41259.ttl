@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41259 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_vector_protocol> ;
+    skos:prefLabel "Path vector protocol" ;
+    skos:related ocs:C10563,
+        ocs:C17158,
+        ocs:C26066,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C38064,
+        ocs:C38451,
+        ocs:C38462,
+        ocs:C38632,
+        ocs:C38835,
+        ocs:C40934,
+        ocs:C41398,
+        ocs:C42853,
+        ocs:C43513,
+        ocs:C44229,
+        ocs:C44582,
+        ocs:C44848,
+        ocs:C45498,
+        ocs:C8142,
+        ocs:C8517 .
+

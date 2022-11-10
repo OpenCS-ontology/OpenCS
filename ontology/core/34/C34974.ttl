@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34974 a skos:Concept ;
+    skos:broader ocs:C19150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Taguchi_loss_function> ;
+    skos:prefLabel "Taguchi loss function" ;
+    skos:related ocs:C10050,
+        ocs:C1332,
+        ocs:C15950,
+        ocs:C19150 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43311 a skos:Concept ;
+    skos:broader ocs:C36867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Listrura> ;
+    skos:prefLabel "Listrura" ;
+    skos:related ocs:C2698,
+        ocs:C33650,
+        ocs:C36175,
+        ocs:C39065,
+        ocs:C39150,
+        ocs:C39732,
+        ocs:C42954,
+        ocs:C42958,
+        ocs:C43660,
+        ocs:C43754 .
+

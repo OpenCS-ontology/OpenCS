@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19061 a skos:Concept ;
+    skos:broader ocs:C3936 ;
+    skos:prefLabel "Secure Hash Algorithm-256" ;
+    skos:related ocs:C11,
+        ocs:C12111,
+        ocs:C12806,
+        ocs:C26755,
+        ocs:C27,
+        ocs:C3936,
+        ocs:C43739,
+        ocs:C856 .
+

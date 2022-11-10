@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40069 a skos:Concept ;
+    skos:broader ocs:C36704,
+        ocs:C37239,
+        ocs:C37518 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decimal_computer> ;
+    skos:prefLabel "Decimal computer" ;
+    skos:related ocs:C10696,
+        ocs:C10772,
+        ocs:C11709,
+        ocs:C12262,
+        ocs:C12502,
+        ocs:C13025,
+        ocs:C14162,
+        ocs:C15312,
+        ocs:C16377,
+        ocs:C21384,
+        ocs:C24544,
+        ocs:C26455,
+        ocs:C3946,
+        ocs:C4048,
+        ocs:C43223,
+        ocs:C5463,
+        ocs:C6714,
+        ocs:C9162 .
+

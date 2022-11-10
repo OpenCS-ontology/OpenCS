@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13647 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Representation_(mathematics)> ;
+    skos:prefLabel "Representation (mathematics)" ;
+    skos:related ocs:C14693,
+        ocs:C15255,
+        ocs:C17717,
+        ocs:C18800,
+        ocs:C27205,
+        ocs:C30245,
+        ocs:C36126,
+        ocs:C38303,
+        ocs:C41731 .
+

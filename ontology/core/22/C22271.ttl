@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22271 a skos:Concept ;
+    skos:broader ocs:C12486,
+        ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Floating_tone> ;
+    skos:prefLabel "Floating tone" ;
+    skos:related ocs:C11821,
+        ocs:C13096,
+        ocs:C15833,
+        ocs:C15900,
+        ocs:C18386,
+        ocs:C2025,
+        ocs:C21948,
+        ocs:C23342,
+        ocs:C25698,
+        ocs:C26940,
+        ocs:C27881,
+        ocs:C27886,
+        ocs:C6914 .
+

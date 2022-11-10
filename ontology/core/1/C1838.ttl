@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1838 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Khakas_language> ;
+    skos:prefLabel "Khakass language" ;
+    skos:related ocs:C12048,
+        ocs:C1451,
+        ocs:C32,
+        ocs:C8,
+        ocs:C8454 .
+

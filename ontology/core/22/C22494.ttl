@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22494 a skos:Concept ;
+    skos:broader ocs:C10509,
+        ocs:C2308 ;
+    skos:closeMatch <http://dbpedia.org/resource/Welch's_method> ;
+    skos:prefLabel "Welch's method" ;
+    skos:related ocs:C10509,
+        ocs:C11443,
+        ocs:C12046,
+        ocs:C13046,
+        ocs:C1449,
+        ocs:C15052,
+        ocs:C2168,
+        ocs:C30463,
+        ocs:C34392,
+        ocs:C44628,
+        ocs:C5194,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C9871 .
+

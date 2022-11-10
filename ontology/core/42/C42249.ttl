@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42249 a skos:Concept ;
+    skos:broader ocs:C31251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Friis_formulas_for_noise> ;
+    skos:prefLabel "Friis formulas for noise" ;
+    skos:related ocs:C10763,
+        ocs:C11747,
+        ocs:C1219,
+        ocs:C1564,
+        ocs:C16773,
+        ocs:C18520,
+        ocs:C26449,
+        ocs:C31251,
+        ocs:C44997,
+        ocs:C5853,
+        ocs:C6913 .
+

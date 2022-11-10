@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32393 a skos:Concept ;
+    skos:broader ocs:C28642 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seven-dimensional_space> ;
+    skos:prefLabel "Seven-dimensional space" ;
+    skos:related ocs:C10051,
+        ocs:C1385,
+        ocs:C39676,
+        ocs:C42132 .
+

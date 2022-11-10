@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40919 a skos:Concept ;
+    skos:broader ocs:C30273,
+        ocs:C35932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timestamp-based_concurrency_control> ;
+    skos:prefLabel "Timestamp-based concurrency control" ;
+    skos:related ocs:C1,
+        ocs:C159,
+        ocs:C17084,
+        ocs:C18363,
+        ocs:C22879,
+        ocs:C30273,
+        ocs:C36535,
+        ocs:C38026,
+        ocs:C38365,
+        ocs:C39431,
+        ocs:C40503,
+        ocs:C42517,
+        ocs:C43404,
+        ocs:C43644,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C45370,
+        ocs:C6 .
+

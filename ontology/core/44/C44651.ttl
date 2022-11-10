@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44651 a skos:Concept ;
+    skos:broader ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plasma_antenna> ;
+    skos:prefLabel "Plasma antenna" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C19382,
+        ocs:C21441,
+        ocs:C24151,
+        ocs:C24807,
+        ocs:C38796,
+        ocs:C44485,
+        ocs:C5671,
+        ocs:C9691 .
+

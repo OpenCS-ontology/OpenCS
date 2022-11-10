@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7768 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_ring_file> ;
+    skos:prefLabel "Key ring file" ;
+    skos:related ocs:C16125,
+        ocs:C17314,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C30656,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C34723,
+        ocs:C35402,
+        ocs:C38524,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C41637,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C45747 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8432 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/No-win_situation> ;
+    skos:prefLabel "No-win situation" ;
+    skos:related ocs:C11382,
+        ocs:C21609,
+        ocs:C44,
+        ocs:C5137 .
+

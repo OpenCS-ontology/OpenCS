@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30438 a skos:Concept ;
+    skos:broader ocs:C23394,
+        ocs:C28454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Requirements_management> ;
+    skos:prefLabel "Requirements management" ;
+    skos:related ocs:C14329,
+        ocs:C19822,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C28080,
+        ocs:C28454,
+        ocs:C29044,
+        ocs:C31890,
+        ocs:C32390,
+        ocs:C40064,
+        ocs:C44988,
+        ocs:C45228,
+        ocs:C4558,
+        ocs:C8469,
+        ocs:C9033,
+        ocs:C924 .
+

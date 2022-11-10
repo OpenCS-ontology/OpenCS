@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22393 a skos:Concept ;
+    skos:broader ocs:C11383,
+        ocs:C12185 ;
+    skos:closeMatch <http://dbpedia.org/resource/SQL_PL> ;
+    skos:prefLabel "SQL PL" ;
+    skos:related ocs:C10444,
+        ocs:C1060,
+        ocs:C12164,
+        ocs:C12185,
+        ocs:C16901,
+        ocs:C19,
+        ocs:C23139,
+        ocs:C36972,
+        ocs:C4472,
+        ocs:C5497,
+        ocs:C5789,
+        ocs:C6 .
+

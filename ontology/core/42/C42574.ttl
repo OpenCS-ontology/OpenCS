@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42574 a skos:Concept ;
+    skos:broader ocs:C31165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-domain_interoperability> ;
+    skos:prefLabel "Cross-domain interoperability" ;
+    skos:related ocs:C11886,
+        ocs:C21747,
+        ocs:C23885,
+        ocs:C31165,
+        ocs:C40051,
+        ocs:C43812,
+        ocs:C44353,
+        ocs:C45470,
+        ocs:C567,
+        ocs:C6503,
+        ocs:C7106 .
+

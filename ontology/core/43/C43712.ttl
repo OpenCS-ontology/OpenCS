@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43712 a skos:Concept ;
+    skos:broader ocs:C32720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_Feature_Service> ;
+    skos:prefLabel "Web Feature Service" ;
+    skos:related ocs:C1037,
+        ocs:C11927,
+        ocs:C1651,
+        ocs:C19460,
+        ocs:C23889,
+        ocs:C24208,
+        ocs:C27492,
+        ocs:C28881,
+        ocs:C28941,
+        ocs:C38189,
+        ocs:C38561,
+        ocs:C39292,
+        ocs:C40725,
+        ocs:C42402,
+        ocs:C43208,
+        ocs:C44135,
+        ocs:C44189,
+        ocs:C7918 .
+

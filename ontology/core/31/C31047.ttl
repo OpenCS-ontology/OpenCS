@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31047 a skos:Concept ;
+    skos:broader ocs:C17238 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service-oriented_infrastructure> ;
+    skos:prefLabel "Service-oriented infrastructure" ;
+    skos:related ocs:C10904,
+        ocs:C14627,
+        ocs:C15478,
+        ocs:C17238,
+        ocs:C197,
+        ocs:C2303,
+        ocs:C30,
+        ocs:C31527,
+        ocs:C31667,
+        ocs:C31894,
+        ocs:C36422,
+        ocs:C41310,
+        ocs:C42315,
+        ocs:C45883,
+        ocs:C7106,
+        ocs:C7180,
+        ocs:C9 .
+

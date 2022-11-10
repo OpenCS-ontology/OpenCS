@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29736 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sisor> ;
+    skos:prefLabel "Sisor" ;
+    skos:related ocs:C37952,
+        ocs:C38071,
+        ocs:C40315,
+        ocs:C41824,
+        ocs:C42957,
+        ocs:C44015,
+        ocs:C44889,
+        ocs:C45751 .
+

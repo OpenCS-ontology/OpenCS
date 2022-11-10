@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27780 a skos:Concept ;
+    skos:broader ocs:C2800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fulldome> ;
+    skos:prefLabel "Fulldome" ;
+    skos:related ocs:C13100,
+        ocs:C13320,
+        ocs:C13725,
+        ocs:C15787,
+        ocs:C17246,
+        ocs:C20066,
+        ocs:C21488,
+        ocs:C22,
+        ocs:C23498,
+        ocs:C2416,
+        ocs:C26733,
+        ocs:C39285,
+        ocs:C622,
+        ocs:C9879 .
+

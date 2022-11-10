@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3567 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interleaving_(disk_storage)> ;
+    skos:prefLabel "Interleaving" ;
+    skos:related ocs:C10400,
+        ocs:C10785,
+        ocs:C1108,
+        ocs:C13783,
+        ocs:C22957,
+        ocs:C27651,
+        ocs:C32640,
+        ocs:C3523,
+        ocs:C36536,
+        ocs:C3915,
+        ocs:C4333,
+        ocs:C4916,
+        ocs:C600,
+        ocs:C6536,
+        ocs:C6588,
+        ocs:C9742 .
+

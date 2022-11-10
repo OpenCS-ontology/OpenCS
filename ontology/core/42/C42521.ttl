@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42521 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555,
+        ocs:C35370,
+        ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/CAPWAP> ;
+    skos:prefLabel "CAPWAP" ;
+    skos:related ocs:C12814,
+        ocs:C21760,
+        ocs:C32171,
+        ocs:C32555,
+        ocs:C32724,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C38851,
+        ocs:C39020,
+        ocs:C39438,
+        ocs:C39494,
+        ocs:C40578,
+        ocs:C41995,
+        ocs:C43093,
+        ocs:C43449,
+        ocs:C45456 .
+

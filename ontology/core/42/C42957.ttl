@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42957 a skos:Concept ;
+    skos:broader ocs:C33146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bagarius> ;
+    skos:prefLabel "Bagarius" ;
+    skos:related ocs:C37148,
+        ocs:C37811,
+        ocs:C37839,
+        ocs:C37952,
+        ocs:C39729,
+        ocs:C40315,
+        ocs:C41824,
+        ocs:C41945,
+        ocs:C44889 .
+

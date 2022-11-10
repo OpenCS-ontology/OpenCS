@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6788 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spec_Sharp> ;
+    skos:prefLabel "Spec#" ;
+    skos:related ocs:C10242,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C12562,
+        ocs:C19,
+        ocs:C34431,
+        ocs:C37896,
+        ocs:C38132,
+        ocs:C4178,
+        ocs:C42280,
+        ocs:C42575,
+        ocs:C43302,
+        ocs:C9 .
+

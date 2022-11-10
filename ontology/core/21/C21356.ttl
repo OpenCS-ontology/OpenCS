@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21356 a skos:Concept ;
+    skos:broader ocs:C1844,
+        ocs:C9326 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lévy_distribution> ;
+    skos:prefLabel "Lévy distribution" ;
+    skos:related ocs:C16163,
+        ocs:C1844,
+        ocs:C22092,
+        ocs:C40060,
+        ocs:C42463,
+        ocs:C6909,
+        ocs:C9326 .
+

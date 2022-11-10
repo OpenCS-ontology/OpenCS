@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1492 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Futures_studies> ;
+    skos:prefLabel "Futures studies" ;
+    skos:related ocs:C11938,
+        ocs:C12009,
+        ocs:C1939,
+        ocs:C8 .
+

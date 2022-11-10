@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26176 a skos:Concept ;
+    skos:broader ocs:C3451,
+        ocs:C393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fragmentation_of_memory> ;
+    skos:prefLabel "Fragmentation of memory" .
+

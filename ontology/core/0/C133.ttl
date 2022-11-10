@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C133 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Williot_diagram> ;
+    skos:prefLabel "Williot diagram" ;
+    skos:related ocs:C14853,
+        ocs:C16376,
+        ocs:C29632,
+        ocs:C34051,
+        ocs:C36126,
+        ocs:C36279,
+        ocs:C38220,
+        ocs:C38480,
+        ocs:C38535,
+        ocs:C39515,
+        ocs:C40916,
+        ocs:C41677,
+        ocs:C42098,
+        ocs:C42525,
+        ocs:C43567,
+        ocs:C44157,
+        ocs:C45150,
+        ocs:C45746,
+        ocs:C6335 .
+

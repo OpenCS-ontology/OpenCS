@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4033 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/MurmurHash> ;
+    skos:prefLabel "MurmurHash" ;
+    skos:related ocs:C10384,
+        ocs:C10862,
+        ocs:C15591,
+        ocs:C23875,
+        ocs:C2475,
+        ocs:C26456,
+        ocs:C32054,
+        ocs:C33416,
+        ocs:C37936,
+        ocs:C3936,
+        ocs:C43191,
+        ocs:C43230,
+        ocs:C44164,
+        ocs:C44287,
+        ocs:C6941,
+        ocs:C8022,
+        ocs:C8616 .
+

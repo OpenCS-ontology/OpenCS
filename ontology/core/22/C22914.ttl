@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22914 a skos:Concept ;
+    skos:broader ocs:C5659,
+        ocs:C8738,
+        ocs:C912 ;
+    skos:prefLabel "Consensus reaching process" .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16417 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protoplanetary_disk> ;
+    skos:prefLabel "Protoplanetary disk" ;
+    skos:related ocs:C14270,
+        ocs:C16731,
+        ocs:C23430,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C29867,
+        ocs:C34450,
+        ocs:C597 .
+

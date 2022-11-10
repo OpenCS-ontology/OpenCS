@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25644 a skos:Concept ;
+    skos:broader ocs:C13686 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complexity_index> ;
+    skos:prefLabel "Complexity index" ;
+    skos:related ocs:C13097,
+        ocs:C13545,
+        ocs:C2005,
+        ocs:C20562,
+        ocs:C23148,
+        ocs:C25338,
+        ocs:C2834,
+        ocs:C3389,
+        ocs:C34626,
+        ocs:C38726,
+        ocs:C42694,
+        ocs:C4619,
+        ocs:C5799 .
+

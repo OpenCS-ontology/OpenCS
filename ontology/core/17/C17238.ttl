@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17238 a skos:Concept ;
+    skos:broader ocs:C10904 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service-oriented_architecture> ;
+    skos:prefLabel "Service-oriented architecture" ;
+    skos:related ocs:C10904,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C1253,
+        ocs:C13252,
+        ocs:C1496,
+        ocs:C21166,
+        ocs:C2674,
+        ocs:C28632,
+        ocs:C28941,
+        ocs:C30,
+        ocs:C31667,
+        ocs:C36422,
+        ocs:C41310,
+        ocs:C45883,
+        ocs:C6,
+        ocs:C7106,
+        ocs:C7180 .
+

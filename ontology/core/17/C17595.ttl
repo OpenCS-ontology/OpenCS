@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17595 a skos:Concept ;
+    skos:broader ocs:C1811 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hering's_law_of_equal_innervation> ;
+    skos:prefLabel "Hering's law of equal innervation" ;
+    skos:related ocs:C13549,
+        ocs:C1811,
+        ocs:C21886,
+        ocs:C2422 .
+

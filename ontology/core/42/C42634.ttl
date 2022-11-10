@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42634 a skos:Concept ;
+    skos:broader ocs:C31267,
+        ocs:C36897 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_virtualization> ;
+    skos:prefLabel "Memory virtualization" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C23270,
+        ocs:C2353,
+        ocs:C25960,
+        ocs:C26124,
+        ocs:C26161,
+        ocs:C28515,
+        ocs:C31267,
+        ocs:C3569,
+        ocs:C38819,
+        ocs:C39275,
+        ocs:C39629,
+        ocs:C42936,
+        ocs:C43877,
+        ocs:C44344,
+        ocs:C5698,
+        ocs:C6312,
+        ocs:C9,
+        ocs:C9486 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16079 a skos:Concept ;
+    skos:broader ocs:C5817 ;
+    skos:closeMatch <http://dbpedia.org/resource/A_posteriori_necessity> ;
+    skos:prefLabel "A posteriori necessity" ;
+    skos:related ocs:C126,
+        ocs:C16238,
+        ocs:C21127,
+        ocs:C21672,
+        ocs:C29358,
+        ocs:C37730,
+        ocs:C5817,
+        ocs:C7467 .
+

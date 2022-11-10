@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11392 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fiducial_marker> ;
+    skos:prefLabel "Fiducial marker" ;
+    skos:related ocs:C12755,
+        ocs:C7,
+        ocs:C9603 .
+

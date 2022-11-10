@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11590 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low_and_high_hierarchies> ;
+    skos:prefLabel "Low and high hierarchies" ;
+    skos:related ocs:C13545,
+        ocs:C20720,
+        ocs:C23904,
+        ocs:C25360,
+        ocs:C29677,
+        ocs:C29837,
+        ocs:C33409,
+        ocs:C33982,
+        ocs:C38867,
+        ocs:C41116,
+        ocs:C41530,
+        ocs:C41645,
+        ocs:C41758,
+        ocs:C4605,
+        ocs:C9252 .
+

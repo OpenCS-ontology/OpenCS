@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5731 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-service_password_reset> ;
+    skos:prefLabel "Self-service password reset" ;
+    skos:related ocs:C17656,
+        ocs:C18028,
+        ocs:C19151,
+        ocs:C20650,
+        ocs:C20904,
+        ocs:C20937,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C27509,
+        ocs:C31315,
+        ocs:C31995,
+        ocs:C32400,
+        ocs:C34607,
+        ocs:C34793,
+        ocs:C36171,
+        ocs:C40900,
+        ocs:C4513,
+        ocs:C816,
+        ocs:C8711,
+        ocs:C9489 .
+

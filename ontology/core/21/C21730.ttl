@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21730 a skos:Concept ;
+    skos:broader ocs:C914 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moore's_paradox> ;
+    skos:prefLabel "Moore's paradox" ;
+    skos:related ocs:C2565,
+        ocs:C28286,
+        ocs:C38919,
+        ocs:C41181,
+        ocs:C44623,
+        ocs:C4611,
+        ocs:C4970,
+        ocs:C7467,
+        ocs:C7503 .
+

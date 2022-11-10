@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38213 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/K-medians_clustering> ;
+    skos:prefLabel "k-medians clustering" ;
+    skos:related ocs:C10382,
+        ocs:C11441,
+        ocs:C13,
+        ocs:C13787,
+        ocs:C14252,
+        ocs:C16054,
+        ocs:C18518,
+        ocs:C21710,
+        ocs:C26767,
+        ocs:C29024,
+        ocs:C30082,
+        ocs:C40296,
+        ocs:C42682,
+        ocs:C42787,
+        ocs:C45859,
+        ocs:C4752,
+        ocs:C5874,
+        ocs:C6608 .
+

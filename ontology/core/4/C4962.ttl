@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4962 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Trespasser" ;
+    skos:related ocs:C2,
+        ocs:C31129,
+        ocs:C33,
+        ocs:C4879,
+        ocs:C8499,
+        ocs:C8614 .
+

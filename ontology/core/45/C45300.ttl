@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45300 a skos:Concept ;
+    skos:broader ocs:C33773 ;
+    skos:closeMatch <http://dbpedia.org/resource/DySPAN> ;
+    skos:prefLabel "DySPAN" ;
+    skos:related ocs:C17653,
+        ocs:C20483,
+        ocs:C20804,
+        ocs:C21231,
+        ocs:C24189,
+        ocs:C2991,
+        ocs:C33773,
+        ocs:C35674,
+        ocs:C35746,
+        ocs:C39135,
+        ocs:C39915,
+        ocs:C40044,
+        ocs:C41115,
+        ocs:C42183,
+        ocs:C43573,
+        ocs:C44810,
+        ocs:C625,
+        ocs:C9093 .
+

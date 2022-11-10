@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4924 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexical_approach> ;
+    skos:prefLabel "Lexical approach" ;
+    skos:related ocs:C14410,
+        ocs:C23816,
+        ocs:C26478,
+        ocs:C30934,
+        ocs:C35800,
+        ocs:C41308,
+        ocs:C43756,
+        ocs:C7158,
+        ocs:C9065 .
+

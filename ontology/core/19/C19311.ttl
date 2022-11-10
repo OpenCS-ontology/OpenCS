@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19311 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Allegheny_mound_ant> ;
+    skos:prefLabel "Allegheny mound ant" ;
+    skos:related ocs:C20649,
+        ocs:C20738,
+        ocs:C21653,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C30775,
+        ocs:C30805,
+        ocs:C30897,
+        ocs:C32984,
+        ocs:C34831,
+        ocs:C36512 .
+

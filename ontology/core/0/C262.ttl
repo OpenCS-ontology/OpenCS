@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C262 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bibliome> ;
+    skos:prefLabel "Bibliome" ;
+    skos:related ocs:C21676,
+        ocs:C31288 .
+

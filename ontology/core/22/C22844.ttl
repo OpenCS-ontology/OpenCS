@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22844 a skos:Concept ;
+    skos:broader ocs:C10509,
+        ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Whittle_likelihood> ;
+    skos:prefLabel "Whittle likelihood" ;
+    skos:related ocs:C10409,
+        ocs:C10509,
+        ocs:C23308,
+        ocs:C25436,
+        ocs:C260,
+        ocs:C3,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C6909,
+        ocs:C7471,
+        ocs:C836,
+        ocs:C9428 .
+

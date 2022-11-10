@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31111 a skos:Concept ;
+    skos:broader ocs:C27385 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_engineering> ;
+    skos:prefLabel "Decision engineering" ;
+    skos:related ocs:C10771,
+        ocs:C11875,
+        ocs:C1728,
+        ocs:C22673,
+        ocs:C22686,
+        ocs:C25,
+        ocs:C2529,
+        ocs:C25464,
+        ocs:C3753,
+        ocs:C6656,
+        ocs:C8,
+        ocs:C912,
+        ocs:C928,
+        ocs:C9608,
+        ocs:C9874 .
+

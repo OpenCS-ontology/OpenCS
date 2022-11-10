@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42501 a skos:Concept ;
+    skos:broader ocs:C29621,
+        ocs:C29638,
+        ocs:C33869 ;
+    skos:prefLabel "Pangasius larnaudii" ;
+    skos:related ocs:C24236,
+        ocs:C29638,
+        ocs:C36719 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18137 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_catalogue> ;
+    skos:prefLabel "Star catalogue" ;
+    skos:related ocs:C10556,
+        ocs:C19225,
+        ocs:C19549,
+        ocs:C22220,
+        ocs:C22752,
+        ocs:C23849,
+        ocs:C24724,
+        ocs:C26348,
+        ocs:C26673,
+        ocs:C597 .
+

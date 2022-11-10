@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27531 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_identity> ;
+    skos:prefLabel "Online identity" ;
+    skos:related ocs:C12510,
+        ocs:C14032,
+        ocs:C16338,
+        ocs:C17656,
+        ocs:C17658,
+        ocs:C18683,
+        ocs:C20937,
+        ocs:C22246,
+        ocs:C22668,
+        ocs:C25411,
+        ocs:C25752,
+        ocs:C33928,
+        ocs:C394,
+        ocs:C4712,
+        ocs:C8614,
+        ocs:C9219,
+        ocs:C9344 .
+

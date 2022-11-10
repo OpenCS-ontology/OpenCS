@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14048 a skos:Concept ;
+    skos:broader ocs:C7848,
+        ocs:C9690 ;
+    skos:prefLabel "Joint coordinate system" .
+

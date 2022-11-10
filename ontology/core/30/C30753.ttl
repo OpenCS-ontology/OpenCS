@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30753 a skos:Concept ;
+    skos:broader ocs:C16731,
+        ocs:C25949 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nebulium> ;
+    skos:prefLabel "Nebulium" ;
+    skos:related ocs:C16731,
+        ocs:C23267,
+        ocs:C23296,
+        ocs:C25949,
+        ocs:C26348,
+        ocs:C32298,
+        ocs:C34547,
+        ocs:C41072,
+        ocs:C597 .
+

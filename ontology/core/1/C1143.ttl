@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1143 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Christmas_club> ;
+    skos:prefLabel "Christmas club" ;
+    skos:related ocs:C12752,
+        ocs:C14059,
+        ocs:C24659,
+        ocs:C25013,
+        ocs:C29064 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8935 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/DVD_recorder> ;
+    skos:prefLabel "DVD recorder" ;
+    skos:related ocs:C11040,
+        ocs:C11323,
+        ocs:C12430,
+        ocs:C12544,
+        ocs:C1666,
+        ocs:C27572,
+        ocs:C32488,
+        ocs:C34364,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C4916,
+        ocs:C5883,
+        ocs:C7255,
+        ocs:C9266 .
+

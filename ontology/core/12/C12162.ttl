@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12162 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_world> ;
+    skos:prefLabel "Star world" ;
+    skos:related ocs:C16157,
+        ocs:C16890,
+        ocs:C2202,
+        ocs:C23275,
+        ocs:C27770,
+        ocs:C3,
+        ocs:C30279,
+        ocs:C31172,
+        ocs:C31808,
+        ocs:C32401,
+        ocs:C357,
+        ocs:C36290,
+        ocs:C43586,
+        ocs:C43810,
+        ocs:C44167,
+        ocs:C9019,
+        ocs:C9211 .
+

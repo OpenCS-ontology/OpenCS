@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11640 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Negative_relationship> ;
+    skos:prefLabel "Negative relationship" ;
+    skos:related ocs:C1241,
+        ocs:C13148,
+        ocs:C13789,
+        ocs:C27194,
+        ocs:C35302,
+        ocs:C411,
+        ocs:C836,
+        ocs:C9428 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42498 a skos:Concept ;
+    skos:broader ocs:C36296 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orbital_pole> ;
+    skos:prefLabel "Orbital pole" ;
+    skos:related ocs:C10556,
+        ocs:C18175,
+        ocs:C30361,
+        ocs:C43590 .
+

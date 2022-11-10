@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38162 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C31724,
+        ocs:C32649,
+        ocs:C33185,
+        ocs:C34660,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_flow_analysis> ;
+    skos:prefLabel "Control flow analysis" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C10720,
+        ocs:C10794,
+        ocs:C1837,
+        ocs:C19,
+        ocs:C21201,
+        ocs:C22987,
+        ocs:C24148,
+        ocs:C26005,
+        ocs:C27080,
+        ocs:C31724,
+        ocs:C40088,
+        ocs:C41762,
+        ocs:C4918,
+        ocs:C6072,
+        ocs:C6941,
+        ocs:C7126 .
+

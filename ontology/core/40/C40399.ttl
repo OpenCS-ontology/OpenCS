@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40399 a skos:Concept ;
+    skos:broader ocs:C34886 ;
+    skos:closeMatch <http://dbpedia.org/resource/Banker's_draft> ;
+    skos:prefLabel "Banker's draft" ;
+    skos:related ocs:C11389,
+        ocs:C11486,
+        ocs:C12752,
+        ocs:C12993,
+        ocs:C15607,
+        ocs:C16179,
+        ocs:C17400,
+        ocs:C19078,
+        ocs:C21953,
+        ocs:C26112,
+        ocs:C26695,
+        ocs:C33193,
+        ocs:C34589,
+        ocs:C4001,
+        ocs:C4779,
+        ocs:C7458,
+        ocs:C9495 .
+

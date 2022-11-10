@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12323 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protected_mode> ;
+    skos:prefLabel "Protected mode" ;
+    skos:related ocs:C10568,
+        ocs:C1251,
+        ocs:C19487,
+        ocs:C2353,
+        ocs:C27025,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31027,
+        ocs:C31346,
+        ocs:C31489,
+        ocs:C33174,
+        ocs:C37847,
+        ocs:C38819,
+        ocs:C43625,
+        ocs:C5147,
+        ocs:C5463,
+        ocs:C7647,
+        ocs:C9,
+        ocs:C9433 .
+

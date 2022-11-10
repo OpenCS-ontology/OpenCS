@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C642 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-functional_team> ;
+    skos:prefLabel "Cross-functional team" ;
+    skos:related ocs:C13673,
+        ocs:C18274,
+        ocs:C21067,
+        ocs:C22700,
+        ocs:C23671,
+        ocs:C2378,
+        ocs:C28080,
+        ocs:C28632,
+        ocs:C41437,
+        ocs:C4558,
+        ocs:C4906,
+        ocs:C9248 .
+

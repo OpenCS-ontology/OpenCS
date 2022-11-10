@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21564 a skos:Concept ;
+    skos:broader ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disc_theorem> ;
+    skos:prefLabel "Disc theorem" ;
+    skos:related ocs:C17860 .
+

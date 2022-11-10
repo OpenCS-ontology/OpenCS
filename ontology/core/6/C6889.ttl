@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6889 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Procedure attempts" ;
+    skos:related ocs:C5659,
+        ocs:C6346,
+        ocs:C7636 .
+

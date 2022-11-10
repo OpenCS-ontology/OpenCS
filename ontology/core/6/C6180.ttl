@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6180 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/CUR_matrix_approximation> ;
+    skos:prefLabel "CUR matrix approximation" ;
+    skos:related ocs:C11126,
+        ocs:C21547,
+        ocs:C312,
+        ocs:C6912 .
+

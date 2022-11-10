@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19852 a skos:Concept ;
+    skos:broader ocs:C5247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rocket_(weapon)> ;
+    skos:prefLabel "Rocket (weapon)" ;
+    skos:related ocs:C21379,
+        ocs:C21767,
+        ocs:C25124,
+        ocs:C28174,
+        ocs:C28796,
+        ocs:C3212,
+        ocs:C5247,
+        ocs:C9066,
+        ocs:C9431 .
+

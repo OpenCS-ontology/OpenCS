@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13583 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstract_logic> ;
+    skos:prefLabel "Abstract logic" ;
+    skos:related ocs:C10273,
+        ocs:C12332,
+        ocs:C12346,
+        ocs:C12474,
+        ocs:C21489,
+        ocs:C2418,
+        ocs:C28286,
+        ocs:C30367,
+        ocs:C35496,
+        ocs:C38308,
+        ocs:C38398,
+        ocs:C42139,
+        ocs:C4517,
+        ocs:C7596,
+        ocs:C8635 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42829 a skos:Concept ;
+    skos:broader ocs:C32266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Main_conjecture_of_Iwasawa_theory> ;
+    skos:prefLabel "Main conjecture of Iwasawa theory" ;
+    skos:related ocs:C30801,
+        ocs:C42422,
+        ocs:C42979 .
+

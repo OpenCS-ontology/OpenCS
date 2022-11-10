@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34987 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prüfer_sequence> ;
+    skos:prefLabel "Prüfer sequence" ;
+    skos:related ocs:C11282,
+        ocs:C14693,
+        ocs:C16670,
+        ocs:C23311,
+        ocs:C26989,
+        ocs:C30730,
+        ocs:C31703,
+        ocs:C40694,
+        ocs:C42271 .
+

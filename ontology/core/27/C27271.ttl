@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27271 a skos:Concept ;
+    skos:broader ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio-frequency_sweep> ;
+    skos:prefLabel "Radio-frequency sweep" ;
+    skos:related ocs:C18799,
+        ocs:C20804,
+        ocs:C21009,
+        ocs:C23996,
+        ocs:C24312,
+        ocs:C28404,
+        ocs:C2975,
+        ocs:C31200,
+        ocs:C3173,
+        ocs:C32548,
+        ocs:C37788,
+        ocs:C40750,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C5692,
+        ocs:C7159 .
+

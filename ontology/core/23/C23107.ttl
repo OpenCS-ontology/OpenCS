@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23107 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_gambelii> ;
+    skos:prefLabel "Quercus gambelii" ;
+    skos:related ocs:C14359,
+        ocs:C15400,
+        ocs:C17573,
+        ocs:C29185,
+        ocs:C31205,
+        ocs:C32542,
+        ocs:C33897,
+        ocs:C34303,
+        ocs:C34699,
+        ocs:C35508,
+        ocs:C36480,
+        ocs:C37450 .
+

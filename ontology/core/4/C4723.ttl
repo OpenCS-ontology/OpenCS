@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4723 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lock_screen> ;
+    skos:prefLabel "Lock screen" ;
+    skos:related ocs:C10368,
+        ocs:C1042,
+        ocs:C12698,
+        ocs:C1338,
+        ocs:C15832,
+        ocs:C17132,
+        ocs:C21424,
+        ocs:C22076,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C2946,
+        ocs:C31489,
+        ocs:C36631,
+        ocs:C4223,
+        ocs:C5702,
+        ocs:C7504,
+        ocs:C7738,
+        ocs:C9,
+        ocs:C9113,
+        ocs:C946 .
+

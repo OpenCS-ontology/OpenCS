@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19626 a skos:Concept ;
+    skos:broader ocs:C10241,
+        ocs:C10327,
+        ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_resolution> ;
+    skos:prefLabel "Inverse resolution" ;
+    skos:related ocs:C10241,
+        ocs:C10327,
+        ocs:C10551,
+        ocs:C1092,
+        ocs:C13511,
+        ocs:C2138,
+        ocs:C21481,
+        ocs:C29762,
+        ocs:C33736,
+        ocs:C6290,
+        ocs:C852,
+        ocs:C9834 .
+

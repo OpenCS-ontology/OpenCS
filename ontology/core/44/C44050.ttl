@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44050 a skos:Concept ;
+    skos:broader ocs:C36540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conformance_checking> ;
+    skos:prefLabel "Conformance checking" ;
+    skos:related ocs:C12427,
+        ocs:C12736,
+        ocs:C30409,
+        ocs:C45047 .
+

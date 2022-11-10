@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28584 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Richardson_extrapolation> ;
+    skos:prefLabel "Richardson extrapolation" ;
+    skos:related ocs:C16905,
+        ocs:C19177,
+        ocs:C22506,
+        ocs:C24149,
+        ocs:C29411,
+        ocs:C38965,
+        ocs:C43435 .
+

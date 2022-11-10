@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41866 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pair_testing> ;
+    skos:prefLabel "Pair testing" ;
+    skos:related ocs:C20063,
+        ocs:C23437,
+        ocs:C24143,
+        ocs:C25956,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29869,
+        ocs:C31984,
+        ocs:C37174,
+        ocs:C3844,
+        ocs:C39522,
+        ocs:C40291,
+        ocs:C40597,
+        ocs:C41342,
+        ocs:C42333,
+        ocs:C42516,
+        ocs:C45208,
+        ocs:C4558,
+        ocs:C45809 .
+

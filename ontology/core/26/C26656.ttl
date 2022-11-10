@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26656 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Journal_Article_Tag_Suite> ;
+    skos:prefLabel "Journal Article Tag Suite" ;
+    skos:related ocs:C11927,
+        ocs:C15008,
+        ocs:C17514,
+        ocs:C18361,
+        ocs:C24783,
+        ocs:C28801,
+        ocs:C31343,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C3896,
+        ocs:C39009,
+        ocs:C42905,
+        ocs:C6744,
+        ocs:C6790,
+        ocs:C9096 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35077 a skos:Concept ;
+    skos:broader ocs:C21380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lagrange's_theorem_(number_theory)> ;
+    skos:prefLabel "Lagrange's theorem (number theory)" ;
+    skos:related ocs:C21380,
+        ocs:C43730,
+        ocs:C9449 .
+

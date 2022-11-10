@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40443 a skos:Concept ;
+    skos:broader ocs:C34790,
+        ocs:C35495,
+        ocs:C35997,
+        ocs:C37006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Find_first_set> ;
+    skos:prefLabel "Find first set" ;
+    skos:related ocs:C10320,
+        ocs:C10719,
+        ocs:C12262,
+        ocs:C16377,
+        ocs:C19223,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C2375,
+        ocs:C27882,
+        ocs:C37006,
+        ocs:C44415,
+        ocs:C4622,
+        ocs:C4811,
+        ocs:C5037,
+        ocs:C6911,
+        ocs:C856 .
+

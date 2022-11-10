@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6259 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:prefLabel "Surgical camera" ;
+    skos:related ocs:C10396,
+        ocs:C10668,
+        ocs:C1253,
+        ocs:C17,
+        ocs:C22,
+        ocs:C24,
+        ocs:C2605,
+        ocs:C38249 .
+

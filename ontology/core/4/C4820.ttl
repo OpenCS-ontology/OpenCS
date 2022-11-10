@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4820 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:prefLabel "Direct-to-disk recording" ;
+    skos:related ocs:C10778,
+        ocs:C12430,
+        ocs:C13095,
+        ocs:C13467,
+        ocs:C30569,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C40628,
+        ocs:C520,
+        ocs:C577,
+        ocs:C6536,
+        ocs:C7007,
+        ocs:C7255,
+        ocs:C7369,
+        ocs:C8935 .
+

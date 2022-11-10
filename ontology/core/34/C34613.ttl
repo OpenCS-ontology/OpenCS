@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34613 a skos:Concept ;
+    skos:broader ocs:C22667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_inspection> ;
+    skos:prefLabel "Flight inspection" ;
+    skos:related ocs:C10587,
+        ocs:C11669,
+        ocs:C12641,
+        ocs:C12648,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C25380,
+        ocs:C26346,
+        ocs:C30470,
+        ocs:C30901,
+        ocs:C42471,
+        ocs:C45718,
+        ocs:C4597,
+        ocs:C4979 .
+

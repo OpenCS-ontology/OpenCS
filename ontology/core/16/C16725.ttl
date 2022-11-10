@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16725 a skos:Concept ;
+    skos:broader ocs:C13006,
+        ocs:C6293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comma_splice> ;
+    skos:prefLabel "Comma splice" ;
+    skos:related ocs:C12983,
+        ocs:C13006,
+        ocs:C17862,
+        ocs:C19047,
+        ocs:C21988,
+        ocs:C22749,
+        ocs:C2370,
+        ocs:C26353,
+        ocs:C26467,
+        ocs:C26816,
+        ocs:C27994,
+        ocs:C28646,
+        ocs:C31289,
+        ocs:C31367,
+        ocs:C32138,
+        ocs:C5870,
+        ocs:C809 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17705 a skos:Concept ;
+    skos:broader ocs:C6817 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_nonlinearity> ;
+    skos:prefLabel "Differential nonlinearity" ;
+    skos:related ocs:C123,
+        ocs:C18246,
+        ocs:C1832,
+        ocs:C22096,
+        ocs:C25111,
+        ocs:C30691,
+        ocs:C34950,
+        ocs:C35102,
+        ocs:C5506,
+        ocs:C6817 .
+

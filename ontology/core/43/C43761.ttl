@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43761 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C32518,
+        ocs:C34684,
+        ocs:C36233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watermarking_attack> ;
+    skos:prefLabel "Watermarking attack" ;
+    skos:related ocs:C20993,
+        ocs:C27449,
+        ocs:C29363,
+        ocs:C31338,
+        ocs:C31654,
+        ocs:C32350,
+        ocs:C33459,
+        ocs:C33857,
+        ocs:C35391,
+        ocs:C38723,
+        ocs:C39657,
+        ocs:C40478,
+        ocs:C40765,
+        ocs:C41810,
+        ocs:C43409,
+        ocs:C43718,
+        ocs:C44003,
+        ocs:C44870,
+        ocs:C4751,
+        ocs:C537 .
+

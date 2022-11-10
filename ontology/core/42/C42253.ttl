@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42253 a skos:Concept ;
+    skos:broader ocs:C32982 ;
+    skos:closeMatch <http://dbpedia.org/resource/Misiurewicz_point> ;
+    skos:prefLabel "Misiurewicz point" ;
+    skos:related ocs:C13992,
+        ocs:C32982,
+        ocs:C42397,
+        ocs:C43631,
+        ocs:C45743,
+        ocs:C5867 .
+

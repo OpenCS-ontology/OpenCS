@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32854 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trigonobalanus> ;
+    skos:prefLabel "Trigonobalanus" ;
+    skos:related ocs:C15473,
+        ocs:C35780,
+        ocs:C36261 .
+

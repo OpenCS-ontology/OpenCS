@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32563 a skos:Concept ;
+    skos:broader ocs:C26034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_air-traffic_management> ;
+    skos:prefLabel "Global air-traffic management" ;
+    skos:related ocs:C11301,
+        ocs:C12641,
+        ocs:C15050,
+        ocs:C15666,
+        ocs:C16585,
+        ocs:C23082,
+        ocs:C25311,
+        ocs:C26346,
+        ocs:C27698,
+        ocs:C27838,
+        ocs:C28779,
+        ocs:C30565,
+        ocs:C34620,
+        ocs:C38155,
+        ocs:C4597 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31869 a skos:Concept ;
+    skos:broader ocs:C15065,
+        ocs:C22407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_loss_concealment> ;
+    skos:prefLabel "Packet loss concealment" ;
+    skos:related ocs:C11969,
+        ocs:C13256,
+        ocs:C15065,
+        ocs:C20691,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C31060,
+        ocs:C31365,
+        ocs:C32515,
+        ocs:C32609,
+        ocs:C36124,
+        ocs:C37577,
+        ocs:C37893,
+        ocs:C4095,
+        ocs:C42093,
+        ocs:C8306,
+        ocs:C8515 .
+

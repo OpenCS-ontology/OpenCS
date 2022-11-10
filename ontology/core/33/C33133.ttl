@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33133 a skos:Concept ;
+    skos:broader ocs:C22277 ;
+    skos:closeMatch <http://dbpedia.org/resource/König's_lemma> ;
+    skos:prefLabel "König's lemma" ;
+    skos:related ocs:C11286,
+        ocs:C12474,
+        ocs:C14693,
+        ocs:C16190,
+        ocs:C16365,
+        ocs:C23662,
+        ocs:C25442,
+        ocs:C26402,
+        ocs:C26578,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C36125,
+        ocs:C38518,
+        ocs:C5251 .
+

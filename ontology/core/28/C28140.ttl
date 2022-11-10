@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28140 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C9720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Next_Generation_Air_Transportation_System> ;
+    skos:prefLabel "Next Generation Air Transportation System" ;
+    skos:related ocs:C11445,
+        ocs:C12641,
+        ocs:C15050,
+        ocs:C15666,
+        ocs:C18229,
+        ocs:C22667,
+        ocs:C23082,
+        ocs:C23477,
+        ocs:C23917,
+        ocs:C25871,
+        ocs:C26034,
+        ocs:C28020,
+        ocs:C29896,
+        ocs:C30040,
+        ocs:C4597,
+        ocs:C4754,
+        ocs:C511 .
+

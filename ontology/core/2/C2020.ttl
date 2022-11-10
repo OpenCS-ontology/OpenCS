@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2020 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Estimated_time_of_arrival> ;
+    skos:prefLabel "Estimated time of arrival" ;
+    skos:related ocs:C15851,
+        ocs:C16352,
+        ocs:C19038,
+        ocs:C21412,
+        ocs:C25072,
+        ocs:C41543,
+        ocs:C4597,
+        ocs:C9241 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14756 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_sanguinea> ;
+    skos:prefLabel "Formica sanguinea" ;
+    skos:related ocs:C13998,
+        ocs:C22675,
+        ocs:C27032,
+        ocs:C29538,
+        ocs:C30349,
+        ocs:C38192 .
+

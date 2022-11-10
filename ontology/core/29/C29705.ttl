@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29705 a skos:Concept ;
+    skos:broader ocs:C16672 ;
+    skos:closeMatch <http://dbpedia.org/resource/V2_word_order> ;
+    skos:prefLabel "V2 word order" ;
+    skos:related ocs:C1034,
+        ocs:C13868,
+        ocs:C15647,
+        ocs:C16672,
+        ocs:C23321,
+        ocs:C24499,
+        ocs:C25696,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C31787,
+        ocs:C33168,
+        ocs:C35238,
+        ocs:C44227,
+        ocs:C4587 .
+

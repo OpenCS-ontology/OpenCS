@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11810 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_communication> ;
+    skos:prefLabel "Organizational communication" ;
+    skos:related ocs:C11026,
+        ocs:C11032,
+        ocs:C5092 .
+

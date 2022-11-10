@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11107 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_meeting_system> ;
+    skos:prefLabel "Electronic meeting system" ;
+    skos:related ocs:C10783,
+        ocs:C11036,
+        ocs:C11682,
+        ocs:C12,
+        ocs:C17594,
+        ocs:C20100,
+        ocs:C22070,
+        ocs:C22668,
+        ocs:C25121,
+        ocs:C2529,
+        ocs:C3444,
+        ocs:C37675,
+        ocs:C420,
+        ocs:C6656,
+        ocs:C672,
+        ocs:C7879,
+        ocs:C8107,
+        ocs:C8869 .
+

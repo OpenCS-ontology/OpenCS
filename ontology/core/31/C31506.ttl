@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31506 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/B2FH_paper> ;
+    skos:prefLabel "B2FH paper" ;
+    skos:related ocs:C16972,
+        ocs:C22014,
+        ocs:C29804,
+        ocs:C31515,
+        ocs:C33412,
+        ocs:C37112,
+        ocs:C37301,
+        ocs:C37677,
+        ocs:C43034,
+        ocs:C44452,
+        ocs:C597 .
+

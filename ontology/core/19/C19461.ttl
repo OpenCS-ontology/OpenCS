@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19461 a skos:Concept ;
+    skos:broader ocs:C4090 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neutral_body_posture> ;
+    skos:prefLabel "Neutral body posture" ;
+    skos:related ocs:C16300,
+        ocs:C21630,
+        ocs:C23570,
+        ocs:C24462,
+        ocs:C2701,
+        ocs:C35642,
+        ocs:C7201 .
+

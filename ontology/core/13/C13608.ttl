@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13608 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_Retrieval_and_Editing_System> ;
+    skos:prefLabel "File Retrieval and Editing System" ;
+    skos:related ocs:C1319,
+        ocs:C1498,
+        ocs:C176,
+        ocs:C17804,
+        ocs:C18734,
+        ocs:C22849,
+        ocs:C24783,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C3469,
+        ocs:C35929,
+        ocs:C3634,
+        ocs:C5702,
+        ocs:C6852,
+        ocs:C8614,
+        ocs:C9709 .
+

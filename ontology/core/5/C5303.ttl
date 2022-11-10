@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5303 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absolute_phase> ;
+    skos:prefLabel "Absolute phase" ;
+    skos:related ocs:C19401,
+        ocs:C21199,
+        ocs:C2803,
+        ocs:C29807,
+        ocs:C44704,
+        ocs:C8502 .
+

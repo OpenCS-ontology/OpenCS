@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1906 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_domain> ;
+    skos:prefLabel "Security domain" ;
+    skos:related ocs:C1147,
+        ocs:C17669,
+        ocs:C39000,
+        ocs:C43900 .
+

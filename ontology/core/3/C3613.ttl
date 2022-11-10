@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3613 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learning_community> ;
+    skos:prefLabel "Learning community" ;
+    skos:related ocs:C10057,
+        ocs:C10225,
+        ocs:C11026,
+        ocs:C12148,
+        ocs:C13047,
+        ocs:C13566,
+        ocs:C15193,
+        ocs:C17471,
+        ocs:C18278,
+        ocs:C21011,
+        ocs:C21674,
+        ocs:C26654,
+        ocs:C29527,
+        ocs:C3057,
+        ocs:C3444 .
+

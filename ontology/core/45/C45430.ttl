@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45430 a skos:Concept ;
+    skos:broader ocs:C30651 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predicate_(mathematical_logic)> ;
+    skos:prefLabel "Predicate (mathematical logic)" ;
+    skos:related ocs:C11771,
+        ocs:C12023,
+        ocs:C14103,
+        ocs:C15965,
+        ocs:C1895,
+        ocs:C20803,
+        ocs:C2418,
+        ocs:C27390,
+        ocs:C41266,
+        ocs:C45295,
+        ocs:C5032,
+        ocs:C5251 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8994 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Replay_system> ;
+    skos:prefLabel "Replay system" ;
+    skos:related ocs:C10320,
+        ocs:C13151,
+        ocs:C15,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C27,
+        ocs:C35108,
+        ocs:C38427,
+        ocs:C39621,
+        ocs:C41469,
+        ocs:C9487,
+        ocs:C9542 .
+

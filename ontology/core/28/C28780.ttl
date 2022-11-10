@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28780 a skos:Concept ;
+    skos:broader ocs:C7909 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phased_array_ultrasonics> ;
+    skos:prefLabel "Phased array ultrasonics" ;
+    skos:related ocs:C20537,
+        ocs:C20878,
+        ocs:C7909 .
+

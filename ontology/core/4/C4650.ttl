@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4650 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linguistic_description> ;
+    skos:prefLabel "Linguistic description" ;
+    skos:related ocs:C1034,
+        ocs:C12110,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C2298,
+        ocs:C308,
+        ocs:C5556,
+        ocs:C8020,
+        ocs:C9777 .
+

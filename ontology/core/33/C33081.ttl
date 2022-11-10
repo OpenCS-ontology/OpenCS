@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33081 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C23077 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-velocity_cloud> ;
+    skos:prefLabel "High-velocity cloud" ;
+    skos:related ocs:C17246,
+        ocs:C19938,
+        ocs:C21056,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C29074,
+        ocs:C31953,
+        ocs:C34069,
+        ocs:C34265,
+        ocs:C34547,
+        ocs:C36708,
+        ocs:C37041 .
+

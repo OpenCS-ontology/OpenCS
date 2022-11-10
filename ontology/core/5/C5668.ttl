@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5668 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Living_systems> ;
+    skos:prefLabel "Living systems" ;
+    skos:related ocs:C11026,
+        ocs:C11143,
+        ocs:C22399,
+        ocs:C2421,
+        ocs:C43743,
+        ocs:C5496,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C9373 .
+

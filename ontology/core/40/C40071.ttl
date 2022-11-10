@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40071 a skos:Concept ;
+    skos:broader ocs:C32393,
+        ocs:C35798,
+        ocs:C36565 ;
+    skos:closeMatch <http://dbpedia.org/resource/British_flag_theorem> ;
+    skos:prefLabel "British flag theorem" ;
+    skos:related ocs:C32462,
+        ocs:C39788 .
+

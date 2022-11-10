@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45126 a skos:Concept ;
+    skos:broader ocs:C29803,
+        ocs:C30405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Burp_suite> ;
+    skos:prefLabel "Burp suite" ;
+    skos:related ocs:C1155,
+        ocs:C12810,
+        ocs:C12825,
+        ocs:C22597,
+        ocs:C28801,
+        ocs:C30405,
+        ocs:C31,
+        ocs:C32485,
+        ocs:C36276,
+        ocs:C36777,
+        ocs:C40510,
+        ocs:C44631,
+        ocs:C45342,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C7465 .
+

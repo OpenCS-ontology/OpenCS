@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30432 a skos:Concept ;
+    skos:broader ocs:C26580 ;
+    skos:closeMatch <http://dbpedia.org/resource/DSL_modem> ;
+    skos:prefLabel "DSL modem" ;
+    skos:related ocs:C13695,
+        ocs:C13786,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C2188,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C26,
+        ocs:C26580,
+        ocs:C27570,
+        ocs:C3,
+        ocs:C34141,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C45182,
+        ocs:C490,
+        ocs:C7857,
+        ocs:C9327 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24639 a skos:Concept ;
+    skos:broader ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_journal> ;
+    skos:prefLabel "Electronic journal" ;
+    skos:related ocs:C10413,
+        ocs:C11462,
+        ocs:C11595,
+        ocs:C12599,
+        ocs:C13698,
+        ocs:C15008,
+        ocs:C23568,
+        ocs:C26424,
+        ocs:C3896,
+        ocs:C5746,
+        ocs:C6,
+        ocs:C6916,
+        ocs:C7849,
+        ocs:C8614,
+        ocs:C9218 .
+

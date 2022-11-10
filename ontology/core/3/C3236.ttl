@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3236 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless> ;
+    skos:prefLabel "Wireless" ;
+    skos:related ocs:C12641,
+        ocs:C12999,
+        ocs:C15728,
+        ocs:C21424,
+        ocs:C2188,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C3,
+        ocs:C35370,
+        ocs:C5369,
+        ocs:C7159,
+        ocs:C7877,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

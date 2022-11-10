@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C579 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contour_set> ;
+    skos:prefLabel "Contour set" ;
+    skos:related ocs:C10392,
+        ocs:C11771,
+        ocs:C32881,
+        ocs:C3578,
+        ocs:C5032 .
+

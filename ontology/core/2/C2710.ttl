@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2710 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peripheral_DMA_controller> ;
+    skos:prefLabel "Peripheral DMA controller" ;
+    skos:related ocs:C12265,
+        ocs:C1243,
+        ocs:C13689,
+        ocs:C17404,
+        ocs:C28016,
+        ocs:C41466,
+        ocs:C543,
+        ocs:C6299,
+        ocs:C9990 .
+

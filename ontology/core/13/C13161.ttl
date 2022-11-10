@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13161 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coprocess> ;
+    skos:prefLabel "Coprocess" ;
+    skos:related ocs:C1,
+        ocs:C11547,
+        ocs:C1345,
+        ocs:C1442,
+        ocs:C15595,
+        ocs:C2014,
+        ocs:C22879,
+        ocs:C25382,
+        ocs:C25960,
+        ocs:C27,
+        ocs:C30,
+        ocs:C3514,
+        ocs:C40787,
+        ocs:C4105,
+        ocs:C5419,
+        ocs:C6,
+        ocs:C8030 .
+

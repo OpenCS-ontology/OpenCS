@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11607 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_culture> ;
+    skos:prefLabel "Security culture" ;
+    skos:related ocs:C5092 .
+

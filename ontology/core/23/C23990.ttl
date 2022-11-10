@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23990 a skos:Concept ;
+    skos:broader ocs:C3639,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foreign_function_interface> ;
+    skos:prefLabel "Foreign function interface" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11927,
+        ocs:C1333,
+        ocs:C1386,
+        ocs:C14350,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C2674,
+        ocs:C28788,
+        ocs:C3176,
+        ocs:C39309,
+        ocs:C43077,
+        ocs:C4321,
+        ocs:C661,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C7236 .
+

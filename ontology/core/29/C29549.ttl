@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29549 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadrantanopia> ;
+    skos:prefLabel "Quadrantanopia" ;
+    skos:related ocs:C11402,
+        ocs:C21487,
+        ocs:C24552,
+        ocs:C32790 .
+

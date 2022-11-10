@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3354 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fully_switched_network> ;
+    skos:prefLabel "Fully switched network" ;
+    skos:related ocs:C13786,
+        ocs:C1398,
+        ocs:C15484,
+        ocs:C15962,
+        ocs:C16310,
+        ocs:C1644,
+        ocs:C18270,
+        ocs:C18745,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C26,
+        ocs:C28850,
+        ocs:C29125,
+        ocs:C30593,
+        ocs:C30797,
+        ocs:C38531,
+        ocs:C39294,
+        ocs:C490 .
+

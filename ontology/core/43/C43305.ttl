@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43305 a skos:Concept ;
+    skos:broader ocs:C31037,
+        ocs:C32484,
+        ocs:C37228 ;
+    skos:closeMatch <http://dbpedia.org/resource/KCDSA> ;
+    skos:prefLabel "KCDSA" ;
+    skos:related ocs:C12450,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C21796,
+        ocs:C23875,
+        ocs:C27571,
+        ocs:C29572,
+        ocs:C31037,
+        ocs:C32484,
+        ocs:C36150,
+        ocs:C37133,
+        ocs:C37228,
+        ocs:C38359,
+        ocs:C38620,
+        ocs:C39034,
+        ocs:C4218,
+        ocs:C43074,
+        ocs:C43187,
+        ocs:C45187,
+        ocs:C7292 .
+

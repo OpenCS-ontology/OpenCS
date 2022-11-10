@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44979 a skos:Concept ;
+    skos:broader ocs:C32807 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lichnerowicz_formula> ;
+    skos:prefLabel "Lichnerowicz formula" ;
+    skos:related ocs:C27666,
+        ocs:C32807,
+        ocs:C34423 .
+

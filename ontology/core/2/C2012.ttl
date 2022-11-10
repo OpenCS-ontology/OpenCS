@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2012 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communications_security> ;
+    skos:prefLabel "Communications security" ;
+    skos:related ocs:C11594,
+        ocs:C1399,
+        ocs:C1502,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C2060,
+        ocs:C24131,
+        ocs:C24312,
+        ocs:C27126,
+        ocs:C3,
+        ocs:C3059,
+        ocs:C35,
+        ocs:C400,
+        ocs:C42170,
+        ocs:C4218,
+        ocs:C4344,
+        ocs:C5692 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29178 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ceilometer> ;
+    skos:prefLabel "Ceilometer" ;
+    skos:related ocs:C16976,
+        ocs:C23424,
+        ocs:C25705,
+        ocs:C28180 .
+

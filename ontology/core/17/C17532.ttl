@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17532 a skos:Concept ;
+    skos:broader ocs:C8700 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rayleigh_wave> ;
+    skos:prefLabel "Rayleigh wave" ;
+    skos:related ocs:C20133,
+        ocs:C8700 .
+

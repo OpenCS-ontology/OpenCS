@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43550 a skos:Concept ;
+    skos:broader ocs:C33528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glass_with_embedded_metal_and_sulfides> ;
+    skos:prefLabel "Glass with embedded metal and sulfides" ;
+    skos:related ocs:C24023,
+        ocs:C33528,
+        ocs:C35690,
+        ocs:C41341,
+        ocs:C42851 .
+

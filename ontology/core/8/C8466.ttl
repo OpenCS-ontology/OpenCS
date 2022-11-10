@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8466 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chunked_transfer_encoding> ;
+    skos:prefLabel "Chunked transfer encoding" ;
+    skos:related ocs:C12055,
+        ocs:C12858,
+        ocs:C12860,
+        ocs:C16338,
+        ocs:C16966,
+        ocs:C17235,
+        ocs:C18213,
+        ocs:C21324,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C2566,
+        ocs:C28480,
+        ocs:C33863,
+        ocs:C355,
+        ocs:C40510,
+        ocs:C40902,
+        ocs:C4641,
+        ocs:C5203,
+        ocs:C8577,
+        ocs:C8771 .
+

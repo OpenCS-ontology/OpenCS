@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34749 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_oracle> ;
+    skos:prefLabel "Random oracle" ;
+    skos:related ocs:C14164,
+        ocs:C16026,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C22099,
+        ocs:C23875,
+        ocs:C29583,
+        ocs:C30340,
+        ocs:C32482,
+        ocs:C37133,
+        ocs:C39146,
+        ocs:C39619,
+        ocs:C40584,
+        ocs:C40692,
+        ocs:C4218,
+        ocs:C43394,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C8401 .
+

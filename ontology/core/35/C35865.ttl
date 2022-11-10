@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35865 a skos:Concept ;
+    skos:broader ocs:C13880,
+        ocs:C25044,
+        ocs:C28340,
+        ocs:C29280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_permutation_matrix> ;
+    skos:prefLabel "Generalized permutation matrix" ;
+    skos:related ocs:C25044 .
+

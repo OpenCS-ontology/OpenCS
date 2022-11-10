@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2927 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low_poly> ;
+    skos:prefLabel "Low poly" ;
+    skos:related ocs:C11689,
+        ocs:C12832,
+        ocs:C15820,
+        ocs:C18519,
+        ocs:C19229,
+        ocs:C19559,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24205,
+        ocs:C25851,
+        ocs:C28061,
+        ocs:C331,
+        ocs:C33277,
+        ocs:C36542,
+        ocs:C38850,
+        ocs:C39921,
+        ocs:C43306,
+        ocs:C8399,
+        ocs:C969 .
+

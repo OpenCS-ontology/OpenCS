@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42180 a skos:Concept ;
+    skos:broader ocs:C33857,
+        ocs:C34537,
+        ocs:C34753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transparent_Data_Encryption> ;
+    skos:prefLabel "Transparent Data Encryption" ;
+    skos:related ocs:C15850,
+        ocs:C17091,
+        ocs:C25176,
+        ocs:C25340,
+        ocs:C26006,
+        ocs:C2674,
+        ocs:C26817,
+        ocs:C28881,
+        ocs:C33857,
+        ocs:C35171,
+        ocs:C39432,
+        ocs:C41813,
+        ocs:C42884,
+        ocs:C5493,
+        ocs:C5692,
+        ocs:C6,
+        ocs:C8690 .
+

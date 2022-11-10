@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8968 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Korean_pronouns> ;
+    skos:prefLabel "Korean pronouns" ;
+    skos:related ocs:C10760,
+        ocs:C12270,
+        ocs:C15012,
+        ocs:C18700,
+        ocs:C20870,
+        ocs:C22843,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C29067 .
+

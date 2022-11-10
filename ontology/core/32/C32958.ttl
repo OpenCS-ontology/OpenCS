@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32958 a skos:Concept ;
+    skos:broader ocs:C24844 ;
+    skos:closeMatch <http://dbpedia.org/resource/ARINC_653> ;
+    skos:prefLabel "ARINC 653" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C15595,
+        ocs:C16709,
+        ocs:C18469,
+        ocs:C22647,
+        ocs:C24844,
+        ocs:C2674,
+        ocs:C26769,
+        ocs:C33,
+        ocs:C36472,
+        ocs:C40272,
+        ocs:C42151,
+        ocs:C511,
+        ocs:C5912,
+        ocs:C8704,
+        ocs:C9,
+        ocs:C9262 .
+

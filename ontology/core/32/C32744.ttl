@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32744 a skos:Concept ;
+    skos:broader ocs:C22667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primary_flight_display> ;
+    skos:prefLabel "Primary flight display" ;
+    skos:related ocs:C13683,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C21142,
+        ocs:C2256,
+        ocs:C24485,
+        ocs:C25753,
+        ocs:C30597,
+        ocs:C31202,
+        ocs:C36804,
+        ocs:C40097,
+        ocs:C43975,
+        ocs:C5030,
+        ocs:C511,
+        ocs:C5913 .
+

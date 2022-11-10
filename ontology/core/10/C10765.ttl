@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10765 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/STM-1> ;
+    skos:prefLabel "STM-1" ;
+    skos:related ocs:C15589,
+        ocs:C20934,
+        ocs:C24781,
+        ocs:C25250,
+        ocs:C3,
+        ocs:C39018,
+        ocs:C42820,
+        ocs:C5997,
+        ocs:C7340,
+        ocs:C8567 .
+

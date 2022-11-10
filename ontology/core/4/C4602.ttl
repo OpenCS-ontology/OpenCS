@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4602 a skos:Concept ;
+    skos:broader ocs:C32,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watson_(computer)> ;
+    skos:prefLabel "Watson" ;
+    skos:related ocs:C11874,
+        ocs:C12696,
+        ocs:C12977,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C26030,
+        ocs:C32,
+        ocs:C44765,
+        ocs:C6531,
+        ocs:C685,
+        ocs:C7735,
+        ocs:C8,
+        ocs:C9609,
+        ocs:C9655,
+        ocs:C9874 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24219 a skos:Concept ;
+    skos:broader ocs:C3837,
+        ocs:C5423,
+        ocs:C6761 ;
+    skos:prefLabel "Computer Heuristics" ;
+    skos:related ocs:C1,
+        ocs:C5423 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24755 a skos:Concept ;
+    skos:broader ocs:C12332,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Landauer's_principle> ;
+    skos:prefLabel "Landauer's principle" ;
+    skos:related ocs:C22399,
+        ocs:C3731,
+        ocs:C39363,
+        ocs:C42418,
+        ocs:C42951,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C597 .
+

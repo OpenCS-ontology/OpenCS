@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24383 a skos:Concept ;
+    skos:broader ocs:C11089,
+        ocs:C2216,
+        ocs:C2884,
+        ocs:C8953,
+        ocs:C9781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Query_likelihood_model> ;
+    skos:prefLabel "Query likelihood model" ;
+    skos:related ocs:C11317,
+        ocs:C11722,
+        ocs:C14030,
+        ocs:C1561,
+        ocs:C15908,
+        ocs:C16799,
+        ocs:C23,
+        ocs:C2874,
+        ocs:C2884,
+        ocs:C29486,
+        ocs:C31312,
+        ocs:C39236,
+        ocs:C39578,
+        ocs:C39815,
+        ocs:C40655,
+        ocs:C45643,
+        ocs:C6021,
+        ocs:C9287 .
+

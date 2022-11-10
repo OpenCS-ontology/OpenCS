@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19194 a skos:Concept ;
+    skos:broader ocs:C5852 ;
+    skos:closeMatch <http://dbpedia.org/resource/ALPAC> ;
+    skos:prefLabel "ALPAC" ;
+    skos:related ocs:C10001,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1339,
+        ocs:C16,
+        ocs:C24011,
+        ocs:C32,
+        ocs:C34808,
+        ocs:C35137,
+        ocs:C3612,
+        ocs:C39236,
+        ocs:C4269,
+        ocs:C5852,
+        ocs:C685,
+        ocs:C8,
+        ocs:C9173,
+        ocs:C961,
+        ocs:C9845 .
+

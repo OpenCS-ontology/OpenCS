@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44161 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/OWL-S> ;
+    skos:prefLabel "OWL-S" ;
+    skos:related ocs:C12977,
+        ocs:C16356,
+        ocs:C18111,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28809,
+        ocs:C30659,
+        ocs:C32788,
+        ocs:C35570,
+        ocs:C37883,
+        ocs:C39278,
+        ocs:C39643,
+        ocs:C40004,
+        ocs:C40042,
+        ocs:C40821,
+        ocs:C41204,
+        ocs:C41864,
+        ocs:C42885,
+        ocs:C44014,
+        ocs:C6553 .
+

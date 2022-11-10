@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2671 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_design> ;
+    skos:prefLabel "Test design" ;
+    skos:related ocs:C12098,
+        ocs:C13313,
+        ocs:C14372,
+        ocs:C18415,
+        ocs:C18784,
+        ocs:C20063,
+        ocs:C26339,
+        ocs:C26460,
+        ocs:C29422,
+        ocs:C30215,
+        ocs:C31890,
+        ocs:C36468,
+        ocs:C36470,
+        ocs:C39614,
+        ocs:C40291,
+        ocs:C42333,
+        ocs:C45809,
+        ocs:C7053,
+        ocs:C8895 .
+

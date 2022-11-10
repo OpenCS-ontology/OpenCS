@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25459 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C1057,
+        ocs:C7658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normalized_compression_distance> ;
+    skos:prefLabel "Normalized compression distance" ;
+    skos:related ocs:C10382,
+        ocs:C1057,
+        ocs:C11030,
+        ocs:C13719,
+        ocs:C13806,
+        ocs:C25937,
+        ocs:C26256,
+        ocs:C29,
+        ocs:C32077,
+        ocs:C3389,
+        ocs:C34809,
+        ocs:C38984,
+        ocs:C5816,
+        ocs:C6880,
+        ocs:C7658,
+        ocs:C8710,
+        ocs:C9428 .
+

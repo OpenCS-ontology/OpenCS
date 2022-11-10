@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7701 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/XAP_Home_Automation_protocol> ;
+    skos:prefLabel "xAP Home Automation protocol" ;
+    skos:related ocs:C10066,
+        ocs:C11153,
+        ocs:C12442,
+        ocs:C14858,
+        ocs:C17404,
+        ocs:C20231,
+        ocs:C21424,
+        ocs:C2316,
+        ocs:C29904,
+        ocs:C38589,
+        ocs:C40074,
+        ocs:C43772,
+        ocs:C6451,
+        ocs:C9217 .
+

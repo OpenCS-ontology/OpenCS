@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C473 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_sharing> ;
+    skos:prefLabel "Information sharing" ;
+    skos:related ocs:C10225,
+        ocs:C10764,
+        ocs:C11886,
+        ocs:C1399,
+        ocs:C17794,
+        ocs:C19693,
+        ocs:C197,
+        ocs:C22668,
+        ocs:C24688,
+        ocs:C25145,
+        ocs:C25464,
+        ocs:C26014,
+        ocs:C31,
+        ocs:C34696,
+        ocs:C6185,
+        ocs:C6757,
+        ocs:C8614 .
+

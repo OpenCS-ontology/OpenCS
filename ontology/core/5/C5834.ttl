@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5834 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Employee_monitoring> ;
+    skos:prefLabel "Employee monitoring" ;
+    skos:related ocs:C13306,
+        ocs:C35277,
+        ocs:C42769,
+        ocs:C44290,
+        ocs:C4984,
+        ocs:C9328 .
+

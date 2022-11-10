@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18525 a skos:Concept ;
+    skos:broader ocs:C5843,
+        ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Headphone_amplifier> ;
+    skos:prefLabel "Headphone amplifier" ;
+    skos:related ocs:C13265,
+        ocs:C1490,
+        ocs:C25195,
+        ocs:C3022,
+        ocs:C41896,
+        ocs:C5843,
+        ocs:C8291 .
+

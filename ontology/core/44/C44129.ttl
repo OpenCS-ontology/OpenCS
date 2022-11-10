@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44129 a skos:Concept ;
+    skos:broader ocs:C36759 ;
+    skos:closeMatch <http://dbpedia.org/resource/Siegel_disc> ;
+    skos:prefLabel "Siegel disc" ;
+    skos:related ocs:C17729,
+        ocs:C28170,
+        ocs:C42397,
+        ocs:C5867 .
+

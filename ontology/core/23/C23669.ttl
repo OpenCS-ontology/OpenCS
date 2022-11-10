@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23669 a skos:Concept ;
+    skos:broader ocs:C2005,
+        ocs:C7021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadratic_classifier> ;
+    skos:prefLabel "Quadratic classifier" ;
+    skos:related ocs:C11030,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C22260,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C28179,
+        ocs:C28523,
+        ocs:C32289,
+        ocs:C3512,
+        ocs:C41275,
+        ocs:C4256,
+        ocs:C6021,
+        ocs:C9022,
+        ocs:C9538 .
+

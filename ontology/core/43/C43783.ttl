@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43783 a skos:Concept ;
+    skos:broader ocs:C31150,
+        ocs:C36043,
+        ocs:C36670 ;
+    skos:closeMatch <http://dbpedia.org/resource/PSK31> ;
+    skos:prefLabel "PSK31" ;
+    skos:related ocs:C10826,
+        ocs:C11669,
+        ocs:C12349,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C21987,
+        ocs:C26814,
+        ocs:C29419,
+        ocs:C3044,
+        ocs:C3310,
+        ocs:C36766,
+        ocs:C42720,
+        ocs:C44707,
+        ocs:C45495,
+        ocs:C6034,
+        ocs:C8147 .
+

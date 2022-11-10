@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11614 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unicode_collation_algorithm> ;
+    skos:prefLabel "Unicode collation algorithm" ;
+    skos:related ocs:C1861,
+        ocs:C20976,
+        ocs:C25565,
+        ocs:C38852,
+        ocs:C38927,
+        ocs:C39360,
+        ocs:C40144,
+        ocs:C5126,
+        ocs:C5620,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C6505,
+        ocs:C8713,
+        ocs:C9162 .
+

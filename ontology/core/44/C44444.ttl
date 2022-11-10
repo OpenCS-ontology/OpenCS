@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44444 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_graph> ;
+    skos:prefLabel "Universal graph" ;
+    skos:related ocs:C14693,
+        ocs:C15414,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C27330,
+        ocs:C30730,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37912,
+        ocs:C38981,
+        ocs:C39263,
+        ocs:C40638,
+        ocs:C41585,
+        ocs:C42813,
+        ocs:C42822,
+        ocs:C42872,
+        ocs:C43374,
+        ocs:C43652,
+        ocs:C43667 .
+

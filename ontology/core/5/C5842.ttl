@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5842 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_Ratchet_Algorithm> ;
+    skos:prefLabel "Double Ratchet Algorithm" ;
+    skos:related ocs:C13991,
+        ocs:C16125,
+        ocs:C20243,
+        ocs:C23666,
+        ocs:C23855,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C30469,
+        ocs:C30656,
+        ocs:C31365,
+        ocs:C35146,
+        ocs:C38359,
+        ocs:C39389,
+        ocs:C40332,
+        ocs:C41598,
+        ocs:C4218,
+        ocs:C4225,
+        ocs:C42490,
+        ocs:C44443,
+        ocs:C45281 .
+

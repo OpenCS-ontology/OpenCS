@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5127 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circuit_design> ;
+    skos:prefLabel "Circuit design" ;
+    skos:related ocs:C10666,
+        ocs:C10965,
+        ocs:C13747,
+        ocs:C254,
+        ocs:C27883,
+        ocs:C28343,
+        ocs:C5336,
+        ocs:C6797 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45411 a skos:Concept ;
+    skos:broader ocs:C30728,
+        ocs:C31794,
+        ocs:C32700,
+        ocs:C34748,
+        ocs:C37294 ;
+    skos:prefLabel "Orthogonal space division multiplexing" .
+

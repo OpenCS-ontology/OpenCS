@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3740 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iterative_reconstruction> ;
+    skos:prefLabel "Iterative reconstruction" ;
+    skos:related ocs:C10,
+        ocs:C11253,
+        ocs:C13682,
+        ocs:C20259,
+        ocs:C22614,
+        ocs:C3032,
+        ocs:C34313,
+        ocs:C751 .
+

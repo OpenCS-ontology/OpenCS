@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8634 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nano_brain> ;
+    skos:prefLabel "Nano brain" ;
+    skos:related ocs:C10676,
+        ocs:C10934,
+        ocs:C122,
+        ocs:C1940,
+        ocs:C24859,
+        ocs:C27,
+        ocs:C2728,
+        ocs:C29276,
+        ocs:C33617,
+        ocs:C7735,
+        ocs:C8566,
+        ocs:C941 .
+

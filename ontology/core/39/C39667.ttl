@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39667 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field_arithmetic> ;
+    skos:prefLabel "Field arithmetic" ;
+    skos:related ocs:C30801,
+        ocs:C40563,
+        ocs:C40857,
+        ocs:C8635 .
+

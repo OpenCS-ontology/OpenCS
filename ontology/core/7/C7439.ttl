@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7439 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event_dispatching_thread> ;
+    skos:prefLabel "Event dispatching thread" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C11084,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C14627,
+        ocs:C14632,
+        ocs:C17123,
+        ocs:C20899,
+        ocs:C22284,
+        ocs:C22903,
+        ocs:C26102,
+        ocs:C26700,
+        ocs:C28944,
+        ocs:C2983,
+        ocs:C32547,
+        ocs:C39149,
+        ocs:C45142,
+        ocs:C5702 .
+

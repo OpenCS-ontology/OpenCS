@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7021 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classifier_(linguistics)> ;
+    skos:prefLabel "Classifier (linguistics)" ;
+    skos:related ocs:C11932,
+        ocs:C12270,
+        ocs:C12689,
+        ocs:C16424,
+        ocs:C17262,
+        ocs:C1952,
+        ocs:C23243,
+        ocs:C23681,
+        ocs:C24499,
+        ocs:C24893,
+        ocs:C25559,
+        ocs:C26816,
+        ocs:C29296,
+        ocs:C32159,
+        ocs:C4755,
+        ocs:C8454 .
+

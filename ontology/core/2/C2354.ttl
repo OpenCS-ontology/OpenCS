@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2354 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fault_model> ;
+    skos:prefLabel "Fault model" ;
+    skos:related ocs:C10920,
+        ocs:C11613,
+        ocs:C15173,
+        ocs:C15398,
+        ocs:C19673,
+        ocs:C210,
+        ocs:C22699,
+        ocs:C24204,
+        ocs:C254,
+        ocs:C3177,
+        ocs:C32360,
+        ocs:C35540,
+        ocs:C41110,
+        ocs:C6534 .
+

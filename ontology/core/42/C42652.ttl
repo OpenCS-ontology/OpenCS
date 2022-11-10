@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42652 a skos:Concept ;
+    skos:broader ocs:C31781,
+        ocs:C32347,
+        ocs:C33035,
+        ocs:C33304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Action_axiom> ;
+    skos:prefLabel "Action axiom" ;
+    skos:related ocs:C1393,
+        ocs:C22495,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C36383,
+        ocs:C3753,
+        ocs:C41130,
+        ocs:C45297,
+        ocs:C7652,
+        ocs:C9608 .
+

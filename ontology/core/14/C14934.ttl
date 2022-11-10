@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14934 a skos:Concept ;
+    skos:broader ocs:C5334 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha_acid> ;
+    skos:prefLabel "Alpha acid" ;
+    skos:related ocs:C15827,
+        ocs:C16638,
+        ocs:C20311,
+        ocs:C24126 .
+

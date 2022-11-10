@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37941 a skos:Concept ;
+    skos:broader ocs:C31884,
+        ocs:C32333,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hopcroft–Karp_algorithm> ;
+    skos:prefLabel "Hopcroft–Karp algorithm" ;
+    skos:related ocs:C12509,
+        ocs:C16033,
+        ocs:C17158,
+        ocs:C19336,
+        ocs:C24154,
+        ocs:C30245,
+        ocs:C31884,
+        ocs:C39895,
+        ocs:C40560,
+        ocs:C41731,
+        ocs:C42302,
+        ocs:C43037,
+        ocs:C43466,
+        ocs:C4966,
+        ocs:C5244,
+        ocs:C5691,
+        ocs:C8660 .
+

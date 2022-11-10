@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38348 a skos:Concept ;
+    skos:broader ocs:C29638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basa_fish> ;
+    skos:prefLabel "Basa fish" ;
+    skos:related ocs:C24236,
+        ocs:C29621,
+        ocs:C29638,
+        ocs:C32611,
+        ocs:C32617,
+        ocs:C36214,
+        ocs:C39959,
+        ocs:C40766,
+        ocs:C43000 .
+

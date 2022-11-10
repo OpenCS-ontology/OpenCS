@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18170 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strang_splitting> ;
+    skos:prefLabel "Strang splitting" ;
+    skos:related ocs:C20390,
+        ocs:C20699,
+        ocs:C31018,
+        ocs:C33011 .
+

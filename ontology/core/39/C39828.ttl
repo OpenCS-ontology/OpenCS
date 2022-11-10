@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39828 a skos:Concept ;
+    skos:broader ocs:C33380,
+        ocs:C35223,
+        ocs:C35539 ;
+    skos:prefLabel "Exponential correlation associative memory" .
+

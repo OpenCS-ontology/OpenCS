@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10104 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_product_team> ;
+    skos:prefLabel "Integrated product team" ;
+    skos:related ocs:C11659,
+        ocs:C16894,
+        ocs:C18274,
+        ocs:C2214,
+        ocs:C23314,
+        ocs:C23394,
+        ocs:C29840,
+        ocs:C31890,
+        ocs:C3674,
+        ocs:C4280,
+        ocs:C4768,
+        ocs:C609 .
+

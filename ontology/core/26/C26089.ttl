@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26089 a skos:Concept ;
+    skos:broader ocs:C2110 ;
+    skos:closeMatch <http://dbpedia.org/resource/SI_derived_unit> ;
+    skos:prefLabel "SI derived unit" ;
+    skos:related ocs:C20535,
+        ocs:C2110,
+        ocs:C597,
+        ocs:C8388 .
+

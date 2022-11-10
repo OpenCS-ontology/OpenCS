@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43878 a skos:Concept ;
+    skos:broader ocs:C32478,
+        ocs:C34121,
+        ocs:C37012 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rectifier_(neural_networks)> ;
+    skos:prefLabel "Rectifier (neural networks)" ;
+    skos:related ocs:C14221,
+        ocs:C17261,
+        ocs:C18982,
+        ocs:C20067,
+        ocs:C20377,
+        ocs:C21723,
+        ocs:C22089,
+        ocs:C25,
+        ocs:C30243,
+        ocs:C30532,
+        ocs:C3063,
+        ocs:C31955,
+        ocs:C32651,
+        ocs:C34002,
+        ocs:C34289,
+        ocs:C34814,
+        ocs:C3572,
+        ocs:C8,
+        ocs:C9022 .
+

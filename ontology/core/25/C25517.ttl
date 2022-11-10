@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25517 a skos:Concept ;
+    skos:broader ocs:C5292 ;
+    skos:closeMatch <http://dbpedia.org/resource/Screen-labeled_function_keys> ;
+    skos:prefLabel "Screen-labeled function keys" ;
+    skos:related ocs:C10270,
+        ocs:C10368,
+        ocs:C1042,
+        ocs:C12815,
+        ocs:C13821,
+        ocs:C14063,
+        ocs:C15282,
+        ocs:C15500,
+        ocs:C16740,
+        ocs:C21142,
+        ocs:C26343,
+        ocs:C4503,
+        ocs:C4703,
+        ocs:C4723,
+        ocs:C9446 .
+

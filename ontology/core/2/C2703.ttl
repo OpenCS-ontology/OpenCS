@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2703 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photogrammetry> ;
+    skos:prefLabel "Photogrammetry" ;
+    skos:related ocs:C12309,
+        ocs:C12641,
+        ocs:C25756,
+        ocs:C2883,
+        ocs:C7,
+        ocs:C8399 .
+

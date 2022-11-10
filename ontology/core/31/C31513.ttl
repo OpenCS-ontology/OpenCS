@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31513 a skos:Concept ;
+    skos:broader ocs:C21201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constant_folding> ;
+    skos:prefLabel "Constant folding" ;
+    skos:related ocs:C12257,
+        ocs:C17204,
+        ocs:C18272,
+        ocs:C19,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C27080,
+        ocs:C27709,
+        ocs:C29056,
+        ocs:C30086,
+        ocs:C32227,
+        ocs:C37970,
+        ocs:C39526,
+        ocs:C40088,
+        ocs:C41661,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C6072,
+        ocs:C6714 .
+

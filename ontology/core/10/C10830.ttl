@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10830 a skos:Concept ;
+    skos:broader ocs:C5 ;
+    skos:prefLabel "Look-alike drug" ;
+    skos:related ocs:C5 .
+

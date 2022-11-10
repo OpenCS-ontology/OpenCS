@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43428 a skos:Concept ;
+    skos:broader ocs:C33104,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_engineering> ;
+    skos:prefLabel "Security engineering" ;
+    skos:related ocs:C1,
+        ocs:C10330,
+        ocs:C1399,
+        ocs:C17856,
+        ocs:C25176,
+        ocs:C28530,
+        ocs:C33104,
+        ocs:C35,
+        ocs:C35995,
+        ocs:C39565,
+        ocs:C4218,
+        ocs:C6031,
+        ocs:C699,
+        ocs:C8711,
+        ocs:C9489 .
+

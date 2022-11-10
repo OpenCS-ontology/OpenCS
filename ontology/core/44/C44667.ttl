@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44667 a skos:Concept ;
+    skos:broader ocs:C31027,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/DOS_memory_management> ;
+    skos:prefLabel "DOS memory management" ;
+    skos:related ocs:C10568,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C27025,
+        ocs:C28881,
+        ocs:C3089,
+        ocs:C31027,
+        ocs:C33174,
+        ocs:C3320,
+        ocs:C37847,
+        ocs:C43625,
+        ocs:C45812,
+        ocs:C5147,
+        ocs:C6542,
+        ocs:C7647,
+        ocs:C9,
+        ocs:C923 .
+

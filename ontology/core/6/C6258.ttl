@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6258 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Caret> ;
+    skos:prefLabel "Caret" ;
+    skos:related ocs:C11149,
+        ocs:C12983,
+        ocs:C14649,
+        ocs:C18434,
+        ocs:C19,
+        ocs:C23560,
+        ocs:C39526,
+        ocs:C5126,
+        ocs:C7671,
+        ocs:C8899,
+        ocs:C9162 .
+

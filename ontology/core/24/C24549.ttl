@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24549 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structural_priming> ;
+    skos:prefLabel "Structural priming" ;
+    skos:related ocs:C13716,
+        ocs:C14477,
+        ocs:C29291,
+        ocs:C30478,
+        ocs:C32426,
+        ocs:C34379,
+        ocs:C34616,
+        ocs:C4270 .
+

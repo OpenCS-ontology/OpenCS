@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14986 a skos:Concept ;
+    skos:broader ocs:C3515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Undecidable_problem> ;
+    skos:prefLabel "Undecidable problem" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12474,
+        ocs:C20939,
+        ocs:C22100,
+        ocs:C2418,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C34319,
+        ocs:C3678,
+        ocs:C39944,
+        ocs:C43294,
+        ocs:C524,
+        ocs:C8660 .
+

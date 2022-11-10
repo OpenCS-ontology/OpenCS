@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41314 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_development_effort_estimation> ;
+    skos:prefLabel "Software development effort estimation" ;
+    skos:related ocs:C28,
+        ocs:C28080,
+        ocs:C29427,
+        ocs:C37174,
+        ocs:C37672,
+        ocs:C38478,
+        ocs:C39588,
+        ocs:C42395,
+        ocs:C42657,
+        ocs:C43494,
+        ocs:C43715,
+        ocs:C45366,
+        ocs:C45378,
+        ocs:C6116,
+        ocs:C6647 .
+

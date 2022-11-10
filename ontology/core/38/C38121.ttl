@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38121 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distance-regular_graph> ;
+    skos:prefLabel "Distance-regular graph" ;
+    skos:related ocs:C14693,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C37036,
+        ocs:C38321,
+        ocs:C38434,
+        ocs:C38889,
+        ocs:C38998,
+        ocs:C39615,
+        ocs:C39730,
+        ocs:C40560,
+        ocs:C40817,
+        ocs:C41628,
+        ocs:C42281,
+        ocs:C42872,
+        ocs:C44281,
+        ocs:C44935,
+        ocs:C45277,
+        ocs:C45361 .
+

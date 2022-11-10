@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6358 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Euphorbia_origanoides> ;
+    skos:prefLabel "Euphorbia origanoides" ;
+    skos:related ocs:C13575,
+        ocs:C1563,
+        ocs:C7350 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16312 a skos:Concept ;
+    skos:broader ocs:C11188,
+        ocs:C11389 ;
+    skos:prefLabel "Redundancy payment" ;
+    skos:related ocs:C26694,
+        ocs:C5746 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7859 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_chess> ;
+    skos:prefLabel "Business chess" ;
+    skos:related ocs:C10616,
+        ocs:C11026,
+        ocs:C21286,
+        ocs:C8,
+        ocs:C8452,
+        ocs:C9373,
+        ocs:C9516 .
+

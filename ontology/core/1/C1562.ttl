@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1562 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_essay_scoring> ;
+    skos:prefLabel "Automated essay scoring" ;
+    skos:related ocs:C1132,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1842,
+        ocs:C23070,
+        ocs:C2468,
+        ocs:C27459,
+        ocs:C312,
+        ocs:C32,
+        ocs:C38887,
+        ocs:C42910,
+        ocs:C8,
+        ocs:C8965,
+        ocs:C9287 .
+

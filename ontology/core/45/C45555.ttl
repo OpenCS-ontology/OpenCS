@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45555 a skos:Concept ;
+    skos:broader ocs:C35657,
+        ocs:C36970 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lyapunov_optimization> ;
+    skos:prefLabel "Lyapunov optimization" ;
+    skos:related ocs:C12373,
+        ocs:C27053,
+        ocs:C28698,
+        ocs:C31015,
+        ocs:C35234,
+        ocs:C39684,
+        ocs:C43525,
+        ocs:C45179,
+        ocs:C7689 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3817 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chan's_algorithm> ;
+    skos:prefLabel "Chan's algorithm" ;
+    skos:related ocs:C10,
+        ocs:C14093,
+        ocs:C28240,
+        ocs:C31148,
+        ocs:C31465,
+        ocs:C42396,
+        ocs:C5050,
+        ocs:C611,
+        ocs:C6279,
+        ocs:C8271,
+        ocs:C8660 .
+

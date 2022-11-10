@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11372 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Travelling_salesman_problem> ;
+    skos:prefLabel "Travelling salesman problem" ;
+    skos:related ocs:C11701,
+        ocs:C12530,
+        ocs:C17588,
+        ocs:C21308,
+        ocs:C23250,
+        ocs:C2425,
+        ocs:C29108,
+        ocs:C30401,
+        ocs:C31629,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C3837,
+        ocs:C41731,
+        ocs:C5823,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C8660,
+        ocs:C8944,
+        ocs:C9264 .
+

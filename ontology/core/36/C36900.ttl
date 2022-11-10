@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36900 a skos:Concept ;
+    skos:broader ocs:C21424 ;
+    skos:closeMatch <http://dbpedia.org/resource/Piconet> ;
+    skos:prefLabel "Piconet" ;
+    skos:related ocs:C12229,
+        ocs:C12698,
+        ocs:C15832,
+        ocs:C17976,
+        ocs:C20483,
+        ocs:C21424,
+        ocs:C27532,
+        ocs:C30767,
+        ocs:C3236,
+        ocs:C34429,
+        ocs:C35370,
+        ocs:C35796,
+        ocs:C37942,
+        ocs:C39859,
+        ocs:C4702,
+        ocs:C5843,
+        ocs:C9113 .
+

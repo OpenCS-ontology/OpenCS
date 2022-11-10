@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40683 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protogalaxy> ;
+    skos:prefLabel "Protogalaxy" ;
+    skos:related ocs:C17246,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C34547,
+        ocs:C36635,
+        ocs:C597 .
+

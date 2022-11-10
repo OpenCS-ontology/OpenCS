@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32035 a skos:Concept ;
+    skos:broader ocs:C25789 ;
+    skos:prefLabel "Falco pelegrinoides" ;
+    skos:related ocs:C25789,
+        ocs:C37454,
+        ocs:C7114 .
+

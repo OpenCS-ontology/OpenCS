@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30857 a skos:Concept ;
+    skos:broader ocs:C18001,
+        ocs:C19230,
+        ocs:C22101,
+        ocs:C25850 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadrature_modulation> ;
+    skos:prefLabel "Quadrature modulation" ;
+    skos:related ocs:C10083,
+        ocs:C14053,
+        ocs:C16694,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C19492,
+        ocs:C23548,
+        ocs:C25850,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C29007,
+        ocs:C34089,
+        ocs:C34890,
+        ocs:C37266,
+        ocs:C38024,
+        ocs:C44707,
+        ocs:C7502 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4206 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Law_of_excluded_middle> ;
+    skos:prefLabel "Law of excluded middle" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C12474,
+        ocs:C21328,
+        ocs:C2411,
+        ocs:C26760,
+        ocs:C2978,
+        ocs:C32129,
+        ocs:C41181,
+        ocs:C42757,
+        ocs:C43271,
+        ocs:C43307,
+        ocs:C45548,
+        ocs:C5714,
+        ocs:C8077 .
+

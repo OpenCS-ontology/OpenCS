@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C688 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Don't_repeat_yourself> ;
+    skos:prefLabel "Don't repeat yourself" ;
+    skos:related ocs:C10720,
+        ocs:C2057,
+        ocs:C2414,
+        ocs:C24453,
+        ocs:C25957,
+        ocs:C28080,
+        ocs:C3850,
+        ocs:C427,
+        ocs:C42972,
+        ocs:C43670,
+        ocs:C43773,
+        ocs:C44346,
+        ocs:C44528,
+        ocs:C4558,
+        ocs:C7395,
+        ocs:C7511,
+        ocs:C9033 .
+

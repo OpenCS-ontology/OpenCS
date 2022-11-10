@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9747 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peer-to-peer_banking> ;
+    skos:prefLabel "Peer-to-peer banking" ;
+    skos:related ocs:C12599,
+        ocs:C15671,
+        ocs:C22671,
+        ocs:C4866,
+        ocs:C8614 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14997 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wave_front_set> ;
+    skos:prefLabel "Wave front set" ;
+    skos:related ocs:C14918,
+        ocs:C27444,
+        ocs:C29794,
+        ocs:C34116,
+        ocs:C40469,
+        ocs:C41157 .
+

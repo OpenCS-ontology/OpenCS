@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16898 a skos:Concept ;
+    skos:broader ocs:C4754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_operational_picture> ;
+    skos:prefLabel "Common operational picture" ;
+    skos:related ocs:C11382,
+        ocs:C11886,
+        ocs:C1502,
+        ocs:C15046,
+        ocs:C15783,
+        ocs:C2139,
+        ocs:C35987,
+        ocs:C4754,
+        ocs:C9224 .
+

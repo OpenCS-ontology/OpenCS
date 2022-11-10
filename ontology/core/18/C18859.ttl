@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18859 a skos:Concept ;
+    skos:broader ocs:C6221,
+        ocs:C9538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sufficient_dimension_reduction> ;
+    skos:prefLabel "Sufficient dimension reduction" ;
+    skos:related ocs:C10138,
+        ocs:C19099,
+        ocs:C20383,
+        ocs:C25862,
+        ocs:C27652,
+        ocs:C27703,
+        ocs:C31627,
+        ocs:C39273,
+        ocs:C4256,
+        ocs:C5499,
+        ocs:C6912,
+        ocs:C9538 .
+

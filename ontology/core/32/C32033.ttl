@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32033 a skos:Concept ;
+    skos:broader ocs:C15473,
+        ocs:C20864 ;
+    skos:prefLabel "Callirhytis" ;
+    skos:related ocs:C20864,
+        ocs:C22892,
+        ocs:C27082 .
+

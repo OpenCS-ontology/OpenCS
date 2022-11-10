@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25276 a skos:Concept ;
+    skos:broader ocs:C3338,
+        ocs:C8021,
+        ocs:C9380 ;
+    skos:prefLabel "Radiometric normalization" .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4330 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Well_equidistributed_long-period_linear> ;
+    skos:prefLabel "Well equidistributed long-period linear" ;
+    skos:related ocs:C13156,
+        ocs:C16361,
+        ocs:C21284,
+        ocs:C24912,
+        ocs:C25322,
+        ocs:C255,
+        ocs:C40553,
+        ocs:C41667,
+        ocs:C5072,
+        ocs:C6817,
+        ocs:C9699 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31637 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Developmental_linguistics> ;
+    skos:prefLabel "Developmental linguistics" ;
+    skos:related ocs:C1034,
+        ocs:C12696,
+        ocs:C1299,
+        ocs:C13210,
+        ocs:C2761,
+        ocs:C30531,
+        ocs:C32426,
+        ocs:C34354,
+        ocs:C9777 .
+

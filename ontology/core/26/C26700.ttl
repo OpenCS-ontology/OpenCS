@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26700 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C5702,
+        ocs:C7736 ;
+    skos:closeMatch <http://dbpedia.org/resource/Widget_toolkit> ;
+    skos:prefLabel "Widget toolkit" ;
+    skos:related ocs:C10720,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C24143,
+        ocs:C24235,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C2946,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C32547,
+        ocs:C5034,
+        ocs:C5702,
+        ocs:C7236,
+        ocs:C7293,
+        ocs:C813,
+        ocs:C9 .
+

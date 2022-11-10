@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41976 a skos:Concept ;
+    skos:broader ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fast_Infoset> ;
+    skos:prefLabel "Fast Infoset" ;
+    skos:related ocs:C11927,
+        ocs:C13252,
+        ocs:C13718,
+        ocs:C23709,
+        ocs:C24486,
+        ocs:C29603,
+        ocs:C39253,
+        ocs:C40546,
+        ocs:C43651,
+        ocs:C44479,
+        ocs:C45472,
+        ocs:C8144 .
+

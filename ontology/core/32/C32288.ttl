@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32288 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/ElGamal_encryption> ;
+    skos:prefLabel "ElGamal encryption" ;
+    skos:related ocs:C10056,
+        ocs:C16125,
+        ocs:C21288,
+        ocs:C22099,
+        ocs:C31037,
+        ocs:C32482,
+        ocs:C32484,
+        ocs:C34794,
+        ocs:C35391,
+        ocs:C35600,
+        ocs:C36434,
+        ocs:C38359,
+        ocs:C39146,
+        ocs:C39645,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43183,
+        ocs:C43187,
+        ocs:C44466,
+        ocs:C45673 .
+

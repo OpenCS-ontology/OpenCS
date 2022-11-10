@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23505 a skos:Concept ;
+    skos:broader ocs:C12694 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operational_data_store> ;
+    skos:prefLabel "Operational data store" ;
+    skos:related ocs:C10444,
+        ocs:C10979,
+        ocs:C12274,
+        ocs:C12694,
+        ocs:C12761,
+        ocs:C13,
+        ocs:C13767,
+        ocs:C1392,
+        ocs:C14239,
+        ocs:C17208,
+        ocs:C20148,
+        ocs:C20446,
+        ocs:C22879,
+        ocs:C25950,
+        ocs:C27200,
+        ocs:C29695,
+        ocs:C3034,
+        ocs:C35459,
+        ocs:C36510,
+        ocs:C6 .
+

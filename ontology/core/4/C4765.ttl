@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4765 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ask_a_Librarian> ;
+    skos:prefLabel "Ask a Librarian" ;
+    skos:related ocs:C3214,
+        ocs:C5984,
+        ocs:C8770 .
+

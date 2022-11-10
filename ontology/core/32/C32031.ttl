@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32031 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convex_polygon> ;
+    skos:prefLabel "Convex polygon" ;
+    skos:related ocs:C13409,
+        ocs:C33963,
+        ocs:C5204 .
+

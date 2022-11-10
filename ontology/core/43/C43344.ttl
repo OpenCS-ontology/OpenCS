@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43344 a skos:Concept ;
+    skos:broader ocs:C30824,
+        ocs:C33136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_self-improvement> ;
+    skos:prefLabel "Recursive self-improvement" .
+

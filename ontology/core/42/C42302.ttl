@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42302 a skos:Concept ;
+    skos:broader ocs:C31026,
+        ocs:C31647,
+        ocs:C32111,
+        ocs:C33274 ;
+    skos:closeMatch <http://dbpedia.org/resource/Karger's_algorithm> ;
+    skos:prefLabel "Karger's algorithm" ;
+    skos:related ocs:C14693,
+        ocs:C16376,
+        ocs:C19336,
+        ocs:C26989,
+        ocs:C27668,
+        ocs:C30245,
+        ocs:C31884,
+        ocs:C33274,
+        ocs:C37941,
+        ocs:C40663,
+        ocs:C42822,
+        ocs:C43186,
+        ocs:C43461,
+        ocs:C43738,
+        ocs:C44379,
+        ocs:C4966,
+        ocs:C6537 .
+

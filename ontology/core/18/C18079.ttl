@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18079 a skos:Concept ;
+    skos:broader ocs:C4048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Duodecimal> ;
+    skos:prefLabel "Duodecimal" ;
+    skos:related ocs:C15338,
+        ocs:C25038,
+        ocs:C27879,
+        ocs:C31507,
+        ocs:C4048,
+        ocs:C5290 .
+

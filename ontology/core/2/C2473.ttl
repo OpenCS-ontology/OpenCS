@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2473 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disc_rot> ;
+    skos:prefLabel "Disc rot" ;
+    skos:related ocs:C12430,
+        ocs:C13468,
+        ocs:C23259,
+        ocs:C3022,
+        ocs:C4916,
+        ocs:C5883,
+        ocs:C6234,
+        ocs:C6886,
+        ocs:C7255 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40921 a skos:Concept ;
+    skos:broader ocs:C37585 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marchenko_equation> ;
+    skos:prefLabel "Marchenko equation" ;
+    skos:related ocs:C17809,
+        ocs:C20699,
+        ocs:C25383,
+        ocs:C29219,
+        ocs:C37585,
+        ocs:C44352 .
+

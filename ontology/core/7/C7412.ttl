@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7412 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/SuperTalk> ;
+    skos:prefLabel "SuperTalk" ;
+    skos:related ocs:C11128,
+        ocs:C11333,
+        ocs:C11545,
+        ocs:C13101,
+        ocs:C1386,
+        ocs:C18734,
+        ocs:C19,
+        ocs:C25313,
+        ocs:C27954,
+        ocs:C28944,
+        ocs:C3036,
+        ocs:C31404,
+        ocs:C32486,
+        ocs:C33249,
+        ocs:C33288,
+        ocs:C4918,
+        ocs:C8243,
+        ocs:C9235 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38240 a skos:Concept ;
+    skos:broader ocs:C29660,
+        ocs:C34223 ;
+    skos:closeMatch <http://dbpedia.org/resource/Left-child_right-sibling_binary_tree> ;
+    skos:prefLabel "Left-child right-sibling binary tree" ;
+    skos:related ocs:C14269,
+        ocs:C18860,
+        ocs:C22266,
+        ocs:C23182,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C33378,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C37974,
+        ocs:C39981,
+        ocs:C43467,
+        ocs:C45211,
+        ocs:C6697,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C8893,
+        ocs:C935 .
+

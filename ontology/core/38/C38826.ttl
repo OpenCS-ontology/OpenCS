@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38826 a skos:Concept ;
+    skos:broader ocs:C34890 ;
+    skos:closeMatch <http://dbpedia.org/resource/PAL> ;
+    skos:prefLabel "PAL" ;
+    skos:related ocs:C10409,
+        ocs:C12544,
+        ocs:C13509,
+        ocs:C15700,
+        ocs:C1724,
+        ocs:C2000,
+        ocs:C27086,
+        ocs:C27572,
+        ocs:C31323,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C42783,
+        ocs:C4448,
+        ocs:C7216,
+        ocs:C8021 .
+

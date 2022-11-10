@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41681 a skos:Concept ;
+    skos:broader ocs:C33104,
+        ocs:C35628 ;
+    skos:prefLabel "Software Security Vulnerability" ;
+    skos:related ocs:C18784,
+        ocs:C38527,
+        ocs:C43665 .
+

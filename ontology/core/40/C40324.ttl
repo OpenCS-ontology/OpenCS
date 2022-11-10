@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40324 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_combat> ;
+    skos:prefLabel "Robot combat" ;
+    skos:related ocs:C10396,
+        ocs:C10686,
+        ocs:C12099,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C23317,
+        ocs:C28127,
+        ocs:C33579,
+        ocs:C34991,
+        ocs:C36567,
+        ocs:C36715,
+        ocs:C44139,
+        ocs:C4812,
+        ocs:C5627,
+        ocs:C8,
+        ocs:C8556 .
+

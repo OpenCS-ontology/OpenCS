@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6467 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:prefLabel "Board processor" ;
+    skos:related ocs:C17,
+        ocs:C3,
+        ocs:C33,
+        ocs:C5293,
+        ocs:C5298,
+        ocs:C5336,
+        ocs:C5818,
+        ocs:C6223 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18999 a skos:Concept ;
+    skos:broader ocs:C2369,
+        ocs:C9664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Near-field_scanner> ;
+    skos:prefLabel "Near-field scanner" ;
+    skos:related ocs:C1219,
+        ocs:C17383,
+        ocs:C4917,
+        ocs:C5369 .
+

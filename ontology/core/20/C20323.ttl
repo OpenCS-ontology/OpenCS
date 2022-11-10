@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20323 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_transmission_unit> ;
+    skos:prefLabel "Maximum transmission unit" ;
+    skos:related ocs:C15589,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C20540,
+        ocs:C23305,
+        ocs:C23666,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C24824,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C33957,
+        ocs:C34235,
+        ocs:C35198,
+        ocs:C390,
+        ocs:C45698,
+        ocs:C490,
+        ocs:C686 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21587 a skos:Concept ;
+    skos:broader ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_Plane_Coordinate_System> ;
+    skos:prefLabel "State Plane Coordinate System" ;
+    skos:related ocs:C16293,
+        ocs:C26988,
+        ocs:C36280,
+        ocs:C37979,
+        ocs:C7918,
+        ocs:C8708 .
+

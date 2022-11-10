@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18504 a skos:Concept ;
+    skos:broader ocs:C5854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tip-enhanced_Raman_spectroscopy> ;
+    skos:prefLabel "Tip-enhanced Raman spectroscopy" ;
+    skos:related ocs:C19353,
+        ocs:C597,
+        ocs:C7789 .
+

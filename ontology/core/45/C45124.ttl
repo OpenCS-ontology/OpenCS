@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45124 a skos:Concept ;
+    skos:broader ocs:C32110,
+        ocs:C33964,
+        ocs:C37360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long-lived_transaction> ;
+    skos:prefLabel "Long-lived transaction" ;
+    skos:related ocs:C13984,
+        ocs:C15481,
+        ocs:C17673,
+        ocs:C22879,
+        ocs:C23753,
+        ocs:C36408,
+        ocs:C37360,
+        ocs:C38026,
+        ocs:C38458,
+        ocs:C39431,
+        ocs:C40503,
+        ocs:C40517,
+        ocs:C42517,
+        ocs:C42976,
+        ocs:C43644,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C6754,
+        ocs:C8184 .
+

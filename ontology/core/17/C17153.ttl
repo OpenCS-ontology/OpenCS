@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17153 a skos:Concept ;
+    skos:broader ocs:C5775 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multistage_testing> ;
+    skos:prefLabel "Multistage testing" ;
+    skos:related ocs:C10,
+        ocs:C12256,
+        ocs:C14220,
+        ocs:C15458,
+        ocs:C28580,
+        ocs:C3444,
+        ocs:C5775 .
+

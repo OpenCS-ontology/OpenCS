@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4840 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monkey_and_banana_problem> ;
+    skos:prefLabel "Monkey and banana problem" ;
+    skos:related ocs:C11482,
+        ocs:C13858,
+        ocs:C14373,
+        ocs:C17236,
+        ocs:C25,
+        ocs:C3579,
+        ocs:C5242,
+        ocs:C8,
+        ocs:C9022 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38396 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-linkage_clustering> ;
+    skos:prefLabel "Single-linkage clustering" ;
+    skos:related ocs:C10382,
+        ocs:C1446,
+        ocs:C26767,
+        ocs:C28232,
+        ocs:C29024,
+        ocs:C29108,
+        ocs:C30082,
+        ocs:C33274,
+        ocs:C35082,
+        ocs:C38397,
+        ocs:C39217,
+        ocs:C41863,
+        ocs:C43738,
+        ocs:C44379,
+        ocs:C6693 .
+

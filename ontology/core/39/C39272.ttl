@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39272 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C30430,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cache-only_memory_architecture> ;
+    skos:prefLabel "Cache-only memory architecture" ;
+    skos:related ocs:C10320,
+        ocs:C1188,
+        ocs:C14144,
+        ocs:C14162,
+        ocs:C26124,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C33886,
+        ocs:C37538,
+        ocs:C38461,
+        ocs:C42759,
+        ocs:C43877,
+        ocs:C44255,
+        ocs:C4804,
+        ocs:C5766,
+        ocs:C7007,
+        ocs:C9486 .
+

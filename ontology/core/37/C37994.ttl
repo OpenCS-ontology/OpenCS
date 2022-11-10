@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37994 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C34568 ;
+    skos:prefLabel "Homogeneous markov chain" .
+

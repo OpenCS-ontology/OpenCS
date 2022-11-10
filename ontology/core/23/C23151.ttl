@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23151 a skos:Concept ;
+    skos:broader ocs:C4513,
+        ocs:C7006,
+        ocs:C7738 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ssh-agent> ;
+    skos:prefLabel "ssh-agent" ;
+    skos:related ocs:C16125,
+        ocs:C16980,
+        ocs:C1891,
+        ocs:C21553,
+        ocs:C23263,
+        ocs:C24871,
+        ocs:C26581,
+        ocs:C28637,
+        ocs:C2941,
+        ocs:C34358,
+        ocs:C34475,
+        ocs:C34914,
+        ocs:C35146,
+        ocs:C36136,
+        ocs:C40476,
+        ocs:C4218,
+        ocs:C8030,
+        ocs:C8349,
+        ocs:C9 .
+

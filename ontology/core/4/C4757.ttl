@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4757 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hindi> ;
+    skos:prefLabel "Hindi" ;
+    skos:related ocs:C10229,
+        ocs:C10516,
+        ocs:C12689,
+        ocs:C13824,
+        ocs:C15704,
+        ocs:C23551,
+        ocs:C2491,
+        ocs:C29540,
+        ocs:C401,
+        ocs:C4373 .
+

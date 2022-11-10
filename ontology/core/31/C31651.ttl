@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31651 a skos:Concept ;
+    skos:broader ocs:C26268,
+        ocs:C28281 ;
+    skos:closeMatch <http://dbpedia.org/resource/POLQA> ;
+    skos:prefLabel "POLQA" ;
+    skos:related ocs:C13256,
+        ocs:C16043,
+        ocs:C22407,
+        ocs:C25891,
+        ocs:C28281,
+        ocs:C29174,
+        ocs:C30760,
+        ocs:C31127,
+        ocs:C37498,
+        ocs:C37688,
+        ocs:C39006,
+        ocs:C39501,
+        ocs:C41467,
+        ocs:C42854,
+        ocs:C43829,
+        ocs:C45044,
+        ocs:C45148 .
+

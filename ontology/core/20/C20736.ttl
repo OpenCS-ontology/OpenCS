@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20736 a skos:Concept ;
+    skos:broader ocs:C5336,
+        ocs:C7165 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP-XACT> ;
+    skos:prefLabel "IP-XACT" ;
+    skos:related ocs:C1097,
+        ocs:C13747,
+        ocs:C14,
+        ocs:C14081,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27107,
+        ocs:C28343,
+        ocs:C2991,
+        ocs:C30044,
+        ocs:C42888,
+        ocs:C5127,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C7165 .
+

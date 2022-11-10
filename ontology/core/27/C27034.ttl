@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27034 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Overhead_code> ;
+    skos:prefLabel "Overhead code" ;
+    skos:related ocs:C10284,
+        ocs:C10725,
+        ocs:C1085,
+        ocs:C11128,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C17167,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21718,
+        ocs:C22453,
+        ocs:C25549,
+        ocs:C35009,
+        ocs:C4321,
+        ocs:C442,
+        ocs:C45618,
+        ocs:C4863,
+        ocs:C6280,
+        ocs:C7800 .
+

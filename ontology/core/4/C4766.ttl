@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4766 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsoft_Point-to-Point_Encryption> ;
+    skos:prefLabel "Microsoft Point-to-Point Encryption" ;
+    skos:related ocs:C1435,
+        ocs:C18862,
+        ocs:C1978,
+        ocs:C20314,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24335,
+        ocs:C25384,
+        ocs:C29568,
+        ocs:C30342,
+        ocs:C3086,
+        ocs:C32582,
+        ocs:C34194,
+        ocs:C37369,
+        ocs:C41934,
+        ocs:C42053,
+        ocs:C43997,
+        ocs:C44603,
+        ocs:C45282,
+        ocs:C45892 .
+

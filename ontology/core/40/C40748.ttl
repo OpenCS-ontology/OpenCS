@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40748 a skos:Concept ;
+    skos:broader ocs:C31552,
+        ocs:C36308,
+        ocs:C36975,
+        ocs:C37722 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long_Reach_Ethernet> ;
+    skos:prefLabel "Long Reach Ethernet" ;
+    skos:related ocs:C10638,
+        ocs:C16400,
+        ocs:C1733,
+        ocs:C18270,
+        ocs:C19350,
+        ocs:C2188,
+        ocs:C23919,
+        ocs:C24253,
+        ocs:C25575,
+        ocs:C29322,
+        ocs:C2986,
+        ocs:C34141,
+        ocs:C34505,
+        ocs:C37722,
+        ocs:C40684,
+        ocs:C4433,
+        ocs:C45690,
+        ocs:C490,
+        ocs:C9327 .
+

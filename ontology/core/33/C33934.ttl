@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33934 a skos:Concept ;
+    skos:broader ocs:C21467 ;
+    skos:closeMatch <http://dbpedia.org/resource/Five-choice_serial-reaction_time_task> ;
+    skos:prefLabel "5-Choice Serial Reaction Time Task" .
+

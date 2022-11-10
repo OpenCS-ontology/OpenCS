@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20814 a skos:Concept ;
+    skos:broader ocs:C5532 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_classroom> ;
+    skos:prefLabel "Open classroom" ;
+    skos:related ocs:C25892,
+        ocs:C3444,
+        ocs:C34751,
+        ocs:C4174,
+        ocs:C764 .
+

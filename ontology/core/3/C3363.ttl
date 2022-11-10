@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3363 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Outboard_gear> ;
+    skos:prefLabel "Outboard gear" ;
+    skos:related ocs:C21364,
+        ocs:C23307,
+        ocs:C29220,
+        ocs:C38517,
+        ocs:C39249,
+        ocs:C42394,
+        ocs:C43309,
+        ocs:C520,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8718,
+        ocs:C9596 .
+

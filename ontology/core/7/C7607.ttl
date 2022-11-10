@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7607 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scientometrics> ;
+    skos:prefLabel "Scientometrics" ;
+    skos:related ocs:C1,
+        ocs:C11026,
+        ocs:C11446,
+        ocs:C13,
+        ocs:C14004,
+        ocs:C19163,
+        ocs:C20017,
+        ocs:C27711,
+        ocs:C406,
+        ocs:C5150,
+        ocs:C5349 .
+

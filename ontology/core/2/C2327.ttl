@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2327 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Pharyngeal stop" ;
+    skos:related ocs:C13044,
+        ocs:C13210,
+        ocs:C16,
+        ocs:C18818,
+        ocs:C2025,
+        ocs:C21733,
+        ocs:C308 .
+

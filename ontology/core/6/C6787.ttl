@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6787 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurally_controlled_animat> ;
+    skos:prefLabel "Neurally controlled animat" ;
+    skos:related ocs:C11143,
+        ocs:C11329,
+        ocs:C20847,
+        ocs:C23612,
+        ocs:C27121,
+        ocs:C5029,
+        ocs:C5496,
+        ocs:C9022 .
+

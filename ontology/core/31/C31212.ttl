@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31212 a skos:Concept ;
+    skos:broader ocs:C23973 ;
+    skos:prefLabel "Alcohol binding" ;
+    skos:related ocs:C23973,
+        ocs:C37784,
+        ocs:C43551 .
+

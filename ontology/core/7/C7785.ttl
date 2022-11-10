@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7785 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Range_query_(data_structures)> ;
+    skos:prefLabel "Range query (data structures)" ;
+    skos:related ocs:C14958,
+        ocs:C16028,
+        ocs:C19305,
+        ocs:C19352,
+        ocs:C2122,
+        ocs:C23674,
+        ocs:C25543,
+        ocs:C3532,
+        ocs:C35603,
+        ocs:C36120,
+        ocs:C36325,
+        ocs:C37974,
+        ocs:C38367,
+        ocs:C38755,
+        ocs:C42789,
+        ocs:C42939,
+        ocs:C42945 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17158 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C4966,
+        ocs:C6335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bellman–Ford_algorithm> ;
+    skos:prefLabel "Bellman–Ford algorithm" ;
+    skos:related ocs:C15414,
+        ocs:C16033,
+        ocs:C18798,
+        ocs:C19540,
+        ocs:C27260,
+        ocs:C30307,
+        ocs:C31884,
+        ocs:C3339,
+        ocs:C36109,
+        ocs:C38535,
+        ocs:C38755,
+        ocs:C39895,
+        ocs:C40680,
+        ocs:C41938,
+        ocs:C43513,
+        ocs:C43738,
+        ocs:C44959,
+        ocs:C4966,
+        ocs:C6335,
+        ocs:C77 .
+

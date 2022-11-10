@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5939 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_template_system> ;
+    skos:prefLabel "Web template system" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11927,
+        ocs:C12477,
+        ocs:C12810,
+        ocs:C16336,
+        ocs:C17235,
+        ocs:C17556,
+        ocs:C17557,
+        ocs:C18361,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C39727,
+        ocs:C39880,
+        ocs:C4918,
+        ocs:C7395,
+        ocs:C7530 .
+

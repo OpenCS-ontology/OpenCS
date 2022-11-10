@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39939 a skos:Concept ;
+    skos:broader ocs:C35009,
+        ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instruction_path_length> ;
+    skos:prefLabel "Instruction path length" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C13045,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C28073,
+        ocs:C3429,
+        ocs:C39214,
+        ocs:C4027,
+        ocs:C442,
+        ocs:C6072,
+        ocs:C6280,
+        ocs:C9 .
+

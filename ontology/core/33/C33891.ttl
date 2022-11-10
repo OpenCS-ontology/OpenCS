@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33891 a skos:Concept ;
+    skos:broader ocs:C16687,
+        ocs:C20206,
+        ocs:C20521,
+        ocs:C21307,
+        ocs:C22014,
+        ocs:C29212 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silicon-burning_process> ;
+    skos:prefLabel "Silicon-burning process" ;
+    skos:related ocs:C21208,
+        ocs:C22014,
+        ocs:C22542,
+        ocs:C25034,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C31515,
+        ocs:C33488,
+        ocs:C37112,
+        ocs:C37677,
+        ocs:C39852,
+        ocs:C40619,
+        ocs:C44452 .
+

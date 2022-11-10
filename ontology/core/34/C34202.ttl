@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34202 a skos:Concept ;
+    skos:broader ocs:C25667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gabapentinoid> ;
+    skos:prefLabel "Gabapentinoid" ;
+    skos:related ocs:C25667,
+        ocs:C36679 .
+

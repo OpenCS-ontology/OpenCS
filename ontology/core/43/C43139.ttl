@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43139 a skos:Concept ;
+    skos:broader ocs:C36010 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_traffic_measurement> ;
+    skos:prefLabel "Network traffic measurement" ;
+    skos:related ocs:C10565,
+        ocs:C10921,
+        ocs:C12111,
+        ocs:C15065,
+        ocs:C17918,
+        ocs:C19479,
+        ocs:C20691,
+        ocs:C21769,
+        ocs:C24323,
+        ocs:C24870,
+        ocs:C26,
+        ocs:C26891,
+        ocs:C27923,
+        ocs:C30500,
+        ocs:C3394,
+        ocs:C37577,
+        ocs:C44104,
+        ocs:C6592,
+        ocs:C8614 .
+

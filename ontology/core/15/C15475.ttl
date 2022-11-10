@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15475 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C318,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Treebank> ;
+    skos:prefLabel "Treebank" ;
+    skos:related ocs:C1034,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C16501,
+        ocs:C20121,
+        ocs:C20679,
+        ocs:C22964,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C24691,
+        ocs:C26469,
+        ocs:C28748,
+        ocs:C2902,
+        ocs:C32,
+        ocs:C33532,
+        ocs:C5852,
+        ocs:C8564,
+        ocs:C961 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12456 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_analysis> ;
+    skos:prefLabel "Sequential analysis" ;
+    skos:related ocs:C11767,
+        ocs:C12256,
+        ocs:C14620,
+        ocs:C33349,
+        ocs:C3753,
+        ocs:C6419,
+        ocs:C7052,
+        ocs:C8333,
+        ocs:C9380,
+        ocs:C9428 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32531 a skos:Concept ;
+    skos:broader ocs:C22283,
+        ocs:C25042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonon_noise> ;
+    skos:prefLabel "Phonon noise" ;
+    skos:related ocs:C11747,
+        ocs:C1564,
+        ocs:C22283,
+        ocs:C25042,
+        ocs:C26707,
+        ocs:C29698,
+        ocs:C31639,
+        ocs:C33383,
+        ocs:C36714 .
+

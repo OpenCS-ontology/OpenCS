@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33780 a skos:Concept ;
+    skos:broader ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_sounding> ;
+    skos:prefLabel "Channel sounding" ;
+    skos:related ocs:C14099,
+        ocs:C19721,
+        ocs:C24312,
+        ocs:C24558,
+        ocs:C25018,
+        ocs:C25712,
+        ocs:C30037,
+        ocs:C30265,
+        ocs:C30567,
+        ocs:C30728,
+        ocs:C32844,
+        ocs:C34471,
+        ocs:C34748,
+        ocs:C35532,
+        ocs:C35704,
+        ocs:C36169,
+        ocs:C36733,
+        ocs:C41276,
+        ocs:C42210 .
+

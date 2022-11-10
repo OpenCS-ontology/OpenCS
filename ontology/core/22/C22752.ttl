@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22752 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apparent_magnitude> ;
+    skos:prefLabel "Apparent magnitude" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C18085,
+        ocs:C19222,
+        ocs:C19549,
+        ocs:C22649,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C28337,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C597 .
+

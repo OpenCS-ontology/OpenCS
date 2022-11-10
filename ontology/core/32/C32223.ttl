@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32223 a skos:Concept ;
+    skos:broader ocs:C27878 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loss_network> ;
+    skos:prefLabel "Loss network" ;
+    skos:related ocs:C12373,
+        ocs:C18439,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C20842,
+        ocs:C21769,
+        ocs:C27669,
+        ocs:C29900,
+        ocs:C30610,
+        ocs:C31158,
+        ocs:C31803,
+        ocs:C32815,
+        ocs:C38208,
+        ocs:C38559,
+        ocs:C38619,
+        ocs:C39751,
+        ocs:C40920,
+        ocs:C42236 .
+

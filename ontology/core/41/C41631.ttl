@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41631 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Planar_straight-line_graph> ;
+    skos:prefLabel "Planar straight-line graph" ;
+    skos:related ocs:C19178,
+        ocs:C31148,
+        ocs:C32922,
+        ocs:C33963,
+        ocs:C36406,
+        ocs:C38114,
+        ocs:C38214,
+        ocs:C38993,
+        ocs:C39263,
+        ocs:C40783,
+        ocs:C45150,
+        ocs:C45512,
+        ocs:C4867,
+        ocs:C5860,
+        ocs:C6279,
+        ocs:C6289,
+        ocs:C8271 .
+

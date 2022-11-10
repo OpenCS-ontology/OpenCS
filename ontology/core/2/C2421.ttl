@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2421 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Systems_science> ;
+    skos:prefLabel "Systems science" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C1336,
+        ocs:C29276,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C6998,
+        ocs:C7334 .
+

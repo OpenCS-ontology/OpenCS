@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5051 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_wireframe> ;
+    skos:prefLabel "Website wireframe" ;
+    skos:related ocs:C12477,
+        ocs:C13147,
+        ocs:C13413,
+        ocs:C18,
+        ocs:C2135,
+        ocs:C28503,
+        ocs:C28533,
+        ocs:C28801,
+        ocs:C31201,
+        ocs:C31320,
+        ocs:C34966,
+        ocs:C4918,
+        ocs:C6852,
+        ocs:C7736,
+        ocs:C8269,
+        ocs:C9607 .
+

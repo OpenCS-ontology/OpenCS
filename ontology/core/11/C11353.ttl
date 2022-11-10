@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11353 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:prefLabel "On-line bibliographic searching" ;
+    skos:related ocs:C13,
+        ocs:C4,
+        ocs:C425 .
+

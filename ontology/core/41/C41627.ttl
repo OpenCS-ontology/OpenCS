@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41627 a skos:Concept ;
+    skos:broader ocs:C31222,
+        ocs:C34662 ;
+    skos:closeMatch <http://dbpedia.org/resource/NAPTR_record> ;
+    skos:prefLabel "NAPTR record" ;
+    skos:related ocs:C20205,
+        ocs:C21006,
+        ocs:C22407,
+        ocs:C22502,
+        ocs:C26114,
+        ocs:C30757,
+        ocs:C33201,
+        ocs:C35631,
+        ocs:C36678,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38824,
+        ocs:C40832,
+        ocs:C41442,
+        ocs:C4166,
+        ocs:C41967,
+        ocs:C43236,
+        ocs:C43392,
+        ocs:C8515,
+        ocs:C8614 .
+

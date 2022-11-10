@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C932 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minification_(programming)> ;
+    skos:prefLabel "Minification" ;
+    skos:related ocs:C11638,
+        ocs:C12257,
+        ocs:C12477,
+        ocs:C13068,
+        ocs:C16966,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C24176,
+        ocs:C24200,
+        ocs:C26528,
+        ocs:C28801,
+        ocs:C3640,
+        ocs:C39727,
+        ocs:C40510,
+        ocs:C4918,
+        ocs:C6411,
+        ocs:C7430,
+        ocs:C9269 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38410 a skos:Concept ;
+    skos:broader ocs:C34663 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_space_search> ;
+    skos:prefLabel "State space search" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1086,
+        ocs:C13317,
+        ocs:C14406,
+        ocs:C16033,
+        ocs:C18302,
+        ocs:C21370,
+        ocs:C25,
+        ocs:C2807,
+        ocs:C29173,
+        ocs:C32048,
+        ocs:C3339,
+        ocs:C33435,
+        ocs:C3837,
+        ocs:C43808,
+        ocs:C5610,
+        ocs:C5722,
+        ocs:C8 .
+

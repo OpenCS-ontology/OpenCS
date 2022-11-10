@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9163 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sales_intelligence> ;
+    skos:prefLabel "Sales intelligence" ;
+    skos:related ocs:C10262,
+        ocs:C10764,
+        ocs:C10912,
+        ocs:C12736,
+        ocs:C1728,
+        ocs:C28997,
+        ocs:C37135,
+        ocs:C540,
+        ocs:C8695,
+        ocs:C9874 .
+

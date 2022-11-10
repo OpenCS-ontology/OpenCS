@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12671 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Class_variable> ;
+    skos:prefLabel "Class variable" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C128,
+        ocs:C1333,
+        ocs:C16290,
+        ocs:C17734,
+        ocs:C21265,
+        ocs:C25570,
+        ocs:C27131,
+        ocs:C31404,
+        ocs:C3282,
+        ocs:C36614,
+        ocs:C38027,
+        ocs:C5308,
+        ocs:C7470,
+        ocs:C963,
+        ocs:C9638 .
+

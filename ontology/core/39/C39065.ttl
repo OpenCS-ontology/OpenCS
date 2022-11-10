@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39065 a skos:Concept ;
+    skos:broader ocs:C36867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pygidianops> ;
+    skos:prefLabel "Pygidianops" ;
+    skos:related ocs:C33650,
+        ocs:C37950,
+        ocs:C39150,
+        ocs:C39732,
+        ocs:C40967,
+        ocs:C42954,
+        ocs:C43311,
+        ocs:C43660 .
+

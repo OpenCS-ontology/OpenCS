@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27718 a skos:Concept ;
+    skos:broader ocs:C12099,
+        ocs:C12427,
+        ocs:C3515,
+        ocs:C7109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reachability_problem> ;
+    skos:prefLabel "Reachability problem" ;
+    skos:related ocs:C10997,
+        ocs:C12098,
+        ocs:C12427,
+        ocs:C2420,
+        ocs:C25382,
+        ocs:C2721,
+        ocs:C27278,
+        ocs:C29300,
+        ocs:C32647,
+        ocs:C32961,
+        ocs:C36813,
+        ocs:C36865,
+        ocs:C3990,
+        ocs:C39944,
+        ocs:C41780,
+        ocs:C5974,
+        ocs:C852 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17727 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Name_binding> ;
+    skos:prefLabel "Name binding" ;
+    skos:related ocs:C1,
+        ocs:C10284,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C18578,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C21130,
+        ocs:C24909,
+        ocs:C329,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C6255,
+        ocs:C6941 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38968 a skos:Concept ;
+    skos:broader ocs:C30619,
+        ocs:C35696 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhombicosidodecahedron> ;
+    skos:prefLabel "Rhombicosidodecahedron" ;
+    skos:related ocs:C30619,
+        ocs:C32168,
+        ocs:C35226,
+        ocs:C35696,
+        ocs:C37926,
+        ocs:C38670,
+        ocs:C39317,
+        ocs:C44488 .
+

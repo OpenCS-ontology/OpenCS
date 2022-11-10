@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5585 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Afterimage> ;
+    skos:prefLabel "Afterimage" ;
+    skos:related ocs:C10740,
+        ocs:C23675,
+        ocs:C6420,
+        ocs:C966 .
+

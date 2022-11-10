@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32977 a skos:Concept ;
+    skos:broader ocs:C27695 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object-class_detection> ;
+    skos:prefLabel "Object-class detection" ;
+    skos:related ocs:C14465,
+        ocs:C1503,
+        ocs:C1573,
+        ocs:C16355,
+        ocs:C248,
+        ocs:C24825,
+        ocs:C25410,
+        ocs:C25648,
+        ocs:C27695,
+        ocs:C28626,
+        ocs:C3063,
+        ocs:C3077,
+        ocs:C37007,
+        ocs:C37582,
+        ocs:C37720,
+        ocs:C44037,
+        ocs:C5462,
+        ocs:C8755 .
+

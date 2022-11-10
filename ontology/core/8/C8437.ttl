@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8437 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_card> ;
+    skos:prefLabel "Smart card" ;
+    skos:related ocs:C12698,
+        ocs:C14011,
+        ocs:C16125,
+        ocs:C18629,
+        ocs:C21054,
+        ocs:C28881,
+        ocs:C33193,
+        ocs:C4218,
+        ocs:C4917,
+        ocs:C5692,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8711,
+        ocs:C9113,
+        ocs:C9489 .
+

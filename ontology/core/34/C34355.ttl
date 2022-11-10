@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34355 a skos:Concept ;
+    skos:broader ocs:C15729 ;
+    skos:closeMatch <http://dbpedia.org/resource/Risk_management_framework> ;
+    skos:prefLabel "Risk management framework" ;
+    skos:related ocs:C10064,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C17656,
+        ocs:C25176,
+        ocs:C35,
+        ocs:C38530,
+        ocs:C38970,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41007,
+        ocs:C41901,
+        ocs:C42213,
+        ocs:C42520,
+        ocs:C7106,
+        ocs:C7804 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C480 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Origination_(telephony)> ;
+    skos:prefLabel "Origination" ;
+    skos:related ocs:C15589,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C28949,
+        ocs:C2917,
+        ocs:C30757,
+        ocs:C32983,
+        ocs:C34631,
+        ocs:C3581,
+        ocs:C36124,
+        ocs:C37078,
+        ocs:C6027,
+        ocs:C7612,
+        ocs:C8515,
+        ocs:C9113,
+        ocs:C9327 .
+

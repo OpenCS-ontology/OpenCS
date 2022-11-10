@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40620 a skos:Concept ;
+    skos:broader ocs:C30555,
+        ocs:C36205 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiply-with-carry> ;
+    skos:prefLabel "Multiply-with-carry" ;
+    skos:related ocs:C13156,
+        ocs:C15398,
+        ocs:C16361,
+        ocs:C24912,
+        ocs:C25255,
+        ocs:C25445,
+        ocs:C26480,
+        ocs:C28909,
+        ocs:C31106,
+        ocs:C39449,
+        ocs:C40553,
+        ocs:C41667,
+        ocs:C45367,
+        ocs:C5072,
+        ocs:C6953,
+        ocs:C9699 .
+

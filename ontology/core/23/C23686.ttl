@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23686 a skos:Concept ;
+    skos:broader ocs:C11988,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encrypting_PIN_Pad> ;
+    skos:prefLabel "Encrypting PIN Pad" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C13991,
+        ocs:C18441,
+        ocs:C18946,
+        ocs:C20314,
+        ocs:C21093,
+        ocs:C23666,
+        ocs:C25013,
+        ocs:C27315,
+        ocs:C33857,
+        ocs:C37947,
+        ocs:C38429,
+        ocs:C4218,
+        ocs:C42433,
+        ocs:C5086,
+        ocs:C5692 .
+

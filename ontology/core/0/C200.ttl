@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C200 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-based_design> ;
+    skos:prefLabel "Model-based design" ;
+    skos:related ocs:C11,
+        ocs:C24,
+        ocs:C26535,
+        ocs:C28021,
+        ocs:C28808,
+        ocs:C30215,
+        ocs:C33,
+        ocs:C4509,
+        ocs:C5335,
+        ocs:C5821,
+        ocs:C7463,
+        ocs:C8791 .
+

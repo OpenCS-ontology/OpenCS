@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11038 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bandwidth_guaranteed_polling> ;
+    skos:prefLabel "Bandwidth guaranteed polling" ;
+    skos:related ocs:C16022,
+        ocs:C17625,
+        ocs:C18173,
+        ocs:C20010,
+        ocs:C20116,
+        ocs:C24133,
+        ocs:C27568,
+        ocs:C37577,
+        ocs:C45690,
+        ocs:C490 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44361 a skos:Concept ;
+    skos:broader ocs:C30108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triple_fault> ;
+    skos:prefLabel "Triple fault" ;
+    skos:related ocs:C10568,
+        ocs:C1083,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C19487,
+        ocs:C27283,
+        ocs:C28881,
+        ocs:C31027,
+        ocs:C31346,
+        ocs:C31489,
+        ocs:C33174,
+        ocs:C3320,
+        ocs:C36806,
+        ocs:C38819,
+        ocs:C39555,
+        ocs:C44264,
+        ocs:C44667,
+        ocs:C5147,
+        ocs:C9,
+        ocs:C9262 .
+

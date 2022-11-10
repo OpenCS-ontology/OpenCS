@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25107 a skos:Concept ;
+    skos:broader ocs:C940 ;
+    skos:closeMatch <http://dbpedia.org/resource/DIMM> ;
+    skos:prefLabel "DIMM" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C14144,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C23432,
+        ocs:C25954,
+        ocs:C29183,
+        ocs:C33838,
+        ocs:C35309,
+        ocs:C37483,
+        ocs:C39215,
+        ocs:C45186,
+        ocs:C6341,
+        ocs:C6798,
+        ocs:C9542 .
+

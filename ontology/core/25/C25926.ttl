@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25926 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Underwater_robotics> ;
+    skos:prefLabel "Underwater robotics" ;
+    skos:related ocs:C10396,
+        ocs:C1054,
+        ocs:C17117,
+        ocs:C17236,
+        ocs:C23260,
+        ocs:C30677,
+        ocs:C31197,
+        ocs:C31808,
+        ocs:C33959,
+        ocs:C34709,
+        ocs:C35231,
+        ocs:C35805,
+        ocs:C35870,
+        ocs:C3694,
+        ocs:C9237 .
+

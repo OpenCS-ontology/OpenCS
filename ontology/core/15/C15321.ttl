@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15321 a skos:Concept ;
+    skos:broader ocs:C6408 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fly-in_fly-out> ;
+    skos:prefLabel "Fly-in fly-out" ;
+    skos:related ocs:C28814,
+        ocs:C43161 .
+

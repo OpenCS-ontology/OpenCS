@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33149 a skos:Concept ;
+    skos:broader ocs:C17726 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dowling_geometry> ;
+    skos:prefLabel "Dowling geometry" ;
+    skos:related ocs:C17726,
+        ocs:C30729,
+        ocs:C31762,
+        ocs:C33437,
+        ocs:C33872,
+        ocs:C36649,
+        ocs:C39591,
+        ocs:C42162,
+        ocs:C43508,
+        ocs:C43532,
+        ocs:C44021,
+        ocs:C44136,
+        ocs:C45686,
+        ocs:C45712 .
+

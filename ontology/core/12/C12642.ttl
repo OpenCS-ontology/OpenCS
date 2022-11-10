@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12642 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blue_(queue_management_algorithm)> ;
+    skos:prefLabel "Blue" ;
+    skos:related ocs:C16851,
+        ocs:C17625,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C30218,
+        ocs:C33900,
+        ocs:C34789,
+        ocs:C36201,
+        ocs:C36873,
+        ocs:C38312,
+        ocs:C38698,
+        ocs:C38818,
+        ocs:C39947,
+        ocs:C39948,
+        ocs:C40876,
+        ocs:C42173,
+        ocs:C42554,
+        ocs:C44036,
+        ocs:C4502,
+        ocs:C45252 .
+

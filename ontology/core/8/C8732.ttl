@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8732 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sinewave_synthesis> ;
+    skos:prefLabel "Sinewave synthesis" ;
+    skos:related ocs:C10985,
+        ocs:C1950,
+        ocs:C2071,
+        ocs:C22617,
+        ocs:C25352,
+        ocs:C26702,
+        ocs:C28535,
+        ocs:C308,
+        ocs:C36671,
+        ocs:C4397,
+        ocs:C8631 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45371 a skos:Concept ;
+    skos:broader ocs:C30926 ;
+    skos:closeMatch <http://dbpedia.org/resource/WYCIWYG> ;
+    skos:prefLabel "WYCIWYG" ;
+    skos:related ocs:C16338,
+        ocs:C16739,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C2464,
+        ocs:C25697,
+        ocs:C27839,
+        ocs:C31,
+        ocs:C34117,
+        ocs:C39727,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C42100,
+        ocs:C42182,
+        ocs:C45747,
+        ocs:C6278,
+        ocs:C6852 .
+

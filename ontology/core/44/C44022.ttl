@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44022 a skos:Concept ;
+    skos:broader ocs:C30768,
+        ocs:C31949,
+        ocs:C36248 ;
+    skos:closeMatch <http://dbpedia.org/resource/HC-256> ;
+    skos:prefLabel "HC-256" ;
+    skos:related ocs:C15591,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C29830,
+        ocs:C30083,
+        ocs:C30280,
+        ocs:C31564,
+        ocs:C32079,
+        ocs:C34895,
+        ocs:C35391,
+        ocs:C36248,
+        ocs:C37850,
+        ocs:C40519,
+        ocs:C4218,
+        ocs:C7171,
+        ocs:C9534 .
+

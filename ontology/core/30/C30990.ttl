@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30990 a skos:Concept ;
+    skos:broader ocs:C16538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morley's_categoricity_theorem> ;
+    skos:prefLabel "Morley's categoricity theorem" ;
+    skos:related ocs:C12346,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C27083,
+        ocs:C29417,
+        ocs:C4517,
+        ocs:C8635 .
+

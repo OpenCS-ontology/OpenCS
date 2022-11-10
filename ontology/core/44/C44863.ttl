@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44863 a skos:Concept ;
+    skos:broader ocs:C37233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal-to-crosstalk_ratio> ;
+    skos:prefLabel "Signal-to-crosstalk ratio" ;
+    skos:related ocs:C19729,
+        ocs:C20983,
+        ocs:C22274,
+        ocs:C2803,
+        ocs:C3088,
+        ocs:C35081,
+        ocs:C407,
+        ocs:C40954,
+        ocs:C45152,
+        ocs:C5853,
+        ocs:C8436,
+        ocs:C9257,
+        ocs:C9345 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35073 a skos:Concept ;
+    skos:broader ocs:C22542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chandrasekhar_limit> ;
+    skos:prefLabel "Chandrasekhar limit" ;
+    skos:related ocs:C18085,
+        ocs:C20110,
+        ocs:C22542,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C38307,
+        ocs:C597 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5193 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/DSPACE> ;
+    skos:prefLabel "DSPACE" ;
+    skos:related ocs:C10,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C24320,
+        ocs:C25360,
+        ocs:C32808,
+        ocs:C3678,
+        ocs:C39938,
+        ocs:C39984,
+        ocs:C41061,
+        ocs:C41388,
+        ocs:C41588,
+        ocs:C41642,
+        ocs:C41645,
+        ocs:C44665,
+        ocs:C8660 .
+

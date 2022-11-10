@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34894 a skos:Concept ;
+    skos:broader ocs:C14620 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayes_factor> ;
+    skos:prefLabel "Bayes factor" ;
+    skos:related ocs:C10767,
+        ocs:C13371,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C2874,
+        ocs:C29486,
+        ocs:C31627,
+        ocs:C33349,
+        ocs:C34619,
+        ocs:C38771,
+        ocs:C6291,
+        ocs:C7282,
+        ocs:C7908,
+        ocs:C9721 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41979 a skos:Concept ;
+    skos:broader ocs:C31136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Birtoxin> ;
+    skos:prefLabel "Birtoxin" ;
+    skos:related ocs:C19629,
+        ocs:C31852,
+        ocs:C33053,
+        ocs:C33493,
+        ocs:C35813,
+        ocs:C37219,
+        ocs:C38074,
+        ocs:C39259,
+        ocs:C41081,
+        ocs:C42913,
+        ocs:C43976,
+        ocs:C44461 .
+

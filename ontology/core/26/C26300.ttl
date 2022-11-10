@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26300 a skos:Concept ;
+    skos:broader ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amplitude_death> ;
+    skos:prefLabel "Amplitude death" ;
+    skos:related ocs:C14592,
+        ocs:C16955,
+        ocs:C17100,
+        ocs:C24384,
+        ocs:C27040,
+        ocs:C27430,
+        ocs:C30833,
+        ocs:C33560,
+        ocs:C34416 .
+

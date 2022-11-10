@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21597 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Internet_usage> ;
+    skos:prefLabel "Global Internet usage" ;
+    skos:related ocs:C11827,
+        ocs:C16181,
+        ocs:C17794,
+        ocs:C18264,
+        ocs:C19350,
+        ocs:C22407,
+        ocs:C22597,
+        ocs:C22701,
+        ocs:C26217,
+        ocs:C27557,
+        ocs:C31,
+        ocs:C35838,
+        ocs:C395,
+        ocs:C40049,
+        ocs:C7297,
+        ocs:C8614,
+        ocs:C9327,
+        ocs:C9392 .
+

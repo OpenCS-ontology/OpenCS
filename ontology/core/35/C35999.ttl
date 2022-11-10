@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35999 a skos:Concept ;
+    skos:broader ocs:C25379 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_Electron–Positron_Collider> ;
+    skos:prefLabel "Large Electron–Positron Collider" ;
+    skos:related ocs:C16098,
+        ocs:C21446,
+        ocs:C22996,
+        ocs:C27037,
+        ocs:C32279 .
+

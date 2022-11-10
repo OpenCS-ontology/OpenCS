@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36978 a skos:Concept ;
+    skos:broader ocs:C19992 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Information_Infrastructure> ;
+    skos:prefLabel "National Information Infrastructure" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C1253,
+        ocs:C13217,
+        ocs:C14538,
+        ocs:C19350,
+        ocs:C197,
+        ocs:C25353,
+        ocs:C26,
+        ocs:C2979,
+        ocs:C3,
+        ocs:C31,
+        ocs:C33617,
+        ocs:C35,
+        ocs:C6224,
+        ocs:C7372,
+        ocs:C7512,
+        ocs:C8614,
+        ocs:C9931 .
+

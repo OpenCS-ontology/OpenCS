@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13315 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monitor_(synchronization)> ;
+    skos:prefLabel "Monitor" ;
+    skos:related ocs:C27,
+        ocs:C27084,
+        ocs:C2750,
+        ocs:C30688,
+        ocs:C32786,
+        ocs:C33921,
+        ocs:C3514,
+        ocs:C5198,
+        ocs:C5551,
+        ocs:C8204,
+        ocs:C8704 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16964 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topic_and_comment> ;
+    skos:prefLabel "Topic and comment" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C15647,
+        ocs:C16672,
+        ocs:C1739,
+        ocs:C18082,
+        ocs:C1952,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25015,
+        ocs:C26896,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C35148,
+        ocs:C3585,
+        ocs:C6545,
+        ocs:C7501 .
+

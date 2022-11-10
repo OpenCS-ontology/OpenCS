@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44119 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chien_search> ;
+    skos:prefLabel "Chien search" ;
+    skos:related ocs:C15232,
+        ocs:C3840,
+        ocs:C39131,
+        ocs:C39942,
+        ocs:C40267,
+        ocs:C41652,
+        ocs:C42661,
+        ocs:C42688,
+        ocs:C43048 .
+

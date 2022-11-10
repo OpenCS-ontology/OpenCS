@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7609 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Baseball bat" ;
+    skos:related ocs:C16,
+        ocs:C1647,
+        ocs:C22,
+        ocs:C3033,
+        ocs:C4861,
+        ocs:C8702 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1501 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hough_transform> ;
+    skos:prefLabel "Hough transform" ;
+    skos:related ocs:C13142,
+        ocs:C14863,
+        ocs:C1573,
+        ocs:C24607,
+        ocs:C2801,
+        ocs:C31308,
+        ocs:C32308,
+        ocs:C32479,
+        ocs:C33828,
+        ocs:C37007,
+        ocs:C37695,
+        ocs:C3847,
+        ocs:C40344,
+        ocs:C5462,
+        ocs:C7,
+        ocs:C751,
+        ocs:C9114 .
+

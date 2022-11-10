@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37973 a skos:Concept ;
+    skos:broader ocs:C35703,
+        ocs:C36807,
+        ocs:C36914 ;
+    skos:closeMatch <http://dbpedia.org/resource/Backhaul_(broadcasting)> ;
+    skos:prefLabel "Backhaul (broadcasting)" ;
+    skos:related ocs:C12999,
+        ocs:C13095,
+        ocs:C13431,
+        ocs:C13994,
+        ocs:C18878,
+        ocs:C2581,
+        ocs:C28716,
+        ocs:C31899,
+        ocs:C3522,
+        ocs:C36914,
+        ocs:C37869,
+        ocs:C42788,
+        ocs:C43089,
+        ocs:C44034,
+        ocs:C44963,
+        ocs:C7300,
+        ocs:C9654 .
+

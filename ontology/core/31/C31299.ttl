@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31299 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/B-tagging> ;
+    skos:prefLabel "b-tagging" ;
+    skos:related ocs:C16383,
+        ocs:C16724,
+        ocs:C17134,
+        ocs:C22996,
+        ocs:C36244,
+        ocs:C44332 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6283 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_usage> ;
+    skos:prefLabel "Word usage" ;
+    skos:related ocs:C13006,
+        ocs:C1451,
+        ocs:C2298,
+        ocs:C26816,
+        ocs:C3779,
+        ocs:C5058,
+        ocs:C9884 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16800 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_presence_management> ;
+    skos:prefLabel "Internet presence management" ;
+    skos:related ocs:C10764,
+        ocs:C13673,
+        ocs:C13752,
+        ocs:C14835,
+        ocs:C18985,
+        ocs:C19184,
+        ocs:C20461,
+        ocs:C27097,
+        ocs:C28988,
+        ocs:C35013,
+        ocs:C37135,
+        ocs:C40049,
+        ocs:C5427 .
+

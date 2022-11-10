@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22676 a skos:Concept ;
+    skos:broader ocs:C746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wiener_equation> ;
+    skos:prefLabel "Wiener equation" ;
+    skos:related ocs:C25668,
+        ocs:C27122 .
+

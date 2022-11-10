@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6697 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tree_traversal> ;
+    skos:prefLabel "Tree traversal" ;
+    skos:related ocs:C1,
+        ocs:C14269,
+        ocs:C14406,
+        ocs:C14747,
+        ocs:C16033,
+        ocs:C20679,
+        ocs:C23309,
+        ocs:C25057,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C3339,
+        ocs:C36074,
+        ocs:C37685,
+        ocs:C37966,
+        ocs:C39981,
+        ocs:C43808,
+        ocs:C5722,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565 .
+

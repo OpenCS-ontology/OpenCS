@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9484 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crossover_(genetic_algorithm)> ;
+    skos:prefLabel "Crossover" ;
+    skos:related ocs:C13633,
+        ocs:C17599,
+        ocs:C20226,
+        ocs:C22243,
+        ocs:C22772,
+        ocs:C25,
+        ocs:C25025,
+        ocs:C29723,
+        ocs:C30212,
+        ocs:C35139,
+        ocs:C36765,
+        ocs:C38437,
+        ocs:C38697,
+        ocs:C44340,
+        ocs:C4462,
+        ocs:C7553,
+        ocs:C8571 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23815 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hat_operator> ;
+    skos:prefLabel "Hat operator" ;
+    skos:related ocs:C11395,
+        ocs:C12023,
+        ocs:C12806,
+        ocs:C13685,
+        ocs:C1884,
+        ocs:C33700 .
+

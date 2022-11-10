@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35044 a skos:Concept ;
+    skos:broader ocs:C17920 ;
+    skos:closeMatch <http://dbpedia.org/resource/A-type_main-sequence_star> ;
+    skos:prefLabel "A-type main-sequence star" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C18085,
+        ocs:C19222,
+        ocs:C21607,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C22752,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C29867,
+        ocs:C31589,
+        ocs:C42199,
+        ocs:C44585,
+        ocs:C597 .
+

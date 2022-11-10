@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42184 a skos:Concept ;
+    skos:broader ocs:C33676,
+        ocs:C35727 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_Muon_Ionization_Cooling_Experiment> ;
+    skos:prefLabel "International Muon Ionization Cooling Experiment" ;
+    skos:related ocs:C15862,
+        ocs:C20168,
+        ocs:C21446,
+        ocs:C31893,
+        ocs:C33676,
+        ocs:C35727,
+        ocs:C39802 .
+

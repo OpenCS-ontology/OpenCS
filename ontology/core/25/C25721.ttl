@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25721 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C3236,
+        ocs:C4255,
+        ocs:C7877 ;
+    skos:prefLabel "Next generation cellular networks" .
+

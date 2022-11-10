@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16394 a skos:Concept ;
+    skos:broader ocs:C2300 ;
+    skos:prefLabel "Loudness Perception" ;
+    skos:related ocs:C1340,
+        ocs:C37458,
+        ocs:C4099,
+        ocs:C440,
+        ocs:C5505,
+        ocs:C7600,
+        ocs:C8385,
+        ocs:C9596 .
+

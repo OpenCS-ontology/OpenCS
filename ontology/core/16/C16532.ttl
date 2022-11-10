@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16532 a skos:Concept ;
+    skos:broader ocs:C6401,
+        ocs:C8753,
+        ocs:C9870 ;
+    skos:closeMatch <http://dbpedia.org/resource/Straight_skeleton> ;
+    skos:prefLabel "Straight skeleton" ;
+    skos:related ocs:C10239,
+        ocs:C14576,
+        ocs:C32381,
+        ocs:C33963,
+        ocs:C35574,
+        ocs:C38214,
+        ocs:C39263,
+        ocs:C41573,
+        ocs:C43646,
+        ocs:C43811,
+        ocs:C6279,
+        ocs:C6401,
+        ocs:C8271 .
+

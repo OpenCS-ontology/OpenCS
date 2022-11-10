@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C866 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structured_ASIC_platform> ;
+    skos:prefLabel "Structured ASIC platform" ;
+    skos:related ocs:C11252,
+        ocs:C13747,
+        ocs:C1457,
+        ocs:C14694,
+        ocs:C16067,
+        ocs:C16992,
+        ocs:C19400,
+        ocs:C19713,
+        ocs:C26090,
+        ocs:C26155,
+        ocs:C26273,
+        ocs:C26359,
+        ocs:C27883,
+        ocs:C28409,
+        ocs:C30085,
+        ocs:C31559,
+        ocs:C5336,
+        ocs:C7165,
+        ocs:C8518 .
+

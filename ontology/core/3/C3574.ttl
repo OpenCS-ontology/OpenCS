@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3574 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/CMN-GOMS> ;
+    skos:prefLabel "CMN-GOMS" ;
+    skos:related ocs:C17655,
+        ocs:C18,
+        ocs:C20631,
+        ocs:C2116,
+        ocs:C280,
+        ocs:C30560,
+        ocs:C32354,
+        ocs:C33858,
+        ocs:C44765,
+        ocs:C7355,
+        ocs:C8,
+        ocs:C9607 .
+

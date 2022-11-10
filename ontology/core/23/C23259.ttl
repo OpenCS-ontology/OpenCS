@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23259 a skos:Concept ;
+    skos:broader ocs:C7255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compact_Disc_manufacturing> ;
+    skos:prefLabel "Compact Disc manufacturing" ;
+    skos:related ocs:C11960,
+        ocs:C12096,
+        ocs:C12211,
+        ocs:C12872,
+        ocs:C1666,
+        ocs:C2473,
+        ocs:C3022,
+        ocs:C30569,
+        ocs:C3508,
+        ocs:C4916,
+        ocs:C7255 .
+

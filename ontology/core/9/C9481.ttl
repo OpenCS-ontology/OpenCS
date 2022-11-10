@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9481 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_fidelity> ;
+    skos:prefLabel "High fidelity" ;
+    skos:related ocs:C15341,
+        ocs:C15505,
+        ocs:C21364,
+        ocs:C25195,
+        ocs:C26449,
+        ocs:C26575,
+        ocs:C3022,
+        ocs:C3843,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C7255,
+        ocs:C8291 .
+

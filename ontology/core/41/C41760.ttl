@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41760 a skos:Concept ;
+    skos:broader ocs:C36308,
+        ocs:C36975,
+        ocs:C37722 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_Form-factor_Pluggable> ;
+    skos:prefLabel "C Form-factor Pluggable" ;
+    skos:related ocs:C12227,
+        ocs:C13932,
+        ocs:C16673,
+        ocs:C18745,
+        ocs:C20373,
+        ocs:C20934,
+        ocs:C21744,
+        ocs:C21894,
+        ocs:C23919,
+        ocs:C34034,
+        ocs:C37722,
+        ocs:C40702,
+        ocs:C44801,
+        ocs:C45502,
+        ocs:C6245,
+        ocs:C8169,
+        ocs:C8567 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23275 a skos:Concept ;
+    skos:broader ocs:C10241 ;
+    skos:closeMatch <http://dbpedia.org/resource/PROGOL> ;
+    skos:prefLabel "PROGOL" ;
+    skos:related ocs:C1,
+        ocs:C10241,
+        ocs:C10327,
+        ocs:C13317,
+        ocs:C16711,
+        ocs:C17372,
+        ocs:C18566,
+        ocs:C19165,
+        ocs:C25,
+        ocs:C27884,
+        ocs:C31369,
+        ocs:C32,
+        ocs:C33736,
+        ocs:C38410,
+        ocs:C40081,
+        ocs:C6531,
+        ocs:C8 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11747 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal-to-noise_ratio> ;
+    skos:prefLabel "Signal-to-noise ratio" ;
+    skos:related ocs:C10409,
+        ocs:C14053,
+        ocs:C1564,
+        ocs:C21471,
+        ocs:C25042,
+        ocs:C3,
+        ocs:C3843,
+        ocs:C5298,
+        ocs:C5853,
+        ocs:C597,
+        ocs:C7502,
+        ocs:C8388 .
+

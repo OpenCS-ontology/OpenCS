@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25733 a skos:Concept ;
+    skos:broader ocs:C12313,
+        ocs:C539 ;
+    skos:prefLabel "Second Suffix" ;
+    skos:related ocs:C1,
+        ocs:C13468,
+        ocs:C16,
+        ocs:C32,
+        ocs:C539,
+        ocs:C8 .
+

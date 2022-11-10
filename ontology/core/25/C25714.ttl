@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25714 a skos:Concept ;
+    skos:broader ocs:C4556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technology_adoption_life_cycle> ;
+    skos:prefLabel "Technology adoption life cycle" ;
+    skos:related ocs:C2544,
+        ocs:C28417,
+        ocs:C32195,
+        ocs:C3321,
+        ocs:C3444,
+        ocs:C4556,
+        ocs:C5156,
+        ocs:C6529 .
+

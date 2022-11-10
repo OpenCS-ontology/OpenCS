@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38276 a skos:Concept ;
+    skos:broader ocs:C33674,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geocast> ;
+    skos:prefLabel "Geocast" ;
+    skos:related ocs:C11027,
+        ocs:C14321,
+        ocs:C15802,
+        ocs:C19544,
+        ocs:C21724,
+        ocs:C26067,
+        ocs:C28520,
+        ocs:C32515,
+        ocs:C3391,
+        ocs:C35362,
+        ocs:C36109,
+        ocs:C36497,
+        ocs:C38045,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C39031,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C43178,
+        ocs:C43511 .
+

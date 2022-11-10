@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37363 a skos:Concept ;
+    skos:broader ocs:C20618 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_Integration_Maturity_Model> ;
+    skos:prefLabel "Service Integration Maturity Model" ;
+    skos:related ocs:C19909,
+        ocs:C27184,
+        ocs:C32188 .
+

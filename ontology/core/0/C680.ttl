@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C680 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Cabin attendant" ;
+    skos:related ocs:C1939,
+        ocs:C5818,
+        ocs:C9605 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15892 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_polygon> ;
+    skos:prefLabel "Generalized polygon" ;
+    skos:related ocs:C15732,
+        ocs:C16887,
+        ocs:C36126,
+        ocs:C38889,
+        ocs:C41373 .
+

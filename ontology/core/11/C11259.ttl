@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11259 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/SOAP-over-UDP> ;
+    skos:prefLabel "SOAP-over-UDP" ;
+    skos:related ocs:C10904,
+        ocs:C13252,
+        ocs:C22709,
+        ocs:C22847,
+        ocs:C29951,
+        ocs:C33040,
+        ocs:C38075,
+        ocs:C38484,
+        ocs:C39108,
+        ocs:C39643,
+        ocs:C40833,
+        ocs:C41982,
+        ocs:C42755,
+        ocs:C43812,
+        ocs:C44609,
+        ocs:C45846,
+        ocs:C6527,
+        ocs:C8347,
+        ocs:C8795,
+        ocs:C9164 .
+

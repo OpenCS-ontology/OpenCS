@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26214 a skos:Concept ;
+    skos:broader ocs:C1332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technology_strategy> ;
+    skos:prefLabel "Technology strategy" ;
+    skos:related ocs:C11644,
+        ocs:C13219,
+        ocs:C1332,
+        ocs:C13420,
+        ocs:C18539,
+        ocs:C197,
+        ocs:C21763,
+        ocs:C32589,
+        ocs:C42767 .
+

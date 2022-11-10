@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43133 a skos:Concept ;
+    skos:broader ocs:C30338 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio-frequency_engineering> ;
+    skos:prefLabel "Radio-frequency engineering" ;
+    skos:related ocs:C1219,
+        ocs:C12999,
+        ocs:C14,
+        ocs:C155,
+        ocs:C3,
+        ocs:C45299,
+        ocs:C5369,
+        ocs:C5397,
+        ocs:C6913,
+        ocs:C7159,
+        ocs:C7216 .
+

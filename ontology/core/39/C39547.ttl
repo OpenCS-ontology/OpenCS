@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39547 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equal-cost_multi-path_routing> ;
+    skos:prefLabel "Equal-cost multi-path routing" ;
+    skos:related ocs:C10563,
+        ocs:C11157,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C23305,
+        ocs:C26,
+        ocs:C31983,
+        ocs:C33957,
+        ocs:C35198,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C42853,
+        ocs:C44074,
+        ocs:C44780,
+        ocs:C44823 .
+

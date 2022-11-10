@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38160 a skos:Concept ;
+    skos:broader ocs:C32049,
+        ocs:C32321,
+        ocs:C32510,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_array> ;
+    skos:prefLabel "Standard array" ;
+    skos:related ocs:C27316,
+        ocs:C29577,
+        ocs:C32510,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C37886,
+        ocs:C39581,
+        ocs:C39924,
+        ocs:C40212,
+        ocs:C41221,
+        ocs:C43048,
+        ocs:C43079,
+        ocs:C43477,
+        ocs:C43991,
+        ocs:C44130,
+        ocs:C44441,
+        ocs:C45024,
+        ocs:C5196 .
+

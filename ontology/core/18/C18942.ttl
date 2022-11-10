@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18942 a skos:Concept ;
+    skos:broader ocs:C10720,
+        ocs:C9646 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_slicing> ;
+    skos:prefLabel "Object slicing" ;
+    skos:related ocs:C10182,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C10909,
+        ocs:C11022,
+        ocs:C12671,
+        ocs:C2201,
+        ocs:C27131,
+        ocs:C2871,
+        ocs:C38027,
+        ocs:C38645,
+        ocs:C43851,
+        ocs:C6587,
+        ocs:C6663,
+        ocs:C7731,
+        ocs:C9046 .
+

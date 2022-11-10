@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45814 a skos:Concept ;
+    skos:broader ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/ITIL_security_management> ;
+    skos:prefLabel "ITIL security management" ;
+    skos:related ocs:C12149,
+        ocs:C1399,
+        ocs:C17699,
+        ocs:C2673,
+        ocs:C27261,
+        ocs:C29840,
+        ocs:C3039,
+        ocs:C31773,
+        ocs:C35144,
+        ocs:C3674,
+        ocs:C38304,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41901,
+        ocs:C43602,
+        ocs:C45654,
+        ocs:C7509,
+        ocs:C9700 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37969 a skos:Concept ;
+    skos:broader ocs:C31512,
+        ocs:C34821 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trigonometric_interpolation> ;
+    skos:prefLabel "Trigonometric interpolation" ;
+    skos:related ocs:C12046,
+        ocs:C13541,
+        ocs:C15652,
+        ocs:C21380,
+        ocs:C31512,
+        ocs:C39716,
+        ocs:C43001,
+        ocs:C44445,
+        ocs:C8781 .
+

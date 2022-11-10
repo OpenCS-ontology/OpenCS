@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20097 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C3905,
+        ocs:C8786 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algebraic_specification> ;
+    skos:prefLabel "Algebraic specification" ;
+    skos:related ocs:C1,
+        ocs:C1035,
+        ocs:C13855,
+        ocs:C14655,
+        ocs:C18606,
+        ocs:C2418,
+        ocs:C31028,
+        ocs:C31722,
+        ocs:C31925,
+        ocs:C32014,
+        ocs:C35170,
+        ocs:C3905,
+        ocs:C41006,
+        ocs:C5280,
+        ocs:C7257,
+        ocs:C7903,
+        ocs:C8786 .
+

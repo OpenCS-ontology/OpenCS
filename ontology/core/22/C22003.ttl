@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22003 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/CrimeStat> ;
+    skos:prefLabel "CrimeStat" ;
+    skos:related ocs:C10382,
+        ocs:C11862,
+        ocs:C11879,
+        ocs:C12232,
+        ocs:C17728,
+        ocs:C22279,
+        ocs:C22762,
+        ocs:C24208,
+        ocs:C26745,
+        ocs:C28090,
+        ocs:C38891,
+        ocs:C44203,
+        ocs:C4534,
+        ocs:C5155,
+        ocs:C5304 .
+

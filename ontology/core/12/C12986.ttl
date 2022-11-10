@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12986 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rational_set> ;
+    skos:prefLabel "Rational set" ;
+    skos:related ocs:C15002,
+        ocs:C15898,
+        ocs:C17566,
+        ocs:C21398,
+        ocs:C22624,
+        ocs:C22977,
+        ocs:C25398,
+        ocs:C26158,
+        ocs:C27087,
+        ocs:C33287,
+        ocs:C3398,
+        ocs:C35757,
+        ocs:C39324,
+        ocs:C43816,
+        ocs:C524 .
+

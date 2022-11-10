@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7689 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Markov_chain> ;
+    skos:prefLabel "Markov chain" ;
+    skos:related ocs:C1844,
+        ocs:C20860,
+        ocs:C23865,
+        ocs:C27053,
+        ocs:C28074,
+        ocs:C32511,
+        ocs:C33043,
+        ocs:C39751,
+        ocs:C5856,
+        ocs:C6594,
+        ocs:C6909 .
+

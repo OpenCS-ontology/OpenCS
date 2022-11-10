@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12444 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Command_history> ;
+    skos:prefLabel "Command history" ;
+    skos:related ocs:C10769,
+        ocs:C1165,
+        ocs:C12815,
+        ocs:C13124,
+        ocs:C1386,
+        ocs:C14271,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C34227,
+        ocs:C4230,
+        ocs:C42619,
+        ocs:C45025,
+        ocs:C4813,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C9,
+        ocs:C9433 .
+

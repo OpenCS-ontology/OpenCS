@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29797 a skos:Concept ;
+    skos:broader ocs:C16028 ;
+    skos:closeMatch <http://dbpedia.org/resource/External_sorting> ;
+    skos:prefLabel "External sorting" ;
+    skos:related ocs:C10,
+        ocs:C13312,
+        ocs:C13783,
+        ocs:C16028,
+        ocs:C17406,
+        ocs:C2747,
+        ocs:C3231,
+        ocs:C32507,
+        ocs:C3409,
+        ocs:C34207,
+        ocs:C36074,
+        ocs:C36120,
+        ocs:C41255,
+        ocs:C41899,
+        ocs:C42589,
+        ocs:C42816,
+        ocs:C44127,
+        ocs:C44314,
+        ocs:C8660 .
+

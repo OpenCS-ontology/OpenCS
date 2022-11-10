@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C302 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tagged_Command_Queuing> ;
+    skos:prefLabel "Tagged Command Queuing" ;
+    skos:related ocs:C11960,
+        ocs:C12324,
+        ocs:C13022,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C20114,
+        ocs:C32160,
+        ocs:C35364,
+        ocs:C39237,
+        ocs:C40587 .
+

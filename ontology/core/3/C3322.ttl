@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3322 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flexible_response> ;
+    skos:prefLabel "Flexible response" ;
+    skos:related ocs:C20104,
+        ocs:C3031,
+        ocs:C31757,
+        ocs:C34143,
+        ocs:C38827 .
+

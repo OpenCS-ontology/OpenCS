@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6729 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meertens_number> ;
+    skos:prefLabel "Meertens number" ;
+    skos:related ocs:C1631,
+        ocs:C23662,
+        ocs:C24201,
+        ocs:C28286,
+        ocs:C2985,
+        ocs:C30395,
+        ocs:C3137,
+        ocs:C3931,
+        ocs:C42091,
+        ocs:C42139,
+        ocs:C9313 .
+

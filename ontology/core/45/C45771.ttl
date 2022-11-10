@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45771 a skos:Concept ;
+    skos:broader ocs:C31774,
+        ocs:C32484,
+        ocs:C37588 ;
+    skos:closeMatch <http://dbpedia.org/resource/ECC_patents> ;
+    skos:prefLabel "ECC patents" ;
+    skos:related ocs:C10458,
+        ocs:C13632,
+        ocs:C32484,
+        ocs:C35371,
+        ocs:C37881,
+        ocs:C37882,
+        ocs:C38277,
+        ocs:C38359,
+        ocs:C39017,
+        ocs:C39389,
+        ocs:C40791,
+        ocs:C42747,
+        ocs:C43074,
+        ocs:C44388,
+        ocs:C44443,
+        ocs:C44564,
+        ocs:C45187,
+        ocs:C970 .
+

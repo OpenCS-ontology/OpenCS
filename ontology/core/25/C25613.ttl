@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25613 a skos:Concept ;
+    skos:broader ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptol> ;
+    skos:prefLabel "Cryptol" ;
+    skos:related ocs:C1386,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17900,
+        ocs:C23439,
+        ocs:C27571,
+        ocs:C28080,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30656,
+        ocs:C35207,
+        ocs:C37174,
+        ocs:C37854,
+        ocs:C4002,
+        ocs:C4032,
+        ocs:C4218,
+        ocs:C44611,
+        ocs:C8964 .
+

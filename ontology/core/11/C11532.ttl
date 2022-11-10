@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11532 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technological_evolution> ;
+    skos:prefLabel "Technological evolution" ;
+    skos:related ocs:C11407,
+        ocs:C12009,
+        ocs:C2544,
+        ocs:C3321,
+        ocs:C8 .
+

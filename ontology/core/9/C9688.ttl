@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9688 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contiguity> ;
+    skos:prefLabel "Contiguity" ;
+    skos:related ocs:C25031,
+        ocs:C33462,
+        ocs:C393,
+        ocs:C7476 .
+

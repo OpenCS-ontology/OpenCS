@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10567 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Callback_(computer_programming)> ;
+    skos:prefLabel "Callback" ;
+    skos:related ocs:C10284,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C11016,
+        ocs:C11128,
+        ocs:C11373,
+        ocs:C12108,
+        ocs:C12848,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C25570,
+        ocs:C2674,
+        ocs:C27380,
+        ocs:C45142,
+        ocs:C4918,
+        ocs:C5279,
+        ocs:C8864 .
+

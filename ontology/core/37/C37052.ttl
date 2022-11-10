@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37052 a skos:Concept ;
+    skos:broader ocs:C24143,
+        ocs:C24967 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPARClite> ;
+    skos:prefLabel "SPARClite" ;
+    skos:related ocs:C11326,
+        ocs:C11582,
+        ocs:C14627,
+        ocs:C20961,
+        ocs:C25171,
+        ocs:C26468,
+        ocs:C31823,
+        ocs:C36686,
+        ocs:C43036,
+        ocs:C43505,
+        ocs:C43964,
+        ocs:C6172,
+        ocs:C7977 .
+

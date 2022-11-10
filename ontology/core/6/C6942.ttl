@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6942 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/RGB_color_model> ;
+    skos:prefLabel "RGB color model" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C17520,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C22083,
+        ocs:C24211,
+        ocs:C32992,
+        ocs:C36633,
+        ocs:C42852,
+        ocs:C44316,
+        ocs:C45041,
+        ocs:C740,
+        ocs:C8021,
+        ocs:C8099 .
+

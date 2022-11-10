@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24830 a skos:Concept ;
+    skos:broader ocs:C546 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_entropy_alloys> ;
+    skos:prefLabel "High entropy alloys" ;
+    skos:related ocs:C24699,
+        ocs:C29965,
+        ocs:C597 .
+

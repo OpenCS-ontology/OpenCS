@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10506 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Actor_model_theory> ;
+    skos:prefLabel "Actor model theory" ;
+    skos:related ocs:C1,
+        ocs:C12427,
+        ocs:C18357,
+        ocs:C19560,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C27278,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C36771,
+        ocs:C38239,
+        ocs:C3990,
+        ocs:C40231,
+        ocs:C40477,
+        ocs:C42819,
+        ocs:C44347,
+        ocs:C5239,
+        ocs:C5974 .
+

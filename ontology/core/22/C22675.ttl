@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22675 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rossomyrmex> ;
+    skos:prefLabel "Rossomyrmex" ;
+    skos:related ocs:C13054,
+        ocs:C13998,
+        ocs:C14314,
+        ocs:C14496,
+        ocs:C14756,
+        ocs:C27032,
+        ocs:C28720 .
+

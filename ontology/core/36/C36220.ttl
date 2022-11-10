@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36220 a skos:Concept ;
+    skos:broader ocs:C22309 ;
+    skos:prefLabel "Nervus suralis" ;
+    skos:related ocs:C22309,
+        ocs:C31572 .
+

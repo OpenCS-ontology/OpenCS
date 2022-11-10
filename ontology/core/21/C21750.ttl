@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21750 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cataglyphis> ;
+    skos:prefLabel "Cataglyphis" ;
+    skos:related ocs:C14314,
+        ocs:C14496,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C22675,
+        ocs:C28251,
+        ocs:C28998,
+        ocs:C32656 .
+

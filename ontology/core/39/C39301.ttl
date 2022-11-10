@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39301 a skos:Concept ;
+    skos:broader ocs:C36281 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nominal_impedance> ;
+    skos:prefLabel "Nominal impedance" ;
+    skos:related ocs:C11554,
+        ocs:C1219,
+        ocs:C15194,
+        ocs:C19234,
+        ocs:C22526,
+        ocs:C32554,
+        ocs:C6913,
+        ocs:C8291 .
+

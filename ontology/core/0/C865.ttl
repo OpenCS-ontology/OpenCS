@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C865 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_Internet_registry> ;
+    skos:prefLabel "Local Internet registry" ;
+    skos:related ocs:C14321,
+        ocs:C16399,
+        ocs:C17864,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C19624,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C209,
+        ocs:C2181,
+        ocs:C24727,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C38045,
+        ocs:C41298,
+        ocs:C41442,
+        ocs:C43015,
+        ocs:C43820,
+        ocs:C44229,
+        ocs:C8614 .
+

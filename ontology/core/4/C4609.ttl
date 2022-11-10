@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4609 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_teleconferencing_unit> ;
+    skos:prefLabel "Video teleconferencing unit" ;
+    skos:related ocs:C13253,
+        ocs:C16678,
+        ocs:C19334,
+        ocs:C26,
+        ocs:C27570,
+        ocs:C28738,
+        ocs:C28952,
+        ocs:C3,
+        ocs:C37232,
+        ocs:C41438,
+        ocs:C41508,
+        ocs:C420,
+        ocs:C6453,
+        ocs:C8410,
+        ocs:C8567,
+        ocs:C9105,
+        ocs:C9480 .
+

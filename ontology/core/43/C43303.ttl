@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43303 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database-centric_architecture> ;
+    skos:prefLabel "Database-centric architecture" ;
+    skos:related ocs:C10508,
+        ocs:C10988,
+        ocs:C12810,
+        ocs:C14329,
+        ocs:C14401,
+        ocs:C16874,
+        ocs:C2303,
+        ocs:C30,
+        ocs:C34713,
+        ocs:C38130,
+        ocs:C3934,
+        ocs:C41867,
+        ocs:C43774,
+        ocs:C5722,
+        ocs:C6,
+        ocs:C7106,
+        ocs:C9 .
+

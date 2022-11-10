@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13423 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Source_data> ;
+    skos:prefLabel "Source data" ;
+    skos:related ocs:C10459,
+        ocs:C11087,
+        ocs:C11094,
+        ocs:C12100,
+        ocs:C1399,
+        ocs:C22203,
+        ocs:C27130,
+        ocs:C29377,
+        ocs:C35,
+        ocs:C3538,
+        ocs:C3696,
+        ocs:C42440,
+        ocs:C5094,
+        ocs:C6,
+        ocs:C7372,
+        ocs:C7510,
+        ocs:C8566,
+        ocs:C941,
+        ocs:C9488 .
+

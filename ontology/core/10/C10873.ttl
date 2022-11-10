@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10873 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/BiSS_interface> ;
+    skos:prefLabel "BiSS interface" ;
+    skos:related ocs:C15308,
+        ocs:C1588,
+        ocs:C16191,
+        ocs:C17236,
+        ocs:C20961,
+        ocs:C23445,
+        ocs:C34195,
+        ocs:C36377,
+        ocs:C6538,
+        ocs:C7794,
+        ocs:C7967 .
+

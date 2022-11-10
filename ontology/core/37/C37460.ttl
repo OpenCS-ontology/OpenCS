@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37460 a skos:Concept ;
+    skos:broader ocs:C27390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mereotopology> ;
+    skos:prefLabel "Mereotopology" ;
+    skos:related ocs:C10622,
+        ocs:C12474,
+        ocs:C1443,
+        ocs:C15492,
+        ocs:C2418,
+        ocs:C27390,
+        ocs:C39138,
+        ocs:C42656,
+        ocs:C42903,
+        ocs:C8635 .
+

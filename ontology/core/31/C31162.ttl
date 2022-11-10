@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31162 a skos:Concept ;
+    skos:broader ocs:C22263,
+        ocs:C27284 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proactive_secret_sharing> ;
+    skos:prefLabel "Proactive secret sharing" .
+

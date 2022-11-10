@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41062 a skos:Concept ;
+    skos:broader ocs:C33410,
+        ocs:C34473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_(broadcasting)> ;
+    skos:prefLabel "Channel (broadcasting)" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C1727,
+        ocs:C17432,
+        ocs:C17564,
+        ocs:C17663,
+        ocs:C1841,
+        ocs:C19903,
+        ocs:C28716,
+        ocs:C2952,
+        ocs:C31200,
+        ocs:C34364,
+        ocs:C35564,
+        ocs:C44707,
+        ocs:C5511 .
+

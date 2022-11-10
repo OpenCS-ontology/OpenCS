@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38791 a skos:Concept ;
+    skos:broader ocs:C30982,
+        ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributed_System_Security_Architecture> ;
+    skos:prefLabel "Distributed System Security Architecture" ;
+    skos:related ocs:C21059,
+        ocs:C21232,
+        ocs:C27768,
+        ocs:C29401,
+        ocs:C33988,
+        ocs:C35047,
+        ocs:C35388,
+        ocs:C35626,
+        ocs:C39337,
+        ocs:C39967,
+        ocs:C41533,
+        ocs:C44321,
+        ocs:C44455,
+        ocs:C45494,
+        ocs:C45563,
+        ocs:C45587,
+        ocs:C7006,
+        ocs:C7738,
+        ocs:C8711 .
+

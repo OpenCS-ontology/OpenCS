@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21655 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_Lightning_Process> ;
+    skos:prefLabel "The Lightning Process" ;
+    skos:related ocs:C2426 .
+

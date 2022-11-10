@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32749 a skos:Concept ;
+    skos:broader ocs:C18138,
+        ocs:C23973 ;
+    skos:closeMatch <http://dbpedia.org/resource/SK_channel> ;
+    skos:prefLabel "SK channel" ;
+    skos:related ocs:C14264,
+        ocs:C18138,
+        ocs:C23973,
+        ocs:C32084,
+        ocs:C33703,
+        ocs:C36128,
+        ocs:C36762,
+        ocs:C37240,
+        ocs:C37268,
+        ocs:C37784,
+        ocs:C41774 .
+

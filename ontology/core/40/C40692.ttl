@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40692 a skos:Concept ;
+    skos:broader ocs:C34749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_model_(cryptography)> ;
+    skos:prefLabel "Standard model (cryptography)" ;
+    skos:related ocs:C15837,
+        ocs:C16026,
+        ocs:C16125,
+        ocs:C20978,
+        ocs:C21262,
+        ocs:C23875,
+        ocs:C27571,
+        ocs:C31401,
+        ocs:C32192,
+        ocs:C33426,
+        ocs:C34749,
+        ocs:C39168,
+        ocs:C39619,
+        ocs:C40978,
+        ocs:C4218,
+        ocs:C45207,
+        ocs:C45714,
+        ocs:C8401 .
+

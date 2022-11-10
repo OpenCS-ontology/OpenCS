@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24852 a skos:Concept ;
+    skos:broader ocs:C12075,
+        ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perdurantism> ;
+    skos:prefLabel "Perdurantism" ;
+    skos:related ocs:C1443,
+        ocs:C21596,
+        ocs:C21773,
+        ocs:C27390,
+        ocs:C32467,
+        ocs:C34630 .
+

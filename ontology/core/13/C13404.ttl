@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13404 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gigamacro> ;
+    skos:prefLabel "Gigamacro" ;
+    skos:related ocs:C1023,
+        ocs:C10973,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C13970,
+        ocs:C19157,
+        ocs:C23921,
+        ocs:C27111,
+        ocs:C43198,
+        ocs:C5854,
+        ocs:C7 .
+

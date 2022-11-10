@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23150 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electroluminescent_display> ;
+    skos:prefLabel "Electroluminescent display" ;
+    skos:related ocs:C1084,
+        ocs:C13725,
+        ocs:C17088,
+        ocs:C9605 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1455 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/D-STAR> ;
+    skos:prefLabel "D-STAR" ;
+    skos:related ocs:C10826,
+        ocs:C11669,
+        ocs:C13110,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C3310,
+        ocs:C36766,
+        ocs:C3690,
+        ocs:C38701,
+        ocs:C39720,
+        ocs:C43595,
+        ocs:C43783,
+        ocs:C44033,
+        ocs:C44700,
+        ocs:C44702,
+        ocs:C45653,
+        ocs:C6883 .
+

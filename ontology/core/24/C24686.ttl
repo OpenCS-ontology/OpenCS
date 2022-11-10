@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24686 a skos:Concept ;
+    skos:broader ocs:C2941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indicator_of_compromise> ;
+    skos:prefLabel "Indicator of compromise" ;
+    skos:related ocs:C10565,
+        ocs:C13307,
+        ocs:C16481,
+        ocs:C17205,
+        ocs:C18986,
+        ocs:C25123,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C32264,
+        ocs:C34356,
+        ocs:C40900,
+        ocs:C41003,
+        ocs:C42100,
+        ocs:C4715,
+        ocs:C6473,
+        ocs:C8614 .
+

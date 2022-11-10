@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33046 a skos:Concept ;
+    skos:broader ocs:C22527 ;
+    skos:closeMatch <http://dbpedia.org/resource/CLIC5> ;
+    skos:prefLabel "CLIC5" ;
+    skos:related ocs:C32191,
+        ocs:C37794 .
+

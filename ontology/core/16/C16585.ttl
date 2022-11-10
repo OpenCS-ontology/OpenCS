@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16585 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C9720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-separation> ;
+    skos:prefLabel "Self-separation" ;
+    skos:related ocs:C13785,
+        ocs:C15050,
+        ocs:C15666,
+        ocs:C18229,
+        ocs:C18996,
+        ocs:C23082,
+        ocs:C23477,
+        ocs:C27838,
+        ocs:C29896,
+        ocs:C30105,
+        ocs:C35629,
+        ocs:C37243,
+        ocs:C45176,
+        ocs:C4597 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33325 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C17246,
+        ocs:C18299,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Central_Molecular_Zone> ;
+    skos:prefLabel "Central Molecular Zone" .
+

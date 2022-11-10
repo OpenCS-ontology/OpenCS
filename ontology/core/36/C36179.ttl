@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36179 a skos:Concept ;
+    skos:broader ocs:C14576,
+        ocs:C19972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quasi-triangulation> ;
+    skos:prefLabel "Quasi-triangulation" ;
+    skos:related ocs:C13876,
+        ocs:C18359,
+        ocs:C2747,
+        ocs:C32108,
+        ocs:C40660,
+        ocs:C4867,
+        ocs:C8271 .
+

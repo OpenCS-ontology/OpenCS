@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22244 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chinese_restaurant_process> ;
+    skos:prefLabel "Chinese restaurant process" ;
+    skos:related ocs:C1844,
+        ocs:C23070,
+        ocs:C23888,
+        ocs:C32480,
+        ocs:C33289,
+        ocs:C39577,
+        ocs:C6909,
+        ocs:C7689 .
+

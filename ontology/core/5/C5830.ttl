@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5830 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frequency_frogging> ;
+    skos:prefLabel "Frequency frogging" ;
+    skos:related ocs:C12844,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C20151,
+        ocs:C21891,
+        ocs:C2582,
+        ocs:C26712,
+        ocs:C3,
+        ocs:C32919,
+        ocs:C35301,
+        ocs:C4343,
+        ocs:C5725,
+        ocs:C7444,
+        ocs:C7502,
+        ocs:C8876 .
+

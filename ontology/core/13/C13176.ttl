@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13176 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_Search> ;
+    skos:prefLabel "Knowledge Search" ;
+    skos:related ocs:C10225,
+        ocs:C34300,
+        ocs:C40049,
+        ocs:C8614 .
+

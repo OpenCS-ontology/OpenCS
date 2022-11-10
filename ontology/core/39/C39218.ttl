@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39218 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C30878,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_scrubbing> ;
+    skos:prefLabel "Memory scrubbing" ;
+    skos:related ocs:C10501,
+        ocs:C10684,
+        ocs:C13875,
+        ocs:C14144,
+        ocs:C17668,
+        ocs:C17903,
+        ocs:C21929,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27316,
+        ocs:C27610,
+        ocs:C28907,
+        ocs:C30001,
+        ocs:C3118,
+        ocs:C35697,
+        ocs:C8613 .
+

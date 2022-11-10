@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32235 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:prefLabel "Software Problem" ;
+    skos:related ocs:C10617,
+        ocs:C12257,
+        ocs:C17,
+        ocs:C2,
+        ocs:C25,
+        ocs:C2673,
+        ocs:C30,
+        ocs:C30036,
+        ocs:C32978,
+        ocs:C33,
+        ocs:C8704 .
+

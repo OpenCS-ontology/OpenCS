@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35167 a skos:Concept ;
+    skos:broader ocs:C26016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bézier_triangle> ;
+    skos:prefLabel "Bézier triangle" ;
+    skos:related ocs:C10672,
+        ocs:C22,
+        ocs:C26016,
+        ocs:C29534,
+        ocs:C37137,
+        ocs:C3851,
+        ocs:C45272,
+        ocs:C9372 .
+

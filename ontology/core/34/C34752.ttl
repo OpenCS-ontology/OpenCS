@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34752 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_distribution> ;
+    skos:prefLabel "Key distribution" ;
+    skos:related ocs:C16125,
+        ocs:C17314,
+        ocs:C20555,
+        ocs:C21324,
+        ocs:C24131,
+        ocs:C27571,
+        ocs:C30595,
+        ocs:C30652,
+        ocs:C30656,
+        ocs:C30826,
+        ocs:C31774,
+        ocs:C32192,
+        ocs:C35146,
+        ocs:C36136,
+        ocs:C38359,
+        ocs:C39391,
+        ocs:C4218,
+        ocs:C4225,
+        ocs:C44481 .
+

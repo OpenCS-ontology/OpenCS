@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17897 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chemical_computer> ;
+    skos:prefLabel "Chemical computer" ;
+    skos:related ocs:C122,
+        ocs:C12781,
+        ocs:C20120,
+        ocs:C23425,
+        ocs:C2619 .
+

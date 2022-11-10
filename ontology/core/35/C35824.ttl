@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35824 a skos:Concept ;
+    skos:broader ocs:C29443 ;
+    skos:prefLabel "Phonological delay" ;
+    skos:related ocs:C13096,
+        ocs:C16,
+        ocs:C29443 .
+

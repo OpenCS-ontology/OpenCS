@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37554 a skos:Concept ;
+    skos:broader ocs:C19549,
+        ocs:C25412 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_Catalogue_of_Variable_Stars> ;
+    skos:prefLabel "General Catalogue of Variable Stars" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C19549,
+        ocs:C21656,
+        ocs:C22001,
+        ocs:C22752,
+        ocs:C24129,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C30543,
+        ocs:C31023,
+        ocs:C31589,
+        ocs:C597 .
+

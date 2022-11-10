@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4812 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/BioHazard> ;
+    skos:prefLabel "BioHazard" ;
+    skos:related ocs:C10686,
+        ocs:C12867,
+        ocs:C16011,
+        ocs:C1888,
+        ocs:C26181,
+        ocs:C27770,
+        ocs:C28740,
+        ocs:C30596,
+        ocs:C32401,
+        ocs:C34535,
+        ocs:C37010,
+        ocs:C3808,
+        ocs:C40324,
+        ocs:C41082,
+        ocs:C43810,
+        ocs:C44167,
+        ocs:C8556,
+        ocs:C9211,
+        ocs:C979 .
+

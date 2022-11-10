@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26603 a skos:Concept ;
+    skos:broader ocs:C4917 ;
+    skos:closeMatch <http://dbpedia.org/resource/EPCglobal_Network> ;
+    skos:prefLabel "EPCglobal Network" ;
+    skos:related ocs:C10620,
+        ocs:C12698,
+        ocs:C18731,
+        ocs:C20152,
+        ocs:C20205,
+        ocs:C27613,
+        ocs:C30984,
+        ocs:C31628,
+        ocs:C37274,
+        ocs:C4917,
+        ocs:C525,
+        ocs:C8614 .
+

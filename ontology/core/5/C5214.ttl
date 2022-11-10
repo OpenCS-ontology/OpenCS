@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5214 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supervisory_program> ;
+    skos:prefLabel "Supervisory program" ;
+    skos:related ocs:C10320,
+        ocs:C1083,
+        ocs:C12683,
+        ocs:C13853,
+        ocs:C1396,
+        ocs:C15595,
+        ocs:C17204,
+        ocs:C23926,
+        ocs:C26161,
+        ocs:C36897,
+        ocs:C42662,
+        ocs:C42695,
+        ocs:C45142,
+        ocs:C5698,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

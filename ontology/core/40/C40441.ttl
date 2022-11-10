@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40441 a skos:Concept ;
+    skos:broader ocs:C34795 ;
+    skos:closeMatch <http://dbpedia.org/resource/Epistemic_possibility> ;
+    skos:prefLabel "Epistemic possibility" ;
+    skos:related ocs:C17925,
+        ocs:C31196,
+        ocs:C32467,
+        ocs:C34795,
+        ocs:C36725,
+        ocs:C37475,
+        ocs:C38919,
+        ocs:C41203,
+        ocs:C41584,
+        ocs:C43371,
+        ocs:C4970 .
+

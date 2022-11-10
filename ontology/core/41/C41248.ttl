@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41248 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interface_(Java)> ;
+    skos:prefLabel "Interface (Java)" ;
+    skos:related ocs:C10182,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C11816,
+        ocs:C1335,
+        ocs:C16290,
+        ocs:C2419,
+        ocs:C25570,
+        ocs:C27131,
+        ocs:C28944,
+        ocs:C31693,
+        ocs:C3282,
+        ocs:C33621,
+        ocs:C36327,
+        ocs:C41633,
+        ocs:C44708,
+        ocs:C44845,
+        ocs:C5308 .
+

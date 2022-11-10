@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38275 a skos:Concept ;
+    skos:broader ocs:C30269,
+        ocs:C33093,
+        ocs:C35103,
+        ocs:C36407,
+        ocs:C37236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Catalog_of_articles_in_probability_theory> ;
+    skos:prefLabel "Catalog of articles in probability theory" ;
+    skos:related ocs:C15797,
+        ocs:C20805,
+        ocs:C22092,
+        ocs:C32480,
+        ocs:C36941,
+        ocs:C37683,
+        ocs:C38052,
+        ocs:C38568,
+        ocs:C42421,
+        ocs:C8332,
+        ocs:C9326 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12992 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unidirectional_Link_Detection> ;
+    skos:prefLabel "Unidirectional Link Detection" ;
+    skos:related ocs:C11157,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C15589,
+        ocs:C20373,
+        ocs:C26,
+        ocs:C2986,
+        ocs:C3193,
+        ocs:C31983,
+        ocs:C39009,
+        ocs:C40973,
+        ocs:C42239,
+        ocs:C42584,
+        ocs:C42689,
+        ocs:C42692,
+        ocs:C44294,
+        ocs:C45690,
+        ocs:C4720,
+        ocs:C490 .
+

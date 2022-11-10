@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14905 a skos:Concept ;
+    skos:broader ocs:C2975 ;
+    skos:closeMatch <http://dbpedia.org/resource/HIRF> ;
+    skos:prefLabel "HIRF" ;
+    skos:related ocs:C23993,
+        ocs:C27912,
+        ocs:C45299,
+        ocs:C4585,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C9060 .
+

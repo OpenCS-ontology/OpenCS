@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22318 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synfire_chain> ;
+    skos:prefLabel "Synfire chain" ;
+    skos:related ocs:C13933,
+        ocs:C14221,
+        ocs:C24856,
+        ocs:C9854 .
+

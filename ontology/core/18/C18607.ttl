@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18607 a skos:Concept ;
+    skos:broader ocs:C8581 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elementary_arithmetic> ;
+    skos:prefLabel "Elementary arithmetic" ;
+    skos:related ocs:C18079,
+        ocs:C25038,
+        ocs:C37399,
+        ocs:C4048 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1978 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/PPPoX> ;
+    skos:prefLabel "PPPoX" ;
+    skos:related ocs:C10992,
+        ocs:C15589,
+        ocs:C18213,
+        ocs:C20314,
+        ocs:C24335,
+        ocs:C24348,
+        ocs:C24563,
+        ocs:C25384,
+        ocs:C27426,
+        ocs:C2842,
+        ocs:C3039,
+        ocs:C37369,
+        ocs:C41466,
+        ocs:C41934,
+        ocs:C42053,
+        ocs:C44603,
+        ocs:C45282,
+        ocs:C4766,
+        ocs:C5213 .
+

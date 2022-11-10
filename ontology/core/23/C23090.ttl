@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23090 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006,
+        ocs:C2005,
+        ocs:C6764,
+        ocs:C7563,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phrase_chunking> ;
+    skos:prefLabel "Phrase chunking" ;
+    skos:related ocs:C12696,
+        ocs:C16635,
+        ocs:C17657,
+        ocs:C18082,
+        ocs:C18845,
+        ocs:C20433,
+        ocs:C21988,
+        ocs:C23232,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C30931,
+        ocs:C32,
+        ocs:C3612,
+        ocs:C3838,
+        ocs:C5852,
+        ocs:C8454 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41837 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555,
+        ocs:C35370,
+        ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_distribution_system> ;
+    skos:prefLabel "Wireless distribution system" ;
+    skos:related ocs:C10331,
+        ocs:C13786,
+        ocs:C15865,
+        ocs:C21760,
+        ocs:C22559,
+        ocs:C25870,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C39020,
+        ocs:C41893,
+        ocs:C4197,
+        ocs:C41995,
+        ocs:C42902,
+        ocs:C44700,
+        ocs:C45757,
+        ocs:C45852,
+        ocs:C490,
+        ocs:C5343 .
+

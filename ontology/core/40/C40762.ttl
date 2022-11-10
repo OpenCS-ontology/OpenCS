@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40762 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/SequenceL> ;
+    skos:prefLabel "SequenceL" ;
+    skos:related ocs:C12690,
+        ocs:C16968,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21436,
+        ocs:C22968,
+        ocs:C27,
+        ocs:C28944,
+        ocs:C29066,
+        ocs:C30700,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C6244,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C8751 .
+

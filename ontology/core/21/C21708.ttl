@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21708 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silicon_drift_detector> ;
+    skos:prefLabel "Silicon drift detector" ;
+    skos:related ocs:C18360,
+        ocs:C19292,
+        ocs:C19353,
+        ocs:C19382,
+        ocs:C19524,
+        ocs:C26747 .
+

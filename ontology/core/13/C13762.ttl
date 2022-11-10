@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13762 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Function Indicator" ;
+    skos:related ocs:C11700,
+        ocs:C15728,
+        ocs:C17,
+        ocs:C2,
+        ocs:C20957,
+        ocs:C21,
+        ocs:C33,
+        ocs:C5336 .
+

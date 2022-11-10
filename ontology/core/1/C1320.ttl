@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1320 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_management> ;
+    skos:prefLabel "State management" ;
+    skos:related ocs:C10720,
+        ocs:C12810,
+        ocs:C17235,
+        ocs:C17556,
+        ocs:C28801,
+        ocs:C6852,
+        ocs:C7395,
+        ocs:C7530,
+        ocs:C7736 .
+

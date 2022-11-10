@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39545 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_embedding> ;
+    skos:prefLabel "Graph embedding" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C20376,
+        ocs:C30730,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38853,
+        ocs:C38962,
+        ocs:C39100,
+        ocs:C39263,
+        ocs:C39334,
+        ocs:C39781,
+        ocs:C42281,
+        ocs:C42723,
+        ocs:C43374,
+        ocs:C43652,
+        ocs:C45361,
+        ocs:C8660 .
+

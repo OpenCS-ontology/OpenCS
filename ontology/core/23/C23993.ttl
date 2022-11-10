@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23993 a skos:Concept ;
+    skos:broader ocs:C2975,
+        ocs:C5511 ;
+    skos:closeMatch <http://dbpedia.org/resource/EMC_problem_(excessive_field_strength)> ;
+    skos:prefLabel "EMC problem" ;
+    skos:related ocs:C1219,
+        ocs:C12582,
+        ocs:C15505,
+        ocs:C15511,
+        ocs:C17432,
+        ocs:C17926,
+        ocs:C18001,
+        ocs:C28279,
+        ocs:C30539,
+        ocs:C37939,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C4585,
+        ocs:C5511,
+        ocs:C6922,
+        ocs:C9691 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39133 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ontology_components> ;
+    skos:prefLabel "Ontology components" ;
+    skos:related ocs:C10182,
+        ocs:C12856,
+        ocs:C12977,
+        ocs:C13701,
+        ocs:C20684,
+        ocs:C23868,
+        ocs:C25681,
+        ocs:C28591,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C39137,
+        ocs:C41504,
+        ocs:C41641,
+        ocs:C41877,
+        ocs:C42555,
+        ocs:C42887,
+        ocs:C928,
+        ocs:C9836 .
+

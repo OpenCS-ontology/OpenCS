@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14998 a skos:Concept ;
+    skos:broader ocs:C2847 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_loan> ;
+    skos:prefLabel "Semantic loan" ;
+    skos:related ocs:C1451,
+        ocs:C2578,
+        ocs:C26019,
+        ocs:C26304,
+        ocs:C28248,
+        ocs:C2847,
+        ocs:C3888,
+        ocs:C4270,
+        ocs:C5990,
+        ocs:C6018,
+        ocs:C6308 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21323 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phase_portrait> ;
+    skos:prefLabel "Phase portrait" ;
+    skos:related ocs:C13992,
+        ocs:C14592,
+        ocs:C18223,
+        ocs:C18420 .
+

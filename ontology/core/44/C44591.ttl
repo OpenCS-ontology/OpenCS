@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44591 a skos:Concept ;
+    skos:broader ocs:C32347,
+        ocs:C33035,
+        ocs:C33304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morse–Kelley_set_theory> ;
+    skos:prefLabel "Morse–Kelley set theory" ;
+    skos:related ocs:C12474,
+        ocs:C16069,
+        ocs:C16190,
+        ocs:C19818,
+        ocs:C2418,
+        ocs:C27491,
+        ocs:C33304,
+        ocs:C39138,
+        ocs:C42555,
+        ocs:C42656,
+        ocs:C43476,
+        ocs:C45205,
+        ocs:C45913,
+        ocs:C5251 .
+

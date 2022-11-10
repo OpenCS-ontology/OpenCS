@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1600 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/GemIdent> ;
+    skos:prefLabel "GemIdent" ;
+    skos:related ocs:C10275,
+        ocs:C11887,
+        ocs:C13024,
+        ocs:C15748,
+        ocs:C16363,
+        ocs:C19697,
+        ocs:C25,
+        ocs:C26767,
+        ocs:C29175,
+        ocs:C31947,
+        ocs:C32479,
+        ocs:C33427,
+        ocs:C33917,
+        ocs:C35308,
+        ocs:C42678,
+        ocs:C44133,
+        ocs:C6021,
+        ocs:C7 .
+

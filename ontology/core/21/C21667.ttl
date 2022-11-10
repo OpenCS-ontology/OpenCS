@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21667 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:prefLabel "Myelinated nerve fiber" ;
+    skos:related ocs:C14226,
+        ocs:C18056,
+        ocs:C18138,
+        ocs:C22309 .
+

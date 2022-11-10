@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5029 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Animat> ;
+    skos:prefLabel "Animat" ;
+    skos:related ocs:C10396,
+        ocs:C11143,
+        ocs:C23612,
+        ocs:C25512,
+        ocs:C26518,
+        ocs:C27116,
+        ocs:C27121,
+        ocs:C31036,
+        ocs:C35231,
+        ocs:C5776,
+        ocs:C6787,
+        ocs:C7334,
+        ocs:C8,
+        ocs:C9022 .
+

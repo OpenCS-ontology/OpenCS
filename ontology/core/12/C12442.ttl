@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12442 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/DF-1_Protocol> ;
+    skos:prefLabel "DF-1 Protocol" ;
+    skos:related ocs:C17404,
+        ocs:C20659,
+        ocs:C20810,
+        ocs:C2316,
+        ocs:C38589,
+        ocs:C43772,
+        ocs:C45243,
+        ocs:C5814,
+        ocs:C6451,
+        ocs:C7701,
+        ocs:C7794 .
+

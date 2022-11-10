@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7462 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Daisy_chain_(electrical_engineering)> ;
+    skos:prefLabel "Daisy chain" ;
+    skos:related ocs:C12815,
+        ocs:C1449,
+        ocs:C15858,
+        ocs:C21604,
+        ocs:C22530,
+        ocs:C3,
+        ocs:C3357,
+        ocs:C4099,
+        ocs:C41110,
+        ocs:C653 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33779 a skos:Concept ;
+    skos:broader ocs:C18799 ;
+    skos:closeMatch <http://dbpedia.org/resource/Welch_bounds> ;
+    skos:prefLabel "Welch bounds" ;
+    skos:related ocs:C14325,
+        ocs:C19348,
+        ocs:C21421,
+        ocs:C23786,
+        ocs:C25040,
+        ocs:C27703,
+        ocs:C34469,
+        ocs:C6863 .
+

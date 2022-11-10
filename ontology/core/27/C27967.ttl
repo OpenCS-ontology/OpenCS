@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27967 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/IPoE> ;
+    skos:prefLabel "IPoE" ;
+    skos:related ocs:C125,
+        ocs:C1398,
+        ocs:C16465,
+        ocs:C20125,
+        ocs:C20314,
+        ocs:C2181,
+        ocs:C24335,
+        ocs:C24727,
+        ocs:C2588,
+        ocs:C26,
+        ocs:C29949,
+        ocs:C31690,
+        ocs:C3259,
+        ocs:C37752,
+        ocs:C39947,
+        ocs:C40329,
+        ocs:C43997,
+        ocs:C44801,
+        ocs:C45690 .
+

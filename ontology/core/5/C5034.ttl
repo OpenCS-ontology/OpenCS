@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5034 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-platform> ;
+    skos:prefLabel "Cross-platform" ;
+    skos:related ocs:C10284,
+        ocs:C11262,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C1386,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C19,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C9 .
+

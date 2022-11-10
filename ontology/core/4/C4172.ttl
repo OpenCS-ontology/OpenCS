@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4172 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Positioning_technology> ;
+    skos:prefLabel "Positioning technology" ;
+    skos:related ocs:C10587,
+        ocs:C12641,
+        ocs:C14324,
+        ocs:C16352,
+        ocs:C1793,
+        ocs:C2403,
+        ocs:C27698,
+        ocs:C40171,
+        ocs:C4398,
+        ocs:C44290,
+        ocs:C7398,
+        ocs:C7850,
+        ocs:C9242 .
+

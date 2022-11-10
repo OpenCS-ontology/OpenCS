@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37095 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Credit_card_fraud> ;
+    skos:prefLabel "Credit card fraud" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C17046,
+        ocs:C18100,
+        ocs:C18629,
+        ocs:C20937,
+        ocs:C22776,
+        ocs:C25306,
+        ocs:C28781,
+        ocs:C31096,
+        ocs:C32504,
+        ocs:C33074,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C394,
+        ocs:C41033,
+        ocs:C44448,
+        ocs:C45140 .
+

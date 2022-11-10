@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10738 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Principle_of_good_enough> ;
+    skos:prefLabel "Principle of good enough" ;
+    skos:related ocs:C11591,
+        ocs:C11785,
+        ocs:C1253,
+        ocs:C16160,
+        ocs:C18743,
+        ocs:C2265,
+        ocs:C30048,
+        ocs:C31489,
+        ocs:C34713,
+        ocs:C37875,
+        ocs:C42543,
+        ocs:C42972,
+        ocs:C44773,
+        ocs:C45042,
+        ocs:C45279,
+        ocs:C45409,
+        ocs:C76 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18879 a skos:Concept ;
+    skos:broader ocs:C5555 ;
+    skos:closeMatch <http://dbpedia.org/resource/Law_enforcement> ;
+    skos:prefLabel "Enforcement law" ;
+    skos:related ocs:C3,
+        ocs:C3390,
+        ocs:C4694,
+        ocs:C6243,
+        ocs:C9325,
+        ocs:C9657 .
+

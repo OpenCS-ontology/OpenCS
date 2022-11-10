@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18436 a skos:Concept ;
+    skos:broader ocs:C8387 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_of_systems_engineering> ;
+    skos:prefLabel "System of systems engineering" ;
+    skos:related ocs:C13152,
+        ocs:C27787,
+        ocs:C28454,
+        ocs:C28702,
+        ocs:C29840,
+        ocs:C30528,
+        ocs:C35039,
+        ocs:C41641,
+        ocs:C44906,
+        ocs:C5863,
+        ocs:C6595 .
+

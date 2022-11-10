@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21023 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C6714 ;
+    skos:closeMatch <http://dbpedia.org/resource/MINPACK> ;
+    skos:prefLabel "MINPACK" ;
+    skos:related ocs:C16904,
+        ocs:C20013,
+        ocs:C24390,
+        ocs:C25756,
+        ocs:C29738,
+        ocs:C34940,
+        ocs:C6714,
+        ocs:C7471 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10456 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inscribed_sphere> ;
+    skos:prefLabel "Inscribed sphere" ;
+    skos:related ocs:C33135,
+        ocs:C33802,
+        ocs:C35312,
+        ocs:C35696,
+        ocs:C37173,
+        ocs:C38670,
+        ocs:C38990,
+        ocs:C40196 .
+

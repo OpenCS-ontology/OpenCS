@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29952 a skos:Concept ;
+    skos:broader ocs:C28402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lindblad_resonance> ;
+    skos:prefLabel "Lindblad resonance" ;
+    skos:related ocs:C14267,
+        ocs:C17246,
+        ocs:C28402,
+        ocs:C34069,
+        ocs:C42436 .
+

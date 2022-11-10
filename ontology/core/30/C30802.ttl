@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30802 a skos:Concept ;
+    skos:broader ocs:C22180 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metamorphic_testing> ;
+    skos:prefLabel "Metamorphic testing" ;
+    skos:related ocs:C11383,
+        ocs:C13313,
+        ocs:C16914,
+        ocs:C18415,
+        ocs:C18784,
+        ocs:C19404,
+        ocs:C25956,
+        ocs:C29790,
+        ocs:C32613,
+        ocs:C36470,
+        ocs:C38219,
+        ocs:C38557,
+        ocs:C40291,
+        ocs:C41342,
+        ocs:C42333,
+        ocs:C44158,
+        ocs:C8895,
+        ocs:C9047 .
+

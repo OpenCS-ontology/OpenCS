@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27530 a skos:Concept ;
+    skos:broader ocs:C2480,
+        ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/French_Sign_Language> ;
+    skos:prefLabel "French Sign Language" ;
+    skos:related ocs:C14125,
+        ocs:C15973,
+        ocs:C16631,
+        ocs:C17649,
+        ocs:C20481,
+        ocs:C20561,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26953,
+        ocs:C30694,
+        ocs:C34292,
+        ocs:C44007,
+        ocs:C7501,
+        ocs:C7858 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32349 a skos:Concept ;
+    skos:broader ocs:C19355 ;
+    skos:closeMatch <http://dbpedia.org/resource/Initial_topology> ;
+    skos:prefLabel "Initial topology" ;
+    skos:related ocs:C33798,
+        ocs:C33893,
+        ocs:C6221 .
+

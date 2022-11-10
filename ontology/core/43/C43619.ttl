@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43619 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Connectionless_routing> ;
+    skos:prefLabel "Connectionless routing" ;
+    skos:related ocs:C10563,
+        ocs:C10913,
+        ocs:C14134,
+        ocs:C20540,
+        ocs:C22819,
+        ocs:C25291,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C30986,
+        ocs:C35494,
+        ocs:C38039,
+        ocs:C38485,
+        ocs:C38632,
+        ocs:C43595,
+        ocs:C44561,
+        ocs:C44663,
+        ocs:C5334,
+        ocs:C6185,
+        ocs:C8614 .
+

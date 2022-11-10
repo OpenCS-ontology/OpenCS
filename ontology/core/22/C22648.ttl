@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22648 a skos:Concept ;
+    skos:broader ocs:C425 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_validation> ;
+    skos:prefLabel "Data validation" ;
+    skos:related ocs:C10,
+        ocs:C1083,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C1253,
+        ocs:C12810,
+        ocs:C13767,
+        ocs:C19,
+        ocs:C23269,
+        ocs:C24143,
+        ocs:C3034,
+        ocs:C3398,
+        ocs:C45494,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C6,
+        ocs:C8629,
+        ocs:C9 .
+

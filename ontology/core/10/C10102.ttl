@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10102 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyponymy_and_hypernymy> ;
+    skos:prefLabel "Hyponymy and hypernymy" ;
+    skos:related ocs:C1451,
+        ocs:C2015,
+        ocs:C2298,
+        ocs:C24316,
+        ocs:C2761,
+        ocs:C40793,
+        ocs:C45685,
+        ocs:C6018,
+        ocs:C6308,
+        ocs:C8454,
+        ocs:C8710,
+        ocs:C9046,
+        ocs:C928 .
+

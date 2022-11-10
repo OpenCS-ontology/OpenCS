@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17691 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:prefLabel "Road surveying" ;
+    skos:related ocs:C22,
+        ocs:C2802,
+        ocs:C33,
+        ocs:C4718,
+        ocs:C7,
+        ocs:C7914 .
+

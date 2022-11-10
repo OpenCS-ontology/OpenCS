@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1957 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributed_Application_Specification_Language> ;
+    skos:prefLabel "Distributed Application Specification Language" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C12810,
+        ocs:C13800,
+        ocs:C14632,
+        ocs:C15593,
+        ocs:C23439,
+        ocs:C2812,
+        ocs:C32880,
+        ocs:C3904,
+        ocs:C39498,
+        ocs:C40411,
+        ocs:C40762,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5529,
+        ocs:C6531,
+        ocs:C76 .
+

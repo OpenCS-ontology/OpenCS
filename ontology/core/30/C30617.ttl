@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30617 a skos:Concept ;
+    skos:broader ocs:C16189 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gammatone_filter> ;
+    skos:prefLabel "Gammatone filter" ;
+    skos:related ocs:C20514,
+        ocs:C23968,
+        ocs:C25026,
+        ocs:C28754,
+        ocs:C30879,
+        ocs:C5769,
+        ocs:C9170 .
+

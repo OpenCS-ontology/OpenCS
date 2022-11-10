@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21744 a skos:Concept ;
+    skos:broader ocs:C8169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-source_agreement> ;
+    skos:prefLabel "Multi-source agreement" ;
+    skos:related ocs:C12317,
+        ocs:C13786,
+        ocs:C13932,
+        ocs:C16673,
+        ocs:C18745,
+        ocs:C23919,
+        ocs:C29125,
+        ocs:C34034,
+        ocs:C41760,
+        ocs:C45502,
+        ocs:C8169,
+        ocs:C8567,
+        ocs:C9426 .
+

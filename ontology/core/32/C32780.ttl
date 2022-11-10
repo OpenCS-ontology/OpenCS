@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32780 a skos:Concept ;
+    skos:broader ocs:C22483 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coarse_space_(numerical_analysis)> ;
+    skos:prefLabel "Coarse space" ;
+    skos:related ocs:C10534,
+        ocs:C15070,
+        ocs:C22483,
+        ocs:C27,
+        ocs:C31948,
+        ocs:C32520,
+        ocs:C44942,
+        ocs:C5201 .
+

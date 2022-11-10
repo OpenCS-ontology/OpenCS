@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4810 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-system> ;
+    skos:prefLabel "Meta-system" ;
+    skos:related ocs:C16891,
+        ocs:C23902,
+        ocs:C2421,
+        ocs:C26759,
+        ocs:C33050,
+        ocs:C4209,
+        ocs:C5140,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C7256,
+        ocs:C7334,
+        ocs:C9373 .
+

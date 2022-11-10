@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35206 a skos:Concept ;
+    skos:broader ocs:C21424 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBeacon> ;
+    skos:prefLabel "iBeacon" ;
+    skos:related ocs:C10270,
+        ocs:C1042,
+        ocs:C10573,
+        ocs:C11696,
+        ocs:C12641,
+        ocs:C12698,
+        ocs:C1793,
+        ocs:C21424,
+        ocs:C28354,
+        ocs:C29023,
+        ocs:C34172,
+        ocs:C3455,
+        ocs:C35019,
+        ocs:C35370,
+        ocs:C3802,
+        ocs:C6495,
+        ocs:C7166,
+        ocs:C9113 .
+

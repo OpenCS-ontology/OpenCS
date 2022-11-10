@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6228 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23 ;
+    skos:closeMatch <http://dbpedia.org/resource/Locator_map> ;
+    skos:prefLabel "Locator map" ;
+    skos:related ocs:C10054,
+        ocs:C18410,
+        ocs:C23901,
+        ocs:C2479,
+        ocs:C37913 .
+

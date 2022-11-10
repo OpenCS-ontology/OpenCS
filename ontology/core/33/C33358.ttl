@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33358 a skos:Concept ;
+    skos:broader ocs:C23973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synthetic_ion_channels> ;
+    skos:prefLabel "Synthetic ion channels" ;
+    skos:related ocs:C14479,
+        ocs:C23973,
+        ocs:C29218,
+        ocs:C597 .
+

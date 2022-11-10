@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27111 a skos:Concept ;
+    skos:broader ocs:C8021,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary_image> ;
+    skos:prefLabel "Binary image" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C10973,
+        ocs:C13155,
+        ocs:C16954,
+        ocs:C24211,
+        ocs:C24689,
+        ocs:C28701,
+        ocs:C29175,
+        ocs:C29694,
+        ocs:C3458,
+        ocs:C36633,
+        ocs:C38859,
+        ocs:C41977,
+        ocs:C43198,
+        ocs:C44268,
+        ocs:C6942,
+        ocs:C8021 .
+

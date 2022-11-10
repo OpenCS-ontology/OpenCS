@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5070 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human_Brain_Project> ;
+    skos:prefLabel "Human Brain Project" ;
+    skos:related ocs:C12548,
+        ocs:C13186,
+        ocs:C16,
+        ocs:C197,
+        ocs:C20377,
+        ocs:C27322,
+        ocs:C3932,
+        ocs:C7735,
+        ocs:C8 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5284 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Provider_model> ;
+    skos:prefLabel "Provider model" ;
+    skos:related ocs:C10552,
+        ocs:C11117,
+        ocs:C11279,
+        ocs:C15478,
+        ocs:C2215,
+        ocs:C2533,
+        ocs:C2651,
+        ocs:C30157,
+        ocs:C3282,
+        ocs:C33616,
+        ocs:C33621,
+        ocs:C34129,
+        ocs:C39787,
+        ocs:C40193,
+        ocs:C42211,
+        ocs:C43369,
+        ocs:C44346,
+        ocs:C44634 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22114 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Administrative_domain> ;
+    skos:prefLabel "Administrative domain" ;
+    skos:related ocs:C20313,
+        ocs:C20925,
+        ocs:C21951,
+        ocs:C2660,
+        ocs:C29951,
+        ocs:C33015,
+        ocs:C34951,
+        ocs:C37731,
+        ocs:C449,
+        ocs:C4513,
+        ocs:C5418,
+        ocs:C5674,
+        ocs:C7651,
+        ocs:C7738,
+        ocs:C816,
+        ocs:C8711,
+        ocs:C9909 .
+

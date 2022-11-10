@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37544 a skos:Concept ;
+    skos:broader ocs:C14266 ;
+    skos:closeMatch <http://dbpedia.org/resource/V-statistic> ;
+    skos:prefLabel "V-statistic" ;
+    skos:related ocs:C13685,
+        ocs:C14266,
+        ocs:C18625,
+        ocs:C20531,
+        ocs:C21628,
+        ocs:C33462,
+        ocs:C35061,
+        ocs:C43995 .
+

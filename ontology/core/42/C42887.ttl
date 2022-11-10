@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42887 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lightweight_ontology> ;
+    skos:prefLabel "Lightweight ontology" ;
+    skos:related ocs:C16356,
+        ocs:C20684,
+        ocs:C26601,
+        ocs:C3396,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C37883,
+        ocs:C39133,
+        ocs:C40912,
+        ocs:C41551,
+        ocs:C41822,
+        ocs:C41877,
+        ocs:C41963,
+        ocs:C42947,
+        ocs:C44939,
+        ocs:C45752,
+        ocs:C6915,
+        ocs:C8,
+        ocs:C8710 .
+

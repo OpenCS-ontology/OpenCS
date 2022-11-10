@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20892 a skos:Concept ;
+    skos:broader ocs:C622 ;
+    skos:prefLabel "Animated movie" ;
+    skos:related ocs:C1134,
+        ocs:C13509,
+        ocs:C5,
+        ocs:C8464 .
+

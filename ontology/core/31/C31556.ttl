@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31556 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:closeMatch <http://dbpedia.org/resource/Endoneurium> ;
+    skos:prefLabel "Endoneurium" ;
+    skos:related ocs:C14142,
+        ocs:C17377,
+        ocs:C22690,
+        ocs:C25161,
+        ocs:C26901,
+        ocs:C33836,
+        ocs:C34941 .
+

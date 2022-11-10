@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8354 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Request_for_quotation> ;
+    skos:prefLabel "Request for quotation" ;
+    skos:related ocs:C11110,
+        ocs:C3312 .
+

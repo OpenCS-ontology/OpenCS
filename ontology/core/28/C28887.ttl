@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28887 a skos:Concept ;
+    skos:broader ocs:C1035,
+        ocs:C1451,
+        ocs:C4044,
+        ocs:C7170,
+        ocs:C8786 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wide-spectrum_language> ;
+    skos:prefLabel "Wide-spectrum language" ;
+    skos:related ocs:C1035,
+        ocs:C1083,
+        ocs:C12391,
+        ocs:C12852,
+        ocs:C12974,
+        ocs:C13045,
+        ocs:C17204,
+        ocs:C18469,
+        ocs:C18570,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C3905,
+        ocs:C39996,
+        ocs:C40867,
+        ocs:C41475,
+        ocs:C4321,
+        ocs:C45210,
+        ocs:C6788,
+        ocs:C8786 .
+

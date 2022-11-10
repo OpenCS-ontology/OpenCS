@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31701 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C17856,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/CLEFIA> ;
+    skos:prefLabel "CLEFIA" ;
+    skos:related ocs:C19127,
+        ocs:C202,
+        ocs:C2259,
+        ocs:C30003,
+        ocs:C30612,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C3198,
+        ocs:C32234,
+        ocs:C34895,
+        ocs:C3541,
+        ocs:C39213,
+        ocs:C44709,
+        ocs:C44818,
+        ocs:C44933,
+        ocs:C638,
+        ocs:C6655,
+        ocs:C7226,
+        ocs:C8402 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1803 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/RAS_syndrome> ;
+    skos:prefLabel "RAS syndrome" ;
+    skos:related ocs:C10501,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C19754,
+        ocs:C21054,
+        ocs:C2298,
+        ocs:C34050,
+        ocs:C36822,
+        ocs:C37940,
+        ocs:C3949 .
+

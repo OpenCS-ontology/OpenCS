@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20842 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fluid_limit> ;
+    skos:prefLabel "Fluid limit" ;
+    skos:related ocs:C16883,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C27878,
+        ocs:C31015,
+        ocs:C32815,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C38208,
+        ocs:C39886,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45748 .
+

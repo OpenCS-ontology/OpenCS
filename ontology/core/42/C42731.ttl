@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42731 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C32649,
+        ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/N-version_programming> ;
+    skos:prefLabel "N-version programming" ;
+    skos:related ocs:C11188,
+        ocs:C12065,
+        ocs:C14,
+        ocs:C15912,
+        ocs:C16709,
+        ocs:C26266,
+        ocs:C26752,
+        ocs:C27331,
+        ocs:C2878,
+        ocs:C28907,
+        ocs:C36861,
+        ocs:C40097,
+        ocs:C45518,
+        ocs:C5723,
+        ocs:C5779,
+        ocs:C6173,
+        ocs:C8613,
+        ocs:C947 .
+

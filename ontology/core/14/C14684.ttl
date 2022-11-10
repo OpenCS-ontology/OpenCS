@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14684 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_double> ;
+    skos:prefLabel "Test double" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C12848,
+        ocs:C1333,
+        ocs:C22095,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C2674,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C32447,
+        ocs:C36327,
+        ocs:C36614,
+        ocs:C3850,
+        ocs:C39851,
+        ocs:C40193,
+        ocs:C44785,
+        ocs:C5049,
+        ocs:C8864,
+        ocs:C9870 .
+

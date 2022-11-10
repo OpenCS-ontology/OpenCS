@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34932 a skos:Concept ;
+    skos:broader ocs:C16959 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_radar_homing> ;
+    skos:prefLabel "Active radar homing" ;
+    skos:related ocs:C12931,
+        ocs:C16352,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C22021,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C30747,
+        ocs:C33072,
+        ocs:C9066 .
+

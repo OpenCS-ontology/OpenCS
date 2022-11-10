@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45288 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:prefLabel "Software architecture documentation" .
+

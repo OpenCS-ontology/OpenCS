@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45716 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short_backfire_antenna> ;
+    skos:prefLabel "Short backfire antenna" ;
+    skos:related ocs:C1219,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C31753,
+        ocs:C38309,
+        ocs:C38343,
+        ocs:C38628,
+        ocs:C38722,
+        ocs:C38796,
+        ocs:C39057,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C41433,
+        ocs:C42721,
+        ocs:C44485,
+        ocs:C44651,
+        ocs:C45781,
+        ocs:C5253,
+        ocs:C9691 .
+

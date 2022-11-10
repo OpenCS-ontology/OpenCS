@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38307 a skos:Concept ;
+    skos:broader ocs:C35073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carbon_detonation> ;
+    skos:prefLabel "Carbon detonation" ;
+    skos:related ocs:C18085,
+        ocs:C20110,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C30948,
+        ocs:C31488,
+        ocs:C35072,
+        ocs:C35073,
+        ocs:C40619 .
+

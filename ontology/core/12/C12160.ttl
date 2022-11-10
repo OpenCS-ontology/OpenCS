@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12160 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audience_analysis> ;
+    skos:prefLabel "Audience analysis" ;
+    skos:related ocs:C10978,
+        ocs:C11810,
+        ocs:C18587,
+        ocs:C1908,
+        ocs:C2135,
+        ocs:C23394,
+        ocs:C26015,
+        ocs:C3444,
+        ocs:C4292,
+        ocs:C9244,
+        ocs:C9607 .
+

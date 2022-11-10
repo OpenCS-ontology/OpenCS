@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13701 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formal_concept_analysis> ;
+    skos:prefLabel "Formal concept analysis" ;
+    skos:related ocs:C10382,
+        ocs:C25,
+        ocs:C41731,
+        ocs:C42207 .
+

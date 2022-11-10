@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19901 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Numeric_precision_in_Microsoft_Excel> ;
+    skos:prefLabel "Numeric precision in Microsoft Excel" ;
+    skos:related ocs:C12262,
+        ocs:C12315,
+        ocs:C16377,
+        ocs:C18434,
+        ocs:C21384,
+        ocs:C21496,
+        ocs:C39774,
+        ocs:C4816,
+        ocs:C9051,
+        ocs:C9743 .
+

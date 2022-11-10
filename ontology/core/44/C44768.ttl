@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44768 a skos:Concept ;
+    skos:broader ocs:C31029,
+        ocs:C36893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gravitational_two-body_problem> ;
+    skos:prefLabel "Gravitational two-body problem" ;
+    skos:related ocs:C31029,
+        ocs:C36893,
+        ocs:C37916,
+        ocs:C38002 .
+

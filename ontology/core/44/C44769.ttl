@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44769 a skos:Concept ;
+    skos:broader ocs:C33191 ;
+    skos:closeMatch <http://dbpedia.org/resource/Certificate_Management_Protocol> ;
+    skos:prefLabel "Certificate Management Protocol" ;
+    skos:related ocs:C14417,
+        ocs:C22120,
+        ocs:C24131,
+        ocs:C2822,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C38185,
+        ocs:C39338,
+        ocs:C39718,
+        ocs:C39888,
+        ocs:C40328,
+        ocs:C40789,
+        ocs:C43314,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C4641,
+        ocs:C6296 .
+

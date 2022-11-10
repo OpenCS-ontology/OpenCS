@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44612 a skos:Concept ;
+    skos:broader ocs:C31206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aspidoras> ;
+    skos:prefLabel "Aspidoras" ;
+    skos:related ocs:C31206,
+        ocs:C33166,
+        ocs:C33683,
+        ocs:C38319,
+        ocs:C38607,
+        ocs:C40706,
+        ocs:C41560,
+        ocs:C42152,
+        ocs:C42290,
+        ocs:C43137,
+        ocs:C44456,
+        ocs:C44495,
+        ocs:C45751 .
+

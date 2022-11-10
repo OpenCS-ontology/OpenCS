@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10055 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Piggybacking_(Internet_access)> ;
+    skos:prefLabel "Piggybacking (Internet access)" ;
+    skos:related ocs:C12429,
+        ocs:C15728,
+        ocs:C15832,
+        ocs:C19350,
+        ocs:C21357,
+        ocs:C2935,
+        ocs:C30769,
+        ocs:C31419,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C39655,
+        ocs:C40409,
+        ocs:C41301,
+        ocs:C41893,
+        ocs:C45757,
+        ocs:C5343,
+        ocs:C8028,
+        ocs:C8614 .
+

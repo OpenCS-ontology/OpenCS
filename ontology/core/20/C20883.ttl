@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20883 a skos:Concept ;
+    skos:broader ocs:C1336,
+        ocs:C1728,
+        ocs:C3452 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_Analytics> ;
+    skos:prefLabel "Power Analytics" ;
+    skos:related ocs:C12736,
+        ocs:C1728,
+        ocs:C25,
+        ocs:C25962,
+        ocs:C34,
+        ocs:C37135,
+        ocs:C451 .
+

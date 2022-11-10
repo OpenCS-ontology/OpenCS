@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27327 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payment_system> ;
+    skos:prefLabel "Payment system" ;
+    skos:related ocs:C10270,
+        ocs:C11389,
+        ocs:C11486,
+        ocs:C12752,
+        ocs:C15464,
+        ocs:C22753,
+        ocs:C26014,
+        ocs:C26112,
+        ocs:C26811,
+        ocs:C32778,
+        ocs:C33193,
+        ocs:C34589 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12696 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_linguistics> ;
+    skos:prefLabel "Computational linguistics" ;
+    skos:related ocs:C1,
+        ocs:C1034,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C16,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C2761,
+        ocs:C32,
+        ocs:C5852,
+        ocs:C8,
+        ocs:C8564,
+        ocs:C9106,
+        ocs:C961,
+        ocs:C9777 .
+

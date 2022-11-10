@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16864 a skos:Concept ;
+    skos:broader ocs:C2935,
+        ocs:C490 ;
+    skos:prefLabel "Local area network technology" ;
+    skos:related ocs:C12,
+        ocs:C17976,
+        ocs:C3236,
+        ocs:C34,
+        ocs:C490,
+        ocs:C515,
+        ocs:C9 .
+

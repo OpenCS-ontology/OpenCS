@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40080 a skos:Concept ;
+    skos:broader ocs:C31205 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_wislizeni> ;
+    skos:prefLabel "Quercus wislizeni" ;
+    skos:related ocs:C23655,
+        ocs:C24182,
+        ocs:C27082,
+        ocs:C28294,
+        ocs:C31205,
+        ocs:C34699,
+        ocs:C37450 .
+

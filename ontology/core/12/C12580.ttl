@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12580 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_sensor> ;
+    skos:prefLabel "Image sensor" ;
+    skos:related ocs:C10318,
+        ocs:C11324,
+        ocs:C13065,
+        ocs:C15213,
+        ocs:C29365,
+        ocs:C39878,
+        ocs:C5854,
+        ocs:C7789,
+        ocs:C8021 .
+

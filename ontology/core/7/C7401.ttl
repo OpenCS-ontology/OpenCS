@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7401 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C6,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_bounding_rectangle> ;
+    skos:prefLabel "Minimum bounding rectangle" ;
+    skos:related ocs:C12048,
+        ocs:C14626,
+        ocs:C20539,
+        ocs:C25441,
+        ocs:C35950,
+        ocs:C3896,
+        ocs:C40658,
+        ocs:C41265,
+        ocs:C44189,
+        ocs:C44464,
+        ocs:C6,
+        ocs:C6279,
+        ocs:C6693,
+        ocs:C7788,
+        ocs:C8499 .
+

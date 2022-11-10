@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43144 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-adjacent_form> ;
+    skos:prefLabel "Non-adjacent form" ;
+    skos:related ocs:C16377,
+        ocs:C18434,
+        ocs:C25038,
+        ocs:C32396,
+        ocs:C39331,
+        ocs:C44415 .
+

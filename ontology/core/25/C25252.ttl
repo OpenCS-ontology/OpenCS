@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25252 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/PowerPC> ;
+    skos:prefLabel "PowerPC" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11258,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C19487,
+        ocs:C21545,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C36673,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

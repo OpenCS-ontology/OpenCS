@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4211 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C25,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multimodal_search> ;
+    skos:prefLabel "Multimodal search" ;
+    skos:related ocs:C10150,
+        ocs:C12555,
+        ocs:C1402,
+        ocs:C31149,
+        ocs:C3687,
+        ocs:C40049,
+        ocs:C41195,
+        ocs:C428,
+        ocs:C5675,
+        ocs:C811,
+        ocs:C8614,
+        ocs:C9876 .
+

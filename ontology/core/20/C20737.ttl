@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20737 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kinematic_coupling> ;
+    skos:prefLabel "Kinematic coupling" ;
+    skos:related ocs:C15234,
+        ocs:C15416,
+        ocs:C15528,
+        ocs:C16342,
+        ocs:C18527,
+        ocs:C19233,
+        ocs:C2948,
+        ocs:C34771,
+        ocs:C5394,
+        ocs:C7848 .
+

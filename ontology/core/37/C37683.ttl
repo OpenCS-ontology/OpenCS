@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37683 a skos:Concept ;
+    skos:broader ocs:C26204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stability_(probability)> ;
+    skos:prefLabel "Stability (probability)" ;
+    skos:related ocs:C13262,
+        ocs:C20805,
+        ocs:C21356,
+        ocs:C22092,
+        ocs:C36407,
+        ocs:C36941,
+        ocs:C42421,
+        ocs:C42729,
+        ocs:C795,
+        ocs:C9326 .
+

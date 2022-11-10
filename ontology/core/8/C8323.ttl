@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8323 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_file_input/output> ;
+    skos:prefLabel "C file input/output" ;
+    skos:related ocs:C1165,
+        ocs:C12683,
+        ocs:C1333,
+        ocs:C14163,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C16601,
+        ocs:C18991,
+        ocs:C21019,
+        ocs:C22630,
+        ocs:C31489,
+        ocs:C33278,
+        ocs:C3334,
+        ocs:C42619,
+        ocs:C43822,
+        ocs:C8024,
+        ocs:C9 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35541 a skos:Concept ;
+    skos:broader ocs:C25464,
+        ocs:C26575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_Copy_Management_System> ;
+    skos:prefLabel "Serial Copy Management System" ;
+    skos:related ocs:C10778,
+        ocs:C13467,
+        ocs:C17832,
+        ocs:C2937,
+        ocs:C30569,
+        ocs:C34571,
+        ocs:C35224,
+        ocs:C36013,
+        ocs:C40722,
+        ocs:C45901,
+        ocs:C613,
+        ocs:C6234,
+        ocs:C7255,
+        ocs:C8237,
+        ocs:C9481 .
+

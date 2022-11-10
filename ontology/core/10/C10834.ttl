@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10834 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13 ;
+    skos:prefLabel "Blocking techniques" ;
+    skos:related ocs:C21,
+        ocs:C25,
+        ocs:C29,
+        ocs:C30,
+        ocs:C35,
+        ocs:C4099,
+        ocs:C5283,
+        ocs:C8889 .
+

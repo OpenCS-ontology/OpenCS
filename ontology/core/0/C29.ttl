@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Theoretical_computer_science> ;
+    skos:prefLabel "Theoretical computer science" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11885,
+        ocs:C12474,
+        ocs:C19,
+        ocs:C19560,
+        ocs:C22100,
+        ocs:C2425,
+        ocs:C25,
+        ocs:C27,
+        ocs:C27316,
+        ocs:C3678,
+        ocs:C4218,
+        ocs:C524,
+        ocs:C5816,
+        ocs:C8,
+        ocs:C8660 .
+

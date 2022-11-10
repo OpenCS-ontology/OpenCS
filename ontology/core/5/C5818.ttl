@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5818 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modular_design> ;
+    skos:prefLabel "Modular design" ;
+    skos:related ocs:C1165,
+        ocs:C25033,
+        ocs:C25293,
+        ocs:C28881,
+        ocs:C29012,
+        ocs:C29969,
+        ocs:C31489,
+        ocs:C4159,
+        ocs:C8387,
+        ocs:C9,
+        ocs:C9110 .
+

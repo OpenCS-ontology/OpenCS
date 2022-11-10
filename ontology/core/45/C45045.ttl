@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45045 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Second-generation_wavelet_transform> ;
+    skos:prefLabel "Second-generation wavelet transform" ;
+    skos:related ocs:C10554,
+        ocs:C251,
+        ocs:C29963,
+        ocs:C30925,
+        ocs:C33342,
+        ocs:C38298,
+        ocs:C40380,
+        ocs:C40770,
+        ocs:C41704,
+        ocs:C42094,
+        ocs:C43805,
+        ocs:C43908,
+        ocs:C44865,
+        ocs:C44879,
+        ocs:C4511,
+        ocs:C45115 .
+

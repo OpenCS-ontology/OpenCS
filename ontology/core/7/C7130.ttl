@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7130 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CryptGenRandom> ;
+    skos:prefLabel "CryptGenRandom" ;
+    skos:related ocs:C12637,
+        ocs:C16152,
+        ocs:C24131,
+        ocs:C25322,
+        ocs:C28967,
+        ocs:C2928,
+        ocs:C33956,
+        ocs:C34356,
+        ocs:C35043,
+        ocs:C35371,
+        ocs:C36353,
+        ocs:C38959,
+        ocs:C39051,
+        ocs:C4218,
+        ocs:C42975,
+        ocs:C45216,
+        ocs:C5072,
+        ocs:C546,
+        ocs:C970 .
+

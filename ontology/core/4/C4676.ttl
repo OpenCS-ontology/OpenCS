@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4676 a skos:Concept ;
+    skos:broader ocs:C21 ;
+    skos:prefLabel "Large face" ;
+    skos:related ocs:C16,
+        ocs:C4256,
+        ocs:C5618,
+        ocs:C8700,
+        ocs:C9312 .
+

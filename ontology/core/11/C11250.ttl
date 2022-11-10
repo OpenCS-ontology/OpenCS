@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11250 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/NEXPTIME> ;
+    skos:prefLabel "NEXPTIME" ;
+    skos:related ocs:C20382,
+        ocs:C2425,
+        ocs:C25360,
+        ocs:C29968,
+        ocs:C31892,
+        ocs:C32808,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C38867,
+        ocs:C39640,
+        ocs:C39938,
+        ocs:C41116,
+        ocs:C41388,
+        ocs:C41530,
+        ocs:C41645,
+        ocs:C44597,
+        ocs:C44665,
+        ocs:C45245 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36506 a skos:Concept ;
+    skos:broader ocs:C22263,
+        ocs:C27284 ;
+    skos:closeMatch <http://dbpedia.org/resource/Homomorphic_secret_sharing> ;
+    skos:prefLabel "Homomorphic secret sharing" ;
+    skos:related ocs:C11664,
+        ocs:C14164,
+        ocs:C20922,
+        ocs:C22263,
+        ocs:C23855,
+        ocs:C27284,
+        ocs:C29609,
+        ocs:C31266,
+        ocs:C34752,
+        ocs:C37863,
+        ocs:C412,
+        ocs:C4218,
+        ocs:C44384,
+        ocs:C7506 .
+

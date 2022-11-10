@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35381 a skos:Concept ;
+    skos:broader ocs:C16432,
+        ocs:C18617,
+        ocs:C25684,
+        ocs:C27892 ;
+    skos:prefLabel "Compiler writing systems" .
+

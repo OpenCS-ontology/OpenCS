@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40757 a skos:Concept ;
+    skos:broader ocs:C31512,
+        ocs:C34585,
+        ocs:C34821 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpolation_(computer_graphics)> ;
+    skos:prefLabel "Interpolation (computer graphics)" ;
+    skos:related ocs:C11752,
+        ocs:C12492,
+        ocs:C19373,
+        ocs:C21380,
+        ocs:C22,
+        ocs:C23564,
+        ocs:C31512,
+        ocs:C34821,
+        ocs:C3851,
+        ocs:C39500,
+        ocs:C39716,
+        ocs:C40577,
+        ocs:C42372,
+        ocs:C42443,
+        ocs:C43001,
+        ocs:C45272 .
+

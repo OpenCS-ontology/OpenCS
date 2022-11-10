@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31655 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Credit_limit> ;
+    skos:prefLabel "Credit limit" ;
+    skos:related ocs:C14059,
+        ocs:C30848,
+        ocs:C44448 .
+

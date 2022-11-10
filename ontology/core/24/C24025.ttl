@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24025 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perspective_distortion_(photography)> ;
+    skos:prefLabel "Perspective distortion" ;
+    skos:related ocs:C11391,
+        ocs:C1394,
+        ocs:C28338,
+        ocs:C3842,
+        ocs:C8746 .
+

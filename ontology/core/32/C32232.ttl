@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32232 a skos:Concept ;
+    skos:broader ocs:C28459 ;
+    skos:closeMatch <http://dbpedia.org/resource/Context_change_potential> ;
+    skos:prefLabel "Context change potential" ;
+    skos:related ocs:C12696,
+        ocs:C1451,
+        ocs:C15202,
+        ocs:C15475,
+        ocs:C18106,
+        ocs:C2298,
+        ocs:C26731,
+        ocs:C27490,
+        ocs:C31956,
+        ocs:C33529,
+        ocs:C35568,
+        ocs:C41096,
+        ocs:C43158,
+        ocs:C6047,
+        ocs:C7467 .
+

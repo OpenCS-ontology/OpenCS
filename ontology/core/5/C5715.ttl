@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5715 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyber-physical_system> ;
+    skos:prefLabel "Cyber-physical system" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C12238,
+        ocs:C15594,
+        ocs:C16218,
+        ocs:C17236,
+        ocs:C1793,
+        ocs:C19627,
+        ocs:C4045,
+        ocs:C533,
+        ocs:C5821,
+        ocs:C7106,
+        ocs:C7334,
+        ocs:C8,
+        ocs:C8172,
+        ocs:C8386 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15903 a skos:Concept ;
+    skos:broader ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hexagonal_sampling> ;
+    skos:prefLabel "Hexagonal sampling" ;
+    skos:related ocs:C12580,
+        ocs:C1449,
+        ocs:C1832,
+        ocs:C2196,
+        ocs:C26575,
+        ocs:C44628,
+        ocs:C658,
+        ocs:C6816 .
+

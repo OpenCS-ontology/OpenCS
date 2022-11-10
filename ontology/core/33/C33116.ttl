@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33116 a skos:Concept ;
+    skos:broader ocs:C15253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-machine_scheduling> ;
+    skos:prefLabel "Single-machine scheduling" ;
+    skos:related ocs:C7553,
+        ocs:C9022 .
+

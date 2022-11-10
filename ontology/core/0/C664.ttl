@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C664 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/2D_to_3D_conversion> ;
+    skos:prefLabel "2D to 3D conversion" ;
+    skos:related ocs:C11774,
+        ocs:C1239,
+        ocs:C12929,
+        ocs:C13549,
+        ocs:C14023,
+        ocs:C14925,
+        ocs:C22,
+        ocs:C23153,
+        ocs:C23564,
+        ocs:C24205,
+        ocs:C244,
+        ocs:C2825,
+        ocs:C2883,
+        ocs:C3104,
+        ocs:C36940,
+        ocs:C4646,
+        ocs:C7910 .
+

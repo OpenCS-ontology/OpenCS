@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22417 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C3401,
+        ocs:C7460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clustering_coefficient> ;
+    skos:prefLabel "Clustering coefficient" ;
+    skos:related ocs:C11026,
+        ocs:C15476,
+        ocs:C18569,
+        ocs:C18864,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C20170,
+        ocs:C26462,
+        ocs:C28521,
+        ocs:C28991,
+        ocs:C30245,
+        ocs:C33768,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C6335,
+        ocs:C7460 .
+

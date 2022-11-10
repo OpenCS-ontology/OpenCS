@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27179 a skos:Concept ;
+    skos:broader ocs:C3411 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantum_finance> ;
+    skos:prefLabel "Quantum finance" ;
+    skos:related ocs:C20846,
+        ocs:C597 .
+

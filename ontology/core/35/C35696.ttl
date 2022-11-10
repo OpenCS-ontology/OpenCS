@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35696 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Archimedean_solid> ;
+    skos:prefLabel "Archimedean solid" ;
+    skos:related ocs:C32168,
+        ocs:C33802,
+        ocs:C38670 .
+

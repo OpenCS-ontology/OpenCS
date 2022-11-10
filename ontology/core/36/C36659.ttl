@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36659 a skos:Concept ;
+    skos:broader ocs:C15807,
+        ocs:C19043,
+        ocs:C21892,
+        ocs:C22983 ;
+    skos:prefLabel "Rendering global illumination" .
+

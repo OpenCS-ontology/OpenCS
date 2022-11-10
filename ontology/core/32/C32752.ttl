@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32752 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maze_solving_algorithm> ;
+    skos:prefLabel "Maze solving algorithm" ;
+    skos:related ocs:C10,
+        ocs:C13317,
+        ocs:C14406,
+        ocs:C14693,
+        ocs:C16033,
+        ocs:C19540,
+        ocs:C26989,
+        ocs:C30307,
+        ocs:C3339,
+        ocs:C34498,
+        ocs:C34565,
+        ocs:C38755,
+        ocs:C42244,
+        ocs:C43782,
+        ocs:C43808,
+        ocs:C45670,
+        ocs:C45671,
+        ocs:C4788,
+        ocs:C4966,
+        ocs:C7397 .
+

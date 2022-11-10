@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5395 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rule-based_modeling> ;
+    skos:prefLabel "Rule-based modeling" ;
+    skos:related ocs:C11668,
+        ocs:C23865,
+        ocs:C24,
+        ocs:C27995,
+        ocs:C7256 .
+

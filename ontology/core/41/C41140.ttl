@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41140 a skos:Concept ;
+    skos:broader ocs:C32650,
+        ocs:C37237 ;
+    skos:closeMatch <http://dbpedia.org/resource/FTC_Fair_Information_Practice> ;
+    skos:prefLabel "FTC Fair Information Practice" ;
+    skos:related ocs:C12378,
+        ocs:C12487,
+        ocs:C1399,
+        ocs:C14105,
+        ocs:C17575,
+        ocs:C26011,
+        ocs:C28085,
+        ocs:C29111,
+        ocs:C33206,
+        ocs:C36925,
+        ocs:C37237,
+        ocs:C394,
+        ocs:C45697,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8390 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21444 a skos:Concept ;
+    skos:broader ocs:C5852,
+        ocs:C7330 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-assisted_translation> ;
+    skos:prefLabel "Computer-assisted translation" ;
+    skos:related ocs:C11927,
+        ocs:C1253,
+        ocs:C12696,
+        ocs:C1411,
+        ocs:C1908,
+        ocs:C21320,
+        ocs:C24011,
+        ocs:C24215,
+        ocs:C28527,
+        ocs:C28801,
+        ocs:C31287,
+        ocs:C32,
+        ocs:C35137,
+        ocs:C43891,
+        ocs:C4397,
+        ocs:C5852 .
+

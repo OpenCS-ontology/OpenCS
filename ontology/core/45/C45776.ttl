@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45776 a skos:Concept ;
+    skos:broader ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_theater> ;
+    skos:prefLabel "Security theater" ;
+    skos:related ocs:C11059,
+        ocs:C13331,
+        ocs:C28327,
+        ocs:C31224,
+        ocs:C35,
+        ocs:C40352,
+        ocs:C4218,
+        ocs:C4994,
+        ocs:C6234,
+        ocs:C699,
+        ocs:C8614,
+        ocs:C9030,
+        ocs:C9067 .
+

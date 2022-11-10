@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32172 a skos:Concept ;
+    skos:broader ocs:C28514 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nanofluidic_circuitry> ;
+    skos:prefLabel "Nanofluidic circuitry" ;
+    skos:related ocs:C28514,
+        ocs:C597 .
+

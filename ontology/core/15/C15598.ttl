@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15598 a skos:Concept ;
+    skos:broader ocs:C12641,
+        ocs:C7447 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earth_orientation_parameters> ;
+    skos:prefLabel "Earth Orientation Parameters" .
+

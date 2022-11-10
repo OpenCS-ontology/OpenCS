@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41624 a skos:Concept ;
+    skos:broader ocs:C32720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_analysis_(computing)> ;
+    skos:prefLabel "Path analysis (computing)" ;
+    skos:related ocs:C12736,
+        ocs:C13752,
+        ocs:C1728,
+        ocs:C27097,
+        ocs:C32589,
+        ocs:C33206,
+        ocs:C3485,
+        ocs:C37135,
+        ocs:C38991,
+        ocs:C39478,
+        ocs:C42101 .
+

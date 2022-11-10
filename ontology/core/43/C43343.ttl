@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43343 a skos:Concept ;
+    skos:broader ocs:C30801,
+        ocs:C32266 ;
+    skos:closeMatch <http://dbpedia.org/resource/P-adic_Hodge_theory> ;
+    skos:prefLabel "p-adic Hodge theory" ;
+    skos:related ocs:C30801,
+        ocs:C32266,
+        ocs:C38738,
+        ocs:C42148,
+        ocs:C42857 .
+

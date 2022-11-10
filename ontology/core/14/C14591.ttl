@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14591 a skos:Concept ;
+    skos:broader ocs:C2321,
+        ocs:C7471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regularized_least_squares> ;
+    skos:prefLabel "Regularized least squares" ;
+    skos:related ocs:C22854 .
+

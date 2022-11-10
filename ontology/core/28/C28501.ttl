@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28501 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_encryption> ;
+    skos:prefLabel "Multiple encryption" ;
+    skos:related ocs:C10048,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C32109,
+        ocs:C34052,
+        ocs:C34567,
+        ocs:C35391,
+        ocs:C35455,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C4751,
+        ocs:C5692,
+        ocs:C7226 .
+

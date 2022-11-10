@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23356 a skos:Concept ;
+    skos:broader ocs:C13631 ;
+    skos:prefLabel "Car Sickness" ;
+    skos:related ocs:C1,
+        ocs:C21618,
+        ocs:C24,
+        ocs:C31154,
+        ocs:C7,
+        ocs:C8 .
+

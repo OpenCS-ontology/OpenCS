@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37835 a skos:Concept ;
+    skos:broader ocs:C29668 ;
+    skos:closeMatch <http://dbpedia.org/resource/KCNE4> ;
+    skos:prefLabel "KCNE4" ;
+    skos:related ocs:C29668,
+        ocs:C32659,
+        ocs:C33534,
+        ocs:C33852,
+        ocs:C36044,
+        ocs:C37240,
+        ocs:C39387,
+        ocs:C43313 .
+

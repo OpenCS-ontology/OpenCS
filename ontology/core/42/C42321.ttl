@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42321 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C30430,
+        ocs:C31363,
+        ocs:C33886,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Average_memory_access_time> ;
+    skos:prefLabel "Average memory access time" ;
+    skos:related ocs:C10917,
+        ocs:C17698,
+        ocs:C20685,
+        ocs:C22850,
+        ocs:C23864,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C31363,
+        ocs:C32507,
+        ocs:C35625,
+        ocs:C39629,
+        ocs:C39687,
+        ocs:C40068,
+        ocs:C42759,
+        ocs:C44418,
+        ocs:C45181,
+        ocs:C7345,
+        ocs:C7900,
+        ocs:C8967 .
+

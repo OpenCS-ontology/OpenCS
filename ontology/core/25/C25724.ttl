@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25724 a skos:Concept ;
+    skos:broader ocs:C4256,
+        ocs:C5319,
+        ocs:C7021,
+        ocs:C7328 ;
+    skos:prefLabel "Quadratic discriminant function" .
+

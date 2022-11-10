@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9174 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_space> ;
+    skos:prefLabel "Spectral space" ;
+    skos:related ocs:C32743,
+        ocs:C38631,
+        ocs:C6221 .
+

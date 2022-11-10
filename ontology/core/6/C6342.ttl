@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6342 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_Operations_(United_States)> ;
+    skos:prefLabel "Information Operations" ;
+    skos:related ocs:C10191,
+        ocs:C14466,
+        ocs:C1502,
+        ocs:C16481,
+        ocs:C18986,
+        ocs:C27382,
+        ocs:C2941,
+        ocs:C3059,
+        ocs:C31034,
+        ocs:C35,
+        ocs:C8458 .
+

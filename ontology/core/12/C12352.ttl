@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12352 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Physical Agility" ;
+    skos:related ocs:C1647,
+        ocs:C17,
+        ocs:C18,
+        ocs:C6340 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22283 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bolometer> ;
+    skos:prefLabel "Bolometer" ;
+    skos:related ocs:C29698,
+        ocs:C31639,
+        ocs:C36714,
+        ocs:C597 .
+

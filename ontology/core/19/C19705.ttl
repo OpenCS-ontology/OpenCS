@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19705 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:prefLabel "Near point" ;
+    skos:related ocs:C17659,
+        ocs:C22,
+        ocs:C33343,
+        ocs:C8517,
+        ocs:C9744 .
+

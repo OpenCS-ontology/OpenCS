@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13025 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_(computer_architecture)> ;
+    skos:prefLabel "Word (computer architecture)" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C11258,
+        ocs:C14162,
+        ocs:C15,
+        ocs:C16377,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C27610,
+        ocs:C35009,
+        ocs:C3946,
+        ocs:C40069,
+        ocs:C4863,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856 .
+

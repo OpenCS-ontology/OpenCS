@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28055 a skos:Concept ;
+    skos:broader ocs:C12148,
+        ocs:C13047,
+        ocs:C3057,
+        ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_learning> ;
+    skos:prefLabel "Open learning" ;
+    skos:related ocs:C10523,
+        ocs:C11050,
+        ocs:C12148,
+        ocs:C13047,
+        ocs:C14904,
+        ocs:C25892,
+        ocs:C27502,
+        ocs:C33218,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C5532,
+        ocs:C5680 .
+

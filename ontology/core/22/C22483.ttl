@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22483 a skos:Concept ;
+    skos:broader ocs:C5201,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preconditioner> ;
+    skos:prefLabel "Preconditioner" ;
+    skos:related ocs:C14414,
+        ocs:C15070,
+        ocs:C21770,
+        ocs:C24606,
+        ocs:C32733,
+        ocs:C36683,
+        ocs:C5201 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5159 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halloween_Problem> ;
+    skos:prefLabel "Halloween Problem" ;
+    skos:related ocs:C1060,
+        ocs:C10988,
+        ocs:C12185,
+        ocs:C14025,
+        ocs:C18567,
+        ocs:C20517,
+        ocs:C24811,
+        ocs:C26941,
+        ocs:C34481,
+        ocs:C36535,
+        ocs:C37009,
+        ocs:C5414,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C6654,
+        ocs:C7568 .
+

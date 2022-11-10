@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4917 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio-frequency_identification> ;
+    skos:prefLabel "Radio-frequency identification" ;
+    skos:related ocs:C12641,
+        ocs:C12698,
+        ocs:C12755,
+        ocs:C1882,
+        ocs:C20391,
+        ocs:C21424,
+        ocs:C27613,
+        ocs:C35370,
+        ocs:C4398,
+        ocs:C5369,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C8711,
+        ocs:C9113,
+        ocs:C9489 .
+

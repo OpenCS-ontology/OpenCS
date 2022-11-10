@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39102 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_algebra> ;
+    skos:prefLabel "Graph algebra" ;
+    skos:related ocs:C15460,
+        ocs:C17717,
+        ocs:C29708,
+        ocs:C30242,
+        ocs:C34099,
+        ocs:C34565,
+        ocs:C36126,
+        ocs:C42233,
+        ocs:C44157 .
+

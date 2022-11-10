@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10802 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/GLIM_(software)> ;
+    skos:prefLabel "GLIM" ;
+    skos:related ocs:C19045,
+        ocs:C20244,
+        ocs:C25,
+        ocs:C27378,
+        ocs:C30078,
+        ocs:C853 .
+

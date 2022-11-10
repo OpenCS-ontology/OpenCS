@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33286 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photodissociation_region> ;
+    skos:prefLabel "Photodissociation region" ;
+    skos:related ocs:C15462,
+        ocs:C16731,
+        ocs:C23210,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C32027,
+        ocs:C33575,
+        ocs:C34110,
+        ocs:C34547,
+        ocs:C597 .
+

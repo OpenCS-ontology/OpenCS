@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34948 a skos:Concept ;
+    skos:broader ocs:C20253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carpinus_orientalis> ;
+    skos:prefLabel "Carpinus orientalis" ;
+    skos:related ocs:C27095,
+        ocs:C28888,
+        ocs:C31901,
+        ocs:C41879 .
+

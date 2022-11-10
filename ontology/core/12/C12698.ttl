@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12698 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Near_field_communication> ;
+    skos:prefLabel "Near field communication" ;
+    skos:related ocs:C10270,
+        ocs:C10368,
+        ocs:C1042,
+        ocs:C12641,
+        ocs:C15832,
+        ocs:C17976,
+        ocs:C21424,
+        ocs:C2722,
+        ocs:C29023,
+        ocs:C31628,
+        ocs:C34172,
+        ocs:C35370,
+        ocs:C4917,
+        ocs:C7165,
+        ocs:C8021,
+        ocs:C8437,
+        ocs:C9,
+        ocs:C9113 .
+

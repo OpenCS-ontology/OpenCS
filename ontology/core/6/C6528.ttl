@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6528 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/ADDIE_Model> ;
+    skos:prefLabel "ADDIE Model" ;
+    skos:related ocs:C10518,
+        ocs:C11646,
+        ocs:C12824,
+        ocs:C18169,
+        ocs:C18417,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C37105,
+        ocs:C934 .
+

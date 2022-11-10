@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41361 a skos:Concept ;
+    skos:broader ocs:C31198 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cornacchia's_algorithm> ;
+    skos:prefLabel "Cornacchia's algorithm" ;
+    skos:related ocs:C10,
+        ocs:C2258,
+        ocs:C30437,
+        ocs:C39449,
+        ocs:C40515,
+        ocs:C41652,
+        ocs:C42681,
+        ocs:C43273,
+        ocs:C44356,
+        ocs:C44808 .
+

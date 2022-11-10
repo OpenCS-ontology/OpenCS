@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44461 a skos:Concept ;
+    skos:broader ocs:C33053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Margatoxin> ;
+    skos:prefLabel "Margatoxin" ;
+    skos:related ocs:C18138,
+        ocs:C33053,
+        ocs:C34294,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C41326,
+        ocs:C45220 .
+

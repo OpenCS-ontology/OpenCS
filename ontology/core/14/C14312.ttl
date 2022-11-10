@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14312 a skos:Concept ;
+    skos:broader ocs:C402,
+        ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_word_signing> ;
+    skos:prefLabel "Key word signing" ;
+    skos:related ocs:C20561,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C2480,
+        ocs:C25188,
+        ocs:C26032,
+        ocs:C27722,
+        ocs:C30694,
+        ocs:C308,
+        ocs:C34292,
+        ocs:C35636,
+        ocs:C402,
+        ocs:C7858,
+        ocs:C8090 .
+

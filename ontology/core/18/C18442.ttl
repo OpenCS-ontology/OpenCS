@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18442 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gittins_index> ;
+    skos:prefLabel "Gittins index" ;
+    skos:related ocs:C13610,
+        ocs:C15025,
+        ocs:C1844,
+        ocs:C22485,
+        ocs:C25952,
+        ocs:C27053,
+        ocs:C33043,
+        ocs:C41481,
+        ocs:C6909,
+        ocs:C7689 .
+

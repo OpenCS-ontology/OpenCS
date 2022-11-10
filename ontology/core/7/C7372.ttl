@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7372 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_information_systems_security> ;
+    skos:prefLabel "Automated information systems security" ;
+    skos:related ocs:C12434,
+        ocs:C1253,
+        ocs:C13217,
+        ocs:C1399,
+        ocs:C22104,
+        ocs:C29434,
+        ocs:C3,
+        ocs:C33617,
+        ocs:C35,
+        ocs:C36978,
+        ocs:C38304,
+        ocs:C38862,
+        ocs:C39626,
+        ocs:C7512,
+        ocs:C8410,
+        ocs:C941,
+        ocs:C9910,
+        ocs:C9931 .
+

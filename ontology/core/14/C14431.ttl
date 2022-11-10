@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14431 a skos:Concept ;
+    skos:broader ocs:C5298,
+        ocs:C6912,
+        ocs:C8517,
+        ocs:C9022 ;
+    skos:prefLabel "Minor component analysis" .
+

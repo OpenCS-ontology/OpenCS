@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9856 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_processing> ;
+    skos:prefLabel "Video processing" ;
+    skos:related ocs:C11529,
+        ocs:C13509,
+        ocs:C1449,
+        ocs:C15700,
+        ocs:C2000,
+        ocs:C21097,
+        ocs:C22257,
+        ocs:C23307,
+        ocs:C26268,
+        ocs:C2722,
+        ocs:C27572,
+        ocs:C5298,
+        ocs:C8499 .
+

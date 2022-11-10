@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11481 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_reproduction> ;
+    skos:prefLabel "Digital reproduction" ;
+    skos:related ocs:C10881,
+        ocs:C11043,
+        ocs:C16860,
+        ocs:C1704,
+        ocs:C2937,
+        ocs:C30569,
+        ocs:C31899,
+        ocs:C33615,
+        ocs:C4584 .
+

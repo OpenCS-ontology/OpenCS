@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24697 a skos:Concept ;
+    skos:broader ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_network> ;
+    skos:prefLabel "Value network" ;
+    skos:related ocs:C10057,
+        ocs:C10141,
+        ocs:C11026,
+        ocs:C12,
+        ocs:C12146,
+        ocs:C15047,
+        ocs:C33625,
+        ocs:C37106,
+        ocs:C9584,
+        ocs:C9597 .
+

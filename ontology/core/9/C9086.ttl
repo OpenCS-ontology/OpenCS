@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9086 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Handshaking> ;
+    skos:prefLabel "Handshaking" ;
+    skos:related ocs:C19227,
+        ocs:C20691,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C41498,
+        ocs:C6473,
+        ocs:C8024,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9931 .
+

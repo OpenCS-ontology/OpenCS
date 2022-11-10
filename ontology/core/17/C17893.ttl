@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17893 a skos:Concept ;
+    skos:broader ocs:C5512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affinity_analysis> ;
+    skos:prefLabel "Affinity analysis" ;
+    skos:related ocs:C10270,
+        ocs:C10382,
+        ocs:C10764,
+        ocs:C10870,
+        ocs:C13,
+        ocs:C16947,
+        ocs:C25,
+        ocs:C26350,
+        ocs:C3128,
+        ocs:C45823,
+        ocs:C5512,
+        ocs:C9488 .
+

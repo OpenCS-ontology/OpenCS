@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14232 a skos:Concept ;
+    skos:broader ocs:C4861,
+        ocs:C5293,
+        ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payload_fraction> ;
+    skos:prefLabel "Payload fraction" ;
+    skos:related ocs:C11445,
+        ocs:C1628,
+        ocs:C21936,
+        ocs:C41911,
+        ocs:C5293,
+        ocs:C7790 .
+

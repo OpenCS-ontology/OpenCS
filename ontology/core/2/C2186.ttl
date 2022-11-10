@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2186 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncertain_data> ;
+    skos:prefLabel "Uncertain data" ;
+    skos:related ocs:C11608,
+        ocs:C11811,
+        ocs:C12238,
+        ocs:C13748,
+        ocs:C1844,
+        ocs:C20805,
+        ocs:C24811,
+        ocs:C25,
+        ocs:C26905,
+        ocs:C35012,
+        ocs:C3936,
+        ocs:C5856 .
+

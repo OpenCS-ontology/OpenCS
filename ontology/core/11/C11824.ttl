@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11824 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/AN/TRC-97> ;
+    skos:prefLabel "AN/TRC-97" ;
+    skos:related ocs:C1219,
+        ocs:C12999,
+        ocs:C24807,
+        ocs:C26358,
+        ocs:C30503,
+        ocs:C35931,
+        ocs:C38373,
+        ocs:C39458,
+        ocs:C42274,
+        ocs:C45299,
+        ocs:C7216,
+        ocs:C791,
+        ocs:C8388 .
+

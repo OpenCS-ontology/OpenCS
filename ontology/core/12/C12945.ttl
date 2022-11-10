@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12945 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:prefLabel "Search job" ;
+    skos:related ocs:C10396,
+        ocs:C11278,
+        ocs:C12,
+        ocs:C17,
+        ocs:C2135,
+        ocs:C31,
+        ocs:C4,
+        ocs:C6 .
+

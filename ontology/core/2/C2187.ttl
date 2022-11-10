@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2187 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_collaboration> ;
+    skos:prefLabel "Virtual collaboration" ;
+    skos:related ocs:C10225,
+        ocs:C10783,
+        ocs:C11036,
+        ocs:C11682,
+        ocs:C1338,
+        ocs:C19406,
+        ocs:C2188,
+        ocs:C22668,
+        ocs:C25752,
+        ocs:C2714,
+        ocs:C3236,
+        ocs:C37505,
+        ocs:C40504,
+        ocs:C420,
+        ocs:C672,
+        ocs:C7344,
+        ocs:C8614 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19557 a skos:Concept ;
+    skos:broader ocs:C5619,
+        ocs:C8711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Role-based_access_control> ;
+    skos:prefLabel "Role-based access control" ;
+    skos:related ocs:C12052,
+        ocs:C14417,
+        ocs:C17656,
+        ocs:C17669,
+        ocs:C20443,
+        ocs:C21059,
+        ocs:C21232,
+        ocs:C21592,
+        ocs:C21951,
+        ocs:C22970,
+        ocs:C28881,
+        ocs:C31042,
+        ocs:C32400,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35388,
+        ocs:C45563,
+        ocs:C7006,
+        ocs:C8711,
+        ocs:C9 .
+

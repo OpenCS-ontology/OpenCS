@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17105 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Korean_phonology> ;
+    skos:prefLabel "Korean phonology" ;
+    skos:related ocs:C10570,
+        ocs:C12222,
+        ocs:C13096,
+        ocs:C16899,
+        ocs:C18819,
+        ocs:C19817,
+        ocs:C2025,
+        ocs:C20344,
+        ocs:C23276,
+        ocs:C23688,
+        ocs:C27886,
+        ocs:C34054,
+        ocs:C36116,
+        ocs:C37693,
+        ocs:C4522 .
+

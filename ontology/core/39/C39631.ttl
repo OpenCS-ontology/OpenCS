@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39631 a skos:Concept ;
+    skos:broader ocs:C32978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shotgun_surgery> ;
+    skos:prefLabel "Shotgun surgery" ;
+    skos:related ocs:C10781,
+        ocs:C11928,
+        ocs:C20854,
+        ocs:C25854,
+        ocs:C28080,
+        ocs:C34057,
+        ocs:C3805,
+        ocs:C3833,
+        ocs:C39851,
+        ocs:C41303,
+        ocs:C43771,
+        ocs:C43773,
+        ocs:C43888,
+        ocs:C7162,
+        ocs:C8023,
+        ocs:C9650 .
+

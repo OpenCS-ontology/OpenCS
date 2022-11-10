@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34176 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simplicial_polytope> ;
+    skos:prefLabel "Simplicial polytope" ;
+    skos:related ocs:C33472,
+        ocs:C38990,
+        ocs:C43632,
+        ocs:C43720 .
+

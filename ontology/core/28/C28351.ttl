@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28351 a skos:Concept ;
+    skos:broader ocs:C260 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autoregressive_conditional_duration> ;
+    skos:prefLabel "Autoregressive conditional duration" ;
+    skos:related ocs:C14250,
+        ocs:C23563,
+        ocs:C24319,
+        ocs:C2707,
+        ocs:C5505,
+        ocs:C9428 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16377 a skos:Concept ;
+    skos:broader ocs:C4048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary-coded_decimal> ;
+    skos:prefLabel "Binary-coded decimal" ;
+    skos:related ocs:C10320,
+        ocs:C10696,
+        ocs:C11709,
+        ocs:C12262,
+        ocs:C13025,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C22452,
+        ocs:C24544,
+        ocs:C26455,
+        ocs:C40069,
+        ocs:C43223,
+        ocs:C6026,
+        ocs:C8581,
+        ocs:C9162 .
+

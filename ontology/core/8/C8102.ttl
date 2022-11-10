@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8102 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/BATCO> ;
+    skos:prefLabel "BATCO" ;
+    skos:related ocs:C1027,
+        ocs:C14539,
+        ocs:C14651,
+        ocs:C17091,
+        ocs:C28501,
+        ocs:C28967,
+        ocs:C30538,
+        ocs:C31777,
+        ocs:C36233,
+        ocs:C38429,
+        ocs:C38924,
+        ocs:C41757,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C5575,
+        ocs:C5692,
+        ocs:C8397,
+        ocs:C9491 .
+

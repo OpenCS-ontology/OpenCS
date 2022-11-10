@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39448 a skos:Concept ;
+    skos:broader ocs:C36941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Factorial_moment_generating_function> ;
+    skos:prefLabel "Factorial moment generating function" ;
+    skos:related ocs:C13262,
+        ocs:C22092,
+        ocs:C36407,
+        ocs:C36941,
+        ocs:C45652,
+        ocs:C795 .
+

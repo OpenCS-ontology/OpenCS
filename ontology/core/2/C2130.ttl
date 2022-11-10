@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2130 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Background_process> ;
+    skos:prefLabel "Background process" ;
+    skos:related ocs:C12815,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C14731,
+        ocs:C2322,
+        ocs:C2353,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C34475,
+        ocs:C38959,
+        ocs:C42619,
+        ocs:C5702,
+        ocs:C6072,
+        ocs:C6140,
+        ocs:C8030,
+        ocs:C8349,
+        ocs:C9 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8951 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Residual_(numerical_analysis)> ;
+    skos:prefLabel "Residual" ;
+    skos:related ocs:C13682,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C22854,
+        ocs:C2321,
+        ocs:C23783,
+        ocs:C5201 .
+

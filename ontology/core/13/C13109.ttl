@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13109 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_formation> ;
+    skos:prefLabel "Word formation" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12443,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C13757,
+        ocs:C1451,
+        ocs:C14834,
+        ocs:C1952,
+        ocs:C2298,
+        ocs:C23243,
+        ocs:C26019,
+        ocs:C2847,
+        ocs:C8283 .
+

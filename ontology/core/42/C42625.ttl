@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42625 a skos:Concept ;
+    skos:broader ocs:C32519,
+        ocs:C32578 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sinc_filter> ;
+    skos:prefLabel "Sinc filter" ;
+    skos:related ocs:C11150,
+        ocs:C1449,
+        ocs:C20514,
+        ocs:C23968,
+        ocs:C251,
+        ocs:C44628,
+        ocs:C44671,
+        ocs:C5042,
+        ocs:C6816 .
+

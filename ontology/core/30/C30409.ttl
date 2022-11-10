@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30409 a skos:Concept ;
+    skos:broader ocs:C28526 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_process_discovery> ;
+    skos:prefLabel "Business process discovery" ;
+    skos:related ocs:C1,
+        ocs:C10052,
+        ocs:C12427,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C3395,
+        ocs:C3485,
+        ocs:C37135,
+        ocs:C42101,
+        ocs:C44050,
+        ocs:C45047,
+        ocs:C4768 .
+

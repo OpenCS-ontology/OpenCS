@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9424 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_Lempel–Ziv> ;
+    skos:prefLabel "Statistical Lempel–Ziv" ;
+    skos:related ocs:C5816,
+        ocs:C9269 .
+

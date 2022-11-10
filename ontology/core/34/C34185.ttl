@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34185 a skos:Concept ;
+    skos:broader ocs:C23181,
+        ocs:C24477,
+        ocs:C28080 ;
+    skos:prefLabel "Aspect oriented design" .
+

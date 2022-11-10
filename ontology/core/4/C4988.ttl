@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4988 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power-off_testing> ;
+    skos:prefLabel "Power-off testing" ;
+    skos:related ocs:C12337,
+        ocs:C19538,
+        ocs:C25691,
+        ocs:C4469,
+        ocs:C5624 .
+

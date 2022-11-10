@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12384 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_pack> ;
+    skos:prefLabel "Data pack" ;
+    skos:related ocs:C10396,
+        ocs:C11603,
+        ocs:C12304,
+        ocs:C17625,
+        ocs:C17701,
+        ocs:C21254,
+        ocs:C2761,
+        ocs:C28287,
+        ocs:C38871,
+        ocs:C41073,
+        ocs:C4129,
+        ocs:C44855,
+        ocs:C5138,
+        ocs:C5822,
+        ocs:C6,
+        ocs:C8965 .
+

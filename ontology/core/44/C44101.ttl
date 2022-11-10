@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44101 a skos:Concept ;
+    skos:broader ocs:C33603,
+        ocs:C37207 ;
+    skos:closeMatch <http://dbpedia.org/resource/GrowCut_algorithm> ;
+    skos:prefLabel "GrowCut algorithm" ;
+    skos:related ocs:C10,
+        ocs:C19560,
+        ocs:C20117,
+        ocs:C24721,
+        ocs:C25010,
+        ocs:C27503,
+        ocs:C33561,
+        ocs:C3678,
+        ocs:C39144,
+        ocs:C39145,
+        ocs:C40134,
+        ocs:C44096,
+        ocs:C44133,
+        ocs:C44175,
+        ocs:C44268,
+        ocs:C45217,
+        ocs:C7553,
+        ocs:C839,
+        ocs:C9543 .
+

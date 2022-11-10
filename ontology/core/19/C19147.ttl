@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19147 a skos:Concept ;
+    skos:broader ocs:C12312,
+        ocs:C4321,
+        ocs:C856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instruction_selection> ;
+    skos:prefLabel "Instruction selection" ;
+    skos:related ocs:C12257,
+        ocs:C12312,
+        ocs:C12974,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C23863,
+        ocs:C23867,
+        ocs:C28073,
+        ocs:C2876,
+        ocs:C34501,
+        ocs:C40105,
+        ocs:C4321,
+        ocs:C45210,
+        ocs:C45618,
+        ocs:C5256,
+        ocs:C6280,
+        ocs:C7800,
+        ocs:C8195 .
+

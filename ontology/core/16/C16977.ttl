@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16977 a skos:Concept ;
+    skos:broader ocs:C7201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Atomic_Clock_Ensemble_in_Space> ;
+    skos:prefLabel "Atomic Clock Ensemble in Space" ;
+    skos:related ocs:C22220,
+        ocs:C26596,
+        ocs:C26824,
+        ocs:C32988,
+        ocs:C33741,
+        ocs:C42725,
+        ocs:C7201 .
+

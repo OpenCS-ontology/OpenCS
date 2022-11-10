@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12009 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Accelerating_change> ;
+    skos:prefLabel "Accelerating change" ;
+    skos:related ocs:C10396,
+        ocs:C11938,
+        ocs:C1492,
+        ocs:C3321,
+        ocs:C3848,
+        ocs:C39803,
+        ocs:C8 .
+

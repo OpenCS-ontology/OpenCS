@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21257 a skos:Concept ;
+    skos:broader ocs:C7903 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbolic_simulation> ;
+    skos:prefLabel "Symbolic simulation" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12098,
+        ocs:C12108,
+        ocs:C1253,
+        ocs:C17916,
+        ocs:C24,
+        ocs:C24595,
+        ocs:C26693,
+        ocs:C36771,
+        ocs:C45212,
+        ocs:C4756,
+        ocs:C5300,
+        ocs:C5561,
+        ocs:C5865,
+        ocs:C692,
+        ocs:C7126,
+        ocs:C7256,
+        ocs:C7903 .
+

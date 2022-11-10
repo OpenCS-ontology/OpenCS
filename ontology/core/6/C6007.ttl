@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6007 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Computer drive" ;
+    skos:related ocs:C10501,
+        ocs:C17,
+        ocs:C22,
+        ocs:C3231,
+        ocs:C4099,
+        ocs:C5818,
+        ocs:C8259 .
+

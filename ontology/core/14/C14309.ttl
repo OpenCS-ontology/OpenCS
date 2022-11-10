@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14309 a skos:Concept ;
+    skos:broader ocs:C949 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_Signatures_in_Global_and_National_Commerce_Act> ;
+    skos:prefLabel "Electronic Signatures in Global and National Commerce Act" ;
+    skos:related ocs:C19504,
+        ocs:C21324,
+        ocs:C26573,
+        ocs:C35608,
+        ocs:C36925,
+        ocs:C7106,
+        ocs:C807,
+        ocs:C8614,
+        ocs:C9150,
+        ocs:C949 .
+

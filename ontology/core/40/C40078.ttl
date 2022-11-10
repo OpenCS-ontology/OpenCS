@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40078 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C32720,
+        ocs:C35109,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/Postback> ;
+    skos:prefLabel "Postback" ;
+    skos:related ocs:C10904,
+        ocs:C12810,
+        ocs:C16336,
+        ocs:C17235,
+        ocs:C17556,
+        ocs:C17557,
+        ocs:C22597,
+        ocs:C26386,
+        ocs:C26528,
+        ocs:C28941,
+        ocs:C29401,
+        ocs:C2976,
+        ocs:C38459,
+        ocs:C39074,
+        ocs:C39292,
+        ocs:C39880,
+        ocs:C40290,
+        ocs:C43255,
+        ocs:C45402,
+        ocs:C7530 .
+

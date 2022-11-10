@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10774 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Passive_probing> ;
+    skos:prefLabel "Passive probing" ;
+    skos:related ocs:C13786,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C19350,
+        ocs:C20314,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26523,
+        ocs:C26809,
+        ocs:C27570,
+        ocs:C3,
+        ocs:C30342,
+        ocs:C3283,
+        ocs:C37752,
+        ocs:C4197,
+        ocs:C423,
+        ocs:C44104,
+        ocs:C45247,
+        ocs:C490 .
+

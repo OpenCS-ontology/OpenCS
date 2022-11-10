@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38024 a skos:Concept ;
+    skos:broader ocs:C34089,
+        ocs:C37233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reduced-carrier_transmission> ;
+    skos:prefLabel "Reduced-carrier transmission" ;
+    skos:related ocs:C12582,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C21604,
+        ocs:C23488,
+        ocs:C25850,
+        ocs:C28744,
+        ocs:C34089,
+        ocs:C34890,
+        ocs:C36245,
+        ocs:C36707,
+        ocs:C38310,
+        ocs:C38689,
+        ocs:C40139,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C45622,
+        ocs:C7502 .
+

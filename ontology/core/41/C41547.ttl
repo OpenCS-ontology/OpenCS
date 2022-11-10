@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41547 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_formal_ontology> ;
+    skos:prefLabel "General formal ontology" ;
+    skos:related ocs:C25681,
+        ocs:C28119,
+        ocs:C32347,
+        ocs:C33304,
+        ocs:C34321,
+        ocs:C35993,
+        ocs:C40912,
+        ocs:C42636,
+        ocs:C43476,
+        ocs:C44162,
+        ocs:C44939,
+        ocs:C45471,
+        ocs:C45702 .
+

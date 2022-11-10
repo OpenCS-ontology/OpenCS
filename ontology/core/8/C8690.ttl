@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8690 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tokenization_(data_security)> ;
+    skos:prefLabel "Tokenization (data security)" ;
+    skos:related ocs:C10270,
+        ocs:C12434,
+        ocs:C16740,
+        ocs:C19151,
+        ocs:C22776,
+        ocs:C28781,
+        ocs:C29023,
+        ocs:C30769,
+        ocs:C31096,
+        ocs:C32504,
+        ocs:C33074,
+        ocs:C33193,
+        ocs:C35,
+        ocs:C37095,
+        ocs:C41220,
+        ocs:C45140,
+        ocs:C45216,
+        ocs:C8437 .
+

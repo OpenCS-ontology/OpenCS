@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35802 a skos:Concept ;
+    skos:broader ocs:C21976,
+        ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/PCell> ;
+    skos:prefLabel "PCell" ;
+    skos:related ocs:C10965,
+        ocs:C15650,
+        ocs:C15785,
+        ocs:C15798,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C28039,
+        ocs:C4274,
+        ocs:C5127,
+        ocs:C6797 .
+

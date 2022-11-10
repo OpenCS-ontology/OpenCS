@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6510 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voice-to-text> ;
+    skos:prefLabel "Recognition speech" ;
+    skos:related ocs:C1,
+        ocs:C11529,
+        ocs:C21,
+        ocs:C27611,
+        ocs:C8 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30009 a skos:Concept ;
+    skos:broader ocs:C16008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Good–deal_bounds> ;
+    skos:prefLabel "Good–deal bounds" ;
+    skos:related ocs:C16008 .
+

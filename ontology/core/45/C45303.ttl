@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45303 a skos:Concept ;
+    skos:broader ocs:C32720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_data_services> ;
+    skos:prefLabel "Web data services" ;
+    skos:related ocs:C10724,
+        ocs:C12238,
+        ocs:C1238,
+        ocs:C12736,
+        ocs:C13744,
+        ocs:C17238,
+        ocs:C1728,
+        ocs:C21072,
+        ocs:C23103,
+        ocs:C25962,
+        ocs:C2813,
+        ocs:C28526,
+        ocs:C29695,
+        ocs:C3736,
+        ocs:C40280,
+        ocs:C4968,
+        ocs:C6749,
+        ocs:C9488,
+        ocs:C9874 .
+

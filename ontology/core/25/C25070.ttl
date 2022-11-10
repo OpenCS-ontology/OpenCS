@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25070 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gravitational_wave_background> ;
+    skos:prefLabel "Gravitational wave background" ;
+    skos:related ocs:C17386,
+        ocs:C20110,
+        ocs:C27188,
+        ocs:C34608,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C36773,
+        ocs:C37145 .
+

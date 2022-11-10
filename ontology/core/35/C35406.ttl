@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35406 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clarias_gariepinus> ;
+    skos:prefLabel "Clarias gariepinus" ;
+    skos:related ocs:C24236,
+        ocs:C31528,
+        ocs:C32617,
+        ocs:C35846,
+        ocs:C36286,
+        ocs:C36483,
+        ocs:C40668,
+        ocs:C41192,
+        ocs:C42351,
+        ocs:C43354,
+        ocs:C43662,
+        ocs:C44812 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38464 a skos:Concept ;
+    skos:broader ocs:C30735 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semi-empirical_quantum_chemistry_method> ;
+    skos:prefLabel "Semi-empirical quantum chemistry method" ;
+    skos:related ocs:C28230 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3059 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signals_intelligence> ;
+    skos:prefLabel "Signals intelligence" ;
+    skos:related ocs:C10185,
+        ocs:C1331,
+        ocs:C17856,
+        ocs:C1845,
+        ocs:C25124,
+        ocs:C4218,
+        ocs:C4344,
+        ocs:C5692,
+        ocs:C7113 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22269 a skos:Concept ;
+    skos:broader ocs:C11932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conceptual_combination> ;
+    skos:prefLabel "Conceptual combination" ;
+    skos:related ocs:C18026,
+        ocs:C1952,
+        ocs:C23243,
+        ocs:C37038,
+        ocs:C7163,
+        ocs:C928 .
+

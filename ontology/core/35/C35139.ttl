@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35139 a skos:Concept ;
+    skos:broader ocs:C22243,
+        ocs:C29424 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genetic_operator> ;
+    skos:prefLabel "Genetic operator" ;
+    skos:related ocs:C10390,
+        ocs:C13633,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C17599,
+        ocs:C22772,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C29723,
+        ocs:C30212,
+        ocs:C33012,
+        ocs:C34689,
+        ocs:C38437,
+        ocs:C38697,
+        ocs:C5197,
+        ocs:C7553,
+        ocs:C9484 .
+

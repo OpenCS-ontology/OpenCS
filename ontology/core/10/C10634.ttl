@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10634 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Screen_burn-in> ;
+    skos:prefLabel "Screen burn-in" ;
+    skos:related ocs:C13100,
+        ocs:C13725,
+        ocs:C17253,
+        ocs:C22257,
+        ocs:C24972,
+        ocs:C27984,
+        ocs:C36598,
+        ocs:C653,
+        ocs:C8021 .
+

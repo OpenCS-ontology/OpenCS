@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12478 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_box> ;
+    skos:prefLabel "Text box" ;
+    skos:related ocs:C11927,
+        ocs:C13790,
+        ocs:C1787,
+        ocs:C2365,
+        ocs:C25563,
+        ocs:C26337,
+        ocs:C26700,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C4450,
+        ocs:C4918,
+        ocs:C5305,
+        ocs:C5702,
+        ocs:C6860,
+        ocs:C7059,
+        ocs:C8129 .
+

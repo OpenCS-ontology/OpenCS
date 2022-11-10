@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithm> ;
+    skos:prefLabel "Algorithm" ;
+    skos:related ocs:C1,
+        ocs:C1253,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C22100,
+        ocs:C25,
+        ocs:C3678,
+        ocs:C4218,
+        ocs:C4321,
+        ocs:C5722,
+        ocs:C6,
+        ocs:C6072,
+        ocs:C611,
+        ocs:C8,
+        ocs:C8660,
+        ocs:C9 .
+

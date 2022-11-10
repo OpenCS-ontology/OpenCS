@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21763 a skos:Concept ;
+    skos:broader ocs:C197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corporate_governance_of_information_technology> ;
+    skos:prefLabel "Corporate governance of information technology" ;
+    skos:related ocs:C1399,
+        ocs:C197,
+        ocs:C24688,
+        ocs:C29181,
+        ocs:C2979,
+        ocs:C32293,
+        ocs:C3395,
+        ocs:C37747,
+        ocs:C42315,
+        ocs:C6944,
+        ocs:C9700 .
+

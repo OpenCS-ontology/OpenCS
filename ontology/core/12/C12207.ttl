@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12207 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Retiming> ;
+    skos:prefLabel "Retiming" ;
+    skos:related ocs:C10377,
+        ocs:C11252,
+        ocs:C11690,
+        ocs:C17717,
+        ocs:C210,
+        ocs:C22699,
+        ocs:C254,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C31925,
+        ocs:C42888,
+        ocs:C6534 .
+

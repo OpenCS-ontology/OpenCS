@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2029 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Eyeball movements" ;
+    skos:related ocs:C10554,
+        ocs:C21,
+        ocs:C22,
+        ocs:C515,
+        ocs:C6069,
+        ocs:C78 .
+

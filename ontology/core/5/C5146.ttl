@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5146 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packing_problems> ;
+    skos:prefLabel "Packing problems" ;
+    skos:related ocs:C23872,
+        ocs:C24150,
+        ocs:C30401,
+        ocs:C5864,
+        ocs:C6149,
+        ocs:C6776,
+        ocs:C7988,
+        ocs:C8944,
+        ocs:C9372 .
+

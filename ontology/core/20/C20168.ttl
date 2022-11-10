@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20168 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Particle_physics_experiments> ;
+    skos:prefLabel "Particle physics experiments" ;
+    skos:related ocs:C16098,
+        ocs:C16724,
+        ocs:C22996,
+        ocs:C32029,
+        ocs:C35999,
+        ocs:C597 .
+

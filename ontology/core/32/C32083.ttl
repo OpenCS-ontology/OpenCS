@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32083 a skos:Concept ;
+    skos:broader ocs:C27283 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keyboard_computer> ;
+    skos:prefLabel "Keyboard computer" ;
+    skos:related ocs:C10087,
+        ocs:C10320,
+        ocs:C10824,
+        ocs:C12690,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C2,
+        ocs:C23507,
+        ocs:C2534,
+        ocs:C26517,
+        ocs:C28515,
+        ocs:C29012,
+        ocs:C33303,
+        ocs:C34909,
+        ocs:C41110,
+        ocs:C653,
+        ocs:C9442 .
+

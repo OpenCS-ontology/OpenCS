@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34387 a skos:Concept ;
+    skos:broader ocs:C17856,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correlation_attack> ;
+    skos:prefLabel "Correlation attack" ;
+    skos:related ocs:C13686,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C24146,
+        ocs:C30083,
+        ocs:C30314,
+        ocs:C30768,
+        ocs:C31564,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C39104,
+        ocs:C40268,
+        ocs:C4218,
+        ocs:C42918,
+        ocs:C43934,
+        ocs:C45161,
+        ocs:C45369,
+        ocs:C7171 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31650 a skos:Concept ;
+    skos:broader ocs:C26012 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cold_start> ;
+    skos:prefLabel "Cold start" ;
+    skos:related ocs:C1100,
+        ocs:C11126,
+        ocs:C11338,
+        ocs:C2414,
+        ocs:C25,
+        ocs:C2529,
+        ocs:C26012,
+        ocs:C29542,
+        ocs:C31758,
+        ocs:C33925,
+        ocs:C34361,
+        ocs:C3800,
+        ocs:C38799,
+        ocs:C41836,
+        ocs:C42440,
+        ocs:C5140,
+        ocs:C9219 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30953 a skos:Concept ;
+    skos:broader ocs:C17166 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct-attached_storage> ;
+    skos:prefLabel "Direct-attached storage" ;
+    skos:related ocs:C10501,
+        ocs:C10785,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C13783,
+        ocs:C17484,
+        ocs:C17533,
+        ocs:C29846,
+        ocs:C3231,
+        ocs:C40587,
+        ocs:C6588,
+        ocs:C8298,
+        ocs:C9426 .
+

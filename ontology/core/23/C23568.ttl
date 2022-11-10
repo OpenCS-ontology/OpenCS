@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23568 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_publishing> ;
+    skos:prefLabel "Electronic publishing" ;
+    skos:related ocs:C10413,
+        ocs:C11595,
+        ocs:C11927,
+        ocs:C15008,
+        ocs:C17,
+        ocs:C22551,
+        ocs:C24639,
+        ocs:C31,
+        ocs:C39,
+        ocs:C5477,
+        ocs:C5746,
+        ocs:C6219,
+        ocs:C6916,
+        ocs:C8011,
+        ocs:C8614,
+        ocs:C8797,
+        ocs:C9096 .
+

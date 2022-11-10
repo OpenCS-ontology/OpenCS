@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29065 a skos:Concept ;
+    skos:broader ocs:C7979,
+        ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morphic_word> ;
+    skos:prefLabel "Morphic word" ;
+    skos:related ocs:C15002,
+        ocs:C17566,
+        ocs:C19183,
+        ocs:C22977,
+        ocs:C25682,
+        ocs:C524,
+        ocs:C7979 .
+

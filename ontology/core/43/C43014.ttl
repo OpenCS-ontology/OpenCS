@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43014 a skos:Concept ;
+    skos:broader ocs:C30229 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gabor_atom> ;
+    skos:prefLabel "Gabor atom" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C17252,
+        ocs:C20648,
+        ocs:C28095,
+        ocs:C28754,
+        ocs:C34362,
+        ocs:C38730,
+        ocs:C40380,
+        ocs:C9427 .
+

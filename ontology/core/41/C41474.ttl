@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41474 a skos:Concept ;
+    skos:broader ocs:C34711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_game> ;
+    skos:prefLabel "Fuzzy game" ;
+    skos:related ocs:C11414,
+        ocs:C13171,
+        ocs:C2672,
+        ocs:C272,
+        ocs:C37008,
+        ocs:C4661 .
+

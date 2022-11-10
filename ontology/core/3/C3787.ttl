@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3787 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Force-sensing_resistor> ;
+    skos:prefLabel "Force-sensing resistor" ;
+    skos:related ocs:C17236,
+        ocs:C22283,
+        ocs:C36714 .
+

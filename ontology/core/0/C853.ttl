@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C853 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_statistics> ;
+    skos:prefLabel "Computational statistics" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10382,
+        ocs:C13,
+        ocs:C14620,
+        ocs:C21628,
+        ocs:C23865,
+        ocs:C25,
+        ocs:C29,
+        ocs:C6116,
+        ocs:C6395 .
+

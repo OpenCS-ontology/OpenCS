@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42764 a skos:Concept ;
+    skos:broader ocs:C31629,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barnette's_conjecture> ;
+    skos:prefLabel "Barnette's conjecture" ;
+    skos:related ocs:C31629,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C39401,
+        ocs:C39583,
+        ocs:C40446,
+        ocs:C40560,
+        ocs:C40871,
+        ocs:C41435,
+        ocs:C41573,
+        ocs:C41606,
+        ocs:C42281,
+        ocs:C42848,
+        ocs:C43652,
+        ocs:C44460,
+        ocs:C44563,
+        ocs:C45361 .
+

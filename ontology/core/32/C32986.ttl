@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32986 a skos:Concept ;
+    skos:broader ocs:C22618 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chain-linked_model> ;
+    skos:prefLabel "Chain-linked model" ;
+    skos:related ocs:C12219,
+        ocs:C21052,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C27096,
+        ocs:C3464,
+        ocs:C5707,
+        ocs:C8236,
+        ocs:C8343,
+        ocs:C9656 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42282 a skos:Concept ;
+    skos:broader ocs:C31111,
+        ocs:C31887,
+        ocs:C36383 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recognition_primed_decision> ;
+    skos:prefLabel "Recognition primed decision" ;
+    skos:related ocs:C11749,
+        ocs:C22673,
+        ocs:C2529,
+        ocs:C31111,
+        ocs:C3903,
+        ocs:C40277,
+        ocs:C6585,
+        ocs:C912,
+        ocs:C9608 .
+

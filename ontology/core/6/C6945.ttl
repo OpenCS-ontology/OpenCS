@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6945 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evaluation_function> ;
+    skos:prefLabel "Evaluation function" ;
+    skos:related ocs:C10077,
+        ocs:C1086,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C34688,
+        ocs:C34786,
+        ocs:C40237,
+        ocs:C4254,
+        ocs:C43080,
+        ocs:C4594 .
+

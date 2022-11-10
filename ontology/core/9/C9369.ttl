@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9369 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Server-based_signatures> ;
+    skos:prefLabel "Server-based signatures" ;
+    skos:related ocs:C14164,
+        ocs:C16125,
+        ocs:C18803,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C26410,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C32484,
+        ocs:C33191,
+        ocs:C33416,
+        ocs:C37228,
+        ocs:C37863,
+        ocs:C38359,
+        ocs:C40520,
+        ocs:C40789,
+        ocs:C4218,
+        ocs:C7292,
+        ocs:C816 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33751 a skos:Concept ;
+    skos:broader ocs:C19230,
+        ocs:C22451,
+        ocs:C24264,
+        ocs:C24469,
+        ocs:C28744 ;
+    skos:prefLabel "Binary frequency shift keying" .
+

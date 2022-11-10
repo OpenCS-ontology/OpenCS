@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11201 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ka_band> ;
+    skos:prefLabel "Ka band" ;
+    skos:related ocs:C11863,
+        ocs:C12124,
+        ocs:C19819,
+        ocs:C2006,
+        ocs:C20391,
+        ocs:C2581,
+        ocs:C3068,
+        ocs:C45299,
+        ocs:C6474,
+        ocs:C8359,
+        ocs:C863,
+        ocs:C9103 .
+

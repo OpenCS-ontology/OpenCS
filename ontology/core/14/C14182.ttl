@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14182 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tracking_collar> ;
+    skos:prefLabel "Tracking collar" ;
+    skos:related ocs:C12641,
+        ocs:C1793,
+        ocs:C2470,
+        ocs:C3446,
+        ocs:C35019,
+        ocs:C40171,
+        ocs:C45711,
+        ocs:C6311,
+        ocs:C8752 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4702 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bluebugging> ;
+    skos:prefLabel "Bluebugging" ;
+    skos:related ocs:C12698,
+        ocs:C15832,
+        ocs:C16693,
+        ocs:C17976,
+        ocs:C19230,
+        ocs:C21424,
+        ocs:C24312,
+        ocs:C27532,
+        ocs:C31489,
+        ocs:C3236,
+        ocs:C34429,
+        ocs:C34667,
+        ocs:C35796,
+        ocs:C36900,
+        ocs:C37942,
+        ocs:C39859,
+        ocs:C5219,
+        ocs:C5511,
+        ocs:C5843 .
+

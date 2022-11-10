@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11583 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_Precision_Event_Timer> ;
+    skos:prefLabel "High Precision Event Timer" ;
+    skos:related ocs:C10568,
+        ocs:C18258,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C20800,
+        ocs:C2545,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C3893,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C40633,
+        ocs:C74,
+        ocs:C8704,
+        ocs:C9,
+        ocs:C9433 .
+

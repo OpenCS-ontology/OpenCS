@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41395 a skos:Concept ;
+    skos:broader ocs:C30248 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bunocephalus> ;
+    skos:prefLabel "Bunocephalus" ;
+    skos:related ocs:C30248,
+        ocs:C33166,
+        ocs:C39150,
+        ocs:C40967,
+        ocs:C41847 .
+

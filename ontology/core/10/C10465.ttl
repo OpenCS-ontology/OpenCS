@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10465 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photographic_quantity> ;
+    skos:prefLabel "Photographic quantity" ;
+    skos:related ocs:C10318,
+        ocs:C10564,
+        ocs:C13065,
+        ocs:C17970,
+        ocs:C2895,
+        ocs:C3338,
+        ocs:C35208 .
+

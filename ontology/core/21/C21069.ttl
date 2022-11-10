@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21069 a skos:Concept ;
+    skos:broader ocs:C9641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mean_absolute_error> ;
+    skos:prefLabel "Mean absolute error" .
+

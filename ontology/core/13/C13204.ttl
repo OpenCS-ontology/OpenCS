@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13204 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-_and_low-level> ;
+    skos:prefLabel "High- and low-level" ;
+    skos:related ocs:C13045,
+        ocs:C14990,
+        ocs:C17204,
+        ocs:C18219,
+        ocs:C19,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C5702,
+        ocs:C6072,
+        ocs:C6118,
+        ocs:C7334,
+        ocs:C8183,
+        ocs:C9373 .
+

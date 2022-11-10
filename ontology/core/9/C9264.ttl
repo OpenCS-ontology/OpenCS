@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9264 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_routing_problem> ;
+    skos:prefLabel "Vehicle routing problem" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C12530,
+        ocs:C15253,
+        ocs:C18259,
+        ocs:C23872,
+        ocs:C2413,
+        ocs:C24647,
+        ocs:C25376,
+        ocs:C25481,
+        ocs:C26453,
+        ocs:C32917,
+        ocs:C36442,
+        ocs:C3837,
+        ocs:C5106,
+        ocs:C6335,
+        ocs:C7397,
+        ocs:C8944 .
+

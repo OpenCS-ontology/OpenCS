@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35177 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C18213,
+        ocs:C22493 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptographically_Generated_Address> ;
+    skos:prefLabel "Cryptographically Generated Address" ;
+    skos:related ocs:C15591,
+        ocs:C16125,
+        ocs:C16983,
+        ocs:C18213,
+        ocs:C23666,
+        ocs:C23875,
+        ocs:C30340,
+        ocs:C3462,
+        ocs:C36475,
+        ocs:C36678,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37995,
+        ocs:C39101,
+        ocs:C40584,
+        ocs:C40789,
+        ocs:C41849,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C44229 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8230 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metamedia> ;
+    skos:prefLabel "Metamedia" ;
+    skos:related ocs:C11032,
+        ocs:C13320,
+        ocs:C1498,
+        ocs:C16615,
+        ocs:C17,
+        ocs:C176,
+        ocs:C18683,
+        ocs:C20400,
+        ocs:C21013,
+        ocs:C22745,
+        ocs:C22849,
+        ocs:C5926,
+        ocs:C6145,
+        ocs:C6757 .
+

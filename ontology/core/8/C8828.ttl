@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8828 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seating_capacity> ;
+    skos:prefLabel "Seating capacity" ;
+    skos:related ocs:C12544,
+        ocs:C19130,
+        ocs:C6340 .
+

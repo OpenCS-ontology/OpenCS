@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37136 a skos:Concept ;
+    skos:broader ocs:C20809,
+        ocs:C22700 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_breakdown_structure> ;
+    skos:prefLabel "Resource breakdown structure" ;
+    skos:related ocs:C14133,
+        ocs:C20086,
+        ocs:C20809,
+        ocs:C25147,
+        ocs:C30932 .
+

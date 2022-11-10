@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33381 a skos:Concept ;
+    skos:broader ocs:C19480,
+        ocs:C21769,
+        ocs:C24870 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_traffic_engineering> ;
+    skos:prefLabel "Internet traffic engineering" ;
+    skos:related ocs:C10858,
+        ocs:C12111,
+        ocs:C15065,
+        ocs:C16953,
+        ocs:C17864,
+        ocs:C18560,
+        ocs:C20330,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C21894,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C31729,
+        ocs:C36384,
+        ocs:C41914,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C5207,
+        ocs:C686,
+        ocs:C8614 .
+

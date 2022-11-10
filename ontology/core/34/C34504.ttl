@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34504 a skos:Concept ;
+    skos:broader ocs:C19558 ;
+    skos:closeMatch <http://dbpedia.org/resource/ICub> ;
+    skos:prefLabel "iCub" ;
+    skos:related ocs:C10396,
+        ocs:C114,
+        ocs:C11619,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C23165,
+        ocs:C23845,
+        ocs:C30191,
+        ocs:C31062,
+        ocs:C36316,
+        ocs:C36478,
+        ocs:C36567,
+        ocs:C37010,
+        ocs:C45473,
+        ocs:C469,
+        ocs:C5635,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9370 .
+

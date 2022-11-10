@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44452 a skos:Concept ;
+    skos:broader ocs:C31515,
+        ocs:C37677 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supernova_nucleosynthesis> ;
+    skos:prefLabel "Supernova nucleosynthesis" ;
+    skos:related ocs:C22014,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C31515,
+        ocs:C33412,
+        ocs:C33891,
+        ocs:C37112,
+        ocs:C37677 .
+

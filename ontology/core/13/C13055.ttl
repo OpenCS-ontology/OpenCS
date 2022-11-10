@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13055 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thesis_statement> ;
+    skos:prefLabel "Thesis statement" ;
+    skos:related ocs:C11595,
+        ocs:C13280,
+        ocs:C17068,
+        ocs:C1804,
+        ocs:C20985,
+        ocs:C21591,
+        ocs:C22572,
+        ocs:C25430,
+        ocs:C37227,
+        ocs:C8464,
+        ocs:C8915,
+        ocs:C9096 .
+

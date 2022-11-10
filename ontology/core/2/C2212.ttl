@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2212 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pocklington_primality_test> ;
+    skos:prefLabel "Pocklington primality test" ;
+    skos:related ocs:C1487,
+        ocs:C2258,
+        ocs:C2309,
+        ocs:C3158,
+        ocs:C3459,
+        ocs:C37205,
+        ocs:C40241,
+        ocs:C5730,
+        ocs:C6229,
+        ocs:C6550 .
+

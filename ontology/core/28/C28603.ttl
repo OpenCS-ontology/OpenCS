@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28603 a skos:Concept ;
+    skos:broader ocs:C257,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_filtering> ;
+    skos:prefLabel "Email filtering" ;
+    skos:related ocs:C11371,
+        ocs:C1253,
+        ocs:C12995,
+        ocs:C14983,
+        ocs:C16362,
+        ocs:C17567,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C28881,
+        ocs:C31112,
+        ocs:C36810,
+        ocs:C39499,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C4641,
+        ocs:C5960,
+        ocs:C7938,
+        ocs:C8614 .
+

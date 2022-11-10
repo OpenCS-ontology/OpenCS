@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14704 a skos:Concept ;
+    skos:broader ocs:C13210,
+        ocs:C308 ;
+    skos:closeMatch <http://dbpedia.org/resource/Laboratory_phonology> ;
+    skos:prefLabel "Laboratory phonology" ;
+    skos:related ocs:C1093,
+        ocs:C13210,
+        ocs:C15952,
+        ocs:C19812,
+        ocs:C20294,
+        ocs:C21727,
+        ocs:C22222,
+        ocs:C24484,
+        ocs:C24826,
+        ocs:C26702,
+        ocs:C28535,
+        ocs:C29133,
+        ocs:C308,
+        ocs:C32136,
+        ocs:C45675,
+        ocs:C6784 .
+

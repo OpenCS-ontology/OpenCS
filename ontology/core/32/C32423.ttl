@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32423 a skos:Concept ;
+    skos:broader ocs:C14237 ;
+    skos:closeMatch <http://dbpedia.org/resource/W._M._Keck_Observatory> ;
+    skos:prefLabel "W. M. Keck Observatory" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C18230,
+        ocs:C22752,
+        ocs:C23109,
+        ocs:C25936,
+        ocs:C26524,
+        ocs:C38054,
+        ocs:C597,
+        ocs:C8561 .
+

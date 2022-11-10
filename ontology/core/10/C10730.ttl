@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10730 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collections_care> ;
+    skos:prefLabel "Collections care" ;
+    skos:related ocs:C12745,
+        ocs:C15886,
+        ocs:C22104,
+        ocs:C2862,
+        ocs:C4335,
+        ocs:C5061,
+        ocs:C6702 .
+

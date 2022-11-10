@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18108 a skos:Concept ;
+    skos:broader ocs:C3733,
+        ocs:C746,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_feedback_cancellation> ;
+    skos:prefLabel "Adaptive feedback cancellation" ;
+    skos:related ocs:C25518,
+        ocs:C25528,
+        ocs:C26369,
+        ocs:C34942,
+        ocs:C3733,
+        ocs:C3843 .
+

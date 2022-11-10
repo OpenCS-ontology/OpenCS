@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11859 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_service> ;
+    skos:prefLabel "Universal service" ;
+    skos:related ocs:C13714,
+        ocs:C18264,
+        ocs:C19350,
+        ocs:C2188,
+        ocs:C22407,
+        ocs:C22701,
+        ocs:C23964,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C31220,
+        ocs:C44252,
+        ocs:C6345,
+        ocs:C7612,
+        ocs:C8614,
+        ocs:C9392 .
+

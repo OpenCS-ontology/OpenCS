@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35103 a skos:Concept ;
+    skos:broader ocs:C15797,
+        ocs:C22075 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_conditional_probability> ;
+    skos:prefLabel "Regular conditional probability" ;
+    skos:related ocs:C15797,
+        ocs:C1844,
+        ocs:C22418,
+        ocs:C32127,
+        ocs:C5032,
+        ocs:C9326 .
+

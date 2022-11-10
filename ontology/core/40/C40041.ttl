@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40041 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_associative_matrix> ;
+    skos:prefLabel "Fuzzy associative matrix" ;
+    skos:related ocs:C16802,
+        ocs:C33238,
+        ocs:C33734,
+        ocs:C34711,
+        ocs:C36703,
+        ocs:C37267,
+        ocs:C38724,
+        ocs:C41791,
+        ocs:C42522,
+        ocs:C43028,
+        ocs:C43099,
+        ocs:C43335,
+        ocs:C44565,
+        ocs:C44599,
+        ocs:C44742,
+        ocs:C44960,
+        ocs:C45577,
+        ocs:C45683,
+        ocs:C45869,
+        ocs:C5659 .
+

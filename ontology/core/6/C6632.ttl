@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6632 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Angle_of_arrival> ;
+    skos:prefLabel "Angle of arrival" ;
+    skos:related ocs:C10587,
+        ocs:C12641,
+        ocs:C12850,
+        ocs:C1337,
+        ocs:C1793,
+        ocs:C19494,
+        ocs:C19905,
+        ocs:C30890,
+        ocs:C32552,
+        ocs:C3446,
+        ocs:C35931,
+        ocs:C4255,
+        ocs:C4398,
+        ocs:C44290,
+        ocs:C7398,
+        ocs:C838 .
+

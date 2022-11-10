@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19748 a skos:Concept ;
+    skos:broader ocs:C2409,
+        ocs:C4199,
+        ocs:C6448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphics_hardware> ;
+    skos:prefLabel "Graphics hardware" ;
+    skos:related ocs:C10320,
+        ocs:C13155,
+        ocs:C15459,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C20569,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24015,
+        ocs:C24235,
+        ocs:C24871,
+        ocs:C2662,
+        ocs:C26812,
+        ocs:C28172,
+        ocs:C30378,
+        ocs:C32556,
+        ocs:C34356,
+        ocs:C8021 .
+

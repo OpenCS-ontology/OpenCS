@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40232 a skos:Concept ;
+    skos:broader ocs:C29728,
+        ocs:C30033,
+        ocs:C30705,
+        ocs:C33174,
+        ocs:C36894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_Media_Interface> ;
+    skos:prefLabel "Direct Media Interface" ;
+    skos:related ocs:C10320,
+        ocs:C11261,
+        ocs:C14856,
+        ocs:C1810,
+        ocs:C21617,
+        ocs:C23432,
+        ocs:C33838,
+        ocs:C38463,
+        ocs:C39121,
+        ocs:C39896,
+        ocs:C40559,
+        ocs:C9542 .
+

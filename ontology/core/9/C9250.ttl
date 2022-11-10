@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9250 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sound_quality> ;
+    skos:prefLabel "Sound quality" ;
+    skos:related ocs:C10778,
+        ocs:C12152,
+        ocs:C25891,
+        ocs:C2759,
+        ocs:C2937,
+        ocs:C34697,
+        ocs:C37917,
+        ocs:C40311,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C6081,
+        ocs:C7255,
+        ocs:C8291,
+        ocs:C9481 .
+

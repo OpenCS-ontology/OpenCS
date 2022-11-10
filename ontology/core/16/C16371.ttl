@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16371 a skos:Concept ;
+    skos:broader ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manchester_code> ;
+    skos:prefLabel "Manchester code" ;
+    skos:related ocs:C20608,
+        ocs:C26814,
+        ocs:C29471,
+        ocs:C3,
+        ocs:C36050,
+        ocs:C37072,
+        ocs:C40722,
+        ocs:C40772,
+        ocs:C45522,
+        ocs:C45901,
+        ocs:C5506,
+        ocs:C7502 .
+

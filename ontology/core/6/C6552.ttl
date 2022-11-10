@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6552 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_engine> ;
+    skos:prefLabel "Database engine" ;
+    skos:related ocs:C10444,
+        ocs:C1060,
+        ocs:C10720,
+        ocs:C12185,
+        ocs:C16874,
+        ocs:C17701,
+        ocs:C18414,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C28963,
+        ocs:C3231,
+        ocs:C35640,
+        ocs:C3812,
+        ocs:C38130,
+        ocs:C6,
+        ocs:C6754,
+        ocs:C8893,
+        ocs:C9 .
+

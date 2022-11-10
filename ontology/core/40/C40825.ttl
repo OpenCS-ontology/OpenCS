@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40825 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mnemonics_in_trigonometry> ;
+    skos:prefLabel "Mnemonics in trigonometry" ;
+    skos:related ocs:C13541,
+        ocs:C14919,
+        ocs:C37825,
+        ocs:C39644,
+        ocs:C39778,
+        ocs:C40788 .
+

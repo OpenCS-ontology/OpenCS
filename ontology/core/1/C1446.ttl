@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1446 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Greedy_algorithm> ;
+    skos:prefLabel "Greedy algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10390,
+        ocs:C11372,
+        ocs:C14693,
+        ocs:C17726,
+        ocs:C18302,
+        ocs:C25,
+        ocs:C29108,
+        ocs:C31762,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C4966,
+        ocs:C5823,
+        ocs:C7397,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C8660,
+        ocs:C8944 .
+

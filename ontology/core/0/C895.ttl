@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C895 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/G.706> ;
+    skos:prefLabel "G.706" ;
+    skos:related ocs:C11655,
+        ocs:C12273,
+        ocs:C12485,
+        ocs:C12583,
+        ocs:C13718,
+        ocs:C2162,
+        ocs:C22654,
+        ocs:C25250,
+        ocs:C27546,
+        ocs:C28281,
+        ocs:C29603,
+        ocs:C40353,
+        ocs:C4166,
+        ocs:C45044,
+        ocs:C7672 .
+

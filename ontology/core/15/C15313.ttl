@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15313 a skos:Concept ;
+    skos:broader ocs:C12046 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discourse-completion_task> ;
+    skos:prefLabel "Discourse-completion task" ;
+    skos:related ocs:C14423,
+        ocs:C19337,
+        ocs:C23333,
+        ocs:C25495,
+        ocs:C25573 .
+

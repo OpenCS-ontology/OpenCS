@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33733 a skos:Concept ;
+    skos:broader ocs:C22789 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finite_state_transducer> ;
+    skos:prefLabel "Finite state transducer" .
+

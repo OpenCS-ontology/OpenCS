@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40373 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantum_convolutional_code> ;
+    skos:prefLabel "Quantum convolutional code" ;
+    skos:related ocs:C19877,
+        ocs:C39891 .
+

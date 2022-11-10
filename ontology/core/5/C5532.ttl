@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5532 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_education> ;
+    skos:prefLabel "Open education" ;
+    skos:related ocs:C11050,
+        ocs:C11058,
+        ocs:C11875,
+        ocs:C14904,
+        ocs:C20867,
+        ocs:C23345,
+        ocs:C24564,
+        ocs:C28055,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C4164,
+        ocs:C5680,
+        ocs:C8614 .
+

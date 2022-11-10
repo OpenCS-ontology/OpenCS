@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33822 a skos:Concept ;
+    skos:broader ocs:C20615 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tukey's_test_of_additivity> ;
+    skos:prefLabel "Tukey's test of additivity" ;
+    skos:related ocs:C11767,
+        ocs:C12371,
+        ocs:C15258,
+        ocs:C20615,
+        ocs:C30858,
+        ocs:C7908 .
+

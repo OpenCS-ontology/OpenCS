@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13542 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyberflora> ;
+    skos:prefLabel "Cyberflora" ;
+    skos:related ocs:C10215,
+        ocs:C10396,
+        ocs:C114,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C21943,
+        ocs:C30191,
+        ocs:C30471,
+        ocs:C31485,
+        ocs:C36316,
+        ocs:C3694,
+        ocs:C37010,
+        ocs:C43340,
+        ocs:C44350,
+        ocs:C45473,
+        ocs:C5553,
+        ocs:C9370 .
+

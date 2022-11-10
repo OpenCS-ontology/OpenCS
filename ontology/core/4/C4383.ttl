@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4383 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blacklisting> ;
+    skos:prefLabel "Blacklisting" ;
+    skos:related ocs:C16181,
+        ocs:C16362,
+        ocs:C8614 .
+

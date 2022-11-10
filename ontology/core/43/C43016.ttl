@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43016 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C36497,
+        ocs:C37469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Overlay_multicast> ;
+    skos:prefLabel "Overlay multicast" ;
+    skos:related ocs:C11157,
+        ocs:C11540,
+        ocs:C14223,
+        ocs:C14321,
+        ocs:C16608,
+        ocs:C16666,
+        ocs:C21724,
+        ocs:C23334,
+        ocs:C26067,
+        ocs:C27135,
+        ocs:C3391,
+        ocs:C38045,
+        ocs:C38276,
+        ocs:C42429,
+        ocs:C43140 .
+

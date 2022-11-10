@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30441 a skos:Concept ;
+    skos:broader ocs:C26020 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_director> ;
+    skos:prefLabel "Television director" ;
+    skos:related ocs:C13095,
+        ocs:C19567,
+        ocs:C25356,
+        ocs:C4772,
+        ocs:C622,
+        ocs:C8950 .
+

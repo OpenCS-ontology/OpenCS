@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5285 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Push-to-talk> ;
+    skos:prefLabel "Push-to-talk" ;
+    skos:related ocs:C12767,
+        ocs:C13571,
+        ocs:C17999,
+        ocs:C1841,
+        ocs:C18799,
+        ocs:C20116,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C27704,
+        ocs:C3,
+        ocs:C3933,
+        ocs:C4255,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6763,
+        ocs:C7216,
+        ocs:C9113,
+        ocs:C9154 .
+

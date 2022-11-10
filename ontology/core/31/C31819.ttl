@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31819 a skos:Concept ;
+    skos:broader ocs:C20845 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pulse-per-second_signal> ;
+    skos:prefLabel "Pulse-per-second signal" ;
+    skos:related ocs:C12641,
+        ocs:C19672,
+        ocs:C281,
+        ocs:C43546,
+        ocs:C5506,
+        ocs:C8560 .
+

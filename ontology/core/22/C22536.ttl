@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22536 a skos:Concept ;
+    skos:broader ocs:C10220,
+        ocs:C7526 ;
+    skos:closeMatch <http://dbpedia.org/resource/Legal_deposit> ;
+    skos:prefLabel "Legal deposit" ;
+    skos:related ocs:C10220,
+        ocs:C11492,
+        ocs:C15831,
+        ocs:C2128,
+        ocs:C27607,
+        ocs:C39,
+        ocs:C40984,
+        ocs:C5832,
+        ocs:C5877,
+        ocs:C6,
+        ocs:C6023,
+        ocs:C6916,
+        ocs:C7849,
+        ocs:C8498,
+        ocs:C8812,
+        ocs:C9662 .
+

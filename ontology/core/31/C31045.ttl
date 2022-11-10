@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31045 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hongotoxin> ;
+    skos:prefLabel "Hongotoxin" ;
+    skos:related ocs:C31852,
+        ocs:C33053,
+        ocs:C34294,
+        ocs:C35315,
+        ocs:C36335,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C42913,
+        ocs:C44461,
+        ocs:C44534,
+        ocs:C45220 .
+

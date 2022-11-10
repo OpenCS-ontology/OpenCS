@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12451 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pediophobia> ;
+    skos:prefLabel "Pediophobia" ;
+    skos:related ocs:C17913,
+        ocs:C32726,
+        ocs:C34517 .
+

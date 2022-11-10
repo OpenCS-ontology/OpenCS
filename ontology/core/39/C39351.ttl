@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39351 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C32522,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:prefLabel "Unix file system" .
+

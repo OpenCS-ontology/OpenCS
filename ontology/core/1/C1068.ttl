@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1068 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Constant noise" ;
+    skos:related ocs:C23308,
+        ocs:C29,
+        ocs:C3,
+        ocs:C4099,
+        ocs:C515,
+        ocs:C669,
+        ocs:C9596 .
+

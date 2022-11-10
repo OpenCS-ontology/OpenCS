@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37268 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apamin> ;
+    skos:prefLabel "Apamin" ;
+    skos:related ocs:C32084,
+        ocs:C32749,
+        ocs:C41774,
+        ocs:C42317,
+        ocs:C42632,
+        ocs:C42913 .
+

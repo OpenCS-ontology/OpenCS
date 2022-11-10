@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14576 a skos:Concept ;
+    skos:broader ocs:C6279,
+        ocs:C8271 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_diagram> ;
+    skos:prefLabel "Power diagram" ;
+    skos:related ocs:C13876,
+        ocs:C14919,
+        ocs:C16532,
+        ocs:C19972,
+        ocs:C32254,
+        ocs:C34382,
+        ocs:C36077,
+        ocs:C37827,
+        ocs:C38114,
+        ocs:C45183,
+        ocs:C8271 .
+

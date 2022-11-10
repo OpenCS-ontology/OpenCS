@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36781 a skos:Concept ;
+    skos:broader ocs:C26152 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hartmann_mask> ;
+    skos:prefLabel "Hartmann mask" ;
+    skos:related ocs:C11994,
+        ocs:C18584,
+        ocs:C33557,
+        ocs:C34288,
+        ocs:C35048,
+        ocs:C35504,
+        ocs:C8085,
+        ocs:C8561 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36742 a skos:Concept ;
+    skos:broader ocs:C19329 ;
+    skos:closeMatch <http://dbpedia.org/resource/Largescale_stoneroller> ;
+    skos:prefLabel "Largescale stoneroller" ;
+    skos:related ocs:C14451,
+        ocs:C32278,
+        ocs:C35847,
+        ocs:C36119 .
+

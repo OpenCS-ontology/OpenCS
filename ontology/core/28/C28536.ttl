@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28536 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_hypoleucoides> ;
+    skos:prefLabel "Quercus hypoleucoides" ;
+    skos:related ocs:C17826,
+        ocs:C18815,
+        ocs:C19369,
+        ocs:C26107,
+        ocs:C26660,
+        ocs:C26698,
+        ocs:C34303,
+        ocs:C37450,
+        ocs:C40457 .
+

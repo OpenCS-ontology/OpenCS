@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1783 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speech_delay> ;
+    skos:prefLabel "Delay speech" ;
+    skos:related ocs:C10214,
+        ocs:C17433,
+        ocs:C27611,
+        ocs:C37364,
+        ocs:C515 .
+

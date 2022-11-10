@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4051 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C23,
+        ocs:C6 ;
+    skos:prefLabel "Record entry" ;
+    skos:related ocs:C10211,
+        ocs:C10321,
+        ocs:C10510,
+        ocs:C13514,
+        ocs:C15728,
+        ocs:C159,
+        ocs:C17,
+        ocs:C2,
+        ocs:C20957,
+        ocs:C22,
+        ocs:C25464,
+        ocs:C35,
+        ocs:C37748,
+        ocs:C7007,
+        ocs:C8499,
+        ocs:C8706 .
+

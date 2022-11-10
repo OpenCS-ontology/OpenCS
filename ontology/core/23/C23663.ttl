@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23663 a skos:Concept ;
+    skos:broader ocs:C12845,
+        ocs:C3569 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gossip_protocol> ;
+    skos:prefLabel "Gossip protocol" ;
+    skos:related ocs:C10941,
+        ocs:C14223,
+        ocs:C15478,
+        ocs:C16666,
+        ocs:C17085,
+        ocs:C20540,
+        ocs:C22117,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C29123,
+        ocs:C30,
+        ocs:C33417,
+        ocs:C34694,
+        ocs:C35932,
+        ocs:C38311,
+        ocs:C39022,
+        ocs:C42792,
+        ocs:C44097,
+        ocs:C44697,
+        ocs:C9931 .
+

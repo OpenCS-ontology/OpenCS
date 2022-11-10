@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36477 a skos:Concept ;
+    skos:broader ocs:C18293,
+        ocs:C18625,
+        ocs:C24152,
+        ocs:C25711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regression_dilution> ;
+    skos:prefLabel "Regression dilution" ;
+    skos:related ocs:C10138,
+        ocs:C13748,
+        ocs:C18625,
+        ocs:C23554,
+        ocs:C5087,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C6395 .
+

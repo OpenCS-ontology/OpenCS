@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45175 a skos:Concept ;
+    skos:broader ocs:C31235,
+        ocs:C34791,
+        ocs:C35163,
+        ocs:C35368,
+        ocs:C35865,
+        ocs:C36445,
+        ocs:C36814 ;
+    skos:closeMatch <http://dbpedia.org/resource/Permutation_(music)> ;
+    skos:prefLabel "Permutation (music)" ;
+    skos:related ocs:C11282,
+        ocs:C25700 .
+

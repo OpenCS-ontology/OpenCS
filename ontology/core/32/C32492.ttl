@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32492 a skos:Concept ;
+    skos:broader ocs:C27491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ramsey_cardinal> ;
+    skos:prefLabel "Ramsey cardinal" ;
+    skos:related ocs:C16069,
+        ocs:C16190,
+        ocs:C27491,
+        ocs:C31588,
+        ocs:C31927,
+        ocs:C36021,
+        ocs:C38982,
+        ocs:C44324,
+        ocs:C5251 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3461 a skos:Concept ;
+    skos:broader ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_integrity> ;
+    skos:prefLabel "System integrity" ;
+    skos:related ocs:C10320,
+        ocs:C1146,
+        ocs:C25804,
+        ocs:C2656,
+        ocs:C3,
+        ocs:C35039,
+        ocs:C3674,
+        ocs:C515,
+        ocs:C5915,
+        ocs:C9,
+        ocs:C9739 .
+

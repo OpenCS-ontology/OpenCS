@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43377 a skos:Concept ;
+    skos:broader ocs:C31201,
+        ocs:C33617 ;
+    skos:closeMatch <http://dbpedia.org/resource/Laws_of_information_systems> ;
+    skos:prefLabel "Laws of information systems" ;
+    skos:related ocs:C10320,
+        ocs:C13605,
+        ocs:C17856,
+        ocs:C25464,
+        ocs:C2798,
+        ocs:C2979,
+        ocs:C3036,
+        ocs:C31650,
+        ocs:C32110,
+        ocs:C3255,
+        ocs:C33964,
+        ocs:C38039,
+        ocs:C40476,
+        ocs:C5126,
+        ocs:C6906 .
+

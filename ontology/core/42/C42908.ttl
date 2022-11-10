@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42908 a skos:Concept ;
+    skos:broader ocs:C33185,
+        ocs:C34660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Von_Neumann_programming_languages> ;
+    skos:prefLabel "Von Neumann programming languages" ;
+    skos:related ocs:C10320,
+        ocs:C12003,
+        ocs:C13045,
+        ocs:C18086,
+        ocs:C19,
+        ocs:C21621,
+        ocs:C21718,
+        ocs:C27,
+        ocs:C33185,
+        ocs:C4321,
+        ocs:C4804,
+        ocs:C5425,
+        ocs:C5766,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C7825,
+        ocs:C8616,
+        ocs:C8751 .
+

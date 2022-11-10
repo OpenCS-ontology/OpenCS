@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3802 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eddystone_(Google)> ;
+    skos:prefLabel "Eddystone" ;
+    skos:related ocs:C1042,
+        ocs:C10573,
+        ocs:C10770,
+        ocs:C11696,
+        ocs:C12698,
+        ocs:C1793,
+        ocs:C19332,
+        ocs:C19494,
+        ocs:C21424,
+        ocs:C28354,
+        ocs:C3284,
+        ocs:C3455,
+        ocs:C35019,
+        ocs:C35206,
+        ocs:C525,
+        ocs:C6495,
+        ocs:C6659,
+        ocs:C7166 .
+

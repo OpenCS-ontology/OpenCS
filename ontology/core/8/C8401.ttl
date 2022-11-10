@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8401 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fiat–Shamir_heuristic> ;
+    skos:prefLabel "Fiat–Shamir heuristic" ;
+    skos:related ocs:C14164,
+        ocs:C21324,
+        ocs:C23073,
+        ocs:C23875,
+        ocs:C29356,
+        ocs:C31468,
+        ocs:C34749,
+        ocs:C34794,
+        ocs:C37069,
+        ocs:C38359,
+        ocs:C39168,
+        ocs:C39619,
+        ocs:C40692,
+        ocs:C40978,
+        ocs:C4218,
+        ocs:C43187,
+        ocs:C44329,
+        ocs:C45714,
+        ocs:C9449 .
+

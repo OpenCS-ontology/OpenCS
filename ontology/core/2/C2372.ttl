@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2372 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Helicopter_flight_controls> ;
+    skos:prefLabel "Helicopter flight controls" ;
+    skos:related ocs:C10800,
+        ocs:C13414,
+        ocs:C25150,
+        ocs:C7978 .
+

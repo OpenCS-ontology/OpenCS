@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C121 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Systems_simulation> ;
+    skos:prefLabel "Systems simulation" ;
+    skos:related ocs:C10997,
+        ocs:C11143,
+        ocs:C11328,
+        ocs:C12969,
+        ocs:C1684,
+        ocs:C226,
+        ocs:C24,
+        ocs:C24723,
+        ocs:C36010,
+        ocs:C692,
+        ocs:C6998,
+        ocs:C7256 .
+

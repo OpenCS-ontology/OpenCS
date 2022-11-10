@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18185 a skos:Concept ;
+    skos:broader ocs:C10639,
+        ocs:C5037,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Snake-in-the-box> ;
+    skos:prefLabel "Snake-in-the-box" ;
+    skos:related ocs:C1086,
+        ocs:C14693,
+        ocs:C16528,
+        ocs:C30401,
+        ocs:C31629,
+        ocs:C36279,
+        ocs:C37036,
+        ocs:C40800,
+        ocs:C40871,
+        ocs:C40878,
+        ocs:C41182,
+        ocs:C42071,
+        ocs:C42953,
+        ocs:C44168,
+        ocs:C44221,
+        ocs:C44250,
+        ocs:C44935,
+        ocs:C45670,
+        ocs:C5037,
+        ocs:C6402 .
+

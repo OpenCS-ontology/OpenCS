@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38760 a skos:Concept ;
+    skos:broader ocs:C33674,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/ExOR_(wireless_network_protocol)> ;
+    skos:prefLabel "ExOR" ;
+    skos:related ocs:C22819,
+        ocs:C26066,
+        ocs:C28122,
+        ocs:C29052,
+        ocs:C35370,
+        ocs:C35923,
+        ocs:C37073,
+        ocs:C38064,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C40934,
+        ocs:C42419,
+        ocs:C43474,
+        ocs:C43525,
+        ocs:C44253,
+        ocs:C44561,
+        ocs:C44565,
+        ocs:C45222,
+        ocs:C45428,
+        ocs:C45852 .
+

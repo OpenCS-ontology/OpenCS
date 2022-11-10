@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26610 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:prefLabel "Mass-pulsating" ;
+    skos:related ocs:C13750,
+        ocs:C31785 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28745 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_cognition> ;
+    skos:prefLabel "Computational cognition" ;
+    skos:related ocs:C11668,
+        ocs:C11866,
+        ocs:C13260,
+        ocs:C16764,
+        ocs:C25,
+        ocs:C25507,
+        ocs:C35775,
+        ocs:C5295,
+        ocs:C7256,
+        ocs:C7869,
+        ocs:C8407 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36539 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C20791 ;
+    skos:closeMatch <http://dbpedia.org/resource/Magic_star> ;
+    skos:prefLabel "Magic star" ;
+    skos:related ocs:C20791,
+        ocs:C40065,
+        ocs:C40196,
+        ocs:C45361 .
+

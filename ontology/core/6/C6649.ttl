@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6649 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PC133> ;
+    skos:prefLabel "PC133" ;
+    skos:related ocs:C13875,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C25107,
+        ocs:C25954,
+        ocs:C27349,
+        ocs:C29183,
+        ocs:C33838,
+        ocs:C35309,
+        ocs:C35698,
+        ocs:C35751,
+        ocs:C38463,
+        ocs:C39061,
+        ocs:C44598,
+        ocs:C45186,
+        ocs:C6798 .
+

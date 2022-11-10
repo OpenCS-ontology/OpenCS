@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35988 a skos:Concept ;
+    skos:broader ocs:C19050,
+        ocs:C27572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_sub-Nyquist_sampling_encoding> ;
+    skos:prefLabel "Multiple sub-Nyquist sampling encoding" ;
+    skos:related ocs:C11323,
+        ocs:C11592,
+        ocs:C12544,
+        ocs:C15700,
+        ocs:C20140,
+        ocs:C21097,
+        ocs:C21207,
+        ocs:C2722,
+        ocs:C27572,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C43007,
+        ocs:C4374,
+        ocs:C4448 .
+

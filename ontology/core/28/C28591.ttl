@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28591 a skos:Concept ;
+    skos:broader ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO_15926> ;
+    skos:prefLabel "ISO 15926" ;
+    skos:related ocs:C11541,
+        ocs:C13744,
+        ocs:C23868,
+        ocs:C25681,
+        ocs:C27972,
+        ocs:C28117,
+        ocs:C31165,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C3896,
+        ocs:C39137,
+        ocs:C41877,
+        ocs:C42947,
+        ocs:C44939,
+        ocs:C4985,
+        ocs:C5552,
+        ocs:C6077,
+        ocs:C8270,
+        ocs:C9836 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15211 a skos:Concept ;
+    skos:broader ocs:C3840,
+        ocs:C4256 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optimal_discriminant_analysis> ;
+    skos:prefLabel "Optimal discriminant analysis" ;
+    skos:related ocs:C11030,
+        ocs:C11767,
+        ocs:C11986,
+        ocs:C14571,
+        ocs:C23669,
+        ocs:C26888,
+        ocs:C3065,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C6116,
+        ocs:C6415,
+        ocs:C6912,
+        ocs:C7328,
+        ocs:C9874 .
+

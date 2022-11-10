@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20434 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scan_conversion> ;
+    skos:prefLabel "Scan conversion" ;
+    skos:related ocs:C13973,
+        ocs:C15700,
+        ocs:C1724,
+        ocs:C2000,
+        ocs:C21207,
+        ocs:C22257,
+        ocs:C27572,
+        ocs:C32920,
+        ocs:C34890,
+        ocs:C38813,
+        ocs:C40199,
+        ocs:C9605,
+        ocs:C9856 .
+

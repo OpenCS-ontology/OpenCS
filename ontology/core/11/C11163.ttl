@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11163 a skos:Concept ;
+    skos:broader ocs:C23 ;
+    skos:prefLabel "Description type" ;
+    skos:related ocs:C17,
+        ocs:C19,
+        ocs:C23,
+        ocs:C26,
+        ocs:C32,
+        ocs:C8 .
+

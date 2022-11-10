@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13920 a skos:Concept ;
+    skos:broader ocs:C2800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_immersion> ;
+    skos:prefLabel "Language immersion" ;
+    skos:related ocs:C16053,
+        ocs:C26166,
+        ocs:C33315,
+        ocs:C35271,
+        ocs:C35800,
+        ocs:C44138 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28756 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_oleoides> ;
+    skos:prefLabel "Quercus oleoides" ;
+    skos:related ocs:C15400,
+        ocs:C17826,
+        ocs:C18330,
+        ocs:C19080,
+        ocs:C19369,
+        ocs:C19520,
+        ocs:C26107,
+        ocs:C26660,
+        ocs:C27095,
+        ocs:C28254,
+        ocs:C33871,
+        ocs:C40080 .
+

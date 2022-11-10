@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25543 a skos:Concept ;
+    skos:broader ocs:C539,
+        ocs:C5722 ;
+    skos:closeMatch <http://dbpedia.org/resource/Suffix_array> ;
+    skos:prefLabel "Suffix array" ;
+    skos:related ocs:C1,
+        ocs:C16676,
+        ocs:C17065,
+        ocs:C19305,
+        ocs:C26036,
+        ocs:C30059,
+        ocs:C30333,
+        ocs:C35531,
+        ocs:C37169,
+        ocs:C38546,
+        ocs:C42467,
+        ocs:C42945,
+        ocs:C5722,
+        ocs:C749,
+        ocs:C8522,
+        ocs:C8660,
+        ocs:C9556 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31042 a skos:Concept ;
+    skos:broader ocs:C19557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Role_hierarchy> ;
+    skos:prefLabel "Role hierarchy" ;
+    skos:related ocs:C10082,
+        ocs:C13613,
+        ocs:C15414,
+        ocs:C17726,
+        ocs:C19557,
+        ocs:C20443,
+        ocs:C21592,
+        ocs:C21951,
+        ocs:C22970,
+        ocs:C27330,
+        ocs:C30240,
+        ocs:C35388,
+        ocs:C43179,
+        ocs:C44136,
+        ocs:C45225,
+        ocs:C45563 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28399 a skos:Concept ;
+    skos:broader ocs:C13155 ;
+    skos:closeMatch <http://dbpedia.org/resource/Raster_data> ;
+    skos:prefLabel "Raster data" ;
+    skos:related ocs:C32564,
+        ocs:C42132,
+        ocs:C9372,
+        ocs:C9690 .
+

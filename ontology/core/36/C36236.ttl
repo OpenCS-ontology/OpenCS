@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36236 a skos:Concept ;
+    skos:broader ocs:C22258,
+        ocs:C25193 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayes_error_rate> ;
+    skos:prefLabel "Bayes error rate" ;
+    skos:related ocs:C11030,
+        ocs:C12864,
+        ocs:C13429,
+        ocs:C1840,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C22260,
+        ocs:C22643,
+        ocs:C23669,
+        ocs:C23929,
+        ocs:C25,
+        ocs:C25193,
+        ocs:C28056,
+        ocs:C28516,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C6021,
+        ocs:C8758 .
+

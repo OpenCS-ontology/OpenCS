@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26885 a skos:Concept ;
+    skos:broader ocs:C4451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wright_Omega_function> ;
+    skos:prefLabel "Wright Omega function" ;
+    skos:related ocs:C13541,
+        ocs:C15454,
+        ocs:C28170,
+        ocs:C31342,
+        ocs:C9204 .
+

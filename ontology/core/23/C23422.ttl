@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23422 a skos:Concept ;
+    skos:broader ocs:C6756 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speech_segmentation> ;
+    skos:prefLabel "Speech segmentation" ;
+    skos:related ocs:C11722,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C13872,
+        ocs:C1451,
+        ocs:C16,
+        ocs:C2298,
+        ocs:C31956,
+        ocs:C32,
+        ocs:C5862,
+        ocs:C9884 .
+

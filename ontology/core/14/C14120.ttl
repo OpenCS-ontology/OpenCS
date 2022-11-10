@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14120 a skos:Concept ;
+    skos:broader ocs:C10219 ;
+    skos:closeMatch <http://dbpedia.org/resource/Numerical_continuation> ;
+    skos:prefLabel "Numerical continuation" ;
+    skos:related ocs:C14375,
+        ocs:C14592,
+        ocs:C16955,
+        ocs:C26347,
+        ocs:C3980 .
+

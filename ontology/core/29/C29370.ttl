@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29370 a skos:Concept ;
+    skos:broader ocs:C5879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_map> ;
+    skos:prefLabel "Patent map" ;
+    skos:related ocs:C13306,
+        ocs:C16398,
+        ocs:C16575,
+        ocs:C18186,
+        ocs:C18582,
+        ocs:C23056,
+        ocs:C24730,
+        ocs:C26600,
+        ocs:C27519,
+        ocs:C31185,
+        ocs:C31789,
+        ocs:C32561,
+        ocs:C34393,
+        ocs:C36354,
+        ocs:C36712,
+        ocs:C6396,
+        ocs:C7170 .
+

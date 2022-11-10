@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34674 a skos:Concept ;
+    skos:broader ocs:C22097 ;
+    skos:closeMatch <http://dbpedia.org/resource/Method_of_distinguished_element> ;
+    skos:prefLabel "Method of distinguished element" ;
+    skos:related ocs:C18099,
+        ocs:C33309,
+        ocs:C77 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18420 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crisis_(dynamical_systems)> ;
+    skos:prefLabel "Crisis" ;
+    skos:related ocs:C14592,
+        ocs:C16634,
+        ocs:C16955,
+        ocs:C18223,
+        ocs:C27040,
+        ocs:C29662,
+        ocs:C34416,
+        ocs:C37144,
+        ocs:C37723,
+        ocs:C43425 .
+

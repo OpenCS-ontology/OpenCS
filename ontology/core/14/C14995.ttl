@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14995 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C8325 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_clause> ;
+    skos:prefLabel "Small clause" ;
+    skos:related ocs:C15463,
+        ocs:C18082,
+        ocs:C18355,
+        ocs:C19753,
+        ocs:C24691,
+        ocs:C25696,
+        ocs:C25746,
+        ocs:C26884,
+        ocs:C27782,
+        ocs:C29705,
+        ocs:C33168,
+        ocs:C34937,
+        ocs:C36007,
+        ocs:C39461,
+        ocs:C39940,
+        ocs:C5347,
+        ocs:C6764 .
+

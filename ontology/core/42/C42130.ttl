@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42130 a skos:Concept ;
+    skos:broader ocs:C29896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Special_use_airspace> ;
+    skos:prefLabel "Special use airspace" ;
+    skos:related ocs:C14809,
+        ocs:C18996,
+        ocs:C23477,
+        ocs:C26346,
+        ocs:C30281,
+        ocs:C35629,
+        ocs:C39784,
+        ocs:C40174,
+        ocs:C4220,
+        ocs:C45558,
+        ocs:C4597,
+        ocs:C8868,
+        ocs:C9720,
+        ocs:C981 .
+

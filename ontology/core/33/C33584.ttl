@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33584 a skos:Concept ;
+    skos:broader ocs:C18435,
+        ocs:C18803,
+        ocs:C21324 ;
+    skos:closeMatch <http://dbpedia.org/resource/JSON_Web_Signature> ;
+    skos:prefLabel "JSON Web Signature" ;
+    skos:related ocs:C13068,
+        ocs:C14360,
+        ocs:C14647,
+        ocs:C16125,
+        ocs:C16338,
+        ocs:C16402,
+        ocs:C20313,
+        ocs:C21324,
+        ocs:C25316,
+        ocs:C25482,
+        ocs:C2771,
+        ocs:C29572,
+        ocs:C39718,
+        ocs:C43534,
+        ocs:C44122,
+        ocs:C44603,
+        ocs:C8312,
+        ocs:C8577,
+        ocs:C8614,
+        ocs:C9369 .
+

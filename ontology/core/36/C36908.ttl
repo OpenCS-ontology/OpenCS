@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36908 a skos:Concept ;
+    skos:broader ocs:C22542,
+        ocs:C25140,
+        ocs:C27654 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blue_dwarf_(red-dwarf_stage)> ;
+    skos:prefLabel "Blue dwarf" ;
+    skos:related ocs:C17094,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C23210,
+        ocs:C25140,
+        ocs:C25949,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C30948,
+        ocs:C31589,
+        ocs:C32483,
+        ocs:C35072,
+        ocs:C35893,
+        ocs:C36170,
+        ocs:C44585 .
+

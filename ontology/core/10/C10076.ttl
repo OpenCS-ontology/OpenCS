@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10076 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Legacy_mode> ;
+    skos:prefLabel "Legacy mode" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C13022,
+        ocs:C15167,
+        ocs:C19487,
+        ocs:C21399,
+        ocs:C22508,
+        ocs:C24871,
+        ocs:C31489,
+        ocs:C5147,
+        ocs:C567,
+        ocs:C6190,
+        ocs:C8345,
+        ocs:C8718,
+        ocs:C9 .
+

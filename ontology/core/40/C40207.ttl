@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40207 a skos:Concept ;
+    skos:broader ocs:C29575,
+        ocs:C34166,
+        ocs:C35165,
+        ocs:C37362 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_material_usage_variance> ;
+    skos:prefLabel "Direct material usage variance" ;
+    skos:related ocs:C28760,
+        ocs:C43998,
+        ocs:C44888 .
+

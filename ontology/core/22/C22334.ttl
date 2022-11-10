@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22334 a skos:Concept ;
+    skos:broader ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chapman–Kolmogorov_equation> ;
+    skos:prefLabel "Chapman–Kolmogorov equation" ;
+    skos:related ocs:C1844,
+        ocs:C18619,
+        ocs:C18994,
+        ocs:C20860,
+        ocs:C33043,
+        ocs:C37671,
+        ocs:C39172,
+        ocs:C39751,
+        ocs:C42135,
+        ocs:C5856,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 .
+

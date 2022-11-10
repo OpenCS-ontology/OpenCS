@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26691 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Authenticated_encryption> ;
+    skos:prefLabel "Authenticated encryption" ;
+    skos:related ocs:C18803,
+        ocs:C20993,
+        ocs:C22949,
+        ocs:C23230,
+        ocs:C23666,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C25500,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C34895,
+        ocs:C38115,
+        ocs:C39105,
+        ocs:C4218,
+        ocs:C44466,
+        ocs:C45551,
+        ocs:C4751,
+        ocs:C5692,
+        ocs:C7006 .
+

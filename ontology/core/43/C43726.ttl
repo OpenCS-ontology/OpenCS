@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43726 a skos:Concept ;
+    skos:broader ocs:C36407,
+        ocs:C37236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudomedian> ;
+    skos:prefLabel "Pseudomedian" ;
+    skos:related ocs:C13869,
+        ocs:C20805,
+        ocs:C22455,
+        ocs:C24728,
+        ocs:C25294,
+        ocs:C25320,
+        ocs:C41664,
+        ocs:C42729 .
+

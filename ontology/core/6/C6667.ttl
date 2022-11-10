@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6667 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Netsniff-ng> ;
+    skos:prefLabel "netsniff-ng" ;
+    skos:related ocs:C13223,
+        ocs:C13307,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C17919,
+        ocs:C18213,
+        ocs:C20800,
+        ocs:C21769,
+        ocs:C22851,
+        ocs:C23785,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C32759,
+        ocs:C39713,
+        ocs:C5676,
+        ocs:C9 .
+

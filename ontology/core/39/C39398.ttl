@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39398 a skos:Concept ;
+    skos:broader ocs:C32645,
+        ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free_Boolean_algebra> ;
+    skos:prefLabel "Free Boolean algebra" ;
+    skos:related ocs:C14151,
+        ocs:C22333,
+        ocs:C32645,
+        ocs:C32743,
+        ocs:C41305,
+        ocs:C42338 .
+

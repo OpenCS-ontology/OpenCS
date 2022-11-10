@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17394 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_computing> ;
+    skos:prefLabel "Social computing" ;
+    skos:related ocs:C1,
+        ocs:C11026,
+        ocs:C11126,
+        ocs:C17658,
+        ocs:C18,
+        ocs:C22668,
+        ocs:C23866,
+        ocs:C25411,
+        ocs:C25752,
+        ocs:C26012,
+        ocs:C40794,
+        ocs:C4866,
+        ocs:C5140,
+        ocs:C8614,
+        ocs:C9047 .
+

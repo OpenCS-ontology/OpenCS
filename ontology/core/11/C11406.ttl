@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11406 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_608> ;
+    skos:prefLabel "IBM 608" ;
+    skos:related ocs:C11252,
+        ocs:C15312,
+        ocs:C35269,
+        ocs:C43052 .
+

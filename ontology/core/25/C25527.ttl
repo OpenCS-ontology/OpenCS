@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25527 a skos:Concept ;
+    skos:broader ocs:C7510 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_anonymization> ;
+    skos:prefLabel "Data anonymization" ;
+    skos:related ocs:C12378,
+        ocs:C12510,
+        ocs:C13,
+        ocs:C14105,
+        ocs:C14831,
+        ocs:C19522,
+        ocs:C23108,
+        ocs:C23484,
+        ocs:C27255,
+        ocs:C29539,
+        ocs:C36411,
+        ocs:C394,
+        ocs:C40486,
+        ocs:C40538,
+        ocs:C5,
+        ocs:C5692,
+        ocs:C7215,
+        ocs:C7510 .
+

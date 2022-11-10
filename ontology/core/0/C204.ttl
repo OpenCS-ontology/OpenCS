@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C204 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carroll_diagram> ;
+    skos:prefLabel "Carroll diagram" ;
+    skos:related ocs:C11646,
+        ocs:C12638,
+        ocs:C14468,
+        ocs:C25859,
+        ocs:C3042,
+        ocs:C3168,
+        ocs:C33310,
+        ocs:C37827,
+        ocs:C39238,
+        ocs:C40955,
+        ocs:C5251,
+        ocs:C5500,
+        ocs:C6656,
+        ocs:C8894 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24311 a skos:Concept ;
+    skos:broader ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transaction_data> ;
+    skos:prefLabel "Transaction data" ;
+    skos:related ocs:C10724,
+        ocs:C10764,
+        ocs:C12694,
+        ocs:C12761,
+        ocs:C13744,
+        ocs:C17208,
+        ocs:C20446,
+        ocs:C23103,
+        ocs:C23505,
+        ocs:C2414,
+        ocs:C25950,
+        ocs:C27200,
+        ocs:C2940,
+        ocs:C2979,
+        ocs:C3034,
+        ocs:C33964,
+        ocs:C36322,
+        ocs:C3896,
+        ocs:C40270 .
+

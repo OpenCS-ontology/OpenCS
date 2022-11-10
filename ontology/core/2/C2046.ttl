@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2046 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glaze3D> ;
+    skos:prefLabel "Glaze3D" ;
+    skos:related ocs:C11884,
+        ocs:C13875,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C24235,
+        ocs:C26812,
+        ocs:C29183,
+        ocs:C31152,
+        ocs:C31548,
+        ocs:C32556,
+        ocs:C38120,
+        ocs:C39285,
+        ocs:C40235,
+        ocs:C42166,
+        ocs:C44283,
+        ocs:C45810,
+        ocs:C5514,
+        ocs:C992 .
+

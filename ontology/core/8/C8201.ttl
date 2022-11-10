@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8201 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subpage> ;
+    skos:prefLabel "Subpage" ;
+    skos:related ocs:C12350,
+        ocs:C16739,
+        ocs:C20513,
+        ocs:C2440,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C29256,
+        ocs:C30113,
+        ocs:C31,
+        ocs:C40049,
+        ocs:C40902,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C6968,
+        ocs:C8614 .
+

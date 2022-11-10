@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37587 a skos:Concept ;
+    skos:broader ocs:C14410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learner_autonomy> ;
+    skos:prefLabel "Learner autonomy" ;
+    skos:related ocs:C16053,
+        ocs:C33078,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C35800 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13415 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_studies> ;
+    skos:prefLabel "Television studies" ;
+    skos:related ocs:C25356,
+        ocs:C30441,
+        ocs:C4457,
+        ocs:C5550,
+        ocs:C6757 .
+

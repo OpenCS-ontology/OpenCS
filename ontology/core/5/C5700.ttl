@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5700 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_graphics> ;
+    skos:prefLabel "Statistical graphics" ;
+    skos:related ocs:C11094,
+        ocs:C12811,
+        ocs:C1938,
+        ocs:C19998,
+        ocs:C27130,
+        ocs:C383,
+        ocs:C4752,
+        ocs:C9428,
+        ocs:C9488 .
+

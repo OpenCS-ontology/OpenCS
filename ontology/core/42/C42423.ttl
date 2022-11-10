@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42423 a skos:Concept ;
+    skos:broader ocs:C36171 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_token> ;
+    skos:prefLabel "Software token" ;
+    skos:related ocs:C12331,
+        ocs:C13017,
+        ocs:C14354,
+        ocs:C16125,
+        ocs:C19151,
+        ocs:C20243,
+        ocs:C20937,
+        ocs:C21054,
+        ocs:C21324,
+        ocs:C21424,
+        ocs:C22450,
+        ocs:C26581,
+        ocs:C27509,
+        ocs:C34356,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C4438,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C816 .
+

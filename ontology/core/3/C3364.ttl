@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3364 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Faceted_search> ;
+    skos:prefLabel "Faceted search" ;
+    skos:related ocs:C13520,
+        ocs:C15008,
+        ocs:C21155,
+        ocs:C23,
+        ocs:C23103,
+        ocs:C28963,
+        ocs:C3791,
+        ocs:C3896,
+        ocs:C4,
+        ocs:C40049,
+        ocs:C5832,
+        ocs:C5877,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C6915,
+        ocs:C8990,
+        ocs:C9213,
+        ocs:C9876 .
+

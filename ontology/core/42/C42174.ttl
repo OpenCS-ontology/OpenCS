@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42174 a skos:Concept ;
+    skos:broader ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/MAC_flooding> ;
+    skos:prefLabel "MAC flooding" ;
+    skos:related ocs:C13786,
+        ocs:C1398,
+        ocs:C15512,
+        ocs:C17919,
+        ocs:C18745,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C28520,
+        ocs:C30342,
+        ocs:C30825,
+        ocs:C35041,
+        ocs:C35370,
+        ocs:C37848,
+        ocs:C41930,
+        ocs:C42609,
+        ocs:C44780,
+        ocs:C490,
+        ocs:C5343,
+        ocs:C8185,
+        ocs:C859 .
+

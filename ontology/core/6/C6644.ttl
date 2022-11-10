@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6644 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_camera> ;
+    skos:prefLabel "IP camera" ;
+    skos:related ocs:C1151,
+        ocs:C20540,
+        ocs:C22559,
+        ocs:C22597,
+        ocs:C26,
+        ocs:C2674,
+        ocs:C2722,
+        ocs:C31489,
+        ocs:C36124,
+        ocs:C4448,
+        ocs:C4710,
+        ocs:C490,
+        ocs:C699,
+        ocs:C8614,
+        ocs:C8711,
+        ocs:C9,
+        ocs:C9611 .
+

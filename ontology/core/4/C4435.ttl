@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4435 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_analysis> ;
+    skos:prefLabel "Motion analysis" ;
+    skos:related ocs:C1239,
+        ocs:C13509,
+        ocs:C14465,
+        ocs:C14863,
+        ocs:C1503,
+        ocs:C24607,
+        ocs:C24784,
+        ocs:C24825,
+        ocs:C27770,
+        ocs:C30877,
+        ocs:C32156,
+        ocs:C37582,
+        ocs:C40344,
+        ocs:C41390,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C7528 .
+

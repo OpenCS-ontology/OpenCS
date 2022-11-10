@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45572 a skos:Concept ;
+    skos:broader ocs:C35697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nano-RAM> ;
+    skos:prefLabel "Nano-RAM" ;
+    skos:related ocs:C13875,
+        ocs:C23270,
+        ocs:C24321,
+        ocs:C27610,
+        ocs:C3160,
+        ocs:C38915,
+        ocs:C43131,
+        ocs:C43462,
+        ocs:C5136,
+        ocs:C7007 .
+

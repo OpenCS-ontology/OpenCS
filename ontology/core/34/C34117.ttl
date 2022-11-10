@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34117 a skos:Concept ;
+    skos:broader ocs:C22130 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feed_URI_scheme> ;
+    skos:prefLabel "feed URI scheme" ;
+    skos:related ocs:C10069,
+        ocs:C1025,
+        ocs:C10964,
+        ocs:C14418,
+        ocs:C22597,
+        ocs:C28801,
+        ocs:C30237,
+        ocs:C31,
+        ocs:C38561,
+        ocs:C40687,
+        ocs:C40902,
+        ocs:C41442,
+        ocs:C43255,
+        ocs:C4431,
+        ocs:C4500,
+        ocs:C4641,
+        ocs:C6762,
+        ocs:C6872,
+        ocs:C8614 .
+

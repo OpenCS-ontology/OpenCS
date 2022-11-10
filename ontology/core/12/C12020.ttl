@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12020 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:prefLabel "Class instruction" ;
+    skos:related ocs:C14,
+        ocs:C16,
+        ocs:C17,
+        ocs:C3444,
+        ocs:C8614 .
+

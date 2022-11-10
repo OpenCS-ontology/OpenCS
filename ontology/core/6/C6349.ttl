@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6349 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_standards_converter> ;
+    skos:prefLabel "Video standards converter" ;
+    skos:related ocs:C14482,
+        ocs:C15700,
+        ocs:C19342,
+        ocs:C2000,
+        ocs:C26605,
+        ocs:C27086,
+        ocs:C31487,
+        ocs:C34890,
+        ocs:C3690,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C42783,
+        ocs:C4709,
+        ocs:C6942,
+        ocs:C9045 .
+

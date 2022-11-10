@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36580 a skos:Concept ;
+    skos:broader ocs:C23202,
+        ocs:C23973,
+        ocs:C28430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voltage-gated_proton_channel> ;
+    skos:prefLabel "Voltage-gated proton channel" ;
+    skos:related ocs:C14264,
+        ocs:C18138,
+        ocs:C19362,
+        ocs:C23973,
+        ocs:C25667,
+        ocs:C29218,
+        ocs:C36128,
+        ocs:C37240,
+        ocs:C43643 .
+

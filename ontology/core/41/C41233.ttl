@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41233 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C31362,
+        ocs:C33033,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bochner_space> ;
+    skos:prefLabel "Bochner space" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C33860,
+        ocs:C38000,
+        ocs:C39124,
+        ocs:C40195 .
+

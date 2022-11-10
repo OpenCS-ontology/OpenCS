@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20554 a skos:Concept ;
+    skos:broader ocs:C2933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slant_range> ;
+    skos:prefLabel "Slant range" ;
+    skos:related ocs:C12641,
+        ocs:C20391,
+        ocs:C20572,
+        ocs:C5369,
+        ocs:C7909,
+        ocs:C863 .
+

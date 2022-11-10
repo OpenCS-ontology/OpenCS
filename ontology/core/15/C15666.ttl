@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15666 a skos:Concept ;
+    skos:broader ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free_flight_(air_traffic_control)> ;
+    skos:prefLabel "Free flight" ;
+    skos:related ocs:C12641,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C16585,
+        ocs:C18229,
+        ocs:C18996,
+        ocs:C23082,
+        ocs:C23299,
+        ocs:C25871,
+        ocs:C27838,
+        ocs:C28020,
+        ocs:C28140,
+        ocs:C29896,
+        ocs:C3159,
+        ocs:C32563,
+        ocs:C4597 .
+

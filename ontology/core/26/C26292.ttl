@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26292 a skos:Concept ;
+    skos:broader ocs:C6761 ;
+    skos:prefLabel "Hand closure" ;
+    skos:related ocs:C1,
+        ocs:C24,
+        ocs:C5336,
+        ocs:C7,
+        ocs:C7848 .
+

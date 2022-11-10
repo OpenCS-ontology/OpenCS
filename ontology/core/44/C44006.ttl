@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44006 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C33104,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_assurance> ;
+    skos:prefLabel "Software assurance" ;
+    skos:related ocs:C28,
+        ocs:C28080,
+        ocs:C32978,
+        ocs:C35,
+        ocs:C38528,
+        ocs:C38547,
+        ocs:C38570,
+        ocs:C398,
+        ocs:C41162,
+        ocs:C43653,
+        ocs:C45401,
+        ocs:C4558,
+        ocs:C5552,
+        ocs:C5869 .
+

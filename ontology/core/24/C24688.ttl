@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24688 a skos:Concept ;
+    skos:broader ocs:C10211,
+        ocs:C3034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_governance> ;
+    skos:prefLabel "Data governance" ;
+    skos:related ocs:C10211,
+        ocs:C1047,
+        ocs:C10827,
+        ocs:C1399,
+        ocs:C21763,
+        ocs:C27200,
+        ocs:C28085,
+        ocs:C3034,
+        ocs:C34720,
+        ocs:C35637,
+        ocs:C37747,
+        ocs:C3896,
+        ocs:C4768,
+        ocs:C9084,
+        ocs:C9700 .
+

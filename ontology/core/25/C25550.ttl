@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25550 a skos:Concept ;
+    skos:broader ocs:C257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_filter> ;
+    skos:prefLabel "Inverse filter" ;
+    skos:related ocs:C10768,
+        ocs:C1093,
+        ocs:C15194,
+        ocs:C15866,
+        ocs:C21717,
+        ocs:C22617,
+        ocs:C3519,
+        ocs:C38683,
+        ocs:C4397,
+        ocs:C4511,
+        ocs:C6110,
+        ocs:C6125,
+        ocs:C8291 .
+

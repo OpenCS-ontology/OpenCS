@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3148 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aperture-to-medium_coupling_loss> ;
+    skos:prefLabel "Aperture-to-medium coupling loss" ;
+    skos:related ocs:C12121,
+        ocs:C18520,
+        ocs:C23423,
+        ocs:C24807,
+        ocs:C36668,
+        ocs:C38309,
+        ocs:C38796,
+        ocs:C39458,
+        ocs:C44109,
+        ocs:C45043,
+        ocs:C45299,
+        ocs:C5253,
+        ocs:C7909 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44191 a skos:Concept ;
+    skos:broader ocs:C33093,
+        ocs:C35103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chain_rule_(probability)> ;
+    skos:prefLabel "Chain rule (probability)" ;
+    skos:related ocs:C12748,
+        ocs:C14161,
+        ocs:C20001,
+        ocs:C21983,
+        ocs:C22075,
+        ocs:C246,
+        ocs:C26905,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C30864,
+        ocs:C35103,
+        ocs:C6291 .
+

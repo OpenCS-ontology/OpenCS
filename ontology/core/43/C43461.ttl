@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43461 a skos:Concept ;
+    skos:broader ocs:C30592,
+        ocs:C31546,
+        ocs:C33274,
+        ocs:C36936 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expected_linear_time_MST_algorithm> ;
+    skos:prefLabel "Expected linear time MST algorithm" ;
+    skos:related ocs:C1446,
+        ocs:C21308,
+        ocs:C26989,
+        ocs:C29108,
+        ocs:C31762,
+        ocs:C33274,
+        ocs:C34708,
+        ocs:C38457,
+        ocs:C38755,
+        ocs:C39476,
+        ocs:C40660,
+        ocs:C42302,
+        ocs:C42822,
+        ocs:C43738,
+        ocs:C44379,
+        ocs:C45709,
+        ocs:C4966,
+        ocs:C6537,
+        ocs:C8660 .
+

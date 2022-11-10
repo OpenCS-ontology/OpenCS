@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37010 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C19558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robonaut> ;
+    skos:prefLabel "Robonaut" ;
+    skos:related ocs:C10396,
+        ocs:C114,
+        ocs:C11619,
+        ocs:C12976,
+        ocs:C1350,
+        ocs:C15835,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C19558,
+        ocs:C21007,
+        ocs:C30191,
+        ocs:C31036,
+        ocs:C34504,
+        ocs:C36316,
+        ocs:C36944,
+        ocs:C42136,
+        ocs:C42725,
+        ocs:C5635,
+        ocs:C7201 .
+

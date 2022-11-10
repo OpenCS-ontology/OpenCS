@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8797 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Born-digital> ;
+    skos:prefLabel "Born-digital" ;
+    skos:related ocs:C13306,
+        ocs:C15008,
+        ocs:C15831,
+        ocs:C1676,
+        ocs:C1704,
+        ocs:C18764,
+        ocs:C23568,
+        ocs:C32165,
+        ocs:C3896,
+        ocs:C39,
+        ocs:C3997,
+        ocs:C4,
+        ocs:C4034,
+        ocs:C4335,
+        ocs:C5746,
+        ocs:C6219,
+        ocs:C6234,
+        ocs:C6757 .
+

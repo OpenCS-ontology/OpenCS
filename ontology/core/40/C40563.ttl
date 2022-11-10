@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40563 a skos:Concept ;
+    skos:broader ocs:C29941,
+        ocs:C30801,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C34380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Splitting_of_prime_ideals_in_Galois_extensions> ;
+    skos:prefLabel "Splitting of prime ideals in Galois extensions" ;
+    skos:related ocs:C19545,
+        ocs:C33454 .
+

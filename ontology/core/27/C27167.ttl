@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27167 a skos:Concept ;
+    skos:broader ocs:C4757 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hindi_literature> ;
+    skos:prefLabel "Hindi literature" ;
+    skos:related ocs:C12689,
+        ocs:C15778,
+        ocs:C19381,
+        ocs:C21938,
+        ocs:C29540,
+        ocs:C401,
+        ocs:C4757 .
+

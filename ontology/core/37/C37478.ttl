@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37478 a skos:Concept ;
+    skos:broader ocs:C27184 ;
+    skos:closeMatch <http://dbpedia.org/resource/Systems_Oriented_Design> ;
+    skos:prefLabel "Systems-oriented design" ;
+    skos:related ocs:C1020,
+        ocs:C11668,
+        ocs:C1336,
+        ocs:C22811,
+        ocs:C23671,
+        ocs:C33618,
+        ocs:C34564,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C7904,
+        ocs:C8269 .
+

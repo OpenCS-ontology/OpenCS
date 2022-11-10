@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8472 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_entry_module> ;
+    skos:prefLabel "Power entry module" ;
+    skos:related ocs:C1127,
+        ocs:C11581,
+        ocs:C5511 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16947 a skos:Concept ;
+    skos:broader ocs:C5512,
+        ocs:C5817 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apriori_algorithm> ;
+    skos:prefLabel "Apriori algorithm" ;
+    skos:related ocs:C10,
+        ocs:C10382,
+        ocs:C13,
+        ocs:C16033,
+        ocs:C16054,
+        ocs:C17893,
+        ocs:C18623,
+        ocs:C2005,
+        ocs:C25,
+        ocs:C32077,
+        ocs:C3339,
+        ocs:C33804,
+        ocs:C36074,
+        ocs:C38914,
+        ocs:C39895,
+        ocs:C44201,
+        ocs:C4966,
+        ocs:C5512,
+        ocs:C6 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16622 a skos:Concept ;
+    skos:broader ocs:C9870 ;
+    skos:prefLabel "Hand skeleton" ;
+    skos:related ocs:C16674,
+        ocs:C21,
+        ocs:C22,
+        ocs:C24825,
+        ocs:C6069 .
+

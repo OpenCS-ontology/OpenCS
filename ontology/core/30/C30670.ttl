@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30670 a skos:Concept ;
+    skos:broader ocs:C21412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pedestrian_crossing> ;
+    skos:prefLabel "Pedestrian road crossing" ;
+    skos:related ocs:C17,
+        ocs:C17369,
+        ocs:C22,
+        ocs:C2800,
+        ocs:C3390,
+        ocs:C5698,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9643 .
+

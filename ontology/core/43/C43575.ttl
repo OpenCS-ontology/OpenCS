@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43575 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process-oriented_programming> ;
+    skos:prefLabel "Process-oriented programming" ;
+    skos:related ocs:C10327,
+        ocs:C10720,
+        ocs:C12846,
+        ocs:C13113,
+        ocs:C16968,
+        ocs:C23909,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C2804,
+        ocs:C28080,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C36972,
+        ocs:C38237,
+        ocs:C41770,
+        ocs:C45142,
+        ocs:C5181,
+        ocs:C6941,
+        ocs:C8751 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9689 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plain_Old_CLR_Object> ;
+    skos:prefLabel "Plain Old CLR Object" ;
+    skos:related ocs:C10720,
+        ocs:C11293,
+        ocs:C24646,
+        ocs:C29401,
+        ocs:C30334,
+        ocs:C30408,
+        ocs:C30561,
+        ocs:C31404,
+        ocs:C31661,
+        ocs:C36373,
+        ocs:C36446,
+        ocs:C39679,
+        ocs:C39897,
+        ocs:C44349,
+        ocs:C44738,
+        ocs:C5709,
+        ocs:C6188,
+        ocs:C7116 .
+

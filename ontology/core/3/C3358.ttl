@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3358 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Miniprop> ;
+    skos:prefLabel "Miniprop" ;
+    skos:related ocs:C10108,
+        ocs:C21945,
+        ocs:C22511,
+        ocs:C3044,
+        ocs:C40982,
+        ocs:C44937,
+        ocs:C45495,
+        ocs:C6198,
+        ocs:C6495,
+        ocs:C7648,
+        ocs:C8612,
+        ocs:C8700 .
+

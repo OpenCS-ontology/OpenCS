@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44312 a skos:Concept ;
+    skos:broader ocs:C34794,
+        ocs:C37205 ;
+    skos:closeMatch <http://dbpedia.org/resource/L-notation> ;
+    skos:prefLabel "L-notation" ;
+    skos:related ocs:C11443,
+        ocs:C21625,
+        ocs:C2258,
+        ocs:C2425,
+        ocs:C34666,
+        ocs:C34794,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C40241,
+        ocs:C40515,
+        ocs:C8660 .
+

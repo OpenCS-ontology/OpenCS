@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10946 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Employee_relationship_management> ;
+    skos:prefLabel "Employee relationship management" ;
+    skos:related ocs:C12255,
+        ocs:C2304,
+        ocs:C3034,
+        ocs:C540 .
+

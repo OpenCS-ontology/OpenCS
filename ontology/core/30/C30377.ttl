@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30377 a skos:Concept ;
+    skos:broader ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-scheduling> ;
+    skos:prefLabel "Meta-scheduling" ;
+    skos:related ocs:C13372,
+        ocs:C22878,
+        ocs:C30078,
+        ocs:C30993,
+        ocs:C35145,
+        ocs:C40929,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8704 .
+

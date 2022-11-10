@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15664 a skos:Concept ;
+    skos:broader ocs:C5007 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_optimization_(EDA)> ;
+    skos:prefLabel "Power optimization" ;
+    skos:related ocs:C10377,
+        ocs:C10965,
+        ocs:C11690,
+        ocs:C15798,
+        ocs:C19400,
+        ocs:C21407,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C30433,
+        ocs:C33318,
+        ocs:C34945,
+        ocs:C37773,
+        ocs:C41136,
+        ocs:C42888 .
+

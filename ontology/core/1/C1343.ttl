@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1343 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_1620_Model_I> ;
+    skos:prefLabel "IBM 1620 Model I" ;
+    skos:related ocs:C10320,
+        ocs:C10409,
+        ocs:C11047,
+        ocs:C12262,
+        ocs:C13025,
+        ocs:C14162,
+        ocs:C15,
+        ocs:C15312,
+        ocs:C16377,
+        ocs:C17204,
+        ocs:C28464,
+        ocs:C44695,
+        ocs:C6714,
+        ocs:C856 .
+

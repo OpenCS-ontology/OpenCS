@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3511 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Beacon> ;
+    skos:prefLabel "Beacon" ;
+    skos:related ocs:C10884,
+        ocs:C11669,
+        ocs:C16547,
+        ocs:C3,
+        ocs:C5559,
+        ocs:C6495 .
+

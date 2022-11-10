@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28173 a skos:Concept ;
+    skos:broader ocs:C2005,
+        ocs:C6221,
+        ocs:C7021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_subspace_method> ;
+    skos:prefLabel "Random subspace method" ;
+    skos:related ocs:C11030,
+        ocs:C13,
+        ocs:C15879,
+        ocs:C2005,
+        ocs:C21628,
+        ocs:C22643,
+        ocs:C24136,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C25520,
+        ocs:C26398,
+        ocs:C39132,
+        ocs:C41275,
+        ocs:C424,
+        ocs:C6021,
+        ocs:C610,
+        ocs:C7803,
+        ocs:C9022,
+        ocs:C9874 .
+

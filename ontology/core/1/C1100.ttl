@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1100 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_culture> ;
+    skos:prefLabel "Information culture" ;
+    skos:related ocs:C1,
+        ocs:C10070,
+        ocs:C18168,
+        ocs:C197,
+        ocs:C2529,
+        ocs:C25464,
+        ocs:C2979,
+        ocs:C31201,
+        ocs:C31285,
+        ocs:C31650,
+        ocs:C3255,
+        ocs:C41836,
+        ocs:C5092,
+        ocs:C6944 .
+

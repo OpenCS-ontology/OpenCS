@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3291 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sci-Mate> ;
+    skos:prefLabel "Sci-Mate" ;
+    skos:related ocs:C11595,
+        ocs:C14536,
+        ocs:C21591,
+        ocs:C27519,
+        ocs:C29853,
+        ocs:C31,
+        ocs:C32616,
+        ocs:C40851,
+        ocs:C9096 .
+

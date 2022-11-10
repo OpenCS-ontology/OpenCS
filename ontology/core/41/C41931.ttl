@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41931 a skos:Concept ;
+    skos:broader ocs:C30507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teichmüller–Tukey_lemma> ;
+    skos:prefLabel "Teichmüller–Tukey lemma" ;
+    skos:related ocs:C1220,
+        ocs:C16190,
+        ocs:C17726,
+        ocs:C43695,
+        ocs:C45141 .
+

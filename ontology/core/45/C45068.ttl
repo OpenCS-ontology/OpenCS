@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45068 a skos:Concept ;
+    skos:broader ocs:C33774 ;
+    skos:closeMatch <http://dbpedia.org/resource/Theoretical_planetology> ;
+    skos:prefLabel "Theoretical planetology" ;
+    skos:related ocs:C14270,
+        ocs:C32417,
+        ocs:C36203,
+        ocs:C38786 .
+

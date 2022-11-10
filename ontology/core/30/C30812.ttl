@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30812 a skos:Concept ;
+    skos:broader ocs:C17610 ;
+    skos:prefLabel "Hydrogen peroxide 35%" ;
+    skos:related ocs:C14750,
+        ocs:C2679 .
+

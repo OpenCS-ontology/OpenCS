@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38700 a skos:Concept ;
+    skos:broader ocs:C30336,
+        ocs:C37443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereotype_(UML)> ;
+    skos:prefLabel "Stereotype (UML)" ;
+    skos:related ocs:C24477,
+        ocs:C29844,
+        ocs:C30038,
+        ocs:C30336,
+        ocs:C31748,
+        ocs:C34078,
+        ocs:C35299,
+        ocs:C37864,
+        ocs:C39238,
+        ocs:C39251,
+        ocs:C39293,
+        ocs:C39780,
+        ocs:C39856,
+        ocs:C43032,
+        ocs:C43126,
+        ocs:C43696,
+        ocs:C44737,
+        ocs:C44844,
+        ocs:C45026,
+        ocs:C45244 .
+

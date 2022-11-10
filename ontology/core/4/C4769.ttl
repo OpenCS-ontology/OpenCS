@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4769 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_Hat> ;
+    skos:prefLabel "Radio Hat" ;
+    skos:related ocs:C10103,
+        ocs:C10974,
+        ocs:C14931,
+        ocs:C28411,
+        ocs:C33619,
+        ocs:C38024,
+        ocs:C4427,
+        ocs:C44927,
+        ocs:C5671,
+        ocs:C915 .
+

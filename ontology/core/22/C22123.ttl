@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22123 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Queen_ant> ;
+    skos:prefLabel "Queen ant" ;
+    skos:related ocs:C21150,
+        ocs:C21893,
+        ocs:C26257 .
+

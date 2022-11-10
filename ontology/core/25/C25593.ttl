@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25593 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:prefLabel "Neuron structure" ;
+    skos:related ocs:C18805,
+        ocs:C21,
+        ocs:C25,
+        ocs:C2649,
+        ocs:C29,
+        ocs:C8499,
+        ocs:C8517,
+        ocs:C8753 .
+

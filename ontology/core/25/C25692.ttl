@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25692 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Liometopum_occidentale> ;
+    skos:prefLabel "Liometopum occidentale" ;
+    skos:related ocs:C13054,
+        ocs:C14314,
+        ocs:C16962,
+        ocs:C20738,
+        ocs:C22105,
+        ocs:C22675,
+        ocs:C25716,
+        ocs:C35777 .
+

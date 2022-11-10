@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24495 a skos:Concept ;
+    skos:broader ocs:C3394,
+        ocs:C9432 ;
+    skos:closeMatch <http://dbpedia.org/resource/PerfSONAR> ;
+    skos:prefLabel "PerfSONAR" ;
+    skos:related ocs:C10280,
+        ocs:C10904,
+        ocs:C15065,
+        ocs:C17238,
+        ocs:C17267,
+        ocs:C19052,
+        ocs:C22851,
+        ocs:C28941,
+        ocs:C34992,
+        ocs:C38383,
+        ocs:C38891,
+        ocs:C40192,
+        ocs:C43056,
+        ocs:C44104,
+        ocs:C44624,
+        ocs:C44883,
+        ocs:C45107 .
+

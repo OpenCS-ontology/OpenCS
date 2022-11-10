@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45676 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_operations> ;
+    skos:prefLabel "Graph operations" ;
+    skos:related ocs:C14151,
+        ocs:C14693,
+        ocs:C15097,
+        ocs:C15414,
+        ocs:C17717,
+        ocs:C20376,
+        ocs:C22273,
+        ocs:C34841,
+        ocs:C35179,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C40440,
+        ocs:C41182,
+        ocs:C42438,
+        ocs:C42872,
+        ocs:C43374,
+        ocs:C44630,
+        ocs:C44666,
+        ocs:C45005 .
+

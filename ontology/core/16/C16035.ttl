@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16035 a skos:Concept ;
+    skos:broader ocs:C10275 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multispectral_pattern_recognition> ;
+    skos:prefLabel "Multispectral pattern recognition" ;
+    skos:related ocs:C10275,
+        ocs:C22398,
+        ocs:C26880,
+        ocs:C3389,
+        ocs:C36314,
+        ocs:C6760,
+        ocs:C8021 .
+

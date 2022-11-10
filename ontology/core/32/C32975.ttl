@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32975 a skos:Concept ;
+    skos:broader ocs:C14539 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bacon's_cipher> ;
+    skos:prefLabel "Bacon's cipher" ;
+    skos:related ocs:C11704,
+        ocs:C13654,
+        ocs:C17344,
+        ocs:C29841,
+        ocs:C30538,
+        ocs:C35176,
+        ocs:C39582,
+        ocs:C41186,
+        ocs:C4182,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44803,
+        ocs:C7567,
+        ocs:C9491 .
+

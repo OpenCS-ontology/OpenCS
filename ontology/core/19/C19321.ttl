@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19321 a skos:Concept ;
+    skos:broader ocs:C11886,
+        ocs:C2543,
+        ocs:C6234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rights_Expression_Language> ;
+    skos:prefLabel "Rights Expression Language" ;
+    skos:related ocs:C10610,
+        ocs:C11927,
+        ocs:C14002,
+        ocs:C1651,
+        ocs:C19324,
+        ocs:C27996,
+        ocs:C28117,
+        ocs:C35570,
+        ocs:C36276,
+        ocs:C3896,
+        ocs:C41158,
+        ocs:C41877,
+        ocs:C42124,
+        ocs:C42613,
+        ocs:C43138,
+        ocs:C6234,
+        ocs:C6553,
+        ocs:C7296,
+        ocs:C9836 .
+

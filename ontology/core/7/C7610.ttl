@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7610 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chrysler_Comprehensive_Compensation_System> ;
+    skos:prefLabel "Chrysler Comprehensive Compensation System" ;
+    skos:related ocs:C16530,
+        ocs:C17676,
+        ocs:C18274,
+        ocs:C24909,
+        ocs:C2493,
+        ocs:C25956,
+        ocs:C29790,
+        ocs:C30756,
+        ocs:C30799,
+        ocs:C31920,
+        ocs:C35207,
+        ocs:C37174,
+        ocs:C38555,
+        ocs:C41038,
+        ocs:C42237,
+        ocs:C44988,
+        ocs:C4558,
+        ocs:C5237 .
+

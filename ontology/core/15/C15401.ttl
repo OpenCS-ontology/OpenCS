@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15401 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C5620 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spike_sorting> ;
+    skos:prefLabel "Spike sorting" ;
+    skos:related ocs:C6912,
+        ocs:C9854 .
+

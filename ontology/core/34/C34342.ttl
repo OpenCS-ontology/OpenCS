@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34342 a skos:Concept ;
+    skos:broader ocs:C14161,
+        ocs:C16106,
+        ocs:C21210,
+        ocs:C29411 ;
+    skos:prefLabel "Residual belief propagation" .
+

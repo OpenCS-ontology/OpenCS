@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27865 a skos:Concept ;
+    skos:broader ocs:C5423 ;
+    skos:closeMatch <http://dbpedia.org/resource/Availability_heuristic> ;
+    skos:prefLabel "Availability heuristic" ;
+    skos:related ocs:C1134,
+        ocs:C20988,
+        ocs:C28899,
+        ocs:C29764 .
+

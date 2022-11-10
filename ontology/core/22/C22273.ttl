@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22273 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_rewriting> ;
+    skos:prefLabel "Graph rewriting" ;
+    skos:related ocs:C1,
+        ocs:C13751,
+        ocs:C14209,
+        ocs:C14693,
+        ocs:C19,
+        ocs:C22894,
+        ocs:C23439,
+        ocs:C26158,
+        ocs:C27499,
+        ocs:C29632,
+        ocs:C32080,
+        ocs:C36126,
+        ocs:C36213,
+        ocs:C37036,
+        ocs:C44157,
+        ocs:C4966,
+        ocs:C8635 .
+

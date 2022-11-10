@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21485 a skos:Concept ;
+    skos:broader ocs:C10985,
+        ocs:C12388,
+        ocs:C2025,
+        ocs:C936 ;
+    skos:closeMatch <http://dbpedia.org/resource/Buckeye_Corpus> ;
+    skos:prefLabel "Buckeye Corpus" ;
+    skos:related ocs:C11722,
+        ocs:C13064,
+        ocs:C15508,
+        ocs:C18176,
+        ocs:C1948,
+        ocs:C24484,
+        ocs:C24901,
+        ocs:C26990,
+        ocs:C308,
+        ocs:C39489,
+        ocs:C4397 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C405 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compound_Document_Format> ;
+    skos:prefLabel "Compound Document Format" ;
+    skos:related ocs:C11335,
+        ocs:C11927,
+        ocs:C12477,
+        ocs:C13717,
+        ocs:C20749,
+        ocs:C28801,
+        ocs:C30182,
+        ocs:C31658,
+        ocs:C33709,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C38072,
+        ocs:C39183,
+        ocs:C41912,
+        ocs:C42496,
+        ocs:C9647 .
+

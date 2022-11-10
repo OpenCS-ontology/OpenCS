@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24950 a skos:Concept ;
+    skos:broader ocs:C12647 ;
+    skos:prefLabel "Revised token test" ;
+    skos:related ocs:C1,
+        ocs:C10368,
+        ocs:C11767,
+        ocs:C16,
+        ocs:C32,
+        ocs:C5616,
+        ocs:C8 .
+

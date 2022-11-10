@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22416 a skos:Concept ;
+    skos:broader ocs:C13753,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Erect_image> ;
+    skos:prefLabel "Erect image" ;
+    skos:related ocs:C19568,
+        ocs:C695,
+        ocs:C8858 .
+

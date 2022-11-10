@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31117 a skos:Concept ;
+    skos:broader ocs:C28019 ;
+    skos:closeMatch <http://dbpedia.org/resource/Harsh_voice> ;
+    skos:prefLabel "Harsh voice" ;
+    skos:related ocs:C10768,
+        ocs:C13044,
+        ocs:C18630,
+        ocs:C2025,
+        ocs:C2408,
+        ocs:C27886,
+        ocs:C28139,
+        ocs:C308,
+        ocs:C33075,
+        ocs:C35281 .
+

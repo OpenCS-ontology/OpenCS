@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26512 a skos:Concept ;
+    skos:broader ocs:C2228,
+        ocs:C2480,
+        ocs:C7736,
+        ocs:C9601 ;
+    skos:prefLabel "Soft user interface" .
+

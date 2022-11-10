@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36748 a skos:Concept ;
+    skos:broader ocs:C21653 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oecophylla_longinoda> ;
+    skos:prefLabel "Oecophylla longinoda" ;
+    skos:related ocs:C14279,
+        ocs:C14496,
+        ocs:C18735,
+        ocs:C19019,
+        ocs:C19235,
+        ocs:C22440,
+        ocs:C28251,
+        ocs:C30017,
+        ocs:C34293 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21370 a skos:Concept ;
+    skos:broader ocs:C13317,
+        ocs:C2192,
+        ocs:C4594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha–beta_pruning> ;
+    skos:prefLabel "Alpha–beta pruning" ;
+    skos:related ocs:C13317,
+        ocs:C14406,
+        ocs:C18256,
+        ocs:C32048,
+        ocs:C3339,
+        ocs:C34688,
+        ocs:C40237,
+        ocs:C4254,
+        ocs:C43080,
+        ocs:C43808,
+        ocs:C4594,
+        ocs:C6759,
+        ocs:C7397,
+        ocs:C8 .
+

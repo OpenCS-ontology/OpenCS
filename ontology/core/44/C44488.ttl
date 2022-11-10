@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44488 a skos:Concept ;
+    skos:broader ocs:C37173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_rhombidodecahedron> ;
+    skos:prefLabel "Small rhombidodecahedron" ;
+    skos:related ocs:C33472,
+        ocs:C38358,
+        ocs:C38670,
+        ocs:C38968,
+        ocs:C38990,
+        ocs:C39317,
+        ocs:C42873,
+        ocs:C43966 .
+

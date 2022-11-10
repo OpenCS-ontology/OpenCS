@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32591 a skos:Concept ;
+    skos:broader ocs:C22625 ;
+    skos:closeMatch <http://dbpedia.org/resource/River_channel_migration> ;
+    skos:prefLabel "River channel migration" ;
+    skos:related ocs:C15867,
+        ocs:C22221,
+        ocs:C22631,
+        ocs:C25363,
+        ocs:C28088 .
+

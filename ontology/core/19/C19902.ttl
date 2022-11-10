@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19902 a skos:Concept ;
+    skos:broader ocs:C8790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Group_identifier> ;
+    skos:prefLabel "Group identifier" ;
+    skos:related ocs:C10423,
+        ocs:C1165,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C19000,
+        ocs:C22970,
+        ocs:C26754,
+        ocs:C27120,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C32076,
+        ocs:C34914,
+        ocs:C39252,
+        ocs:C42619,
+        ocs:C43104,
+        ocs:C43822,
+        ocs:C7476,
+        ocs:C8457,
+        ocs:C9938 .
+

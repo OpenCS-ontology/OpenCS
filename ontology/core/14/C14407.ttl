@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14407 a skos:Concept ;
+    skos:broader ocs:C1340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Head_shadow> ;
+    skos:prefLabel "Head shadow" ;
+    skos:related ocs:C14778,
+        ocs:C17901,
+        ocs:C19421,
+        ocs:C387,
+        ocs:C5506,
+        ocs:C5853 .
+

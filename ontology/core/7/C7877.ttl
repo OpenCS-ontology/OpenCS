@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7877 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cellular_network> ;
+    skos:prefLabel "Cellular network" ;
+    skos:related ocs:C12853,
+        ocs:C13316,
+        ocs:C15728,
+        ocs:C18799,
+        ocs:C20116,
+        ocs:C25626,
+        ocs:C27704,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C30037,
+        ocs:C3236,
+        ocs:C35370,
+        ocs:C37303,
+        ocs:C39949,
+        ocs:C4255,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

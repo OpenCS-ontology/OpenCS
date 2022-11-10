@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23273 a skos:Concept ;
+    skos:broader ocs:C5610 ;
+    skos:closeMatch <http://dbpedia.org/resource/Realization_(systems)> ;
+    skos:prefLabel "Realization (systems)" ;
+    skos:related ocs:C1447,
+        ocs:C22507,
+        ocs:C28698,
+        ocs:C42126,
+        ocs:C492,
+        ocs:C9539 .
+

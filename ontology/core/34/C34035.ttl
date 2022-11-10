@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34035 a skos:Concept ;
+    skos:broader ocs:C16319 ;
+    skos:closeMatch <http://dbpedia.org/resource/Half-logistic_distribution> ;
+    skos:prefLabel "Half-logistic distribution" ;
+    skos:related ocs:C16163,
+        ocs:C18290,
+        ocs:C21356,
+        ocs:C22092,
+        ocs:C29902,
+        ocs:C38209,
+        ocs:C42876,
+        ocs:C45652,
+        ocs:C9326 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36736 a skos:Concept ;
+    skos:broader ocs:C27345 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cephalota> ;
+    skos:prefLabel "Cephalota" ;
+    skos:related ocs:C19503,
+        ocs:C21310,
+        ocs:C27345,
+        ocs:C30754,
+        ocs:C32729,
+        ocs:C33353,
+        ocs:C33612,
+        ocs:C34145,
+        ocs:C35782,
+        ocs:C42708,
+        ocs:C44867 .
+

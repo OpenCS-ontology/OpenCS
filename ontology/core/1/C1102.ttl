@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1102 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subsynchronous_orbit> ;
+    skos:prefLabel "Subsynchronous orbit" ;
+    skos:related ocs:C11806,
+        ocs:C21630,
+        ocs:C2252,
+        ocs:C22969 .
+

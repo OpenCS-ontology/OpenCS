@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8026 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nord-10> ;
+    skos:prefLabel "Nord-10" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C12117,
+        ocs:C12323,
+        ocs:C12851,
+        ocs:C14063,
+        ocs:C16229,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C28464,
+        ocs:C3231,
+        ocs:C38819,
+        ocs:C41110,
+        ocs:C42690,
+        ocs:C45812,
+        ocs:C4863,
+        ocs:C6072,
+        ocs:C8434,
+        ocs:C9 .
+

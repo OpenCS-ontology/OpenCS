@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20785 a skos:Concept ;
+    skos:broader ocs:C9122 ;
+    skos:prefLabel "Abnormal colour vision" ;
+    skos:related ocs:C15175,
+        ocs:C23355,
+        ocs:C23594,
+        ocs:C25893,
+        ocs:C6420,
+        ocs:C7,
+        ocs:C8 .
+

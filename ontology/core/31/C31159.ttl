@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31159 a skos:Concept ;
+    skos:broader ocs:C26887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iribarren_number> ;
+    skos:prefLabel "Iribarren number" ;
+    skos:related ocs:C26887,
+        ocs:C30110,
+        ocs:C42088 .
+

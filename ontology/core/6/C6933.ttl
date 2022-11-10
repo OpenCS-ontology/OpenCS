@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6933 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEC_61334> ;
+    skos:prefLabel "IEC 61334" ;
+    skos:related ocs:C13994,
+        ocs:C14275,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21424,
+        ocs:C22451,
+        ocs:C24558,
+        ocs:C26814,
+        ocs:C30984,
+        ocs:C36766,
+        ocs:C4381,
+        ocs:C7502,
+        ocs:C7740 .
+

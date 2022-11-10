@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18109 a skos:Concept ;
+    skos:broader ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_restoration> ;
+    skos:prefLabel "Audio restoration" ;
+    skos:related ocs:C12619,
+        ocs:C1704,
+        ocs:C24238,
+        ocs:C25195,
+        ocs:C26575,
+        ocs:C30569,
+        ocs:C31899,
+        ocs:C40628,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5428,
+        ocs:C5819,
+        ocs:C7255,
+        ocs:C7279,
+        ocs:C8718,
+        ocs:C9481,
+        ocs:C9596 .
+

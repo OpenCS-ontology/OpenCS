@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23477 a skos:Concept ;
+    skos:broader ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_flight_rules> ;
+    skos:prefLabel "Visual flight rules" ;
+    skos:related ocs:C11445,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C26346,
+        ocs:C2749,
+        ocs:C27838,
+        ocs:C33190,
+        ocs:C35895,
+        ocs:C42471,
+        ocs:C45176,
+        ocs:C4597,
+        ocs:C8868,
+        ocs:C9720 .
+

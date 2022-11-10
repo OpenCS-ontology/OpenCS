@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2201 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Liskov_substitution_principle> ;
+    skos:prefLabel "Liskov substitution principle" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C14636,
+        ocs:C18606,
+        ocs:C19,
+        ocs:C24187,
+        ocs:C32225,
+        ocs:C35141,
+        ocs:C38027,
+        ocs:C42280,
+        ocs:C6255,
+        ocs:C7257,
+        ocs:C7731,
+        ocs:C9046 .
+

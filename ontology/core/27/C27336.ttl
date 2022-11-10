@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27336 a skos:Concept ;
+    skos:broader ocs:C12052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protection_Profile> ;
+    skos:prefLabel "Protection Profile" ;
+    skos:related ocs:C12052,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C19557,
+        ocs:C197,
+        ocs:C2044,
+        ocs:C21324,
+        ocs:C25176,
+        ocs:C33147,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C3757,
+        ocs:C39016,
+        ocs:C41226,
+        ocs:C41901,
+        ocs:C7181 .
+

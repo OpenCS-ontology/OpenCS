@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34001 a skos:Concept ;
+    skos:broader ocs:C16054 ;
+    skos:closeMatch <http://dbpedia.org/resource/IDistance> ;
+    skos:prefLabel "iDistance" ;
+    skos:related ocs:C10382,
+        ocs:C20003,
+        ocs:C20046,
+        ocs:C2720,
+        ocs:C3077,
+        ocs:C33701,
+        ocs:C3512,
+        ocs:C36403,
+        ocs:C39288,
+        ocs:C42312,
+        ocs:C6535,
+        ocs:C6693,
+        ocs:C9538,
+        ocs:C9874 .
+

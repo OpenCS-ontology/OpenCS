@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17402 a skos:Concept ;
+    skos:broader ocs:C8341 ;
+    skos:closeMatch <http://dbpedia.org/resource/Davis–Moore_hypothesis> ;
+    skos:prefLabel "Davis–Moore theory" ;
+    skos:related ocs:C20012,
+        ocs:C24206 .
+

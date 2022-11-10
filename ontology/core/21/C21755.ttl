@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21755 a skos:Concept ;
+    skos:broader ocs:C1338,
+        ocs:C4528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Handheld_projector> ;
+    skos:prefLabel "Handheld projector" ;
+    skos:related ocs:C13065,
+        ocs:C13586,
+        ocs:C14411,
+        ocs:C15787,
+        ocs:C22257,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C29012,
+        ocs:C4528,
+        ocs:C5577,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C9113 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C837 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cerebro> ;
+    skos:prefLabel "Cerebro" ;
+    skos:related ocs:C24205,
+        ocs:C6095,
+        ocs:C8 .
+

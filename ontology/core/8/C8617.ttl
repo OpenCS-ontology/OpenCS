@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8617 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paywall> ;
+    skos:prefLabel "Paywall" ;
+    skos:related ocs:C22524,
+        ocs:C22551,
+        ocs:C29047,
+        ocs:C31,
+        ocs:C4918,
+        ocs:C597,
+        ocs:C8614 .
+

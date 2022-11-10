@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26533 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_laboratory> ;
+    skos:prefLabel "Remote laboratory" ;
+    skos:related ocs:C10067,
+        ocs:C11050,
+        ocs:C26813,
+        ocs:C3,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C580,
+        ocs:C7360 .
+

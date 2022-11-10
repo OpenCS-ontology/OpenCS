@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13331 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_question> ;
+    skos:prefLabel "Security question" ;
+    skos:related ocs:C12331,
+        ocs:C15597,
+        ocs:C20904,
+        ocs:C25013,
+        ocs:C26581,
+        ocs:C32204,
+        ocs:C34793,
+        ocs:C35,
+        ocs:C35391,
+        ocs:C36898,
+        ocs:C38359,
+        ocs:C41033,
+        ocs:C41425,
+        ocs:C44448,
+        ocs:C4513,
+        ocs:C5731,
+        ocs:C7006,
+        ocs:C7738,
+        ocs:C816,
+        ocs:C8614 .
+

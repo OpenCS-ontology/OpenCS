@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11160 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Athletic equipment" ;
+    skos:related ocs:C17,
+        ocs:C2,
+        ocs:C35,
+        ocs:C6340,
+        ocs:C7006,
+        ocs:C8702 .
+

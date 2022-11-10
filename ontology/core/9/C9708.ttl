@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9708 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bin-centres> ;
+    skos:prefLabel "Bin-centres" ;
+    skos:related ocs:C11443,
+        ocs:C21364,
+        ocs:C2168,
+        ocs:C3173,
+        ocs:C40826,
+        ocs:C4222,
+        ocs:C42625,
+        ocs:C4511,
+        ocs:C9097 .
+

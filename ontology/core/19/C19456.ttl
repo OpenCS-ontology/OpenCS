@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19456 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colour_cast> ;
+    skos:prefLabel "Colour cast" ;
+    skos:related ocs:C10993,
+        ocs:C11044,
+        ocs:C12484,
+        ocs:C13065,
+        ocs:C21360,
+        ocs:C30704,
+        ocs:C38868,
+        ocs:C41592,
+        ocs:C6041,
+        ocs:C6942,
+        ocs:C740,
+        ocs:C797 .
+

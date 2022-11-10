@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16626 a skos:Concept ;
+    skos:broader ocs:C4050 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_infrared_audible_signage> ;
+    skos:prefLabel "Remote infrared audible signage" ;
+    skos:related ocs:C1563,
+        ocs:C15728,
+        ocs:C1589,
+        ocs:C22335,
+        ocs:C3236,
+        ocs:C34124,
+        ocs:C40705,
+        ocs:C5559,
+        ocs:C6365 .
+

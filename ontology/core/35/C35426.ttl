@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35426 a skos:Concept ;
+    skos:broader ocs:C23430,
+        ocs:C24023 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dust_lane> ;
+    skos:prefLabel "Dust lane" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C22752,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C25949,
+        ocs:C28402,
+        ocs:C36635,
+        ocs:C42436,
+        ocs:C45805 .
+

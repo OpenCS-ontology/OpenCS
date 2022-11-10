@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14653 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C3233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_tomography> ;
+    skos:prefLabel "Network tomography" ;
+    skos:related ocs:C15065,
+        ocs:C16666,
+        ocs:C19383,
+        ocs:C20691,
+        ocs:C21894,
+        ocs:C22407,
+        ocs:C22614,
+        ocs:C23052,
+        ocs:C26,
+        ocs:C28521,
+        ocs:C3394,
+        ocs:C44711,
+        ocs:C6943,
+        ocs:C8142,
+        ocs:C8614 .
+

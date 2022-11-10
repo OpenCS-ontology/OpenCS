@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C918 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/APRS_Calling> ;
+    skos:prefLabel "APRS Calling" ;
+    skos:related ocs:C10078,
+        ocs:C11669,
+        ocs:C13755,
+        ocs:C14649,
+        ocs:C2169,
+        ocs:C3310,
+        ocs:C39720,
+        ocs:C40139,
+        ocs:C40505,
+        ocs:C43595,
+        ocs:C43783,
+        ocs:C5618,
+        ocs:C6034,
+        ocs:C702,
+        ocs:C9333 .
+

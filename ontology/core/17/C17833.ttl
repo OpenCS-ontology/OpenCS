@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17833 a skos:Concept ;
+    skos:broader ocs:C5616,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_network_positioning> ;
+    skos:prefLabel "Global network positioning" ;
+    skos:related ocs:C11540,
+        ocs:C14223,
+        ocs:C1633,
+        ocs:C16851,
+        ocs:C19227,
+        ocs:C21894,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C3391,
+        ocs:C37035,
+        ocs:C42687,
+        ocs:C43015,
+        ocs:C8614,
+        ocs:C9024,
+        ocs:C9105 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25143 a skos:Concept ;
+    skos:broader ocs:C4703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calculator_input_methods> ;
+    skos:prefLabel "Calculator input methods" ;
+    skos:related ocs:C10332,
+        ocs:C10557,
+        ocs:C12806,
+        ocs:C13929,
+        ocs:C15500,
+        ocs:C19,
+        ocs:C28026,
+        ocs:C28408,
+        ocs:C31014,
+        ocs:C3785,
+        ocs:C39944,
+        ocs:C4703 .
+

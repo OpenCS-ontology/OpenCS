@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15938 a skos:Concept ;
+    skos:broader ocs:C10567,
+        ocs:C813 ;
+    skos:closeMatch <http://dbpedia.org/resource/WindowProc> ;
+    skos:prefLabel "WindowProc" ;
+    skos:related ocs:C11016,
+        ocs:C11084,
+        ocs:C12683,
+        ocs:C18226,
+        ocs:C20800,
+        ocs:C22903,
+        ocs:C24143,
+        ocs:C25917,
+        ocs:C26102,
+        ocs:C28881,
+        ocs:C38834,
+        ocs:C39177,
+        ocs:C45142,
+        ocs:C5514,
+        ocs:C6248,
+        ocs:C7130,
+        ocs:C8310 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39096 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arf_invariant> ;
+    skos:prefLabel "Arf invariant" ;
+    skos:related ocs:C10274,
+        ocs:C45091 .
+

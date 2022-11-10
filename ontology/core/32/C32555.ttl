@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32555 a skos:Concept ;
+    skos:broader ocs:C15728 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wi-Fi_array> ;
+    skos:prefLabel "Wi-Fi array" ;
+    skos:related ocs:C15728,
+        ocs:C15832,
+        ocs:C21424,
+        ocs:C21595,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C30037,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C36939,
+        ocs:C38184,
+        ocs:C39438,
+        ocs:C39494,
+        ocs:C40750,
+        ocs:C41301,
+        ocs:C42521,
+        ocs:C8028 .
+

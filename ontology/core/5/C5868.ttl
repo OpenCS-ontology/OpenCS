@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5868 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Efficiency_factor> ;
+    skos:prefLabel "Efficiency factor" ;
+    skos:related ocs:C11936,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21929,
+        ocs:C24469,
+        ocs:C26814,
+        ocs:C2886,
+        ocs:C29419,
+        ocs:C33778,
+        ocs:C36274,
+        ocs:C45789,
+        ocs:C5861,
+        ocs:C6171,
+        ocs:C7502,
+        ocs:C8952 .
+

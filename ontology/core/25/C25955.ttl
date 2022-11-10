@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25955 a skos:Concept ;
+    skos:broader ocs:C5699,
+        ocs:C6998 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_archetype> ;
+    skos:prefLabel "System archetype" ;
+    skos:related ocs:C11953,
+        ocs:C1336,
+        ocs:C14316,
+        ocs:C22976,
+        ocs:C2421,
+        ocs:C3343,
+        ocs:C37540,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C6998,
+        ocs:C7111,
+        ocs:C7334 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44411 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jackson_structured_programming> ;
+    skos:prefLabel "Jackson structured programming" ;
+    skos:related ocs:C10720,
+        ocs:C12846,
+        ocs:C14855,
+        ocs:C18469,
+        ocs:C19,
+        ocs:C2664,
+        ocs:C27386,
+        ocs:C28,
+        ocs:C3036,
+        ocs:C35939,
+        ocs:C3706,
+        ocs:C37174,
+        ocs:C38237,
+        ocs:C42258,
+        ocs:C4321,
+        ocs:C4937,
+        ocs:C5822,
+        ocs:C6072 .
+

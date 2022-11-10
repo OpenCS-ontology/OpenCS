@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6361 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Allophone> ;
+    skos:prefLabel "Allophone" ;
+    skos:related ocs:C12222,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C19817,
+        ocs:C2025,
+        ocs:C21409,
+        ocs:C21925,
+        ocs:C22147,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C308,
+        ocs:C34296,
+        ocs:C4522,
+        ocs:C4600,
+        ocs:C6449,
+        ocs:C7501,
+        ocs:C8020 .
+

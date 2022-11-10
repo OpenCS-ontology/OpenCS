@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33990 a skos:Concept ;
+    skos:broader ocs:C14267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plummer_model> ;
+    skos:prefLabel "Plummer model" ;
+    skos:related ocs:C14267,
+        ocs:C15251,
+        ocs:C23210,
+        ocs:C25586,
+        ocs:C31399,
+        ocs:C34672,
+        ocs:C43159 .
+

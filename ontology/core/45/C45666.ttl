@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45666 a skos:Concept ;
+    skos:broader ocs:C33773,
+        ocs:C36169 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11u> ;
+    skos:prefLabel "IEEE 802.11u" ;
+    skos:related ocs:C21424,
+        ocs:C28022,
+        ocs:C29568,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C37967,
+        ocs:C38362,
+        ocs:C39020,
+        ocs:C39861,
+        ocs:C41995,
+        ocs:C42007,
+        ocs:C42991,
+        ocs:C45519,
+        ocs:C45852,
+        ocs:C4665,
+        ocs:C5999,
+        ocs:C8028,
+        ocs:C9154 .
+

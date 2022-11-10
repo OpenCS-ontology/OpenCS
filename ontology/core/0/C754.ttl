@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C754 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_disk_drive_failure> ;
+    skos:prefLabel "Hard disk drive failure" ;
+    skos:related ocs:C10269,
+        ocs:C10400,
+        ocs:C10501,
+        ocs:C10568,
+        ocs:C10785,
+        ocs:C12211,
+        ocs:C12662,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C22957,
+        ocs:C3160,
+        ocs:C7476,
+        ocs:C8875,
+        ocs:C9492,
+        ocs:C9742 .
+

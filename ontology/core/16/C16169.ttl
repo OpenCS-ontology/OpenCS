@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16169 a skos:Concept ;
+    skos:broader ocs:C8760 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gaussian_process> ;
+    skos:prefLabel "Gaussian process" ;
+    skos:related ocs:C1844,
+        ocs:C23888,
+        ocs:C25668,
+        ocs:C25862,
+        ocs:C5505,
+        ocs:C6116,
+        ocs:C6909,
+        ocs:C836,
+        ocs:C8756 .
+

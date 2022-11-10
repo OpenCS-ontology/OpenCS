@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42490 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C33857,
+        ocs:C34753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Off-the-Record_Messaging> ;
+    skos:prefLabel "Off-the-Record Messaging" ;
+    skos:related ocs:C13991,
+        ocs:C16125,
+        ocs:C18441,
+        ocs:C23666,
+        ocs:C23855,
+        ocs:C24131,
+        ocs:C28881,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29841,
+        ocs:C30469,
+        ocs:C31365,
+        ocs:C31489,
+        ocs:C35146,
+        ocs:C38359,
+        ocs:C39389,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C5842 .
+

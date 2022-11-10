@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6363 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expert_elicitation> ;
+    skos:prefLabel "Expert elicitation" ;
+    skos:related ocs:C10670,
+        ocs:C11667,
+        ocs:C13540,
+        ocs:C22686,
+        ocs:C24002,
+        ocs:C30400 .
+

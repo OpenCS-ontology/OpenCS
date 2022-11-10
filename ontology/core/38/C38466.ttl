@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38466 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wind_triangle> ;
+    skos:prefLabel "Wind triangle" ;
+    skos:related ocs:C11158,
+        ocs:C12641,
+        ocs:C14324,
+        ocs:C15071,
+        ocs:C16352,
+        ocs:C18521,
+        ocs:C25753,
+        ocs:C3230,
+        ocs:C5030,
+        ocs:C670,
+        ocs:C9831 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27695 a skos:Concept ;
+    skos:broader ocs:C248 ;
+    skos:closeMatch <http://dbpedia.org/resource/Face_detection> ;
+    skos:prefLabel "Face detection" ;
+    skos:related ocs:C11324,
+        ocs:C12641,
+        ocs:C1503,
+        ocs:C16355,
+        ocs:C1935,
+        ocs:C21424,
+        ocs:C248,
+        ocs:C25410,
+        ocs:C25615,
+        ocs:C30653,
+        ocs:C32977,
+        ocs:C35370,
+        ocs:C4448,
+        ocs:C5088,
+        ocs:C6075,
+        ocs:C7,
+        ocs:C8021,
+        ocs:C9489 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29118 a skos:Concept ;
+    skos:broader ocs:C1443,
+        ocs:C8710 ;
+    skos:closeMatch <http://dbpedia.org/resource/EuroWordNet> ;
+    skos:prefLabel "EuroWordNet" ;
+    skos:related ocs:C10102,
+        ocs:C1057,
+        ocs:C12672,
+        ocs:C1451,
+        ocs:C15899,
+        ocs:C16875,
+        ocs:C17796,
+        ocs:C23928,
+        ocs:C25529,
+        ocs:C25681,
+        ocs:C26256,
+        ocs:C32,
+        ocs:C45685,
+        ocs:C7558,
+        ocs:C7650,
+        ocs:C8710,
+        ocs:C928 .
+

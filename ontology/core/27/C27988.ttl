@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27988 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commercial_bandwidth> ;
+    skos:prefLabel "Commercial bandwidth" ;
+    skos:related ocs:C13462,
+        ocs:C15589,
+        ocs:C21610,
+        ocs:C27191,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3259,
+        ocs:C38247,
+        ocs:C38619,
+        ocs:C4166,
+        ocs:C45147,
+        ocs:C6821,
+        ocs:C7288,
+        ocs:C9207 .
+

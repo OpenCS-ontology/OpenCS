@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41081 a skos:Concept ;
+    skos:broader ocs:C31136,
+        ocs:C31852,
+        ocs:C33053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maurotoxin> ;
+    skos:prefLabel "Maurotoxin" ;
+    skos:related ocs:C15901,
+        ocs:C29607,
+        ocs:C33053,
+        ocs:C34294,
+        ocs:C34437,
+        ocs:C38074,
+        ocs:C40450,
+        ocs:C41979,
+        ocs:C42913,
+        ocs:C44461,
+        ocs:C45220 .
+

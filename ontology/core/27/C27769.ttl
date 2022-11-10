@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27769 a skos:Concept ;
+    skos:broader ocs:C1057,
+        ocs:C7658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Similarity_heuristic> ;
+    skos:prefLabel "Similarity heuristic" ;
+    skos:related ocs:C10551,
+        ocs:C1134,
+        ocs:C14654,
+        ocs:C1722,
+        ocs:C2057,
+        ocs:C20988,
+        ocs:C27865,
+        ocs:C29764 .
+

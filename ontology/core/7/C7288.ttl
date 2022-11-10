@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7288 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circuit_identification_code> ;
+    skos:prefLabel "Circuit identification code" ;
+    skos:related ocs:C10858,
+        ocs:C25293,
+        ocs:C27446,
+        ocs:C27988,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3105,
+        ocs:C45147,
+        ocs:C6027,
+        ocs:C6821,
+        ocs:C7661,
+        ocs:C9113 .
+

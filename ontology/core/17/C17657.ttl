@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17657 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C1952 ;
+    skos:closeMatch <http://dbpedia.org/resource/German_adjectives> ;
+    skos:prefLabel "German adjectives" ;
+    skos:related ocs:C15012,
+        ocs:C15644,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C25257,
+        ocs:C26816,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C28817,
+        ocs:C32159,
+        ocs:C36746,
+        ocs:C37038,
+        ocs:C39461,
+        ocs:C5521 .
+

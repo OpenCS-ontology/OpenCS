@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32510 a skos:Concept ;
+    skos:broader ocs:C15049,
+        ocs:C16106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parity-check_matrix> ;
+    skos:prefLabel "Parity-check matrix" ;
+    skos:related ocs:C16106,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C32049,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C38160,
+        ocs:C40267,
+        ocs:C41906,
+        ocs:C42778,
+        ocs:C43991,
+        ocs:C44130,
+        ocs:C44265,
+        ocs:C44441,
+        ocs:C5196,
+        ocs:C6402 .
+

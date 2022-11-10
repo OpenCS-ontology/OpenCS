@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28701 a skos:Concept ;
+    skos:broader ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distance_transform> ;
+    skos:prefLabel "Distance transform" ;
+    skos:related ocs:C1023,
+        ocs:C12454,
+        ocs:C13787,
+        ocs:C14863,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C29175,
+        ocs:C32381,
+        ocs:C41932,
+        ocs:C44268,
+        ocs:C7,
+        ocs:C7000 .
+

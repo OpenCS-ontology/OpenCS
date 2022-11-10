@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33806 a skos:Concept ;
+    skos:broader ocs:C25957 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extract_class> ;
+    skos:prefLabel "Extract class" ;
+    skos:related ocs:C10720,
+        ocs:C1333,
+        ocs:C13628,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C29790,
+        ocs:C32646,
+        ocs:C32782,
+        ocs:C32814,
+        ocs:C35202,
+        ocs:C35739,
+        ocs:C38555,
+        ocs:C44528,
+        ocs:C44725,
+        ocs:C688,
+        ocs:C8360,
+        ocs:C9852 .
+

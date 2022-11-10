@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13364 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basis_function> ;
+    skos:prefLabel "Basis function" ;
+    skos:related ocs:C1220,
+        ocs:C13541,
+        ocs:C14325,
+        ocs:C28787,
+        ocs:C33700,
+        ocs:C36009,
+        ocs:C5332,
+        ocs:C5969,
+        ocs:C8781 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39519 a skos:Concept ;
+    skos:broader ocs:C34235 ;
+    skos:closeMatch <http://dbpedia.org/resource/Address_plus_Port> ;
+    skos:prefLabel "Address plus Port" ;
+    skos:related ocs:C11871,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C2181,
+        ocs:C24323,
+        ocs:C24727,
+        ocs:C30500,
+        ocs:C34235,
+        ocs:C35706,
+        ocs:C36678,
+        ocs:C38966,
+        ocs:C39947,
+        ocs:C40930,
+        ocs:C41238,
+        ocs:C42429,
+        ocs:C43318,
+        ocs:C43820,
+        ocs:C43939,
+        ocs:C44710,
+        ocs:C45007 .
+

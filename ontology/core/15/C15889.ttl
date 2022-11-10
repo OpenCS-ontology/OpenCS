@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15889 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dyadic_cubes> ;
+    skos:prefLabel "Dyadic cubes" ;
+    skos:related ocs:C18365,
+        ocs:C24929,
+        ocs:C26263,
+        ocs:C30507,
+        ocs:C31021,
+        ocs:C38849,
+        ocs:C41687,
+        ocs:C42608,
+        ocs:C45151 .
+

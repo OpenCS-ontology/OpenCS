@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30690 a skos:Concept ;
+    skos:broader ocs:C17433 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sub-band_coding> ;
+    skos:prefLabel "Sub-band coding" ;
+    skos:related ocs:C10778,
+        ocs:C11214,
+        ocs:C17433,
+        ocs:C19334,
+        ocs:C19401,
+        ocs:C22654,
+        ocs:C26268,
+        ocs:C2937,
+        ocs:C4511,
+        ocs:C5298,
+        ocs:C5464,
+        ocs:C5505 .
+

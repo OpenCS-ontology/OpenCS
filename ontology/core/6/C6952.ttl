@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6952 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correlogram> ;
+    skos:prefLabel "Correlogram" ;
+    skos:related ocs:C11096,
+        ocs:C13607,
+        ocs:C14424,
+        ocs:C15614,
+        ocs:C16692,
+        ocs:C21608,
+        ocs:C23563,
+        ocs:C260,
+        ocs:C4515,
+        ocs:C5505,
+        ocs:C836,
+        ocs:C9428,
+        ocs:C9874 .
+

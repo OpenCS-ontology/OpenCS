@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4387 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shift_register_lookup_table> ;
+    skos:prefLabel "Shift register lookup table" ;
+    skos:related ocs:C11047,
+        ocs:C11186,
+        ocs:C11252,
+        ocs:C11613,
+        ocs:C210,
+        ocs:C22530,
+        ocs:C22712,
+        ocs:C24204,
+        ocs:C30085,
+        ocs:C37773,
+        ocs:C4027,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C9487 .
+

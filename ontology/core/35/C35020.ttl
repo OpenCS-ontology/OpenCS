@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35020 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_diversity> ;
+    skos:prefLabel "Time diversity" ;
+    skos:related ocs:C14099,
+        ocs:C15410,
+        ocs:C19721,
+        ocs:C21204,
+        ocs:C21613,
+        ocs:C21929,
+        ocs:C22511,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C24558,
+        ocs:C25458,
+        ocs:C30037,
+        ocs:C32049,
+        ocs:C33606,
+        ocs:C34471,
+        ocs:C35081,
+        ocs:C36733,
+        ocs:C42255,
+        ocs:C43426,
+        ocs:C45136 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9938 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_link> ;
+    skos:prefLabel "Hard link" ;
+    skos:related ocs:C10880,
+        ocs:C1165,
+        ocs:C14271,
+        ocs:C19000,
+        ocs:C22970,
+        ocs:C24871,
+        ocs:C26754,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C3799,
+        ocs:C38346,
+        ocs:C42252,
+        ocs:C43104,
+        ocs:C45497,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C9 .
+

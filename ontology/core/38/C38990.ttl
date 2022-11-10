@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38990 a skos:Concept ;
+    skos:broader ocs:C34506 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vertex_figure> ;
+    skos:prefLabel "Vertex figure" ;
+    skos:related ocs:C22433,
+        ocs:C33802,
+        ocs:C34506,
+        ocs:C38358 .
+

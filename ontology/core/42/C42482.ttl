@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42482 a skos:Concept ;
+    skos:broader ocs:C36407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probability_axioms> ;
+    skos:prefLabel "Probability axioms" ;
+    skos:related ocs:C1844,
+        ocs:C246,
+        ocs:C2726,
+        ocs:C32717,
+        ocs:C41059,
+        ocs:C5032,
+        ocs:C6594,
+        ocs:C6692,
+        ocs:C6909,
+        ocs:C9246 .
+

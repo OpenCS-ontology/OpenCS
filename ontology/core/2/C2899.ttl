@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2899 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Outside–in_software_development> ;
+    skos:prefLabel "Outside–in software development" ;
+    skos:related ocs:C17214,
+        ocs:C18274,
+        ocs:C22004,
+        ocs:C23437,
+        ocs:C24722,
+        ocs:C28,
+        ocs:C3175,
+        ocs:C3463,
+        ocs:C37174,
+        ocs:C38555,
+        ocs:C40422,
+        ocs:C41007,
+        ocs:C41038,
+        ocs:C41437,
+        ocs:C41673,
+        ocs:C4558,
+        ocs:C7168 .
+

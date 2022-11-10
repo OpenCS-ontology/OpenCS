@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2060 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classified_information> ;
+    skos:prefLabel "Classified information" ;
+    skos:related ocs:C12434,
+        ocs:C1331,
+        ocs:C1399,
+        ocs:C1845,
+        ocs:C18977,
+        ocs:C3048,
+        ocs:C3059,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C7113,
+        ocs:C8614 .
+

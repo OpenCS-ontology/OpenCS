@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28421 a skos:Concept ;
+    skos:broader ocs:C3337,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sommerfeld_identity> ;
+    skos:prefLabel "Sommerfeld identity" ;
+    skos:related ocs:C32224,
+        ocs:C43317 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1147 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protective_distribution_system> ;
+    skos:prefLabel "Protective distribution system" ;
+    skos:related ocs:C17669,
+        ocs:C1906,
+        ocs:C2060,
+        ocs:C3,
+        ocs:C30435,
+        ocs:C31109,
+        ocs:C3638,
+        ocs:C43900,
+        ocs:C44740,
+        ocs:C515 .
+

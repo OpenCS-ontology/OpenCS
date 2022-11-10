@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42902 a skos:Concept ;
+    skos:broader ocs:C33773,
+        ocs:C36169 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11g-2003> ;
+    skos:prefLabel "IEEE 802.11g-2003" ;
+    skos:related ocs:C15728,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21424,
+        ocs:C24558,
+        ocs:C26,
+        ocs:C2708,
+        ocs:C31252,
+        ocs:C31489,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C45627,
+        ocs:C45852,
+        ocs:C4665,
+        ocs:C490 .
+

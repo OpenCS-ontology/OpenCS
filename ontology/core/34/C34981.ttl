@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34981 a skos:Concept ;
+    skos:broader ocs:C17654 ;
+    skos:closeMatch <http://dbpedia.org/resource/Method_of_complements> ;
+    skos:prefLabel "Method of complements" ;
+    skos:related ocs:C12262,
+        ocs:C16377,
+        ocs:C17802,
+        ocs:C18607,
+        ocs:C25038,
+        ocs:C26455,
+        ocs:C3730,
+        ocs:C4048 .
+

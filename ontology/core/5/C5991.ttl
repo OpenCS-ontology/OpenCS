@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5991 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_8251> ;
+    skos:prefLabel "Intel 8251" ;
+    skos:related ocs:C10320,
+        ocs:C17404,
+        ocs:C30705,
+        ocs:C3311,
+        ocs:C33174,
+        ocs:C37847,
+        ocs:C41698,
+        ocs:C5557,
+        ocs:C7534,
+        ocs:C9262 .
+

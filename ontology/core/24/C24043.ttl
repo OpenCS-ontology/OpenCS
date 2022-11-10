@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24043 a skos:Concept ;
+    skos:broader ocs:C2369 ;
+    skos:prefLabel "Ct scanners" ;
+    skos:related ocs:C10318,
+        ocs:C10321,
+        ocs:C20298,
+        ocs:C22,
+        ocs:C8499 .
+

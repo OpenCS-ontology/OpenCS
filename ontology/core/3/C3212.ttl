@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3212 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Launch_pad> ;
+    skos:prefLabel "Launch pad" ;
+    skos:related ocs:C1628,
+        ocs:C21936,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C27708,
+        ocs:C3290,
+        ocs:C34143,
+        ocs:C4326,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C9066 .
+

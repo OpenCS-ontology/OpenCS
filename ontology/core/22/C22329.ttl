@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22329 a skos:Concept ;
+    skos:broader ocs:C3232 ;
+    skos:closeMatch <http://dbpedia.org/resource/V-mail> ;
+    skos:prefLabel "V-mail" ;
+    skos:related ocs:C1090,
+        ocs:C11859,
+        ocs:C12755,
+        ocs:C16547,
+        ocs:C26695,
+        ocs:C3077,
+        ocs:C40165,
+        ocs:C4182,
+        ocs:C4218,
+        ocs:C8498 .
+

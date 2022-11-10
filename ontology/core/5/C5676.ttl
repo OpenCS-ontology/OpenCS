@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5676 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Launch_Time> ;
+    skos:prefLabel "Launch Time" ;
+    skos:related ocs:C10135,
+        ocs:C15512,
+        ocs:C16310,
+        ocs:C18213,
+        ocs:C22851,
+        ocs:C23666,
+        ocs:C24323,
+        ocs:C25172,
+        ocs:C27276,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C390,
+        ocs:C39941,
+        ocs:C39947,
+        ocs:C42429,
+        ocs:C44036,
+        ocs:C490,
+        ocs:C6667,
+        ocs:C8298,
+        ocs:C9267 .
+

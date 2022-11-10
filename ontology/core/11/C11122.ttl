@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11122 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/List_of_time_periods> ;
+    skos:prefLabel "Period timing" ;
+    skos:related ocs:C2,
+        ocs:C24 .
+

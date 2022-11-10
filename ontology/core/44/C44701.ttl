@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44701 a skos:Concept ;
+    skos:broader ocs:C30344,
+        ocs:C36816 ;
+    skos:closeMatch <http://dbpedia.org/resource/Behavioral_systems_analysis> ;
+    skos:prefLabel "Behavioral systems analysis" ;
+    skos:related ocs:C10134,
+        ocs:C2947,
+        ocs:C36816,
+        ocs:C609,
+        ocs:C9017,
+        ocs:C9328 .
+

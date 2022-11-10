@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19701 a skos:Concept ;
+    skos:broader ocs:C5201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arrowhead_matrix> ;
+    skos:prefLabel "Arrowhead matrix" ;
+    skos:related ocs:C20860,
+        ocs:C26766,
+        ocs:C34413 .
+

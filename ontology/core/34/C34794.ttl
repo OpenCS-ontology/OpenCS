@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34794 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_logarithm> ;
+    skos:prefLabel "Discrete logarithm" ;
+    skos:related ocs:C10,
+        ocs:C16125,
+        ocs:C21625,
+        ocs:C24353,
+        ocs:C32396,
+        ocs:C32484,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C38359,
+        ocs:C4218,
+        ocs:C8660 .
+

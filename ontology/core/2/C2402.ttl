@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2402 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primitive_recursive_arithmetic> ;
+    skos:prefLabel "Primitive recursive arithmetic" ;
+    skos:related ocs:C11060,
+        ocs:C11286,
+        ocs:C12474,
+        ocs:C1330,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C26402,
+        ocs:C26635,
+        ocs:C2727,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C32546,
+        ocs:C33304,
+        ocs:C39446,
+        ocs:C42948,
+        ocs:C44771 .
+

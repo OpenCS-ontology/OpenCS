@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41178 a skos:Concept ;
+    skos:broader ocs:C35661,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schatten_norm> ;
+    skos:prefLabel "Schatten norm" ;
+    skos:related ocs:C19125,
+        ocs:C23786,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30725,
+        ocs:C33187,
+        ocs:C34336,
+        ocs:C36808,
+        ocs:C38409,
+        ocs:C39124,
+        ocs:C39549,
+        ocs:C40662,
+        ocs:C43500,
+        ocs:C45795 .
+

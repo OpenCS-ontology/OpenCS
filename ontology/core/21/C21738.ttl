@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21738 a skos:Concept ;
+    skos:broader ocs:C11932,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C2025 ;
+    skos:prefLabel "Muskogean language" ;
+    skos:related ocs:C11932,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C25849,
+        ocs:C308 .
+

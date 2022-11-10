@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36475 a skos:Concept ;
+    skos:broader ocs:C20540,
+        ocs:C29359 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neighbor_Discovery_Protocol> ;
+    skos:prefLabel "Neighbor Discovery Protocol" ;
+    skos:related ocs:C18213,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C23965,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C29798,
+        ocs:C33957,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C37995,
+        ocs:C38848,
+        ocs:C41849,
+        ocs:C42706,
+        ocs:C43015,
+        ocs:C44571,
+        ocs:C5207,
+        ocs:C8614 .
+

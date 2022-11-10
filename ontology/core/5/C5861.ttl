@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5861 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schedule> ;
+    skos:prefLabel "Schedule" ;
+    skos:related ocs:C10052,
+        ocs:C13143,
+        ocs:C1396,
+        ocs:C20086,
+        ocs:C20809,
+        ocs:C2353,
+        ocs:C25147,
+        ocs:C30932,
+        ocs:C37935,
+        ocs:C3837,
+        ocs:C40272,
+        ocs:C5912,
+        ocs:C8944 .
+

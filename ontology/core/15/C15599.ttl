@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15599 a skos:Concept ;
+    skos:broader ocs:C5292 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_(music)> ;
+    skos:prefLabel "Key (music)" ;
+    skos:related ocs:C22486,
+        ocs:C35937,
+        ocs:C37068,
+        ocs:C38381 .
+

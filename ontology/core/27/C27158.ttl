@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27158 a skos:Concept ;
+    skos:broader ocs:C12693,
+        ocs:C5974,
+        ocs:C6594,
+        ocs:C6909 ;
+    skos:prefLabel "Stochastic process algebra" .
+

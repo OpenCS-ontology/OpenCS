@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25063 a skos:Concept ;
+    skos:broader ocs:C1832 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moyal_product> ;
+    skos:prefLabel "Moyal product" ;
+    skos:related ocs:C23485,
+        ocs:C28787,
+        ocs:C39459 .
+

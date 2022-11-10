@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C412 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Private_information_retrieval> ;
+    skos:prefLabel "Private information retrieval" ;
+    skos:related ocs:C13271,
+        ocs:C14164,
+        ocs:C16026,
+        ocs:C18621,
+        ocs:C21093,
+        ocs:C21284,
+        ocs:C22263,
+        ocs:C23073,
+        ocs:C28347,
+        ocs:C29841,
+        ocs:C32288,
+        ocs:C35008,
+        ocs:C41495,
+        ocs:C41626,
+        ocs:C4218,
+        ocs:C44466,
+        ocs:C45207,
+        ocs:C7506,
+        ocs:C7940 .
+

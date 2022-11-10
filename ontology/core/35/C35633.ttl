@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35633 a skos:Concept ;
+    skos:broader ocs:C22413 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kernel_regression> ;
+    skos:prefLabel "Kernel regression" ;
+    skos:related ocs:C1089,
+        ocs:C17724,
+        ocs:C1938,
+        ocs:C20050,
+        ocs:C22413,
+        ocs:C27660,
+        ocs:C39127,
+        ocs:C43444,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C9326,
+        ocs:C9594 .
+

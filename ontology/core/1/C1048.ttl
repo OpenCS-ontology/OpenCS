@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1048 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stat_(system_call)> ;
+    skos:prefLabel "stat" ;
+    skos:related ocs:C1165,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C24871,
+        ocs:C26754,
+        ocs:C27120,
+        ocs:C31489,
+        ocs:C39241,
+        ocs:C39279,
+        ocs:C42619,
+        ocs:C43822,
+        ocs:C45497,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9938 .
+

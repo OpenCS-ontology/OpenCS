@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8462 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gabbay's_separation_theorem> ;
+    skos:prefLabel "Gabbay's separation theorem" ;
+    skos:related ocs:C1,
+        ocs:C10479,
+        ocs:C10825,
+        ocs:C11647,
+        ocs:C12346,
+        ocs:C12739,
+        ocs:C13697,
+        ocs:C29948,
+        ocs:C38308,
+        ocs:C42583,
+        ocs:C43371,
+        ocs:C44884,
+        ocs:C6003,
+        ocs:C6668 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16635 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545,
+        ocs:C9533 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dative_shift> ;
+    skos:prefLabel "Dative shift" ;
+    skos:related ocs:C12270,
+        ocs:C1451,
+        ocs:C15202,
+        ocs:C16672,
+        ocs:C16989,
+        ocs:C1739,
+        ocs:C21795,
+        ocs:C22962,
+        ocs:C23300,
+        ocs:C26884,
+        ocs:C30451,
+        ocs:C30931,
+        ocs:C37038,
+        ocs:C5311,
+        ocs:C6545,
+        ocs:C9533 .
+

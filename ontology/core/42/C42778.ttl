@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42778 a skos:Concept ;
+    skos:broader ocs:C32049,
+        ocs:C35138,
+        ocs:C35925 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual_code> ;
+    skos:prefLabel "Dual code" ;
+    skos:related ocs:C18626,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C3002,
+        ocs:C32510,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C35925,
+        ocs:C39891,
+        ocs:C40267,
+        ocs:C42003,
+        ocs:C43048,
+        ocs:C43745,
+        ocs:C43991,
+        ocs:C44265,
+        ocs:C45024,
+        ocs:C5196 .
+

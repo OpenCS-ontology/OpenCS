@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42277 a skos:Concept ;
+    skos:broader ocs:C31455,
+        ocs:C33416,
+        ocs:C34584,
+        ocs:C35839,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hash_buster> ;
+    skos:prefLabel "Hash buster" ;
+    skos:related ocs:C13302,
+        ocs:C17567,
+        ocs:C18986,
+        ocs:C23875,
+        ocs:C24903,
+        ocs:C26456,
+        ocs:C28603,
+        ocs:C316,
+        ocs:C31805,
+        ocs:C32077,
+        ocs:C37829,
+        ocs:C38863,
+        ocs:C3936,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C44519,
+        ocs:C5522,
+        ocs:C9895 .
+

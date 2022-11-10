@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18621 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oblivious_transfer> ;
+    skos:prefLabel "Oblivious transfer" ;
+    skos:related ocs:C14164,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C22263,
+        ocs:C23073,
+        ocs:C23855,
+        ocs:C36006,
+        ocs:C36434,
+        ocs:C37205,
+        ocs:C412,
+        ocs:C4218,
+        ocs:C7506,
+        ocs:C9449 .
+

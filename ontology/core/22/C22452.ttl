@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22452 a skos:Concept ;
+    skos:broader ocs:C12262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed-point_arithmetic> ;
+    skos:prefLabel "Fixed-point arithmetic" ;
+    skos:related ocs:C10320,
+        ocs:C11047,
+        ocs:C11814,
+        ocs:C12262,
+        ocs:C16377,
+        ocs:C19,
+        ocs:C21384,
+        ocs:C22525,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C28063,
+        ocs:C31030,
+        ocs:C4816,
+        ocs:C856,
+        ocs:C8581 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6455 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_Parallel_Sysplex> ;
+    skos:prefLabel "IBM Parallel Sysplex" ;
+    skos:related ocs:C10320,
+        ocs:C10496,
+        ocs:C11207,
+        ocs:C11258,
+        ocs:C13372,
+        ocs:C13550,
+        ocs:C28515,
+        ocs:C31489,
+        ocs:C36502,
+        ocs:C36897,
+        ocs:C40330,
+        ocs:C42662,
+        ocs:C45518,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9850 .
+

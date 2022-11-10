@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35903 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C19339,
+        ocs:C20206,
+        ocs:C23077,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metallicity_distribution_function> ;
+    skos:prefLabel "Metallicity distribution function" .
+

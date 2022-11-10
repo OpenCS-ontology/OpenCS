@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C743 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wildcard_(Java)> ;
+    skos:prefLabel "Wildcard" ;
+    skos:related ocs:C10608,
+        ocs:C10720,
+        ocs:C11333,
+        ocs:C12057,
+        ocs:C14548,
+        ocs:C16588,
+        ocs:C23693,
+        ocs:C26714,
+        ocs:C41633,
+        ocs:C44845 .
+

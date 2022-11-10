@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17757 a skos:Concept ;
+    skos:broader ocs:C11701,
+        ocs:C3744,
+        ocs:C4216,
+        ocs:C7056 ;
+    skos:prefLabel "Monotonic optimization" .
+

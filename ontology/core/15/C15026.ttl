@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15026 a skos:Concept ;
+    skos:broader ocs:C10974 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-standard_television> ;
+    skos:prefLabel "Multi-standard television" ;
+    skos:related ocs:C12430,
+        ocs:C12544,
+        ocs:C14556,
+        ocs:C15700,
+        ocs:C18701,
+        ocs:C27086,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C43007,
+        ocs:C4461,
+        ocs:C6349,
+        ocs:C9045 .
+

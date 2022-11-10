@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8969 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_mapping> ;
+    skos:prefLabel "Color mapping" ;
+    skos:related ocs:C13065,
+        ocs:C13142,
+        ocs:C14695,
+        ocs:C14863,
+        ocs:C16423,
+        ocs:C24211,
+        ocs:C26688,
+        ocs:C29175,
+        ocs:C31013,
+        ocs:C31308,
+        ocs:C34424,
+        ocs:C38432,
+        ocs:C41132,
+        ocs:C41977,
+        ocs:C5310,
+        ocs:C6942,
+        ocs:C7,
+        ocs:C8021 .
+

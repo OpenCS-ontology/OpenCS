@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31631 a skos:Concept ;
+    skos:broader ocs:C18973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_aging> ;
+    skos:prefLabel "Software aging" ;
+    skos:related ocs:C1,
+        ocs:C10214,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C1253,
+        ocs:C17235,
+        ocs:C23580,
+        ocs:C25960,
+        ocs:C2766,
+        ocs:C28,
+        ocs:C28881,
+        ocs:C33492,
+        ocs:C35202,
+        ocs:C37844,
+        ocs:C5041,
+        ocs:C6072,
+        ocs:C8782,
+        ocs:C9 .
+

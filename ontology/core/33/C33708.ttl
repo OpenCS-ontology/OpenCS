@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33708 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marcum_Q-function> ;
+    skos:prefLabel "Marcum Q-function" ;
+    skos:related ocs:C13262,
+        ocs:C21378,
+        ocs:C22092,
+        ocs:C25862,
+        ocs:C275,
+        ocs:C30858,
+        ocs:C39273 .
+

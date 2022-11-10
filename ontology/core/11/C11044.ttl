@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11044 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_correction> ;
+    skos:prefLabel "Color correction" ;
+    skos:related ocs:C10993,
+        ocs:C11670,
+        ocs:C12484,
+        ocs:C12580,
+        ocs:C13095,
+        ocs:C21360,
+        ocs:C21415,
+        ocs:C30704,
+        ocs:C38868,
+        ocs:C42852 .
+

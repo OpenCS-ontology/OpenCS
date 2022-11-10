@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34136 a skos:Concept ;
+    skos:broader ocs:C19345,
+        ocs:C20000 ;
+    skos:closeMatch <http://dbpedia.org/resource/Option_type> ;
+    skos:prefLabel "Option type" ;
+    skos:related ocs:C1083,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C20000,
+        ocs:C22266,
+        ocs:C27380,
+        ocs:C29467,
+        ocs:C4658,
+        ocs:C6941,
+        ocs:C7825,
+        ocs:C794,
+        ocs:C8174,
+        ocs:C9023,
+        ocs:C9985 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25876 a skos:Concept ;
+    skos:broader ocs:C6753 ;
+    skos:prefLabel "Patient confidentiality" ;
+    skos:related ocs:C17,
+        ocs:C197,
+        ocs:C28789,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8614 .
+

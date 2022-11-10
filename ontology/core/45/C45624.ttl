@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45624 a skos:Concept ;
+    skos:broader ocs:C37233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_tracer> ;
+    skos:prefLabel "Signal tracer" ;
+    skos:related ocs:C10103,
+        ocs:C14698,
+        ocs:C18001,
+        ocs:C26210,
+        ocs:C9288 .
+

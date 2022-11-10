@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36374 a skos:Concept ;
+    skos:broader ocs:C20003 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffusion_map> ;
+    skos:prefLabel "Diffusion map" ;
+    skos:related ocs:C1306,
+        ocs:C20003,
+        ocs:C2801,
+        ocs:C29204,
+        ocs:C29574,
+        ocs:C30532,
+        ocs:C30566,
+        ocs:C31554,
+        ocs:C31695,
+        ocs:C35079,
+        ocs:C3512,
+        ocs:C36145,
+        ocs:C4256,
+        ocs:C6912,
+        ocs:C9538 .
+

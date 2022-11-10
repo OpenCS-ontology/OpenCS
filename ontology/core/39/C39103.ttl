@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39103 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tertiary_color> ;
+    skos:prefLabel "Tertiary color" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C15310,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C2074,
+        ocs:C32992,
+        ocs:C42852,
+        ocs:C45041,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099,
+        ocs:C966 .
+

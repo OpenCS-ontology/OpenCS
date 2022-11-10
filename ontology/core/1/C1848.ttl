@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1848 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_standard> ;
+    skos:prefLabel "International standard" ;
+    skos:related ocs:C11886,
+        ocs:C11927,
+        ocs:C12317,
+        ocs:C13144,
+        ocs:C18247,
+        ocs:C21747,
+        ocs:C699,
+        ocs:C8437,
+        ocs:C9375 .
+

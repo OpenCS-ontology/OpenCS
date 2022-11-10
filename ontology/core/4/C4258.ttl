@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4258 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diplexer> ;
+    skos:prefLabel "Diplexer" ;
+    skos:related ocs:C10974,
+        ocs:C1219,
+        ocs:C15505,
+        ocs:C27572,
+        ocs:C31899,
+        ocs:C32554,
+        ocs:C36807,
+        ocs:C44963,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C915 .
+

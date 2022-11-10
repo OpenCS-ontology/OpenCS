@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32878 a skos:Concept ;
+    skos:broader ocs:C15253,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flow_shop_scheduling> ;
+    skos:prefLabel "Flow shop scheduling" ;
+    skos:related ocs:C11372,
+        ocs:C15253,
+        ocs:C2353,
+        ocs:C28283,
+        ocs:C37820,
+        ocs:C38119,
+        ocs:C38680,
+        ocs:C39021,
+        ocs:C39986,
+        ocs:C40787,
+        ocs:C41966,
+        ocs:C44169,
+        ocs:C45029,
+        ocs:C5861,
+        ocs:C7397,
+        ocs:C8,
+        ocs:C8704,
+        ocs:C8944 .
+

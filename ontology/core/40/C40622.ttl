@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40622 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nowhere-zero_flow> ;
+    skos:prefLabel "Nowhere-zero flow" ;
+    skos:related ocs:C14693,
+        ocs:C14894,
+        ocs:C26989,
+        ocs:C32757,
+        ocs:C33699,
+        ocs:C37036,
+        ocs:C38545,
+        ocs:C38853,
+        ocs:C39190,
+        ocs:C39401,
+        ocs:C40165,
+        ocs:C40314,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C42764,
+        ocs:C44295,
+        ocs:C45225,
+        ocs:C45361,
+        ocs:C45422 .
+

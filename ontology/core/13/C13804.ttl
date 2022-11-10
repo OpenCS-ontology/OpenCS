@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13804 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lorcon> ;
+    skos:prefLabel "lorcon" ;
+    skos:related ocs:C13307,
+        ocs:C15865,
+        ocs:C24000,
+        ocs:C2708,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C38184,
+        ocs:C38362,
+        ocs:C38784,
+        ocs:C39020,
+        ocs:C41837,
+        ocs:C43449,
+        ocs:C44253,
+        ocs:C45456,
+        ocs:C45627,
+        ocs:C45852,
+        ocs:C4665 .
+

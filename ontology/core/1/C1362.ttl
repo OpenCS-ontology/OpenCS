@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1362 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C26 ;
+    skos:prefLabel "Multiple aggregation" ;
+    skos:related ocs:C10,
+        ocs:C16666,
+        ocs:C2014,
+        ocs:C25,
+        ocs:C27263,
+        ocs:C30,
+        ocs:C33,
+        ocs:C5722,
+        ocs:C6116,
+        ocs:C6288 .
+

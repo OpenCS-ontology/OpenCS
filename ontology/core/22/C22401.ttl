@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22401 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scheffé's_method> ;
+    skos:prefLabel "Scheffé's method" ;
+    skos:related ocs:C11767,
+        ocs:C13367,
+        ocs:C15258,
+        ocs:C19752,
+        ocs:C20615,
+        ocs:C23554,
+        ocs:C23847,
+        ocs:C24855,
+        ocs:C25711,
+        ocs:C25754,
+        ocs:C27702,
+        ocs:C30081 .
+

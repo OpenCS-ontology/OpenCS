@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23108 a skos:Concept ;
+    skos:broader ocs:C12510,
+        ocs:C7510 ;
+    skos:closeMatch <http://dbpedia.org/resource/K-anonymity> ;
+    skos:prefLabel "k-anonymity" ;
+    skos:related ocs:C12378,
+        ocs:C12510,
+        ocs:C25527,
+        ocs:C27255,
+        ocs:C35814,
+        ocs:C36117,
+        ocs:C3678,
+        ocs:C40538,
+        ocs:C7161,
+        ocs:C7215 .
+

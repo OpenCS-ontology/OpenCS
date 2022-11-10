@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18235 a skos:Concept ;
+    skos:broader ocs:C10568,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Host_protected_area> ;
+    skos:prefLabel "Host protected area" ;
+    skos:related ocs:C10269,
+        ocs:C10568,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C15529,
+        ocs:C2054,
+        ocs:C22904,
+        ocs:C22957,
+        ocs:C30953,
+        ocs:C31489,
+        ocs:C33255,
+        ocs:C4881,
+        ocs:C6536,
+        ocs:C9 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45359 a skos:Concept ;
+    skos:broader ocs:C32264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rustock_botnet> ;
+    skos:prefLabel "Rustock botnet" ;
+    skos:related ocs:C16481,
+        ocs:C17046,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C18986,
+        ocs:C24903,
+        ocs:C2941,
+        ocs:C29803,
+        ocs:C32264,
+        ocs:C35,
+        ocs:C41323,
+        ocs:C44734,
+        ocs:C45004,
+        ocs:C45546,
+        ocs:C4715,
+        ocs:C4977,
+        ocs:C6286 .
+

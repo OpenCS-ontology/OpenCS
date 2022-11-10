@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20899 a skos:Concept ;
+    skos:broader ocs:C11128,
+        ocs:C1142,
+        ocs:C1386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jython> ;
+    skos:prefLabel "Jython" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C12810,
+        ocs:C1386,
+        ocs:C15848,
+        ocs:C19,
+        ocs:C23863,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C28944,
+        ocs:C35502,
+        ocs:C39149,
+        ocs:C42633,
+        ocs:C4918,
+        ocs:C5034 .
+

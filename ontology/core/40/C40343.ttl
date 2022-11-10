@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40343 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-level_verification> ;
+    skos:prefLabel "High-level verification" ;
+    skos:related ocs:C1024,
+        ocs:C1097,
+        ocs:C19400,
+        ocs:C20745,
+        ocs:C21321,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27118,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C29412,
+        ocs:C30044,
+        ocs:C31559,
+        ocs:C37773,
+        ocs:C7165,
+        ocs:C7903 .
+

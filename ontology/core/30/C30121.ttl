@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30121 a skos:Concept ;
+    skos:broader ocs:C16672 ;
+    skos:closeMatch <http://dbpedia.org/resource/VO_language> ;
+    skos:prefLabel "VO language" ;
+    skos:related ocs:C11932,
+        ocs:C13868,
+        ocs:C14181,
+        ocs:C15012,
+        ocs:C15647,
+        ocs:C18845,
+        ocs:C23232,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C29705,
+        ocs:C3261,
+        ocs:C33168,
+        ocs:C33781,
+        ocs:C36693,
+        ocs:C4587,
+        ocs:C6545,
+        ocs:C6764 .
+

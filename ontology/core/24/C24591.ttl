@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24591 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dominator_(graph_theory)> ;
+    skos:prefLabel "Dominator" ;
+    skos:related ocs:C1,
+        ocs:C1083,
+        ocs:C18272,
+        ocs:C18617,
+        ocs:C21201,
+        ocs:C22987,
+        ocs:C23665,
+        ocs:C25139,
+        ocs:C27080,
+        ocs:C29056,
+        ocs:C29708,
+        ocs:C3448,
+        ocs:C38162,
+        ocs:C4321,
+        ocs:C45212,
+        ocs:C45488,
+        ocs:C7465 .
+

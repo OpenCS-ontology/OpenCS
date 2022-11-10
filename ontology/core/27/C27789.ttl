@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27789 a skos:Concept ;
+    skos:broader ocs:C11128 ;
+    skos:prefLabel "Indian python" ;
+    skos:related ocs:C26595,
+        ocs:C26649,
+        ocs:C35683 .
+

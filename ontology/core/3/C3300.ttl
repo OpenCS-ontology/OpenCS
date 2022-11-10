@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3300 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flat_Display_Mounting_Interface> ;
+    skos:prefLabel "Flat Display Mounting Interface" ;
+    skos:related ocs:C10002,
+        ocs:C13586,
+        ocs:C13725,
+        ocs:C21410,
+        ocs:C22257,
+        ocs:C24972,
+        ocs:C26526,
+        ocs:C31249,
+        ocs:C3257,
+        ocs:C32920,
+        ocs:C34150,
+        ocs:C35507,
+        ocs:C4610,
+        ocs:C5359,
+        ocs:C653 .
+

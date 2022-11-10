@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18302 a skos:Concept ;
+    skos:broader ocs:C1134 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heuristic_(computer_science)> ;
+    skos:prefLabel "Heuristic (computer science)" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10390,
+        ocs:C1134,
+        ocs:C11372,
+        ocs:C13208,
+        ocs:C13317,
+        ocs:C1446,
+        ocs:C23250,
+        ocs:C25,
+        ocs:C3339,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C40081,
+        ocs:C7397,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C8,
+        ocs:C8660 .
+

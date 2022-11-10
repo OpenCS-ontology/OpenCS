@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16914 a skos:Concept ;
+    skos:broader ocs:C2409,
+        ocs:C4199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphics_software> ;
+    skos:prefLabel "Graphics software" ;
+    skos:related ocs:C1023,
+        ocs:C11531,
+        ocs:C1253,
+        ocs:C13155,
+        ocs:C20066,
+        ocs:C2135,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C2366,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C41932,
+        ocs:C4584,
+        ocs:C5702,
+        ocs:C797,
+        ocs:C9 .
+

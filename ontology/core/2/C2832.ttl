@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2832 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Freeform (shape)" ;
+    skos:related ocs:C11189,
+        ocs:C11689,
+        ocs:C11887,
+        ocs:C12976,
+        ocs:C18,
+        ocs:C22,
+        ocs:C7,
+        ocs:C7170,
+        ocs:C7736 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12655 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poem_code> ;
+    skos:prefLabel "Poem code" ;
+    skos:related ocs:C13281,
+        ocs:C14539,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C19615,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30538,
+        ocs:C35176,
+        ocs:C35455,
+        ocs:C39582,
+        ocs:C40558,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C481,
+        ocs:C6724,
+        ocs:C7567 .
+

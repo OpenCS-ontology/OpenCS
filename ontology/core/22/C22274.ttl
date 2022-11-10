@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22274 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Return_loss> ;
+    skos:prefLabel "Return loss" ;
+    skos:related ocs:C1219,
+        ocs:C22702,
+        ocs:C3,
+        ocs:C36281,
+        ocs:C40720,
+        ocs:C5853,
+        ocs:C6913,
+        ocs:C8436,
+        ocs:C9371 .
+

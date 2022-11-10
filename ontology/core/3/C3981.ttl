@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3981 a skos:Concept ;
+    skos:broader ocs:C15,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Task_parallelism> ;
+    skos:prefLabel "Task parallelism" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C17626,
+        ocs:C17693,
+        ocs:C2353,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C33921,
+        ocs:C36373,
+        ocs:C39342,
+        ocs:C5766,
+        ocs:C7735,
+        ocs:C9872 .
+

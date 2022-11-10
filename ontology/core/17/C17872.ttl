@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17872 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chirp_spectrum> ;
+    skos:prefLabel "Chirp spectrum" ;
+    skos:related ocs:C10554,
+        ocs:C11443,
+        ocs:C1449,
+        ocs:C20514,
+        ocs:C2168,
+        ocs:C2196,
+        ocs:C43805,
+        ocs:C5042,
+        ocs:C5769 .
+

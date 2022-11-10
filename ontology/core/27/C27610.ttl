@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27610 a skos:Concept ;
+    skos:broader ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPU_cache> ;
+    skos:prefLabel "CPU cache" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C22525,
+        ocs:C23864,
+        ocs:C3118,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C39623,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C8706,
+        ocs:C9 .
+

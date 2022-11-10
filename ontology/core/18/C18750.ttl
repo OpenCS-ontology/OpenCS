@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18750 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C12812,
+        ocs:C7106,
+        ocs:C8704,
+        ocs:C9179,
+        ocs:C9540 ;
+    skos:prefLabel "Weighted least connection" .
+

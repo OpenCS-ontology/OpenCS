@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40604 a skos:Concept ;
+    skos:broader ocs:C33988 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linux_Security_Modules> ;
+    skos:prefLabel "Linux Security Modules" ;
+    skos:related ocs:C1042,
+        ocs:C14271,
+        ocs:C17669,
+        ocs:C19557,
+        ocs:C20800,
+        ocs:C27449,
+        ocs:C31489,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35388,
+        ocs:C36897,
+        ocs:C38346,
+        ocs:C39654,
+        ocs:C43345,
+        ocs:C43822,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9442 .
+

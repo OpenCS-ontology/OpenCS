@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9224 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network-centric_warfare> ;
+    skos:prefLabel "Network-centric warfare" ;
+    skos:related ocs:C10191,
+        ocs:C11382,
+        ocs:C1502,
+        ocs:C16536,
+        ocs:C2139,
+        ocs:C41641,
+        ocs:C4754,
+        ocs:C5247,
+        ocs:C5252,
+        ocs:C7355,
+        ocs:C8458 .
+

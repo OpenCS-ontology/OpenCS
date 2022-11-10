@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C679 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geniac> ;
+    skos:prefLabel "Geniac" ;
+    skos:related ocs:C10320,
+        ocs:C11252,
+        ocs:C19673,
+        ocs:C23270,
+        ocs:C3894,
+        ocs:C39850,
+        ocs:C4259,
+        ocs:C4703,
+        ocs:C8791,
+        ocs:C9381,
+        ocs:C9908 .
+

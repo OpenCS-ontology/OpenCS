@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7673 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zebra_patterning> ;
+    skos:prefLabel "Zebra patterning" ;
+    skos:related ocs:C11324,
+        ocs:C13065,
+        ocs:C13509,
+        ocs:C1394,
+        ocs:C19157,
+        ocs:C20961,
+        ocs:C2722,
+        ocs:C29365,
+        ocs:C33917,
+        ocs:C45860,
+        ocs:C6041,
+        ocs:C6075,
+        ocs:C6223,
+        ocs:C8021,
+        ocs:C9703 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42913 a skos:Concept ;
+    skos:broader ocs:C33053,
+        ocs:C35315,
+        ocs:C37268 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scyllatoxin> ;
+    skos:prefLabel "Scyllatoxin" ;
+    skos:related ocs:C32749,
+        ocs:C33053,
+        ocs:C35315,
+        ocs:C36335,
+        ocs:C37268,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C44461,
+        ocs:C45220 .
+

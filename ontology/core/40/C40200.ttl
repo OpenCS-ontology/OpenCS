@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40200 a skos:Concept ;
+    skos:broader ocs:C30690,
+        ocs:C35731,
+        ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Joint_(audio_engineering)> ;
+    skos:prefLabel "Joint (audio engineering)" ;
+    skos:related ocs:C12152,
+        ocs:C15505,
+        ocs:C1568,
+        ocs:C19334,
+        ocs:C25195,
+        ocs:C26268,
+        ocs:C26575,
+        ocs:C2937,
+        ocs:C31114,
+        ocs:C31899,
+        ocs:C34697,
+        ocs:C40311,
+        ocs:C6081,
+        ocs:C9250,
+        ocs:C9481 .
+

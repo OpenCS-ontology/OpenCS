@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30525 a skos:Concept ;
+    skos:broader ocs:C17386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Einstein@Home> ;
+    skos:prefLabel "Einstein@Home" ;
+    skos:related ocs:C12475,
+        ocs:C17386,
+        ocs:C25618,
+        ocs:C27188,
+        ocs:C29724,
+        ocs:C30,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C36773,
+        ocs:C597,
+        ocs:C7735 .
+

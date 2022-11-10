@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33124 a skos:Concept ;
+    skos:broader ocs:C20400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Converging_Technologies_for_Improving_Human_Performance> ;
+    skos:prefLabel "Converging Technologies for Improving Human Performance" ;
+    skos:related ocs:C11938,
+        ocs:C197,
+        ocs:C20400,
+        ocs:C8 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C515 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communications_system> ;
+    skos:prefLabel "Communications system" ;
+    skos:related ocs:C12307,
+        ocs:C14053,
+        ocs:C16678,
+        ocs:C1727,
+        ocs:C25293,
+        ocs:C2582,
+        ocs:C26,
+        ocs:C3,
+        ocs:C3236,
+        ocs:C35301,
+        ocs:C4099,
+        ocs:C7159,
+        ocs:C7502 .
+

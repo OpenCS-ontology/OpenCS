@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37079 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Molecular_graph> ;
+    skos:prefLabel "Molecular graph" ;
+    skos:related ocs:C14693,
+        ocs:C18627,
+        ocs:C31311,
+        ocs:C34498,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C42271,
+        ocs:C43181 .
+

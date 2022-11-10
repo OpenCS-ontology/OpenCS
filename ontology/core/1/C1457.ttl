@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1457 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_image_pipeline> ;
+    skos:prefLabel "Color image pipeline" ;
+    skos:related ocs:C12580,
+        ocs:C13747,
+        ocs:C13970,
+        ocs:C1449,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C20961,
+        ocs:C22623,
+        ocs:C27,
+        ocs:C27086,
+        ocs:C2937,
+        ocs:C3231,
+        ocs:C38815,
+        ocs:C5336,
+        ocs:C6942,
+        ocs:C740 .
+

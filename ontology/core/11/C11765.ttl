@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11765 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_learning_(social_pedagogy)> ;
+    skos:prefLabel "Social learning" ;
+    skos:related ocs:C10669,
+        ocs:C12148,
+        ocs:C17471,
+        ocs:C25037,
+        ocs:C25192,
+        ocs:C28055 .
+

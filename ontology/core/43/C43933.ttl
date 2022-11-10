@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43933 a skos:Concept ;
+    skos:broader ocs:C32746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Erdős–Szekeres_theorem> ;
+    skos:prefLabel "Erdős–Szekeres theorem" ;
+    skos:related ocs:C16150,
+        ocs:C19336,
+        ocs:C20376,
+        ocs:C22897,
+        ocs:C28070,
+        ocs:C32746,
+        ocs:C40398,
+        ocs:C41484,
+        ocs:C43906 .
+

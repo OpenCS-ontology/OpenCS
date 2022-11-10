@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34391 a skos:Concept ;
+    skos:broader ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_information_management> ;
+    skos:prefLabel "Personal information management" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C11682,
+        ocs:C12,
+        ocs:C13003,
+        ocs:C18,
+        ocs:C23,
+        ocs:C25192,
+        ocs:C28801,
+        ocs:C2980,
+        ocs:C31489,
+        ocs:C41776,
+        ocs:C44557,
+        ocs:C672,
+        ocs:C6944,
+        ocs:C851 .
+

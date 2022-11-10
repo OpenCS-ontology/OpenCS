@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24190 a skos:Concept ;
+    skos:broader ocs:C12690,
+        ocs:C8704,
+        ocs:C9486 ;
+    skos:closeMatch <http://dbpedia.org/resource/TILEPro64> ;
+    skos:prefLabel "TILEPro64" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C19487,
+        ocs:C25171,
+        ocs:C25546,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C36673,
+        ocs:C39621,
+        ocs:C43124,
+        ocs:C43505,
+        ocs:C5625,
+        ocs:C7075,
+        ocs:C856,
+        ocs:C9542 .
+

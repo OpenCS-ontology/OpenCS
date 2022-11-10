@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3795 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaboratory> ;
+    skos:prefLabel "Collaboratory" ;
+    skos:related ocs:C1,
+        ocs:C11682,
+        ocs:C12,
+        ocs:C1356,
+        ocs:C18,
+        ocs:C22668,
+        ocs:C25121,
+        ocs:C34391,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C3896,
+        ocs:C4094,
+        ocs:C420,
+        ocs:C4292,
+        ocs:C8,
+        ocs:C8614 .
+

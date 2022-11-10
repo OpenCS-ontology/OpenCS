@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41585 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dense_graph> ;
+    skos:prefLabel "Dense graph" ;
+    skos:related ocs:C14693,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C30245,
+        ocs:C30730,
+        ocs:C31847,
+        ocs:C31884,
+        ocs:C32333,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38243,
+        ocs:C38962,
+        ocs:C40694,
+        ocs:C41137,
+        ocs:C41731,
+        ocs:C43374,
+        ocs:C44762,
+        ocs:C6335,
+        ocs:C8660 .
+

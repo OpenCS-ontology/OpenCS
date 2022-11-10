@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5512 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Association_rule_learning> ;
+    skos:prefLabel "Association rule learning" ;
+    skos:related ocs:C10,
+        ocs:C10382,
+        ocs:C11030,
+        ocs:C12206,
+        ocs:C13,
+        ocs:C16947,
+        ocs:C17893,
+        ocs:C2005,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25520,
+        ocs:C33804,
+        ocs:C34006,
+        ocs:C5401,
+        ocs:C6021,
+        ocs:C6116,
+        ocs:C7652,
+        ocs:C77,
+        ocs:C9022,
+        ocs:C9488 .
+

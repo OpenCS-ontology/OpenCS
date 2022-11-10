@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41095 a skos:Concept ;
+    skos:broader ocs:C32031,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carpenter's_rule_problem> ;
+    skos:prefLabel "Carpenter's rule problem" ;
+    skos:related ocs:C16532,
+        ocs:C23440,
+        ocs:C31847,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C37589,
+        ocs:C43646,
+        ocs:C43811 .
+

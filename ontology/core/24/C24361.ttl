@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24361 a skos:Concept ;
+    skos:broader ocs:C11960,
+        ocs:C3393,
+        ocs:C9426 ;
+    skos:prefLabel "Serial storage architecture" .
+

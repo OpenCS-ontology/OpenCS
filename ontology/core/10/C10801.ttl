@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10801 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encyclopedia> ;
+    skos:prefLabel "Encyclopedia" ;
+    skos:related ocs:C31,
+        ocs:C4916,
+        ocs:C5746,
+        ocs:C8614 .
+

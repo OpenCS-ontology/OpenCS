@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24589 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C5659,
+        ocs:C912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heronian_mean> ;
+    skos:prefLabel "Heronian mean" ;
+    skos:related ocs:C27442,
+        ocs:C27701 .
+

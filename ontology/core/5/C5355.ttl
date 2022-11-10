@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5355 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instant_answer> ;
+    skos:prefLabel "Instant answer" ;
+    skos:related ocs:C11089,
+        ocs:C11888,
+        ocs:C12555,
+        ocs:C28136,
+        ocs:C34208,
+        ocs:C3587,
+        ocs:C38459,
+        ocs:C40049,
+        ocs:C428,
+        ocs:C4450,
+        ocs:C5675,
+        ocs:C811 .
+

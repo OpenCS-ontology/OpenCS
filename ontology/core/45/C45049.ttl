@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45049 a skos:Concept ;
+    skos:broader ocs:C35707 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acyclic_dependencies_principle> ;
+    skos:prefLabel "Acyclic dependencies principle" ;
+    skos:related ocs:C14405,
+        ocs:C15414,
+        ocs:C22259,
+        ocs:C30036,
+        ocs:C30799,
+        ocs:C34078,
+        ocs:C3729,
+        ocs:C6761 .
+

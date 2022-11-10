@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27995 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Source_Physics> ;
+    skos:prefLabel "Open Source Physics" ;
+    skos:related ocs:C10997,
+        ocs:C13260,
+        ocs:C15307,
+        ocs:C18367,
+        ocs:C24,
+        ocs:C38438,
+        ocs:C5300,
+        ocs:C7256,
+        ocs:C9088,
+        ocs:C9204 .
+

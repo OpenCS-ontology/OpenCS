@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36834 a skos:Concept ;
+    skos:broader ocs:C17246 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_standard_of_rest> ;
+    skos:prefLabel "Local standard of rest" ;
+    skos:related ocs:C17246,
+        ocs:C18299,
+        ocs:C23244,
+        ocs:C24481,
+        ocs:C29074,
+        ocs:C31953,
+        ocs:C32397,
+        ocs:C33081,
+        ocs:C34069,
+        ocs:C37041,
+        ocs:C41134,
+        ocs:C41648,
+        ocs:C597 .
+

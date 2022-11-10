@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1168 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_patient_monitoring> ;
+    skos:prefLabel "Patient monitor" ;
+    skos:related ocs:C15723,
+        ocs:C15728,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C21,
+        ocs:C22,
+        ocs:C35,
+        ocs:C5818,
+        ocs:C6069 .
+

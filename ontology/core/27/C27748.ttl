@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27748 a skos:Concept ;
+    skos:broader ocs:C6594,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Piecewise-deterministic_Markov_process> ;
+    skos:prefLabel "Piecewise-deterministic Markov process" ;
+    skos:related ocs:C12373,
+        ocs:C16883,
+        ocs:C18439,
+        ocs:C20087,
+        ocs:C20091,
+        ocs:C20842,
+        ocs:C31158,
+        ocs:C32623,
+        ocs:C36984,
+        ocs:C38208,
+        ocs:C39172,
+        ocs:C39751,
+        ocs:C39886,
+        ocs:C40289,
+        ocs:C42591,
+        ocs:C43132,
+        ocs:C45298 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2722 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/1080p> ;
+    skos:prefLabel "1080p" ;
+    skos:related ocs:C11237,
+        ocs:C11323,
+        ocs:C12544,
+        ocs:C13509,
+        ocs:C13586,
+        ocs:C15700,
+        ocs:C21207,
+        ocs:C22257,
+        ocs:C27572,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C4448,
+        ocs:C8021 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41904 a skos:Concept ;
+    skos:broader ocs:C34746,
+        ocs:C35392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-point_estimation> ;
+    skos:prefLabel "Three-point estimation" ;
+    skos:related ocs:C1844,
+        ocs:C36008,
+        ocs:C39575,
+        ocs:C42729,
+        ocs:C662 .
+

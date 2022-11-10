@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18771 a skos:Concept ;
+    skos:broader ocs:C5684 ;
+    skos:closeMatch <http://dbpedia.org/resource/Horseshoe_orbit> ;
+    skos:prefLabel "Horseshoe orbit" ;
+    skos:related ocs:C24464,
+        ocs:C28337,
+        ocs:C597,
+        ocs:C8459 .
+

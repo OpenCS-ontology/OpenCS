@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43406 a skos:Concept ;
+    skos:broader ocs:C35303 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadruple_product> ;
+    skos:prefLabel "Quadruple product" ;
+    skos:related ocs:C1385,
+        ocs:C1884,
+        ocs:C19348 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18112 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_tracker> ;
+    skos:prefLabel "Star tracker" ;
+    skos:related ocs:C12641,
+        ocs:C1628,
+        ocs:C16352,
+        ocs:C19819,
+        ocs:C22752,
+        ocs:C26652,
+        ocs:C30109,
+        ocs:C3230,
+        ocs:C511,
+        ocs:C597,
+        ocs:C7201 .
+

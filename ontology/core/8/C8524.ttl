@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8524 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Private_biometrics> ;
+    skos:prefLabel "Private biometrics" ;
+    skos:related ocs:C12062,
+        ocs:C18273,
+        ocs:C248,
+        ocs:C26641,
+        ocs:C27953,
+        ocs:C28037,
+        ocs:C34896,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C39818,
+        ocs:C4218,
+        ocs:C43850,
+        ocs:C4513,
+        ocs:C45561,
+        ocs:C5692,
+        ocs:C6,
+        ocs:C9489 .
+

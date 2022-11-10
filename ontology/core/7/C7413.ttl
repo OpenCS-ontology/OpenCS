@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7413 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_state> ;
+    skos:prefLabel "Secure state" ;
+    skos:related ocs:C10330,
+        ocs:C12240,
+        ocs:C14175,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C20443,
+        ocs:C21059,
+        ocs:C25464,
+        ocs:C29434,
+        ocs:C32400,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C35388,
+        ocs:C3757,
+        ocs:C38399,
+        ocs:C40337,
+        ocs:C40595,
+        ocs:C42213,
+        ocs:C8791 .
+

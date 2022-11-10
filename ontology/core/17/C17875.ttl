@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17875 a skos:Concept ;
+    skos:broader ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morphological_parsing> ;
+    skos:prefLabel "Morphological parsing" ;
+    skos:related ocs:C12443,
+        ocs:C12486,
+        ocs:C13872,
+        ocs:C14834,
+        ocs:C21948,
+        ocs:C22271,
+        ocs:C23422,
+        ocs:C27027,
+        ocs:C29130,
+        ocs:C32450,
+        ocs:C3580,
+        ocs:C43828 .
+

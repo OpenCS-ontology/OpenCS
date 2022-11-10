@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42205 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C32503,
+        ocs:C32511,
+        ocs:C33043,
+        ocs:C33242,
+        ocs:C34568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coupling_from_the_past> ;
+    skos:prefLabel "Coupling from the past" ;
+    skos:related ocs:C23865,
+        ocs:C28074,
+        ocs:C31167,
+        ocs:C31229,
+        ocs:C32503,
+        ocs:C35158,
+        ocs:C41470,
+        ocs:C41761,
+        ocs:C43648,
+        ocs:C43658,
+        ocs:C44604,
+        ocs:C7689,
+        ocs:C8516 .
+

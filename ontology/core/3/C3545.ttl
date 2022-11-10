@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3545 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Processing (action)" ;
+    skos:related ocs:C1496,
+        ocs:C16,
+        ocs:C17,
+        ocs:C1906,
+        ocs:C2,
+        ocs:C22,
+        ocs:C30,
+        ocs:C33,
+        ocs:C3901,
+        ocs:C6545 .
+

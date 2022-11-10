@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20672 a skos:Concept ;
+    skos:broader ocs:C4515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Season_of_birth> ;
+    skos:prefLabel "Season of birth" ;
+    skos:related ocs:C10381 .
+

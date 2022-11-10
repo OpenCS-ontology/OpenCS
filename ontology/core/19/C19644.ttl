@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19644 a skos:Concept ;
+    skos:broader ocs:C695 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-mirror_anastigmat> ;
+    skos:prefLabel "Three-mirror anastigmat" ;
+    skos:related ocs:C20721,
+        ocs:C23972,
+        ocs:C33486,
+        ocs:C33557,
+        ocs:C8085 .
+

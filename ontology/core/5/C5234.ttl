@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5234 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Yearbook> ;
+    skos:prefLabel "Yearbook" ;
+    skos:related ocs:C13403,
+        ocs:C6340 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18110 a skos:Concept ;
+    skos:broader ocs:C10670 ;
+    skos:closeMatch <http://dbpedia.org/resource/Siegel–Tukey_test> ;
+    skos:prefLabel "Siegel–Tukey test" ;
+    skos:related ocs:C10670,
+        ocs:C12811,
+        ocs:C3075,
+        ocs:C33145,
+        ocs:C33822,
+        ocs:C42729 .
+

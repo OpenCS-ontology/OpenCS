@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40706 a skos:Concept ;
+    skos:broader ocs:C36286 ;
+    skos:closeMatch <http://dbpedia.org/resource/Propimelodus> ;
+    skos:prefLabel "Propimelodus" ;
+    skos:related ocs:C33166,
+        ocs:C36175,
+        ocs:C40967,
+        ocs:C41316,
+        ocs:C42290,
+        ocs:C42472,
+        ocs:C44359,
+        ocs:C44495,
+        ocs:C44608,
+        ocs:C44612,
+        ocs:C45751 .
+

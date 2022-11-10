@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18268 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Offered_load> ;
+    skos:prefLabel "Offered load" ;
+    skos:related ocs:C20045,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C20691,
+        ocs:C20842,
+        ocs:C26091,
+        ocs:C27669,
+        ocs:C31382,
+        ocs:C32815,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C38208,
+        ocs:C38619,
+        ocs:C40289,
+        ocs:C40920,
+        ocs:C44861,
+        ocs:C45179 .
+

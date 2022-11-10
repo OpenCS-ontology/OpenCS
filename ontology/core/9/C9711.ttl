@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9711 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_sampled_filter> ;
+    skos:prefLabel "Analog sampled filter" ;
+    skos:related ocs:C123,
+        ocs:C15194,
+        ocs:C21021,
+        ocs:C23968,
+        ocs:C32554,
+        ocs:C41756,
+        ocs:C44628,
+        ocs:C658 .
+

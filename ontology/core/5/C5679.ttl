@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5679 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gaming_router> ;
+    skos:prefLabel "Gaming router" ;
+    skos:related ocs:C15396,
+        ocs:C1633,
+        ocs:C16851,
+        ocs:C19170,
+        ocs:C20691,
+        ocs:C24210,
+        ocs:C2492,
+        ocs:C32196,
+        ocs:C33900,
+        ocs:C35297,
+        ocs:C40449,
+        ocs:C40784,
+        ocs:C41142,
+        ocs:C4197,
+        ocs:C44801,
+        ocs:C45247,
+        ocs:C45252,
+        ocs:C8148 .
+

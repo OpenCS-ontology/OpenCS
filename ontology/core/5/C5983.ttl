@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5983 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glossary_of_artificial_intelligence> ;
+    skos:prefLabel "Glossary of artificial intelligence" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12977,
+        ocs:C13806,
+        ocs:C16711,
+        ocs:C21268,
+        ocs:C25,
+        ocs:C29173,
+        ocs:C31543,
+        ocs:C32,
+        ocs:C7,
+        ocs:C8,
+        ocs:C8198,
+        ocs:C8753,
+        ocs:C9022 .
+

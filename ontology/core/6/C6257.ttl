@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6257 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exposure_(photography)> ;
+    skos:prefLabel "Exposure" ;
+    skos:related ocs:C10564,
+        ocs:C11324,
+        ocs:C13065,
+        ocs:C21490 .
+

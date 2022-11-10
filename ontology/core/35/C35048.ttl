@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35048 a skos:Concept ;
+    skos:broader ocs:C16277 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_diagonal> ;
+    skos:prefLabel "Star diagonal" ;
+    skos:related ocs:C18584,
+        ocs:C19568,
+        ocs:C8085,
+        ocs:C8858 .
+

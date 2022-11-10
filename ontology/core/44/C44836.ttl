@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44836 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jacobian_curve> ;
+    skos:prefLabel "Jacobian curve" ;
+    skos:related ocs:C23042,
+        ocs:C32484,
+        ocs:C37826,
+        ocs:C37881,
+        ocs:C37882,
+        ocs:C39295,
+        ocs:C39331,
+        ocs:C40480,
+        ocs:C43074,
+        ocs:C43982,
+        ocs:C44743 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15476 a skos:Concept ;
+    skos:broader ocs:C7460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small-world_network> ;
+    skos:prefLabel "Small-world network" ;
+    skos:related ocs:C11026,
+        ocs:C14693,
+        ocs:C18569,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C20170,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C28521,
+        ocs:C28991,
+        ocs:C33768,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C3857,
+        ocs:C4652,
+        ocs:C597,
+        ocs:C7460 .
+

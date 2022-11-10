@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23734 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C2469,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probabilistic_programming_language> ;
+    skos:prefLabel "Probabilistic programming language" ;
+    skos:related ocs:C10327,
+        ocs:C12748,
+        ocs:C14161,
+        ocs:C14928,
+        ocs:C16711,
+        ocs:C18566,
+        ocs:C20377,
+        ocs:C20977,
+        ocs:C21710,
+        ocs:C23070,
+        ocs:C23439,
+        ocs:C25,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C38829,
+        ocs:C431,
+        ocs:C6531,
+        ocs:C6822,
+        ocs:C8 .
+

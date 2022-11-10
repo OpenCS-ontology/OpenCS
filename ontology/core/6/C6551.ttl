@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6551 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corporate_amnesia> ;
+    skos:prefLabel "Corporate amnesia" ;
+    skos:related ocs:C10057,
+        ocs:C11021,
+        ocs:C11762,
+        ocs:C12,
+        ocs:C1332,
+        ocs:C15769,
+        ocs:C5092,
+        ocs:C9058,
+        ocs:C9851 .
+

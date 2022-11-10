@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C479 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bus_Pirate> ;
+    skos:prefLabel "Bus Pirate" ;
+    skos:related ocs:C13386,
+        ocs:C20442,
+        ocs:C22530,
+        ocs:C3357,
+        ocs:C3416,
+        ocs:C543,
+        ocs:C5995,
+        ocs:C6538,
+        ocs:C7983,
+        ocs:C8718,
+        ocs:C9253,
+        ocs:C9717 .
+

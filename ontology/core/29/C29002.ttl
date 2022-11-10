@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29002 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application_delivery_network> ;
+    skos:prefLabel "Application delivery network" ;
+    skos:related ocs:C13786,
+        ocs:C14321,
+        ocs:C15883,
+        ocs:C16350,
+        ocs:C19722,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C25123,
+        ocs:C25292,
+        ocs:C26,
+        ocs:C26354,
+        ocs:C27557,
+        ocs:C29803,
+        ocs:C3394,
+        ocs:C36777,
+        ocs:C38032,
+        ocs:C4197,
+        ocs:C43629,
+        ocs:C8577 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C537 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encryption_layer_in_storage_stack> ;
+    skos:prefLabel "Encryption layer in storage stack" ;
+    skos:related ocs:C10785,
+        ocs:C15529,
+        ocs:C31338,
+        ocs:C3231,
+        ocs:C33255,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C40765,
+        ocs:C41697,
+        ocs:C41705,
+        ocs:C41962,
+        ocs:C43718,
+        ocs:C43761,
+        ocs:C44003,
+        ocs:C5695,
+        ocs:C7476,
+        ocs:C9600 .
+

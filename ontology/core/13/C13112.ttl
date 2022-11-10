@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13112 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Federal_Center_of_Neurosurgery_(Tyumen)> ;
+    skos:prefLabel "Federal Center of Neurosurgery" ;
+    skos:related ocs:C28962,
+        ocs:C420 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C406 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Impact_factor> ;
+    skos:prefLabel "Impact factor" ;
+    skos:related ocs:C11446,
+        ocs:C22391,
+        ocs:C5254,
+        ocs:C597 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5586 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genomics_data_sharing> ;
+    skos:prefLabel "Genomics data sharing" ;
+    skos:related ocs:C1038,
+        ocs:C13181,
+        ocs:C28117,
+        ocs:C35570,
+        ocs:C3896,
+        ocs:C39728,
+        ocs:C41877,
+        ocs:C6553,
+        ocs:C950,
+        ocs:C9836 .
+

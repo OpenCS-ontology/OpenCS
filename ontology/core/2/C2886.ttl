@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2886 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_intensity> ;
+    skos:prefLabel "Traffic intensity" ;
+    skos:related ocs:C10733,
+        ocs:C11408,
+        ocs:C11526,
+        ocs:C14210,
+        ocs:C19152,
+        ocs:C20691,
+        ocs:C25045,
+        ocs:C26,
+        ocs:C27907,
+        ocs:C35659,
+        ocs:C3692,
+        ocs:C38619,
+        ocs:C7221,
+        ocs:C8952 .
+

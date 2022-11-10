@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30879 a skos:Concept ;
+    skos:broader ocs:C16105 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_filter> ;
+    skos:prefLabel "Recursive filter" ;
+    skos:related ocs:C123,
+        ocs:C20514,
+        ocs:C23968,
+        ocs:C3987,
+        ocs:C42625,
+        ocs:C5042,
+        ocs:C5298,
+        ocs:C5769,
+        ocs:C6110 .
+

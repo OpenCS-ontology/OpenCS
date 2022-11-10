@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10628 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hexachrome> ;
+    skos:prefLabel "Hexachrome" ;
+    skos:related ocs:C16423,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C20260,
+        ocs:C2074,
+        ocs:C22083,
+        ocs:C32992,
+        ocs:C38432,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28420 a skos:Concept ;
+    skos:broader ocs:C5760 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grey_box_model> ;
+    skos:prefLabel "Grey box model" ;
+    skos:related ocs:C10138,
+        ocs:C20013,
+        ocs:C22686,
+        ocs:C23554,
+        ocs:C26880,
+        ocs:C26888,
+        ocs:C27703,
+        ocs:C492,
+        ocs:C5087,
+        ocs:C6395,
+        ocs:C7256,
+        ocs:C7553,
+        ocs:C9022 .
+

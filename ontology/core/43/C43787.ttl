@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43787 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circle_graph> ;
+    skos:prefLabel "Circle graph" ;
+    skos:related ocs:C13880,
+        ocs:C14693,
+        ocs:C19336,
+        ocs:C32333,
+        ocs:C34096,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38303,
+        ocs:C38404,
+        ocs:C38781,
+        ocs:C38962,
+        ocs:C38981,
+        ocs:C41484,
+        ocs:C41783,
+        ocs:C42060,
+        ocs:C42392,
+        ocs:C43156,
+        ocs:C43189,
+        ocs:C43652 .
+

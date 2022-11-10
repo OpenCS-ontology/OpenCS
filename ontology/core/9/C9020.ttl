@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9020 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photometric_stereo> ;
+    skos:prefLabel "Photometric stereo" ;
+    skos:related ocs:C13549,
+        ocs:C18263,
+        ocs:C19043,
+        ocs:C22,
+        ocs:C23667,
+        ocs:C24194,
+        ocs:C26458,
+        ocs:C28061,
+        ocs:C28466,
+        ocs:C33219,
+        ocs:C4646,
+        ocs:C7,
+        ocs:C9879 .
+

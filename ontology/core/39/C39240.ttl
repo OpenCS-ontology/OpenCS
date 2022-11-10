@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39240 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C31489 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenZFS> ;
+    skos:prefLabel "OpenZFS" ;
+    skos:related ocs:C13783,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C17187,
+        ocs:C18258,
+        ocs:C20800,
+        ocs:C22742,
+        ocs:C22970,
+        ocs:C24871,
+        ocs:C29846,
+        ocs:C30866,
+        ocs:C31489,
+        ocs:C36897,
+        ocs:C37404,
+        ocs:C37940,
+        ocs:C42619,
+        ocs:C44098,
+        ocs:C44617,
+        ocs:C7476,
+        ocs:C9 .
+

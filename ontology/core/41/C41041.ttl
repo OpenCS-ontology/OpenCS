@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41041 a skos:Concept ;
+    skos:broader ocs:C32203 ;
+    skos:closeMatch <http://dbpedia.org/resource/SC-FDE> ;
+    skos:prefLabel "SC-FDE" ;
+    skos:related ocs:C44778 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8252 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:prefLabel "SPECT Heart" ;
+    skos:related ocs:C13,
+        ocs:C13685,
+        ocs:C25,
+        ocs:C5401,
+        ocs:C7 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34471 a skos:Concept ;
+    skos:broader ocs:C18799 ;
+    skos:closeMatch <http://dbpedia.org/resource/CDMA_spectral_efficiency> ;
+    skos:prefLabel "CDMA spectral efficiency" ;
+    skos:related ocs:C12942,
+        ocs:C14099,
+        ocs:C15410,
+        ocs:C18799,
+        ocs:C19721,
+        ocs:C24558,
+        ocs:C25626,
+        ocs:C25712,
+        ocs:C26814,
+        ocs:C29419,
+        ocs:C30037,
+        ocs:C30567,
+        ocs:C37303,
+        ocs:C37368,
+        ocs:C41460,
+        ocs:C42210,
+        ocs:C42961,
+        ocs:C43887,
+        ocs:C7502,
+        ocs:C7877 .
+

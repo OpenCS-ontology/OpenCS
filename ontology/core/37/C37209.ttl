@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37209 a skos:Concept ;
+    skos:broader ocs:C23875,
+        ocs:C26410 ;
+    skos:closeMatch <http://dbpedia.org/resource/SHA-2> ;
+    skos:prefLabel "SHA-2" ;
+    skos:related ocs:C15591,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C30340,
+        ocs:C33416,
+        ocs:C35389,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C3936,
+        ocs:C39396,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C44462,
+        ocs:C5930 .
+

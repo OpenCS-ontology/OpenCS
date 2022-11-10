@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41924 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delturinae> ;
+    skos:prefLabel "Delturinae" ;
+    skos:related ocs:C36328,
+        ocs:C38317,
+        ocs:C38319,
+        ocs:C39063,
+        ocs:C39857,
+        ocs:C41147,
+        ocs:C41292,
+        ocs:C42992,
+        ocs:C44140,
+        ocs:C44358,
+        ocs:C45586 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25705 a skos:Concept ;
+    skos:broader ocs:C4528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ceiling_projector> ;
+    skos:prefLabel "Ceiling projector" ;
+    skos:related ocs:C11543,
+        ocs:C23424,
+        ocs:C25792,
+        ocs:C26939,
+        ocs:C29178,
+        ocs:C33280,
+        ocs:C39714 .
+

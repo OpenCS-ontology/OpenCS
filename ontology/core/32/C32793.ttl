@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32793 a skos:Concept ;
+    skos:broader ocs:C27978 ;
+    skos:prefLabel "LOWER EXTREMITY STIFFNESS" ;
+    skos:related ocs:C20806,
+        ocs:C27978 .
+

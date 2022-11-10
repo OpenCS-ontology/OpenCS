@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31577 a skos:Concept ;
+    skos:broader ocs:C16545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cherenkov_detector> ;
+    skos:prefLabel "Cherenkov detector" ;
+    skos:related ocs:C15862,
+        ocs:C16545,
+        ocs:C19353,
+        ocs:C19524,
+        ocs:C25787,
+        ocs:C44332,
+        ocs:C45219,
+        ocs:C597 .
+

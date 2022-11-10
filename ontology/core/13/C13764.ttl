@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13764 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:prefLabel "Audience participation" ;
+    skos:related ocs:C17,
+        ocs:C3,
+        ocs:C8614 .
+

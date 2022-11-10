@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43276 a skos:Concept ;
+    skos:broader ocs:C32394 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shadow_volume> ;
+    skos:prefLabel "Shadow volume" ;
+    skos:related ocs:C16697,
+        ocs:C17403,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24235,
+        ocs:C27264,
+        ocs:C28061,
+        ocs:C32394,
+        ocs:C331,
+        ocs:C41077,
+        ocs:C42817,
+        ocs:C44732 .
+

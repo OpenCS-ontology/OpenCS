@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33960 a skos:Concept ;
+    skos:broader ocs:C26403 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_compatibility_list> ;
+    skos:prefLabel "Hardware compatibility list" ;
+    skos:related ocs:C10568,
+        ocs:C1253,
+        ocs:C2,
+        ocs:C20800,
+        ocs:C22,
+        ocs:C23394,
+        ocs:C24143,
+        ocs:C26,
+        ocs:C2674,
+        ocs:C26991,
+        ocs:C31489,
+        ocs:C31890,
+        ocs:C35,
+        ocs:C38463,
+        ocs:C3895,
+        ocs:C4916,
+        ocs:C5698,
+        ocs:C9 .
+

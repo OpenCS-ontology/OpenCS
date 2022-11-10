@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37305 a skos:Concept ;
+    skos:broader ocs:C17394,
+        ocs:C23393,
+        ocs:C25752 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semiotics_of_social_networking> ;
+    skos:prefLabel "Semiotics of social networking" ;
+    skos:related ocs:C22704 .
+

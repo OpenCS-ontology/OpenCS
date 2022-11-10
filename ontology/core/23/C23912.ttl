@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23912 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle-to-vehicle> ;
+    skos:prefLabel "Vehicle-to-vehicle" ;
+    skos:related ocs:C10340,
+        ocs:C11027,
+        ocs:C12641,
+        ocs:C17375,
+        ocs:C23009,
+        ocs:C26475,
+        ocs:C27671,
+        ocs:C29410,
+        ocs:C3236,
+        ocs:C41543,
+        ocs:C4428,
+        ocs:C8190,
+        ocs:C9100 .
+

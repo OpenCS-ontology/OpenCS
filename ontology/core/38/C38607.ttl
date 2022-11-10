@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38607 a skos:Concept ;
+    skos:broader ocs:C31206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corydoras> ;
+    skos:prefLabel "Corydoras" ;
+    skos:related ocs:C31206,
+        ocs:C36328,
+        ocs:C37403,
+        ocs:C41121,
+        ocs:C41560,
+        ocs:C41847,
+        ocs:C43137,
+        ocs:C43757,
+        ocs:C44358,
+        ocs:C44612,
+        ocs:C45232 .
+

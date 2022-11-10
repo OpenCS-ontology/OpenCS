@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42978 a skos:Concept ;
+    skos:broader ocs:C29835,
+        ocs:C33573 ;
+    skos:closeMatch <http://dbpedia.org/resource/First_playable_demo> ;
+    skos:prefLabel "First playable demo" ;
+    skos:related ocs:C16698,
+        ocs:C1943,
+        ocs:C19670,
+        ocs:C21286,
+        ocs:C23580,
+        ocs:C29835,
+        ocs:C33573,
+        ocs:C41955,
+        ocs:C43569,
+        ocs:C43776,
+        ocs:C44279,
+        ocs:C44311,
+        ocs:C5137,
+        ocs:C5300,
+        ocs:C7220,
+        ocs:C7399,
+        ocs:C9644 .
+

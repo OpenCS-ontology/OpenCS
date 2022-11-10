@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15492 a skos:Concept ;
+    skos:broader ocs:C2978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tarski's_axioms> ;
+    skos:prefLabel "Tarski's axioms" ;
+    skos:related ocs:C12474,
+        ocs:C2418,
+        ocs:C26276,
+        ocs:C2727,
+        ocs:C27390,
+        ocs:C28286,
+        ocs:C2978 .
+

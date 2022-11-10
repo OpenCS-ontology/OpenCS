@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43827 a skos:Concept ;
+    skos:broader ocs:C36950 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prietella> ;
+    skos:prefLabel "Prietella" ;
+    skos:related ocs:C34324,
+        ocs:C38930,
+        ocs:C39463,
+        ocs:C39930,
+        ocs:C39959,
+        ocs:C40967 .
+

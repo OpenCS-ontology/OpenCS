@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13807 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Higher-Order_and_Symbolic_Computation> ;
+    skos:prefLabel "Higher-Order and Symbolic Computation" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C10284,
+        ocs:C10498,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C25978,
+        ocs:C26454,
+        ocs:C31404,
+        ocs:C3537,
+        ocs:C36771,
+        ocs:C4097,
+        ocs:C6280,
+        ocs:C6714,
+        ocs:C6941 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37865 a skos:Concept ;
+    skos:broader ocs:C30895,
+        ocs:C32125,
+        ocs:C32876 ;
+    skos:closeMatch <http://dbpedia.org/resource/S-Video> ;
+    skos:prefLabel "S-Video" ;
+    skos:related ocs:C11040,
+        ocs:C12544,
+        ocs:C13973,
+        ocs:C16856,
+        ocs:C1724,
+        ocs:C27086,
+        ocs:C32920,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C6942 .
+

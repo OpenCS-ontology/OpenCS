@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18353 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plagiarism_detection> ;
+    skos:prefLabel "Plagiarism detection" ;
+    skos:related ocs:C10,
+        ocs:C1040,
+        ocs:C16188,
+        ocs:C16676,
+        ocs:C17380,
+        ocs:C1812,
+        ocs:C19305,
+        ocs:C23,
+        ocs:C32077,
+        ocs:C42910,
+        ocs:C5816,
+        ocs:C5940,
+        ocs:C6693,
+        ocs:C749,
+        ocs:C7658,
+        ocs:C9556 .
+

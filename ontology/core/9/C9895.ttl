@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9895 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/KnujOn> ;
+    skos:prefLabel "KnujOn" ;
+    skos:related ocs:C12749,
+        ocs:C13295,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C31805,
+        ocs:C32264,
+        ocs:C36810,
+        ocs:C37829,
+        ocs:C37946,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C42277,
+        ocs:C42304,
+        ocs:C44519,
+        ocs:C44734,
+        ocs:C45004,
+        ocs:C5522,
+        ocs:C6286 .
+

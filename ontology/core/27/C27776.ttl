@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27776 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Composite_plate> ;
+    skos:prefLabel "Composite plate" ;
+    skos:related ocs:C13871,
+        ocs:C19970,
+        ocs:C20271,
+        ocs:C22545,
+        ocs:C22741,
+        ocs:C22967,
+        ocs:C23870,
+        ocs:C24699,
+        ocs:C27183,
+        ocs:C28797,
+        ocs:C4469 .
+

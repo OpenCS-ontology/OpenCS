@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23604 a skos:Concept ;
+    skos:broader ocs:C7553 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effective_fitness> ;
+    skos:prefLabel "Effective fitness" ;
+    skos:related ocs:C13633,
+        ocs:C38697,
+        ocs:C40760,
+        ocs:C45377,
+        ocs:C7553 .
+

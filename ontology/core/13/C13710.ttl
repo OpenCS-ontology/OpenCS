@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13710 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mediated_communication> ;
+    skos:prefLabel "Mediated communication" ;
+    skos:related ocs:C13153,
+        ocs:C13730,
+        ocs:C16615,
+        ocs:C23866,
+        ocs:C29729,
+        ocs:C5984,
+        ocs:C6757 .
+

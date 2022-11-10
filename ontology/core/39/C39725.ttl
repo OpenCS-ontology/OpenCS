@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39725 a skos:Concept ;
+    skos:broader ocs:C32808,
+        ocs:C33409,
+        ocs:C34749,
+        ocs:C37008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low_(complexity)> ;
+    skos:prefLabel "Low" ;
+    skos:related ocs:C20382,
+        ocs:C23904,
+        ocs:C25360,
+        ocs:C33409,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C37845,
+        ocs:C38374,
+        ocs:C41116,
+        ocs:C42400,
+        ocs:C42626,
+        ocs:C44597,
+        ocs:C44665,
+        ocs:C44854,
+        ocs:C5050,
+        ocs:C9639 .
+

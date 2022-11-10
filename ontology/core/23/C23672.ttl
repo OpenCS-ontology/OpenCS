@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23672 a skos:Concept ;
+    skos:broader ocs:C3334,
+        ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jam_sync> ;
+    skos:prefLabel "Jam sync" ;
+    skos:related ocs:C11344,
+        ocs:C12541,
+        ocs:C13466,
+        ocs:C15146,
+        ocs:C15451,
+        ocs:C2000,
+        ocs:C2653,
+        ocs:C26575,
+        ocs:C29072,
+        ocs:C37407,
+        ocs:C38813,
+        ocs:C5706,
+        ocs:C7648,
+        ocs:C9748 .
+

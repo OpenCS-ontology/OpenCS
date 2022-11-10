@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16883 a skos:Concept ;
+    skos:broader ocs:C10917,
+        ocs:C12111,
+        ocs:C12373,
+        ocs:C5745,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lindley_equation> ;
+    skos:prefLabel "Lindley equation" ;
+    skos:related ocs:C12373,
+        ocs:C16039,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C20842,
+        ocs:C25438,
+        ocs:C26091,
+        ocs:C27599,
+        ocs:C27748,
+        ocs:C30610,
+        ocs:C32553,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C39886,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C44861,
+        ocs:C45179 .
+

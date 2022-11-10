@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1605 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C8 ;
+    skos:prefLabel "Liver disorder diagnosis" ;
+    skos:related ocs:C10616,
+        ocs:C10670,
+        ocs:C13,
+        ocs:C21,
+        ocs:C3753,
+        ocs:C5659,
+        ocs:C6692,
+        ocs:C9022 .
+

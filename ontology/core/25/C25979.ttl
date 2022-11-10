@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25979 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Black_level> ;
+    skos:prefLabel "Black level" ;
+    skos:related ocs:C12544,
+        ocs:C13100,
+        ocs:C13725,
+        ocs:C15700,
+        ocs:C15787,
+        ocs:C1935,
+        ocs:C21949,
+        ocs:C27086,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C740,
+        ocs:C8021,
+        ocs:C9027 .
+

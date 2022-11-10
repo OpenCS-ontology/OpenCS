@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25626 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_allocation_schemes> ;
+    skos:prefLabel "Channel allocation schemes" ;
+    skos:related ocs:C13316,
+        ocs:C15728,
+        ocs:C16022,
+        ocs:C18799,
+        ocs:C19721,
+        ocs:C20116,
+        ocs:C20804,
+        ocs:C25712,
+        ocs:C28404,
+        ocs:C29419,
+        ocs:C30037,
+        ocs:C30567,
+        ocs:C30728,
+        ocs:C32302,
+        ocs:C34471,
+        ocs:C35169,
+        ocs:C39574,
+        ocs:C7877,
+        ocs:C9154 .
+

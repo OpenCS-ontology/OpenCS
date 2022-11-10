@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28711 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_Operators> ;
+    skos:prefLabel "Mathematical Operators" ;
+    skos:related ocs:C24147,
+        ocs:C27886,
+        ocs:C5126,
+        ocs:C6189 .
+

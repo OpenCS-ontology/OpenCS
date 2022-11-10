@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8144 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encoding_Control_Notation> ;
+    skos:prefLabel "Encoding Control Notation" ;
+    skos:related ocs:C11927,
+        ocs:C13718,
+        ocs:C23087,
+        ocs:C29603,
+        ocs:C3039,
+        ocs:C36870,
+        ocs:C40789,
+        ocs:C41944,
+        ocs:C41976,
+        ocs:C44196,
+        ocs:C44479,
+        ocs:C6546,
+        ocs:C6821,
+        ocs:C9225 .
+

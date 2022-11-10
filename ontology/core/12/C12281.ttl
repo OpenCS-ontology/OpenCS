@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12281 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agoh–Giuga_conjecture> ;
+    skos:prefLabel "Agoh–Giuga conjecture" ;
+    skos:related ocs:C10578,
+        ocs:C12991 .
+

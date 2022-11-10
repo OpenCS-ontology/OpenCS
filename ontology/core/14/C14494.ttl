@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14494 a skos:Concept ;
+    skos:broader ocs:C7006 ;
+    skos:prefLabel "PACE protocol" ;
+    skos:related ocs:C1,
+        ocs:C35,
+        ocs:C7006 .
+

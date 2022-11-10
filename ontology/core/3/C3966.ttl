@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3966 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Enhanced_Cordless_Telecommunications> ;
+    skos:prefLabel "Digital Enhanced Cordless Telecommunications" ;
+    skos:related ocs:C12225,
+        ocs:C14578,
+        ocs:C15897,
+        ocs:C20116,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C27912,
+        ocs:C2917,
+        ocs:C3074,
+        ocs:C31060,
+        ocs:C3236,
+        ocs:C33773,
+        ocs:C34596,
+        ocs:C35370,
+        ocs:C37303,
+        ocs:C9113,
+        ocs:C9154 .
+

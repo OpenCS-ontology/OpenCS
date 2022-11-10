@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22250 a skos:Concept ;
+    skos:broader ocs:C10760,
+        ocs:C12270 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indefinite_pronoun> ;
+    skos:prefLabel "Indefinite pronoun" ;
+    skos:related ocs:C10760,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C1952,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C31289,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C4025,
+        ocs:C6545 .
+

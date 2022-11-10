@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3808 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boe-Bot> ;
+    skos:prefLabel "Boe-Bot" ;
+    skos:related ocs:C14080,
+        ocs:C17396,
+        ocs:C20230,
+        ocs:C28350,
+        ocs:C35770,
+        ocs:C36259,
+        ocs:C36385,
+        ocs:C3694,
+        ocs:C36944,
+        ocs:C43397,
+        ocs:C45473,
+        ocs:C6299,
+        ocs:C6538,
+        ocs:C979 .
+

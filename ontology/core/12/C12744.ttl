@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12744 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disc_spanning> ;
+    skos:prefLabel "Disc spanning" ;
+    skos:related ocs:C1108,
+        ocs:C12872,
+        ocs:C20557,
+        ocs:C32640,
+        ocs:C41962,
+        ocs:C4916,
+        ocs:C6588,
+        ocs:C7476 .
+

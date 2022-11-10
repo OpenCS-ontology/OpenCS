@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2190 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trackback> ;
+    skos:prefLabel "Trackback" ;
+    skos:related ocs:C12554,
+        ocs:C14418,
+        ocs:C1672,
+        ocs:C17225,
+        ocs:C21746,
+        ocs:C22709,
+        ocs:C26337,
+        ocs:C26830,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C32976,
+        ocs:C34132,
+        ocs:C40049,
+        ocs:C40217,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C4500,
+        ocs:C6968,
+        ocs:C7963 .
+

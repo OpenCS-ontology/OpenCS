@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10155 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Activity Code" ;
+    skos:related ocs:C10052,
+        ocs:C12312,
+        ocs:C19,
+        ocs:C2,
+        ocs:C26,
+        ocs:C33,
+        ocs:C6 .
+

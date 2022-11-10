@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41636 a skos:Concept ;
+    skos:broader ocs:C37359 ;
+    skos:closeMatch <http://dbpedia.org/resource/Longest_palindromic_substring> ;
+    skos:prefLabel "Longest palindromic substring" ;
+    skos:related ocs:C1,
+        ocs:C16676,
+        ocs:C18396,
+        ocs:C19305,
+        ocs:C21048,
+        ocs:C23674,
+        ocs:C25543,
+        ocs:C26036,
+        ocs:C29,
+        ocs:C30059,
+        ocs:C37359,
+        ocs:C37974,
+        ocs:C38852,
+        ocs:C44387,
+        ocs:C5145,
+        ocs:C749,
+        ocs:C8522,
+        ocs:C8660 .
+

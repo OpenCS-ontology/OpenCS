@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34424 a skos:Concept ;
+    skos:broader ocs:C27827,
+        ocs:C28100 ;
+    skos:closeMatch <http://dbpedia.org/resource/Co-occurrence_matrix> ;
+    skos:prefLabel "Co-occurrence matrix" ;
+    skos:related ocs:C1023,
+        ocs:C13065,
+        ocs:C14863,
+        ocs:C23308,
+        ocs:C24211,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C29175,
+        ocs:C30035,
+        ocs:C31013,
+        ocs:C33766,
+        ocs:C33917,
+        ocs:C37748,
+        ocs:C41977,
+        ocs:C45860,
+        ocs:C7,
+        ocs:C8021,
+        ocs:C8969 .
+

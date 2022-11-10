@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11592 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/HD-MAC> ;
+    skos:prefLabel "HD-MAC" ;
+    skos:related ocs:C12544,
+        ocs:C15700,
+        ocs:C16580,
+        ocs:C18245,
+        ocs:C20140,
+        ocs:C26605,
+        ocs:C27572,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C35988,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C4268,
+        ocs:C42783,
+        ocs:C43007,
+        ocs:C6079 .
+

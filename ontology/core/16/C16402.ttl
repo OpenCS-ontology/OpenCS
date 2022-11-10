@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16402 a skos:Concept ;
+    skos:broader ocs:C4116,
+        ocs:C6592,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/NETCONF> ;
+    skos:prefLabel "NETCONF" ;
+    skos:related ocs:C11927,
+        ocs:C12452,
+        ocs:C14952,
+        ocs:C16980,
+        ocs:C17918,
+        ocs:C23666,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C28637,
+        ocs:C3039,
+        ocs:C31146,
+        ocs:C3394,
+        ocs:C34358,
+        ocs:C39341,
+        ocs:C3968,
+        ocs:C44603,
+        ocs:C45575,
+        ocs:C45641,
+        ocs:C6592,
+        ocs:C8614 .
+

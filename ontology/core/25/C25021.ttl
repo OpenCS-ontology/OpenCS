@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25021 a skos:Concept ;
+    skos:broader ocs:C11542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supermodular_function> ;
+    skos:prefLabel "Supermodular function" ;
+    skos:related ocs:C11542,
+        ocs:C17726,
+        ocs:C19168,
+        ocs:C31049,
+        ocs:C77 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5691 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Assignment_problem> ;
+    skos:prefLabel "Assignment problem" ;
+    skos:related ocs:C10903,
+        ocs:C11372,
+        ocs:C12509,
+        ocs:C15480,
+        ocs:C18259,
+        ocs:C19336,
+        ocs:C2413,
+        ocs:C24154,
+        ocs:C24647,
+        ocs:C31884,
+        ocs:C32917,
+        ocs:C37941,
+        ocs:C38036,
+        ocs:C3837,
+        ocs:C6335,
+        ocs:C8944 .
+

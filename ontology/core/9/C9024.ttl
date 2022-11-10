@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9024 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pastry_(DHT)> ;
+    skos:prefLabel "Pastry" ;
+    skos:related ocs:C11540,
+        ocs:C14223,
+        ocs:C16666,
+        ocs:C18092,
+        ocs:C20205,
+        ocs:C20606,
+        ocs:C26,
+        ocs:C28743,
+        ocs:C32362,
+        ocs:C33417,
+        ocs:C3391,
+        ocs:C37519,
+        ocs:C39430,
+        ocs:C40650,
+        ocs:C42328,
+        ocs:C42687,
+        ocs:C42792,
+        ocs:C44121,
+        ocs:C6948,
+        ocs:C8614 .
+

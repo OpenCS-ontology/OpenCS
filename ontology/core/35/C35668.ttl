@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35668 a skos:Concept ;
+    skos:broader ocs:C16105,
+        ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_waveguide_synthesis> ;
+    skos:prefLabel "Digital waveguide synthesis" ;
+    skos:related ocs:C123,
+        ocs:C1950,
+        ocs:C28167,
+        ocs:C28604,
+        ocs:C8718,
+        ocs:C9596 .
+

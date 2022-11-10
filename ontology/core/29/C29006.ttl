@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29006 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_block> ;
+    skos:prefLabel "Logic block" ;
+    skos:related ocs:C11252,
+        ocs:C14694,
+        ocs:C14994,
+        ocs:C19400,
+        ocs:C22124,
+        ocs:C26090,
+        ocs:C26155,
+        ocs:C27883,
+        ocs:C30085,
+        ocs:C31853,
+        ocs:C4027,
+        ocs:C5336,
+        ocs:C5506,
+        ocs:C8518,
+        ocs:C9908 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33769 a skos:Concept ;
+    skos:broader ocs:C14055,
+        ocs:C17703,
+        ocs:C24970,
+        ocs:C25570,
+        ocs:C26637,
+        ocs:C27052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reference_(C++)> ;
+    skos:prefLabel "Reference" .
+

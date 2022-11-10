@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42526 a skos:Concept ;
+    skos:broader ocs:C33935 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polynomial_representations_of_cyclic_redundancy_checks> ;
+    skos:prefLabel "Polynomial representations of cyclic redundancy checks" ;
+    skos:related ocs:C12485,
+        ocs:C17903,
+        ocs:C19749,
+        ocs:C21496,
+        ocs:C21929,
+        ocs:C33935,
+        ocs:C3936,
+        ocs:C42169,
+        ocs:C43107,
+        ocs:C44441,
+        ocs:C45757,
+        ocs:C45881 .
+

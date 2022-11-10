@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38212 a skos:Concept ;
+    skos:broader ocs:C30953 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nearline_storage> ;
+    skos:prefLabel "Nearline storage" ;
+    skos:related ocs:C10501,
+        ocs:C10785,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C16416,
+        ocs:C17533,
+        ocs:C20685,
+        ocs:C29116,
+        ocs:C29301,
+        ocs:C29846,
+        ocs:C30953,
+        ocs:C3231,
+        ocs:C36822,
+        ocs:C40587,
+        ocs:C43308 .
+

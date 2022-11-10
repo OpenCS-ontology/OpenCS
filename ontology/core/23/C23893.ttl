@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23893 a skos:Concept ;
+    skos:broader ocs:C10668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deviated_gaze> ;
+    skos:prefLabel "Deviated gaze" ;
+    skos:related ocs:C17659,
+        ocs:C25191,
+        ocs:C33343 .
+

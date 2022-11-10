@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19845 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/RAD750> ;
+    skos:prefLabel "RAD750" ;
+    skos:related ocs:C10320,
+        ocs:C10409,
+        ocs:C17601,
+        ocs:C19756,
+        ocs:C2084,
+        ocs:C25252,
+        ocs:C36673,
+        ocs:C4128,
+        ocs:C4824,
+        ocs:C5293 .
+

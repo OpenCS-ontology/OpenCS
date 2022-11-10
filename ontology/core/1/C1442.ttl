@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1442 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fork_bomb> ;
+    skos:prefLabel "Fork bomb" ;
+    skos:related ocs:C10423,
+        ocs:C12306,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C20800,
+        ocs:C22094,
+        ocs:C27557,
+        ocs:C31489,
+        ocs:C34227,
+        ocs:C43822,
+        ocs:C4813,
+        ocs:C5049,
+        ocs:C6072,
+        ocs:C6346,
+        ocs:C8455,
+        ocs:C8704,
+        ocs:C9 .
+

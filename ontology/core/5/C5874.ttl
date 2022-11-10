@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5874 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correlate_summation_analysis> ;
+    skos:prefLabel "Correlate summation analysis" ;
+    skos:related ocs:C13748,
+        ocs:C13789,
+        ocs:C18625,
+        ocs:C26767,
+        ocs:C26888,
+        ocs:C3065,
+        ocs:C3389,
+        ocs:C42463,
+        ocs:C6912,
+        ocs:C9874 .
+

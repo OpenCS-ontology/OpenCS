@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C670 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ground_speed> ;
+    skos:prefLabel "Ground speed" ;
+    skos:related ocs:C12641,
+        ocs:C14324,
+        ocs:C15071,
+        ocs:C15953,
+        ocs:C18521,
+        ocs:C22629,
+        ocs:C24485,
+        ocs:C25753,
+        ocs:C31255,
+        ocs:C38466,
+        ocs:C41539,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C8888 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3612 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/ROUGE_(metric)> ;
+    skos:prefLabel "ROUGE" ;
+    skos:related ocs:C1040,
+        ocs:C10522,
+        ocs:C11386,
+        ocs:C11722,
+        ocs:C1339,
+        ocs:C13872,
+        ocs:C1444,
+        ocs:C16741,
+        ocs:C16745,
+        ocs:C19194,
+        ocs:C23090,
+        ocs:C23474,
+        ocs:C3192,
+        ocs:C3736,
+        ocs:C39236,
+        ocs:C5852,
+        ocs:C6947,
+        ocs:C8710 .
+

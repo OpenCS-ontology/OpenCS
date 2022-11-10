@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13071 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Models_of_collaborative_tagging> ;
+    skos:prefLabel "Models of collaborative tagging" ;
+    skos:related ocs:C11126,
+        ocs:C11205,
+        ocs:C12743,
+        ocs:C13108,
+        ocs:C13520,
+        ocs:C17658,
+        ocs:C22668,
+        ocs:C26012,
+        ocs:C26629,
+        ocs:C312,
+        ocs:C4866,
+        ocs:C5140,
+        ocs:C6504,
+        ocs:C8905,
+        ocs:C9209,
+        ocs:C9876 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3129 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single_source_of_truth> ;
+    skos:prefLabel "Single source of truth" ;
+    skos:related ocs:C10979,
+        ocs:C12185,
+        ocs:C12694,
+        ocs:C15472,
+        ocs:C17905,
+        ocs:C2401,
+        ocs:C25464,
+        ocs:C27200,
+        ocs:C2885,
+        ocs:C34873,
+        ocs:C35,
+        ocs:C35267,
+        ocs:C38271,
+        ocs:C42440,
+        ocs:C5822,
+        ocs:C688 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23056 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_portfolio> ;
+    skos:prefLabel "Patent portfolio" ;
+    skos:related ocs:C13306,
+        ocs:C13634,
+        ocs:C16398,
+        ocs:C16575,
+        ocs:C18186,
+        ocs:C24730,
+        ocs:C2543,
+        ocs:C26363,
+        ocs:C26600,
+        ocs:C27519,
+        ocs:C29370,
+        ocs:C31789,
+        ocs:C32561,
+        ocs:C36354,
+        ocs:C4880 .
+

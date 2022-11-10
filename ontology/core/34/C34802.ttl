@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34802 a skos:Concept ;
+    skos:broader ocs:C19524,
+        ocs:C22491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lanthanum%28III%29_bromide> ;
+    skos:prefLabel "Lanthanum bromide" ;
+    skos:related ocs:C19292,
+        ocs:C20298,
+        ocs:C25787 .
+

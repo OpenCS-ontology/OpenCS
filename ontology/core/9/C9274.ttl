@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9274 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Content_Vectoring_Protocol> ;
+    skos:prefLabel "Content Vectoring Protocol" ;
+    skos:related ocs:C10249,
+        ocs:C12274,
+        ocs:C13252,
+        ocs:C13307,
+        ocs:C14810,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C26783,
+        ocs:C28592,
+        ocs:C29359,
+        ocs:C3901,
+        ocs:C39141,
+        ocs:C5112,
+        ocs:C6414,
+        ocs:C8614 .
+

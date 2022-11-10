@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2413 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integer_programming> ;
+    skos:prefLabel "Integer programming" ;
+    skos:related ocs:C11372,
+        ocs:C15480,
+        ocs:C15675,
+        ocs:C23250,
+        ocs:C23872,
+        ocs:C26453,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C3837,
+        ocs:C7397,
+        ocs:C77,
+        ocs:C8435,
+        ocs:C8660,
+        ocs:C8944 .
+

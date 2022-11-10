@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2298 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grammar> ;
+    skos:prefLabel "Grammar" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C1952,
+        ocs:C24499,
+        ocs:C2761,
+        ocs:C32159,
+        ocs:C6545,
+        ocs:C7040,
+        ocs:C7501,
+        ocs:C8020 .
+

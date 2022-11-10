@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25126 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solar_sail> ;
+    skos:prefLabel "Solar sail" ;
+    skos:related ocs:C2252,
+        ocs:C24464,
+        ocs:C26021,
+        ocs:C5293 .
+

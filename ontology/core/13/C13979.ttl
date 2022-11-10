@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13979 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/CableCARD> ;
+    skos:prefLabel "CableCARD" ;
+    skos:related ocs:C12544,
+        ocs:C18697,
+        ocs:C18761,
+        ocs:C25850,
+        ocs:C27103,
+        ocs:C27572,
+        ocs:C30635,
+        ocs:C30923,
+        ocs:C34364,
+        ocs:C3522,
+        ocs:C36807,
+        ocs:C37464,
+        ocs:C4433,
+        ocs:C5692,
+        ocs:C8351,
+        ocs:C9176 .
+

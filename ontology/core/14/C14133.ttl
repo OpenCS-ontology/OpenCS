@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14133 a skos:Concept ;
+    skos:broader ocs:C5660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Risk_breakdown_structure> ;
+    skos:prefLabel "Risk breakdown structure" ;
+    skos:related ocs:C19049,
+        ocs:C21443,
+        ocs:C37136,
+        ocs:C38970,
+        ocs:C924 .
+

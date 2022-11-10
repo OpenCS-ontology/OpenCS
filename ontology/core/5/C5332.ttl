@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5332 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_combination> ;
+    skos:prefLabel "Linear combination" ;
+    skos:related ocs:C1220,
+        ocs:C1385,
+        ocs:C1844,
+        ocs:C20124,
+        ocs:C28787,
+        ocs:C8749 .
+

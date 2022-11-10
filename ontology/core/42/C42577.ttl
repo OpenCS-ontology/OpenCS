@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42577 a skos:Concept ;
+    skos:broader ocs:C32396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knuth's_up-arrow_notation> ;
+    skos:prefLabel "Knuth's up-arrow notation" ;
+    skos:related ocs:C18434,
+        ocs:C28170,
+        ocs:C3931,
+        ocs:C5867,
+        ocs:C5914 .
+

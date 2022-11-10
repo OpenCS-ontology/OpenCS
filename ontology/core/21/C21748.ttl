@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21748 a skos:Concept ;
+    skos:broader ocs:C10327,
+        ocs:C156,
+        ocs:C4321,
+        ocs:C6531 ;
+    skos:closeMatch <http://dbpedia.org/resource/Warren_Abstract_Machine> ;
+    skos:prefLabel "Warren Abstract Machine" ;
+    skos:related ocs:C10320,
+        ocs:C10327,
+        ocs:C11812,
+        ocs:C156,
+        ocs:C17372,
+        ocs:C19,
+        ocs:C22100,
+        ocs:C22322,
+        ocs:C28783,
+        ocs:C36877,
+        ocs:C37538,
+        ocs:C4321,
+        ocs:C44124,
+        ocs:C44891,
+        ocs:C6072,
+        ocs:C6531,
+        ocs:C7800,
+        ocs:C8,
+        ocs:C8037,
+        ocs:C856 .
+

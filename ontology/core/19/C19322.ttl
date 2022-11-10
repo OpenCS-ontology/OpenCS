@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19322 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Window_operator> ;
+    skos:prefLabel "Window operator" ;
+    skos:related ocs:C10140,
+        ocs:C13408,
+        ocs:C16929,
+        ocs:C17925,
+        ocs:C23265,
+        ocs:C31196,
+        ocs:C34795,
+        ocs:C38919,
+        ocs:C39399,
+        ocs:C41223,
+        ocs:C41584,
+        ocs:C43371,
+        ocs:C43742 .
+

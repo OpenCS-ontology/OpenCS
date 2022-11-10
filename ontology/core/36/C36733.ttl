@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36733 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_state_information> ;
+    skos:prefLabel "Channel state information" ;
+    skos:related ocs:C14099,
+        ocs:C15410,
+        ocs:C19721,
+        ocs:C19905,
+        ocs:C21204,
+        ocs:C21471,
+        ocs:C24264,
+        ocs:C24558,
+        ocs:C30265,
+        ocs:C30728,
+        ocs:C31025,
+        ocs:C32290,
+        ocs:C32844,
+        ocs:C34748,
+        ocs:C37679,
+        ocs:C41276,
+        ocs:C43006,
+        ocs:C43848,
+        ocs:C4665 .
+

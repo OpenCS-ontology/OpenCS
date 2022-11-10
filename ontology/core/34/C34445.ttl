@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34445 a skos:Concept ;
+    skos:broader ocs:C16953,
+        ocs:C18971,
+        ocs:C21887,
+        ocs:C27923 ;
+    skos:prefLabel "Packet switching computer networks" .
+

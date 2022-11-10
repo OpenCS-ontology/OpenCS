@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2172 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_logger> ;
+    skos:prefLabel "Data logger" ;
+    skos:related ocs:C11,
+        ocs:C11404,
+        ocs:C1253,
+        ocs:C12641,
+        ocs:C14271,
+        ocs:C1665,
+        ocs:C21424,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C27036,
+        ocs:C28881,
+        ocs:C34398,
+        ocs:C3452,
+        ocs:C35,
+        ocs:C39553,
+        ocs:C5821,
+        ocs:C6,
+        ocs:C8614,
+        ocs:C9 .
+

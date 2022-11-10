@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17046 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cybercrime> ;
+    skos:prefLabel "Cybercrime" ;
+    skos:related ocs:C17205,
+        ocs:C18764,
+        ocs:C18986,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C28885,
+        ocs:C2941,
+        ocs:C29803,
+        ocs:C30412,
+        ocs:C35,
+        ocs:C394,
+        ocs:C44734,
+        ocs:C6286,
+        ocs:C8458,
+        ocs:C8614 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21213 a skos:Concept ;
+    skos:broader ocs:C7195 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_sign_design> ;
+    skos:prefLabel "Traffic sign design" ;
+    skos:related ocs:C11869,
+        ocs:C12317,
+        ocs:C13413,
+        ocs:C14828,
+        ocs:C17865,
+        ocs:C18,
+        ocs:C18233,
+        ocs:C25484,
+        ocs:C34564,
+        ocs:C5558,
+        ocs:C6037,
+        ocs:C6124,
+        ocs:C9657 .
+

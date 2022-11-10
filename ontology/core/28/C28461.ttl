@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28461 a skos:Concept ;
+    skos:broader ocs:C1564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relative_intensity_noise> ;
+    skos:prefLabel "Relative intensity noise" ;
+    skos:related ocs:C12481,
+        ocs:C1564 .
+

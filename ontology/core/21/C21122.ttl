@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21122 a skos:Concept ;
+    skos:broader ocs:C10720,
+        ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Access_modifiers> ;
+    skos:prefLabel "Access modifiers" ;
+    skos:related ocs:C10182,
+        ocs:C10332,
+        ocs:C10720,
+        ocs:C13411,
+        ocs:C14636,
+        ocs:C17734,
+        ocs:C22630,
+        ocs:C23470,
+        ocs:C2879,
+        ocs:C31014,
+        ocs:C35141,
+        ocs:C38027,
+        ocs:C39497,
+        ocs:C42032,
+        ocs:C4321,
+        ocs:C4922,
+        ocs:C7116,
+        ocs:C8193,
+        ocs:C8616 .
+

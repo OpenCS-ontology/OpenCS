@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38724 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C36703,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combs_method> ;
+    skos:prefLabel "Combs method" ;
+    skos:related ocs:C10479,
+        ocs:C10825,
+        ocs:C16356,
+        ocs:C16802,
+        ocs:C22431,
+        ocs:C32129,
+        ocs:C33238,
+        ocs:C33734,
+        ocs:C36703,
+        ocs:C40041,
+        ocs:C41791,
+        ocs:C43307,
+        ocs:C43335,
+        ocs:C43990,
+        ocs:C44599,
+        ocs:C44742,
+        ocs:C5659,
+        ocs:C6147,
+        ocs:C8 .
+

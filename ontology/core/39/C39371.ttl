@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39371 a skos:Concept ;
+    skos:broader ocs:C30652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensor_web> ;
+    skos:prefLabel "Sensor web" ;
+    skos:related ocs:C1037,
+        ocs:C11,
+        ocs:C11027,
+        ocs:C13593,
+        ocs:C15415,
+        ocs:C19003,
+        ocs:C23438,
+        ocs:C31,
+        ocs:C38078,
+        ocs:C38189,
+        ocs:C39955,
+        ocs:C40705,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C44892,
+        ocs:C45545,
+        ocs:C45779,
+        ocs:C8172,
+        ocs:C8614 .
+

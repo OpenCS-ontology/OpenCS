@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13054 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mycocepurus_castrator> ;
+    skos:prefLabel "Mycocepurus castrator" ;
+    skos:related ocs:C22675,
+        ocs:C27032,
+        ocs:C2760,
+        ocs:C32322,
+        ocs:C37210 .
+

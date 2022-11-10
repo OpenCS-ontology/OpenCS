@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11946 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quotative> ;
+    skos:prefLabel "Quotative" ;
+    skos:related ocs:C12437,
+        ocs:C15012,
+        ocs:C17260,
+        ocs:C19932,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28817,
+        ocs:C3261,
+        ocs:C34204,
+        ocs:C37038,
+        ocs:C44227,
+        ocs:C6545,
+        ocs:C8454 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25931 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arvanitika> ;
+    skos:prefLabel "Arvanitika" ;
+    skos:related ocs:C20481,
+        ocs:C25565,
+        ocs:C7501,
+        ocs:C8626 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C332 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTML_sanitization> ;
+    skos:prefLabel "HTML sanitization" ;
+    skos:related ocs:C14983,
+        ocs:C16338,
+        ocs:C19358,
+        ocs:C20937,
+        ocs:C22668,
+        ocs:C25697,
+        ocs:C30405,
+        ocs:C30926,
+        ocs:C32485,
+        ocs:C36388,
+        ocs:C39663,
+        ocs:C42057,
+        ocs:C45342,
+        ocs:C45402,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C4918,
+        ocs:C7530 .
+

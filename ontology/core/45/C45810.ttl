@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45810 a skos:Concept ;
+    skos:broader ocs:C33605,
+        ocs:C37203 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supersampling> ;
+    skos:prefLabel "Supersampling" ;
+    skos:related ocs:C12347,
+        ocs:C1274,
+        ocs:C14692,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C20122,
+        ocs:C20802,
+        ocs:C34585,
+        ocs:C37582,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C42679,
+        ocs:C6448,
+        ocs:C6816,
+        ocs:C8021 .
+

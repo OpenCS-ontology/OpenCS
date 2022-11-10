@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23723 a skos:Concept ;
+    skos:broader ocs:C4199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line_clipping> ;
+    skos:prefLabel "Line clipping" ;
+    skos:related ocs:C10060,
+        ocs:C11234,
+        ocs:C12012,
+        ocs:C12122,
+        ocs:C1381,
+        ocs:C15632,
+        ocs:C22,
+        ocs:C28240,
+        ocs:C29474,
+        ocs:C38430,
+        ocs:C42716 .
+

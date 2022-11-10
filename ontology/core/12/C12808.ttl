@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12808 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_navigation> ;
+    skos:prefLabel "Electronic navigation" ;
+    skos:related ocs:C12641,
+        ocs:C14324,
+        ocs:C1645,
+        ocs:C27698,
+        ocs:C3230,
+        ocs:C6096,
+        ocs:C6495,
+        ocs:C9831 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36907 a skos:Concept ;
+    skos:broader ocs:C16570,
+        ocs:C17378 ;
+    skos:closeMatch <http://dbpedia.org/resource/Error_exponent> ;
+    skos:prefLabel "Error exponent" .
+

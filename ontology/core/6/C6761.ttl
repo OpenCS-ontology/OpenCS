@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6761 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/GRASP_(object-oriented_design)> ;
+    skos:prefLabel "GRASP" ;
+    skos:related ocs:C10508,
+        ocs:C10720,
+        ocs:C10779,
+        ocs:C14405,
+        ocs:C15786,
+        ocs:C16530,
+        ocs:C2057,
+        ocs:C22095,
+        ocs:C2214,
+        ocs:C22259,
+        ocs:C24453,
+        ocs:C31691,
+        ocs:C32078,
+        ocs:C32225,
+        ocs:C37467,
+        ocs:C41867,
+        ocs:C43108,
+        ocs:C43369 .
+

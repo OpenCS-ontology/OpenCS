@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26175 a skos:Concept ;
+    skos:broader ocs:C545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_Galileo> ;
+    skos:prefLabel "Intel Galileo" ;
+    skos:related ocs:C17404,
+        ocs:C1810,
+        ocs:C21424,
+        ocs:C21616,
+        ocs:C29046,
+        ocs:C3893,
+        ocs:C39121,
+        ocs:C40232,
+        ocs:C40433,
+        ocs:C40556,
+        ocs:C6538,
+        ocs:C7165,
+        ocs:C9601,
+        ocs:C9897 .
+

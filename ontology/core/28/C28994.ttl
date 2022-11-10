@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28994 a skos:Concept ;
+    skos:broader ocs:C8614,
+        ocs:C9685 ;
+    skos:closeMatch <http://dbpedia.org/resource/URI_scheme> ;
+    skos:prefLabel "URI scheme" .
+

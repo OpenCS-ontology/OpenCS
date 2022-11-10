@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30147 a skos:Concept ;
+    skos:broader ocs:C14264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anthopleurin> ;
+    skos:prefLabel "Anthopleurin" ;
+    skos:related ocs:C15901,
+        ocs:C19629,
+        ocs:C31852,
+        ocs:C35813,
+        ocs:C37219,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C41979,
+        ocs:C42913,
+        ocs:C43976 .
+

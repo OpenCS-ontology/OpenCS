@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45139 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C36077,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shoelace_formula> ;
+    skos:prefLabel "Shoelace formula" ;
+    skos:related ocs:C36077,
+        ocs:C38214,
+        ocs:C38516,
+        ocs:C43433,
+        ocs:C43646,
+        ocs:C43811,
+        ocs:C43898 .
+

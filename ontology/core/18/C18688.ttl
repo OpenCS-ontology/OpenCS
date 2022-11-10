@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18688 a skos:Concept ;
+    skos:broader ocs:C6116 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smeed's_law> ;
+    skos:prefLabel "Smeed's law" ;
+    skos:related ocs:C11656,
+        ocs:C12758,
+        ocs:C14215,
+        ocs:C14828,
+        ocs:C17865,
+        ocs:C25914,
+        ocs:C3390,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

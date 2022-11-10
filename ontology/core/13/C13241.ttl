@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13241 a skos:Concept ;
+    skos:broader ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Privacy_regulation_theory> ;
+    skos:prefLabel "Privacy regulation theory" ;
+    skos:related ocs:C8701 .
+

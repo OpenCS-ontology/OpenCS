@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45447 a skos:Concept ;
+    skos:broader ocs:C30220,
+        ocs:C31913 ;
+    skos:prefLabel "Piriformis Muscle Syndrome" ;
+    skos:related ocs:C31913 .
+

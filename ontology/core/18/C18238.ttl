@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18238 a skos:Concept ;
+    skos:broader ocs:C9603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_dressing_room> ;
+    skos:prefLabel "Virtual dressing room" ;
+    skos:related ocs:C11710,
+        ocs:C1239,
+        ocs:C13320,
+        ocs:C19724,
+        ocs:C24205,
+        ocs:C25022,
+        ocs:C25752,
+        ocs:C25786,
+        ocs:C25925,
+        ocs:C26014,
+        ocs:C27498,
+        ocs:C3444,
+        ocs:C4917,
+        ocs:C6659,
+        ocs:C7,
+        ocs:C7393,
+        ocs:C9601,
+        ocs:C9603 .
+

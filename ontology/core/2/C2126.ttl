@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2126 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_prediction> ;
+    skos:prefLabel "Performance prediction" ;
+    skos:related ocs:C1,
+        ocs:C11328,
+        ocs:C12677,
+        ocs:C21305,
+        ocs:C2523,
+        ocs:C27338,
+        ocs:C28073,
+        ocs:C4321,
+        ocs:C44389,
+        ocs:C7256,
+        ocs:C7735 .
+

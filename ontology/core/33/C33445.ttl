@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33445 a skos:Concept ;
+    skos:broader ocs:C17577,
+        ocs:C18096 ;
+    skos:prefLabel "Single patch" ;
+    skos:related ocs:C13155,
+        ocs:C18096,
+        ocs:C3,
+        ocs:C8021,
+        ocs:C9664 .
+

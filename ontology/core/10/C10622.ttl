@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10622 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Atomic_formula> ;
+    skos:prefLabel "Atomic formula" ;
+    skos:related ocs:C10671,
+        ocs:C10825,
+        ocs:C11635,
+        ocs:C12023,
+        ocs:C12474,
+        ocs:C13255,
+        ocs:C14249,
+        ocs:C17884,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C2978,
+        ocs:C30367,
+        ocs:C40719,
+        ocs:C44339,
+        ocs:C45525,
+        ocs:C5251,
+        ocs:C8077,
+        ocs:C8635,
+        ocs:C9698 .
+

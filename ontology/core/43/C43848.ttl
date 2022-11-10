@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43848 a skos:Concept ;
+    skos:broader ocs:C31794,
+        ocs:C37294 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bell_Laboratories_Layered_Space-Time> ;
+    skos:prefLabel "Bell Laboratories Layered Space-Time" ;
+    skos:related ocs:C14099,
+        ocs:C18520,
+        ocs:C21471,
+        ocs:C23429,
+        ocs:C24558,
+        ocs:C30265,
+        ocs:C30728,
+        ocs:C31025,
+        ocs:C32290,
+        ocs:C32844,
+        ocs:C34748,
+        ocs:C35462,
+        ocs:C36695,
+        ocs:C36733,
+        ocs:C38536,
+        ocs:C4104,
+        ocs:C41276,
+        ocs:C43806,
+        ocs:C4665 .
+

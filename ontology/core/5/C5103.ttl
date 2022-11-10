@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5103 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/SIPTA> ;
+    skos:prefLabel "SIPTA" ;
+    skos:related ocs:C1092,
+        ocs:C11608,
+        ocs:C11781,
+        ocs:C20012,
+        ocs:C21729,
+        ocs:C22598,
+        ocs:C37007,
+        ocs:C5209,
+        ocs:C5660,
+        ocs:C5856,
+        ocs:C8473 .
+

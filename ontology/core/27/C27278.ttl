@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27278 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C3990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concurrency_semantics> ;
+    skos:prefLabel "Concurrency semantics" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C10506,
+        ocs:C12427,
+        ocs:C13057,
+        ocs:C15549,
+        ocs:C1631,
+        ocs:C17971,
+        ocs:C25382,
+        ocs:C27718,
+        ocs:C32014,
+        ocs:C32786,
+        ocs:C36771,
+        ocs:C38239,
+        ocs:C3990,
+        ocs:C45777,
+        ocs:C5974,
+        ocs:C7903 .
+

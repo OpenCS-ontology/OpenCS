@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18774 a skos:Concept ;
+    skos:broader ocs:C11282,
+        ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rook_polynomial> ;
+    skos:prefLabel "Rook polynomial" ;
+    skos:related ocs:C11282,
+        ocs:C25685,
+        ocs:C35080,
+        ocs:C40771,
+        ocs:C41794,
+        ocs:C5242 .
+

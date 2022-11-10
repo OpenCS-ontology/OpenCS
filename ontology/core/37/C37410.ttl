@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37410 a skos:Concept ;
+    skos:broader ocs:C17166 ;
+    skos:prefLabel "Digital Data Repository" ;
+    skos:related ocs:C1253,
+        ocs:C1704,
+        ocs:C23,
+        ocs:C31,
+        ocs:C3231,
+        ocs:C6,
+        ocs:C7106 .
+

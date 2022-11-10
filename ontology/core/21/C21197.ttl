@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21197 a skos:Concept ;
+    skos:broader ocs:C11701,
+        ocs:C4216,
+        ocs:C7765 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signomial> ;
+    skos:prefLabel "Signomial" ;
+    skos:related ocs:C11150,
+        ocs:C11701,
+        ocs:C25362,
+        ocs:C43695,
+        ocs:C7765 .
+

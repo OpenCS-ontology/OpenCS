@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27379 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bergman_kernel> ;
+    skos:prefLabel "Bergman kernel" ;
+    skos:related ocs:C18076,
+        ocs:C20853,
+        ocs:C28787,
+        ocs:C30571,
+        ocs:C32918,
+        ocs:C39613,
+        ocs:C40195 .
+

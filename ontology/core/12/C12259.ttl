@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12259 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Media_controls> ;
+    skos:prefLabel "Media controls" ;
+    skos:related ocs:C11040,
+        ocs:C12430,
+        ocs:C12580,
+        ocs:C13983,
+        ocs:C16856,
+        ocs:C18697,
+        ocs:C23473,
+        ocs:C27132,
+        ocs:C3022,
+        ocs:C520,
+        ocs:C9244,
+        ocs:C9253 .
+

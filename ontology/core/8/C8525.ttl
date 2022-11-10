@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8525 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nanoionic_device> ;
+    skos:prefLabel "Nanoionic device" ;
+    skos:related ocs:C10213,
+        ocs:C13783,
+        ocs:C22680,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C33839,
+        ocs:C3984,
+        ocs:C42254,
+        ocs:C8875 .
+

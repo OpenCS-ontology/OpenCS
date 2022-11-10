@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35153 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_dynamical_system> ;
+    skos:prefLabel "Sequential dynamical system" ;
+    skos:related ocs:C122,
+        ocs:C14123,
+        ocs:C14693,
+        ocs:C15893,
+        ocs:C18975,
+        ocs:C25010,
+        ocs:C25223,
+        ocs:C28991,
+        ocs:C30245,
+        ocs:C40694,
+        ocs:C40771,
+        ocs:C42164 .
+

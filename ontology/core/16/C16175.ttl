@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16175 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proof-of-payment> ;
+    skos:prefLabel "Proof-of-payment" ;
+    skos:related ocs:C12758,
+        ocs:C17106,
+        ocs:C24342,
+        ocs:C4998,
+        ocs:C7714 .
+

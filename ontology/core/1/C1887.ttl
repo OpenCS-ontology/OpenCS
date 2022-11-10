@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1887 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Retrievability> ;
+    skos:prefLabel "Retrievability" ;
+    skos:related ocs:C11089,
+        ocs:C12998,
+        ocs:C1561,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C27199,
+        ocs:C31312,
+        ocs:C33651,
+        ocs:C3587,
+        ocs:C38799,
+        ocs:C428,
+        ocs:C4781,
+        ocs:C5675,
+        ocs:C972,
+        ocs:C9876 .
+

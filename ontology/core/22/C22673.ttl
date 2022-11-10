@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22673 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision-making_software> ;
+    skos:prefLabel "Decision-making software" ;
+    skos:related ocs:C1332,
+        ocs:C17168,
+        ocs:C22628,
+        ocs:C2529,
+        ocs:C31111,
+        ocs:C36383,
+        ocs:C3753,
+        ocs:C38630,
+        ocs:C5352,
+        ocs:C7056,
+        ocs:C912,
+        ocs:C9608 .
+

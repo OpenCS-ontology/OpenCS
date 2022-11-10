@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24387 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inferential_role_semantics> ;
+    skos:prefLabel "Inferential role semantics" ;
+    skos:related ocs:C1451,
+        ocs:C22456,
+        ocs:C26109,
+        ocs:C26635,
+        ocs:C35873,
+        ocs:C36547,
+        ocs:C42827,
+        ocs:C7467 .
+

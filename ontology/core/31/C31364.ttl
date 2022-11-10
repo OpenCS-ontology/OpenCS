@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31364 a skos:Concept ;
+    skos:broader ocs:C26017 ;
+    skos:prefLabel "Between-Subjects Factor" ;
+    skos:related ocs:C1,
+        ocs:C10445,
+        ocs:C1502,
+        ocs:C18,
+        ocs:C35,
+        ocs:C672 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39302 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C31195,
+        ocs:C33187,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hermitian_adjoint> ;
+    skos:prefLabel "Hermitian adjoint" ;
+    skos:related ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C29576,
+        ocs:C31450,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C33700,
+        ocs:C36974 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27265 a skos:Concept ;
+    skos:broader ocs:C5659,
+        ocs:C9781 ;
+    skos:closeMatch <http://dbpedia.org/resource/VIKOR_method> ;
+    skos:prefLabel "VIKOR method" ;
+    skos:related ocs:C14579,
+        ocs:C17168,
+        ocs:C22673,
+        ocs:C24853,
+        ocs:C30507,
+        ocs:C32194,
+        ocs:C33161,
+        ocs:C38630,
+        ocs:C44599,
+        ocs:C5352 .
+

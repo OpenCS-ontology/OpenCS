@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11254 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_music> ;
+    skos:prefLabel "Electronic music" ;
+    skos:related ocs:C520,
+        ocs:C7255,
+        ocs:C8718 .
+

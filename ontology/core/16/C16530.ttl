@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16530 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_design_pattern> ;
+    skos:prefLabel "Software design pattern" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C11117,
+        ocs:C11293,
+        ocs:C12293,
+        ocs:C14329,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C2215,
+        ocs:C22259,
+        ocs:C24909,
+        ocs:C25957,
+        ocs:C25978,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C31894,
+        ocs:C43369,
+        ocs:C44346,
+        ocs:C44634 .
+

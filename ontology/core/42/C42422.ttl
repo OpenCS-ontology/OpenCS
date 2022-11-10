@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42422 a skos:Concept ;
+    skos:broader ocs:C29941,
+        ocs:C30801,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C34380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stickelberger's_theorem> ;
+    skos:prefLabel "Stickelberger's theorem" ;
+    skos:related ocs:C29941,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C44869,
+        ocs:C45133 .
+

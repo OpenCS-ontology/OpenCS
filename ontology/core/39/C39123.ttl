@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39123 a skos:Concept ;
+    skos:broader ocs:C31198 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coppersmith–Winograd_algorithm> ;
+    skos:prefLabel "Coppersmith–Winograd algorithm" ;
+    skos:related ocs:C11443,
+        ocs:C40066,
+        ocs:C6715,
+        ocs:C8660 .
+

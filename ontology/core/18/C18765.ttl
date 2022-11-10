@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18765 a skos:Concept ;
+    skos:broader ocs:C6761 ;
+    skos:prefLabel "Hand grasp" ;
+    skos:related ocs:C1239,
+        ocs:C17,
+        ocs:C2,
+        ocs:C21,
+        ocs:C4256,
+        ocs:C5818 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27169 a skos:Concept ;
+    skos:broader ocs:C3195,
+        ocs:C5007 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_Management_Bus> ;
+    skos:prefLabel "Power Management Bus" ;
+    skos:related ocs:C13386,
+        ocs:C22530,
+        ocs:C2430,
+        ocs:C3357,
+        ocs:C34195,
+        ocs:C35309,
+        ocs:C3893,
+        ocs:C6538,
+        ocs:C6866,
+        ocs:C8188,
+        ocs:C8718 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43017 a skos:Concept ;
+    skos:broader ocs:C31363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_caching> ;
+    skos:prefLabel "Database caching" ;
+    skos:related ocs:C1060,
+        ocs:C10988,
+        ocs:C12185,
+        ocs:C1253,
+        ocs:C16874,
+        ocs:C23269,
+        ocs:C28,
+        ocs:C28881,
+        ocs:C33457,
+        ocs:C36078,
+        ocs:C3850,
+        ocs:C3896,
+        ocs:C3934,
+        ocs:C39629,
+        ocs:C6,
+        ocs:C6173,
+        ocs:C6650,
+        ocs:C7106,
+        ocs:C9 .
+

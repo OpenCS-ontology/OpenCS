@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14265 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C8704,
+        ocs:C9720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Terminal_control_area> ;
+    skos:prefLabel "Terminal control area" ;
+    skos:related ocs:C14241,
+        ocs:C18229,
+        ocs:C18996,
+        ocs:C20391,
+        ocs:C23477,
+        ocs:C27838,
+        ocs:C33217,
+        ocs:C35629,
+        ocs:C45176,
+        ocs:C4597,
+        ocs:C9720 .
+

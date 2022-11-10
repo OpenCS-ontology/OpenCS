@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42346 a skos:Concept ;
+    skos:broader ocs:C34684 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_bomb> ;
+    skos:prefLabel "Email bomb" ;
+    skos:related ocs:C11371,
+        ocs:C16205,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C18986,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C32264,
+        ocs:C35,
+        ocs:C39064,
+        ocs:C39520,
+        ocs:C4075,
+        ocs:C41323,
+        ocs:C44734,
+        ocs:C6286,
+        ocs:C8614 .
+

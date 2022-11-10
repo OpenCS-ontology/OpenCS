@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45885 a skos:Concept ;
+    skos:broader ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Team_software_process> ;
+    skos:prefLabel "Team software process" ;
+    skos:related ocs:C18274,
+        ocs:C19670,
+        ocs:C20618,
+        ocs:C23437,
+        ocs:C23580,
+        ocs:C24722,
+        ocs:C28080,
+        ocs:C31320,
+        ocs:C35144,
+        ocs:C37174,
+        ocs:C41586,
+        ocs:C41673,
+        ocs:C42516,
+        ocs:C4509,
+        ocs:C45401,
+        ocs:C4558 .
+

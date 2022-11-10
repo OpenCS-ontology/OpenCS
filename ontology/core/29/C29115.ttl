@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29115 a skos:Concept ;
+    skos:broader ocs:C5619,
+        ocs:C8711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Privilege_Management_Infrastructure> ;
+    skos:prefLabel "Privilege Management Infrastructure" ;
+    skos:related ocs:C11091,
+        ocs:C29951,
+        ocs:C30278,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C32956,
+        ocs:C34607,
+        ocs:C35402,
+        ocs:C35626,
+        ocs:C38524,
+        ocs:C39338,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41443,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C44321 .
+

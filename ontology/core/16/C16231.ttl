@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16231 a skos:Concept ;
+    skos:broader ocs:C3569,
+        ocs:C7735 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exascale_computing> ;
+    skos:prefLabel "Exascale computing" ;
+    skos:related ocs:C15477,
+        ocs:C162,
+        ocs:C1831,
+        ocs:C20959,
+        ocs:C21883,
+        ocs:C22554,
+        ocs:C2478,
+        ocs:C24846,
+        ocs:C26030,
+        ocs:C26468,
+        ocs:C27,
+        ocs:C30636,
+        ocs:C6172,
+        ocs:C6312,
+        ocs:C750,
+        ocs:C7735,
+        ocs:C7977 .
+

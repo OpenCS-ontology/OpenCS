@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9335 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_selection_vector> ;
+    skos:prefLabel "Key selection vector" ;
+    skos:related ocs:C14354,
+        ocs:C18946,
+        ocs:C23666,
+        ocs:C28967,
+        ocs:C33857,
+        ocs:C34625,
+        ocs:C36898,
+        ocs:C38429,
+        ocs:C4218,
+        ocs:C43100,
+        ocs:C4513,
+        ocs:C45628,
+        ocs:C4751,
+        ocs:C5332,
+        ocs:C6234,
+        ocs:C7006,
+        ocs:C9716 .
+

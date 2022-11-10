@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11547 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coroutine> ;
+    skos:prefLabel "Coroutine" ;
+    skos:related ocs:C10219,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11128,
+        ocs:C12846,
+        ocs:C1333,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C24909,
+        ocs:C28783,
+        ocs:C4321,
+        ocs:C4937,
+        ocs:C5049,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8864 .
+

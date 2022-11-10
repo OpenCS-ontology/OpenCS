@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11914 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scientific_communication> ;
+    skos:prefLabel "Scientific communication" ;
+    skos:related ocs:C10507,
+        ocs:C11578,
+        ocs:C12491,
+        ocs:C13153,
+        ocs:C13349,
+        ocs:C14238,
+        ocs:C178,
+        ocs:C22927,
+        ocs:C25681,
+        ocs:C41877,
+        ocs:C7355,
+        ocs:C7607,
+        ocs:C9546 .
+

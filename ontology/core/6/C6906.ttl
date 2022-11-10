@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6906 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/ICL_VME> ;
+    skos:prefLabel "ICL VME" ;
+    skos:related ocs:C10749,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C13325,
+        ocs:C13823,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2587,
+        ocs:C28464,
+        ocs:C28881,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C6,
+        ocs:C6714,
+        ocs:C7289,
+        ocs:C9,
+        ocs:C9035 .
+

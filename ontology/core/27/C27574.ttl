@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27574 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C3393,
+        ocs:C390,
+        ocs:C4197,
+        ocs:C5745,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_fair_queueing> ;
+    skos:prefLabel "Weighted fair queueing" ;
+    skos:related ocs:C12111,
+        ocs:C15172,
+        ocs:C16953,
+        ocs:C17371,
+        ocs:C17625,
+        ocs:C20691,
+        ocs:C27568,
+        ocs:C28952,
+        ocs:C30218,
+        ocs:C37577,
+        ocs:C39574,
+        ocs:C39948,
+        ocs:C40303,
+        ocs:C40876,
+        ocs:C41260,
+        ocs:C41340,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C8704 .
+

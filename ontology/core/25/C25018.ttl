@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25018 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hierarchical_modulation> ;
+    skos:prefLabel "Hierarchical modulation" ;
+    skos:related ocs:C14053,
+        ocs:C15410,
+        ocs:C19230,
+        ocs:C19492,
+        ocs:C19721,
+        ocs:C20140,
+        ocs:C21613,
+        ocs:C21749,
+        ocs:C25114,
+        ocs:C25850,
+        ocs:C27572,
+        ocs:C32488,
+        ocs:C32678,
+        ocs:C33356,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C36240,
+        ocs:C36807,
+        ocs:C44584,
+        ocs:C7502 .
+

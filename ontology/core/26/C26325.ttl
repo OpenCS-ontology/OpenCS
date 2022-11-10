@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26325 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Processor_sharing> ;
+    skos:prefLabel "Processor sharing" ;
+    skos:related ocs:C12373,
+        ocs:C15779,
+        ocs:C18439,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C23261,
+        ocs:C25438,
+        ocs:C30218,
+        ocs:C30610,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C34165,
+        ocs:C34691,
+        ocs:C35234,
+        ocs:C39751,
+        ocs:C40876,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C45748,
+        ocs:C6408 .
+

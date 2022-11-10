@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43268 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genus_(mathematics)> ;
+    skos:prefLabel "Genus (mathematics)" ;
+    skos:related ocs:C16406,
+        ocs:C38853,
+        ocs:C39334,
+        ocs:C39545 .
+

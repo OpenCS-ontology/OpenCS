@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19694 a skos:Concept ;
+    skos:broader ocs:C1197,
+        ocs:C390,
+        ocs:C5698,
+        ocs:C6773,
+        ocs:C9267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_network_interface> ;
+    skos:prefLabel "Virtual network interface" ;
+    skos:related ocs:C11387,
+        ocs:C15661,
+        ocs:C16481,
+        ocs:C20866,
+        ocs:C22906,
+        ocs:C26,
+        ocs:C28346,
+        ocs:C2935,
+        ocs:C29359,
+        ocs:C31489,
+        ocs:C32402,
+        ocs:C36926,
+        ocs:C37997,
+        ocs:C44036,
+        ocs:C5343,
+        ocs:C5698,
+        ocs:C8305,
+        ocs:C9,
+        ocs:C9267 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20673 a skos:Concept ;
+    skos:broader ocs:C5659 ;
+    skos:closeMatch <http://dbpedia.org/resource/Degree_of_truth> ;
+    skos:prefLabel "Degree of truth" ;
+    skos:related ocs:C11283,
+        ocs:C11635,
+        ocs:C14579,
+        ocs:C20451,
+        ocs:C22706,
+        ocs:C32129,
+        ocs:C36104,
+        ocs:C38533,
+        ocs:C4073,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C44339,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

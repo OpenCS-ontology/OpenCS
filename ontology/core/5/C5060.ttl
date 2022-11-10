@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5060 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sound-in-Syncs> ;
+    skos:prefLabel "Sound-in-Syncs" ;
+    skos:related ocs:C10778,
+        ocs:C12544,
+        ocs:C12699,
+        ocs:C12999,
+        ocs:C19567,
+        ocs:C28716,
+        ocs:C34890,
+        ocs:C35988,
+        ocs:C36707,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C45143,
+        ocs:C5464,
+        ocs:C6775,
+        ocs:C7300 .
+

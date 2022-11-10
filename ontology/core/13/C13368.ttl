@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13368 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_engineering_(security)> ;
+    skos:prefLabel "Social engineering (security)" ;
+    skos:related ocs:C10565,
+        ocs:C11447,
+        ocs:C1253,
+        ocs:C1399,
+        ocs:C14105,
+        ocs:C20937,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C394,
+        ocs:C4513,
+        ocs:C6924,
+        ocs:C8614,
+        ocs:C9838 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29941 a skos:Concept ;
+    skos:broader ocs:C24843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal_basis> ;
+    skos:prefLabel "Normal basis" ;
+    skos:related ocs:C19545,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C34380,
+        ocs:C40563,
+        ocs:C42422,
+        ocs:C45516,
+        ocs:C45822 .
+

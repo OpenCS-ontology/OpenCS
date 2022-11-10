@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6220 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Legacy_port> ;
+    skos:prefLabel "Legacy port" ;
+    skos:related ocs:C13022,
+        ocs:C19481,
+        ocs:C21399,
+        ocs:C23251,
+        ocs:C29012,
+        ocs:C33080,
+        ocs:C44320,
+        ocs:C6403,
+        ocs:C8345,
+        ocs:C8408 .
+

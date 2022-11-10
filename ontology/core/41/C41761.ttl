@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41761 a skos:Concept ;
+    skos:broader ocs:C31167,
+        ocs:C31458,
+        ocs:C32503,
+        ocs:C33242,
+        ocs:C35158 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple-try_Metropolis> ;
+    skos:prefLabel "Multiple-try Metropolis" ;
+    skos:related ocs:C13208,
+        ocs:C14620,
+        ocs:C1844,
+        ocs:C23865,
+        ocs:C28074,
+        ocs:C31167,
+        ocs:C31229,
+        ocs:C32503,
+        ocs:C35158,
+        ocs:C37721,
+        ocs:C38763,
+        ocs:C41470,
+        ocs:C42205,
+        ocs:C44604,
+        ocs:C8516 .
+

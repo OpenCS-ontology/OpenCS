@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1020 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_rationale> ;
+    skos:prefLabel "Design rationale" ;
+    skos:related ocs:C13152,
+        ocs:C14316,
+        ocs:C27385,
+        ocs:C33618,
+        ocs:C36835,
+        ocs:C37478,
+        ocs:C42440,
+        ocs:C43378,
+        ocs:C851,
+        ocs:C8712 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7553 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genetic_algorithm> ;
+    skos:prefLabel "Genetic algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10390,
+        ocs:C13208,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C23250,
+        ocs:C25,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C33012,
+        ocs:C34689,
+        ocs:C35139,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C8,
+        ocs:C9022 .
+

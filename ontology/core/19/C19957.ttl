@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19957 a skos:Concept ;
+    skos:broader ocs:C7502,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grating_light_valve> ;
+    skos:prefLabel "Grating light valve" ;
+    skos:related ocs:C13725,
+        ocs:C15787,
+        ocs:C21488,
+        ocs:C2416,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C27780,
+        ocs:C4528,
+        ocs:C8638,
+        ocs:C9856 .
+

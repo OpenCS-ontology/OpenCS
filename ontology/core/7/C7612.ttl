@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7612 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Demarcation_point> ;
+    skos:prefLabel "Demarcation point" ;
+    skos:related ocs:C10638,
+        ocs:C11769,
+        ocs:C13695,
+        ocs:C21610,
+        ocs:C22331,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29460,
+        ocs:C3,
+        ocs:C34141,
+        ocs:C6027,
+        ocs:C8372,
+        ocs:C9327 .
+

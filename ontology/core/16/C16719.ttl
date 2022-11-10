@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16719 a skos:Concept ;
+    skos:broader ocs:C5918 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bioregenerative_life_support_system> ;
+    skos:prefLabel "Bioregenerative life support system" ;
+    skos:related ocs:C12727,
+        ocs:C16902,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C36203,
+        ocs:C36879,
+        ocs:C5293,
+        ocs:C81 .
+

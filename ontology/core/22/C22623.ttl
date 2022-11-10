@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22623 a skos:Concept ;
+    skos:broader ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_image_processing> ;
+    skos:prefLabel "Digital image processing" ;
+    skos:related ocs:C10,
+        ocs:C1023,
+        ocs:C11150,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C1449,
+        ocs:C14863,
+        ocs:C1904,
+        ocs:C22,
+        ocs:C2801,
+        ocs:C28945,
+        ocs:C37007,
+        ocs:C5298,
+        ocs:C5854,
+        ocs:C669,
+        ocs:C7,
+        ocs:C7789,
+        ocs:C797,
+        ocs:C8021,
+        ocs:C8499 .
+

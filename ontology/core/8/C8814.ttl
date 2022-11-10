@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8814 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Closing loops" ;
+    skos:related ocs:C30,
+        ocs:C3401 .
+

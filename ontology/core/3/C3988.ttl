@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3988 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Principle_of_deferred_decision> ;
+    skos:prefLabel "Principle of deferred decision" ;
+    skos:related ocs:C10,
+        ocs:C10803,
+        ocs:C15398,
+        ocs:C20343,
+        ocs:C22099,
+        ocs:C27399,
+        ocs:C28335,
+        ocs:C35602,
+        ocs:C39924,
+        ocs:C40696,
+        ocs:C45075,
+        ocs:C5072,
+        ocs:C6537,
+        ocs:C8660,
+        ocs:C9324 .
+

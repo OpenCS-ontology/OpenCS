@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19048 a skos:Concept ;
+    skos:broader ocs:C11443,
+        ocs:C2168 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hann_function> ;
+    skos:prefLabel "Hann function" ;
+    skos:related ocs:C11150,
+        ocs:C1449,
+        ocs:C15903,
+        ocs:C17116,
+        ocs:C2168,
+        ocs:C34362,
+        ocs:C39778,
+        ocs:C42127,
+        ocs:C42625,
+        ocs:C43192,
+        ocs:C6816 .
+

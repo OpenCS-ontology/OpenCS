@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32003 a skos:Concept ;
+    skos:broader ocs:C17433,
+        ocs:C23307,
+        ocs:C28831 ;
+    skos:prefLabel "Audio signal classification" .
+

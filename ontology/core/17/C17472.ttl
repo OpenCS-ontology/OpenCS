@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17472 a skos:Concept ;
+    skos:broader ocs:C8787 ;
+    skos:closeMatch <http://dbpedia.org/resource/UCSD_Pascal> ;
+    skos:prefLabel "UCSD Pascal" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11194,
+        ocs:C14627,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C19481,
+        ocs:C22322,
+        ocs:C283,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C5396,
+        ocs:C5698,
+        ocs:C6714,
+        ocs:C8787,
+        ocs:C9,
+        ocs:C9433 .
+

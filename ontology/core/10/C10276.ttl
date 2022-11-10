@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10276 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communication_complexity> ;
+    skos:prefLabel "Communication complexity" ;
+    skos:related ocs:C25338,
+        ocs:C28639,
+        ocs:C3286,
+        ocs:C3678,
+        ocs:C39891,
+        ocs:C41131,
+        ocs:C619,
+        ocs:C8660 .
+

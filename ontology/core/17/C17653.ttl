@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17653 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software-defined_radio> ;
+    skos:prefLabel "Software-defined radio" ;
+    skos:related ocs:C10376,
+        ocs:C11814,
+        ocs:C14053,
+        ocs:C1449,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C20804,
+        ocs:C3,
+        ocs:C3236,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C5336,
+        ocs:C5369,
+        ocs:C7159,
+        ocs:C7502 .
+

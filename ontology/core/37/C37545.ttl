@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37545 a skos:Concept ;
+    skos:broader ocs:C15067,
+        ocs:C28644 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structural_linguistics> ;
+    skos:prefLabel "Structural linguistics" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C20111,
+        ocs:C3356,
+        ocs:C5556,
+        ocs:C7467,
+        ocs:C9777 .
+

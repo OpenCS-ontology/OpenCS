@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28251 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Notoncus> ;
+    skos:prefLabel "Notoncus" ;
+    skos:related ocs:C14496,
+        ocs:C18993,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C21750,
+        ocs:C32656 .
+

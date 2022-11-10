@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29730 a skos:Concept ;
+    skos:broader ocs:C26887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wave_shoaling> ;
+    skos:prefLabel "Wave shoaling" ;
+    skos:related ocs:C16540,
+        ocs:C26887,
+        ocs:C27122,
+        ocs:C30110,
+        ocs:C42088 .
+

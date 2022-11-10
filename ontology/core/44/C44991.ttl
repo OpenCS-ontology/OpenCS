@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44991 a skos:Concept ;
+    skos:broader ocs:C34898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_Location_Protocol> ;
+    skos:prefLabel "Service Location Protocol" ;
+    skos:related ocs:C14417,
+        ocs:C17918,
+        ocs:C18862,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C23995,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C31065,
+        ocs:C31990,
+        ocs:C3391,
+        ocs:C38824,
+        ocs:C39108,
+        ocs:C42612,
+        ocs:C43534,
+        ocs:C5975,
+        ocs:C6002 .
+

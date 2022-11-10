@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10088 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C18,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_visualistics> ;
+    skos:prefLabel "Computational visualistics" ;
+    skos:related ocs:C1,
+        ocs:C12638,
+        ocs:C12829,
+        ocs:C14465,
+        ocs:C19375,
+        ocs:C19697,
+        ocs:C21,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C22496,
+        ocs:C24603,
+        ocs:C25,
+        ocs:C36191,
+        ocs:C36835,
+        ocs:C3736,
+        ocs:C37582,
+        ocs:C37642,
+        ocs:C7 .
+

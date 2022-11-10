@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22535 a skos:Concept ;
+    skos:broader ocs:C9066 ;
+    skos:closeMatch <http://dbpedia.org/resource/Terminal_guidance> ;
+    skos:prefLabel "Terminal guidance" ;
+    skos:related ocs:C12931,
+        ocs:C16352,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C22021,
+        ocs:C25124,
+        ocs:C3031,
+        ocs:C30747,
+        ocs:C33072,
+        ocs:C34143,
+        ocs:C34932,
+        ocs:C9066,
+        ocs:C9431 .
+

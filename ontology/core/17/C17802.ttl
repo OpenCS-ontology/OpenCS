@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17802 a skos:Concept ;
+    skos:broader ocs:C4703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mechanical_calculator> ;
+    skos:prefLabel "Mechanical calculator" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C13649,
+        ocs:C2057,
+        ocs:C2433,
+        ocs:C3730,
+        ocs:C4703 .
+

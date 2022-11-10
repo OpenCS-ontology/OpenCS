@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23433 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C3236,
+        ocs:C390,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goodput> ;
+    skos:prefLabel "Goodput" ;
+    skos:related ocs:C12111,
+        ocs:C15065,
+        ocs:C16953,
+        ocs:C18971,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C22851,
+        ocs:C24323,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C29419,
+        ocs:C390,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C44036,
+        ocs:C44104,
+        ocs:C490 .
+

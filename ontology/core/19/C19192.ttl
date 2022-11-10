@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19192 a skos:Concept ;
+    skos:broader ocs:C13749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Use–mention_distinction> ;
+    skos:prefLabel "Use–mention distinction" ;
+    skos:related ocs:C10739,
+        ocs:C13749,
+        ocs:C1451,
+        ocs:C37730,
+        ocs:C7467 .
+

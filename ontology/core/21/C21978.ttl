@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21978 a skos:Concept ;
+    skos:broader ocs:C12641,
+        ocs:C7159,
+        ocs:C7648 ;
+    skos:closeMatch <http://dbpedia.org/resource/DCF77> ;
+    skos:prefLabel "DCF77" ;
+    skos:related ocs:C12641,
+        ocs:C15824,
+        ocs:C18001,
+        ocs:C19672,
+        ocs:C24213,
+        ocs:C27698,
+        ocs:C28069,
+        ocs:C281,
+        ocs:C30565,
+        ocs:C32576,
+        ocs:C37788,
+        ocs:C5618,
+        ocs:C7159,
+        ocs:C7648,
+        ocs:C793,
+        ocs:C8700 .
+

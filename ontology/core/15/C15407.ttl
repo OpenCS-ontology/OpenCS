@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15407 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C12206,
+        ocs:C4752 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_outlier_factor> ;
+    skos:prefLabel "Local outlier factor" ;
+    skos:related ocs:C10382,
+        ocs:C11425,
+        ocs:C12206,
+        ocs:C13,
+        ocs:C13307,
+        ocs:C14626,
+        ocs:C16054,
+        ocs:C20539,
+        ocs:C22653,
+        ocs:C25196,
+        ocs:C29024,
+        ocs:C3512,
+        ocs:C38914,
+        ocs:C39217,
+        ocs:C44201,
+        ocs:C45859,
+        ocs:C4752,
+        ocs:C5512,
+        ocs:C610,
+        ocs:C6693 .
+

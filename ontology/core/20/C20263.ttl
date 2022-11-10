@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20263 a skos:Concept ;
+    skos:broader ocs:C10616,
+        ocs:C11724,
+        ocs:C651,
+        ocs:C6749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ripple-down_rules> ;
+    skos:prefLabel "Ripple-down rules" ;
+    skos:related ocs:C10052,
+        ocs:C14156,
+        ocs:C15444,
+        ocs:C1722,
+        ocs:C25,
+        ocs:C25520,
+        ocs:C28632,
+        ocs:C29478,
+        ocs:C30649,
+        ocs:C3565,
+        ocs:C37652,
+        ocs:C38166,
+        ocs:C44883,
+        ocs:C5401,
+        ocs:C651,
+        ocs:C7652,
+        ocs:C7803 .
+

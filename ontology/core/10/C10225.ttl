@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10225 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaboration> ;
+    skos:prefLabel "Collaboration" ;
+    skos:related ocs:C11026,
+        ocs:C197,
+        ocs:C22668,
+        ocs:C35701,
+        ocs:C4866,
+        ocs:C672,
+        ocs:C7106,
+        ocs:C8614 .
+

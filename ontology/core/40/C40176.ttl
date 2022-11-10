@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40176 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C36077,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apothem> ;
+    skos:prefLabel "Apothem" ;
+    skos:related ocs:C29942,
+        ocs:C32168 .
+

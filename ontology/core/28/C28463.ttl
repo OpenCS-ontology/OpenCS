@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28463 a skos:Concept ;
+    skos:broader ocs:C2523,
+        ocs:C924 ;
+    skos:closeMatch <http://dbpedia.org/resource/FRSAD> ;
+    skos:prefLabel "FRSAD" ;
+    skos:related ocs:C10413,
+        ocs:C11182,
+        ocs:C11492,
+        ocs:C13744,
+        ocs:C14421,
+        ocs:C22687,
+        ocs:C23088,
+        ocs:C27386,
+        ocs:C27607,
+        ocs:C29008,
+        ocs:C36637,
+        ocs:C37046,
+        ocs:C37709,
+        ocs:C3896,
+        ocs:C6690,
+        ocs:C7849,
+        ocs:C9836 .
+

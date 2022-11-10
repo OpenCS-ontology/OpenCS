@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35364 a skos:Concept ;
+    skos:broader ocs:C20178,
+        ocs:C23749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bus_mastering> ;
+    skos:prefLabel "Bus mastering" ;
+    skos:related ocs:C10320,
+        ocs:C11960,
+        ocs:C13022,
+        ocs:C23239,
+        ocs:C4038,
+        ocs:C41110,
+        ocs:C42662,
+        ocs:C8024,
+        ocs:C8404,
+        ocs:C9262 .
+

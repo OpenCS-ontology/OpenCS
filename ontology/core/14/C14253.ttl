@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14253 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Induction_variable> ;
+    skos:prefLabel "Induction variable" ;
+    skos:related ocs:C17089,
+        ocs:C18272,
+        ocs:C19490,
+        ocs:C19732,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C23854,
+        ocs:C28073,
+        ocs:C30700,
+        ocs:C32012,
+        ocs:C32422,
+        ocs:C33100,
+        ocs:C37970,
+        ocs:C40088,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C8131 .
+

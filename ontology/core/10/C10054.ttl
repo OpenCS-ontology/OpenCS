@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10054 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cartographic_generalization> ;
+    skos:prefLabel "Cartographic generalization" ;
+    skos:related ocs:C16797,
+        ocs:C22573,
+        ocs:C37913,
+        ocs:C7654 .
+

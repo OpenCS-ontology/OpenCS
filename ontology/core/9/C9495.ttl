@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9495 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cheque_guarantee_card> ;
+    skos:prefLabel "Cheque guarantee card" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C14059,
+        ocs:C16179,
+        ocs:C16740,
+        ocs:C21054,
+        ocs:C2124,
+        ocs:C26695,
+        ocs:C26838,
+        ocs:C27327,
+        ocs:C28424,
+        ocs:C28781,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C40399,
+        ocs:C41037 .
+

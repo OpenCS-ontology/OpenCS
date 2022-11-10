@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20311 a skos:Concept ;
+    skos:broader ocs:C5334 ;
+    skos:closeMatch <http://dbpedia.org/resource/Humulone> ;
+    skos:prefLabel "Humulone" ;
+    skos:related ocs:C14934,
+        ocs:C16638,
+        ocs:C24126 .
+

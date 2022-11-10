@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6298 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Public_Toilet_Map> ;
+    skos:prefLabel "National Public Toilet Map" ;
+    skos:related ocs:C10999,
+        ocs:C11046,
+        ocs:C12641,
+        ocs:C13800,
+        ocs:C22321,
+        ocs:C28801,
+        ocs:C39498,
+        ocs:C5047,
+        ocs:C7714,
+        ocs:C8614 .
+

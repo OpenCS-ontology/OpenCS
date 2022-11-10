@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15249 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advance_payment> ;
+    skos:prefLabel "Advance payment" ;
+    skos:related ocs:C13306,
+        ocs:C2543,
+        ocs:C31318,
+        ocs:C5746 .
+

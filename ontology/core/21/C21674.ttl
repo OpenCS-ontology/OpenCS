@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21674 a skos:Concept ;
+    skos:broader ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Networked_learning> ;
+    skos:prefLabel "Networked learning" ;
+    skos:related ocs:C10057,
+        ocs:C10669,
+        ocs:C11050,
+        ocs:C13566,
+        ocs:C15060,
+        ocs:C17812,
+        ocs:C21011,
+        ocs:C24564,
+        ocs:C26813,
+        ocs:C29527,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C37105,
+        ocs:C8614 .
+

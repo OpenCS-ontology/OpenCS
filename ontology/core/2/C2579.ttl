@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2579 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C30,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-agent_system> ;
+    skos:prefLabel "Multi-agent system" ;
+    skos:related ocs:C1,
+        ocs:C10997,
+        ocs:C11143,
+        ocs:C12304,
+        ocs:C12530,
+        ocs:C12579,
+        ocs:C12977,
+        ocs:C13610,
+        ocs:C17236,
+        ocs:C19750,
+        ocs:C25,
+        ocs:C29173,
+        ocs:C30,
+        ocs:C37586,
+        ocs:C5855,
+        ocs:C5933,
+        ocs:C8,
+        ocs:C9022 .
+

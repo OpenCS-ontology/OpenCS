@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15174 a skos:Concept ;
+    skos:broader ocs:C5619,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diameter_protocol> ;
+    skos:prefLabel "Diameter protocol" ;
+    skos:related ocs:C12932,
+        ocs:C14417,
+        ocs:C17592,
+        ocs:C20125,
+        ocs:C23567,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C25712,
+        ocs:C27543,
+        ocs:C29568,
+        ocs:C35370,
+        ocs:C37303,
+        ocs:C3933,
+        ocs:C40534,
+        ocs:C41460,
+        ocs:C41498,
+        ocs:C43473,
+        ocs:C44282,
+        ocs:C44603,
+        ocs:C8614 .
+

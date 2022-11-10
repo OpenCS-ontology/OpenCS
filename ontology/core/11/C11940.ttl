@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11940 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/PTAS_reduction> ;
+    skos:prefLabel "PTAS reduction" ;
+    skos:related ocs:C11701,
+        ocs:C12866,
+        ocs:C20382,
+        ocs:C20720,
+        ocs:C23023,
+        ocs:C30401,
+        ocs:C33456,
+        ocs:C3678,
+        ocs:C38590,
+        ocs:C38754,
+        ocs:C41116,
+        ocs:C4203,
+        ocs:C42329,
+        ocs:C44854,
+        ocs:C45245,
+        ocs:C5823,
+        ocs:C619 .
+

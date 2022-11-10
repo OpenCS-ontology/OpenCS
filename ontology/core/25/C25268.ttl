@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25268 a skos:Concept ;
+    skos:broader ocs:C12238,
+        ocs:C1728,
+        ocs:C545,
+        ocs:C7106,
+        ocs:C7507 ;
+    skos:prefLabel "Stream analytics" .
+

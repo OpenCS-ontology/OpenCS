@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22321 a skos:Concept ;
+    skos:broader ocs:C10999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wheelchair_ramp> ;
+    skos:prefLabel "Wheelchair ramp" ;
+    skos:related ocs:C10999,
+        ocs:C11046,
+        ocs:C5047,
+        ocs:C7714 .
+

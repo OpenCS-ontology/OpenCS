@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9951 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brown_note> ;
+    skos:prefLabel "Brown note" ;
+    skos:related ocs:C10409,
+        ocs:C21364,
+        ocs:C23308,
+        ocs:C5139,
+        ocs:C5853,
+        ocs:C8291 .
+

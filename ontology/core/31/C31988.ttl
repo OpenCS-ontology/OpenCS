@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31988 a skos:Concept ;
+    skos:broader ocs:C17566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aperiodic_semigroup> ;
+    skos:prefLabel "Aperiodic semigroup" ;
+    skos:related ocs:C15002,
+        ocs:C23657,
+        ocs:C35757,
+        ocs:C40502,
+        ocs:C44048 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8232 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_marketing> ;
+    skos:prefLabel "Visual marketing" ;
+    skos:related ocs:C13413,
+        ocs:C23393,
+        ocs:C27895,
+        ocs:C6504,
+        ocs:C8366,
+        ocs:C8614 .
+

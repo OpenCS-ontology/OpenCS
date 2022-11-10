@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29298 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Min-max_theorem> ;
+    skos:prefLabel "Min-max theorem" ;
+    skos:related ocs:C14319,
+        ocs:C20699,
+        ocs:C23786,
+        ocs:C28787,
+        ocs:C31450,
+        ocs:C34336,
+        ocs:C34413,
+        ocs:C34818,
+        ocs:C36974,
+        ocs:C38758,
+        ocs:C40662,
+        ocs:C6863 .
+

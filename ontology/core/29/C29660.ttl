@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29660 a skos:Concept ;
+    skos:broader ocs:C23182,
+        ocs:C25440 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tree_rotation> ;
+    skos:prefLabel "Tree rotation" ;
+    skos:related ocs:C1,
+        ocs:C14269,
+        ocs:C14747,
+        ocs:C26515,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C30594,
+        ocs:C34470,
+        ocs:C36112,
+        ocs:C36204,
+        ocs:C37685,
+        ocs:C37974,
+        ocs:C39075,
+        ocs:C43106,
+        ocs:C43467,
+        ocs:C45211,
+        ocs:C6697,
+        ocs:C8452,
+        ocs:C8565,
+        ocs:C8893 .
+

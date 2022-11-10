@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45182 a skos:Concept ;
+    skos:broader ocs:C30432,
+        ocs:C34141,
+        ocs:C34505 ;
+    skos:closeMatch <http://dbpedia.org/resource/DSL_filter> ;
+    skos:prefLabel "DSL filter" ;
+    skos:related ocs:C10638,
+        ocs:C11703,
+        ocs:C11769,
+        ocs:C18995,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C21610,
+        ocs:C26580,
+        ocs:C2917,
+        ocs:C2988,
+        ocs:C30432,
+        ocs:C34141,
+        ocs:C34505,
+        ocs:C39976,
+        ocs:C7612,
+        ocs:C9327 .
+

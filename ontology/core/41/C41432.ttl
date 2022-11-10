@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41432 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C32645,
+        ocs:C32743,
+        ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consensus_theorem> ;
+    skos:prefLabel "Consensus theorem" ;
+    skos:related ocs:C10825,
+        ocs:C11252,
+        ocs:C13855,
+        ocs:C22333,
+        ocs:C22706,
+        ocs:C23203,
+        ocs:C30179,
+        ocs:C34687,
+        ocs:C35076,
+        ocs:C37887,
+        ocs:C3894,
+        ocs:C41305,
+        ocs:C4149,
+        ocs:C41587,
+        ocs:C43555,
+        ocs:C44881,
+        ocs:C45667,
+        ocs:C4651,
+        ocs:C5245,
+        ocs:C6497 .
+

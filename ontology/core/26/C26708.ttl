@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26708 a skos:Concept ;
+    skos:broader ocs:C8894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Angular_momentum_diagrams_(quantum_mechanics)> ;
+    skos:prefLabel "Angular momentum diagrams" ;
+    skos:related ocs:C24854,
+        ocs:C33700 .
+

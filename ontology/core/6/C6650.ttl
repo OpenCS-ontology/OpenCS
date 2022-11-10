@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6650 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_connection> ;
+    skos:prefLabel "Database connection" ;
+    skos:related ocs:C10988,
+        ocs:C12185,
+        ocs:C15478,
+        ocs:C15850,
+        ocs:C16874,
+        ocs:C23051,
+        ocs:C26532,
+        ocs:C28881,
+        ocs:C29545,
+        ocs:C3050,
+        ocs:C35393,
+        ocs:C40323,
+        ocs:C5702,
+        ocs:C6,
+        ocs:C671,
+        ocs:C7651,
+        ocs:C9,
+        ocs:C9056,
+        ocs:C9540 .
+

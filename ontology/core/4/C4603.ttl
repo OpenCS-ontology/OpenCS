@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4603 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evolutionary_informatics> ;
+    skos:prefLabel "Evolutionary informatics" ;
+    skos:related ocs:C14032,
+        ocs:C14921,
+        ocs:C17092,
+        ocs:C17733,
+        ocs:C20846,
+        ocs:C25804,
+        ocs:C27563,
+        ocs:C33143,
+        ocs:C5816,
+        ocs:C6880,
+        ocs:C7334,
+        ocs:C8,
+        ocs:C90,
+        ocs:C9779 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17588 a skos:Concept ;
+    skos:broader ocs:C11372,
+        ocs:C3837 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bottleneck_traveling_salesman_problem> ;
+    skos:prefLabel "Bottleneck traveling salesman problem" ;
+    skos:related ocs:C11372,
+        ocs:C11870,
+        ocs:C21308,
+        ocs:C29108,
+        ocs:C31629,
+        ocs:C33433,
+        ocs:C38251,
+        ocs:C3837,
+        ocs:C39748,
+        ocs:C40871,
+        ocs:C41435,
+        ocs:C42764,
+        ocs:C42822,
+        ocs:C43576,
+        ocs:C44250,
+        ocs:C44465,
+        ocs:C5691,
+        ocs:C7397 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5110 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/24-hour_clock> ;
+    skos:prefLabel "24-hour clock" ;
+    skos:related ocs:C15442,
+        ocs:C19672,
+        ocs:C2023,
+        ocs:C21496,
+        ocs:C21922,
+        ocs:C3786,
+        ocs:C4048,
+        ocs:C5518,
+        ocs:C6416,
+        ocs:C8521,
+        ocs:C8560,
+        ocs:C9026,
+        ocs:C9285 .
+

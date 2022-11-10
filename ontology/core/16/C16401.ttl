@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16401 a skos:Concept ;
+    skos:broader ocs:C6023,
+        ocs:C6639 ;
+    skos:closeMatch <http://dbpedia.org/resource/Korean_decimal_classification> ;
+    skos:prefLabel "Korean decimal classification" ;
+    skos:related ocs:C11492,
+        ocs:C15072,
+        ocs:C1578,
+        ocs:C16879,
+        ocs:C17044,
+        ocs:C178,
+        ocs:C21155,
+        ocs:C22849,
+        ocs:C23088,
+        ocs:C23756,
+        ocs:C2942,
+        ocs:C4,
+        ocs:C4334,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C7849,
+        ocs:C8990 .
+

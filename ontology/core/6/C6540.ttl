@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6540 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effect_system> ;
+    skos:prefLabel "Effect system" ;
+    skos:related ocs:C10498,
+        ocs:C10737,
+        ocs:C1083,
+        ocs:C12987,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C19,
+        ocs:C20000,
+        ocs:C31724,
+        ocs:C3639,
+        ocs:C38070,
+        ocs:C38686,
+        ocs:C6941,
+        ocs:C7825,
+        ocs:C8024,
+        ocs:C8751 .
+

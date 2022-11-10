@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36651 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Umbral_moonshine> ;
+    skos:prefLabel "Umbral moonshine" ;
+    skos:related ocs:C23209,
+        ocs:C28787,
+        ocs:C32124,
+        ocs:C35930,
+        ocs:C39710,
+        ocs:C41878,
+        ocs:C45615 .
+

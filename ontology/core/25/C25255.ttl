@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25255 a skos:Concept ;
+    skos:broader ocs:C10803 ;
+    skos:closeMatch <http://dbpedia.org/resource/Randomness_tests> ;
+    skos:prefLabel "Randomness tests" ;
+    skos:related ocs:C10803,
+        ocs:C15027,
+        ocs:C15398,
+        ocs:C20374,
+        ocs:C25024,
+        ocs:C25445,
+        ocs:C28909,
+        ocs:C34695,
+        ocs:C41220,
+        ocs:C5072,
+        ocs:C6537,
+        ocs:C6880,
+        ocs:C6953 .
+

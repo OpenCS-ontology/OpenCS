@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27268 a skos:Concept ;
+    skos:broader ocs:C3739 ;
+    skos:closeMatch <http://dbpedia.org/resource/SIMCOS> ;
+    skos:prefLabel "SIMCOS" ;
+    skos:related ocs:C11495,
+        ocs:C13260,
+        ocs:C24,
+        ocs:C659,
+        ocs:C6714,
+        ocs:C7256,
+        ocs:C7869,
+        ocs:C802 .
+

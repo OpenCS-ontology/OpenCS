@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38903 a skos:Concept ;
+    skos:broader ocs:C34713,
+        ocs:C35202,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_architecture_recovery> ;
+    skos:prefLabel "Software architecture recovery" ;
+    skos:related ocs:C14329,
+        ocs:C1880,
+        ocs:C21399,
+        ocs:C41184,
+        ocs:C41303,
+        ocs:C7170 .
+

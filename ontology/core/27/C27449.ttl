@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27449 a skos:Concept ;
+    skos:broader ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Device_mapper> ;
+    skos:prefLabel "Device mapper" ;
+    skos:related ocs:C10135,
+        ocs:C10501,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C14271,
+        ocs:C17533,
+        ocs:C20800,
+        ocs:C22569,
+        ocs:C23599,
+        ocs:C26157,
+        ocs:C31489,
+        ocs:C36822,
+        ocs:C38117,
+        ocs:C40765,
+        ocs:C43718,
+        ocs:C43761,
+        ocs:C7476,
+        ocs:C8782,
+        ocs:C9 .
+

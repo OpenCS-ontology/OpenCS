@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1464 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/EAIF> ;
+    skos:prefLabel "EAIF" ;
+    skos:related ocs:C13252,
+        ocs:C16966,
+        ocs:C17235,
+        ocs:C22709,
+        ocs:C23780,
+        ocs:C24123,
+        ocs:C28737,
+        ocs:C28789,
+        ocs:C29131,
+        ocs:C3968,
+        ocs:C41498,
+        ocs:C42350,
+        ocs:C4323,
+        ocs:C44196,
+        ocs:C5526,
+        ocs:C5588,
+        ocs:C5672,
+        ocs:C8995 .
+

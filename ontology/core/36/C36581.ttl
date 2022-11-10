@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36581 a skos:Concept ;
+    skos:broader ocs:C27666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eta_invariant> ;
+    skos:prefLabel "Eta invariant" ;
+    skos:related ocs:C16744,
+        ocs:C20390,
+        ocs:C22086,
+        ocs:C23079,
+        ocs:C23340,
+        ocs:C24641,
+        ocs:C27666,
+        ocs:C28025,
+        ocs:C34423,
+        ocs:C35624,
+        ocs:C38279 .
+

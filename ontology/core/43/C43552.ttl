@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43552 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polar-ring_galaxy> ;
+    skos:prefLabel "Polar-ring galaxy" ;
+    skos:related ocs:C15251,
+        ocs:C17246,
+        ocs:C28402,
+        ocs:C36635,
+        ocs:C44260,
+        ocs:C597 .
+

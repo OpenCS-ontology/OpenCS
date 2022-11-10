@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3541 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/BaseKing> ;
+    skos:prefLabel "BaseKing" ;
+    skos:related ocs:C12076,
+        ocs:C19127,
+        ocs:C2259,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C29977,
+        ocs:C30003,
+        ocs:C30612,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C32079,
+        ocs:C36690,
+        ocs:C37241,
+        ocs:C39213,
+        ocs:C4218,
+        ocs:C44611,
+        ocs:C45116,
+        ocs:C638,
+        ocs:C7226 .
+

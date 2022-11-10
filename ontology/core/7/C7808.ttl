@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7808 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Card_sharing> ;
+    skos:prefLabel "Card sharing" ;
+    skos:related ocs:C17661,
+        ocs:C20140,
+        ocs:C21312,
+        ocs:C27081,
+        ocs:C27103,
+        ocs:C27572,
+        ocs:C31489,
+        ocs:C32350,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C40667,
+        ocs:C43089,
+        ocs:C4433,
+        ocs:C5580,
+        ocs:C6234,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C9176,
+        ocs:C9654 .
+

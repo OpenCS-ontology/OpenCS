@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3200 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Edge_of_chaos> ;
+    skos:prefLabel "Edge of chaos" ;
+    skos:related ocs:C10803,
+        ocs:C10997,
+        ocs:C11143,
+        ocs:C122,
+        ocs:C14592,
+        ocs:C17869,
+        ocs:C20012,
+        ocs:C29276,
+        ocs:C37207,
+        ocs:C39944,
+        ocs:C42980,
+        ocs:C43807,
+        ocs:C5496,
+        ocs:C925,
+        ocs:C9798 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19253 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fire_ant> ;
+    skos:prefLabel "Fire ant" ;
+    skos:related ocs:C19171,
+        ocs:C20240,
+        ocs:C26257,
+        ocs:C27032,
+        ocs:C31040,
+        ocs:C36512 .
+

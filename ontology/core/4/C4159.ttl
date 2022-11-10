@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4159 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blade_server> ;
+    skos:prefLabel "Blade server" ;
+    skos:related ocs:C10320,
+        ocs:C14627,
+        ocs:C2084,
+        ocs:C22191,
+        ocs:C2352,
+        ocs:C31489,
+        ocs:C36502,
+        ocs:C521,
+        ocs:C5698,
+        ocs:C7735,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9540 .
+

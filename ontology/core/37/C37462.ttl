@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37462 a skos:Concept ;
+    skos:broader ocs:C28399 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_model_(GIS)> ;
+    skos:prefLabel "Data model (GIS)" ;
+    skos:related ocs:C10072,
+        ocs:C1023,
+        ocs:C10380,
+        ocs:C10987,
+        ocs:C12330,
+        ocs:C13744,
+        ocs:C29600,
+        ocs:C33188,
+        ocs:C42090,
+        ocs:C42402 .
+

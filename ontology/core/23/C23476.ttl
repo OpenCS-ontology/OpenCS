@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23476 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_economics> ;
+    skos:prefLabel "Network economics" ;
+    skos:related ocs:C11886,
+        ocs:C24837,
+        ocs:C3,
+        ocs:C5712 .
+

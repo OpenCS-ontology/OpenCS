@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7339 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transform_theory> ;
+    skos:prefLabel "Transform theory" ;
+    skos:related ocs:C14325,
+        ocs:C19542,
+        ocs:C28787,
+        ocs:C31450,
+        ocs:C33700,
+        ocs:C34413,
+        ocs:C36009,
+        ocs:C36974,
+        ocs:C40662,
+        ocs:C44602,
+        ocs:C4598 .
+

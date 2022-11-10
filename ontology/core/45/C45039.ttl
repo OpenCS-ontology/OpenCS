@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45039 a skos:Concept ;
+    skos:broader ocs:C31124 ;
+    skos:closeMatch <http://dbpedia.org/resource/PA_degree> ;
+    skos:prefLabel "PA degree" ;
+    skos:related ocs:C1205,
+        ocs:C18412,
+        ocs:C23023,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32379,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C34540,
+        ocs:C36125,
+        ocs:C38518,
+        ocs:C41998,
+        ocs:C44414,
+        ocs:C45880,
+        ocs:C4619,
+        ocs:C5255,
+        ocs:C7574,
+        ocs:C9313 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2116 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fitts's_law> ;
+    skos:prefLabel "Fitts's law" ;
+    skos:related ocs:C10368,
+        ocs:C11700,
+        ocs:C13118,
+        ocs:C13790,
+        ocs:C17655,
+        ocs:C18,
+        ocs:C2,
+        ocs:C21847,
+        ocs:C3284,
+        ocs:C34966,
+        ocs:C44100,
+        ocs:C5702,
+        ocs:C653,
+        ocs:C7736,
+        ocs:C9607 .
+

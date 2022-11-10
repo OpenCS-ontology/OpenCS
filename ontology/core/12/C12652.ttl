@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12652 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Navtex> ;
+    skos:prefLabel "Navtex" ;
+    skos:related ocs:C10044,
+        ocs:C10460,
+        ocs:C10826,
+        ocs:C11669,
+        ocs:C16547,
+        ocs:C21929,
+        ocs:C2534,
+        ocs:C4284,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C6034,
+        ocs:C702,
+        ocs:C8147 .
+

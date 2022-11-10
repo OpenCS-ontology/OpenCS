@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7132 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:prefLabel "Author name" ;
+    skos:related ocs:C1134,
+        ocs:C17,
+        ocs:C25,
+        ocs:C34,
+        ocs:C5150,
+        ocs:C8725 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3739 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulation_language> ;
+    skos:prefLabel "Simulation language" ;
+    skos:related ocs:C10921,
+        ocs:C10997,
+        ocs:C11328,
+        ocs:C16024,
+        ocs:C226,
+        ocs:C22688,
+        ocs:C22762,
+        ocs:C24,
+        ocs:C26535,
+        ocs:C28021,
+        ocs:C36010,
+        ocs:C40553,
+        ocs:C659,
+        ocs:C6953,
+        ocs:C6998,
+        ocs:C7256 .
+

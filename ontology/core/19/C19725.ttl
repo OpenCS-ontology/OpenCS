@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19725 a skos:Concept ;
+    skos:broader ocs:C6173,
+        ocs:C8327 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-master_replication> ;
+    skos:prefLabel "Multi-master replication" ;
+    skos:related ocs:C12185,
+        ocs:C13984,
+        ocs:C1410,
+        ocs:C14417,
+        ocs:C16874,
+        ocs:C17530,
+        ocs:C22879,
+        ocs:C24711,
+        ocs:C28963,
+        ocs:C31489,
+        ocs:C35393,
+        ocs:C3569,
+        ocs:C37360,
+        ocs:C40503,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C45211,
+        ocs:C6,
+        ocs:C6173 .
+

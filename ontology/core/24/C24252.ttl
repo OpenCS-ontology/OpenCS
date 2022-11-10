@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24252 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C1496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_Message_Service> ;
+    skos:prefLabel "Java Message Service" ;
+    skos:related ocs:C10904,
+        ocs:C11084,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C13252,
+        ocs:C14627,
+        ocs:C1496,
+        ocs:C15320,
+        ocs:C17183,
+        ocs:C17238,
+        ocs:C21166,
+        ocs:C22597,
+        ocs:C2303,
+        ocs:C26260,
+        ocs:C2674,
+        ocs:C28941,
+        ocs:C29401,
+        ocs:C31667,
+        ocs:C41310,
+        ocs:C9049 .
+

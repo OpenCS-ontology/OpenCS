@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28586 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Limiting_magnitude> ;
+    skos:prefLabel "Limiting magnitude" ;
+    skos:related ocs:C16976,
+        ocs:C20879,
+        ocs:C22752,
+        ocs:C23549,
+        ocs:C3234,
+        ocs:C34288,
+        ocs:C597 .
+

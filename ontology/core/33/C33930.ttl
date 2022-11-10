@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33930 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bootstrap_percolation> ;
+    skos:prefLabel "Bootstrap percolation" ;
+    skos:related ocs:C14693,
+        ocs:C19399,
+        ocs:C28991,
+        ocs:C30730,
+        ocs:C37036,
+        ocs:C39661,
+        ocs:C41585 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40562 a skos:Concept ;
+    skos:broader ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dominated_convergence_theorem> ;
+    skos:prefLabel "Dominated convergence theorem" ;
+    skos:related ocs:C15256,
+        ocs:C16025,
+        ocs:C24810,
+        ocs:C26013,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C38455,
+        ocs:C45080 .
+

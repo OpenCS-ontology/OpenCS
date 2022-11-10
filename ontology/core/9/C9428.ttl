@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9428 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_series> ;
+    skos:prefLabel "Time series" ;
+    skos:related ocs:C10138,
+        ocs:C10509,
+        ocs:C13607,
+        ocs:C23554,
+        ocs:C23563,
+        ocs:C25,
+        ocs:C260,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C6909,
+        ocs:C7471,
+        ocs:C836,
+        ocs:C8781,
+        ocs:C9874 .
+

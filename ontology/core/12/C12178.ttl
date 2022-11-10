@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12178 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Newborn monitoring" ;
+    skos:related ocs:C2,
+        ocs:C6,
+        ocs:C8,
+        ocs:C8270 .
+

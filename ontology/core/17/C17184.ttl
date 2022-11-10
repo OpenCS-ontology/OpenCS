@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17184 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Position_sensitive_device> ;
+    skos:prefLabel "Position sensitive device" ;
+    skos:related ocs:C13065,
+        ocs:C18177,
+        ocs:C32654,
+        ocs:C33388,
+        ocs:C7,
+        ocs:C8021 .
+

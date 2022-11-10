@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21364 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equalization_(audio)> ;
+    skos:prefLabel "Equalization (audio)" ;
+    skos:related ocs:C1449,
+        ocs:C3733,
+        ocs:C38517,
+        ocs:C40768,
+        ocs:C44704,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C9481 .
+

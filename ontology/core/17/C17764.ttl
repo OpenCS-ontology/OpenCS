@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17764 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C545,
+        ocs:C7106,
+        ocs:C8614 ;
+    skos:prefLabel "Internet of services" .
+

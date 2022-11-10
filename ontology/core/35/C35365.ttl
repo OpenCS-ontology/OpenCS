@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35365 a skos:Concept ;
+    skos:broader ocs:C15419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finite-dimensional_distribution> ;
+    skos:prefLabel "Finite-dimensional distribution" ;
+    skos:related ocs:C1844,
+        ocs:C18994,
+        ocs:C28270,
+        ocs:C32491,
+        ocs:C35103,
+        ocs:C6909 .
+

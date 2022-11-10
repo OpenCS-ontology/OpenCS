@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25254 a skos:Concept ;
+    skos:broader ocs:C2978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sure-thing_principle> ;
+    skos:prefLabel "Sure-thing principle" ;
+    skos:related ocs:C20635,
+        ocs:C2668,
+        ocs:C31804,
+        ocs:C36230,
+        ocs:C3753,
+        ocs:C44764 .
+

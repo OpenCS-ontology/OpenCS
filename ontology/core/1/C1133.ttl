@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1133 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ericsson_Texture_Compression> ;
+    skos:prefLabel "Ericsson Texture Compression" ;
+    skos:related ocs:C11805,
+        ocs:C14024,
+        ocs:C18518,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C20802,
+        ocs:C21609,
+        ocs:C24235,
+        ocs:C2937,
+        ocs:C40235,
+        ocs:C5514,
+        ocs:C7571 .
+

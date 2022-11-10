@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23069 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_software_updating> ;
+    skos:prefLabel "Dynamic software updating" ;
+    skos:related ocs:C1083,
+        ocs:C11333,
+        ocs:C11991,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C20800,
+        ocs:C31489,
+        ocs:C35741,
+        ocs:C37718,
+        ocs:C39214,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C5698,
+        ocs:C6941,
+        ocs:C7800,
+        ocs:C9 .
+

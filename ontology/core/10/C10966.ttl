@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10966 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/CRM114_(program)> ;
+    skos:prefLabel "CRM114" ;
+    skos:related ocs:C10284,
+        ocs:C11030,
+        ocs:C11545,
+        ocs:C12389,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C23439,
+        ocs:C24903,
+        ocs:C25201,
+        ocs:C28603,
+        ocs:C316,
+        ocs:C3398,
+        ocs:C36403,
+        ocs:C40986,
+        ocs:C44519,
+        ocs:C5960,
+        ocs:C6021,
+        ocs:C6963,
+        ocs:C706,
+        ocs:C8 .
+

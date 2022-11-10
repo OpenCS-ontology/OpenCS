@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18187 a skos:Concept ;
+    skos:broader ocs:C4199,
+        ocs:C9178 ;
+    skos:closeMatch <http://dbpedia.org/resource/AI_Memo> ;
+    skos:prefLabel "AI Memo" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C12108,
+        ocs:C1631,
+        ocs:C20208,
+        ocs:C24148,
+        ocs:C25382,
+        ocs:C25512,
+        ocs:C27380,
+        ocs:C28783,
+        ocs:C32783,
+        ocs:C38410,
+        ocs:C40194,
+        ocs:C4321,
+        ocs:C6941,
+        ocs:C8,
+        ocs:C8441 .
+

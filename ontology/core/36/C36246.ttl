@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36246 a skos:Concept ;
+    skos:broader ocs:C19827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phengodidae> ;
+    skos:prefLabel "Phengodidae" ;
+    skos:related ocs:C22760,
+        ocs:C36212,
+        ocs:C37372,
+        ocs:C42703 .
+

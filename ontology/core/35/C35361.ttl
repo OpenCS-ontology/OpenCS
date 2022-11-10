@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35361 a skos:Concept ;
+    skos:broader ocs:C23265 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genus–differentia_definition> ;
+    skos:prefLabel "Genus–differentia definition" ;
+    skos:related ocs:C11075,
+        ocs:C13879,
+        ocs:C1443,
+        ocs:C15414,
+        ocs:C17717 .
+

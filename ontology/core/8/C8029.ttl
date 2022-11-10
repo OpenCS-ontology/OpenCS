@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8029 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Message_format> ;
+    skos:prefLabel "Message format" ;
+    skos:related ocs:C10374,
+        ocs:C10733,
+        ocs:C11129,
+        ocs:C11936,
+        ocs:C13217,
+        ocs:C25674,
+        ocs:C26734,
+        ocs:C27907,
+        ocs:C32960,
+        ocs:C6731,
+        ocs:C7974,
+        ocs:C8410,
+        ocs:C941 .
+

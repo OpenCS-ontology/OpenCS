@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37844 a skos:Concept ;
+    skos:broader ocs:C31027,
+        ocs:C32222,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unreachable_memory> ;
+    skos:prefLabel "Unreachable memory" ;
+    skos:related ocs:C10720,
+        ocs:C1142,
+        ocs:C14055,
+        ocs:C25960,
+        ocs:C2766,
+        ocs:C30672,
+        ocs:C43003,
+        ocs:C8757 .
+

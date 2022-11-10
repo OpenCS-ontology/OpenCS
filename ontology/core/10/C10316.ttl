@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10316 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structured_document> ;
+    skos:prefLabel "Structured document" ;
+    skos:related ocs:C10085,
+        ocs:C11927,
+        ocs:C12477,
+        ocs:C21014,
+        ocs:C2464,
+        ocs:C24783,
+        ocs:C26337,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31343,
+        ocs:C319,
+        ocs:C32413,
+        ocs:C33108,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C36276,
+        ocs:C39286,
+        ocs:C41537,
+        ocs:C42905,
+        ocs:C6852 .
+

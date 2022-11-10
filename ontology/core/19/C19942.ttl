@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19942 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C7040 ;
+    skos:closeMatch <http://dbpedia.org/resource/Botanical_Latin> ;
+    skos:prefLabel "Botanical Latin" ;
+    skos:related ocs:C18216 .
+

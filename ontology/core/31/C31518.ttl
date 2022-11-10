@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31518 a skos:Concept ;
+    skos:broader ocs:C25251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributed_GIS> ;
+    skos:prefLabel "Distributed GIS" ;
+    skos:related ocs:C11927,
+        ocs:C12810,
+        ocs:C15593,
+        ocs:C1651,
+        ocs:C19733,
+        ocs:C22668,
+        ocs:C27,
+        ocs:C28801,
+        ocs:C32451,
+        ocs:C38891,
+        ocs:C40725,
+        ocs:C41912,
+        ocs:C43712,
+        ocs:C5095,
+        ocs:C6,
+        ocs:C6224,
+        ocs:C7918,
+        ocs:C8614 .
+

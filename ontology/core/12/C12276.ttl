@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12276 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/HRESULT> ;
+    skos:prefLabel "HRESULT" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C11661,
+        ocs:C15051,
+        ocs:C15309,
+        ocs:C24646,
+        ocs:C30334,
+        ocs:C31404,
+        ocs:C3176,
+        ocs:C39679,
+        ocs:C41252,
+        ocs:C41871,
+        ocs:C578,
+        ocs:C6255,
+        ocs:C856,
+        ocs:C9033 .
+

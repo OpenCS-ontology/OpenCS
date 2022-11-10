@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8123 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_dissector> ;
+    skos:prefLabel "Image dissector" ;
+    skos:related ocs:C10700,
+        ocs:C19353,
+        ocs:C21550,
+        ocs:C2400,
+        ocs:C37358,
+        ocs:C5996,
+        ocs:C9611 .
+

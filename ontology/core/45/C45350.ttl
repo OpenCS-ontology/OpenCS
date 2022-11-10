@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45350 a skos:Concept ;
+    skos:broader ocs:C31493,
+        ocs:C31794,
+        ocs:C32633,
+        ocs:C32844,
+        ocs:C36733 ;
+    skos:prefLabel "Generalized triangular decomposition" .
+

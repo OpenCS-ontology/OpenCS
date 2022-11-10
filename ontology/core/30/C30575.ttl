@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30575 a skos:Concept ;
+    skos:broader ocs:C28329 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comitative_case> ;
+    skos:prefLabel "Comitative case" ;
+    skos:related ocs:C11932,
+        ocs:C13868,
+        ocs:C22126,
+        ocs:C24499,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C35238,
+        ocs:C3789,
+        ocs:C6545,
+        ocs:C7501,
+        ocs:C7793,
+        ocs:C9533 .
+

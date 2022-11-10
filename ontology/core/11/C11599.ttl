@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11599 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Occam_learning> ;
+    skos:prefLabel "Occam learning" ;
+    skos:related ocs:C10136,
+        ocs:C11937,
+        ocs:C18117,
+        ocs:C18279,
+        ocs:C2005,
+        ocs:C24337,
+        ocs:C25,
+        ocs:C2834,
+        ocs:C31543,
+        ocs:C36680,
+        ocs:C38370,
+        ocs:C38726,
+        ocs:C40376,
+        ocs:C42694,
+        ocs:C43231,
+        ocs:C43904,
+        ocs:C5799,
+        ocs:C9019,
+        ocs:C9210 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7371 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_error_probable> ;
+    skos:prefLabel "Circular error probable" ;
+    skos:related ocs:C12641,
+        ocs:C16352,
+        ocs:C16959,
+        ocs:C28174,
+        ocs:C28796,
+        ocs:C34143,
+        ocs:C6589,
+        ocs:C9066 .
+

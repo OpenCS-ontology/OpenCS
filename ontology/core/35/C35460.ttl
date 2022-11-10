@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35460 a skos:Concept ;
+    skos:broader ocs:C19355,
+        ocs:C28636 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual_topology> ;
+    skos:prefLabel "Dual topology" ;
+    skos:related ocs:C23927,
+        ocs:C26792,
+        ocs:C31924,
+        ocs:C32356,
+        ocs:C33102,
+        ocs:C38762,
+        ocs:C44817 .
+

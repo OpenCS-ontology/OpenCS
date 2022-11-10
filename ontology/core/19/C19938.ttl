@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19938 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_Magellanic_Cloud> ;
+    skos:prefLabel "Small Magellanic Cloud" ;
+    skos:related ocs:C17246,
+        ocs:C21056,
+        ocs:C23210,
+        ocs:C23244,
+        ocs:C25918,
+        ocs:C29074,
+        ocs:C34069,
+        ocs:C34265,
+        ocs:C597 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8098 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arbiter_(electronics)> ;
+    skos:prefLabel "Arbiter" ;
+    skos:related ocs:C11252,
+        ocs:C12918,
+        ocs:C14162,
+        ocs:C22699,
+        ocs:C27,
+        ocs:C33085,
+        ocs:C38463,
+        ocs:C39723,
+        ocs:C41110,
+        ocs:C42662,
+        ocs:C4651,
+        ocs:C5495,
+        ocs:C6534 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10502 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_search_(optimization)> ;
+    skos:prefLabel "Local search (optimization)" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C12314,
+        ocs:C13208,
+        ocs:C14921,
+        ocs:C23250,
+        ocs:C26407,
+        ocs:C28802,
+        ocs:C29055,
+        ocs:C31656,
+        ocs:C34333,
+        ocs:C3837,
+        ocs:C41363,
+        ocs:C5197,
+        ocs:C5201,
+        ocs:C5704,
+        ocs:C7397,
+        ocs:C7553,
+        ocs:C8944 .
+

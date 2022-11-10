@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C263 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personalization> ;
+    skos:prefLabel "Personalization" ;
+    skos:related ocs:C11126,
+        ocs:C18985,
+        ocs:C20671,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C25977,
+        ocs:C26012,
+        ocs:C26014,
+        ocs:C31,
+        ocs:C33206,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C5410,
+        ocs:C6,
+        ocs:C8614 .
+

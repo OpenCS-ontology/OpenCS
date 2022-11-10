@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41652 a skos:Concept ;
+    skos:broader ocs:C35798 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_Euclidean_algorithm> ;
+    skos:prefLabel "Extended Euclidean algorithm" ;
+    skos:related ocs:C24353,
+        ocs:C29356,
+        ocs:C35798,
+        ocs:C40267,
+        ocs:C8789 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4935 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Normal color" ;
+    skos:related ocs:C12849,
+        ocs:C16674,
+        ocs:C2,
+        ocs:C22,
+        ocs:C35166,
+        ocs:C3743,
+        ocs:C45860,
+        ocs:C6420,
+        ocs:C8021 .
+

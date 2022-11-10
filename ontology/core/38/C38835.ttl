@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38835 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Private_Network-to-Network_Interface> ;
+    skos:prefLabel "Private Network-to-Network Interface" ;
+    skos:related ocs:C10563,
+        ocs:C15589,
+        ocs:C20540,
+        ocs:C24563,
+        ocs:C30051,
+        ocs:C33137,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C38064,
+        ocs:C38451,
+        ocs:C38462,
+        ocs:C40934,
+        ocs:C40973,
+        ocs:C41259,
+        ocs:C42169,
+        ocs:C43513,
+        ocs:C44582,
+        ocs:C4966,
+        ocs:C8142,
+        ocs:C8517 .
+

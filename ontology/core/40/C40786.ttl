@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40786 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Force-directed_graph_drawing> ;
+    skos:prefLabel "Force-directed graph drawing" ;
+    skos:related ocs:C13547,
+        ocs:C20003,
+        ocs:C20376,
+        ocs:C28291,
+        ocs:C29578,
+        ocs:C36126,
+        ocs:C36406,
+        ocs:C38339,
+        ocs:C39100,
+        ocs:C39545,
+        ocs:C41573,
+        ocs:C41980,
+        ocs:C42133,
+        ocs:C42616,
+        ocs:C42848,
+        ocs:C45150 .
+

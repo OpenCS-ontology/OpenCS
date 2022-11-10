@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45433 a skos:Concept ;
+    skos:broader ocs:C32503 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antithetic_variates> ;
+    skos:prefLabel "Antithetic variates" ;
+    skos:related ocs:C23748,
+        ocs:C30115,
+        ocs:C36442,
+        ocs:C38763,
+        ocs:C39027,
+        ocs:C41470,
+        ocs:C45514,
+        ocs:C45625,
+        ocs:C795,
+        ocs:C8516 .
+

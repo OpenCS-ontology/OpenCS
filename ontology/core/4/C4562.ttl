@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4562 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stored_program_control> ;
+    skos:prefLabel "Stored program control" ;
+    skos:related ocs:C11465,
+        ocs:C11769,
+        ocs:C12319,
+        ocs:C25293,
+        ocs:C2665,
+        ocs:C28758,
+        ocs:C4983,
+        ocs:C8010 .
+

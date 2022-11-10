@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35269 a skos:Concept ;
+    skos:broader ocs:C27883 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_family> ;
+    skos:prefLabel "Logic family" ;
+    skos:related ocs:C11252,
+        ocs:C24204,
+        ocs:C38944,
+        ocs:C40172,
+        ocs:C40416,
+        ocs:C45121,
+        ocs:C45328 .
+

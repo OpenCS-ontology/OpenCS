@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8410 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interchange_circuit> ;
+    skos:prefLabel "Interchange circuit" ;
+    skos:related ocs:C13217,
+        ocs:C22457,
+        ocs:C3088,
+        ocs:C32753,
+        ocs:C43465,
+        ocs:C515,
+        ocs:C6964,
+        ocs:C9910 .
+

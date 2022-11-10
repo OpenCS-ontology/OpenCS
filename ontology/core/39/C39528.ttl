@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39528 a skos:Concept ;
+    skos:broader ocs:C31573 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acanthodoras> ;
+    skos:prefLabel "Acanthodoras" ;
+    skos:related ocs:C31573,
+        ocs:C39733,
+        ocs:C39820,
+        ocs:C39957,
+        ocs:C40967,
+        ocs:C42044 .
+

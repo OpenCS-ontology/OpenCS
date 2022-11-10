@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42342 a skos:Concept ;
+    skos:broader ocs:C30766,
+        ocs:C33373,
+        ocs:C37545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Folk_linguistics> ;
+    skos:prefLabel "Folk linguistics" ;
+    skos:related ocs:C1034,
+        ocs:C12275,
+        ocs:C13210,
+        ocs:C2298,
+        ocs:C2761,
+        ocs:C37545,
+        ocs:C4650,
+        ocs:C9777 .
+

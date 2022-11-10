@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C619 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parameterized_complexity> ;
+    skos:prefLabel "Parameterized complexity" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C30401,
+        ocs:C31121,
+        ocs:C31424,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C38981,
+        ocs:C39136,
+        ocs:C40666,
+        ocs:C41731,
+        ocs:C42060,
+        ocs:C5823,
+        ocs:C8660 .
+

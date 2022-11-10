@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40172 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Depletion-load_NMOS_logic> ;
+    skos:prefLabel "Depletion-load NMOS logic" ;
+    skos:related ocs:C11252,
+        ocs:C12002,
+        ocs:C13875,
+        ocs:C3118,
+        ocs:C35269,
+        ocs:C45121 .
+

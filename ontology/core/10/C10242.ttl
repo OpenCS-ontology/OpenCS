@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10242 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Void_safety> ;
+    skos:prefLabel "Void safety" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C14830,
+        ocs:C18860,
+        ocs:C25460,
+        ocs:C27131,
+        ocs:C31691,
+        ocs:C43302,
+        ocs:C6788,
+        ocs:C79,
+        ocs:C794,
+        ocs:C9023,
+        ocs:C914 .
+

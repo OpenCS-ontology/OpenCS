@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11930 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_photo_frame> ;
+    skos:prefLabel "Digital photo frame" ;
+    skos:related ocs:C13065,
+        ocs:C14411,
+        ocs:C21424,
+        ocs:C28945,
+        ocs:C3160,
+        ocs:C35370,
+        ocs:C6504,
+        ocs:C797,
+        ocs:C8021,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9113 .
+

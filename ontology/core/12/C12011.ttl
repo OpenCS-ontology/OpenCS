@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12011 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_Security_number> ;
+    skos:prefLabel "Social Security number" ;
+    skos:related ocs:C12378,
+        ocs:C12752,
+        ocs:C16884,
+        ocs:C18100,
+        ocs:C28085,
+        ocs:C35,
+        ocs:C394,
+        ocs:C5692,
+        ocs:C6,
+        ocs:C7604,
+        ocs:C9489,
+        ocs:C9838 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21367 a skos:Concept ;
+    skos:broader ocs:C1338,
+        ocs:C7166 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_technology> ;
+    skos:prefLabel "Mobile technology" ;
+    skos:related ocs:C1042,
+        ocs:C16022,
+        ocs:C19350,
+        ocs:C197,
+        ocs:C21755,
+        ocs:C22397,
+        ocs:C25712,
+        ocs:C29012,
+        ocs:C32451,
+        ocs:C35370,
+        ocs:C39949,
+        ocs:C44996,
+        ocs:C5702,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C7166,
+        ocs:C8614,
+        ocs:C9113 .
+

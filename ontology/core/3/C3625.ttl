@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3625 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-performance_equipment> ;
+    skos:prefLabel "High-performance equipment" ;
+    skos:related ocs:C12844,
+        ocs:C13590,
+        ocs:C138,
+        ocs:C21891,
+        ocs:C26712,
+        ocs:C27907,
+        ocs:C32960,
+        ocs:C3692,
+        ocs:C4343,
+        ocs:C7444,
+        ocs:C8410 .
+

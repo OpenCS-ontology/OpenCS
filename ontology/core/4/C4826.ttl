@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4826 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specialized_translation> ;
+    skos:prefLabel "Specialized translation" ;
+    skos:related ocs:C1908,
+        ocs:C21444 .
+

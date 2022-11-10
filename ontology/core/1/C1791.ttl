@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1791 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orchestration_(computing)> ;
+    skos:prefLabel "Orchestration (computing)" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C1634,
+        ocs:C17238,
+        ocs:C17656,
+        ocs:C20370,
+        ocs:C20668,
+        ocs:C26161,
+        ocs:C30649,
+        ocs:C32662,
+        ocs:C34979,
+        ocs:C38061,
+        ocs:C3809,
+        ocs:C41310,
+        ocs:C43969,
+        ocs:C7106 .
+

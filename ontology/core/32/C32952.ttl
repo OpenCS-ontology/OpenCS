@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32952 a skos:Concept ;
+    skos:broader ocs:C19344 ;
+    skos:closeMatch <http://dbpedia.org/resource/FFF_system> ;
+    skos:prefLabel "FFF system" ;
+    skos:related ocs:C36045,
+        ocs:C8388 .
+

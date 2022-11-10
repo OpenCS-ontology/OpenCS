@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26273 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/FPGA_prototyping> ;
+    skos:prefLabel "FPGA prototype" ;
+    skos:related ocs:C13747,
+        ocs:C1457,
+        ocs:C14694,
+        ocs:C19713,
+        ocs:C20745,
+        ocs:C21598,
+        ocs:C23550,
+        ocs:C26155,
+        ocs:C27883,
+        ocs:C28235,
+        ocs:C30085,
+        ocs:C31559,
+        ocs:C37773,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C6496,
+        ocs:C7165,
+        ocs:C866 .
+

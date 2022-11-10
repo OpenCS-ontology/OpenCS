@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5705 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/End_user> ;
+    skos:prefLabel "End user" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C2,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C2674,
+        ocs:C28080,
+        ocs:C28881,
+        ocs:C31,
+        ocs:C31489,
+        ocs:C35,
+        ocs:C5702,
+        ocs:C6,
+        ocs:C6072,
+        ocs:C7736,
+        ocs:C8614,
+        ocs:C9 .
+

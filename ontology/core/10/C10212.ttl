@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10212 a skos:Concept ;
+    skos:broader ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_nose> ;
+    skos:prefLabel "Electronic nose" ;
+    skos:related ocs:C12397,
+        ocs:C17156,
+        ocs:C23427 .
+

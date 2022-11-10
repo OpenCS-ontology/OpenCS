@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30313 a skos:Concept ;
+    skos:broader ocs:C15050,
+        ocs:C20391 ;
+    skos:closeMatch <http://dbpedia.org/resource/Squitter> ;
+    skos:prefLabel "Squitter" ;
+    skos:related ocs:C12648,
+        ocs:C14308,
+        ocs:C15050,
+        ocs:C15397,
+        ocs:C16291,
+        ocs:C16585,
+        ocs:C18996,
+        ocs:C20391,
+        ocs:C23082,
+        ocs:C30105,
+        ocs:C30951,
+        ocs:C36681,
+        ocs:C45718,
+        ocs:C4597,
+        ocs:C511 .
+

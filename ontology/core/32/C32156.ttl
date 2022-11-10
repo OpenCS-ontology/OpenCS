@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32156 a skos:Concept ;
+    skos:broader ocs:C22623,
+        ocs:C24607,
+        ocs:C27111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neighborhood_operation> ;
+    skos:prefLabel "Neighborhood operation" ;
+    skos:related ocs:C11150,
+        ocs:C14408,
+        ocs:C14465,
+        ocs:C14863,
+        ocs:C1503,
+        ocs:C24607,
+        ocs:C24784,
+        ocs:C26688,
+        ocs:C28285,
+        ocs:C30877,
+        ocs:C33427,
+        ocs:C33766,
+        ocs:C34512,
+        ocs:C37582,
+        ocs:C40344,
+        ocs:C4435,
+        ocs:C7,
+        ocs:C7528,
+        ocs:C9594 .
+

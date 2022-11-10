@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15906 a skos:Concept ;
+    skos:broader ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application_profile> ;
+    skos:prefLabel "Application profile" ;
+    skos:related ocs:C11927,
+        ocs:C1488,
+        ocs:C15209,
+        ocs:C17188,
+        ocs:C17369,
+        ocs:C18791,
+        ocs:C21066,
+        ocs:C25617,
+        ocs:C31429,
+        ocs:C32112,
+        ocs:C34720,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C39393,
+        ocs:C41375,
+        ocs:C45685,
+        ocs:C6915,
+        ocs:C9836 .
+

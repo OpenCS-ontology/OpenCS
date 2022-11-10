@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17683 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astronomical_catalog> ;
+    skos:prefLabel "Astronomical catalog" ;
+    skos:related ocs:C10556,
+        ocs:C18137,
+        ocs:C19225,
+        ocs:C22220,
+        ocs:C22752,
+        ocs:C23296,
+        ocs:C23849,
+        ocs:C26673,
+        ocs:C28956,
+        ocs:C35891,
+        ocs:C36878,
+        ocs:C597 .
+

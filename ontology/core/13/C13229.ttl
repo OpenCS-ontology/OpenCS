@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13229 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Telemetric_and_Command_Exchange> ;
+    skos:prefLabel "XML Telemetric and Command Exchange" ;
+    skos:related ocs:C11927,
+        ocs:C1302,
+        ocs:C26656,
+        ocs:C27982,
+        ocs:C28951,
+        ocs:C29317,
+        ocs:C34477,
+        ocs:C3896,
+        ocs:C40114,
+        ocs:C41374,
+        ocs:C41591,
+        ocs:C41719,
+        ocs:C5689,
+        ocs:C6744,
+        ocs:C7203,
+        ocs:C8040,
+        ocs:C9836 .
+

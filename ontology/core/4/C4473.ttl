@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4473 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/AN/PRC-152> ;
+    skos:prefLabel "AN/PRC-152" ;
+    skos:related ocs:C12641,
+        ocs:C1265,
+        ocs:C14053,
+        ocs:C17653,
+        ocs:C18001,
+        ocs:C21417,
+        ocs:C24312,
+        ocs:C28939,
+        ocs:C31582,
+        ocs:C37386,
+        ocs:C43076,
+        ocs:C43515,
+        ocs:C44388 .
+

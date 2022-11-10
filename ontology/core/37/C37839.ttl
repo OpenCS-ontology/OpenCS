@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37839 a skos:Concept ;
+    skos:broader ocs:C31809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Batasio> ;
+    skos:prefLabel "Batasio" ;
+    skos:related ocs:C31809,
+        ocs:C32607,
+        ocs:C32617,
+        ocs:C37148,
+        ocs:C39067,
+        ocs:C40315,
+        ocs:C42957,
+        ocs:C44467,
+        ocs:C45405,
+        ocs:C45469 .
+

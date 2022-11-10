@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39820 a skos:Concept ;
+    skos:broader ocs:C31573 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhinodoras> ;
+    skos:prefLabel "Rhinodoras" ;
+    skos:related ocs:C31573,
+        ocs:C39528,
+        ocs:C39733,
+        ocs:C39957,
+        ocs:C42044,
+        ocs:C42528,
+        ocs:C44472 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22071 a skos:Concept ;
+    skos:broader ocs:C9106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alien_language> ;
+    skos:prefLabel "Alien language" ;
+    skos:related ocs:C15777,
+        ocs:C2472,
+        ocs:C28456,
+        ocs:C7858 .
+

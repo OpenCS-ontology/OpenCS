@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33999 a skos:Concept ;
+    skos:broader ocs:C28998 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lasius_neglectus> ;
+    skos:prefLabel "Lasius neglectus" ;
+    skos:related ocs:C13998,
+        ocs:C14314,
+        ocs:C15126,
+        ocs:C17062,
+        ocs:C19235,
+        ocs:C20649,
+        ocs:C28812,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C30349,
+        ocs:C30775,
+        ocs:C34293,
+        ocs:C34831,
+        ocs:C37210 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21234 a skos:Concept ;
+    skos:broader ocs:C11682,
+        ocs:C1253,
+        ocs:C5702,
+        ocs:C5876,
+        ocs:C672 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pictive> ;
+    skos:prefLabel "Pictive" ;
+    skos:related ocs:C11483,
+        ocs:C16613,
+        ocs:C19315,
+        ocs:C28503,
+        ocs:C32547,
+        ocs:C33431,
+        ocs:C37641,
+        ocs:C40960,
+        ocs:C4292,
+        ocs:C6696,
+        ocs:C7868,
+        ocs:C8269,
+        ocs:C9607 .
+

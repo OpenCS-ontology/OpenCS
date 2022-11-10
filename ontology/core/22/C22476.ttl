@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22476 a skos:Concept ;
+    skos:broader ocs:C9178 ;
+    skos:prefLabel "Videodisc Recording" ;
+    skos:related ocs:C2,
+        ocs:C22 .
+

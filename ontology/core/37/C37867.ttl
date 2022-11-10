@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37867 a skos:Concept ;
+    skos:broader ocs:C33277 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha_mapping> ;
+    skos:prefLabel "Alpha mapping" ;
+    skos:related ocs:C10426,
+        ocs:C18519,
+        ocs:C2118,
+        ocs:C21609,
+        ocs:C22256,
+        ocs:C25137,
+        ocs:C32716,
+        ocs:C32841,
+        ocs:C33277,
+        ocs:C35732,
+        ocs:C40235,
+        ocs:C40693,
+        ocs:C41106,
+        ocs:C7682,
+        ocs:C8399 .
+

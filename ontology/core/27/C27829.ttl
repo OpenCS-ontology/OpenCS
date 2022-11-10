@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27829 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Display_aspect_ratio> ;
+    skos:prefLabel "Display aspect ratio" ;
+    skos:related ocs:C12544,
+        ocs:C13586,
+        ocs:C14411,
+        ocs:C15700,
+        ocs:C16911,
+        ocs:C22257,
+        ocs:C26526,
+        ocs:C2722,
+        ocs:C29012,
+        ocs:C31249,
+        ocs:C31514,
+        ocs:C40199,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C8900,
+        ocs:C9 .
+

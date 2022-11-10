@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26108 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brazilian_Sign_Language> ;
+    skos:prefLabel "Brazilian Sign Language" ;
+    skos:related ocs:C14125,
+        ocs:C16631,
+        ocs:C20481,
+        ocs:C20561,
+        ocs:C20861,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26032,
+        ocs:C27530,
+        ocs:C27888,
+        ocs:C30694,
+        ocs:C32399,
+        ocs:C33438,
+        ocs:C35363,
+        ocs:C37561,
+        ocs:C44007,
+        ocs:C7858 .
+

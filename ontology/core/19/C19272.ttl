@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19272 a skos:Concept ;
+    skos:broader ocs:C5401,
+        ocs:C5659,
+        ocs:C8332,
+        ocs:C9538 ;
+    skos:prefLabel "Fuzzy mutual information" .
+

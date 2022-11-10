@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43092 a skos:Concept ;
+    skos:broader ocs:C36407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rademacher_distribution> ;
+    skos:prefLabel "Rademacher distribution" ;
+    skos:related ocs:C15797,
+        ocs:C17317,
+        ocs:C1844,
+        ocs:C25862,
+        ocs:C39577,
+        ocs:C45652,
+        ocs:C9326 .
+

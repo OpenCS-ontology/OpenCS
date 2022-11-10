@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21938 a skos:Concept ;
+    skos:broader ocs:C2491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Malayalam_poetry> ;
+    skos:prefLabel "Malayalam poetry" ;
+    skos:related ocs:C15778,
+        ocs:C19381,
+        ocs:C2491,
+        ocs:C27167 .
+

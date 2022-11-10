@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18958 a skos:Concept ;
+    skos:broader ocs:C11124,
+        ocs:C11389 ;
+    skos:prefLabel "Third-Party Payments" ;
+    skos:related ocs:C1,
+        ocs:C2529,
+        ocs:C35,
+        ocs:C5,
+        ocs:C6753,
+        ocs:C6754 .
+

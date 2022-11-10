@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37101 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Potassium_channel_opener> ;
+    skos:prefLabel "Potassium channel opener" ;
+    skos:related ocs:C14136,
+        ocs:C18138,
+        ocs:C19362,
+        ocs:C21055,
+        ocs:C30674,
+        ocs:C32271,
+        ocs:C33852,
+        ocs:C36355,
+        ocs:C36482 .
+

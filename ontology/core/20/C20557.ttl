@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20557 a skos:Concept ;
+    skos:broader ocs:C10400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boot_sector> ;
+    skos:prefLabel "Boot sector" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C15529,
+        ocs:C16481,
+        ocs:C19481,
+        ocs:C22742,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C32640,
+        ocs:C33255,
+        ocs:C41962,
+        ocs:C5695,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C9 .
+

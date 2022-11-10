@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43433 a skos:Concept ;
+    skos:broader ocs:C33963 ;
+    skos:closeMatch <http://dbpedia.org/resource/Curve_orientation> ;
+    skos:prefLabel "Curve orientation" ;
+    skos:related ocs:C32031,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C43646,
+        ocs:C45139 .
+

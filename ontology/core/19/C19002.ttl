@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19002 a skos:Concept ;
+    skos:broader ocs:C2469,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_cognitive_science> ;
+    skos:prefLabel "Bayesian cognitive science" ;
+    skos:related ocs:C10410,
+        ocs:C11087,
+        ocs:C14620,
+        ocs:C21268,
+        ocs:C25,
+        ocs:C3732,
+        ocs:C3932,
+        ocs:C39611,
+        ocs:C9022 .
+

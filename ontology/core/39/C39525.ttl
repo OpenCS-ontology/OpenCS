@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39525 a skos:Concept ;
+    skos:broader ocs:C37786 ;
+    skos:closeMatch <http://dbpedia.org/resource/Release_consistency> ;
+    skos:prefLabel "Release consistency" ;
+    skos:related ocs:C13407,
+        ocs:C1491,
+        ocs:C15043,
+        ocs:C21563,
+        ocs:C24153,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C31979,
+        ocs:C35107,
+        ocs:C37786,
+        ocs:C37951,
+        ocs:C39243,
+        ocs:C42759,
+        ocs:C43877,
+        ocs:C44255,
+        ocs:C5198,
+        ocs:C5551,
+        ocs:C8204 .
+

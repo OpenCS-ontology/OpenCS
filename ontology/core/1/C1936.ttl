@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1936 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frame_problem> ;
+    skos:prefLabel "Frame problem" ;
+    skos:related ocs:C10327,
+        ocs:C10825,
+        ocs:C12977,
+        ocs:C16924,
+        ocs:C18413,
+        ocs:C19908,
+        ocs:C20246,
+        ocs:C2418,
+        ocs:C2872,
+        ocs:C3445,
+        ocs:C38602,
+        ocs:C44864,
+        ocs:C6531,
+        ocs:C8 .
+

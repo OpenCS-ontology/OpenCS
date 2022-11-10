@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14279 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_pallidefulva> ;
+    skos:prefLabel "Formica pallidefulva" ;
+    skos:related ocs:C18735,
+        ocs:C20738,
+        ocs:C22675,
+        ocs:C27032,
+        ocs:C27372,
+        ocs:C30775 .
+

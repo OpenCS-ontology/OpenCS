@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3227 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autonomous_logistics> ;
+    skos:prefLabel "Autonomous logistics" ;
+    skos:related ocs:C10340,
+        ocs:C10997,
+        ocs:C11593,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C15904,
+        ocs:C17375,
+        ocs:C2579,
+        ocs:C26596,
+        ocs:C28882,
+        ocs:C34991,
+        ocs:C36715,
+        ocs:C5673,
+        ocs:C7625,
+        ocs:C8182,
+        ocs:C9224 .
+

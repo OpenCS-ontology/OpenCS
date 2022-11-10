@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27957 a skos:Concept ;
+    skos:broader ocs:C10668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Male_gaze> ;
+    skos:prefLabel "Male gaze" ;
+    skos:related ocs:C10668,
+        ocs:C14805 .
+

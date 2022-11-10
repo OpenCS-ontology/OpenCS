@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43009 a skos:Concept ;
+    skos:broader ocs:C35137 ;
+    skos:closeMatch <http://dbpedia.org/resource/Economics_of_language> ;
+    skos:prefLabel "Economics of language" ;
+    skos:related ocs:C1299,
+        ocs:C16549,
+        ocs:C2472 .
+

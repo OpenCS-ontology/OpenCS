@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13993 a skos:Concept ;
+    skos:broader ocs:C5702 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surface_computing> ;
+    skos:prefLabel "Surface computing" ;
+    skos:related ocs:C10368,
+        ocs:C1042,
+        ocs:C11700,
+        ocs:C12261,
+        ocs:C12453,
+        ocs:C1338,
+        ocs:C14748,
+        ocs:C20986,
+        ocs:C24825,
+        ocs:C2655,
+        ocs:C27283,
+        ocs:C28807,
+        ocs:C29012,
+        ocs:C32962,
+        ocs:C44100,
+        ocs:C5702,
+        ocs:C74,
+        ocs:C7621,
+        ocs:C946 .
+

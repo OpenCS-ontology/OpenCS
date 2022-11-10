@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18873 a skos:Concept ;
+    skos:broader ocs:C5706,
+        ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chua's_circuit> ;
+    skos:prefLabel "Chua's circuit" ;
+    skos:related ocs:C14375,
+        ocs:C14592,
+        ocs:C37144 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32403 a skos:Concept ;
+    skos:broader ocs:C20023 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oracle_Exadata> ;
+    skos:prefLabel "Oracle Exadata" ;
+    skos:related ocs:C1142,
+        ocs:C12185,
+        ocs:C12690,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13783,
+        ocs:C14627,
+        ocs:C16874,
+        ocs:C24231,
+        ocs:C28963,
+        ocs:C32110,
+        ocs:C43345,
+        ocs:C6,
+        ocs:C7106,
+        ocs:C8184,
+        ocs:C9,
+        ocs:C9056 .
+

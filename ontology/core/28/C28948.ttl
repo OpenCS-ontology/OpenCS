@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28948 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hexapod_(robotics)> ;
+    skos:prefLabel "Hexapod" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C15234,
+        ocs:C16890,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C32579,
+        ocs:C34991,
+        ocs:C37901,
+        ocs:C40482,
+        ocs:C41903,
+        ocs:C43340,
+        ocs:C43397,
+        ocs:C6986 .
+

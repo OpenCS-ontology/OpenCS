@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41808 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C31925,
+        ocs:C32645,
+        ocs:C35076,
+        ocs:C36104,
+        ocs:C36964 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short-circuit_evaluation> ;
+    skos:prefLabel "Short-circuit evaluation" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C11283,
+        ocs:C15969,
+        ocs:C19,
+        ocs:C2195,
+        ocs:C23909,
+        ocs:C25127,
+        ocs:C25684,
+        ocs:C31014,
+        ocs:C35431,
+        ocs:C3845,
+        ocs:C39944,
+        ocs:C40088,
+        ocs:C4073,
+        ocs:C4321,
+        ocs:C5280,
+        ocs:C6941,
+        ocs:C7289 .
+

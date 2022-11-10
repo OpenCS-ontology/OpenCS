@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2161 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reprography> ;
+    skos:prefLabel "Reprography" ;
+    skos:related ocs:C1397,
+        ocs:C28588,
+        ocs:C7914,
+        ocs:C7981 .
+

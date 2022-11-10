@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3031 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strategic_Defense_Initiative> ;
+    skos:prefLabel "Strategic Defense Initiative" ;
+    skos:related ocs:C1628,
+        ocs:C20104,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C31757,
+        ocs:C33314,
+        ocs:C34143,
+        ocs:C38827,
+        ocs:C9066 .
+

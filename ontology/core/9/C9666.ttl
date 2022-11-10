@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9666 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toyota_Entune> ;
+    skos:prefLabel "Toyota Entune" ;
+    skos:related ocs:C12641,
+        ocs:C1886,
+        ocs:C19226,
+        ocs:C21424,
+        ocs:C27532,
+        ocs:C3,
+        ocs:C4428,
+        ocs:C6862,
+        ocs:C7002,
+        ocs:C7466,
+        ocs:C7561,
+        ocs:C7792,
+        ocs:C9113,
+        ocs:C990 .
+

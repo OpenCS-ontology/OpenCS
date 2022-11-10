@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44109 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Front-to-back_ratio> ;
+    skos:prefLabel "Front-to-back ratio" ;
+    skos:related ocs:C12121,
+        ocs:C24151,
+        ocs:C3088,
+        ocs:C3148,
+        ocs:C36668,
+        ocs:C38796,
+        ocs:C39709,
+        ocs:C39964,
+        ocs:C42056,
+        ocs:C7216,
+        ocs:C9691 .
+

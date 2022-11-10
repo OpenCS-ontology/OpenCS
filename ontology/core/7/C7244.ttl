@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7244 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalization_(learning)> ;
+    skos:prefLabel "Learning Generalization" ;
+    skos:related ocs:C10,
+        ocs:C13610,
+        ocs:C16,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C32,
+        ocs:C5032 .
+

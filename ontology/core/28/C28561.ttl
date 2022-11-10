@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28561 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shared_medium> ;
+    skos:prefLabel "Shared medium" ;
+    skos:related ocs:C12942,
+        ocs:C16022,
+        ocs:C20116,
+        ocs:C24781,
+        ocs:C25041,
+        ocs:C26,
+        ocs:C27568,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C30667,
+        ocs:C35169,
+        ocs:C35301,
+        ocs:C4099,
+        ocs:C490,
+        ocs:C6731,
+        ocs:C7464,
+        ocs:C7502,
+        ocs:C9480 .
+

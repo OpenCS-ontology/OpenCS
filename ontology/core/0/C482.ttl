@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C482 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mindpixel> ;
+    skos:prefLabel "Mindpixel" ;
+    skos:related ocs:C10616,
+        ocs:C12977,
+        ocs:C1466,
+        ocs:C25,
+        ocs:C25936,
+        ocs:C28119,
+        ocs:C30677,
+        ocs:C3736,
+        ocs:C43845,
+        ocs:C528,
+        ocs:C6749,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8701,
+        ocs:C9022 .
+

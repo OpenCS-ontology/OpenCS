@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5420 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_filter> ;
+    skos:prefLabel "Generic filter" ;
+    skos:related ocs:C11331,
+        ocs:C12474,
+        ocs:C16069,
+        ocs:C16190,
+        ocs:C16538,
+        ocs:C24167,
+        ocs:C27491,
+        ocs:C30150,
+        ocs:C33304,
+        ocs:C41913,
+        ocs:C42656,
+        ocs:C44499,
+        ocs:C5251,
+        ocs:C8635 .
+

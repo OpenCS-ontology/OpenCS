@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7159 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transmitter> ;
+    skos:prefLabel "Transmitter" ;
+    skos:related ocs:C10409,
+        ocs:C1219,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C15824,
+        ocs:C18001,
+        ocs:C3,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C7216,
+        ocs:C8388 .
+

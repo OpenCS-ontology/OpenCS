@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43751 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Art_gallery_problem> ;
+    skos:prefLabel "Art gallery problem" ;
+    skos:related ocs:C21308,
+        ocs:C31148,
+        ocs:C32254,
+        ocs:C32806,
+        ocs:C33963,
+        ocs:C37036,
+        ocs:C37589,
+        ocs:C38214,
+        ocs:C38516,
+        ocs:C38781,
+        ocs:C38962,
+        ocs:C41076,
+        ocs:C42822,
+        ocs:C43414,
+        ocs:C44924,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C6279,
+        ocs:C8660 .
+

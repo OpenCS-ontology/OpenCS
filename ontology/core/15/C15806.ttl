@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15806 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Isosurface> ;
+    skos:prefLabel "Isosurface" ;
+    skos:related ocs:C11450,
+        ocs:C21305,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C25851,
+        ocs:C28233,
+        ocs:C28280,
+        ocs:C3174,
+        ocs:C32320,
+        ocs:C33348,
+        ocs:C39310,
+        ocs:C42821,
+        ocs:C7000,
+        ocs:C8399,
+        ocs:C969 .
+

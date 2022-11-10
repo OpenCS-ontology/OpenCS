@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25868 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C3744 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three_degrees_of_influence> ;
+    skos:prefLabel "Three degrees of influence" ;
+    skos:related ocs:C11026,
+        ocs:C20012,
+        ocs:C20170,
+        ocs:C22708,
+        ocs:C28521,
+        ocs:C29674,
+        ocs:C4652 .
+

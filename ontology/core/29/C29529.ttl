@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29529 a skos:Concept ;
+    skos:broader ocs:C13633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expression_(computer_science)> ;
+    skos:prefLabel "Expression (computer science)" ;
+    skos:related ocs:C10284,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C20150,
+        ocs:C20803,
+        ocs:C3337,
+        ocs:C3845,
+        ocs:C4214,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8616,
+        ocs:C8751,
+        ocs:C9204,
+        ocs:C9277,
+        ocs:C9325 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1194 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technological_escalation> ;
+    skos:prefLabel "Technological escalation" ;
+    skos:related ocs:C5863,
+        ocs:C6529,
+        ocs:C8 .
+

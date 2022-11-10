@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9422 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_code> ;
+    skos:prefLabel "Language code" ;
+    skos:related ocs:C10792,
+        ocs:C12388,
+        ocs:C13253,
+        ocs:C14952,
+        ocs:C16792,
+        ocs:C1861,
+        ocs:C21320,
+        ocs:C2472,
+        ocs:C3524,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6237,
+        ocs:C7302,
+        ocs:C9106 .
+

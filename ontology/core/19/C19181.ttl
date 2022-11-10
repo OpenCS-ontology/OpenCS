@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19181 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Column_generation> ;
+    skos:prefLabel "Column generation" ;
+    skos:related ocs:C15480,
+        ocs:C15675,
+        ocs:C16686,
+        ocs:C23872,
+        ocs:C2413,
+        ocs:C25481,
+        ocs:C26453,
+        ocs:C28083,
+        ocs:C34053,
+        ocs:C40100,
+        ocs:C40467,
+        ocs:C43501,
+        ocs:C6287,
+        ocs:C7397,
+        ocs:C8944 .
+

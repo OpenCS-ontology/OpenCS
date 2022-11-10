@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11951 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Checkbox> ;
+    skos:prefLabel "Checkbox" ;
+    skos:related ocs:C14271,
+        ocs:C22284,
+        ocs:C2365,
+        ocs:C26337,
+        ocs:C26700,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C2946,
+        ocs:C30078,
+        ocs:C5126,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C6860,
+        ocs:C7059,
+        ocs:C7736,
+        ocs:C8129,
+        ocs:C9 .
+

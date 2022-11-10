@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11304 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Street_network> ;
+    skos:prefLabel "Street network" ;
+    skos:related ocs:C12271,
+        ocs:C18233,
+        ocs:C25072,
+        ocs:C28361,
+        ocs:C29409,
+        ocs:C3390,
+        ocs:C38216,
+        ocs:C5633,
+        ocs:C6243 .
+

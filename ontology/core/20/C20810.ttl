@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20810 a skos:Concept ;
+    skos:broader ocs:C545,
+        ocs:C8172,
+        ocs:C8386 ;
+    skos:closeMatch <http://dbpedia.org/resource/SDS_Protocol> ;
+    skos:prefLabel "SDS Protocol" ;
+    skos:related ocs:C11016,
+        ocs:C11864,
+        ocs:C12442,
+        ocs:C43830,
+        ocs:C45243,
+        ocs:C5814,
+        ocs:C6451,
+        ocs:C7794 .
+

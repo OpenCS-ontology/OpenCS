@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2313 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_Application_Design_Language> ;
+    skos:prefLabel "Semantic Application Design Language" ;
+    skos:related ocs:C1092,
+        ocs:C25681,
+        ocs:C35570,
+        ocs:C38056,
+        ocs:C38252,
+        ocs:C39278,
+        ocs:C39728,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C41212,
+        ocs:C41781,
+        ocs:C41877,
+        ocs:C43831,
+        ocs:C44161,
+        ocs:C44939,
+        ocs:C7500,
+        ocs:C8 .
+

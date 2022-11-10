@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3686 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Herbrand_structure> ;
+    skos:prefLabel "Herbrand structure" ;
+    skos:related ocs:C10327,
+        ocs:C10622,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C24869,
+        ocs:C2727,
+        ocs:C30367,
+        ocs:C30651,
+        ocs:C38308,
+        ocs:C44728,
+        ocs:C4517,
+        ocs:C45525,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C8635,
+        ocs:C9698 .
+

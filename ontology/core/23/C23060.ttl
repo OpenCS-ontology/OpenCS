@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23060 a skos:Concept ;
+    skos:broader ocs:C6756 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_image_computing> ;
+    skos:prefLabel "Medical image computing" ;
+    skos:related ocs:C21,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C25,
+        ocs:C29,
+        ocs:C3932,
+        ocs:C7,
+        ocs:C948 .
+

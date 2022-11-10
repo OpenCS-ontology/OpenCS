@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26953 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deaf_education> ;
+    skos:prefLabel "Deaf education" ;
+    skos:related ocs:C15973,
+        ocs:C16631,
+        ocs:C19175,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C27530,
+        ocs:C30694,
+        ocs:C4965,
+        ocs:C7858 .
+

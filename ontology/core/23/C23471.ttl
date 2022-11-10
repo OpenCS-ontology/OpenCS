@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23471 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C9113 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reality_mining> ;
+    skos:prefLabel "Reality mining" ;
+    skos:related ocs:C27531,
+        ocs:C33206,
+        ocs:C5573 .
+

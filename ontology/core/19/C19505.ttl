@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19505 a skos:Concept ;
+    skos:broader ocs:C11886,
+        ocs:C1443,
+        ocs:C1451,
+        ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_semantics_management> ;
+    skos:prefLabel "Business semantics management" ;
+    skos:related ocs:C10867,
+        ocs:C10979,
+        ocs:C11087,
+        ocs:C11927,
+        ocs:C13744,
+        ocs:C16758,
+        ocs:C21072,
+        ocs:C2523,
+        ocs:C2674,
+        ocs:C28117,
+        ocs:C28739,
+        ocs:C3736,
+        ocs:C39597,
+        ocs:C40051,
+        ocs:C40114,
+        ocs:C43104,
+        ocs:C43138,
+        ocs:C6915 .
+

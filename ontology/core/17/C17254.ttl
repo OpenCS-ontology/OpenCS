@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17254 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotic_spacecraft> ;
+    skos:prefLabel "Robotic spacecraft" ;
+    skos:related ocs:C2252,
+        ocs:C23481,
+        ocs:C3952,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C7201,
+        ocs:C81 .
+

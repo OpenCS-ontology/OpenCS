@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1517 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corporate_video> ;
+    skos:prefLabel "Corporate video" ;
+    skos:related ocs:C13095,
+        ocs:C17,
+        ocs:C20169,
+        ocs:C2135,
+        ocs:C25356,
+        ocs:C28716,
+        ocs:C3335,
+        ocs:C44034,
+        ocs:C44621,
+        ocs:C6032,
+        ocs:C622,
+        ocs:C7369 .
+

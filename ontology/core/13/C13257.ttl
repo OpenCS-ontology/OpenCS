@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13257 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C23,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document_processing> ;
+    skos:prefLabel "Document processing" ;
+    skos:related ocs:C10571,
+        ocs:C12488,
+        ocs:C1882,
+        ocs:C23103,
+        ocs:C26343,
+        ocs:C27653,
+        ocs:C30113,
+        ocs:C3077,
+        ocs:C30983,
+        ocs:C3912,
+        ocs:C7218,
+        ocs:C9150 .
+

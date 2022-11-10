@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21148 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bankruptcy_prediction> ;
+    skos:prefLabel "Bankruptcy prediction" ;
+    skos:related ocs:C11030,
+        ocs:C11031,
+        ocs:C15972,
+        ocs:C25201,
+        ocs:C4256,
+        ocs:C5499,
+        ocs:C6116,
+        ocs:C8385 .
+

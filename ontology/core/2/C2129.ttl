@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2129 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Project_DIANE> ;
+    skos:prefLabel "Project DIANE" ;
+    skos:related ocs:C11559,
+        ocs:C13944,
+        ocs:C14869,
+        ocs:C17649,
+        ocs:C19175,
+        ocs:C19406,
+        ocs:C26615,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C3178,
+        ocs:C40504,
+        ocs:C420,
+        ocs:C4710,
+        ocs:C7858 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42094 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fast_wavelet_transform> ;
+    skos:prefLabel "Fast wavelet transform" ;
+    skos:related ocs:C10554,
+        ocs:C11443,
+        ocs:C20648,
+        ocs:C28787,
+        ocs:C32612,
+        ocs:C33342,
+        ocs:C38298,
+        ocs:C42915,
+        ocs:C43656,
+        ocs:C43805,
+        ocs:C43908,
+        ocs:C44865,
+        ocs:C44879,
+        ocs:C45045,
+        ocs:C45115 .
+

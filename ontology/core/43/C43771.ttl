@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43771 a skos:Concept ;
+    skos:broader ocs:C32547,
+        ocs:C32962,
+        ocs:C33826,
+        ocs:C34475,
+        ocs:C36470 ;
+    skos:closeMatch <http://dbpedia.org/resource/Magic_pushbutton> ;
+    skos:prefLabel "Magic pushbutton" ;
+    skos:related ocs:C10508,
+        ocs:C10720,
+        ocs:C10781,
+        ocs:C1085,
+        ocs:C11928,
+        ocs:C25854,
+        ocs:C25956,
+        ocs:C33418,
+        ocs:C34057,
+        ocs:C39631,
+        ocs:C39851,
+        ocs:C43596,
+        ocs:C45120,
+        ocs:C7162,
+        ocs:C7736,
+        ocs:C8023,
+        ocs:C9650 .
+

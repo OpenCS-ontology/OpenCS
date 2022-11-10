@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16373 a skos:Concept ;
+    skos:broader ocs:C5843,
+        ocs:C8291 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise-cancelling_headphones> ;
+    skos:prefLabel "Noise-cancelling headphones" ;
+    skos:related ocs:C15505,
+        ocs:C17896,
+        ocs:C19154,
+        ocs:C5139,
+        ocs:C5843,
+        ocs:C5853,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C9250,
+        ocs:C9596 .
+

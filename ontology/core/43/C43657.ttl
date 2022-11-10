@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43657 a skos:Concept ;
+    skos:broader ocs:C30507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fréchet_manifold> ;
+    skos:prefLabel "Fréchet manifold" ;
+    skos:related ocs:C23927,
+        ocs:C35806,
+        ocs:C36110,
+        ocs:C39288 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36207 a skos:Concept ;
+    skos:broader ocs:C15457,
+        ocs:C25821,
+        ocs:C29478 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scientific_workflow_system> ;
+    skos:prefLabel "Scientific workflow system" ;
+    skos:related ocs:C10052,
+        ocs:C10904,
+        ocs:C1264,
+        ocs:C13264,
+        ocs:C15457,
+        ocs:C19003,
+        ocs:C2057,
+        ocs:C2266,
+        ocs:C28632,
+        ocs:C29478,
+        ocs:C30078,
+        ocs:C35015,
+        ocs:C7106,
+        ocs:C7735 .
+

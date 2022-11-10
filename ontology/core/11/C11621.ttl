@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11621 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audiovisual> ;
+    skos:prefLabel "Audiovisual technology" ;
+    skos:related ocs:C13320,
+        ocs:C16,
+        ocs:C197,
+        ocs:C22668,
+        ocs:C3,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C7,
+        ocs:C8614 .
+

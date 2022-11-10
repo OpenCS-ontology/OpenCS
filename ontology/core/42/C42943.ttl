@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42943 a skos:Concept ;
+    skos:broader ocs:C29567,
+        ocs:C34913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marker_interface_pattern> ;
+    skos:prefLabel "Marker interface pattern" ;
+    skos:related ocs:C10720,
+        ocs:C11816,
+        ocs:C12584,
+        ocs:C22095,
+        ocs:C25508,
+        ocs:C27131,
+        ocs:C28759,
+        ocs:C31693,
+        ocs:C34972,
+        ocs:C37822,
+        ocs:C41248,
+        ocs:C43786,
+        ocs:C44286,
+        ocs:C5248 .
+

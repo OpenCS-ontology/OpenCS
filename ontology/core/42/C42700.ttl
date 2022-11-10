@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42700 a skos:Concept ;
+    skos:broader ocs:C34570 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mini-Neptune> ;
+    skos:prefLabel "Mini-Neptune" ;
+    skos:related ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30091,
+        ocs:C32085,
+        ocs:C34228,
+        ocs:C34570,
+        ocs:C38054,
+        ocs:C38234,
+        ocs:C38832,
+        ocs:C41271,
+        ocs:C41369,
+        ocs:C43938,
+        ocs:C597 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9721 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model_selection> ;
+    skos:prefLabel "Model selection" ;
+    skos:related ocs:C11986,
+        ocs:C13371,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C15258,
+        ocs:C26398,
+        ocs:C27901,
+        ocs:C34894,
+        ocs:C37302,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C6395,
+        ocs:C7282,
+        ocs:C7908,
+        ocs:C8456 .
+

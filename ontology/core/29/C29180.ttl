@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29180 a skos:Concept ;
+    skos:broader ocs:C8498 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aperture_card> ;
+    skos:prefLabel "Aperture card" ;
+    skos:related ocs:C10772,
+        ocs:C1090,
+        ocs:C11751,
+        ocs:C37598,
+        ocs:C3997,
+        ocs:C5088,
+        ocs:C8498,
+        ocs:C9218,
+        ocs:C9892 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45456 a skos:Concept ;
+    skos:broader ocs:C32555,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xpress_technology> ;
+    skos:prefLabel "Xpress technology" ;
+    skos:related ocs:C10732,
+        ocs:C12814,
+        ocs:C31431,
+        ocs:C32171,
+        ocs:C33226,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C37967,
+        ocs:C38362,
+        ocs:C40578,
+        ocs:C41995,
+        ocs:C42521,
+        ocs:C42902,
+        ocs:C43449,
+        ocs:C45396,
+        ocs:C45510,
+        ocs:C45519 .
+

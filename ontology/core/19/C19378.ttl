@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19378 a skos:Concept ;
+    skos:broader ocs:C934 ;
+    skos:closeMatch <http://dbpedia.org/resource/First_Principles_of_Instruction> ;
+    skos:prefLabel "First Principles of Instruction" ;
+    skos:related ocs:C16041,
+        ocs:C19066,
+        ocs:C3444,
+        ocs:C934 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4200 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_vector> ;
+    skos:prefLabel "Test vector" ;
+    skos:related ocs:C1,
+        ocs:C11448,
+        ocs:C12429,
+        ocs:C12659,
+        ocs:C14,
+        ocs:C14210,
+        ocs:C155,
+        ocs:C23104,
+        ocs:C24483,
+        ocs:C27605,
+        ocs:C29,
+        ocs:C32229,
+        ocs:C32486,
+        ocs:C32613,
+        ocs:C37016,
+        ocs:C44603,
+        ocs:C4513 .
+

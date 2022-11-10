@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21618 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peripheral_vision> ;
+    skos:prefLabel "Peripheral vision" ;
+    skos:related ocs:C10740,
+        ocs:C11402,
+        ocs:C2422,
+        ocs:C695,
+        ocs:C78 .
+

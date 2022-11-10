@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27387 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545,
+        ocs:C8325 ;
+    skos:closeMatch <http://dbpedia.org/resource/Selection_(linguistics)> ;
+    skos:prefLabel "Selection (linguistics)" ;
+    skos:related ocs:C1034,
+        ocs:C15202,
+        ocs:C16230,
+        ocs:C16635,
+        ocs:C18355,
+        ocs:C2182,
+        ocs:C27805,
+        ocs:C30451,
+        ocs:C30931,
+        ocs:C31367,
+        ocs:C3261,
+        ocs:C33118,
+        ocs:C37448,
+        ocs:C8454,
+        ocs:C9158 .
+

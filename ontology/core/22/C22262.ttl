@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22262 a skos:Concept ;
+    skos:broader ocs:C4321,
+        ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_interchange> ;
+    skos:prefLabel "Loop interchange" ;
+    skos:related ocs:C17089,
+        ocs:C17698,
+        ocs:C20856,
+        ocs:C21201,
+        ocs:C22968,
+        ocs:C23854,
+        ocs:C25210,
+        ocs:C28630,
+        ocs:C30086,
+        ocs:C30556,
+        ocs:C31844,
+        ocs:C32227,
+        ocs:C33100,
+        ocs:C40371,
+        ocs:C40582,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C4778,
+        ocs:C5085 .
+

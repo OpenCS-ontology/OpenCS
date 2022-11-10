@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28138 a skos:Concept ;
+    skos:broader ocs:C4921,
+        ocs:C9093 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eurocard_(printed_circuit_board)> ;
+    skos:prefLabel "Eurocard" ;
+    skos:related ocs:C11882,
+        ocs:C14691,
+        ocs:C18495,
+        ocs:C2084,
+        ocs:C35468,
+        ocs:C4159,
+        ocs:C4701,
+        ocs:C521,
+        ocs:C5624,
+        ocs:C9093 .
+

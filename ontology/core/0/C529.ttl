@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C529 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Warped_linear_predictive_coding> ;
+    skos:prefLabel "Warped linear predictive coding" ;
+    skos:related ocs:C10759,
+        ocs:C1506,
+        ocs:C18077,
+        ocs:C2659,
+        ocs:C27518,
+        ocs:C33114,
+        ocs:C3530,
+        ocs:C36671,
+        ocs:C39055,
+        ocs:C42727,
+        ocs:C43352,
+        ocs:C44610,
+        ocs:C44774,
+        ocs:C5492,
+        ocs:C6125,
+        ocs:C9154 .
+

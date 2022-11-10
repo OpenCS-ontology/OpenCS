@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42823 a skos:Concept ;
+    skos:broader ocs:C30160 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sperata_seenghala> ;
+    skos:prefLabel "Sperata seenghala" ;
+    skos:related ocs:C31262,
+        ocs:C31809,
+        ocs:C33479,
+        ocs:C37727,
+        ocs:C38193,
+        ocs:C44467,
+        ocs:C45469 .
+

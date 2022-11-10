@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30150 a skos:Concept ;
+    skos:broader ocs:C16190,
+        ocs:C24167 ;
+    skos:closeMatch <http://dbpedia.org/resource/Martin's_axiom> ;
+    skos:prefLabel "Martin's axiom" ;
+    skos:related ocs:C11331,
+        ocs:C15010,
+        ocs:C16190,
+        ocs:C18239,
+        ocs:C24167,
+        ocs:C24910,
+        ocs:C27491,
+        ocs:C31588,
+        ocs:C33304,
+        ocs:C36761,
+        ocs:C41913,
+        ocs:C44324,
+        ocs:C5251,
+        ocs:C5420 .
+

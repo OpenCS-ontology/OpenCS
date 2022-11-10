@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35943 a skos:Concept ;
+    skos:broader ocs:C22711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modal_voice> ;
+    skos:prefLabel "Modal register" ;
+    skos:related ocs:C1,
+        ocs:C10985,
+        ocs:C13096,
+        ocs:C18630,
+        ocs:C2300,
+        ocs:C28019,
+        ocs:C5506 .
+

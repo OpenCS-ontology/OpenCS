@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16470 a skos:Concept ;
+    skos:broader ocs:C3042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hovmöller_diagram> ;
+    skos:prefLabel "Hovmöller diagram" ;
+    skos:related ocs:C15799,
+        ocs:C17258,
+        ocs:C19664,
+        ocs:C24962 .
+

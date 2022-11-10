@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7918 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_reference_system> ;
+    skos:prefLabel "Spatial reference system" ;
+    skos:related ocs:C1037,
+        ocs:C16293,
+        ocs:C1651,
+        ocs:C23889,
+        ocs:C27492,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C44135,
+        ocs:C8708 .
+

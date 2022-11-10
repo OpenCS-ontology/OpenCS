@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3172 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:prefLabel "Arithmetic overflow" ;
+    skos:related ocs:C1083,
+        ocs:C12262,
+        ocs:C16377,
+        ocs:C19487,
+        ocs:C2165,
+        ocs:C22452,
+        ocs:C23580,
+        ocs:C24189,
+        ocs:C34887,
+        ocs:C3698,
+        ocs:C4816,
+        ocs:C6255,
+        ocs:C7280,
+        ocs:C8581,
+        ocs:C9 .
+

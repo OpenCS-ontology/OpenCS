@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5350 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_camera> ;
+    skos:prefLabel "Remote camera" ;
+    skos:related ocs:C10105,
+        ocs:C13065,
+        ocs:C14087,
+        ocs:C26534,
+        ocs:C9611 .
+

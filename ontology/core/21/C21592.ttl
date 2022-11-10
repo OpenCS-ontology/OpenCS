@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21592 a skos:Concept ;
+    skos:broader ocs:C5619,
+        ocs:C76,
+        ocs:C8711 ;
+    skos:closeMatch <http://dbpedia.org/resource/XACML> ;
+    skos:prefLabel "XACML" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C1399,
+        ocs:C17656,
+        ocs:C19557,
+        ocs:C21232,
+        ocs:C21747,
+        ocs:C21951,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C33988,
+        ocs:C35388,
+        ocs:C37731,
+        ocs:C38075,
+        ocs:C449,
+        ocs:C7006,
+        ocs:C8711 .
+

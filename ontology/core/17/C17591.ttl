@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17591 a skos:Concept ;
+    skos:broader ocs:C13253,
+        ocs:C5126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Coded_Character_Set> ;
+    skos:prefLabel "Universal Character Set" .
+

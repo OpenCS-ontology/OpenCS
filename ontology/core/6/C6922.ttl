@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6922 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rusty_bolt_effect> ;
+    skos:prefLabel "Rusty bolt effect" ;
+    skos:related ocs:C10103,
+        ocs:C10974,
+        ocs:C14698,
+        ocs:C16925,
+        ocs:C17432,
+        ocs:C17926,
+        ocs:C20333,
+        ocs:C23993,
+        ocs:C29220,
+        ocs:C3843,
+        ocs:C8348 .
+

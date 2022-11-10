@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40146 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35839,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/FORK-256> ;
+    skos:prefLabel "FORK-256" ;
+    skos:related ocs:C15591,
+        ocs:C23875,
+        ocs:C35389,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39396,
+        ocs:C39524,
+        ocs:C40061,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C43275,
+        ocs:C43899,
+        ocs:C43967,
+        ocs:C45340,
+        ocs:C7436 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34423 a skos:Concept ;
+    skos:broader ocs:C14029,
+        ocs:C24641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Laplace–Beltrami_operator> ;
+    skos:prefLabel "Laplace–Beltrami operator" ;
+    skos:related ocs:C16744,
+        ocs:C28175 .
+

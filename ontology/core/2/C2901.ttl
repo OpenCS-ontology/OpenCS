@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2901 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SocketCAN> ;
+    skos:prefLabel "SocketCAN" ;
+    skos:related ocs:C20800,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C30500,
+        ocs:C30986,
+        ocs:C31489,
+        ocs:C37732,
+        ocs:C38743,
+        ocs:C43185,
+        ocs:C43595,
+        ocs:C5676,
+        ocs:C6667 .
+

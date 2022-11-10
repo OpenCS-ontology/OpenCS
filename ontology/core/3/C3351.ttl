@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3351 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_Alteration_Monitor> ;
+    skos:prefLabel "File Alteration Monitor" ;
+    skos:related ocs:C12211,
+        ocs:C19000,
+        ocs:C19523,
+        ocs:C20800,
+        ocs:C22569,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C27120,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C34475,
+        ocs:C3799,
+        ocs:C40109,
+        ocs:C43822,
+        ocs:C7476,
+        ocs:C9 .
+

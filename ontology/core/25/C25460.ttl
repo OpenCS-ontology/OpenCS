@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25460 a skos:Concept ;
+    skos:broader ocs:C10444,
+        ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relational_operator> ;
+    skos:prefLabel "Relational operator" ;
+    skos:related ocs:C10284,
+        ocs:C10384,
+        ocs:C10557,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C19,
+        ocs:C23909,
+        ocs:C31014,
+        ocs:C42032,
+        ocs:C4937,
+        ocs:C5280,
+        ocs:C6024,
+        ocs:C6255,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C794,
+        ocs:C8616,
+        ocs:C9277 .
+

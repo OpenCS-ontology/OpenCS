@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36953 a skos:Concept ;
+    skos:broader ocs:C21360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transflective_liquid-crystal_display> ;
+    skos:prefLabel "Transflective liquid-crystal display" ;
+    skos:related ocs:C12641,
+        ocs:C17132,
+        ocs:C21424,
+        ocs:C29012,
+        ocs:C35370,
+        ocs:C6338,
+        ocs:C7850 .
+

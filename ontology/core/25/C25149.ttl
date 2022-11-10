@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25149 a skos:Concept ;
+    skos:broader ocs:C10321,
+        ocs:C12582,
+        ocs:C2196,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Detective_quantum_efficiency> ;
+    skos:prefLabel "Detective quantum efficiency" ;
+    skos:related ocs:C10509,
+        ocs:C10700,
+        ocs:C11747,
+        ocs:C11768,
+        ocs:C13373,
+        ocs:C2196,
+        ocs:C5829,
+        ocs:C7597,
+        ocs:C7789,
+        ocs:C9428 .
+

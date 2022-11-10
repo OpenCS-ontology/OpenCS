@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11410 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_Inquiry_Projects> ;
+    skos:prefLabel "Web Inquiry Projects" ;
+    skos:related ocs:C11094,
+        ocs:C11499,
+        ocs:C12656,
+        ocs:C22203,
+        ocs:C25,
+        ocs:C27130,
+        ocs:C32753,
+        ocs:C3538,
+        ocs:C3696,
+        ocs:C4096,
+        ocs:C44137,
+        ocs:C5094,
+        ocs:C8410,
+        ocs:C8566,
+        ocs:C9244,
+        ocs:C941,
+        ocs:C9910 .
+

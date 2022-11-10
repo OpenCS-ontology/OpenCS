@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30286 a skos:Concept ;
+    skos:broader ocs:C21308 ;
+    skos:closeMatch <http://dbpedia.org/resource/Steiner_point_(triangle)> ;
+    skos:prefLabel "Steiner point" ;
+    skos:related ocs:C31522,
+        ocs:C41458 .
+

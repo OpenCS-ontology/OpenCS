@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9480 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circuit_switching> ;
+    skos:prefLabel "Circuit switching" ;
+    skos:related ocs:C12942,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C23155,
+        ocs:C24781,
+        ocs:C25293,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C32718,
+        ocs:C4197,
+        ocs:C490,
+        ocs:C6861,
+        ocs:C7340,
+        ocs:C8614,
+        ocs:C9154 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30148 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silurus_soldatovi> ;
+    skos:prefLabel "Silurus soldatovi" ;
+    skos:related ocs:C24236,
+        ocs:C29991,
+        ocs:C31262,
+        ocs:C36292,
+        ocs:C43257,
+        ocs:C45501 .
+

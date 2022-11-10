@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17899 a skos:Concept ;
+    skos:broader ocs:C1332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_Strategy> ;
+    skos:prefLabel "Functional Strategy" ;
+    skos:related ocs:C1332 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42287 a skos:Concept ;
+    skos:broader ocs:C34166 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glejser_test> ;
+    skos:prefLabel "Glejser test" ;
+    skos:related ocs:C10138,
+        ocs:C14553,
+        ocs:C15614,
+        ocs:C23554,
+        ocs:C28403,
+        ocs:C38662,
+        ocs:C5087,
+        ocs:C5505,
+        ocs:C6116,
+        ocs:C7471 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10397 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_business> ;
+    skos:prefLabel "Virtual business" ;
+    skos:related ocs:C10225,
+        ocs:C18683,
+        ocs:C197,
+        ocs:C25547,
+        ocs:C26014,
+        ocs:C26654,
+        ocs:C3,
+        ocs:C31,
+        ocs:C3444,
+        ocs:C35838,
+        ocs:C37505,
+        ocs:C6659,
+        ocs:C7344,
+        ocs:C8614 .
+

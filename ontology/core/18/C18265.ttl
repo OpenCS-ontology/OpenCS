@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18265 a skos:Concept ;
+    skos:broader ocs:C4804,
+        ocs:C5706,
+        ocs:C5722 ;
+    skos:closeMatch <http://dbpedia.org/resource/Read-copy-update> ;
+    skos:prefLabel "Read-copy-update" ;
+    skos:related ocs:C13625,
+        ocs:C1396,
+        ocs:C20800,
+        ocs:C21551,
+        ocs:C22879,
+        ocs:C23694,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C39243,
+        ocs:C40601,
+        ocs:C44555,
+        ocs:C5495,
+        ocs:C5551,
+        ocs:C6346,
+        ocs:C8204,
+        ocs:C9 .
+

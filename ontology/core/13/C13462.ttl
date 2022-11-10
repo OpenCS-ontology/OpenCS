@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13462 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/BT_Highway> ;
+    skos:prefLabel "BT Highway" ;
+    skos:related ocs:C10638,
+        ocs:C13695,
+        ocs:C14152,
+        ocs:C15022,
+        ocs:C19350,
+        ocs:C21610,
+        ocs:C22669,
+        ocs:C23555,
+        ocs:C24466,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C2917,
+        ocs:C2982,
+        ocs:C32395,
+        ocs:C3853,
+        ocs:C38753,
+        ocs:C8087,
+        ocs:C9327 .
+

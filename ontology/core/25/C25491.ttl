@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25491 a skos:Concept ;
+    skos:broader ocs:C12759,
+        ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Characteristics_of_dyslexia> ;
+    skos:prefLabel "Characteristics of dyslexia" ;
+    skos:related ocs:C18035,
+        ocs:C2025,
+        ocs:C28033,
+        ocs:C308,
+        ocs:C5862 .
+

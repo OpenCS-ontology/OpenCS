@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19512 a skos:Concept ;
+    skos:broader ocs:C8559 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robustification> ;
+    skos:prefLabel "Robustification" ;
+    skos:related ocs:C11767,
+        ocs:C12371,
+        ocs:C13748,
+        ocs:C19150,
+        ocs:C21885,
+        ocs:C22686,
+        ocs:C28576,
+        ocs:C32610,
+        ocs:C33389,
+        ocs:C34974 .
+

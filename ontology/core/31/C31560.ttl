@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31560 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C23855 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dolev–Yao_model> ;
+    skos:prefLabel "Dolev–Yao model" ;
+    skos:related ocs:C1338,
+        ocs:C15319,
+        ocs:C20555,
+        ocs:C22263,
+        ocs:C23855,
+        ocs:C35008,
+        ocs:C35391,
+        ocs:C4218,
+        ocs:C7006,
+        ocs:C7903 .
+

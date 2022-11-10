@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9534 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/VEST> ;
+    skos:prefLabel "VEST" ;
+    skos:related ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35900,
+        ocs:C37850,
+        ocs:C39213,
+        ocs:C40268,
+        ocs:C4218,
+        ocs:C42286,
+        ocs:C43963,
+        ocs:C44022,
+        ocs:C45551,
+        ocs:C7171 .
+

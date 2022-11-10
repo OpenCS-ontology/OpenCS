@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8045 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_date> ;
+    skos:prefLabel "Date Value" ;
+    skos:related ocs:C10,
+        ocs:C15253,
+        ocs:C2193,
+        ocs:C23,
+        ocs:C24,
+        ocs:C33,
+        ocs:C6,
+        ocs:C6331,
+        ocs:C8,
+        ocs:C8704 .
+

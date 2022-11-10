@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40155 a skos:Concept ;
+    skos:broader ocs:C34795 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modal_algebra> ;
+    skos:prefLabel "Modal algebra" ;
+    skos:related ocs:C10825,
+        ocs:C14686,
+        ocs:C32107,
+        ocs:C3894,
+        ocs:C41223,
+        ocs:C41305,
+        ocs:C43164,
+        ocs:C43371,
+        ocs:C44339,
+        ocs:C45667,
+        ocs:C5714 .
+

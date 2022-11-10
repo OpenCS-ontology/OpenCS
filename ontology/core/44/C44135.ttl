@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44135 a skos:Concept ;
+    skos:broader ocs:C33916 ;
+    skos:closeMatch <http://dbpedia.org/resource/GeoSPARQL> ;
+    skos:prefLabel "GeoSPARQL" ;
+    skos:related ocs:C1037,
+        ocs:C1651,
+        ocs:C27492,
+        ocs:C28117,
+        ocs:C29110,
+        ocs:C2931,
+        ocs:C33916,
+        ocs:C38059,
+        ocs:C38078,
+        ocs:C39955,
+        ocs:C40725,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C42124,
+        ocs:C43831,
+        ocs:C44892,
+        ocs:C45750,
+        ocs:C7918,
+        ocs:C9836 .
+

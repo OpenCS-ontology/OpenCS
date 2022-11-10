@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10096 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Breadcrumb_(navigation)> ;
+    skos:prefLabel "Breadcrumb" ;
+    skos:related ocs:C12325,
+        ocs:C13790,
+        ocs:C16338,
+        ocs:C1787,
+        ocs:C19224,
+        ocs:C20937,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C3472,
+        ocs:C3568,
+        ocs:C3672,
+        ocs:C40687,
+        ocs:C4223,
+        ocs:C4450,
+        ocs:C5305,
+        ocs:C5702,
+        ocs:C6605,
+        ocs:C6860,
+        ocs:C7059 .
+

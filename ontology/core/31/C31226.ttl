@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31226 a skos:Concept ;
+    skos:broader ocs:C25589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constant_altitude_plan_position_indicator> ;
+    skos:prefLabel "Constant altitude plan position indicator" ;
+    skos:related ocs:C26590,
+        ocs:C34996,
+        ocs:C7008 .
+

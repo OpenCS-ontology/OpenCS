@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44375 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:prefLabel "Component oriented software development" .
+

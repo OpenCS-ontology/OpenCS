@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31660 a skos:Concept ;
+    skos:broader ocs:C17119,
+        ocs:C17432 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_harmonic_distortion_analyzer> ;
+    skos:prefLabel "THD analyzer" ;
+    skos:related ocs:C17432,
+        ocs:C21364,
+        ocs:C26449,
+        ocs:C3173,
+        ocs:C32519,
+        ocs:C3843,
+        ocs:C39179 .
+

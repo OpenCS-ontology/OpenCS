@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6998 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_dynamics> ;
+    skos:prefLabel "System dynamics" ;
+    skos:related ocs:C10997,
+        ocs:C22976,
+        ocs:C24,
+        ocs:C2421,
+        ocs:C25955,
+        ocs:C37540,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C7111,
+        ocs:C7256,
+        ocs:C7334 .
+

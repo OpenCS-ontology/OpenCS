@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45692 a skos:Concept ;
+    skos:broader ocs:C34627 ;
+    skos:closeMatch <http://dbpedia.org/resource/NBAP> ;
+    skos:prefLabel "NBAP" ;
+    skos:related ocs:C1154,
+        ocs:C15640,
+        ocs:C21976,
+        ocs:C23025,
+        ocs:C24123,
+        ocs:C30309,
+        ocs:C31469,
+        ocs:C32846,
+        ocs:C33285,
+        ocs:C34627,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C38053,
+        ocs:C38413,
+        ocs:C5346,
+        ocs:C8087,
+        ocs:C9117 .
+

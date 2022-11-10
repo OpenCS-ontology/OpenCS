@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9444 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Periodic_summation> ;
+    skos:prefLabel "Periodic summation" ;
+    skos:related ocs:C11150,
+        ocs:C3589,
+        ocs:C42128,
+        ocs:C5042,
+        ocs:C6816 .
+

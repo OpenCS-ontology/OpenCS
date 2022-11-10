@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12835 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_element> ;
+    skos:prefLabel "Network element" ;
+    skos:related ocs:C12307,
+        ocs:C12583,
+        ocs:C1634,
+        ocs:C17411,
+        ocs:C17867,
+        ocs:C17918,
+        ocs:C18217,
+        ocs:C21725,
+        ocs:C25293,
+        ocs:C3,
+        ocs:C3394,
+        ocs:C35367,
+        ocs:C41468,
+        ocs:C45575,
+        ocs:C45641,
+        ocs:C7340,
+        ocs:C8567,
+        ocs:C8896,
+        ocs:C9875 .
+

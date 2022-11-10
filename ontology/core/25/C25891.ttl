@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25891 a skos:Concept ;
+    skos:broader ocs:C9250,
+        ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/PEAQ> ;
+    skos:prefLabel "PEAQ" ;
+    skos:related ocs:C10509,
+        ocs:C10778,
+        ocs:C13256,
+        ocs:C19334,
+        ocs:C2759,
+        ocs:C28281,
+        ocs:C30690,
+        ocs:C31651,
+        ocs:C34697,
+        ocs:C45044,
+        ocs:C45148,
+        ocs:C9250 .
+

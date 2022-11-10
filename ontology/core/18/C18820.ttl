@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18820 a skos:Concept ;
+    skos:broader ocs:C257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filter_cake> ;
+    skos:prefLabel "Filter cake" ;
+    skos:related ocs:C20176 .
+

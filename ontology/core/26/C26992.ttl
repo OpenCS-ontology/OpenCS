@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26992 a skos:Concept ;
+    skos:broader ocs:C1728 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_analytics> ;
+    skos:prefLabel "Social analytics" ;
+    skos:related ocs:C10764,
+        ocs:C11026,
+        ocs:C1132,
+        ocs:C11927,
+        ocs:C12238,
+        ocs:C13,
+        ocs:C20992,
+        ocs:C21072,
+        ocs:C22668,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C9488 .
+

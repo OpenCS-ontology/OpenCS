@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30010 a skos:Concept ;
+    skos:broader ocs:C19751 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_and_frequency_transfer> ;
+    skos:prefLabel "Time and frequency transfer" ;
+    skos:related ocs:C12641,
+        ocs:C14959,
+        ocs:C18988,
+        ocs:C1941,
+        ocs:C19672,
+        ocs:C20663,
+        ocs:C31954,
+        ocs:C31990,
+        ocs:C43447,
+        ocs:C43546,
+        ocs:C8560 .
+

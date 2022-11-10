@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14571 a skos:Concept ;
+    skos:broader ocs:C10511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preference_regression> ;
+    skos:prefLabel "Preference regression" ;
+    skos:related ocs:C1332,
+        ocs:C13547,
+        ocs:C14157,
+        ocs:C15211,
+        ocs:C25,
+        ocs:C4256,
+        ocs:C6116,
+        ocs:C6912 .
+

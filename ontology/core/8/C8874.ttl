@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8874 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bar_induction> ;
+    skos:prefLabel "Bar induction" ;
+    skos:related ocs:C11496,
+        ocs:C12474,
+        ocs:C1330,
+        ocs:C16614,
+        ocs:C1800,
+        ocs:C18772,
+        ocs:C25442,
+        ocs:C33133,
+        ocs:C4206,
+        ocs:C43384,
+        ocs:C5251,
+        ocs:C5714 .
+

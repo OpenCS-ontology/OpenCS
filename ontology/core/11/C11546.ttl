@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11546 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marketing_buzz> ;
+    skos:prefLabel "Marketing buzz" ;
+    skos:related ocs:C15470,
+        ocs:C18683,
+        ocs:C20044,
+        ocs:C20461,
+        ocs:C21709,
+        ocs:C22668,
+        ocs:C22956,
+        ocs:C23393,
+        ocs:C27895,
+        ocs:C3509,
+        ocs:C8614 .
+

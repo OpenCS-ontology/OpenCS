@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32819 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C20376 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layered_graph_drawing> ;
+    skos:prefLabel "Layered graph drawing" ;
+    skos:related ocs:C15414,
+        ocs:C17717,
+        ocs:C20376,
+        ocs:C28283,
+        ocs:C28291,
+        ocs:C29108,
+        ocs:C30307,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C39136,
+        ocs:C39493,
+        ocs:C40783,
+        ocs:C40817,
+        ocs:C42281,
+        ocs:C44250,
+        ocs:C44560,
+        ocs:C619,
+        ocs:C8660 .
+

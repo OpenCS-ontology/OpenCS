@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8246 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bias_frame> ;
+    skos:prefLabel "Bias frame" ;
+    skos:related ocs:C10318,
+        ocs:C12580,
+        ocs:C20961,
+        ocs:C27089,
+        ocs:C27679,
+        ocs:C27807,
+        ocs:C35429,
+        ocs:C38640,
+        ocs:C42391,
+        ocs:C43094,
+        ocs:C6075,
+        ocs:C7789,
+        ocs:C8021 .
+

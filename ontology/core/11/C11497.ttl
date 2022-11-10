@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11497 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frangibility> ;
+    skos:prefLabel "Frangibility" ;
+    skos:related ocs:C11445,
+        ocs:C20572,
+        ocs:C30954,
+        ocs:C31583 .
+

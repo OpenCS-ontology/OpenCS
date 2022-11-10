@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4181 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schools_Interoperability_Framework> ;
+    skos:prefLabel "Schools Interoperability Framework" ;
+    skos:related ocs:C10692,
+        ocs:C10869,
+        ocs:C10904,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13144,
+        ocs:C13252,
+        ocs:C14271,
+        ocs:C15320,
+        ocs:C17238,
+        ocs:C19052,
+        ocs:C20237,
+        ocs:C21747,
+        ocs:C24338,
+        ocs:C28559,
+        ocs:C28941,
+        ocs:C29187,
+        ocs:C31667 .
+

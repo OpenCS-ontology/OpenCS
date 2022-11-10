@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45284 a skos:Concept ;
+    skos:broader ocs:C32192 ;
+    skos:closeMatch <http://dbpedia.org/resource/Registration_authority> ;
+    skos:prefLabel "Registration authority" ;
+    skos:related ocs:C10408,
+        ocs:C11927,
+        ocs:C14183,
+        ocs:C16399,
+        ocs:C18213,
+        ocs:C22005,
+        ocs:C23851,
+        ocs:C23928,
+        ocs:C25612,
+        ocs:C30595,
+        ocs:C38812,
+        ocs:C41442,
+        ocs:C42124,
+        ocs:C44455,
+        ocs:C6690,
+        ocs:C7302,
+        ocs:C7809,
+        ocs:C8614,
+        ocs:C8790 .
+

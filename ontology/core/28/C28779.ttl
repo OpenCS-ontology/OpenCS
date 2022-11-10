@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28779 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/GNSS_applications> ;
+    skos:prefLabel "GNSS applications" ;
+    skos:related ocs:C11158,
+        ocs:C12641,
+        ocs:C15050,
+        ocs:C22328,
+        ocs:C27698,
+        ocs:C30473,
+        ocs:C30565,
+        ocs:C30678,
+        ocs:C30890,
+        ocs:C34196,
+        ocs:C34811,
+        ocs:C37214,
+        ocs:C41676,
+        ocs:C41939,
+        ocs:C43594,
+        ocs:C44290,
+        ocs:C6311 .
+

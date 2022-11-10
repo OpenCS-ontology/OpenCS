@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10135 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/STREAMS> ;
+    skos:prefLabel "STREAMS" ;
+    skos:related ocs:C14271,
+        ocs:C20800,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C26097,
+        ocs:C27276,
+        ocs:C29359,
+        ocs:C29612,
+        ocs:C3039,
+        ocs:C31489,
+        ocs:C37732,
+        ocs:C3968,
+        ocs:C41115,
+        ocs:C42619,
+        ocs:C43822,
+        ocs:C443,
+        ocs:C5873,
+        ocs:C686,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39714 a skos:Concept ;
+    skos:broader ocs:C31544,
+        ocs:C35268,
+        ocs:C35768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Okta> ;
+    skos:prefLabel "Okta" ;
+    skos:related ocs:C16917,
+        ocs:C31544,
+        ocs:C42337 .
+

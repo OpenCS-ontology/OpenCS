@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42151 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/DO-178B> ;
+    skos:prefLabel "DO-178B" ;
+    skos:related ocs:C16709,
+        ocs:C19404,
+        ocs:C24844,
+        ocs:C25956,
+        ocs:C26339,
+        ocs:C27885,
+        ocs:C32958,
+        ocs:C37174,
+        ocs:C41224,
+        ocs:C41434,
+        ocs:C43470,
+        ocs:C45212,
+        ocs:C45623,
+        ocs:C511,
+        ocs:C8562,
+        ocs:C9745 .
+

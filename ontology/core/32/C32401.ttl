@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32401 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probabilistic_roadmap> ;
+    skos:prefLabel "Probabilistic roadmap" ;
+    skos:related ocs:C13317,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C19540,
+        ocs:C25273,
+        ocs:C32254,
+        ocs:C3339,
+        ocs:C33579,
+        ocs:C33954,
+        ocs:C34389,
+        ocs:C34535,
+        ocs:C34663,
+        ocs:C38731,
+        ocs:C41082,
+        ocs:C45365,
+        ocs:C4966,
+        ocs:C5157,
+        ocs:C8,
+        ocs:C9211 .
+

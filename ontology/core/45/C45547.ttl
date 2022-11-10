@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45547 a skos:Concept ;
+    skos:broader ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Big_O_in_probability_notation> ;
+    skos:prefLabel "Big O in probability notation" ;
+    skos:related ocs:C14266,
+        ocs:C15256,
+        ocs:C33312,
+        ocs:C36379,
+        ocs:C37373,
+        ocs:C42149,
+        ocs:C44131 .
+

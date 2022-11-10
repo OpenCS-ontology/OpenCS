@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20902 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infinitesimal_generator_(stochastic_processes)> ;
+    skos:prefLabel "Infinitesimal generator" ;
+    skos:related ocs:C16744,
+        ocs:C25668,
+        ocs:C28787,
+        ocs:C36324,
+        ocs:C36971,
+        ocs:C45815,
+        ocs:C6909 .
+

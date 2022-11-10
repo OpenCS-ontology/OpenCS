@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36423 a skos:Concept ;
+    skos:broader ocs:C14417,
+        ocs:C22450 ;
+    skos:closeMatch <http://dbpedia.org/resource/Central_Authentication_Service> ;
+    skos:prefLabel "Central Authentication Service" ;
+    skos:related ocs:C14417,
+        ocs:C16338,
+        ocs:C17235,
+        ocs:C17656,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C22597,
+        ocs:C23446,
+        ocs:C24131,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C32400,
+        ocs:C33015,
+        ocs:C34607,
+        ocs:C40789,
+        ocs:C43719,
+        ocs:C44603,
+        ocs:C7006,
+        ocs:C7875,
+        ocs:C8614 .
+

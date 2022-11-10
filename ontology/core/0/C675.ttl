@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C675 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logistics_automation> ;
+    skos:prefLabel "Logistics automation" ;
+    skos:related ocs:C1253,
+        ocs:C12755,
+        ocs:C13484,
+        ocs:C27567,
+        ocs:C4768,
+        ocs:C4917,
+        ocs:C5056 .
+

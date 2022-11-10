@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30219 a skos:Concept ;
+    skos:broader ocs:C17708 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zeeman–Doppler_imaging> ;
+    skos:prefLabel "Zeeman–Doppler imaging" ;
+    skos:related ocs:C12737,
+        ocs:C18085,
+        ocs:C21607,
+        ocs:C30109,
+        ocs:C31488,
+        ocs:C33488,
+        ocs:C34889,
+        ocs:C35073,
+        ocs:C37682,
+        ocs:C38131,
+        ocs:C597 .
+

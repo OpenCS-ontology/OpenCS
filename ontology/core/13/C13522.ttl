@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13522 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Looking_Glass_server> ;
+    skos:prefLabel "Looking Glass server" ;
+    skos:related ocs:C15396,
+        ocs:C20540,
+        ocs:C21894,
+        ocs:C23506,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C28122,
+        ocs:C30432,
+        ocs:C37035,
+        ocs:C38632,
+        ocs:C40959,
+        ocs:C42853,
+        ocs:C43015,
+        ocs:C44823,
+        ocs:C45247,
+        ocs:C45517,
+        ocs:C849,
+        ocs:C8614 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45577 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_electronics> ;
+    skos:prefLabel "Fuzzy electronics" ;
+    skos:related ocs:C16802,
+        ocs:C210,
+        ocs:C22706,
+        ocs:C24204,
+        ocs:C31925,
+        ocs:C34711,
+        ocs:C37773,
+        ocs:C38724,
+        ocs:C3894,
+        ocs:C43307,
+        ocs:C44742,
+        ocs:C5659 .
+

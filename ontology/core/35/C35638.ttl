@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35638 a skos:Concept ;
+    skos:broader ocs:C18096 ;
+    skos:closeMatch <http://dbpedia.org/resource/HFSS> ;
+    skos:prefLabel "HFSS" ;
+    skos:related ocs:C15030,
+        ocs:C22986,
+        ocs:C25341,
+        ocs:C29186,
+        ocs:C34089,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C9691 .
+

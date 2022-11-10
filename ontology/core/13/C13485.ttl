@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13485 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_shifting> ;
+    skos:prefLabel "Time shifting" ;
+    skos:related ocs:C12430,
+        ocs:C12544,
+        ocs:C12999,
+        ocs:C18697,
+        ocs:C18764,
+        ocs:C27572,
+        ocs:C32488,
+        ocs:C34364,
+        ocs:C3522,
+        ocs:C35703,
+        ocs:C36807,
+        ocs:C4433,
+        ocs:C4772,
+        ocs:C6234,
+        ocs:C8614 .
+

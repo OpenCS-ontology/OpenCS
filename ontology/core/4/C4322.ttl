@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4322 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronically_stored_information_(Federal_Rules_of_Civil_Procedure)> ;
+    skos:prefLabel "Electronically stored information" ;
+    skos:related ocs:C10682,
+        ocs:C22568,
+        ocs:C23103,
+        ocs:C2489,
+        ocs:C25067,
+        ocs:C36185,
+        ocs:C37747,
+        ocs:C3896,
+        ocs:C41662,
+        ocs:C7106,
+        ocs:C8639,
+        ocs:C8993 .
+

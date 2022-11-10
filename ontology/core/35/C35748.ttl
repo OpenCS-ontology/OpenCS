@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35748 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eichler–Shimura_isomorphism> ;
+    skos:prefLabel "Eichler–Shimura isomorphism" ;
+    skos:related ocs:C23209,
+        ocs:C32392,
+        ocs:C42611,
+        ocs:C44038 .
+

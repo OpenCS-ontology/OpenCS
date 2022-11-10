@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26781 a skos:Concept ;
+    skos:broader ocs:C4646 ;
+    skos:closeMatch <http://dbpedia.org/resource/3D_reconstruction_from_multiple_images> ;
+    skos:prefLabel "3D reconstruction from multiple images" ;
+    skos:related ocs:C12401,
+        ocs:C1573,
+        ocs:C20207,
+        ocs:C22,
+        ocs:C25249,
+        ocs:C2703,
+        ocs:C4646,
+        ocs:C5582,
+        ocs:C664,
+        ocs:C7,
+        ocs:C7471,
+        ocs:C8097,
+        ocs:C8399 .
+

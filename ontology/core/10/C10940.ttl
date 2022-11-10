@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10940 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Camera_module> ;
+    skos:prefLabel "Camera module" ;
+    skos:related ocs:C11318,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C14306,
+        ocs:C20961,
+        ocs:C22066,
+        ocs:C29365,
+        ocs:C3066,
+        ocs:C34817,
+        ocs:C35429,
+        ocs:C38640,
+        ocs:C38815,
+        ocs:C39878,
+        ocs:C43094,
+        ocs:C7789,
+        ocs:C8021 .
+

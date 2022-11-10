@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6760 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyperspectral_imaging> ;
+    skos:prefLabel "Hyperspectral imaging" ;
+    skos:related ocs:C10275,
+        ocs:C18614,
+        ocs:C22398,
+        ocs:C27569,
+        ocs:C28018,
+        ocs:C3055,
+        ocs:C31759,
+        ocs:C597 .
+

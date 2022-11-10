@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40217 a skos:Concept ;
+    skos:broader ocs:C31805 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spam_in_blogs> ;
+    skos:prefLabel "Spam in blogs" ;
+    skos:related ocs:C14004,
+        ocs:C17567,
+        ocs:C2190,
+        ocs:C24903,
+        ocs:C26337,
+        ocs:C28136,
+        ocs:C34132,
+        ocs:C40173,
+        ocs:C40452,
+        ocs:C40507,
+        ocs:C41104,
+        ocs:C44855,
+        ocs:C45657,
+        ocs:C6968,
+        ocs:C7963 .
+

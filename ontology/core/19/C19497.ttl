@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19497 a skos:Concept ;
+    skos:broader ocs:C3799,
+        ocs:C9162 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telecommunications_device_for_the_deaf> ;
+    skos:prefLabel "Telecommunications device for the deaf" ;
+    skos:related ocs:C12186,
+        ocs:C2169,
+        ocs:C22407,
+        ocs:C2534,
+        ocs:C3,
+        ocs:C4710,
+        ocs:C5917,
+        ocs:C6027,
+        ocs:C6034,
+        ocs:C7858,
+        ocs:C9045,
+        ocs:C9113,
+        ocs:C9162 .
+

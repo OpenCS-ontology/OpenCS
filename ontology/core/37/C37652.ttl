@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37652 a skos:Concept ;
+    skos:broader ocs:C20263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple-classification_ripple-down_rules> ;
+    skos:prefLabel "Multiple-classification ripple-down rules" ;
+    skos:related ocs:C1722,
+        ocs:C20263,
+        ocs:C651,
+        ocs:C7652 .
+

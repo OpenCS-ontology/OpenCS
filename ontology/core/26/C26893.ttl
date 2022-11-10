@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26893 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_speaker> ;
+    skos:prefLabel "Computer speakers" ;
+    skos:related ocs:C12640,
+        ocs:C2,
+        ocs:C24805,
+        ocs:C25195,
+        ocs:C29012,
+        ocs:C3022,
+        ocs:C5843,
+        ocs:C653,
+        ocs:C8291 .
+

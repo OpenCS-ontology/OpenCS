@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14322 a skos:Concept ;
+    skos:broader ocs:C10382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rand_index> ;
+    skos:prefLabel "Rand index" ;
+    skos:related ocs:C10382,
+        ocs:C14579,
+        ocs:C17561,
+        ocs:C29024,
+        ocs:C29574,
+        ocs:C31050,
+        ocs:C33800,
+        ocs:C33840,
+        ocs:C36163,
+        ocs:C39217,
+        ocs:C44201,
+        ocs:C6608,
+        ocs:C6947,
+        ocs:C7658,
+        ocs:C8332,
+        ocs:C9594 .
+

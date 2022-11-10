@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25441 a skos:Concept ;
+    skos:broader ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/Axis-aligned_object> ;
+    skos:prefLabel "Axis-aligned object" ;
+    skos:related ocs:C10639,
+        ocs:C29635,
+        ocs:C35950,
+        ocs:C37589,
+        ocs:C41842,
+        ocs:C41880,
+        ocs:C6279,
+        ocs:C7401,
+        ocs:C7788 .
+

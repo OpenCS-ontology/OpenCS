@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26014 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-commerce> ;
+    skos:prefLabel "E-commerce" ;
+    skos:related ocs:C10611,
+        ocs:C10764,
+        ocs:C1253,
+        ocs:C18985,
+        ocs:C197,
+        ocs:C3,
+        ocs:C31,
+        ocs:C35701,
+        ocs:C40049,
+        ocs:C6659,
+        ocs:C7106,
+        ocs:C8614,
+        ocs:C9886 .
+

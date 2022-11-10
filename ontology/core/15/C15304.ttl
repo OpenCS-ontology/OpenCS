@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15304 a skos:Concept ;
+    skos:broader ocs:C9834 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_of_class> ;
+    skos:prefLabel "Logic of class" ;
+    skos:related ocs:C10825,
+        ocs:C1092,
+        ocs:C11088,
+        ocs:C12474,
+        ocs:C1315,
+        ocs:C16037,
+        ocs:C21382,
+        ocs:C25859,
+        ocs:C27458,
+        ocs:C28014,
+        ocs:C45223,
+        ocs:C7299,
+        ocs:C9834 .
+

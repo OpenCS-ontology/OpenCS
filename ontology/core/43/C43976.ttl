@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43976 a skos:Concept ;
+    skos:broader ocs:C35728 ;
+    skos:closeMatch <http://dbpedia.org/resource/Psalmotoxin> ;
+    skos:prefLabel "Psalmotoxin" ;
+    skos:related ocs:C15901,
+        ocs:C33493,
+        ocs:C34294,
+        ocs:C34437,
+        ocs:C34824,
+        ocs:C36335,
+        ocs:C37219,
+        ocs:C40450,
+        ocs:C41081,
+        ocs:C41979,
+        ocs:C42005 .
+

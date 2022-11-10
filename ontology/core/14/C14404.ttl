@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14404 a skos:Concept ;
+    skos:broader ocs:C12098 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstraction_model_checking> ;
+    skos:prefLabel "Abstraction model checking" ;
+    skos:related ocs:C12098,
+        ocs:C17916,
+        ocs:C27383,
+        ocs:C31113,
+        ocs:C34269,
+        ocs:C42583,
+        ocs:C9450 .
+

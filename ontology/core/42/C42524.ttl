@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42524 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real_hyperelliptic_curve> ;
+    skos:prefLabel "Real hyperelliptic curve" ;
+    skos:related ocs:C41653,
+        ocs:C44907 .
+

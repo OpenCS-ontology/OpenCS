@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37244 a skos:Concept ;
+    skos:broader ocs:C15405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strange_nonchaotic_attractor> ;
+    skos:prefLabel "Strange nonchaotic attractor" ;
+    skos:related ocs:C13992,
+        ocs:C14375,
+        ocs:C14592,
+        ocs:C16237,
+        ocs:C16634,
+        ocs:C16955,
+        ocs:C18419,
+        ocs:C18420,
+        ocs:C18873,
+        ocs:C27040,
+        ocs:C29662,
+        ocs:C33560,
+        ocs:C37144,
+        ocs:C40242 .
+

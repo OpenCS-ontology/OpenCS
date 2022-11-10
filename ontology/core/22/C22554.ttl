@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22554 a skos:Concept ;
+    skos:broader ocs:C12690,
+        ocs:C5007 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_per_watt> ;
+    skos:prefLabel "Performance per watt" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12262,
+        ocs:C12690,
+        ocs:C15459,
+        ocs:C15672,
+        ocs:C1904,
+        ocs:C2478,
+        ocs:C25678,
+        ocs:C26030,
+        ocs:C26517,
+        ocs:C27,
+        ocs:C40330,
+        ocs:C7735,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9245 .
+

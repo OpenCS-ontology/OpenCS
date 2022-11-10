@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36080 a skos:Concept ;
+    skos:broader ocs:C16243,
+        ocs:C16953,
+        ocs:C18971,
+        ocs:C21887,
+        ocs:C27923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fast_packet_switching> ;
+    skos:prefLabel "Fast packet switching" ;
+    skos:related ocs:C12111,
+        ocs:C14938,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C20691,
+        ocs:C23155,
+        ocs:C24323,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C3039,
+        ocs:C32718,
+        ocs:C37752,
+        ocs:C4197,
+        ocs:C423,
+        ocs:C686,
+        ocs:C6861,
+        ocs:C9931 .
+

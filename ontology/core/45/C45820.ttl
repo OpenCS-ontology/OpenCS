@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45820 a skos:Concept ;
+    skos:broader ocs:C34288 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wide_Field_Infrared_Survey_Telescope> ;
+    skos:prefLabel "Wide Field Infrared Survey Telescope" ;
+    skos:related ocs:C17174,
+        ocs:C24464,
+        ocs:C26524,
+        ocs:C32805,
+        ocs:C34288,
+        ocs:C37702,
+        ocs:C38054,
+        ocs:C38572,
+        ocs:C597 .
+

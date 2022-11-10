@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17267 a skos:Concept ;
+    skos:broader ocs:C10904 ;
+    skos:closeMatch <http://dbpedia.org/resource/Services_computing> ;
+    skos:prefLabel "Services computing" ;
+    skos:related ocs:C10617,
+        ocs:C10904,
+        ocs:C11612,
+        ocs:C17238,
+        ocs:C19052,
+        ocs:C24183,
+        ocs:C24495,
+        ocs:C25490,
+        ocs:C28526,
+        ocs:C31667,
+        ocs:C36422,
+        ocs:C40192,
+        ocs:C41310,
+        ocs:C42315,
+        ocs:C43753,
+        ocs:C45107,
+        ocs:C45883,
+        ocs:C6503,
+        ocs:C7106 .
+

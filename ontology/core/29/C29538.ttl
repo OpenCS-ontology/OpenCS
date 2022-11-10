@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29538 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_rufa> ;
+    skos:prefLabel "Formica rufa" ;
+    skos:related ocs:C13998,
+        ocs:C14756,
+        ocs:C17062,
+        ocs:C19235,
+        ocs:C19625,
+        ocs:C20649,
+        ocs:C23059,
+        ocs:C28812,
+        ocs:C30775,
+        ocs:C33999,
+        ocs:C34293,
+        ocs:C34823 .
+

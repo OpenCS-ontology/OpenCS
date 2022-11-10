@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39279 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Everything_is_a_file> ;
+    skos:prefLabel "Everything is a file" ;
+    skos:related ocs:C1048,
+        ocs:C1165,
+        ocs:C12683,
+        ocs:C13113,
+        ocs:C14271,
+        ocs:C22569,
+        ocs:C25917,
+        ocs:C27721,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C32522,
+        ocs:C35773,
+        ocs:C37732,
+        ocs:C37964,
+        ocs:C39241,
+        ocs:C43104,
+        ocs:C43822,
+        ocs:C4430,
+        ocs:C7476,
+        ocs:C9 .
+

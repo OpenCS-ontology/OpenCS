@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38482 a skos:Concept ;
+    skos:broader ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integral_test_for_convergence> ;
+    skos:prefLabel "Integral test for convergence" ;
+    skos:related ocs:C18434,
+        ocs:C30602,
+        ocs:C38241,
+        ocs:C44482 .
+

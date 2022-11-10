@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9687 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line_(text_file)> ;
+    skos:prefLabel "Line (text file)" ;
+    skos:related ocs:C10248,
+        ocs:C10341,
+        ocs:C11759,
+        ocs:C14649,
+        ocs:C21496,
+        ocs:C2534,
+        ocs:C25515,
+        ocs:C39246,
+        ocs:C40228,
+        ocs:C44261,
+        ocs:C4760,
+        ocs:C5034,
+        ocs:C9 .
+

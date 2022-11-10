@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45708 a skos:Concept ;
+    skos:broader ocs:C32134,
+        ocs:C34789 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multilevel_feedback_queue> ;
+    skos:prefLabel "Multilevel feedback queue" ;
+    skos:related ocs:C17723,
+        ocs:C30218,
+        ocs:C32134,
+        ocs:C32878,
+        ocs:C33,
+        ocs:C33705,
+        ocs:C37367,
+        ocs:C38621,
+        ocs:C38680,
+        ocs:C40787,
+        ocs:C41966,
+        ocs:C43283,
+        ocs:C43903,
+        ocs:C44378,
+        ocs:C45029,
+        ocs:C8204,
+        ocs:C8704 .
+

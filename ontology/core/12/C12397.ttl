@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12397 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_scent_technology> ;
+    skos:prefLabel "Digital scent technology" ;
+    skos:related ocs:C10212,
+        ocs:C12640,
+        ocs:C17156 .
+

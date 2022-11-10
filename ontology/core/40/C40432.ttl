@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40432 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808,
+        ocs:C33982 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_speedup_theorem> ;
+    skos:prefLabel "Linear speedup theorem" ;
+    skos:related ocs:C25360,
+        ocs:C32808,
+        ocs:C3619,
+        ocs:C36571,
+        ocs:C38754,
+        ocs:C38867,
+        ocs:C39184,
+        ocs:C39938,
+        ocs:C40419,
+        ocs:C41061,
+        ocs:C41388,
+        ocs:C41645,
+        ocs:C42626,
+        ocs:C44597,
+        ocs:C44665,
+        ocs:C5193 .
+

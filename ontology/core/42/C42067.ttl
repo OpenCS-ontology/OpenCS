@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42067 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goal-Driven_Software_Development_Process> ;
+    skos:prefLabel "Goal-Driven Software Development Process" ;
+    skos:related ocs:C24722,
+        ocs:C28526,
+        ocs:C3175,
+        ocs:C34078,
+        ocs:C35144,
+        ocs:C37174,
+        ocs:C38970,
+        ocs:C39782,
+        ocs:C41007,
+        ocs:C41111,
+        ocs:C42516,
+        ocs:C43994,
+        ocs:C44988,
+        ocs:C45397,
+        ocs:C45524,
+        ocs:C4558,
+        ocs:C666,
+        ocs:C9877 .
+

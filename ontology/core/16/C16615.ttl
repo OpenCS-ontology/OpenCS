@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16615 a skos:Concept ;
+    skos:broader ocs:C6757 ;
+    skos:closeMatch <http://dbpedia.org/resource/New_media_studies> ;
+    skos:prefLabel "New media studies" ;
+    skos:related ocs:C1,
+        ocs:C13153,
+        ocs:C13710,
+        ocs:C1498,
+        ocs:C18,
+        ocs:C22849,
+        ocs:C24850,
+        ocs:C4457,
+        ocs:C5550,
+        ocs:C5926,
+        ocs:C6145,
+        ocs:C6757,
+        ocs:C8230 .
+

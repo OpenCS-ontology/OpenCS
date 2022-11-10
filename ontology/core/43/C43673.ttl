@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43673 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/M-spline> ;
+    skos:prefLabel "M-spline" ;
+    skos:related ocs:C15775,
+        ocs:C29473,
+        ocs:C31512,
+        ocs:C37808,
+        ocs:C37972,
+        ocs:C39314,
+        ocs:C40577,
+        ocs:C40629,
+        ocs:C43908,
+        ocs:C45272,
+        ocs:C8781 .
+

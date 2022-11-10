@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31094 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_cover> ;
+    skos:prefLabel "Path cover" ;
+    skos:related ocs:C30307,
+        ocs:C31629,
+        ocs:C32806,
+        ocs:C38535,
+        ocs:C38706,
+        ocs:C39748,
+        ocs:C40184,
+        ocs:C40560,
+        ocs:C40871,
+        ocs:C41261,
+        ocs:C41435,
+        ocs:C41540,
+        ocs:C42822,
+        ocs:C43576,
+        ocs:C43652,
+        ocs:C43912,
+        ocs:C44221,
+        ocs:C44560 .
+

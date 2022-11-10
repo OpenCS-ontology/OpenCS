@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14055 a skos:Concept ;
+    skos:broader ocs:C794 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_pointer> ;
+    skos:prefLabel "Smart pointer" ;
+    skos:related ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C10909,
+        ocs:C14990,
+        ocs:C19,
+        ocs:C25127,
+        ocs:C25960,
+        ocs:C2871,
+        ocs:C31014,
+        ocs:C39715,
+        ocs:C4700,
+        ocs:C794,
+        ocs:C9 .
+

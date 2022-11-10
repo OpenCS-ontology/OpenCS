@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9215 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photoshop_contest> ;
+    skos:prefLabel "Photoshop contest" ;
+    skos:related ocs:C10466,
+        ocs:C13155,
+        ocs:C13428,
+        ocs:C13653,
+        ocs:C20044,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C2409,
+        ocs:C40512,
+        ocs:C41932,
+        ocs:C422,
+        ocs:C4584,
+        ocs:C797,
+        ocs:C9398 .
+

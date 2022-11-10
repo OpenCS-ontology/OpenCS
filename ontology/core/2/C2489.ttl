@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2489 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spoliation_of_evidence> ;
+    skos:prefLabel "Spoliation of evidence" ;
+    skos:related ocs:C25067,
+        ocs:C3896,
+        ocs:C8993 .
+

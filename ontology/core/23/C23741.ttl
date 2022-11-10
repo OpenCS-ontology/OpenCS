@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23741 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_copeyensis> ;
+    skos:prefLabel "Quercus copeyensis" ;
+    skos:related ocs:C13977,
+        ocs:C17606,
+        ocs:C19369,
+        ocs:C28254,
+        ocs:C28294,
+        ocs:C28756,
+        ocs:C31205,
+        ocs:C32622,
+        ocs:C40453 .
+

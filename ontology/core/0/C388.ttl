@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C388 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jenks_natural_breaks_optimization> ;
+    skos:prefLabel "Jenks natural breaks optimization" ;
+    skos:related ocs:C10382,
+        ocs:C11809,
+        ocs:C12322,
+        ocs:C14252,
+        ocs:C18518,
+        ocs:C26767,
+        ocs:C33958,
+        ocs:C38213,
+        ocs:C42682,
+        ocs:C45859,
+        ocs:C6608,
+        ocs:C6912,
+        ocs:C9594 .
+

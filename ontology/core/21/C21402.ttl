@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21402 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_management> ;
+    skos:prefLabel "Cloud management" ;
+    skos:related ocs:C35701,
+        ocs:C7106 .
+

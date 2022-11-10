@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10140 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_logic_(modal_logic)> ;
+    skos:prefLabel "Dynamic logic (modal logic)" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C13408,
+        ocs:C17845,
+        ocs:C24012,
+        ocs:C2418,
+        ocs:C26635,
+        ocs:C2978,
+        ocs:C34795,
+        ocs:C3677,
+        ocs:C37681,
+        ocs:C38596,
+        ocs:C38919,
+        ocs:C41203,
+        ocs:C41223,
+        ocs:C41584,
+        ocs:C42583,
+        ocs:C43099,
+        ocs:C5459 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45097 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soliton_distribution> ;
+    skos:prefLabel "Soliton distribution" ;
+    skos:related ocs:C13869,
+        ocs:C39577,
+        ocs:C40903,
+        ocs:C41250,
+        ocs:C41729,
+        ocs:C43092,
+        ocs:C44395 .
+

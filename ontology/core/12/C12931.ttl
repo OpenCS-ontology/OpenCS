@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12931 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Command_guidance> ;
+    skos:prefLabel "Command guidance" ;
+    skos:related ocs:C16352,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C22021,
+        ocs:C22535,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C34932,
+        ocs:C6589,
+        ocs:C7909,
+        ocs:C9066 .
+

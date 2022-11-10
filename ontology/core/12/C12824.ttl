@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12824 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Training_and_development> ;
+    skos:prefLabel "Training and development" ;
+    skos:related ocs:C10134,
+        ocs:C13576,
+        ocs:C3444,
+        ocs:C3738,
+        ocs:C5092,
+        ocs:C9328,
+        ocs:C9851 .
+

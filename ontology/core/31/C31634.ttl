@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31634 a skos:Concept ;
+    skos:broader ocs:C21204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multipath_interference> ;
+    skos:prefLabel "Multipath interference" ;
+    skos:related ocs:C10409,
+        ocs:C19721,
+        ocs:C20140,
+        ocs:C21204,
+        ocs:C21613,
+        ocs:C24264,
+        ocs:C25850,
+        ocs:C27572,
+        ocs:C35931,
+        ocs:C36807,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7502 .
+

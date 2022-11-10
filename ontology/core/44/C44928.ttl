@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44928 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotic_sensing> ;
+    skos:prefLabel "Robotic sensing" ;
+    skos:related ocs:C10396,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C20230,
+        ocs:C21057,
+        ocs:C22204,
+        ocs:C31648,
+        ocs:C33197,
+        ocs:C35805,
+        ocs:C5853,
+        ocs:C6307,
+        ocs:C7008,
+        ocs:C746,
+        ocs:C8291 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7803 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_forest> ;
+    skos:prefLabel "Random forest" ;
+    skos:related ocs:C11030,
+        ocs:C15879,
+        ocs:C2005,
+        ocs:C22643,
+        ocs:C24136,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25520,
+        ocs:C26398,
+        ocs:C28173,
+        ocs:C3512,
+        ocs:C424,
+        ocs:C6021,
+        ocs:C610,
+        ocs:C6116,
+        ocs:C9022,
+        ocs:C9874 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15192 a skos:Concept ;
+    skos:broader ocs:C1302 ;
+    skos:closeMatch <http://dbpedia.org/resource/Portable_telemetry> ;
+    skos:prefLabel "Portable telemetry" ;
+    skos:related ocs:C10778,
+        ocs:C1302,
+        ocs:C13222,
+        ocs:C16218,
+        ocs:C19755,
+        ocs:C29012,
+        ocs:C29323,
+        ocs:C5821,
+        ocs:C6412,
+        ocs:C787,
+        ocs:C8959 .
+

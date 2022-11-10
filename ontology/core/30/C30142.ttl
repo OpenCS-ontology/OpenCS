@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30142 a skos:Concept ;
+    skos:broader ocs:C17261,
+        ocs:C20377 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long_short-term_memory> ;
+    skos:prefLabel "Long short term memory" .
+

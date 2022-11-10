@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12867 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computationally_enhanced_craft_item> ;
+    skos:prefLabel "Computationally enhanced craft item" ;
+    skos:related ocs:C10396,
+        ocs:C10562,
+        ocs:C12099,
+        ocs:C12976,
+        ocs:C15963,
+        ocs:C23317,
+        ocs:C33991,
+        ocs:C34709,
+        ocs:C39739,
+        ocs:C43586,
+        ocs:C43810,
+        ocs:C7003,
+        ocs:C8 .
+

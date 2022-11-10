@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37731 a skos:Concept ;
+    skos:broader ocs:C17656 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenID_Connect> ;
+    skos:prefLabel "OpenID Connect" ;
+    skos:related ocs:C17656,
+        ocs:C21592,
+        ocs:C22114,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C22597,
+        ocs:C23446,
+        ocs:C2660,
+        ocs:C27315,
+        ocs:C28941,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C31756,
+        ocs:C33015,
+        ocs:C44603,
+        ocs:C449,
+        ocs:C5418,
+        ocs:C5674,
+        ocs:C7006,
+        ocs:C8995 .
+

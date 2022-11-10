@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24319 a skos:Concept ;
+    skos:broader ocs:C13685,
+        ocs:C836 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cochrane–Orcutt_estimation> ;
+    skos:prefLabel "Cochrane–Orcutt estimation" ;
+    skos:related ocs:C10138,
+        ocs:C11986,
+        ocs:C14424,
+        ocs:C15614,
+        ocs:C18565,
+        ocs:C23563,
+        ocs:C260,
+        ocs:C28079,
+        ocs:C32677,
+        ocs:C38662,
+        ocs:C43885,
+        ocs:C5505,
+        ocs:C836,
+        ocs:C9428 .
+

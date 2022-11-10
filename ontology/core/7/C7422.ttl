@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7422 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/JST_connector> ;
+    skos:prefLabel "JST connector" ;
+    skos:related ocs:C756,
+        ocs:C8408,
+        ocs:C8556 .
+

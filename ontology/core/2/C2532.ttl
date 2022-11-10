@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2532 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Game_of_chance> ;
+    skos:prefLabel "Game of chance" ;
+    skos:related ocs:C10803,
+        ocs:C11414,
+        ocs:C16296,
+        ocs:C1844,
+        ocs:C21286,
+        ocs:C25445,
+        ocs:C2704,
+        ocs:C2726,
+        ocs:C32717,
+        ocs:C41220,
+        ocs:C6953,
+        ocs:C7220 .
+

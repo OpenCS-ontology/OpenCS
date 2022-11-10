@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27126 a skos:Concept ;
+    skos:broader ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transmission_security> ;
+    skos:prefLabel "Transmission security" ;
+    skos:related ocs:C14260,
+        ocs:C17856,
+        ocs:C2012,
+        ocs:C24312,
+        ocs:C28404,
+        ocs:C28939,
+        ocs:C29704,
+        ocs:C30503,
+        ocs:C3059,
+        ocs:C33346,
+        ocs:C4218,
+        ocs:C42444,
+        ocs:C4344,
+        ocs:C43516,
+        ocs:C45116,
+        ocs:C6928 .
+

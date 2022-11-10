@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10063 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_literacy> ;
+    skos:prefLabel "Data literacy" ;
+    skos:related ocs:C10676,
+        ocs:C10764,
+        ocs:C11645,
+        ocs:C12238,
+        ocs:C12811,
+        ocs:C15834,
+        ocs:C2193,
+        ocs:C25968,
+        ocs:C27130,
+        ocs:C3067,
+        ocs:C3119,
+        ocs:C4438,
+        ocs:C4857 .
+

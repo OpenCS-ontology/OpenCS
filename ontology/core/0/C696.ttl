@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C696 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/SNOBOL> ;
+    skos:prefLabel "SNOBOL" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C13101,
+        ocs:C16760,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C24909,
+        ocs:C29634,
+        ocs:C3036,
+        ocs:C3398,
+        ocs:C36601,
+        ocs:C386,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5515,
+        ocs:C6531,
+        ocs:C6714,
+        ocs:C7185,
+        ocs:C8441 .
+

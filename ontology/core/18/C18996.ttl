@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18996 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instrument_flight_rules> ;
+    skos:prefLabel "Instrument flight rules" ;
+    skos:related ocs:C11445,
+        ocs:C12641,
+        ocs:C12648,
+        ocs:C20572,
+        ocs:C23477,
+        ocs:C26346,
+        ocs:C33190,
+        ocs:C35895,
+        ocs:C42471,
+        ocs:C45176,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C511,
+        ocs:C8868,
+        ocs:C9720 .
+

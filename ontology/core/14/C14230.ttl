@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14230 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:prefLabel "Nerve reconstruction" ;
+    skos:related ocs:C22309,
+        ocs:C27060,
+        ocs:C28879 .
+

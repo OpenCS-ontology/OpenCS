@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43945 a skos:Concept ;
+    skos:broader ocs:C30643,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_routing> ;
+    skos:prefLabel "Deterministic routing" ;
+    skos:related ocs:C10733,
+        ocs:C11950,
+        ocs:C25514,
+        ocs:C25674,
+        ocs:C26810,
+        ocs:C2700,
+        ocs:C45713,
+        ocs:C4620,
+        ocs:C4805,
+        ocs:C7340,
+        ocs:C8876,
+        ocs:C9739 .
+

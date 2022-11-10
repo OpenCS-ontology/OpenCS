@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1489 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/PDF/UA> ;
+    skos:prefLabel "PDF/UA" ;
+    skos:related ocs:C10052,
+        ocs:C10089,
+        ocs:C10986,
+        ocs:C11719,
+        ocs:C11927,
+        ocs:C16423,
+        ocs:C18514,
+        ocs:C23103,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C321,
+        ocs:C37479,
+        ocs:C3866,
+        ocs:C42905,
+        ocs:C4918,
+        ocs:C6234,
+        ocs:C7714,
+        ocs:C9162 .
+

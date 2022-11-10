@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8733 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Serial_Interface> ;
+    skos:prefLabel "Digital Serial Interface" ;
+    skos:related ocs:C1206,
+        ocs:C14804,
+        ocs:C1626,
+        ocs:C16371,
+        ocs:C21935,
+        ocs:C22449,
+        ocs:C26814,
+        ocs:C36633,
+        ocs:C4458,
+        ocs:C8952 .
+

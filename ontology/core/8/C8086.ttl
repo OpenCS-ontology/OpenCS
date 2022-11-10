@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8086 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Means-ends_analysis> ;
+    skos:prefLabel "Means-ends analysis" ;
+    skos:related ocs:C10479,
+        ocs:C10616,
+        ocs:C1134,
+        ocs:C11874,
+        ocs:C12579,
+        ocs:C12977,
+        ocs:C27116,
+        ocs:C27707,
+        ocs:C29173,
+        ocs:C30824,
+        ocs:C3732,
+        ocs:C3848,
+        ocs:C4269,
+        ocs:C43845,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C852 .
+

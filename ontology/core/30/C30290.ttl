@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30290 a skos:Concept ;
+    skos:broader ocs:C15102 ;
+    skos:prefLabel "State-trait anger expression inventory" ;
+    skos:related ocs:C10516,
+        ocs:C2419 .
+

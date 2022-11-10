@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44522 a skos:Concept ;
+    skos:broader ocs:C35846 ;
+    skos:prefLabel "Synodontis clarias" ;
+    skos:related ocs:C31528,
+        ocs:C39531 .
+

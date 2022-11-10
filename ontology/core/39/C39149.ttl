@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39149 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_performance> ;
+    skos:prefLabel "Java performance" ;
+    skos:related ocs:C10284,
+        ocs:C10336,
+        ocs:C11128,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C12974,
+        ocs:C14627,
+        ocs:C17204,
+        ocs:C22284,
+        ocs:C23863,
+        ocs:C28073,
+        ocs:C35849,
+        ocs:C41674,
+        ocs:C42633,
+        ocs:C4321,
+        ocs:C45618,
+        ocs:C5034,
+        ocs:C5698,
+        ocs:C794,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34443 a skos:Concept ;
+    skos:broader ocs:C26310 ;
+    skos:prefLabel "Vehicle operator performance" ;
+    skos:related ocs:C1,
+        ocs:C24,
+        ocs:C27632,
+        ocs:C33,
+        ocs:C7,
+        ocs:C8 .
+

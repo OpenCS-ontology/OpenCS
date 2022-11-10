@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C640 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Design_for_Learning> ;
+    skos:prefLabel "Universal Design for Learning" ;
+    skos:related ocs:C11046,
+        ocs:C15045,
+        ocs:C15193,
+        ocs:C16041,
+        ocs:C19066,
+        ocs:C22651,
+        ocs:C3521,
+        ocs:C7714,
+        ocs:C934 .
+

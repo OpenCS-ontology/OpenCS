@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29555 a skos:Concept ;
+    skos:broader ocs:C27805 ;
+    skos:closeMatch <http://dbpedia.org/resource/VerbNet> ;
+    skos:prefLabel "VerbNet" ;
+    skos:related ocs:C12672,
+        ocs:C15508,
+        ocs:C17796,
+        ocs:C27805,
+        ocs:C32,
+        ocs:C33532,
+        ocs:C8564,
+        ocs:C8710,
+        ocs:C928 .
+

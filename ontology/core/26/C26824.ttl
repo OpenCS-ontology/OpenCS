@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26824 a skos:Concept ;
+    skos:broader ocs:C1628,
+        ocs:C7201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Harmony_(ISS_module)> ;
+    skos:prefLabel "Harmony (ISS module)" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C22192,
+        ocs:C23481,
+        ocs:C23609,
+        ocs:C24462,
+        ocs:C26596,
+        ocs:C29692,
+        ocs:C33741,
+        ocs:C36594,
+        ocs:C37010,
+        ocs:C42136,
+        ocs:C42725,
+        ocs:C43342,
+        ocs:C7201 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7428 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/CCSO_Nameserver> ;
+    skos:prefLabel "CCSO Nameserver" ;
+    skos:related ocs:C11371,
+        ocs:C14271,
+        ocs:C14417,
+        ocs:C16980,
+        ocs:C17794,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C29319,
+        ocs:C31,
+        ocs:C32262,
+        ocs:C34264,
+        ocs:C34358,
+        ocs:C35197,
+        ocs:C44603,
+        ocs:C45523,
+        ocs:C6473 .
+

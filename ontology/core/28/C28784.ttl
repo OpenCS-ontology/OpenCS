@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28784 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C7513 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physicomimetics> ;
+    skos:prefLabel "Physicomimetics" ;
+    skos:related ocs:C10396,
+        ocs:C19182,
+        ocs:C19491,
+        ocs:C19750,
+        ocs:C2579,
+        ocs:C31846,
+        ocs:C3227,
+        ocs:C35231,
+        ocs:C41263,
+        ocs:C43723,
+        ocs:C5140,
+        ocs:C5855 .
+

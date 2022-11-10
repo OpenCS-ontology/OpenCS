@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11411 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peirce's_law> ;
+    skos:prefLabel "Peirce's law" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C12474,
+        ocs:C13255,
+        ocs:C16614,
+        ocs:C21328,
+        ocs:C21382,
+        ocs:C2411,
+        ocs:C25442,
+        ocs:C26635,
+        ocs:C26760,
+        ocs:C29879,
+        ocs:C29948,
+        ocs:C32129,
+        ocs:C41782,
+        ocs:C4206,
+        ocs:C4557,
+        ocs:C5714,
+        ocs:C8077 .
+

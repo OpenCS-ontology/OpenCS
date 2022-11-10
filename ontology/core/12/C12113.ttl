@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12113 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_recording> ;
+    skos:prefLabel "Remote recording" ;
+    skos:related ocs:C13431,
+        ocs:C19567,
+        ocs:C24238,
+        ocs:C32291,
+        ocs:C38517,
+        ocs:C42394,
+        ocs:C42788,
+        ocs:C44034,
+        ocs:C520,
+        ocs:C577,
+        ocs:C5790,
+        ocs:C8291,
+        ocs:C9596 .
+

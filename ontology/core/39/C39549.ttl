@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39549 a skos:Concept ;
+    skos:broader ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nuclear_operator> ;
+    skos:prefLabel "Nuclear operator" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C25383,
+        ocs:C28787,
+        ocs:C30339,
+        ocs:C31849,
+        ocs:C33187,
+        ocs:C34336,
+        ocs:C35612,
+        ocs:C36507,
+        ocs:C36808,
+        ocs:C38409,
+        ocs:C41178,
+        ocs:C43500,
+        ocs:C45795 .
+

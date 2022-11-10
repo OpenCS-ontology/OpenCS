@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11234 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weiler–Atherton_clipping_algorithm> ;
+    skos:prefLabel "Weiler–Atherton clipping algorithm" ;
+    skos:related ocs:C10060,
+        ocs:C12012,
+        ocs:C12122,
+        ocs:C15632,
+        ocs:C15820,
+        ocs:C19700,
+        ocs:C22,
+        ocs:C23723,
+        ocs:C32031,
+        ocs:C32898,
+        ocs:C35190,
+        ocs:C38430,
+        ocs:C41932,
+        ocs:C42716,
+        ocs:C44283,
+        ocs:C44616,
+        ocs:C4607,
+        ocs:C8904,
+        ocs:C9710 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44671 a skos:Concept ;
+    skos:broader ocs:C31885,
+        ocs:C32519,
+        ocs:C32578 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roll-off> ;
+    skos:prefLabel "Roll-off" ;
+    skos:related ocs:C15194,
+        ocs:C21364,
+        ocs:C31885,
+        ocs:C32519,
+        ocs:C32554,
+        ocs:C41756,
+        ocs:C42625,
+        ocs:C44704,
+        ocs:C45235 .
+

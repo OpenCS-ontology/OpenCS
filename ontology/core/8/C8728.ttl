@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8728 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/C-UWB> ;
+    skos:prefLabel "C-UWB" ;
+    skos:related ocs:C10186,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21424,
+        ocs:C24469,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C27912,
+        ocs:C28404,
+        ocs:C33357,
+        ocs:C33606,
+        ocs:C36176,
+        ocs:C36402,
+        ocs:C44487,
+        ocs:C8431 .
+

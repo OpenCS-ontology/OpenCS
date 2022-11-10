@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27115 a skos:Concept ;
+    skos:broader ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Streaming_XML> ;
+    skos:prefLabel "Streaming XML" ;
+    skos:related ocs:C10000,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C17170,
+        ocs:C17401,
+        ocs:C18083,
+        ocs:C18361,
+        ocs:C23709,
+        ocs:C29138,
+        ocs:C32170,
+        ocs:C33052,
+        ocs:C36924,
+        ocs:C38584,
+        ocs:C40546,
+        ocs:C40575,
+        ocs:C43819,
+        ocs:C43834,
+        ocs:C45472,
+        ocs:C45664 .
+

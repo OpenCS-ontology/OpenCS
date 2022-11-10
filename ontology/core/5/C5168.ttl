@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5168 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:prefLabel "Source Role" ;
+    skos:related ocs:C10764,
+        ocs:C12,
+        ocs:C1253,
+        ocs:C1940,
+        ocs:C390,
+        ocs:C8711 .
+

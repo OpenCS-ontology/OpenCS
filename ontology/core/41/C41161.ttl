@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41161 a skos:Concept ;
+    skos:broader ocs:C37784 ;
+    skos:closeMatch <http://dbpedia.org/resource/G_protein-gated_ion_channel> ;
+    skos:prefLabel "G protein-gated ion channel" ;
+    skos:related ocs:C18138,
+        ocs:C23973,
+        ocs:C35728,
+        ocs:C36128,
+        ocs:C37784,
+        ocs:C42632,
+        ocs:C43643 .
+

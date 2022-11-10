@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3414 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emergency_vehicle> ;
+    skos:prefLabel "Emergency vehicle" ;
+    skos:related ocs:C12641,
+        ocs:C5558,
+        ocs:C6243,
+        ocs:C9113 .
+

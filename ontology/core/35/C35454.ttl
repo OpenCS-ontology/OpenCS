@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35454 a skos:Concept ;
+    skos:broader ocs:C17089,
+        ocs:C19490,
+        ocs:C20856,
+        ocs:C22262,
+        ocs:C23854,
+        ocs:C25210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conditional_loop> ;
+    skos:prefLabel "Conditional loop" ;
+    skos:related ocs:C1028,
+        ocs:C10862,
+        ocs:C12257,
+        ocs:C12846,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C25057,
+        ocs:C3376,
+        ocs:C33824,
+        ocs:C41006,
+        ocs:C4778,
+        ocs:C5961,
+        ocs:C8439,
+        ocs:C8455,
+        ocs:C9247 .
+

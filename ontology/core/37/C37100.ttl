@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37100 a skos:Concept ;
+    skos:broader ocs:C22978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hennessy–Milner_logic> ;
+    skos:prefLabel "Hennessy–Milner logic" ;
+    skos:related ocs:C1,
+        ocs:C10140,
+        ocs:C12427,
+        ocs:C12693,
+        ocs:C13408,
+        ocs:C18357,
+        ocs:C21766,
+        ocs:C22978,
+        ocs:C24326,
+        ocs:C25382,
+        ocs:C2721,
+        ocs:C32014,
+        ocs:C34795,
+        ocs:C36771,
+        ocs:C38919,
+        ocs:C42583,
+        ocs:C5974,
+        ocs:C7903 .
+

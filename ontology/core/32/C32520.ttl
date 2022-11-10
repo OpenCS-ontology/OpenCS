@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32520 a skos:Concept ;
+    skos:broader ocs:C22483 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balancing_domain_decomposition_method> ;
+    skos:prefLabel "Balancing domain decomposition method" ;
+    skos:related ocs:C15070,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C31948,
+        ocs:C44942 .
+

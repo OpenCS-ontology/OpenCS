@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17668 a skos:Concept ;
+    skos:broader ocs:C3118 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single_event_upset> ;
+    skos:prefLabel "Single event upset" ;
+    skos:related ocs:C13875,
+        ocs:C14144,
+        ocs:C17601,
+        ocs:C26602,
+        ocs:C28907,
+        ocs:C39218 .
+

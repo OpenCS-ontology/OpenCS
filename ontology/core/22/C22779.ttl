@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22779 a skos:Concept ;
+    skos:broader ocs:C5717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Momel> ;
+    skos:prefLabel "Momel" ;
+    skos:related ocs:C1950,
+        ocs:C19812,
+        ocs:C2168,
+        ocs:C23152,
+        ocs:C24459,
+        ocs:C25849,
+        ocs:C30284,
+        ocs:C5717,
+        ocs:C6784 .
+

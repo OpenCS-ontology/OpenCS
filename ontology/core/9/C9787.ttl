@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9787 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Psychological_effects_of_Internet_use> ;
+    skos:prefLabel "Psychological effects of Internet use" ;
+    skos:related ocs:C17739,
+        ocs:C18683,
+        ocs:C23964,
+        ocs:C25411,
+        ocs:C25547,
+        ocs:C28885,
+        ocs:C31,
+        ocs:C8614 .
+

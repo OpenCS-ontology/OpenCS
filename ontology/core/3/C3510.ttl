@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3510 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/LongHaul> ;
+    skos:prefLabel "LongHaul" ;
+    skos:related ocs:C10320,
+        ocs:C14526,
+        ocs:C15459,
+        ocs:C1668,
+        ocs:C19487,
+        ocs:C21266,
+        ocs:C21765,
+        ocs:C26517,
+        ocs:C3195,
+        ocs:C3893,
+        ocs:C6410,
+        ocs:C9897 .
+

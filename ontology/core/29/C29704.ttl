@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29704 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C27571 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_cryptography> ;
+    skos:prefLabel "Strong cryptography" ;
+    skos:related ocs:C16125,
+        ocs:C16690,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C18948,
+        ocs:C23666,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C31980,
+        ocs:C34052,
+        ocs:C36136,
+        ocs:C37133,
+        ocs:C38245,
+        ocs:C38359,
+        ocs:C38401,
+        ocs:C4218 .
+

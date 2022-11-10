@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34126 a skos:Concept ;
+    skos:broader ocs:C16107 ;
+    skos:closeMatch <http://dbpedia.org/resource/Urban_Traffic_Management_and_Control> ;
+    skos:prefLabel "Urban Traffic Management and Control" ;
+    skos:related ocs:C10550,
+        ocs:C14828,
+        ocs:C15115,
+        ocs:C16107,
+        ocs:C19038,
+        ocs:C19372,
+        ocs:C27658,
+        ocs:C30177,
+        ocs:C34875,
+        ocs:C35425,
+        ocs:C38216,
+        ocs:C40327,
+        ocs:C6243,
+        ocs:C8803,
+        ocs:C9100 .
+

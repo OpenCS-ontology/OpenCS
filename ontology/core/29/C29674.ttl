@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29674 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clique> ;
+    skos:prefLabel "Clique" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C21626,
+        ocs:C25075,
+        ocs:C25141 .
+

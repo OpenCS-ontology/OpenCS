@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31980 a skos:Concept ;
+    skos:broader ocs:C21383 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timing_attack> ;
+    skos:prefLabel "Timing attack" ;
+    skos:related ocs:C10320,
+        ocs:C13145,
+        ocs:C16125,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C18803,
+        ocs:C21288,
+        ocs:C21383,
+        ocs:C23875,
+        ocs:C24353,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C29704,
+        ocs:C31037,
+        ocs:C31774,
+        ocs:C37133,
+        ocs:C38359,
+        ocs:C39331,
+        ocs:C4218 .
+

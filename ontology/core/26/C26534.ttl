@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26534 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_detector> ;
+    skos:prefLabel "Motion detector" ;
+    skos:related ocs:C10368,
+        ocs:C28881,
+        ocs:C34004,
+        ocs:C7850 .
+

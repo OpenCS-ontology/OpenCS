@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33033 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpolation_space> ;
+    skos:prefLabel "Interpolation space" ;
+    skos:related ocs:C11150,
+        ocs:C23927,
+        ocs:C26263,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C34983,
+        ocs:C3589,
+        ocs:C36009,
+        ocs:C39124,
+        ocs:C40375 .
+

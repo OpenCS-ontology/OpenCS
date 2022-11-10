@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2535 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_file_management> ;
+    skos:prefLabel "Mobile file management" ;
+    skos:related ocs:C10070,
+        ocs:C10911,
+        ocs:C11091,
+        ocs:C1338,
+        ocs:C1410,
+        ocs:C18862,
+        ocs:C197,
+        ocs:C21442,
+        ocs:C22248,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C29846,
+        ocs:C36631,
+        ocs:C379,
+        ocs:C38032,
+        ocs:C39947,
+        ocs:C4219,
+        ocs:C44003,
+        ocs:C44693 .
+

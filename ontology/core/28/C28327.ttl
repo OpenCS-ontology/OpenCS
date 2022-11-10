@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28327 a skos:Concept ;
+    skos:broader ocs:C11863,
+        ocs:C2369 ;
+    skos:closeMatch <http://dbpedia.org/resource/Millimeter_wave_scanner> ;
+    skos:prefLabel "Millimeter wave scanner" ;
+    skos:related ocs:C11863,
+        ocs:C9030 .
+

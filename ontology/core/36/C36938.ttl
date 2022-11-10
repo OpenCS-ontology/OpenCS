@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36938 a skos:Concept ;
+    skos:broader ocs:C26014 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consumer-to-business> ;
+    skos:prefLabel "Consumer-to-business" ;
+    skos:related ocs:C10611,
+        ocs:C26014,
+        ocs:C9886 .
+

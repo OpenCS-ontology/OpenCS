@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39984 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808 ;
+    skos:closeMatch <http://dbpedia.org/resource/NSPACE> ;
+    skos:prefLabel "NSPACE" ;
+    skos:related ocs:C20382,
+        ocs:C2420,
+        ocs:C25360,
+        ocs:C32808,
+        ocs:C33409,
+        ocs:C36571,
+        ocs:C3678,
+        ocs:C39184,
+        ocs:C39938,
+        ocs:C40333,
+        ocs:C40925,
+        ocs:C41061,
+        ocs:C41388,
+        ocs:C41588,
+        ocs:C41642,
+        ocs:C41645,
+        ocs:C44665,
+        ocs:C5193 .
+

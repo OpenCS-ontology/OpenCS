@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20328 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_expression> ;
+    skos:prefLabel "Path expression" ;
+    skos:related ocs:C13068,
+        ocs:C14209,
+        ocs:C18361,
+        ocs:C18363,
+        ocs:C20245,
+        ocs:C22879,
+        ocs:C31724,
+        ocs:C33052,
+        ocs:C33916,
+        ocs:C3398,
+        ocs:C36213,
+        ocs:C36408,
+        ocs:C36924,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C4921,
+        ocs:C6,
+        ocs:C6074 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25671 a skos:Concept ;
+    skos:broader ocs:C13413,
+        ocs:C9607 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_experience_evaluation> ;
+    skos:prefLabel "User experience evaluation" ;
+    skos:related ocs:C13413,
+        ocs:C1621,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C18494,
+        ocs:C20109,
+        ocs:C22927,
+        ocs:C28503,
+        ocs:C34564,
+        ocs:C3951,
+        ocs:C4094,
+        ocs:C4292,
+        ocs:C5458,
+        ocs:C5876,
+        ocs:C78,
+        ocs:C8269,
+        ocs:C9607 .
+

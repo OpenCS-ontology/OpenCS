@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4335 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_preservation> ;
+    skos:prefLabel "Digital preservation" ;
+    skos:related ocs:C1090,
+        ocs:C11531,
+        ocs:C11751,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C15008,
+        ocs:C15831,
+        ocs:C16775,
+        ocs:C2862,
+        ocs:C29129,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C39,
+        ocs:C3997,
+        ocs:C6,
+        ocs:C8614,
+        ocs:C8797,
+        ocs:C9 .
+

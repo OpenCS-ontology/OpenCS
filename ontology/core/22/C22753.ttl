@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22753 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payment_service_provider> ;
+    skos:prefLabel "Payment service provider" ;
+    skos:related ocs:C11389,
+        ocs:C11486,
+        ocs:C12752,
+        ocs:C14011,
+        ocs:C15464,
+        ocs:C15671,
+        ocs:C18629,
+        ocs:C25306,
+        ocs:C26014,
+        ocs:C26112,
+        ocs:C27327,
+        ocs:C30829,
+        ocs:C30848,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C41033,
+        ocs:C44448 .
+

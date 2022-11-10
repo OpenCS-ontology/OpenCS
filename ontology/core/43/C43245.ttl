@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43245 a skos:Concept ;
+    skos:broader ocs:C31809,
+        ocs:C36292 ;
+    skos:prefLabel "Mystus pelusius" ;
+    skos:related ocs:C24236,
+        ocs:C31809 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26165 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4321,
+        ocs:C7800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_recompilation> ;
+    skos:prefLabel "Dynamic recompilation" ;
+    skos:related ocs:C10320,
+        ocs:C12974,
+        ocs:C1866,
+        ocs:C19487,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C22322,
+        ocs:C23789,
+        ocs:C23863,
+        ocs:C24646,
+        ocs:C24871,
+        ocs:C25252,
+        ocs:C31489,
+        ocs:C34501,
+        ocs:C36897,
+        ocs:C39149,
+        ocs:C4321,
+        ocs:C5698,
+        ocs:C856,
+        ocs:C9 .
+

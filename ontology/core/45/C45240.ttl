@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45240 a skos:Concept ;
+    skos:broader ocs:C32266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Going_up_and_going_down> ;
+    skos:prefLabel "Going up and going down" ;
+    skos:related ocs:C41973 .
+

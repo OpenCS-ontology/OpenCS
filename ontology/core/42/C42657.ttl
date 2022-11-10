@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42657 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Putnam_model> ;
+    skos:prefLabel "Putnam model" ;
+    skos:related ocs:C13589,
+        ocs:C18801,
+        ocs:C23437,
+        ocs:C24152,
+        ocs:C29427,
+        ocs:C37672,
+        ocs:C39588,
+        ocs:C41314,
+        ocs:C42395,
+        ocs:C43715,
+        ocs:C45366,
+        ocs:C45378,
+        ocs:C6116,
+        ocs:C6647 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18796 a skos:Concept ;
+    skos:broader ocs:C1397 ;
+    skos:closeMatch <http://dbpedia.org/resource/Giclée> ;
+    skos:prefLabel "Giclée" ;
+    skos:related ocs:C1397,
+        ocs:C32992,
+        ocs:C8099,
+        ocs:C8611,
+        ocs:C8747 .
+

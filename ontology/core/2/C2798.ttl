@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2798 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concept_of_operations> ;
+    skos:prefLabel "Concept of operations" ;
+    skos:related ocs:C11781,
+        ocs:C1502,
+        ocs:C18973,
+        ocs:C28454,
+        ocs:C38363,
+        ocs:C41590,
+        ocs:C42440,
+        ocs:C5660,
+        ocs:C5869,
+        ocs:C8473,
+        ocs:C8786,
+        ocs:C924 .
+

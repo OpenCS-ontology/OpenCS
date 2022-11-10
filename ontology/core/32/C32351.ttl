@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32351 a skos:Concept ;
+    skos:broader ocs:C15478,
+        ocs:C23856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_evaluation> ;
+    skos:prefLabel "Remote evaluation" ;
+    skos:related ocs:C1,
+        ocs:C11152,
+        ocs:C14627,
+        ocs:C18294,
+        ocs:C22284,
+        ocs:C22597,
+        ocs:C25684,
+        ocs:C26,
+        ocs:C28761,
+        ocs:C29554,
+        ocs:C30,
+        ocs:C32954,
+        ocs:C35431,
+        ocs:C41808,
+        ocs:C4918,
+        ocs:C6072,
+        ocs:C6541,
+        ocs:C8032 .
+

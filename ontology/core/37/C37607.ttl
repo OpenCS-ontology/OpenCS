@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37607 a skos:Concept ;
+    skos:broader ocs:C22075,
+        ocs:C23865,
+        ocs:C28074 ;
+    skos:prefLabel "Conditional posterior distribution" .
+

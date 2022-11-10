@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16738 a skos:Concept ;
+    skos:broader ocs:C11556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_consistency> ;
+    skos:prefLabel "Local consistency" ;
+    skos:related ocs:C10327,
+        ocs:C11095,
+        ocs:C11556,
+        ocs:C19031,
+        ocs:C196,
+        ocs:C2021,
+        ocs:C2807,
+        ocs:C29718,
+        ocs:C39540,
+        ocs:C39711,
+        ocs:C40445,
+        ocs:C42465,
+        ocs:C42518,
+        ocs:C44195,
+        ocs:C45296,
+        ocs:C5561,
+        ocs:C6400,
+        ocs:C6531,
+        ocs:C7985 .
+

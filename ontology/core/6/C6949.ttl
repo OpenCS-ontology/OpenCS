@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6949 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mechanism_design> ;
+    skos:prefLabel "Mechanism design" ;
+    skos:related ocs:C13610,
+        ocs:C19168,
+        ocs:C19747 .
+

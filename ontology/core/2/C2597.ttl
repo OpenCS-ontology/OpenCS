@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2597 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crypto-1> ;
+    skos:prefLabel "Crypto-1" ;
+    skos:related ocs:C10527,
+        ocs:C15680,
+        ocs:C17091,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C28967,
+        ocs:C30083,
+        ocs:C34387,
+        ocs:C35391,
+        ocs:C4218,
+        ocs:C42918,
+        ocs:C45216,
+        ocs:C45369,
+        ocs:C4917,
+        ocs:C5072,
+        ocs:C8437,
+        ocs:C9534 .
+

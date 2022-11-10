@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40626 a skos:Concept ;
+    skos:broader ocs:C33568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Naked_objects> ;
+    skos:prefLabel "Naked objects" ;
+    skos:related ocs:C13878,
+        ocs:C14329,
+        ocs:C15786,
+        ocs:C16530,
+        ocs:C27258,
+        ocs:C3850,
+        ocs:C3904,
+        ocs:C39143,
+        ocs:C41987,
+        ocs:C43110,
+        ocs:C43774,
+        ocs:C44346,
+        ocs:C45736,
+        ocs:C5702,
+        ocs:C7395 .
+

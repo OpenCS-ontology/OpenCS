@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19579 a skos:Concept ;
+    skos:broader ocs:C2931,
+        ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_Catalog_Vocabulary> ;
+    skos:prefLabel "Data Catalog Vocabulary" ;
+    skos:related ocs:C13181,
+        ocs:C1349,
+        ocs:C2931,
+        ocs:C29375,
+        ocs:C30368,
+        ocs:C31429,
+        ocs:C31903,
+        ocs:C33916,
+        ocs:C38072,
+        ocs:C39973,
+        ocs:C40821,
+        ocs:C42124,
+        ocs:C43138,
+        ocs:C43831,
+        ocs:C4660,
+        ocs:C4747,
+        ocs:C9836 .
+

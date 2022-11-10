@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11221 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C6 ;
+    skos:prefLabel "Query name" ;
+    skos:related ocs:C11213,
+        ocs:C13366,
+        ocs:C21,
+        ocs:C248,
+        ocs:C257,
+        ocs:C27557,
+        ocs:C27695,
+        ocs:C31,
+        ocs:C31720,
+        ocs:C32,
+        ocs:C3401,
+        ocs:C40870,
+        ocs:C7,
+        ocs:C7021 .
+

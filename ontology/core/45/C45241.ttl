@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45241 a skos:Concept ;
+    skos:broader ocs:C29898,
+        ocs:C32085,
+        ocs:C33774,
+        ocs:C36203 ;
+    skos:closeMatch <http://dbpedia.org/resource/Habitability_of_natural_satellites> ;
+    skos:prefLabel "Natural satellite habitability" ;
+    skos:related ocs:C14270,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C32417,
+        ocs:C36203,
+        ocs:C38786,
+        ocs:C40047,
+        ocs:C40516,
+        ocs:C42138,
+        ocs:C597 .
+

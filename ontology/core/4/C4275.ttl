@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4275 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chung_Kwei_(algorithm)> ;
+    skos:prefLabel "Chung Kwei" ;
+    skos:related ocs:C13312,
+        ocs:C17567,
+        ocs:C19507,
+        ocs:C19685,
+        ocs:C21405,
+        ocs:C24903,
+        ocs:C30406,
+        ocs:C31112,
+        ocs:C32644,
+        ocs:C37560,
+        ocs:C37868,
+        ocs:C38729,
+        ocs:C40986,
+        ocs:C42346,
+        ocs:C5960,
+        ocs:C6087,
+        ocs:C6712,
+        ocs:C7129,
+        ocs:C9287 .
+

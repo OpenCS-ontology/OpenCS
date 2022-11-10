@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31573 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Doradidae> ;
+    skos:prefLabel "Doradidae" ;
+    skos:related ocs:C24236,
+        ocs:C30248,
+        ocs:C31206,
+        ocs:C33166,
+        ocs:C36286,
+        ocs:C36328,
+        ocs:C39733,
+        ocs:C40967,
+        ocs:C42958,
+        ocs:C45030 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38447 a skos:Concept ;
+    skos:broader ocs:C30856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wake-sleep_algorithm> ;
+    skos:prefLabel "Wake-sleep algorithm" ;
+    skos:related ocs:C11030,
+        ocs:C12748,
+        ocs:C14849,
+        ocs:C20001,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C22089,
+        ocs:C23970,
+        ocs:C25,
+        ocs:C30115,
+        ocs:C30532,
+        ocs:C3063,
+        ocs:C32651,
+        ocs:C34002,
+        ocs:C34289,
+        ocs:C41798,
+        ocs:C45455,
+        ocs:C5498,
+        ocs:C8,
+        ocs:C9022 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5410 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable_data_printing> ;
+    skos:prefLabel "Variable data printing" ;
+    skos:related ocs:C10764,
+        ocs:C1397,
+        ocs:C22683,
+        ocs:C25977,
+        ocs:C263,
+        ocs:C29909,
+        ocs:C4004,
+        ocs:C5477,
+        ocs:C6,
+        ocs:C9035 .
+

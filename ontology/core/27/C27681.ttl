@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27681 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tendon-driven_robot> ;
+    skos:prefLabel "Tendon-driven robot" ;
+    skos:related ocs:C13727,
+        ocs:C24,
+        ocs:C2658 .
+

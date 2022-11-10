@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27317 a skos:Concept ;
+    skos:broader ocs:C2703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereoplotter> ;
+    skos:prefLabel "Stereoplotter" ;
+    skos:related ocs:C221,
+        ocs:C23153,
+        ocs:C23914,
+        ocs:C2703,
+        ocs:C27128,
+        ocs:C2825,
+        ocs:C2883,
+        ocs:C861 .
+

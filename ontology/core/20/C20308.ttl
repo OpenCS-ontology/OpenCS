@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20308 a skos:Concept ;
+    skos:broader ocs:C6420 ;
+    skos:prefLabel "Color vision deficiencies" ;
+    skos:related ocs:C12849,
+        ocs:C15175,
+        ocs:C17,
+        ocs:C22,
+        ocs:C3743,
+        ocs:C41799,
+        ocs:C5469,
+        ocs:C9122 .
+

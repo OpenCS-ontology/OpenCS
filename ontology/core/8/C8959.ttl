@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8959 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/TV_tuner_card> ;
+    skos:prefLabel "TV tuner card" ;
+    skos:related ocs:C10320,
+        ocs:C11323,
+        ocs:C12544,
+        ocs:C1904,
+        ocs:C19050,
+        ocs:C19342,
+        ocs:C27572,
+        ocs:C31489,
+        ocs:C33691,
+        ocs:C34364,
+        ocs:C38826,
+        ocs:C40628,
+        ocs:C8935 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42811 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed_wireless> ;
+    skos:prefLabel "Fixed wireless" ;
+    skos:related ocs:C15728,
+        ocs:C19350,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C27912,
+        ocs:C3,
+        ocs:C3236,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C37037,
+        ocs:C41593,
+        ocs:C490,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23849 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astrometry> ;
+    skos:prefLabel "Astrometry" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C18085,
+        ocs:C18137,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C25630,
+        ocs:C25918,
+        ocs:C26524,
+        ocs:C37614,
+        ocs:C597 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41372 a skos:Concept ;
+    skos:broader ocs:C31400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enveloping_von_Neumann_algebra> ;
+    skos:prefLabel "Enveloping von Neumann algebra" ;
+    skos:related ocs:C17651,
+        ocs:C19542,
+        ocs:C23927,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C29849,
+        ocs:C33102,
+        ocs:C39154,
+        ocs:C40728,
+        ocs:C40761,
+        ocs:C45827 .
+

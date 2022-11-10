@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26477 a skos:Concept ;
+    skos:broader ocs:C11433,
+        ocs:C12638,
+        ocs:C4754 ;
+    skos:closeMatch <http://dbpedia.org/resource/UDOP> ;
+    skos:prefLabel "UDOP" ;
+    skos:related ocs:C20391,
+        ocs:C4427,
+        ocs:C44487,
+        ocs:C7909 .
+

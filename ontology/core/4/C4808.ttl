@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4808 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clock_position> ;
+    skos:prefLabel "Clock position" ;
+    skos:related ocs:C15442,
+        ocs:C21922,
+        ocs:C29049,
+        ocs:C5110,
+        ocs:C6001,
+        ocs:C7648,
+        ocs:C9285 .
+

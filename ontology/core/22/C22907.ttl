@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22907 a skos:Concept ;
+    skos:broader ocs:C10320,
+        ocs:C12431 ;
+    skos:closeMatch <http://dbpedia.org/resource/Micro-operation> ;
+    skos:prefLabel "Micro-operation" ;
+    skos:related ocs:C10320,
+        ocs:C12431,
+        ocs:C14917,
+        ocs:C15,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C26755,
+        ocs:C27610,
+        ocs:C37538,
+        ocs:C40036,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C8275,
+        ocs:C856 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11068 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:prefLabel "Library assistant" ;
+    skos:related ocs:C13350,
+        ocs:C17,
+        ocs:C197,
+        ocs:C21424,
+        ocs:C4934,
+        ocs:C8614,
+        ocs:C9692 .
+

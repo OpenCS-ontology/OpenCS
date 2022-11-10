@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37949 a skos:Concept ;
+    skos:broader ocs:C33191 ;
+    skos:closeMatch <http://dbpedia.org/resource/Client_certificate> ;
+    skos:prefLabel "Client certificate" ;
+    skos:related ocs:C15478,
+        ocs:C16125,
+        ocs:C17235,
+        ocs:C20243,
+        ocs:C22450,
+        ocs:C22597,
+        ocs:C23446,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C35146,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C43338,
+        ocs:C7006 .
+

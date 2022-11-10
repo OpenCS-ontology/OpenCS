@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36411 a skos:Concept ;
+    skos:broader ocs:C20329,
+        ocs:C29539 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anonymous_web_browsing> ;
+    skos:prefLabel "Anonymous web browsing" ;
+    skos:related ocs:C12510,
+        ocs:C12812,
+        ocs:C16338,
+        ocs:C19522,
+        ocs:C20238,
+        ocs:C22597,
+        ocs:C23484,
+        ocs:C26,
+        ocs:C29539,
+        ocs:C31,
+        ocs:C33417,
+        ocs:C36922,
+        ocs:C38347,
+        ocs:C4663,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8614 .
+

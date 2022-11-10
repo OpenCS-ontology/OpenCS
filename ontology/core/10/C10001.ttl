@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10001 a skos:Concept ;
+    skos:broader ocs:C32,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/METEO_System> ;
+    skos:prefLabel "METEO System" ;
+    skos:related ocs:C10227,
+        ocs:C16771,
+        ocs:C19194,
+        ocs:C24011,
+        ocs:C28336,
+        ocs:C28527,
+        ocs:C29604,
+        ocs:C3612,
+        ocs:C39236,
+        ocs:C5852,
+        ocs:C6531,
+        ocs:C8787,
+        ocs:C9 .
+

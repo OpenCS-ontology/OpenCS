@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19903 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_broadcasting> ;
+    skos:prefLabel "Radio broadcasting" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19366,
+        ocs:C26768,
+        ocs:C26908,
+        ocs:C28716,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C7159,
+        ocs:C8614 .
+

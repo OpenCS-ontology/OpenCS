@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21200 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C11150,
+        ocs:C257,
+        ocs:C658,
+        ocs:C746,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Separable_filter> ;
+    skos:prefLabel "Separable filter" ;
+    skos:related ocs:C11150,
+        ocs:C11253,
+        ocs:C14863,
+        ocs:C17412,
+        ocs:C2216,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C28626,
+        ocs:C30877,
+        ocs:C31108,
+        ocs:C32517,
+        ocs:C34906,
+        ocs:C36137,
+        ocs:C37394,
+        ocs:C37582,
+        ocs:C38864,
+        ocs:C40344,
+        ocs:C8499 .
+

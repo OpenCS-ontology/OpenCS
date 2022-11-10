@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10625 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hype_cycle> ;
+    skos:prefLabel "Hype cycle" ;
+    skos:related ocs:C197,
+        ocs:C22668,
+        ocs:C2476,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C2818,
+        ocs:C4269,
+        ocs:C45529,
+        ocs:C6529,
+        ocs:C6757,
+        ocs:C8619 .
+

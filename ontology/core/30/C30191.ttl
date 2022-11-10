@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30191 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C19861,
+        ocs:C23229,
+        ocs:C27472 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shadow_Hand> ;
+    skos:prefLabel "Shadow Hand" ;
+    skos:related ocs:C10396,
+        ocs:C12976,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C23317,
+        ocs:C29532,
+        ocs:C31485,
+        ocs:C34504,
+        ocs:C35770,
+        ocs:C36316,
+        ocs:C36715,
+        ocs:C37010 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12100 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Raw_data> ;
+    skos:prefLabel "Raw data" ;
+    skos:related ocs:C12683,
+        ocs:C13,
+        ocs:C27130,
+        ocs:C38481,
+        ocs:C3896,
+        ocs:C4027,
+        ocs:C6,
+        ocs:C7218,
+        ocs:C941,
+        ocs:C9488 .
+

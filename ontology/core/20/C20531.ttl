@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20531 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delta_method> ;
+    skos:prefLabel "Delta method" ;
+    skos:related ocs:C13685,
+        ocs:C13748,
+        ocs:C15256,
+        ocs:C1844,
+        ocs:C30859,
+        ocs:C33462,
+        ocs:C38450 .
+

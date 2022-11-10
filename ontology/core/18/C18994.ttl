@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18994 a skos:Concept ;
+    skos:broader ocs:C6594,
+        ocs:C6909 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kolmogorov_extension_theorem> ;
+    skos:prefLabel "Kolmogorov extension theorem" ;
+    skos:related ocs:C1844,
+        ocs:C22334,
+        ocs:C22418,
+        ocs:C28270,
+        ocs:C33043,
+        ocs:C35365,
+        ocs:C42482,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 .
+

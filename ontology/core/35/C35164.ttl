@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35164 a skos:Concept ;
+    skos:broader ocs:C17945 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cosmic_Origins_Spectrograph> ;
+    skos:prefLabel "Cosmic Origins Spectrograph" ;
+    skos:related ocs:C29571,
+        ocs:C30252,
+        ocs:C30450,
+        ocs:C33140,
+        ocs:C33158,
+        ocs:C33820,
+        ocs:C36389,
+        ocs:C40958,
+        ocs:C41072 .
+

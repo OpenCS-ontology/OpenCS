@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43427 a skos:Concept ;
+    skos:broader ocs:C29672 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rheonomous> ;
+    skos:prefLabel "Rheonomous" ;
+    skos:related ocs:C29672,
+        ocs:C30370,
+        ocs:C36893,
+        ocs:C38731 .
+

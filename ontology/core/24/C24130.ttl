@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24130 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subgradient_method> ;
+    skos:prefLabel "Subgradient method" ;
+    skos:related ocs:C14414,
+        ocs:C17791,
+        ocs:C2005,
+        ocs:C6287,
+        ocs:C8944,
+        ocs:C9243 .
+

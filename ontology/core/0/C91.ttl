@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C91 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_TTL_security_mechanism> ;
+    skos:prefLabel "Generalized TTL security mechanism" ;
+    skos:related ocs:C10495,
+        ocs:C10913,
+        ocs:C14134,
+        ocs:C14938,
+        ocs:C19170,
+        ocs:C20691,
+        ocs:C21620,
+        ocs:C23666,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29278,
+        ocs:C32268,
+        ocs:C34796,
+        ocs:C35923,
+        ocs:C38485,
+        ocs:C40689,
+        ocs:C41222,
+        ocs:C44266,
+        ocs:C44968,
+        ocs:C6185 .
+

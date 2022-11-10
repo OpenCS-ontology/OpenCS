@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45114 a skos:Concept ;
+    skos:broader ocs:C34421 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_Framework> ;
+    skos:prefLabel "Information Framework" ;
+    skos:related ocs:C12146,
+        ocs:C12694,
+        ocs:C17238,
+        ocs:C18539,
+        ocs:C2264,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38885,
+        ocs:C39686,
+        ocs:C40085,
+        ocs:C40895,
+        ocs:C42767,
+        ocs:C43469,
+        ocs:C44353,
+        ocs:C44805,
+        ocs:C44839,
+        ocs:C45082,
+        ocs:C45437 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7517 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space-time_block_coding_based_transmit_diversity> ;
+    skos:prefLabel "Space-time block coding based transmit diversity" ;
+    skos:related ocs:C14099,
+        ocs:C18799,
+        ocs:C1894,
+        ocs:C19721,
+        ocs:C20859,
+        ocs:C21204,
+        ocs:C21613,
+        ocs:C23423,
+        ocs:C24264,
+        ocs:C24558,
+        ocs:C32290,
+        ocs:C33606,
+        ocs:C35081,
+        ocs:C35692,
+        ocs:C36733,
+        ocs:C38053,
+        ocs:C42961,
+        ocs:C4459,
+        ocs:C616 .
+

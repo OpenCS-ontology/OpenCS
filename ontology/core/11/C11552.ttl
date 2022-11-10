@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11552 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earth_mover's_distance> ;
+    skos:prefLabel "Earth mover's distance" ;
+    skos:related ocs:C10767,
+        ocs:C10903,
+        ocs:C14082,
+        ocs:C16333,
+        ocs:C17590,
+        ocs:C1938,
+        ocs:C21,
+        ocs:C28992,
+        ocs:C33766,
+        ocs:C3389,
+        ocs:C34809,
+        ocs:C795,
+        ocs:C9022 .
+

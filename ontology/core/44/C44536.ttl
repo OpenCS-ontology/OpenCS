@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44536 a skos:Concept ;
+    skos:broader ocs:C32506,
+        ocs:C34168,
+        ocs:C35567 ;
+    skos:closeMatch <http://dbpedia.org/resource/XProc> ;
+    skos:prefLabel "XProc" ;
+    skos:related ocs:C11927,
+        ocs:C17170,
+        ocs:C18361,
+        ocs:C28801,
+        ocs:C30182,
+        ocs:C33052,
+        ocs:C33079,
+        ocs:C33709,
+        ocs:C3679,
+        ocs:C36924,
+        ocs:C37696,
+        ocs:C38584,
+        ocs:C39183,
+        ocs:C40147,
+        ocs:C40360,
+        ocs:C40514,
+        ocs:C43819,
+        ocs:C43834,
+        ocs:C44843 .
+

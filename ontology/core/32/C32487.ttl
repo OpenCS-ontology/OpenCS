@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32487 a skos:Concept ;
+    skos:broader ocs:C15175 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tetrachromacy> ;
+    skos:prefLabel "Tetrachromacy" ;
+    skos:related ocs:C13544,
+        ocs:C15175,
+        ocs:C23675,
+        ocs:C25924,
+        ocs:C36317,
+        ocs:C6420 .
+

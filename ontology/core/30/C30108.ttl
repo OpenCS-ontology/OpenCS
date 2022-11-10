@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30108 a skos:Concept ;
+    skos:broader ocs:C14470,
+        ocs:C15661,
+        ocs:C28016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupt_priority_level> ;
+    skos:prefLabel "Interrupt priority level" ;
+    skos:related ocs:C10400,
+        ocs:C12851,
+        ocs:C14271,
+        ocs:C14470,
+        ocs:C15661,
+        ocs:C19487,
+        ocs:C24590,
+        ocs:C28016,
+        ocs:C28515,
+        ocs:C29732,
+        ocs:C30860,
+        ocs:C33,
+        ocs:C37538,
+        ocs:C39429,
+        ocs:C42695,
+        ocs:C4863,
+        ocs:C6197,
+        ocs:C9,
+        ocs:C9262 .
+

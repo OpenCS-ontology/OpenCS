@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33827 a skos:Concept ;
+    skos:broader ocs:C26152,
+        ocs:C28736 ;
+    skos:closeMatch <http://dbpedia.org/resource/Piston_(optics)> ;
+    skos:prefLabel "Piston (optics)" ;
+    skos:related ocs:C23365,
+        ocs:C28736,
+        ocs:C45278,
+        ocs:C8561 .
+

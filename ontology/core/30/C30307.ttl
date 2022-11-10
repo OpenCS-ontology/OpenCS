@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30307 a skos:Concept ;
+    skos:broader ocs:C15414,
+        ocs:C17717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topological_sorting> ;
+    skos:prefLabel "Topological sorting" ;
+    skos:related ocs:C14406,
+        ocs:C14693,
+        ocs:C15414,
+        ocs:C16677,
+        ocs:C17700,
+        ocs:C17717,
+        ocs:C21947,
+        ocs:C32757,
+        ocs:C37036,
+        ocs:C41540,
+        ocs:C42401,
+        ocs:C43186,
+        ocs:C44250,
+        ocs:C44560,
+        ocs:C4966,
+        ocs:C6335,
+        ocs:C7109,
+        ocs:C8660 .
+

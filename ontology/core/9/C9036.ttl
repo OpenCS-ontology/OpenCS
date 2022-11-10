@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9036 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ruhengeri_Province> ;
+    skos:prefLabel "Ruhengeri Province" ;
+    skos:related ocs:C10759,
+        ocs:C12109,
+        ocs:C14252,
+        ocs:C22455,
+        ocs:C25320,
+        ocs:C42729 .
+

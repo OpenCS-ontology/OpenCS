@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12067 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/W_Series> ;
+    skos:prefLabel "W Series" ;
+    skos:related ocs:C10516,
+        ocs:C12544,
+        ocs:C18878,
+        ocs:C19819,
+        ocs:C20391,
+        ocs:C21749,
+        ocs:C25712,
+        ocs:C28716,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C40703,
+        ocs:C7201,
+        ocs:C863 .
+

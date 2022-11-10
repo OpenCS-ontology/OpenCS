@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32327 a skos:Concept ;
+    skos:broader ocs:C28963 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document-oriented_database> ;
+    skos:prefLabel "Document-oriented database" ;
+    skos:related ocs:C10444,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C13068,
+        ocs:C14025,
+        ocs:C14209,
+        ocs:C17701,
+        ocs:C18083,
+        ocs:C18405,
+        ocs:C20148,
+        ocs:C28963,
+        ocs:C29382,
+        ocs:C30561,
+        ocs:C36084,
+        ocs:C36924,
+        ocs:C43443,
+        ocs:C44816,
+        ocs:C6,
+        ocs:C8327 .
+

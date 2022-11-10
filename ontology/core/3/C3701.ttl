@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3701 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field_Programmable_RF> ;
+    skos:prefLabel "Field Programmable RF" ;
+    skos:related ocs:C10409,
+        ocs:C1841,
+        ocs:C19721,
+        ocs:C23025,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C28176,
+        ocs:C30338,
+        ocs:C32715,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C39861,
+        ocs:C4104,
+        ocs:C41461,
+        ocs:C42210,
+        ocs:C43848,
+        ocs:C43951,
+        ocs:C7877,
+        ocs:C9113 .
+

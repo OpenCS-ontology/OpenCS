@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34673 a skos:Concept ;
+    skos:broader ocs:C22283,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/James_Clerk_Maxwell_Telescope> ;
+    skos:prefLabel "James Clerk Maxwell Telescope" ;
+    skos:related ocs:C17246,
+        ocs:C23430,
+        ocs:C23961,
+        ocs:C30181,
+        ocs:C32423,
+        ocs:C37332,
+        ocs:C38705 .
+

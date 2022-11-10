@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9237 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_normal_(robotics)> ;
+    skos:prefLabel "Common normal" ;
+    skos:related ocs:C1054,
+        ocs:C17117,
+        ocs:C17236,
+        ocs:C23260,
+        ocs:C25926,
+        ocs:C30279,
+        ocs:C30677,
+        ocs:C31144,
+        ocs:C31808,
+        ocs:C33959,
+        ocs:C34535,
+        ocs:C35231,
+        ocs:C35805,
+        ocs:C35870,
+        ocs:C41082,
+        ocs:C43810,
+        ocs:C44424,
+        ocs:C979 .
+

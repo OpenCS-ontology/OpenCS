@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42659 a skos:Concept ;
+    skos:broader ocs:C33960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_register> ;
+    skos:prefLabel "Hardware register" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12640,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C26090,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C4259,
+        ocs:C42690,
+        ocs:C5336,
+        ocs:C8024,
+        ocs:C856,
+        ocs:C9262 .
+

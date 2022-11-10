@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45841 a skos:Concept ;
+    skos:broader ocs:C30004,
+        ocs:C35808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_interpolation> ;
+    skos:prefLabel "Motion interpolation" ;
+    skos:related ocs:C12492,
+        ocs:C12544,
+        ocs:C13509,
+        ocs:C13679,
+        ocs:C15700,
+        ocs:C2000,
+        ocs:C21097,
+        ocs:C21207,
+        ocs:C3244,
+        ocs:C3374,
+        ocs:C45386,
+        ocs:C4856 .
+

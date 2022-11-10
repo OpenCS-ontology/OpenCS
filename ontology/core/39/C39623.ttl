@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39623 a skos:Concept ;
+    skos:broader ocs:C32222,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_management_unit> ;
+    skos:prefLabel "Memory management unit" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12323,
+        ocs:C14162,
+        ocs:C14271,
+        ocs:C19487,
+        ocs:C23864,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C31489,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C41159,
+        ocs:C41696,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20370 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agile_application> ;
+    skos:prefLabel "Agile application" ;
+    skos:related ocs:C1634,
+        ocs:C16599,
+        ocs:C17238,
+        ocs:C1791,
+        ocs:C18274,
+        ocs:C26773,
+        ocs:C28275,
+        ocs:C30,
+        ocs:C3175,
+        ocs:C40422,
+        ocs:C41007,
+        ocs:C41038,
+        ocs:C41111,
+        ocs:C41310,
+        ocs:C41437,
+        ocs:C43056,
+        ocs:C43642,
+        ocs:C45107,
+        ocs:C4558 .
+

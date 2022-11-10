@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6307 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/RS_Media> ;
+    skos:prefLabel "RS Media" ;
+    skos:related ocs:C10318,
+        ocs:C10396,
+        ocs:C114,
+        ocs:C1253,
+        ocs:C12580,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C20230,
+        ocs:C20576,
+        ocs:C25195,
+        ocs:C26787,
+        ocs:C30191,
+        ocs:C35231,
+        ocs:C36316,
+        ocs:C36912,
+        ocs:C39358,
+        ocs:C40297,
+        ocs:C44928 .
+

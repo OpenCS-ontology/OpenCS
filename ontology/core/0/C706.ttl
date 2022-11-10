@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C706 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Markovian_discrimination> ;
+    skos:prefLabel "Markovian discrimination" ;
+    skos:related ocs:C10966,
+        ocs:C11722,
+        ocs:C12748,
+        ocs:C14922,
+        ocs:C15663,
+        ocs:C18408,
+        ocs:C19174,
+        ocs:C20860,
+        ocs:C28603,
+        ocs:C30238,
+        ocs:C316,
+        ocs:C33043,
+        ocs:C36743,
+        ocs:C39922,
+        ocs:C40986,
+        ocs:C42962,
+        ocs:C43658,
+        ocs:C5856,
+        ocs:C5960,
+        ocs:C7689 .
+

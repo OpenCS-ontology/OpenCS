@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23021 a skos:Concept ;
+    skos:broader ocs:C7447 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-inertial_reference_frame> ;
+    skos:prefLabel "Non-inertial reference frame" .
+

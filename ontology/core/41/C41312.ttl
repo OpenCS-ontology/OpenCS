@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41312 a skos:Concept ;
+    skos:broader ocs:C36500 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_transaction_protocol> ;
+    skos:prefLabel "Wireless transaction protocol" ;
+    skos:related ocs:C11550,
+        ocs:C2160,
+        ocs:C24323,
+        ocs:C27704,
+        ocs:C29000,
+        ocs:C29359,
+        ocs:C30145,
+        ocs:C30500,
+        ocs:C36500,
+        ocs:C38446,
+        ocs:C39078,
+        ocs:C39365,
+        ocs:C3989,
+        ocs:C40535,
+        ocs:C42053,
+        ocs:C42102,
+        ocs:C5672,
+        ocs:C8614,
+        ocs:C9113 .
+

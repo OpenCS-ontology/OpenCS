@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2776 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dutch_book> ;
+    skos:prefLabel "Dutch book" ;
+    skos:related ocs:C14620,
+        ocs:C246,
+        ocs:C2668,
+        ocs:C32717,
+        ocs:C33349,
+        ocs:C3753,
+        ocs:C43064,
+        ocs:C5659,
+        ocs:C6291,
+        ocs:C6692 .
+

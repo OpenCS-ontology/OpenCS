@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32508 a skos:Concept ;
+    skos:broader ocs:C16105,
+        ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadrature_mirror_filter> ;
+    skos:prefLabel "Quadrature mirror filter" ;
+    skos:related ocs:C10554,
+        ocs:C11443,
+        ocs:C1449,
+        ocs:C29963,
+        ocs:C30925,
+        ocs:C33342,
+        ocs:C38465,
+        ocs:C40380,
+        ocs:C42094,
+        ocs:C42915,
+        ocs:C43805,
+        ocs:C43809,
+        ocs:C44865,
+        ocs:C44879,
+        ocs:C4511,
+        ocs:C45115,
+        ocs:C5042,
+        ocs:C6816 .
+

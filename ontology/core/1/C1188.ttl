@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1188 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C30,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partitioned_global_address_space> ;
+    skos:prefLabel "Partitioned global address space" ;
+    skos:related ocs:C12690,
+        ocs:C17626,
+        ocs:C19876,
+        ocs:C19936,
+        ocs:C20267,
+        ocs:C21621,
+        ocs:C24846,
+        ocs:C25923,
+        ocs:C26124,
+        ocs:C26422,
+        ocs:C27,
+        ocs:C33048,
+        ocs:C38461,
+        ocs:C39272,
+        ocs:C3990,
+        ocs:C42759,
+        ocs:C6312,
+        ocs:C6714,
+        ocs:C7735 .
+

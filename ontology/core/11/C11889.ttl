@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11889 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Protocol Monitor" ;
+    skos:related ocs:C14858,
+        ocs:C2,
+        ocs:C2917,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C3936,
+        ocs:C6223,
+        ocs:C9,
+        ocs:C9931 .
+

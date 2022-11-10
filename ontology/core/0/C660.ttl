@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C660 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_simulator> ;
+    skos:prefLabel "Flight simulator" ;
+    skos:related ocs:C11445,
+        ocs:C1253,
+        ocs:C13320,
+        ocs:C15234,
+        ocs:C18996,
+        ocs:C21609,
+        ocs:C24,
+        ocs:C2417,
+        ocs:C28814,
+        ocs:C28881,
+        ocs:C44,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C5913,
+        ocs:C6881,
+        ocs:C8,
+        ocs:C8614 .
+

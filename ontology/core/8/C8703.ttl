@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8703 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Canonical_S-expressions> ;
+    skos:prefLabel "Canonical S-expressions" ;
+    skos:related ocs:C10268,
+        ocs:C11531,
+        ocs:C11927,
+        ocs:C11990,
+        ocs:C14966,
+        ocs:C16609,
+        ocs:C23709,
+        ocs:C30595,
+        ocs:C3409,
+        ocs:C42905,
+        ocs:C43314,
+        ocs:C43819,
+        ocs:C44049,
+        ocs:C44193,
+        ocs:C5126,
+        ocs:C8441,
+        ocs:C9162 .
+

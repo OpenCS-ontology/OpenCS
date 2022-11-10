@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8390 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_Protection_Act_1998> ;
+    skos:prefLabel "Data Protection Act 1998" ;
+    skos:related ocs:C12378,
+        ocs:C1399,
+        ocs:C26011,
+        ocs:C26514,
+        ocs:C28085,
+        ocs:C2970,
+        ocs:C34896,
+        ocs:C37237,
+        ocs:C394,
+        ocs:C45697,
+        ocs:C6,
+        ocs:C7510,
+        ocs:C7604,
+        ocs:C8614 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43355 a skos:Concept ;
+    skos:broader ocs:C32392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert_modular_surface> ;
+    skos:prefLabel "Hilbert modular surface" ;
+    skos:related ocs:C23209,
+        ocs:C32392,
+        ocs:C34812,
+        ocs:C34832 .
+

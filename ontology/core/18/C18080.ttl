@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18080 a skos:Concept ;
+    skos:broader ocs:C3390,
+        ocs:C7995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_Information_and_Communication_System> ;
+    skos:prefLabel "Vehicle Information and Communication System" ;
+    skos:related ocs:C10550,
+        ocs:C11656,
+        ocs:C1346,
+        ocs:C15115,
+        ocs:C16971,
+        ocs:C19038,
+        ocs:C2020,
+        ocs:C21412,
+        ocs:C21424,
+        ocs:C34119,
+        ocs:C35149,
+        ocs:C38665,
+        ocs:C41543,
+        ocs:C4428,
+        ocs:C6243,
+        ocs:C6862,
+        ocs:C7002,
+        ocs:C9100 .
+

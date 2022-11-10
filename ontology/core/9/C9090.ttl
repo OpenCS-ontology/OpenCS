@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9090 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Facility_location_problem> ;
+    skos:prefLabel "Facility location problem" ;
+    skos:related ocs:C11372,
+        ocs:C14953,
+        ocs:C15344,
+        ocs:C20720,
+        ocs:C24647,
+        ocs:C30401,
+        ocs:C31148,
+        ocs:C32806,
+        ocs:C3837,
+        ocs:C41571,
+        ocs:C43751,
+        ocs:C44464,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C8660,
+        ocs:C8944 .
+

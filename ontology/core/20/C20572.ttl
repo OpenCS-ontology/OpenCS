@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20572 a skos:Concept ;
+    skos:broader ocs:C11445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instrument_landing_system> ;
+    skos:prefLabel "Instrument landing system" ;
+    skos:related ocs:C11445,
+        ocs:C11579,
+        ocs:C12641,
+        ocs:C12648,
+        ocs:C18996,
+        ocs:C22758,
+        ocs:C26346,
+        ocs:C30277,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C4979,
+        ocs:C5030 .
+

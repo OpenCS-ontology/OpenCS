@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8100 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asset_tracking> ;
+    skos:prefLabel "Asset tracking" ;
+    skos:related ocs:C12641,
+        ocs:C12698,
+        ocs:C12755,
+        ocs:C1338,
+        ocs:C1508,
+        ocs:C16368,
+        ocs:C1882,
+        ocs:C19494,
+        ocs:C27613,
+        ocs:C3673,
+        ocs:C4398,
+        ocs:C4917,
+        ocs:C525,
+        ocs:C6311,
+        ocs:C7877 .
+

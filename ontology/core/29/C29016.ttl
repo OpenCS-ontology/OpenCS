@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29016 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_position> ;
+    skos:prefLabel "Star position" ;
+    skos:related ocs:C13745,
+        ocs:C18137,
+        ocs:C18584,
+        ocs:C19225,
+        ocs:C23849,
+        ocs:C24724,
+        ocs:C30234,
+        ocs:C30361,
+        ocs:C34255,
+        ocs:C34911 .
+

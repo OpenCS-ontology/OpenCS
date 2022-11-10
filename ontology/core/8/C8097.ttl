@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8097 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shape_context> ;
+    skos:prefLabel "Shape context" ;
+    skos:related ocs:C12258,
+        ocs:C13142,
+        ocs:C1573,
+        ocs:C17252,
+        ocs:C20377,
+        ocs:C25756,
+        ocs:C26688,
+        ocs:C26767,
+        ocs:C26781,
+        ocs:C27631,
+        ocs:C28626,
+        ocs:C3063,
+        ocs:C31308,
+        ocs:C40043,
+        ocs:C5462,
+        ocs:C7 .
+

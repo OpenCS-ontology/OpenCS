@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2005 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Support_vector_machine> ;
+    skos:prefLabel "Support vector machine" ;
+    skos:related ocs:C11030,
+        ocs:C14414,
+        ocs:C19354,
+        ocs:C20377,
+        ocs:C22089,
+        ocs:C2321,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C25520,
+        ocs:C28523,
+        ocs:C31630,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C6021,
+        ocs:C6116,
+        ocs:C7803,
+        ocs:C9022 .
+

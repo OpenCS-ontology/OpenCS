@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21203 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Class_of_service> ;
+    skos:prefLabel "Class of service" ;
+    skos:related ocs:C13786,
+        ocs:C13857,
+        ocs:C1398,
+        ocs:C15417,
+        ocs:C15589,
+        ocs:C16851,
+        ocs:C20323,
+        ocs:C22407,
+        ocs:C23155,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C37577,
+        ocs:C390,
+        ocs:C4197,
+        ocs:C44780,
+        ocs:C490,
+        ocs:C4983 .
+

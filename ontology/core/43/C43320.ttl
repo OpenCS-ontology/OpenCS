@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43320 a skos:Concept ;
+    skos:broader ocs:C31165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_interoperability> ;
+    skos:prefLabel "Enterprise interoperability" ;
+    skos:related ocs:C11886,
+        ocs:C14173,
+        ocs:C31165,
+        ocs:C37046,
+        ocs:C41293,
+        ocs:C45470 .
+

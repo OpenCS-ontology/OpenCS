@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1400 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_Arimaa> ;
+    skos:prefLabel "Computer Arimaa" ;
+    skos:related ocs:C10077,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C33435,
+        ocs:C34688,
+        ocs:C34786,
+        ocs:C40237,
+        ocs:C41004,
+        ocs:C44226,
+        ocs:C4594,
+        ocs:C6945,
+        ocs:C8,
+        ocs:C8276 .
+

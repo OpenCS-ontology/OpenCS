@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34758 a skos:Concept ;
+    skos:broader ocs:C22542,
+        ocs:C25630 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary_mass_function> ;
+    skos:prefLabel "Binary mass function" ;
+    skos:related ocs:C18085,
+        ocs:C18929,
+        ocs:C23849,
+        ocs:C25140,
+        ocs:C25630,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C31589,
+        ocs:C38054,
+        ocs:C597 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43881 a skos:Concept ;
+    skos:broader ocs:C30953,
+        ocs:C32389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Storage_violation> ;
+    skos:prefLabel "Storage violation" ;
+    skos:related ocs:C10214,
+        ocs:C10320,
+        ocs:C10496,
+        ocs:C1333,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C23270,
+        ocs:C2353,
+        ocs:C23580,
+        ocs:C31771,
+        ocs:C39282,
+        ocs:C40322,
+        ocs:C41159,
+        ocs:C4321,
+        ocs:C44741,
+        ocs:C794,
+        ocs:C8783,
+        ocs:C9 .
+

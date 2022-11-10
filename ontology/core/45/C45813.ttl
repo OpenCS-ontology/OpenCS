@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45813 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/S_transform> ;
+    skos:prefLabel "S transform" ;
+    skos:related ocs:C10554,
+        ocs:C15788,
+        ocs:C20648,
+        ocs:C26182,
+        ocs:C27673,
+        ocs:C28095,
+        ocs:C34362,
+        ocs:C34943,
+        ocs:C43805,
+        ocs:C45112,
+        ocs:C9427,
+        ocs:C9871 .
+

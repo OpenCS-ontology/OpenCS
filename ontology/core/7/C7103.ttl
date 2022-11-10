@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7103 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_appliance> ;
+    skos:prefLabel "Computer appliance" ;
+    skos:related ocs:C10501,
+        ocs:C11,
+        ocs:C1253,
+        ocs:C13783,
+        ocs:C14627,
+        ocs:C24143,
+        ocs:C26,
+        ocs:C29846,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C34261,
+        ocs:C35701,
+        ocs:C38032,
+        ocs:C4159,
+        ocs:C5698,
+        ocs:C7106,
+        ocs:C8614,
+        ocs:C9 .
+

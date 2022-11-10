@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7469 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatically_switched_optical_network> ;
+    skos:prefLabel "Automatically switched optical network" ;
+    skos:related ocs:C15589,
+        ocs:C20540,
+        ocs:C22493,
+        ocs:C23483,
+        ocs:C24563,
+        ocs:C26891,
+        ocs:C28709,
+        ocs:C28813,
+        ocs:C29603,
+        ocs:C29964,
+        ocs:C3,
+        ocs:C31982,
+        ocs:C3581,
+        ocs:C37752,
+        ocs:C38402,
+        ocs:C39853,
+        ocs:C40329,
+        ocs:C44228,
+        ocs:C45147,
+        ocs:C8567 .
+

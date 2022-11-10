@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8523 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Issue_trees> ;
+    skos:prefLabel "Issue trees" ;
+    skos:related ocs:C11183,
+        ocs:C1134,
+        ocs:C11657,
+        ocs:C11724,
+        ocs:C12329,
+        ocs:C18302,
+        ocs:C25713,
+        ocs:C41822,
+        ocs:C44339,
+        ocs:C4447,
+        ocs:C5906,
+        ocs:C7404,
+        ocs:C852 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9890 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Character_literal> ;
+    skos:prefLabel "Character literal" ;
+    skos:related ocs:C11149,
+        ocs:C12257,
+        ocs:C13253,
+        ocs:C15051,
+        ocs:C1860,
+        ocs:C19,
+        ocs:C3280,
+        ocs:C3398,
+        ocs:C38862,
+        ocs:C39526,
+        ocs:C41793,
+        ocs:C43057,
+        ocs:C5126,
+        ocs:C514,
+        ocs:C7671 .
+

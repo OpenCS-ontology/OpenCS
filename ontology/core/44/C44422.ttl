@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44422 a skos:Concept ;
+    skos:broader ocs:C37206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integer_relation_algorithm> ;
+    skos:prefLabel "Integer relation algorithm" ;
+    skos:related ocs:C10,
+        ocs:C5865,
+        ocs:C8297,
+        ocs:C9204 .
+

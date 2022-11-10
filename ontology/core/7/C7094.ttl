@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7094 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/State-Action-Reward-State-Action> ;
+    skos:prefLabel "State-Action-Reward-State-Action" ;
+    skos:related ocs:C13610,
+        ocs:C14127,
+        ocs:C14849,
+        ocs:C18279,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21157,
+        ocs:C21546,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C2579,
+        ocs:C27053,
+        ocs:C35733,
+        ocs:C36567,
+        ocs:C41937,
+        ocs:C9022 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29461 a skos:Concept ;
+    skos:broader ocs:C10222,
+        ocs:C13685,
+        ocs:C2250,
+        ocs:C4257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cramér–Rao_bound> ;
+    skos:prefLabel "Cramér–Rao bound" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C13685,
+        ocs:C14030,
+        ocs:C19950,
+        ocs:C22258,
+        ocs:C25862,
+        ocs:C27667,
+        ocs:C30859,
+        ocs:C35658,
+        ocs:C42850 .
+

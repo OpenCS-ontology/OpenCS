@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42854 a skos:Concept ;
+    skos:broader ocs:C35731,
+        ocs:C37689 ;
+    skos:closeMatch <http://dbpedia.org/resource/G.729.1> ;
+    skos:prefLabel "G.729.1" ;
+    skos:related ocs:C11969,
+        ocs:C13944,
+        ocs:C17433,
+        ocs:C20746,
+        ocs:C2917,
+        ocs:C30760,
+        ocs:C31127,
+        ocs:C32609,
+        ocs:C35731,
+        ocs:C37498,
+        ocs:C37688,
+        ocs:C39006,
+        ocs:C39055,
+        ocs:C39501,
+        ocs:C41670,
+        ocs:C41971,
+        ocs:C42949,
+        ocs:C43829,
+        ocs:C45687 .
+

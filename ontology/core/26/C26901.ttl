@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26901 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wallerian_degeneration> ;
+    skos:prefLabel "Wallerian degeneration" ;
+    skos:related ocs:C14142,
+        ocs:C17377,
+        ocs:C21491,
+        ocs:C25080,
+        ocs:C32421 .
+

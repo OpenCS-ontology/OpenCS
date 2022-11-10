@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6599 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_compilation> ;
+    skos:prefLabel "Knowledge compilation" ;
+    skos:related ocs:C10278,
+        ocs:C10914,
+        ocs:C12977,
+        ocs:C13686,
+        ocs:C14145,
+        ocs:C18187,
+        ocs:C21327,
+        ocs:C22706,
+        ocs:C29837,
+        ocs:C30824,
+        ocs:C31925,
+        ocs:C32783,
+        ocs:C38410,
+        ocs:C4149,
+        ocs:C4263,
+        ocs:C8,
+        ocs:C9393,
+        ocs:C9450 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37254 a skos:Concept ;
+    skos:broader ocs:C21929,
+        ocs:C23025,
+        ocs:C25114 ;
+    skos:prefLabel "Ip datacast" .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38483 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverted_vee_antenna> ;
+    skos:prefLabel "Inverted vee antenna" ;
+    skos:related ocs:C1219,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C25341,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C39057,
+        ocs:C39964,
+        ocs:C40106,
+        ocs:C41367,
+        ocs:C42721,
+        ocs:C44485,
+        ocs:C44637,
+        ocs:C45043,
+        ocs:C45781,
+        ocs:C7235,
+        ocs:C9691 .
+

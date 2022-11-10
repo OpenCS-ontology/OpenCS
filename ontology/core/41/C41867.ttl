@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41867 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multilayered_architecture> ;
+    skos:prefLabel "Multilayered architecture" ;
+    skos:related ocs:C10508,
+        ocs:C14329,
+        ocs:C14401,
+        ocs:C15230,
+        ocs:C16160,
+        ocs:C22095,
+        ocs:C22259,
+        ocs:C27258,
+        ocs:C31527,
+        ocs:C31894,
+        ocs:C33418,
+        ocs:C34713,
+        ocs:C43303,
+        ocs:C43774,
+        ocs:C4722,
+        ocs:C6761,
+        ocs:C7395 .
+

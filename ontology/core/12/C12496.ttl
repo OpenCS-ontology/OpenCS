@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12496 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Composite_Blocking_List> ;
+    skos:prefLabel "Composite Blocking List" ;
+    skos:related ocs:C12749,
+        ocs:C15373,
+        ocs:C17205,
+        ocs:C18986,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C2941,
+        ocs:C32264,
+        ocs:C36810,
+        ocs:C37829,
+        ocs:C39313,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C4338,
+        ocs:C44734,
+        ocs:C45004,
+        ocs:C5522,
+        ocs:C6286,
+        ocs:C8137 .
+

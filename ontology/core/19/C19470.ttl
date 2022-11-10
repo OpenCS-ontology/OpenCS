@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19470 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Athabaskan_languages> ;
+    skos:prefLabel "Athapaskan language" ;
+    skos:related ocs:C1,
+        ocs:C13210,
+        ocs:C18819,
+        ocs:C20620,
+        ocs:C2298,
+        ocs:C32,
+        ocs:C4522,
+        ocs:C8 .
+

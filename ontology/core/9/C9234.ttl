@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9234 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monitor_filter> ;
+    skos:prefLabel "Monitor filter" ;
+    skos:related ocs:C10634,
+        ocs:C12724,
+        ocs:C22257,
+        ocs:C24972,
+        ocs:C27984,
+        ocs:C29012,
+        ocs:C31202,
+        ocs:C31548,
+        ocs:C35507,
+        ocs:C36598,
+        ocs:C653,
+        ocs:C8021 .
+

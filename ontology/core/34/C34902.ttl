@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34902 a skos:Concept ;
+    skos:broader ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Hydrography_Dataset> ;
+    skos:prefLabel "National Hydrography Dataset" ;
+    skos:related ocs:C13455,
+        ocs:C26336 .
+

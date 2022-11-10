@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2179 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_lines> ;
+    skos:prefLabel "Television lines" ;
+    skos:related ocs:C10409,
+        ocs:C11592,
+        ocs:C12544,
+        ocs:C15700,
+        ocs:C1724,
+        ocs:C18701,
+        ocs:C21949,
+        ocs:C27086,
+        ocs:C27572,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C4461,
+        ocs:C5996,
+        ocs:C6942,
+        ocs:C8799 .
+

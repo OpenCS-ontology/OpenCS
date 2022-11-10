@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35632 a skos:Concept ;
+    skos:broader ocs:C23855,
+        ocs:C24131 ;
+    skos:closeMatch <http://dbpedia.org/resource/SSL_acceleration> ;
+    skos:prefLabel "SSL acceleration" ;
+    skos:related ocs:C10320,
+        ocs:C16125,
+        ocs:C23855,
+        ocs:C24131,
+        ocs:C24898,
+        ocs:C25340,
+        ocs:C30083,
+        ocs:C32484,
+        ocs:C35391,
+        ocs:C38359,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C42142,
+        ocs:C4218,
+        ocs:C4225,
+        ocs:C5336,
+        ocs:C6172 .
+

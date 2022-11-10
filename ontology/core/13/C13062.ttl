@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13062 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_Multipathing> ;
+    skos:prefLabel "Dynamic Multipathing" ;
+    skos:related ocs:C10059,
+        ocs:C10320,
+        ocs:C12601,
+        ocs:C14625,
+        ocs:C2,
+        ocs:C20685,
+        ocs:C27019,
+        ocs:C31523,
+        ocs:C3231,
+        ocs:C32389,
+        ocs:C35850,
+        ocs:C36441,
+        ocs:C36822,
+        ocs:C38117,
+        ocs:C41992,
+        ocs:C43601,
+        ocs:C673,
+        ocs:C7476,
+        ocs:C8024 .
+

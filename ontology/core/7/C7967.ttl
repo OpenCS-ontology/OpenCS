@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7967 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-powered_dynamic_systems> ;
+    skos:prefLabel "Self-powered dynamic systems" ;
+    skos:related ocs:C10873,
+        ocs:C1588,
+        ocs:C16191,
+        ocs:C36377,
+        ocs:C7794,
+        ocs:C8172 .
+

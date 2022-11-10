@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25951 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convergence_problem> ;
+    skos:prefLabel "Convergence problem" ;
+    skos:related ocs:C16025,
+        ocs:C21955,
+        ocs:C39059 .
+

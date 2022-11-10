@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6930 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/LAPB> ;
+    skos:prefLabel "LAPB" ;
+    skos:related ocs:C13327,
+        ocs:C1398,
+        ocs:C20314,
+        ocs:C2538,
+        ocs:C25384,
+        ocs:C26809,
+        ocs:C30342,
+        ocs:C33931,
+        ocs:C38753,
+        ocs:C39009,
+        ocs:C40142,
+        ocs:C4093,
+        ocs:C42689,
+        ocs:C42692,
+        ocs:C43595,
+        ocs:C6861 .
+

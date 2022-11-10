@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12254 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonogram> ;
+    skos:prefLabel "Nonogram" ;
+    skos:related ocs:C11372,
+        ocs:C23962,
+        ocs:C2425,
+        ocs:C27054,
+        ocs:C27111,
+        ocs:C2893,
+        ocs:C31121,
+        ocs:C3287,
+        ocs:C37036,
+        ocs:C39136,
+        ocs:C41731,
+        ocs:C43638,
+        ocs:C6752,
+        ocs:C701,
+        ocs:C7964,
+        ocs:C8,
+        ocs:C8660,
+        ocs:C9450 .
+

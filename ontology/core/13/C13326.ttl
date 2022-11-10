@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13326 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Transport_Network> ;
+    skos:prefLabel "OTN Systems" ;
+    skos:related ocs:C12307,
+        ocs:C12348,
+        ocs:C12394,
+        ocs:C1398,
+        ocs:C16673,
+        ocs:C20373,
+        ocs:C20934,
+        ocs:C23483,
+        ocs:C28022,
+        ocs:C35279,
+        ocs:C42234,
+        ocs:C43211,
+        ocs:C44776,
+        ocs:C490,
+        ocs:C7327,
+        ocs:C7340,
+        ocs:C9652 .
+

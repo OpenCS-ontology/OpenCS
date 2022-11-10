@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33840 a skos:Concept ;
+    skos:broader ocs:C20811,
+        ocs:C26767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dunn_index> ;
+    skos:prefLabel "Dunn index" ;
+    skos:related ocs:C10382,
+        ocs:C14322,
+        ocs:C19398,
+        ocs:C26767,
+        ocs:C29024,
+        ocs:C31050,
+        ocs:C33800,
+        ocs:C38213,
+        ocs:C38914,
+        ocs:C39217,
+        ocs:C40348,
+        ocs:C42682,
+        ocs:C44201,
+        ocs:C45859,
+        ocs:C6608,
+        ocs:C6693,
+        ocs:C7658,
+        ocs:C9594 .
+

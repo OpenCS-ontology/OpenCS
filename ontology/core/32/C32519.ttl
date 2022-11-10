@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32519 a skos:Concept ;
+    skos:broader ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Butterworth_filter> ;
+    skos:prefLabel "Butterworth filter" ;
+    skos:related ocs:C15194,
+        ocs:C18077,
+        ocs:C23968,
+        ocs:C25026,
+        ocs:C32554,
+        ocs:C39179,
+        ocs:C44671,
+        ocs:C45235 .
+

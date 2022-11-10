@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40863 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C34321,
+        ocs:C35298,
+        ocs:C35575,
+        ocs:C35993,
+        ocs:C37174 ;
+    skos:prefLabel "Software engineering ontology" .
+

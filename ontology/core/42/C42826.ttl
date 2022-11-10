@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42826 a skos:Concept ;
+    skos:broader ocs:C36136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decoy_state> ;
+    skos:prefLabel "Decoy state" ;
+    skos:related ocs:C28967 .
+

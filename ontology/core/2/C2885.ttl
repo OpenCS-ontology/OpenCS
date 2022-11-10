@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2885 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linked_list> ;
+    skos:prefLabel "Linked list" ;
+    skos:related ocs:C1,
+        ocs:C14747,
+        ocs:C1627,
+        ocs:C18860,
+        ocs:C25960,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28232,
+        ocs:C2882,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C38925,
+        ocs:C5722,
+        ocs:C6697,
+        ocs:C6941,
+        ocs:C8022,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565 .
+

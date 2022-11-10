@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19513 a skos:Concept ;
+    skos:broader ocs:C12146,
+        ocs:C9597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Customer_value_proposition> ;
+    skos:prefLabel "Customer value proposition" ;
+    skos:related ocs:C10764,
+        ocs:C14128,
+        ocs:C9085,
+        ocs:C9597 .
+

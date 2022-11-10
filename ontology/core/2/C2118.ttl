@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2118 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Texel_(graphics)> ;
+    skos:prefLabel "Texel" ;
+    skos:related ocs:C10320,
+        ocs:C10426,
+        ocs:C15250,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C20331,
+        ocs:C20802,
+        ocs:C22257,
+        ocs:C33277,
+        ocs:C37867,
+        ocs:C40693,
+        ocs:C41077,
+        ocs:C41662,
+        ocs:C8021,
+        ocs:C969 .
+

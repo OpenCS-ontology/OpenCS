@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30809 a skos:Concept ;
+    skos:broader ocs:C27491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superstrong_cardinal> ;
+    skos:prefLabel "Superstrong cardinal" ;
+    skos:related ocs:C27491,
+        ocs:C30417,
+        ocs:C31927,
+        ocs:C36021,
+        ocs:C42231 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33166 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudoplatystoma> ;
+    skos:prefLabel "Pseudoplatystoma" ;
+    skos:related ocs:C24236,
+        ocs:C31573,
+        ocs:C36175,
+        ocs:C40706,
+        ocs:C40967,
+        ocs:C41316,
+        ocs:C44359,
+        ocs:C44472,
+        ocs:C44495,
+        ocs:C44608,
+        ocs:C45344,
+        ocs:C45751 .
+

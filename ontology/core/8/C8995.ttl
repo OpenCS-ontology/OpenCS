@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8995 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/WebFinger> ;
+    skos:prefLabel "WebFinger" ;
+    skos:related ocs:C14360,
+        ocs:C14857,
+        ocs:C1650,
+        ocs:C18213,
+        ocs:C22246,
+        ocs:C22597,
+        ocs:C23851,
+        ocs:C25316,
+        ocs:C2931,
+        ocs:C31,
+        ocs:C31756,
+        ocs:C37731,
+        ocs:C44603,
+        ocs:C45147,
+        ocs:C45523,
+        ocs:C4657,
+        ocs:C6872,
+        ocs:C8515,
+        ocs:C8577,
+        ocs:C8614 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20871 a skos:Concept ;
+    skos:broader ocs:C12484,
+        ocs:C1935,
+        ocs:C5469,
+        ocs:C6942 ;
+    skos:closeMatch <http://dbpedia.org/resource/CIE_1931_color_space> ;
+    skos:prefLabel "CIE 1931 color space" ;
+    skos:related ocs:C11670,
+        ocs:C12849,
+        ocs:C13544,
+        ocs:C16674,
+        ocs:C1688,
+        ocs:C17520,
+        ocs:C1935,
+        ocs:C20260,
+        ocs:C22083,
+        ocs:C41483,
+        ocs:C41646,
+        ocs:C45041,
+        ocs:C5469,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C8099,
+        ocs:C8622 .
+

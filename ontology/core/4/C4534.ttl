@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4534 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geospatial_analysis> ;
+    skos:prefLabel "Geospatial analysis" ;
+    skos:related ocs:C11862,
+        ocs:C11879,
+        ocs:C2115,
+        ocs:C22003,
+        ocs:C22279,
+        ocs:C24208,
+        ocs:C35396,
+        ocs:C37642,
+        ocs:C44189 .
+

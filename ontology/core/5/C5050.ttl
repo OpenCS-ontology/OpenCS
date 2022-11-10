@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5050 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Context_of_computational_complexity> ;
+    skos:prefLabel "Context of computational complexity" ;
+    skos:related ocs:C11443,
+        ocs:C16696,
+        ocs:C18221,
+        ocs:C20382,
+        ocs:C23023,
+        ocs:C24320,
+        ocs:C25360,
+        ocs:C33982,
+        ocs:C36074,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C39725,
+        ocs:C41116,
+        ocs:C44665,
+        ocs:C611,
+        ocs:C7677,
+        ocs:C8660 .
+

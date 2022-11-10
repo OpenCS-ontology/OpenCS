@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11480 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-Machine_Testing> ;
+    skos:prefLabel "X-Machine Testing" ;
+    skos:related ocs:C12495,
+        ocs:C18415,
+        ocs:C2418,
+        ocs:C30215,
+        ocs:C3177,
+        ocs:C32946,
+        ocs:C34601,
+        ocs:C36470,
+        ocs:C37292,
+        ocs:C38557,
+        ocs:C41342,
+        ocs:C42155,
+        ocs:C42276,
+        ocs:C42333,
+        ocs:C44158,
+        ocs:C6150,
+        ocs:C7903,
+        ocs:C8786,
+        ocs:C8791 .
+

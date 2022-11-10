@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24002 a skos:Concept ;
+    skos:broader ocs:C1092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Informal_inferential_reasoning> ;
+    skos:prefLabel "Informal inferential reasoning" ;
+    skos:related ocs:C10551,
+        ocs:C13,
+        ocs:C13540,
+        ocs:C14620,
+        ocs:C21,
+        ocs:C25711,
+        ocs:C26880,
+        ocs:C33349,
+        ocs:C41574,
+        ocs:C6363,
+        ocs:C9428,
+        ocs:C9488,
+        ocs:C9740 .
+

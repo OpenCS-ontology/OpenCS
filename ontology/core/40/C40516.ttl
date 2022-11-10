@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40516 a skos:Concept ;
+    skos:broader ocs:C36203 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extraterrestrial_liquid_water> ;
+    skos:prefLabel "Extraterrestrial liquid water" ;
+    skos:related ocs:C14270,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C32417,
+        ocs:C35196,
+        ocs:C36203,
+        ocs:C42138,
+        ocs:C45241 .
+

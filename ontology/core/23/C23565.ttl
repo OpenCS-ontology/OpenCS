@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23565 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C3343 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_network_analysis> ;
+    skos:prefLabel "Organizational network analysis" ;
+    skos:related ocs:C11026,
+        ocs:C12305,
+        ocs:C14528,
+        ocs:C15047,
+        ocs:C1630,
+        ocs:C17471,
+        ocs:C17671,
+        ocs:C18571,
+        ocs:C18683,
+        ocs:C20012,
+        ocs:C20170,
+        ocs:C20376,
+        ocs:C28521,
+        ocs:C32056,
+        ocs:C34224 .
+

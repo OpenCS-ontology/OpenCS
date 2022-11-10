@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11182 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aboutness> ;
+    skos:prefLabel "Aboutness" ;
+    skos:related ocs:C11874,
+        ocs:C16964,
+        ocs:C27199,
+        ocs:C28463,
+        ocs:C35873,
+        ocs:C8200 .
+

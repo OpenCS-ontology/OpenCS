@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32080 a skos:Concept ;
+    skos:broader ocs:C18411,
+        ocs:C21627,
+        ocs:C22273,
+        ocs:C23247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstract_semantic_graph> ;
+    skos:prefLabel "Abstract semantic graph" ;
+    skos:related ocs:C12023,
+        ocs:C13751,
+        ocs:C14693,
+        ocs:C15414,
+        ocs:C19,
+        ocs:C20679,
+        ocs:C21627,
+        ocs:C22273,
+        ocs:C22624,
+        ocs:C27892,
+        ocs:C30796,
+        ocs:C3484,
+        ocs:C40588,
+        ocs:C4214,
+        ocs:C4321,
+        ocs:C4869,
+        ocs:C524,
+        ocs:C6941,
+        ocs:C794 .
+

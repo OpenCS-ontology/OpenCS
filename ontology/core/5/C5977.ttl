@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5977 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_mobilization> ;
+    skos:prefLabel "Knowledge mobilization" ;
+    skos:related ocs:C10057,
+        ocs:C10061,
+        ocs:C11021,
+        ocs:C11657,
+        ocs:C11762,
+        ocs:C12,
+        ocs:C13524,
+        ocs:C13809,
+        ocs:C32616,
+        ocs:C35311,
+        ocs:C4003,
+        ocs:C6551,
+        ocs:C9058 .
+

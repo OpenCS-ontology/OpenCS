@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41892 a skos:Concept ;
+    skos:broader ocs:C30858,
+        ocs:C35924,
+        ocs:C37170 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partition_of_sums_of_squares> ;
+    skos:prefLabel "Partition of sums of squares" ;
+    skos:related ocs:C10138,
+        ocs:C11767,
+        ocs:C11986,
+        ocs:C13789,
+        ocs:C15258,
+        ocs:C18565,
+        ocs:C23554,
+        ocs:C26880,
+        ocs:C30858,
+        ocs:C37170,
+        ocs:C41057,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C8456 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32782 a skos:Concept ;
+    skos:broader ocs:C18613,
+        ocs:C19542,
+        ocs:C29411 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_generalization> ;
+    skos:prefLabel "Type generalization" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C1142,
+        ocs:C12584,
+        ocs:C16290,
+        ocs:C17734,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C27131,
+        ocs:C29790,
+        ocs:C3036,
+        ocs:C32814,
+        ocs:C3282,
+        ocs:C33806,
+        ocs:C36327,
+        ocs:C5308,
+        ocs:C659,
+        ocs:C9033 .
+

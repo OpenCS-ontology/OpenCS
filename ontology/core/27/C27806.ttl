@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27806 a skos:Concept ;
+    skos:broader ocs:C4819 ;
+    skos:closeMatch <http://dbpedia.org/resource/Participatory_evaluation> ;
+    skos:prefLabel "Participatory evaluation" ;
+    skos:related ocs:C28896,
+        ocs:C31253,
+        ocs:C5660,
+        ocs:C8445 .
+

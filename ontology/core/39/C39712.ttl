@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39712 a skos:Concept ;
+    skos:broader ocs:C29843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proof_of_O(log*n)_time_complexity_of_union–find> ;
+    skos:prefLabel "Proof of O(log*n) time complexity of union–find" ;
+    skos:related ocs:C14255,
+        ocs:C16957,
+        ocs:C19352,
+        ocs:C26456,
+        ocs:C3339,
+        ocs:C43884,
+        ocs:C4788 .
+

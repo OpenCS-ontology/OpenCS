@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7255 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compact_disc> ;
+    skos:prefLabel "Compact disc" ;
+    skos:related ocs:C11254,
+        ocs:C25195,
+        ocs:C3022,
+        ocs:C34571,
+        ocs:C4916,
+        ocs:C520,
+        ocs:C7279,
+        ocs:C8614 .
+

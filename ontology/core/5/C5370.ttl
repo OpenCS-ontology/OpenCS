@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5370 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Informal_mathematics> ;
+    skos:prefLabel "Informal mathematics" ;
+    skos:related ocs:C12474,
+        ocs:C13511,
+        ocs:C25442,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C5251 .
+

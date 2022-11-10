@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3120 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_access> ;
+    skos:prefLabel "Sequential access" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C13783,
+        ocs:C16028,
+        ocs:C1627,
+        ocs:C17698,
+        ocs:C23443,
+        ocs:C25057,
+        ocs:C2885,
+        ocs:C32507,
+        ocs:C34716,
+        ocs:C35199,
+        ocs:C36074,
+        ocs:C36120,
+        ocs:C4046,
+        ocs:C41255,
+        ocs:C45372,
+        ocs:C5722 .
+

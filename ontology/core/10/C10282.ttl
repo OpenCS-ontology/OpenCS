@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10282 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/DROWN_attack> ;
+    skos:prefLabel "DROWN attack" ;
+    skos:related ocs:C13384,
+        ocs:C17399,
+        ocs:C20243,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C35146,
+        ocs:C36896,
+        ocs:C38524,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C42100,
+        ocs:C45747,
+        ocs:C5471,
+        ocs:C6190,
+        ocs:C8355 .
+

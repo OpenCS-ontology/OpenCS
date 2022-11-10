@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5004 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_publishing> ;
+    skos:prefLabel "Published Database" ;
+    skos:related ocs:C1,
+        ocs:C10566,
+        ocs:C11691,
+        ocs:C8753 .
+

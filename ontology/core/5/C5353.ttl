@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5353 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-based_systems_engineering> ;
+    skos:prefLabel "Model-based systems engineering" ;
+    skos:related ocs:C13152,
+        ocs:C205,
+        ocs:C2214,
+        ocs:C23314,
+        ocs:C23394,
+        ocs:C28454,
+        ocs:C30528,
+        ocs:C31773,
+        ocs:C32650,
+        ocs:C3674,
+        ocs:C3748,
+        ocs:C37920,
+        ocs:C38363,
+        ocs:C43602,
+        ocs:C44988,
+        ocs:C7871 .
+

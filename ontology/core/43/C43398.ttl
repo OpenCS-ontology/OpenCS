@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43398 a skos:Concept ;
+    skos:broader ocs:C34165,
+        ocs:C35234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kelly_network> ;
+    skos:prefLabel "Kelly network" ;
+    skos:related ocs:C12373,
+        ocs:C16039,
+        ocs:C18439,
+        ocs:C23261,
+        ocs:C27599,
+        ocs:C29900,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C31803,
+        ocs:C32553,
+        ocs:C32623,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C39886,
+        ocs:C40289,
+        ocs:C41000,
+        ocs:C43132,
+        ocs:C44861,
+        ocs:C45179 .
+

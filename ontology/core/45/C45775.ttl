@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45775 a skos:Concept ;
+    skos:broader ocs:C30561,
+        ocs:C31256,
+        ocs:C31397,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C33275,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloning_(programming)> ;
+    skos:prefLabel "Cloning (programming)" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C1142,
+        ocs:C11826,
+        ocs:C12584,
+        ocs:C17734,
+        ocs:C21265,
+        ocs:C23909,
+        ocs:C33311,
+        ocs:C36614,
+        ocs:C37844,
+        ocs:C38027,
+        ocs:C40193,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C8945 .
+

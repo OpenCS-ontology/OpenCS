@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1096 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kleene_fixed-point_theorem> ;
+    skos:prefLabel "Kleene fixed-point theorem" ;
+    skos:related ocs:C15800,
+        ocs:C1631,
+        ocs:C29139,
+        ocs:C42207 .
+

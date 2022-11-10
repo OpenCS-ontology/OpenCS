@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39303 a skos:Concept ;
+    skos:broader ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Array_slicing> ;
+    skos:prefLabel "Array slicing" ;
+    skos:related ocs:C10384,
+        ocs:C10720,
+        ocs:C11991,
+        ocs:C1333,
+        ocs:C17316,
+        ocs:C19,
+        ocs:C21621,
+        ocs:C2882,
+        ocs:C32226,
+        ocs:C42939,
+        ocs:C4321,
+        ocs:C6178,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8864 .
+

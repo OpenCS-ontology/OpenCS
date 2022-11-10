@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39728 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/NeOn_Toolkit> ;
+    skos:prefLabel "NeOn Toolkit" ;
+    skos:related ocs:C12977,
+        ocs:C13181,
+        ocs:C2313,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C3396,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C41212,
+        ocs:C41822,
+        ocs:C41864,
+        ocs:C42124,
+        ocs:C43831,
+        ocs:C44161,
+        ocs:C45752,
+        ocs:C4985,
+        ocs:C7500,
+        ocs:C9836 .
+

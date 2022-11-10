@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40444 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/BX442> ;
+    skos:prefLabel "BX442" ;
+    skos:related ocs:C17246,
+        ocs:C23077,
+        ocs:C28402,
+        ocs:C34069,
+        ocs:C40683,
+        ocs:C44731,
+        ocs:C45227 .
+

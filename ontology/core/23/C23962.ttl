@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23962 a skos:Concept ;
+    skos:broader ocs:C3740 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_tomography> ;
+    skos:prefLabel "Discrete tomography" ;
+    skos:related ocs:C10,
+        ocs:C12254,
+        ocs:C22614,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C28701,
+        ocs:C34134,
+        ocs:C39136,
+        ocs:C751 .
+

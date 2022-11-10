@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45646 a skos:Concept ;
+    skos:broader ocs:C36893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kepler's_equation> ;
+    skos:prefLabel "Kepler's equation" ;
+    skos:related ocs:C19177,
+        ocs:C31029,
+        ocs:C33914,
+        ocs:C36893,
+        ocs:C37916,
+        ocs:C38002 .
+

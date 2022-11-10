@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28007 a skos:Concept ;
+    skos:broader ocs:C10917,
+        ocs:C13511,
+        ocs:C1451,
+        ocs:C7733 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_for_Computable_Functions> ;
+    skos:prefLabel "Logic for Computable Functions" ;
+    skos:related ocs:C11062,
+        ocs:C17696,
+        ocs:C18691,
+        ocs:C21497,
+        ocs:C22394,
+        ocs:C23248,
+        ocs:C2418,
+        ocs:C27091,
+        ocs:C27837,
+        ocs:C28895,
+        ocs:C29517,
+        ocs:C38070,
+        ocs:C45817,
+        ocs:C4756,
+        ocs:C5517,
+        ocs:C6390,
+        ocs:C6492,
+        ocs:C6918,
+        ocs:C8534 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7239 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_theft> ;
+    skos:prefLabel "Data theft" ;
+    skos:related ocs:C1399,
+        ocs:C17046,
+        ocs:C171,
+        ocs:C17205,
+        ocs:C18618,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C44016,
+        ocs:C6,
+        ocs:C6223,
+        ocs:C6753,
+        ocs:C7113,
+        ocs:C9 .
+

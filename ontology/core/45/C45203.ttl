@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45203 a skos:Concept ;
+    skos:broader ocs:C31489,
+        ocs:C32522 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_system_(computing)> ;
+    skos:prefLabel "Open system (computing)" ;
+    skos:related ocs:C1165,
+        ocs:C12257,
+        ocs:C12851,
+        ocs:C13144,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C18991,
+        ocs:C20800,
+        ocs:C25252,
+        ocs:C29544,
+        ocs:C31489,
+        ocs:C36897,
+        ocs:C37440,
+        ocs:C38885,
+        ocs:C41115,
+        ocs:C567,
+        ocs:C9,
+        ocs:C9035 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22054 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Old_English_grammar> ;
+    skos:prefLabel "Old English grammar" ;
+    skos:related ocs:C15021,
+        ocs:C20344,
+        ocs:C20870,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C32280,
+        ocs:C33735 .
+

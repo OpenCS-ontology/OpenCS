@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15418 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Karatsuba_algorithm> ;
+    skos:prefLabel "Karatsuba algorithm" ;
+    skos:related ocs:C10,
+        ocs:C11308,
+        ocs:C11443,
+        ocs:C12262,
+        ocs:C2747,
+        ocs:C3081,
+        ocs:C33927,
+        ocs:C36120,
+        ocs:C39716,
+        ocs:C6128,
+        ocs:C6550,
+        ocs:C8581 .
+

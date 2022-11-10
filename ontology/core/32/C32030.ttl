@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32030 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/KCNJ10> ;
+    skos:prefLabel "KCNJ10" ;
+    skos:related ocs:C30188,
+        ocs:C30803,
+        ocs:C36044,
+        ocs:C38165 .
+

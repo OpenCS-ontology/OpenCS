@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15143 a skos:Concept ;
+    skos:broader ocs:C11975 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comprehensive_Nuclear-Test-Ban_Treaty> ;
+    skos:prefLabel "Comprehensive Nuclear-Test-Ban Treaty" ;
+    skos:related ocs:C28912 .
+

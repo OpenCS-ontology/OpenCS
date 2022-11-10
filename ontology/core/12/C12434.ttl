@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12434 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_sensitivity> ;
+    skos:prefLabel "Information sensitivity" ;
+    skos:related ocs:C12378,
+        ocs:C1399,
+        ocs:C14105,
+        ocs:C17046,
+        ocs:C17656,
+        ocs:C18977,
+        ocs:C2060,
+        ocs:C28422,
+        ocs:C2970,
+        ocs:C3048,
+        ocs:C31854,
+        ocs:C35,
+        ocs:C37237,
+        ocs:C394,
+        ocs:C45697,
+        ocs:C7113,
+        ocs:C7510,
+        ocs:C8458 .
+

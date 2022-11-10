@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39219 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhinelepis> ;
+    skos:prefLabel "Rhinelepis" ;
+    skos:related ocs:C39594,
+        ocs:C39985,
+        ocs:C40494,
+        ocs:C41191,
+        ocs:C43134,
+        ocs:C44358,
+        ocs:C44786,
+        ocs:C44890,
+        ocs:C45441,
+        ocs:C45689 .
+

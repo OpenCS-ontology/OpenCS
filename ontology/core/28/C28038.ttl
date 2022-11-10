@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28038 a skos:Concept ;
+    skos:broader ocs:C4515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sell_in_May> ;
+    skos:prefLabel "Sell in May" ;
+    skos:related ocs:C4515 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16549 a skos:Concept ;
+    skos:broader ocs:C5862,
+        ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digraphia> ;
+    skos:prefLabel "Digraphia" ;
+    skos:related ocs:C10467,
+        ocs:C23551,
+        ocs:C25538,
+        ocs:C25565,
+        ocs:C27099,
+        ocs:C401,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C6505,
+        ocs:C9777 .
+

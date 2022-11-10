@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21415 a skos:Concept ;
+    skos:broader ocs:C257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffusion_filter> ;
+    skos:prefLabel "Diffusion filter" ;
+    skos:related ocs:C10993,
+        ocs:C11044,
+        ocs:C11391,
+        ocs:C12484,
+        ocs:C14115,
+        ocs:C21360,
+        ocs:C38868,
+        ocs:C5978 .
+

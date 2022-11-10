@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37541 a skos:Concept ;
+    skos:broader ocs:C17596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable_and_attribute_(research)> ;
+    skos:prefLabel "Variable and attribute" ;
+    skos:related ocs:C10211,
+        ocs:C10493,
+        ocs:C12100,
+        ocs:C13744,
+        ocs:C2728,
+        ocs:C28168,
+        ocs:C43372,
+        ocs:C6,
+        ocs:C7161,
+        ocs:C8280,
+        ocs:C8385,
+        ocs:C8387 .
+

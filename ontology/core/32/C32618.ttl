@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32618 a skos:Concept ;
+    skos:broader ocs:C15862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Big_European_Bubble_Chamber> ;
+    skos:prefLabel "Big European Bubble Chamber" ;
+    skos:related ocs:C32279,
+        ocs:C35999 .
+

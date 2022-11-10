@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35528 a skos:Concept ;
+    skos:broader ocs:C23971 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meander_scar> ;
+    skos:prefLabel "Meander scar" ;
+    skos:related ocs:C20613,
+        ocs:C22221,
+        ocs:C23971,
+        ocs:C28088,
+        ocs:C32591,
+        ocs:C35341 .
+

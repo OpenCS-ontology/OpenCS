@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5914 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ackermann_function> ;
+    skos:prefLabel "Ackermann function" ;
+    skos:related ocs:C10917,
+        ocs:C12474,
+        ocs:C18434,
+        ocs:C22069,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28170,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C34540,
+        ocs:C41356,
+        ocs:C41497,
+        ocs:C42577 .
+

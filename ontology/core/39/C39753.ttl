@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39753 a skos:Concept ;
+    skos:broader ocs:C30529,
+        ocs:C37134,
+        ocs:C37538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Index_register> ;
+    skos:prefLabel "Index register" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C12262,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C21718,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C38819,
+        ocs:C3946,
+        ocs:C6280,
+        ocs:C6714,
+        ocs:C856,
+        ocs:C9 .
+

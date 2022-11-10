@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7292 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lamport_signature> ;
+    skos:prefLabel "Lamport signature" ;
+    skos:related ocs:C14164,
+        ocs:C15591,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C26410,
+        ocs:C32484,
+        ocs:C33416,
+        ocs:C37209,
+        ocs:C38277,
+        ocs:C38359,
+        ocs:C38620,
+        ocs:C40413,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C43074,
+        ocs:C5930,
+        ocs:C9369 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35543 a skos:Concept ;
+    skos:broader ocs:C27037 ;
+    skos:closeMatch <http://dbpedia.org/resource/ZZ_diboson> ;
+    skos:prefLabel "ZZ diboson" ;
+    skos:related ocs:C18924,
+        ocs:C21446,
+        ocs:C22996,
+        ocs:C27037,
+        ocs:C32029,
+        ocs:C32279,
+        ocs:C33755,
+        ocs:C35999 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36277 a skos:Concept ;
+    skos:broader ocs:C16529 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commodity_channel_index> ;
+    skos:prefLabel "Commodity channel index" ;
+    skos:related ocs:C13936,
+        ocs:C14656,
+        ocs:C16529,
+        ocs:C18368,
+        ocs:C19457,
+        ocs:C19515,
+        ocs:C27864,
+        ocs:C33562 .
+

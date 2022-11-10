@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5136 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/EEPROM> ;
+    skos:prefLabel "EEPROM" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C11,
+        ocs:C13386,
+        ocs:C13851,
+        ocs:C13875,
+        ocs:C22530,
+        ocs:C23270,
+        ocs:C2936,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C4259,
+        ocs:C43462,
+        ocs:C5970,
+        ocs:C6223,
+        ocs:C7007 .
+

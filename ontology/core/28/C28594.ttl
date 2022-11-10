@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28594 a skos:Concept ;
+    skos:broader ocs:C8325 ;
+    skos:closeMatch <http://dbpedia.org/resource/New_riddle_of_induction> ;
+    skos:prefLabel "New riddle of induction" ;
+    skos:related ocs:C10551,
+        ocs:C20318,
+        ocs:C6290,
+        ocs:C7467 .
+

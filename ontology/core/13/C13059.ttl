@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13059 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reverse_image_search> ;
+    skos:prefLabel "Reverse image search" ;
+    skos:related ocs:C11087,
+        ocs:C11126,
+        ocs:C14082,
+        ocs:C15008,
+        ocs:C20377,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C27712,
+        ocs:C3063,
+        ocs:C31,
+        ocs:C35539,
+        ocs:C37748,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C5462,
+        ocs:C5675,
+        ocs:C9312,
+        ocs:C9876 .
+

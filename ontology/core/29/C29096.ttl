@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29096 a skos:Concept ;
+    skos:broader ocs:C6692,
+        ocs:C8516,
+        ocs:C9326 ;
+    skos:prefLabel "Posterior probability density function" .
+

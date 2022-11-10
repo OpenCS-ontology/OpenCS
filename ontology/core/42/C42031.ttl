@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42031 a skos:Concept ;
+    skos:broader ocs:C30215 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data-driven_testing> ;
+    skos:prefLabel "Data-driven testing" ;
+    skos:related ocs:C11293,
+        ocs:C1253,
+        ocs:C12810,
+        ocs:C14632,
+        ocs:C18415,
+        ocs:C20063,
+        ocs:C26460,
+        ocs:C28801,
+        ocs:C29790,
+        ocs:C34601,
+        ocs:C36470,
+        ocs:C38219,
+        ocs:C41342,
+        ocs:C5034,
+        ocs:C5698,
+        ocs:C6,
+        ocs:C6150,
+        ocs:C8895 .
+

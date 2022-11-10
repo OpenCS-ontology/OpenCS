@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37499 a skos:Concept ;
+    skos:broader ocs:C22696 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emperor_scorpion> ;
+    skos:prefLabel "Emperor scorpion" ;
+    skos:related ocs:C21070,
+        ocs:C22696,
+        ocs:C33053,
+        ocs:C44534 .
+

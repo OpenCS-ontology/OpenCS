@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11331 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rasiowa–Sikorski_lemma> ;
+    skos:prefLabel "Rasiowa–Sikorski lemma" ;
+    skos:related ocs:C12474,
+        ocs:C15010,
+        ocs:C16190,
+        ocs:C24167,
+        ocs:C24910,
+        ocs:C30150,
+        ocs:C32645,
+        ocs:C33304,
+        ocs:C44499,
+        ocs:C5251,
+        ocs:C5420 .
+

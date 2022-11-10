@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24003 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12647,
+        ocs:C13006,
+        ocs:C8090 ;
+    skos:prefLabel "Spoken language comprehension" ;
+    skos:related ocs:C14410,
+        ocs:C16,
+        ocs:C18082,
+        ocs:C2761,
+        ocs:C3061,
+        ocs:C6764,
+        ocs:C8725 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13519 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_antenna> ;
+    skos:prefLabel "Active antenna" ;
+    skos:related ocs:C1219,
+        ocs:C15030,
+        ocs:C25341,
+        ocs:C32552,
+        ocs:C37939,
+        ocs:C38830,
+        ocs:C40585,
+        ocs:C41197,
+        ocs:C41367,
+        ocs:C41732,
+        ocs:C44637,
+        ocs:C5397,
+        ocs:C5618,
+        ocs:C9691 .
+

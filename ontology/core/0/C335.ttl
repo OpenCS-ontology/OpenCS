@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C335 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C7 ;
+    skos:prefLabel "Visual Feedbacks" ;
+    skos:related ocs:C12976,
+        ocs:C13320,
+        ocs:C17,
+        ocs:C18,
+        ocs:C22,
+        ocs:C4809,
+        ocs:C7736,
+        ocs:C7848,
+        ocs:C9603 .
+

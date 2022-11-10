@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13793 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_puzzle> ;
+    skos:prefLabel "Mathematical puzzle" ;
+    skos:related ocs:C10,
+        ocs:C14693,
+        ocs:C4218,
+        ocs:C5137,
+        ocs:C5242,
+        ocs:C8279 .
+

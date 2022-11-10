@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37753 a skos:Concept ;
+    skos:broader ocs:C28557 ;
+    skos:closeMatch <http://dbpedia.org/resource/SFpark> ;
+    skos:prefLabel "SFpark" ;
+    skos:related ocs:C10550,
+        ocs:C13168,
+        ocs:C14215,
+        ocs:C25914,
+        ocs:C29481,
+        ocs:C36689,
+        ocs:C9113 .
+

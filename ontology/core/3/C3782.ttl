@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3782 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Band_IV> ;
+    skos:prefLabel "Band IV" ;
+    skos:related ocs:C11718,
+        ocs:C11863,
+        ocs:C1460,
+        ocs:C2581,
+        ocs:C39135,
+        ocs:C41805,
+        ocs:C512,
+        ocs:C7216,
+        ocs:C7746,
+        ocs:C8612,
+        ocs:C8636 .
+

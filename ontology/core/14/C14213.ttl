@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14213 a skos:Concept ;
+    skos:broader ocs:C11413,
+        ocs:C1142,
+        ocs:C1253,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Component_Pascal> ;
+    skos:prefLabel "Component Pascal" ;
+    skos:related ocs:C10720,
+        ocs:C1085,
+        ocs:C11293,
+        ocs:C11413,
+        ocs:C1142,
+        ocs:C11661,
+        ocs:C13624,
+        ocs:C14929,
+        ocs:C19,
+        ocs:C22144,
+        ocs:C23909,
+        ocs:C24521,
+        ocs:C27954,
+        ocs:C31404,
+        ocs:C801,
+        ocs:C9033,
+        ocs:C9171 .
+

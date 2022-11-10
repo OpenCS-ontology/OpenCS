@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23082 a skos:Concept ;
+    skos:broader ocs:C4026,
+        ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_collision_avoidance_system> ;
+    skos:prefLabel "Traffic collision avoidance system" ;
+    skos:related ocs:C12641,
+        ocs:C13785,
+        ocs:C15050,
+        ocs:C16585,
+        ocs:C18996,
+        ocs:C20630,
+        ocs:C21142,
+        ocs:C23477,
+        ocs:C28020,
+        ocs:C31202,
+        ocs:C36681,
+        ocs:C36804,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C511 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23197 a skos:Concept ;
+    skos:broader ocs:C5820 ;
+    skos:closeMatch <http://dbpedia.org/resource/Luciola> ;
+    skos:prefLabel "Luciola" ;
+    skos:related ocs:C30889,
+        ocs:C33992,
+        ocs:C34268,
+        ocs:C36212,
+        ocs:C37615,
+        ocs:C42703 .
+

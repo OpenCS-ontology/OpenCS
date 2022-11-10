@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16780 a skos:Concept ;
+    skos:broader ocs:C12077,
+        ocs:C248,
+        ocs:C5750,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_link_matching> ;
+    skos:prefLabel "Dynamic link matching" ;
+    skos:related ocs:C16355,
+        ocs:C248,
+        ocs:C26827,
+        ocs:C30653,
+        ocs:C30925,
+        ocs:C35104,
+        ocs:C38298,
+        ocs:C38465,
+        ocs:C38730,
+        ocs:C41647,
+        ocs:C42094,
+        ocs:C43013,
+        ocs:C43495,
+        ocs:C44865,
+        ocs:C45070,
+        ocs:C45530 .
+

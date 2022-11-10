@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9028 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/S-LINK> ;
+    skos:prefLabel "S-LINK" ;
+    skos:related ocs:C10320,
+        ocs:C32279,
+        ocs:C35999 .
+

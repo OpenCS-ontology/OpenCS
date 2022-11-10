@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2716 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zobel_network> ;
+    skos:prefLabel "Zobel network" ;
+    skos:related ocs:C11554,
+        ocs:C15194,
+        ocs:C23074,
+        ocs:C25026,
+        ocs:C32519,
+        ocs:C38695,
+        ocs:C40590,
+        ocs:C40654,
+        ocs:C6913,
+        ocs:C926 .
+

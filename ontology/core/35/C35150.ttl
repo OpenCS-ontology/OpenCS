@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35150 a skos:Concept ;
+    skos:broader ocs:C17432 ;
+    skos:closeMatch <http://dbpedia.org/resource/IMD3> ;
+    skos:prefLabel "IMD3" ;
+    skos:related ocs:C1564,
+        ocs:C29220,
+        ocs:C3843,
+        ocs:C44863,
+        ocs:C5506,
+        ocs:C9345 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40454 a skos:Concept ;
+    skos:broader ocs:C36707 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subcarrier_multiplexing> ;
+    skos:prefLabel "Subcarrier multiplexing" ;
+    skos:related ocs:C12942,
+        ocs:C16022,
+        ocs:C19721,
+        ocs:C24781,
+        ocs:C28404,
+        ocs:C35301,
+        ocs:C45690,
+        ocs:C5282 .
+

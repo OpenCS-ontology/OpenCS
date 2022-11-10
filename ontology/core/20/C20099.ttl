@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20099 a skos:Concept ;
+    skos:broader ocs:C8725 ;
+    skos:closeMatch <http://dbpedia.org/resource/Volatility,_uncertainty,_complexity_and_ambiguity> ;
+    skos:prefLabel "Volatility, uncertainty, complexity and ambiguity" ;
+    skos:related ocs:C12578,
+        ocs:C1332,
+        ocs:C14592,
+        ocs:C21018,
+        ocs:C21881,
+        ocs:C23671,
+        ocs:C33238,
+        ocs:C40481,
+        ocs:C8725 .
+

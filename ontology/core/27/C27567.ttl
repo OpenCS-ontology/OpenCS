@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27567 a skos:Concept ;
+    skos:broader ocs:C10211,
+        ocs:C12255,
+        ocs:C2304,
+        ocs:C6944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_firm> ;
+    skos:prefLabel "Digital firm" ;
+    skos:related ocs:C10764,
+        ocs:C12,
+        ocs:C15562,
+        ocs:C2304,
+        ocs:C23103,
+        ocs:C25464,
+        ocs:C2979,
+        ocs:C35701,
+        ocs:C35871,
+        ocs:C44052,
+        ocs:C45247,
+        ocs:C4768,
+        ocs:C5056,
+        ocs:C675 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8192 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xor-encrypt-xor> ;
+    skos:prefLabel "Xor-encrypt-xor" ;
+    skos:related ocs:C11716,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C25500,
+        ocs:C26691,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C32518,
+        ocs:C33459,
+        ocs:C34895,
+        ocs:C35300,
+        ocs:C38115,
+        ocs:C38999,
+        ocs:C39657,
+        ocs:C44003,
+        ocs:C44870,
+        ocs:C45551,
+        ocs:C4751 .
+

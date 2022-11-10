@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40768 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_filter> ;
+    skos:prefLabel "Audio filter" ;
+    skos:related ocs:C14262,
+        ocs:C1449,
+        ocs:C15194,
+        ocs:C21364,
+        ocs:C23307,
+        ocs:C38517,
+        ocs:C44671,
+        ocs:C44704,
+        ocs:C5790,
+        ocs:C6417 .
+

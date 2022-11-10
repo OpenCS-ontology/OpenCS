@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14172 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Media_conglomerate> ;
+    skos:prefLabel "Media conglomerate" ;
+    skos:related ocs:C12999,
+        ocs:C23964,
+        ocs:C28716,
+        ocs:C37687,
+        ocs:C5746,
+        ocs:C6219,
+        ocs:C8614 .
+

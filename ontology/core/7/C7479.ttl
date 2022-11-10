@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7479 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:prefLabel "Computer pattern recognition" ;
+    skos:related ocs:C10554,
+        ocs:C16,
+        ocs:C25,
+        ocs:C36403,
+        ocs:C3847,
+        ocs:C4256,
+        ocs:C7 .
+

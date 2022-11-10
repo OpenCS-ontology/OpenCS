@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19573 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learning_with_errors> ;
+    skos:prefLabel "Learning with errors" ;
+    skos:related ocs:C13632,
+        ocs:C1511,
+        ocs:C16125,
+        ocs:C28075,
+        ocs:C28347,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C34794,
+        ocs:C35600,
+        ocs:C36434,
+        ocs:C38277,
+        ocs:C38359,
+        ocs:C40480,
+        ocs:C41786,
+        ocs:C43409,
+        ocs:C45656,
+        ocs:C6727 .
+

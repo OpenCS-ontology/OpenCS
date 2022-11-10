@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3334 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sync_(Unix)> ;
+    skos:prefLabel "sync" ;
+    skos:related ocs:C1048,
+        ocs:C12683,
+        ocs:C13783,
+        ocs:C14271,
+        ocs:C14625,
+        ocs:C19000,
+        ocs:C20800,
+        ocs:C22569,
+        ocs:C30866,
+        ocs:C31489,
+        ocs:C37404,
+        ocs:C40763,
+        ocs:C43104,
+        ocs:C43822,
+        ocs:C7476,
+        ocs:C8323 .
+

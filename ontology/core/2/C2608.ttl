@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2608 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Anatomical part" ;
+    skos:related ocs:C1443,
+        ocs:C2,
+        ocs:C21,
+        ocs:C22,
+        ocs:C2369,
+        ocs:C5702,
+        ocs:C6764,
+        ocs:C8021 .
+

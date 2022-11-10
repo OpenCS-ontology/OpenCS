@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1857 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Academic_integrity> ;
+    skos:prefLabel "Academic integrity" ;
+    skos:related ocs:C10560,
+        ocs:C17380,
+        ocs:C1804,
+        ocs:C20985,
+        ocs:C5150 .
+

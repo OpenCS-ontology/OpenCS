@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39607 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Namespace> ;
+    skos:prefLabel "Global Namespace" ;
+    skos:related ocs:C13004,
+        ocs:C14627,
+        ocs:C21306,
+        ocs:C26499,
+        ocs:C29846,
+        ocs:C32389,
+        ocs:C379,
+        ocs:C38032,
+        ocs:C39186,
+        ocs:C39275,
+        ocs:C40587,
+        ocs:C41604,
+        ocs:C42426,
+        ocs:C45269,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9 .
+

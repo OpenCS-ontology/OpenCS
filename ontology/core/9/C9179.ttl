@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9179 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Response_time_(technology)> ;
+    skos:prefLabel "Response time" ;
+    skos:related ocs:C11,
+        ocs:C11328,
+        ocs:C11408,
+        ocs:C1259,
+        ocs:C13679,
+        ocs:C18036,
+        ocs:C24590,
+        ocs:C3374,
+        ocs:C4856,
+        ocs:C515,
+        ocs:C5616,
+        ocs:C8021 .
+

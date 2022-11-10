@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39575 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trimmed_estimator> ;
+    skos:prefLabel "Trimmed estimator" ;
+    skos:related ocs:C13685,
+        ocs:C22455,
+        ocs:C25294,
+        ocs:C25320,
+        ocs:C28243,
+        ocs:C30859,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5296 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware-in-the-loop_simulation> ;
+    skos:prefLabel "Hardware-in-the-loop simulation" ;
+    skos:related ocs:C11,
+        ocs:C11668,
+        ocs:C16191,
+        ocs:C21250,
+        ocs:C24,
+        ocs:C28808,
+        ocs:C33,
+        ocs:C4176,
+        ocs:C45208,
+        ocs:C7256 .
+

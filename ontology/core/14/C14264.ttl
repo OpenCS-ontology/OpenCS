@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14264 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sodium_channel> ;
+    skos:prefLabel "Sodium channel" ;
+    skos:related ocs:C18138,
+        ocs:C23973,
+        ocs:C25667,
+        ocs:C36128,
+        ocs:C37784 .
+

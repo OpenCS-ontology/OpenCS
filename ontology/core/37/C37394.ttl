@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37394 a skos:Concept ;
+    skos:broader ocs:C16954,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C27111,
+        ocs:C27827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free_boundary_condition> ;
+    skos:prefLabel "Free boundary condition" ;
+    skos:related ocs:C11150,
+        ocs:C11253,
+        ocs:C13065,
+        ocs:C13970,
+        ocs:C14863,
+        ocs:C17154,
+        ocs:C21200,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C28285,
+        ocs:C31308,
+        ocs:C32156,
+        ocs:C32358,
+        ocs:C37582,
+        ocs:C38864,
+        ocs:C40344,
+        ocs:C5769,
+        ocs:C7 .
+

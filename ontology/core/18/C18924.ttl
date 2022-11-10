@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18924 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search_for_the_Higgs_boson> ;
+    skos:prefLabel "Search for the Higgs boson" ;
+    skos:related ocs:C22996,
+        ocs:C27037,
+        ocs:C32279,
+        ocs:C35999,
+        ocs:C597 .
+

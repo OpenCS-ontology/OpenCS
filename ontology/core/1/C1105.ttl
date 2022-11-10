@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1105 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_learning_machine> ;
+    skos:prefLabel "Logic learning machine" ;
+    skos:related ocs:C13,
+        ocs:C14221,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C22089,
+        ocs:C22643,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C25520,
+        ocs:C28173,
+        ocs:C3063,
+        ocs:C31630,
+        ocs:C6021,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9874 .
+

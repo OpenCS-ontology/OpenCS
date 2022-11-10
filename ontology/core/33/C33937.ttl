@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33937 a skos:Concept ;
+    skos:broader ocs:C17378,
+        ocs:C17445,
+        ocs:C22451,
+        ocs:C24264,
+        ocs:C26405 ;
+    skos:prefLabel "Limiter discriminator integrator" .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14999 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equative> ;
+    skos:prefLabel "Equative" ;
+    skos:related ocs:C12270,
+        ocs:C15012,
+        ocs:C15202,
+        ocs:C16424,
+        ocs:C20144,
+        ocs:C20577,
+        ocs:C23243,
+        ocs:C25696,
+        ocs:C26816,
+        ocs:C28646,
+        ocs:C30451,
+        ocs:C32159,
+        ocs:C9158 .
+

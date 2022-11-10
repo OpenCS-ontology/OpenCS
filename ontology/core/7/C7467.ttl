@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7467 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Philosophy_of_language> ;
+    skos:prefLabel "Philosophy of language" ;
+    skos:related ocs:C1443,
+        ocs:C1451 .
+

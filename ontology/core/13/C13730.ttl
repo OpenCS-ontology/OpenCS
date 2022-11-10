@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13730 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Face-to-face_interaction> ;
+    skos:prefLabel "Face-to-face interaction" ;
+    skos:related ocs:C11026,
+        ocs:C13710,
+        ocs:C23866,
+        ocs:C29320,
+        ocs:C8614 .
+

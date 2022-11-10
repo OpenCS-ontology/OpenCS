@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15855 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C2464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_widget> ;
+    skos:prefLabel "Web widget" ;
+    skos:related ocs:C11927,
+        ocs:C12810,
+        ocs:C17658,
+        ocs:C18985,
+        ocs:C22668,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C2592,
+        ocs:C2674,
+        ocs:C2812,
+        ocs:C28533,
+        ocs:C28801,
+        ocs:C2941,
+        ocs:C2946,
+        ocs:C31,
+        ocs:C40049,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5702,
+        ocs:C9 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10569 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interactive_television> ;
+    skos:prefLabel "Interactive television" ;
+    skos:related ocs:C1253,
+        ocs:C12544,
+        ocs:C1496,
+        ocs:C18697,
+        ocs:C18701,
+        ocs:C20140,
+        ocs:C2188,
+        ocs:C27572,
+        ocs:C30635,
+        ocs:C32488,
+        ocs:C32753,
+        ocs:C33826,
+        ocs:C34890,
+        ocs:C3522,
+        ocs:C35703,
+        ocs:C37338,
+        ocs:C4433,
+        ocs:C8351,
+        ocs:C8614,
+        ocs:C9113 .
+

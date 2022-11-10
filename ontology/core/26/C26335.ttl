@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26335 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Broadcast_journalism> ;
+    skos:prefLabel "Broadcast journalism" ;
+    skos:related ocs:C12999,
+        ocs:C19366,
+        ocs:C25356,
+        ocs:C26020,
+        ocs:C28716,
+        ocs:C42788,
+        ocs:C44034 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15454 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radius_of_convergence> ;
+    skos:prefLabel "Radius of convergence" ;
+    skos:related ocs:C16025,
+        ocs:C18280 .
+

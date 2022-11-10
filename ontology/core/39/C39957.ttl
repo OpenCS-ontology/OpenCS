@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39957 a skos:Concept ;
+    skos:broader ocs:C31573 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hassar_(genus)> ;
+    skos:prefLabel "Hassar" ;
+    skos:related ocs:C39157,
+        ocs:C39528,
+        ocs:C39733,
+        ocs:C39820,
+        ocs:C42044,
+        ocs:C43113 .
+

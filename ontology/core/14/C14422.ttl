@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14422 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_hemisphaerica> ;
+    skos:prefLabel "Quercus hemisphaerica" ;
+    skos:related ocs:C16945,
+        ocs:C19167,
+        ocs:C22994,
+        ocs:C23903,
+        ocs:C23963,
+        ocs:C27095,
+        ocs:C28254,
+        ocs:C28888,
+        ocs:C29547,
+        ocs:C34303,
+        ocs:C34331,
+        ocs:C34699,
+        ocs:C36159,
+        ocs:C37102,
+        ocs:C37450 .
+

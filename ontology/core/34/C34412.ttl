@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34412 a skos:Concept ;
+    skos:broader ocs:C22542,
+        ocs:C25140,
+        ocs:C26348,
+        ocs:C27654 ;
+    skos:closeMatch <http://dbpedia.org/resource/Massive_compact_halo_object> ;
+    skos:prefLabel "Massive compact halo object" ;
+    skos:related ocs:C17246,
+        ocs:C20616,
+        ocs:C22542,
+        ocs:C25140 .
+

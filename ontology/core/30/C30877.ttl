@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30877 a skos:Concept ;
+    skos:broader ocs:C14863 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sobel_operator> ;
+    skos:prefLabel "Sobel operator" ;
+    skos:related ocs:C11150,
+        ocs:C13142,
+        ocs:C14863,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C2801,
+        ocs:C28626,
+        ocs:C32479,
+        ocs:C34906,
+        ocs:C36137,
+        ocs:C37582,
+        ocs:C38864,
+        ocs:C40344,
+        ocs:C43031,
+        ocs:C7,
+        ocs:C8499 .
+

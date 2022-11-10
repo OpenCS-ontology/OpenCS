@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39383 a skos:Concept ;
+    skos:broader ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scheduler_activations> ;
+    skos:prefLabel "Scheduler activations" ;
+    skos:related ocs:C12683,
+        ocs:C14271,
+        ocs:C15595,
+        ocs:C23924,
+        ocs:C26097,
+        ocs:C31489,
+        ocs:C33921,
+        ocs:C41502,
+        ocs:C42619,
+        ocs:C8704,
+        ocs:C9 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12387 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_media> ;
+    skos:prefLabel "Mobile media" ;
+    skos:related ocs:C12641,
+        ocs:C1338,
+        ocs:C16426,
+        ocs:C17,
+        ocs:C21367,
+        ocs:C21424,
+        ocs:C32451,
+        ocs:C35370,
+        ocs:C44996,
+        ocs:C5917,
+        ocs:C5926,
+        ocs:C7393,
+        ocs:C8614,
+        ocs:C9047,
+        ocs:C9113,
+        ocs:C9603 .
+

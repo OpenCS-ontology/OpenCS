@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5985 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_update_client> ;
+    skos:prefLabel "Dynamic update client" ;
+    skos:related ocs:C1524,
+        ocs:C20205,
+        ocs:C24348,
+        ocs:C28911,
+        ocs:C30757,
+        ocs:C31,
+        ocs:C31222,
+        ocs:C32229,
+        ocs:C35801,
+        ocs:C36323,
+        ocs:C38211,
+        ocs:C38408,
+        ocs:C41442,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C43015,
+        ocs:C43392,
+        ocs:C7124,
+        ocs:C8137 .
+

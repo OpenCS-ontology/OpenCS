@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4013 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:prefLabel "Security Measure" ;
+    skos:related ocs:C10445,
+        ocs:C1399,
+        ocs:C17,
+        ocs:C2,
+        ocs:C29,
+        ocs:C30,
+        ocs:C33,
+        ocs:C4434,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C8614 .
+

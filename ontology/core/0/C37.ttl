@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flood_fill> ;
+    skos:prefLabel "Flood fill" ;
+    skos:related ocs:C10,
+        ocs:C13155,
+        ocs:C14406,
+        ocs:C16033,
+        ocs:C18519,
+        ocs:C23309,
+        ocs:C2747,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C30307,
+        ocs:C33348,
+        ocs:C3339,
+        ocs:C3678,
+        ocs:C44133,
+        ocs:C44268,
+        ocs:C4966,
+        ocs:C6697,
+        ocs:C797,
+        ocs:C8660 .
+

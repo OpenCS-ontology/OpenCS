@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1937 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonogram_(linguistics)> ;
+    skos:prefLabel "Phonogram" ;
+    skos:related ocs:C13210,
+        ocs:C15020,
+        ocs:C28082,
+        ocs:C29128,
+        ocs:C36864,
+        ocs:C5609,
+        ocs:C5862 .
+

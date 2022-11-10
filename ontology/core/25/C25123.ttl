@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25123 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deep_packet_inspection> ;
+    skos:prefLabel "Deep packet inspection" ;
+    skos:related ocs:C10565,
+        ocs:C11540,
+        ocs:C13307,
+        ocs:C16181,
+        ocs:C22407,
+        ocs:C23964,
+        ocs:C25291,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C27557,
+        ocs:C3039,
+        ocs:C30502,
+        ocs:C4197,
+        ocs:C43629,
+        ocs:C44266,
+        ocs:C8614 .
+

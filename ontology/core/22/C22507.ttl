@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22507 a skos:Concept ;
+    skos:broader ocs:C3987 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kalman_decomposition> ;
+    skos:prefLabel "Kalman decomposition" ;
+    skos:related ocs:C1447,
+        ocs:C23273,
+        ocs:C25627,
+        ocs:C28698 .
+

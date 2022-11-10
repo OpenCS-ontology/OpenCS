@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6405 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_grid_in_the_United_States> ;
+    skos:prefLabel "Smart grid in the United States" ;
+    skos:related ocs:C17244,
+        ocs:C8386 .
+

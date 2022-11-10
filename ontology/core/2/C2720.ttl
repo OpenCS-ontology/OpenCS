@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2720 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bx-tree> ;
+    skos:prefLabel "Bx-tree" ;
+    skos:related ocs:C11641,
+        ocs:C20046,
+        ocs:C20539,
+        ocs:C2541,
+        ocs:C26515,
+        ocs:C2885,
+        ocs:C29767,
+        ocs:C34001,
+        ocs:C34223,
+        ocs:C36311,
+        ocs:C38550,
+        ocs:C39662,
+        ocs:C40501,
+        ocs:C41265,
+        ocs:C44763,
+        ocs:C45739,
+        ocs:C6,
+        ocs:C8452,
+        ocs:C8893,
+        ocs:C8954 .
+

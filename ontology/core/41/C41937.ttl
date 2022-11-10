@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41937 a skos:Concept ;
+    skos:broader ocs:C36198 ;
+    skos:closeMatch <http://dbpedia.org/resource/ID3_algorithm> ;
+    skos:prefLabel "ID3 algorithm" ;
+    skos:related ocs:C11544,
+        ocs:C13,
+        ocs:C16990,
+        ocs:C2005,
+        ocs:C22432,
+        ocs:C24136,
+        ocs:C25,
+        ocs:C25201,
+        ocs:C25462,
+        ocs:C25520,
+        ocs:C36198,
+        ocs:C39283,
+        ocs:C41777,
+        ocs:C45455,
+        ocs:C7803,
+        ocs:C8443,
+        ocs:C9022 .
+

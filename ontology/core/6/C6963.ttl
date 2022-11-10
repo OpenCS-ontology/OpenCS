@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6963 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_Retrieval_Conference> ;
+    skos:prefLabel "Text Retrieval Conference" ;
+    skos:related ocs:C10966,
+        ocs:C11087,
+        ocs:C11089,
+        ocs:C18,
+        ocs:C20147,
+        ocs:C21157,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C3791,
+        ocs:C40049,
+        ocs:C41195,
+        ocs:C4595,
+        ocs:C4602,
+        ocs:C9876 .
+

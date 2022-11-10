@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30754 a skos:Concept ;
+    skos:broader ocs:C27345 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cicindela_chinensis> ;
+    skos:prefLabel "Cicindela chinensis" ;
+    skos:related ocs:C19503,
+        ocs:C32729,
+        ocs:C33353,
+        ocs:C34145,
+        ocs:C35782,
+        ocs:C36736,
+        ocs:C37142,
+        ocs:C42708,
+        ocs:C44867 .
+

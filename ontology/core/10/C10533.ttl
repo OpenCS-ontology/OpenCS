@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10533 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crystallographic_Information_File> ;
+    skos:prefLabel "Crystallographic Information File" ;
+    skos:related ocs:C21193,
+        ocs:C43142 .
+

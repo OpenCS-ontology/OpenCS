@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44416 a skos:Concept ;
+    skos:broader ocs:C31755,
+        ocs:C32715 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supplementary_service_codes> ;
+    skos:prefLabel "Supplementary service codes" ;
+    skos:related ocs:C1894,
+        ocs:C21976,
+        ocs:C23025,
+        ocs:C24123,
+        ocs:C26262,
+        ocs:C27704,
+        ocs:C29873,
+        ocs:C32715,
+        ocs:C35897,
+        ocs:C38413,
+        ocs:C44125,
+        ocs:C44506,
+        ocs:C45602,
+        ocs:C5917,
+        ocs:C7174,
+        ocs:C9154 .
+

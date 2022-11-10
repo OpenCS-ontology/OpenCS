@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8348 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reflex_receiver> ;
+    skos:prefLabel "Reflex receiver" ;
+    skos:related ocs:C10103,
+        ocs:C10376,
+        ocs:C10974,
+        ocs:C12582,
+        ocs:C19342,
+        ocs:C20333,
+        ocs:C22840,
+        ocs:C28411,
+        ocs:C28744,
+        ocs:C33619,
+        ocs:C4427 .
+

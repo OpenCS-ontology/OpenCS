@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44041 a skos:Concept ;
+    skos:broader ocs:C29871 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amphipholis> ;
+    skos:prefLabel "Amphipholis" ;
+    skos:related ocs:C18918,
+        ocs:C20903,
+        ocs:C23293,
+        ocs:C29871,
+        ocs:C29912,
+        ocs:C34597,
+        ocs:C36916,
+        ocs:C39554,
+        ocs:C41123,
+        ocs:C43517 .
+

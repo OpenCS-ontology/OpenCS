@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C410 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Second-order_cellular_automaton> ;
+    skos:prefLabel "Second-order cellular automaton" ;
+    skos:related ocs:C11282,
+        ocs:C122,
+        ocs:C15534,
+        ocs:C18975,
+        ocs:C22255,
+        ocs:C39305,
+        ocs:C39484,
+        ocs:C42055,
+        ocs:C42099,
+        ocs:C42980,
+        ocs:C43654,
+        ocs:C43807,
+        ocs:C45217 .
+

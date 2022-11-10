@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36012 a skos:Concept ;
+    skos:broader ocs:C22098 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_dipole_approximation_codes> ;
+    skos:prefLabel "Discrete dipole approximation codes" ;
+    skos:related ocs:C11150,
+        ocs:C11443,
+        ocs:C15070,
+        ocs:C597 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24001 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predistortion> ;
+    skos:prefLabel "Predistortion" ;
+    skos:related ocs:C1219,
+        ocs:C2582,
+        ocs:C33619,
+        ocs:C33732,
+        ocs:C37874 .
+

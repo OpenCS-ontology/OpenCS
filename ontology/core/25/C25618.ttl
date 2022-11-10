@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25618 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/SETI@home> ;
+    skos:prefLabel "SETI@home" ;
+    skos:related ocs:C10320,
+        ocs:C12475,
+        ocs:C1904,
+        ocs:C26030,
+        ocs:C27,
+        ocs:C30,
+        ocs:C30525,
+        ocs:C31489,
+        ocs:C40330,
+        ocs:C44397,
+        ocs:C7735,
+        ocs:C8032,
+        ocs:C8614 .
+

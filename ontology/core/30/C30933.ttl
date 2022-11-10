@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30933 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triangle_graph> ;
+    skos:prefLabel "Triangle graph" ;
+    skos:related ocs:C17043,
+        ocs:C30621,
+        ocs:C36330,
+        ocs:C37036,
+        ocs:C38321,
+        ocs:C39477,
+        ocs:C39615,
+        ocs:C39783,
+        ocs:C41969,
+        ocs:C42730,
+        ocs:C43097,
+        ocs:C43125,
+        ocs:C44281,
+        ocs:C45361,
+        ocs:C45648 .
+

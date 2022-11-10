@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38992 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Write-once_(cache_coherence)> ;
+    skos:prefLabel "Write-once" ;
+    skos:related ocs:C10320,
+        ocs:C12918,
+        ocs:C20315,
+        ocs:C23956,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C30274,
+        ocs:C38461,
+        ocs:C38525,
+        ocs:C39646,
+        ocs:C40630,
+        ocs:C40922,
+        ocs:C42095,
+        ocs:C42243,
+        ocs:C42420,
+        ocs:C42759,
+        ocs:C44255,
+        ocs:C45155 .
+

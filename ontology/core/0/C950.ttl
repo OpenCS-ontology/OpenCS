@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C950 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biological_data> ;
+    skos:prefLabel "Biological data" ;
+    skos:related ocs:C12100,
+        ocs:C13,
+        ocs:C13744,
+        ocs:C2414,
+        ocs:C3896,
+        ocs:C5586 .
+

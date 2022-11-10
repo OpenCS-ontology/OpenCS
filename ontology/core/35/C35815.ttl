@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35815 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypercyclic_operator> ;
+    skos:prefLabel "Hypercyclic operator" ;
+    skos:related ocs:C31849,
+        ocs:C43747 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8574 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_application> ;
+    skos:prefLabel "Database application" ;
+    skos:related ocs:C1047,
+        ocs:C1060,
+        ocs:C10988,
+        ocs:C12185,
+        ocs:C1253,
+        ocs:C14626,
+        ocs:C15478,
+        ocs:C264,
+        ocs:C26532,
+        ocs:C33457,
+        ocs:C35393,
+        ocs:C36084,
+        ocs:C38130,
+        ocs:C43539,
+        ocs:C45343,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C8327,
+        ocs:C9 .
+

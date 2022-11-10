@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35620 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C18299,
+        ocs:C23244 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galactic_anticenter> ;
+    skos:prefLabel "Galactic anticenter" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C18299,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C23244,
+        ocs:C23296,
+        ocs:C29768,
+        ocs:C30361,
+        ocs:C31953,
+        ocs:C34198,
+        ocs:C35174,
+        ocs:C37041,
+        ocs:C41134,
+        ocs:C41648,
+        ocs:C597 .
+

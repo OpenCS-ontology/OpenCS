@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9006 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Auditory acuity" ;
+    skos:related ocs:C11931,
+        ocs:C16,
+        ocs:C18572,
+        ocs:C2300,
+        ocs:C5853 .
+

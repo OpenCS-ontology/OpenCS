@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18553 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C13822,
+        ocs:C6505 ;
+    skos:prefLabel "Character coding" .
+

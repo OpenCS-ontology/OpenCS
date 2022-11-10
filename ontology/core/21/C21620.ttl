@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21620 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Retransmission_(data_networks)> ;
+    skos:prefLabel "Retransmission" ;
+    skos:related ocs:C14134,
+        ocs:C14538,
+        ocs:C14938,
+        ocs:C15065,
+        ocs:C18213,
+        ocs:C19170,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C23155,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C34593,
+        ocs:C37011,
+        ocs:C38424,
+        ocs:C38485,
+        ocs:C41165,
+        ocs:C6185 .
+

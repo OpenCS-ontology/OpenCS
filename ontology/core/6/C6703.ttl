@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6703 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carrier_Routing_System> ;
+    skos:prefLabel "Carrier Routing System" ;
+    skos:related ocs:C11106,
+        ocs:C125,
+        ocs:C13786,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C23919,
+        ocs:C23922,
+        ocs:C24210,
+        ocs:C24563,
+        ocs:C2492,
+        ocs:C26,
+        ocs:C30640,
+        ocs:C37035,
+        ocs:C40748,
+        ocs:C40784,
+        ocs:C490,
+        ocs:C5629,
+        ocs:C691,
+        ocs:C8148,
+        ocs:C9 .
+

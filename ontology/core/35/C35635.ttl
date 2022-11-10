@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35635 a skos:Concept ;
+    skos:broader ocs:C22207 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hostile_witness> ;
+    skos:prefLabel "Hostile witness" ;
+    skos:related ocs:C22207,
+        ocs:C32732 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1411 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Globalization_management_system> ;
+    skos:prefLabel "Globalization management system" ;
+    skos:related ocs:C10052,
+        ocs:C10522,
+        ocs:C1253,
+        ocs:C1908,
+        ocs:C21320,
+        ocs:C21444,
+        ocs:C24011,
+        ocs:C24215,
+        ocs:C28527,
+        ocs:C35137,
+        ocs:C35701,
+        ocs:C5262,
+        ocs:C5852 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45792 a skos:Concept ;
+    skos:broader ocs:C33104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_coding> ;
+    skos:prefLabel "Secure coding" ;
+    skos:related ocs:C10565,
+        ocs:C11,
+        ocs:C11447,
+        ocs:C1253,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C23199,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C38527,
+        ocs:C39522,
+        ocs:C41901,
+        ocs:C4218,
+        ocs:C42432,
+        ocs:C45212,
+        ocs:C5779,
+        ocs:C699,
+        ocs:C9 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C524 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formal_language> ;
+    skos:prefLabel "Formal language" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1034,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C1451,
+        ocs:C17566,
+        ocs:C19,
+        ocs:C19560,
+        ocs:C22093,
+        ocs:C22100,
+        ocs:C22624,
+        ocs:C22977,
+        ocs:C2418,
+        ocs:C26158,
+        ocs:C29,
+        ocs:C3398,
+        ocs:C8564 .
+

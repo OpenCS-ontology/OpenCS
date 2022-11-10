@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8186 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thermal-assisted_switching> ;
+    skos:prefLabel "Thermal-assisted switching" ;
+    skos:related ocs:C13875,
+        ocs:C24321,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C43462,
+        ocs:C45572,
+        ocs:C5136,
+        ocs:C7007 .
+

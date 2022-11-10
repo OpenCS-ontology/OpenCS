@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31756 a skos:Concept ;
+    skos:broader ocs:C25752,
+        ocs:C28117 ;
+    skos:closeMatch <http://dbpedia.org/resource/WebID> ;
+    skos:prefLabel "WebID" ;
+    skos:related ocs:C14417,
+        ocs:C20243,
+        ocs:C22246,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C24131,
+        ocs:C28117,
+        ocs:C2931,
+        ocs:C31,
+        ocs:C31903,
+        ocs:C33191,
+        ocs:C37731,
+        ocs:C38059,
+        ocs:C41498,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8614,
+        ocs:C8995,
+        ocs:C9836 .
+

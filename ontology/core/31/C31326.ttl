@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31326 a skos:Concept ;
+    skos:broader ocs:C25681 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-ontology> ;
+    skos:prefLabel "Meta-ontology" ;
+    skos:related ocs:C1443,
+        ocs:C18470,
+        ocs:C28262,
+        ocs:C28677,
+        ocs:C7467 .
+

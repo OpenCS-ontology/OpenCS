@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44997 a skos:Concept ;
+    skos:broader ocs:C31251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise-figure_meter> ;
+    skos:prefLabel "Noise-figure meter" ;
+    skos:related ocs:C1564,
+        ocs:C29220,
+        ocs:C31251,
+        ocs:C42249 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26213 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_simulation> ;
+    skos:prefLabel "Social simulation" ;
+    skos:related ocs:C1,
+        ocs:C10997,
+        ocs:C11143,
+        ocs:C11866,
+        ocs:C19727,
+        ocs:C20012,
+        ocs:C24,
+        ocs:C2579,
+        ocs:C29276,
+        ocs:C3046,
+        ocs:C5496,
+        ocs:C5863,
+        ocs:C7256,
+        ocs:C8,
+        ocs:C9383 .
+

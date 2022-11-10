@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3902 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reentrancy_(computing)> ;
+    skos:prefLabel "Reentrancy" ;
+    skos:related ocs:C1083,
+        ocs:C11373,
+        ocs:C12683,
+        ocs:C12764,
+        ocs:C128,
+        ocs:C1333,
+        ocs:C13606,
+        ocs:C2009,
+        ocs:C24590,
+        ocs:C28016,
+        ocs:C28783,
+        ocs:C29467,
+        ocs:C3089,
+        ocs:C42313,
+        ocs:C8204,
+        ocs:C9,
+        ocs:C9262,
+        ocs:C9638 .
+

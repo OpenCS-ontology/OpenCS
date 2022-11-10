@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16094 a skos:Concept ;
+    skos:broader ocs:C10320,
+        ocs:C8790 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPUID> ;
+    skos:prefLabel "CPUID" ;
+    skos:related ocs:C10320,
+        ocs:C10938,
+        ocs:C12533,
+        ocs:C14965,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C29728,
+        ocs:C31346,
+        ocs:C36894,
+        ocs:C38463,
+        ocs:C39896,
+        ocs:C45155,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9542 .
+

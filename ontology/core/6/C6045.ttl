@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6045 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eurosignal> ;
+    skos:prefLabel "Eurosignal" ;
+    skos:related ocs:C10975,
+        ocs:C11694,
+        ocs:C12582,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C23488,
+        ocs:C26908,
+        ocs:C28744,
+        ocs:C31899,
+        ocs:C33356,
+        ocs:C37673,
+        ocs:C37788,
+        ocs:C38310,
+        ocs:C7502 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40063 a skos:Concept ;
+    skos:broader ocs:C29575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Law_of_total_variance> ;
+    skos:prefLabel "Law of total variance" ;
+    skos:related ocs:C13262,
+        ocs:C1844,
+        ocs:C20805,
+        ocs:C33093,
+        ocs:C38985,
+        ocs:C41503,
+        ocs:C795,
+        ocs:C9326 .
+

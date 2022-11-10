@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11968 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SheerVideo> ;
+    skos:prefLabel "SheerVideo" ;
+    skos:related ocs:C11043,
+        ocs:C12544,
+        ocs:C14482,
+        ocs:C15700,
+        ocs:C16860,
+        ocs:C19334,
+        ocs:C2000,
+        ocs:C21097,
+        ocs:C22705,
+        ocs:C27086,
+        ocs:C31451,
+        ocs:C38826,
+        ocs:C39584,
+        ocs:C40199,
+        ocs:C6081,
+        ocs:C6640,
+        ocs:C6942 .
+

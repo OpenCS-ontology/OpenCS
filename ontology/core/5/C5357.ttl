@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5357 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aviation_light_signals> ;
+    skos:prefLabel "Aviation light signals" ;
+    skos:related ocs:C11445,
+        ocs:C13785,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C15666,
+        ocs:C18229,
+        ocs:C22979,
+        ocs:C23299,
+        ocs:C24351,
+        ocs:C25871,
+        ocs:C4597,
+        ocs:C5559 .
+

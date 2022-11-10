@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17924 a skos:Concept ;
+    skos:broader ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/RFIC> ;
+    skos:prefLabel "RFIC" ;
+    skos:related ocs:C10377,
+        ocs:C25712,
+        ocs:C30783,
+        ocs:C4971 .
+

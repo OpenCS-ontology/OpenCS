@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7352 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bone_segment_navigation> ;
+    skos:prefLabel "Bone segment navigation" ;
+    skos:related ocs:C10051,
+        ocs:C11255,
+        ocs:C17816,
+        ocs:C22524,
+        ocs:C29070,
+        ocs:C4748,
+        ocs:C7161 .
+

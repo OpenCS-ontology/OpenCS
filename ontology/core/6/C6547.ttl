@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6547 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPARC_T5> ;
+    skos:prefLabel "SPARC T5" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C1668,
+        ocs:C19487,
+        ocs:C19936,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C31823,
+        ocs:C7977,
+        ocs:C9542 .
+

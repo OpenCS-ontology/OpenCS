@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33115 a skos:Concept ;
+    skos:broader ocs:C22400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schrödinger_picture> ;
+    skos:prefLabel "Schrödinger picture" ;
+    skos:related ocs:C22400,
+        ocs:C24854,
+        ocs:C28787,
+        ocs:C29059,
+        ocs:C33700 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27455 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C8612,
+        ocs:C9423 ;
+    skos:closeMatch <http://dbpedia.org/resource/ITU_Radio_Regulations> ;
+    skos:prefLabel "ITU Radio Regulations" ;
+    skos:related ocs:C10409,
+        ocs:C26409,
+        ocs:C27912,
+        ocs:C3,
+        ocs:C3068,
+        ocs:C37179,
+        ocs:C42038,
+        ocs:C512,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C702,
+        ocs:C7076,
+        ocs:C8612,
+        ocs:C9113 .
+

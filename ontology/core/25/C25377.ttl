@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25377 a skos:Concept ;
+    skos:broader ocs:C13594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superachromat> ;
+    skos:prefLabel "Superachromat" ;
+    skos:related ocs:C13594,
+        ocs:C1394,
+        ocs:C16795,
+        ocs:C31056 .
+

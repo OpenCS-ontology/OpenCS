@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21250 a skos:Concept ;
+    skos:broader ocs:C11886 ;
+    skos:closeMatch <http://dbpedia.org/resource/Live,_virtual,_and_constructive> ;
+    skos:prefLabel "Live, virtual, and constructive" ;
+    skos:related ocs:C11668,
+        ocs:C1603,
+        ocs:C17182,
+        ocs:C2373,
+        ocs:C24,
+        ocs:C26303,
+        ocs:C33389,
+        ocs:C5296,
+        ocs:C6864 .
+

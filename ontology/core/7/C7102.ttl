@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7102 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enhanced_Messaging_Service> ;
+    skos:prefLabel "Enhanced Messaging Service" ;
+    skos:related ocs:C12767,
+        ocs:C21424,
+        ocs:C27704,
+        ocs:C30763,
+        ocs:C31286,
+        ocs:C31755,
+        ocs:C36500,
+        ocs:C3746,
+        ocs:C39289,
+        ocs:C44125,
+        ocs:C44670,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9332 .
+

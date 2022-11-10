@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31310 a skos:Concept ;
+    skos:broader ocs:C27130 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sammon_mapping> ;
+    skos:prefLabel "Sammon mapping" ;
+    skos:related ocs:C13547,
+        ocs:C18074,
+        ocs:C20003,
+        ocs:C20383,
+        ocs:C27703,
+        ocs:C27712,
+        ocs:C29578,
+        ocs:C30566,
+        ocs:C31554,
+        ocs:C31695,
+        ocs:C36374,
+        ocs:C41772,
+        ocs:C6535,
+        ocs:C6912,
+        ocs:C9022,
+        ocs:C9538 .
+

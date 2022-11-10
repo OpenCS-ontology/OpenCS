@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38242 a skos:Concept ;
+    skos:broader ocs:C32349 ;
+    skos:closeMatch <http://dbpedia.org/resource/Particular_point_topology> ;
+    skos:prefLabel "Particular point topology" ;
+    skos:related ocs:C19355,
+        ocs:C19847,
+        ocs:C38631 .
+

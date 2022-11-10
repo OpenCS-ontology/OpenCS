@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9256 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/VDSO> ;
+    skos:prefLabel "vDSO" ;
+    skos:related ocs:C12683,
+        ocs:C1396,
+        ocs:C14271,
+        ocs:C14350,
+        ocs:C15595,
+        ocs:C15860,
+        ocs:C23926,
+        ocs:C26097,
+        ocs:C27276,
+        ocs:C31433,
+        ocs:C39654,
+        ocs:C39713,
+        ocs:C45146,
+        ocs:C45251,
+        ocs:C6667,
+        ocs:C7800,
+        ocs:C9 .
+

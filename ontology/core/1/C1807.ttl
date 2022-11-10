@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1807 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/SNSD_(netsukuku)> ;
+    skos:prefLabel "SNSD" ;
+    skos:related ocs:C14321,
+        ocs:C16980,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C21006,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C26114,
+        ocs:C29359,
+        ocs:C3,
+        ocs:C31,
+        ocs:C35801,
+        ocs:C36678,
+        ocs:C38824,
+        ocs:C41627,
+        ocs:C41967,
+        ocs:C42086,
+        ocs:C7124,
+        ocs:C8614 .
+

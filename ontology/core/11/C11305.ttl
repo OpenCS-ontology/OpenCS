@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11305 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/OMA_Device_Management> ;
+    skos:prefLabel "OMA Device Management" ;
+    skos:related ocs:C13144,
+        ocs:C1338,
+        ocs:C1634,
+        ocs:C20845,
+        ocs:C21424,
+        ocs:C22248,
+        ocs:C27749,
+        ocs:C34007,
+        ocs:C34429,
+        ocs:C36500,
+        ocs:C39689,
+        ocs:C41750,
+        ocs:C42102,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6234,
+        ocs:C9113,
+        ocs:C9154 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17396 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_planning> ;
+    skos:prefLabel "Motion planning" ;
+    skos:related ocs:C10396,
+        ocs:C17236,
+        ocs:C19540,
+        ocs:C22898,
+        ocs:C25273,
+        ocs:C28240,
+        ocs:C29672,
+        ocs:C32254,
+        ocs:C32401,
+        ocs:C3339,
+        ocs:C33579,
+        ocs:C33954,
+        ocs:C34389,
+        ocs:C45365,
+        ocs:C4966,
+        ocs:C5288,
+        ocs:C6279,
+        ocs:C7848,
+        ocs:C8 .
+

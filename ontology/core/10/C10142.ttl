@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10142 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pileup_format> ;
+    skos:prefLabel "Pileup format" ;
+    skos:related ocs:C11531,
+        ocs:C11759,
+        ocs:C11927,
+        ocs:C20960,
+        ocs:C32481,
+        ocs:C42140,
+        ocs:C43333,
+        ocs:C44971,
+        ocs:C45053,
+        ocs:C8511 .
+

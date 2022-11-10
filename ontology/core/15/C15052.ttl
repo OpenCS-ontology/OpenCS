@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15052 a skos:Concept ;
+    skos:broader ocs:C11529 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pitch_detection_algorithm> ;
+    skos:prefLabel "Pitch detection algorithm" ;
+    skos:related ocs:C10509,
+        ocs:C11443,
+        ocs:C12833,
+        ocs:C13046,
+        ocs:C1449,
+        ocs:C36671,
+        ocs:C4512,
+        ocs:C5492,
+        ocs:C836,
+        ocs:C9097,
+        ocs:C9871 .
+

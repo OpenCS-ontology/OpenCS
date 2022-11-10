@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3644 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/REMUS_(AUV)> ;
+    skos:prefLabel "REMUS" ;
+    skos:related ocs:C10919,
+        ocs:C18432,
+        ocs:C23843,
+        ocs:C25625,
+        ocs:C29012,
+        ocs:C35960,
+        ocs:C40097,
+        ocs:C8182 .
+

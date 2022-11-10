@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31410 a skos:Concept ;
+    skos:broader ocs:C17205 ;
+    skos:closeMatch <http://dbpedia.org/resource/SMTP_Authentication> ;
+    skos:prefLabel "SMTP Authentication" ;
+    skos:related ocs:C12995,
+        ocs:C14983,
+        ocs:C20205,
+        ocs:C24131,
+        ocs:C24903,
+        ocs:C29319,
+        ocs:C30474,
+        ocs:C34696,
+        ocs:C35631,
+        ocs:C39499,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C41442,
+        ocs:C41784,
+        ocs:C42304,
+        ocs:C44566,
+        ocs:C4565,
+        ocs:C6965 .
+

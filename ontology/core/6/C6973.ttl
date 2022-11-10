@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6973 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Electromagnetic Concepts" ;
+    skos:related ocs:C14,
+        ocs:C1563,
+        ocs:C17,
+        ocs:C18 .
+

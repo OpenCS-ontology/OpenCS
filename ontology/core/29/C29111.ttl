@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29111 a skos:Concept ;
+    skos:broader ocs:C5555,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stored_Communications_Act> ;
+    skos:prefLabel "Stored Communications Act" ;
+    skos:related ocs:C12641,
+        ocs:C18533,
+        ocs:C36925,
+        ocs:C41140,
+        ocs:C44566,
+        ocs:C478,
+        ocs:C8614,
+        ocs:C9113 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43068 a skos:Concept ;
+    skos:broader ocs:C30431,
+        ocs:C31222,
+        ocs:C34662,
+        ocs:C35393,
+        ocs:C36502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jump_server> ;
+    skos:prefLabel "Jump server" ;
+    skos:related ocs:C10280,
+        ocs:C125,
+        ocs:C16666,
+        ocs:C25292,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C29855,
+        ocs:C31460,
+        ocs:C34194,
+        ocs:C34800,
+        ocs:C35362,
+        ocs:C36171,
+        ocs:C37263,
+        ocs:C45655,
+        ocs:C5768,
+        ocs:C9695 .
+

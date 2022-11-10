@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30361 a skos:Concept ;
+    skos:broader ocs:C19225 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equatorial_coordinate_system> ;
+    skos:prefLabel "Equatorial coordinate system" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C18175,
+        ocs:C19225,
+        ocs:C22752,
+        ocs:C31953,
+        ocs:C597 .
+

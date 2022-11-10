@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11330 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blind_credential> ;
+    skos:prefLabel "Blind credential" ;
+    skos:related ocs:C12434,
+        ocs:C12752,
+        ocs:C14011,
+        ocs:C16125,
+        ocs:C27531,
+        ocs:C29568,
+        ocs:C30595,
+        ocs:C31854,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C36171,
+        ocs:C39338,
+        ocs:C394,
+        ocs:C4218,
+        ocs:C44455,
+        ocs:C7006,
+        ocs:C8711 .
+

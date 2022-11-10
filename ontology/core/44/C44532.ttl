@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44532 a skos:Concept ;
+    skos:broader ocs:C33012 ;
+    skos:closeMatch <http://dbpedia.org/resource/CMA-ES> ;
+    skos:prefLabel "CMA-ES" ;
+    skos:related ocs:C10370,
+        ocs:C11285,
+        ocs:C13208,
+        ocs:C14414,
+        ocs:C14921,
+        ocs:C25862,
+        ocs:C26880,
+        ocs:C27563,
+        ocs:C33012,
+        ocs:C35866,
+        ocs:C36442,
+        ocs:C37565,
+        ocs:C3987,
+        ocs:C40201,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553 .
+

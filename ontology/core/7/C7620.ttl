@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7620 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emergency_procedure> ;
+    skos:prefLabel "Emergency procedure" ;
+    skos:related ocs:C1399,
+        ocs:C15729,
+        ocs:C22104,
+        ocs:C23189,
+        ocs:C25176 .
+

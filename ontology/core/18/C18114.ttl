@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18114 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenRISC> ;
+    skos:prefLabel "OpenRISC" ;
+    skos:related ocs:C10320,
+        ocs:C13747,
+        ocs:C16067,
+        ocs:C17693,
+        ocs:C19400,
+        ocs:C19487,
+        ocs:C23343,
+        ocs:C23473,
+        ocs:C25966,
+        ocs:C27,
+        ocs:C28409,
+        ocs:C29969,
+        ocs:C31489,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C856 .
+

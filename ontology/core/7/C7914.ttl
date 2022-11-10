@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7914 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-aided_design> ;
+    skos:prefLabel "Computer Aided Design" ;
+    skos:related ocs:C1253,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23146,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3345,
+        ocs:C7000,
+        ocs:C8399 .
+

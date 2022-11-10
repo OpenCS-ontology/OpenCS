@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44817 a skos:Concept ;
+    skos:broader ocs:C32349,
+        ocs:C32356,
+        ocs:C36144 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mackey_space> ;
+    skos:prefLabel "Mackey space" ;
+    skos:related ocs:C23927,
+        ocs:C31924,
+        ocs:C32356,
+        ocs:C34541,
+        ocs:C35460,
+        ocs:C36144,
+        ocs:C38762,
+        ocs:C39745 .
+

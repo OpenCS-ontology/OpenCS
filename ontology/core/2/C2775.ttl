@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2775 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flat_weighting> ;
+    skos:prefLabel "Flat weighting" ;
+    skos:related ocs:C11747,
+        ocs:C11931,
+        ocs:C1316,
+        ocs:C16736,
+        ocs:C19401,
+        ocs:C21891,
+        ocs:C22707,
+        ocs:C25381,
+        ocs:C26712,
+        ocs:C29469,
+        ocs:C32960,
+        ocs:C36568,
+        ocs:C44570,
+        ocs:C44704 .
+

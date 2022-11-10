@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16411 a skos:Concept ;
+    skos:broader ocs:C6255,
+        ocs:C6714,
+        ocs:C7536,
+        ocs:C8753,
+        ocs:C9051 ;
+    skos:prefLabel "Interval Data Type" ;
+    skos:related ocs:C12262,
+        ocs:C13,
+        ocs:C17654,
+        ocs:C29,
+        ocs:C31014,
+        ocs:C31030,
+        ocs:C4216,
+        ocs:C4816,
+        ocs:C6714,
+        ocs:C8581 .
+

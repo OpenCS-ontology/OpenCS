@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41964 a skos:Concept ;
+    skos:broader ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch_(computer_science)> ;
+    skos:prefLabel "Branch" ;
+    skos:related ocs:C10320,
+        ocs:C1333,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21718,
+        ocs:C35009,
+        ocs:C37134,
+        ocs:C37461,
+        ocs:C37538,
+        ocs:C38481,
+        ocs:C4321,
+        ocs:C43544,
+        ocs:C4863,
+        ocs:C6072,
+        ocs:C6280,
+        ocs:C856,
+        ocs:C9487 .
+

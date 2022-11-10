@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32990 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_product_line> ;
+    skos:prefLabel "Software product line" ;
+    skos:related ocs:C14280,
+        ocs:C14329,
+        ocs:C16530,
+        ocs:C25977,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C2897,
+        ocs:C35202,
+        ocs:C37174,
+        ocs:C39671,
+        ocs:C39892,
+        ocs:C41908,
+        ocs:C42543,
+        ocs:C42607,
+        ocs:C42972,
+        ocs:C45202,
+        ocs:C45385,
+        ocs:C45585,
+        ocs:C7511 .
+

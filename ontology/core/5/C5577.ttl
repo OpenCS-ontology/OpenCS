@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5577 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_visual_display> ;
+    skos:prefLabel "Electronic visual display" ;
+    skos:related ocs:C10320,
+        ocs:C10368,
+        ocs:C1084,
+        ocs:C13065,
+        ocs:C13586,
+        ocs:C22257,
+        ocs:C29012,
+        ocs:C32920,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9113,
+        ocs:C9605 .
+

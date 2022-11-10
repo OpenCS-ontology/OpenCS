@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32807 a skos:Concept ;
+    skos:broader ocs:C27666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clifford_analysis> ;
+    skos:prefLabel "Clifford analysis" ;
+    skos:related ocs:C27666,
+        ocs:C28787,
+        ocs:C34423,
+        ocs:C3589,
+        ocs:C44979 .
+

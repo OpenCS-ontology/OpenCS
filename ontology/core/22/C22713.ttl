@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22713 a skos:Concept ;
+    skos:broader ocs:C10057,
+        ocs:C13566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Legitimate_peripheral_participation> ;
+    skos:prefLabel "Legitimate peripheral participation" ;
+    skos:related ocs:C10057,
+        ocs:C11021,
+        ocs:C12,
+        ocs:C13566,
+        ocs:C16053,
+        ocs:C21011,
+        ocs:C21674,
+        ocs:C26654,
+        ocs:C29527,
+        ocs:C3252,
+        ocs:C3613,
+        ocs:C9058 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30635 a skos:Concept ;
+    skos:broader ocs:C27572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_cable> ;
+    skos:prefLabel "Digital cable" ;
+    skos:related ocs:C12544,
+        ocs:C13979,
+        ocs:C13994,
+        ocs:C18697,
+        ocs:C18878,
+        ocs:C19366,
+        ocs:C21312,
+        ocs:C21604,
+        ocs:C25850,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C32488,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C40199,
+        ocs:C4433,
+        ocs:C4772,
+        ocs:C7216,
+        ocs:C8351 .
+

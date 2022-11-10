@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37883 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ontology_Inference_Layer> ;
+    skos:prefLabel "Ontology Inference Layer" ;
+    skos:related ocs:C12977,
+        ocs:C16356,
+        ocs:C17823,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28809,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C39278,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C41822,
+        ocs:C41877,
+        ocs:C42124,
+        ocs:C42885,
+        ocs:C43138,
+        ocs:C44161,
+        ocs:C6553,
+        ocs:C8,
+        ocs:C9836 .
+

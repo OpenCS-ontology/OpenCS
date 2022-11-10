@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10700 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_camera_tube> ;
+    skos:prefLabel "Video camera tube" ;
+    skos:related ocs:C13065,
+        ocs:C19353,
+        ocs:C29365,
+        ocs:C34890,
+        ocs:C597,
+        ocs:C5996,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C8123,
+        ocs:C9611 .
+

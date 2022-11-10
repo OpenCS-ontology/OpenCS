@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32128 a skos:Concept ;
+    skos:broader ocs:C16950 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effective_descriptive_set_theory> ;
+    skos:prefLabel "Effective descriptive set theory" ;
+    skos:related ocs:C12474,
+        ocs:C20939,
+        ocs:C28635,
+        ocs:C38518,
+        ocs:C44291,
+        ocs:C45880,
+        ocs:C5251,
+        ocs:C7901 .
+

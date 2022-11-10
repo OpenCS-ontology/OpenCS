@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33735 a skos:Concept ;
+    skos:broader ocs:C26884 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ancient_Greek_grammar> ;
+    skos:prefLabel "Ancient Greek grammar" ;
+    skos:related ocs:C10570,
+        ocs:C15012,
+        ocs:C16989,
+        ocs:C18232,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23692,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C26599,
+        ocs:C26884,
+        ocs:C28817,
+        ocs:C35238,
+        ocs:C37038,
+        ocs:C44227,
+        ocs:C6545 .
+

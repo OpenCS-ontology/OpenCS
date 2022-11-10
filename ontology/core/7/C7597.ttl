@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7597 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Point_spread_function> ;
+    skos:prefLabel "Point spread function" ;
+    skos:related ocs:C11253,
+        ocs:C16393,
+        ocs:C2196,
+        ocs:C25755,
+        ocs:C597 .
+

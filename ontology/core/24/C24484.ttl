@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24484 a skos:Concept ;
+    skos:broader ocs:C12110,
+        ocs:C13210,
+        ocs:C308 ;
+    skos:closeMatch <http://dbpedia.org/resource/Experimental_phonetics> ;
+    skos:prefLabel "Experimental phonetics" ;
+    skos:related ocs:C11529,
+        ocs:C12110,
+        ocs:C13210,
+        ocs:C14646,
+        ocs:C14704,
+        ocs:C15952,
+        ocs:C2408,
+        ocs:C25046,
+        ocs:C25491,
+        ocs:C27886,
+        ocs:C308,
+        ocs:C4397,
+        ocs:C5717 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26431 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:prefLabel "Brain visualization" ;
+    skos:related ocs:C1142,
+        ocs:C20,
+        ocs:C22,
+        ocs:C28233,
+        ocs:C31,
+        ocs:C7,
+        ocs:C9603 .
+

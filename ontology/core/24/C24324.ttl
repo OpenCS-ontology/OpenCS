@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24324 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Newton–Euler_equations> ;
+    skos:prefLabel "Newton–Euler equations" ;
+    skos:related ocs:C11187,
+        ocs:C14263,
+        ocs:C7848 .
+

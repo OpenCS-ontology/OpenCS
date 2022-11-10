@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32638 a skos:Concept ;
+    skos:broader ocs:C21786,
+        ocs:C22407 ;
+    skos:prefLabel "Session initiation protocol server" .
+

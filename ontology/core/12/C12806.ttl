@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12806 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operand> ;
+    skos:prefLabel "Operand" ;
+    skos:related ocs:C10320,
+        ocs:C10332,
+        ocs:C10557,
+        ocs:C11047,
+        ocs:C13411,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C22525,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C3785,
+        ocs:C4703,
+        ocs:C6280,
+        ocs:C856 .
+

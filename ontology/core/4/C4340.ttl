@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4340 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Private_Enterprise_Number> ;
+    skos:prefLabel "Private Enterprise Number" ;
+    skos:related ocs:C10408,
+        ocs:C11037,
+        ocs:C11184,
+        ocs:C16465,
+        ocs:C17918,
+        ocs:C18213,
+        ocs:C20125,
+        ocs:C23087,
+        ocs:C23851,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C30500,
+        ocs:C31146,
+        ocs:C34898,
+        ocs:C40698,
+        ocs:C41442,
+        ocs:C6473,
+        ocs:C7809,
+        ocs:C7857,
+        ocs:C8665 .
+

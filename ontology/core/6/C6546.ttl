@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6546 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_message_accounting> ;
+    skos:prefLabel "Automatic message accounting" ;
+    skos:related ocs:C11465,
+        ocs:C25293,
+        ocs:C25673,
+        ocs:C4562,
+        ocs:C4983,
+        ocs:C6039,
+        ocs:C8010 .
+

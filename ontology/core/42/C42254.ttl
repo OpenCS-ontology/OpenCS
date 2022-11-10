@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42254 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reading_(computer)> ;
+    skos:prefLabel "Reading (computer)" ;
+    skos:related ocs:C13783,
+        ocs:C20557,
+        ocs:C23270,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C40077,
+        ocs:C4259,
+        ocs:C45328,
+        ocs:C45521,
+        ocs:C6072,
+        ocs:C6536,
+        ocs:C7007,
+        ocs:C9448 .
+

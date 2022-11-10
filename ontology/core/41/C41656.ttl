@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41656 a skos:Concept ;
+    skos:broader ocs:C34936 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_spacing_estimation> ;
+    skos:prefLabel "Maximum spacing estimation" ;
+    skos:related ocs:C10138,
+        ocs:C13685,
+        ocs:C14030,
+        ocs:C14174,
+        ocs:C1844,
+        ocs:C30859,
+        ocs:C35658,
+        ocs:C41362 .
+

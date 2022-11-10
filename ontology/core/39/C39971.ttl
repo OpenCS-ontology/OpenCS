@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39971 a skos:Concept ;
+    skos:broader ocs:C33093 ;
+    skos:closeMatch <http://dbpedia.org/resource/F-divergence> ;
+    skos:prefLabel "f-divergence" ;
+    skos:related ocs:C10767,
+        ocs:C17590,
+        ocs:C1844,
+        ocs:C28992,
+        ocs:C39847,
+        ocs:C43061,
+        ocs:C45652,
+        ocs:C4775,
+        ocs:C9326 .
+

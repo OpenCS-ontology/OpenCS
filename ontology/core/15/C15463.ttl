@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15463 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C5556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phrase_structure_rules> ;
+    skos:prefLabel "Phrase structure rules" ;
+    skos:related ocs:C1034,
+        ocs:C1451,
+        ocs:C18082,
+        ocs:C20004,
+        ocs:C20121,
+        ocs:C20155,
+        ocs:C20679,
+        ocs:C21985,
+        ocs:C24691,
+        ocs:C28029,
+        ocs:C33168,
+        ocs:C34287,
+        ocs:C34937,
+        ocs:C42812,
+        ocs:C43937,
+        ocs:C44020,
+        ocs:C5347,
+        ocs:C5556,
+        ocs:C6764 .
+

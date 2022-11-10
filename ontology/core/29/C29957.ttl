@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29957 a skos:Concept ;
+    skos:broader ocs:C22527,
+        ocs:C23202 ;
+    skos:prefLabel "ClC-2 chloride channels" ;
+    skos:related ocs:C22527 .
+

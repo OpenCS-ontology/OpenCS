@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21271 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C5556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Case_grammar> ;
+    skos:prefLabel "Case grammar" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12672,
+        ocs:C14181,
+        ocs:C16230,
+        ocs:C23300,
+        ocs:C28748,
+        ocs:C29004,
+        ocs:C30451,
+        ocs:C34287,
+        ocs:C37038,
+        ocs:C5311,
+        ocs:C5556,
+        ocs:C6545 .
+

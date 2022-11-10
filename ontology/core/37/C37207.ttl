@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37207 a skos:Concept ;
+    skos:broader ocs:C19560 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantum_finite_automata> ;
+    skos:prefLabel "Quantum finite automata" ;
+    skos:related ocs:C15002,
+        ocs:C17566,
+        ocs:C19560,
+        ocs:C21398,
+        ocs:C27087,
+        ocs:C28787,
+        ocs:C30272,
+        ocs:C33700,
+        ocs:C41940,
+        ocs:C7689,
+        ocs:C8791 .
+

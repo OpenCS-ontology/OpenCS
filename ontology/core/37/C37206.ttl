@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37206 a skos:Concept ;
+    skos:broader ocs:C25481 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integer_points_in_convex_polyhedra> ;
+    skos:prefLabel "Integer points in convex polyhedra" ;
+    skos:related ocs:C14471,
+        ocs:C28955,
+        ocs:C38516,
+        ocs:C38990,
+        ocs:C8944 .
+

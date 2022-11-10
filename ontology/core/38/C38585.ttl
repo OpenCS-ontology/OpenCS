@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38585 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C30659,
+        ocs:C31017,
+        ocs:C32720,
+        ocs:C35109,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_testing> ;
+    skos:prefLabel "Web testing" ;
+    skos:related ocs:C1253,
+        ocs:C12810,
+        ocs:C17235,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C22597,
+        ocs:C24338,
+        ocs:C26528,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C30078,
+        ocs:C31017,
+        ocs:C35084,
+        ocs:C36470,
+        ocs:C37292,
+        ocs:C40346,
+        ocs:C44389,
+        ocs:C4918,
+        ocs:C7106 .
+

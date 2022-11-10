@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22511 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Co-channel_interference> ;
+    skos:prefLabel "Co-channel interference" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C15505,
+        ocs:C21604,
+        ocs:C21606,
+        ocs:C24151,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C25458,
+        ocs:C28716,
+        ocs:C3,
+        ocs:C30037,
+        ocs:C3044,
+        ocs:C31899,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7877,
+        ocs:C8388 .
+

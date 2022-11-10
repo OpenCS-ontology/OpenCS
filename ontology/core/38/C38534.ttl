@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38534 a skos:Concept ;
+    skos:broader ocs:C36313 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conversion_marketing> ;
+    skos:prefLabel "Conversion marketing" ;
+    skos:related ocs:C10764,
+        ocs:C13681,
+        ocs:C18985,
+        ocs:C26014,
+        ocs:C27097,
+        ocs:C29564,
+        ocs:C29699,
+        ocs:C33206,
+        ocs:C35660,
+        ocs:C42101,
+        ocs:C43157,
+        ocs:C5427 .
+

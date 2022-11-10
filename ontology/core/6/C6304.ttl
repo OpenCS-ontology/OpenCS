@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6304 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_Business_Modeling> ;
+    skos:prefLabel "Dynamic Business Modeling" ;
+    skos:related ocs:C12146,
+        ocs:C12578,
+        ocs:C1332,
+        ocs:C21881,
+        ocs:C2303,
+        ocs:C2304,
+        ocs:C2352,
+        ocs:C24143,
+        ocs:C29401,
+        ocs:C29840,
+        ocs:C40481,
+        ocs:C6336,
+        ocs:C7569 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4754 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Situation_awareness> ;
+    skos:prefLabel "Situation awareness" ;
+    skos:related ocs:C12636,
+        ocs:C12641,
+        ocs:C1331,
+        ocs:C1502,
+        ocs:C2139,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C7355,
+        ocs:C7736,
+        ocs:C9224,
+        ocs:C983 .
+

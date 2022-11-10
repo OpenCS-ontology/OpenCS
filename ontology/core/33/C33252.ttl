@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33252 a skos:Concept ;
+    skos:broader ocs:C22284,
+        ocs:C28944,
+        ocs:C29215 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strictfp> ;
+    skos:prefLabel "strictfp" ;
+    skos:related ocs:C1142,
+        ocs:C12262,
+        ocs:C14627,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C31030,
+        ocs:C31284,
+        ocs:C31341,
+        ocs:C39149,
+        ocs:C39624,
+        ocs:C39774,
+        ocs:C41633,
+        ocs:C42032,
+        ocs:C44708,
+        ocs:C45395,
+        ocs:C4816,
+        ocs:C5468,
+        ocs:C7602 .
+

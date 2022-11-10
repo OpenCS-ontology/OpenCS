@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45212 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_program_analysis> ;
+    skos:prefLabel "Static program analysis" ;
+    skos:related ocs:C1,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C26339,
+        ocs:C28950,
+        ocs:C39522,
+        ocs:C42395,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C7126,
+        ocs:C7903,
+        ocs:C9,
+        ocs:C9033 .
+

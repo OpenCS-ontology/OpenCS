@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30883 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Initial_mass_function> ;
+    skos:prefLabel "Initial mass function" ;
+    skos:related ocs:C17246,
+        ocs:C22542,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C32483,
+        ocs:C43393,
+        ocs:C597 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19434 a skos:Concept ;
+    skos:broader ocs:C10220 ;
+    skos:prefLabel "Bibliography as Topic" ;
+    skos:related ocs:C10220,
+        ocs:C17,
+        ocs:C22,
+        ocs:C34,
+        ocs:C5150,
+        ocs:C8787 .
+

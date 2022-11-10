@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2373 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human-in-the-loop> ;
+    skos:prefLabel "Human-in-the-loop" ;
+    skos:related ocs:C11668,
+        ocs:C15234,
+        ocs:C1628,
+        ocs:C19356,
+        ocs:C21250,
+        ocs:C24,
+        ocs:C28,
+        ocs:C2800,
+        ocs:C5918,
+        ocs:C7736 .
+

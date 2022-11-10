@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2085 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_area_network> ;
+    skos:prefLabel "System area network" ;
+    skos:related ocs:C11387,
+        ocs:C14586,
+        ocs:C1466,
+        ocs:C15477,
+        ocs:C17533,
+        ocs:C1831,
+        ocs:C19936,
+        ocs:C26345,
+        ocs:C27,
+        ocs:C27098,
+        ocs:C27338,
+        ocs:C35393,
+        ocs:C36579,
+        ocs:C39186,
+        ocs:C6312,
+        ocs:C6455,
+        ocs:C7735,
+        ocs:C8032,
+        ocs:C9 .
+

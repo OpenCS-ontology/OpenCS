@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44199 a skos:Concept ;
+    skos:broader ocs:C30091,
+        ocs:C36049 ;
+    skos:closeMatch <http://dbpedia.org/resource/PSO_J318.5-22> ;
+    skos:prefLabel "PSO J318.5-22" ;
+    skos:related ocs:C14270,
+        ocs:C16417,
+        ocs:C25140,
+        ocs:C25976,
+        ocs:C26524,
+        ocs:C30806,
+        ocs:C34228,
+        ocs:C34412,
+        ocs:C34986,
+        ocs:C36049,
+        ocs:C38054,
+        ocs:C597 .
+

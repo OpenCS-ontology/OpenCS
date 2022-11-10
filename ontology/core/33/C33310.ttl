@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33310 a skos:Concept ;
+    skos:broader ocs:C14576,
+        ocs:C16370,
+        ocs:C19972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cluster_diagram> ;
+    skos:prefLabel "Cluster diagram" ;
+    skos:related ocs:C11646,
+        ocs:C13184,
+        ocs:C14468,
+        ocs:C15,
+        ocs:C204,
+        ocs:C29844,
+        ocs:C3042,
+        ocs:C37864,
+        ocs:C39238,
+        ocs:C40955,
+        ocs:C43032,
+        ocs:C43696,
+        ocs:C5500,
+        ocs:C6656,
+        ocs:C7879,
+        ocs:C8614 .
+

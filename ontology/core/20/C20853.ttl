@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20853 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardy_space> ;
+    skos:prefLabel "Hardy space" ;
+    skos:related ocs:C18076,
+        ocs:C22415,
+        ocs:C23752,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C32918,
+        ocs:C3589,
+        ocs:C42875 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22969 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geocentric_orbit> ;
+    skos:prefLabel "Geocentric orbit" ;
+    skos:related ocs:C1628,
+        ocs:C21630,
+        ocs:C2252,
+        ocs:C24462,
+        ocs:C44515,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C7201 .
+

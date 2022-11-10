@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18921 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mail_Transfer_Protocol> ;
+    skos:prefLabel "Mail Transfer Protocol" ;
+    skos:related ocs:C11550,
+        ocs:C13252,
+        ocs:C14983,
+        ocs:C20205,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C31990,
+        ocs:C34264,
+        ocs:C34358,
+        ocs:C39141,
+        ocs:C45269,
+        ocs:C5588,
+        ocs:C6002,
+        ocs:C6129,
+        ocs:C6473,
+        ocs:C8515 .
+

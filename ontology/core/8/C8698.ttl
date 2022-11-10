@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8698 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsequencer> ;
+    skos:prefLabel "Microsequencer" ;
+    skos:related ocs:C10320,
+        ocs:C11047,
+        ocs:C11553,
+        ocs:C12431,
+        ocs:C12650,
+        ocs:C17793,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C22907,
+        ocs:C26755,
+        ocs:C27555,
+        ocs:C35886,
+        ocs:C37538,
+        ocs:C4863,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856 .
+

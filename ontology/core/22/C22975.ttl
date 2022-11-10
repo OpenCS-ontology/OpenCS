@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22975 a skos:Concept ;
+    skos:broader ocs:C13092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structure_from_motion> ;
+    skos:prefLabel "Structure from motion" ;
+    skos:related ocs:C13142,
+        ocs:C13549,
+        ocs:C13745,
+        ocs:C23853,
+        ocs:C25648,
+        ocs:C2703,
+        ocs:C28626,
+        ocs:C2883,
+        ocs:C31308,
+        ocs:C31485,
+        ocs:C5084,
+        ocs:C5404,
+        ocs:C5462,
+        ocs:C7,
+        ocs:C8075 .
+

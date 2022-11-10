@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36708 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C23077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Magellanic_Stream> ;
+    skos:prefLabel "Magellanic Stream" ;
+    skos:related ocs:C17246,
+        ocs:C18085,
+        ocs:C18299,
+        ocs:C19938,
+        ocs:C21056,
+        ocs:C23210,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C29074,
+        ocs:C33081,
+        ocs:C34069,
+        ocs:C37041,
+        ocs:C42436,
+        ocs:C597 .
+

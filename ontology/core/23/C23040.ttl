@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23040 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modular_group> ;
+    skos:prefLabel "Modular group" ;
+    skos:related ocs:C23209,
+        ocs:C32392,
+        ocs:C39710 .
+

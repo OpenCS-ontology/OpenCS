@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C246 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conditional_probability> ;
+    skos:prefLabel "Conditional probability" ;
+    skos:related ocs:C14030,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C2726,
+        ocs:C33093,
+        ocs:C42482,
+        ocs:C6291,
+        ocs:C6692,
+        ocs:C9326 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2109 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Manageability_Programming_Interface> ;
+    skos:prefLabel "Common Manageability Programming Interface" ;
+    skos:related ocs:C10869,
+        ocs:C1165,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13144,
+        ocs:C2301,
+        ocs:C25686,
+        ocs:C2674,
+        ocs:C26773,
+        ocs:C34007,
+        ocs:C34267,
+        ocs:C34921,
+        ocs:C39341,
+        ocs:C41115,
+        ocs:C4181,
+        ocs:C45203,
+        ocs:C5236,
+        ocs:C6592 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2182 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projection_Principle> ;
+    skos:prefLabel "Projection Principle" ;
+    skos:related ocs:C1034,
+        ocs:C16230,
+        ocs:C16635,
+        ocs:C20004,
+        ocs:C20155,
+        ocs:C21811,
+        ocs:C24070,
+        ocs:C24316,
+        ocs:C27387,
+        ocs:C28029,
+        ocs:C29004,
+        ocs:C30451,
+        ocs:C33471,
+        ocs:C34287,
+        ocs:C42812,
+        ocs:C44020,
+        ocs:C5556 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8416 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Product name" ;
+    skos:related ocs:C17,
+        ocs:C19632,
+        ocs:C2,
+        ocs:C22,
+        ocs:C2974,
+        ocs:C6069,
+        ocs:C8576,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9985 .
+

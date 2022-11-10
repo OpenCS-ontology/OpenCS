@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11075 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexical_definition> ;
+    skos:prefLabel "Lexical definition" ;
+    skos:related ocs:C10801,
+        ocs:C11932,
+        ocs:C1451,
+        ocs:C1952,
+        ocs:C19932,
+        ocs:C20451,
+        ocs:C21988,
+        ocs:C26816,
+        ocs:C3261,
+        ocs:C37038,
+        ocs:C8454,
+        ocs:C8710 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33327 a skos:Concept ;
+    skos:broader ocs:C15070 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symmetric_successive_overrelaxation> ;
+    skos:prefLabel "Symmetric successive over-relaxation" ;
+    skos:related ocs:C14414,
+        ocs:C15070,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C31309,
+        ocs:C32733,
+        ocs:C34225,
+        ocs:C36683,
+        ocs:C42610 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12816 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_algorithm> ;
+    skos:prefLabel "Online algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C13318,
+        ocs:C15253,
+        ocs:C16028,
+        ocs:C18215,
+        ocs:C20343,
+        ocs:C2122,
+        ocs:C25,
+        ocs:C25958,
+        ocs:C32294,
+        ocs:C3286,
+        ocs:C35199,
+        ocs:C36120,
+        ocs:C3678,
+        ocs:C38368,
+        ocs:C41255,
+        ocs:C611,
+        ocs:C6335,
+        ocs:C8660 .
+

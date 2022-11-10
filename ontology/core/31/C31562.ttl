@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31562 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_laevis> ;
+    skos:prefLabel "Quercus laevis" ;
+    skos:related ocs:C13977,
+        ocs:C14359,
+        ocs:C18815,
+        ocs:C22994,
+        ocs:C23655,
+        ocs:C23903,
+        ocs:C28888,
+        ocs:C29185,
+        ocs:C32542,
+        ocs:C34331,
+        ocs:C34699,
+        ocs:C35508,
+        ocs:C40453 .
+

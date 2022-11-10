@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33887 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_kinematics> ;
+    skos:prefLabel "Robot kinematics" ;
+    skos:related ocs:C10396,
+        ocs:C10500,
+        ocs:C14022,
+        ocs:C1493,
+        ocs:C15234,
+        ocs:C15308,
+        ocs:C15416,
+        ocs:C17236,
+        ocs:C18287,
+        ocs:C25273,
+        ocs:C29532,
+        ocs:C31144,
+        ocs:C41360,
+        ocs:C44424,
+        ocs:C5394,
+        ocs:C7003,
+        ocs:C7848 .
+

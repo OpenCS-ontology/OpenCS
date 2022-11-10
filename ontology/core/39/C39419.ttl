@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39419 a skos:Concept ;
+    skos:broader ocs:C32396,
+        ocs:C32484,
+        ocs:C34167,
+        ocs:C37396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barrett_reduction> ;
+    skos:prefLabel "Barrett reduction" ;
+    skos:related ocs:C13632,
+        ocs:C21383,
+        ocs:C24353,
+        ocs:C29356,
+        ocs:C30437,
+        ocs:C32396,
+        ocs:C34167,
+        ocs:C39331,
+        ocs:C41652,
+        ocs:C6128 .
+

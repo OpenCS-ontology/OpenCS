@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33491 a skos:Concept ;
+    skos:broader ocs:C20433 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secondary_predicate> ;
+    skos:prefLabel "Secondary predicate" ;
+    skos:related ocs:C14999,
+        ocs:C16635,
+        ocs:C18082,
+        ocs:C20664,
+        ocs:C27387,
+        ocs:C27805,
+        ocs:C27993,
+        ocs:C32557,
+        ocs:C3261,
+        ocs:C33168,
+        ocs:C33279,
+        ocs:C37038,
+        ocs:C37448,
+        ocs:C39461,
+        ocs:C9158 .
+

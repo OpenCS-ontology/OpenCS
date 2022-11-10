@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10989 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Swap_Chain> ;
+    skos:prefLabel "Swap Chain" ;
+    skos:related ocs:C11884,
+        ocs:C13679,
+        ocs:C14634,
+        ocs:C15700,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19559,
+        ocs:C20569,
+        ocs:C22,
+        ocs:C23564,
+        ocs:C24235,
+        ocs:C28172,
+        ocs:C31152,
+        ocs:C34890,
+        ocs:C40261,
+        ocs:C41955,
+        ocs:C45560,
+        ocs:C4938,
+        ocs:C8670 .
+

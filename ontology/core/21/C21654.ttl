@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21654 a skos:Concept ;
+    skos:broader ocs:C8325 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypostatic_abstraction> ;
+    skos:prefLabel "Hypostatic abstraction" ;
+    skos:related ocs:C10671,
+        ocs:C10825,
+        ocs:C10917,
+        ocs:C1443,
+        ocs:C26417,
+        ocs:C2727,
+        ocs:C40719,
+        ocs:C44339,
+        ocs:C45525 .
+

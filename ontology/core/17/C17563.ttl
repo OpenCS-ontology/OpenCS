@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17563 a skos:Concept ;
+    skos:broader ocs:C12689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bengali_grammar> ;
+    skos:prefLabel "Bengali grammar" ;
+    skos:related ocs:C12689,
+        ocs:C15178,
+        ocs:C18232,
+        ocs:C20344,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23692,
+        ocs:C28817,
+        ocs:C3147,
+        ocs:C32159,
+        ocs:C37038 .
+

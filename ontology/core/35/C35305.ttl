@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35305 a skos:Concept ;
+    skos:broader ocs:C23227 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Lidar_Dataset_(United_States)> ;
+    skos:prefLabel "National Lidar Dataset (United States)" ;
+    skos:related ocs:C10987,
+        ocs:C15046,
+        ocs:C23737,
+        ocs:C2703,
+        ocs:C27317 .
+

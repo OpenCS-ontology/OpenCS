@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44520 a skos:Concept ;
+    skos:broader ocs:C30635 ;
+    skos:closeMatch <http://dbpedia.org/resource/FTTLA> ;
+    skos:prefLabel "FTTLA" ;
+    skos:related ocs:C12307,
+        ocs:C12308,
+        ocs:C17867,
+        ocs:C18270,
+        ocs:C2188,
+        ocs:C24916,
+        ocs:C25712,
+        ocs:C27447,
+        ocs:C45690 .
+

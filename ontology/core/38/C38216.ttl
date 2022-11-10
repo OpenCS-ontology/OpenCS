@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38216 a skos:Concept ;
+    skos:broader ocs:C34503 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_camera> ;
+    skos:prefLabel "Traffic camera" ;
+    skos:related ocs:C12758,
+        ocs:C14828,
+        ocs:C15115,
+        ocs:C16107,
+        ocs:C21285,
+        ocs:C21412,
+        ocs:C24019,
+        ocs:C27658,
+        ocs:C28361,
+        ocs:C28716,
+        ocs:C34890,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

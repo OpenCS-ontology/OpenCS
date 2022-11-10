@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37020 a skos:Concept ;
+    skos:broader ocs:C26152,
+        ocs:C28736 ;
+    skos:prefLabel "Hartmann-Shack wavefront sensor" ;
+    skos:related ocs:C10672,
+        ocs:C10740,
+        ocs:C12582,
+        ocs:C14106,
+        ocs:C257,
+        ocs:C5298,
+        ocs:C7597,
+        ocs:C8021 .
+

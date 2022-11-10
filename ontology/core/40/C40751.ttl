@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40751 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31654,
+        ocs:C31777,
+        ocs:C31949,
+        ocs:C33459,
+        ocs:C34052,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polyalphabetic_cipher> ;
+    skos:prefLabel "Polyalphabetic cipher" ;
+    skos:related ocs:C1027,
+        ocs:C11204,
+        ocs:C12675,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C23080,
+        ocs:C28967,
+        ocs:C29970,
+        ocs:C30538,
+        ocs:C32021,
+        ocs:C35455,
+        ocs:C38920,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C5264,
+        ocs:C9491 .
+

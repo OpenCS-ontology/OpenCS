@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10976 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-validation_(statistics)> ;
+    skos:prefLabel "Cross-validation" ;
+    skos:related ocs:C13789,
+        ocs:C15879,
+        ocs:C2005,
+        ocs:C21628,
+        ocs:C23554,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25711,
+        ocs:C26398,
+        ocs:C26880,
+        ocs:C5087,
+        ocs:C5401,
+        ocs:C6116,
+        ocs:C7282,
+        ocs:C9874 .
+

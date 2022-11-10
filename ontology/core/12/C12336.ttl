@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12336 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_11801> ;
+    skos:prefLabel "ISO/IEC 11801" ;
+    skos:related ocs:C11056,
+        ocs:C11769,
+        ocs:C18745,
+        ocs:C22559,
+        ocs:C2361,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C26,
+        ocs:C29125,
+        ocs:C45502,
+        ocs:C490,
+        ocs:C691,
+        ocs:C8640 .
+

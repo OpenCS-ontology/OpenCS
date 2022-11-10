@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2439 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/McCarthy_91_function> ;
+    skos:prefLabel "McCarthy 91 function" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C1035,
+        ocs:C1137,
+        ocs:C12926,
+        ocs:C13408,
+        ocs:C20208,
+        ocs:C25057,
+        ocs:C2747,
+        ocs:C28073,
+        ocs:C28783,
+        ocs:C37487,
+        ocs:C37966,
+        ocs:C40372,
+        ocs:C4591,
+        ocs:C4937,
+        ocs:C6941,
+        ocs:C7903,
+        ocs:C8441 .
+

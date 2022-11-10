@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10479 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_reasoning> ;
+    skos:prefLabel "Automated reasoning" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C10616,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C12977,
+        ocs:C13511,
+        ocs:C22394,
+        ocs:C23846,
+        ocs:C2418,
+        ocs:C25,
+        ocs:C32,
+        ocs:C3579,
+        ocs:C43307,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C8,
+        ocs:C852 .
+

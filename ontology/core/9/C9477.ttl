@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9477 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary-safe> ;
+    skos:prefLabel "Binary-safe" ;
+    skos:related ocs:C10284,
+        ocs:C11284,
+        ocs:C12848,
+        ocs:C19,
+        ocs:C29467,
+        ocs:C32226,
+        ocs:C3398,
+        ocs:C35625,
+        ocs:C39526,
+        ocs:C4214,
+        ocs:C5049,
+        ocs:C524,
+        ocs:C671,
+        ocs:C7185 .
+

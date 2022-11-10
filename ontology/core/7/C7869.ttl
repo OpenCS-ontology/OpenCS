@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7869 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model_order_reduction> ;
+    skos:prefLabel "Model order reduction" ;
+    skos:related ocs:C11495,
+        ocs:C11668,
+        ocs:C13260,
+        ocs:C27268,
+        ocs:C27787,
+        ocs:C28745,
+        ocs:C492,
+        ocs:C5295,
+        ocs:C7256 .
+

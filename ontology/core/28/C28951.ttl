@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28951 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flyby_anomaly> ;
+    skos:prefLabel "Flyby anomaly" ;
+    skos:related ocs:C19614,
+        ocs:C28031,
+        ocs:C3068,
+        ocs:C3952,
+        ocs:C597,
+        ocs:C81 .
+

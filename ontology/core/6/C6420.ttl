@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6420 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_vision> ;
+    skos:prefLabel "Color vision" ;
+    skos:related ocs:C13544,
+        ocs:C15175,
+        ocs:C16674,
+        ocs:C20871,
+        ocs:C23675,
+        ocs:C25924,
+        ocs:C32487,
+        ocs:C36317,
+        ocs:C41483,
+        ocs:C6942 .
+

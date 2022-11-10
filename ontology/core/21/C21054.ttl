@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21054 a skos:Concept ;
+    skos:broader ocs:C6316 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_identification_number> ;
+    skos:prefLabel "Personal identification number" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C16740,
+        ocs:C20937,
+        ocs:C21324,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C4917,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8437,
+        ocs:C9113 .
+

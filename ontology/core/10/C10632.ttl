@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10632 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_for_Cross-domain_Identity_Management> ;
+    skos:prefLabel "System for Cross-domain Identity Management" ;
+    skos:related ocs:C10869,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13144,
+        ocs:C14417,
+        ocs:C15411,
+        ocs:C17238,
+        ocs:C17656,
+        ocs:C19460,
+        ocs:C20313,
+        ocs:C22668,
+        ocs:C23851,
+        ocs:C24285,
+        ocs:C32400,
+        ocs:C34607,
+        ocs:C37731,
+        ocs:C45203,
+        ocs:C567 .
+

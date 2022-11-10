@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33377 a skos:Concept ;
+    skos:broader ocs:C21288 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rabin_fingerprint> ;
+    skos:prefLabel "Rabin fingerprint" ;
+    skos:related ocs:C15591,
+        ocs:C23875,
+        ocs:C34005,
+        ocs:C38454,
+        ocs:C38917,
+        ocs:C39101,
+        ocs:C3936,
+        ocs:C39942,
+        ocs:C4026,
+        ocs:C42661,
+        ocs:C43107,
+        ocs:C44119,
+        ocs:C8750 .
+

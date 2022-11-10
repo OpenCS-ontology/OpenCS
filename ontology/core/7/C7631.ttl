@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7631 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supercomputing_in_China> ;
+    skos:prefLabel "Supercomputing in China" ;
+    skos:related ocs:C14257,
+        ocs:C162,
+        ocs:C16231,
+        ocs:C21883,
+        ocs:C23292,
+        ocs:C24846,
+        ocs:C26030,
+        ocs:C26345,
+        ocs:C27,
+        ocs:C31489,
+        ocs:C33048,
+        ocs:C40330,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9542 .
+

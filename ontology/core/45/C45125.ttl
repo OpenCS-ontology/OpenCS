@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45125 a skos:Concept ;
+    skos:broader ocs:C30593,
+        ocs:C31754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-master_bus> ;
+    skos:prefLabel "Multi-master bus" ;
+    skos:related ocs:C10320,
+        ocs:C11882,
+        ocs:C13386,
+        ocs:C20178,
+        ocs:C20315,
+        ocs:C23749,
+        ocs:C31754,
+        ocs:C35364,
+        ocs:C41110,
+        ocs:C41599,
+        ocs:C42690,
+        ocs:C74,
+        ocs:C7534,
+        ocs:C9093 .
+

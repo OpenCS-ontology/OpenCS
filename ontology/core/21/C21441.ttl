@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21441 a skos:Concept ;
+    skos:broader ocs:C7159 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spark-gap_transmitter> ;
+    skos:prefLabel "Spark-gap transmitter" ;
+    skos:related ocs:C10078,
+        ocs:C10103,
+        ocs:C11669,
+        ocs:C1589,
+        ocs:C18001,
+        ocs:C7159 .
+

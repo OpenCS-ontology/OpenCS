@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40105 a skos:Concept ;
+    skos:broader ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instruction_scheduling> ;
+    skos:prefLabel "Instruction scheduling" ;
+    skos:related ocs:C10320,
+        ocs:C15414,
+        ocs:C16677,
+        ocs:C17204,
+        ocs:C1721,
+        ocs:C18272,
+        ocs:C19147,
+        ocs:C19490,
+        ocs:C19732,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C27080,
+        ocs:C28073,
+        ocs:C30086,
+        ocs:C30307,
+        ocs:C33100,
+        ocs:C37538,
+        ocs:C37970,
+        ocs:C4321,
+        ocs:C9487 .
+

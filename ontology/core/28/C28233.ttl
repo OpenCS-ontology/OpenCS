@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28233 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C6448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Volume_rendering> ;
+    skos:prefLabel "Volume rendering" ;
+    skos:related ocs:C13155,
+        ocs:C15806,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C25851,
+        ocs:C28789,
+        ocs:C29600,
+        ocs:C41399,
+        ocs:C42808,
+        ocs:C6448,
+        ocs:C7000,
+        ocs:C8021,
+        ocs:C8399,
+        ocs:C969 .
+

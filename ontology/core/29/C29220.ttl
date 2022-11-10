@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29220 a skos:Concept ;
+    skos:broader ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ring_modulation> ;
+    skos:prefLabel "Ring modulation" ;
+    skos:related ocs:C11254,
+        ocs:C12582,
+        ocs:C14262,
+        ocs:C1449,
+        ocs:C17432,
+        ocs:C18001,
+        ocs:C20333,
+        ocs:C32578,
+        ocs:C3843,
+        ocs:C4427,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C7502,
+        ocs:C8718 .
+

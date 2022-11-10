@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4673 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Speech block" ;
+    skos:related ocs:C11529,
+        ocs:C12582,
+        ocs:C17433,
+        ocs:C19633,
+        ocs:C27611,
+        ocs:C36671,
+        ocs:C7,
+        ocs:C8,
+        ocs:C8499 .
+

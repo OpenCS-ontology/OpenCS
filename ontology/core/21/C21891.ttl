@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21891 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise_power> ;
+    skos:prefLabel "Noise power" ;
+    skos:related ocs:C10763,
+        ocs:C12844,
+        ocs:C13590,
+        ocs:C138,
+        ocs:C26712,
+        ocs:C2775,
+        ocs:C27907,
+        ocs:C31251,
+        ocs:C32960,
+        ocs:C3625,
+        ocs:C4343,
+        ocs:C7444 .
+

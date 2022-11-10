@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5987 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero_reference_pulse> ;
+    skos:prefLabel "Zero reference pulse" ;
+    skos:related ocs:C14053,
+        ocs:C1724,
+        ocs:C17564,
+        ocs:C18001,
+        ocs:C19301,
+        ocs:C19810,
+        ocs:C23423,
+        ocs:C31150,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C5354,
+        ocs:C9027,
+        ocs:C9789 .
+

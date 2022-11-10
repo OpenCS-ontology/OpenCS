@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36317 a skos:Concept ;
+    skos:broader ocs:C15175 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dichromacy> ;
+    skos:prefLabel "Dichromacy" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C15175,
+        ocs:C16674,
+        ocs:C23675,
+        ocs:C25924,
+        ocs:C32487,
+        ocs:C597,
+        ocs:C6420 .
+

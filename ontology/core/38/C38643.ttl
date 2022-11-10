@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38643 a skos:Concept ;
+    skos:broader ocs:C36447 ;
+    skos:closeMatch <http://dbpedia.org/resource/Molecule_mining> ;
+    skos:prefLabel "Molecule mining" ;
+    skos:related ocs:C1202,
+        ocs:C13,
+        ocs:C18627,
+        ocs:C26886,
+        ocs:C31311,
+        ocs:C34006,
+        ocs:C34498,
+        ocs:C37079,
+        ocs:C39748,
+        ocs:C41589,
+        ocs:C41596 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40918 a skos:Concept ;
+    skos:broader ocs:C30438,
+        ocs:C31890,
+        ocs:C32390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-functional_testing> ;
+    skos:prefLabel "Non-functional testing" ;
+    skos:related ocs:C11784,
+        ocs:C13616,
+        ocs:C18415,
+        ocs:C3429,
+        ocs:C38627,
+        ocs:C40291,
+        ocs:C41342,
+        ocs:C41590,
+        ocs:C44389,
+        ocs:C44902,
+        ocs:C45279,
+        ocs:C6150,
+        ocs:C6696,
+        ocs:C8268,
+        ocs:C8895,
+        ocs:C924 .
+

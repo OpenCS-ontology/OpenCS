@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12122 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vatti_clipping_algorithm> ;
+    skos:prefLabel "Vatti clipping algorithm" ;
+    skos:related ocs:C10060,
+        ocs:C11234,
+        ocs:C12012,
+        ocs:C15820,
+        ocs:C19700,
+        ocs:C22,
+        ocs:C23723,
+        ocs:C24235,
+        ocs:C27384,
+        ocs:C32031,
+        ocs:C35190,
+        ocs:C38430,
+        ocs:C41932,
+        ocs:C42716,
+        ocs:C43029,
+        ocs:C44616,
+        ocs:C5860,
+        ocs:C8904 .
+

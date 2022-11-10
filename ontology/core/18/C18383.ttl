@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18383 a skos:Concept ;
+    skos:broader ocs:C12185,
+        ocs:C1718 ;
+    skos:closeMatch <http://dbpedia.org/resource/SQL/MED> ;
+    skos:prefLabel "SQL/MED" ;
+    skos:related ocs:C12185,
+        ocs:C12403,
+        ocs:C12818,
+        ocs:C17103,
+        ocs:C17701,
+        ocs:C18405,
+        ocs:C23139,
+        ocs:C26941,
+        ocs:C37009,
+        ocs:C40466,
+        ocs:C41190,
+        ocs:C5789,
+        ocs:C6,
+        ocs:C7286,
+        ocs:C7972 .
+

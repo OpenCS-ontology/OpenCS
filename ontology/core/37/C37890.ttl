@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37890 a skos:Concept ;
+    skos:broader ocs:C30272,
+        ocs:C31113,
+        ocs:C33603,
+        ocs:C37207 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nested_stack_automaton> ;
+    skos:prefLabel "Nested stack automaton" ;
+    skos:related ocs:C11885,
+        ocs:C12587,
+        ocs:C14248,
+        ocs:C17732,
+        ocs:C22100,
+        ocs:C22626,
+        ocs:C22974,
+        ocs:C22977,
+        ocs:C283,
+        ocs:C29901,
+        ocs:C30272,
+        ocs:C31113,
+        ocs:C33441,
+        ocs:C35270,
+        ocs:C38340,
+        ocs:C39098,
+        ocs:C39717,
+        ocs:C41655,
+        ocs:C42922,
+        ocs:C8791 .
+

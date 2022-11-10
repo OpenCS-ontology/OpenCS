@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6668 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barwise_compactness_theorem> ;
+    skos:prefLabel "Barwise compactness theorem" ;
+    skos:related ocs:C10825,
+        ocs:C13697,
+        ocs:C24869,
+        ocs:C2727,
+        ocs:C29879,
+        ocs:C38308,
+        ocs:C39951,
+        ocs:C44884,
+        ocs:C4517,
+        ocs:C4925,
+        ocs:C8635 .
+

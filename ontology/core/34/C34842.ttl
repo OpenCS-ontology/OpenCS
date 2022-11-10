@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34842 a skos:Concept ;
+    skos:broader ocs:C15480,
+        ocs:C23071 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fundamental_theorem_of_linear_programming> ;
+    skos:prefLabel "Fundamental theorem of linear programming" ;
+    skos:related ocs:C10146,
+        ocs:C14414,
+        ocs:C17565,
+        ocs:C30369,
+        ocs:C34225,
+        ocs:C35866,
+        ocs:C41428,
+        ocs:C41535,
+        ocs:C513 .
+

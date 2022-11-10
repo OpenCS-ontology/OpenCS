@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35942 a skos:Concept ;
+    skos:broader ocs:C22503 ;
+    skos:prefLabel "Intravascular filter" ;
+    skos:related ocs:C2,
+        ocs:C257,
+        ocs:C7 .
+

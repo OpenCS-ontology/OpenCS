@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15900 a skos:Concept ;
+    skos:broader ocs:C12222,
+        ocs:C13096,
+        ocs:C2025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intervocalic_consonant> ;
+    skos:prefLabel "Intervocalic consonant" ;
+    skos:related ocs:C12222,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C19146,
+        ocs:C19817,
+        ocs:C2025,
+        ocs:C20620,
+        ocs:C21925,
+        ocs:C23569,
+        ocs:C24840,
+        ocs:C24968,
+        ocs:C24991,
+        ocs:C27881,
+        ocs:C308,
+        ocs:C34054,
+        ocs:C6361 .
+

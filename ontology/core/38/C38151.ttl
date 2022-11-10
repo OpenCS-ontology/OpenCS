@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38151 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C30659,
+        ocs:C32720,
+        ocs:C33529,
+        ocs:C35109,
+        ocs:C36508,
+        ocs:C36913 ;
+    skos:prefLabel "Semantic web mining" .
+

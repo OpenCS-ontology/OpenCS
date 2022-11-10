@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27546 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C9267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synchronous_Ethernet> ;
+    skos:prefLabel "Synchronous Ethernet" ;
+    skos:related ocs:C12583,
+        ocs:C15589,
+        ocs:C15964,
+        ocs:C20373,
+        ocs:C24781,
+        ocs:C25172,
+        ocs:C25250,
+        ocs:C26,
+        ocs:C28190,
+        ocs:C31990,
+        ocs:C42820,
+        ocs:C43447,
+        ocs:C45690,
+        ocs:C490,
+        ocs:C5506,
+        ocs:C8567 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25476 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C11814,
+        ocs:C1449,
+        ocs:C4804,
+        ocs:C8499 ;
+    skos:prefLabel "Multimedia video processor" .
+

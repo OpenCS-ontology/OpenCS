@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22399 a skos:Concept ;
+    skos:broader ocs:C1879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Negentropy> ;
+    skos:prefLabel "Negentropy" ;
+    skos:related ocs:C10767,
+        ocs:C1879,
+        ocs:C31750,
+        ocs:C38595,
+        ocs:C39363,
+        ocs:C42951,
+        ocs:C43672,
+        ocs:C44834,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C8332 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11788 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Organ Model" ;
+    skos:related ocs:C13265,
+        ocs:C13320,
+        ocs:C21,
+        ocs:C2369,
+        ocs:C5333,
+        ocs:C5913 .
+

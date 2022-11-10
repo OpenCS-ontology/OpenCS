@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26410 a skos:Concept ;
+    skos:broader ocs:C3936,
+        ocs:C4218,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hash_chain> ;
+    skos:prefLabel "Hash chain" ;
+    skos:related ocs:C14354,
+        ocs:C16125,
+        ocs:C19151,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C33416,
+        ocs:C36898,
+        ocs:C37978,
+        ocs:C3936,
+        ocs:C40332,
+        ocs:C40413,
+        ocs:C40476,
+        ocs:C40900,
+        ocs:C40956,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C7292,
+        ocs:C9369,
+        ocs:C9716 .
+

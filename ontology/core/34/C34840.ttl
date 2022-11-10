@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34840 a skos:Concept ;
+    skos:broader ocs:C17856,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key-recovery_attack> ;
+    skos:prefLabel "Key-recovery attack" ;
+    skos:related ocs:C16983,
+        ocs:C17856,
+        ocs:C21383,
+        ocs:C21623,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C38401,
+        ocs:C39140,
+        ocs:C39203,
+        ocs:C40956,
+        ocs:C41514,
+        ocs:C41988,
+        ocs:C42818,
+        ocs:C4344,
+        ocs:C43934,
+        ocs:C6781 .
+

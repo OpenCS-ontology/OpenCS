@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27204 a skos:Concept ;
+    skos:broader ocs:C8325 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truth_predicate> ;
+    skos:prefLabel "Truth predicate" ;
+    skos:related ocs:C10558,
+        ocs:C13749,
+        ocs:C13976,
+        ocs:C29206,
+        ocs:C2985,
+        ocs:C39107,
+        ocs:C41181,
+        ocs:C42137,
+        ocs:C43271,
+        ocs:C45295,
+        ocs:C8077,
+        ocs:C8635,
+        ocs:C9106 .
+

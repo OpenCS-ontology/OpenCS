@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33832 a skos:Concept ;
+    skos:broader ocs:C17045 ;
+    skos:closeMatch <http://dbpedia.org/resource/Federal_Work-Study_Program> ;
+    skos:prefLabel "Federal Work-Study Program" ;
+    skos:related ocs:C15,
+        ocs:C19366,
+        ocs:C20089,
+        ocs:C2135 .
+

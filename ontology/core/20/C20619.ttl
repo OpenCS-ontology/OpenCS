@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20619 a skos:Concept ;
+    skos:broader ocs:C5917,
+        ocs:C9154 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short_Message_Service_technical_realisation_(GSM)> ;
+    skos:prefLabel "Short message service technical realisation" .
+

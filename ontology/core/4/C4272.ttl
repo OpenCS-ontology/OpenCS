@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4272 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pentium_FDIV_bug> ;
+    skos:prefLabel "Pentium FDIV bug" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C10824,
+        ocs:C10938,
+        ocs:C19487,
+        ocs:C23580,
+        ocs:C27610,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C36894,
+        ocs:C39429,
+        ocs:C41698 .
+

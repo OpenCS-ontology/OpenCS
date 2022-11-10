@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33352 a skos:Concept ;
+    skos:broader ocs:C23230 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cycles_per_byte> ;
+    skos:prefLabel "Cycles per byte" ;
+    skos:related ocs:C10,
+        ocs:C12091,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30768,
+        ocs:C31774,
+        ocs:C32054,
+        ocs:C33416,
+        ocs:C35389,
+        ocs:C36248,
+        ocs:C37209,
+        ocs:C3936,
+        ocs:C40736,
+        ocs:C43967,
+        ocs:C4751,
+        ocs:C8076 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11055 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaborative_writing> ;
+    skos:prefLabel "Collaborative writing" ;
+    skos:related ocs:C10801,
+        ocs:C11036,
+        ocs:C12599,
+        ocs:C13180,
+        ocs:C1498,
+        ocs:C16770,
+        ocs:C26337,
+        ocs:C31,
+        ocs:C37105,
+        ocs:C4819,
+        ocs:C5746,
+        ocs:C5876,
+        ocs:C7575,
+        ocs:C8614 .
+

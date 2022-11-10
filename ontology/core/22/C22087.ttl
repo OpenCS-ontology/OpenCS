@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22087 a skos:Concept ;
+    skos:broader ocs:C10612 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_speckle_pattern_interferometry> ;
+    skos:prefLabel "Electronic speckle pattern interferometry" ;
+    skos:related ocs:C10612,
+        ocs:C20537,
+        ocs:C27680 .
+

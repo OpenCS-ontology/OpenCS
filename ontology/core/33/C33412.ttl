@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33412 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/P-nuclei> ;
+    skos:prefLabel "p-Nuclei" ;
+    skos:related ocs:C22014,
+        ocs:C29045,
+        ocs:C31515,
+        ocs:C34502,
+        ocs:C37112,
+        ocs:C44452 .
+

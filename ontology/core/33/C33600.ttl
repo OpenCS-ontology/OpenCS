@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33600 a skos:Concept ;
+    skos:broader ocs:C21908,
+        ocs:C23964 ;
+    skos:closeMatch <http://dbpedia.org/resource/Net_bias> ;
+    skos:prefLabel "Net bias" ;
+    skos:related ocs:C19350,
+        ocs:C20691,
+        ocs:C22407,
+        ocs:C23964,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26341,
+        ocs:C31459,
+        ocs:C3705,
+        ocs:C41496,
+        ocs:C4197,
+        ocs:C44252,
+        ocs:C44266,
+        ocs:C5109,
+        ocs:C6592,
+        ocs:C8614,
+        ocs:C9392 .
+

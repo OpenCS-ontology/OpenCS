@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19366 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Public_broadcasting> ;
+    skos:prefLabel "Public broadcasting" ;
+    skos:related ocs:C10409,
+        ocs:C12544,
+        ocs:C12999,
+        ocs:C15505,
+        ocs:C19903,
+        ocs:C21312,
+        ocs:C26020,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C31899,
+        ocs:C32488,
+        ocs:C36807,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C8614 .
+

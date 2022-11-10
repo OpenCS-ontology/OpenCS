@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10338 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fjölnir_(programming_language)> ;
+    skos:prefLabel "Fjölnir" ;
+    skos:related ocs:C1,
+        ocs:C1142,
+        ocs:C18469,
+        ocs:C19,
+        ocs:C23249,
+        ocs:C24909,
+        ocs:C28801,
+        ocs:C28944,
+        ocs:C35502,
+        ocs:C36601,
+        ocs:C4321,
+        ocs:C5515,
+        ocs:C5529,
+        ocs:C6411,
+        ocs:C8441,
+        ocs:C9586,
+        ocs:C9898 .
+

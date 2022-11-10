@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28676 a skos:Concept ;
+    skos:broader ocs:C3835 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_by_acquaintance> ;
+    skos:prefLabel "Knowledge by acquaintance" ;
+    skos:related ocs:C1029,
+        ocs:C11021,
+        ocs:C2995,
+        ocs:C3835,
+        ocs:C5817 .
+

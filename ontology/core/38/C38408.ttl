@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38408 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resolv.conf> ;
+    skos:prefLabel "resolv.conf" ;
+    skos:related ocs:C14271,
+        ocs:C19000,
+        ocs:C20205,
+        ocs:C26114,
+        ocs:C31222,
+        ocs:C34662,
+        ocs:C35631,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C40509,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C43392,
+        ocs:C6605,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9683,
+        ocs:C9938 .
+

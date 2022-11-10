@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41464 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C31362,
+        ocs:C33033,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniformly_convex_space> ;
+    skos:prefLabel "Uniformly convex space" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C34074,
+        ocs:C36507,
+        ocs:C39124,
+        ocs:C39925,
+        ocs:C42981,
+        ocs:C43376,
+        ocs:C44001,
+        ocs:C44450 .
+

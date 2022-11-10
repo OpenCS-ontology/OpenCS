@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C322 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_boot> ;
+    skos:prefLabel "Double boot" ;
+    skos:related ocs:C10271,
+        ocs:C10320,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C14526,
+        ocs:C15529,
+        ocs:C19481,
+        ocs:C20065,
+        ocs:C24214,
+        ocs:C26451,
+        ocs:C26709,
+        ocs:C30378,
+        ocs:C35309,
+        ocs:C38790,
+        ocs:C4610,
+        ocs:C74,
+        ocs:C9425 .
+

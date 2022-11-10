@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33837 a skos:Concept ;
+    skos:broader ocs:C18386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paragoge> ;
+    skos:prefLabel "Paragoge" ;
+    skos:related ocs:C13096,
+        ocs:C14010,
+        ocs:C14527,
+        ocs:C18386,
+        ocs:C19146,
+        ocs:C19169,
+        ocs:C2025,
+        ocs:C27881,
+        ocs:C3356 .
+

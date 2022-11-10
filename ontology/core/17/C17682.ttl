@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17682 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/First_passage_percolation> ;
+    skos:prefLabel "First passage percolation" ;
+    skos:related ocs:C16667,
+        ocs:C19399,
+        ocs:C23164,
+        ocs:C28521,
+        ocs:C28991,
+        ocs:C30730,
+        ocs:C31138,
+        ocs:C33768,
+        ocs:C40110,
+        ocs:C7689 .
+

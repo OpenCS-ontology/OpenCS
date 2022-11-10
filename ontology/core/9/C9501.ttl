@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9501 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direction_cosine> ;
+    skos:prefLabel "Direction cosine" ;
+    skos:related ocs:C10051,
+        ocs:C1385,
+        ocs:C14325,
+        ocs:C16671,
+        ocs:C1884,
+        ocs:C42150,
+        ocs:C5969 .
+

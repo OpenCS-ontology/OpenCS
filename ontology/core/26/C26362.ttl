@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26362 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communicative_ecology> ;
+    skos:prefLabel "Communicative ecology" ;
+    skos:related ocs:C11026,
+        ocs:C13094,
+        ocs:C18683,
+        ocs:C22708,
+        ocs:C23866,
+        ocs:C26217,
+        ocs:C35838,
+        ocs:C6757 .
+

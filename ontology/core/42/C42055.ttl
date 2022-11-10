@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42055 a skos:Concept ;
+    skos:broader ocs:C30272,
+        ocs:C31113,
+        ocs:C33603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Life-like_cellular_automaton> ;
+    skos:prefLabel "Life-like cellular automaton" ;
+    skos:related ocs:C11199,
+        ocs:C11405,
+        ocs:C122,
+        ocs:C15534,
+        ocs:C16298,
+        ocs:C22255,
+        ocs:C25857,
+        ocs:C26275,
+        ocs:C3136,
+        ocs:C3466,
+        ocs:C39305,
+        ocs:C39484,
+        ocs:C42099,
+        ocs:C42980,
+        ocs:C43654,
+        ocs:C43807,
+        ocs:C45217,
+        ocs:C8104,
+        ocs:C9798 .
+

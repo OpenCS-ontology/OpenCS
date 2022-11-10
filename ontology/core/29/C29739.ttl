@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29739 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/PatrolBot> ;
+    skos:prefLabel "PatrolBot" ;
+    skos:related ocs:C10396,
+        ocs:C14324,
+        ocs:C15308,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C19558,
+        ocs:C20576,
+        ocs:C28127,
+        ocs:C30596,
+        ocs:C31485,
+        ocs:C33579,
+        ocs:C36413,
+        ocs:C36715,
+        ocs:C6495,
+        ocs:C8,
+        ocs:C8089 .
+

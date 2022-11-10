@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19333 a skos:Concept ;
+    skos:broader ocs:C12431 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toner_refill> ;
+    skos:prefLabel "Toner refill" ;
+    skos:related ocs:C1397,
+        ocs:C15450,
+        ocs:C1597,
+        ocs:C5450 .
+

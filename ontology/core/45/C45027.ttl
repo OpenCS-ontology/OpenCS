@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45027 a skos:Concept ;
+    skos:broader ocs:C33349,
+        ocs:C34619 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foundations_of_statistics> ;
+    skos:prefLabel "Foundations of statistics" ;
+    skos:related ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C23670,
+        ocs:C32717,
+        ocs:C33349,
+        ocs:C34894,
+        ocs:C38771,
+        ocs:C41344,
+        ocs:C41574,
+        ocs:C6291,
+        ocs:C6692 .
+

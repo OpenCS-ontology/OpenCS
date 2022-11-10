@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16164 a skos:Concept ;
+    skos:broader ocs:C11016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event_cascade> ;
+    skos:prefLabel "Event cascade" ;
+    skos:related ocs:C10720,
+        ocs:C11016,
+        ocs:C11927,
+        ocs:C14632,
+        ocs:C1690,
+        ocs:C26700,
+        ocs:C31658,
+        ocs:C38645,
+        ocs:C42496,
+        ocs:C4261,
+        ocs:C6072,
+        ocs:C7530 .
+

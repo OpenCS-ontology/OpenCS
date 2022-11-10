@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41903 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bio-inspired_robotics> ;
+    skos:prefLabel "Bio-inspired robotics" ;
+    skos:related ocs:C10144,
+        ocs:C10396,
+        ocs:C12432,
+        ocs:C17236,
+        ocs:C20380,
+        ocs:C23260,
+        ocs:C28948,
+        ocs:C37901,
+        ocs:C7368,
+        ocs:C7513,
+        ocs:C9265 .
+

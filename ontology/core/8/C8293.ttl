@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8293 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wake-on-ring> ;
+    skos:prefLabel "Wake-on-ring" ;
+    skos:related ocs:C10568,
+        ocs:C15512,
+        ocs:C16205,
+        ocs:C2534,
+        ocs:C26,
+        ocs:C27560,
+        ocs:C28881,
+        ocs:C2917,
+        ocs:C3195,
+        ocs:C36766,
+        ocs:C3893,
+        ocs:C9 .
+

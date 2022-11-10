@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1888 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Looj> ;
+    skos:prefLabel "Looj" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C26181,
+        ocs:C28740,
+        ocs:C30596,
+        ocs:C36316,
+        ocs:C36413,
+        ocs:C36715,
+        ocs:C36944,
+        ocs:C41082,
+        ocs:C43810,
+        ocs:C45473 .
+

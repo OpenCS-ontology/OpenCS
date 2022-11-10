@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15898 a skos:Concept ;
+    skos:broader ocs:C12099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rational_series> ;
+    skos:prefLabel "Rational series" ;
+    skos:related ocs:C11706,
+        ocs:C12986,
+        ocs:C17566,
+        ocs:C22977,
+        ocs:C25398,
+        ocs:C3398 .
+

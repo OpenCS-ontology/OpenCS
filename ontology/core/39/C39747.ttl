@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39747 a skos:Concept ;
+    skos:broader ocs:C29941,
+        ocs:C30801,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C34380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_polynomial> ;
+    skos:prefLabel "Generic polynomial" ;
+    skos:related ocs:C19545,
+        ocs:C24843,
+        ocs:C34380,
+        ocs:C38194,
+        ocs:C38426,
+        ocs:C40475,
+        ocs:C41535,
+        ocs:C45489 .
+

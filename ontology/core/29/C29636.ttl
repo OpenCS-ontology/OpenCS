@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29636 a skos:Concept ;
+    skos:broader ocs:C17238,
+        ocs:C17267,
+        ocs:C27184 ;
+    skos:prefLabel "Unified service description language" .
+

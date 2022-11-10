@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12010 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sports_betting_systems> ;
+    skos:prefLabel "Sports betting systems" ;
+    skos:related ocs:C17624,
+        ocs:C22413,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C82,
+        ocs:C9428,
+        ocs:C9874 .
+

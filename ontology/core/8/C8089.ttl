@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8089 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Home_automation_for_the_elderly_and_disabled> ;
+    skos:prefLabel "Home automation for the elderly and disabled" ;
+    skos:related ocs:C10396,
+        ocs:C11153,
+        ocs:C12651,
+        ocs:C1626,
+        ocs:C17554,
+        ocs:C1793,
+        ocs:C20231,
+        ocs:C2316,
+        ocs:C29739,
+        ocs:C33579,
+        ocs:C3852,
+        ocs:C4381,
+        ocs:C5574 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31309 a skos:Concept ;
+    skos:broader ocs:C14414,
+        ocs:C15070,
+        ocs:C21263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conjugate_residual_method> ;
+    skos:prefLabel "Conjugate residual method" ;
+    skos:related ocs:C15070,
+        ocs:C18821,
+        ocs:C19348,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C24606,
+        ocs:C32053,
+        ocs:C32580,
+        ocs:C34390,
+        ocs:C36683,
+        ocs:C41602,
+        ocs:C42610,
+        ocs:C5201 .
+

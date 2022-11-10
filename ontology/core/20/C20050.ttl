@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20050 a skos:Concept ;
+    skos:broader ocs:C10670,
+        ocs:C13685,
+        ocs:C6116 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semiparametric_regression> ;
+    skos:prefLabel "Semiparametric regression" ;
+    skos:related ocs:C10138,
+        ocs:C10670,
+        ocs:C17724,
+        ocs:C19045,
+        ocs:C22413,
+        ocs:C26880,
+        ocs:C28403,
+        ocs:C29209,
+        ocs:C35633,
+        ocs:C38662,
+        ocs:C4643,
+        ocs:C5087,
+        ocs:C5499,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C7471 .
+

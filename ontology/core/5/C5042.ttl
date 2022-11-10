@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5042 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finite_impulse_response> ;
+    skos:prefLabel "Finite impulse response" ;
+    skos:related ocs:C11150,
+        ocs:C12092,
+        ocs:C123,
+        ocs:C1274,
+        ocs:C1449,
+        ocs:C18077,
+        ocs:C21021,
+        ocs:C2168,
+        ocs:C23968,
+        ocs:C251,
+        ocs:C42625,
+        ocs:C5298,
+        ocs:C658 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42850 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rao–Blackwell_theorem> ;
+    skos:prefLabel "Rao–Blackwell theorem" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C22258,
+        ocs:C25355,
+        ocs:C27667,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C35658,
+        ocs:C39749,
+        ocs:C45149 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1589 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Invention_of_radio> ;
+    skos:prefLabel "Invention of radio" ;
+    skos:related ocs:C10078,
+        ocs:C10103,
+        ocs:C1219,
+        ocs:C16547,
+        ocs:C17127,
+        ocs:C17383,
+        ocs:C21441,
+        ocs:C3,
+        ocs:C3236,
+        ocs:C7159 .
+

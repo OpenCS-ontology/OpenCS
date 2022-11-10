@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21135 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C1132,
+        ocs:C12238,
+        ocs:C1728 ;
+    skos:prefLabel "Social data analytics" .
+

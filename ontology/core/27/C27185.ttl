@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27185 a skos:Concept ;
+    skos:broader ocs:C2050,
+        ocs:C3639,
+        ocs:C6255,
+        ocs:C6918,
+        ocs:C6941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_algebraic_data_type> ;
+    skos:prefLabel "Generalized algebraic data type" ;
+    skos:related ocs:C10498,
+        ocs:C10608,
+        ocs:C12987,
+        ocs:C16537,
+        ocs:C16614,
+        ocs:C17906,
+        ocs:C18772,
+        ocs:C19,
+        ocs:C20000,
+        ocs:C20150,
+        ocs:C28944,
+        ocs:C29735,
+        ocs:C38070,
+        ocs:C6918,
+        ocs:C6941 .
+

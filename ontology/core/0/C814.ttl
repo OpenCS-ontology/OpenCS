@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C814 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Pressure suit" ;
+    skos:related ocs:C4718,
+        ocs:C5293 .
+

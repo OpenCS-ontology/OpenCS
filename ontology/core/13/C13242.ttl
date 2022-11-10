@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13242 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Capacity_optimization> ;
+    skos:prefLabel "Capacity optimization" ;
+    skos:related ocs:C16350,
+        ocs:C22190,
+        ocs:C23875,
+        ocs:C27200,
+        ocs:C31489,
+        ocs:C35539,
+        ocs:C35544,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C3936,
+        ocs:C4026,
+        ocs:C5167,
+        ocs:C5930,
+        ocs:C753,
+        ocs:C8750 .
+

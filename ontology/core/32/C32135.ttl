@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32135 a skos:Concept ;
+    skos:broader ocs:C14053,
+        ocs:C19342,
+        ocs:C19903 ;
+    skos:closeMatch <http://dbpedia.org/resource/MW_DX> ;
+    skos:prefLabel "MW DX" ;
+    skos:related ocs:C10409,
+        ocs:C12757,
+        ocs:C15505,
+        ocs:C15511,
+        ocs:C15824,
+        ocs:C19903,
+        ocs:C21604,
+        ocs:C29007,
+        ocs:C3044,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C36245,
+        ocs:C8700,
+        ocs:C9263 .
+

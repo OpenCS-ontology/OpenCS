@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27768 a skos:Concept ;
+    skos:broader ocs:C8711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physical_access> ;
+    skos:prefLabel "Physical access" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C11300,
+        ocs:C1253,
+        ocs:C21383,
+        ocs:C33857,
+        ocs:C33988,
+        ocs:C34951,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C35388,
+        ocs:C38723,
+        ocs:C4513,
+        ocs:C45563,
+        ocs:C7006,
+        ocs:C7738,
+        ocs:C8711,
+        ocs:C9 .
+

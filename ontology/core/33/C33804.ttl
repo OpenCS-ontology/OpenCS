@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33804 a skos:Concept ;
+    skos:broader ocs:C16947,
+        ocs:C18623 ;
+    skos:closeMatch <http://dbpedia.org/resource/GSP_Algorithm> ;
+    skos:prefLabel "GSP Algorithm" ;
+    skos:related ocs:C16947,
+        ocs:C18623,
+        ocs:C34006,
+        ocs:C5512 .
+

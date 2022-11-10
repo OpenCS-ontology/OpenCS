@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36214 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ariidae> ;
+    skos:prefLabel "Ariidae" ;
+    skos:related ocs:C24236,
+        ocs:C30959,
+        ocs:C31809,
+        ocs:C36286,
+        ocs:C39669,
+        ocs:C40967 .
+

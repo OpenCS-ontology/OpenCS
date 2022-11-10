@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34900 a skos:Concept ;
+    skos:broader ocs:C20806 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biomechanics_of_sprint_running> ;
+    skos:prefLabel "Biomechanics of sprint running" ;
+    skos:related ocs:C2658,
+        ocs:C27122,
+        ocs:C36199 .
+

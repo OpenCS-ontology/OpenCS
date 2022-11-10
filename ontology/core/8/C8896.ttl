@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8896 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operations_support_system> ;
+    skos:prefLabel "Operations support system" ;
+    skos:related ocs:C12319,
+        ocs:C12583,
+        ocs:C12835,
+        ocs:C15589,
+        ocs:C1634,
+        ocs:C23462,
+        ocs:C25293,
+        ocs:C2837,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C3468,
+        ocs:C35367,
+        ocs:C3778,
+        ocs:C4197,
+        ocs:C45575,
+        ocs:C45641,
+        ocs:C6027,
+        ocs:C8567,
+        ocs:C9176 .
+

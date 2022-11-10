@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12164 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prepared_statement> ;
+    skos:prefLabel "Prepared statement" ;
+    skos:related ocs:C10284,
+        ocs:C12185,
+        ocs:C13984,
+        ocs:C16874,
+        ocs:C18567,
+        ocs:C20515,
+        ocs:C23139,
+        ocs:C32657,
+        ocs:C33457,
+        ocs:C36084,
+        ocs:C45138,
+        ocs:C45343,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C9056 .
+

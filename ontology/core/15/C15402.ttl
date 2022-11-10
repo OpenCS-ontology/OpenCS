@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15402 a skos:Concept ;
+    skos:broader ocs:C6753,
+        ocs:C7510 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_privacy> ;
+    skos:prefLabel "Medical privacy" ;
+    skos:related ocs:C12378,
+        ocs:C12434,
+        ocs:C14105,
+        ocs:C28085,
+        ocs:C31854,
+        ocs:C35,
+        ocs:C37237,
+        ocs:C394,
+        ocs:C42769,
+        ocs:C45697,
+        ocs:C5 .
+

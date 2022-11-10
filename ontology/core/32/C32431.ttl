@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32431 a skos:Concept ;
+    skos:broader ocs:C22407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text-based_protocol> ;
+    skos:prefLabel "Text-based protocol" ;
+    skos:related ocs:C11927,
+        ocs:C13068,
+        ocs:C14983,
+        ocs:C15449,
+        ocs:C15478,
+        ocs:C16980,
+        ocs:C17794,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C22597,
+        ocs:C23162,
+        ocs:C24323,
+        ocs:C27923,
+        ocs:C28637,
+        ocs:C30474,
+        ocs:C34358,
+        ocs:C37311,
+        ocs:C3968,
+        ocs:C9931 .
+

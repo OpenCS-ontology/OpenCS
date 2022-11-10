@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5611 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Termite-inspired_robots> ;
+    skos:prefLabel "Termite-inspired robots" ;
+    skos:related ocs:C17236,
+        ocs:C19558,
+        ocs:C28127,
+        ocs:C33579,
+        ocs:C34991,
+        ocs:C36290,
+        ocs:C36567,
+        ocs:C36715,
+        ocs:C40324,
+        ocs:C41903 .
+

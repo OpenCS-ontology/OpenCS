@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5104 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-bearer_network> ;
+    skos:prefLabel "Multi-bearer network" ;
+    skos:related ocs:C15589,
+        ocs:C16666,
+        ocs:C19350,
+        ocs:C20323,
+        ocs:C21203,
+        ocs:C25123,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C27574,
+        ocs:C28790,
+        ocs:C2917,
+        ocs:C30341,
+        ocs:C34908,
+        ocs:C38824,
+        ocs:C390,
+        ocs:C41620,
+        ocs:C42429,
+        ocs:C44036,
+        ocs:C443 .
+

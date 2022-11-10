@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21093 a skos:Concept ;
+    skos:broader ocs:C5692,
+        ocs:C7106,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oblivious_ram> ;
+    skos:prefLabel "Oblivious ram" ;
+    skos:related ocs:C10320,
+        ocs:C20377,
+        ocs:C22099,
+        ocs:C22100,
+        ocs:C24700,
+        ocs:C28074,
+        ocs:C28639,
+        ocs:C29363,
+        ocs:C29841,
+        ocs:C32771,
+        ocs:C3678,
+        ocs:C39619,
+        ocs:C39850,
+        ocs:C412,
+        ocs:C41424,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C45181,
+        ocs:C6537 .
+

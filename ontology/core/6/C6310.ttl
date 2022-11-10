@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6310 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_deletion> ;
+    skos:prefLabel "File deletion" ;
+    skos:related ocs:C12211,
+        ocs:C13783,
+        ocs:C22957,
+        ocs:C24871,
+        ocs:C25031,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C328,
+        ocs:C3799,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9938 .
+

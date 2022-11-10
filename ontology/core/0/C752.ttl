@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C752 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/GiST> ;
+    skos:prefLabel "GiST" ;
+    skos:related ocs:C10444,
+        ocs:C13296,
+        ocs:C14025,
+        ocs:C14416,
+        ocs:C18220,
+        ocs:C20046,
+        ocs:C20378,
+        ocs:C20539,
+        ocs:C26515,
+        ocs:C2674,
+        ocs:C28963,
+        ocs:C34223,
+        ocs:C42030,
+        ocs:C43779,
+        ocs:C45138,
+        ocs:C6693,
+        ocs:C8519,
+        ocs:C8522,
+        ocs:C8893 .
+

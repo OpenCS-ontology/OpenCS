@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40793 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C33529,
+        ocs:C36508,
+        ocs:C36913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_compression> ;
+    skos:prefLabel "Semantic compression" ;
+    skos:related ocs:C10102,
+        ocs:C1132,
+        ocs:C1451,
+        ocs:C1842,
+        ocs:C23422,
+        ocs:C24316,
+        ocs:C2468,
+        ocs:C27459,
+        ocs:C312,
+        ocs:C31956,
+        ocs:C32,
+        ocs:C38887,
+        ocs:C39451,
+        ocs:C42910,
+        ocs:C5852,
+        ocs:C6018,
+        ocs:C8710,
+        ocs:C928,
+        ocs:C936 .
+

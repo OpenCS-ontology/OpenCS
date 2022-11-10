@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28804 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Essential_range> ;
+    skos:prefLabel "Essential range" ;
+    skos:related ocs:C24810,
+        ocs:C26013,
+        ocs:C30507,
+        ocs:C33679,
+        ocs:C34074,
+        ocs:C36974,
+        ocs:C39746,
+        ocs:C40562,
+        ocs:C44908 .
+

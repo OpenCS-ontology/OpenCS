@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26582 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C2409,
+        ocs:C4199,
+        ocs:C6448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallel_rendering> ;
+    skos:prefLabel "Parallel rendering" ;
+    skos:related ocs:C12454,
+        ocs:C14416,
+        ocs:C15478,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C19525,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C24205,
+        ocs:C24235,
+        ocs:C24861,
+        ocs:C27,
+        ocs:C28233,
+        ocs:C30,
+        ocs:C30435,
+        ocs:C35950,
+        ocs:C42202,
+        ocs:C42716,
+        ocs:C7000,
+        ocs:C7914 .
+

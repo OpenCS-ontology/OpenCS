@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10877 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_form> ;
+    skos:prefLabel "Logical form" ;
+    skos:related ocs:C1034,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C11088,
+        ocs:C126,
+        ocs:C1451,
+        ocs:C26760,
+        ocs:C38823,
+        ocs:C4073,
+        ocs:C44811,
+        ocs:C4557,
+        ocs:C524,
+        ocs:C8080,
+        ocs:C8697,
+        ocs:C9834 .
+

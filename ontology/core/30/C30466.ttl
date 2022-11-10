@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30466 a skos:Concept ;
+    skos:broader ocs:C28075 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lattice_sieving> ;
+    skos:prefLabel "Lattice sieving" ;
+    skos:related ocs:C3144,
+        ocs:C37205,
+        ocs:C40515,
+        ocs:C4466,
+        ocs:C45822,
+        ocs:C6475 .
+

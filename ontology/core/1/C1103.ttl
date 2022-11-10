@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1103 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_model> ;
+    skos:prefLabel "Online model" ;
+    skos:related ocs:C10222,
+        ocs:C13722,
+        ocs:C17733,
+        ocs:C28698,
+        ocs:C3987,
+        ocs:C45617,
+        ocs:C492,
+        ocs:C854,
+        ocs:C9428 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C424 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boosting_(machine_learning)> ;
+    skos:prefLabel "Boosting (machine learning)" ;
+    skos:related ocs:C11030,
+        ocs:C15879,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C22432,
+        ocs:C22643,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C32775,
+        ocs:C3512,
+        ocs:C40467,
+        ocs:C42330,
+        ocs:C6021,
+        ocs:C610,
+        ocs:C7803,
+        ocs:C8,
+        ocs:C9022 .
+

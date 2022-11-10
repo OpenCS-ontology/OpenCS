@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32726 a skos:Concept ;
+    skos:broader ocs:C17117,
+        ocs:C17236,
+        ocs:C17913,
+        ocs:C19558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Android_science> ;
+    skos:prefLabel "Android science" ;
+    skos:related ocs:C10396,
+        ocs:C12451,
+        ocs:C17117,
+        ocs:C17816,
+        ocs:C17913,
+        ocs:C19558,
+        ocs:C20576,
+        ocs:C21943,
+        ocs:C23845,
+        ocs:C30191,
+        ocs:C31062,
+        ocs:C33411,
+        ocs:C35770,
+        ocs:C3694,
+        ocs:C40076 .
+

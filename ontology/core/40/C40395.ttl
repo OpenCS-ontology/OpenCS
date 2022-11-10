@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40395 a skos:Concept ;
+    skos:broader ocs:C29546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proof_of_impossibility> ;
+    skos:prefLabel "Proof of impossibility" ;
+    skos:related ocs:C12474,
+        ocs:C13511,
+        ocs:C14986,
+        ocs:C28286 .
+

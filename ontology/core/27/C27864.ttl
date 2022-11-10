@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27864 a skos:Concept ;
+    skos:broader ocs:C4217 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moving_average_crossover> ;
+    skos:prefLabel "Moving average crossover" ;
+    skos:related ocs:C14027,
+        ocs:C14424,
+        ocs:C14656,
+        ocs:C18368,
+        ocs:C19457,
+        ocs:C23563,
+        ocs:C35994,
+        ocs:C4217,
+        ocs:C4515,
+        ocs:C7052,
+        ocs:C9428 .
+

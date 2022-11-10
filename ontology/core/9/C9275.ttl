@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9275 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_tool> ;
+    skos:prefLabel "Design tool" ;
+    skos:related ocs:C2135,
+        ocs:C7000,
+        ocs:C7170,
+        ocs:C7914 .
+

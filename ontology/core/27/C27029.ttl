@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27029 a skos:Concept ;
+    skos:broader ocs:C5508,
+        ocs:C5625 ;
+    skos:closeMatch <http://dbpedia.org/resource/Travel_survey> ;
+    skos:prefLabel "Travel survey" ;
+    skos:related ocs:C13626,
+        ocs:C14215,
+        ocs:C16921,
+        ocs:C5508 .
+

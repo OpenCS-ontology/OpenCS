@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2466 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Georef> ;
+    skos:prefLabel "Georef" ;
+    skos:related ocs:C11446,
+        ocs:C16293,
+        ocs:C18996,
+        ocs:C20731,
+        ocs:C23477,
+        ocs:C37444,
+        ocs:C8708 .
+

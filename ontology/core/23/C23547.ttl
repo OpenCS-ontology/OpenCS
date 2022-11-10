@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23547 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5816,
+        ocs:C8332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_processing_inequality> ;
+    skos:prefLabel "Data processing inequality" .
+

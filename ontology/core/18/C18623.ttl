@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18623 a skos:Concept ;
+    skos:broader ocs:C7553 ;
+    skos:closeMatch <http://dbpedia.org/resource/FSA-Red_Algorithm> ;
+    skos:prefLabel "FSA-Red Algorithm" ;
+    skos:related ocs:C13,
+        ocs:C16947,
+        ocs:C21,
+        ocs:C29,
+        ocs:C33804,
+        ocs:C3736,
+        ocs:C5512,
+        ocs:C6590,
+        ocs:C8,
+        ocs:C9488 .
+

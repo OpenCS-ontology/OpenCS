@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32284 a skos:Concept ;
+    skos:broader ocs:C17896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Measurement_microphone_calibration> ;
+    skos:prefLabel "Measurement microphone calibration" ;
+    skos:related ocs:C13211,
+        ocs:C1624,
+        ocs:C16548,
+        ocs:C20663,
+        ocs:C38517,
+        ocs:C40826,
+        ocs:C5139,
+        ocs:C5843,
+        ocs:C6417,
+        ocs:C8291 .
+

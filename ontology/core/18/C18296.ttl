@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18296 a skos:Concept ;
+    skos:broader ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acrophony> ;
+    skos:prefLabel "Acrophony" ;
+    skos:related ocs:C19493,
+        ocs:C25565,
+        ocs:C27886,
+        ocs:C37245,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C7131,
+        ocs:C8020 .
+

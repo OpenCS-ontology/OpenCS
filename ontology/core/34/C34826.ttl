@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34826 a skos:Concept ;
+    skos:broader ocs:C19721,
+        ocs:C23457,
+        ocs:C23739,
+        ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frequency_ambiguity_resolution> ;
+    skos:prefLabel "Frequency ambiguity resolution" ;
+    skos:related ocs:C11443,
+        ocs:C1636,
+        ocs:C23739,
+        ocs:C24353,
+        ocs:C8789 .
+

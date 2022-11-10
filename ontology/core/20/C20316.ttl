@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20316 a skos:Concept ;
+    skos:broader ocs:C13467 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_recording> ;
+    skos:prefLabel "Analog recording" ;
+    skos:related ocs:C12430,
+        ocs:C13467,
+        ocs:C1704,
+        ocs:C25195,
+        ocs:C26575,
+        ocs:C30569,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C7255,
+        ocs:C8291,
+        ocs:C9775 .
+

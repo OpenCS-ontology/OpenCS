@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13108 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaborative_intelligence> ;
+    skos:prefLabel "Collaborative intelligence" ;
+    skos:related ocs:C11026,
+        ocs:C11036,
+        ocs:C12530,
+        ocs:C1403,
+        ocs:C17394,
+        ocs:C17658,
+        ocs:C19750,
+        ocs:C211,
+        ocs:C22668,
+        ocs:C25503,
+        ocs:C27563,
+        ocs:C37675,
+        ocs:C4866,
+        ocs:C5140,
+        ocs:C7513,
+        ocs:C7553,
+        ocs:C8,
+        ocs:C8614,
+        ocs:C9373 .
+

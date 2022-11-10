@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15366 a skos:Concept ;
+    skos:broader ocs:C3514,
+        ocs:C3990,
+        ocs:C5198,
+        ocs:C5706,
+        ocs:C8204 ;
+    skos:prefLabel "Conditional critical regions" .
+

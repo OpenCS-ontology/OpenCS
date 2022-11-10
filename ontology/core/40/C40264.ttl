@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40264 a skos:Concept ;
+    skos:broader ocs:C35009,
+        ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/One_instruction_set_computer> ;
+    skos:prefLabel "One instruction set computer" ;
+    skos:related ocs:C10320,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21718,
+        ocs:C22100,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C38439,
+        ocs:C39214,
+        ocs:C39944,
+        ocs:C42091,
+        ocs:C45680,
+        ocs:C6280,
+        ocs:C6411,
+        ocs:C6525,
+        ocs:C856 .
+

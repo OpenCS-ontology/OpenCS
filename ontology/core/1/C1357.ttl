@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1357 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_server> ;
+    skos:prefLabel "Image server" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C12741,
+        ocs:C15883,
+        ocs:C17235,
+        ocs:C22734,
+        ocs:C2464,
+        ocs:C26528,
+        ocs:C27266,
+        ocs:C27492,
+        ocs:C28533,
+        ocs:C35078,
+        ocs:C37962,
+        ocs:C4233,
+        ocs:C45402,
+        ocs:C4584,
+        ocs:C797,
+        ocs:C9646 .
+

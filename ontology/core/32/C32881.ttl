@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32881 a skos:Concept ;
+    skos:broader ocs:C17726 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antimatroid> ;
+    skos:prefLabel "Antimatroid" ;
+    skos:related ocs:C11771,
+        ocs:C17726,
+        ocs:C26579,
+        ocs:C31762,
+        ocs:C33872 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25310 a skos:Concept ;
+    skos:broader ocs:C12112 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_bubble_pressure_method> ;
+    skos:prefLabel "Maximum bubble pressure method" ;
+    skos:related ocs:C34897,
+        ocs:C37613 .
+

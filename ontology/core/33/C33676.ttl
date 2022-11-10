@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33676 a skos:Concept ;
+    skos:broader ocs:C15862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neutrino_Factory> ;
+    skos:prefLabel "Neutrino Factory" ;
+    skos:related ocs:C15862,
+        ocs:C21446,
+        ocs:C35727,
+        ocs:C39802,
+        ocs:C42184 .
+

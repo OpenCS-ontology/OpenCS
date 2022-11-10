@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14861 a skos:Concept ;
+    skos:broader ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_test_image> ;
+    skos:prefLabel "Standard test image" ;
+    skos:related ocs:C1023,
+        ocs:C10973,
+        ocs:C11347,
+        ocs:C22623,
+        ocs:C23246,
+        ocs:C2801,
+        ocs:C29997,
+        ocs:C31108,
+        ocs:C41977,
+        ocs:C4584,
+        ocs:C6178,
+        ocs:C8499 .
+

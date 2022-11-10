@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11072 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toothpick_sequence> ;
+    skos:prefLabel "Toothpick sequence" ;
+    skos:related ocs:C122,
+        ocs:C12448,
+        ocs:C18434,
+        ocs:C2115,
+        ocs:C39305,
+        ocs:C43071,
+        ocs:C45217 .
+

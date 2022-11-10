@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1062 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model_output_statistics> ;
+    skos:prefLabel "Statistical Output" ;
+    skos:related ocs:C10211,
+        ocs:C11986,
+        ocs:C17,
+        ocs:C2,
+        ocs:C33,
+        ocs:C4032,
+        ocs:C4703,
+        ocs:C6395,
+        ocs:C6714,
+        ocs:C8203 .
+

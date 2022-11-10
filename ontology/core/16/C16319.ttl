@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16319 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Censoring_(statistics)> ;
+    skos:prefLabel "Censoring (statistics)" ;
+    skos:related ocs:C14323,
+        ocs:C21368,
+        ocs:C21628,
+        ocs:C21710,
+        ocs:C2781,
+        ocs:C28243,
+        ocs:C33145,
+        ocs:C42398,
+        ocs:C662,
+        ocs:C9740 .
+

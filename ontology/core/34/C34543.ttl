@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34543 a skos:Concept ;
+    skos:broader ocs:C16498 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brand_implementation> ;
+    skos:prefLabel "Brand implementation" ;
+    skos:related ocs:C10982,
+        ocs:C1865,
+        ocs:C20958,
+        ocs:C5916 .
+

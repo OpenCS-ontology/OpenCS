@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21945 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-line-of-sight_propagation> ;
+    skos:prefLabel "Non-line-of-sight propagation" ;
+    skos:related ocs:C1219,
+        ocs:C17383,
+        ocs:C21204,
+        ocs:C23423,
+        ocs:C24264,
+        ocs:C25712,
+        ocs:C3044,
+        ocs:C35931,
+        ocs:C36630,
+        ocs:C37679,
+        ocs:C45299,
+        ocs:C8700 .
+

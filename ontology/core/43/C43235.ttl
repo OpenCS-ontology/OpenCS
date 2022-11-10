@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43235 a skos:Concept ;
+    skos:broader ocs:C32462 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tangential_quadrilateral> ;
+    skos:prefLabel "Tangential quadrilateral" ;
+    skos:related ocs:C13409,
+        ocs:C32462,
+        ocs:C39788 .
+

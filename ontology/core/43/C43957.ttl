@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43957 a skos:Concept ;
+    skos:broader ocs:C36838 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_protector> ;
+    skos:prefLabel "Network protector" ;
+    skos:related ocs:C9718 .
+

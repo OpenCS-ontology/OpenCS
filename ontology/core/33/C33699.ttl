@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33699 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C17726 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circuit_rank> ;
+    skos:prefLabel "Circuit rank" ;
+    skos:related ocs:C14693,
+        ocs:C17726,
+        ocs:C26989,
+        ocs:C30729,
+        ocs:C31629,
+        ocs:C36406,
+        ocs:C38545,
+        ocs:C39263,
+        ocs:C39316,
+        ocs:C39982,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C42087,
+        ocs:C42244,
+        ocs:C43652,
+        ocs:C44136,
+        ocs:C44560,
+        ocs:C45422 .
+

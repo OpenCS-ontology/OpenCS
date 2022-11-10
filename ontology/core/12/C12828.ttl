@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12828 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_Frequency_Data_Link> ;
+    skos:prefLabel "High Frequency Data Link" ;
+    skos:related ocs:C10090,
+        ocs:C10277,
+        ocs:C10919,
+        ocs:C13690,
+        ocs:C15050,
+        ocs:C15796,
+        ocs:C22667,
+        ocs:C23082,
+        ocs:C25311,
+        ocs:C27554,
+        ocs:C30306,
+        ocs:C33387,
+        ocs:C36681,
+        ocs:C39881,
+        ocs:C41676,
+        ocs:C41707,
+        ocs:C42092,
+        ocs:C511 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38678 a skos:Concept ;
+    skos:broader ocs:C30651,
+        ocs:C34795,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Independence-friendly_logic> ;
+    skos:prefLabel "Independence-friendly logic" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C16796,
+        ocs:C1903,
+        ocs:C21946,
+        ocs:C23265,
+        ocs:C2418,
+        ocs:C2727,
+        ocs:C30651,
+        ocs:C35496,
+        ocs:C38926,
+        ocs:C44410,
+        ocs:C4517,
+        ocs:C5714,
+        ocs:C7861,
+        ocs:C8635 .
+

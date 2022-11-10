@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44556 a skos:Concept ;
+    skos:broader ocs:C33140 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hubble_Ultra-Deep_Field> ;
+    skos:prefLabel "Hubble Ultra-Deep Field" ;
+    skos:related ocs:C17246,
+        ocs:C29571,
+        ocs:C30450,
+        ocs:C33140,
+        ocs:C36389,
+        ocs:C44200,
+        ocs:C44587,
+        ocs:C597 .
+

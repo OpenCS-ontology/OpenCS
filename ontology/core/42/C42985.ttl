@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42985 a skos:Concept ;
+    skos:broader ocs:C31693 ;
+    skos:closeMatch <http://dbpedia.org/resource/WAR_(file_format)> ;
+    skos:prefLabel "WAR" ;
+    skos:related ocs:C11128,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C12477,
+        ocs:C13068,
+        ocs:C17183,
+        ocs:C17556,
+        ocs:C22284,
+        ocs:C22597,
+        ocs:C2303,
+        ocs:C2304,
+        ocs:C2674,
+        ocs:C28539,
+        ocs:C29401,
+        ocs:C39156,
+        ocs:C42784,
+        ocs:C7530,
+        ocs:C8091 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39030 a skos:Concept ;
+    skos:broader ocs:C31884,
+        ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chordal_bipartite_graph> ;
+    skos:prefLabel "Chordal bipartite graph" ;
+    skos:related ocs:C14693,
+        ocs:C17043,
+        ocs:C19336,
+        ocs:C32333,
+        ocs:C36126,
+        ocs:C36770,
+        ocs:C38243,
+        ocs:C38404,
+        ocs:C38757,
+        ocs:C40216,
+        ocs:C40398,
+        ocs:C40694,
+        ocs:C40800,
+        ocs:C42392,
+        ocs:C42828,
+        ocs:C43189,
+        ocs:C43479,
+        ocs:C43906,
+        ocs:C44168,
+        ocs:C45741 .
+

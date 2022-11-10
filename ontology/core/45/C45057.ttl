@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45057 a skos:Concept ;
+    skos:broader ocs:C35406 ;
+    skos:prefLabel "Monobothrium" ;
+    skos:related ocs:C35406,
+        ocs:C45085 .
+

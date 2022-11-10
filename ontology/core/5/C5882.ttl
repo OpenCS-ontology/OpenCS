@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5882 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ancillary_data> ;
+    skos:prefLabel "Ancillary data" ;
+    skos:related ocs:C10111,
+        ocs:C12485,
+        ocs:C13466,
+        ocs:C13691,
+        ocs:C14482,
+        ocs:C21949,
+        ocs:C22705,
+        ocs:C27572,
+        ocs:C37407,
+        ocs:C3896,
+        ocs:C39584,
+        ocs:C6817,
+        ocs:C9045,
+        ocs:C9748 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40006 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36406 ;
+    skos:closeMatch <http://dbpedia.org/resource/List_edge-coloring> ;
+    skos:prefLabel "List edge-coloring" ;
+    skos:related ocs:C14693,
+        ocs:C15097,
+        ocs:C37036,
+        ocs:C38560,
+        ocs:C40314,
+        ocs:C40407,
+        ocs:C40485,
+        ocs:C40560,
+        ocs:C40622,
+        ocs:C41137,
+        ocs:C41797,
+        ocs:C41823,
+        ocs:C42377,
+        ocs:C42470,
+        ocs:C43196,
+        ocs:C43652,
+        ocs:C45361,
+        ocs:C45425 .
+

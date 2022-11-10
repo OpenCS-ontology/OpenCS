@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21327 a skos:Concept ;
+    skos:broader ocs:C11088,
+        ocs:C12977,
+        ocs:C1722,
+        ocs:C3058,
+        ocs:C8473,
+        ocs:C852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Opportunistic_reasoning> ;
+    skos:prefLabel "Opportunistic reasoning" ;
+    skos:related ocs:C10616,
+        ocs:C1092,
+        ocs:C12977,
+        ocs:C14156,
+        ocs:C15444,
+        ocs:C22781,
+        ocs:C23248,
+        ocs:C25,
+        ocs:C26760,
+        ocs:C27665,
+        ocs:C3058,
+        ocs:C3565,
+        ocs:C3579,
+        ocs:C5421,
+        ocs:C7311,
+        ocs:C8,
+        ocs:C852 .
+

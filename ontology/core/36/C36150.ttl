@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36150 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C21324 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multisignature> ;
+    skos:prefLabel "Multisignature" ;
+    skos:related ocs:C12450,
+        ocs:C21324,
+        ocs:C23245,
+        ocs:C26452,
+        ocs:C29572,
+        ocs:C30434,
+        ocs:C32051,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C35807,
+        ocs:C37069,
+        ocs:C37228,
+        ocs:C37863,
+        ocs:C38377,
+        ocs:C38681,
+        ocs:C39034,
+        ocs:C39967,
+        ocs:C43305,
+        ocs:C43825,
+        ocs:C45187 .
+

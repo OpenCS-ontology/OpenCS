@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6710 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/VMworld> ;
+    skos:prefLabel "VMworld" ;
+    skos:related ocs:C12075,
+        ocs:C13412,
+        ocs:C13783,
+        ocs:C22904,
+        ocs:C2304,
+        ocs:C26161,
+        ocs:C32389,
+        ocs:C32402,
+        ocs:C36897,
+        ocs:C38488,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C4159,
+        ocs:C43411,
+        ocs:C44344,
+        ocs:C5698,
+        ocs:C7106,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9433 .
+

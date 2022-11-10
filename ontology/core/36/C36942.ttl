@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36942 a skos:Concept ;
+    skos:broader ocs:C15971 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partition_regularity> ;
+    skos:prefLabel "Partition regularity" ;
+    skos:related ocs:C13150,
+        ocs:C17726,
+        ocs:C28070,
+        ocs:C30703,
+        ocs:C31762,
+        ocs:C32746,
+        ocs:C38156,
+        ocs:C9429 .
+

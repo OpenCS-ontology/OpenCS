@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4844 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Date Range" ;
+    skos:related ocs:C17,
+        ocs:C22,
+        ocs:C33,
+        ocs:C3401,
+        ocs:C5160,
+        ocs:C5702,
+        ocs:C8614,
+        ocs:C8704,
+        ocs:C8706 .
+

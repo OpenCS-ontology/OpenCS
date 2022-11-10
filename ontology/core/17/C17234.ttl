@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17234 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_brain> ;
+    skos:prefLabel "Artificial brain" ;
+    skos:related ocs:C11143,
+        ocs:C11874,
+        ocs:C12548,
+        ocs:C20747,
+        ocs:C25,
+        ocs:C27116,
+        ocs:C32,
+        ocs:C3848,
+        ocs:C3932,
+        ocs:C4269,
+        ocs:C44765,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8965,
+        ocs:C9022 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7366 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phased_adoption> ;
+    skos:prefLabel "Phased adoption" ;
+    skos:related ocs:C10225,
+        ocs:C10279,
+        ocs:C10764,
+        ocs:C20086,
+        ocs:C23103,
+        ocs:C2352,
+        ocs:C27567,
+        ocs:C28526,
+        ocs:C31773,
+        ocs:C44586,
+        ocs:C4768,
+        ocs:C8889,
+        ocs:C9014,
+        ocs:C9483 .
+

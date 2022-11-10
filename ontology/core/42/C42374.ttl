@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42374 a skos:Concept ;
+    skos:broader ocs:C31010 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_forensics> ;
+    skos:prefLabel "Database forensics" ;
+    skos:related ocs:C10064,
+        ocs:C1047,
+        ocs:C10988,
+        ocs:C18405,
+        ocs:C24811,
+        ocs:C26532,
+        ocs:C26941,
+        ocs:C35393,
+        ocs:C39810,
+        ocs:C43303,
+        ocs:C43539,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C6654,
+        ocs:C8574 .
+

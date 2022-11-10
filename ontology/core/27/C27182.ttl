@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27182 a skos:Concept ;
+    skos:broader ocs:C2300 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loudness_compensation> ;
+    skos:prefLabel "Loudness compensation" ;
+    skos:related ocs:C14001,
+        ocs:C15451,
+        ocs:C21364,
+        ocs:C2300,
+        ocs:C27090,
+        ocs:C3733,
+        ocs:C38517,
+        ocs:C40768,
+        ocs:C44704,
+        ocs:C9481 .
+

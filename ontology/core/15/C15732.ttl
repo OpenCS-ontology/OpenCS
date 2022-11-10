@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15732 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incidence_structure> ;
+    skos:prefLabel "Incidence structure" ;
+    skos:related ocs:C15255,
+        ocs:C15892,
+        ocs:C19336,
+        ocs:C36126,
+        ocs:C41373 .
+

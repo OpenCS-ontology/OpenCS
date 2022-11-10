@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4519 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/M.2> ;
+    skos:prefLabel "M.2" ;
+    skos:related ocs:C12324,
+        ocs:C13222,
+        ocs:C13783,
+        ocs:C29012,
+        ocs:C3160,
+        ocs:C9448 .
+

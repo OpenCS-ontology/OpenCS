@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7599 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/NOMINATE_(scaling_method)> ;
+    skos:prefLabel "NOMINATE" ;
+    skos:related ocs:C13547,
+        ocs:C1725,
+        ocs:C20003,
+        ocs:C29480,
+        ocs:C29578,
+        ocs:C31554,
+        ocs:C7899,
+        ocs:C9538 .
+

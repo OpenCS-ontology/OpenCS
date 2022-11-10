@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10732 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/125_High_Speed_Mode> ;
+    skos:prefLabel "125 High Speed Mode" ;
+    skos:related ocs:C12111,
+        ocs:C18797,
+        ocs:C19350,
+        ocs:C21424,
+        ocs:C24558,
+        ocs:C33226,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C42902,
+        ocs:C44092,
+        ocs:C45456,
+        ocs:C45627,
+        ocs:C4665 .
+

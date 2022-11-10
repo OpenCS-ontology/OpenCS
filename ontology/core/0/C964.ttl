@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C964 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_purpose_of_a_system_is_what_it_does> ;
+    skos:prefLabel "The purpose of a system is what it does" ;
+    skos:related ocs:C1898,
+        ocs:C2421,
+        ocs:C25913,
+        ocs:C26759,
+        ocs:C29276,
+        ocs:C33050,
+        ocs:C43932,
+        ocs:C4927,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C9373 .
+

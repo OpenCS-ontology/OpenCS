@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20999 a skos:Concept ;
+    skos:broader ocs:C4259,
+        ocs:C6223 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Firmware_Environment> ;
+    skos:prefLabel "Common Firmware Environment" ;
+    skos:related ocs:C10271,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C1254,
+        ocs:C15529,
+        ocs:C19481,
+        ocs:C20065,
+        ocs:C20557,
+        ocs:C22742,
+        ocs:C24214,
+        ocs:C26451,
+        ocs:C26709,
+        ocs:C31489,
+        ocs:C31965,
+        ocs:C43202,
+        ocs:C44,
+        ocs:C44667,
+        ocs:C44872,
+        ocs:C6172,
+        ocs:C6223 .
+

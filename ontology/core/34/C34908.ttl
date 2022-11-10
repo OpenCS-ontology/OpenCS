@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34908 a skos:Concept ;
+    skos:broader ocs:C27704 ;
+    skos:closeMatch <http://dbpedia.org/resource/GPRS_core_network> ;
+    skos:prefLabel "GPRS core network" ;
+    skos:related ocs:C17999,
+        ocs:C20540,
+        ocs:C27704,
+        ocs:C28176,
+        ocs:C31755,
+        ocs:C33895,
+        ocs:C34627,
+        ocs:C35200,
+        ocs:C35692,
+        ocs:C37303,
+        ocs:C37543,
+        ocs:C38053,
+        ocs:C4104,
+        ocs:C41910,
+        ocs:C5917,
+        ocs:C634,
+        ocs:C6987,
+        ocs:C8614,
+        ocs:C9154 .
+

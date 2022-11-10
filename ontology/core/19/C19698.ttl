@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19698 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_telescope> ;
+    skos:prefLabel "Network telescope" ;
+    skos:related ocs:C12240,
+        ocs:C15373,
+        ocs:C18213,
+        ocs:C18986,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C31,
+        ocs:C31257,
+        ocs:C3446,
+        ocs:C35801,
+        ocs:C38211,
+        ocs:C39520,
+        ocs:C41222,
+        ocs:C41298,
+        ocs:C6473,
+        ocs:C8614 .
+

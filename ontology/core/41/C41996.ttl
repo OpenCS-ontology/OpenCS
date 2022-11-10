@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41996 a skos:Concept ;
+    skos:broader ocs:C30344 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_safety> ;
+    skos:prefLabel "Organizational safety" ;
+    skos:related ocs:C11188,
+        ocs:C1332,
+        ocs:C16894,
+        ocs:C21018,
+        ocs:C22412,
+        ocs:C29840,
+        ocs:C6944 .
+

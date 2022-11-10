@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43053 a skos:Concept ;
+    skos:broader ocs:C32204,
+        ocs:C34793,
+        ocs:C36898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cognitive_password> ;
+    skos:prefLabel "Cognitive password" ;
+    skos:related ocs:C14354,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C27509,
+        ocs:C31995,
+        ocs:C32204,
+        ocs:C34793,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C37698,
+        ocs:C40900,
+        ocs:C41893,
+        ocs:C43814,
+        ocs:C4513,
+        ocs:C5731,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C9716 .
+

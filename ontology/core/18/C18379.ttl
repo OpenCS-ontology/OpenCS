@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18379 a skos:Concept ;
+    skos:broader ocs:C3118,
+        ocs:C7527 ;
+    skos:closeMatch <http://dbpedia.org/resource/EDRAM> ;
+    skos:prefLabel "eDRAM" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C13875,
+        ocs:C16592,
+        ocs:C1721,
+        ocs:C1904,
+        ocs:C2191,
+        ocs:C23432,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C3118,
+        ocs:C33838,
+        ocs:C35697 .
+

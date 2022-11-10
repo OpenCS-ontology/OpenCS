@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21267 a skos:Concept ;
+    skos:broader ocs:C1340,
+        ocs:C520,
+        ocs:C8291 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dummy_head_recording> ;
+    skos:prefLabel "Dummy head recording" ;
+    skos:related ocs:C11931,
+        ocs:C13125,
+        ocs:C1340,
+        ocs:C15341,
+        ocs:C17901,
+        ocs:C17927,
+        ocs:C19421,
+        ocs:C25195,
+        ocs:C35237,
+        ocs:C520,
+        ocs:C5711,
+        ocs:C5843,
+        ocs:C5853,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C9481 .
+

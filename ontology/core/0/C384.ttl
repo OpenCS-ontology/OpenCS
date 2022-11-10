@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C384 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evacuation_process_simulation> ;
+    skos:prefLabel "Evacuation process simulation" ;
+    skos:related ocs:C10403,
+        ocs:C10925,
+        ocs:C10997,
+        ocs:C11143,
+        ocs:C11328,
+        ocs:C12373,
+        ocs:C14693,
+        ocs:C19699,
+        ocs:C20012,
+        ocs:C2210,
+        ocs:C24,
+        ocs:C28021,
+        ocs:C42678,
+        ocs:C43807,
+        ocs:C7256 .
+

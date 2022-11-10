@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37945 a skos:Concept ;
+    skos:broader ocs:C31342,
+        ocs:C35077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lagrange's_four-square_theorem> ;
+    skos:prefLabel "Lagrange's four-square theorem" ;
+    skos:related ocs:C43730,
+        ocs:C8789 .
+

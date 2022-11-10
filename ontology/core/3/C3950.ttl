@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3950 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Cipher_Challenge> ;
+    skos:prefLabel "National Cipher Challenge" ;
+    skos:related ocs:C11704,
+        ocs:C12675,
+        ocs:C13163,
+        ocs:C13281,
+        ocs:C17856,
+        ocs:C30538,
+        ocs:C32109,
+        ocs:C35455,
+        ocs:C38920,
+        ocs:C39582,
+        ocs:C40734,
+        ocs:C40751,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C5264,
+        ocs:C6724,
+        ocs:C7567,
+        ocs:C9491 .
+

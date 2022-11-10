@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39306 a skos:Concept ;
+    skos:broader ocs:C31223,
+        ocs:C31956,
+        ocs:C36771 ;
+    skos:closeMatch <http://dbpedia.org/resource/Failure_semantics> ;
+    skos:prefLabel "Failure semantics" ;
+    skos:related ocs:C11351,
+        ocs:C12532,
+        ocs:C13206,
+        ocs:C13680,
+        ocs:C1635,
+        ocs:C17272,
+        ocs:C19153,
+        ocs:C26617,
+        ocs:C26752,
+        ocs:C27105,
+        ocs:C30,
+        ocs:C30399,
+        ocs:C35932,
+        ocs:C37365,
+        ocs:C43849,
+        ocs:C44650,
+        ocs:C6346,
+        ocs:C9067,
+        ocs:C968 .
+

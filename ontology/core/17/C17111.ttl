@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17111 a skos:Concept ;
+    skos:broader ocs:C9538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Johnson–Lindenstrauss_lemma> ;
+    skos:prefLabel "Johnson–Lindenstrauss lemma" ;
+    skos:related ocs:C1306,
+        ocs:C20003,
+        ocs:C23440,
+        ocs:C40113,
+        ocs:C6912,
+        ocs:C6943,
+        ocs:C9538 .
+

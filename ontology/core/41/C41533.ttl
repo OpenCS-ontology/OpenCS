@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41533 a skos:Concept ;
+    skos:broader ocs:C30595,
+        ocs:C32192,
+        ocs:C33191 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-signed_certificate> ;
+    skos:prefLabel "Self-signed certificate" ;
+    skos:related ocs:C14647,
+        ocs:C16125,
+        ocs:C20243,
+        ocs:C21324,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C39017,
+        ocs:C39296,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C42288,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C45747 .
+

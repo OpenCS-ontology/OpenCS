@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41774 a skos:Concept ;
+    skos:broader ocs:C32749,
+        ocs:C33955,
+        ocs:C36128,
+        ocs:C37784 ;
+    skos:closeMatch <http://dbpedia.org/resource/KCNN2> ;
+    skos:prefLabel "KCNN2" ;
+    skos:related ocs:C30416,
+        ocs:C32084,
+        ocs:C32749,
+        ocs:C36762,
+        ocs:C37268,
+        ocs:C39387,
+        ocs:C41701 .
+

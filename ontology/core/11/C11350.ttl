@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11350 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Targeted_immunization_strategies> ;
+    skos:prefLabel "Targeted immunization strategies" ;
+    skos:related ocs:C11026,
+        ocs:C18569,
+        ocs:C19101,
+        ocs:C19399,
+        ocs:C21477,
+        ocs:C23873,
+        ocs:C28521,
+        ocs:C36858,
+        ocs:C597,
+        ocs:C7460 .
+

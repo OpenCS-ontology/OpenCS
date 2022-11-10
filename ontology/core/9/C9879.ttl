@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9879 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structured-light_3D_scanner> ;
+    skos:prefLabel "Structured-light 3D scanner" ;
+    skos:related ocs:C19999,
+        ocs:C2196,
+        ocs:C26733,
+        ocs:C2703,
+        ocs:C2883,
+        ocs:C6951,
+        ocs:C7,
+        ocs:C8399 .
+

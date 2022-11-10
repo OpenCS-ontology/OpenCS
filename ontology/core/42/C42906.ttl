@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42906 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C34795 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal_modal_logic> ;
+    skos:prefLabel "Normal modal logic" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C17925,
+        ocs:C21872,
+        ocs:C2418,
+        ocs:C40155,
+        ocs:C4073,
+        ocs:C41067,
+        ocs:C41203,
+        ocs:C41223,
+        ocs:C41584,
+        ocs:C43164,
+        ocs:C44623,
+        ocs:C5714,
+        ocs:C8077,
+        ocs:C8748 .
+

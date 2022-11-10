@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C767 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Authors'_rights> ;
+    skos:prefLabel "Authors' rights" ;
+    skos:related ocs:C13306,
+        ocs:C17042,
+        ocs:C18764,
+        ocs:C24008,
+        ocs:C24497,
+        ocs:C26420,
+        ocs:C28712,
+        ocs:C30476,
+        ocs:C31822,
+        ocs:C32847,
+        ocs:C33316,
+        ocs:C33646,
+        ocs:C37277 .
+

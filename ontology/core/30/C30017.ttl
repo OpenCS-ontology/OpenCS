@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30017 a skos:Concept ;
+    skos:broader ocs:C28998 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lasius_umbratus> ;
+    skos:prefLabel "Lasius umbratus" ;
+    skos:related ocs:C13998,
+        ocs:C14756,
+        ocs:C18735,
+        ocs:C19235,
+        ocs:C24249,
+        ocs:C27372,
+        ocs:C29582,
+        ocs:C30349,
+        ocs:C34823,
+        ocs:C34831 .
+

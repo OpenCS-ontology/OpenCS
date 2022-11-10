@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29418 a skos:Concept ;
+    skos:broader ocs:C7735 ;
+    skos:closeMatch <http://dbpedia.org/resource/HPC_Challenge_Benchmark> ;
+    skos:prefLabel "HPC Challenge Benchmark" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C1466,
+        ocs:C19876,
+        ocs:C22554,
+        ocs:C23235,
+        ocs:C26030,
+        ocs:C33704,
+        ocs:C3429,
+        ocs:C3688,
+        ocs:C4804,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8143 .
+

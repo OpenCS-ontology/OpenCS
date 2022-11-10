@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25161 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nerve_fascicle> ;
+    skos:prefLabel "Nerve fascicle" ;
+    skos:related ocs:C17377,
+        ocs:C22690,
+        ocs:C31556,
+        ocs:C33836,
+        ocs:C34941 .
+

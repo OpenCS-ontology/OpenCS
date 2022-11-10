@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5498 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_learning> ;
+    skos:prefLabel "Feature learning" ;
+    skos:related ocs:C10136,
+        ocs:C10382,
+        ocs:C11030,
+        ocs:C14849,
+        ocs:C20003,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C22089,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C26767,
+        ocs:C2801,
+        ocs:C30532,
+        ocs:C32651,
+        ocs:C34289,
+        ocs:C35604,
+        ocs:C6912,
+        ocs:C9022,
+        ocs:C9538 .
+

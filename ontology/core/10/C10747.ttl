@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10747 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acoustic_fingerprint> ;
+    skos:prefLabel "Acoustic fingerprint" ;
+    skos:related ocs:C11540,
+        ocs:C13467,
+        ocs:C19566,
+        ocs:C19903,
+        ocs:C23308,
+        ocs:C23875,
+        ocs:C26575,
+        ocs:C28881,
+        ocs:C3084,
+        ocs:C31114,
+        ocs:C34697,
+        ocs:C3687,
+        ocs:C3936,
+        ocs:C41872,
+        ocs:C520,
+        ocs:C7255 .
+

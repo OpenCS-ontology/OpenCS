@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19687 a skos:Concept ;
+    skos:broader ocs:C10492 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_transfer_function> ;
+    skos:prefLabel "Signal transfer function" ;
+    skos:related ocs:C11747,
+        ocs:C12580,
+        ocs:C13540,
+        ocs:C17970,
+        ocs:C20855,
+        ocs:C2196,
+        ocs:C26707,
+        ocs:C29698,
+        ocs:C31457,
+        ocs:C37366,
+        ocs:C669,
+        ocs:C7471,
+        ocs:C8781 .
+

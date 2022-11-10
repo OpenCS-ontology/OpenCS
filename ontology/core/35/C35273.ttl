@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35273 a skos:Concept ;
+    skos:broader ocs:C27146 ;
+    skos:closeMatch <http://dbpedia.org/resource/FIPS_201> ;
+    skos:prefLabel "FIPS 201" ;
+    skos:related ocs:C21324,
+        ocs:C25340,
+        ocs:C30595,
+        ocs:C31037,
+        ocs:C32484,
+        ocs:C33147,
+        ocs:C33549,
+        ocs:C37209,
+        ocs:C4218,
+        ocs:C42213,
+        ocs:C43814,
+        ocs:C44122,
+        ocs:C45581,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8437,
+        ocs:C949 .
+

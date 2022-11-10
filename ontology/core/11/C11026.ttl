@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11026 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_network> ;
+    skos:prefLabel "Social network" ;
+    skos:related ocs:C1,
+        ocs:C14693,
+        ocs:C15047,
+        ocs:C18683,
+        ocs:C19399,
+        ocs:C20012,
+        ocs:C22668,
+        ocs:C28521,
+        ocs:C31,
+        ocs:C7460,
+        ocs:C8614 .
+

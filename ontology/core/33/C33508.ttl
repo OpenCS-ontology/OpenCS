@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33508 a skos:Concept ;
+    skos:broader ocs:C15195,
+        ocs:C26029 ;
+    skos:prefLabel "Mean time to security failure" .
+

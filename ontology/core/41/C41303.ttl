@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41303 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35202,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_rot> ;
+    skos:prefLabel "Software rot" ;
+    skos:related ocs:C10720,
+        ocs:C10781,
+        ocs:C1253,
+        ocs:C18415,
+        ocs:C1880,
+        ocs:C2057,
+        ocs:C21399,
+        ocs:C23580,
+        ocs:C25854,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C31696,
+        ocs:C32646,
+        ocs:C35202,
+        ocs:C41184,
+        ocs:C43671,
+        ocs:C44528,
+        ocs:C567 .
+

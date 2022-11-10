@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45112 a skos:Concept ;
+    skos:broader ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuous_wavelet_transform> ;
+    skos:prefLabel "Continuous wavelet transform" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C11443,
+        ocs:C20648,
+        ocs:C28095,
+        ocs:C33342,
+        ocs:C34362,
+        ocs:C34943,
+        ocs:C43805,
+        ocs:C44267,
+        ocs:C836,
+        ocs:C9427 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12834 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Magic_(programming)> ;
+    skos:prefLabel "Magic (programming)" ;
+    skos:related ocs:C10219,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C11284,
+        ocs:C13045,
+        ocs:C19,
+        ocs:C2050,
+        ocs:C2057,
+        ocs:C23909,
+        ocs:C27380,
+        ocs:C2743,
+        ocs:C4214,
+        ocs:C43888,
+        ocs:C4918,
+        ocs:C4937,
+        ocs:C6941,
+        ocs:C794 .
+

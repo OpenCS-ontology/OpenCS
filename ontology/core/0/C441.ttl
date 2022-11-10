@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C441 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mnemonic_link_system> ;
+    skos:prefLabel "Mnemonic link system" ;
+    skos:related ocs:C18860,
+        ocs:C23310,
+        ocs:C2885,
+        ocs:C38666,
+        ocs:C38925,
+        ocs:C41002 .
+

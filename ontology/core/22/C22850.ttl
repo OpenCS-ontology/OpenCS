@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22850 a skos:Concept ;
+    skos:broader ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_organisation> ;
+    skos:prefLabel "Memory organisation" ;
+    skos:related ocs:C12262,
+        ocs:C14144,
+        ocs:C14162,
+        ocs:C16747,
+        ocs:C23432,
+        ocs:C23864,
+        ocs:C30878,
+        ocs:C38300,
+        ocs:C42321,
+        ocs:C44255,
+        ocs:C45812,
+        ocs:C45910,
+        ocs:C6798,
+        ocs:C8555,
+        ocs:C856,
+        ocs:C8581,
+        ocs:C8967 .
+

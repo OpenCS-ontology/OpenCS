@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41868 a skos:Concept ;
+    skos:broader ocs:C34547 ;
+    skos:closeMatch <http://dbpedia.org/resource/H_I_region> ;
+    skos:prefLabel "H I region" ;
+    skos:related ocs:C10556,
+        ocs:C15462,
+        ocs:C17246,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C28402,
+        ocs:C33575,
+        ocs:C34069,
+        ocs:C34547,
+        ocs:C597 .
+

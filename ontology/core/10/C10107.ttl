@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10107 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marzullo's_algorithm> ;
+    skos:prefLabel "Marzullo's algorithm" ;
+    skos:related ocs:C15964,
+        ocs:C17158,
+        ocs:C18625,
+        ocs:C28269,
+        ocs:C31954,
+        ocs:C33828,
+        ocs:C3936,
+        ocs:C4030,
+        ocs:C4752,
+        ocs:C5288,
+        ocs:C611,
+        ocs:C6116,
+        ocs:C7471 .
+

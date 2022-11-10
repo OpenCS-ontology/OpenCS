@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36999 a skos:Concept ;
+    skos:broader ocs:C14693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seven_Bridges_of_Königsberg> ;
+    skos:prefLabel "Seven Bridges of Königsberg" ;
+    skos:related ocs:C14693,
+        ocs:C17717,
+        ocs:C26989,
+        ocs:C28521,
+        ocs:C29632,
+        ocs:C30245,
+        ocs:C30730,
+        ocs:C31629,
+        ocs:C31884,
+        ocs:C41137,
+        ocs:C43088,
+        ocs:C45422,
+        ocs:C6335 .
+

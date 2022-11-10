@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20133 a skos:Concept ;
+    skos:broader ocs:C8700 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lamb_waves> ;
+    skos:prefLabel "Lamb waves" ;
+    skos:related ocs:C17532,
+        ocs:C31959,
+        ocs:C42088 .
+

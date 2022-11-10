@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15821 a skos:Concept ;
+    skos:broader ocs:C10768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airstream_mechanism> ;
+    skos:prefLabel "Airstream mechanism" ;
+    skos:related ocs:C10768,
+        ocs:C11145,
+        ocs:C12222,
+        ocs:C18818,
+        ocs:C19817,
+        ocs:C21409,
+        ocs:C21925,
+        ocs:C26655,
+        ocs:C27886,
+        ocs:C31328,
+        ocs:C34296 .
+

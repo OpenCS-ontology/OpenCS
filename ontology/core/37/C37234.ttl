@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37234 a skos:Concept ;
+    skos:broader ocs:C25960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_map> ;
+    skos:prefLabel "Memory map" ;
+    skos:related ocs:C10053,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C13851,
+        ocs:C14162,
+        ocs:C16481,
+        ocs:C23864,
+        ocs:C27610,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C39623,
+        ocs:C4259,
+        ocs:C42690,
+        ocs:C42695,
+        ocs:C45812,
+        ocs:C8024,
+        ocs:C9 .
+

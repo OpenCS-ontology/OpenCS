@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26099 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C8781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-assignment_speech_interpolation> ;
+    skos:prefLabel "Time-assignment speech interpolation" ;
+    skos:related ocs:C11465,
+        ocs:C1563,
+        ocs:C25293,
+        ocs:C27608,
+        ocs:C27611,
+        ocs:C29471,
+        ocs:C3,
+        ocs:C30535,
+        ocs:C30667,
+        ocs:C31263,
+        ocs:C515,
+        ocs:C5506,
+        ocs:C6027,
+        ocs:C6731 .
+

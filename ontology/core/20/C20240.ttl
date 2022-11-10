@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20240 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pheidole> ;
+    skos:prefLabel "Pheidole" ;
+    skos:related ocs:C14902,
+        ocs:C19253,
+        ocs:C23015,
+        ocs:C24249,
+        ocs:C24385,
+        ocs:C28720 .
+

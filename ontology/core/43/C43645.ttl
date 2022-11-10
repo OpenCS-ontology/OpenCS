@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43645 a skos:Concept ;
+    skos:broader ocs:C31629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Icosian_game> ;
+    skos:prefLabel "Icosian game" ;
+    skos:related ocs:C11372,
+        ocs:C14693,
+        ocs:C17588,
+        ocs:C31629,
+        ocs:C33771,
+        ocs:C36999,
+        ocs:C40871,
+        ocs:C41606,
+        ocs:C42764,
+        ocs:C43606 .
+

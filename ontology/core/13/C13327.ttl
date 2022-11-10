@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13327 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multilink_Procedure> ;
+    skos:prefLabel "Multilink Procedure" ;
+    skos:related ocs:C15589,
+        ocs:C23155,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C29293,
+        ocs:C30342,
+        ocs:C33931,
+        ocs:C35494,
+        ocs:C42692,
+        ocs:C43595,
+        ocs:C44327,
+        ocs:C6861,
+        ocs:C6930 .
+

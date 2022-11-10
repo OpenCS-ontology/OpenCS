@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39583 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halin_graph> ;
+    skos:prefLabel "Halin graph" ;
+    skos:related ocs:C14693,
+        ocs:C31629,
+        ocs:C32333,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38781,
+        ocs:C38962,
+        ocs:C39263,
+        ocs:C39781,
+        ocs:C41435,
+        ocs:C41573,
+        ocs:C42060,
+        ocs:C42281,
+        ocs:C42723,
+        ocs:C42764,
+        ocs:C42822,
+        ocs:C42848,
+        ocs:C43374,
+        ocs:C44460 .
+

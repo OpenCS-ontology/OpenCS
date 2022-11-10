@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23670 a skos:Concept ;
+    skos:broader ocs:C8563 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_probability> ;
+    skos:prefLabel "Inverse probability" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C22075,
+        ocs:C26986,
+        ocs:C32717,
+        ocs:C33349,
+        ocs:C34619,
+        ocs:C41574,
+        ocs:C45027,
+        ocs:C6116,
+        ocs:C6291,
+        ocs:C6692 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5669 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quad_Data_Rate_SRAM> ;
+    skos:prefLabel "Quad Data Rate SRAM" ;
+    skos:related ocs:C13875,
+        ocs:C15146,
+        ocs:C29183,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C33838,
+        ocs:C35697,
+        ocs:C36410,
+        ocs:C39218,
+        ocs:C40077,
+        ocs:C43462,
+        ocs:C5141,
+        ocs:C6341,
+        ocs:C6964 .
+

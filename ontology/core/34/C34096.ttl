@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34096 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C15728,
+        ocs:C22415 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unit_disk_graph> ;
+    skos:prefLabel "Unit disk graph" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C32333,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38404,
+        ocs:C38781,
+        ocs:C40398,
+        ocs:C41731,
+        ocs:C41783,
+        ocs:C41980,
+        ocs:C42431,
+        ocs:C43787,
+        ocs:C45150,
+        ocs:C45741,
+        ocs:C5823,
+        ocs:C8660 .
+

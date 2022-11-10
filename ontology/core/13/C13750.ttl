@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13750 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stars_(shader_effect)> ;
+    skos:prefLabel "Stars" ;
+    skos:related ocs:C10773,
+        ocs:C15820,
+        ocs:C15836,
+        ocs:C19688,
+        ocs:C31467,
+        ocs:C32716,
+        ocs:C32898,
+        ocs:C35190,
+        ocs:C37944,
+        ocs:C39953,
+        ocs:C41811,
+        ocs:C42489,
+        ocs:C44165,
+        ocs:C6030,
+        ocs:C7104,
+        ocs:C7390,
+        ocs:C7854 .
+

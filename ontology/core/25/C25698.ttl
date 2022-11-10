@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25698 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Downstep> ;
+    skos:prefLabel "Downstep" ;
+    skos:related ocs:C11821,
+        ocs:C13096,
+        ocs:C22271,
+        ocs:C23342,
+        ocs:C24459,
+        ocs:C25849,
+        ocs:C26180,
+        ocs:C26940,
+        ocs:C27886,
+        ocs:C37050,
+        ocs:C7501 .
+

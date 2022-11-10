@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38462 a skos:Concept ;
+    skos:broader ocs:C34593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_state_packet> ;
+    skos:prefLabel "Link state packet" ;
+    skos:related ocs:C10563,
+        ocs:C15065,
+        ocs:C21724,
+        ocs:C22819,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C28520,
+        ocs:C3391,
+        ocs:C36109,
+        ocs:C38064,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C41398,
+        ocs:C41572,
+        ocs:C42429,
+        ocs:C43513,
+        ocs:C44801,
+        ocs:C44848,
+        ocs:C44972,
+        ocs:C8517 .
+

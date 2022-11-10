@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C139 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Greedy_source> ;
+    skos:prefLabel "Greedy source" ;
+    skos:related ocs:C10921,
+        ocs:C12111,
+        ocs:C15065,
+        ocs:C19170,
+        ocs:C20691,
+        ocs:C21769,
+        ocs:C23291,
+        ocs:C23433,
+        ocs:C24323,
+        ocs:C24469,
+        ocs:C24870,
+        ocs:C32196,
+        ocs:C35659,
+        ocs:C41620,
+        ocs:C42093,
+        ocs:C44036,
+        ocs:C44104,
+        ocs:C686 .
+

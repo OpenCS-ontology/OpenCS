@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44814 a skos:Concept ;
+    skos:broader ocs:C32506,
+        ocs:C33052,
+        ocs:C34168,
+        ocs:C36924 ;
+    skos:closeMatch <http://dbpedia.org/resource/XQuery_Update_Facility> ;
+    skos:prefLabel "XQuery Update Facility" ;
+    skos:related ocs:C10878,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C13068,
+        ocs:C17170,
+        ocs:C18083,
+        ocs:C18361,
+        ocs:C20790,
+        ocs:C23709,
+        ocs:C33052,
+        ocs:C33916,
+        ocs:C36924,
+        ocs:C38584,
+        ocs:C40307,
+        ocs:C40360,
+        ocs:C40466,
+        ocs:C43834,
+        ocs:C43910,
+        ocs:C5205,
+        ocs:C9553 .
+

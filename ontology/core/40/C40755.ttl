@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40755 a skos:Concept ;
+    skos:broader ocs:C32255 ;
+    skos:closeMatch <http://dbpedia.org/resource/AA_postulate> ;
+    skos:prefLabel "AA postulate" ;
+    skos:related ocs:C13409,
+        ocs:C13541,
+        ocs:C15492,
+        ocs:C32255,
+        ocs:C39738 .
+

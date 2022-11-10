@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45242 a skos:Concept ;
+    skos:broader ocs:C32085,
+        ocs:C33774,
+        ocs:C33980,
+        ocs:C34986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iron_planet> ;
+    skos:prefLabel "Iron planet" ;
+    skos:related ocs:C25140,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30091,
+        ocs:C30632,
+        ocs:C32417,
+        ocs:C34228,
+        ocs:C38054,
+        ocs:C38058,
+        ocs:C38832,
+        ocs:C40047,
+        ocs:C41133,
+        ocs:C41369,
+        ocs:C42334 .
+

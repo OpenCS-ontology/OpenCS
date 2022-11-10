@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C251 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ringing_artifacts> ;
+    skos:prefLabel "Ringing artifacts" ;
+    skos:related ocs:C10554,
+        ocs:C1449,
+        ocs:C20514,
+        ocs:C2168,
+        ocs:C23968,
+        ocs:C24803,
+        ocs:C30853,
+        ocs:C42625,
+        ocs:C5042,
+        ocs:C5298,
+        ocs:C5921 .
+

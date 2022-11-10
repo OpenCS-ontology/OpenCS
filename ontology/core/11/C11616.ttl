@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11616 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fault_detection_and_isolation> ;
+    skos:prefLabel "Fault detection and isolation" ;
+    skos:related ocs:C10449,
+        ocs:C10554,
+        ocs:C11443,
+        ocs:C17432,
+        ocs:C2878,
+        ocs:C34362,
+        ocs:C492,
+        ocs:C9427 .
+

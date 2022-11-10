@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44468 a skos:Concept ;
+    skos:broader ocs:C30242,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pancake_graph> ;
+    skos:prefLabel "Pancake graph" .
+

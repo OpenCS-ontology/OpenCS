@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31130 a skos:Concept ;
+    skos:broader ocs:C22407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call-Processing_Language> ;
+    skos:prefLabel "Call-Processing Language" ;
+    skos:related ocs:C34719,
+        ocs:C8614,
+        ocs:C9540 .
+

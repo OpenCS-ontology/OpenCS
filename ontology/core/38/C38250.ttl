@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38250 a skos:Concept ;
+    skos:broader ocs:C32521,
+        ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/SOA_Security> ;
+    skos:prefLabel "SOA Security" ;
+    skos:related ocs:C17238,
+        ocs:C17656,
+        ocs:C20239,
+        ocs:C31667,
+        ocs:C32400,
+        ocs:C36422,
+        ocs:C38075,
+        ocs:C39323,
+        ocs:C39618,
+        ocs:C40192,
+        ocs:C42315,
+        ocs:C43056,
+        ocs:C44429,
+        ocs:C44609,
+        ocs:C45107,
+        ocs:C45883,
+        ocs:C7106 .
+

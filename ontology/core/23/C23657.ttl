@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23657 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semigroup_with_involution> ;
+    skos:prefLabel "Semigroup with involution" ;
+    skos:related ocs:C20124,
+        ocs:C33287,
+        ocs:C39302,
+        ocs:C43897 .
+

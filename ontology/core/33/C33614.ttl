@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33614 a skos:Concept ;
+    skos:broader ocs:C28578 ;
+    skos:closeMatch <http://dbpedia.org/resource/Average_bitrate> ;
+    skos:prefLabel "Average bitrate" ;
+    skos:related ocs:C11214,
+        ocs:C11323,
+        ocs:C12152,
+        ocs:C1568,
+        ocs:C20647,
+        ocs:C26268,
+        ocs:C26814,
+        ocs:C28578,
+        ocs:C2937,
+        ocs:C31114,
+        ocs:C34697,
+        ocs:C36139,
+        ocs:C37364,
+        ocs:C40200,
+        ocs:C40311,
+        ocs:C6081 .
+

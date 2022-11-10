@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34996 a skos:Concept ;
+    skos:broader ocs:C16514,
+        ocs:C29170 ;
+    skos:closeMatch <http://dbpedia.org/resource/Millimeter_cloud_radar> ;
+    skos:prefLabel "Millimeter cloud radar" ;
+    skos:related ocs:C11863,
+        ocs:C26939,
+        ocs:C45299,
+        ocs:C795,
+        ocs:C863 .
+

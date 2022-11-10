@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20860 a skos:Concept ;
+    skos:broader ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_matrix> ;
+    skos:prefLabel "Stochastic matrix" ;
+    skos:related ocs:C14004,
+        ocs:C1844,
+        ocs:C25044,
+        ocs:C27087,
+        ocs:C39308,
+        ocs:C39751,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 .
+

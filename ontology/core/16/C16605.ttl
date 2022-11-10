@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16605 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Area_chart> ;
+    skos:prefLabel "Area chart" ;
+    skos:related ocs:C11094,
+        ocs:C18406,
+        ocs:C1938,
+        ocs:C19998,
+        ocs:C27130,
+        ocs:C34158,
+        ocs:C383,
+        ocs:C5700,
+        ocs:C9428 .
+

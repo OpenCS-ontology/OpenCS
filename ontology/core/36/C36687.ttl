@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36687 a skos:Concept ;
+    skos:broader ocs:C18695,
+        ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metric_(unit)> ;
+    skos:prefLabel "Metric (unit)" ;
+    skos:related ocs:C42395 .
+

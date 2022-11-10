@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13718 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/X.400> ;
+    skos:prefLabel "X.400" ;
+    skos:related ocs:C11540,
+        ocs:C11861,
+        ocs:C12995,
+        ocs:C13721,
+        ocs:C14417,
+        ocs:C14983,
+        ocs:C20205,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C29603,
+        ocs:C3039,
+        ocs:C30474,
+        ocs:C35197,
+        ocs:C3968,
+        ocs:C4641,
+        ocs:C6861,
+        ocs:C8614 .
+

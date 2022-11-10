@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9709 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynatext> ;
+    skos:prefLabel "Dynatext" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C13608,
+        ocs:C18361,
+        ocs:C20790,
+        ocs:C21014,
+        ocs:C24783,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C31343,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C39420,
+        ocs:C41346,
+        ocs:C41537,
+        ocs:C42212,
+        ocs:C43834,
+        ocs:C5670 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20667 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metadata_publishing> ;
+    skos:prefLabel "Metadata publishing" ;
+    skos:related ocs:C10979,
+        ocs:C12154,
+        ocs:C12694,
+        ocs:C1451,
+        ocs:C15209,
+        ocs:C18791,
+        ocs:C20153,
+        ocs:C2646,
+        ocs:C28117,
+        ocs:C28739,
+        ocs:C3037,
+        ocs:C34720,
+        ocs:C35637,
+        ocs:C3896,
+        ocs:C39393,
+        ocs:C44676,
+        ocs:C45073,
+        ocs:C45685 .
+

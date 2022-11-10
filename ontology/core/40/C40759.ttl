@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40759 a skos:Concept ;
+    skos:broader ocs:C32717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cox's_theorem> ;
+    skos:prefLabel "Cox's theorem" ;
+    skos:related ocs:C10143,
+        ocs:C12737,
+        ocs:C14620,
+        ocs:C21154,
+        ocs:C246,
+        ocs:C30269,
+        ocs:C32717,
+        ocs:C33734,
+        ocs:C42482,
+        ocs:C6291,
+        ocs:C6692,
+        ocs:C6909 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36593 a skos:Concept ;
+    skos:broader ocs:C18617,
+        ocs:C21201,
+        ocs:C21366 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_compiler> ;
+    skos:prefLabel "Functional compiler" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C12004,
+        ocs:C18617,
+        ocs:C20208,
+        ocs:C20542,
+        ocs:C21201,
+        ocs:C24148,
+        ocs:C2876,
+        ocs:C28783,
+        ocs:C29056,
+        ocs:C35502,
+        ocs:C37487,
+        ocs:C4321,
+        ocs:C4591,
+        ocs:C5517,
+        ocs:C6941,
+        ocs:C7825 .
+

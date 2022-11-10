@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4256 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_discriminant_analysis> ;
+    skos:prefLabel "Linear discriminant analysis" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C23669,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C25862,
+        ocs:C3512,
+        ocs:C6116,
+        ocs:C6912,
+        ocs:C8758,
+        ocs:C9022,
+        ocs:C9538 .
+

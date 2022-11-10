@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34007 a skos:Concept ;
+    skos:broader ocs:C27832 ;
+    skos:closeMatch <http://dbpedia.org/resource/SyncML> ;
+    skos:prefLabel "SyncML" ;
+    skos:related ocs:C11305,
+        ocs:C11927,
+        ocs:C13144,
+        ocs:C21424,
+        ocs:C22397,
+        ocs:C22597,
+        ocs:C27704,
+        ocs:C27832,
+        ocs:C28881,
+        ocs:C30767,
+        ocs:C31489,
+        ocs:C33863,
+        ocs:C34429,
+        ocs:C36500,
+        ocs:C41776,
+        ocs:C5672,
+        ocs:C672,
+        ocs:C9113,
+        ocs:C9154 .
+

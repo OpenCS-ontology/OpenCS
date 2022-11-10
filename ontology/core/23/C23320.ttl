@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23320 a skos:Concept ;
+    skos:broader ocs:C10587 ;
+    skos:closeMatch <http://dbpedia.org/resource/FDOA> ;
+    skos:prefLabel "FDOA" ;
+    skos:related ocs:C10587,
+        ocs:C11096,
+        ocs:C11747,
+        ocs:C1219,
+        ocs:C12641,
+        ocs:C12850,
+        ocs:C18799,
+        ocs:C24264,
+        ocs:C2817,
+        ocs:C37788,
+        ocs:C44290,
+        ocs:C44628,
+        ocs:C5769 .
+

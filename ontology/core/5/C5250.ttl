@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5250 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turnaround_document> ;
+    skos:prefLabel "Turnaround document" ;
+    skos:related ocs:C10772,
+        ocs:C12488,
+        ocs:C1683,
+        ocs:C3077,
+        ocs:C7172,
+        ocs:C8498 .
+

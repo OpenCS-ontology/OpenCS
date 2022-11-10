@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31227 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lophiosilurus_alexandri> ;
+    skos:prefLabel "Lophiosilurus alexandri" ;
+    skos:related ocs:C2698,
+        ocs:C35607,
+        ocs:C36483,
+        ocs:C41316,
+        ocs:C42152,
+        ocs:C42916,
+        ocs:C42958,
+        ocs:C44495 .
+

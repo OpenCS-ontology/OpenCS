@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8454 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Part_of_speech> ;
+    skos:prefLabel "Part of speech" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C12486,
+        ocs:C1952,
+        ocs:C19932,
+        ocs:C21988,
+        ocs:C2298,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C27343,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C35238,
+        ocs:C6545 .
+

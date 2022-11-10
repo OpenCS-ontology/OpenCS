@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9623 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:prefLabel "Reactivation Request" ;
+    skos:related ocs:C1595,
+        ocs:C257,
+        ocs:C26502,
+        ocs:C29899,
+        ocs:C33,
+        ocs:C36135,
+        ocs:C390 .
+

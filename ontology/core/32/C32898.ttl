@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32898 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vertex_normal> ;
+    skos:prefLabel "Vertex normal" ;
+    skos:related ocs:C12590,
+        ocs:C14471,
+        ocs:C17403,
+        ocs:C19229,
+        ocs:C19559,
+        ocs:C22,
+        ocs:C23667,
+        ocs:C26458,
+        ocs:C42817 .
+

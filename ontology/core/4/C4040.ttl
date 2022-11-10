@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4040 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcom_Networking_Protocol> ;
+    skos:prefLabel "Microcom Networking Protocol" ;
+    skos:related ocs:C10049,
+        ocs:C10093,
+        ocs:C10930,
+        ocs:C11649,
+        ocs:C12111,
+        ocs:C12485,
+        ocs:C15962,
+        ocs:C16205,
+        ocs:C20314,
+        ocs:C26580,
+        ocs:C32874,
+        ocs:C36766,
+        ocs:C41466,
+        ocs:C44104,
+        ocs:C45773,
+        ocs:C6874,
+        ocs:C787 .
+

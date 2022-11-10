@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30246 a skos:Concept ;
+    skos:broader ocs:C25464,
+        ocs:C29524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_mapping> ;
+    skos:prefLabel "Information mapping" ;
+    skos:related ocs:C11094,
+        ocs:C11646,
+        ocs:C1196,
+        ocs:C12,
+        ocs:C12924,
+        ocs:C12998,
+        ocs:C13673,
+        ocs:C2135,
+        ocs:C22,
+        ocs:C22811,
+        ocs:C306,
+        ocs:C31201,
+        ocs:C35505,
+        ocs:C448,
+        ocs:C8181 .
+

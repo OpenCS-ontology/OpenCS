@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45493 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Risk-based_testing> ;
+    skos:prefLabel "Risk-based testing" ;
+    skos:related ocs:C13313,
+        ocs:C18415,
+        ocs:C18784,
+        ocs:C19404,
+        ocs:C20063,
+        ocs:C25956,
+        ocs:C26460,
+        ocs:C27605,
+        ocs:C28080,
+        ocs:C32613,
+        ocs:C34601,
+        ocs:C37174,
+        ocs:C38916,
+        ocs:C39614,
+        ocs:C40291,
+        ocs:C40812,
+        ocs:C41989,
+        ocs:C42333,
+        ocs:C44160,
+        ocs:C45208 .
+

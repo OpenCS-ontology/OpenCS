@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13469 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parametric_animation> ;
+    skos:prefLabel "Parametric animation" ;
+    skos:related ocs:C10773,
+        ocs:C13750,
+        ocs:C19006,
+        ocs:C19688,
+        ocs:C19700,
+        ocs:C22563,
+        ocs:C27489,
+        ocs:C30378,
+        ocs:C31467,
+        ocs:C31489,
+        ocs:C32898,
+        ocs:C37944,
+        ocs:C41811,
+        ocs:C5523,
+        ocs:C7104,
+        ocs:C7390 .
+

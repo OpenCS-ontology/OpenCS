@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4392 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Protocol Association" ;
+    skos:related ocs:C11,
+        ocs:C26,
+        ocs:C3394,
+        ocs:C35736,
+        ocs:C38053,
+        ocs:C8329 .
+

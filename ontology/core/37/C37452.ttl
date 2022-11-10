@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37452 a skos:Concept ;
+    skos:broader ocs:C18085,
+        ocs:C24724,
+        ocs:C28956 ;
+    skos:closeMatch <http://dbpedia.org/resource/Washington_Double_Star_Catalog> ;
+    skos:prefLabel "Washington Double Star Catalog" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C14224,
+        ocs:C18085,
+        ocs:C18137,
+        ocs:C19549,
+        ocs:C22220,
+        ocs:C22649,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C24724,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28956,
+        ocs:C36878,
+        ocs:C37041,
+        ocs:C597 .
+

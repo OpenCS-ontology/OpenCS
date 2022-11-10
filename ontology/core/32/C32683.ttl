@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32683 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fading_affect_bias> ;
+    skos:prefLabel "Fading affect bias" ;
+    skos:related ocs:C19840 .
+

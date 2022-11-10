@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44964 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_peer_review> ;
+    skos:prefLabel "Software peer review" ;
+    skos:related ocs:C20618,
+        ocs:C23580,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C31890,
+        ocs:C32978,
+        ocs:C37174,
+        ocs:C38023,
+        ocs:C38970,
+        ocs:C39522,
+        ocs:C40396,
+        ocs:C40979,
+        ocs:C42516,
+        ocs:C45212,
+        ocs:C45544,
+        ocs:C4558,
+        ocs:C8183 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1908 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technical_translation> ;
+    skos:prefLabel "Technical translation" ;
+    skos:related ocs:C10978,
+        ocs:C1411,
+        ocs:C19175,
+        ocs:C21444,
+        ocs:C24215,
+        ocs:C26015,
+        ocs:C3444,
+        ocs:C40700,
+        ocs:C45554,
+        ocs:C5262,
+        ocs:C7736,
+        ocs:C9607 .
+

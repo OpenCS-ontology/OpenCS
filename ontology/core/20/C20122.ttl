@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20122 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subpixel_rendering> ;
+    skos:prefLabel "Subpixel rendering" ;
+    skos:related ocs:C13155,
+        ocs:C1347,
+        ocs:C22103,
+        ocs:C22257,
+        ocs:C24871,
+        ocs:C26787,
+        ocs:C29368,
+        ocs:C35507,
+        ocs:C35867,
+        ocs:C39878,
+        ocs:C41662,
+        ocs:C45810,
+        ocs:C5854,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C8021 .
+

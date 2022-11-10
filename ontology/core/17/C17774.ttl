@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17774 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:prefLabel "Fee Schedule" ;
+    skos:related ocs:C18384,
+        ocs:C21533,
+        ocs:C27056 .
+

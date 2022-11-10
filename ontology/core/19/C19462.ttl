@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19462 a skos:Concept ;
+    skos:broader ocs:C8021,
+        ocs:C9380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_differencing> ;
+    skos:prefLabel "Image differencing" ;
+    skos:related ocs:C10465,
+        ocs:C14695,
+        ocs:C24211,
+        ocs:C24724,
+        ocs:C27266,
+        ocs:C27342,
+        ocs:C27441,
+        ocs:C31013,
+        ocs:C33766,
+        ocs:C37582,
+        ocs:C5310,
+        ocs:C663,
+        ocs:C7,
+        ocs:C8499 .
+

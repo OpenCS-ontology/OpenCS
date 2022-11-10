@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37493 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_business> ;
+    skos:prefLabel "Software business" ;
+    skos:related ocs:C12238,
+        ocs:C1253,
+        ocs:C19674,
+        ocs:C23103,
+        ocs:C32990,
+        ocs:C35701,
+        ocs:C45630,
+        ocs:C7106 .
+

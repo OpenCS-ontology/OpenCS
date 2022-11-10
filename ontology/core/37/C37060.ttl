@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37060 a skos:Concept ;
+    skos:broader ocs:C17580,
+        ocs:C22819,
+        ocs:C26067 ;
+    skos:prefLabel "Multicast network" .
+

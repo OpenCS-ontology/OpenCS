@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42128 a skos:Concept ;
+    skos:broader ocs:C32807 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dirac_comb> ;
+    skos:prefLabel "Dirac comb" ;
+    skos:related ocs:C11150,
+        ocs:C37610,
+        ocs:C9444 .
+

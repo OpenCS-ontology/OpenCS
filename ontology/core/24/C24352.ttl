@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24352 a skos:Concept ;
+    skos:broader ocs:C1033,
+        ocs:C8514,
+        ocs:C9089 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_flowsheeting> ;
+    skos:prefLabel "Process flowsheeting" ;
+    skos:related ocs:C29965,
+        ocs:C30985,
+        ocs:C854 .
+

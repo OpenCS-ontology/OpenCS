@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10244 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Escher_(programming_language)> ;
+    skos:prefLabel "Escher" ;
+    skos:related ocs:C10327,
+        ocs:C11812,
+        ocs:C1631,
+        ocs:C17392,
+        ocs:C18507,
+        ocs:C19,
+        ocs:C2089,
+        ocs:C26585,
+        ocs:C28944,
+        ocs:C30666,
+        ocs:C31256,
+        ocs:C31724,
+        ocs:C39956,
+        ocs:C40312,
+        ocs:C40798,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C7825 .
+

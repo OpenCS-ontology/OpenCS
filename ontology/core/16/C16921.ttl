@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16921 a skos:Concept ;
+    skos:broader ocs:C5625 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trip_distribution> ;
+    skos:prefLabel "Trip distribution" ;
+    skos:related ocs:C10504,
+        ocs:C11031,
+        ocs:C12737,
+        ocs:C13626,
+        ocs:C22762 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5419 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code_cave> ;
+    skos:prefLabel "Code cave" ;
+    skos:related ocs:C11991,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C14162,
+        ocs:C14929,
+        ocs:C15595,
+        ocs:C21718,
+        ocs:C37461,
+        ocs:C3981,
+        ocs:C41159,
+        ocs:C41970,
+        ocs:C45527,
+        ocs:C6072,
+        ocs:C8704 .
+

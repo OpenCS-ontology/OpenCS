@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20847 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neural_ensemble> ;
+    skos:prefLabel "Neural ensemble" ;
+    skos:related ocs:C24856,
+        ocs:C3932,
+        ocs:C9022,
+        ocs:C9854 .
+

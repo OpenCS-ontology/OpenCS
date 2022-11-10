@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20009 a skos:Concept ;
+    skos:broader ocs:C7850 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shock_and_vibration_data_logger> ;
+    skos:prefLabel "Shock and vibration data logger" ;
+    skos:related ocs:C14702,
+        ocs:C2172,
+        ocs:C23364,
+        ocs:C27036,
+        ocs:C6702,
+        ocs:C7850 .
+

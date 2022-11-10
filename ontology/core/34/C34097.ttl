@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34097 a skos:Concept ;
+    skos:broader ocs:C21630 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evolve_4.0> ;
+    skos:prefLabel "Evolve 4.0" ;
+    skos:related ocs:C11143,
+        ocs:C13465,
+        ocs:C13746,
+        ocs:C20846,
+        ocs:C23026 .
+

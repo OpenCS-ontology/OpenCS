@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11604 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Greater-than_sign> ;
+    skos:prefLabel "Greater-than sign" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11638,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C25460,
+        ocs:C514,
+        ocs:C6714,
+        ocs:C7427,
+        ocs:C7693,
+        ocs:C8616,
+        ocs:C9162 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12056 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/TREE-META> ;
+    skos:prefLabel "TREE-META" ;
+    skos:related ocs:C1,
+        ocs:C1541,
+        ocs:C19,
+        ocs:C22624,
+        ocs:C23439,
+        ocs:C26572,
+        ocs:C2770,
+        ocs:C29634,
+        ocs:C30921,
+        ocs:C31850,
+        ocs:C38591,
+        ocs:C38601,
+        ocs:C43070,
+        ocs:C4321,
+        ocs:C6024,
+        ocs:C6714,
+        ocs:C8564 .
+

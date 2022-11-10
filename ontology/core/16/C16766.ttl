@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16766 a skos:Concept ;
+    skos:broader ocs:C10136,
+        ocs:C2321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manifold_regularization> ;
+    skos:prefLabel "Manifold regularization" ;
+    skos:related ocs:C32918,
+        ocs:C41650 .
+

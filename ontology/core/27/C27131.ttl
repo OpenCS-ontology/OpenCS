@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27131 a skos:Concept ;
+    skos:broader ocs:C10720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_inheritance> ;
+    skos:prefLabel "Multiple inheritance" ;
+    skos:related ocs:C10182,
+        ocs:C10384,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C14636,
+        ocs:C16290,
+        ocs:C19,
+        ocs:C22971,
+        ocs:C2419,
+        ocs:C24909,
+        ocs:C31014,
+        ocs:C31851,
+        ocs:C3282,
+        ocs:C329,
+        ocs:C4321,
+        ocs:C5308 .
+

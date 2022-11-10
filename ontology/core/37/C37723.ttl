@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37723 a skos:Concept ;
+    skos:broader ocs:C23029 ;
+    skos:closeMatch <http://dbpedia.org/resource/Horseshoe_map> ;
+    skos:prefLabel "Horseshoe map" ;
+    skos:related ocs:C14592,
+        ocs:C16955,
+        ocs:C17882,
+        ocs:C27040,
+        ocs:C43425,
+        ocs:C5867 .
+

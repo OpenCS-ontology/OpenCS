@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23478 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/KEKB_(accelerator)> ;
+    skos:prefLabel "KEKB" ;
+    skos:related ocs:C14705,
+        ocs:C16098,
+        ocs:C16724,
+        ocs:C21480,
+        ocs:C22996,
+        ocs:C35287 .
+

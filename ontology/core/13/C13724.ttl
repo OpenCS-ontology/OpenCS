@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13724 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lagrangian_relaxation> ;
+    skos:prefLabel "Lagrangian relaxation" ;
+    skos:related ocs:C12314,
+        ocs:C15665,
+        ocs:C27828,
+        ocs:C3570,
+        ocs:C41428,
+        ocs:C513,
+        ocs:C8331,
+        ocs:C8435,
+        ocs:C8944 .
+

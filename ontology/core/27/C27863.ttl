@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27863 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tate_pairing> ;
+    skos:prefLabel "Tate pairing" ;
+    skos:related ocs:C1505,
+        ocs:C18118,
+        ocs:C23042,
+        ocs:C32484,
+        ocs:C37881,
+        ocs:C37882,
+        ocs:C39928,
+        ocs:C43343,
+        ocs:C43724 .
+

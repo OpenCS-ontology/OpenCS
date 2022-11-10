@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29742 a skos:Concept ;
+    skos:broader ocs:C23738,
+        ocs:C24489 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cerambyx_welensii> ;
+    skos:prefLabel "Cerambyx welensii" .
+

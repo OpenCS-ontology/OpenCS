@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5884 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zapmail> ;
+    skos:prefLabel "Zapmail" ;
+    skos:related ocs:C11347,
+        ocs:C15589,
+        ocs:C16547,
+        ocs:C1726,
+        ocs:C18995,
+        ocs:C19350,
+        ocs:C2169,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C29799,
+        ocs:C380,
+        ocs:C4197,
+        ocs:C4433,
+        ocs:C6027,
+        ocs:C6861,
+        ocs:C9327 .
+

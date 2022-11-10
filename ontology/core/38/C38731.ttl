@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38731 a skos:Concept ;
+    skos:broader ocs:C29672,
+        ocs:C30080,
+        ocs:C33887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pfaffian_constraint> ;
+    skos:prefLabel "Pfaffian constraint" ;
+    skos:related ocs:C17236,
+        ocs:C17396,
+        ocs:C23435,
+        ocs:C25273,
+        ocs:C29672,
+        ocs:C32254,
+        ocs:C32401,
+        ocs:C33887,
+        ocs:C33954,
+        ocs:C34535,
+        ocs:C37750,
+        ocs:C41082,
+        ocs:C43427,
+        ocs:C43810,
+        ocs:C44167,
+        ocs:C44424,
+        ocs:C45365,
+        ocs:C5157,
+        ocs:C7128 .
+

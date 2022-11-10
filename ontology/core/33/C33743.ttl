@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33743 a skos:Concept ;
+    skos:broader ocs:C20772,
+        ocs:C21021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kautz_filter> ;
+    skos:prefLabel "Kautz filter" ;
+    skos:related ocs:C15194,
+        ocs:C18077,
+        ocs:C23968,
+        ocs:C32519,
+        ocs:C39179,
+        ocs:C4511,
+        ocs:C45235,
+        ocs:C5042,
+        ocs:C6110 .
+

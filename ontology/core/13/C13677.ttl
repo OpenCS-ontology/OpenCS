@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13677 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_vector> ;
+    skos:prefLabel "Feature vector" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C27703,
+        ocs:C2801,
+        ocs:C3512,
+        ocs:C36403,
+        ocs:C40043,
+        ocs:C4256,
+        ocs:C5087,
+        ocs:C7,
+        ocs:C9022,
+        ocs:C9538 .
+

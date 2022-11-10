@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6472 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit_pairing> ;
+    skos:prefLabel "Bit pairing" ;
+    skos:related ocs:C13590,
+        ocs:C138,
+        ocs:C16371,
+        ocs:C21891,
+        ocs:C26712,
+        ocs:C32960,
+        ocs:C3625,
+        ocs:C41099,
+        ocs:C4343,
+        ocs:C7444 .
+

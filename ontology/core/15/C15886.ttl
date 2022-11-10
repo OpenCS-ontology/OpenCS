@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15886 a skos:Concept ;
+    skos:broader ocs:C9692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collections_policy> ;
+    skos:prefLabel "Collection Management Policy" ;
+    skos:related ocs:C10220,
+        ocs:C10730,
+        ocs:C12745,
+        ocs:C15008,
+        ocs:C22104,
+        ocs:C2719,
+        ocs:C2862,
+        ocs:C3896,
+        ocs:C39,
+        ocs:C43,
+        ocs:C4335 .
+

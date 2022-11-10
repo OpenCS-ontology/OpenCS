@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42069 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cost_estimation_models> ;
+    skos:prefLabel "Cost estimation models" ;
+    skos:related ocs:C12373,
+        ocs:C39812,
+        ocs:C41314,
+        ocs:C43598,
+        ocs:C4915,
+        ocs:C6647 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11962 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Factual Databases" ;
+    skos:related ocs:C10413,
+        ocs:C12317,
+        ocs:C17905,
+        ocs:C2979,
+        ocs:C34,
+        ocs:C4,
+        ocs:C5746,
+        ocs:C8614 .
+

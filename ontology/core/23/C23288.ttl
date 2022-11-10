@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23288 a skos:Concept ;
+    skos:broader ocs:C6340 ;
+    skos:prefLabel "Basketball court" ;
+    skos:related ocs:C17,
+        ocs:C22,
+        ocs:C35,
+        ocs:C4861 .
+

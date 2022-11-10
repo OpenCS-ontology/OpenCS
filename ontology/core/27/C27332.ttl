@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27332 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stellar_density> ;
+    skos:prefLabel "Stellar density" ;
+    skos:related ocs:C17246,
+        ocs:C18299,
+        ocs:C23210,
+        ocs:C25918,
+        ocs:C32397,
+        ocs:C32528,
+        ocs:C33961,
+        ocs:C34069,
+        ocs:C34265,
+        ocs:C37905 .
+

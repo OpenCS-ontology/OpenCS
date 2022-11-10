@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37827 a skos:Concept ;
+    skos:broader ocs:C34382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_diagram> ;
+    skos:prefLabel "Mathematical diagram" ;
+    skos:related ocs:C15414,
+        ocs:C41540,
+        ocs:C8271 .
+

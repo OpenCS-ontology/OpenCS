@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34004 a skos:Concept ;
+    skos:broader ocs:C15048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_controller> ;
+    skos:prefLabel "Motion controller" ;
+    skos:related ocs:C10105,
+        ocs:C10500,
+        ocs:C1239,
+        ocs:C12976,
+        ocs:C13320,
+        ocs:C15048,
+        ocs:C18519,
+        ocs:C2417,
+        ocs:C26534,
+        ocs:C28881,
+        ocs:C41932,
+        ocs:C43855,
+        ocs:C5137,
+        ocs:C6069,
+        ocs:C7850,
+        ocs:C8 .
+

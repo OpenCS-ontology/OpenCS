@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17907 a skos:Concept ;
+    skos:broader ocs:C2761 ;
+    skos:prefLabel "RadLex term" ;
+    skos:related ocs:C23,
+        ocs:C2761,
+        ocs:C32,
+        ocs:C428,
+        ocs:C8 .
+

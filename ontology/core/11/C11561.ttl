@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11561 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data-structured_language> ;
+    skos:prefLabel "Data-structured language" ;
+    skos:related ocs:C10327,
+        ocs:C10720,
+        ocs:C12257,
+        ocs:C13045,
+        ocs:C1333,
+        ocs:C1386,
+        ocs:C15335,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21718,
+        ocs:C23439,
+        ocs:C4321,
+        ocs:C45037,
+        ocs:C5722,
+        ocs:C6723,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C8751 .
+

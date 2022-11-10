@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17980 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Translation_operator_(quantum_mechanics)> ;
+    skos:prefLabel "Translation operator" ;
+    skos:related ocs:C22400,
+        ocs:C23195,
+        ocs:C24854,
+        ocs:C43317,
+        ocs:C44649 .
+

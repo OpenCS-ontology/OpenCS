@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27284 a skos:Concept ;
+    skos:broader ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secret_sharing> ;
+    skos:prefLabel "Secret sharing" ;
+    skos:related ocs:C10,
+        ocs:C11664,
+        ocs:C14164,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C22263,
+        ocs:C23855,
+        ocs:C30595,
+        ocs:C31266,
+        ocs:C32288,
+        ocs:C37863,
+        ocs:C38359,
+        ocs:C39716,
+        ocs:C4218,
+        ocs:C44384,
+        ocs:C5692,
+        ocs:C7506,
+        ocs:C8789 .
+

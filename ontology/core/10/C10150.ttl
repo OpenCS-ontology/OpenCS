@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10150 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcontent> ;
+    skos:prefLabel "Microcontent" ;
+    skos:related ocs:C11034,
+        ocs:C12555,
+        ocs:C1261,
+        ocs:C14148,
+        ocs:C1919,
+        ocs:C22668,
+        ocs:C23393,
+        ocs:C28136,
+        ocs:C28801,
+        ocs:C29256,
+        ocs:C31,
+        ocs:C32413,
+        ocs:C34316,
+        ocs:C38459,
+        ocs:C4211,
+        ocs:C4500,
+        ocs:C45806,
+        ocs:C6968 .
+

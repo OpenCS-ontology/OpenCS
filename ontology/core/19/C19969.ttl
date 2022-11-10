@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19969 a skos:Concept ;
+    skos:broader ocs:C11213 ;
+    skos:closeMatch <http://dbpedia.org/resource/Accent_reduction> ;
+    skos:prefLabel "Accent reduction" ;
+    skos:related ocs:C12222,
+        ocs:C13210,
+        ocs:C15900,
+        ocs:C18386,
+        ocs:C18736,
+        ocs:C19146,
+        ocs:C19971,
+        ocs:C2025,
+        ocs:C21819,
+        ocs:C26520,
+        ocs:C27886 .
+

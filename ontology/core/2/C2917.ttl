@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2917 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_Services_Digital_Network> ;
+    skos:prefLabel "Integrated Services Digital Network" ;
+    skos:related ocs:C15589,
+        ocs:C19350,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C24466,
+        ocs:C25293,
+        ocs:C26,
+        ocs:C26580,
+        ocs:C26809,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C35928,
+        ocs:C36237,
+        ocs:C6027,
+        ocs:C6861,
+        ocs:C8614,
+        ocs:C9327 .
+

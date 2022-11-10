@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33958 a skos:Concept ;
+    skos:broader ocs:C18410,
+        ocs:C26119 ;
+    skos:closeMatch <http://dbpedia.org/resource/MacChoro> ;
+    skos:prefLabel "MacChoro" ;
+    skos:related ocs:C10683,
+        ocs:C11809,
+        ocs:C12322,
+        ocs:C12851,
+        ocs:C18289,
+        ocs:C22666,
+        ocs:C27130,
+        ocs:C3036,
+        ocs:C388,
+        ocs:C45395,
+        ocs:C5463,
+        ocs:C7289,
+        ocs:C9245 .
+

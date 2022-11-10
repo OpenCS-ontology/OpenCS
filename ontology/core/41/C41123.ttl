@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41123 a skos:Concept ;
+    skos:broader ocs:C34597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ophiodermatidae> ;
+    skos:prefLabel "Ophiodermatidae" ;
+    skos:related ocs:C18918,
+        ocs:C19166,
+        ocs:C20903,
+        ocs:C23293,
+        ocs:C29871,
+        ocs:C34597,
+        ocs:C39554,
+        ocs:C43517 .
+

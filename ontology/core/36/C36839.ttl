@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36839 a skos:Concept ;
+    skos:broader ocs:C24969 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heat_kernel_signature> ;
+    skos:prefLabel "Heat kernel signature" ;
+    skos:related ocs:C11189,
+        ocs:C17252,
+        ocs:C32381,
+        ocs:C34423 .
+

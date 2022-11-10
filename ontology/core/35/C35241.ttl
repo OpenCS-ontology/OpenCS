@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35241 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kryptopterus> ;
+    skos:prefLabel "Kryptopterus" ;
+    skos:related ocs:C24236,
+        ocs:C29991,
+        ocs:C31228,
+        ocs:C33864,
+        ocs:C36292,
+        ocs:C36451,
+        ocs:C39793 .
+

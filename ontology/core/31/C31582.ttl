@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31582 a skos:Concept ;
+    skos:broader ocs:C14329,
+        ocs:C17653 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_Communications_Architecture> ;
+    skos:prefLabel "Software Communications Architecture" ;
+    skos:related ocs:C11814,
+        ocs:C13110,
+        ocs:C17653,
+        ocs:C18001,
+        ocs:C21419,
+        ocs:C27982,
+        ocs:C28939,
+        ocs:C30929,
+        ocs:C31894,
+        ocs:C36943,
+        ocs:C37386,
+        ocs:C41848,
+        ocs:C43515,
+        ocs:C4473,
+        ocs:C5336,
+        ocs:C661 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12283 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low-rate_picture_transmission> ;
+    skos:prefLabel "Low-rate picture transmission" ;
+    skos:related ocs:C19548,
+        ocs:C26814,
+        ocs:C30565,
+        ocs:C32137,
+        ocs:C32576,
+        ocs:C43595 .
+

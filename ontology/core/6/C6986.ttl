@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6986 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hexbug> ;
+    skos:prefLabel "Hexbug" ;
+    skos:related ocs:C10396,
+        ocs:C12099,
+        ocs:C14022,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C28948,
+        ocs:C31723,
+        ocs:C32579,
+        ocs:C34991,
+        ocs:C35231,
+        ocs:C3808,
+        ocs:C39358,
+        ocs:C40482,
+        ocs:C43397 .
+

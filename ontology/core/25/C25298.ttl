@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25298 a skos:Concept ;
+    skos:broader ocs:C4886 ;
+    skos:closeMatch <http://dbpedia.org/resource/DSM_CC> ;
+    skos:prefLabel "DSM CC" ;
+    skos:related ocs:C10569,
+        ocs:C11214,
+        ocs:C11323,
+        ocs:C19334,
+        ocs:C20448,
+        ocs:C22714,
+        ocs:C22981,
+        ocs:C27081,
+        ocs:C29048,
+        ocs:C29359,
+        ocs:C31114,
+        ocs:C31517,
+        ocs:C34624,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C36332,
+        ocs:C37503,
+        ocs:C40353,
+        ocs:C44774,
+        ocs:C44962 .
+

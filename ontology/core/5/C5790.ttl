@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5790 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effects_unit> ;
+    skos:prefLabel "Effects unit" ;
+    skos:related ocs:C11254,
+        ocs:C26449,
+        ocs:C3733,
+        ocs:C38517,
+        ocs:C520,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C8718 .
+

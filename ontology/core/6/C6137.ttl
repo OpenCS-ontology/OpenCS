@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6137 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributed_knowledge> ;
+    skos:prefLabel "Distributed knowledge" ;
+    skos:related ocs:C10057,
+        ocs:C10238,
+        ocs:C11657,
+        ocs:C126,
+        ocs:C21067,
+        ocs:C2579,
+        ocs:C38919,
+        ocs:C42305,
+        ocs:C5568 .
+

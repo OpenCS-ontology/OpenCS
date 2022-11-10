@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14029 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiplication_operator> ;
+    skos:prefLabel "Multiplication operator" ;
+    skos:related ocs:C19542,
+        ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31195,
+        ocs:C31450,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C34413,
+        ocs:C36808,
+        ocs:C36974,
+        ocs:C40434,
+        ocs:C40662,
+        ocs:C44691 .
+

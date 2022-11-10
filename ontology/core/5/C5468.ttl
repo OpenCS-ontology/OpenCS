@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5468 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long_double> ;
+    skos:prefLabel "long double" ;
+    skos:related ocs:C12262,
+        ocs:C13552,
+        ocs:C14990,
+        ocs:C19487,
+        ocs:C21384,
+        ocs:C22452,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C28063,
+        ocs:C29107,
+        ocs:C31030,
+        ocs:C31341,
+        ocs:C32509,
+        ocs:C34400,
+        ocs:C35045,
+        ocs:C39774,
+        ocs:C40691,
+        ocs:C45395,
+        ocs:C4816,
+        ocs:C7602 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30697 a skos:Concept ;
+    skos:broader ocs:C18085 ;
+    skos:closeMatch <http://dbpedia.org/resource/R_Aquarii> ;
+    skos:prefLabel "R Aquarii" ;
+    skos:related ocs:C14224,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C19549,
+        ocs:C21065,
+        ocs:C22542,
+        ocs:C23210,
+        ocs:C29892,
+        ocs:C30632,
+        ocs:C31120,
+        ocs:C32305,
+        ocs:C40537 .
+

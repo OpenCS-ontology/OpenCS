@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23499 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C6915 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_Information_Standards> ;
+    skos:prefLabel "Minimum Information Standards" ;
+    skos:related ocs:C15401,
+        ocs:C23973,
+        ocs:C29974,
+        ocs:C31165,
+        ocs:C32112,
+        ocs:C3896 .
+

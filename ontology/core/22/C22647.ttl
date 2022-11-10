@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22647 a skos:Concept ;
+    skos:broader ocs:C511,
+        ocs:C5913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cockpit_display_system> ;
+    skos:prefLabel "Cockpit display system" ;
+    skos:related ocs:C10090,
+        ocs:C10277,
+        ocs:C15050,
+        ocs:C19500,
+        ocs:C20265,
+        ocs:C21142,
+        ocs:C22667,
+        ocs:C24485,
+        ocs:C24844,
+        ocs:C27554,
+        ocs:C30597,
+        ocs:C32744,
+        ocs:C32958,
+        ocs:C36472,
+        ocs:C36804,
+        ocs:C41707,
+        ocs:C41912,
+        ocs:C45623,
+        ocs:C511,
+        ocs:C5913 .
+

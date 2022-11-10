@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42152 a skos:Concept ;
+    skos:broader ocs:C35607 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudopimelodus> ;
+    skos:prefLabel "Pseudopimelodus" ;
+    skos:related ocs:C31227,
+        ocs:C33166,
+        ocs:C38319,
+        ocs:C39594,
+        ocs:C40967,
+        ocs:C41395,
+        ocs:C42290,
+        ocs:C42916,
+        ocs:C42958,
+        ocs:C44472,
+        ocs:C44495,
+        ocs:C44612,
+        ocs:C45751 .
+

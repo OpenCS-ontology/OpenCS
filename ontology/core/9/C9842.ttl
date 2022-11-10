@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9842 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Separation_of_mechanism_and_policy> ;
+    skos:prefLabel "Separation of mechanism and policy" ;
+    skos:related ocs:C1,
+        ocs:C10219,
+        ocs:C11152,
+        ocs:C19,
+        ocs:C20800,
+        ocs:C22095,
+        ocs:C23924,
+        ocs:C26097,
+        ocs:C29525,
+        ocs:C3071,
+        ocs:C31433,
+        ocs:C34320,
+        ocs:C35,
+        ocs:C3514,
+        ocs:C3948,
+        ocs:C6531,
+        ocs:C8204,
+        ocs:C8901,
+        ocs:C9 .
+

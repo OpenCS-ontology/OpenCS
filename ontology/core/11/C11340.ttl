@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11340 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_of_information> ;
+    skos:prefLabel "Logic of information" ;
+    skos:related ocs:C11578,
+        ocs:C1451,
+        ocs:C15849,
+        ocs:C21872 .
+

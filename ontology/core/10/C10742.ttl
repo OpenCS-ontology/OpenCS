@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10742 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISBL> ;
+    skos:prefLabel "ISBL" ;
+    skos:related ocs:C10392,
+        ocs:C10444,
+        ocs:C12185,
+        ocs:C16334,
+        ocs:C16874,
+        ocs:C17593,
+        ocs:C17701,
+        ocs:C18405,
+        ocs:C264,
+        ocs:C35394,
+        ocs:C41073,
+        ocs:C42248,
+        ocs:C42544,
+        ocs:C42631,
+        ocs:C42859,
+        ocs:C43655,
+        ocs:C44420,
+        ocs:C45138,
+        ocs:C6 .
+

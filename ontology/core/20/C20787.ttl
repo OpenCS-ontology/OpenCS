@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20787 a skos:Concept ;
+    skos:broader ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arabic_verbs> ;
+    skos:prefLabel "Arabic verbs" ;
+    skos:related ocs:C10570,
+        ocs:C18232,
+        ocs:C20344,
+        ocs:C22743,
+        ocs:C25169,
+        ocs:C26884,
+        ocs:C26895,
+        ocs:C31989,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C4822,
+        ocs:C6545 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28425 a skos:Concept ;
+    skos:broader ocs:C81 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colonization_of_the_Moon> ;
+    skos:prefLabel "Colonization of the Moon" ;
+    skos:related ocs:C15835,
+        ocs:C18244,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C25759,
+        ocs:C26021,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C7201,
+        ocs:C81 .
+

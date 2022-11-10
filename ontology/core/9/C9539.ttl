@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9539 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Behavioral_modeling> ;
+    skos:prefLabel "Behavioral modeling" ;
+    skos:related ocs:C10395,
+        ocs:C1725,
+        ocs:C22507,
+        ocs:C23273,
+        ocs:C2421,
+        ocs:C25627 .
+

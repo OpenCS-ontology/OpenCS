@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4529 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_sender> ;
+    skos:prefLabel "Video sender" ;
+    skos:related ocs:C11040,
+        ocs:C12999,
+        ocs:C13973,
+        ocs:C1724,
+        ocs:C18761,
+        ocs:C21424,
+        ocs:C2188,
+        ocs:C27912,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C4433,
+        ocs:C4448,
+        ocs:C5511,
+        ocs:C7502 .
+

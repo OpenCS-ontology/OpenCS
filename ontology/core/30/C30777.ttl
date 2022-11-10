@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30777 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Measure_of_non-compactness> ;
+    skos:prefLabel "Measure of non-compactness" ;
+    skos:related ocs:C23927,
+        ocs:C24169,
+        ocs:C29795,
+        ocs:C39367,
+        ocs:C39433,
+        ocs:C42981 .
+

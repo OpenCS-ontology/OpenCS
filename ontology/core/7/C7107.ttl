@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7107 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Psychohistory_(fictional)> ;
+    skos:prefLabel "Psychohistory (fictional)" ;
+    skos:related ocs:C1492,
+        ocs:C20012,
+        ocs:C27100,
+        ocs:C30213,
+        ocs:C916 .
+

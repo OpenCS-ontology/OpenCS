@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1866 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_optimization> ;
+    skos:prefLabel "Adaptive optimization" ;
+    skos:related ocs:C10336,
+        ocs:C1142,
+        ocs:C12974,
+        ocs:C17204,
+        ocs:C21201,
+        ocs:C21718,
+        ocs:C23789,
+        ocs:C23863,
+        ocs:C24646,
+        ocs:C26165,
+        ocs:C28073,
+        ocs:C32227,
+        ocs:C35849,
+        ocs:C39149,
+        ocs:C40088,
+        ocs:C42633,
+        ocs:C4321,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C6887 .
+

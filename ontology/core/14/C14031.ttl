@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14031 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expectation_value_(quantum_mechanics)> ;
+    skos:prefLabel "Expectation value" ;
+    skos:related ocs:C17980,
+        ocs:C20849,
+        ocs:C28787,
+        ocs:C44649 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42637 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incidence_coloring> ;
+    skos:prefLabel "Incidence coloring" ;
+    skos:related ocs:C14693,
+        ocs:C36406,
+        ocs:C38962,
+        ocs:C42000 .
+

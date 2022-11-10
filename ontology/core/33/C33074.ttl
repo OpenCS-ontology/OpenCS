@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33074 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Card_security_code> ;
+    skos:prefLabel "Card security code" ;
+    skos:related ocs:C10270,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C21054,
+        ocs:C22776,
+        ocs:C26014,
+        ocs:C27267,
+        ocs:C28781,
+        ocs:C31096,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C37095,
+        ocs:C40101,
+        ocs:C44448,
+        ocs:C45140,
+        ocs:C45808,
+        ocs:C8437,
+        ocs:C8690 .
+

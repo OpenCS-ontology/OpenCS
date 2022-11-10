@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9716 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/OTPW> ;
+    skos:prefLabel "OTPW" ;
+    skos:related ocs:C13017,
+        ocs:C14271,
+        ocs:C14354,
+        ocs:C19151,
+        ocs:C20243,
+        ocs:C22450,
+        ocs:C23875,
+        ocs:C26410,
+        ocs:C27509,
+        ocs:C28637,
+        ocs:C31489,
+        ocs:C36898,
+        ocs:C39193,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C43814,
+        ocs:C4513,
+        ocs:C4565,
+        ocs:C816,
+        ocs:C9 .
+

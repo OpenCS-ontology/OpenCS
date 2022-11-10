@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13411 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arity> ;
+    skos:prefLabel "Arity" ;
+    skos:related ocs:C1,
+        ocs:C11635,
+        ocs:C12806,
+        ocs:C1631,
+        ocs:C17884,
+        ocs:C19,
+        ocs:C2418,
+        ocs:C31014,
+        ocs:C4073,
+        ocs:C4097,
+        ocs:C6941,
+        ocs:C8077 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43934 a skos:Concept ;
+    skos:broader ocs:C31949,
+        ocs:C34052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Related-key_attack> ;
+    skos:prefLabel "Related-key attack" ;
+    skos:related ocs:C14539,
+        ocs:C16983,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C37854,
+        ocs:C38685,
+        ocs:C40288,
+        ocs:C41185,
+        ocs:C41893,
+        ocs:C4218,
+        ocs:C45116,
+        ocs:C45757 .
+

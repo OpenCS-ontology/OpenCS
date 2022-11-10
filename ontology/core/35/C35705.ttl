@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35705 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amblycipitidae> ;
+    skos:prefLabel "Amblycipitidae" ;
+    skos:related ocs:C24236,
+        ocs:C30248,
+        ocs:C31573,
+        ocs:C33146,
+        ocs:C35607,
+        ocs:C38973,
+        ocs:C39063,
+        ocs:C40315,
+        ocs:C42154,
+        ocs:C44015,
+        ocs:C45301,
+        ocs:C45405 .
+

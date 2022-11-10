@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10318 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_noise> ;
+    skos:prefLabel "Image noise" ;
+    skos:related ocs:C11324,
+        ocs:C11747,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C13970,
+        ocs:C1564,
+        ocs:C42391,
+        ocs:C43094,
+        ocs:C5854,
+        ocs:C669,
+        ocs:C7789,
+        ocs:C8021 .
+

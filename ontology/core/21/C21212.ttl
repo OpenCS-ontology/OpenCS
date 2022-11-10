@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21212 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C7159 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programme_identification> ;
+    skos:prefLabel "Programme identification" ;
+    skos:related ocs:C15505,
+        ocs:C16876,
+        ocs:C16971,
+        ocs:C22326,
+        ocs:C2582,
+        ocs:C26814,
+        ocs:C27316,
+        ocs:C30146,
+        ocs:C30900,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C32753,
+        ocs:C32772,
+        ocs:C36245,
+        ocs:C8410,
+        ocs:C939,
+        ocs:C941 .
+

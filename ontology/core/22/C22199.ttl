@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22199 a skos:Concept ;
+    skos:broader ocs:C2703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collinearity_equation> ;
+    skos:prefLabel "Collinearity equation" ;
+    skos:related ocs:C11548,
+        ocs:C12725,
+        ocs:C24390,
+        ocs:C25756,
+        ocs:C2703,
+        ocs:C27128,
+        ocs:C41077,
+        ocs:C7,
+        ocs:C9690 .
+

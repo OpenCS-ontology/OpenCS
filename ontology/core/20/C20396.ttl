@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20396 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schröder_number> ;
+    skos:prefLabel "Schröder number" ;
+    skos:related ocs:C11282,
+        ocs:C12474,
+        ocs:C22897,
+        ocs:C24232,
+        ocs:C2820 .
+

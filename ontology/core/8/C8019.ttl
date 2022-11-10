@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8019 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human–machine_system> ;
+    skos:prefLabel "Human–machine system" ;
+    skos:related ocs:C13153,
+        ocs:C1630,
+        ocs:C18,
+        ocs:C2529,
+        ocs:C28803,
+        ocs:C3429,
+        ocs:C3795,
+        ocs:C5232,
+        ocs:C7334,
+        ocs:C7736,
+        ocs:C8 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9315 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_law> ;
+    skos:prefLabel "Computational law" ;
+    skos:related ocs:C11927,
+        ocs:C1722,
+        ocs:C20376,
+        ocs:C23309,
+        ocs:C28963,
+        ocs:C3339,
+        ocs:C3736,
+        ocs:C37695,
+        ocs:C3791,
+        ocs:C5150,
+        ocs:C7409,
+        ocs:C8 .
+

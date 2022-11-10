@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1251 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/X86_memory_segmentation> ;
+    skos:prefLabel "x86 memory segmentation" ;
+    skos:related ocs:C10983,
+        ocs:C12323,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C27025,
+        ocs:C28881,
+        ocs:C31027,
+        ocs:C31346,
+        ocs:C32222,
+        ocs:C33174,
+        ocs:C3320,
+        ocs:C37847,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C39623,
+        ocs:C5147,
+        ocs:C8434,
+        ocs:C9 .
+

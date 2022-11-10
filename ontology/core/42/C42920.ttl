@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42920 a skos:Concept ;
+    skos:broader ocs:C31913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superior_gemellus_muscle> ;
+    skos:prefLabel "Gemellus superior" ;
+    skos:related ocs:C14226,
+        ocs:C30220 .
+

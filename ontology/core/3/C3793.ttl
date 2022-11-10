@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3793 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/AUTINDEX> ;
+    skos:prefLabel "AUTINDEX" ;
+    skos:related ocs:C1040,
+        ocs:C11087,
+        ocs:C1132,
+        ocs:C12491,
+        ocs:C12736,
+        ocs:C23,
+        ocs:C27712,
+        ocs:C30113,
+        ocs:C32,
+        ocs:C36447,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38477,
+        ocs:C5852,
+        ocs:C8934,
+        ocs:C972,
+        ocs:C9874 .
+

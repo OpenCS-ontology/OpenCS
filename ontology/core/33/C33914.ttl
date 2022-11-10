@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33914 a skos:Concept ;
+    skos:broader ocs:C24259 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eccentric_anomaly> ;
+    skos:prefLabel "Eccentric anomaly" ;
+    skos:related ocs:C31029,
+        ocs:C36893,
+        ocs:C37916,
+        ocs:C38002,
+        ocs:C45646 .
+

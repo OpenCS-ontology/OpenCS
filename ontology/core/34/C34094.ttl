@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34094 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free-fall_time> ;
+    skos:prefLabel "Free-fall time" ;
+    skos:related ocs:C14270,
+        ocs:C31029,
+        ocs:C38278 .
+

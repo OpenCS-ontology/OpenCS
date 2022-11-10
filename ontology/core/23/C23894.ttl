@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23894 a skos:Concept ;
+    skos:broader ocs:C2358,
+        ocs:C318 ;
+    skos:closeMatch <http://dbpedia.org/resource/American_National_Corpus> ;
+    skos:prefLabel "American National Corpus" ;
+    skos:related ocs:C11712,
+        ocs:C12672,
+        ocs:C15475,
+        ocs:C15768,
+        ocs:C18176,
+        ocs:C1948,
+        ocs:C20098,
+        ocs:C22964,
+        ocs:C2358,
+        ocs:C32,
+        ocs:C33532,
+        ocs:C38727,
+        ocs:C8454,
+        ocs:C8564,
+        ocs:C8576,
+        ocs:C8710,
+        ocs:C936,
+        ocs:C961 .
+

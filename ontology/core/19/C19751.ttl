@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19751 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_transfer> ;
+    skos:prefLabel "Time transfer" ;
+    skos:related ocs:C12641,
+        ocs:C16291,
+        ocs:C18988,
+        ocs:C21978,
+        ocs:C22220,
+        ocs:C24213,
+        ocs:C27698,
+        ocs:C281,
+        ocs:C30565,
+        ocs:C3062,
+        ocs:C31954,
+        ocs:C31990,
+        ocs:C34811,
+        ocs:C43447,
+        ocs:C5618,
+        ocs:C5706,
+        ocs:C7648 .
+

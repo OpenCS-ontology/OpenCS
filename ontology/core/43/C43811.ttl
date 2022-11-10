@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43811 a skos:Concept ;
+    skos:broader ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equidissection> ;
+    skos:prefLabel "Equidissection" ;
+    skos:related ocs:C38626,
+        ocs:C38702,
+        ocs:C43646 .
+

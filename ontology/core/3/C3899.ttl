@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3899 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/HIPO_model> ;
+    skos:prefLabel "HIPO model" ;
+    skos:related ocs:C13152,
+        ocs:C13744,
+        ocs:C14468,
+        ocs:C2664,
+        ocs:C37831,
+        ocs:C40955,
+        ocs:C41897,
+        ocs:C5500,
+        ocs:C5822,
+        ocs:C5869,
+        ocs:C609,
+        ocs:C6494,
+        ocs:C7426,
+        ocs:C7508,
+        ocs:C8387 .
+

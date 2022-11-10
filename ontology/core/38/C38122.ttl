@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38122 a skos:Concept ;
+    skos:broader ocs:C30144,
+        ocs:C35297 ;
+    skos:closeMatch <http://dbpedia.org/resource/Downstream_(networking)> ;
+    skos:prefLabel "Downstream (networking)" ;
+    skos:related ocs:C15589,
+        ocs:C19350,
+        ocs:C21357,
+        ocs:C25133,
+        ocs:C25852,
+        ocs:C26,
+        ocs:C26580,
+        ocs:C27447,
+        ocs:C27570,
+        ocs:C37037,
+        ocs:C37312,
+        ocs:C4433,
+        ocs:C7857,
+        ocs:C8614,
+        ocs:C9327,
+        ocs:C9392 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17370 a skos:Concept ;
+    skos:broader ocs:C7331 ;
+    skos:closeMatch <http://dbpedia.org/resource/Street_workout> ;
+    skos:prefLabel "Street workout" ;
+    skos:related ocs:C4388,
+        ocs:C7331,
+        ocs:C7505 .
+

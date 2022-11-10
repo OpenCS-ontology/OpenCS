@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17715 a skos:Concept ;
+    skos:broader ocs:C5292 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-access_key> ;
+    skos:prefLabel "Single-access key" ;
+    skos:related ocs:C15414,
+        ocs:C22495,
+        ocs:C3047,
+        ocs:C36112,
+        ocs:C7652 .
+

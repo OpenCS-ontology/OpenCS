@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8362 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acronym_and_initialism> ;
+    skos:prefLabel "Initial (abbreviation)" ;
+    skos:related ocs:C13109,
+        ocs:C32,
+        ocs:C8 .
+

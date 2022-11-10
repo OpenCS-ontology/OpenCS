@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35208 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Catadioptric_sensor> ;
+    skos:prefLabel "Catadioptric sensor" ;
+    skos:related ocs:C23972,
+        ocs:C24698,
+        ocs:C33486,
+        ocs:C8085 .
+

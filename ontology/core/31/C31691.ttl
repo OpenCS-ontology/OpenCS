@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31691 a skos:Concept ;
+    skos:broader ocs:C16530 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open/closed_principle> ;
+    skos:prefLabel "Open/closed principle" ;
+    skos:related ocs:C10720,
+        ocs:C14405,
+        ocs:C2201,
+        ocs:C2214,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C31751,
+        ocs:C3282,
+        ocs:C34078,
+        ocs:C37467,
+        ocs:C38027,
+        ocs:C42280,
+        ocs:C6761,
+        ocs:C79,
+        ocs:C9535 .
+

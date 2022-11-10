@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14828 a skos:Concept ;
+    skos:broader ocs:C9100 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable-message_sign> ;
+    skos:prefLabel "Variable-message sign" ;
+    skos:related ocs:C10550,
+        ocs:C11656,
+        ocs:C12758,
+        ocs:C16107,
+        ocs:C17047,
+        ocs:C25484,
+        ocs:C27658,
+        ocs:C38216,
+        ocs:C6243,
+        ocs:C6969,
+        ocs:C9100,
+        ocs:C9657 .
+

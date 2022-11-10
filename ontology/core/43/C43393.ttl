@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43393 a skos:Concept ;
+    skos:broader ocs:C30109,
+        ocs:C34450 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hayashi_track> ;
+    skos:prefLabel "Hayashi track" ;
+    skos:related ocs:C16687,
+        ocs:C17094,
+        ocs:C21307,
+        ocs:C23430,
+        ocs:C25140,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C31120,
+        ocs:C31589,
+        ocs:C34450,
+        ocs:C35888,
+        ocs:C35893,
+        ocs:C36170,
+        ocs:C38445,
+        ocs:C40039 .
+

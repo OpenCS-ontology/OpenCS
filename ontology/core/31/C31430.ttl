@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31430 a skos:Concept ;
+    skos:broader ocs:C27515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Connection_broker> ;
+    skos:prefLabel "Connection broker" ;
+    skos:related ocs:C10508,
+        ocs:C11203,
+        ocs:C11992,
+        ocs:C17676,
+        ocs:C19809,
+        ocs:C20404,
+        ocs:C32723,
+        ocs:C35739,
+        ocs:C37875,
+        ocs:C3850,
+        ocs:C41270,
+        ocs:C42543,
+        ocs:C42972,
+        ocs:C43434,
+        ocs:C44773,
+        ocs:C45042,
+        ocs:C5869,
+        ocs:C688 .
+

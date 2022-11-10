@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20928 a skos:Concept ;
+    skos:broader ocs:C5620 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-stream_recycling> ;
+    skos:prefLabel "Single-stream recycling" ;
+    skos:related ocs:C14540,
+        ocs:C18241 .
+

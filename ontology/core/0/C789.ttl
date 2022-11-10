@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C789 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lisp_reader> ;
+    skos:prefLabel "Lisp reader" ;
+    skos:related ocs:C10284,
+        ocs:C11990,
+        ocs:C13527,
+        ocs:C14317,
+        ocs:C16609,
+        ocs:C20907,
+        ocs:C220,
+        ocs:C27892,
+        ocs:C28460,
+        ocs:C31850,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C35625,
+        ocs:C3637,
+        ocs:C37855,
+        ocs:C42911,
+        ocs:C8441,
+        ocs:C8564 .
+

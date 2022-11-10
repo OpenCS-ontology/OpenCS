@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10947 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ad_text_optimization> ;
+    skos:prefLabel "Ad text optimization" ;
+    skos:related ocs:C13063,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C28136,
+        ocs:C28988,
+        ocs:C29564,
+        ocs:C35013,
+        ocs:C3582,
+        ocs:C36167,
+        ocs:C43593,
+        ocs:C44855,
+        ocs:C5427 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3398 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_expression> ;
+    skos:prefLabel "Regular expression" ;
+    skos:related ocs:C10284,
+        ocs:C11545,
+        ocs:C11927,
+        ocs:C14271,
+        ocs:C14557,
+        ocs:C17566,
+        ocs:C19,
+        ocs:C22624,
+        ocs:C26158,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C30272,
+        ocs:C31489,
+        ocs:C36601,
+        ocs:C386,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5126,
+        ocs:C524,
+        ocs:C8564 .
+

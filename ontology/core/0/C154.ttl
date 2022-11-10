@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C154 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Limiter> ;
+    skos:prefLabel "Limiter" ;
+    skos:related ocs:C1449,
+        ocs:C21364,
+        ocs:C26449,
+        ocs:C26758,
+        ocs:C3843,
+        ocs:C38517,
+        ocs:C39475,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C7502,
+        ocs:C8291 .
+

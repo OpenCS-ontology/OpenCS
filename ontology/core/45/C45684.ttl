@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45684 a skos:Concept ;
+    skos:broader ocs:C33274 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goodman_and_Kruskal's_lambda> ;
+    skos:prefLabel "Goodman and Kruskal's lambda" ;
+    skos:related ocs:C13789,
+        ocs:C26643,
+        ocs:C36163,
+        ocs:C39577,
+        ocs:C4479,
+        ocs:C45538,
+        ocs:C5637 .
+

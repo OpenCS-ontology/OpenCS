@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25507 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_steering> ;
+    skos:prefLabel "Computational steering" ;
+    skos:related ocs:C1,
+        ocs:C13795,
+        ocs:C14529,
+        ocs:C15307,
+        ocs:C15594,
+        ocs:C27787,
+        ocs:C28745,
+        ocs:C38438,
+        ocs:C7256,
+        ocs:C7869 .
+

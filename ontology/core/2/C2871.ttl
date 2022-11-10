@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2871 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_Acquisition_Is_Initialization> ;
+    skos:prefLabel "Resource Acquisition Is Initialization" ;
+    skos:related ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C10909,
+        ocs:C12584,
+        ocs:C14055,
+        ocs:C19,
+        ocs:C25127,
+        ocs:C259,
+        ocs:C25960,
+        ocs:C27131,
+        ocs:C3282,
+        ocs:C5308,
+        ocs:C794 .
+

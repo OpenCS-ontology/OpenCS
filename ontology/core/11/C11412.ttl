@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11412 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/UHF_CB> ;
+    skos:prefLabel "UHF CB" ;
+    skos:related ocs:C13571,
+        ocs:C14053,
+        ocs:C17555,
+        ocs:C20485,
+        ocs:C2178,
+        ocs:C4255,
+        ocs:C43408,
+        ocs:C4717,
+        ocs:C5907,
+        ocs:C599,
+        ocs:C6763,
+        ocs:C702,
+        ocs:C7216,
+        ocs:C7746,
+        ocs:C8612,
+        ocs:C9793 .
+

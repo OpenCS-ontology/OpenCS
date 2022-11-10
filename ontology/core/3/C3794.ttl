@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3794 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Industrial_safety_system> ;
+    skos:prefLabel "Industrial safety system" ;
+    skos:related ocs:C10492,
+        ocs:C32230,
+        ocs:C5821,
+        ocs:C8562 .
+

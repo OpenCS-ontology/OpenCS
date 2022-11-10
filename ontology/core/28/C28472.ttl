@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28472 a skos:Concept ;
+    skos:broader ocs:C10918,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_decoder> ;
+    skos:prefLabel "Video decoder" ;
+    skos:related ocs:C10320,
+        ocs:C11323,
+        ocs:C14482,
+        ocs:C1904,
+        ocs:C19050,
+        ocs:C19334,
+        ocs:C24015,
+        ocs:C26268,
+        ocs:C2674,
+        ocs:C27086,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C38826,
+        ocs:C38834,
+        ocs:C39584,
+        ocs:C7165 .
+

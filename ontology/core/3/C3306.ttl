@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3306 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/VIPeR> ;
+    skos:prefLabel "VIPeR" ;
+    skos:related ocs:C10396,
+        ocs:C11381,
+        ocs:C13465,
+        ocs:C14022,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17375,
+        ocs:C17396,
+        ocs:C1888,
+        ocs:C29173,
+        ocs:C30596,
+        ocs:C31036,
+        ocs:C34058,
+        ocs:C34991,
+        ocs:C36413,
+        ocs:C36715,
+        ocs:C37010,
+        ocs:C469,
+        ocs:C5855 .
+

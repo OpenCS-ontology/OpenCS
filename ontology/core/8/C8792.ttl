@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8792 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mmap> ;
+    skos:prefLabel "mmap" ;
+    skos:related ocs:C1165,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C20800,
+        ocs:C24871,
+        ocs:C25960,
+        ocs:C31489,
+        ocs:C33702,
+        ocs:C37732,
+        ocs:C38819,
+        ocs:C40529,
+        ocs:C41970,
+        ocs:C42619,
+        ocs:C43102,
+        ocs:C43104,
+        ocs:C8782,
+        ocs:C9,
+        ocs:C9938 .
+

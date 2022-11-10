@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9500 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trust_on_first_use> ;
+    skos:prefLabel "Trust on first use" ;
+    skos:related ocs:C1399,
+        ocs:C16125,
+        ocs:C18946,
+        ocs:C20243,
+        ocs:C23855,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25176,
+        ocs:C26573,
+        ocs:C28637,
+        ocs:C30448,
+        ocs:C30595,
+        ocs:C31365,
+        ocs:C35008,
+        ocs:C35146,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C5842 .
+

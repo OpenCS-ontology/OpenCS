@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14900 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C4321,
+        ocs:C6941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bigloo> ;
+    skos:prefLabel "Bigloo" ;
+    skos:related ocs:C11062,
+        ocs:C12974,
+        ocs:C16093,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C29907,
+        ocs:C35502,
+        ocs:C39149,
+        ocs:C41659,
+        ocs:C41674,
+        ocs:C41692,
+        ocs:C42633,
+        ocs:C4321,
+        ocs:C45618,
+        ocs:C5034,
+        ocs:C5358,
+        ocs:C8441 .
+

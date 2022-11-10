@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17609 a skos:Concept ;
+    skos:broader ocs:C7106,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_hosting> ;
+    skos:prefLabel "Virtual hosting" ;
+    skos:related ocs:C12812,
+        ocs:C17183,
+        ocs:C17235,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C27112,
+        ocs:C31,
+        ocs:C34170,
+        ocs:C34235,
+        ocs:C35801,
+        ocs:C41498,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C8614,
+        ocs:C8714,
+        ocs:C9 .
+

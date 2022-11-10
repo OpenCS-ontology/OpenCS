@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25798 a skos:Concept ;
+    skos:broader ocs:C5861 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_Transit_Feed_Specification> ;
+    skos:prefLabel "General Transit Feed Specification" ;
+    skos:related ocs:C11927,
+        ocs:C12758,
+        ocs:C13068,
+        ocs:C17106,
+        ocs:C19494,
+        ocs:C23932,
+        ocs:C32013,
+        ocs:C3524,
+        ocs:C40327,
+        ocs:C4998,
+        ocs:C8511 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41861 a skos:Concept ;
+    skos:broader ocs:C32321,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadratic_residue_code> ;
+    skos:prefLabel "Quadratic residue code" ;
+    skos:related ocs:C12485,
+        ocs:C15232,
+        ocs:C18626,
+        ocs:C27316,
+        ocs:C30437,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C39370,
+        ocs:C39449,
+        ocs:C40267,
+        ocs:C43048,
+        ocs:C43730,
+        ocs:C43745,
+        ocs:C44130,
+        ocs:C44441,
+        ocs:C6402,
+        ocs:C7856,
+        ocs:C9449 .
+

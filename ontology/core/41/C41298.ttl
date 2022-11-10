@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41298 a skos:Concept ;
+    skos:broader ocs:C30630,
+        ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bogon_filtering> ;
+    skos:prefLabel "Bogon filtering" ;
+    skos:related ocs:C17864,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C20125,
+        ocs:C20540,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C39721,
+        ocs:C41222,
+        ocs:C41442,
+        ocs:C43015,
+        ocs:C43297,
+        ocs:C43820,
+        ocs:C44968,
+        ocs:C45399,
+        ocs:C8614 .
+

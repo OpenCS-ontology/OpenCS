@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29134 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modular_unit> ;
+    skos:prefLabel "Modular unit" ;
+    skos:related ocs:C23209,
+        ocs:C30996,
+        ocs:C32463,
+        ocs:C35040,
+        ocs:C36759,
+        ocs:C39710,
+        ocs:C41237 .
+

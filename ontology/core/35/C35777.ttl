@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35777 a skos:Concept ;
+    skos:broader ocs:C20240 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dorymyrmex> ;
+    skos:prefLabel "Dorymyrmex" ;
+    skos:related ocs:C16962,
+        ocs:C20738,
+        ocs:C22105,
+        ocs:C24125,
+        ocs:C25692,
+        ocs:C25716,
+        ocs:C27106 .
+

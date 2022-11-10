@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29914 a skos:Concept ;
+    skos:broader ocs:C29492 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tiger_muskellunge> ;
+    skos:prefLabel "Tiger muskellunge" ;
+    skos:related ocs:C13455,
+        ocs:C24236,
+        ocs:C29492 .
+

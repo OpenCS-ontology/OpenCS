@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6239 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Headword> ;
+    skos:prefLabel "Headword" ;
+    skos:related ocs:C10801,
+        ocs:C11213,
+        ocs:C12486,
+        ocs:C15899,
+        ocs:C2137,
+        ocs:C2761,
+        ocs:C2847,
+        ocs:C34828,
+        ocs:C3580,
+        ocs:C3614,
+        ocs:C3779,
+        ocs:C6545,
+        ocs:C8283,
+        ocs:C8710 .
+

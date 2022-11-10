@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1208 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Capitalization_of_%22Internet%22> ;
+    skos:prefLabel "Capitalization of &quot;Internet&quot;" ;
+    skos:related ocs:C13457,
+        ocs:C14134,
+        ocs:C14538,
+        ocs:C16399,
+        ocs:C16953,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C23851,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C32268,
+        ocs:C33957,
+        ocs:C36766,
+        ocs:C40689,
+        ocs:C41442,
+        ocs:C8614 .
+

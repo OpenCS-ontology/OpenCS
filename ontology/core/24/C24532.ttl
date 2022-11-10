@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24532 a skos:Concept ;
+    skos:broader ocs:C12238,
+        ocs:C5493,
+        ocs:C7106 ;
+    skos:prefLabel "Big data security" .
+

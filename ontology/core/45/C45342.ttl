@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45342 a skos:Concept ;
+    skos:broader ocs:C34593 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTTP_header_injection> ;
+    skos:prefLabel "HTTP header injection" ;
+    skos:related ocs:C12858,
+        ocs:C12860,
+        ocs:C16338,
+        ocs:C22597,
+        ocs:C25296,
+        ocs:C26528,
+        ocs:C28480,
+        ocs:C30926,
+        ocs:C31,
+        ocs:C39663,
+        ocs:C40510,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C41901,
+        ocs:C42057,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C4918,
+        ocs:C8614 .
+

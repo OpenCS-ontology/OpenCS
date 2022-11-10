@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39027 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/VEGAS_algorithm> ;
+    skos:prefLabel "VEGAS algorithm" ;
+    skos:related ocs:C1844,
+        ocs:C28074,
+        ocs:C30115,
+        ocs:C31167,
+        ocs:C36442,
+        ocs:C38763,
+        ocs:C41470,
+        ocs:C43676,
+        ocs:C43852,
+        ocs:C45433,
+        ocs:C45625,
+        ocs:C8516,
+        ocs:C9326 .
+

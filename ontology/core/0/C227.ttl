@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C227 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learner-generated_context> ;
+    skos:prefLabel "Learner-generated context" ;
+    skos:related ocs:C11050,
+        ocs:C11483,
+        ocs:C14904,
+        ocs:C16499,
+        ocs:C22668,
+        ocs:C24564,
+        ocs:C27670,
+        ocs:C3444,
+        ocs:C37105,
+        ocs:C4819,
+        ocs:C5140,
+        ocs:C5532,
+        ocs:C5634,
+        ocs:C580,
+        ocs:C7071 .
+

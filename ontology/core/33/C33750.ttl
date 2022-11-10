@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33750 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Goldmann perimeter" ;
+    skos:related ocs:C22,
+        ocs:C34334,
+        ocs:C36250,
+        ocs:C37566,
+        ocs:C42011 .
+

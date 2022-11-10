@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3048 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secrecy> ;
+    skos:prefLabel "Secrecy" ;
+    skos:related ocs:C12434,
+        ocs:C1331,
+        ocs:C17900,
+        ocs:C2060,
+        ocs:C2970,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C6753,
+        ocs:C7113,
+        ocs:C8614 .
+

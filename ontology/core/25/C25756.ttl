@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25756 a skos:Concept ;
+    skos:broader ocs:C2703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bundle_adjustment> ;
+    skos:prefLabel "Bundle adjustment" ;
+    skos:related ocs:C13142,
+        ocs:C1573,
+        ocs:C16904,
+        ocs:C20013,
+        ocs:C22199,
+        ocs:C24390,
+        ocs:C2703,
+        ocs:C2883,
+        ocs:C29738,
+        ocs:C42678,
+        ocs:C5462,
+        ocs:C7,
+        ocs:C7471 .
+

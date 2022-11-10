@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17400 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Demand_draft> ;
+    skos:prefLabel "Demand draft" ;
+    skos:related ocs:C11389,
+        ocs:C12752,
+        ocs:C12993,
+        ocs:C15607,
+        ocs:C16179,
+        ocs:C19078,
+        ocs:C21953,
+        ocs:C21954,
+        ocs:C26695,
+        ocs:C27523,
+        ocs:C40399,
+        ocs:C4779,
+        ocs:C7458 .
+

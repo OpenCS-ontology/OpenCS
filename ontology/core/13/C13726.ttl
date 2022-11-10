@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13726 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_implementation> ;
+    skos:prefLabel "Open implementation" ;
+    skos:related ocs:C14329,
+        ocs:C17204,
+        ocs:C19670,
+        ocs:C23181,
+        ocs:C4321,
+        ocs:C8 .
+

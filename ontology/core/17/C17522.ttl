@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17522 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monomorium> ;
+    skos:prefLabel "Monomorium" ;
+    skos:related ocs:C20240,
+        ocs:C23015,
+        ocs:C24385,
+        ocs:C28720,
+        ocs:C30349,
+        ocs:C37210 .
+

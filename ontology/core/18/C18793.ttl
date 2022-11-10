@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18793 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specific_strength> ;
+    skos:prefLabel "Specific strength" ;
+    skos:related ocs:C20415,
+        ocs:C5096,
+        ocs:C597 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21919 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Like_button> ;
+    skos:prefLabel "Like button" ;
+    skos:related ocs:C10904,
+        ocs:C11126,
+        ocs:C14528,
+        ocs:C1650,
+        ocs:C18683,
+        ocs:C22668,
+        ocs:C24143,
+        ocs:C2674,
+        ocs:C355,
+        ocs:C44458,
+        ocs:C4712,
+        ocs:C5554,
+        ocs:C6504,
+        ocs:C6762,
+        ocs:C7736,
+        ocs:C8614,
+        ocs:C9057 .
+

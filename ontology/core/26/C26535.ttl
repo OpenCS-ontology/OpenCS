@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26535 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/EcosimPro> ;
+    skos:prefLabel "EcosimPro" ;
+    skos:related ocs:C10720,
+        ocs:C1104,
+        ocs:C11328,
+        ocs:C13260,
+        ocs:C15594,
+        ocs:C200,
+        ocs:C24,
+        ocs:C27787,
+        ocs:C3739,
+        ocs:C37406,
+        ocs:C5296,
+        ocs:C5335,
+        ocs:C659,
+        ocs:C7256,
+        ocs:C802,
+        ocs:C8754 .
+

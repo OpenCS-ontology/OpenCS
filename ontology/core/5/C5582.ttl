@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5582 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/3D_data_acquisition_and_object_reconstruction> ;
+    skos:prefLabel "3D data acquisition and object reconstruction" ;
+    skos:related ocs:C1253,
+        ocs:C13320,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23146,
+        ocs:C25249,
+        ocs:C25599,
+        ocs:C26781,
+        ocs:C2703,
+        ocs:C3338,
+        ocs:C35225,
+        ocs:C4646,
+        ocs:C5083,
+        ocs:C664,
+        ocs:C7,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8399,
+        ocs:C9879 .
+

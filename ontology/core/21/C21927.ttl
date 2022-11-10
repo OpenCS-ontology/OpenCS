@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21927 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C4161,
+        ocs:C9934 ;
+    skos:prefLabel "Social book search" .
+

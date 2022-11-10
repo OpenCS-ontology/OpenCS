@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23194 a skos:Concept ;
+    skos:broader ocs:C1647,
+        ocs:C3001,
+        ocs:C3639,
+        ocs:C7424 ;
+    skos:prefLabel "Wichita Indians" ;
+    skos:related ocs:C1,
+        ocs:C4 .
+

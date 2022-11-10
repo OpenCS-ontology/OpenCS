@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39331 a skos:Concept ;
+    skos:broader ocs:C32396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exponentiation_by_squaring> ;
+    skos:prefLabel "Exponentiation by squaring" ;
+    skos:related ocs:C10,
+        ocs:C10734,
+        ocs:C18434,
+        ocs:C24353,
+        ocs:C32396,
+        ocs:C32484,
+        ocs:C34794,
+        ocs:C36024,
+        ocs:C37205,
+        ocs:C38359,
+        ocs:C4218,
+        ocs:C43144,
+        ocs:C8660 .
+

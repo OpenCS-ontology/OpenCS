@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5069 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C9 ;
+    skos:prefLabel "Print processor" ;
+    skos:related ocs:C10973,
+        ocs:C13155,
+        ocs:C1595,
+        ocs:C17,
+        ocs:C20750,
+        ocs:C23856,
+        ocs:C24859,
+        ocs:C257,
+        ocs:C2660,
+        ocs:C5160,
+        ocs:C5702,
+        ocs:C6223,
+        ocs:C6999,
+        ocs:C8021,
+        ocs:C8704,
+        ocs:C9993 .
+

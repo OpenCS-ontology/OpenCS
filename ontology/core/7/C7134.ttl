@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7134 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Monitoring features" ;
+    skos:related ocs:C10052,
+        ocs:C197,
+        ocs:C2,
+        ocs:C257,
+        ocs:C30,
+        ocs:C33,
+        ocs:C545,
+        ocs:C5818 .
+

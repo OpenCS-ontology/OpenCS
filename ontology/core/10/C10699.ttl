@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10699 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/E_and_M_signaling> ;
+    skos:prefLabel "E and M signaling" ;
+    skos:related ocs:C17064,
+        ocs:C25293,
+        ocs:C2665,
+        ocs:C27446,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C4562,
+        ocs:C4928,
+        ocs:C6039,
+        ocs:C6645,
+        ocs:C6711,
+        ocs:C9117 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1313 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Checked_tone> ;
+    skos:prefLabel "Checked tone" ;
+    skos:related ocs:C10187,
+        ocs:C11398,
+        ocs:C12222,
+        ocs:C13096,
+        ocs:C18819,
+        ocs:C19817,
+        ocs:C2025,
+        ocs:C25152,
+        ocs:C25538,
+        ocs:C34296,
+        ocs:C6505,
+        ocs:C7310 .
+

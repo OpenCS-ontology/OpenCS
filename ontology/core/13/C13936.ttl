@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13936 a skos:Concept ;
+    skos:broader ocs:C4217 ;
+    skos:closeMatch <http://dbpedia.org/resource/Average_true_range> ;
+    skos:prefLabel "Average true range" ;
+    skos:related ocs:C14656,
+        ocs:C16529,
+        ocs:C18368,
+        ocs:C19457,
+        ocs:C19515 .
+

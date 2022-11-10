@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4749 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C32,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Film_grammar> ;
+    skos:prefLabel "Film grammar" ;
+    skos:related ocs:C13095,
+        ocs:C4383,
+        ocs:C8630,
+        ocs:C8950 .
+

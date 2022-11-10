@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10463 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_description> ;
+    skos:prefLabel "Audio description" ;
+    skos:related ocs:C1051,
+        ocs:C11719,
+        ocs:C12544,
+        ocs:C18697,
+        ocs:C19366,
+        ocs:C21312,
+        ocs:C25195,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C30635,
+        ocs:C32488,
+        ocs:C40199,
+        ocs:C4433,
+        ocs:C45143,
+        ocs:C5262,
+        ocs:C7714,
+        ocs:C9045 .
+

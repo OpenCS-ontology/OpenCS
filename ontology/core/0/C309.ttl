@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C309 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_number> ;
+    skos:prefLabel "Flight number" ;
+    skos:related ocs:C10919,
+        ocs:C11445,
+        ocs:C11651,
+        ocs:C13678,
+        ocs:C23917,
+        ocs:C3180,
+        ocs:C4597 .
+

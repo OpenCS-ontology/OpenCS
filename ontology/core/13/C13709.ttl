@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13709 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/PCS_switching_center> ;
+    skos:prefLabel "PCS switching center" ;
+    skos:related ocs:C11769,
+        ocs:C12307,
+        ocs:C12308,
+        ocs:C16022,
+        ocs:C18352,
+        ocs:C21725,
+        ocs:C29799,
+        ocs:C30667,
+        ocs:C31746,
+        ocs:C3178,
+        ocs:C32672,
+        ocs:C43515,
+        ocs:C5623,
+        ocs:C6972,
+        ocs:C7327,
+        ocs:C9107 .
+

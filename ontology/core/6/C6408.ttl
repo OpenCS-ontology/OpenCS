@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6408 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/FIFO_(computing_and_electronics)> ;
+    skos:prefLabel "FIFO (computing and electronics)" ;
+    skos:related ocs:C1,
+        ocs:C10693,
+        ocs:C11084,
+        ocs:C20087,
+        ocs:C2050,
+        ocs:C26,
+        ocs:C2750,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C35234,
+        ocs:C37938,
+        ocs:C38925,
+        ocs:C44036,
+        ocs:C45621,
+        ocs:C4700,
+        ocs:C5615,
+        ocs:C5722,
+        ocs:C5745 .
+

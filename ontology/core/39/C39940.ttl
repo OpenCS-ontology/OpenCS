@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39940 a skos:Concept ;
+    skos:broader ocs:C29901,
+        ocs:C30796,
+        ocs:C34566,
+        ocs:C34937,
+        ocs:C36538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Immediate_constituent_analysis> ;
+    skos:prefLabel "Immediate constituent analysis" ;
+    skos:related ocs:C1034,
+        ocs:C14181,
+        ocs:C15463,
+        ocs:C15506,
+        ocs:C19753,
+        ocs:C20004,
+        ocs:C20121,
+        ocs:C24691,
+        ocs:C25696,
+        ocs:C25746,
+        ocs:C27369,
+        ocs:C28029,
+        ocs:C33168,
+        ocs:C34937,
+        ocs:C40968,
+        ocs:C5347,
+        ocs:C5556,
+        ocs:C6764 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34142 a skos:Concept ;
+    skos:broader ocs:C14266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Half-normal_distribution> ;
+    skos:prefLabel "Half-normal distribution" ;
+    skos:related ocs:C16163,
+        ocs:C1844,
+        ocs:C21356,
+        ocs:C25862,
+        ocs:C39014,
+        ocs:C39273,
+        ocs:C40060,
+        ocs:C41959,
+        ocs:C45117 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37345 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Beijing_Treaty_on_Audiovisual_Performances> ;
+    skos:prefLabel "Beijing Treaty on Audiovisual Performances" ;
+    skos:related ocs:C13306,
+        ocs:C15143,
+        ocs:C28912,
+        ocs:C30476,
+        ocs:C32165,
+        ocs:C41273,
+        ocs:C44209 .
+

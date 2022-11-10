@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34813 a skos:Concept ;
+    skos:broader ocs:C20692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foot_(prosody)> ;
+    skos:prefLabel "Foot (prosody)" ;
+    skos:related ocs:C18271,
+        ocs:C18690,
+        ocs:C20692,
+        ocs:C25849,
+        ocs:C31963,
+        ocs:C34138,
+        ocs:C847 .
+

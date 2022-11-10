@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6919 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_research_methods> ;
+    skos:prefLabel "Online research methods" ;
+    skos:related ocs:C12510,
+        ocs:C15047,
+        ocs:C16586,
+        ocs:C17837,
+        ocs:C19463,
+        ocs:C6351,
+        ocs:C8614,
+        ocs:C9939 .
+

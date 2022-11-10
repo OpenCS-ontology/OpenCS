@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13789 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coefficient_of_determination> ;
+    skos:prefLabel "Coefficient of determination" ;
+    skos:related ocs:C10138,
+        ocs:C11986,
+        ocs:C15258,
+        ocs:C18625,
+        ocs:C23554,
+        ocs:C26888,
+        ocs:C29226,
+        ocs:C30858,
+        ocs:C37170,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C8456 .
+

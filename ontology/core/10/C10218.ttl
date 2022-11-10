@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10218 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_differential_analyzer_(graphics_algorithm)> ;
+    skos:prefLabel "Digital differential analyzer (graphics algorithm)" ;
+    skos:related ocs:C13155,
+        ocs:C1381,
+        ocs:C16042,
+        ocs:C17403,
+        ocs:C1904,
+        ocs:C22,
+        ocs:C22452,
+        ocs:C22525,
+        ocs:C23667,
+        ocs:C37743,
+        ocs:C40209,
+        ocs:C41662,
+        ocs:C4816,
+        ocs:C969 .
+

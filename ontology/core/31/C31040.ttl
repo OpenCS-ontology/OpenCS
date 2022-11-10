@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31040 a skos:Concept ;
+    skos:broader ocs:C19253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solenopsis_saevissima> ;
+    skos:prefLabel "Solenopsis saevissima" ;
+    skos:related ocs:C19253,
+        ocs:C27032,
+        ocs:C32322,
+        ocs:C38192 .
+

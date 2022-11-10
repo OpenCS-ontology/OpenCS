@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43593 a skos:Concept ;
+    skos:broader ocs:C33529 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organic_search> ;
+    skos:prefLabel "Organic search" ;
+    skos:related ocs:C11116,
+        ocs:C13063,
+        ocs:C13681,
+        ocs:C14004,
+        ocs:C1576,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C28988,
+        ocs:C29564,
+        ocs:C33150,
+        ocs:C35013,
+        ocs:C35660,
+        ocs:C40049,
+        ocs:C44855,
+        ocs:C5427 .
+

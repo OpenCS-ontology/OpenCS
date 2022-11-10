@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31720 a skos:Concept ;
+    skos:broader ocs:C16105,
+        ocs:C17914 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filter_(video)> ;
+    skos:prefLabel "Filter (video)" ;
+    skos:related ocs:C20434,
+        ocs:C21097,
+        ocs:C28009,
+        ocs:C29601,
+        ocs:C34010,
+        ocs:C39384,
+        ocs:C40762,
+        ocs:C41162,
+        ocs:C45386,
+        ocs:C45841,
+        ocs:C523,
+        ocs:C7290,
+        ocs:C7825,
+        ocs:C8304,
+        ocs:C9856 .
+

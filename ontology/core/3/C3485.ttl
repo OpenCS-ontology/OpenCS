@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3485 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Behavioral_analytics> ;
+    skos:prefLabel "Behavioral analytics" ;
+    skos:related ocs:C10937,
+        ocs:C12238,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C21,
+        ocs:C23979,
+        ocs:C25,
+        ocs:C25962,
+        ocs:C27130,
+        ocs:C33206,
+        ocs:C35701,
+        ocs:C37135,
+        ocs:C3896,
+        ocs:C41624,
+        ocs:C9488 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12349 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hellschreiber> ;
+    skos:prefLabel "Hellschreiber" ;
+    skos:related ocs:C10460,
+        ocs:C10826,
+        ocs:C11669,
+        ocs:C14053,
+        ocs:C14649,
+        ocs:C16547,
+        ocs:C19230,
+        ocs:C2169,
+        ocs:C21987,
+        ocs:C2534,
+        ocs:C3690,
+        ocs:C42720,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C6034,
+        ocs:C6859,
+        ocs:C8147 .
+

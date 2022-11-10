@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5672 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multimedia_Messaging_Service> ;
+    skos:prefLabel "Multimedia Messaging Service" ;
+    skos:related ocs:C10084,
+        ocs:C17999,
+        ocs:C1841,
+        ocs:C18799,
+        ocs:C21424,
+        ocs:C24123,
+        ocs:C27704,
+        ocs:C35370,
+        ocs:C35692,
+        ocs:C36500,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C7102,
+        ocs:C8021,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

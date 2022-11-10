@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14584 a skos:Concept ;
+    skos:broader ocs:C11389,
+        ocs:C3312,
+        ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Debit_note> ;
+    skos:prefLabel "Debit note" ;
+    skos:related ocs:C11697,
+        ocs:C16292,
+        ocs:C16768,
+        ocs:C3312,
+        ocs:C7333,
+        ocs:C8623 .
+

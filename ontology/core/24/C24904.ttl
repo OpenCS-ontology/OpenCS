@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24904 a skos:Concept ;
+    skos:broader ocs:C693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bred_vector> ;
+    skos:prefLabel "Bred vector" ;
+    skos:related ocs:C14592,
+        ocs:C15405,
+        ocs:C24696,
+        ocs:C33199,
+        ocs:C693,
+        ocs:C7256 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41705 a skos:Concept ;
+    skos:broader ocs:C36536 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed-block_architecture> ;
+    skos:prefLabel "Fixed-block architecture" ;
+    skos:related ocs:C10785,
+        ocs:C13486,
+        ocs:C14552,
+        ocs:C15529,
+        ocs:C20482,
+        ocs:C24544,
+        ocs:C33255,
+        ocs:C35529,
+        ocs:C36536,
+        ocs:C38003,
+        ocs:C41962,
+        ocs:C45123,
+        ocs:C5695,
+        ocs:C600,
+        ocs:C6588,
+        ocs:C9600 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20037 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:prefLabel "Quercus castanea" ;
+    skos:related ocs:C15473,
+        ocs:C32000,
+        ocs:C34947 .
+

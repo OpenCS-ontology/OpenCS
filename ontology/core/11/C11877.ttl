@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11877 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exception_chaining> ;
+    skos:prefLabel "Exception chaining" ;
+    skos:related ocs:C10219,
+        ocs:C10284,
+        ocs:C1083,
+        ocs:C11293,
+        ocs:C18469,
+        ocs:C18583,
+        ocs:C19,
+        ocs:C21359,
+        ocs:C21942,
+        ocs:C24909,
+        ocs:C25313,
+        ocs:C27954,
+        ocs:C2871,
+        ocs:C3036,
+        ocs:C41064,
+        ocs:C43369,
+        ocs:C44361,
+        ocs:C5308,
+        ocs:C7202,
+        ocs:C8945 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40344 a skos:Concept ;
+    skos:broader ocs:C30877,
+        ocs:C34906,
+        ocs:C36137 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roberts_cross> ;
+    skos:prefLabel "Roberts cross" ;
+    skos:related ocs:C11150,
+        ocs:C14863,
+        ocs:C1501,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C2801,
+        ocs:C28754,
+        ocs:C30877,
+        ocs:C31308,
+        ocs:C32479,
+        ocs:C34906,
+        ocs:C37582,
+        ocs:C38864,
+        ocs:C43031,
+        ocs:C7 .
+

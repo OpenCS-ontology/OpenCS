@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13060 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parent_process> ;
+    skos:prefLabel "Parent process" ;
+    skos:related ocs:C10423,
+        ocs:C12306,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C16601,
+        ocs:C2014,
+        ocs:C20800,
+        ocs:C2322,
+        ocs:C2353,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C41115,
+        ocs:C4345,
+        ocs:C43822,
+        ocs:C4882,
+        ocs:C6140,
+        ocs:C8349,
+        ocs:C9 .
+

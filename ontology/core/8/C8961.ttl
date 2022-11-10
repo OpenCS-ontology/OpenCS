@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8961 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contextual_learning> ;
+    skos:prefLabel "Contextual learning" ;
+    skos:related ocs:C25892,
+        ocs:C3057,
+        ocs:C33315,
+        ocs:C3444 .
+

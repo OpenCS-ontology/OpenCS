@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34000 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C23430,
+        ocs:C28402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kennicutt–Schmidt_law> ;
+    skos:prefLabel "Kennicutt–Schmidt law" ;
+    skos:related ocs:C17246,
+        ocs:C23430,
+        ocs:C26348,
+        ocs:C28910,
+        ocs:C29212,
+        ocs:C29910,
+        ocs:C35073,
+        ocs:C35893,
+        ocs:C43393,
+        ocs:C44594,
+        ocs:C597 .
+

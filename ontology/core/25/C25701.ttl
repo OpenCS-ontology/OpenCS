@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25701 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Floodplain_restoration> ;
+    skos:prefLabel "Floodplain restoration" ;
+    skos:related ocs:C27958,
+        ocs:C29010 .
+

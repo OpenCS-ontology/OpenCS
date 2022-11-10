@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37901 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_locomotion> ;
+    skos:prefLabel "Robot locomotion" ;
+    skos:related ocs:C10396,
+        ocs:C11619,
+        ocs:C14022,
+        ocs:C16890,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C19558,
+        ocs:C21943,
+        ocs:C28948,
+        ocs:C30080,
+        ocs:C33887,
+        ocs:C34991,
+        ocs:C35770,
+        ocs:C36316,
+        ocs:C41903,
+        ocs:C979 .
+

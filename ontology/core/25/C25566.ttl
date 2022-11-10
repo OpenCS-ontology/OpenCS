@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25566 a skos:Concept ;
+    skos:broader ocs:C5692,
+        ocs:C7006,
+        ocs:C8437 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_access_module> ;
+    skos:prefLabel "Secure access module" ;
+    skos:related ocs:C10270,
+        ocs:C17314,
+        ocs:C22776,
+        ocs:C29611,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C3410,
+        ocs:C41228,
+        ocs:C41988,
+        ocs:C4218,
+        ocs:C45581,
+        ocs:C5692,
+        ocs:C6457,
+        ocs:C8437 .
+

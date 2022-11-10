@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9223 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Year_2038_problem> ;
+    skos:prefLabel "Year 2038 problem" ;
+    skos:related ocs:C11258,
+        ocs:C14162,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C19487,
+        ocs:C19672,
+        ocs:C20800,
+        ocs:C21629,
+        ocs:C2176,
+        ocs:C31489,
+        ocs:C31954,
+        ocs:C4162,
+        ocs:C42619,
+        ocs:C43546,
+        ocs:C5463,
+        ocs:C8560,
+        ocs:C9,
+        ocs:C9162 .
+

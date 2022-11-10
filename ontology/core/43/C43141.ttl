@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43141 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverted-F_antenna> ;
+    skos:prefLabel "Inverted-F antenna" ;
+    skos:related ocs:C1219,
+        ocs:C17577,
+        ocs:C18096,
+        ocs:C19234,
+        ocs:C25341,
+        ocs:C32554,
+        ocs:C38722,
+        ocs:C39709,
+        ocs:C40342,
+        ocs:C41433,
+        ocs:C41756,
+        ocs:C42721,
+        ocs:C43628,
+        ocs:C5397,
+        ocs:C6913,
+        ocs:C9691 .
+

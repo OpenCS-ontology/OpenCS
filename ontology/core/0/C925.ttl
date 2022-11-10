@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C925 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complex_adaptive_system> ;
+    skos:prefLabel "Complex adaptive system" ;
+    skos:related ocs:C1,
+        ocs:C10997,
+        ocs:C11026,
+        ocs:C11143,
+        ocs:C14592,
+        ocs:C17054,
+        ocs:C20012,
+        ocs:C21018,
+        ocs:C26213,
+        ocs:C28521,
+        ocs:C5496,
+        ocs:C5863,
+        ocs:C597,
+        ocs:C7334,
+        ocs:C9373 .
+

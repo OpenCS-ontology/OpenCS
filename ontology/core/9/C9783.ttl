@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9783 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Product_teardown> ;
+    skos:prefLabel "Product teardown" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C18379,
+        ocs:C1904,
+        ocs:C21424,
+        ocs:C28422,
+        ocs:C35370,
+        ocs:C395,
+        ocs:C7165,
+        ocs:C7170,
+        ocs:C7850,
+        ocs:C9994 .
+

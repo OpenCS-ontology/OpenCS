@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7765 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_programming> ;
+    skos:prefLabel "Geometric programming" ;
+    skos:related ocs:C21197,
+        ocs:C21421,
+        ocs:C2413,
+        ocs:C25196,
+        ocs:C25362,
+        ocs:C26986,
+        ocs:C28077,
+        ocs:C3570,
+        ocs:C37565,
+        ocs:C5704,
+        ocs:C8331,
+        ocs:C8435,
+        ocs:C9243 .
+

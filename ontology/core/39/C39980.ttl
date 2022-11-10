@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39980 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/J-pole_antenna> ;
+    skos:prefLabel "J-pole antenna" ;
+    skos:related ocs:C1219,
+        ocs:C22526,
+        ocs:C2465,
+        ocs:C25341,
+        ocs:C32554,
+        ocs:C39458,
+        ocs:C39709,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C41756,
+        ocs:C4205,
+        ocs:C42721,
+        ocs:C43141,
+        ocs:C43628,
+        ocs:C44141,
+        ocs:C44664,
+        ocs:C6913,
+        ocs:C9691 .
+

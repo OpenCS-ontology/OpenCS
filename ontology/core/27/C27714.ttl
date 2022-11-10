@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27714 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C125,
+        ocs:C1326,
+        ocs:C1595 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parlay_X> ;
+    skos:prefLabel "Parlay X" ;
+    skos:related ocs:C10904,
+        ocs:C13252,
+        ocs:C16984,
+        ocs:C21419,
+        ocs:C24496,
+        ocs:C2674,
+        ocs:C37726,
+        ocs:C3933,
+        ocs:C39643,
+        ocs:C40833,
+        ocs:C43812,
+        ocs:C43890,
+        ocs:C44880,
+        ocs:C6821,
+        ocs:C8515,
+        ocs:C9113,
+        ocs:C9154 .
+

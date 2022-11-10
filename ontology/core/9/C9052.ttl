@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9052 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexis_(linguistics)> ;
+    skos:prefLabel "Lexis" ;
+    skos:related ocs:C12508,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C15826,
+        ocs:C1948,
+        ocs:C24316,
+        ocs:C2761,
+        ocs:C28748,
+        ocs:C30531,
+        ocs:C9777 .
+

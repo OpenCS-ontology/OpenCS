@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16108 a skos:Concept ;
+    skos:broader ocs:C2192 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fruit_tree_pruning> ;
+    skos:prefLabel "Fruit tree pruning" ;
+    skos:related ocs:C2192 .
+

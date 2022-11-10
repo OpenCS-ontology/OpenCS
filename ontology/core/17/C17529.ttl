@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17529 a skos:Concept ;
+    skos:broader ocs:C3395 ;
+    skos:prefLabel "Student misconduct" ;
+    skos:related ocs:C11698,
+        ocs:C27989 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5726 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Law_of_the_instrument> ;
+    skos:prefLabel "Law of the instrument" ;
+    skos:related ocs:C10781,
+        ocs:C39851 .
+

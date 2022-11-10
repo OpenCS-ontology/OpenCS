@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23917 a skos:Concept ;
+    skos:broader ocs:C10513 ;
+    skos:closeMatch <http://dbpedia.org/resource/In-flight_entertainment> ;
+    skos:prefLabel "In-flight entertainment" ;
+    skos:related ocs:C24872,
+        ocs:C35370,
+        ocs:C36804,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C5843,
+        ocs:C8614 .
+

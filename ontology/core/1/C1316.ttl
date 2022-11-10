@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1316 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_quality_analysis> ;
+    skos:prefLabel "Path quality analysis" ;
+    skos:related ocs:C12005,
+        ocs:C12426,
+        ocs:C21204,
+        ocs:C24469,
+        ocs:C3088,
+        ocs:C32672,
+        ocs:C32960,
+        ocs:C3843,
+        ocs:C7974 .
+

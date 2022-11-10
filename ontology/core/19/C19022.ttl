@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19022 a skos:Concept ;
+    skos:broader ocs:C7850,
+        ocs:C9242,
+        ocs:C9601 ;
+    skos:prefLabel "Wearable inertial sensors" .
+

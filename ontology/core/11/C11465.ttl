@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11465 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_switching_system> ;
+    skos:prefLabel "Electronic switching system" ;
+    skos:related ocs:C12942,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C4562,
+        ocs:C4983,
+        ocs:C6027,
+        ocs:C6546,
+        ocs:C8010,
+        ocs:C9113 .
+

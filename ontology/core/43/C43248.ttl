@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43248 a skos:Concept ;
+    skos:broader ocs:C30761,
+        ocs:C32825,
+        ocs:C37721 ;
+    skos:prefLabel "Nakagami channels" .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16902 a skos:Concept ;
+    skos:broader ocs:C5293,
+        ocs:C81 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deep_space_exploration> ;
+    skos:prefLabel "Deep space exploration" ;
+    skos:related ocs:C12727,
+        ocs:C15180,
+        ocs:C18244,
+        ocs:C20609,
+        ocs:C2252,
+        ocs:C26021,
+        ocs:C3952,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C81 .
+

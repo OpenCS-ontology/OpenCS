@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35846 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clarias> ;
+    skos:prefLabel "Clarias" ;
+    skos:related ocs:C24236,
+        ocs:C32617,
+        ocs:C35406,
+        ocs:C40668,
+        ocs:C41192,
+        ocs:C41316,
+        ocs:C43354,
+        ocs:C43662,
+        ocs:C44812 .
+

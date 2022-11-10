@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13820 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/GPU_switching> ;
+    skos:prefLabel "GPU switching" ;
+    skos:related ocs:C1042,
+        ocs:C15533,
+        ocs:C1904,
+        ocs:C20569,
+        ocs:C20800,
+        ocs:C24015,
+        ocs:C24235,
+        ocs:C25519,
+        ocs:C28172,
+        ocs:C30378,
+        ocs:C31489,
+        ocs:C38120,
+        ocs:C38989,
+        ocs:C39609,
+        ocs:C42489,
+        ocs:C4503,
+        ocs:C5514,
+        ocs:C5702,
+        ocs:C9442 .
+

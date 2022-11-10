@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7717 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Threefold_repetition> ;
+    skos:prefLabel "Threefold repetition" ;
+    skos:related ocs:C11414,
+        ocs:C18256,
+        ocs:C33246,
+        ocs:C33463,
+        ocs:C34062,
+        ocs:C34786,
+        ocs:C44226,
+        ocs:C4594,
+        ocs:C4648,
+        ocs:C6748,
+        ocs:C8,
+        ocs:C8276 .
+

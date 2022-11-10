@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45149 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35061,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lehmann–Scheffé_theorem> ;
+    skos:prefLabel "Lehmann–Scheffé theorem" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C27667,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C35061,
+        ocs:C35658,
+        ocs:C42850 .
+

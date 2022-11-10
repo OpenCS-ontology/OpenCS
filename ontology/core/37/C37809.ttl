@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37809 a skos:Concept ;
+    skos:broader ocs:C33033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_(mathematical_analysis)> ;
+    skos:prefLabel "Domain (mathematical analysis)" ;
+    skos:related ocs:C28787,
+        ocs:C39746 .
+

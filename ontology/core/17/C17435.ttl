@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17435 a skos:Concept ;
+    skos:broader ocs:C12262,
+        ocs:C1449,
+        ocs:C4152,
+        ocs:C5298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logarithmic_number_system> ;
+    skos:prefLabel "Logarithmic number system" ;
+    skos:related ocs:C12262,
+        ocs:C12315,
+        ocs:C16377,
+        ocs:C18434,
+        ocs:C21384,
+        ocs:C22430,
+        ocs:C22452,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C31030,
+        ocs:C31341,
+        ocs:C35045,
+        ocs:C5566,
+        ocs:C7280,
+        ocs:C8581,
+        ocs:C9743 .
+

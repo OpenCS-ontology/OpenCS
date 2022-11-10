@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29194 a skos:Concept ;
+    skos:broader ocs:C7006,
+        ocs:C7604 ;
+    skos:closeMatch <http://dbpedia.org/resource/Device_fingerprint> ;
+    skos:prefLabel "Device fingerprint" ;
+    skos:related ocs:C10240,
+        ocs:C16338,
+        ocs:C22597,
+        ocs:C26,
+        ocs:C27839,
+        ocs:C29637,
+        ocs:C29803,
+        ocs:C3039,
+        ocs:C31,
+        ocs:C3446,
+        ocs:C394,
+        ocs:C41498,
+        ocs:C42101,
+        ocs:C4918,
+        ocs:C5,
+        ocs:C5343,
+        ocs:C6234,
+        ocs:C8614,
+        ocs:C8722 .
+

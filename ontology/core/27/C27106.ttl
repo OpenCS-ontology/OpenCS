@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27106 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tapinoma> ;
+    skos:prefLabel "Tapinoma" ;
+    skos:related ocs:C16962,
+        ocs:C22105,
+        ocs:C25692,
+        ocs:C25716,
+        ocs:C35777 .
+

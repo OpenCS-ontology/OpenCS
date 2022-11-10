@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10555 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrogative_word> ;
+    skos:prefLabel "Interrogative word" ;
+    skos:related ocs:C10760,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C124,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C28646,
+        ocs:C31289,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C4025,
+        ocs:C6545 .
+

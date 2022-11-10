@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18056 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:prefLabel "Unmyelinated nerve fiber" ;
+    skos:related ocs:C14226,
+        ocs:C22309 .
+

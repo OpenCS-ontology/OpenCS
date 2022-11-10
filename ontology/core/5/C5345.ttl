@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5345 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph-structured_stack> ;
+    skos:prefLabel "Graph-structured stack" ;
+    skos:related ocs:C15414,
+        ocs:C16670,
+        ocs:C17732,
+        ocs:C22624,
+        ocs:C22626,
+        ocs:C28232,
+        ocs:C283,
+        ocs:C30921,
+        ocs:C37890,
+        ocs:C37974,
+        ocs:C39098,
+        ocs:C39527,
+        ocs:C40588,
+        ocs:C40873,
+        ocs:C40905,
+        ocs:C41257,
+        ocs:C43346,
+        ocs:C44250,
+        ocs:C45671,
+        ocs:C4986 .
+

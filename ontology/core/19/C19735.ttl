@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19735 a skos:Concept ;
+    skos:broader ocs:C5616 ;
+    skos:prefLabel "Latency response" ;
+    skos:related ocs:C1340,
+        ocs:C159,
+        ocs:C16,
+        ocs:C33 .
+

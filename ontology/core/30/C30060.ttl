@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30060 a skos:Concept ;
+    skos:broader ocs:C20311,
+        ocs:C21164 ;
+    skos:prefLabel "Colupulone" ;
+    skos:related ocs:C21164,
+        ocs:C24126,
+        ocs:C32735,
+        ocs:C36056,
+        ocs:C39760 .
+

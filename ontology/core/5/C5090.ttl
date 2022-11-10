@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5090 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bounding_overwatch> ;
+    skos:prefLabel "Bounding overwatch" ;
+    skos:related ocs:C3232,
+        ocs:C5252,
+        ocs:C6665 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38129 a skos:Concept ;
+    skos:broader ocs:C34979,
+        ocs:C37292 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-chip_Cloud_Computer> ;
+    skos:prefLabel "Single-chip Cloud Computer" ;
+    skos:related ocs:C10320,
+        ocs:C10824,
+        ocs:C12690,
+        ocs:C19487,
+        ocs:C19936,
+        ocs:C27,
+        ocs:C38463,
+        ocs:C40330,
+        ocs:C5766,
+        ocs:C6299,
+        ocs:C7629,
+        ocs:C7735,
+        ocs:C9542 .
+

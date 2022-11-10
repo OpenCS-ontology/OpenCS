@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4817 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Downtime> ;
+    skos:prefLabel "Downtime" ;
+    skos:related ocs:C10501,
+        ocs:C12348,
+        ocs:C1253,
+        ocs:C13412,
+        ocs:C13550,
+        ocs:C14003,
+        ocs:C21230,
+        ocs:C26,
+        ocs:C26266,
+        ocs:C27500,
+        ocs:C2878,
+        ocs:C3394,
+        ocs:C9,
+        ocs:C9035 .
+

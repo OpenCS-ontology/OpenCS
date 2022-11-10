@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26527 a skos:Concept ;
+    skos:broader ocs:C5637 ;
+    skos:closeMatch <http://dbpedia.org/resource/G-test> ;
+    skos:prefLabel "G-test" ;
+    skos:related ocs:C41656,
+        ocs:C4479,
+        ocs:C5637,
+        ocs:C5816,
+        ocs:C7908,
+        ocs:C8332,
+        ocs:C8456 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8324 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_design> ;
+    skos:prefLabel "Geometric design" ;
+    skos:related ocs:C10391,
+        ocs:C22,
+        ocs:C26016,
+        ocs:C30084,
+        ocs:C31512,
+        ocs:C3851,
+        ocs:C43071,
+        ocs:C45002,
+        ocs:C45272,
+        ocs:C4645,
+        ocs:C6279,
+        ocs:C7914,
+        ocs:C8399,
+        ocs:C8781 .
+

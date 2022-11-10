@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14803 a skos:Concept ;
+    skos:broader ocs:C5247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fire_support> ;
+    skos:prefLabel "Fire support" ;
+    skos:related ocs:C1331,
+        ocs:C1502,
+        ocs:C2139,
+        ocs:C23075,
+        ocs:C27282,
+        ocs:C3232,
+        ocs:C4008,
+        ocs:C4106,
+        ocs:C5247,
+        ocs:C6665 .
+

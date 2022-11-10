@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29282 a skos:Concept ;
+    skos:broader ocs:C5127 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_circuit_design> ;
+    skos:prefLabel "Electronic circuit design" ;
+    skos:related ocs:C1097,
+        ocs:C11252,
+        ocs:C19400,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C28039,
+        ocs:C2991,
+        ocs:C33533,
+        ocs:C35319,
+        ocs:C37773,
+        ocs:C5336,
+        ocs:C6797 .
+

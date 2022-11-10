@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39860 a skos:Concept ;
+    skos:broader ocs:C36214 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sciades> ;
+    skos:prefLabel "Sciades" ;
+    skos:related ocs:C29741,
+        ocs:C30959,
+        ocs:C36214,
+        ocs:C39998,
+        ocs:C40244,
+        ocs:C43608,
+        ocs:C45083,
+        ocs:C45436 .
+

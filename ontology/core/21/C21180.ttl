@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21180 a skos:Concept ;
+    skos:broader ocs:C11767,
+        ocs:C2203 ;
+    skos:prefLabel "Permadyne garant" ;
+    skos:related ocs:C2203,
+        ocs:C2800 .
+

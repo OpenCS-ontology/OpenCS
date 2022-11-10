@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2499 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22 ;
+    skos:prefLabel "Display - arrangement" ;
+    skos:related ocs:C17,
+        ocs:C2,
+        ocs:C33,
+        ocs:C4028,
+        ocs:C4099,
+        ocs:C695,
+        ocs:C8021 .
+

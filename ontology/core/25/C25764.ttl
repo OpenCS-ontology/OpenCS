@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25764 a skos:Concept ;
+    skos:broader ocs:C12741,
+        ocs:C5620,
+        ocs:C6448,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Order-independent_transparency> ;
+    skos:prefLabel "Order-independent transparency" ;
+    skos:related ocs:C12454,
+        ocs:C12577,
+        ocs:C1381,
+        ocs:C14895,
+        ocs:C15632,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22256,
+        ocs:C24828,
+        ocs:C30362,
+        ocs:C37333,
+        ocs:C39953,
+        ocs:C40764,
+        ocs:C41077,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C44381,
+        ocs:C7571 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12870 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Union_of_two_regular_languages> ;
+    skos:prefLabel "Union of two regular languages" ;
+    skos:related ocs:C12986,
+        ocs:C17566,
+        ocs:C17732,
+        ocs:C21398,
+        ocs:C22624,
+        ocs:C27087,
+        ocs:C30272,
+        ocs:C3398,
+        ocs:C34939,
+        ocs:C35757,
+        ocs:C35868,
+        ocs:C37207,
+        ocs:C39145,
+        ocs:C39147,
+        ocs:C39324,
+        ocs:C40697,
+        ocs:C41755,
+        ocs:C42486,
+        ocs:C43816 .
+

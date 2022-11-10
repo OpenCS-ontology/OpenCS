@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37316 a skos:Concept ;
+    skos:broader ocs:C23155,
+        ocs:C26809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_link_connection_identifier> ;
+    skos:prefLabel "Data link connection identifier" ;
+    skos:related ocs:C1398,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C23155,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C27568,
+        ocs:C27704,
+        ocs:C29798,
+        ocs:C30342,
+        ocs:C33137,
+        ocs:C41391,
+        ocs:C41930,
+        ocs:C4197,
+        ocs:C686,
+        ocs:C6861 .
+

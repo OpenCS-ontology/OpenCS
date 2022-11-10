@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7480 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:prefLabel "Talking books" ;
+    skos:related ocs:C1051,
+        ocs:C13006,
+        ocs:C197,
+        ocs:C23568,
+        ocs:C3444,
+        ocs:C5,
+        ocs:C792,
+        ocs:C8614 .
+

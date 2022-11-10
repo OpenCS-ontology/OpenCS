@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5699 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:prefLabel "Systems thinking" ;
+    skos:related ocs:C2421,
+        ocs:C33142,
+        ocs:C5496,
+        ocs:C5863,
+        ocs:C6998,
+        ocs:C7334,
+        ocs:C9373 .
+

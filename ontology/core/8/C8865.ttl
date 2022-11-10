@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8865 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Routing_in_cellular_networks> ;
+    skos:prefLabel "Routing in cellular networks" ;
+    skos:related ocs:C12853,
+        ocs:C13316,
+        ocs:C14578,
+        ocs:C16022,
+        ocs:C20116,
+        ocs:C25626,
+        ocs:C30037,
+        ocs:C30567,
+        ocs:C32989,
+        ocs:C33732,
+        ocs:C35169,
+        ocs:C39949,
+        ocs:C40305,
+        ocs:C43300,
+        ocs:C44290,
+        ocs:C45515,
+        ocs:C6114,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

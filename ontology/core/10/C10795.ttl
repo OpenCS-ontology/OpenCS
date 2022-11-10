@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10795 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paradigm_classification> ;
+    skos:prefLabel "Paradigm classification" ;
+    skos:related ocs:C21155,
+        ocs:C28791,
+        ocs:C29642,
+        ocs:C3396,
+        ocs:C37257,
+        ocs:C40054,
+        ocs:C6639 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33532 a skos:Concept ;
+    skos:broader ocs:C15475,
+        ocs:C27805 ;
+    skos:closeMatch <http://dbpedia.org/resource/PropBank> ;
+    skos:prefLabel "PropBank" ;
+    skos:related ocs:C11722,
+        ocs:C12672,
+        ocs:C15475,
+        ocs:C1948,
+        ocs:C20098,
+        ocs:C21072,
+        ocs:C23894,
+        ocs:C2468,
+        ocs:C27805,
+        ocs:C28336,
+        ocs:C29555,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C7301,
+        ocs:C7558,
+        ocs:C8576,
+        ocs:C936,
+        ocs:C961 .
+

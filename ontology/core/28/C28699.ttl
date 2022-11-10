@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28699 a skos:Concept ;
+    skos:broader ocs:C5660 ;
+    skos:closeMatch <http://dbpedia.org/resource/ALARP> ;
+    skos:prefLabel "ALARP" ;
+    skos:related ocs:C13850,
+        ocs:C14171,
+        ocs:C16709,
+        ocs:C21817,
+        ocs:C22061,
+        ocs:C27885,
+        ocs:C8562 .
+

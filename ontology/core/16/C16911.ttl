@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16911 a skos:Concept ;
+    skos:broader ocs:C8900 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aspect_ratio> ;
+    skos:prefLabel "Aspect ratio" ;
+    skos:related ocs:C12544,
+        ocs:C13509,
+        ocs:C13586,
+        ocs:C22257,
+        ocs:C28716,
+        ocs:C31514,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C4448,
+        ocs:C597,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C8900 .
+

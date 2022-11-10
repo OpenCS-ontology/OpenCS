@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24402 a skos:Concept ;
+    skos:broader ocs:C2878,
+        ocs:C3391,
+        ocs:C8614 ;
+    skos:prefLabel "Group membership protocol" .
+

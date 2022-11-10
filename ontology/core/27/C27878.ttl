@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27878 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layered_queueing_network> ;
+    skos:prefLabel "Layered queueing network" ;
+    skos:related ocs:C12373,
+        ocs:C16039,
+        ocs:C20087,
+        ocs:C20842,
+        ocs:C26091,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C29900,
+        ocs:C30610,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C32815,
+        ocs:C34165,
+        ocs:C34691,
+        ocs:C35837,
+        ocs:C37680,
+        ocs:C42591,
+        ocs:C44861,
+        ocs:C45748 .
+

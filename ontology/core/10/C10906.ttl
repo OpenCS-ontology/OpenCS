@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10906 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/One_Watt_Initiative> ;
+    skos:prefLabel "One Watt Initiative" ;
+    skos:related ocs:C22554,
+        ocs:C26517,
+        ocs:C27560,
+        ocs:C28190,
+        ocs:C3195,
+        ocs:C4814,
+        ocs:C8388 .
+

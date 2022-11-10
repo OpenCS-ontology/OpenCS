@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11097 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learning_organization> ;
+    skos:prefLabel "Learning organization" ;
+    skos:related ocs:C11810,
+        ocs:C12,
+        ocs:C12969,
+        ocs:C1332,
+        ocs:C18278,
+        ocs:C3343,
+        ocs:C3395,
+        ocs:C34869,
+        ocs:C3738,
+        ocs:C4510,
+        ocs:C5092,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C6998,
+        ocs:C9058 .
+

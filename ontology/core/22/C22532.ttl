@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22532 a skos:Concept ;
+    skos:broader ocs:C6634 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metaphorical_code-switching> ;
+    skos:prefLabel "Metaphorical code-switching" ;
+    skos:related ocs:C1304,
+        ocs:C14477,
+        ocs:C16765,
+        ocs:C18281,
+        ocs:C2298,
+        ocs:C5990,
+        ocs:C6634 .
+

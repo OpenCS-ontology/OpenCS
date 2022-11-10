@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11024 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_data> ;
+    skos:prefLabel "Feature data" ;
+    skos:related ocs:C14471,
+        ocs:C16532,
+        ocs:C24208,
+        ocs:C36077,
+        ocs:C5204,
+        ocs:C6774,
+        ocs:C9606,
+        ocs:C969 .
+

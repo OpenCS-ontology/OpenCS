@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28174 a skos:Concept ;
+    skos:broader ocs:C9066 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ballistic_missile> ;
+    skos:prefLabel "Ballistic missile" ;
+    skos:related ocs:C14318,
+        ocs:C16352,
+        ocs:C16720,
+        ocs:C20104,
+        ocs:C21379,
+        ocs:C2252,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C34143,
+        ocs:C37488,
+        ocs:C40957,
+        ocs:C9066 .
+

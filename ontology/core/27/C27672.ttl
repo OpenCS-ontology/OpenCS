@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27672 a skos:Concept ;
+    skos:broader ocs:C12580 ;
+    skos:closeMatch <http://dbpedia.org/resource/EMVA1288> ;
+    skos:prefLabel "EMVA1288" ;
+    skos:related ocs:C10318,
+        ocs:C10465,
+        ocs:C12580,
+        ocs:C25042,
+        ocs:C3338,
+        ocs:C6257,
+        ocs:C740,
+        ocs:C8021,
+        ocs:C8388 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4780 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trainer_(games)> ;
+    skos:prefLabel "Trainer" ;
+    skos:related ocs:C10214,
+        ocs:C11777,
+        ocs:C16481,
+        ocs:C19358,
+        ocs:C19620,
+        ocs:C2022,
+        ocs:C29426,
+        ocs:C31489,
+        ocs:C33702,
+        ocs:C34614,
+        ocs:C35009,
+        ocs:C41159,
+        ocs:C7170,
+        ocs:C794,
+        ocs:C8863 .
+

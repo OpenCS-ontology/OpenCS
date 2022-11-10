@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22052 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:prefLabel "Online forum" ;
+    skos:related ocs:C17,
+        ocs:C23866,
+        ocs:C3065,
+        ocs:C3444,
+        ocs:C4712,
+        ocs:C5,
+        ocs:C8614 .
+

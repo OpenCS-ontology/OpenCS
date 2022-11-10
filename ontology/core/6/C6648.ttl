@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6648 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_learning_in_language_acquisition> ;
+    skos:prefLabel "Statistical learning in language acquisition" ;
+    skos:related ocs:C13210,
+        ocs:C18736,
+        ocs:C19543,
+        ocs:C20956,
+        ocs:C23422,
+        ocs:C32426,
+        ocs:C4319,
+        ocs:C4531 .
+

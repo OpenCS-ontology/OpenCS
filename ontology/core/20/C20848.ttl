@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20848 a skos:Concept ;
+    skos:broader ocs:C9326 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mean_of_a_function> ;
+    skos:prefLabel "Mean of a function" ;
+    skos:related ocs:C28787,
+        ocs:C40292 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2125 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emergent_organization> ;
+    skos:prefLabel "Emergent organization" ;
+    skos:related ocs:C10997,
+        ocs:C14592,
+        ocs:C2076,
+        ocs:C3140,
+        ocs:C9373 .
+

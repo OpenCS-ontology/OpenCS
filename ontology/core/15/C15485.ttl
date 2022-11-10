@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15485 a skos:Concept ;
+    skos:broader ocs:C10321,
+        ocs:C810 ;
+    skos:closeMatch <http://dbpedia.org/resource/NIIRS> ;
+    skos:prefLabel "NIIRS" ;
+    skos:related ocs:C10272,
+        ocs:C10275,
+        ocs:C12580,
+        ocs:C3059,
+        ocs:C5854,
+        ocs:C6760 .
+

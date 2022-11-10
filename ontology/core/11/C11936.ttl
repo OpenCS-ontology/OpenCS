@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11936 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unit_interval_(data_transmission)> ;
+    skos:prefLabel "Unit interval (data transmission)" ;
+    skos:related ocs:C14804,
+        ocs:C20608,
+        ocs:C2582,
+        ocs:C26814,
+        ocs:C26908,
+        ocs:C4512,
+        ocs:C7974,
+        ocs:C8029,
+        ocs:C8729,
+        ocs:C8952,
+        ocs:C9717 .
+

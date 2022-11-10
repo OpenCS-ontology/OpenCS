@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36474 a skos:Concept ;
+    skos:broader ocs:C17921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stark–Heegner_theorem> ;
+    skos:prefLabel "Stark–Heegner theorem" ;
+    skos:related ocs:C17921,
+        ocs:C22290,
+        ocs:C35798,
+        ocs:C39978,
+        ocs:C40563,
+        ocs:C44225 .
+

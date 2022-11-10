@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37317 a skos:Concept ;
+    skos:broader ocs:C25439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_ternary_patterns> ;
+    skos:prefLabel "Local ternary patterns" ;
+    skos:related ocs:C25439,
+        ocs:C7 .
+

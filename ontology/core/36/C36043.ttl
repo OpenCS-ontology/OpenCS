@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36043 a skos:Concept ;
+    skos:broader ocs:C19230,
+        ocs:C22101,
+        ocs:C25850,
+        ocs:C28537 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amplitude_and_phase-shift_keying> ;
+    skos:prefLabel "Amplitude and phase-shift keying" ;
+    skos:related ocs:C16335,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C19492,
+        ocs:C22101,
+        ocs:C22451,
+        ocs:C25018,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C26908,
+        ocs:C28537,
+        ocs:C31520,
+        ocs:C35819,
+        ocs:C36402,
+        ocs:C36670,
+        ocs:C37472,
+        ocs:C7502,
+        ocs:C8952 .
+

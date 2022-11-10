@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11692 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuum_(design_consultancy)> ;
+    skos:prefLabel "Continuum (design consultancy)" ;
+    skos:related ocs:C11042,
+        ocs:C15120,
+        ocs:C28850,
+        ocs:C29012,
+        ocs:C31965,
+        ocs:C33918 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17516 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compulsory_license> ;
+    skos:prefLabel "Compulsory license" ;
+    skos:related ocs:C13306,
+        ocs:C17042,
+        ocs:C18764,
+        ocs:C19039,
+        ocs:C30476,
+        ocs:C31822,
+        ocs:C32165,
+        ocs:C32306,
+        ocs:C32847,
+        ocs:C33316,
+        ocs:C41273,
+        ocs:C41874 .
+

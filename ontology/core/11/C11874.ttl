@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11874 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chinese_room> ;
+    skos:prefLabel "Chinese room" ;
+    skos:related ocs:C24027,
+        ocs:C27116,
+        ocs:C31020,
+        ocs:C3848,
+        ocs:C44765,
+        ocs:C685,
+        ocs:C8 .
+

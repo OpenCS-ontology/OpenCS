@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29949 a skos:Concept ;
+    skos:broader ocs:C21976,
+        ocs:C26751 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_connectivity_access_network> ;
+    skos:prefLabel "IP connectivity access network" ;
+    skos:related ocs:C125,
+        ocs:C15530,
+        ocs:C21976,
+        ocs:C21981,
+        ocs:C22407,
+        ocs:C27704,
+        ocs:C31996,
+        ocs:C33285,
+        ocs:C33895,
+        ocs:C34908,
+        ocs:C35370,
+        ocs:C35897,
+        ocs:C3695,
+        ocs:C38413,
+        ocs:C3933,
+        ocs:C41910,
+        ocs:C5346,
+        ocs:C6721,
+        ocs:C8515,
+        ocs:C9154 .
+

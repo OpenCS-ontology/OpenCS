@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19713 a skos:Concept ;
+    skos:broader ocs:C856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application-specific_instruction_set_processor> ;
+    skos:prefLabel "Application-specific instruction-set processor" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C13747,
+        ocs:C14694,
+        ocs:C18114,
+        ocs:C26090,
+        ocs:C26207,
+        ocs:C26273,
+        ocs:C27883,
+        ocs:C28409,
+        ocs:C30085,
+        ocs:C37773,
+        ocs:C41469,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C856 .
+

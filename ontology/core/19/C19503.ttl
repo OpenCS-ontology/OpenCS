@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19503 a skos:Concept ;
+    skos:broader ocs:C8946 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cicindela_sexguttata> ;
+    skos:prefLabel "Cicindela sexguttata" ;
+    skos:related ocs:C21310,
+        ocs:C27345,
+        ocs:C33353,
+        ocs:C34145,
+        ocs:C36736,
+        ocs:C37142 .
+

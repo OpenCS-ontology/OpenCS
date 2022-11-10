@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29552 a skos:Concept ;
+    skos:broader ocs:C15633,
+        ocs:C22491 ;
+    skos:closeMatch <http://dbpedia.org/resource/UK_Dark_Matter_Collaboration> ;
+    skos:prefLabel "UK Dark Matter Collaboration" ;
+    skos:related ocs:C32809 .
+

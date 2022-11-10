@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14500 a skos:Concept ;
+    skos:broader ocs:C7040 ;
+    skos:prefLabel "Vocabulary Words" ;
+    skos:related ocs:C1444,
+        ocs:C16,
+        ocs:C17,
+        ocs:C21,
+        ocs:C2298,
+        ocs:C2761,
+        ocs:C6764,
+        ocs:C8614 .
+

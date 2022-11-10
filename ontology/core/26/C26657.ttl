@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26657 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Essential_bandwidth> ;
+    skos:prefLabel "Essential bandwidth" ;
+    skos:related ocs:C10509,
+        ocs:C11253,
+        ocs:C123,
+        ocs:C13046,
+        ocs:C15052,
+        ocs:C21717,
+        ocs:C257,
+        ocs:C28213,
+        ocs:C3393,
+        ocs:C34943,
+        ocs:C45045,
+        ocs:C5505,
+        ocs:C5769 .
+

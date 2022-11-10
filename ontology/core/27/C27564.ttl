@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27564 a skos:Concept ;
+    skos:broader ocs:C10157,
+        ocs:C1502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mission_Command> ;
+    skos:prefLabel "Mission Command" ;
+    skos:related ocs:C1502,
+        ocs:C2139,
+        ocs:C9224 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15472 a skos:Concept ;
+    skos:broader ocs:C10979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schema_matching> ;
+    skos:prefLabel "Schema matching" ;
+    skos:related ocs:C10979,
+        ocs:C1451,
+        ocs:C16901,
+        ocs:C17369,
+        ocs:C17905,
+        ocs:C19680,
+        ocs:C3037,
+        ocs:C3129,
+        ocs:C35298,
+        ocs:C35459,
+        ocs:C39247,
+        ocs:C40051,
+        ocs:C42623,
+        ocs:C42947,
+        ocs:C44454,
+        ocs:C6,
+        ocs:C8270,
+        ocs:C975 .
+

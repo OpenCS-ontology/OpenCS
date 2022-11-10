@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29066 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C4804,
+        ocs:C5706,
+        ocs:C8441,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/MultiLisp> ;
+    skos:prefLabel "MultiLisp" ;
+    skos:related ocs:C1333,
+        ocs:C1625,
+        ocs:C16968,
+        ocs:C19326,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C25779,
+        ocs:C28944,
+        ocs:C2898,
+        ocs:C30672,
+        ocs:C35502,
+        ocs:C40231,
+        ocs:C40762,
+        ocs:C4918,
+        ocs:C6244,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C8751 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5310 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_chart> ;
+    skos:prefLabel "Color chart" ;
+    skos:related ocs:C12849,
+        ocs:C16423,
+        ocs:C1935,
+        ocs:C20177,
+        ocs:C22748,
+        ocs:C24598,
+        ocs:C32992,
+        ocs:C38432,
+        ocs:C41592,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C8969 .
+

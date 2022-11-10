@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36672 a skos:Concept ;
+    skos:broader ocs:C17412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_median> ;
+    skos:prefLabel "Weighted median" ;
+    skos:related ocs:C11441,
+        ocs:C12147,
+        ocs:C25320,
+        ocs:C25355,
+        ocs:C26697,
+        ocs:C28243,
+        ocs:C35924,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662 .
+

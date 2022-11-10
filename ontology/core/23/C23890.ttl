@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23890 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_integral> ;
+    skos:prefLabel "Direct integral" ;
+    skos:related ocs:C14758,
+        ocs:C17651,
+        ocs:C19542,
+        ocs:C27394,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31400,
+        ocs:C33102,
+        ocs:C36974,
+        ocs:C38279,
+        ocs:C39459,
+        ocs:C40434,
+        ocs:C45503 .
+

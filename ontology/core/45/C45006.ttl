@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45006 a skos:Concept ;
+    skos:broader ocs:C30431,
+        ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_file_server> ;
+    skos:prefLabel "Virtual file server" ;
+    skos:related ocs:C10501,
+        ocs:C10911,
+        ocs:C12238,
+        ocs:C15477,
+        ocs:C16369,
+        ocs:C17533,
+        ocs:C26,
+        ocs:C29846,
+        ocs:C3032,
+        ocs:C31164,
+        ocs:C379,
+        ocs:C38032,
+        ocs:C39186,
+        ocs:C39275,
+        ocs:C41658,
+        ocs:C42426,
+        ocs:C42634,
+        ocs:C6768,
+        ocs:C7106 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3575 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contextual_inquiry> ;
+    skos:prefLabel "Contextual inquiry" ;
+    skos:related ocs:C11667,
+        ocs:C13413,
+        ocs:C16787,
+        ocs:C18494,
+        ocs:C37641,
+        ocs:C4094,
+        ocs:C4292,
+        ocs:C5876,
+        ocs:C6227,
+        ocs:C697,
+        ocs:C8269,
+        ocs:C9018,
+        ocs:C9607 .
+

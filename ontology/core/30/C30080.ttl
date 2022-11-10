@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30080 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_control> ;
+    skos:prefLabel "Robot control" ;
+    skos:related ocs:C1,
+        ocs:C10396,
+        ocs:C13610,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C19008,
+        ocs:C19182,
+        ocs:C25,
+        ocs:C28740,
+        ocs:C33737,
+        ocs:C33887,
+        ocs:C37901,
+        ocs:C3900,
+        ocs:C39311,
+        ocs:C43810,
+        ocs:C7334,
+        ocs:C8 .
+

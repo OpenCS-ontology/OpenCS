@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40857 a skos:Concept ;
+    skos:broader ocs:C30801,
+        ocs:C32266,
+        ocs:C33454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absolute_Galois_group> ;
+    skos:prefLabel "Absolute Galois group" ;
+    skos:related ocs:C30801,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C38738,
+        ocs:C42148 .
+

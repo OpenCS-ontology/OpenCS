@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29257 a skos:Concept ;
+    skos:broader ocs:C10917,
+        ocs:C6255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Catamorphism> ;
+    skos:prefLabel "Catamorphism" ;
+    skos:related ocs:C14836,
+        ocs:C20000,
+        ocs:C36450,
+        ocs:C37966,
+        ocs:C4591,
+        ocs:C6941,
+        ocs:C9340 .
+

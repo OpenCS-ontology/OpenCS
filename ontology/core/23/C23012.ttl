@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23012 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Itoh-Tsujii_inversion_algorithm> ;
+    skos:prefLabel "Itoh-Tsujii inversion algorithm" ;
+    skos:related ocs:C29941,
+        ocs:C32484,
+        ocs:C34794,
+        ocs:C39942,
+        ocs:C43183,
+        ocs:C44119,
+        ocs:C45628 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33838 a skos:Concept ;
+    skos:broader ocs:C23432 ;
+    skos:closeMatch <http://dbpedia.org/resource/DDR3_SDRAM> ;
+    skos:prefLabel "DDR3 SDRAM" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C14856,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C1904,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C27610,
+        ocs:C29012,
+        ocs:C29183,
+        ocs:C35309,
+        ocs:C37483,
+        ocs:C39215,
+        ocs:C6341,
+        ocs:C9542 .
+

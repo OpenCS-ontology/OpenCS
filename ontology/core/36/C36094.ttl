@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36094 a skos:Concept ;
+    skos:broader ocs:C29211 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solar_X-ray_Imager> ;
+    skos:prefLabel "Solar X-ray Imager" ;
+    skos:related ocs:C26835,
+        ocs:C29211,
+        ocs:C3044 .
+

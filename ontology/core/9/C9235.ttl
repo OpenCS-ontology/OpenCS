@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9235 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Batch_file> ;
+    skos:prefLabel "Batch file" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C13372,
+        ocs:C1386,
+        ocs:C14271,
+        ocs:C19,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C30860,
+        ocs:C33249,
+        ocs:C34227,
+        ocs:C36601,
+        ocs:C4813,
+        ocs:C4877,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C6605,
+        ocs:C9,
+        ocs:C9433 .
+

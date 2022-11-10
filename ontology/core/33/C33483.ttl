@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33483 a skos:Concept ;
+    skos:broader ocs:C25960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heap_overflow> ;
+    skos:prefLabel "Heap overflow" ;
+    skos:related ocs:C10214,
+        ocs:C19173,
+        ocs:C19349,
+        ocs:C19620,
+        ocs:C2009,
+        ocs:C20707,
+        ocs:C2545,
+        ocs:C30112,
+        ocs:C31870,
+        ocs:C34356,
+        ocs:C34887,
+        ocs:C35,
+        ocs:C35465,
+        ocs:C39214,
+        ocs:C40322,
+        ocs:C5337,
+        ocs:C5470,
+        ocs:C8440,
+        ocs:C9 .
+

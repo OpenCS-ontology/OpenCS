@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31808 a skos:Concept ;
+    skos:broader ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perceptual_robotics> ;
+    skos:prefLabel "Perceptual robotics" ;
+    skos:related ocs:C1054,
+        ocs:C17236,
+        ocs:C33222,
+        ocs:C3341,
+        ocs:C34535,
+        ocs:C34709,
+        ocs:C35805,
+        ocs:C41082,
+        ocs:C43810,
+        ocs:C8701,
+        ocs:C9237,
+        ocs:C979 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9119 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_dictionary> ;
+    skos:prefLabel "Electronic dictionary" ;
+    skos:related ocs:C10368,
+        ocs:C17132,
+        ocs:C2761,
+        ocs:C29012,
+        ocs:C3614,
+        ocs:C3779,
+        ocs:C3983,
+        ocs:C4703,
+        ocs:C5058,
+        ocs:C6239,
+        ocs:C7650,
+        ocs:C8614,
+        ocs:C8710,
+        ocs:C9113 .
+

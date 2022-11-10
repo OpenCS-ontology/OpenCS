@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43638 a skos:Concept ;
+    skos:broader ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/MAX-3SAT> ;
+    skos:prefLabel "MAX-3SAT" ;
+    skos:related ocs:C11250,
+        ocs:C15803,
+        ocs:C22946,
+        ocs:C2425,
+        ocs:C30401,
+        ocs:C31121,
+        ocs:C31892,
+        ocs:C3678,
+        ocs:C38030,
+        ocs:C38867,
+        ocs:C39136,
+        ocs:C40828,
+        ocs:C4149,
+        ocs:C41731,
+        ocs:C4203,
+        ocs:C5823,
+        ocs:C8660,
+        ocs:C9450 .
+

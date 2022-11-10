@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31370 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Covering_number> ;
+    skos:prefLabel "Covering number" ;
+    skos:related ocs:C19375,
+        ocs:C24169,
+        ocs:C41021,
+        ocs:C6776 .
+

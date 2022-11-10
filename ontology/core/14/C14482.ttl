@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14482 a skos:Concept ;
+    skos:broader ocs:C5336,
+        ocs:C9856 ;
+    skos:closeMatch <http://dbpedia.org/resource/ITU-R_BT.656> ;
+    skos:prefLabel "ITU-R BT.656" ;
+    skos:related ocs:C10111,
+        ocs:C13586,
+        ocs:C15700,
+        ocs:C18385,
+        ocs:C27086,
+        ocs:C27572,
+        ocs:C31451,
+        ocs:C37407,
+        ocs:C38232,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C5882,
+        ocs:C6349,
+        ocs:C6942 .
+

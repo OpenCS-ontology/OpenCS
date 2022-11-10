@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43805 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Harmonic_wavelet_transform> ;
+    skos:prefLabel "Harmonic wavelet transform" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C11443,
+        ocs:C20648,
+        ocs:C2168,
+        ocs:C26182,
+        ocs:C28095,
+        ocs:C33342,
+        ocs:C34362,
+        ocs:C34943,
+        ocs:C45045,
+        ocs:C45112,
+        ocs:C9427 .
+

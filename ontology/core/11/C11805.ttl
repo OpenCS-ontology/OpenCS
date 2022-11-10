@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11805 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C17,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apple_Video> ;
+    skos:prefLabel "Apple Video" ;
+    skos:related ocs:C11043,
+        ocs:C12152,
+        ocs:C18518,
+        ocs:C19334,
+        ocs:C2937,
+        ocs:C31114,
+        ocs:C32876,
+        ocs:C36633,
+        ocs:C40235,
+        ocs:C41129,
+        ocs:C41977,
+        ocs:C43649,
+        ocs:C6942 .
+

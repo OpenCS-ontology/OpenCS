@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41536 a skos:Concept ;
+    skos:broader ocs:C29844,
+        ocs:C30143,
+        ocs:C30336,
+        ocs:C37443 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_sequence_diagram> ;
+    skos:prefLabel "System sequence diagram" ;
+    skos:related ocs:C13616,
+        ocs:C18576,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C29844,
+        ocs:C30143,
+        ocs:C30799,
+        ocs:C31890,
+        ocs:C36874,
+        ocs:C37831,
+        ocs:C43126,
+        ocs:C44423,
+        ocs:C44988,
+        ocs:C45378,
+        ocs:C8895,
+        ocs:C924 .
+

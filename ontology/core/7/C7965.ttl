@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7965 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_security_switch> ;
+    skos:prefLabel "Virtual security switch" ;
+    skos:related ocs:C1197,
+        ocs:C13786,
+        ocs:C15512,
+        ocs:C16481,
+        ocs:C24908,
+        ocs:C2590,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C30769,
+        ocs:C32389,
+        ocs:C32402,
+        ocs:C34261,
+        ocs:C39834,
+        ocs:C40325,
+        ocs:C43492,
+        ocs:C44344,
+        ocs:C44730,
+        ocs:C7106 .
+

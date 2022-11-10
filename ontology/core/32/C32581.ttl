@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32581 a skos:Concept ;
+    skos:broader ocs:C21587,
+        ocs:C29425 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_polar_stereographic_coordinate_system> ;
+    skos:prefLabel "Universal polar stereographic coordinate system" ;
+    skos:related ocs:C16293,
+        ocs:C25689,
+        ocs:C29425,
+        ocs:C37444,
+        ocs:C41751,
+        ocs:C8708 .
+

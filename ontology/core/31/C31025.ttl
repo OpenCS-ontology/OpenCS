@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31025 a skos:Concept ;
+    skos:broader ocs:C18626,
+        ocs:C24264,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space–time_code> ;
+    skos:prefLabel "Space–time code" ;
+    skos:related ocs:C14099,
+        ocs:C19721,
+        ocs:C19905,
+        ocs:C20804,
+        ocs:C21204,
+        ocs:C24264,
+        ocs:C24558,
+        ocs:C30728,
+        ocs:C32290,
+        ocs:C3236,
+        ocs:C32844,
+        ocs:C32989,
+        ocs:C33606,
+        ocs:C34748,
+        ocs:C34903,
+        ocs:C35081,
+        ocs:C36733,
+        ocs:C43806,
+        ocs:C4459 .
+

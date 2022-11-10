@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31368 a skos:Concept ;
+    skos:broader ocs:C19364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watercolor_illusion> ;
+    skos:prefLabel "Watercolor illusion" ;
+    skos:related ocs:C22261,
+        ocs:C31734,
+        ocs:C5469,
+        ocs:C6444 .
+

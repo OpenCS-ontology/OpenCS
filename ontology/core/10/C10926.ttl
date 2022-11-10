@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10926 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Redo_log> ;
+    skos:prefLabel "Redo log" ;
+    skos:related ocs:C12185,
+        ocs:C13591,
+        ocs:C13984,
+        ocs:C16874,
+        ocs:C17905,
+        ocs:C224,
+        ocs:C22879,
+        ocs:C23269,
+        ocs:C26351,
+        ocs:C3050,
+        ocs:C34449,
+        ocs:C35640,
+        ocs:C36084,
+        ocs:C41302,
+        ocs:C6,
+        ocs:C6754,
+        ocs:C8184 .
+

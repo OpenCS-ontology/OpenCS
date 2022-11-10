@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C764 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Project-based_learning> ;
+    skos:prefLabel "Project-based learning" ;
+    skos:related ocs:C10518,
+        ocs:C10559,
+        ocs:C12148,
+        ocs:C13047,
+        ocs:C25892,
+        ocs:C3057,
+        ocs:C3444,
+        ocs:C4174,
+        ocs:C763 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2900 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interlingua> ;
+    skos:prefLabel "Interlingua" ;
+    skos:related ocs:C10467,
+        ocs:C1952,
+        ocs:C2298,
+        ocs:C23243,
+        ocs:C2472,
+        ocs:C35238,
+        ocs:C38486,
+        ocs:C6545 .
+

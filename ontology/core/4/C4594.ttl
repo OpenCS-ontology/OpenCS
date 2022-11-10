@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4594 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimax> ;
+    skos:prefLabel "Minimax" ;
+    skos:related ocs:C18256,
+        ocs:C21370,
+        ocs:C28722,
+        ocs:C31804,
+        ocs:C37008,
+        ocs:C3753,
+        ocs:C43080 .
+

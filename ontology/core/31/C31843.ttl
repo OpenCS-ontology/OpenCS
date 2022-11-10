@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31843 a skos:Concept ;
+    skos:broader ocs:C22933 ;
+    skos:closeMatch <http://dbpedia.org/resource/CSU/DSU> ;
+    skos:prefLabel "CSU/DSU" ;
+    skos:related ocs:C11769,
+        ocs:C12942,
+        ocs:C13695,
+        ocs:C22331,
+        ocs:C22933,
+        ocs:C25293,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C31109,
+        ocs:C34874,
+        ocs:C9159,
+        ocs:C9327 .
+

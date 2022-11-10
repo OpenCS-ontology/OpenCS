@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37491 a skos:Concept ;
+    skos:broader ocs:C18085,
+        ocs:C20110,
+        ocs:C20521 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-ray_burster> ;
+    skos:prefLabel "X-ray burster" ;
+    skos:related ocs:C18085,
+        ocs:C20110,
+        ocs:C22542,
+        ocs:C29212,
+        ocs:C35073,
+        ocs:C597 .
+

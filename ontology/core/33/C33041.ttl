@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33041 a skos:Concept ;
+    skos:broader ocs:C25481 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nearest_integer_function> ;
+    skos:prefLabel "Nearest integer function" ;
+    skos:related ocs:C12262,
+        ocs:C29107,
+        ocs:C39884,
+        ocs:C4816,
+        ocs:C5032,
+        ocs:C5566 .
+

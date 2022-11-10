@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43724 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elliptic_divisibility_sequence> ;
+    skos:prefLabel "Elliptic divisibility sequence" ;
+    skos:related ocs:C18118,
+        ocs:C23042,
+        ocs:C27863,
+        ocs:C32484,
+        ocs:C35600,
+        ocs:C3629,
+        ocs:C37882,
+        ocs:C39928,
+        ocs:C40480 .
+

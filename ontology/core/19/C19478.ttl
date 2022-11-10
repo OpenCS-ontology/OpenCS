@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19478 a skos:Concept ;
+    skos:broader ocs:C3232 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_corps> ;
+    skos:prefLabel "Signal corps" ;
+    skos:related ocs:C10078,
+        ocs:C11669,
+        ocs:C1331,
+        ocs:C1502,
+        ocs:C26560,
+        ocs:C3,
+        ocs:C3059,
+        ocs:C3232,
+        ocs:C3236 .
+

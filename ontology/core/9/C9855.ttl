@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9855 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/AP_English_Language_and_Composition> ;
+    skos:prefLabel "AP English Language and Composition" ;
+    skos:related ocs:C12540,
+        ocs:C20748,
+        ocs:C43430 .
+

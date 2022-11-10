@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40297 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turtle_(robot)> ;
+    skos:prefLabel "Turtle (robot)" ;
+    skos:related ocs:C1,
+        ocs:C10396,
+        ocs:C10562,
+        ocs:C17236,
+        ocs:C22,
+        ocs:C31723,
+        ocs:C36259,
+        ocs:C36413,
+        ocs:C37695,
+        ocs:C39653,
+        ocs:C43397,
+        ocs:C5961,
+        ocs:C6307,
+        ocs:C6538,
+        ocs:C979 .
+

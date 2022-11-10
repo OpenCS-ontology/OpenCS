@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35922 a skos:Concept ;
+    skos:broader ocs:C17267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Public_Services_Network> ;
+    skos:prefLabel "Public Services Network" ;
+    skos:related ocs:C125,
+        ocs:C12822,
+        ocs:C13018,
+        ocs:C15834,
+        ocs:C16953,
+        ocs:C18213,
+        ocs:C18264,
+        ocs:C19350,
+        ocs:C20540,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26441,
+        ocs:C34235,
+        ocs:C41914,
+        ocs:C8614,
+        ocs:C9700 .
+

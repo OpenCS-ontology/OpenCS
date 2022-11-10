@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9222 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Store-and-forward_switching_center> ;
+    skos:prefLabel "Store-and-forward switching center" ;
+    skos:related ocs:C16335,
+        ocs:C16953,
+        ocs:C27263,
+        ocs:C27907,
+        ocs:C29523,
+        ocs:C3,
+        ocs:C30667,
+        ocs:C31813,
+        ocs:C35081,
+        ocs:C5416,
+        ocs:C6171,
+        ocs:C8029,
+        ocs:C8566 .
+

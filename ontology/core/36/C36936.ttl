@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36936 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C26989,
+        ocs:C29108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_degree_spanning_tree> ;
+    skos:prefLabel "Minimum degree spanning tree" ;
+    skos:related ocs:C14406,
+        ocs:C15460,
+        ocs:C26989,
+        ocs:C29108,
+        ocs:C30729,
+        ocs:C31703,
+        ocs:C33101,
+        ocs:C33274,
+        ocs:C33699,
+        ocs:C37036,
+        ocs:C38545,
+        ocs:C39188,
+        ocs:C39515,
+        ocs:C41506,
+        ocs:C42087,
+        ocs:C43782,
+        ocs:C44762,
+        ocs:C45005,
+        ocs:C45422 .
+

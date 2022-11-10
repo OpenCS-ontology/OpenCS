@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41860 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C32518,
+        ocs:C34537,
+        ocs:C34684,
+        ocs:C34753,
+        ocs:C36233 ;
+    skos:prefLabel "Dual system encryption" .
+

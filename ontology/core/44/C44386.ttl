@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44386 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Information_Assurance_Certification> ;
+    skos:prefLabel "Global Information Assurance Certification" ;
+    skos:related ocs:C1,
+        ocs:C11045,
+        ocs:C12240,
+        ocs:C1399,
+        ocs:C197,
+        ocs:C21322,
+        ocs:C25619,
+        ocs:C2979,
+        ocs:C34358,
+        ocs:C35,
+        ocs:C36682,
+        ocs:C39016,
+        ocs:C39307,
+        ocs:C40796,
+        ocs:C42213,
+        ocs:C44966,
+        ocs:C45582,
+        ocs:C8299,
+        ocs:C8614 .
+

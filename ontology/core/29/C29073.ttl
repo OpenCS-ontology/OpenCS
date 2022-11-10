@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29073 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/AES67> ;
+    skos:prefLabel "AES67" ;
+    skos:related ocs:C11605,
+        ocs:C12449,
+        ocs:C15589,
+        ocs:C20540,
+        ocs:C21747,
+        ocs:C26,
+        ocs:C27620,
+        ocs:C3039,
+        ocs:C31552,
+        ocs:C31990,
+        ocs:C39009,
+        ocs:C39294,
+        ocs:C43209,
+        ocs:C44663,
+        ocs:C6309,
+        ocs:C8718 .
+

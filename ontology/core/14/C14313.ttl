@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14313 a skos:Concept ;
+    skos:broader ocs:C6444,
+        ocs:C747 ;
+    skos:closeMatch <http://dbpedia.org/resource/Luminance_meter> ;
+    skos:prefLabel "Luminance meter" ;
+    skos:related ocs:C13065,
+        ocs:C17895,
+        ocs:C20535,
+        ocs:C20984,
+        ocs:C28466,
+        ocs:C6075,
+        ocs:C6257,
+        ocs:C6444,
+        ocs:C747 .
+

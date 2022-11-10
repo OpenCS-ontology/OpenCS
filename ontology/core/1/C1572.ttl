@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1572 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Least-cost_routing> ;
+    skos:prefLabel "Least-cost routing" ;
+    skos:related ocs:C13256,
+        ocs:C21233,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C31392,
+        ocs:C6350,
+        ocs:C6821,
+        ocs:C7661,
+        ocs:C9154 .
+

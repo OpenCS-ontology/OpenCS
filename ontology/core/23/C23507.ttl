@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23507 a skos:Concept ;
+    skos:broader ocs:C6473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Port_expander> ;
+    skos:prefLabel "Port expander" ;
+    skos:related ocs:C1318,
+        ocs:C18219,
+        ocs:C1899,
+        ocs:C24805,
+        ocs:C26,
+        ocs:C27890,
+        ocs:C32083,
+        ocs:C4259,
+        ocs:C4397,
+        ocs:C6397,
+        ocs:C653 .
+

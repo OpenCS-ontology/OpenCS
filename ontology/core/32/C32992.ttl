@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32992 a skos:Concept ;
+    skos:broader ocs:C26025 ;
+    skos:closeMatch <http://dbpedia.org/resource/CMYK_color_model> ;
+    skos:prefLabel "CMYK color model" ;
+    skos:related ocs:C13544,
+        ocs:C16423,
+        ocs:C1935,
+        ocs:C22083,
+        ocs:C24211,
+        ocs:C28588,
+        ocs:C34920,
+        ocs:C42852,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099,
+        ocs:C966 .
+

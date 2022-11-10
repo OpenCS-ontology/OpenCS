@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42786 a skos:Concept ;
+    skos:broader ocs:C29844,
+        ocs:C30336,
+        ocs:C37443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Story-driven_modeling> ;
+    skos:prefLabel "Story-driven modeling" ;
+    skos:related ocs:C10720,
+        ocs:C16758,
+        ocs:C17521,
+        ocs:C18960,
+        ocs:C2015,
+        ocs:C22259,
+        ocs:C24477,
+        ocs:C29790,
+        ocs:C30799,
+        ocs:C34078,
+        ocs:C35399,
+        ocs:C37174,
+        ocs:C39238,
+        ocs:C40422,
+        ocs:C41038,
+        ocs:C41673,
+        ocs:C4209,
+        ocs:C4260,
+        ocs:C4558,
+        ocs:C9554 .
+

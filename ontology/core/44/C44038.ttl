@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44038 a skos:Concept ;
+    skos:broader ocs:C34812 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shimura_correspondence> ;
+    skos:prefLabel "Shimura correspondence" ;
+    skos:related ocs:C23209,
+        ocs:C24506,
+        ocs:C24512,
+        ocs:C32392,
+        ocs:C32463,
+        ocs:C32877,
+        ocs:C34812,
+        ocs:C35040,
+        ocs:C36759,
+        ocs:C37795,
+        ocs:C39587,
+        ocs:C41237,
+        ocs:C43603,
+        ocs:C44789,
+        ocs:C45135 .
+

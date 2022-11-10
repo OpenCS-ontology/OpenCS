@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43788 a skos:Concept ;
+    skos:broader ocs:C32746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rado's_theorem_(Ramsey_theory)> ;
+    skos:prefLabel "Rado's theorem" ;
+    skos:related ocs:C28070,
+        ocs:C32746,
+        ocs:C36942,
+        ocs:C38156,
+        ocs:C43933,
+        ocs:C9429 .
+

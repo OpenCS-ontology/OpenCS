@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37384 a skos:Concept ;
+    skos:broader ocs:C15334 ;
+    skos:prefLabel "Transient otoacoustic emissions" ;
+    skos:related ocs:C1340,
+        ocs:C16,
+        ocs:C2300 .
+

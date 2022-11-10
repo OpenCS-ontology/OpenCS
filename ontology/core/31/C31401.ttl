@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31401 a skos:Concept ;
+    skos:broader ocs:C23855 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_composability> ;
+    skos:prefLabel "Universal composability" ;
+    skos:related ocs:C14164,
+        ocs:C16026,
+        ocs:C16125,
+        ocs:C17129,
+        ocs:C18621,
+        ocs:C20243,
+        ocs:C20555,
+        ocs:C22263,
+        ocs:C23073,
+        ocs:C23666,
+        ocs:C23855,
+        ocs:C30399,
+        ocs:C34749,
+        ocs:C36006,
+        ocs:C39619,
+        ocs:C40692,
+        ocs:C4218,
+        ocs:C44564 .
+

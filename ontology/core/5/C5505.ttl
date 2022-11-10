@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5505 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/White_noise> ;
+    skos:prefLabel "White noise" ;
+    skos:related ocs:C10509,
+        ocs:C11096,
+        ocs:C1564,
+        ocs:C16169,
+        ocs:C23308,
+        ocs:C260,
+        ocs:C5194,
+        ocs:C5769,
+        ocs:C6909,
+        ocs:C836,
+        ocs:C9428 .
+

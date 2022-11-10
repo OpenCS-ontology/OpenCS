@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12971 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Outline_of_space_technology> ;
+    skos:prefLabel "Space technology" ;
+    skos:related ocs:C11714,
+        ocs:C1628,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C3,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C81 .
+

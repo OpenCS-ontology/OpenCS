@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41495 a skos:Concept ;
+    skos:broader ocs:C30826,
+        ocs:C32518,
+        ocs:C37568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goldwasser–Micali_cryptosystem> ;
+    skos:prefLabel "Goldwasser–Micali cryptosystem" ;
+    skos:related ocs:C12489,
+        ocs:C13271,
+        ocs:C16026,
+        ocs:C16125,
+        ocs:C22099,
+        ocs:C32288,
+        ocs:C32518,
+        ocs:C36434,
+        ocs:C38359,
+        ocs:C39146,
+        ocs:C39928,
+        ocs:C40300,
+        ocs:C41706,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C44632,
+        ocs:C45673,
+        ocs:C7940 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38108 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadratic_formula> ;
+    skos:prefLabel "Quadratic formula" ;
+    skos:related ocs:C3840,
+        ocs:C38426,
+        ocs:C44480,
+        ocs:C6204 .
+

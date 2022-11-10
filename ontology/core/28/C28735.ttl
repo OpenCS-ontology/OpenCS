@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28735 a skos:Concept ;
+    skos:broader ocs:C5423 ;
+    skos:closeMatch <http://dbpedia.org/resource/Illusion_of_validity> ;
+    skos:prefLabel "Illusion of validity" ;
+    skos:related ocs:C27865,
+        ocs:C28899 .
+

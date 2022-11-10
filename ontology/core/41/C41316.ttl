@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41316 a skos:Concept ;
+    skos:broader ocs:C36286 ;
+    skos:closeMatch <http://dbpedia.org/resource/Steindachneridion> ;
+    skos:prefLabel "Steindachneridion" ;
+    skos:related ocs:C24236,
+        ocs:C33166,
+        ocs:C36175,
+        ocs:C36286,
+        ocs:C39157,
+        ocs:C40706,
+        ocs:C40967,
+        ocs:C42916,
+        ocs:C44323,
+        ocs:C44608 .
+

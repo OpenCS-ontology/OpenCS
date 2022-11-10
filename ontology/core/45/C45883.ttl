@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45883 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service-oriented_modeling> ;
+    skos:prefLabel "Service-oriented modeling" ;
+    skos:related ocs:C10904,
+        ocs:C17238,
+        ocs:C22095,
+        ocs:C28080,
+        ocs:C28941,
+        ocs:C30,
+        ocs:C31667,
+        ocs:C36422,
+        ocs:C37174,
+        ocs:C38363,
+        ocs:C40192,
+        ocs:C40895,
+        ocs:C41310,
+        ocs:C42315,
+        ocs:C42495,
+        ocs:C45107,
+        ocs:C7180 .
+

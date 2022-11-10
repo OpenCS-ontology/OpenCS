@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8024 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Input/output> ;
+    skos:prefLabel "Input/output" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C1253,
+        ocs:C12640,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C41110,
+        ocs:C4259,
+        ocs:C42690,
+        ocs:C5702,
+        ocs:C7735,
+        ocs:C9,
+        ocs:C9262 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18252 a skos:Concept ;
+    skos:broader ocs:C12206,
+        ocs:C4752,
+        ocs:C6255,
+        ocs:C8172 ;
+    skos:prefLabel "Outlier Type" ;
+    skos:related ocs:C1,
+        ocs:C13,
+        ocs:C6255,
+        ocs:C8172 .
+

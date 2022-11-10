@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22539 a skos:Concept ;
+    skos:broader ocs:C11150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Negacyclic_convolution> ;
+    skos:prefLabel "Negacyclic convolution" ;
+    skos:related ocs:C11150,
+        ocs:C11308,
+        ocs:C11443,
+        ocs:C29220,
+        ocs:C33681 .
+

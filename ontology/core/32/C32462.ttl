@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32462 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthodiagonal_quadrilateral> ;
+    skos:prefLabel "Orthodiagonal quadrilateral" ;
+    skos:related ocs:C13409,
+        ocs:C20312,
+        ocs:C39788,
+        ocs:C43235,
+        ocs:C5204 .
+

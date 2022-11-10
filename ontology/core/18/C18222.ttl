@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18222 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precedence_diagram_method> ;
+    skos:prefLabel "Precedence diagram method" ;
+    skos:related ocs:C20086,
+        ocs:C25147,
+        ocs:C30932,
+        ocs:C30947,
+        ocs:C3303,
+        ocs:C43494,
+        ocs:C44198,
+        ocs:C5861,
+        ocs:C9483 .
+

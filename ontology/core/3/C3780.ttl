@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3780 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MIDI_1.0> ;
+    skos:prefLabel "MIDI 1.0" ;
+    skos:related ocs:C13012,
+        ocs:C13386,
+        ocs:C17404,
+        ocs:C22530,
+        ocs:C24805,
+        ocs:C32592,
+        ocs:C6403,
+        ocs:C8718 .
+

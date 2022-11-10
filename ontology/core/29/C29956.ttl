@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29956 a skos:Concept ;
+    skos:broader ocs:C29175 ;
+    skos:prefLabel "Shading Artifact" ;
+    skos:related ocs:C10,
+        ocs:C10321,
+        ocs:C22,
+        ocs:C5369,
+        ocs:C6756,
+        ocs:C8021 .
+

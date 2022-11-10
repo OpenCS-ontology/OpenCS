@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19183 a skos:Concept ;
+    skos:broader ocs:C11669 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thue–Morse_sequence> ;
+    skos:prefLabel "Thue–Morse sequence" ;
+    skos:related ocs:C13852,
+        ocs:C18434,
+        ocs:C25682,
+        ocs:C29065,
+        ocs:C7979 .
+

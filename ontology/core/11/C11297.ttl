@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11297 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soundex> ;
+    skos:prefLabel "Soundex" ;
+    skos:related ocs:C11213,
+        ocs:C12222,
+        ocs:C12759,
+        ocs:C16676,
+        ocs:C17677,
+        ocs:C20431,
+        ocs:C27331,
+        ocs:C27886,
+        ocs:C2930,
+        ocs:C3189,
+        ocs:C3741,
+        ocs:C40049,
+        ocs:C4397,
+        ocs:C5862,
+        ocs:C6459 .
+

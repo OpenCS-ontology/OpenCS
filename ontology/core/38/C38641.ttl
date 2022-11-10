@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38641 a skos:Concept ;
+    skos:broader ocs:C34794 ;
+    skos:closeMatch <http://dbpedia.org/resource/Napierian_logarithm> ;
+    skos:prefLabel "Napierian logarithm" ;
+    skos:related ocs:C13541,
+        ocs:C19223,
+        ocs:C2433,
+        ocs:C4027,
+        ocs:C43886,
+        ocs:C43970,
+        ocs:C5816 .
+

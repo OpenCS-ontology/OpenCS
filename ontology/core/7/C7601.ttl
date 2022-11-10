@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7601 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normalization_property_(abstract_rewriting)> ;
+    skos:prefLabel "Normalization property" ;
+    skos:related ocs:C10322,
+        ocs:C10498,
+        ocs:C11327,
+        ocs:C13751,
+        ocs:C1631,
+        ocs:C16537,
+        ocs:C16614,
+        ocs:C18045,
+        ocs:C20132,
+        ocs:C25442,
+        ocs:C36417,
+        ocs:C39944,
+        ocs:C40372,
+        ocs:C41754,
+        ocs:C43542,
+        ocs:C44999,
+        ocs:C45327,
+        ocs:C7980 .
+

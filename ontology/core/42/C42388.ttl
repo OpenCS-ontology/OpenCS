@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42388 a skos:Concept ;
+    skos:broader ocs:C32011,
+        ocs:C32512,
+        ocs:C32679 ;
+    skos:prefLabel "Nonlinear kalman filtering" .
+

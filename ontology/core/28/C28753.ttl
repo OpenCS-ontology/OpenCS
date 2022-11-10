@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28753 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Super-channel> ;
+    skos:prefLabel "Super-channel" ;
+    skos:related ocs:C17653,
+        ocs:C18745,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C35301,
+        ocs:C38402,
+        ocs:C45502 .
+

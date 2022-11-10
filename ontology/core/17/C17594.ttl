@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17594 a skos:Concept ;
+    skos:broader ocs:C7879 ;
+    skos:closeMatch <http://dbpedia.org/resource/6-3-5_Brainwriting> ;
+    skos:prefLabel "6-3-5 Brainwriting" ;
+    skos:related ocs:C11107,
+        ocs:C1134,
+        ocs:C22070,
+        ocs:C37451,
+        ocs:C6656,
+        ocs:C7879 .
+

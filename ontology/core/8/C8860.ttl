@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8860 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/FoxPro> ;
+    skos:prefLabel "FoxPro" ;
+    skos:related ocs:C10444,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C12185,
+        ocs:C12338,
+        ocs:C14271,
+        ocs:C14632,
+        ocs:C19,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C5529,
+        ocs:C6,
+        ocs:C6714,
+        ocs:C7017,
+        ocs:C9 .
+

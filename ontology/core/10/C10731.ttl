@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10731 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_haven> ;
+    skos:prefLabel "Data haven" ;
+    skos:related ocs:C12510,
+        ocs:C13320,
+        ocs:C14026,
+        ocs:C14032,
+        ocs:C16181,
+        ocs:C17873,
+        ocs:C23484,
+        ocs:C25123,
+        ocs:C25749,
+        ocs:C26,
+        ocs:C29539,
+        ocs:C32165,
+        ocs:C33417,
+        ocs:C4218,
+        ocs:C7510,
+        ocs:C8614 .
+

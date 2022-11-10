@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C859 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unicast_flood> ;
+    skos:prefLabel "Unicast flood" ;
+    skos:related ocs:C11157,
+        ocs:C13786,
+        ocs:C1398,
+        ocs:C15396,
+        ocs:C1595,
+        ocs:C21724,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C30769,
+        ocs:C30825,
+        ocs:C31983,
+        ocs:C3391,
+        ocs:C38632,
+        ocs:C40959,
+        ocs:C41930,
+        ocs:C42174,
+        ocs:C42609,
+        ocs:C44972,
+        ocs:C5343 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45586 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ancistrini> ;
+    skos:prefLabel "Ancistrini" ;
+    skos:related ocs:C36328,
+        ocs:C38317,
+        ocs:C39219,
+        ocs:C39857,
+        ocs:C40494,
+        ocs:C41121,
+        ocs:C42528,
+        ocs:C42810,
+        ocs:C44140,
+        ocs:C44358,
+        ocs:C44786,
+        ocs:C45689 .
+

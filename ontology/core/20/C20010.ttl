@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20010 a skos:Concept ;
+    skos:broader ocs:C6893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Burstable_billing> ;
+    skos:prefLabel "Burstable billing" ;
+    skos:related ocs:C12111,
+        ocs:C17625,
+        ocs:C18173,
+        ocs:C19566,
+        ocs:C2188,
+        ocs:C23964,
+        ocs:C24870,
+        ocs:C26809,
+        ocs:C29419,
+        ocs:C29834,
+        ocs:C33034,
+        ocs:C33838,
+        ocs:C34874,
+        ocs:C40625,
+        ocs:C41065,
+        ocs:C4197,
+        ocs:C42442,
+        ocs:C43783,
+        ocs:C44104 .
+

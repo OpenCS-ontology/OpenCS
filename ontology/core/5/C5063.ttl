@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5063 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interactive_whiteboard> ;
+    skos:prefLabel "Interactive whiteboard" ;
+    skos:related ocs:C10368,
+        ocs:C12282,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C26790,
+        ocs:C28881,
+        ocs:C29012,
+        ocs:C3284,
+        ocs:C3444,
+        ocs:C35370,
+        ocs:C420,
+        ocs:C5841,
+        ocs:C6529,
+        ocs:C8614,
+        ocs:C9 .
+

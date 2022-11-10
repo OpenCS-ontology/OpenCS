@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40767 a skos:Concept ;
+    skos:broader ocs:C29851,
+        ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genetic_fuzzy_systems> ;
+    skos:prefLabel "Genetic fuzzy systems" ;
+    skos:related ocs:C14353,
+        ocs:C16802,
+        ocs:C17599,
+        ocs:C1918,
+        ocs:C23347,
+        ocs:C29424,
+        ocs:C29874,
+        ocs:C30212,
+        ocs:C31626,
+        ocs:C35139,
+        ocs:C36765,
+        ocs:C37099,
+        ocs:C37985,
+        ocs:C38437,
+        ocs:C38697,
+        ocs:C4462,
+        ocs:C5197,
+        ocs:C7553 .
+

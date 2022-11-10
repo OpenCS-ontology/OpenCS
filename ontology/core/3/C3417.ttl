@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3417 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MSDC> ;
+    skos:prefLabel "MSDC" ;
+    skos:related ocs:C13065,
+        ocs:C41621,
+        ocs:C44417,
+        ocs:C7239 .
+

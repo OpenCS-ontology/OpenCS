@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C566 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Texas_Instruments_LPC_Speech_Chips> ;
+    skos:prefLabel "Texas Instruments LPC Speech Chips" ;
+    skos:related ocs:C1149,
+        ocs:C11814,
+        ocs:C13747,
+        ocs:C1449,
+        ocs:C19556,
+        ocs:C19994,
+        ocs:C26702,
+        ocs:C31889,
+        ocs:C36671,
+        ocs:C40412,
+        ocs:C4259,
+        ocs:C4397,
+        ocs:C7012,
+        ocs:C8579,
+        ocs:C8732 .
+

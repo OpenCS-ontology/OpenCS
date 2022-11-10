@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39395 a skos:Concept ;
+    skos:broader ocs:C31309,
+        ocs:C35866 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wolfe_conditions> ;
+    skos:prefLabel "Wolfe conditions" ;
+    skos:related ocs:C11285,
+        ocs:C14414,
+        ocs:C15070,
+        ocs:C20325,
+        ocs:C22483,
+        ocs:C24725,
+        ocs:C25774,
+        ocs:C29055,
+        ocs:C29738,
+        ocs:C32053,
+        ocs:C32608,
+        ocs:C34414,
+        ocs:C3570,
+        ocs:C35866,
+        ocs:C37201,
+        ocs:C37565,
+        ocs:C40108,
+        ocs:C45678 .
+

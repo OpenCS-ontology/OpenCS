@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44316 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_colors> ;
+    skos:prefLabel "Web colors" ;
+    skos:related ocs:C12477,
+        ocs:C12849,
+        ocs:C15310,
+        ocs:C17520,
+        ocs:C1935,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C32992,
+        ocs:C36633,
+        ocs:C3679,
+        ocs:C41977,
+        ocs:C45041,
+        ocs:C6113,
+        ocs:C6942,
+        ocs:C966 .
+

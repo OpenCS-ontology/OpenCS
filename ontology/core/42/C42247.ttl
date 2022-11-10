@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42247 a skos:Concept ;
+    skos:broader ocs:C29898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Project_Ozma> ;
+    skos:prefLabel "Project Ozma" ;
+    skos:related ocs:C14270,
+        ocs:C26524,
+        ocs:C28456,
+        ocs:C36203,
+        ocs:C38786,
+        ocs:C597 .
+

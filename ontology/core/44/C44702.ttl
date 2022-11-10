@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44702 a skos:Concept ;
+    skos:broader ocs:C29899,
+        ocs:C30037,
+        ocs:C30338 ;
+    skos:closeMatch <http://dbpedia.org/resource/Winlink> ;
+    skos:prefLabel "Winlink" ;
+    skos:related ocs:C10826,
+        ocs:C10975,
+        ocs:C11669,
+        ocs:C13696,
+        ocs:C1455,
+        ocs:C16205,
+        ocs:C22451,
+        ocs:C2263,
+        ocs:C29359,
+        ocs:C36766,
+        ocs:C39720,
+        ocs:C40505,
+        ocs:C43595,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C45653,
+        ocs:C6034,
+        ocs:C9881 .
+

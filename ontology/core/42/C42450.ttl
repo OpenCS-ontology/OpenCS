@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42450 a skos:Concept ;
+    skos:broader ocs:C33601 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infrared_Spatial_Interferometer> ;
+    skos:prefLabel "Infrared Spatial Interferometer" ;
+    skos:related ocs:C14963,
+        ocs:C25936,
+        ocs:C33415,
+        ocs:C33488 .
+

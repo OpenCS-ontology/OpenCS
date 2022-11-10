@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32424 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C22524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Da_Vinci_Surgical_System> ;
+    skos:prefLabel "Da Vinci Surgical System" ;
+    skos:related ocs:C11255,
+        ocs:C17816,
+        ocs:C22524,
+        ocs:C36737 .
+

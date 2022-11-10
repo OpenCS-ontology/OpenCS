@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embedded_system> ;
+    skos:prefLabel "Embedded system" ;
+    skos:related ocs:C10320,
+        ocs:C1253,
+        ocs:C14271,
+        ocs:C19487,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C33,
+        ocs:C5912,
+        ocs:C6172,
+        ocs:C6223,
+        ocs:C7165,
+        ocs:C8024,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

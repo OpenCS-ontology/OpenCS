@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42206 a skos:Concept ;
+    skos:broader ocs:C35574 ;
+    skos:closeMatch <http://dbpedia.org/resource/Centered_polygonal_number> ;
+    skos:prefLabel "Centered polygonal number" ;
+    skos:related ocs:C20108,
+        ocs:C29057 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18784 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzing> ;
+    skos:prefLabel "Fuzz testing" ;
+    skos:related ocs:C10214,
+        ocs:C1083,
+        ocs:C2057,
+        ocs:C21942,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C26339,
+        ocs:C27605,
+        ocs:C32613,
+        ocs:C36468,
+        ocs:C40291,
+        ocs:C41342,
+        ocs:C45212,
+        ocs:C6072,
+        ocs:C7329,
+        ocs:C8559,
+        ocs:C8895,
+        ocs:C9 .
+

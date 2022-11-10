@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32506 a skos:Concept ;
+    skos:broader ocs:C16159,
+        ocs:C24486 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Signature> ;
+    skos:prefLabel "XML Signature" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C13252,
+        ocs:C14647,
+        ocs:C19518,
+        ocs:C21324,
+        ocs:C29951,
+        ocs:C30595,
+        ocs:C33040,
+        ocs:C33052,
+        ocs:C34168,
+        ocs:C38075,
+        ocs:C38812,
+        ocs:C39253,
+        ocs:C39718,
+        ocs:C40145,
+        ocs:C40360,
+        ocs:C40789,
+        ocs:C41443 .
+

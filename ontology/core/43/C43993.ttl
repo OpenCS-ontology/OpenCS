@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43993 a skos:Concept ;
+    skos:broader ocs:C30082 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed-radius_near_neighbors> ;
+    skos:prefLabel "Fixed-radius near neighbors" ;
+    skos:related ocs:C14093,
+        ocs:C14626,
+        ocs:C19178,
+        ocs:C2122,
+        ocs:C24943,
+        ocs:C25248,
+        ocs:C26515,
+        ocs:C31733,
+        ocs:C34096,
+        ocs:C3936,
+        ocs:C41076,
+        ocs:C41783,
+        ocs:C42030,
+        ocs:C43779,
+        ocs:C5860,
+        ocs:C6279,
+        ocs:C6693 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10070 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_society> ;
+    skos:prefLabel "Knowledge society" ;
+    skos:related ocs:C11657,
+        ocs:C11943,
+        ocs:C11944,
+        ocs:C12,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C29488,
+        ocs:C3119,
+        ocs:C3444,
+        ocs:C36140,
+        ocs:C4438,
+        ocs:C5124,
+        ocs:C5140,
+        ocs:C7297,
+        ocs:C7634 .
+

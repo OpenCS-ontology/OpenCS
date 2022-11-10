@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35809 a skos:Concept ;
+    skos:broader ocs:C16191 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maneuvering_speed> ;
+    skos:prefLabel "Maneuvering speed" ;
+    skos:related ocs:C15071,
+        ocs:C16191,
+        ocs:C22629,
+        ocs:C25753,
+        ocs:C31255,
+        ocs:C3134,
+        ocs:C670,
+        ocs:C8888 .
+

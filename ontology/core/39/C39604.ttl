@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39604 a skos:Concept ;
+    skos:broader ocs:C31149,
+        ocs:C31755,
+        ocs:C32451,
+        ocs:C36473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_processor> ;
+    skos:prefLabel "Mobile processor" ;
+    skos:related ocs:C10320,
+        ocs:C11052,
+        ocs:C11326,
+        ocs:C12690,
+        ocs:C15459,
+        ocs:C16592,
+        ocs:C1668,
+        ocs:C21424,
+        ocs:C26991,
+        ocs:C29012,
+        ocs:C31489,
+        ocs:C33838,
+        ocs:C36673,
+        ocs:C38463,
+        ocs:C7166 .
+

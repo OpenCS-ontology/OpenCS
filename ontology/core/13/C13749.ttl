@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13749 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metalanguage> ;
+    skos:prefLabel "Metalanguage" ;
+    skos:related ocs:C1034,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C126,
+        ocs:C1451,
+        ocs:C16172,
+        ocs:C19,
+        ocs:C225,
+        ocs:C2418,
+        ocs:C26572,
+        ocs:C29634,
+        ocs:C39107,
+        ocs:C42137,
+        ocs:C45295,
+        ocs:C45525,
+        ocs:C524,
+        ocs:C8697 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44867 a skos:Concept ;
+    skos:broader ocs:C33612 ;
+    skos:closeMatch <http://dbpedia.org/resource/Myriochila> ;
+    skos:prefLabel "Myriochila" ;
+    skos:related ocs:C27345,
+        ocs:C30754,
+        ocs:C32729,
+        ocs:C33353,
+        ocs:C33612,
+        ocs:C34145,
+        ocs:C35782,
+        ocs:C36736,
+        ocs:C42708 .
+

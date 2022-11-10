@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16672 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_order> ;
+    skos:prefLabel "Word order" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C15647,
+        ocs:C1739,
+        ocs:C1952,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C35238,
+        ocs:C4587,
+        ocs:C6545,
+        ocs:C7501 .
+

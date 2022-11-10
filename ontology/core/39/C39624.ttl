@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39624 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_import> ;
+    skos:prefLabel "Static import" ;
+    skos:related ocs:C10384,
+        ocs:C10608,
+        ocs:C1142,
+        ocs:C12584,
+        ocs:C14627,
+        ocs:C15051,
+        ocs:C16588,
+        ocs:C20150,
+        ocs:C23693,
+        ocs:C28187,
+        ocs:C31693,
+        ocs:C3282,
+        ocs:C33252,
+        ocs:C41633,
+        ocs:C41674,
+        ocs:C43369,
+        ocs:C44708,
+        ocs:C44845 .
+

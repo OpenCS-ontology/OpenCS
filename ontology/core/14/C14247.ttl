@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14247 a skos:Concept ;
+    skos:broader ocs:C13297 ;
+    skos:closeMatch <http://dbpedia.org/resource/AP_Russian_Language_and_Culture> ;
+    skos:prefLabel "AP Russian Language and Culture" ;
+    skos:related ocs:C12540,
+        ocs:C34985,
+        ocs:C43430,
+        ocs:C43583,
+        ocs:C44860,
+        ocs:C9855 .
+

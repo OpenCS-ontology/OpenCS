@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37147 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analytic_semigroup> ;
+    skos:prefLabel "Analytic semigroup" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C31362,
+        ocs:C31849,
+        ocs:C40662,
+        ocs:C40761,
+        ocs:C44691,
+        ocs:C44846,
+        ocs:C45725 .
+

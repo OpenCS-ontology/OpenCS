@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33385 a skos:Concept ;
+    skos:broader ocs:C15405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lyapunov_fractal> ;
+    skos:prefLabel "Lyapunov fractal" ;
+    skos:related ocs:C14592,
+        ocs:C18223,
+        ocs:C33560,
+        ocs:C35657,
+        ocs:C39750,
+        ocs:C45743 .
+

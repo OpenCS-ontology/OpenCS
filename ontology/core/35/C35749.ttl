@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35749 a skos:Concept ;
+    skos:broader ocs:C15462 ;
+    skos:closeMatch <http://dbpedia.org/resource/DR_21> ;
+    skos:prefLabel "DR 21" ;
+    skos:related ocs:C16731,
+        ocs:C20309,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C24451,
+        ocs:C32397,
+        ocs:C33286,
+        ocs:C33408,
+        ocs:C34547,
+        ocs:C597 .
+

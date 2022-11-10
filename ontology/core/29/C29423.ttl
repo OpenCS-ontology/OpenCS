@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29423 a skos:Concept ;
+    skos:broader ocs:C4030 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variance-stabilizing_transformation> ;
+    skos:prefLabel "Variance-stabilizing transformation" ;
+    skos:related ocs:C1844,
+        ocs:C18968,
+        ocs:C20531,
+        ocs:C34115,
+        ocs:C39273,
+        ocs:C4030 .
+

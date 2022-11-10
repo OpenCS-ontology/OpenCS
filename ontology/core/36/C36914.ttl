@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36914 a skos:Concept ;
+    skos:broader ocs:C17848,
+        ocs:C19903,
+        ocs:C26020 ;
+    skos:closeMatch <http://dbpedia.org/resource/Broadcast_law> ;
+    skos:prefLabel "Broadcast law" ;
+    skos:related ocs:C12999,
+        ocs:C155,
+        ocs:C15505,
+        ocs:C16357,
+        ocs:C19903,
+        ocs:C21604,
+        ocs:C21613,
+        ocs:C26020,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C31899,
+        ocs:C37687,
+        ocs:C37973,
+        ocs:C5511,
+        ocs:C7874 .
+

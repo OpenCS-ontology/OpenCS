@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23435 a skos:Concept ;
+    skos:broader ocs:C12208 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line–plane_intersection> ;
+    skos:prefLabel "Line–plane intersection" ;
+    skos:related ocs:C12258,
+        ocs:C12454 .
+

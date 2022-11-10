@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3677 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Separation_logic> ;
+    skos:prefLabel "Separation logic" ;
+    skos:related ocs:C1,
+        ocs:C10140,
+        ocs:C10219,
+        ocs:C16537,
+        ocs:C16907,
+        ocs:C2418,
+        ocs:C26635,
+        ocs:C2978,
+        ocs:C33824,
+        ocs:C34939,
+        ocs:C36771,
+        ocs:C37681,
+        ocs:C38890,
+        ocs:C39399,
+        ocs:C42129,
+        ocs:C44936,
+        ocs:C45548,
+        ocs:C4756,
+        ocs:C7903 .
+

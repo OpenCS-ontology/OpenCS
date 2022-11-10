@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9839 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Williams_tube> ;
+    skos:prefLabel "Williams tube" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C23270,
+        ocs:C3231,
+        ocs:C35697,
+        ocs:C37538,
+        ocs:C39753,
+        ocs:C8328,
+        ocs:C9381 .
+

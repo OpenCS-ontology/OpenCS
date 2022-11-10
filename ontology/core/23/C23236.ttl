@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23236 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cluster_reduction> ;
+    skos:prefLabel "Cluster reduction" ;
+    skos:related ocs:C13096,
+        ocs:C14010,
+        ocs:C18052,
+        ocs:C18386,
+        ocs:C23276,
+        ocs:C23688,
+        ocs:C24840,
+        ocs:C27881,
+        ocs:C308,
+        ocs:C37693,
+        ocs:C4522,
+        ocs:C5628,
+        ocs:C6449,
+        ocs:C6914 .
+

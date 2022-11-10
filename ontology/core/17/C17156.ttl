@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17156 a skos:Concept ;
+    skos:broader ocs:C10212,
+        ocs:C8273 ;
+    skos:closeMatch <http://dbpedia.org/resource/Machine_olfaction> ;
+    skos:prefLabel "Machine olfaction" ;
+    skos:related ocs:C10212,
+        ocs:C12397,
+        ocs:C21 .
+

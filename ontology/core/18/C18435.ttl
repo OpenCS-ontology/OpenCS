@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18435 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C13068,
+        ocs:C4918 ;
+    skos:closeMatch <http://dbpedia.org/resource/JSON-LD> ;
+    skos:prefLabel "JSON-LD" ;
+    skos:related ocs:C11927,
+        ocs:C13068,
+        ocs:C15902,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C2931,
+        ocs:C31903,
+        ocs:C32413,
+        ocs:C33916,
+        ocs:C35570,
+        ocs:C36357,
+        ocs:C38072,
+        ocs:C3896,
+        ocs:C39973,
+        ocs:C41158,
+        ocs:C42124,
+        ocs:C6553,
+        ocs:C9836 .
+

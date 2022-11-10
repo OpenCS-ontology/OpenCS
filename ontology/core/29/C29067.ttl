@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29067 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modern_Greek_grammar> ;
+    skos:prefLabel "Modern Greek grammar" ;
+    skos:related ocs:C10570,
+        ocs:C15012,
+        ocs:C18232,
+        ocs:C20344,
+        ocs:C20870,
+        ocs:C23243,
+        ocs:C23692,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28817,
+        ocs:C3147 .
+

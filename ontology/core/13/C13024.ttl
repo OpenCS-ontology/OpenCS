@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13024 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C23,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document_layout_analysis> ;
+    skos:prefLabel "Document layout analysis" ;
+    skos:related ocs:C10318,
+        ocs:C10982,
+        ocs:C11887,
+        ocs:C13147,
+        ocs:C14863,
+        ocs:C1573,
+        ocs:C1600,
+        ocs:C26343,
+        ocs:C29175,
+        ocs:C3077,
+        ocs:C311,
+        ocs:C44325,
+        ocs:C5477,
+        ocs:C669,
+        ocs:C7 .
+

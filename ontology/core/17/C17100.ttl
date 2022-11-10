@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17100 a skos:Concept ;
+    skos:broader ocs:C5706,
+        ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Master_stability_function> ;
+    skos:prefLabel "Master stability function" ;
+    skos:related ocs:C14592,
+        ocs:C15205,
+        ocs:C15405,
+        ocs:C16955,
+        ocs:C26300,
+        ocs:C28282,
+        ocs:C33199 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25038 a skos:Concept ;
+    skos:broader ocs:C4048 ;
+    skos:closeMatch <http://dbpedia.org/resource/Positional_notation> ;
+    skos:prefLabel "Positional notation" ;
+    skos:related ocs:C18079,
+        ocs:C3786,
+        ocs:C4048 .
+

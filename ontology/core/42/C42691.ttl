@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42691 a skos:Concept ;
+    skos:broader ocs:C30984 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-hopping> ;
+    skos:prefLabel "Time-hopping" ;
+    skos:related ocs:C18799,
+        ocs:C24312,
+        ocs:C28404,
+        ocs:C30534,
+        ocs:C30924,
+        ocs:C30984,
+        ocs:C37788,
+        ocs:C40917,
+        ocs:C40931,
+        ocs:C4175,
+        ocs:C44487,
+        ocs:C5627,
+        ocs:C8431,
+        ocs:C8556,
+        ocs:C8784 .
+

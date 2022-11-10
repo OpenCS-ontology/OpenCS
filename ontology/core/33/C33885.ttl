@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33885 a skos:Concept ;
+    skos:broader ocs:C19769 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triad_method> ;
+    skos:prefLabel "Triad method" ;
+    skos:related ocs:C11187,
+        ocs:C13414,
+        ocs:C32993,
+        ocs:C597,
+        ocs:C6226,
+        ocs:C8708,
+        ocs:C9501 .
+

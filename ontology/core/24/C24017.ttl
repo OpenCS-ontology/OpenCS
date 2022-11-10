@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24017 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/EOSDIS> ;
+    skos:prefLabel "EOSDIS" ;
+    skos:related ocs:C13528,
+        ocs:C1628,
+        ocs:C1909,
+        ocs:C2674,
+        ocs:C27501,
+        ocs:C27955,
+        ocs:C2933,
+        ocs:C33583,
+        ocs:C3896,
+        ocs:C44189 .
+

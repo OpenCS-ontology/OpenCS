@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39925 a skos:Concept ;
+    skos:broader ocs:C30507 ;
+    skos:closeMatch <http://dbpedia.org/resource/James'_theorem> ;
+    skos:prefLabel "James' theorem" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31924,
+        ocs:C39124,
+        ocs:C39433,
+        ocs:C40236,
+        ocs:C40731,
+        ocs:C42981,
+        ocs:C44450 .
+

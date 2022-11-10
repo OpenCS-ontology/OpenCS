@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25682 a skos:Concept ;
+    skos:broader ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combinatorics_on_words> ;
+    skos:prefLabel "Combinatorics on words" ;
+    skos:related ocs:C11282,
+        ocs:C19183,
+        ocs:C22624,
+        ocs:C30333,
+        ocs:C32647,
+        ocs:C39610,
+        ocs:C524 .
+

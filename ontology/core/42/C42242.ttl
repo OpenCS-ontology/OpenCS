@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42242 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_delayed_acknowledgment> ;
+    skos:prefLabel "TCP delayed acknowledgment" ;
+    skos:related ocs:C10008,
+        ocs:C10231,
+        ocs:C13551,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C34358,
+        ocs:C35198,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C35659,
+        ocs:C36782,
+        ocs:C38272,
+        ocs:C38384,
+        ocs:C38814,
+        ocs:C39947,
+        ocs:C41055,
+        ocs:C41119,
+        ocs:C42419,
+        ocs:C5837,
+        ocs:C9432 .
+

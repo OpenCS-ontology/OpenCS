@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35396 a skos:Concept ;
+    skos:broader ocs:C22279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geoportal> ;
+    skos:prefLabel "Geoportal" ;
+    skos:related ocs:C19733,
+        ocs:C20731,
+        ocs:C2115,
+        ocs:C22573,
+        ocs:C27492,
+        ocs:C31518,
+        ocs:C38891,
+        ocs:C39955,
+        ocs:C42090,
+        ocs:C43712,
+        ocs:C44189,
+        ocs:C4534 .
+

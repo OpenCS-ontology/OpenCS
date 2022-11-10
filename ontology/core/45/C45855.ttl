@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45855 a skos:Concept ;
+    skos:broader ocs:C37683 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_stable_distribution> ;
+    skos:prefLabel "Geometric stable distribution" ;
+    skos:related ocs:C16163,
+        ocs:C1844,
+        ocs:C21356,
+        ocs:C40060,
+        ocs:C44994,
+        ocs:C795 .
+

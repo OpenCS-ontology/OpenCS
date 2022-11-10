@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26791 a skos:Concept ;
+    skos:broader ocs:C9157 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dataflow_architecture> ;
+    skos:prefLabel "Dataflow architecture" ;
+    skos:related ocs:C10320,
+        ocs:C15,
+        ocs:C15179,
+        ocs:C16968,
+        ocs:C1721,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C33375,
+        ocs:C37538,
+        ocs:C40036,
+        ocs:C41469,
+        ocs:C42977,
+        ocs:C6072,
+        ocs:C856,
+        ocs:C9157 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2173 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commercial_art> ;
+    skos:prefLabel "Commercial art" ;
+    skos:related ocs:C12011,
+        ocs:C2135,
+        ocs:C4153,
+        ocs:C6032,
+        ocs:C622,
+        ocs:C9606 .
+

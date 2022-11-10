@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40619 a skos:Concept ;
+    skos:broader ocs:C30948,
+        ocs:C33961,
+        ocs:C34110 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carbon-burning_process> ;
+    skos:prefLabel "Carbon-burning process" ;
+    skos:related ocs:C21208,
+        ocs:C22542,
+        ocs:C25034,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C30752,
+        ocs:C30948,
+        ocs:C33891,
+        ocs:C35073,
+        ocs:C37112,
+        ocs:C37677,
+        ocs:C39852 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33198 a skos:Concept ;
+    skos:broader ocs:C19879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open-source_governance> ;
+    skos:prefLabel "Open-source governance" ;
+    skos:related ocs:C12510,
+        ocs:C16235,
+        ocs:C17658,
+        ocs:C23932,
+        ocs:C32525,
+        ocs:C4164,
+        ocs:C4819,
+        ocs:C8614 .
+

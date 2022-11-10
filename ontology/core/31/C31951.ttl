@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31951 a skos:Concept ;
+    skos:broader ocs:C27698 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Satellites_Automatic_Location_System> ;
+    skos:prefLabel "Universal Satellites Automatic Location System" ;
+    skos:related ocs:C15780,
+        ocs:C18878,
+        ocs:C24807,
+        ocs:C2581,
+        ocs:C32488,
+        ocs:C35336,
+        ocs:C35345,
+        ocs:C42274,
+        ocs:C44963 .
+

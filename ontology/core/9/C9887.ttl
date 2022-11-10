@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9887 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Screen_reading> ;
+    skos:prefLabel "Screen reading" ;
+    skos:related ocs:C13155,
+        ocs:C34379,
+        ocs:C35507,
+        ocs:C5477,
+        ocs:C5862,
+        ocs:C78,
+        ocs:C9606 .
+

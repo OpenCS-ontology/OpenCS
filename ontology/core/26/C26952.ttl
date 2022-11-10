@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26952 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kent_distribution> ;
+    skos:prefLabel "Kent distribution" ;
+    skos:related ocs:C1640,
+        ocs:C1844,
+        ocs:C23748,
+        ocs:C25862,
+        ocs:C39274,
+        ocs:C40060 .
+

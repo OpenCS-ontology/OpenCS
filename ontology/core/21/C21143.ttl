@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21143 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_iteration> ;
+    skos:prefLabel "Power iteration" ;
+    skos:related ocs:C14004,
+        ocs:C15070,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C24606,
+        ocs:C31516,
+        ocs:C32733,
+        ocs:C34314,
+        ocs:C5201 .
+

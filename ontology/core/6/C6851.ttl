@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6851 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_target> ;
+    skos:prefLabel "Test target" ;
+    skos:related ocs:C13065,
+        ocs:C24211,
+        ocs:C31013,
+        ocs:C38868,
+        ocs:C5297,
+        ocs:C6942,
+        ocs:C797 .
+

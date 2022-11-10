@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15957 a skos:Concept ;
+    skos:broader ocs:C8172 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reuleaux_tetrahedron> ;
+    skos:prefLabel "Reuleaux tetrahedron" ;
+    skos:related ocs:C35312,
+        ocs:C36899 .
+

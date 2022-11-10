@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11391 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bokeh> ;
+    skos:prefLabel "Bokeh" ;
+    skos:related ocs:C11324,
+        ocs:C11935,
+        ocs:C1394,
+        ocs:C19180 .
+

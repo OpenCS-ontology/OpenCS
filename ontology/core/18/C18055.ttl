@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18055 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:prefLabel "Molecular Computations" ;
+    skos:related ocs:C20120,
+        ocs:C25,
+        ocs:C29,
+        ocs:C5181,
+        ocs:C8 .
+

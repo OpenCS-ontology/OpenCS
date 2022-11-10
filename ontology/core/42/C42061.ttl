@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42061 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/PaPeRo> ;
+    skos:prefLabel "PaPeRo" ;
+    skos:related ocs:C10394,
+        ocs:C10396,
+        ocs:C16011,
+        ocs:C19558,
+        ocs:C20576,
+        ocs:C23845,
+        ocs:C31062,
+        ocs:C36206,
+        ocs:C36316,
+        ocs:C37695,
+        ocs:C3808,
+        ocs:C3900,
+        ocs:C41001,
+        ocs:C41862,
+        ocs:C42415,
+        ocs:C45035,
+        ocs:C45473,
+        ocs:C8012 .
+

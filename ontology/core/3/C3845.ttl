@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3845 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evaluation_strategy> ;
+    skos:prefLabel "Evaluation strategy" ;
+    skos:related ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C25684,
+        ocs:C4321,
+        ocs:C4937,
+        ocs:C5049,
+        ocs:C6024,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C8616 .
+

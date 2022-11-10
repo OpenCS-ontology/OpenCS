@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C214 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Police vehicle" ;
+    skos:related ocs:C12641,
+        ocs:C2,
+        ocs:C22,
+        ocs:C2543,
+        ocs:C3,
+        ocs:C33,
+        ocs:C35,
+        ocs:C3511,
+        ocs:C4099 .
+

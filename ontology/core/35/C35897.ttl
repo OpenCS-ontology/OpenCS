@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35897 a skos:Concept ;
+    skos:broader ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-UTRA> ;
+    skos:prefLabel "E-UTRA" ;
+    skos:related ocs:C17999,
+        ocs:C19721,
+        ocs:C23025,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C28176,
+        ocs:C29697,
+        ocs:C31996,
+        ocs:C32302,
+        ocs:C32715,
+        ocs:C32846,
+        ocs:C35692,
+        ocs:C37303,
+        ocs:C38053,
+        ocs:C4104,
+        ocs:C41460,
+        ocs:C42210,
+        ocs:C9154 .
+

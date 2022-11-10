@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38944 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emitter-coupled_logic> ;
+    skos:prefLabel "Emitter-coupled logic" ;
+    skos:related ocs:C10320,
+        ocs:C11252,
+        ocs:C2478,
+        ocs:C35269,
+        ocs:C40172,
+        ocs:C40416,
+        ocs:C45121,
+        ocs:C7735,
+        ocs:C856 .
+

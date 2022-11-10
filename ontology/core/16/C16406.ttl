@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16406 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_map_(graph_theory)> ;
+    skos:prefLabel "Regular map" ;
+    skos:related ocs:C34506,
+        ocs:C36503,
+        ocs:C39545,
+        ocs:C43720 .
+

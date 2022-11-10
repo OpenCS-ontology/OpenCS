@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5400 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speedwriting> ;
+    skos:prefLabel "Speedwriting" ;
+    skos:related ocs:C12063,
+        ocs:C13167,
+        ocs:C1955,
+        ocs:C19754,
+        ocs:C2025,
+        ocs:C4230,
+        ocs:C5262,
+        ocs:C5862,
+        ocs:C637,
+        ocs:C9045 .
+

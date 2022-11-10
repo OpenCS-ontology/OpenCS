@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43040 a skos:Concept ;
+    skos:broader ocs:C31556 ;
+    skos:prefLabel "Perineurial permeability" ;
+    skos:related ocs:C14226,
+        ocs:C22690 .
+

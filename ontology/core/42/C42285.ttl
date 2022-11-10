@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42285 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C34752,
+        ocs:C36136,
+        ocs:C37517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Derived_unique_key_per_transaction> ;
+    skos:prefLabel "Derived unique key per transaction" ;
+    skos:related ocs:C11594,
+        ocs:C16983,
+        ocs:C17314,
+        ocs:C20993,
+        ocs:C21603,
+        ocs:C22251,
+        ocs:C26581,
+        ocs:C27571,
+        ocs:C31774,
+        ocs:C36136,
+        ocs:C38359,
+        ocs:C38999,
+        ocs:C40332,
+        ocs:C40476,
+        ocs:C41425,
+        ocs:C4218,
+        ocs:C42286,
+        ocs:C43814,
+        ocs:C43934,
+        ocs:C44775 .
+

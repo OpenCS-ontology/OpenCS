@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42557 a skos:Concept ;
+    skos:broader ocs:C31990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Picture_Transfer_Protocol> ;
+    skos:prefLabel "PTP protocol" ;
+    skos:related ocs:C10052,
+        ocs:C11144,
+        ocs:C159,
+        ocs:C18802,
+        ocs:C27832,
+        ocs:C28282,
+        ocs:C29572,
+        ocs:C3233,
+        ocs:C3236,
+        ocs:C33,
+        ocs:C3901,
+        ocs:C490,
+        ocs:C6753,
+        ocs:C6999,
+        ocs:C7,
+        ocs:C7006,
+        ocs:C8,
+        ocs:C9427 .
+

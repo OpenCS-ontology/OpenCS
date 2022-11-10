@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44563 a skos:Concept ;
+    skos:broader ocs:C34542,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tutte_12-cage> ;
+    skos:prefLabel "Tutte 12-cage" ;
+    skos:related ocs:C38321,
+        ocs:C39110,
+        ocs:C39190,
+        ocs:C39615,
+        ocs:C39622,
+        ocs:C39783,
+        ocs:C40560,
+        ocs:C41969,
+        ocs:C42281,
+        ocs:C42730,
+        ocs:C43097,
+        ocs:C44281,
+        ocs:C45361,
+        ocs:C45648 .
+

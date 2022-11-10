@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38159 a skos:Concept ;
+    skos:broader ocs:C29969,
+        ocs:C33104,
+        ocs:C33960,
+        ocs:C35575,
+        ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_Technical_Implementation_Guide> ;
+    skos:prefLabel "Security Technical Implementation Guide" ;
+    skos:related ocs:C1399,
+        ocs:C25176,
+        ocs:C35,
+        ocs:C35810,
+        ocs:C38530,
+        ocs:C39016,
+        ocs:C41901,
+        ocs:C6 .
+

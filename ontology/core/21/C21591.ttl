@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21591 a skos:Concept ;
+    skos:broader ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Library_publishing> ;
+    skos:prefLabel "Library publishing" ;
+    skos:related ocs:C11462,
+        ocs:C11595,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C15008,
+        ocs:C1622,
+        ocs:C16878,
+        ocs:C17068,
+        ocs:C24639,
+        ocs:C25430,
+        ocs:C34236,
+        ocs:C37598,
+        ocs:C41375,
+        ocs:C5312,
+        ocs:C9096,
+        ocs:C9218 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40042 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C32720,
+        ocs:C36508,
+        ocs:C36913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_analytics> ;
+    skos:prefLabel "Semantic analytics" ;
+    skos:related ocs:C1319,
+        ocs:C20372,
+        ocs:C28117,
+        ocs:C2931,
+        ocs:C30368,
+        ocs:C32788,
+        ocs:C33916,
+        ocs:C3736,
+        ocs:C38059,
+        ocs:C3854,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C41864,
+        ocs:C42124,
+        ocs:C42885,
+        ocs:C43138,
+        ocs:C44161,
+        ocs:C4692,
+        ocs:C6553,
+        ocs:C9836 .
+

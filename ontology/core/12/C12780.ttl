@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12780 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallel_algorithm> ;
+    skos:prefLabel "Parallel algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12690,
+        ocs:C14693,
+        ocs:C18358,
+        ocs:C19525,
+        ocs:C19685,
+        ocs:C198,
+        ocs:C22879,
+        ocs:C2315,
+        ocs:C24700,
+        ocs:C27,
+        ocs:C29,
+        ocs:C30,
+        ocs:C3514,
+        ocs:C4155,
+        ocs:C5722,
+        ocs:C7735,
+        ocs:C8204,
+        ocs:C8660 .
+

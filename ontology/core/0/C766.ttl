@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C766 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISCC–NBS_system> ;
+    skos:prefLabel "ISCC–NBS system" ;
+    skos:related ocs:C12849,
+        ocs:C20137,
+        ocs:C2074,
+        ocs:C24598,
+        ocs:C24888,
+        ocs:C3743,
+        ocs:C40987,
+        ocs:C44943,
+        ocs:C5469,
+        ocs:C8099 .
+

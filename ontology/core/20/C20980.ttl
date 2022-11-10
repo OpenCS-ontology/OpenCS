@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20980 a skos:Concept ;
+    skos:broader ocs:C5659 ;
+    skos:closeMatch <http://dbpedia.org/resource/BCK_algebra> ;
+    skos:prefLabel "BCK algebra" ;
+    skos:related ocs:C11706,
+        ocs:C22333,
+        ocs:C29495,
+        ocs:C32881,
+        ocs:C38533,
+        ocs:C42207,
+        ocs:C42338 .
+

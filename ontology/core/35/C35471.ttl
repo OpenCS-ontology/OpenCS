@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35471 a skos:Concept ;
+    skos:broader ocs:C20621,
+        ocs:C24968,
+        ocs:C25046 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sonority_Sequencing_Principle> ;
+    skos:prefLabel "Sonority Sequencing Principle" ;
+    skos:related ocs:C10570,
+        ocs:C12222,
+        ocs:C13096,
+        ocs:C18386,
+        ocs:C18736,
+        ocs:C2025,
+        ocs:C20620,
+        ocs:C20621,
+        ocs:C23569,
+        ocs:C24968,
+        ocs:C25046,
+        ocs:C32233,
+        ocs:C37693 .
+

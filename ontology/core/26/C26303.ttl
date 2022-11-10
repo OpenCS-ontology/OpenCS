@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26303 a skos:Concept ;
+    skos:broader ocs:C11668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulation-based_acquisition> ;
+    skos:prefLabel "Simulation-based acquisition" ;
+    skos:related ocs:C11668,
+        ocs:C1253,
+        ocs:C1502,
+        ocs:C16898,
+        ocs:C21250,
+        ocs:C2373,
+        ocs:C8458 .
+

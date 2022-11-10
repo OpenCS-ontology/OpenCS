@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32263 a skos:Concept ;
+    skos:broader ocs:C21142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_retinal_display> ;
+    skos:prefLabel "Virtual retinal display" ;
+    skos:related ocs:C12636,
+        ocs:C13320,
+        ocs:C13856,
+        ocs:C15986,
+        ocs:C16,
+        ocs:C2166,
+        ocs:C2883,
+        ocs:C31110,
+        ocs:C34997,
+        ocs:C39979,
+        ocs:C5162,
+        ocs:C9601,
+        ocs:C9603 .
+

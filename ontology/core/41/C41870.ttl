@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41870 a skos:Concept ;
+    skos:broader ocs:C30078,
+        ocs:C32522,
+        ocs:C33729 ;
+    skos:closeMatch <http://dbpedia.org/resource/TMPDIR> ;
+    skos:prefLabel "TMPDIR" ;
+    skos:related ocs:C1165,
+        ocs:C14271,
+        ocs:C19902,
+        ocs:C24871,
+        ocs:C27120,
+        ocs:C273,
+        ocs:C31489,
+        ocs:C34914,
+        ocs:C36188,
+        ocs:C39279,
+        ocs:C41115,
+        ocs:C41970,
+        ocs:C43822,
+        ocs:C45497,
+        ocs:C4813,
+        ocs:C8782,
+        ocs:C9 .
+

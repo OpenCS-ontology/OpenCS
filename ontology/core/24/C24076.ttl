@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24076 a skos:Concept ;
+    skos:broader ocs:C1864,
+        ocs:C6591,
+        ocs:C7518,
+        ocs:C9427 ;
+    skos:prefLabel "Underdetermined source separation" .
+

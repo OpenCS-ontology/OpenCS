@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26304 a skos:Concept ;
+    skos:broader ocs:C2761 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phono-semantic_matching> ;
+    skos:prefLabel "Phono-semantic matching" ;
+    skos:related ocs:C12486,
+        ocs:C1451,
+        ocs:C14998,
+        ocs:C2578,
+        ocs:C26019,
+        ocs:C2847,
+        ocs:C3580,
+        ocs:C3741,
+        ocs:C3888,
+        ocs:C5628 .
+

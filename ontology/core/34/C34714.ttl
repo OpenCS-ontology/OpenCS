@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34714 a skos:Concept ;
+    skos:broader ocs:C14579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Qualitative_comparative_analysis> ;
+    skos:prefLabel "Qualitative comparative analysis" ;
+    skos:related ocs:C12238,
+        ocs:C12811,
+        ocs:C18522,
+        ocs:C4752,
+        ocs:C7908,
+        ocs:C9378,
+        ocs:C9488 .
+

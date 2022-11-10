@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28736 a skos:Concept ;
+    skos:broader ocs:C8561 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deformable_mirror> ;
+    skos:prefLabel "Deformable mirror" ;
+    skos:related ocs:C14237,
+        ocs:C16393,
+        ocs:C24698,
+        ocs:C26152,
+        ocs:C33827,
+        ocs:C35504,
+        ocs:C597,
+        ocs:C8561 .
+

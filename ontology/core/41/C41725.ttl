@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41725 a skos:Concept ;
+    skos:broader ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telecommunications_Access_Method> ;
+    skos:prefLabel "Telecommunications Access Method" ;
+    skos:related ocs:C10496,
+        ocs:C12218,
+        ocs:C13101,
+        ocs:C25632,
+        ocs:C35529,
+        ocs:C38773,
+        ocs:C4046,
+        ocs:C4093,
+        ocs:C41812,
+        ocs:C42165,
+        ocs:C42309,
+        ocs:C45123,
+        ocs:C7105,
+        ocs:C7865,
+        ocs:C8699,
+        ocs:C9035 .
+

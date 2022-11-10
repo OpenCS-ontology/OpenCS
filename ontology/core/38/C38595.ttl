@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38595 a skos:Concept ;
+    skos:broader ocs:C30079 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_(arrow_of_time)> ;
+    skos:prefLabel "Entropy (arrow of time)" ;
+    skos:related ocs:C30079,
+        ocs:C39363,
+        ocs:C42951 .
+

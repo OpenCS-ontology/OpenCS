@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35341 a skos:Concept ;
+    skos:broader ocs:C19506,
+        ocs:C22221 ;
+    skos:closeMatch <http://dbpedia.org/resource/Riffle-pool_sequence> ;
+    skos:prefLabel "Riffle-pool sequence" ;
+    skos:related ocs:C14117,
+        ocs:C19813,
+        ocs:C20613,
+        ocs:C22221,
+        ocs:C28088 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26770 a skos:Concept ;
+    skos:broader ocs:C13096,
+        ocs:C2025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monosyllabic_language> ;
+    skos:prefLabel "Monosyllabic language" ;
+    skos:related ocs:C13096,
+        ocs:C1313,
+        ocs:C15491,
+        ocs:C17262,
+        ocs:C17395,
+        ocs:C19159,
+        ocs:C2025,
+        ocs:C20621,
+        ocs:C32233,
+        ocs:C33326,
+        ocs:C35471,
+        ocs:C6505 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2107 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Daylight_saving_time> ;
+    skos:prefLabel "Daylight saving time" ;
+    skos:related ocs:C11251,
+        ocs:C19672,
+        ocs:C24213,
+        ocs:C2424,
+        ocs:C7648,
+        ocs:C8560,
+        ocs:C9026 .
+

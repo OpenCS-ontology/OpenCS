@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34892 a skos:Concept ;
+    skos:broader ocs:C16917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_forcing> ;
+    skos:prefLabel "Cloud forcing" ;
+    skos:related ocs:C31544,
+        ocs:C42238 .
+

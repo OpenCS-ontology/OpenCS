@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37517 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C27571 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_space_(cryptography)> ;
+    skos:prefLabel "Key space" ;
+    skos:related ocs:C16690,
+        ocs:C16983,
+        ocs:C18948,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30922,
+        ocs:C31774,
+        ocs:C33426,
+        ocs:C34052,
+        ocs:C38999,
+        ocs:C40332,
+        ocs:C40476,
+        ocs:C40900,
+        ocs:C41929,
+        ocs:C4218,
+        ocs:C44625,
+        ocs:C45688,
+        ocs:C5052 .
+

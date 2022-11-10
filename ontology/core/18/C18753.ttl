@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18753 a skos:Concept ;
+    skos:broader ocs:C12737,
+        ocs:C546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transfer_entropy> ;
+    skos:prefLabel "Transfer entropy" ;
+    skos:related ocs:C10509,
+        ocs:C21931,
+        ocs:C23748,
+        ocs:C260,
+        ocs:C26690,
+        ocs:C27825,
+        ocs:C411,
+        ocs:C44674,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9428 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8861 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elastic_interface_bus> ;
+    skos:prefLabel "Elastic interface bus" ;
+    skos:related ocs:C11047,
+        ocs:C11258,
+        ocs:C12918,
+        ocs:C14211,
+        ocs:C14856,
+        ocs:C20178,
+        ocs:C22530,
+        ocs:C38463,
+        ocs:C39646,
+        ocs:C41469,
+        ocs:C44598,
+        ocs:C4701,
+        ocs:C5463,
+        ocs:C6341 .
+

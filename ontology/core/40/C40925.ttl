@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40925 a skos:Concept ;
+    skos:broader ocs:C32808,
+        ocs:C33409,
+        ocs:C33982 ;
+    skos:closeMatch <http://dbpedia.org/resource/NL-complete> ;
+    skos:prefLabel "NL-complete" ;
+    skos:related ocs:C11250,
+        ocs:C16696,
+        ocs:C20382,
+        ocs:C2420,
+        ocs:C25360,
+        ocs:C31761,
+        ocs:C32808,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C39136,
+        ocs:C39640,
+        ocs:C39938,
+        ocs:C39984,
+        ocs:C40333,
+        ocs:C41642,
+        ocs:C44597,
+        ocs:C44665,
+        ocs:C45245,
+        ocs:C5193 .
+

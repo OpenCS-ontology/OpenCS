@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3579 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abductive_reasoning> ;
+    skos:prefLabel "Abductive reasoning" ;
+    skos:related ocs:C10551,
+        ocs:C10825,
+        ocs:C1092,
+        ocs:C11088,
+        ocs:C126,
+        ocs:C14620,
+        ocs:C20246,
+        ocs:C21481,
+        ocs:C5507,
+        ocs:C8 .
+

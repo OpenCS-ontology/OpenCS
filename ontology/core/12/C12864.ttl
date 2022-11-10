@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12864 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Confusion_matrix> ;
+    skos:prefLabel "Confusion matrix" ;
+    skos:related ocs:C11030,
+        ocs:C15879,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C22982,
+        ocs:C23929,
+        ocs:C24024,
+        ocs:C25,
+        ocs:C28516,
+        ocs:C3056,
+        ocs:C3512,
+        ocs:C38726,
+        ocs:C39025,
+        ocs:C41275,
+        ocs:C4256,
+        ocs:C5637,
+        ocs:C6021,
+        ocs:C9874 .
+

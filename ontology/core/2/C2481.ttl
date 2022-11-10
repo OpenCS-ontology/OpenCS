@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2481 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bennett,_Alpert,_and_Goldstein’s_S> ;
+    skos:prefLabel "Bennett, Alpert, and Goldstein’s S" ;
+    skos:related ocs:C12765,
+        ocs:C26527,
+        ocs:C4256,
+        ocs:C4479,
+        ocs:C45684,
+        ocs:C8456 .
+

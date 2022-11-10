@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13872 a skos:Concept ;
+    skos:broader ocs:C6756 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_segmentation> ;
+    skos:prefLabel "Text segmentation" ;
+    skos:related ocs:C1040,
+        ocs:C1451,
+        ocs:C16,
+        ocs:C1842,
+        ocs:C19159,
+        ocs:C19459,
+        ocs:C2023,
+        ocs:C2209,
+        ocs:C23422,
+        ocs:C23474,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C38566,
+        ocs:C428,
+        ocs:C4397,
+        ocs:C5852,
+        ocs:C5862,
+        ocs:C8710 .
+

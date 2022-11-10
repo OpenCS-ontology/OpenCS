@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32552 a skos:Concept ;
+    skos:broader ocs:C15030,
+        ocs:C24151 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_antenna> ;
+    skos:prefLabel "Smart antenna" ;
+    skos:related ocs:C1337,
+        ocs:C14099,
+        ocs:C17653,
+        ocs:C19721,
+        ocs:C19905,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C30728,
+        ocs:C32844,
+        ocs:C32989,
+        ocs:C33607,
+        ocs:C34685,
+        ocs:C34903,
+        ocs:C35532,
+        ocs:C38830,
+        ocs:C44950,
+        ocs:C7909,
+        ocs:C8273,
+        ocs:C8935 .
+

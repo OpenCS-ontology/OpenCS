@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42787 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_stream_clustering> ;
+    skos:prefLabel "Data stream clustering" ;
+    skos:related ocs:C10382,
+        ocs:C14252,
+        ocs:C16054,
+        ocs:C20811,
+        ocs:C26767,
+        ocs:C29024,
+        ocs:C29574,
+        ocs:C30082,
+        ocs:C3286,
+        ocs:C35693,
+        ocs:C38213,
+        ocs:C38914,
+        ocs:C40296,
+        ocs:C41773,
+        ocs:C42682,
+        ocs:C45859,
+        ocs:C5823,
+        ocs:C6608,
+        ocs:C9594 .
+

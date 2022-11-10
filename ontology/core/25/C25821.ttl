@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25821 a skos:Concept ;
+    skos:broader ocs:C10052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Workflow_technology> ;
+    skos:prefLabel "Workflow technology" ;
+    skos:related ocs:C10052,
+        ocs:C1264,
+        ocs:C15457,
+        ocs:C29478,
+        ocs:C30649,
+        ocs:C34572,
+        ocs:C36207 .
+

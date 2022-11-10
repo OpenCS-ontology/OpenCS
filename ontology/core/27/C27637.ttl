@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27637 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C1451,
+        ocs:C8564 ;
+    skos:prefLabel "Syntax definition" .
+

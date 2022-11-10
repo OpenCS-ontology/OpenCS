@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11751 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Archivist> ;
+    skos:prefLabel "Archivist" ;
+    skos:related ocs:C1090,
+        ocs:C15008,
+        ocs:C17514,
+        ocs:C2862,
+        ocs:C3896,
+        ocs:C39,
+        ocs:C4,
+        ocs:C4335,
+        ocs:C5031,
+        ocs:C8639,
+        ocs:C9892 .
+

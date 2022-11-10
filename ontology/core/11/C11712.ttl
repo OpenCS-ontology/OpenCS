@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11712 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brown_Corpus> ;
+    skos:prefLabel "Brown Corpus" ;
+    skos:related ocs:C12696,
+        ocs:C15475,
+        ocs:C18176,
+        ocs:C1948,
+        ocs:C20098,
+        ocs:C22964,
+        ocs:C2358,
+        ocs:C23894,
+        ocs:C32,
+        ocs:C5852,
+        ocs:C8454,
+        ocs:C936,
+        ocs:C961 .
+

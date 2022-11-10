@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22776 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payment_terminal> ;
+    skos:prefLabel "Payment terminal" ;
+    skos:related ocs:C10270,
+        ocs:C11389,
+        ocs:C12698,
+        ocs:C14011,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C21054,
+        ocs:C25306,
+        ocs:C28781,
+        ocs:C29023,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C37095,
+        ocs:C44105,
+        ocs:C44448,
+        ocs:C45140,
+        ocs:C8437,
+        ocs:C9113 .
+

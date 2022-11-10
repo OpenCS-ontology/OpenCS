@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5084 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persistence_of_vision> ;
+    skos:prefLabel "Persistence of vision" ;
+    skos:related ocs:C13509,
+        ocs:C13679,
+        ocs:C15700,
+        ocs:C2883,
+        ocs:C3121,
+        ocs:C622,
+        ocs:C653,
+        ocs:C9027 .
+

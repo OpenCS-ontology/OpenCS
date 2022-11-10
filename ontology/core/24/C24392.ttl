@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24392 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/MPEG_Surround> ;
+    skos:prefLabel "MPEG Surround" ;
+    skos:related ocs:C10881,
+        ocs:C11214,
+        ocs:C11323,
+        ocs:C15341,
+        ocs:C19334,
+        ocs:C21413,
+        ocs:C26768,
+        ocs:C29048,
+        ocs:C31114,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C34697,
+        ocs:C36139,
+        ocs:C36912,
+        ocs:C37689,
+        ocs:C44962 .
+

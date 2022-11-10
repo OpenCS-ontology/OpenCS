@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33223 a skos:Concept ;
+    skos:broader ocs:C15405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oseledets_theorem> ;
+    skos:prefLabel "Oseledets theorem" ;
+    skos:related ocs:C14592,
+        ocs:C15405,
+        ocs:C17651,
+        ocs:C18113,
+        ocs:C33560,
+        ocs:C45503 .
+

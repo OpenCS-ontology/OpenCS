@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24384 a skos:Concept ;
+    skos:broader ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kaplan–Yorke_map> ;
+    skos:prefLabel "Kaplan–Yorke map" ;
+    skos:related ocs:C13992,
+        ocs:C14592,
+        ocs:C16955,
+        ocs:C19303,
+        ocs:C27040,
+        ocs:C27396,
+        ocs:C27430,
+        ocs:C30833,
+        ocs:C34416,
+        ocs:C37144,
+        ocs:C37723 .
+

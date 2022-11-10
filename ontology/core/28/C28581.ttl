@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28581 a skos:Concept ;
+    skos:broader ocs:C2304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_integration> ;
+    skos:prefLabel "Enterprise integration" ;
+    skos:related ocs:C197,
+        ocs:C29840,
+        ocs:C29983,
+        ocs:C3395,
+        ocs:C34421,
+        ocs:C38217,
+        ocs:C38363,
+        ocs:C39686,
+        ocs:C42767,
+        ocs:C42780,
+        ocs:C44859,
+        ocs:C45389,
+        ocs:C4768 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16316 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_anticoincidence> ;
+    skos:prefLabel "Electronic anticoincidence" ;
+    skos:related ocs:C16020,
+        ocs:C19524,
+        ocs:C25787,
+        ocs:C25872,
+        ocs:C35735 .
+

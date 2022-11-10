@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31632 a skos:Concept ;
+    skos:broader ocs:C13874,
+        ocs:C18753,
+        ocs:C27705,
+        ocs:C27825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_theory_and_measure_theory> ;
+    skos:prefLabel "Information theory and measure theory" ;
+    skos:related ocs:C10767,
+        ocs:C13874,
+        ocs:C1844,
+        ocs:C26690,
+        ocs:C27705,
+        ocs:C30657,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9326 .
+

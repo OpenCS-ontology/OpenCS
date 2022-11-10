@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21377 a skos:Concept ;
+    skos:broader ocs:C5610 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_space_enumeration> ;
+    skos:prefLabel "State space enumeration" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C12098,
+        ocs:C12427,
+        ocs:C13408,
+        ocs:C21257,
+        ocs:C26693,
+        ocs:C36771,
+        ocs:C4006,
+        ocs:C45249,
+        ocs:C4756,
+        ocs:C5561,
+        ocs:C6941,
+        ocs:C7126,
+        ocs:C7903,
+        ocs:C8786,
+        ocs:C9450 .
+

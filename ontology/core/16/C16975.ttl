@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16975 a skos:Concept ;
+    skos:broader ocs:C6692,
+        ocs:C7653 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expected_value_of_sample_information> ;
+    skos:prefLabel "Expected value of sample information" ;
+    skos:related ocs:C14620,
+        ocs:C22258,
+        ocs:C22495,
+        ocs:C28342,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C3753,
+        ocs:C41130,
+        ocs:C6291,
+        ocs:C7652,
+        ocs:C7653,
+        ocs:C9608 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20285 a skos:Concept ;
+    skos:broader ocs:C545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_products> ;
+    skos:prefLabel "Smart products" ;
+    skos:related ocs:C1,
+        ocs:C11934,
+        ocs:C1338,
+        ocs:C16918,
+        ocs:C17536,
+        ocs:C22927,
+        ocs:C28598,
+        ocs:C35206,
+        ocs:C4917,
+        ocs:C8,
+        ocs:C9047 .
+

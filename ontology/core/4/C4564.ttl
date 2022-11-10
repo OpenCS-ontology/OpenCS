@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4564 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weak_AI> ;
+    skos:prefLabel "Weak AI" ;
+    skos:related ocs:C11381,
+        ocs:C13328,
+        ocs:C16,
+        ocs:C20377,
+        ocs:C23335,
+        ocs:C25,
+        ocs:C31062,
+        ocs:C32,
+        ocs:C3848,
+        ocs:C39641,
+        ocs:C40194,
+        ocs:C4269,
+        ocs:C43472,
+        ocs:C43845,
+        ocs:C44765,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C8965 .
+

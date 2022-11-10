@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32587 a skos:Concept ;
+    skos:broader ocs:C14423 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perlocutionary_act> ;
+    skos:prefLabel "Perlocutionary act" ;
+    skos:related ocs:C14423,
+        ocs:C15313,
+        ocs:C22966,
+        ocs:C23333,
+        ocs:C25495,
+        ocs:C39863,
+        ocs:C6028,
+        ocs:C7467 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36076 a skos:Concept ;
+    skos:broader ocs:C21364,
+        ocs:C24137 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blind_equalization> ;
+    skos:prefLabel "Blind equalization" ;
+    skos:related ocs:C11150,
+        ocs:C123,
+        ocs:C1449,
+        ocs:C23968,
+        ocs:C27181,
+        ocs:C44927,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C6110,
+        ocs:C7502,
+        ocs:C836 .
+

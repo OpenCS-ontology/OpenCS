@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9379 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_architecture_simulator> ;
+    skos:prefLabel "Computer architecture simulator" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12690,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C19699,
+        ocs:C20261,
+        ocs:C21718,
+        ocs:C24,
+        ocs:C25171,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C41159,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

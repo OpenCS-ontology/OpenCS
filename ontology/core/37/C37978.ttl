@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37978 a skos:Concept ;
+    skos:broader ocs:C31455,
+        ocs:C33416,
+        ocs:C34584 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hash_list> ;
+    skos:prefLabel "Hash list" ;
+    skos:related ocs:C11540,
+        ocs:C12485,
+        ocs:C14223,
+        ocs:C15591,
+        ocs:C16369,
+        ocs:C17903,
+        ocs:C21625,
+        ocs:C23875,
+        ocs:C26239,
+        ocs:C26410,
+        ocs:C26456,
+        ocs:C33416,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C3936,
+        ocs:C4026,
+        ocs:C4129,
+        ocs:C4218,
+        ocs:C6356 .
+

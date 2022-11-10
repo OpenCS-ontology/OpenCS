@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35771 a skos:Concept ;
+    skos:broader ocs:C14011,
+        ocs:C28424 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ecash> ;
+    skos:prefLabel "ecash" ;
+    skos:related ocs:C12510,
+        ocs:C14011,
+        ocs:C16125,
+        ocs:C21324,
+        ocs:C23073,
+        ocs:C23855,
+        ocs:C25749,
+        ocs:C26452,
+        ocs:C28212,
+        ocs:C32051,
+        ocs:C32299,
+        ocs:C32504,
+        ocs:C37069,
+        ocs:C37228,
+        ocs:C38681,
+        ocs:C4218,
+        ocs:C4252,
+        ocs:C45216,
+        ocs:C45673,
+        ocs:C8437 .
+

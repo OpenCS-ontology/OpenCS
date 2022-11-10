@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4107 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_frequency_line_trap> ;
+    skos:prefLabel "High frequency line trap" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C14154,
+        ocs:C27051,
+        ocs:C34130,
+        ocs:C7740 .
+

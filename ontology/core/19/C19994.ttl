@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19994 a skos:Concept ;
+    skos:broader ocs:C11814,
+        ocs:C1253,
+        ocs:C1449 ;
+    skos:closeMatch <http://dbpedia.org/resource/Texas_Instruments_DaVinci> ;
+    skos:prefLabel "Texas Instruments DaVinci" ;
+    skos:related ocs:C10320,
+        ocs:C11326,
+        ocs:C1149,
+        ocs:C11814,
+        ocs:C13970,
+        ocs:C15336,
+        ocs:C19487,
+        ocs:C19556,
+        ocs:C20961,
+        ocs:C26328,
+        ocs:C29530,
+        ocs:C31889,
+        ocs:C42977,
+        ocs:C43505,
+        ocs:C5912,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C8579 .
+

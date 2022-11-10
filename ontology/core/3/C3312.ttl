@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3312 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Invoice> ;
+    skos:prefLabel "Invoice" ;
+    skos:related ocs:C11389,
+        ocs:C11697,
+        ocs:C12752,
+        ocs:C14584,
+        ocs:C16292,
+        ocs:C24050,
+        ocs:C26014,
+        ocs:C32566,
+        ocs:C4768,
+        ocs:C5160 .
+

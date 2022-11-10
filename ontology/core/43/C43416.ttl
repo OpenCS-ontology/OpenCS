@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43416 a skos:Concept ;
+    skos:broader ocs:C33955 ;
+    skos:prefLabel "Kir channel activity" ;
+    skos:related ocs:C18138,
+        ocs:C23202,
+        ocs:C4099 .
+

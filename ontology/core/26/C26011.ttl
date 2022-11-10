@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26011 a skos:Concept ;
+    skos:broader ocs:C8390 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_Data_Protection_Regulation> ;
+    skos:prefLabel "General Data Protection Regulation" ;
+    skos:related ocs:C12011,
+        ocs:C12378,
+        ocs:C12434,
+        ocs:C14105,
+        ocs:C17575,
+        ocs:C28085,
+        ocs:C3255,
+        ocs:C32650,
+        ocs:C37237,
+        ocs:C38441,
+        ocs:C394,
+        ocs:C41140,
+        ocs:C45697,
+        ocs:C7510,
+        ocs:C8390 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6414 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inter-protocol_exploitation> ;
+    skos:prefLabel "Inter-protocol exploitation" ;
+    skos:related ocs:C13252,
+        ocs:C14810,
+        ocs:C19173,
+        ocs:C20540,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C29803,
+        ocs:C31,
+        ocs:C32229,
+        ocs:C35,
+        ocs:C39016,
+        ocs:C41498,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C8440,
+        ocs:C9274 .
+

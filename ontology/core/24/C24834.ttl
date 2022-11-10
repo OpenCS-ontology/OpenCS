@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24834 a skos:Concept ;
+    skos:broader ocs:C10917,
+        ocs:C13751 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path-ordering> ;
+    skos:prefLabel "Path-ordering" ;
+    skos:related ocs:C22400,
+        ocs:C23102,
+        ocs:C24854,
+        ocs:C29059,
+        ocs:C33115 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17245 a skos:Concept ;
+    skos:broader ocs:C9312 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_Word> ;
+    skos:prefLabel "Visual Word" ;
+    skos:related ocs:C13059,
+        ocs:C14082,
+        ocs:C1503,
+        ocs:C15482,
+        ocs:C23,
+        ocs:C248,
+        ocs:C3398,
+        ocs:C34234,
+        ocs:C37748,
+        ocs:C3896,
+        ocs:C42467,
+        ocs:C4595,
+        ocs:C5675,
+        ocs:C6915,
+        ocs:C9312 .
+

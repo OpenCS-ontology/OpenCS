@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33220 a skos:Concept ;
+    skos:broader ocs:C23748,
+        ocs:C24973,
+        ocs:C27825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_rate> ;
+    skos:prefLabel "Entropy rate" ;
+    skos:related ocs:C16333,
+        ocs:C1844,
+        ocs:C20860,
+        ocs:C23024,
+        ocs:C34661,
+        ocs:C37437,
+        ocs:C43658,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C6909,
+        ocs:C7689 .
+

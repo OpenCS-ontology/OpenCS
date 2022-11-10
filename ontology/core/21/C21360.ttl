@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21360 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_gel> ;
+    skos:prefLabel "Color gel" ;
+    skos:related ocs:C11044,
+        ocs:C12484,
+        ocs:C21415,
+        ocs:C30704,
+        ocs:C38868 .
+

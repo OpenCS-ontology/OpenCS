@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32466 a skos:Concept ;
+    skos:broader ocs:C20434 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packed_pixel> ;
+    skos:prefLabel "Packed pixel" ;
+    skos:related ocs:C10213,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C16993,
+        ocs:C17257,
+        ocs:C2434,
+        ocs:C28172,
+        ocs:C35166,
+        ocs:C36633,
+        ocs:C40306,
+        ocs:C44,
+        ocs:C45499,
+        ocs:C4916,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C9664 .
+

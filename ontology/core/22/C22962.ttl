@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22962 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unaccusative_verb> ;
+    skos:prefLabel "Unaccusative verb" ;
+    skos:related ocs:C14349,
+        ocs:C16635,
+        ocs:C16672,
+        ocs:C1739,
+        ocs:C21795,
+        ocs:C26467,
+        ocs:C29004,
+        ocs:C29763,
+        ocs:C30413,
+        ocs:C31043,
+        ocs:C5311,
+        ocs:C6545 .
+

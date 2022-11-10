@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C334 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Card_image> ;
+    skos:prefLabel "Card image" ;
+    skos:related ocs:C10772,
+        ocs:C11129,
+        ocs:C11531,
+        ocs:C12815,
+        ocs:C15673,
+        ocs:C24544,
+        ocs:C29427,
+        ocs:C3896,
+        ocs:C597,
+        ocs:C6072,
+        ocs:C6178,
+        ocs:C6714,
+        ocs:C9162 .
+

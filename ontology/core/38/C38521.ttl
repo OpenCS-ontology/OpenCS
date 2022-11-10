@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38521 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C33185,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Higher-order_programming> ;
+    skos:prefLabel "Higher-order programming" ;
+    skos:related ocs:C10219,
+        ocs:C10327,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C12108,
+        ocs:C12848,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C24909,
+        ocs:C27380,
+        ocs:C28783,
+        ocs:C31724,
+        ocs:C3845,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C8616,
+        ocs:C8751 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25065 a skos:Concept ;
+    skos:broader ocs:C6473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cold_ironing> ;
+    skos:prefLabel "Cold ironing" ;
+    skos:related ocs:C15851,
+        ocs:C18389 .
+

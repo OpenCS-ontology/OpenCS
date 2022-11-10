@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5056 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transportation_management_system> ;
+    skos:prefLabel "Transportation management system" ;
+    skos:related ocs:C26014,
+        ocs:C27567,
+        ocs:C28597,
+        ocs:C35701,
+        ocs:C4768,
+        ocs:C675,
+        ocs:C7106,
+        ocs:C8614 .
+

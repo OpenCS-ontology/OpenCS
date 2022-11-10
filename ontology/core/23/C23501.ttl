@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23501 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_fiber_placement> ;
+    skos:prefLabel "Advanced fiber placement" ;
+    skos:related ocs:C17241,
+        ocs:C20271,
+        ocs:C20415,
+        ocs:C22741,
+        ocs:C22967,
+        ocs:C28797,
+        ocs:C29216 .
+

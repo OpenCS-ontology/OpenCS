@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19019 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_japonica> ;
+    skos:prefLabel "Formica japonica" ;
+    skos:related ocs:C14496,
+        ocs:C18735,
+        ocs:C19235,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C22440,
+        ocs:C28251,
+        ocs:C30017,
+        ocs:C34293,
+        ocs:C34823 .
+

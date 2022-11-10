@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16593 a skos:Concept ;
+    skos:broader ocs:C2006,
+        ocs:C9423 ;
+    skos:closeMatch <http://dbpedia.org/resource/Block_upconverter> ;
+    skos:prefLabel "Block upconverter" ;
+    skos:related ocs:C10974,
+        ocs:C11201,
+        ocs:C1219,
+        ocs:C2581,
+        ocs:C37869,
+        ocs:C42274,
+        ocs:C4427,
+        ocs:C44664,
+        ocs:C44963,
+        ocs:C6474 .
+

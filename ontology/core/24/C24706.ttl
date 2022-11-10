@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24706 a skos:Concept ;
+    skos:broader ocs:C13793 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prisoners_and_hats_puzzle> ;
+    skos:prefLabel "Prisoners and hats puzzle" ;
+    skos:related ocs:C14955,
+        ocs:C14986,
+        ocs:C2418,
+        ocs:C34157,
+        ocs:C34745,
+        ocs:C42305,
+        ocs:C4594 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1322 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roofing_filter> ;
+    skos:prefLabel "Roofing filter" ;
+    skos:related ocs:C10409,
+        ocs:C1219,
+        ocs:C14053,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19342,
+        ocs:C23488,
+        ocs:C32519,
+        ocs:C33619,
+        ocs:C38701,
+        ocs:C43783,
+        ocs:C4427 .
+

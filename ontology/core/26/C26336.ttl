@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26336 a skos:Concept ;
+    skos:broader ocs:C10135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perennial_stream> ;
+    skos:prefLabel "Perennial stream" ;
+    skos:related ocs:C10213,
+        ocs:C13455,
+        ocs:C5708 .
+

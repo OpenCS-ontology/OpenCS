@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26715 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C9834 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dictum_de_omni_et_nullo> ;
+    skos:prefLabel "Dictum de omni et nullo" ;
+    skos:related ocs:C10825,
+        ocs:C11060,
+        ocs:C16037,
+        ocs:C21382,
+        ocs:C23668,
+        ocs:C26731,
+        ocs:C26760,
+        ocs:C27458,
+        ocs:C28014,
+        ocs:C35456,
+        ocs:C37516,
+        ocs:C45223,
+        ocs:C7343,
+        ocs:C9834 .
+

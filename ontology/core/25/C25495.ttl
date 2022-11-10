@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25495 a skos:Concept ;
+    skos:broader ocs:C6028 ;
+    skos:closeMatch <http://dbpedia.org/resource/Felicity_conditions> ;
+    skos:prefLabel "Felicity conditions" ;
+    skos:related ocs:C12437,
+        ocs:C14423,
+        ocs:C23333,
+        ocs:C28791,
+        ocs:C39863,
+        ocs:C6028,
+        ocs:C7467 .
+

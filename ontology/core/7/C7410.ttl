@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7410 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_analysis_(art)> ;
+    skos:prefLabel "Color analysis" ;
+    skos:related ocs:C12849,
+        ocs:C16339,
+        ocs:C16674,
+        ocs:C20137,
+        ocs:C2074,
+        ocs:C22083,
+        ocs:C24598,
+        ocs:C3743,
+        ocs:C5469,
+        ocs:C7522,
+        ocs:C766 .
+

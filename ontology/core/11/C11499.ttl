@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11499 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_explosion> ;
+    skos:prefLabel "Information explosion" ;
+    skos:related ocs:C10280,
+        ocs:C11087,
+        ocs:C11094,
+        ocs:C13003,
+        ocs:C13306,
+        ocs:C13380,
+        ocs:C197,
+        ocs:C22203,
+        ocs:C23,
+        ocs:C29542,
+        ocs:C32753,
+        ocs:C3696,
+        ocs:C3896,
+        ocs:C4916,
+        ocs:C5094,
+        ocs:C6944,
+        ocs:C7297,
+        ocs:C8410,
+        ocs:C8614,
+        ocs:C941 .
+

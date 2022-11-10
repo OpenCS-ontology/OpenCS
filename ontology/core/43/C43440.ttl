@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43440 a skos:Concept ;
+    skos:broader ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rogue_DHCP> ;
+    skos:prefLabel "Rogue DHCP" ;
+    skos:related ocs:C10911,
+        ocs:C12812,
+        ocs:C1595,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C26,
+        ocs:C28790,
+        ocs:C29359,
+        ocs:C30769,
+        ocs:C32724,
+        ocs:C38824,
+        ocs:C42100,
+        ocs:C42429,
+        ocs:C42609,
+        ocs:C43478,
+        ocs:C5207,
+        ocs:C5343,
+        ocs:C6002,
+        ocs:C7857 .
+

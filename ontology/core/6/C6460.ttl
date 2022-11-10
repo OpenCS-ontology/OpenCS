@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6460 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weber_problem> ;
+    skos:prefLabel "Weber problem" ;
+    skos:related ocs:C11441,
+        ocs:C21308,
+        ocs:C32418,
+        ocs:C41458 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14686 a skos:Concept ;
+    skos:broader ocs:C126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-classical_logic> ;
+    skos:prefLabel "Non-classical logic" ;
+    skos:related ocs:C10558,
+        ocs:C10825,
+        ocs:C11060,
+        ocs:C12474,
+        ocs:C126,
+        ocs:C17884,
+        ocs:C2411,
+        ocs:C2418,
+        ocs:C27896,
+        ocs:C32107,
+        ocs:C32129,
+        ocs:C39399,
+        ocs:C45548,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

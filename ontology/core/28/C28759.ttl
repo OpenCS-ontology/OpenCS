@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28759 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concurrency_pattern> ;
+    skos:prefLabel "Concurrency pattern" ;
+    skos:related ocs:C16530,
+        ocs:C20404,
+        ocs:C2415,
+        ocs:C25508,
+        ocs:C28,
+        ocs:C28341,
+        ocs:C3514,
+        ocs:C36310,
+        ocs:C36729,
+        ocs:C37822,
+        ocs:C40401,
+        ocs:C42782,
+        ocs:C43369,
+        ocs:C43722,
+        ocs:C43786,
+        ocs:C44286,
+        ocs:C5248,
+        ocs:C7870 .
+

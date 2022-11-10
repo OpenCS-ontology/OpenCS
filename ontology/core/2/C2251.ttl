@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2251 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_design> ;
+    skos:prefLabel "Functional design" ;
+    skos:related ocs:C10720,
+        ocs:C10779,
+        ocs:C15786,
+        ocs:C16530,
+        ocs:C24453,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28503,
+        ocs:C3175,
+        ocs:C35225,
+        ocs:C45120,
+        ocs:C5869,
+        ocs:C7000,
+        ocs:C7914 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7648 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_signal> ;
+    skos:prefLabel "Time signal" ;
+    skos:related ocs:C10409,
+        ocs:C12641,
+        ocs:C15824,
+        ocs:C19672,
+        ocs:C19751,
+        ocs:C2107,
+        ocs:C21978,
+        ocs:C22220,
+        ocs:C24213,
+        ocs:C27698,
+        ocs:C5618,
+        ocs:C5706,
+        ocs:C8560,
+        ocs:C9026 .
+

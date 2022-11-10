@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38923 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_diffusion_machine> ;
+    skos:prefLabel "Data diffusion machine" ;
+    skos:related ocs:C15860,
+        ocs:C17434,
+        ocs:C20267,
+        ocs:C22249,
+        ocs:C25960,
+        ocs:C26124,
+        ocs:C27,
+        ocs:C28764,
+        ocs:C40330,
+        ocs:C42634,
+        ocs:C42695,
+        ocs:C43877,
+        ocs:C5766,
+        ocs:C6312,
+        ocs:C8792,
+        ocs:C9486,
+        ocs:C9799 .
+

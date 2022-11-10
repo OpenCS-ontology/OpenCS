@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45745 a skos:Concept ;
+    skos:broader ocs:C36840 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_walk_closeness_centrality> ;
+    skos:prefLabel "Random walk closeness centrality" ;
+    skos:related ocs:C11026,
+        ocs:C14004,
+        ocs:C15047,
+        ocs:C18569,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C27831,
+        ocs:C28521,
+        ocs:C38246,
+        ocs:C40335,
+        ocs:C40786,
+        ocs:C40822,
+        ocs:C7810 .
+

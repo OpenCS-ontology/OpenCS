@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3081 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fürer's_algorithm> ;
+    skos:prefLabel "Fürer's algorithm" ;
+    skos:related ocs:C11308,
+        ocs:C11443,
+        ocs:C15418,
+        ocs:C33927,
+        ocs:C40241,
+        ocs:C5050,
+        ocs:C611,
+        ocs:C6128,
+        ocs:C6550,
+        ocs:C8581 .
+

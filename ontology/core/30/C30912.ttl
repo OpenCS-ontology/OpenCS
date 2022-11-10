@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30912 a skos:Concept ;
+    skos:broader ocs:C24826 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bleeding_order> ;
+    skos:prefLabel "Bleeding order" ;
+    skos:related ocs:C13210,
+        ocs:C14010,
+        ocs:C16930,
+        ocs:C17789,
+        ocs:C18386,
+        ocs:C20621,
+        ocs:C21948,
+        ocs:C24826,
+        ocs:C30537,
+        ocs:C33345,
+        ocs:C37693,
+        ocs:C5556,
+        ocs:C6784 .
+

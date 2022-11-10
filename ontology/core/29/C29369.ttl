@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29369 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wetware_(brain)> ;
+    skos:prefLabel "Wetware" ;
+    skos:related ocs:C11143,
+        ocs:C1253,
+        ocs:C13320,
+        ocs:C14032,
+        ocs:C17234,
+        ocs:C18256,
+        ocs:C35,
+        ocs:C9 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31697 a skos:Concept ;
+    skos:broader ocs:C21884,
+        ocs:C24782 ;
+    skos:closeMatch <http://dbpedia.org/resource/C-Star> ;
+    skos:prefLabel "C-Star" ;
+    skos:related ocs:C12641,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21379,
+        ocs:C21767,
+        ocs:C22535,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C30747,
+        ocs:C33072,
+        ocs:C34932,
+        ocs:C6589,
+        ocs:C9066 .
+

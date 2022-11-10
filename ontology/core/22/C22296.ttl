@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22296 a skos:Concept ;
+    skos:broader ocs:C3936,
+        ocs:C4257,
+        ocs:C5722 ;
+    skos:prefLabel "Dictionary problem" .
+

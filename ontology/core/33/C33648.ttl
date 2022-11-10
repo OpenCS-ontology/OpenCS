@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33648 a skos:Concept ;
+    skos:broader ocs:C25957 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code_cleanup> ;
+    skos:prefLabel "Code cleanup" ;
+    skos:related ocs:C12257,
+        ocs:C1333,
+        ocs:C14557,
+        ocs:C14707,
+        ocs:C16338,
+        ocs:C23310,
+        ocs:C24176,
+        ocs:C26456,
+        ocs:C27839,
+        ocs:C28080,
+        ocs:C2882,
+        ocs:C34716,
+        ocs:C39715,
+        ocs:C4778,
+        ocs:C4918,
+        ocs:C755,
+        ocs:C794 .
+

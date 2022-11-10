@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14366 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interaction_point> ;
+    skos:prefLabel "Interaction point" ;
+    skos:related ocs:C21331,
+        ocs:C21446,
+        ocs:C22996,
+        ocs:C27037,
+        ocs:C32279,
+        ocs:C35999 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27749 a skos:Concept ;
+    skos:broader ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/WBXML> ;
+    skos:prefLabel "WBXML" ;
+    skos:related ocs:C11305,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C18361,
+        ocs:C22597,
+        ocs:C24486,
+        ocs:C30145,
+        ocs:C30182,
+        ocs:C33052,
+        ocs:C33709,
+        ocs:C34007,
+        ocs:C34429,
+        ocs:C36500,
+        ocs:C37480,
+        ocs:C38446,
+        ocs:C40360,
+        ocs:C41750,
+        ocs:C42102,
+        ocs:C44479,
+        ocs:C5672 .
+

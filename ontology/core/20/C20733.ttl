@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20733 a skos:Concept ;
+    skos:broader ocs:C5251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cantor's_paradise> ;
+    skos:prefLabel "Cantor's paradise" ;
+    skos:related ocs:C11496,
+        ocs:C12474,
+        ocs:C1330,
+        ocs:C14955,
+        ocs:C19818,
+        ocs:C35569,
+        ocs:C36761 .
+

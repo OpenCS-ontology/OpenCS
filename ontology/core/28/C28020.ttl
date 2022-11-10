@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28020 a skos:Concept ;
+    skos:broader ocs:C4026,
+        ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airborne_collision_avoidance_system> ;
+    skos:prefLabel "Airborne collision avoidance system" ;
+    skos:related ocs:C12641,
+        ocs:C15050,
+        ocs:C18996,
+        ocs:C19500,
+        ocs:C20630,
+        ocs:C23082,
+        ocs:C23477,
+        ocs:C32221,
+        ocs:C36804,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C4754,
+        ocs:C5030,
+        ocs:C511,
+        ocs:C6117 .
+

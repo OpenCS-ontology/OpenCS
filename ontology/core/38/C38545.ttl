@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38545 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tutte_polynomial> ;
+    skos:prefLabel "Tutte polynomial" ;
+    skos:related ocs:C14693,
+        ocs:C17726,
+        ocs:C26989,
+        ocs:C30729,
+        ocs:C32757,
+        ocs:C33699,
+        ocs:C34542,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C39263,
+        ocs:C40560,
+        ocs:C40622,
+        ocs:C42087,
+        ocs:C42822,
+        ocs:C43374,
+        ocs:C45422 .
+

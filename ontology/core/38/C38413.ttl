@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38413 a skos:Concept ;
+    skos:broader ocs:C29899 ;
+    skos:closeMatch <http://dbpedia.org/resource/GERAN> ;
+    skos:prefLabel "GERAN" ;
+    skos:related ocs:C17999,
+        ocs:C21976,
+        ocs:C27704,
+        ocs:C28176,
+        ocs:C29899,
+        ocs:C29949,
+        ocs:C30309,
+        ocs:C31755,
+        ocs:C34908,
+        ocs:C35897,
+        ocs:C37065,
+        ocs:C38053,
+        ocs:C44506,
+        ocs:C44880,
+        ocs:C6240,
+        ocs:C6987,
+        ocs:C796,
+        ocs:C9113,
+        ocs:C9154 .
+

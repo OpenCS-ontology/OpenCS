@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42432 a skos:Concept ;
+    skos:broader ocs:C33104,
+        ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_bug> ;
+    skos:prefLabel "Security bug" ;
+    skos:related ocs:C10214,
+        ocs:C12257,
+        ocs:C17399,
+        ocs:C19358,
+        ocs:C23580,
+        ocs:C24596,
+        ocs:C2767,
+        ocs:C29314,
+        ocs:C31489,
+        ocs:C32485,
+        ocs:C35,
+        ocs:C39522,
+        ocs:C41901,
+        ocs:C45464,
+        ocs:C45494,
+        ocs:C4651,
+        ocs:C8440,
+        ocs:C9 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3509 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Media_monitoring> ;
+    skos:prefLabel "Media monitoring" ;
+    skos:related ocs:C11026,
+        ocs:C1132,
+        ocs:C11546,
+        ocs:C13,
+        ocs:C20992,
+        ocs:C25,
+        ocs:C32,
+        ocs:C35701,
+        ocs:C3736,
+        ocs:C7106 .
+

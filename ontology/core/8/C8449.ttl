@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8449 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Closest facility" ;
+    skos:related ocs:C1134,
+        ocs:C12641,
+        ocs:C3401,
+        ocs:C5423,
+        ocs:C932,
+        ocs:C9664 .
+

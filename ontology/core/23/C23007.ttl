@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23007 a skos:Concept ;
+    skos:broader ocs:C6753 ;
+    skos:prefLabel "Confidential communications" ;
+    skos:related ocs:C1399,
+        ocs:C17,
+        ocs:C25876,
+        ocs:C26831,
+        ocs:C28611,
+        ocs:C3,
+        ocs:C7006,
+        ocs:C7510,
+        ocs:C8614 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30079 a skos:Concept ;
+    skos:broader ocs:C24973,
+        ocs:C27825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_entropy_thermodynamics> ;
+    skos:prefLabel "Maximum entropy thermodynamics" ;
+    skos:related ocs:C10767,
+        ocs:C12737,
+        ocs:C14622,
+        ocs:C23748,
+        ocs:C30657,
+        ocs:C35113,
+        ocs:C38595,
+        ocs:C39363,
+        ocs:C42951,
+        ocs:C546,
+        ocs:C5816 .
+

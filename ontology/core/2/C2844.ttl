@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2844 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_slide> ;
+    skos:prefLabel "Virtual slide" ;
+    skos:related ocs:C14473,
+        ocs:C16954,
+        ocs:C22,
+        ocs:C27111,
+        ocs:C3032,
+        ocs:C41932,
+        ocs:C42232,
+        ocs:C653 .
+

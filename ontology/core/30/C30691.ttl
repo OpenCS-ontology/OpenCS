@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30691 a skos:Concept ;
+    skos:broader ocs:C22101 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delta_modulation> ;
+    skos:prefLabel "Delta modulation" ;
+    skos:related ocs:C10778,
+        ocs:C17433,
+        ocs:C1832,
+        ocs:C22096,
+        ocs:C22654,
+        ocs:C26268,
+        ocs:C26575,
+        ocs:C27649,
+        ocs:C30637,
+        ocs:C37917,
+        ocs:C40872,
+        ocs:C42272,
+        ocs:C5464,
+        ocs:C6775,
+        ocs:C7502 .
+

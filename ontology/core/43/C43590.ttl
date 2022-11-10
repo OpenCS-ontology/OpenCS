@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43590 a skos:Concept ;
+    skos:broader ocs:C30361 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poles_of_astronomical_bodies> ;
+    skos:prefLabel "Poles of astronomical bodies" ;
+    skos:related ocs:C30361,
+        ocs:C42498 .
+

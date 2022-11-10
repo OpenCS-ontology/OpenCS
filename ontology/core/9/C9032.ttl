@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9032 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Additive_model> ;
+    skos:prefLabel "Additive model" ;
+    skos:related ocs:C10138,
+        ocs:C1794,
+        ocs:C19045,
+        ocs:C22432,
+        ocs:C23228,
+        ocs:C25711,
+        ocs:C26888,
+        ocs:C27194,
+        ocs:C27703,
+        ocs:C28024,
+        ocs:C32775,
+        ocs:C34166,
+        ocs:C34747,
+        ocs:C36596,
+        ocs:C36983 .
+

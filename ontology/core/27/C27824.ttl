@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27824 a skos:Concept ;
+    skos:broader ocs:C5298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Financial_signal_processing> ;
+    skos:prefLabel "Financial signal processing" ;
+    skos:related ocs:C5298 .
+

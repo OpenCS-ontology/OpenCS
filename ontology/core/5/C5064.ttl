@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5064 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bottleneck_(production)> ;
+    skos:prefLabel "Bottleneck" ;
+    skos:related ocs:C10052,
+        ocs:C18624,
+        ocs:C19538,
+        ocs:C24,
+        ocs:C28021,
+        ocs:C36113 .
+

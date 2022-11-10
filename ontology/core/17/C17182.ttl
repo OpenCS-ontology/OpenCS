@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17182 a skos:Concept ;
+    skos:broader ocs:C13320 ;
+    skos:closeMatch <http://dbpedia.org/resource/VirtuSphere> ;
+    skos:prefLabel "VirtuSphere" ;
+    skos:related ocs:C13320,
+        ocs:C16728,
+        ocs:C18417,
+        ocs:C19724,
+        ocs:C21250,
+        ocs:C25022,
+        ocs:C2800,
+        ocs:C5300,
+        ocs:C9603 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2015 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Has-a> ;
+    skos:prefLabel "Has-a" ;
+    skos:related ocs:C10102,
+        ocs:C10182,
+        ocs:C10720,
+        ocs:C11117,
+        ocs:C1406,
+        ocs:C15230,
+        ocs:C17734,
+        ocs:C21265,
+        ocs:C2201,
+        ocs:C22259,
+        ocs:C32225,
+        ocs:C32549,
+        ocs:C35141,
+        ocs:C43378,
+        ocs:C6409,
+        ocs:C9046 .
+

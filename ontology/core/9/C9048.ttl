@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9048 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/WiFiDog_Captive_Portal> ;
+    skos:prefLabel "WiFiDog Captive Portal" ;
+    skos:related ocs:C15512,
+        ocs:C15865,
+        ocs:C16351,
+        ocs:C17592,
+        ocs:C20800,
+        ocs:C23303,
+        ocs:C2709,
+        ocs:C28022,
+        ocs:C31489,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C39948,
+        ocs:C40424,
+        ocs:C43202,
+        ocs:C44036,
+        ocs:C44092,
+        ocs:C44239,
+        ocs:C44617,
+        ocs:C44700,
+        ocs:C45852 .
+

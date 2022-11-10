@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5732 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wargame_(hacking)> ;
+    skos:prefLabel "Wargame" ;
+    skos:related ocs:C11447,
+        ocs:C14175,
+        ocs:C17647,
+        ocs:C29950,
+        ocs:C32485,
+        ocs:C3280,
+        ocs:C33379,
+        ocs:C35,
+        ocs:C36682,
+        ocs:C39307,
+        ocs:C39421,
+        ocs:C39423,
+        ocs:C39663,
+        ocs:C40409,
+        ocs:C41901,
+        ocs:C42100,
+        ocs:C45494 .
+

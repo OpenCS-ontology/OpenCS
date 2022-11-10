@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12098 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model_checking> ;
+    skos:prefLabel "Model checking" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C1253,
+        ocs:C13408,
+        ocs:C21257,
+        ocs:C2418,
+        ocs:C2721,
+        ocs:C27383,
+        ocs:C4756,
+        ocs:C5459,
+        ocs:C6346,
+        ocs:C7903,
+        ocs:C8,
+        ocs:C8791,
+        ocs:C9393,
+        ocs:C9450 .
+

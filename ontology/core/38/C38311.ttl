@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38311 a skos:Concept ;
+    skos:broader ocs:C34979 ;
+    skos:closeMatch <http://dbpedia.org/resource/CSIv2> ;
+    skos:prefLabel "CSIv2" ;
+    skos:related ocs:C11000,
+        ocs:C11152,
+        ocs:C132,
+        ocs:C14251,
+        ocs:C15478,
+        ocs:C17085,
+        ocs:C17238,
+        ocs:C22709,
+        ocs:C23663,
+        ocs:C24914,
+        ocs:C26106,
+        ocs:C29401,
+        ocs:C30,
+        ocs:C31894,
+        ocs:C38963,
+        ocs:C39337,
+        ocs:C44697,
+        ocs:C477,
+        ocs:C5613,
+        ocs:C661 .
+

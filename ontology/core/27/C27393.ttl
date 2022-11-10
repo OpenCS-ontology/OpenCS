@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27393 a skos:Concept ;
+    skos:broader ocs:C2005,
+        ocs:C7021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hierarchical_classifier> ;
+    skos:prefLabel "Hierarchical classifier" ;
+    skos:related ocs:C10278,
+        ocs:C1443,
+        ocs:C1631,
+        ocs:C16859,
+        ocs:C29,
+        ocs:C424,
+        ocs:C4756,
+        ocs:C7,
+        ocs:C7256,
+        ocs:C8,
+        ocs:C852,
+        ocs:C9022 .
+

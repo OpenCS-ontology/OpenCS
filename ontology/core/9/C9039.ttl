@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9039 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cinavia> ;
+    skos:prefLabel "Cinavia" ;
+    skos:related ocs:C12046,
+        ocs:C12152,
+        ocs:C19334,
+        ocs:C19721,
+        ocs:C24016,
+        ocs:C26575,
+        ocs:C27674,
+        ocs:C37788,
+        ocs:C37917,
+        ocs:C3843,
+        ocs:C43244,
+        ocs:C45369,
+        ocs:C6234,
+        ocs:C9250 .
+

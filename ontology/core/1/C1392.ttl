@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1392 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dimensional_modeling> ;
+    skos:prefLabel "Dimensional modeling" ;
+    skos:related ocs:C10444,
+        ocs:C12185,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C17208,
+        ocs:C18025,
+        ocs:C18405,
+        ocs:C20446,
+        ocs:C20927,
+        ocs:C25950,
+        ocs:C27386,
+        ocs:C31727,
+        ocs:C33744,
+        ocs:C35534,
+        ocs:C36358,
+        ocs:C36510,
+        ocs:C38006,
+        ocs:C3896,
+        ocs:C6 .
+

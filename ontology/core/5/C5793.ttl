@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5793 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_binning> ;
+    skos:prefLabel "Data binning" ;
+    skos:related ocs:C10778,
+        ocs:C1832,
+        ocs:C18518,
+        ocs:C1938,
+        ocs:C26886,
+        ocs:C40579,
+        ocs:C6113,
+        ocs:C9326 .
+

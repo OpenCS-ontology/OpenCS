@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11263 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:prefLabel "R&D Laboratories" ;
+    skos:related ocs:C10978,
+        ocs:C17923,
+        ocs:C3,
+        ocs:C9656 .
+

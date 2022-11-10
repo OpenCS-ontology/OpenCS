@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17403 a skos:Concept ;
+    skos:broader ocs:C12590,
+        ocs:C2409,
+        ocs:C4199,
+        ocs:C6448,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gouraud_shading> ;
+    skos:prefLabel "Gouraud shading" ;
+    skos:related ocs:C10320,
+        ocs:C12590,
+        ocs:C13155,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C19559,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23667,
+        ocs:C24235,
+        ocs:C26458,
+        ocs:C28061,
+        ocs:C32898,
+        ocs:C41077,
+        ocs:C41662,
+        ocs:C42817,
+        ocs:C43204,
+        ocs:C43530 .
+

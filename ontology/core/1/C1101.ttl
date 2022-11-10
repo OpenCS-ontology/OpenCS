@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1101 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-level_assembler> ;
+    skos:prefLabel "High-level assembler" ;
+    skos:related ocs:C12257,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C1333,
+        ocs:C14830,
+        ocs:C17204,
+        ocs:C21718,
+        ocs:C23909,
+        ocs:C25549,
+        ocs:C31346,
+        ocs:C37759,
+        ocs:C38671,
+        ocs:C4321,
+        ocs:C442,
+        ocs:C45210,
+        ocs:C5396,
+        ocs:C5722,
+        ocs:C6280,
+        ocs:C6714,
+        ocs:C9 .
+

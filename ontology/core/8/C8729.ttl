@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8729 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attack_time> ;
+    skos:prefLabel "Attack time" ;
+    skos:related ocs:C11936,
+        ocs:C154,
+        ocs:C16335,
+        ocs:C25045,
+        ocs:C27907,
+        ocs:C34474,
+        ocs:C39475,
+        ocs:C4512,
+        ocs:C5194,
+        ocs:C8029,
+        ocs:C9257 .
+

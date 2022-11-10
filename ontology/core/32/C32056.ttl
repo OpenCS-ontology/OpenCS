@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32056 a skos:Concept ;
+    skos:broader ocs:C15047 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_network_analysis_software> ;
+    skos:prefLabel "Social network analysis software" ;
+    skos:related ocs:C11026,
+        ocs:C11705,
+        ocs:C13584,
+        ocs:C14528,
+        ocs:C14693,
+        ocs:C15047,
+        ocs:C20376,
+        ocs:C21626,
+        ocs:C22417,
+        ocs:C23565,
+        ocs:C28521,
+        ocs:C29674,
+        ocs:C40786,
+        ocs:C6344 .
+

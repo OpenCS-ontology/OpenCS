@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31823 a skos:Concept ;
+    skos:broader ocs:C27610 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPARC_T4> ;
+    skos:prefLabel "SPARC T4" ;
+    skos:related ocs:C10320,
+        ocs:C11582,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C1668,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C3935,
+        ocs:C6547,
+        ocs:C7977,
+        ocs:C856 .
+

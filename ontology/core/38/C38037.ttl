@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38037 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_sequence_prediction_attack> ;
+    skos:prefLabel "TCP sequence prediction attack" ;
+    skos:related ocs:C13551,
+        ocs:C20243,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C27557,
+        ocs:C27923,
+        ocs:C31257,
+        ocs:C31489,
+        ocs:C33552,
+        ocs:C35493,
+        ocs:C36782,
+        ocs:C37997,
+        ocs:C38272,
+        ocs:C38384,
+        ocs:C38814,
+        ocs:C41119,
+        ocs:C5837 .
+

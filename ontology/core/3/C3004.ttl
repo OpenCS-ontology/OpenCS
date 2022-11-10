@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3004 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/JAUS_Tool_Set> ;
+    skos:prefLabel "JAUS Tool Set" ;
+    skos:related ocs:C10633,
+        ocs:C15478,
+        ocs:C16739,
+        ocs:C19052,
+        ocs:C20404,
+        ocs:C23140,
+        ocs:C2459,
+        ocs:C28080,
+        ocs:C31894,
+        ocs:C32648,
+        ocs:C35575,
+        ocs:C36470,
+        ocs:C37174,
+        ocs:C37443,
+        ocs:C43569,
+        ocs:C43774,
+        ocs:C45107,
+        ocs:C5236,
+        ocs:C7106,
+        ocs:C8791 .
+

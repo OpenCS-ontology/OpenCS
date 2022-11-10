@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41573 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Steinitz's_theorem> ;
+    skos:prefLabel "Steinitz's theorem" ;
+    skos:related ocs:C36406,
+        ocs:C38339,
+        ocs:C38789,
+        ocs:C38853,
+        ocs:C39263,
+        ocs:C39583,
+        ocs:C39885,
+        ocs:C40560,
+        ocs:C41759,
+        ocs:C42060,
+        ocs:C42616,
+        ocs:C42764,
+        ocs:C42822,
+        ocs:C42848,
+        ocs:C44460,
+        ocs:C45150 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43944 a skos:Concept ;
+    skos:broader ocs:C31768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auchenoglanis> ;
+    skos:prefLabel "Auchenoglanis" ;
+    skos:related ocs:C39669,
+        ocs:C40423,
+        ocs:C43577,
+        ocs:C44812 .
+

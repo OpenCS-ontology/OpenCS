@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6858 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SAFplus> ;
+    skos:prefLabel "SAFplus" ;
+    skos:related ocs:C12348,
+        ocs:C13550,
+        ocs:C14691,
+        ocs:C18762,
+        ocs:C20265,
+        ocs:C20925,
+        ocs:C2674,
+        ocs:C45518,
+        ocs:C9642 .
+

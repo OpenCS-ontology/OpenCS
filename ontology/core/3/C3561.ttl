@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3561 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shunting-yard_algorithm> ;
+    skos:prefLabel "Shunting-yard algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10284,
+        ocs:C12806,
+        ocs:C19,
+        ocs:C21627,
+        ocs:C22624,
+        ocs:C24012,
+        ocs:C27084,
+        ocs:C28410,
+        ocs:C30285,
+        ocs:C30921,
+        ocs:C3785,
+        ocs:C40246,
+        ocs:C4321,
+        ocs:C43346,
+        ocs:C4966,
+        ocs:C5198,
+        ocs:C8313 .
+

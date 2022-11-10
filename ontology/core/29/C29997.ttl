@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29997 a skos:Concept ;
+    skos:broader ocs:C16954,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C27111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_image_processing> ;
+    skos:prefLabel "Analog image processing" ;
+    skos:related ocs:C1,
+        ocs:C10554,
+        ocs:C1449,
+        ocs:C14861,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C2801,
+        ocs:C37007,
+        ocs:C44445,
+        ocs:C5298,
+        ocs:C7,
+        ocs:C797,
+        ocs:C8499,
+        ocs:C850,
+        ocs:C8755 .
+

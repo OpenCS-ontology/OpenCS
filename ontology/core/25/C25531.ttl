@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25531 a skos:Concept ;
+    skos:broader ocs:C11402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chiasmal_syndrome> ;
+    skos:prefLabel "Chiasma syndrome" ;
+    skos:related ocs:C11402 .
+

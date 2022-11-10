@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44004 a skos:Concept ;
+    skos:broader ocs:C34235 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application-level_gateway> ;
+    skos:prefLabel "Application-level gateway" ;
+    skos:related ocs:C11871,
+        ocs:C12001,
+        ocs:C16980,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C23601,
+        ocs:C24131,
+        ocs:C25291,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C34235,
+        ocs:C37893,
+        ocs:C38966,
+        ocs:C41726,
+        ocs:C42429,
+        ocs:C8515,
+        ocs:C8614 .
+

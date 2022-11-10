@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5406 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Augmented_tree-based_routing> ;
+    skos:prefLabel "Augmented tree-based routing" ;
+    skos:related ocs:C11027,
+        ocs:C1398,
+        ocs:C14223,
+        ocs:C15728,
+        ocs:C16666,
+        ocs:C24173,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C28122,
+        ocs:C28520,
+        ocs:C35776,
+        ocs:C36678,
+        ocs:C36939,
+        ocs:C39494,
+        ocs:C44121,
+        ocs:C44840,
+        ocs:C4588,
+        ocs:C9024 .
+

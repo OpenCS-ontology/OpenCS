@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11355 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Travel Documents" ;
+    skos:related ocs:C10510,
+        ocs:C16125,
+        ocs:C2,
+        ocs:C21,
+        ocs:C22,
+        ocs:C2660,
+        ocs:C3,
+        ocs:C3231,
+        ocs:C4561,
+        ocs:C5,
+        ocs:C7006 .
+

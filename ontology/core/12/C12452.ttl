@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12452 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/SNMP_simulator> ;
+    skos:prefLabel "SNMP simulator" ;
+    skos:related ocs:C10921,
+        ocs:C11967,
+        ocs:C16402,
+        ocs:C17918,
+        ocs:C24,
+        ocs:C29465,
+        ocs:C30078,
+        ocs:C31146,
+        ocs:C3394,
+        ocs:C34792,
+        ocs:C34898,
+        ocs:C35367,
+        ocs:C40698,
+        ocs:C44412,
+        ocs:C45575,
+        ocs:C45641,
+        ocs:C6592,
+        ocs:C7233,
+        ocs:C7857 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13214 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Voice Treatment" ;
+    skos:related ocs:C16,
+        ocs:C2300,
+        ocs:C26,
+        ocs:C5139 .
+

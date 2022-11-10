@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9660 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Segmented_spindle> ;
+    skos:prefLabel "Segmented spindle" ;
+    skos:related ocs:C11662,
+        ocs:C15048,
+        ocs:C33243,
+        ocs:C41360 .
+

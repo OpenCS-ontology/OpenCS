@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C257 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filter_(signal_processing)> ;
+    skos:prefLabel "Filter (signal processing)" ;
+    skos:related ocs:C11150,
+        ocs:C123,
+        ocs:C1449,
+        ocs:C15194,
+        ocs:C23968,
+        ocs:C32519,
+        ocs:C32554,
+        ocs:C5042,
+        ocs:C5298,
+        ocs:C658 .
+

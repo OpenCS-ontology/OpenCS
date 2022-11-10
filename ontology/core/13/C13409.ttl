@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13409 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bisection> ;
+    skos:prefLabel "Bisection" ;
+    skos:related ocs:C10672,
+        ocs:C29570,
+        ocs:C34973,
+        ocs:C43235,
+        ocs:C5204 .
+

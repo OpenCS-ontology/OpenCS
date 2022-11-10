@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9276 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enriched_text> ;
+    skos:prefLabel "Enriched text" ;
+    skos:related ocs:C10386,
+        ocs:C11371,
+        ocs:C11759,
+        ocs:C11927,
+        ocs:C14647,
+        ocs:C18136,
+        ocs:C22568,
+        ocs:C23162,
+        ocs:C23851,
+        ocs:C24783,
+        ocs:C28801,
+        ocs:C31147,
+        ocs:C32481,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C35992,
+        ocs:C37868,
+        ocs:C38185,
+        ocs:C4641 .
+

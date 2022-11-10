@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27901 a skos:Concept ;
+    skos:broader ocs:C13685,
+        ocs:C9641,
+        ocs:C9721 ;
+    skos:closeMatch <http://dbpedia.org/resource/Focused_information_criterion> ;
+    skos:prefLabel "Focused information criterion" ;
+    skos:related ocs:C10976,
+        ocs:C11463,
+        ocs:C13371,
+        ocs:C14030,
+        ocs:C17922,
+        ocs:C30859,
+        ocs:C34894,
+        ocs:C35658,
+        ocs:C37170,
+        ocs:C37302,
+        ocs:C45859,
+        ocs:C7282,
+        ocs:C9721 .
+

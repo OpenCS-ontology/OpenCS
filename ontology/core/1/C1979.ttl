@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1979 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Identifying Variable" ;
+    skos:related ocs:C1092,
+        ocs:C21,
+        ocs:C2321,
+        ocs:C25,
+        ocs:C25412,
+        ocs:C29,
+        ocs:C33,
+        ocs:C38433,
+        ocs:C4256,
+        ocs:C4257,
+        ocs:C747,
+        ocs:C9641 .
+

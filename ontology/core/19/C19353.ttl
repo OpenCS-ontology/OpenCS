@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19353 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photomultiplier> ;
+    skos:prefLabel "Photomultiplier" ;
+    skos:related ocs:C19524,
+        ocs:C2400,
+        ocs:C25787,
+        ocs:C597,
+        ocs:C7789 .
+

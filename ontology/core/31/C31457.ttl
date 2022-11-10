@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31457 a skos:Concept ;
+    skos:broader ocs:C18073,
+        ocs:C19687,
+        ocs:C22457,
+        ocs:C23307,
+        ocs:C23571,
+        ocs:C26908,
+        ocs:C29199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clipping_(signal_processing)> ;
+    skos:prefLabel "Clipping (signal processing)" ;
+    skos:related ocs:C10492,
+        ocs:C1449,
+        ocs:C44704,
+        ocs:C5790 .
+

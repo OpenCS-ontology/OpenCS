@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32985 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C21625,
+        ocs:C23073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Negligible_function> ;
+    skos:prefLabel "Negligible function" ;
+    skos:related ocs:C14164,
+        ocs:C16025,
+        ocs:C21262,
+        ocs:C21625,
+        ocs:C23073,
+        ocs:C24265,
+        ocs:C28763,
+        ocs:C4218,
+        ocs:C43409,
+        ocs:C44466 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25695 a skos:Concept ;
+    skos:broader ocs:C12853,
+        ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preferred_Roaming_List> ;
+    skos:prefLabel "Preferred Roaming List" ;
+    skos:related ocs:C12853,
+        ocs:C21367,
+        ocs:C21595,
+        ocs:C25493,
+        ocs:C35370,
+        ocs:C35725,
+        ocs:C37303,
+        ocs:C39689,
+        ocs:C39722,
+        ocs:C41460,
+        ocs:C43300,
+        ocs:C44251,
+        ocs:C44290,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C9113,
+        ocs:C9154 .
+

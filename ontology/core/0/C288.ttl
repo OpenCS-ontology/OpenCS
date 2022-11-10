@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C288 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C30 ;
+    skos:prefLabel "Component Concept" ;
+    skos:related ocs:C12427,
+        ocs:C17971,
+        ocs:C22273,
+        ocs:C29,
+        ocs:C30,
+        ocs:C33,
+        ocs:C39780,
+        ocs:C41459,
+        ocs:C43696,
+        ocs:C5818,
+        ocs:C6255 .
+

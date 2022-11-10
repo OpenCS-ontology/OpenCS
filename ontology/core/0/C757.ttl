@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C757 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_alarm> ;
+    skos:prefLabel "False alarm" ;
+    skos:related ocs:C10,
+        ocs:C12433,
+        ocs:C1834,
+        ocs:C248,
+        ocs:C27953,
+        ocs:C28516,
+        ocs:C7987,
+        ocs:C9489 .
+

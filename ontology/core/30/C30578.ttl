@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30578 a skos:Concept ;
+    skos:broader ocs:C22493 ;
+    skos:closeMatch <http://dbpedia.org/resource/Care-of_address> ;
+    skos:prefLabel "Care-of address" ;
+    skos:related ocs:C18213,
+        ocs:C19227,
+        ocs:C20125,
+        ocs:C20540,
+        ocs:C22493,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C28271,
+        ocs:C28911,
+        ocs:C30630,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C40811,
+        ocs:C41298,
+        ocs:C42429,
+        ocs:C42781,
+        ocs:C43015,
+        ocs:C43820,
+        ocs:C8614 .
+

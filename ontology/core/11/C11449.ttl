@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11449 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Source_text> ;
+    skos:prefLabel "Source text" ;
+    skos:related ocs:C10801,
+        ocs:C19175,
+        ocs:C5031,
+        ocs:C5852,
+        ocs:C6688 .
+

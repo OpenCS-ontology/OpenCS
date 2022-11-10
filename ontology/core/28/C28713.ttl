@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28713 a skos:Concept ;
+    skos:broader ocs:C1844,
+        ocs:C9326 ;
+    skos:closeMatch <http://dbpedia.org/resource/Saddlepoint_approximation_method> ;
+    skos:prefLabel "Saddlepoint approximation method" ;
+    skos:related ocs:C13262,
+        ocs:C16163,
+        ocs:C22092,
+        ocs:C3122,
+        ocs:C39273,
+        ocs:C43902 .
+

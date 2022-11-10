@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11251 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_time> ;
+    skos:prefLabel "Standard time" ;
+    skos:related ocs:C1941,
+        ocs:C19672,
+        ocs:C2107,
+        ocs:C22220,
+        ocs:C2424,
+        ocs:C9026 .
+

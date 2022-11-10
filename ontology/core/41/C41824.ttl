@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41824 a skos:Concept ;
+    skos:broader ocs:C33146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exostoma> ;
+    skos:prefLabel "Exostoma" ;
+    skos:related ocs:C29736,
+        ocs:C34575,
+        ocs:C37811,
+        ocs:C37952,
+        ocs:C39729,
+        ocs:C40315,
+        ocs:C42957,
+        ocs:C44889 .
+

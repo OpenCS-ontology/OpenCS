@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6950 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/NetWeaver_Developer> ;
+    skos:prefLabel "NetWeaver Developer" .
+

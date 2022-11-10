@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38864 a skos:Concept ;
+    skos:broader ocs:C30877,
+        ocs:C34906 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prewitt_operator> ;
+    skos:prefLabel "Prewitt operator" ;
+    skos:related ocs:C11150,
+        ocs:C14863,
+        ocs:C21200,
+        ocs:C22623,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C2801,
+        ocs:C28754,
+        ocs:C30877,
+        ocs:C32479,
+        ocs:C34906,
+        ocs:C36137,
+        ocs:C37582,
+        ocs:C40344,
+        ocs:C7,
+        ocs:C8499 .
+

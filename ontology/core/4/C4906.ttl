@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4906 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_structure> ;
+    skos:prefLabel "Organizational structure" ;
+    skos:related ocs:C1332,
+        ocs:C29840,
+        ocs:C3395,
+        ocs:C5092,
+        ocs:C9248 .
+

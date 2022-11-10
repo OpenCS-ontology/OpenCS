@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22276 a skos:Concept ;
+    skos:broader ocs:C11701,
+        ocs:C3837,
+        ocs:C6147 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barycentric-sum_problem> ;
+    skos:prefLabel "Barycentric-sum problem" ;
+    skos:related ocs:C28786,
+        ocs:C31555,
+        ocs:C32087,
+        ocs:C32746,
+        ocs:C34801,
+        ocs:C42164,
+        ocs:C8789 .
+

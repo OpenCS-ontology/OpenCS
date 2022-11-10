@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34577 a skos:Concept ;
+    skos:broader ocs:C17396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dubins_path> ;
+    skos:prefLabel "Dubins path" ;
+    skos:related ocs:C42027,
+        ocs:C45512 .
+

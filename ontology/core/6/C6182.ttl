@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6182 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Public_data_transmission_service> ;
+    skos:prefLabel "Public data transmission service" ;
+    skos:related ocs:C11606,
+        ocs:C13623,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C17625,
+        ocs:C2435,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C3,
+        ocs:C31746,
+        ocs:C36274,
+        ocs:C6171,
+        ocs:C6472,
+        ocs:C6861 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34068 a skos:Concept ;
+    skos:broader ocs:C21436 ;
+    skos:closeMatch <http://dbpedia.org/resource/Archimedean_graph> ;
+    skos:prefLabel "Archimedean graph" ;
+    skos:related ocs:C14693,
+        ocs:C35696,
+        ocs:C37173,
+        ocs:C38968,
+        ocs:C40196,
+        ocs:C42281,
+        ocs:C6863 .
+

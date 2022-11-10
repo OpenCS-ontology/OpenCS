@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6478 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nuosu_language> ;
+    skos:prefLabel "Yi language" ;
+    skos:related ocs:C12317,
+        ocs:C16,
+        ocs:C197,
+        ocs:C2114,
+        ocs:C2298,
+        ocs:C5990,
+        ocs:C8464 .
+

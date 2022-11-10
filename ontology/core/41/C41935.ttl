@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41935 a skos:Concept ;
+    skos:broader ocs:C33104,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_system_security> ;
+    skos:prefLabel "Control system security" ;
+    skos:related ocs:C14466,
+        ocs:C16481,
+        ocs:C34428,
+        ocs:C35,
+        ocs:C37851,
+        ocs:C3794,
+        ocs:C5821,
+        ocs:C7073,
+        ocs:C8025,
+        ocs:C8458 .
+

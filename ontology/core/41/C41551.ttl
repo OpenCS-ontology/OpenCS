@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41551 a skos:Concept ;
+    skos:broader ocs:C33916 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO_25964> ;
+    skos:prefLabel "ISO 25964" ;
+    skos:related ocs:C1561,
+        ocs:C23,
+        ocs:C23088,
+        ocs:C26601,
+        ocs:C2931,
+        ocs:C2942,
+        ocs:C3896,
+        ocs:C42124,
+        ocs:C42887,
+        ocs:C44162,
+        ocs:C6646,
+        ocs:C6690,
+        ocs:C6790,
+        ocs:C6915,
+        ocs:C8710,
+        ocs:C9836 .
+

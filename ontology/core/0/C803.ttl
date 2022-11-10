@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C803 a skos:Concept ;
+    skos:broader ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Map_regression> ;
+    skos:prefLabel "Map regression" ;
+    skos:related ocs:C10405,
+        ocs:C12330,
+        ocs:C13155,
+        ocs:C14703,
+        ocs:C15046,
+        ocs:C16797,
+        ocs:C19046,
+        ocs:C20066,
+        ocs:C23695,
+        ocs:C27492,
+        ocs:C29425,
+        ocs:C37462,
+        ocs:C37913 .
+

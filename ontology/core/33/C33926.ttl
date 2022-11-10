@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33926 a skos:Concept ;
+    skos:broader ocs:C15396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Management_plane> ;
+    skos:prefLabel "Management plane" ;
+    skos:related ocs:C24563,
+        ocs:C3233,
+        ocs:C34194,
+        ocs:C37369,
+        ocs:C490 .
+

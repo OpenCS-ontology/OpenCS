@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34797 a skos:Concept ;
+    skos:broader ocs:C15862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monopole,_Astrophysics_and_Cosmic_Ray_Observatory> ;
+    skos:prefLabel "Monopole, Astrophysics and Cosmic Ray Observatory" ;
+    skos:related ocs:C19524,
+        ocs:C32279,
+        ocs:C34396 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43280 a skos:Concept ;
+    skos:broader ocs:C29660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calkin–Wilf_tree> ;
+    skos:prefLabel "Calkin–Wilf tree" ;
+    skos:related ocs:C19223,
+        ocs:C26753,
+        ocs:C35368,
+        ocs:C3931,
+        ocs:C41601 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C79 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniform_access_principle> ;
+    skos:prefLabel "Uniform access principle" ;
+    skos:related ocs:C10242,
+        ocs:C10720,
+        ocs:C12108,
+        ocs:C15969,
+        ocs:C17734,
+        ocs:C22971,
+        ocs:C27131,
+        ocs:C3036,
+        ocs:C31691,
+        ocs:C36263,
+        ocs:C36327,
+        ocs:C42280,
+        ocs:C45244,
+        ocs:C5308,
+        ocs:C6663,
+        ocs:C8629,
+        ocs:C9946 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7865 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_Systems_Network_Architecture> ;
+    skos:prefLabel "IBM Systems Network Architecture" ;
+    skos:related ocs:C10496,
+        ocs:C10992,
+        ocs:C12218,
+        ocs:C12851,
+        ocs:C16953,
+        ocs:C21125,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C34358,
+        ocs:C38773,
+        ocs:C40142,
+        ocs:C4093,
+        ocs:C686,
+        ocs:C6861,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9931 .
+

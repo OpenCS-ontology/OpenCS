@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12460 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:prefLabel "Inductive Machine Learning" ;
+    skos:related ocs:C1134,
+        ocs:C11724,
+        ocs:C14353,
+        ocs:C1443,
+        ocs:C1566,
+        ocs:C16,
+        ocs:C1972,
+        ocs:C21,
+        ocs:C25040,
+        ocs:C29,
+        ocs:C4201,
+        ocs:C8517 .
+

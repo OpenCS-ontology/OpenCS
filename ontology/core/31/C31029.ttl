@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31029 a skos:Concept ;
+    skos:broader ocs:C24259 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kepler's_laws_of_planetary_motion> ;
+    skos:prefLabel "Kepler's laws of planetary motion" ;
+    skos:related ocs:C37916,
+        ocs:C597 .
+

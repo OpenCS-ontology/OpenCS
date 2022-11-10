@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3523 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_editor> ;
+    skos:prefLabel "Disk editor" ;
+    skos:related ocs:C10400,
+        ocs:C10696,
+        ocs:C12211,
+        ocs:C15529,
+        ocs:C20557,
+        ocs:C28881,
+        ocs:C32640,
+        ocs:C328,
+        ocs:C33255,
+        ocs:C36536,
+        ocs:C4333,
+        ocs:C600,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C9 .
+

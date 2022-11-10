@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40985 a skos:Concept ;
+    skos:broader ocs:C33893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Upper_topology> ;
+    skos:prefLabel "Upper topology" ;
+    skos:related ocs:C19847,
+        ocs:C32349,
+        ocs:C32356,
+        ocs:C38631,
+        ocs:C38762 .
+

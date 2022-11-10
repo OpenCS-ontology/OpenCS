@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10325 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Session_ID> ;
+    skos:prefLabel "Session ID" ;
+    skos:related ocs:C16338,
+        ocs:C19156,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C24704,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C2976,
+        ocs:C3050,
+        ocs:C31,
+        ocs:C36411,
+        ocs:C3645,
+        ocs:C39074,
+        ocs:C39423,
+        ocs:C41498,
+        ocs:C443,
+        ocs:C5917,
+        ocs:C6658,
+        ocs:C8515 .
+

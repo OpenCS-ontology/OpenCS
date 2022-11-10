@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1195 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Occam-π> ;
+    skos:prefLabel "occam-π" ;
+    skos:related ocs:C10683,
+        ocs:C1625,
+        ocs:C16910,
+        ocs:C17626,
+        ocs:C17971,
+        ocs:C18231,
+        ocs:C18357,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C2804,
+        ocs:C28502,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C37655,
+        ocs:C39592,
+        ocs:C40762,
+        ocs:C41733,
+        ocs:C5279,
+        ocs:C5974,
+        ocs:C6941 .
+

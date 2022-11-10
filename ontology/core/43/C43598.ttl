@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43598 a skos:Concept ;
+    skos:broader ocs:C35103,
+        ocs:C36407,
+        ocs:C37236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probability_box> ;
+    skos:prefLabel "Probability box" ;
+    skos:related ocs:C11811,
+        ocs:C22598,
+        ocs:C22686,
+        ocs:C33734,
+        ocs:C39812,
+        ocs:C42729 .
+

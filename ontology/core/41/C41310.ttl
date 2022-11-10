@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41310 a skos:Concept ;
+    skos:broader ocs:C32521 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event-driven_SOA> ;
+    skos:prefLabel "Event-driven SOA" ;
+    skos:related ocs:C10779,
+        ocs:C15320,
+        ocs:C16599,
+        ocs:C17238,
+        ocs:C21166,
+        ocs:C24252,
+        ocs:C25935,
+        ocs:C26260,
+        ocs:C2674,
+        ocs:C28234,
+        ocs:C30649,
+        ocs:C31527,
+        ocs:C31667,
+        ocs:C32662,
+        ocs:C36422,
+        ocs:C38383,
+        ocs:C9773 .
+

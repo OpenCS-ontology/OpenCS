@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21743 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decrement_table> ;
+    skos:prefLabel "Decrement table" ;
+    skos:related ocs:C40053 .
+

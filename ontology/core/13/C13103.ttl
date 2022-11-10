@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13103 a skos:Concept ;
+    skos:broader ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Areal_feature> ;
+    skos:prefLabel "Areal feature" ;
+    skos:related ocs:C1034,
+        ocs:C12222,
+        ocs:C13210,
+        ocs:C15805,
+        ocs:C19172,
+        ocs:C2025,
+        ocs:C21409,
+        ocs:C24020,
+        ocs:C4587,
+        ocs:C5990,
+        ocs:C6046,
+        ocs:C7501,
+        ocs:C9777 .
+

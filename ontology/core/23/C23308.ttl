@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23308 a skos:Concept ;
+    skos:broader ocs:C8637 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colors_of_noise> ;
+    skos:prefLabel "Colors of noise" ;
+    skos:related ocs:C10409,
+        ocs:C10509,
+        ocs:C1146,
+        ocs:C1564,
+        ocs:C21364,
+        ocs:C23871,
+        ocs:C25224,
+        ocs:C37458,
+        ocs:C39475,
+        ocs:C5194,
+        ocs:C5505,
+        ocs:C669 .
+

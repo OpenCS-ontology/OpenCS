@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3106 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Systems_Language> ;
+    skos:prefLabel "Universal Systems Language" ;
+    skos:related ocs:C1035,
+        ocs:C12427,
+        ocs:C13152,
+        ocs:C14655,
+        ocs:C16482,
+        ocs:C24477,
+        ocs:C24649,
+        ocs:C29290,
+        ocs:C30050,
+        ocs:C30528,
+        ocs:C31722,
+        ocs:C35399,
+        ocs:C37896,
+        ocs:C38158,
+        ocs:C41475,
+        ocs:C42280,
+        ocs:C43378,
+        ocs:C7903,
+        ocs:C8171 .
+

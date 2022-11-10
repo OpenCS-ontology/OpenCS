@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17042 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Related_rights> ;
+    skos:prefLabel "Related rights" ;
+    skos:related ocs:C13306,
+        ocs:C18764,
+        ocs:C24497,
+        ocs:C30476,
+        ocs:C31822,
+        ocs:C32847,
+        ocs:C33316,
+        ocs:C33646,
+        ocs:C37277,
+        ocs:C41273,
+        ocs:C41874,
+        ocs:C44209,
+        ocs:C6234,
+        ocs:C767 .
+

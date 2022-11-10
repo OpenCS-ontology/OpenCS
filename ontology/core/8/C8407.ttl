@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8407 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_archaeology> ;
+    skos:prefLabel "Computational archaeology" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10997,
+        ocs:C2115,
+        ocs:C28745,
+        ocs:C29,
+        ocs:C4020,
+        ocs:C8 .
+

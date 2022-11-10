@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11388 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fitness_trail> ;
+    skos:prefLabel "Fitness trail" ;
+    skos:related ocs:C6718,
+        ocs:C7331 .
+

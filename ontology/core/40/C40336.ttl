@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40336 a skos:Concept ;
+    skos:broader ocs:C36126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turán_number> ;
+    skos:prefLabel "Turán number" ;
+    skos:related ocs:C13150,
+        ocs:C15732,
+        ocs:C19336,
+        ocs:C32610,
+        ocs:C36126,
+        ocs:C36770,
+        ocs:C39030,
+        ocs:C39148,
+        ocs:C39821,
+        ocs:C40694 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24753 a skos:Concept ;
+    skos:broader ocs:C11213,
+        ocs:C1386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Khitan_scripts> ;
+    skos:prefLabel "Khitan scripts" ;
+    skos:related ocs:C11699,
+        ocs:C1583,
+        ocs:C25538,
+        ocs:C37693,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6505 .
+

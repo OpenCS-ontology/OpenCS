@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7858 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sign_language> ;
+    skos:prefLabel "Sign language" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C15973,
+        ocs:C16631,
+        ocs:C19175,
+        ocs:C2298,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C2480,
+        ocs:C25188,
+        ocs:C26953,
+        ocs:C27530,
+        ocs:C30694,
+        ocs:C7501 .
+

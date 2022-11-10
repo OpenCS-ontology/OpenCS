@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42794 a skos:Concept ;
+    skos:broader ocs:C36714 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_E_and_B_Experiment> ;
+    skos:prefLabel "The E and B Experiment" ;
+    skos:related ocs:C30977,
+        ocs:C42039 .
+

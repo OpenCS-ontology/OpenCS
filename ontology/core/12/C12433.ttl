@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12433 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_positives_and_false_negatives> ;
+    skos:prefLabel "False positives and false negatives" ;
+    skos:related ocs:C28516,
+        ocs:C40986,
+        ocs:C597,
+        ocs:C6291,
+        ocs:C8202 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2601 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/APC-7_connector> ;
+    skos:prefLabel "APC-7 connector" ;
+    skos:related ocs:C2661,
+        ocs:C26775,
+        ocs:C32554,
+        ocs:C36281,
+        ocs:C4205,
+        ocs:C45299,
+        ocs:C6913 .
+

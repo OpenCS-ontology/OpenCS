@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20155 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C5556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Principles_and_parameters> ;
+    skos:prefLabel "Principles and parameters" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C15463,
+        ocs:C18082,
+        ocs:C20004,
+        ocs:C20121,
+        ocs:C2298,
+        ocs:C24691,
+        ocs:C26173,
+        ocs:C28029,
+        ocs:C30276,
+        ocs:C34287,
+        ocs:C39066,
+        ocs:C42812,
+        ocs:C44020,
+        ocs:C5556 .
+

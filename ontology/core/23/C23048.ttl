@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23048 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:prefLabel "Cash collector" ;
+    skos:related ocs:C11389,
+        ocs:C35 .
+

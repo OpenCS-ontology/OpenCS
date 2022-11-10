@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25740 a skos:Concept ;
+    skos:broader ocs:C12590 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aluminized_screen> ;
+    skos:prefLabel "Aluminized screen" ;
+    skos:related ocs:C12929,
+        ocs:C13725,
+        ocs:C7749,
+        ocs:C7910,
+        ocs:C9839 .
+

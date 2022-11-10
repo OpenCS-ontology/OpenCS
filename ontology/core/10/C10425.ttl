@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10425 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_reasoning> ;
+    skos:prefLabel "Circular reasoning" ;
+    skos:related ocs:C10551,
+        ocs:C11088,
+        ocs:C126,
+        ocs:C2978,
+        ocs:C38823,
+        ocs:C6290,
+        ocs:C9834 .
+

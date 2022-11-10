@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12502 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-out-of-five_code> ;
+    skos:prefLabel "Two-out-of-five code" ;
+    skos:related ocs:C11465,
+        ocs:C12755,
+        ocs:C1586,
+        ocs:C16377,
+        ocs:C25293,
+        ocs:C25485,
+        ocs:C2665,
+        ocs:C30001,
+        ocs:C40069,
+        ocs:C43599,
+        ocs:C8010,
+        ocs:C9162 .
+

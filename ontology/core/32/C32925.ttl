@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32925 a skos:Concept ;
+    skos:broader ocs:C22711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vocal_register> ;
+    skos:prefLabel "Vocal register" ;
+    skos:related ocs:C10768,
+        ocs:C18630,
+        ocs:C22711,
+        ocs:C2408,
+        ocs:C35281,
+        ocs:C37143 .
+

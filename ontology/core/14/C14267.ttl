@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14267 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stellar_dynamics> ;
+    skos:prefLabel "Stellar dynamics" ;
+    skos:related ocs:C15251,
+        ocs:C17246,
+        ocs:C23210,
+        ocs:C23849,
+        ocs:C25028,
+        ocs:C28402,
+        ocs:C29212,
+        ocs:C37041,
+        ocs:C43159,
+        ocs:C597 .
+

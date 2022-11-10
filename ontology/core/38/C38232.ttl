@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38232 a skos:Concept ;
+    skos:broader ocs:C30559 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rec._601> ;
+    skos:prefLabel "Rec. 601" ;
+    skos:related ocs:C10111,
+        ocs:C10778,
+        ocs:C1201,
+        ocs:C12544,
+        ocs:C13973,
+        ocs:C14482,
+        ocs:C15700,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C27086,
+        ocs:C27572,
+        ocs:C31451,
+        ocs:C36633,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C6942 .
+

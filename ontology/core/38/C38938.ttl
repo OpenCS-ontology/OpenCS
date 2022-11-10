@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38938 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342,
+        ocs:C36967 ;
+    skos:prefLabel "Wavelet transforms image fusion" .
+

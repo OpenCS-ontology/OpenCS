@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26017 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Repeated_measures_design> ;
+    skos:prefLabel "Repeated measures design" ;
+    skos:related ocs:C11767,
+        ocs:C11986,
+        ocs:C15258,
+        ocs:C19095,
+        ocs:C8694 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27955 a skos:Concept ;
+    skos:broader ocs:C3799,
+        ocs:C3896,
+        ocs:C7161 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Change_Master_Directory> ;
+    skos:prefLabel "Global Change Master Directory" ;
+    skos:related ocs:C10822,
+        ocs:C1488,
+        ocs:C15209,
+        ocs:C1909,
+        ocs:C19324,
+        ocs:C20153,
+        ocs:C20667,
+        ocs:C24017,
+        ocs:C27501,
+        ocs:C28739,
+        ocs:C3896,
+        ocs:C39393,
+        ocs:C44189,
+        ocs:C45685 .
+

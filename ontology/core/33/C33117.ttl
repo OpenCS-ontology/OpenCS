@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33117 a skos:Concept ;
+    skos:broader ocs:C24730 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_misuse> ;
+    skos:prefLabel "Patent misuse" ;
+    skos:related ocs:C13306,
+        ocs:C16398,
+        ocs:C18764,
+        ocs:C23684,
+        ocs:C24730,
+        ocs:C27519,
+        ocs:C30696,
+        ocs:C36854 .
+

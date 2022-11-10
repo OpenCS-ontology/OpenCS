@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12341 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Musculoskeletal structure" ;
+    skos:related ocs:C19558,
+        ocs:C31197,
+        ocs:C9265 .
+

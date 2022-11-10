@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38640 a skos:Concept ;
+    skos:broader ocs:C33766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exposing_to_the_right> ;
+    skos:prefLabel "Exposing to the right" ;
+    skos:related ocs:C11318,
+        ocs:C20961,
+        ocs:C21490,
+        ocs:C38815,
+        ocs:C4009,
+        ocs:C42753,
+        ocs:C43094,
+        ocs:C6041,
+        ocs:C6075,
+        ocs:C6257 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2355 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymptotically_optimal_algorithm> ;
+    skos:prefLabel "Asymptotically optimal algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C16028,
+        ocs:C17853,
+        ocs:C18221,
+        ocs:C26753,
+        ocs:C32507,
+        ocs:C34207,
+        ocs:C34666,
+        ocs:C36074,
+        ocs:C36120,
+        ocs:C3678,
+        ocs:C41255,
+        ocs:C42752,
+        ocs:C42816,
+        ocs:C45372,
+        ocs:C611,
+        ocs:C7627,
+        ocs:C8660 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8764 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airfield_traffic_pattern> ;
+    skos:prefLabel "Airfield traffic pattern" ;
+    skos:related ocs:C11445,
+        ocs:C20572,
+        ocs:C23477,
+        ocs:C24976,
+        ocs:C26346,
+        ocs:C31946,
+        ocs:C4597,
+        ocs:C6412 .
+

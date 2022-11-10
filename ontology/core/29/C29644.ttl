@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29644 a skos:Concept ;
+    skos:broader ocs:C21056 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero-velocity_surface> ;
+    skos:prefLabel "Zero-velocity surface" ;
+    skos:related ocs:C17246,
+        ocs:C24464,
+        ocs:C24809,
+        ocs:C31009,
+        ocs:C45914 .
+

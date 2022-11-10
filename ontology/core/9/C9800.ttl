@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9800 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xenon_(processor)> ;
+    skos:prefLabel "Xenon (processor)" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C2191,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C29766,
+        ocs:C36673,
+        ocs:C38463,
+        ocs:C4824,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9542 .
+

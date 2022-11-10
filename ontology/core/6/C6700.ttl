@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6700 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geographic_information_retrieval> ;
+    skos:prefLabel "Geographic information retrieval" ;
+    skos:related ocs:C1040,
+        ocs:C1057,
+        ocs:C11862,
+        ocs:C13972,
+        ocs:C1812,
+        ocs:C20147,
+        ocs:C20731,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C23271,
+        ocs:C24174,
+        ocs:C3025,
+        ocs:C6963,
+        ocs:C8368,
+        ocs:C9876 .
+

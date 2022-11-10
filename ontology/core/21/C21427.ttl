@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21427 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/3D_city_models> ;
+    skos:prefLabel "3D city models" ;
+    skos:related ocs:C11450,
+        ocs:C12577,
+        ocs:C13312,
+        ocs:C18519,
+        ocs:C19733,
+        ocs:C2115,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C23149,
+        ocs:C23889,
+        ocs:C24208,
+        ocs:C31518,
+        ocs:C3430,
+        ocs:C7914,
+        ocs:C9618 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23495 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multichannel_retailing> ;
+    skos:prefLabel "Omnichannel" ;
+    skos:related ocs:C10764,
+        ocs:C11696,
+        ocs:C13130,
+        ocs:C15470,
+        ocs:C22551,
+        ocs:C22811,
+        ocs:C22839,
+        ocs:C26014,
+        ocs:C30829,
+        ocs:C5839,
+        ocs:C6659,
+        ocs:C7569 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40630 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/MESIF_protocol> ;
+    skos:prefLabel "MESIF protocol" ;
+    skos:related ocs:C1491,
+        ocs:C17698,
+        ocs:C20315,
+        ocs:C21253,
+        ocs:C27610,
+        ocs:C3231,
+        ocs:C38461,
+        ocs:C38525,
+        ocs:C38992,
+        ocs:C40922,
+        ocs:C41895,
+        ocs:C42095,
+        ocs:C42420,
+        ocs:C42759,
+        ocs:C42777,
+        ocs:C43124,
+        ocs:C43877,
+        ocs:C44255,
+        ocs:C44866 .
+

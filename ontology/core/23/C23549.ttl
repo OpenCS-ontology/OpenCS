@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23549 a skos:Concept ;
+    skos:broader ocs:C13750,
+        ocs:C8561 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guide_star> ;
+    skos:prefLabel "Guide star" ;
+    skos:related ocs:C14237,
+        ocs:C18177,
+        ocs:C18230,
+        ocs:C24698,
+        ocs:C28586,
+        ocs:C29113,
+        ocs:C32423,
+        ocs:C7789,
+        ocs:C8561 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34705 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Frequency doubling perimetry" ;
+    skos:related ocs:C1,
+        ocs:C22,
+        ocs:C34028,
+        ocs:C38191 .
+

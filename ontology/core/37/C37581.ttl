@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37581 a skos:Concept ;
+    skos:broader ocs:C28340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oligomorphic_group> ;
+    skos:prefLabel "Oligomorphic group" ;
+    skos:related ocs:C12474,
+        ocs:C2418 .
+

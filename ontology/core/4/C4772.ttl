@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4772 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prime_time> ;
+    skos:prefLabel "Prime time" ;
+    skos:related ocs:C12544,
+        ocs:C12999,
+        ocs:C17568,
+        ocs:C21312,
+        ocs:C26020,
+        ocs:C28716,
+        ocs:C30635,
+        ocs:C36807,
+        ocs:C40199,
+        ocs:C622,
+        ocs:C7216,
+        ocs:C7342,
+        ocs:C8614 .
+

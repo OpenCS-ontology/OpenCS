@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27342 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blink_comparator> ;
+    skos:prefLabel "Blink comparator" ;
+    skos:related ocs:C22752,
+        ocs:C23849,
+        ocs:C24724,
+        ocs:C28956,
+        ocs:C33557,
+        ocs:C597,
+        ocs:C7789 .
+

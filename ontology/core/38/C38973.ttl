@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38973 a skos:Concept ;
+    skos:broader ocs:C35705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xiurenbagrus> ;
+    skos:prefLabel "Xiurenbagrus" ;
+    skos:related ocs:C35705,
+        ocs:C37148,
+        ocs:C44456,
+        ocs:C44890,
+        ocs:C45301,
+        ocs:C45405 .
+

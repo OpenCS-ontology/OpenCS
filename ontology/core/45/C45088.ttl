@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45088 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36497,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:prefLabel "Unicast routing protocol" .
+

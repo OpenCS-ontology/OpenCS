@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21401 a skos:Concept ;
+    skos:broader ocs:C10917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hofstadter_sequence> ;
+    skos:prefLabel "Hofstadter sequence" ;
+    skos:related ocs:C10917,
+        ocs:C19183 .
+

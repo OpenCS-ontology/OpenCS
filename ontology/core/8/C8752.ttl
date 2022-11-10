@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8752 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geo-fence> ;
+    skos:prefLabel "Geo-fence" ;
+    skos:related ocs:C12641,
+        ocs:C14182,
+        ocs:C20845,
+        ocs:C21424,
+        ocs:C23009,
+        ocs:C2674,
+        ocs:C27698,
+        ocs:C3446,
+        ocs:C35370,
+        ocs:C4428,
+        ocs:C44290,
+        ocs:C4917,
+        ocs:C5088,
+        ocs:C5917,
+        ocs:C6311,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9603 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2072 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_media> ;
+    skos:prefLabel "Network media" ;
+    skos:related ocs:C11554,
+        ocs:C1563,
+        ocs:C15728,
+        ocs:C15962,
+        ocs:C24592,
+        ocs:C2935,
+        ocs:C3,
+        ocs:C34130,
+        ocs:C40722,
+        ocs:C691 .
+

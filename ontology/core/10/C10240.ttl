@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10240 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evercookie> ;
+    skos:prefLabel "Evercookie" ;
+    skos:related ocs:C12858,
+        ocs:C16338,
+        ocs:C21129,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C27839,
+        ocs:C28801,
+        ocs:C28999,
+        ocs:C29194,
+        ocs:C29637,
+        ocs:C30926,
+        ocs:C33206,
+        ocs:C36411,
+        ocs:C39663,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C42101,
+        ocs:C4918,
+        ocs:C5 .
+

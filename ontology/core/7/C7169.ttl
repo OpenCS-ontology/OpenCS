@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7169 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vision_science> ;
+    skos:prefLabel "Vision science" ;
+    skos:related ocs:C1,
+        ocs:C13186,
+        ocs:C21618,
+        ocs:C2422,
+        ocs:C3932,
+        ocs:C6420,
+        ocs:C7736 .
+

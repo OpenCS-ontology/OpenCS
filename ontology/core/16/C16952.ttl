@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16952 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C5576 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain-specific_multimodeling> ;
+    skos:prefLabel "Domain-specific multimodeling" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11042,
+        ocs:C11927,
+        ocs:C12974,
+        ocs:C13152,
+        ocs:C1386,
+        ocs:C1781,
+        ocs:C19,
+        ocs:C23439,
+        ocs:C25359,
+        ocs:C26572,
+        ocs:C30050,
+        ocs:C31705,
+        ocs:C35399,
+        ocs:C38489,
+        ocs:C4032,
+        ocs:C6941,
+        ocs:C8751,
+        ocs:C9553 .
+

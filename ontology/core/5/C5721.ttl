@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5721 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ping_(video_gaming)> ;
+    skos:prefLabel "Ping (video games)" ;
+    skos:related ocs:C10823,
+        ocs:C12111,
+        ocs:C14084,
+        ocs:C15065,
+        ocs:C20323,
+        ocs:C20691,
+        ocs:C25291,
+        ocs:C26,
+        ocs:C31954,
+        ocs:C33034,
+        ocs:C34946,
+        ocs:C39141,
+        ocs:C39834,
+        ocs:C40409,
+        ocs:C42093,
+        ocs:C43526,
+        ocs:C7220,
+        ocs:C7767 .
+

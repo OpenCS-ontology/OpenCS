@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17343 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_incompatibility> ;
+    skos:prefLabel "Software incompatibility" ;
+    skos:related ocs:C10320,
+        ocs:C11784,
+        ocs:C11991,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C19,
+        ocs:C23580,
+        ocs:C27610,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C3514,
+        ocs:C3895,
+        ocs:C6072,
+        ocs:C9 .
+

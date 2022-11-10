@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5565 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telephone_network> ;
+    skos:prefLabel "Telephone network" ;
+    skos:related ocs:C12942,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C22407,
+        ocs:C25133,
+        ocs:C25293,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C3105,
+        ocs:C35538,
+        ocs:C6027,
+        ocs:C7340,
+        ocs:C7661,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9480 .
+

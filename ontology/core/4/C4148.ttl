@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4148 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrepancy_theory> ;
+    skos:prefLabel "Discrepancy theory" ;
+    skos:related ocs:C10,
+        ocs:C15971,
+        ocs:C23865,
+        ocs:C2747,
+        ocs:C28070,
+        ocs:C32746,
+        ocs:C36942,
+        ocs:C38156,
+        ocs:C40868,
+        ocs:C41778,
+        ocs:C6279 .
+

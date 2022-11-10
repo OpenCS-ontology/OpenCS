@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37243 a skos:Concept ;
+    skos:broader ocs:C16086 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short-term_conflict_alert> ;
+    skos:prefLabel "Short-term conflict alert" ;
+    skos:related ocs:C13785,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C15397,
+        ocs:C15796,
+        ocs:C16585,
+        ocs:C18229,
+        ocs:C23082,
+        ocs:C23444,
+        ocs:C23477,
+        ocs:C25928,
+        ocs:C28020,
+        ocs:C30105,
+        ocs:C36681,
+        ocs:C4597,
+        ocs:C8868 .
+

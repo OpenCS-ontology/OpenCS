@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24643 a skos:Concept ;
+    skos:broader ocs:C545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_environment> ;
+    skos:prefLabel "Smart environment" ;
+    skos:related ocs:C10368,
+        ocs:C11153,
+        ocs:C1338,
+        ocs:C1626,
+        ocs:C17554,
+        ocs:C18,
+        ocs:C20810,
+        ocs:C24139,
+        ocs:C25029,
+        ocs:C2605,
+        ocs:C27206,
+        ocs:C28354,
+        ocs:C28598,
+        ocs:C33436,
+        ocs:C38065,
+        ocs:C43586,
+        ocs:C8191,
+        ocs:C9047 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31265 a skos:Concept ;
+    skos:broader ocs:C19905,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11ay> ;
+    skos:prefLabel "IEEE 802.11ay" ;
+    skos:related ocs:C10732,
+        ocs:C19350,
+        ocs:C20804,
+        ocs:C30037,
+        ocs:C32171,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C37075,
+        ocs:C37967,
+        ocs:C40578,
+        ocs:C42521,
+        ocs:C43449,
+        ocs:C44282,
+        ocs:C45456,
+        ocs:C45627,
+        ocs:C4665 .
+

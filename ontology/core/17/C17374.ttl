@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17374 a skos:Concept ;
+    skos:broader ocs:C1399,
+        ocs:C6753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parkerian_Hexad> ;
+    skos:prefLabel "Parkerian Hexad" ;
+    skos:related ocs:C1399,
+        ocs:C16125,
+        ocs:C16295,
+        ocs:C18803,
+        ocs:C22122,
+        ocs:C25176,
+        ocs:C26573,
+        ocs:C29,
+        ocs:C3039,
+        ocs:C35,
+        ocs:C41803,
+        ocs:C4218,
+        ocs:C42304,
+        ocs:C42306,
+        ocs:C44040,
+        ocs:C45582,
+        ocs:C5692,
+        ocs:C8614,
+        ocs:C9162 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33150 a skos:Concept ;
+    skos:broader ocs:C23964 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search_neutrality> ;
+    skos:prefLabel "Search neutrality" ;
+    skos:related ocs:C13063,
+        ocs:C14004,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C23964,
+        ocs:C33600,
+        ocs:C40049,
+        ocs:C41105,
+        ocs:C43593,
+        ocs:C5109 .
+

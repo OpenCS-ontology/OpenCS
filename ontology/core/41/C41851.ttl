@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41851 a skos:Concept ;
+    skos:broader ocs:C33801 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_erasure_channel> ;
+    skos:prefLabel "Packet erasure channel" ;
+    skos:related ocs:C12111,
+        ocs:C16106,
+        ocs:C21471,
+        ocs:C21769,
+        ocs:C21929,
+        ocs:C24469,
+        ocs:C29577,
+        ocs:C30572,
+        ocs:C31225,
+        ocs:C32049,
+        ocs:C33801,
+        ocs:C36010,
+        ocs:C36660,
+        ocs:C36688,
+        ocs:C40267,
+        ocs:C4099,
+        ocs:C41729,
+        ocs:C5816,
+        ocs:C9480 .
+

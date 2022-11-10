@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4269 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/AI_winter> ;
+    skos:prefLabel "AI winter" ;
+    skos:related ocs:C10616,
+        ocs:C12977,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C1643,
+        ocs:C21268,
+        ocs:C25,
+        ocs:C27884,
+        ocs:C29292,
+        ocs:C30824,
+        ocs:C32,
+        ocs:C3848,
+        ocs:C3900,
+        ocs:C44765,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C852,
+        ocs:C9022,
+        ocs:C9173 .
+

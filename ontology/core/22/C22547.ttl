@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22547 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surface_gravity> ;
+    skos:prefLabel "Surface gravity" ;
+    skos:related ocs:C20206,
+        ocs:C22542,
+        ocs:C22752,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C597 .
+

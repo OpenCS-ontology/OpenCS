@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32451 a skos:Concept ;
+    skos:broader ocs:C21367,
+        ocs:C26502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_Web> ;
+    skos:prefLabel "Mobile Web" ;
+    skos:related ocs:C1042,
+        ocs:C11696,
+        ocs:C1338,
+        ocs:C19350,
+        ocs:C21424,
+        ocs:C21595,
+        ocs:C24143,
+        ocs:C25712,
+        ocs:C31,
+        ocs:C35370,
+        ocs:C36500,
+        ocs:C44835,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C7106,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

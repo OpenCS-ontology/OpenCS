@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36871 a skos:Concept ;
+    skos:broader ocs:C14986,
+        ocs:C16356 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guarded_logic> ;
+    skos:prefLabel "Guarded logic" ;
+    skos:related ocs:C11283,
+        ocs:C12474,
+        ocs:C16356,
+        ocs:C17726,
+        ocs:C2418,
+        ocs:C24811,
+        ocs:C34795,
+        ocs:C36126,
+        ocs:C37100,
+        ocs:C38308,
+        ocs:C38919,
+        ocs:C39821,
+        ocs:C42583,
+        ocs:C43164 .
+

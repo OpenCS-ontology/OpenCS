@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18507 a skos:Concept ;
+    skos:broader ocs:C10322,
+        ocs:C3639,
+        ocs:C6941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combinator_library> ;
+    skos:prefLabel "Combinator library" ;
+    skos:related ocs:C10244,
+        ocs:C10322,
+        ocs:C10608,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C1631,
+        ocs:C17578,
+        ocs:C17626,
+        ocs:C23439,
+        ocs:C24634,
+        ocs:C27185,
+        ocs:C27380,
+        ocs:C29868,
+        ocs:C31724,
+        ocs:C38038,
+        ocs:C4232,
+        ocs:C6080,
+        ocs:C6941,
+        ocs:C7825 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5908 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lightweight_Presentation_Protocol> ;
+    skos:prefLabel "Lightweight Presentation Protocol" ;
+    skos:related ocs:C14236,
+        ocs:C14417,
+        ocs:C17918,
+        ocs:C18107,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C30500,
+        ocs:C3083,
+        ocs:C35331,
+        ocs:C3968,
+        ocs:C41914,
+        ocs:C45641,
+        ocs:C686,
+        ocs:C9931 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45517 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Default-free_zone> ;
+    skos:prefLabel "Default-free zone" ;
+    skos:related ocs:C10563,
+        ocs:C1741,
+        ocs:C21894,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C26450,
+        ocs:C35362,
+        ocs:C35734,
+        ocs:C37035,
+        ocs:C38672,
+        ocs:C39681,
+        ocs:C40397,
+        ocs:C41206,
+        ocs:C42853,
+        ocs:C43012,
+        ocs:C44229,
+        ocs:C44972,
+        ocs:C45498,
+        ocs:C849,
+        ocs:C8614 .
+

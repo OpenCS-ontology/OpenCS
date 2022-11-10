@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30934 a skos:Concept ;
+    skos:broader ocs:C24354 ;
+    skos:closeMatch <http://dbpedia.org/resource/TPR_Storytelling> ;
+    skos:prefLabel "TPR Storytelling" ;
+    skos:related ocs:C14410,
+        ocs:C16053,
+        ocs:C24354,
+        ocs:C24461,
+        ocs:C29973,
+        ocs:C33078,
+        ocs:C33315,
+        ocs:C35800,
+        ocs:C43756,
+        ocs:C5058,
+        ocs:C7158,
+        ocs:C9065 .
+

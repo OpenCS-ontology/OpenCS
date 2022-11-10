@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6190 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Downgrade_attack> ;
+    skos:prefLabel "Downgrade attack" ;
+    skos:related ocs:C10282,
+        ocs:C17387,
+        ocs:C17399,
+        ocs:C20243,
+        ocs:C24131,
+        ocs:C29704,
+        ocs:C34625,
+        ocs:C35008,
+        ocs:C35146,
+        ocs:C36896,
+        ocs:C38115,
+        ocs:C38524,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C44017,
+        ocs:C4565,
+        ocs:C5471,
+        ocs:C6187 .
+

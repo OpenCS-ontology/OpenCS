@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7810 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hierarchical_closeness> ;
+    skos:prefLabel "Hierarchical closeness" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C18869,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C28236,
+        ocs:C28521,
+        ocs:C34565,
+        ocs:C38246,
+        ocs:C42302,
+        ocs:C42686,
+        ocs:C44043,
+        ocs:C44379,
+        ocs:C44672,
+        ocs:C45745,
+        ocs:C6335 .
+

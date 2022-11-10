@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40981 a skos:Concept ;
+    skos:broader ocs:C33103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_schema> ;
+    skos:prefLabel "Information schema" ;
+    skos:related ocs:C10444,
+        ocs:C1060,
+        ocs:C12185,
+        ocs:C13591,
+        ocs:C14025,
+        ocs:C16901,
+        ocs:C20517,
+        ocs:C224,
+        ocs:C2414,
+        ocs:C38026,
+        ocs:C3934,
+        ocs:C4028,
+        ocs:C41073,
+        ocs:C41302,
+        ocs:C5789,
+        ocs:C6,
+        ocs:C8227 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11074 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Home_Gateway_Initiative> ;
+    skos:prefLabel "Home Gateway Initiative" ;
+    skos:related ocs:C10226,
+        ocs:C13695,
+        ocs:C15589,
+        ocs:C16227,
+        ocs:C19350,
+        ocs:C22407,
+        ocs:C24335,
+        ocs:C25575,
+        ocs:C27570,
+        ocs:C31060,
+        ocs:C35370,
+        ocs:C35778,
+        ocs:C3966,
+        ocs:C4197,
+        ocs:C4433,
+        ocs:C45825,
+        ocs:C6821,
+        ocs:C7165,
+        ocs:C8896,
+        ocs:C9113 .
+

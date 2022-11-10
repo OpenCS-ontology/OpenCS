@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37854 a skos:Concept ;
+    skos:broader ocs:C32079,
+        ocs:C34052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feistel_cipher> ;
+    skos:prefLabel "Feistel cipher" ;
+    skos:related ocs:C14539,
+        ocs:C17856,
+        ocs:C23230,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C31774,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C38401,
+        ocs:C38685,
+        ocs:C39105,
+        ocs:C39213,
+        ocs:C41185,
+        ocs:C4218,
+        ocs:C43934,
+        ocs:C4751,
+        ocs:C8076 .
+

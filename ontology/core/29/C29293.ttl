@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29293 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Null_modem> ;
+    skos:prefLabel "Null modem" ;
+    skos:related ocs:C10271,
+        ocs:C11310,
+        ocs:C12815,
+        ocs:C2534,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C490,
+        ocs:C9,
+        ocs:C9217 .
+

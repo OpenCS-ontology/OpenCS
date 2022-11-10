@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26780 a skos:Concept ;
+    skos:broader ocs:C1811,
+        ocs:C2422,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fusional_vergence> ;
+    skos:prefLabel "Fusional vergence" ;
+    skos:related ocs:C14415,
+        ocs:C17659,
+        ocs:C1811,
+        ocs:C21313,
+        ocs:C21964,
+        ocs:C2422,
+        ocs:C26950,
+        ocs:C33343,
+        ocs:C34586 .
+

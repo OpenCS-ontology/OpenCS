@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32657 a skos:Concept ;
+    skos:broader ocs:C17734,
+        ocs:C17905,
+        ocs:C18405,
+        ocs:C18567 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_access_object> ;
+    skos:prefLabel "Data access object" ;
+    skos:related ocs:C12164,
+        ocs:C12185,
+        ocs:C13984,
+        ocs:C14627,
+        ocs:C16874,
+        ocs:C23139,
+        ocs:C30561,
+        ocs:C36084,
+        ocs:C3850,
+        ocs:C45138,
+        ocs:C45343,
+        ocs:C4722,
+        ocs:C5789,
+        ocs:C6,
+        ocs:C9056 .
+

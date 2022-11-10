@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45856 a skos:Concept ;
+    skos:broader ocs:C32640 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boot_Service_Discovery_Protocol> ;
+    skos:prefLabel "Boot Service Discovery Protocol" ;
+    skos:related ocs:C10400,
+        ocs:C10865,
+        ocs:C15478,
+        ocs:C16980,
+        ocs:C20125,
+        ocs:C21545,
+        ocs:C22541,
+        ocs:C22742,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C31690,
+        ocs:C34264,
+        ocs:C34946,
+        ocs:C39579,
+        ocs:C44872,
+        ocs:C6768,
+        ocs:C9162 .
+

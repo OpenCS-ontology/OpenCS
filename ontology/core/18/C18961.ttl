@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18961 a skos:Concept ;
+    skos:broader ocs:C1376,
+        ocs:C5706,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_time_interval_error> ;
+    skos:prefLabel "Maximum time interval error" .
+

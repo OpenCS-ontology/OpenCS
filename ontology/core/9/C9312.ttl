@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9312 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C23,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_retrieval> ;
+    skos:prefLabel "Image retrieval" ;
+    skos:related ocs:C1023,
+        ocs:C14082,
+        ocs:C1561,
+        ocs:C17245,
+        ocs:C23,
+        ocs:C248,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C36276,
+        ocs:C37748,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C6,
+        ocs:C7,
+        ocs:C8499,
+        ocs:C9604 .
+

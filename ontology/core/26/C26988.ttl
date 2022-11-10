@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26988 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lambert_conformal_conic_projection> ;
+    skos:prefLabel "Lambert conformal conic projection" ;
+    skos:related ocs:C21587 .
+

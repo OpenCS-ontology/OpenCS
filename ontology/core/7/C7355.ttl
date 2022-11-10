@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7355 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensemaking> ;
+    skos:prefLabel "Sensemaking" ;
+    skos:related ocs:C11026,
+        ocs:C11087,
+        ocs:C12,
+        ocs:C17655,
+        ocs:C18,
+        ocs:C20631,
+        ocs:C22927,
+        ocs:C3343,
+        ocs:C38687,
+        ocs:C4754,
+        ocs:C9224,
+        ocs:C9704 .
+

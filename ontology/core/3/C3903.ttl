@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3903 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Task_analysis> ;
+    skos:prefLabel "Task analysis" ;
+    skos:related ocs:C1630,
+        ocs:C16550,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C2058,
+        ocs:C26696,
+        ocs:C4292,
+        ocs:C45554,
+        ocs:C7736,
+        ocs:C9607 .
+

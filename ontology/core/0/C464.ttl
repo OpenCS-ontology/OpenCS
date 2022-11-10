@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C464 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/NETVC> ;
+    skos:prefLabel "NETVC" ;
+    skos:related ocs:C11043,
+        ocs:C11323,
+        ocs:C16860,
+        ocs:C18498,
+        ocs:C34702,
+        ocs:C35808,
+        ocs:C36633,
+        ocs:C45687,
+        ocs:C6640,
+        ocs:C7219 .
+

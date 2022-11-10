@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8952 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baud> ;
+    skos:prefLabel "Baud" ;
+    skos:related ocs:C10320,
+        ocs:C10409,
+        ocs:C10696,
+        ocs:C16547,
+        ocs:C17404,
+        ocs:C19230,
+        ocs:C21929,
+        ocs:C22451,
+        ocs:C2534,
+        ocs:C26814,
+        ocs:C4259,
+        ocs:C6034,
+        ocs:C7502,
+        ocs:C9162 .
+

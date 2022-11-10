@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23176 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C8704,
+        ocs:C8753,
+        ocs:C9157,
+        ocs:C9486 ;
+    skos:prefLabel "Macro dataflow" .
+

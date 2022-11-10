@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45888 a skos:Concept ;
+    skos:broader ocs:C30766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cognitive_sociolinguistics> ;
+    skos:prefLabel "Cognitive sociolinguistics" ;
+    skos:related ocs:C11192,
+        ocs:C12110,
+        ocs:C13210,
+        ocs:C26019,
+        ocs:C28748,
+        ocs:C28799,
+        ocs:C30766,
+        ocs:C45675,
+        ocs:C5628,
+        ocs:C9777 .
+

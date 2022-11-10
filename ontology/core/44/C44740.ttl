@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44740 a skos:Concept ;
+    skos:broader ocs:C29730,
+        ocs:C30110 ;
+    skos:closeMatch <http://dbpedia.org/resource/Creeping_wave> ;
+    skos:prefLabel "Creeping wave" ;
+    skos:related ocs:C30435,
+        ocs:C3044,
+        ocs:C35931,
+        ocs:C8700 .
+

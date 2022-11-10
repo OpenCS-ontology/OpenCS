@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42974 a skos:Concept ;
+    skos:broader ocs:C35661 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mazur–Ulam_theorem> ;
+    skos:prefLabel "Mazur–Ulam theorem" ;
+    skos:related ocs:C23927,
+        ocs:C29686,
+        ocs:C30374,
+        ocs:C30507,
+        ocs:C31924,
+        ocs:C36009,
+        ocs:C39433,
+        ocs:C41764,
+        ocs:C43376,
+        ocs:C45576 .
+

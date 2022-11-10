@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C89 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiprotocol_Encapsulation_over_ATM> ;
+    skos:prefLabel "Multiprotocol Encapsulation over ATM" ;
+    skos:related ocs:C13706,
+        ocs:C15589,
+        ocs:C20314,
+        ocs:C20540,
+        ocs:C23155,
+        ocs:C23613,
+        ocs:C23995,
+        ocs:C24335,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C29798,
+        ocs:C30342,
+        ocs:C3039,
+        ocs:C33773,
+        ocs:C3863,
+        ocs:C39009,
+        ocs:C40459,
+        ocs:C42692,
+        ocs:C5213,
+        ocs:C9327 .
+

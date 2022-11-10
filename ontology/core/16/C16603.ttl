@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16603 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Suicide_and_the_Internet> ;
+    skos:prefLabel "Suicide and the Internet" ;
+    skos:related ocs:C15409,
+        ocs:C27498,
+        ocs:C8614 .
+

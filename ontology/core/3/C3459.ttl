@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3459 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lucas–Lehmer–Riesel_test> ;
+    skos:prefLabel "Lucas–Lehmer–Riesel test" ;
+    skos:related ocs:C2212,
+        ocs:C2309,
+        ocs:C3158,
+        ocs:C40241,
+        ocs:C5730,
+        ocs:C6550,
+        ocs:C6996,
+        ocs:C9034 .
+

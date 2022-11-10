@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31422 a skos:Concept ;
+    skos:broader ocs:C25960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_pool> ;
+    skos:prefLabel "Memory pool" ;
+    skos:related ocs:C14055,
+        ocs:C25960,
+        ocs:C2766,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C32676,
+        ocs:C33702,
+        ocs:C38819,
+        ocs:C43003,
+        ocs:C43716,
+        ocs:C44662,
+        ocs:C45188,
+        ocs:C7224,
+        ocs:C7470,
+        ocs:C794 .
+

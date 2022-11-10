@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24870 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_traffic_control> ;
+    skos:prefLabel "Network traffic control" ;
+    skos:related ocs:C15065,
+        ocs:C17371,
+        ocs:C17625,
+        ocs:C19479,
+        ocs:C20691,
+        ocs:C26,
+        ocs:C27572,
+        ocs:C3239,
+        ocs:C37577,
+        ocs:C38312,
+        ocs:C38698,
+        ocs:C390,
+        ocs:C39948,
+        ocs:C41620,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42554,
+        ocs:C43139,
+        ocs:C4502,
+        ocs:C7767 .
+

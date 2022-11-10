@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C75 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Server-side> ;
+    skos:prefLabel "Server-side" ;
+    skos:related ocs:C1006,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C12810,
+        ocs:C14627,
+        ocs:C15478,
+        ocs:C16336,
+        ocs:C17235,
+        ocs:C22597,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C3520,
+        ocs:C4918,
+        ocs:C6,
+        ocs:C9 .
+

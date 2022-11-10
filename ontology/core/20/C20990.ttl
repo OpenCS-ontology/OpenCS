@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20990 a skos:Concept ;
+    skos:broader ocs:C9854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spike_directivity> ;
+    skos:prefLabel "Spike directivity" ;
+    skos:related ocs:C20126,
+        ocs:C24856,
+        ocs:C9854 .
+

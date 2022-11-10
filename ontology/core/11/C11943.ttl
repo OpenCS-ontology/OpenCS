@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11943 a skos:Concept ;
+    skos:broader ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_citizen> ;
+    skos:prefLabel "Digital citizen" ;
+    skos:related ocs:C10070,
+        ocs:C10611,
+        ocs:C11087,
+        ocs:C11645,
+        ocs:C14032,
+        ocs:C15784,
+        ocs:C17873,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C23964,
+        ocs:C25411,
+        ocs:C26,
+        ocs:C26014,
+        ocs:C31,
+        ocs:C36140,
+        ocs:C4438,
+        ocs:C7297,
+        ocs:C8614 .
+

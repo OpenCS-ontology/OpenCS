@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13719 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_distance> ;
+    skos:prefLabel "Information distance" ;
+    skos:related ocs:C22100,
+        ocs:C24483,
+        ocs:C25459,
+        ocs:C26256,
+        ocs:C27832,
+        ocs:C33287,
+        ocs:C34565,
+        ocs:C37207,
+        ocs:C5816,
+        ocs:C6880 .
+

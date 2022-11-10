@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27036 a skos:Concept ;
+    skos:broader ocs:C2172 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temperature_data_logger> ;
+    skos:prefLabel "Temperature data logger" ;
+    skos:related ocs:C14702,
+        ocs:C20009,
+        ocs:C2044,
+        ocs:C2172,
+        ocs:C6702 .
+

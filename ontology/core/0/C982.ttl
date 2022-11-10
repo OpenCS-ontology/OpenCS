@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C982 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bus_contention> ;
+    skos:prefLabel "Bus contention" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12918,
+        ocs:C15,
+        ocs:C20178,
+        ocs:C23956,
+        ocs:C27,
+        ocs:C31754,
+        ocs:C32592,
+        ocs:C35364,
+        ocs:C41110,
+        ocs:C42690,
+        ocs:C74,
+        ocs:C8036,
+        ocs:C8404,
+        ocs:C9 .
+

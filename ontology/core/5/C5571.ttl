@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5571 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_tester> ;
+    skos:prefLabel "Memory tester" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C13875,
+        ocs:C2084,
+        ocs:C22742,
+        ocs:C25107,
+        ocs:C25954,
+        ocs:C26602,
+        ocs:C35309,
+        ocs:C3586,
+        ocs:C38300,
+        ocs:C39215,
+        ocs:C4878,
+        ocs:C4916,
+        ocs:C6072,
+        ocs:C6798,
+        ocs:C9 .
+

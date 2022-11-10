@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14931 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/RF_module> ;
+    skos:prefLabel "RF module" ;
+    skos:related ocs:C11153,
+        ocs:C13593,
+        ocs:C15962,
+        ocs:C20231,
+        ocs:C22530,
+        ocs:C27912,
+        ocs:C3236,
+        ocs:C35370,
+        ocs:C36695,
+        ocs:C40705,
+        ocs:C543,
+        ocs:C9253 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16728 a skos:Concept ;
+    skos:broader ocs:C2863 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crash_simulation> ;
+    skos:prefLabel "Crash simulation" ;
+    skos:related ocs:C17236,
+        ocs:C20456,
+        ocs:C26749,
+        ocs:C45620,
+        ocs:C7256,
+        ocs:C7848 .
+

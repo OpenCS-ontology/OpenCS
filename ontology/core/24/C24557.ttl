@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24557 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astroengineering> ;
+    skos:prefLabel "Astroengineering" ;
+    skos:related ocs:C10314,
+        ocs:C11390,
+        ocs:C13272,
+        ocs:C18218,
+        ocs:C26524,
+        ocs:C2811,
+        ocs:C44345,
+        ocs:C597 .
+

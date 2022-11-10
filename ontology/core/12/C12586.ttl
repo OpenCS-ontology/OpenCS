@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12586 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_system> ;
+    skos:prefLabel "Smart system" ;
+    skos:related ocs:C11537,
+        ocs:C12238,
+        ocs:C14326,
+        ocs:C15048,
+        ocs:C15834,
+        ocs:C17236,
+        ocs:C21943,
+        ocs:C4917,
+        ocs:C8386,
+        ocs:C9874 .
+

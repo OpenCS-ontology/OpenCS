@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3337 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expression_(mathematics)> ;
+    skos:prefLabel "Expression (mathematics)" ;
+    skos:related ocs:C10825,
+        ocs:C12023,
+        ocs:C12474,
+        ocs:C13411,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C29529,
+        ocs:C3894,
+        ocs:C45525,
+        ocs:C5828,
+        ocs:C9204 .
+

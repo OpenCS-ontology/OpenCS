@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40077 a skos:Concept ;
+    skos:broader ocs:C35697 ;
+    skos:closeMatch <http://dbpedia.org/resource/NvSRAM> ;
+    skos:prefLabel "nvSRAM" ;
+    skos:related ocs:C13875,
+        ocs:C23270,
+        ocs:C24321,
+        ocs:C2936,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C38790,
+        ocs:C42254,
+        ocs:C4259,
+        ocs:C43462,
+        ocs:C5136,
+        ocs:C5669 .
+

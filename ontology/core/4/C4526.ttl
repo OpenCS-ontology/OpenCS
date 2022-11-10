@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4526 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free_Lossless_Image_Format> ;
+    skos:prefLabel "Free Lossless Image Format" ;
+    skos:related ocs:C10380,
+        ocs:C15987,
+        ocs:C2937,
+        ocs:C35078,
+        ocs:C4584 .
+

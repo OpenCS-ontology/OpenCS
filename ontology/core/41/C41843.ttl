@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41843 a skos:Concept ;
+    skos:broader ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stein's_example> ;
+    skos:prefLabel "Stein's example" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C13685,
+        ocs:C14620,
+        ocs:C22258,
+        ocs:C26880,
+        ocs:C29461,
+        ocs:C34590,
+        ocs:C39239,
+        ocs:C39749,
+        ocs:C45699,
+        ocs:C45849,
+        ocs:C6533,
+        ocs:C7471 .
+

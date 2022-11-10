@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3633 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Map_folding> ;
+    skos:prefLabel "Map folding" ;
+    skos:related ocs:C17726,
+        ocs:C19033,
+        ocs:C22897,
+        ocs:C24232,
+        ocs:C25437,
+        ocs:C29836,
+        ocs:C3678,
+        ocs:C39855,
+        ocs:C6776,
+        ocs:C7988 .
+

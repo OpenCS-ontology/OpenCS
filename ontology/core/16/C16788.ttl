@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16788 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/U-NII> ;
+    skos:prefLabel "U-NII" ;
+    skos:related ocs:C15897,
+        ocs:C19721,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C25626,
+        ocs:C27912,
+        ocs:C30901,
+        ocs:C31252,
+        ocs:C32548,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C41907,
+        ocs:C45299,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7746,
+        ocs:C7877,
+        ocs:C8612 .
+

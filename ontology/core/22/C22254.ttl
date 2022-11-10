@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22254 a skos:Concept ;
+    skos:broader ocs:C8701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embodied_agent> ;
+    skos:prefLabel "Embodied agent" ;
+    skos:related ocs:C1,
+        ocs:C10616,
+        ocs:C11934,
+        ocs:C12579,
+        ocs:C12977,
+        ocs:C18,
+        ocs:C19750,
+        ocs:C21882,
+        ocs:C25512,
+        ocs:C2579,
+        ocs:C29173,
+        ocs:C31036,
+        ocs:C32,
+        ocs:C5776,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8965 .
+

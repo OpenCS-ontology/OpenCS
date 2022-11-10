@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40802 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Beta_wavelet> ;
+    skos:prefLabel "Beta wavelet" ;
+    skos:related ocs:C10554,
+        ocs:C33342,
+        ocs:C34362,
+        ocs:C36952,
+        ocs:C40380,
+        ocs:C41327,
+        ocs:C42353,
+        ocs:C43553,
+        ocs:C43908,
+        ocs:C44791,
+        ocs:C45112,
+        ocs:C45115 .
+

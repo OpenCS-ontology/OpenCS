@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17051 a skos:Concept ;
+    skos:broader ocs:C10233,
+        ocs:C6316 ;
+    skos:closeMatch <http://dbpedia.org/resource/Letter_of_credit> ;
+    skos:prefLabel "Letter of credit" ;
+    skos:related ocs:C12752,
+        ocs:C16292,
+        ocs:C33193,
+        ocs:C4779,
+        ocs:C7458 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8633 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Portable_computer> ;
+    skos:prefLabel "Portable computer" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C12815,
+        ocs:C12851,
+        ocs:C1338,
+        ocs:C13851,
+        ocs:C19481,
+        ocs:C25252,
+        ocs:C29012,
+        ocs:C4259,
+        ocs:C653,
+        ocs:C7166,
+        ocs:C8787,
+        ocs:C9 .
+

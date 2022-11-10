@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42851 a skos:Concept ;
+    skos:broader ocs:C33528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extraterrestrial_materials> ;
+    skos:prefLabel "Extraterrestrial materials" ;
+    skos:related ocs:C16972,
+        ocs:C22014,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C33528,
+        ocs:C35690,
+        ocs:C597 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16186 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gamma-ray_astronomy> ;
+    skos:prefLabel "Gamma-ray astronomy" ;
+    skos:related ocs:C16545,
+        ocs:C30541 .
+

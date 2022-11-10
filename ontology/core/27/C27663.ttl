@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27663 a skos:Concept ;
+    skos:broader ocs:C12971 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_techniques> ;
+    skos:prefLabel "Space techniques" ;
+    skos:related ocs:C11280,
+        ocs:C12971,
+        ocs:C21936,
+        ocs:C2252,
+        ocs:C24604,
+        ocs:C40983,
+        ocs:C5293,
+        ocs:C81 .
+

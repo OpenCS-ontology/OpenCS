@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31201 a skos:Concept ;
+    skos:broader ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_architecture> ;
+    skos:prefLabel "Information architecture" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C12,
+        ocs:C13413,
+        ocs:C13673,
+        ocs:C1621,
+        ocs:C18,
+        ocs:C197,
+        ocs:C2135,
+        ocs:C28503,
+        ocs:C28533,
+        ocs:C2979,
+        ocs:C306,
+        ocs:C40270,
+        ocs:C4292,
+        ocs:C5051,
+        ocs:C6,
+        ocs:C8269,
+        ocs:C9607 .
+

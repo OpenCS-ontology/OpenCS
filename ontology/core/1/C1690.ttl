@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1690 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perl_Object_Environment> ;
+    skos:prefLabel "Perl Object Environment" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11016,
+        ocs:C1142,
+        ocs:C11991,
+        ocs:C1333,
+        ocs:C20150,
+        ocs:C24315,
+        ocs:C25917,
+        ocs:C26700,
+        ocs:C3036,
+        ocs:C35502,
+        ocs:C41724,
+        ocs:C45142,
+        ocs:C6178,
+        ocs:C9 .
+

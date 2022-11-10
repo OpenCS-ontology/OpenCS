@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15470 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multichannel_marketing> ;
+    skos:prefLabel "Multichannel marketing" ;
+    skos:related ocs:C10764,
+        ocs:C11546,
+        ocs:C14128,
+        ocs:C14157,
+        ocs:C20400,
+        ocs:C21709,
+        ocs:C22839,
+        ocs:C23495,
+        ocs:C27200,
+        ocs:C32589 .
+

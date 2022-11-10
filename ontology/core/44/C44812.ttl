@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44812 a skos:Concept ;
+    skos:broader ocs:C35406 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vundu> ;
+    skos:prefLabel "Vundu" ;
+    skos:related ocs:C35406,
+        ocs:C35846,
+        ocs:C40668,
+        ocs:C42351,
+        ocs:C43662,
+        ocs:C45379 .
+

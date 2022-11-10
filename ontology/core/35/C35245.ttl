@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35245 a skos:Concept ;
+    skos:broader ocs:C22527 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calcium-activated_chloride_channel> ;
+    skos:prefLabel "Calcium-Activated Chloride Channels" ;
+    skos:related ocs:C21774,
+        ocs:C23973,
+        ocs:C37081,
+        ocs:C37782 .
+

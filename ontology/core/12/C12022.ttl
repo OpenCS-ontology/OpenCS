@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12022 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C18,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Principle_of_least_astonishment> ;
+    skos:prefLabel "Principle of least astonishment" ;
+    skos:related ocs:C1142,
+        ocs:C13790,
+        ocs:C14271,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C280,
+        ocs:C28881,
+        ocs:C2946,
+        ocs:C30078,
+        ocs:C32547,
+        ocs:C34966,
+        ocs:C37398,
+        ocs:C44483,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C7736,
+        ocs:C813,
+        ocs:C9,
+        ocs:C9441 .
+

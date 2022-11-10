@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39315 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/Additive_increase/multiplicative_decrease> ;
+    skos:prefLabel "Additive increase/multiplicative decrease" ;
+    skos:related ocs:C20691,
+        ocs:C24323,
+        ocs:C2699,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C38125,
+        ocs:C38366,
+        ocs:C38743,
+        ocs:C38814,
+        ocs:C38818,
+        ocs:C39054,
+        ocs:C39551,
+        ocs:C3982,
+        ocs:C3989,
+        ocs:C39947,
+        ocs:C40273,
+        ocs:C40301,
+        ocs:C43407,
+        ocs:C45619,
+        ocs:C45850 .
+

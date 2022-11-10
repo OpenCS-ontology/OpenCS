@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24718 a skos:Concept ;
+    skos:broader ocs:C5007,
+        ocs:C6788,
+        ocs:C9540,
+        ocs:C983 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPECpower> ;
+    skos:prefLabel "SPECpower" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C13151,
+        ocs:C14627,
+        ocs:C15672,
+        ocs:C15983,
+        ocs:C1904,
+        ocs:C197,
+        ocs:C22554,
+        ocs:C23022,
+        ocs:C2352,
+        ocs:C26517,
+        ocs:C30689,
+        ocs:C34267,
+        ocs:C36048,
+        ocs:C4159,
+        ocs:C44730,
+        ocs:C9487 .
+

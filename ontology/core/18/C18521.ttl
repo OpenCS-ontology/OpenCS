@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18521 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Air_navigation> ;
+    skos:prefLabel "Air navigation" ;
+    skos:related ocs:C1094,
+        ocs:C12641,
+        ocs:C14324,
+        ocs:C16291,
+        ocs:C16352,
+        ocs:C18996,
+        ocs:C23477,
+        ocs:C25753,
+        ocs:C26346,
+        ocs:C27698,
+        ocs:C3230,
+        ocs:C38466,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C5030 .
+

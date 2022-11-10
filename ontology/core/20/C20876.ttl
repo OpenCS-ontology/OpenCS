@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20876 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earth_sciences_graphics_software> ;
+    skos:prefLabel "Earth sciences graphics software" ;
+    skos:related ocs:C10822,
+        ocs:C1909,
+        ocs:C27501,
+        ocs:C2846,
+        ocs:C33465,
+        ocs:C6178 .
+

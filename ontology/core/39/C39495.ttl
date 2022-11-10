@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39495 a skos:Concept ;
+    skos:broader ocs:C31357 ;
+    skos:closeMatch <http://dbpedia.org/resource/Google_matrix> ;
+    skos:prefLabel "Google matrix" ;
+    skos:related ocs:C14004,
+        ocs:C19174,
+        ocs:C20860,
+        ocs:C21143,
+        ocs:C27087,
+        ocs:C28521,
+        ocs:C29913,
+        ocs:C33220,
+        ocs:C34314,
+        ocs:C40049,
+        ocs:C44202,
+        ocs:C45316,
+        ocs:C7689 .
+

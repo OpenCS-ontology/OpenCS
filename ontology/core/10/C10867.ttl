@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10867 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_Intelligence> ;
+    skos:prefLabel "Semantic Intelligence" ;
+    skos:related ocs:C10912,
+        ocs:C12238,
+        ocs:C12736,
+        ocs:C15562,
+        ocs:C1728,
+        ocs:C19505,
+        ocs:C21072,
+        ocs:C28117,
+        ocs:C2979,
+        ocs:C325,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38252,
+        ocs:C4968,
+        ocs:C6396,
+        ocs:C6749,
+        ocs:C8301,
+        ocs:C9488 .
+

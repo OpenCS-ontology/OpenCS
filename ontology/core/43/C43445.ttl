@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43445 a skos:Concept ;
+    skos:broader ocs:C37782 ;
+    skos:closeMatch <http://dbpedia.org/resource/SNX-482> ;
+    skos:prefLabel "SNX-482" ;
+    skos:related ocs:C31045,
+        ocs:C33493,
+        ocs:C34437,
+        ocs:C36335,
+        ocs:C37219,
+        ocs:C37268,
+        ocs:C38074,
+        ocs:C42913 .
+

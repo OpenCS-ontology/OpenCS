@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27909 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_light_switch> ;
+    skos:prefLabel "Wireless light switch" ;
+    skos:related ocs:C11153,
+        ocs:C11825,
+        ocs:C17866,
+        ocs:C7159,
+        ocs:C7179,
+        ocs:C8010 .
+

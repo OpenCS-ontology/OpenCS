@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40044 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_P1363> ;
+    skos:prefLabel "IEEE P1363" ;
+    skos:related ocs:C16125,
+        ocs:C2467,
+        ocs:C31774,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C33428,
+        ocs:C37588,
+        ocs:C38359,
+        ocs:C38692,
+        ocs:C39034,
+        ocs:C39389,
+        ocs:C40791,
+        ocs:C41012,
+        ocs:C41786,
+        ocs:C41838,
+        ocs:C4218,
+        ocs:C43074,
+        ocs:C43402,
+        ocs:C4513,
+        ocs:C45715 .
+

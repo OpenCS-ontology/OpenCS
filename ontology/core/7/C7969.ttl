@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7969 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blum_axioms> ;
+    skos:prefLabel "Blum axioms" ;
+    skos:related ocs:C10,
+        ocs:C1631,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C34139,
+        ocs:C34319,
+        ocs:C3678,
+        ocs:C41588,
+        ocs:C41998,
+        ocs:C44804,
+        ocs:C45460,
+        ocs:C6880 .
+

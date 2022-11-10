@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40584 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C35839,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preimage_attack> ;
+    skos:prefLabel "Preimage attack" ;
+    skos:related ocs:C15591,
+        ocs:C23875,
+        ocs:C30340,
+        ocs:C32054,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39101,
+        ocs:C3936,
+        ocs:C39396,
+        ocs:C39524,
+        ocs:C40956,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C42818,
+        ocs:C43191,
+        ocs:C43750,
+        ocs:C5930,
+        ocs:C9254 .
+

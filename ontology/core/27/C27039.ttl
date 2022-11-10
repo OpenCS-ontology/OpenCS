@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27039 a skos:Concept ;
+    skos:broader ocs:C1692,
+        ocs:C5746,
+        ocs:C9604 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photochrom> ;
+    skos:prefLabel "Photochrom" ;
+    skos:related ocs:C12473 .
+

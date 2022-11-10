@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26453 a skos:Concept ;
+    skos:broader ocs:C2413,
+        ocs:C7397,
+        ocs:C8944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch_and_cut> ;
+    skos:prefLabel "Branch and cut" ;
+    skos:related ocs:C11372,
+        ocs:C15480,
+        ocs:C15675,
+        ocs:C16686,
+        ocs:C19181,
+        ocs:C2413,
+        ocs:C25481,
+        ocs:C34053,
+        ocs:C3837,
+        ocs:C40100,
+        ocs:C5691,
+        ocs:C5823,
+        ocs:C6287,
+        ocs:C7397,
+        ocs:C8660,
+        ocs:C8944 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45843 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/8-bit_color> ;
+    skos:prefLabel "8-bit color" ;
+    skos:related ocs:C10973,
+        ocs:C13155,
+        ocs:C21609,
+        ocs:C22256,
+        ocs:C22257,
+        ocs:C24211,
+        ocs:C2434,
+        ocs:C28172,
+        ocs:C28881,
+        ocs:C35166,
+        ocs:C36633,
+        ocs:C41977,
+        ocs:C44,
+        ocs:C44316,
+        ocs:C4916,
+        ocs:C6113,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C9664 .
+

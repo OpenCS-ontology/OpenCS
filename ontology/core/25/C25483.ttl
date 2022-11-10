@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25483 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thin-film_diode> ;
+    skos:prefLabel "Thin-film diode" ;
+    skos:related ocs:C1084,
+        ocs:C13725,
+        ocs:C17088 .
+

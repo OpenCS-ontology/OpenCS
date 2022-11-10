@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44779 a skos:Concept ;
+    skos:broader ocs:C30080,
+        ocs:C33737 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_robot> ;
+    skos:prefLabel "Personal robot" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10396,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C19558,
+        ocs:C21424,
+        ocs:C36413,
+        ocs:C36715,
+        ocs:C37695,
+        ocs:C39311,
+        ocs:C40717,
+        ocs:C43586,
+        ocs:C7,
+        ocs:C8,
+        ocs:C852,
+        ocs:C9047 .
+

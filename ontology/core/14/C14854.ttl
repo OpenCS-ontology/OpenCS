@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14854 a skos:Concept ;
+    skos:broader ocs:C10516 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iranian_languages> ;
+    skos:prefLabel "Iranian languages" ;
+    skos:related ocs:C10516,
+        ocs:C23905,
+        ocs:C25676,
+        ocs:C26894,
+        ocs:C5062,
+        ocs:C7501 .
+

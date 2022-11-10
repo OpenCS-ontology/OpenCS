@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31846 a skos:Concept ;
+    skos:broader ocs:C14921,
+        ocs:C19182,
+        ocs:C29390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbrion> ;
+    skos:prefLabel "Symbrion" ;
+    skos:related ocs:C10396,
+        ocs:C13542,
+        ocs:C17236,
+        ocs:C19008,
+        ocs:C19182,
+        ocs:C28740,
+        ocs:C33411,
+        ocs:C33887,
+        ocs:C35805,
+        ocs:C41263,
+        ocs:C44558,
+        ocs:C6743,
+        ocs:C7513 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26266 a skos:Concept ;
+    skos:broader ocs:C3569 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single_point_of_failure> ;
+    skos:prefLabel "Single point of failure" ;
+    skos:related ocs:C11540,
+        ocs:C12348,
+        ocs:C12812,
+        ocs:C13550,
+        ocs:C20205,
+        ocs:C26,
+        ocs:C2878,
+        ocs:C30,
+        ocs:C31489,
+        ocs:C3569,
+        ocs:C39186,
+        ocs:C45518,
+        ocs:C6,
+        ocs:C6312,
+        ocs:C8173,
+        ocs:C8614,
+        ocs:C9 .
+

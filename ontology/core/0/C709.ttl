@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C709 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interleave_sequence> ;
+    skos:prefLabel "Interleave sequence" ;
+    skos:related ocs:C10392,
+        ocs:C12311,
+        ocs:C24265,
+        ocs:C26013,
+        ocs:C30725,
+        ocs:C40868 .
+

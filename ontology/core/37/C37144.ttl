@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37144 a skos:Concept ;
+    skos:broader ocs:C15405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiscroll_attractor> ;
+    skos:prefLabel "Multiscroll attractor" ;
+    skos:related ocs:C13992,
+        ocs:C14375,
+        ocs:C14592,
+        ocs:C16634,
+        ocs:C16955,
+        ocs:C18873,
+        ocs:C27040,
+        ocs:C29662,
+        ocs:C34416 .
+

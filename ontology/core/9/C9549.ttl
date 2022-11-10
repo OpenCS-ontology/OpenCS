@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9549 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/IETM> ;
+    skos:prefLabel "IETM" ;
+    skos:related ocs:C11827,
+        ocs:C13152,
+        ocs:C13347,
+        ocs:C13744,
+        ocs:C21072,
+        ocs:C25309,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C3429,
+        ocs:C35567,
+        ocs:C3736,
+        ocs:C39041,
+        ocs:C40902,
+        ocs:C8614 .
+

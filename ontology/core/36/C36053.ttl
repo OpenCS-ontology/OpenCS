@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36053 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pettis_integral> ;
+    skos:prefLabel "Pettis integral" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C33679,
+        ocs:C33860,
+        ocs:C35460,
+        ocs:C38000,
+        ocs:C38414,
+        ocs:C40292,
+        ocs:C41233,
+        ocs:C45267,
+        ocs:C45364 .
+

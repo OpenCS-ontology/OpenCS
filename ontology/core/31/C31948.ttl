@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31948 a skos:Concept ;
+    skos:broader ocs:C22483 ;
+    skos:closeMatch <http://dbpedia.org/resource/FETI-DP> ;
+    skos:prefLabel "FETI-DP" ;
+    skos:related ocs:C15070,
+        ocs:C22483,
+        ocs:C27,
+        ocs:C32520,
+        ocs:C32780,
+        ocs:C44942,
+        ocs:C6203 .
+

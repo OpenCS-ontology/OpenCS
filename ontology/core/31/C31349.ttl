@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31349 a skos:Concept ;
+    skos:broader ocs:C17081,
+        ocs:C17887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mindlin–Reissner_plate_theory> ;
+    skos:prefLabel "Mindlin–Reissner plate theory" .
+

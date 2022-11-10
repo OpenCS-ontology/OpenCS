@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33900 a skos:Concept ;
+    skos:broader ocs:C16953,
+        ocs:C27574 ;
+    skos:closeMatch <http://dbpedia.org/resource/ALTQ> ;
+    skos:prefLabel "ALTQ" ;
+    skos:related ocs:C16351,
+        ocs:C16851,
+        ocs:C17371,
+        ocs:C19523,
+        ocs:C20691,
+        ocs:C22851,
+        ocs:C34789,
+        ocs:C38698,
+        ocs:C38818,
+        ocs:C39883,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C42235,
+        ocs:C42554,
+        ocs:C42619,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C5694,
+        ocs:C7516 .
+

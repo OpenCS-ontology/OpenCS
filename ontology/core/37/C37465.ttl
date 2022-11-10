@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37465 a skos:Concept ;
+    skos:broader ocs:C27885 ;
+    skos:closeMatch <http://dbpedia.org/resource/Critical_control_point> ;
+    skos:prefLabel "Critical control point" ;
+    skos:related ocs:C2044 .
+

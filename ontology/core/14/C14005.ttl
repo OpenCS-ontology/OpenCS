@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14005 a skos:Concept ;
+    skos:broader ocs:C2978,
+        ocs:C5251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cumulative_hierarchy> ;
+    skos:prefLabel "Cumulative hierarchy" ;
+    skos:related ocs:C11771,
+        ocs:C16069,
+        ocs:C16190,
+        ocs:C33304,
+        ocs:C34693,
+        ocs:C41107,
+        ocs:C42555,
+        ocs:C42636,
+        ocs:C45891,
+        ocs:C45913,
+        ocs:C5251 .
+

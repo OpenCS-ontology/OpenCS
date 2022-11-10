@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23870 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reinforced_carbon–carbon> ;
+    skos:prefLabel "Reinforced carbon–carbon" ;
+    skos:related ocs:C1628,
+        ocs:C22741,
+        ocs:C24699,
+        ocs:C29965,
+        ocs:C5293,
+        ocs:C7201 .
+

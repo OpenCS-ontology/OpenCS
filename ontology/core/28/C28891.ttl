@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28891 a skos:Concept ;
+    skos:broader ocs:C5293,
+        ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earth-centered_inertial> ;
+    skos:prefLabel "Earth-centered inertial" ;
+    skos:related ocs:C16396,
+        ocs:C19225,
+        ocs:C27277,
+        ocs:C30361,
+        ocs:C31953 .
+

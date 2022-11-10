@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2676 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:prefLabel "Manual interpretation" ;
+    skos:related ocs:C22,
+        ocs:C25,
+        ocs:C34,
+        ocs:C7911,
+        ocs:C8021,
+        ocs:C8499 .
+

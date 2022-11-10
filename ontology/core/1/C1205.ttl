@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1205 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_set> ;
+    skos:prefLabel "Simple set" ;
+    skos:related ocs:C12474,
+        ocs:C18412,
+        ocs:C20939,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C29119,
+        ocs:C34319,
+        ocs:C36945,
+        ocs:C38518,
+        ocs:C41998,
+        ocs:C44414,
+        ocs:C44854,
+        ocs:C45039,
+        ocs:C45880,
+        ocs:C6778,
+        ocs:C7370,
+        ocs:C862,
+        ocs:C9313 .
+

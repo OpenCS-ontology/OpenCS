@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17468 a skos:Concept ;
+    skos:broader ocs:C1443,
+        ocs:C2089 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gödel's_ontological_proof> ;
+    skos:prefLabel "Gödel's ontological proof" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C1443,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C28286,
+        ocs:C35496,
+        ocs:C43307,
+        ocs:C5714,
+        ocs:C8635 .
+

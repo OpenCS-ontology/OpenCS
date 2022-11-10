@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12811 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exploratory_data_analysis> ;
+    skos:prefLabel "Exploratory data analysis" ;
+    skos:related ocs:C11767,
+        ocs:C13,
+        ocs:C23847,
+        ocs:C24728,
+        ocs:C25294,
+        ocs:C27130,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C9488 .
+

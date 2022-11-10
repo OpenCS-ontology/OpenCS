@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26881 a skos:Concept ;
+    skos:broader ocs:C428 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indexed_search> ;
+    skos:prefLabel "Indexed search" ;
+    skos:related ocs:C14255,
+        ocs:C17131,
+        ocs:C23865,
+        ocs:C31167,
+        ocs:C35158,
+        ocs:C37500,
+        ocs:C40553,
+        ocs:C41074,
+        ocs:C41470 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29675 a skos:Concept ;
+    skos:broader ocs:C22594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_visualization_ability> ;
+    skos:prefLabel "Spatial visualization ability" ;
+    skos:related ocs:C1451,
+        ocs:C31056,
+        ocs:C32162,
+        ocs:C7682,
+        ocs:C8499 .
+

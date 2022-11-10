@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2376 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Accent_kernel> ;
+    skos:prefLabel "Accent kernel" ;
+    skos:related ocs:C12683,
+        ocs:C12851,
+        ocs:C14271,
+        ocs:C16229,
+        ocs:C21545,
+        ocs:C23924,
+        ocs:C24871,
+        ocs:C26097,
+        ocs:C27190,
+        ocs:C31489,
+        ocs:C34320,
+        ocs:C36439,
+        ocs:C38819,
+        ocs:C40322,
+        ocs:C42619,
+        ocs:C42695,
+        ocs:C8901,
+        ocs:C9 .
+

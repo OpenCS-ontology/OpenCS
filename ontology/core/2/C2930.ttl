@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2930 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Edit_distance> ;
+    skos:prefLabel "Edit distance" ;
+    skos:related ocs:C1,
+        ocs:C10698,
+        ocs:C16676,
+        ocs:C22275,
+        ocs:C29,
+        ocs:C31778,
+        ocs:C3189,
+        ocs:C3398,
+        ocs:C34809,
+        ocs:C37998,
+        ocs:C43491,
+        ocs:C43627,
+        ocs:C5145,
+        ocs:C6402,
+        ocs:C77,
+        ocs:C8660,
+        ocs:C9556 .
+

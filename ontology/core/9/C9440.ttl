@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9440 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniqueness_quantification> ;
+    skos:prefLabel "Uniqueness quantification" ;
+    skos:related ocs:C10671,
+        ocs:C10825,
+        ocs:C17709,
+        ocs:C1849,
+        ocs:C2418,
+        ocs:C2727,
+        ocs:C30651,
+        ocs:C35496,
+        ocs:C5251,
+        ocs:C7232,
+        ocs:C7861,
+        ocs:C8635 .
+

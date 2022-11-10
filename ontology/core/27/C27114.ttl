@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27114 a skos:Concept ;
+    skos:broader ocs:C1495 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call_management> ;
+    skos:prefLabel "Call management" ;
+    skos:related ocs:C13514,
+        ocs:C13585,
+        ocs:C1495,
+        ocs:C15185,
+        ocs:C22407,
+        ocs:C24899,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C36812,
+        ocs:C39169,
+        ocs:C44772,
+        ocs:C4983,
+        ocs:C7661,
+        ocs:C9113 .
+

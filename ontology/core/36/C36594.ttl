@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36594 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C29532 ;
+    skos:closeMatch <http://dbpedia.org/resource/European_Robotic_Arm> ;
+    skos:prefLabel "European Robotic Arm" ;
+    skos:related ocs:C10396,
+        ocs:C15308,
+        ocs:C1628,
+        ocs:C2252,
+        ocs:C24462,
+        ocs:C26399,
+        ocs:C26596,
+        ocs:C26824,
+        ocs:C29532,
+        ocs:C29692,
+        ocs:C33741,
+        ocs:C42136,
+        ocs:C42725,
+        ocs:C43342,
+        ocs:C44558,
+        ocs:C7201 .
+

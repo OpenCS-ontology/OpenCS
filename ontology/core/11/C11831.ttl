@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11831 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_design> ;
+    skos:prefLabel "Social design" ;
+    skos:related ocs:C1332,
+        ocs:C2135,
+        ocs:C23671,
+        ocs:C3965,
+        ocs:C5876 .
+

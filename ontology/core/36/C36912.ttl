@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36912 a skos:Concept ;
+    skos:broader ocs:C29242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transform_coding> ;
+    skos:prefLabel "Transform coding" ;
+    skos:related ocs:C11323,
+        ocs:C12046,
+        ocs:C19334,
+        ocs:C1935,
+        ocs:C20648,
+        ocs:C27086,
+        ocs:C2937,
+        ocs:C31114,
+        ocs:C31451,
+        ocs:C36671,
+        ocs:C39,
+        ocs:C6942 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25512 a skos:Concept ;
+    skos:broader ocs:C12579,
+        ocs:C2579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agent_architecture> ;
+    skos:prefLabel "Agent architecture" ;
+    skos:related ocs:C11934,
+        ocs:C12304,
+        ocs:C12579,
+        ocs:C17236,
+        ocs:C22254,
+        ocs:C25,
+        ocs:C2579,
+        ocs:C29173,
+        ocs:C31036,
+        ocs:C31369,
+        ocs:C32,
+        ocs:C33186,
+        ocs:C3732,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C8759,
+        ocs:C9022 .
+

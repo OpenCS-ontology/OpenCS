@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3476 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Inherent location" ;
+    skos:related ocs:C26,
+        ocs:C33,
+        ocs:C3778,
+        ocs:C7,
+        ocs:C8,
+        ocs:C8172 .
+

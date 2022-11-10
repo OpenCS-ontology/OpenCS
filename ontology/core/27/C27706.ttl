@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27706 a skos:Concept ;
+    skos:broader ocs:C9372 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhombic_dodecahedral_honeycomb> ;
+    skos:prefLabel "Rhombic dodecahedral honeycomb" ;
+    skos:related ocs:C30429,
+        ocs:C33802,
+        ocs:C39965,
+        ocs:C8271,
+        ocs:C9372 .
+

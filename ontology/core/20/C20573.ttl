@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20573 a skos:Concept ;
+    skos:broader ocs:C7912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_tether> ;
+    skos:prefLabel "Space tether" ;
+    skos:related ocs:C1628,
+        ocs:C19614,
+        ocs:C2252,
+        ocs:C25126,
+        ocs:C28072,
+        ocs:C40983,
+        ocs:C41911,
+        ocs:C5096,
+        ocs:C5293,
+        ocs:C6882 .
+

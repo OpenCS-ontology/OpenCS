@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44884 a skos:Concept ;
+    skos:broader ocs:C30651,
+        ocs:C32107,
+        ocs:C32129,
+        ocs:C34795,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algebraic_sentence> ;
+    skos:prefLabel "Algebraic sentence" ;
+    skos:related ocs:C10825,
+        ocs:C12023,
+        ocs:C12346,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C24869,
+        ocs:C25344,
+        ocs:C25869,
+        ocs:C30367,
+        ocs:C38308,
+        ocs:C41379,
+        ocs:C44339,
+        ocs:C45525,
+        ocs:C6668 .
+

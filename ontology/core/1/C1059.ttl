@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1059 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_spoofing> ;
+    skos:prefLabel "Website spoofing" ;
+    skos:related ocs:C14983,
+        ocs:C19156,
+        ocs:C20937,
+        ocs:C23016,
+        ocs:C25757,
+        ocs:C31,
+        ocs:C37868,
+        ocs:C38459,
+        ocs:C39074,
+        ocs:C39128,
+        ocs:C39520,
+        ocs:C40290,
+        ocs:C41219,
+        ocs:C42434,
+        ocs:C42880,
+        ocs:C44855,
+        ocs:C45050,
+        ocs:C6642,
+        ocs:C7147 .
+

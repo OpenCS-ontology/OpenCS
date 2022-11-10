@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44518 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antenna_noise_temperature> ;
+    skos:prefLabel "Antenna noise temperature" ;
+    skos:related ocs:C10763,
+        ocs:C1564,
+        ocs:C16335,
+        ocs:C2188,
+        ocs:C21891,
+        ocs:C25042,
+        ocs:C28404,
+        ocs:C31251,
+        ocs:C31411,
+        ocs:C35301,
+        ocs:C44570,
+        ocs:C45152,
+        ocs:C5398 .
+

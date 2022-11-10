@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2764 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_assembly> ;
+    skos:prefLabel "General assembly" ;
+    skos:related ocs:C12477,
+        ocs:C17557,
+        ocs:C197,
+        ocs:C2057,
+        ocs:C355,
+        ocs:C4918 .
+

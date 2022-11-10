@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2530 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hot_desking> ;
+    skos:prefLabel "Hot desking" ;
+    skos:related ocs:C11657,
+        ocs:C13825,
+        ocs:C197,
+        ocs:C22407,
+        ocs:C420,
+        ocs:C6529,
+        ocs:C7063 .
+

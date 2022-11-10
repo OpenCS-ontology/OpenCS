@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8499 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:prefLabel "Image processing" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10554,
+        ocs:C11150,
+        ocs:C14863,
+        ocs:C17236,
+        ocs:C21,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C25,
+        ocs:C26688,
+        ocs:C5298,
+        ocs:C7,
+        ocs:C8,
+        ocs:C8021,
+        ocs:C9022 .
+

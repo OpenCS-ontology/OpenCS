@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38026 a skos:Concept ;
+    skos:broader ocs:C30273,
+        ocs:C35932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-lock_concurrency_control> ;
+    skos:prefLabel "Non-lock concurrency control" ;
+    skos:related ocs:C15481,
+        ocs:C22879,
+        ocs:C31032,
+        ocs:C35932,
+        ocs:C36408,
+        ocs:C36535,
+        ocs:C36648,
+        ocs:C38458,
+        ocs:C39431,
+        ocs:C40919,
+        ocs:C40981,
+        ocs:C41073,
+        ocs:C42517,
+        ocs:C43644,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C6 .
+

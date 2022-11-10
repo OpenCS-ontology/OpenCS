@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43535 a skos:Concept ;
+    skos:broader ocs:C31579,
+        ocs:C32265,
+        ocs:C33009 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multivariate_gamma_function> ;
+    skos:prefLabel "Multivariate gamma function" ;
+    skos:related ocs:C10923,
+        ocs:C14852,
+        ocs:C25862,
+        ocs:C33009,
+        ocs:C36011,
+        ocs:C38218,
+        ocs:C42795,
+        ocs:C9326 .
+

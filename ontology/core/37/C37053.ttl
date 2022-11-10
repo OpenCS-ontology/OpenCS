@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37053 a skos:Concept ;
+    skos:broader ocs:C20763 ;
+    skos:closeMatch <http://dbpedia.org/resource/IMS_Learning_Design> ;
+    skos:prefLabel "IMS Learning Design" ;
+    skos:related ocs:C17188,
+        ocs:C26813,
+        ocs:C3444,
+        ocs:C6528,
+        ocs:C934 .
+

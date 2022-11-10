@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22957 a skos:Concept ;
+    skos:broader ocs:C12332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_erasure> ;
+    skos:prefLabel "Data erasure" ;
+    skos:related ocs:C10785,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C15529,
+        ocs:C1574,
+        ocs:C18235,
+        ocs:C22904,
+        ocs:C28881,
+        ocs:C3160,
+        ocs:C328,
+        ocs:C6310,
+        ocs:C6588,
+        ocs:C9,
+        ocs:C9742 .
+

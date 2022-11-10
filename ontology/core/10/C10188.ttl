@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10188 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cell_software_development> ;
+    skos:prefLabel "Cell software development" ;
+    skos:related ocs:C10320,
+        ocs:C17204,
+        ocs:C2478,
+        ocs:C24871,
+        ocs:C25252,
+        ocs:C28630,
+        ocs:C29766,
+        ocs:C31030,
+        ocs:C31341,
+        ocs:C36673,
+        ocs:C39774,
+        ocs:C43544,
+        ocs:C45553,
+        ocs:C7507,
+        ocs:C8369,
+        ocs:C856 .
+

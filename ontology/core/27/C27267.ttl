@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27267 a skos:Concept ;
+    skos:broader ocs:C11389,
+        ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Issuing_bank> ;
+    skos:prefLabel "Issuing bank" ;
+    skos:related ocs:C10270,
+        ocs:C1061,
+        ocs:C14059,
+        ocs:C16292,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C22776,
+        ocs:C25306,
+        ocs:C28781,
+        ocs:C30829,
+        ocs:C31096,
+        ocs:C32504,
+        ocs:C33074,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C37095,
+        ocs:C40101,
+        ocs:C44448,
+        ocs:C45808 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32274 a skos:Concept ;
+    skos:broader ocs:C14270,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tidal_circularization> ;
+    skos:prefLabel "Tidal circularization" ;
+    skos:related ocs:C26524,
+        ocs:C32417,
+        ocs:C34228,
+        ocs:C597 .
+

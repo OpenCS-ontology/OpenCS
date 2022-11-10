@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35623 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Odometry> ;
+    skos:prefLabel "Odometry" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C14324,
+        ocs:C15029,
+        ocs:C17236,
+        ocs:C19008,
+        ocs:C23110,
+        ocs:C23445,
+        ocs:C31648,
+        ocs:C36041,
+        ocs:C36259,
+        ocs:C37901,
+        ocs:C4428,
+        ocs:C7,
+        ocs:C8,
+        ocs:C979 .
+

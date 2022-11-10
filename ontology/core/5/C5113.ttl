@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5113 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Underline> ;
+    skos:prefLabel "Underline" ;
+    skos:related ocs:C12477,
+        ocs:C1805,
+        ocs:C23162,
+        ocs:C24783,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C5126,
+        ocs:C5477,
+        ocs:C7131,
+        ocs:C8020,
+        ocs:C8988,
+        ocs:C9162,
+        ocs:C9606,
+        ocs:C988 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15652 a skos:Concept ;
+    skos:broader ocs:C8781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hermite_interpolation> ;
+    skos:prefLabel "Hermite interpolation" ;
+    skos:related ocs:C15775,
+        ocs:C19373,
+        ocs:C21380,
+        ocs:C31512,
+        ocs:C34821,
+        ocs:C37969,
+        ocs:C39716,
+        ocs:C42372,
+        ocs:C42443,
+        ocs:C43001,
+        ocs:C44445,
+        ocs:C45272,
+        ocs:C8781 .
+

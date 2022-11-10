@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36820 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C15480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unique_sink_orientation> ;
+    skos:prefLabel "Unique sink orientation" ;
+    skos:related ocs:C15414,
+        ocs:C15480,
+        ocs:C18804,
+        ocs:C28344,
+        ocs:C32727,
+        ocs:C33472,
+        ocs:C34394,
+        ocs:C37751,
+        ocs:C38789,
+        ocs:C38990,
+        ocs:C8944 .
+

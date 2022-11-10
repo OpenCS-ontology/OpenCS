@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42043 a skos:Concept ;
+    skos:broader ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reference_antenna> ;
+    skos:prefLabel "Reference antenna" ;
+    skos:related ocs:C1219,
+        ocs:C18989,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C31753,
+        ocs:C38796,
+        ocs:C39060,
+        ocs:C39458,
+        ocs:C39964,
+        ocs:C40585,
+        ocs:C42056,
+        ocs:C42721,
+        ocs:C43628,
+        ocs:C45299,
+        ocs:C6281,
+        ocs:C9691 .
+

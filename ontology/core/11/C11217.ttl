@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11217 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Focal Image" ;
+    skos:related ocs:C11768,
+        ocs:C12580,
+        ocs:C12582,
+        ocs:C21,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C695,
+        ocs:C7911,
+        ocs:C8021,
+        ocs:C8499 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3237 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MyVu> ;
+    skos:prefLabel "MyVu" ;
+    skos:related ocs:C10002,
+        ocs:C1084,
+        ocs:C15787,
+        ocs:C2080,
+        ocs:C22265,
+        ocs:C244,
+        ocs:C28966,
+        ocs:C29011,
+        ocs:C31110,
+        ocs:C32263,
+        ocs:C3516,
+        ocs:C36804,
+        ocs:C9601,
+        ocs:C9605 .
+

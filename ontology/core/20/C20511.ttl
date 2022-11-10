@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20511 a skos:Concept ;
+    skos:broader ocs:C1444,
+        ocs:C8366,
+        ocs:C9374 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logogen_model> ;
+    skos:prefLabel "Logogen model" ;
+    skos:related ocs:C11722,
+        ocs:C13210,
+        ocs:C19543,
+        ocs:C23422,
+        ocs:C2761,
+        ocs:C34379,
+        ocs:C8366,
+        ocs:C936 .
+

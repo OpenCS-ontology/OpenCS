@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32982 a skos:Concept ;
+    skos:broader ocs:C14618,
+        ocs:C19177 ;
+    skos:closeMatch <http://dbpedia.org/resource/Newton_fractal> ;
+    skos:prefLabel "Newton fractal" ;
+    skos:related ocs:C13615,
+        ocs:C19177,
+        ocs:C32608,
+        ocs:C36134,
+        ocs:C38965,
+        ocs:C42253,
+        ocs:C42397,
+        ocs:C43631,
+        ocs:C45743 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3565 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_reasoner> ;
+    skos:prefLabel "Semantic reasoner" ;
+    skos:related ocs:C10616,
+        ocs:C10825,
+        ocs:C1092,
+        ocs:C12977,
+        ocs:C14156,
+        ocs:C15444,
+        ocs:C16356,
+        ocs:C21327,
+        ocs:C23248,
+        ocs:C2418,
+        ocs:C25681,
+        ocs:C27665,
+        ocs:C28117,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C3579,
+        ocs:C39278,
+        ocs:C41877,
+        ocs:C852,
+        ocs:C9836 .
+

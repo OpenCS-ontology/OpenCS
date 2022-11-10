@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34272 a skos:Concept ;
+    skos:broader ocs:C29024 ;
+    skos:prefLabel "Average Linkage" ;
+    skos:related ocs:C29024,
+        ocs:C34014,
+        ocs:C35082,
+        ocs:C38396 .
+

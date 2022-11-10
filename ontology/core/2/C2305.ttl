@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2305 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patch_panel> ;
+    skos:prefLabel "Patch panel" ;
+    skos:related ocs:C11554,
+        ocs:C26,
+        ocs:C3,
+        ocs:C4711,
+        ocs:C490,
+        ocs:C5790,
+        ocs:C8372,
+        ocs:C8718 .
+

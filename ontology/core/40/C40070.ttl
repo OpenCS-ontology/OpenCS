@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40070 a skos:Concept ;
+    skos:broader ocs:C34593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Egress_router> ;
+    skos:prefLabel "Egress router" ;
+    skos:related ocs:C24563,
+        ocs:C27960,
+        ocs:C30640,
+        ocs:C31668,
+        ocs:C33283,
+        ocs:C34258,
+        ocs:C34606,
+        ocs:C38344,
+        ocs:C38865,
+        ocs:C39853,
+        ocs:C41078,
+        ocs:C41709,
+        ocs:C44228,
+        ocs:C44236,
+        ocs:C44929,
+        ocs:C44974,
+        ocs:C7228 .
+

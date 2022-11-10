@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41367 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_antenna> ;
+    skos:prefLabel "Loop antenna" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C17383,
+        ocs:C2465,
+        ocs:C25341,
+        ocs:C25380,
+        ocs:C38722,
+        ocs:C39709,
+        ocs:C42721,
+        ocs:C43628,
+        ocs:C44141,
+        ocs:C9691 .
+

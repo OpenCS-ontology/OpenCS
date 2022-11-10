@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37216 a skos:Concept ;
+    skos:broader ocs:C18085,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C22649 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barium_star> ;
+    skos:prefLabel "Barium star" ;
+    skos:related ocs:C13930,
+        ocs:C18085,
+        ocs:C19549,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C24782,
+        ocs:C25140,
+        ocs:C25949,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C30411,
+        ocs:C31589,
+        ocs:C36170,
+        ocs:C37112,
+        ocs:C37445 .
+

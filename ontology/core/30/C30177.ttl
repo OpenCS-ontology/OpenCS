@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30177 a skos:Concept ;
+    skos:broader ocs:C16107 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_ITS_Architecture> ;
+    skos:prefLabel "National ITS Architecture" ;
+    skos:related ocs:C14828,
+        ocs:C15115,
+        ocs:C16107,
+        ocs:C19372,
+        ocs:C25914,
+        ocs:C27658,
+        ocs:C34126,
+        ocs:C34503,
+        ocs:C34875,
+        ocs:C35425,
+        ocs:C38216,
+        ocs:C40496,
+        ocs:C6243,
+        ocs:C8803,
+        ocs:C8970,
+        ocs:C9100 .
+

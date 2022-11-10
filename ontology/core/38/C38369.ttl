@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38369 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadratic_form_(statistics)> ;
+    skos:prefLabel "Quadratic form (statistics)" ;
+    skos:related ocs:C10138,
+        ocs:C22854,
+        ocs:C25862,
+        ocs:C26880,
+        ocs:C29461,
+        ocs:C36011,
+        ocs:C37261,
+        ocs:C39273 .
+

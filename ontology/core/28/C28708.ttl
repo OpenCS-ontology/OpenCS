@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28708 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gamergate> ;
+    skos:prefLabel "Gamergate" ;
+    skos:related ocs:C22123,
+        ocs:C26257,
+        ocs:C27032,
+        ocs:C30349,
+        ocs:C597 .
+

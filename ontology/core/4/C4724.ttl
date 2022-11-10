@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4724 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_carrier_control> ;
+    skos:prefLabel "Dynamic carrier control" ;
+    skos:related ocs:C12757,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C15511,
+        ocs:C17534,
+        ocs:C17926,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C19903,
+        ocs:C23488,
+        ocs:C29007,
+        ocs:C32135,
+        ocs:C32456,
+        ocs:C36245,
+        ocs:C37939,
+        ocs:C44707,
+        ocs:C7159 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36597 a skos:Concept ;
+    skos:broader ocs:C16189 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mel_scale> ;
+    skos:prefLabel "Mel scale" ;
+    skos:related ocs:C10985,
+        ocs:C14001,
+        ocs:C597 .
+

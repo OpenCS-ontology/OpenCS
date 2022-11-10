@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24169 a skos:Concept ;
+    skos:broader ocs:C13787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ball_(mathematics)> ;
+    skos:prefLabel "Ball (mathematics)" ;
+    skos:related ocs:C13787,
+        ocs:C41021,
+        ocs:C42132 .
+

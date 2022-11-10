@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8613 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lockstep_(computing)> ;
+    skos:prefLabel "Lockstep" ;
+    skos:related ocs:C10684,
+        ocs:C12690,
+        ocs:C14144,
+        ocs:C15912,
+        ocs:C21929,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C2878,
+        ocs:C28907,
+        ocs:C30001,
+        ocs:C36861,
+        ocs:C39215,
+        ocs:C39218,
+        ocs:C8173,
+        ocs:C9542 .
+

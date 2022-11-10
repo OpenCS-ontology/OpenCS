@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14125 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/German_Sign_Language> ;
+    skos:prefLabel "German Sign Language" ;
+    skos:related ocs:C13210,
+        ocs:C16631,
+        ocs:C20933,
+        ocs:C21988,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26032,
+        ocs:C26108,
+        ocs:C27530,
+        ocs:C28817,
+        ocs:C31406,
+        ocs:C37561,
+        ocs:C44007,
+        ocs:C7501,
+        ocs:C7858 .
+

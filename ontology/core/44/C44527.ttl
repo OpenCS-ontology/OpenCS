@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44527 a skos:Concept ;
+    skos:broader ocs:C31849,
+        ocs:C34541,
+        ocs:C35661 ;
+    skos:closeMatch <http://dbpedia.org/resource/Banach–Mazur_compactum> ;
+    skos:prefLabel "Banach–Mazur compactum" ;
+    skos:related ocs:C1220,
+        ocs:C23927,
+        ocs:C24810,
+        ocs:C25758,
+        ocs:C30507,
+        ocs:C34983,
+        ocs:C39124,
+        ocs:C44001 .
+

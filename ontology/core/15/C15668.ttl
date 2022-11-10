@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15668 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C11932,
+        ocs:C12486 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bound_and_unbound_morphemes> ;
+    skos:prefLabel "Bound morpheme" .
+

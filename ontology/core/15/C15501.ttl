@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15501 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed_pixel_display> ;
+    skos:prefLabel "Fixed pixel display" ;
+    skos:related ocs:C13155,
+        ocs:C14411,
+        ocs:C15700,
+        ocs:C1832,
+        ocs:C1905,
+        ocs:C21146,
+        ocs:C22257,
+        ocs:C26787,
+        ocs:C2722,
+        ocs:C34890,
+        ocs:C36598,
+        ocs:C38826,
+        ocs:C40261,
+        ocs:C42166,
+        ocs:C5632,
+        ocs:C653,
+        ocs:C8021 .
+

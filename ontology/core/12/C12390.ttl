@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12390 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telechrome> ;
+    skos:prefLabel "Telechrome" ;
+    skos:related ocs:C13725,
+        ocs:C15700,
+        ocs:C28719,
+        ocs:C3080,
+        ocs:C34890,
+        ocs:C42783,
+        ocs:C5996,
+        ocs:C6942,
+        ocs:C8099 .
+

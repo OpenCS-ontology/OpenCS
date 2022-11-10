@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15172 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fairness_measure> ;
+    skos:prefLabel "Fairness measure" ;
+    skos:related ocs:C12111,
+        ocs:C15065,
+        ocs:C16953,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C25626,
+        ocs:C27574,
+        ocs:C28952,
+        ocs:C29359,
+        ocs:C29419,
+        ocs:C30037,
+        ocs:C30218,
+        ocs:C38888,
+        ocs:C39574,
+        ocs:C40876,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C45252,
+        ocs:C7340,
+        ocs:C8704 .
+

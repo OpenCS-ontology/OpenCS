@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45213 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Biomedical_Ontologies> ;
+    skos:prefLabel "Open Biomedical Ontologies" ;
+    skos:related ocs:C25681,
+        ocs:C318,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C40851,
+        ocs:C42124,
+        ocs:C44939,
+        ocs:C6915 .
+

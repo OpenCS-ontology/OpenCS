@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33583 a skos:Concept ;
+    skos:broader ocs:C15824,
+        ocs:C16514,
+        ocs:C22283,
+        ocs:C25328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clouds_and_the_Earth's_Radiant_Energy_System> ;
+    skos:prefLabel "Clouds and the Earth's Radiant Energy System" ;
+    skos:related ocs:C597 .
+

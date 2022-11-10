@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24902 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_syllable_lengthening> ;
+    skos:prefLabel "Open syllable lengthening" ;
+    skos:related ocs:C12167,
+        ocs:C17395,
+        ocs:C19146,
+        ocs:C19812,
+        ocs:C2025,
+        ocs:C21819,
+        ocs:C21925,
+        ocs:C22147,
+        ocs:C27326,
+        ocs:C29289,
+        ocs:C33326,
+        ocs:C34054,
+        ocs:C36864,
+        ocs:C37693 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43605 a skos:Concept ;
+    skos:broader ocs:C32392,
+        ocs:C32877,
+        ocs:C35040,
+        ocs:C36759 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fundamental_pair_of_periods> ;
+    skos:prefLabel "Fundamental pair of periods" ;
+    skos:related ocs:C23040,
+        ocs:C23209,
+        ocs:C32877,
+        ocs:C39710,
+        ocs:C45135 .
+

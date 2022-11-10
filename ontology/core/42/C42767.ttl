@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42767 a skos:Concept ;
+    skos:broader ocs:C29840 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_engineering> ;
+    skos:prefLabel "Enterprise engineering" ;
+    skos:related ocs:C13152,
+        ocs:C28526,
+        ocs:C28581,
+        ocs:C29840,
+        ocs:C3395,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C39686,
+        ocs:C42780,
+        ocs:C44859,
+        ocs:C44988,
+        ocs:C5869,
+        ocs:C8171,
+        ocs:C8387 .
+

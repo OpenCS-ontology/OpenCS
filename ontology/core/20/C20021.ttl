@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20021 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C4804,
+        ocs:C8704 ;
+    skos:prefLabel "Processor assignment" .
+

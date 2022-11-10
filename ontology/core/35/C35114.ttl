@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35114 a skos:Concept ;
+    skos:broader ocs:C14693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Szemerédi_regularity_lemma> ;
+    skos:prefLabel "Szemerédi regularity lemma" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C25175,
+        ocs:C28991,
+        ocs:C29632,
+        ocs:C30401,
+        ocs:C32746,
+        ocs:C36126,
+        ocs:C39937,
+        ocs:C42470,
+        ocs:C44862,
+        ocs:C45225 .
+

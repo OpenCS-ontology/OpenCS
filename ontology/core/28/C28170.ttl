@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28170 a skos:Concept ;
+    skos:broader ocs:C5867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tetration> ;
+    skos:prefLabel "Tetration" ;
+    skos:related ocs:C18434,
+        ocs:C42577,
+        ocs:C5867,
+        ocs:C5914 .
+

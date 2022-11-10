@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36605 a skos:Concept ;
+    skos:broader ocs:C22491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sagamore_Hill_Radio_Observatory> ;
+    skos:prefLabel "Sagamore Hill Radio Observatory" ;
+    skos:related ocs:C14963,
+        ocs:C36094 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10633 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/DevOps_toolchain> ;
+    skos:prefLabel "DevOps toolchain" ;
+    skos:related ocs:C10091,
+        ocs:C12830,
+        ocs:C21979,
+        ocs:C25704,
+        ocs:C26009,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29044,
+        ocs:C29790,
+        ocs:C3674,
+        ocs:C37174,
+        ocs:C38916,
+        ocs:C41788,
+        ocs:C42516,
+        ocs:C45228,
+        ocs:C45391,
+        ocs:C4558,
+        ocs:C6780,
+        ocs:C9700,
+        ocs:C9877 .
+

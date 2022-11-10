@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20539 a skos:Concept ;
+    skos:broader ocs:C3512,
+        ocs:C6693 ;
+    skos:closeMatch <http://dbpedia.org/resource/R-tree> ;
+    skos:prefLabel "R-tree" ;
+    skos:related ocs:C13296,
+        ocs:C14626,
+        ocs:C20046,
+        ocs:C25440,
+        ocs:C26515,
+        ocs:C30271,
+        ocs:C37685,
+        ocs:C3788,
+        ocs:C40501,
+        ocs:C40658,
+        ocs:C41265,
+        ocs:C43467,
+        ocs:C45211,
+        ocs:C6,
+        ocs:C6693,
+        ocs:C7401,
+        ocs:C8452,
+        ocs:C8519,
+        ocs:C8565,
+        ocs:C8893 .
+

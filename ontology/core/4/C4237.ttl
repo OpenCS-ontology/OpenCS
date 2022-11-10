@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4237 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_data> ;
+    skos:prefLabel "Test data" ;
+    skos:related ocs:C10720,
+        ocs:C11986,
+        ocs:C13,
+        ocs:C13313,
+        ocs:C19404,
+        ocs:C24143,
+        ocs:C24477,
+        ocs:C24722,
+        ocs:C25956,
+        ocs:C29044,
+        ocs:C29422,
+        ocs:C35459,
+        ocs:C35575,
+        ocs:C37174,
+        ocs:C666,
+        ocs:C7053,
+        ocs:C7329 .
+

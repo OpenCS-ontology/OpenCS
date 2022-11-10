@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19632 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:prefLabel "Trademarking" ;
+    skos:related ocs:C1,
+        ocs:C18872,
+        ocs:C3699,
+        ocs:C8614 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14582 a skos:Concept ;
+    skos:broader ocs:C12148,
+        ocs:C13047,
+        ocs:C2174,
+        ocs:C3057 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contrast_set_learning> ;
+    skos:prefLabel "Contrast set learning" ;
+    skos:related ocs:C10382,
+        ocs:C10870,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C16618,
+        ocs:C16990,
+        ocs:C19398,
+        ocs:C20324,
+        ocs:C22643,
+        ocs:C25,
+        ocs:C25520,
+        ocs:C26423,
+        ocs:C31865,
+        ocs:C4201,
+        ocs:C5512,
+        ocs:C6912,
+        ocs:C9874 .
+

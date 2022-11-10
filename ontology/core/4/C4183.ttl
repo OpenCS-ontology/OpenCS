@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4183 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_learning_(machine_learning)> ;
+    skos:prefLabel "Active learning (machine learning)" ;
+    skos:related ocs:C10136,
+        ocs:C15346,
+        ocs:C17791,
+        ocs:C18730,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C21157,
+        ocs:C22089,
+        ocs:C25196,
+        ocs:C25497,
+        ocs:C25711,
+        ocs:C31630,
+        ocs:C33141,
+        ocs:C37975,
+        ocs:C41275,
+        ocs:C4929,
+        ocs:C6021,
+        ocs:C9022 .
+

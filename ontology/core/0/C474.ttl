@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C474 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_supplicant> ;
+    skos:prefLabel "Wireless supplicant" ;
+    skos:related ocs:C12853,
+        ocs:C16777,
+        ocs:C18763,
+        ocs:C22006,
+        ocs:C23303,
+        ocs:C25516,
+        ocs:C32231,
+        ocs:C32672,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C39020,
+        ocs:C41893,
+        ocs:C42521,
+        ocs:C44538,
+        ocs:C44603,
+        ocs:C45757,
+        ocs:C5674,
+        ocs:C8028 .
+

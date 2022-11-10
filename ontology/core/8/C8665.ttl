@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8665 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Desktop_Management_Interface> ;
+    skos:prefLabel "Desktop Management Interface" ;
+    skos:related ocs:C10568,
+        ocs:C10869,
+        ocs:C11761,
+        ocs:C1253,
+        ocs:C1597,
+        ocs:C17918,
+        ocs:C2,
+        ocs:C2206,
+        ocs:C22742,
+        ocs:C2430,
+        ocs:C28881,
+        ocs:C31146,
+        ocs:C34267,
+        ocs:C34921,
+        ocs:C38554,
+        ocs:C39341,
+        ocs:C44346,
+        ocs:C450,
+        ocs:C5519 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25914 a skos:Concept ;
+    skos:broader ocs:C6243 ;
+    skos:closeMatch <http://dbpedia.org/resource/Congestion_pricing> ;
+    skos:prefLabel "Congestion pricing" ;
+    skos:related ocs:C12758,
+        ocs:C14215,
+        ocs:C29481,
+        ocs:C33707,
+        ocs:C37334,
+        ocs:C6243 .
+

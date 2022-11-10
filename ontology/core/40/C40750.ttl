@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40750 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_site_survey> ;
+    skos:prefLabel "Wireless site survey" ;
+    skos:related ocs:C12111,
+        ocs:C15728,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C25493,
+        ocs:C26,
+        ocs:C27912,
+        ocs:C28122,
+        ocs:C28881,
+        ocs:C30037,
+        ocs:C3173,
+        ocs:C32555,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38460,
+        ocs:C39438,
+        ocs:C39494,
+        ocs:C41301,
+        ocs:C41461 .
+

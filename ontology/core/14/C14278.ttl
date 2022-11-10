@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14278 a skos:Concept ;
+    skos:broader ocs:C6147 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stars_and_bars_(combinatorics)> ;
+    skos:prefLabel "Stars and bars" ;
+    skos:related ocs:C11282,
+        ocs:C18099,
+        ocs:C34507,
+        ocs:C36445,
+        ocs:C36814 .
+

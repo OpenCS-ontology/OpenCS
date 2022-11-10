@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15042 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spider_toxin> ;
+    skos:prefLabel "Spider toxin" ;
+    skos:related ocs:C14264,
+        ocs:C15901,
+        ocs:C29607,
+        ocs:C31852,
+        ocs:C33493,
+        ocs:C34191,
+        ocs:C34437,
+        ocs:C34824,
+        ocs:C35813,
+        ocs:C36335,
+        ocs:C37219,
+        ocs:C43976 .
+

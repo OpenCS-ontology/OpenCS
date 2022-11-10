@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15530 a skos:Concept ;
+    skos:broader ocs:C3933,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/IMS_security> ;
+    skos:prefLabel "IMS security" ;
+    skos:related ocs:C18213,
+        ocs:C19227,
+        ocs:C21981,
+        ocs:C22407,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C29949,
+        ocs:C34235,
+        ocs:C34908,
+        ocs:C37846,
+        ocs:C39033,
+        ocs:C3933,
+        ocs:C39947,
+        ocs:C43473,
+        ocs:C44017,
+        ocs:C44603,
+        ocs:C6721,
+        ocs:C8515 .
+

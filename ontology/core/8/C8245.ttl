@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8245 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ground_control_station> ;
+    skos:prefLabel "Ground control station" ;
+    skos:related ocs:C2581,
+        ocs:C27263,
+        ocs:C2933,
+        ocs:C30159,
+        ocs:C3059,
+        ocs:C3285,
+        ocs:C35931 .
+

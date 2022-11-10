@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22615 a skos:Concept ;
+    skos:broader ocs:C9178 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-Based_Math> ;
+    skos:prefLabel "Computer-Based Math" ;
+    skos:related ocs:C1,
+        ocs:C18607,
+        ocs:C24,
+        ocs:C3444 .
+

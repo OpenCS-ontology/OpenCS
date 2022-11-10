@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17867 a skos:Concept ;
+    skos:broader ocs:C12835,
+        ocs:C13305,
+        ocs:C7912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unbundled_network_element> ;
+    skos:prefLabel "Unbundled network element" ;
+    skos:related ocs:C11703,
+        ocs:C12307,
+        ocs:C12308,
+        ocs:C12835,
+        ocs:C17411,
+        ocs:C18217,
+        ocs:C2188,
+        ocs:C22331,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C2988,
+        ocs:C44776,
+        ocs:C45074,
+        ocs:C7612,
+        ocs:C9327,
+        ocs:C9784 .
+

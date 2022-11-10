@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7351 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Instrumental_convergence> ;
+    skos:prefLabel "Instrumental convergence" ;
+    skos:related ocs:C11381,
+        ocs:C11874,
+        ocs:C12579,
+        ocs:C13328,
+        ocs:C13580,
+        ocs:C1643,
+        ocs:C23335,
+        ocs:C3848,
+        ocs:C39803,
+        ocs:C4269,
+        ocs:C44765,
+        ocs:C5776,
+        ocs:C5855,
+        ocs:C8 .
+

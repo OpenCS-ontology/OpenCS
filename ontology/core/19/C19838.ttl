@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19838 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Allocutive_agreement> ;
+    skos:prefLabel "Allocutive agreement" ;
+    skos:related ocs:C10760,
+        ocs:C12270,
+        ocs:C15833,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C27343,
+        ocs:C32159,
+        ocs:C32280,
+        ocs:C44227,
+        ocs:C4755 .
+

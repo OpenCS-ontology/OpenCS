@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13116 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/CLIPS> ;
+    skos:prefLabel "CLIPS" ;
+    skos:related ocs:C10284,
+        ocs:C10327,
+        ocs:C10616,
+        ocs:C10720,
+        ocs:C11724,
+        ocs:C14156,
+        ocs:C15444,
+        ocs:C16466,
+        ocs:C19,
+        ocs:C23248,
+        ocs:C26585,
+        ocs:C27665,
+        ocs:C27884,
+        ocs:C31724,
+        ocs:C4269,
+        ocs:C6531,
+        ocs:C8,
+        ocs:C8751,
+        ocs:C8996 .
+

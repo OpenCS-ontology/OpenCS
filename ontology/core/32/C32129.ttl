@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32129 a skos:Concept ;
+    skos:broader ocs:C16356 ;
+    skos:closeMatch <http://dbpedia.org/resource/Many-valued_logic> ;
+    skos:prefLabel "Many-valued logic" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C126,
+        ocs:C13855,
+        ocs:C14686,
+        ocs:C17884,
+        ocs:C22706,
+        ocs:C2418,
+        ocs:C3375,
+        ocs:C38533,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C4206,
+        ocs:C43099,
+        ocs:C43271,
+        ocs:C45548,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

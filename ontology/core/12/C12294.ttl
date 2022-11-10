@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12294 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Picture_function> ;
+    skos:prefLabel "Picture function" ;
+    skos:related ocs:C13097,
+        ocs:C16671,
+        ocs:C25850,
+        ocs:C4915,
+        ocs:C5469 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28016 a skos:Concept ;
+    skos:broader ocs:C3902,
+        ocs:C9262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupt_handler> ;
+    skos:prefLabel "Interrupt handler" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11,
+        ocs:C11016,
+        ocs:C12683,
+        ocs:C12764,
+        ocs:C14470,
+        ocs:C15595,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C24590,
+        ocs:C29732,
+        ocs:C31489,
+        ocs:C33,
+        ocs:C36337,
+        ocs:C45375,
+        ocs:C6172,
+        ocs:C9,
+        ocs:C9262 .
+

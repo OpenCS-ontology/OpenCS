@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6550 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lucas–Lehmer_primality_test> ;
+    skos:prefLabel "Lucas–Lehmer primality test" ;
+    skos:related ocs:C10578,
+        ocs:C11308,
+        ocs:C3459,
+        ocs:C40241,
+        ocs:C5730,
+        ocs:C9449 .
+

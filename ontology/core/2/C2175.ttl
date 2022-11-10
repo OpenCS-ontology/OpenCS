@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2175 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SEG_Y> ;
+    skos:prefLabel "SEG Y" ;
+    skos:related ocs:C11531,
+        ocs:C11927,
+        ocs:C13253,
+        ocs:C22013,
+        ocs:C24208,
+        ocs:C32481,
+        ocs:C37466,
+        ocs:C39881,
+        ocs:C42140,
+        ocs:C42693,
+        ocs:C44971,
+        ocs:C45145,
+        ocs:C7476,
+        ocs:C8511 .
+

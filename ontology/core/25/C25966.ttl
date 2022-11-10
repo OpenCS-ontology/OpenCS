@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25966 a skos:Concept ;
+    skos:broader ocs:C5336,
+        ocs:C856 ;
+    skos:closeMatch <http://dbpedia.org/resource/RISC-V> ;
+    skos:prefLabel "RISC-V" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C18114,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C2478,
+        ocs:C25252,
+        ocs:C31489,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

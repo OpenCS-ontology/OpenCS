@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7734 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbolic_data_analysis> ;
+    skos:prefLabel "Symbolic data analysis" ;
+    skos:related ocs:C10676,
+        ocs:C18522,
+        ocs:C4857,
+        ocs:C8520,
+        ocs:C9488 .
+

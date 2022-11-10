@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18587 a skos:Concept ;
+    skos:broader ocs:C425 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technical_documentation> ;
+    skos:prefLabel "Technical documentation" ;
+    skos:related ocs:C10978,
+        ocs:C12160,
+        ocs:C1253,
+        ocs:C2044,
+        ocs:C26015,
+        ocs:C28801,
+        ocs:C42905,
+        ocs:C45554,
+        ocs:C5705,
+        ocs:C8387,
+        ocs:C9150 .
+

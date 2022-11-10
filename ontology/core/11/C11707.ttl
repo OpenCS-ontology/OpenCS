@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11707 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/IRIS_Consortium> ;
+    skos:prefLabel "IRIS Consortium" ;
+    skos:related ocs:C597 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44319 a skos:Concept ;
+    skos:broader ocs:C36006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Divide_and_choose> ;
+    skos:prefLabel "Divide and choose" ;
+    skos:related ocs:C19168,
+        ocs:C19183 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31266 a skos:Concept ;
+    skos:broader ocs:C27284 ;
+    skos:closeMatch <http://dbpedia.org/resource/Access_structure> ;
+    skos:prefLabel "Access structure" ;
+    skos:related ocs:C11664,
+        ocs:C14164,
+        ocs:C16125,
+        ocs:C16538,
+        ocs:C19557,
+        ocs:C20922,
+        ocs:C22263,
+        ocs:C27284,
+        ocs:C29609,
+        ocs:C36506,
+        ocs:C37863,
+        ocs:C39716,
+        ocs:C4218,
+        ocs:C44384,
+        ocs:C7006,
+        ocs:C7506,
+        ocs:C8711,
+        ocs:C8789 .
+

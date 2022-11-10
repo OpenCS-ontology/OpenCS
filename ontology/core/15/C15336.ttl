@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15336 a skos:Concept ;
+    skos:broader ocs:C11814,
+        ocs:C1253,
+        ocs:C1449 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code_Composer_Studio> ;
+    skos:prefLabel "Code Composer Studio" ;
+    skos:related ocs:C11,
+        ocs:C1149,
+        ocs:C11814,
+        ocs:C1449,
+        ocs:C19556,
+        ocs:C19994,
+        ocs:C22530,
+        ocs:C25973,
+        ocs:C28808,
+        ocs:C29530,
+        ocs:C31889,
+        ocs:C43964,
+        ocs:C6172,
+        ocs:C7012,
+        ocs:C7929,
+        ocs:C8579 .
+

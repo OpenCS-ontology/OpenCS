@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13261 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cutaway_drawing> ;
+    skos:prefLabel "Cutaway drawing" ;
+    skos:related ocs:C12638,
+        ocs:C2246,
+        ocs:C2366,
+        ocs:C24205,
+        ocs:C3042,
+        ocs:C42614,
+        ocs:C44325,
+        ocs:C667,
+        ocs:C7914,
+        ocs:C8399,
+        ocs:C8894 .
+

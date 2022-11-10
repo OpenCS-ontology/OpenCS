@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42286 a skos:Concept ;
+    skos:broader ocs:C31654,
+        ocs:C33459,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weak_key> ;
+    skos:prefLabel "Weak key" ;
+    skos:related ocs:C12076,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C20993,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C30768,
+        ocs:C31774,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C36690,
+        ocs:C37854,
+        ocs:C38685,
+        ocs:C38999,
+        ocs:C41185,
+        ocs:C4218,
+        ocs:C43934,
+        ocs:C44933,
+        ocs:C8076 .
+

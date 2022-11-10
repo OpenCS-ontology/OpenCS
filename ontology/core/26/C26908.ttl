@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26908 a skos:Concept ;
+    skos:broader ocs:C10492,
+        ocs:C4152,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_transmission> ;
+    skos:prefLabel "Analog transmission" ;
+    skos:related ocs:C10492,
+        ocs:C10680,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C19903,
+        ocs:C2582,
+        ocs:C26814,
+        ocs:C28537,
+        ocs:C28744,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C34890,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C7502 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3407 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_research_environment> ;
+    skos:prefLabel "Virtual research environment" ;
+    skos:related ocs:C10052,
+        ocs:C10062,
+        ocs:C10369,
+        ocs:C11036,
+        ocs:C11462,
+        ocs:C11682,
+        ocs:C13,
+        ocs:C13264,
+        ocs:C2187,
+        ocs:C25121,
+        ocs:C26813,
+        ocs:C29124,
+        ocs:C3795,
+        ocs:C8869 .
+

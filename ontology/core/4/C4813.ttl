@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4813 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Environment_variable> ;
+    skos:prefLabel "Environment variable" ;
+    skos:related ocs:C10284,
+        ocs:C1165,
+        ocs:C14271,
+        ocs:C16601,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C34227,
+        ocs:C34475,
+        ocs:C41115,
+        ocs:C42619,
+        ocs:C5702,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9235,
+        ocs:C9433 .
+

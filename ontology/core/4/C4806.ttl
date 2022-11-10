@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4806 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spelling_of_disc> ;
+    skos:prefLabel "Spelling of disc" ;
+    skos:related ocs:C10323,
+        ocs:C10785,
+        ocs:C1108,
+        ocs:C11129,
+        ocs:C13579,
+        ocs:C13783,
+        ocs:C13788,
+        ocs:C22680,
+        ocs:C29604,
+        ocs:C36536,
+        ocs:C4820,
+        ocs:C7255 .
+

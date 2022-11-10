@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C651 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_acquisition> ;
+    skos:prefLabel "Knowledge acquisition" ;
+    skos:related ocs:C10616,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C15444,
+        ocs:C16466,
+        ocs:C1722,
+        ocs:C20118,
+        ocs:C20263,
+        ocs:C21269,
+        ocs:C25681,
+        ocs:C27665,
+        ocs:C28809,
+        ocs:C37649,
+        ocs:C37828,
+        ocs:C5614,
+        ocs:C6749,
+        ocs:C8,
+        ocs:C852 .
+

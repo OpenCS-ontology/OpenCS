@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27984 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3458 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monochrome_monitor> ;
+    skos:prefLabel "Monochrome monitor" ;
+    skos:related ocs:C10002,
+        ocs:C10634,
+        ocs:C12724,
+        ocs:C12815,
+        ocs:C15700,
+        ocs:C19481,
+        ocs:C22257,
+        ocs:C4259,
+        ocs:C44318,
+        ocs:C45499,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9162,
+        ocs:C9442 .
+

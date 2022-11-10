@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5471 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/FREAK> ;
+    skos:prefLabel "FREAK" ;
+    skos:related ocs:C10282,
+        ocs:C13384,
+        ocs:C13720,
+        ocs:C16125,
+        ocs:C16338,
+        ocs:C16966,
+        ocs:C17399,
+        ocs:C24131,
+        ocs:C25296,
+        ocs:C30595,
+        ocs:C31774,
+        ocs:C35632,
+        ocs:C38359,
+        ocs:C4002,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C45747 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7534 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/S-100_bus> ;
+    skos:prefLabel "S-100 bus" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10568,
+        ocs:C12815,
+        ocs:C12851,
+        ocs:C13022,
+        ocs:C19481,
+        ocs:C4259,
+        ocs:C8024,
+        ocs:C8434,
+        ocs:C8787,
+        ocs:C9 .
+

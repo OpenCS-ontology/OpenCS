@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10826 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/PACTOR> ;
+    skos:prefLabel "PACTOR" ;
+    skos:related ocs:C10044,
+        ocs:C11669,
+        ocs:C12349,
+        ocs:C12652,
+        ocs:C13696,
+        ocs:C1455,
+        ocs:C22451,
+        ocs:C36766,
+        ocs:C39720,
+        ocs:C40505,
+        ocs:C42720,
+        ocs:C43595,
+        ocs:C43783,
+        ocs:C44702,
+        ocs:C44707,
+        ocs:C6034,
+        ocs:C6859,
+        ocs:C8147,
+        ocs:C9881 .
+

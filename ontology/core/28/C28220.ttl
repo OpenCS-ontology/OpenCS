@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28220 a skos:Concept ;
+    skos:broader ocs:C2250,
+        ocs:C9576 ;
+    skos:prefLabel "Source location estimation" .
+

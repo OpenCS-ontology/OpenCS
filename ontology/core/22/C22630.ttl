@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22630 a skos:Concept ;
+    skos:broader ocs:C328,
+        ocs:C7603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Include_directive> ;
+    skos:prefLabel "Include directive" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C1165,
+        ocs:C12257,
+        ocs:C1333,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C19,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C29341,
+        ocs:C30749,
+        ocs:C31489,
+        ocs:C39339,
+        ocs:C39497,
+        ocs:C4321,
+        ocs:C5308,
+        ocs:C6714,
+        ocs:C9 .
+

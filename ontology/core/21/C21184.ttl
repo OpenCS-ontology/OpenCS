@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21184 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:prefLabel "Response radiation" ;
+    skos:related ocs:C12582,
+        ocs:C19353,
+        ocs:C21331,
+        ocs:C4256 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6036 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_localization> ;
+    skos:prefLabel "Website localization" ;
+    skos:related ocs:C10905,
+        ocs:C1411,
+        ocs:C14157,
+        ocs:C21320,
+        ocs:C31285,
+        ocs:C34357,
+        ocs:C44770,
+        ocs:C5051,
+        ocs:C5126,
+        ocs:C5570 .
+

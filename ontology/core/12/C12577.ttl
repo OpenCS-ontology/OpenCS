@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12577 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Level_of_detail> ;
+    skos:prefLabel "Level of detail" ;
+    skos:related ocs:C11689,
+        ocs:C15250,
+        ocs:C15632,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21427,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23149,
+        ocs:C24235,
+        ocs:C28881,
+        ocs:C32556,
+        ocs:C41077,
+        ocs:C42808,
+        ocs:C6448,
+        ocs:C8399 .
+

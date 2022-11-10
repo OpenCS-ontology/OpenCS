@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3731 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bremermann's_limit> ;
+    skos:prefLabel "Bremermann's limit" ;
+    skos:related ocs:C1,
+        ocs:C1086,
+        ocs:C16983,
+        ocs:C21383,
+        ocs:C24755,
+        ocs:C32204,
+        ocs:C35391,
+        ocs:C4218,
+        ocs:C45217,
+        ocs:C597,
+        ocs:C7553,
+        ocs:C8753 .
+

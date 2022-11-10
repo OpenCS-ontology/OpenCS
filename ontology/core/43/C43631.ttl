@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43631 a skos:Concept ;
+    skos:broader ocs:C32982 ;
+    skos:closeMatch <http://dbpedia.org/resource/External_ray> ;
+    skos:prefLabel "External ray" ;
+    skos:related ocs:C12257,
+        ocs:C22415,
+        ocs:C32982,
+        ocs:C42253,
+        ocs:C42397,
+        ocs:C45743 .
+

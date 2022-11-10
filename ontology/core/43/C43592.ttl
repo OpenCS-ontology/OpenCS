@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43592 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C32649,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_reactive_programming> ;
+    skos:prefLabel "Functional reactive programming" ;
+    skos:related ocs:C10720,
+        ocs:C16968,
+        ocs:C17392,
+        ocs:C21436,
+        ocs:C23439,
+        ocs:C23909,
+        ocs:C24634,
+        ocs:C25684,
+        ocs:C31724,
+        ocs:C32649,
+        ocs:C38237,
+        ocs:C43382,
+        ocs:C45142,
+        ocs:C4918,
+        ocs:C6941,
+        ocs:C7507,
+        ocs:C8751,
+        ocs:C9157 .
+

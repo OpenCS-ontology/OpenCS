@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C840 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Countersteering> ;
+    skos:prefLabel "Countersteering" ;
+    skos:related ocs:C1240,
+        ocs:C14899,
+        ocs:C24209,
+        ocs:C41235,
+        ocs:C8615 .
+

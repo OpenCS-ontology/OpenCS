@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42844 a skos:Concept ;
+    skos:broader ocs:C30982,
+        ocs:C31379,
+        ocs:C32582,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPNEGO> ;
+    skos:prefLabel "SPNEGO" ;
+    skos:related ocs:C17656,
+        ocs:C22450,
+        ocs:C23446,
+        ocs:C24131,
+        ocs:C2674,
+        ocs:C27315,
+        ocs:C2951,
+        ocs:C29951,
+        ocs:C3085,
+        ocs:C34696,
+        ocs:C38032,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C43432,
+        ocs:C43719,
+        ocs:C44603,
+        ocs:C44850,
+        ocs:C7006,
+        ocs:C8310 .
+

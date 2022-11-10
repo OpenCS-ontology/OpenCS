@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31516 a skos:Concept ;
+    skos:broader ocs:C21143,
+        ocs:C22483 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rayleigh_quotient_iteration> ;
+    skos:prefLabel "Rayleigh quotient iteration" ;
+    skos:related ocs:C21143,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C29298,
+        ocs:C32733,
+        ocs:C34314 .
+

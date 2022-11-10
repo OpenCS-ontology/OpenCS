@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12874 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Warewulf> ;
+    skos:prefLabel "Warewulf" ;
+    skos:related ocs:C15477,
+        ocs:C1723,
+        ocs:C19725,
+        ocs:C19876,
+        ocs:C24907,
+        ocs:C27338,
+        ocs:C29476,
+        ocs:C31489,
+        ocs:C36579,
+        ocs:C39186,
+        ocs:C43877,
+        ocs:C45518,
+        ocs:C6312,
+        ocs:C6455,
+        ocs:C7332,
+        ocs:C7735 .
+

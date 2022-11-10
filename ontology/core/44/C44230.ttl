@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44230 a skos:Concept ;
+    skos:broader ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_Cache_Protocol> ;
+    skos:prefLabel "Internet Cache Protocol" ;
+    skos:related ocs:C14810,
+        ocs:C17235,
+        ocs:C18921,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C23503,
+        ocs:C23995,
+        ocs:C24323,
+        ocs:C27112,
+        ocs:C30500,
+        ocs:C36777,
+        ocs:C39141,
+        ocs:C39727,
+        ocs:C4129,
+        ocs:C43534,
+        ocs:C44991,
+        ocs:C6002 .
+

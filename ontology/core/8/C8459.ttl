@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8459 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trojan_(astronomy)> ;
+    skos:prefLabel "Trojan" ;
+    skos:related ocs:C14270,
+        ocs:C24464,
+        ocs:C26524,
+        ocs:C27104,
+        ocs:C44322,
+        ocs:C597 .
+

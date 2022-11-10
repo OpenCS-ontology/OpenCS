@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31985 a skos:Concept ;
+    skos:broader ocs:C28240 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collision_response> ;
+    skos:prefLabel "Collision response" ;
+    skos:related ocs:C223,
+        ocs:C28240,
+        ocs:C37916,
+        ocs:C45682,
+        ocs:C5300 .
+

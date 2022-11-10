@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43963 a skos:Concept ;
+    skos:broader ocs:C31777,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Substitution_cipher> ;
+    skos:prefLabel "Substitution cipher" ;
+    skos:related ocs:C1027,
+        ocs:C13281,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C23230,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30538,
+        ocs:C35455,
+        ocs:C38920,
+        ocs:C39582,
+        ocs:C40751,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C44636,
+        ocs:C5692,
+        ocs:C6724,
+        ocs:C9491 .
+

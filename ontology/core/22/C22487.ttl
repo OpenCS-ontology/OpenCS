@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22487 a skos:Concept ;
+    skos:broader ocs:C8635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hrushovski_construction> ;
+    skos:prefLabel "Hrushovski construction" ;
+    skos:related ocs:C12739,
+        ocs:C23931,
+        ocs:C26987,
+        ocs:C29417,
+        ocs:C30990,
+        ocs:C32839,
+        ocs:C4517,
+        ocs:C8635 .
+

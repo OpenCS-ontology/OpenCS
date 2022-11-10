@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13069 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real-time_communication> ;
+    skos:prefLabel "Real-time communication" ;
+    skos:related ocs:C12477,
+        ocs:C16338,
+        ocs:C17207,
+        ocs:C17401,
+        ocs:C18680,
+        ocs:C22407,
+        ocs:C2464,
+        ocs:C25697,
+        ocs:C28999,
+        ocs:C31658,
+        ocs:C3679,
+        ocs:C39663,
+        ocs:C4231,
+        ocs:C4918,
+        ocs:C6278,
+        ocs:C8306,
+        ocs:C8577,
+        ocs:C8614,
+        ocs:C9803 .
+

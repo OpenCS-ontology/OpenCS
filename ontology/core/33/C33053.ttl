@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33053 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Charybdotoxin> ;
+    skos:prefLabel "Charybdotoxin" ;
+    skos:related ocs:C31045,
+        ocs:C34294,
+        ocs:C35315,
+        ocs:C37499,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C42913,
+        ocs:C44461,
+        ocs:C45220 .
+

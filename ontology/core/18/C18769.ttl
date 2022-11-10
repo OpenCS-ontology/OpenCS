@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18769 a skos:Concept ;
+    skos:broader ocs:C7510 ;
+    skos:prefLabel "Privacy rights" ;
+    skos:related ocs:C26011,
+        ocs:C6753,
+        ocs:C7510,
+        ocs:C8614 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38728 a skos:Concept ;
+    skos:broader ocs:C35930 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knizhnik–Zamolodchikov_equations> ;
+    skos:prefLabel "Knizhnik–Zamolodchikov equations" ;
+    skos:related ocs:C18135,
+        ocs:C32981,
+        ocs:C35930 .
+

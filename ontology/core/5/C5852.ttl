@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5852 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Machine_translation> ;
+    skos:prefLabel "Machine translation" ;
+    skos:related ocs:C1034,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C15475,
+        ocs:C16,
+        ocs:C21444,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C24215,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C2761,
+        ocs:C32,
+        ocs:C34912,
+        ocs:C4397,
+        ocs:C8,
+        ocs:C9106,
+        ocs:C961 .
+

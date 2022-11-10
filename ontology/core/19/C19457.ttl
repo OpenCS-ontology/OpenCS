@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19457 a skos:Concept ;
+    skos:broader ocs:C4217,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/MACD> ;
+    skos:prefLabel "MACD" ;
+    skos:related ocs:C13936,
+        ocs:C14656,
+        ocs:C16529,
+        ocs:C18368,
+        ocs:C19515,
+        ocs:C27864,
+        ocs:C4217 .
+

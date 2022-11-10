@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5840 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/FTOS> ;
+    skos:prefLabel "FTOS" ;
+    skos:related ocs:C10563,
+        ocs:C11157,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C26,
+        ocs:C28637,
+        ocs:C31489,
+        ocs:C31983,
+        ocs:C3428,
+        ocs:C34358,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C42239,
+        ocs:C42584,
+        ocs:C42619,
+        ocs:C44780,
+        ocs:C44801,
+        ocs:C490 .
+

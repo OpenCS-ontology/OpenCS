@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44482 a skos:Concept ;
+    skos:broader ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abel's_test> ;
+    skos:prefLabel "Abel's test" ;
+    skos:related ocs:C15454,
+        ocs:C16025,
+        ocs:C30602,
+        ocs:C35318,
+        ocs:C38241,
+        ocs:C38482,
+        ocs:C44705 .
+

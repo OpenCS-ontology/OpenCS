@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30668 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity-based_security> ;
+    skos:prefLabel "Identity-based security" ;
+    skos:related ocs:C10565,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C17656,
+        ocs:C18502,
+        ocs:C22450,
+        ocs:C25123,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C26783,
+        ocs:C29359,
+        ocs:C37893,
+        ocs:C41003,
+        ocs:C41222,
+        ocs:C42429,
+        ocs:C43629,
+        ocs:C44968,
+        ocs:C5418,
+        ocs:C8614 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32323 a skos:Concept ;
+    skos:broader ocs:C18213,
+        ocs:C20540 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_over_DVB> ;
+    skos:prefLabel "IP over DVB" ;
+    skos:related ocs:C10569,
+        ocs:C14160,
+        ocs:C19342,
+        ocs:C20540,
+        ocs:C21749,
+        ocs:C25114,
+        ocs:C27081,
+        ocs:C31664,
+        ocs:C32753,
+        ocs:C33691,
+        ocs:C3391,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C35819,
+        ocs:C36240,
+        ocs:C36332,
+        ocs:C37338,
+        ocs:C40667,
+        ocs:C41876,
+        ocs:C4433 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30780 a skos:Concept ;
+    skos:broader ocs:C19230,
+        ocs:C28744 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delay_line_interferometer> ;
+    skos:prefLabel "Delay line interferometer" ;
+    skos:related ocs:C19230,
+        ocs:C24469,
+        ocs:C3867 .
+

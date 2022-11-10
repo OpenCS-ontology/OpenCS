@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15531 a skos:Concept ;
+    skos:broader ocs:C6941 ;
+    skos:closeMatch <http://dbpedia.org/resource/ICFP_Programming_Contest> ;
+    skos:prefLabel "ICFP Programming Contest" ;
+    skos:related ocs:C10608,
+        ocs:C11128,
+        ocs:C12004,
+        ocs:C12762,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C27380,
+        ocs:C31724,
+        ocs:C3639,
+        ocs:C38521,
+        ocs:C38552,
+        ocs:C5309,
+        ocs:C5962,
+        ocs:C6918,
+        ocs:C6941,
+        ocs:C8616 .
+

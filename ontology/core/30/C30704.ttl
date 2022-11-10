@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30704 a skos:Concept ;
+    skos:broader ocs:C16954 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_balance> ;
+    skos:prefLabel "Color balance" ;
+    skos:related ocs:C12484,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C17520,
+        ocs:C1935,
+        ocs:C20871,
+        ocs:C24211,
+        ocs:C2531,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C740,
+        ocs:C8021,
+        ocs:C8622 .
+

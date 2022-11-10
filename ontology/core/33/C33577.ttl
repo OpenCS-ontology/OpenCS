@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33577 a skos:Concept ;
+    skos:broader ocs:C28174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ballistic_Missile_Early_Warning_System> ;
+    skos:prefLabel "Ballistic Missile Early Warning System" ;
+    skos:related ocs:C25124,
+        ocs:C28174,
+        ocs:C31757,
+        ocs:C34143,
+        ocs:C4597,
+        ocs:C7909,
+        ocs:C791 .
+

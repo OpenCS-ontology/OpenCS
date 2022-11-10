@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_engineering> ;
+    skos:prefLabel "Computer engineering" ;
+    skos:related ocs:C1,
+        ocs:C1563,
+        ocs:C197,
+        ocs:C28 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40426 a skos:Concept ;
+    skos:broader ocs:C36476 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamical_parallax> ;
+    skos:prefLabel "Dynamical parallax" ;
+    skos:related ocs:C13745,
+        ocs:C14111,
+        ocs:C18085,
+        ocs:C22752,
+        ocs:C23849,
+        ocs:C25918,
+        ocs:C27654,
+        ocs:C30632,
+        ocs:C31029,
+        ocs:C36476,
+        ocs:C37614,
+        ocs:C38805 .
+

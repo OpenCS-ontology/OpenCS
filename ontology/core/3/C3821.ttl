@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3821 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:prefLabel "Computer training" ;
+    skos:related ocs:C17,
+        ocs:C197,
+        ocs:C3444,
+        ocs:C8614,
+        ocs:C8787 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19510 a skos:Concept ;
+    skos:broader ocs:C10331 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discovery_and_Configuration_Protocol> ;
+    skos:prefLabel "Discovery and Configuration Protocol" ;
+    skos:related ocs:C20125,
+        ocs:C25027,
+        ocs:C27426,
+        ocs:C29014,
+        ocs:C29359,
+        ocs:C29798,
+        ocs:C31065,
+        ocs:C31552,
+        ocs:C31690,
+        ocs:C34235,
+        ocs:C36475,
+        ocs:C38451,
+        ocs:C39579,
+        ocs:C4093,
+        ocs:C41142,
+        ocs:C42609,
+        ocs:C44571,
+        ocs:C45856,
+        ocs:C7016 .
+

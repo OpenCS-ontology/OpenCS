@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39710 a skos:Concept ;
+    skos:broader ocs:C32392,
+        ocs:C32877,
+        ocs:C35040 ;
+    skos:closeMatch <http://dbpedia.org/resource/J-invariant> ;
+    skos:prefLabel "j-invariant" ;
+    skos:related ocs:C23040,
+        ocs:C23209,
+        ocs:C32124,
+        ocs:C32392,
+        ocs:C32877,
+        ocs:C38958,
+        ocs:C43605,
+        ocs:C44225,
+        ocs:C45135 .
+

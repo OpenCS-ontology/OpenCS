@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30834 a skos:Concept ;
+    skos:broader ocs:C24469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_power_margin> ;
+    skos:prefLabel "Optical power margin" ;
+    skos:related ocs:C1316,
+        ocs:C17917,
+        ocs:C32672,
+        ocs:C34124,
+        ocs:C5559,
+        ocs:C5729,
+        ocs:C5853 .
+

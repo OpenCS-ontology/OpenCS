@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16773 a skos:Concept ;
+    skos:broader ocs:C5369,
+        ocs:C8436 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_frequency_microelectromechanical_system> ;
+    skos:prefLabel "Radio frequency microelectromechanical system" ;
+    skos:related ocs:C1219,
+        ocs:C32554,
+        ocs:C41433,
+        ocs:C5369,
+        ocs:C6913 .
+

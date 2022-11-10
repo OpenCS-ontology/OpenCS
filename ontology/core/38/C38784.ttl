@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38784 a skos:Concept ;
+    skos:broader ocs:C33674,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monitor_mode> ;
+    skos:prefLabel "Monitor mode" ;
+    skos:related ocs:C15865,
+        ocs:C17919,
+        ocs:C22851,
+        ocs:C22906,
+        ocs:C25967,
+        ocs:C27923,
+        ocs:C28637,
+        ocs:C28881,
+        ocs:C31419,
+        ocs:C32759,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38184,
+        ocs:C40409,
+        ocs:C41693,
+        ocs:C41995,
+        ocs:C45757,
+        ocs:C45852,
+        ocs:C490 .
+

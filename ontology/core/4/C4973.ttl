@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4973 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Authoring_system> ;
+    skos:prefLabel "Authoring system" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C1386,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C22540,
+        ocs:C26813,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5500,
+        ocs:C5702,
+        ocs:C6670,
+        ocs:C860,
+        ocs:C9 .
+

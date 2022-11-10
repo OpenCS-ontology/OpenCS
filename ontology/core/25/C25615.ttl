@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25615 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/TSL_color_space> ;
+    skos:prefLabel "TSL color space" ;
+    skos:related ocs:C12351,
+        ocs:C12849,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C20137,
+        ocs:C20260,
+        ocs:C20961,
+        ocs:C22083,
+        ocs:C27504,
+        ocs:C27695,
+        ocs:C36633,
+        ocs:C38432,
+        ocs:C45041,
+        ocs:C45306,
+        ocs:C4818,
+        ocs:C6942,
+        ocs:C8099 .
+

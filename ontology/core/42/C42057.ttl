@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42057 a skos:Concept ;
+    skos:broader ocs:C30405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-site_request_forgery> ;
+    skos:prefLabel "Cross-site request forgery" ;
+    skos:related ocs:C12810,
+        ocs:C16338,
+        ocs:C17266,
+        ocs:C19156,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C26528,
+        ocs:C30365,
+        ocs:C32189,
+        ocs:C35,
+        ocs:C39663,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C42899,
+        ocs:C44631,
+        ocs:C45342,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C4918 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11087 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_science> ;
+    skos:prefLabel "Information science" ;
+    skos:related ocs:C1,
+        ocs:C197,
+        ocs:C23,
+        ocs:C2979,
+        ocs:C4,
+        ocs:C8 .
+

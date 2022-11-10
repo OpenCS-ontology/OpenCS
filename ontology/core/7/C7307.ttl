@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7307 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:prefLabel "Noise Artifact" ;
+    skos:related ocs:C10318,
+        ocs:C10321,
+        ocs:C16,
+        ocs:C17412,
+        ocs:C21,
+        ocs:C23747,
+        ocs:C257,
+        ocs:C669,
+        ocs:C8021,
+        ocs:C8130 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14604 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Northern_Celestial_Hemisphere> ;
+    skos:prefLabel "Northern Celestial Hemisphere" ;
+    skos:related ocs:C10556,
+        ocs:C16579,
+        ocs:C18175,
+        ocs:C19225,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C30361,
+        ocs:C597 .
+

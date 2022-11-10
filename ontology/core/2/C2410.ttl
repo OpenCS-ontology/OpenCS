@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2410 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unit_Control_Block> ;
+    skos:prefLabel "Unit Control Block" ;
+    skos:related ocs:C10496,
+        ocs:C11207,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C22569,
+        ocs:C30950,
+        ocs:C3247,
+        ocs:C35529,
+        ocs:C42165,
+        ocs:C42309,
+        ocs:C42662,
+        ocs:C42690,
+        ocs:C7105,
+        ocs:C7476,
+        ocs:C8699,
+        ocs:C9 .
+

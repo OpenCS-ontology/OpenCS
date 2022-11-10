@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42466 a skos:Concept ;
+    skos:broader ocs:C35165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elementary_effects_method> ;
+    skos:prefLabel "Elementary effects method" ;
+    skos:related ocs:C11811,
+        ocs:C22686,
+        ocs:C25,
+        ocs:C2728,
+        ocs:C35165,
+        ocs:C38342,
+        ocs:C4198,
+        ocs:C528,
+        ocs:C6395,
+        ocs:C7256 .
+

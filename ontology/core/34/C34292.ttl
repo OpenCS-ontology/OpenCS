@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34292 a skos:Concept ;
+    skos:broader ocs:C20933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Home_sign> ;
+    skos:prefLabel "Home sign" ;
+    skos:related ocs:C1088,
+        ocs:C15973,
+        ocs:C16631,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C2480,
+        ocs:C25188,
+        ocs:C27530,
+        ocs:C30694,
+        ocs:C31406,
+        ocs:C32758,
+        ocs:C35363,
+        ocs:C35636,
+        ocs:C37561,
+        ocs:C7501,
+        ocs:C7858 .
+

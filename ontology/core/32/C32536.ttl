@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32536 a skos:Concept ;
+    skos:broader ocs:C17557,
+        ocs:C25710,
+        ocs:C28533 ;
+    skos:prefLabel "Web application design" .
+

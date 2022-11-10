@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10861 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transactive_memory> ;
+    skos:prefLabel "Transactive memory" ;
+    skos:related ocs:C11087,
+        ocs:C11185,
+        ocs:C11657,
+        ocs:C23,
+        ocs:C3343,
+        ocs:C5140,
+        ocs:C7344,
+        ocs:C8 .
+

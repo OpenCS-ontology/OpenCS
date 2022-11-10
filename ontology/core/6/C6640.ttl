@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6640 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Huffyuv> ;
+    skos:prefLabel "Huffyuv" ;
+    skos:related ocs:C11043,
+        ocs:C11968,
+        ocs:C12152,
+        ocs:C19334,
+        ocs:C19484,
+        ocs:C20512,
+        ocs:C31114,
+        ocs:C32609,
+        ocs:C34697,
+        ocs:C39584,
+        ocs:C45687,
+        ocs:C45811,
+        ocs:C4584,
+        ocs:C6081 .
+

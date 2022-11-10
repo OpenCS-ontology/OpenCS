@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12856 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/TIME-ITEM> ;
+    skos:prefLabel "TIME-ITEM" ;
+    skos:related ocs:C11763,
+        ocs:C12066,
+        ocs:C25681,
+        ocs:C32303,
+        ocs:C3396,
+        ocs:C38158,
+        ocs:C38217,
+        ocs:C38537,
+        ocs:C39133,
+        ocs:C41212,
+        ocs:C41350,
+        ocs:C44161,
+        ocs:C45248,
+        ocs:C45752,
+        ocs:C6915,
+        ocs:C7500 .
+

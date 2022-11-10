@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13953 a skos:Concept ;
+    skos:broader ocs:C5692,
+        ocs:C7006,
+        ocs:C7106,
+        ocs:C7510 ;
+    skos:prefLabel "Identity privacy" .
+

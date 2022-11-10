@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15178 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scottish_Gaelic_grammar> ;
+    skos:prefLabel "Scottish Gaelic grammar" ;
+    skos:related ocs:C10570,
+        ocs:C15021,
+        ocs:C15641,
+        ocs:C16989,
+        ocs:C18232,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23243,
+        ocs:C23692,
+        ocs:C24499,
+        ocs:C25375,
+        ocs:C28817,
+        ocs:C3147 .
+

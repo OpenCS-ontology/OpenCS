@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43434 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C30335,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Architecture_tradeoff_analysis_method> ;
+    skos:prefLabel "Architecture tradeoff analysis method" ;
+    skos:related ocs:C1035,
+        ocs:C14329,
+        ocs:C20241,
+        ocs:C23394,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C34713,
+        ocs:C36599,
+        ocs:C37174,
+        ocs:C37875,
+        ocs:C38363,
+        ocs:C40490,
+        ocs:C42972,
+        ocs:C43774,
+        ocs:C44988,
+        ocs:C45629,
+        ocs:C5869,
+        ocs:C688 .
+

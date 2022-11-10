@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27277 a skos:Concept ;
+    skos:broader ocs:C12641,
+        ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/ECEF> ;
+    skos:prefLabel "ECEF" ;
+    skos:related ocs:C16293,
+        ocs:C16396,
+        ocs:C18568,
+        ocs:C20371,
+        ocs:C28891,
+        ocs:C29425,
+        ocs:C30827,
+        ocs:C37979,
+        ocs:C8708,
+        ocs:C9690 .
+

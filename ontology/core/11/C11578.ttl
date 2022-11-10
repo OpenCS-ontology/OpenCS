@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11578 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Philosophy_of_information> ;
+    skos:prefLabel "Philosophy of information" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C11340,
+        ocs:C1451,
+        ocs:C25681,
+        ocs:C44765,
+        ocs:C5816,
+        ocs:C7334,
+        ocs:C7467,
+        ocs:C8 .
+

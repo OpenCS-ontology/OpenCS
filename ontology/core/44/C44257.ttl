@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44257 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C33043,
+        ocs:C34568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hammersley–Clifford_theorem> ;
+    skos:prefLabel "Hammersley–Clifford theorem" ;
+    skos:related ocs:C13869,
+        ocs:C1844,
+        ocs:C22896,
+        ocs:C26265,
+        ocs:C30864,
+        ocs:C36407,
+        ocs:C39274,
+        ocs:C43069,
+        ocs:C45652,
+        ocs:C9326 .
+

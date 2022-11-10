@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C581 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Calculus> ;
+    skos:prefLabel "Mathematical Calculus" ;
+    skos:related ocs:C11189,
+        ocs:C19,
+        ocs:C1936,
+        ocs:C2872,
+        ocs:C29,
+        ocs:C3337,
+        ocs:C3677,
+        ocs:C6816,
+        ocs:C8 .
+

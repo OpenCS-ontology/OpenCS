@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43078 a skos:Concept ;
+    skos:broader ocs:C31209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heteropneustes> ;
+    skos:prefLabel "Heteropneustes" ;
+    skos:related ocs:C31209,
+        ocs:C37391,
+        ocs:C38071,
+        ocs:C39219,
+        ocs:C41824,
+        ocs:C42957,
+        ocs:C45405 .
+

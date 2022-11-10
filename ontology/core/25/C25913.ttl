@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25913 a skos:Concept ;
+    skos:broader ocs:C1502,
+        ocs:C3836,
+        ocs:C5699 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_Vanguard_Method> ;
+    skos:prefLabel "The Vanguard Method" ;
+    skos:related ocs:C43932,
+        ocs:C5863 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39655 a skos:Concept ;
+    skos:broader ocs:C30144,
+        ocs:C30652,
+        ocs:C32555,
+        ocs:C35370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rogue_access_point> ;
+    skos:prefLabel "Rogue access point" ;
+    skos:related ocs:C10055,
+        ocs:C15728,
+        ocs:C15865,
+        ocs:C20243,
+        ocs:C25870,
+        ocs:C26,
+        ocs:C27570,
+        ocs:C27923,
+        ocs:C2935,
+        ocs:C30769,
+        ocs:C32724,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38861,
+        ocs:C39494,
+        ocs:C45140,
+        ocs:C45757,
+        ocs:C8028 .
+

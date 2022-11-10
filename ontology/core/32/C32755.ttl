@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32755 a skos:Concept ;
+    skos:broader ocs:C16594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sznajd_model> ;
+    skos:prefLabel "Sznajd model" ;
+    skos:related ocs:C25223,
+        ocs:C31138,
+        ocs:C31458,
+        ocs:C34510,
+        ocs:C37437 .
+

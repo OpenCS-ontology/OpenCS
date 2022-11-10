@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10773 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polygonizer> ;
+    skos:prefLabel "Polygonizer" ;
+    skos:related ocs:C11450,
+        ocs:C11689,
+        ocs:C12577,
+        ocs:C15820,
+        ocs:C15836,
+        ocs:C19559,
+        ocs:C22,
+        ocs:C23899,
+        ocs:C27489,
+        ocs:C32898,
+        ocs:C34843,
+        ocs:C35190,
+        ocs:C36542,
+        ocs:C38989,
+        ocs:C44315,
+        ocs:C44381,
+        ocs:C6030,
+        ocs:C7390,
+        ocs:C8904 .
+

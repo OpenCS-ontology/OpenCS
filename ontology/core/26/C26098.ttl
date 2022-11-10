@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26098 a skos:Concept ;
+    skos:broader ocs:C2863 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stock_market_crash> ;
+    skos:prefLabel "Stock market crash" ;
+    skos:related ocs:C28443 .
+

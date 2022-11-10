@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32356 a skos:Concept ;
+    skos:broader ocs:C19355 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_topology_(polar_topology)> ;
+    skos:prefLabel "Strong topology (polar topology)" ;
+    skos:related ocs:C23927,
+        ocs:C33893,
+        ocs:C35460,
+        ocs:C36144,
+        ocs:C38762,
+        ocs:C44817 .
+

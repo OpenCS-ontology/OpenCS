@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8905 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_collaboration> ;
+    skos:prefLabel "Social collaboration" ;
+    skos:related ocs:C10057,
+        ocs:C11036,
+        ocs:C11205,
+        ocs:C12,
+        ocs:C13071,
+        ocs:C13108,
+        ocs:C16369,
+        ocs:C17658,
+        ocs:C22668,
+        ocs:C25411,
+        ocs:C26012,
+        ocs:C35701,
+        ocs:C4866,
+        ocs:C5140,
+        ocs:C672,
+        ocs:C7106,
+        ocs:C8614,
+        ocs:C9209 .
+

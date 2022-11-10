@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42483 a skos:Concept ;
+    skos:broader ocs:C31884,
+        ocs:C32111,
+        ocs:C34051,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Saturation_(graph_theory)> ;
+    skos:prefLabel "Saturation (graph theory)" ;
+    skos:related ocs:C12509,
+        ocs:C19336,
+        ocs:C31454,
+        ocs:C31884,
+        ocs:C32111,
+        ocs:C32806,
+        ocs:C34051,
+        ocs:C35080,
+        ocs:C37036,
+        ocs:C37941,
+        ocs:C39334,
+        ocs:C39541,
+        ocs:C40560,
+        ocs:C41731,
+        ocs:C44862,
+        ocs:C45746,
+        ocs:C5244,
+        ocs:C5691 .
+

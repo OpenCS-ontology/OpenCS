@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11587 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Modified assignment" ;
+    skos:related ocs:C1,
+        ocs:C11372,
+        ocs:C12597,
+        ocs:C7397,
+        ocs:C7632,
+        ocs:C9264 .
+

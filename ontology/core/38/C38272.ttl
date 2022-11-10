@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38272 a skos:Concept ;
+    skos:broader ocs:C31257 ;
+    skos:closeMatch <http://dbpedia.org/resource/SYN_cookies> ;
+    skos:prefLabel "SYN cookies" ;
+    skos:related ocs:C10008,
+        ocs:C11550,
+        ocs:C13551,
+        ocs:C16980,
+        ocs:C20205,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C31257,
+        ocs:C31489,
+        ocs:C34358,
+        ocs:C38384,
+        ocs:C41055,
+        ocs:C41119,
+        ocs:C44017,
+        ocs:C5837,
+        ocs:C6473 .
+

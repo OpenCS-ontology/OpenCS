@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16009 a skos:Concept ;
+    skos:broader ocs:C6287,
+        ocs:C8517,
+        ocs:C8944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affine_scaling> ;
+    skos:prefLabel "Affine scaling" ;
+    skos:related ocs:C10,
+        ocs:C15480,
+        ocs:C19177,
+        ocs:C40100,
+        ocs:C6287,
+        ocs:C8944 .
+

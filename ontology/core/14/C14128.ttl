@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14128 a skos:Concept ;
+    skos:broader ocs:C263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Customerization> ;
+    skos:prefLabel "Customerization" ;
+    skos:related ocs:C14157,
+        ocs:C15470,
+        ocs:C19513,
+        ocs:C263,
+        ocs:C3836 .
+

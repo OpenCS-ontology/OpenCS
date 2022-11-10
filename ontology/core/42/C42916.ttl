@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42916 a skos:Concept ;
+    skos:broader ocs:C35607,
+        ocs:C36286 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microglanis> ;
+    skos:prefLabel "Microglanis" ;
+    skos:related ocs:C31573,
+        ocs:C33166,
+        ocs:C36175,
+        ocs:C39157,
+        ocs:C40967,
+        ocs:C41316,
+        ocs:C42152,
+        ocs:C42528,
+        ocs:C42958,
+        ocs:C44472,
+        ocs:C45689 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35896 a skos:Concept ;
+    skos:broader ocs:C22668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_2.0> ;
+    skos:prefLabel "Enterprise 2.0" ;
+    skos:related ocs:C11036,
+        ocs:C11205,
+        ocs:C12,
+        ocs:C17658,
+        ocs:C22668,
+        ocs:C22780,
+        ocs:C25752,
+        ocs:C30659,
+        ocs:C31730,
+        ocs:C32880,
+        ocs:C37343,
+        ocs:C39858,
+        ocs:C4500,
+        ocs:C672,
+        ocs:C8614,
+        ocs:C9209 .
+

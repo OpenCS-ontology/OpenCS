@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25969 a skos:Concept ;
+    skos:broader ocs:C13792 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pointing_and_calling> ;
+    skos:prefLabel "Pointing and calling" ;
+    skos:related ocs:C387,
+        ocs:C4096 .
+

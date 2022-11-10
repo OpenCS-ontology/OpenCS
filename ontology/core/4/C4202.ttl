@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4202 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Criminal_investigation> ;
+    skos:prefLabel "Criminal investigation" ;
+    skos:related ocs:C11023,
+        ocs:C7113,
+        ocs:C7604 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13898 a skos:Concept ;
+    skos:broader ocs:C5702,
+        ocs:C7340,
+        ocs:C7736 ;
+    skos:prefLabel "Participant Object" ;
+    skos:related ocs:C30 .
+

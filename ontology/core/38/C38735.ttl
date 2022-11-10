@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38735 a skos:Concept ;
+    skos:broader ocs:C30725 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequence_space_(evolution)> ;
+    skos:prefLabel "Sequence space (evolution)" ;
+    skos:related ocs:C19427,
+        ocs:C27712,
+        ocs:C31310 .
+

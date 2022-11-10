@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22995 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bracketing_paradox> ;
+    skos:prefLabel "Bracketing paradox" ;
+    skos:related ocs:C11932,
+        ocs:C13757,
+        ocs:C1451,
+        ocs:C19696,
+        ocs:C2298,
+        ocs:C24893,
+        ocs:C26019,
+        ocs:C26304,
+        ocs:C26816,
+        ocs:C28817,
+        ocs:C29358,
+        ocs:C4755,
+        ocs:C6416,
+        ocs:C8283 .
+

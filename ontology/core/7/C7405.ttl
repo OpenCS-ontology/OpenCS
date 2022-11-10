@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7405 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wiring_pencil> ;
+    skos:prefLabel "Wiring pencil" ;
+    skos:related ocs:C12337,
+        ocs:C18053,
+        ocs:C756 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22726 a skos:Concept ;
+    skos:broader ocs:C9534 ;
+    skos:prefLabel "Bullet proof vest" ;
+    skos:related ocs:C2,
+        ocs:C22,
+        ocs:C35,
+        ocs:C9534 .
+

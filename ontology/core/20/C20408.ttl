@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20408 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C6594,
+        ocs:C7689 ;
+    skos:prefLabel "Markov random walk" .
+

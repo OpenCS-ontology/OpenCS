@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42722 a skos:Concept ;
+    skos:broader ocs:C33380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bidirectional_map> ;
+    skos:prefLabel "Bidirectional map" ;
+    skos:related ocs:C11899,
+        ocs:C14624,
+        ocs:C21255,
+        ocs:C26456,
+        ocs:C29382,
+        ocs:C30594,
+        ocs:C41512,
+        ocs:C43160,
+        ocs:C43897,
+        ocs:C8022,
+        ocs:C8522 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22501 a skos:Concept ;
+    skos:broader ocs:C3678,
+        ocs:C8660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Worst-case_complexity> ;
+    skos:prefLabel "Worst-case complexity" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C17853,
+        ocs:C18221,
+        ocs:C21625,
+        ocs:C24700,
+        ocs:C27399,
+        ocs:C27528,
+        ocs:C28335,
+        ocs:C32771,
+        ocs:C35890,
+        ocs:C36120,
+        ocs:C3678,
+        ocs:C4218,
+        ocs:C5050,
+        ocs:C611,
+        ocs:C8660,
+        ocs:C8944 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23887 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_top> ;
+    skos:prefLabel "Cloud top" ;
+    skos:related ocs:C16917,
+        ocs:C26939,
+        ocs:C28180,
+        ocs:C29178,
+        ocs:C31544,
+        ocs:C33608,
+        ocs:C34820,
+        ocs:C35268,
+        ocs:C39714 .
+

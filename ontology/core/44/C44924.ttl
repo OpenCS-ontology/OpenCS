@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44924 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visibility_polygon> ;
+    skos:prefLabel "Visibility polygon" ;
+    skos:related ocs:C13876,
+        ocs:C17236,
+        ocs:C27384,
+        ocs:C28240,
+        ocs:C32254,
+        ocs:C33963,
+        ocs:C35574,
+        ocs:C36077,
+        ocs:C37589,
+        ocs:C38214,
+        ocs:C41076,
+        ocs:C43414,
+        ocs:C43751,
+        ocs:C6279,
+        ocs:C6289,
+        ocs:C8660 .
+

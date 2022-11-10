@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20393 a skos:Concept ;
+    skos:broader ocs:C11542,
+        ocs:C1446,
+        ocs:C5823 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_coverage_problem> ;
+    skos:prefLabel "Maximum coverage problem" ;
+    skos:related ocs:C11372,
+        ocs:C11542,
+        ocs:C11701,
+        ocs:C14851,
+        ocs:C15675,
+        ocs:C20720,
+        ocs:C30401,
+        ocs:C33456,
+        ocs:C37036,
+        ocs:C38590,
+        ocs:C40828,
+        ocs:C41731,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C6776,
+        ocs:C7988,
+        ocs:C8660,
+        ocs:C8944 .
+

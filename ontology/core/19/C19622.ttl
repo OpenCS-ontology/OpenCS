@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19622 a skos:Concept ;
+    skos:broader ocs:C10923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tail_dependence> ;
+    skos:prefLabel "Tail dependence" ;
+    skos:related ocs:C20228,
+        ocs:C20805,
+        ocs:C22092,
+        ocs:C33008,
+        ocs:C36008,
+        ocs:C36407,
+        ocs:C36941,
+        ocs:C37683,
+        ocs:C39448,
+        ocs:C45652,
+        ocs:C9326 .
+

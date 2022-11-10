@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12695 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pipeline_(computing)> ;
+    skos:prefLabel "Pipeline (computing)" ;
+    skos:related ocs:C10320,
+        ocs:C1449,
+        ocs:C19487,
+        ocs:C2478,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C37538,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9262,
+        ocs:C9487 .
+

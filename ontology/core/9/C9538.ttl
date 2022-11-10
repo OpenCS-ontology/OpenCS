@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9538 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dimensionality_reduction> ;
+    skos:prefLabel "Dimensionality reduction" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C20003,
+        ocs:C20377,
+        ocs:C20383,
+        ocs:C21,
+        ocs:C25,
+        ocs:C2801,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C5401,
+        ocs:C5498,
+        ocs:C6116,
+        ocs:C6535,
+        ocs:C6912,
+        ocs:C8332,
+        ocs:C9022 .
+

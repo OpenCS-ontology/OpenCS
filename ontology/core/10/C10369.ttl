@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10369 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-research> ;
+    skos:prefLabel "E-research" ;
+    skos:related ocs:C10070,
+        ocs:C12238,
+        ocs:C13264,
+        ocs:C15045,
+        ocs:C16235,
+        ocs:C16772,
+        ocs:C197,
+        ocs:C30,
+        ocs:C3301,
+        ocs:C3407,
+        ocs:C36207,
+        ocs:C39618,
+        ocs:C5124,
+        ocs:C6529 .
+

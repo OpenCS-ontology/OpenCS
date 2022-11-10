@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22999 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C6594,
+        ocs:C7689 ;
+    skos:prefLabel "Markov operator" .
+

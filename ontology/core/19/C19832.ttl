@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19832 a skos:Concept ;
+    skos:broader ocs:C8790 ;
+    skos:prefLabel "Batch Identifier" ;
+    skos:related ocs:C2,
+        ocs:C26,
+        ocs:C33,
+        ocs:C33074,
+        ocs:C35,
+        ocs:C6,
+        ocs:C7006 .
+

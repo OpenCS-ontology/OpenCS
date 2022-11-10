@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20429 a skos:Concept ;
+    skos:broader ocs:C11545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Survey_of_English_Dialects> ;
+    skos:prefLabel "Survey of English Dialects" ;
+    skos:related ocs:C1034,
+        ocs:C12388,
+        ocs:C21819,
+        ocs:C26501,
+        ocs:C6194 .
+

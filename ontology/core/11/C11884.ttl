@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11884 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/S3_ViRGE> ;
+    skos:prefLabel "S3 ViRGE" ;
+    skos:related ocs:C13586,
+        ocs:C13875,
+        ocs:C14634,
+        ocs:C18246,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C2046,
+        ocs:C21609,
+        ocs:C24235,
+        ocs:C2674,
+        ocs:C28172,
+        ocs:C31152,
+        ocs:C38120,
+        ocs:C40235,
+        ocs:C44283,
+        ocs:C5514,
+        ocs:C5702,
+        ocs:C992 .
+

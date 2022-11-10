@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13173 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C22,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clip_art> ;
+    skos:prefLabel "Clip art" ;
+    skos:related ocs:C10973,
+        ocs:C11759,
+        ocs:C13155,
+        ocs:C13428,
+        ocs:C20066,
+        ocs:C20457,
+        ocs:C2135,
+        ocs:C2409,
+        ocs:C30436,
+        ocs:C33188,
+        ocs:C3679,
+        ocs:C43198,
+        ocs:C4584,
+        ocs:C5477,
+        ocs:C797,
+        ocs:C9646 .
+

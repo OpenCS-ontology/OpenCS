@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15524 a skos:Concept ;
+    skos:broader ocs:C7850 ;
+    skos:prefLabel "Total physical activity" ;
+    skos:related ocs:C19113,
+        ocs:C27998 .
+

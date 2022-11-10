@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10445 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adversary_(cryptography)> ;
+    skos:prefLabel "Adversary" ;
+    skos:related ocs:C16125,
+        ocs:C16855,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C18428,
+        ocs:C19156,
+        ocs:C20243,
+        ocs:C21383,
+        ocs:C23204,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C31482,
+        ocs:C35,
+        ocs:C35008,
+        ocs:C38025,
+        ocs:C39524,
+        ocs:C4218,
+        ocs:C42818,
+        ocs:C4344,
+        ocs:C44289 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31048 a skos:Concept ;
+    skos:broader ocs:C28734,
+        ocs:C29401 ;
+    skos:closeMatch <http://dbpedia.org/resource/EJB_QL> ;
+    skos:prefLabel "EJB QL" ;
+    skos:related ocs:C11812,
+        ocs:C12185,
+        ocs:C17103,
+        ocs:C17905,
+        ocs:C23139,
+        ocs:C264,
+        ocs:C28734,
+        ocs:C29401,
+        ocs:C30561,
+        ocs:C33281,
+        ocs:C33916,
+        ocs:C36084,
+        ocs:C36924,
+        ocs:C45138,
+        ocs:C6 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24015 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_display_controller> ;
+    skos:prefLabel "Video display controller" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10568,
+        ocs:C1904,
+        ocs:C28172,
+        ocs:C28881,
+        ocs:C32920,
+        ocs:C34150,
+        ocs:C3627,
+        ocs:C4259,
+        ocs:C44,
+        ocs:C5336,
+        ocs:C653 .
+

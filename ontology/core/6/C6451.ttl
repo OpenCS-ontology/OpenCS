@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6451 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optomux> ;
+    skos:prefLabel "Optomux" ;
+    skos:related ocs:C11864,
+        ocs:C12442,
+        ocs:C20810,
+        ocs:C38589,
+        ocs:C43772,
+        ocs:C43830,
+        ocs:C4458,
+        ocs:C45243,
+        ocs:C5814,
+        ocs:C7701,
+        ocs:C7794 .
+

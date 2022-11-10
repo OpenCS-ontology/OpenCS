@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23164 a skos:Concept ;
+    skos:broader ocs:C4255,
+        ocs:C7877 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_geometry> ;
+    skos:prefLabel "Stochastic geometry" ;
+    skos:related ocs:C10803,
+        ocs:C12373,
+        ocs:C2115,
+        ocs:C24350,
+        ocs:C26839,
+        ocs:C29727,
+        ocs:C33580,
+        ocs:C42236,
+        ocs:C6909 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4213 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C30,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Write–read_conflict> ;
+    skos:prefLabel "Write–read conflict" ;
+    skos:related ocs:C1,
+        ocs:C22879,
+        ocs:C23694,
+        ocs:C23753,
+        ocs:C30273,
+        ocs:C37360,
+        ocs:C38365,
+        ocs:C42517,
+        ocs:C43404,
+        ocs:C43644,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C45000,
+        ocs:C45370,
+        ocs:C6,
+        ocs:C6346,
+        ocs:C6754,
+        ocs:C8702 .
+

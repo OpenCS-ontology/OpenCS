@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24174 a skos:Concept ;
+    skos:broader ocs:C11089,
+        ocs:C5852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-language_information_retrieval> ;
+    skos:prefLabel "Cross-language information retrieval" ;
+    skos:related ocs:C11089,
+        ocs:C15008,
+        ocs:C17722,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C3025,
+        ocs:C3983,
+        ocs:C40049,
+        ocs:C41195,
+        ocs:C428,
+        ocs:C42910,
+        ocs:C4595,
+        ocs:C6700,
+        ocs:C6963,
+        ocs:C8368,
+        ocs:C9876 .
+

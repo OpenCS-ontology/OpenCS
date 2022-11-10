@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12176 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:prefLabel "Membership relationship" ;
+    skos:related ocs:C1,
+        ocs:C1410,
+        ocs:C2543,
+        ocs:C35,
+        ocs:C6234,
+        ocs:C7006,
+        ocs:C935 .
+

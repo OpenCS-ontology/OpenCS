@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37875 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monolithic_application> ;
+    skos:prefLabel "Monolithic application" ;
+    skos:related ocs:C11203,
+        ocs:C11262,
+        ocs:C11992,
+        ocs:C14329,
+        ocs:C17238,
+        ocs:C28080,
+        ocs:C31430,
+        ocs:C34713,
+        ocs:C35739,
+        ocs:C40490,
+        ocs:C42543,
+        ocs:C43434,
+        ocs:C43774,
+        ocs:C44773,
+        ocs:C44815,
+        ocs:C7511,
+        ocs:C9 .
+

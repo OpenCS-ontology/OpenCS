@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6025 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequence_point> ;
+    skos:prefLabel "Sequence point" ;
+    skos:related ocs:C10284,
+        ocs:C10332,
+        ocs:C10384,
+        ocs:C1083,
+        ocs:C1333,
+        ocs:C17884,
+        ocs:C19,
+        ocs:C23909,
+        ocs:C25127,
+        ocs:C26024,
+        ocs:C26461,
+        ocs:C30749,
+        ocs:C31014,
+        ocs:C31123,
+        ocs:C39526,
+        ocs:C39715,
+        ocs:C41793,
+        ocs:C5280,
+        ocs:C6941 .
+

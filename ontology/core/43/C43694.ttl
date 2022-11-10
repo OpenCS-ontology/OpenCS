@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43694 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cofunction> ;
+    skos:prefLabel "Cofunction" ;
+    skos:related ocs:C13541,
+        ocs:C14919,
+        ocs:C24803,
+        ocs:C39778,
+        ocs:C39809,
+        ocs:C40788,
+        ocs:C45038 .
+

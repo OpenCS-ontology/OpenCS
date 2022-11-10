@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13691 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/HDCAM> ;
+    skos:prefLabel "HDCAM" ;
+    skos:related ocs:C10111,
+        ocs:C10778,
+        ocs:C11323,
+        ocs:C12544,
+        ocs:C13973,
+        ocs:C15700,
+        ocs:C22705,
+        ocs:C2722,
+        ocs:C31011,
+        ocs:C31451,
+        ocs:C37407,
+        ocs:C38532,
+        ocs:C39584,
+        ocs:C40199,
+        ocs:C40353,
+        ocs:C4448,
+        ocs:C4461,
+        ocs:C6079 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15882 a skos:Concept ;
+    skos:broader ocs:C7398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Near-field_electromagnetic_ranging> ;
+    skos:prefLabel "Near-field electromagnetic ranging" ;
+    skos:related ocs:C1219,
+        ocs:C17383,
+        ocs:C23423,
+        ocs:C3044,
+        ocs:C35931,
+        ocs:C41433,
+        ocs:C4398,
+        ocs:C7159,
+        ocs:C8431 .
+

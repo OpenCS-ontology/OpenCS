@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26301 a skos:Concept ;
+    skos:broader ocs:C2863,
+        ocs:C591 ;
+    skos:closeMatch <http://dbpedia.org/resource/Federal_Motor_Vehicle_Safety_Standards> ;
+    skos:prefLabel "Federal Motor Vehicle Safety Standards" ;
+    skos:related ocs:C15851,
+        ocs:C16728,
+        ocs:C18179,
+        ocs:C26749,
+        ocs:C27671 .
+

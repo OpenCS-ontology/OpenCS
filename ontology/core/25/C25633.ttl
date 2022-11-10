@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25633 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payload_(computing)> ;
+    skos:prefLabel "Payload (computing)" ;
+    skos:related ocs:C10214,
+        ocs:C16953,
+        ocs:C26,
+        ocs:C2941,
+        ocs:C2999,
+        ocs:C33104,
+        ocs:C33996,
+        ocs:C35,
+        ocs:C3896,
+        ocs:C390,
+        ocs:C3968,
+        ocs:C4004,
+        ocs:C40900,
+        ocs:C44266,
+        ocs:C6082,
+        ocs:C7800,
+        ocs:C8614,
+        ocs:C9931 .
+

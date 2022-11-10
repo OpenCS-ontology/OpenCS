@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35912 a skos:Concept ;
+    skos:broader ocs:C15589,
+        ocs:C24781,
+        ocs:C27568 ;
+    skos:prefLabel "Asynchronous time division multiplexing" .
+

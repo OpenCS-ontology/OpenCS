@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14697 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aircraft_vectoring> ;
+    skos:prefLabel "Aircraft vectoring" ;
+    skos:related ocs:C18521,
+        ocs:C23444,
+        ocs:C25295,
+        ocs:C26346,
+        ocs:C30562,
+        ocs:C3159,
+        ocs:C38466,
+        ocs:C45270,
+        ocs:C4597,
+        ocs:C8764,
+        ocs:C9258 .
+

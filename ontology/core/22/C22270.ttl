@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22270 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C8169 ;
+    skos:closeMatch <http://dbpedia.org/resource/XAUI> ;
+    skos:prefLabel "XAUI" ;
+    skos:related ocs:C13932,
+        ocs:C1398,
+        ocs:C14691,
+        ocs:C16673,
+        ocs:C17505,
+        ocs:C18745,
+        ocs:C20394,
+        ocs:C23188,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C2799,
+        ocs:C29125,
+        ocs:C29862,
+        ocs:C34034,
+        ocs:C45901,
+        ocs:C490,
+        ocs:C8169 .
+

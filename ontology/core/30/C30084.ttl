@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30084 a skos:Concept ;
+    skos:broader ocs:C29175 ;
+    skos:closeMatch <http://dbpedia.org/resource/Level_set_method> ;
+    skos:prefLabel "Level set method" ;
+    skos:related ocs:C21555,
+        ocs:C29175,
+        ocs:C42821 .
+

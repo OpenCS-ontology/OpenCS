@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34162 a skos:Concept ;
+    skos:broader ocs:C14410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_transfer> ;
+    skos:prefLabel "Language transfer" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C1304,
+        ocs:C16053,
+        ocs:C16672,
+        ocs:C24499,
+        ocs:C2761,
+        ocs:C2847,
+        ocs:C35271,
+        ocs:C5990,
+        ocs:C6634 .
+

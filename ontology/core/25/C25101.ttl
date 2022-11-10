@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25101 a skos:Concept ;
+    skos:broader ocs:C11529,
+        ocs:C6681,
+        ocs:C8951,
+        ocs:C9686 ;
+    skos:prefLabel "Zero frequency filtering" .
+

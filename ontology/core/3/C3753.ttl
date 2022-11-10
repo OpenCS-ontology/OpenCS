@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3753 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_theory> ;
+    skos:prefLabel "Decision theory" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C28722,
+        ocs:C6692,
+        ocs:C8 .
+

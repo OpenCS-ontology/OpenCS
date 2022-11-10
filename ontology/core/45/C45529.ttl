@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45529 a skos:Concept ;
+    skos:broader ocs:C33953 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_game_culture> ;
+    skos:prefLabel "Video game culture" ;
+    skos:related ocs:C10823,
+        ocs:C12095,
+        ocs:C12492,
+        ocs:C17658,
+        ocs:C19670,
+        ocs:C2061,
+        ocs:C24850,
+        ocs:C2748,
+        ocs:C33979,
+        ocs:C43776,
+        ocs:C5137,
+        ocs:C5140,
+        ocs:C5550,
+        ocs:C6757,
+        ocs:C8614 .
+

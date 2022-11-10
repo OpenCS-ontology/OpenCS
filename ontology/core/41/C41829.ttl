@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41829 a skos:Concept ;
+    skos:broader ocs:C37173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conway_polyhedron_notation> ;
+    skos:prefLabel "Conway polyhedron notation" ;
+    skos:related ocs:C33802,
+        ocs:C35696,
+        ocs:C38670,
+        ocs:C40196,
+        ocs:C43498 .
+

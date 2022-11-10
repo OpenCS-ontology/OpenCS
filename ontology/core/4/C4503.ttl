@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4503 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plotter> ;
+    skos:prefLabel "Plotter" ;
+    skos:related ocs:C10986,
+        ocs:C12448,
+        ocs:C12851,
+        ocs:C13155,
+        ocs:C15450,
+        ocs:C15533,
+        ocs:C15968,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C29600,
+        ocs:C6852,
+        ocs:C7914,
+        ocs:C9162 .
+

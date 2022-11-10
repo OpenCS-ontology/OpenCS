@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39543 a skos:Concept ;
+    skos:broader ocs:C31755 ;
+    skos:closeMatch <http://dbpedia.org/resource/SVDO> ;
+    skos:prefLabel "SVDO" ;
+    skos:related ocs:C15612,
+        ocs:C16693,
+        ocs:C18799,
+        ocs:C1894,
+        ocs:C25712,
+        ocs:C28176,
+        ocs:C29697,
+        ocs:C29873,
+        ocs:C3060,
+        ocs:C32231,
+        ocs:C35897,
+        ocs:C37303,
+        ocs:C39722,
+        ocs:C40140,
+        ocs:C41460,
+        ocs:C42210,
+        ocs:C44416,
+        ocs:C9332 .
+

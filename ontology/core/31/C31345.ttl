@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31345 a skos:Concept ;
+    skos:broader ocs:C20957 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_correlation> ;
+    skos:prefLabel "Identity correlation" ;
+    skos:related ocs:C11651,
+        ocs:C12763,
+        ocs:C14417,
+        ocs:C15411,
+        ocs:C1634,
+        ocs:C17656,
+        ocs:C19557,
+        ocs:C20957,
+        ocs:C22450,
+        ocs:C25069,
+        ocs:C28085,
+        ocs:C37914,
+        ocs:C4513,
+        ocs:C5343,
+        ocs:C5418,
+        ocs:C8711,
+        ocs:C8790 .
+

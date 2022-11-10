@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21015 a skos:Concept ;
+    skos:broader ocs:C10511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pairwise_Algorithm> ;
+    skos:prefLabel "Pairwise Algorithm" ;
+    skos:related ocs:C19174,
+        ocs:C21924,
+        ocs:C37998,
+        ocs:C77 .
+

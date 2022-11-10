@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14273 a skos:Concept ;
+    skos:broader ocs:C10566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blank_expression> ;
+    skos:prefLabel "Blank expression" ;
+    skos:related ocs:C10566,
+        ocs:C15613,
+        ocs:C21329 .
+

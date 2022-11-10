@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44994 a skos:Concept ;
+    skos:broader ocs:C31627 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymmetric_Laplace_distribution> ;
+    skos:prefLabel "Asymmetric Laplace distribution" ;
+    skos:related ocs:C16163,
+        ocs:C21356,
+        ocs:C40060,
+        ocs:C42876,
+        ocs:C45855,
+        ocs:C795 .
+

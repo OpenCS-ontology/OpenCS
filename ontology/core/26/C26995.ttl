@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26995 a skos:Concept ;
+    skos:broader ocs:C11483 ;
+    skos:prefLabel "Infant scale" ;
+    skos:related ocs:C1,
+        ocs:C7106 .
+

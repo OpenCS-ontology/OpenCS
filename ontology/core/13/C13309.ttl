@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13309 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_needs> ;
+    skos:prefLabel "Information needs" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C13003,
+        ocs:C13349,
+        ocs:C18,
+        ocs:C1961,
+        ocs:C23,
+        ocs:C23271,
+        ocs:C2979,
+        ocs:C31201,
+        ocs:C40049,
+        ocs:C6855,
+        ocs:C6963,
+        ocs:C9057,
+        ocs:C9704 .
+

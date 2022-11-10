@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5566 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Machine_epsilon> ;
+    skos:prefLabel "Machine epsilon" ;
+    skos:related ocs:C12262,
+        ocs:C12315,
+        ocs:C23841,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C28063,
+        ocs:C29107,
+        ocs:C31030,
+        ocs:C34400,
+        ocs:C45395,
+        ocs:C4816,
+        ocs:C765,
+        ocs:C8581,
+        ocs:C9051,
+        ocs:C9743 .
+

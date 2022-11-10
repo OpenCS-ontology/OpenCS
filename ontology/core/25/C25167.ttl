@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25167 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Positive_linear_functional> ;
+    skos:prefLabel "Positive linear functional" ;
+    skos:related ocs:C18941,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C34541,
+        ocs:C40728 .
+

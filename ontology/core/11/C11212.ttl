@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11212 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interruption_science> ;
+    skos:prefLabel "Interruption science" ;
+    skos:related ocs:C11657,
+        ocs:C12692,
+        ocs:C12696,
+        ocs:C13413,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C2116,
+        ocs:C21847,
+        ocs:C22927,
+        ocs:C7355,
+        ocs:C7736,
+        ocs:C9607 .
+

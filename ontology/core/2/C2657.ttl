@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2657 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unfair_competition> ;
+    skos:prefLabel "Unfair competition" ;
+    skos:related ocs:C13306,
+        ocs:C15208,
+        ocs:C18764,
+        ocs:C18872,
+        ocs:C18977,
+        ocs:C26483,
+        ocs:C27519,
+        ocs:C27675 .
+

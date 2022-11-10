@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30089 a skos:Concept ;
+    skos:broader ocs:C26934 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lernmatrix> ;
+    skos:prefLabel "Lernmatrix" ;
+    skos:related ocs:C1358,
+        ocs:C20067,
+        ocs:C22194,
+        ocs:C23496,
+        ocs:C23970,
+        ocs:C25349,
+        ocs:C29966,
+        ocs:C32651,
+        ocs:C32745,
+        ocs:C34002,
+        ocs:C34814,
+        ocs:C37267,
+        ocs:C37502,
+        ocs:C43755,
+        ocs:C44292,
+        ocs:C8609,
+        ocs:C9022 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37721 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nakagami_distribution> ;
+    skos:prefLabel "Nakagami distribution" ;
+    skos:related ocs:C16036,
+        ocs:C16163,
+        ocs:C16691,
+        ocs:C40060,
+        ocs:C45117 .
+

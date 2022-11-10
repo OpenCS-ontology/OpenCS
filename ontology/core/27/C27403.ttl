@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27403 a skos:Concept ;
+    skos:broader ocs:C2761 ;
+    skos:prefLabel "Term (lexical)" ;
+    skos:related ocs:C1,
+        ocs:C32,
+        ocs:C8 .
+

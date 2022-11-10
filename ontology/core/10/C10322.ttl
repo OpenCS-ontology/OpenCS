@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10322 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combinatory_logic> ;
+    skos:prefLabel "Combinatory logic" ;
+    skos:related ocs:C1,
+        ocs:C10498,
+        ocs:C10825,
+        ocs:C12023,
+        ocs:C12474,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C2418,
+        ocs:C36417,
+        ocs:C38038,
+        ocs:C40372,
+        ocs:C4097,
+        ocs:C41359,
+        ocs:C41762,
+        ocs:C43623,
+        ocs:C4978,
+        ocs:C6941 .
+

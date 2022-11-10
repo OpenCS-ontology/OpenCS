@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43932 a skos:Concept ;
+    skos:broader ocs:C33142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_systems> ;
+    skos:prefLabel "Hard systems" ;
+    skos:related ocs:C10939,
+        ocs:C1336,
+        ocs:C2421,
+        ocs:C25913,
+        ocs:C33142,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C609,
+        ocs:C6998,
+        ocs:C964 .
+

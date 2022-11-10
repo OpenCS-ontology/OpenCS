@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17707 a skos:Concept ;
+    skos:broader ocs:C1444,
+        ocs:C8366,
+        ocs:C936 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hybrid_word> ;
+    skos:prefLabel "Hybrid word" ;
+    skos:related ocs:C12443,
+        ocs:C12486,
+        ocs:C18216,
+        ocs:C26304,
+        ocs:C2847,
+        ocs:C7630 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8413 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Limited speech" ;
+    skos:related ocs:C123,
+        ocs:C17,
+        ocs:C21,
+        ocs:C28638,
+        ocs:C4099,
+        ocs:C8614 .
+

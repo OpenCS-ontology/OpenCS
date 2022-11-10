@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15971 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extremal_combinatorics> ;
+    skos:prefLabel "Extremal combinatorics" ;
+    skos:related ocs:C13150,
+        ocs:C14693,
+        ocs:C17726,
+        ocs:C25682,
+        ocs:C28070,
+        ocs:C28786,
+        ocs:C32087 .
+

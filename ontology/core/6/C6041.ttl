@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6041 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autobracketing> ;
+    skos:prefLabel "Autobracketing" ;
+    skos:related ocs:C10564,
+        ocs:C11391,
+        ocs:C13065,
+        ocs:C2047,
+        ocs:C21490,
+        ocs:C4009,
+        ocs:C6075,
+        ocs:C6257 .
+

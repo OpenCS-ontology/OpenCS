@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12844 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual_access> ;
+    skos:prefLabel "Dual access" ;
+    skos:related ocs:C13590,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C19934,
+        ocs:C21891,
+        ocs:C26712,
+        ocs:C32919,
+        ocs:C32960,
+        ocs:C4343,
+        ocs:C5725,
+        ocs:C5830,
+        ocs:C7444 .
+

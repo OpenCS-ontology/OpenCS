@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17256 a skos:Concept ;
+    skos:broader ocs:C5247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gun_data_computer> ;
+    skos:prefLabel "Gun data computer" ;
+    skos:related ocs:C10320,
+        ocs:C11280,
+        ocs:C13745,
+        ocs:C23075,
+        ocs:C3336,
+        ocs:C5247,
+        ocs:C6222 .
+

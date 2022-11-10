@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28037 a skos:Concept ;
+    skos:broader ocs:C2801,
+        ocs:C9489 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signature_recognition> ;
+    skos:prefLabel "Signature recognition" ;
+    skos:related ocs:C1402,
+        ocs:C16,
+        ocs:C18273,
+        ocs:C18518,
+        ocs:C24611,
+        ocs:C248,
+        ocs:C26641,
+        ocs:C27953,
+        ocs:C39818,
+        ocs:C43850,
+        ocs:C6130,
+        ocs:C6174,
+        ocs:C7604,
+        ocs:C8524,
+        ocs:C9374,
+        ocs:C9428,
+        ocs:C9489 .
+

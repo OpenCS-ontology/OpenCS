@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6244 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ateji_PX> ;
+    skos:prefLabel "Ateji PX" ;
+    skos:related ocs:C1142,
+        ocs:C12690,
+        ocs:C14548,
+        ocs:C16968,
+        ocs:C19326,
+        ocs:C22280,
+        ocs:C25923,
+        ocs:C26422,
+        ocs:C26812,
+        ocs:C27,
+        ocs:C28944,
+        ocs:C29066,
+        ocs:C35502,
+        ocs:C39342,
+        ocs:C40762,
+        ocs:C7507,
+        ocs:C9872 .
+

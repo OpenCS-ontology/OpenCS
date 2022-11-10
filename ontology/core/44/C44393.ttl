@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44393 a skos:Concept ;
+    skos:broader ocs:C29574 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eigengap> ;
+    skos:prefLabel "Eigengap" ;
+    skos:related ocs:C14319,
+        ocs:C19542,
+        ocs:C28787,
+        ocs:C29298,
+        ocs:C31450,
+        ocs:C34314,
+        ocs:C34413 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45219 a skos:Concept ;
+    skos:broader ocs:C31577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ring-imaging_Cherenkov_detector> ;
+    skos:prefLabel "Ring-imaging Cherenkov detector" ;
+    skos:related ocs:C15862,
+        ocs:C16545,
+        ocs:C21331,
+        ocs:C22996,
+        ocs:C44332 .
+

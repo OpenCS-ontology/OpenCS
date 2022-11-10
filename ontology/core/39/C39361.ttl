@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39361 a skos:Concept ;
+    skos:broader ocs:C29902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_law> ;
+    skos:prefLabel "Circular law" ;
+    skos:related ocs:C15256,
+        ocs:C16163,
+        ocs:C22896,
+        ocs:C23888,
+        ocs:C37373,
+        ocs:C44352,
+        ocs:C9326 .
+

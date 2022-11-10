@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1161 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:prefLabel "Group Coordinator" ;
+    skos:related ocs:C17,
+        ocs:C18,
+        ocs:C2426,
+        ocs:C26,
+        ocs:C2753,
+        ocs:C31,
+        ocs:C33,
+        ocs:C4 .
+

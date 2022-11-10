@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30220 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:closeMatch <http://dbpedia.org/resource/Piriformis_muscle> ;
+    skos:prefLabel "Piriformis muscle" ;
+    skos:related ocs:C14226,
+        ocs:C2658,
+        ocs:C31118,
+        ocs:C31913 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18527 a skos:Concept ;
+    skos:broader ocs:C7848,
+        ocs:C9664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kinematic_determinacy> ;
+    skos:prefLabel "Kinematic determinacy" ;
+    skos:related ocs:C20737,
+        ocs:C7848,
+        ocs:C8561 .
+

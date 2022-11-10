@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14353 a skos:Concept ;
+    skos:broader ocs:C7553 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genetic_programming> ;
+    skos:prefLabel "Genetic programming" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10390,
+        ocs:C13633,
+        ocs:C14921,
+        ocs:C20846,
+        ocs:C25,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C29723,
+        ocs:C33012,
+        ocs:C34037,
+        ocs:C34689,
+        ocs:C35139,
+        ocs:C37775,
+        ocs:C41363,
+        ocs:C7553,
+        ocs:C8,
+        ocs:C9022 .
+

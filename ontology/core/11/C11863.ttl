@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11863 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extremely_high_frequency> ;
+    skos:prefLabel "Extremely high frequency" ;
+    skos:related ocs:C10409,
+        ocs:C11201,
+        ocs:C3044,
+        ocs:C45299,
+        ocs:C5369,
+        ocs:C7216,
+        ocs:C8359,
+        ocs:C8612 .
+

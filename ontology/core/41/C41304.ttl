@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41304 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168,
+        ocs:C35567 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Protocol> ;
+    skos:prefLabel "XML Protocol" ;
+    skos:related ocs:C11927,
+        ocs:C24486,
+        ocs:C26630,
+        ocs:C27749,
+        ocs:C30182,
+        ocs:C31929,
+        ocs:C32506,
+        ocs:C33052,
+        ocs:C34168,
+        ocs:C3679,
+        ocs:C36924,
+        ocs:C37980,
+        ocs:C38812,
+        ocs:C39253,
+        ocs:C40360,
+        ocs:C42496,
+        ocs:C43834,
+        ocs:C44479,
+        ocs:C5059,
+        ocs:C9836 .
+

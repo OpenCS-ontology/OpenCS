@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10723 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Environmental_niche_modelling> ;
+    skos:prefLabel "Environmental model" ;
+    skos:related ocs:C17,
+        ocs:C22,
+        ocs:C25,
+        ocs:C33 .
+

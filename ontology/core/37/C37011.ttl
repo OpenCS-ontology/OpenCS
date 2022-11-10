@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37011 a skos:Concept ;
+    skos:broader ocs:C15065 ;
+    skos:closeMatch <http://dbpedia.org/resource/Out-of-order_delivery> ;
+    skos:prefLabel "Out-of-order delivery" ;
+    skos:related ocs:C10008,
+        ocs:C11550,
+        ocs:C14134,
+        ocs:C14938,
+        ocs:C15065,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C21620,
+        ocs:C22091,
+        ocs:C23305,
+        ocs:C24323,
+        ocs:C24824,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C35198,
+        ocs:C44968,
+        ocs:C6185 .
+

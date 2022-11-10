@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4595 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document_retrieval> ;
+    skos:prefLabel "Document retrieval" ;
+    skos:related ocs:C11089,
+        ocs:C15482,
+        ocs:C17245,
+        ocs:C19305,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C32,
+        ocs:C3398,
+        ocs:C3791,
+        ocs:C3983,
+        ocs:C40049,
+        ocs:C41195,
+        ocs:C42467,
+        ocs:C428,
+        ocs:C42910,
+        ocs:C5852,
+        ocs:C6915,
+        ocs:C6963 .
+

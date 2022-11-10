@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18429 a skos:Concept ;
+    skos:broader ocs:C4513 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pwdump> ;
+    skos:prefLabel "pwdump" ;
+    skos:related ocs:C1156,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C18529,
+        ocs:C21623,
+        ocs:C38032,
+        ocs:C38863,
+        ocs:C39193,
+        ocs:C39421,
+        ocs:C40900,
+        ocs:C40956,
+        ocs:C43719,
+        ocs:C44967,
+        ocs:C4513,
+        ocs:C45688,
+        ocs:C45704 .
+

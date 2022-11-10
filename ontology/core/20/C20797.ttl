@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20797 a skos:Concept ;
+    skos:broader ocs:C6448,
+        ocs:C6608,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silhouette_edge> ;
+    skos:prefLabel "Silhouette edge" ;
+    skos:related ocs:C10051,
+        ocs:C12258,
+        ocs:C12454,
+        ocs:C22,
+        ocs:C331,
+        ocs:C39921,
+        ocs:C8749 .
+

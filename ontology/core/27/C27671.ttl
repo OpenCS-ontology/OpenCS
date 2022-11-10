@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27671 a skos:Concept ;
+    skos:broader ocs:C4026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collision_avoidance_system> ;
+    skos:prefLabel "Collision avoidance system" ;
+    skos:related ocs:C1346,
+        ocs:C2254,
+        ocs:C5973 .
+

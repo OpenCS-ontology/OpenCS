@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41043 a skos:Concept ;
+    skos:broader ocs:C30652 ;
+    skos:prefLabel "HOP protocol" ;
+    skos:related ocs:C30652,
+        ocs:C33773,
+        ocs:C390,
+        ocs:C41247,
+        ocs:C45519,
+        ocs:C45852 .
+

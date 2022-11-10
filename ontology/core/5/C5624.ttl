@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5624 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_test_equipment> ;
+    skos:prefLabel "Automatic test equipment" ;
+    skos:related ocs:C1189,
+        ocs:C13012,
+        ocs:C14077,
+        ocs:C18495,
+        ocs:C2084,
+        ocs:C26210,
+        ocs:C3177,
+        ocs:C35468,
+        ocs:C4988 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39891 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stabilizer_code> ;
+    skos:prefLabel "Stabilizer code" ;
+    skos:related ocs:C28965,
+        ocs:C31806,
+        ocs:C40266,
+        ocs:C40373 .
+

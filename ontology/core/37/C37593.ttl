@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37593 a skos:Concept ;
+    skos:broader ocs:C17577,
+        ocs:C18096,
+        ocs:C25341 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parasitic_structure> ;
+    skos:prefLabel "Parasitic structure" ;
+    skos:related ocs:C14698 .
+

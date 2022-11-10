@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26675 a skos:Concept ;
+    skos:broader ocs:C8324 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stopping_sight_distance> ;
+    skos:prefLabel "Stopping sight distance" ;
+    skos:related ocs:C11349,
+        ocs:C17865,
+        ocs:C24356,
+        ocs:C34119,
+        ocs:C35149,
+        ocs:C435,
+        ocs:C5558,
+        ocs:C8693,
+        ocs:C9657 .
+

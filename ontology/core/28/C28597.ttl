@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28597 a skos:Concept ;
+    skos:broader ocs:C7096 ;
+    skos:closeMatch <http://dbpedia.org/resource/Order_management_system> ;
+    skos:prefLabel "Order management system" ;
+    skos:related ocs:C10,
+        ocs:C26014,
+        ocs:C29131,
+        ocs:C38736 .
+

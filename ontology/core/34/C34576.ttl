@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34576 a skos:Concept ;
+    skos:broader ocs:C16189 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dunstan_Baby_Language> ;
+    skos:prefLabel "Dunstan Baby Language" ;
+    skos:related ocs:C15526,
+        ocs:C18736,
+        ocs:C19543,
+        ocs:C27722,
+        ocs:C6648 .
+

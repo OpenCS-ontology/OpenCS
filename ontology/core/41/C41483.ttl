@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41483 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_color> ;
+    skos:prefLabel "Spectral color" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C15310,
+        ocs:C16339,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C2074,
+        ocs:C20871,
+        ocs:C23675,
+        ocs:C5469,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099,
+        ocs:C966 .
+

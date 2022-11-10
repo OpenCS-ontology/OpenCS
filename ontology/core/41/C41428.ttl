@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41428 a skos:Concept ;
+    skos:broader ocs:C33604 ;
+    skos:closeMatch <http://dbpedia.org/resource/COBYLA> ;
+    skos:prefLabel "COBYLA" ;
+    skos:related ocs:C12217,
+        ocs:C13724,
+        ocs:C25774,
+        ocs:C32053,
+        ocs:C34411,
+        ocs:C35866,
+        ocs:C37565,
+        ocs:C40201,
+        ocs:C41550,
+        ocs:C44532,
+        ocs:C513,
+        ocs:C8435 .
+

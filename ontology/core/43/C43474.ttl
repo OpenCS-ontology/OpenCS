@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43474 a skos:Concept ;
+    skos:broader ocs:C34938,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expected_transmission_count> ;
+    skos:prefLabel "Expected transmission count" ;
+    skos:related ocs:C11157,
+        ocs:C23506,
+        ocs:C26066,
+        ocs:C28022,
+        ocs:C28850,
+        ocs:C2935,
+        ocs:C34938,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C38064,
+        ocs:C38760,
+        ocs:C41198,
+        ocs:C43513,
+        ocs:C44253,
+        ocs:C45428,
+        ocs:C45852,
+        ocs:C8172 .
+

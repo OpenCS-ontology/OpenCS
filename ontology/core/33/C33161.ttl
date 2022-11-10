@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33161 a skos:Concept ;
+    skos:broader ocs:C17414 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multicriteria_classification> ;
+    skos:prefLabel "Multicriteria classification" ;
+    skos:related ocs:C11030,
+        ocs:C13429,
+        ocs:C17168,
+        ocs:C17414,
+        ocs:C22628,
+        ocs:C23929,
+        ocs:C25,
+        ocs:C32194,
+        ocs:C36383,
+        ocs:C38630,
+        ocs:C5352,
+        ocs:C8124,
+        ocs:C9874 .
+

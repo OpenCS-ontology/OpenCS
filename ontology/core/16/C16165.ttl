@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16165 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tent_map> ;
+    skos:prefLabel "Tent map" ;
+    skos:related ocs:C12925,
+        ocs:C13992,
+        ocs:C14592,
+        ocs:C18113,
+        ocs:C18223,
+        ocs:C5867 .
+

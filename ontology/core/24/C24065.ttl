@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24065 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C8430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Energy_monitoring_and_targeting> ;
+    skos:prefLabel "Energy monitoring and targeting" ;
+    skos:related ocs:C13402,
+        ocs:C1626,
+        ocs:C19904,
+        ocs:C20379,
+        ocs:C21317,
+        ocs:C24892,
+        ocs:C5087,
+        ocs:C9380 .
+

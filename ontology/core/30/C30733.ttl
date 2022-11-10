@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30733 a skos:Concept ;
+    skos:broader ocs:C16352,
+        ocs:C20845 ;
+    skos:closeMatch <http://dbpedia.org/resource/GPS/INS> ;
+    skos:prefLabel "GPS/INS" ;
+    skos:related ocs:C12641,
+        ocs:C14324,
+        ocs:C16352,
+        ocs:C16916,
+        ocs:C20013,
+        ocs:C21717,
+        ocs:C27698,
+        ocs:C30747,
+        ocs:C32679,
+        ocs:C36314,
+        ocs:C36971,
+        ocs:C3987,
+        ocs:C43373,
+        ocs:C7471 .
+

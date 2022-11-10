@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1047 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C35,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_activity_monitoring> ;
+    skos:prefLabel "Database activity monitoring" ;
+    skos:related ocs:C10064,
+        ocs:C12185,
+        ocs:C13548,
+        ocs:C1399,
+        ocs:C18084,
+        ocs:C18405,
+        ocs:C20148,
+        ocs:C24688,
+        ocs:C41850,
+        ocs:C42374,
+        ocs:C44266,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C6654,
+        ocs:C7510,
+        ocs:C8574,
+        ocs:C9 .
+

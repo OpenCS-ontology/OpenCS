@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25340 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_Encryption_Standard> ;
+    skos:prefLabel "Advanced Encryption Standard" ;
+    skos:related ocs:C16125,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C28881,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C31224,
+        ocs:C31489,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C35391,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38401,
+        ocs:C4218,
+        ocs:C5692 .
+

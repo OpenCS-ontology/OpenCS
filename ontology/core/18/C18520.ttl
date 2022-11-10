@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18520 a skos:Concept ;
+    skos:broader ocs:C1219,
+        ocs:C3236,
+        ocs:C9691 ;
+    skos:closeMatch <http://dbpedia.org/resource/Friis_transmission_equation> ;
+    skos:prefLabel "Friis transmission equation" ;
+    skos:related ocs:C1219,
+        ocs:C21204,
+        ocs:C22200,
+        ocs:C23423,
+        ocs:C24151,
+        ocs:C33037,
+        ocs:C35333,
+        ocs:C36668,
+        ocs:C39458,
+        ocs:C42056,
+        ocs:C43545,
+        ocs:C43775,
+        ocs:C45043,
+        ocs:C5397,
+        ocs:C5853 .
+

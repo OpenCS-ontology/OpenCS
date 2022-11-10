@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40477 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-deterministic_Turing_machine> ;
+    skos:prefLabel "Non-deterministic Turing machine" ;
+    skos:related ocs:C10,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C29968,
+        ocs:C32808,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C40274,
+        ocs:C41116,
+        ocs:C41645,
+        ocs:C41940,
+        ocs:C44665,
+        ocs:C5193,
+        ocs:C524,
+        ocs:C8660,
+        ocs:C9450 .
+

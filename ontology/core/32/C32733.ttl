@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32733 a skos:Concept ;
+    skos:broader ocs:C15070,
+        ocs:C22483 ;
+    skos:closeMatch <http://dbpedia.org/resource/LOBPCG> ;
+    skos:prefLabel "LOBPCG" ;
+    skos:related ocs:C15070,
+        ocs:C21143,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C24606,
+        ocs:C29574,
+        ocs:C34314,
+        ocs:C40234,
+        ocs:C41602 .
+

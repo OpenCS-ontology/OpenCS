@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41966 a skos:Concept ;
+    skos:broader ocs:C32449,
+        ocs:C34258,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shortest_remaining_time> ;
+    skos:prefLabel "Shortest remaining time" ;
+    skos:related ocs:C1242,
+        ocs:C15595,
+        ocs:C2815,
+        ocs:C30218,
+        ocs:C32786,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C38621,
+        ocs:C38680,
+        ocs:C40272,
+        ocs:C40787,
+        ocs:C43283,
+        ocs:C43903,
+        ocs:C44378,
+        ocs:C45029,
+        ocs:C45527,
+        ocs:C45708,
+        ocs:C8704 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7688 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_voice_input> ;
+    skos:prefLabel "Direct voice input" ;
+    skos:related ocs:C12636,
+        ocs:C13856,
+        ocs:C14590,
+        ocs:C16,
+        ocs:C2417,
+        ocs:C24844,
+        ocs:C25150,
+        ocs:C33072,
+        ocs:C36804,
+        ocs:C5913,
+        ocs:C7736 .
+

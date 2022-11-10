@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24126 a skos:Concept ;
+    skos:broader ocs:C5334 ;
+    skos:closeMatch <http://dbpedia.org/resource/Isohumulone> ;
+    skos:prefLabel "Isohumulone" ;
+    skos:related ocs:C14934,
+        ocs:C15827,
+        ocs:C20311 .
+

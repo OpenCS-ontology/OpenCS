@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C481 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit-flipping_attack> ;
+    skos:prefLabel "Bit-flipping attack" ;
+    skos:related ocs:C17091,
+        ocs:C17856,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C30083,
+        ocs:C30768,
+        ocs:C32054,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C39180,
+        ocs:C41929,
+        ocs:C4218,
+        ocs:C42286,
+        ocs:C43934,
+        ocs:C4751,
+        ocs:C8947 .
+

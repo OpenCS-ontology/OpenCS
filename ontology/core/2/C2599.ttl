@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2599 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/SOAPjr> ;
+    skos:prefLabel "SOAPjr" ;
+    skos:related ocs:C10904,
+        ocs:C11152,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C14966,
+        ocs:C15320,
+        ocs:C18398,
+        ocs:C21614,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C22709,
+        ocs:C26528,
+        ocs:C32189,
+        ocs:C38075,
+        ocs:C39292,
+        ocs:C40902,
+        ocs:C42755,
+        ocs:C44738 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12765 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bangdiwala's_B> ;
+    skos:prefLabel "Bangdiwala's B" ;
+    skos:related ocs:C14266,
+        ocs:C1562,
+        ocs:C2481,
+        ocs:C33462,
+        ocs:C37544 .
+

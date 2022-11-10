@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9806 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C2,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keyboard_(computing)> ;
+    skos:prefLabel "Keyboard types" ;
+    skos:related ocs:C1,
+        ocs:C10368,
+        ocs:C2480 .
+

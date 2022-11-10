@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20578 a skos:Concept ;
+    skos:broader ocs:C6912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_Procrustes_analysis> ;
+    skos:prefLabel "Generalized Procrustes analysis" ;
+    skos:related ocs:C1005,
+        ocs:C10324,
+        ocs:C19844,
+        ocs:C20460,
+        ocs:C3049,
+        ocs:C31695,
+        ocs:C3898,
+        ocs:C4256,
+        ocs:C6912,
+        ocs:C8084,
+        ocs:C9538 .
+

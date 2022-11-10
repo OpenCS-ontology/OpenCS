@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11059 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infrastructure_security> ;
+    skos:prefLabel "Infrastructure security" ;
+    skos:related ocs:C10191,
+        ocs:C11248,
+        ocs:C16637,
+        ocs:C20660,
+        ocs:C35,
+        ocs:C43428,
+        ocs:C699,
+        ocs:C9030,
+        ocs:C9718 .
+

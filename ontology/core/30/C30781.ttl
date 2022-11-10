@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30781 a skos:Concept ;
+    skos:broader ocs:C16738 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interval_propagation> ;
+    skos:prefLabel "Interval propagation" ;
+    skos:related ocs:C23554,
+        ocs:C29050,
+        ocs:C30859,
+        ocs:C36372,
+        ocs:C4198,
+        ocs:C44669,
+        ocs:C7058 .
+

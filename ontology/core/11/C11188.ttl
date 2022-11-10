@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11188 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Redundancy_(engineering)> ;
+    skos:prefLabel "Redundancy (engineering)" ;
+    skos:related ocs:C10320,
+        ocs:C10501,
+        ocs:C12348,
+        ocs:C13550,
+        ocs:C15912,
+        ocs:C16191,
+        ocs:C16709,
+        ocs:C17601,
+        ocs:C18540,
+        ocs:C2878,
+        ocs:C28907,
+        ocs:C31489,
+        ocs:C36861,
+        ocs:C8173,
+        ocs:C9 .
+

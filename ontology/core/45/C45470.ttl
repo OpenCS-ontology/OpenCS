@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45470 a skos:Concept ;
+    skos:broader ocs:C31165,
+        ocs:C36540,
+        ocs:C37370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_process_interoperability> ;
+    skos:prefLabel "Business process interoperability" ;
+    skos:related ocs:C10609,
+        ocs:C10979,
+        ocs:C11886,
+        ocs:C12317,
+        ocs:C13205,
+        ocs:C21443,
+        ocs:C23885,
+        ocs:C2414,
+        ocs:C29840,
+        ocs:C3395,
+        ocs:C39686,
+        ocs:C567,
+        ocs:C8500 .
+

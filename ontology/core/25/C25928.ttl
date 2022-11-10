@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25928 a skos:Concept ;
+    skos:broader ocs:C3892,
+        ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_safe_altitude_warning> ;
+    skos:prefLabel "Minimum safe altitude warning" ;
+    skos:related ocs:C10090,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C15796,
+        ocs:C18229,
+        ocs:C19814,
+        ocs:C20630,
+        ocs:C23082,
+        ocs:C32221,
+        ocs:C33190,
+        ocs:C33217,
+        ocs:C37243,
+        ocs:C37719,
+        ocs:C4597 .
+

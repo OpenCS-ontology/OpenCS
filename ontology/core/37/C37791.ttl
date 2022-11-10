@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37791 a skos:Concept ;
+    skos:broader ocs:C25630,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telluric_contamination> ;
+    skos:prefLabel "Telluric contamination" ;
+    skos:related ocs:C22752,
+        ocs:C23267,
+        ocs:C24396,
+        ocs:C25032 .
+

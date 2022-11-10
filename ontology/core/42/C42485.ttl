@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42485 a skos:Concept ;
+    skos:broader ocs:C35930 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monster_Lie_algebra> ;
+    skos:prefLabel "Monster Lie algebra" ;
+    skos:related ocs:C32124,
+        ocs:C35930,
+        ocs:C39710,
+        ocs:C41507 .
+

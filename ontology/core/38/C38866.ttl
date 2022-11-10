@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38866 a skos:Concept ;
+    skos:broader ocs:C32053,
+        ocs:C32608 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halley's_method> ;
+    skos:prefLabel "Halley's method" ;
+    skos:related ocs:C10907,
+        ocs:C12155,
+        ocs:C18362,
+        ocs:C19177,
+        ocs:C29411,
+        ocs:C32053,
+        ocs:C32608,
+        ocs:C36134,
+        ocs:C37392,
+        ocs:C37808,
+        ocs:C38965,
+        ocs:C43105,
+        ocs:C432,
+        ocs:C43400,
+        ocs:C45598 .
+

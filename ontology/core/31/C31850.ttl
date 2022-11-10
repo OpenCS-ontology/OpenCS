@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31850 a skos:Concept ;
+    skos:broader ocs:C18617,
+        ocs:C27892,
+        ocs:C28460,
+        ocs:C28579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Compiler-compiler> ;
+    skos:prefLabel "Compiler-compiler" ;
+    skos:related ocs:C1,
+        ocs:C1541,
+        ocs:C16188,
+        ocs:C19,
+        ocs:C21627,
+        ocs:C22624,
+        ocs:C26158,
+        ocs:C26572,
+        ocs:C27892,
+        ocs:C28579,
+        ocs:C29634,
+        ocs:C30921,
+        ocs:C31160,
+        ocs:C33609,
+        ocs:C38591,
+        ocs:C40588,
+        ocs:C4321,
+        ocs:C45431,
+        ocs:C45758,
+        ocs:C8564 .
+

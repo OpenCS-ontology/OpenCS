@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21061 a skos:Concept ;
+    skos:broader ocs:C11932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collective_noun> ;
+    skos:prefLabel "Collective noun" ;
+    skos:related ocs:C11932,
+        ocs:C12270,
+        ocs:C12388,
+        ocs:C1451,
+        ocs:C1952,
+        ocs:C20272,
+        ocs:C21403,
+        ocs:C23243,
+        ocs:C26816,
+        ocs:C29296,
+        ocs:C32159,
+        ocs:C44227,
+        ocs:C8454 .
+

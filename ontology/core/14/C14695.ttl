@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14695 a skos:Concept ;
+    skos:broader ocs:C1938,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Histogram_matching> ;
+    skos:prefLabel "Histogram matching" ;
+    skos:related ocs:C14863,
+        ocs:C19462,
+        ocs:C23431,
+        ocs:C24211,
+        ocs:C26271,
+        ocs:C30704,
+        ocs:C31013,
+        ocs:C33038,
+        ocs:C33766,
+        ocs:C33917,
+        ocs:C37876,
+        ocs:C41132,
+        ocs:C7,
+        ocs:C77,
+        ocs:C8969 .
+

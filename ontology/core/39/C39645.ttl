@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39645 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C32518,
+        ocs:C34684 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plaintext-aware_encryption> ;
+    skos:prefLabel "Plaintext-aware encryption" ;
+    skos:related ocs:C10056,
+        ocs:C22099,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29533,
+        ocs:C31468,
+        ocs:C32288,
+        ocs:C32482,
+        ocs:C32518,
+        ocs:C34295,
+        ocs:C34749,
+        ocs:C35391,
+        ocs:C39105,
+        ocs:C39146,
+        ocs:C4218,
+        ocs:C43394,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C8947 .
+

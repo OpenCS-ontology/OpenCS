@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3006 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Women_in_computing> ;
+    skos:prefLabel "Women in computing" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10720,
+        ocs:C19,
+        ocs:C197,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C24909,
+        ocs:C28,
+        ocs:C3036,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C8614 .
+

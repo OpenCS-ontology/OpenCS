@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2206 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_Active_Management_Technology> ;
+    skos:prefLabel "Intel Active Management Technology" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C1311,
+        ocs:C15512,
+        ocs:C1810,
+        ocs:C24131,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C3070,
+        ocs:C30769,
+        ocs:C30982,
+        ocs:C31772,
+        ocs:C31950,
+        ocs:C34195,
+        ocs:C44282,
+        ocs:C44872,
+        ocs:C6223,
+        ocs:C7006,
+        ocs:C9 .
+

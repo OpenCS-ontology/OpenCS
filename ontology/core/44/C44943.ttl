@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44943 a skos:Concept ;
+    skos:broader ocs:C30704 ;
+    skos:closeMatch <http://dbpedia.org/resource/OSA-UCS> ;
+    skos:prefLabel "OSA-UCS" ;
+    skos:related ocs:C12849,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C2074,
+        ocs:C20871,
+        ocs:C22083,
+        ocs:C22748,
+        ocs:C24598,
+        ocs:C3743,
+        ocs:C40987,
+        ocs:C41646,
+        ocs:C4818,
+        ocs:C5469,
+        ocs:C766,
+        ocs:C8099 .
+

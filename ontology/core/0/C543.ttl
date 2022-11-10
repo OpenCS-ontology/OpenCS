@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C543 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit_banging> ;
+    skos:prefLabel "Bit banging" ;
+    skos:related ocs:C10400,
+        ocs:C11,
+        ocs:C1243,
+        ocs:C13386,
+        ocs:C14931,
+        ocs:C17404,
+        ocs:C22530,
+        ocs:C31489,
+        ocs:C6538,
+        ocs:C8718,
+        ocs:C9 .
+

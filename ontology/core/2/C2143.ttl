@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2143 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C6 ;
+    skos:prefLabel "Record type" ;
+    skos:related ocs:C10211,
+        ocs:C10444,
+        ocs:C10917,
+        ocs:C13523,
+        ocs:C17,
+        ocs:C18559,
+        ocs:C2,
+        ocs:C22,
+        ocs:C2414,
+        ocs:C3123,
+        ocs:C31343,
+        ocs:C33,
+        ocs:C35267,
+        ocs:C37824,
+        ocs:C5722,
+        ocs:C7105,
+        ocs:C8614 .
+

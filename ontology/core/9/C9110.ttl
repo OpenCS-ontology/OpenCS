@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9110 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_design> ;
+    skos:prefLabel "Open design" ;
+    skos:related ocs:C10286,
+        ocs:C12257,
+        ocs:C13144,
+        ocs:C14002,
+        ocs:C21438,
+        ocs:C23932,
+        ocs:C28409,
+        ocs:C29969,
+        ocs:C31489,
+        ocs:C35870,
+        ocs:C4164,
+        ocs:C5712,
+        ocs:C6538,
+        ocs:C7914 .
+

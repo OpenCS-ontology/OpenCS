@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14411 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pixel_density> ;
+    skos:prefLabel "Pixel density" ;
+    skos:related ocs:C10368,
+        ocs:C12580,
+        ocs:C12698,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C13509,
+        ocs:C13586,
+        ocs:C21424,
+        ocs:C22257,
+        ocs:C2722,
+        ocs:C28806,
+        ocs:C35370,
+        ocs:C5450,
+        ocs:C5854,
+        ocs:C653,
+        ocs:C8021 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42590 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automotive_software> ;
+    skos:prefLabel "Automotive software" ;
+    skos:related ocs:C1035,
+        ocs:C11,
+        ocs:C11293,
+        ocs:C1253,
+        ocs:C19837,
+        ocs:C24394,
+        ocs:C25074,
+        ocs:C25184,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C31662,
+        ocs:C31890,
+        ocs:C38249,
+        ocs:C39666,
+        ocs:C42395,
+        ocs:C45623,
+        ocs:C9 .
+

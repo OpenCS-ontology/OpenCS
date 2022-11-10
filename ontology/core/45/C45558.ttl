@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45558 a skos:Concept ;
+    skos:broader ocs:C35629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airspace_class_(United_States)> ;
+    skos:prefLabel "Airspace class (United States)" ;
+    skos:related ocs:C13785,
+        ocs:C18996,
+        ocs:C22979,
+        ocs:C23477,
+        ocs:C27838,
+        ocs:C33190,
+        ocs:C35629,
+        ocs:C35895,
+        ocs:C39784,
+        ocs:C42130,
+        ocs:C45176,
+        ocs:C4597,
+        ocs:C9720 .
+

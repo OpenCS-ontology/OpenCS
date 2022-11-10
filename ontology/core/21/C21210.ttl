@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21210 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_priority_scheduling> ;
+    skos:prefLabel "Dynamic priority scheduling" ;
+    skos:related ocs:C10320,
+        ocs:C12984,
+        ocs:C1396,
+        ocs:C2,
+        ocs:C20800,
+        ocs:C2750,
+        ocs:C30218,
+        ocs:C33,
+        ocs:C37367,
+        ocs:C39492,
+        ocs:C40876,
+        ocs:C42251,
+        ocs:C43065,
+        ocs:C43283,
+        ocs:C45363,
+        ocs:C45706,
+        ocs:C5912,
+        ocs:C6346,
+        ocs:C8704 .
+

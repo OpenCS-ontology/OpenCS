@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12061 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Error-correcting_codes_with_feedback> ;
+    skos:prefLabel "Error-correcting codes with feedback" ;
+    skos:related ocs:C14926,
+        ocs:C16106,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C26349,
+        ocs:C27316,
+        ocs:C29,
+        ocs:C3189,
+        ocs:C34469,
+        ocs:C35081,
+        ocs:C37934,
+        ocs:C40267,
+        ocs:C4099,
+        ocs:C42255,
+        ocs:C45108,
+        ocs:C5816,
+        ocs:C7856 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26022 a skos:Concept ;
+    skos:broader ocs:C1241 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sobel_test> ;
+    skos:prefLabel "Sobel test" ;
+    skos:related ocs:C12371,
+        ocs:C1241,
+        ocs:C15614,
+        ocs:C1798,
+        ocs:C23554,
+        ocs:C24561,
+        ocs:C3065,
+        ocs:C45118,
+        ocs:C5499,
+        ocs:C6116,
+        ocs:C662 .
+

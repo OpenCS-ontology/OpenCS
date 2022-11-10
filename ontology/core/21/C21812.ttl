@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21812 a skos:Concept ;
+    skos:broader ocs:C3283,
+        ocs:C5706,
+        ocs:C7165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Globally_asynchronous_locally_synchronous> ;
+    skos:prefLabel "Globally asynchronous locally synchronous" ;
+    skos:related ocs:C10320,
+        ocs:C11654,
+        ocs:C11690,
+        ocs:C12690,
+        ocs:C16482,
+        ocs:C20865,
+        ocs:C21765,
+        ocs:C27,
+        ocs:C31886,
+        ocs:C5511,
+        ocs:C5706,
+        ocs:C6964 .
+

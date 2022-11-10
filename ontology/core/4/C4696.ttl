@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4696 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hellenic_Organization_for_Standardization> ;
+    skos:prefLabel "Hellenic Organization for Standardization" ;
+    skos:related ocs:C11288,
+        ocs:C17395,
+        ocs:C2023,
+        ocs:C25565,
+        ocs:C26353,
+        ocs:C43222,
+        ocs:C5126,
+        ocs:C6282,
+        ocs:C6293,
+        ocs:C6416,
+        ocs:C7131 .
+

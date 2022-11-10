@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25241 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:prefLabel "Tactile Pattern Recognition" ;
+    skos:related ocs:C12976,
+        ocs:C16,
+        ocs:C21,
+        ocs:C22204,
+        ocs:C9022 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31692 a skos:Concept ;
+    skos:broader ocs:C14410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sociology_of_language> ;
+    skos:prefLabel "Sociology of language" ;
+    skos:related ocs:C12110,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C15207,
+        ocs:C30766,
+        ocs:C5628,
+        ocs:C6634 .
+

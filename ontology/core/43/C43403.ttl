@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43403 a skos:Concept ;
+    skos:broader ocs:C32555,
+        ocs:C34938,
+        ocs:C35923,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Order_One_Network_Protocol> ;
+    skos:prefLabel "Order One Network Protocol" ;
+    skos:related ocs:C28850,
+        ocs:C3233,
+        ocs:C34938,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C37888,
+        ocs:C38064,
+        ocs:C38402,
+        ocs:C39642,
+        ocs:C40576,
+        ocs:C40934,
+        ocs:C41198,
+        ocs:C41486,
+        ocs:C42792,
+        ocs:C43511,
+        ocs:C45428,
+        ocs:C45852,
+        ocs:C4966,
+        ocs:C8172 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2668 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monty_Hall_problem> ;
+    skos:prefLabel "Monty Hall problem" ;
+    skos:related ocs:C10803,
+        ocs:C11608,
+        ocs:C12109,
+        ocs:C14620,
+        ocs:C15233,
+        ocs:C246,
+        ocs:C3753,
+        ocs:C39174,
+        ocs:C6291,
+        ocs:C6692 .
+

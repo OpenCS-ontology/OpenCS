@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6948 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/PathPing> ;
+    skos:prefLabel "PathPing" ;
+    skos:related ocs:C1155,
+        ocs:C1253,
+        ocs:C15065,
+        ocs:C22851,
+        ocs:C23965,
+        ocs:C24495,
+        ocs:C24563,
+        ocs:C28881,
+        ocs:C29278,
+        ocs:C29426,
+        ocs:C29798,
+        ocs:C30860,
+        ocs:C36631,
+        ocs:C38033,
+        ocs:C41802,
+        ocs:C42093,
+        ocs:C45816,
+        ocs:C5334,
+        ocs:C9024,
+        ocs:C9386 .
+

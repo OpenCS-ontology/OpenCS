@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40493 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/On_Demand_Routing> ;
+    skos:prefLabel "On Demand Routing" ;
+    skos:related ocs:C26066,
+        ocs:C29014,
+        ocs:C30247,
+        ocs:C34800,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C39742,
+        ocs:C40973,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C9 .
+

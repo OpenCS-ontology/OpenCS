@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33893 a skos:Concept ;
+    skos:broader ocs:C19355 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comparison_of_topologies> ;
+    skos:prefLabel "Comparison of topologies" ;
+    skos:related ocs:C11771,
+        ocs:C14151,
+        ocs:C32349,
+        ocs:C6221 .
+

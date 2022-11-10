@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37974 a skos:Concept ;
+    skos:broader ocs:C29660,
+        ocs:C34470,
+        ocs:C36112,
+        ocs:C37685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cartesian_tree> ;
+    skos:prefLabel "Cartesian tree" ;
+    skos:related ocs:C14269,
+        ocs:C16028,
+        ocs:C18396,
+        ocs:C23674,
+        ocs:C26515,
+        ocs:C26753,
+        ocs:C2820,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C29660,
+        ocs:C33378,
+        ocs:C34207,
+        ocs:C36112,
+        ocs:C36120,
+        ocs:C38755,
+        ocs:C41255,
+        ocs:C43106,
+        ocs:C43467,
+        ocs:C8565,
+        ocs:C8660 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45216 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C35008,
+        ocs:C36161 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_number_generator_attack> ;
+    skos:prefLabel "Random number generator attack" ;
+    skos:related ocs:C12637,
+        ocs:C16125,
+        ocs:C16152,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C1788,
+        ocs:C24131,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C32484,
+        ocs:C33956,
+        ocs:C35371,
+        ocs:C4218,
+        ocs:C4751,
+        ocs:C5072,
+        ocs:C6582,
+        ocs:C6953,
+        ocs:C7130,
+        ocs:C970 .
+

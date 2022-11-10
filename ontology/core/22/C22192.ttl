@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22192 a skos:Concept ;
+    skos:broader ocs:C5918,
+        ocs:C7739 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extravehicular_Mobility_Unit> ;
+    skos:prefLabel "Extravehicular Mobility Unit" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C16300,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C24462,
+        ocs:C26824,
+        ocs:C42136,
+        ocs:C42725,
+        ocs:C45534,
+        ocs:C5918,
+        ocs:C7201,
+        ocs:C7739 .
+

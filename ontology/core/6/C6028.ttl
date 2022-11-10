@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6028 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Utterance> ;
+    skos:prefLabel "Utterance" ;
+    skos:related ocs:C1034,
+        ocs:C12486,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C2025,
+        ocs:C2298,
+        ocs:C2761,
+        ocs:C308,
+        ocs:C7040,
+        ocs:C7467,
+        ocs:C8090,
+        ocs:C9106 .
+

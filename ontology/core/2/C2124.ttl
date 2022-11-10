@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2124 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-sufficient_funds> ;
+    skos:prefLabel "Non-sufficient funds" ;
+    skos:related ocs:C12752,
+        ocs:C12993,
+        ocs:C14059,
+        ocs:C15464,
+        ocs:C15607,
+        ocs:C16179,
+        ocs:C19078,
+        ocs:C21954,
+        ocs:C26695,
+        ocs:C27523,
+        ocs:C33193,
+        ocs:C44448,
+        ocs:C4779,
+        ocs:C7458,
+        ocs:C9495 .
+

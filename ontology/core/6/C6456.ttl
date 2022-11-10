@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6456 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deep_space_bands> ;
+    skos:prefLabel "Deep space bands" ;
+    skos:related ocs:C11863,
+        ocs:C1302,
+        ocs:C16902,
+        ocs:C18001,
+        ocs:C2581,
+        ocs:C3068,
+        ocs:C32748,
+        ocs:C41805,
+        ocs:C6474,
+        ocs:C7216,
+        ocs:C863,
+        ocs:C9103 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29076 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_exterior_calculus> ;
+    skos:prefLabel "Discrete exterior calculus" ;
+    skos:related ocs:C14693,
+        ocs:C28175,
+        ocs:C34507,
+        ocs:C45230 .
+

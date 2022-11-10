@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8080 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formal_proof> ;
+    skos:prefLabel "Formal proof" ;
+    skos:related ocs:C10273,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C126,
+        ocs:C13511,
+        ocs:C15965,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C39107,
+        ocs:C429,
+        ocs:C45525,
+        ocs:C4557,
+        ocs:C524,
+        ocs:C6047,
+        ocs:C8697 .
+

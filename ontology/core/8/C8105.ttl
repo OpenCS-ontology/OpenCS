@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8105 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/White_pages_schema> ;
+    skos:prefLabel "White pages schema" ;
+    skos:related ocs:C10082,
+        ocs:C11091,
+        ocs:C13718,
+        ocs:C14417,
+        ocs:C15411,
+        ocs:C1634,
+        ocs:C19725,
+        ocs:C20205,
+        ocs:C22450,
+        ocs:C25069,
+        ocs:C28349,
+        ocs:C29190,
+        ocs:C32262,
+        ocs:C32400,
+        ocs:C35197,
+        ocs:C36401,
+        ocs:C37914,
+        ocs:C43509,
+        ocs:C9344 .
+

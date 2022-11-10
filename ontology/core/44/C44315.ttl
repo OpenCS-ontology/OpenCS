@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44315 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_gradient> ;
+    skos:prefLabel "Color gradient" ;
+    skos:related ocs:C13155,
+        ocs:C160,
+        ocs:C16423,
+        ocs:C16532,
+        ocs:C18519,
+        ocs:C19196,
+        ocs:C19229,
+        ocs:C1935,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C256,
+        ocs:C33188,
+        ocs:C34585,
+        ocs:C36137,
+        ocs:C3851,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C6942 .
+

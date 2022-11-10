@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11030 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_classification> ;
+    skos:prefLabel "Statistical classification" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C25520,
+        ocs:C3512,
+        ocs:C4256,
+        ocs:C6021,
+        ocs:C6116,
+        ocs:C8,
+        ocs:C8758,
+        ocs:C9022 .
+

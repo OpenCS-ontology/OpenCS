@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36231 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_prime> ;
+    skos:prefLabel "Strong prime" ;
+    skos:related ocs:C24353,
+        ocs:C32484,
+        ocs:C34794,
+        ocs:C37205,
+        ocs:C38359,
+        ocs:C40515,
+        ocs:C4218,
+        ocs:C4466 .
+

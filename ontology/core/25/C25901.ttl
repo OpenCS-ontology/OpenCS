@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25901 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C11545,
+        ocs:C3896 ;
+    skos:prefLabel "Social event detection" .
+

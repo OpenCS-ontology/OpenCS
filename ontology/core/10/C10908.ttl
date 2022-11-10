@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10908 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_fraud> ;
+    skos:prefLabel "Computer fraud" ;
+    skos:related ocs:C11447,
+        ocs:C1399,
+        ocs:C14933,
+        ocs:C17046,
+        ocs:C18986,
+        ocs:C197,
+        ocs:C27557,
+        ocs:C28885,
+        ocs:C2941,
+        ocs:C30412,
+        ocs:C35,
+        ocs:C394,
+        ocs:C7106,
+        ocs:C8614 .
+

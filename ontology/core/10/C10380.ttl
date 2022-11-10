@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10380 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_file_formats> ;
+    skos:prefLabel "Image file formats" ;
+    skos:related ocs:C1023,
+        ocs:C10973,
+        ocs:C11531,
+        ocs:C13155,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C28881,
+        ocs:C2937,
+        ocs:C36633,
+        ocs:C3679,
+        ocs:C3896,
+        ocs:C43198,
+        ocs:C45145,
+        ocs:C4584,
+        ocs:C797 .
+

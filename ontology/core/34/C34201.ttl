@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34201 a skos:Concept ;
+    skos:broader ocs:C24128 ;
+    skos:closeMatch <http://dbpedia.org/resource/Haemopis_sanguisuga> ;
+    skos:prefLabel "Haemopis sanguisuga" ;
+    skos:related ocs:C17801,
+        ocs:C18740,
+        ocs:C21962,
+        ocs:C23339,
+        ocs:C23493,
+        ocs:C24128,
+        ocs:C28651,
+        ocs:C33225,
+        ocs:C35110,
+        ocs:C35126 .
+

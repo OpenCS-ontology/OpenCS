@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17322 a skos:Concept ;
+    skos:broader ocs:C13429,
+        ocs:C7021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classifier_chains> ;
+    skos:prefLabel "Classifier chains" ;
+    skos:related ocs:C13429,
+        ocs:C15879,
+        ocs:C1829,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C2174,
+        ocs:C22432,
+        ocs:C22643,
+        ocs:C23669,
+        ocs:C23929,
+        ocs:C28056,
+        ocs:C28179,
+        ocs:C28523,
+        ocs:C32289,
+        ocs:C424,
+        ocs:C4256,
+        ocs:C6021,
+        ocs:C7803 .
+

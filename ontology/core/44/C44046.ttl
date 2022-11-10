@@ -1,0 +1,36 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44046 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C32518,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C34684,
+        ocs:C34752,
+        ocs:C34753,
+        ocs:C35391,
+        ocs:C36233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_Wrap> ;
+    skos:prefLabel "Key Wrap" ;
+    skos:related ocs:C12076,
+        ocs:C16125,
+        ocs:C17314,
+        ocs:C18091,
+        ocs:C20993,
+        ocs:C23875,
+        ocs:C25500,
+        ocs:C26691,
+        ocs:C29363,
+        ocs:C31654,
+        ocs:C34052,
+        ocs:C34895,
+        ocs:C35391,
+        ocs:C38359,
+        ocs:C38401,
+        ocs:C40332,
+        ocs:C4218,
+        ocs:C44481,
+        ocs:C45551,
+        ocs:C4751 .
+

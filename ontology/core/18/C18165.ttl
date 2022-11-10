@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18165 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Burstiness> ;
+    skos:prefLabel "Burstiness" ;
+    skos:related ocs:C11767,
+        ocs:C16174,
+        ocs:C16913,
+        ocs:C19045,
+        ocs:C42729 .
+

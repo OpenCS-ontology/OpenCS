@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29219 a skos:Concept ;
+    skos:broader ocs:C13682 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_scattering_problem> ;
+    skos:prefLabel "Inverse scattering problem" ;
+    skos:related ocs:C13682,
+        ocs:C37585 .
+

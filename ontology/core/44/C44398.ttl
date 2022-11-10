@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44398 a skos:Concept ;
+    skos:broader ocs:C36971 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kushner_equation> ;
+    skos:prefLabel "Kushner equation" ;
+    skos:related ocs:C16961,
+        ocs:C18408,
+        ocs:C20379,
+        ocs:C21717,
+        ocs:C32491,
+        ocs:C36971,
+        ocs:C38098,
+        ocs:C3987,
+        ocs:C41735,
+        ocs:C5856,
+        ocs:C8516 .
+

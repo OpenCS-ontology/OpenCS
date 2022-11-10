@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33148 a skos:Concept ;
+    skos:broader ocs:C15862,
+        ocs:C25379 ;
+    skos:closeMatch <http://dbpedia.org/resource/PLUTO_detector> ;
+    skos:prefLabel "PLUTO detector" ;
+    skos:related ocs:C35152,
+        ocs:C35999,
+        ocs:C597 .
+

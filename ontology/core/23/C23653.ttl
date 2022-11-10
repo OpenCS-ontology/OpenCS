@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23653 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Atlas_3d_survey> ;
+    skos:prefLabel "Atlas 3d survey" ;
+    skos:related ocs:C15251,
+        ocs:C17246,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C37041,
+        ocs:C45185 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9870 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skeleton_(computer_programming)> ;
+    skos:prefLabel "Skeleton (computer programming)" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11152,
+        ocs:C12852,
+        ocs:C1335,
+        ocs:C14684,
+        ocs:C15406,
+        ocs:C25956,
+        ocs:C2674,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C29869,
+        ocs:C30660,
+        ocs:C32447,
+        ocs:C35625,
+        ocs:C40193,
+        ocs:C4321,
+        ocs:C8751 .
+

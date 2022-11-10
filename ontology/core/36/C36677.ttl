@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36677 a skos:Concept ;
+    skos:broader ocs:C17205,
+        ocs:C27418 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_generation_algorithm> ;
+    skos:prefLabel "Domain generation algorithm" ;
+    skos:related ocs:C11540,
+        ocs:C17126,
+        ocs:C17205,
+        ocs:C20937,
+        ocs:C21553,
+        ocs:C2941,
+        ocs:C31468,
+        ocs:C32264,
+        ocs:C33191,
+        ocs:C35,
+        ocs:C35171,
+        ocs:C41323,
+        ocs:C44554,
+        ocs:C44622,
+        ocs:C44734,
+        ocs:C4715,
+        ocs:C9369 .
+

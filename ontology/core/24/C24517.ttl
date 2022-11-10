@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24517 a skos:Concept ;
+    skos:broader ocs:C1727,
+        ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baseband_processor> ;
+    skos:prefLabel "Baseband processor" ;
+    skos:related ocs:C10400,
+        ocs:C1042,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C21424,
+        ocs:C2206,
+        ocs:C2253,
+        ocs:C24967,
+        ocs:C29213,
+        ocs:C35370,
+        ocs:C5912,
+        ocs:C6172,
+        ocs:C6223,
+        ocs:C6932,
+        ocs:C9,
+        ocs:C9154 .
+

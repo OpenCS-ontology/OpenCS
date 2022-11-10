@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3455 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_leash> ;
+    skos:prefLabel "Electronic leash" ;
+    skos:related ocs:C10587,
+        ocs:C10770,
+        ocs:C12698,
+        ocs:C13017,
+        ocs:C13593,
+        ocs:C1793,
+        ocs:C21424,
+        ocs:C24000,
+        ocs:C27912,
+        ocs:C35206,
+        ocs:C36171,
+        ocs:C3802,
+        ocs:C4398,
+        ocs:C6223,
+        ocs:C816,
+        ocs:C8437,
+        ocs:C9113 .
+

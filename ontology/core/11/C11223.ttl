@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11223 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Illumination Technique" ;
+    skos:related ocs:C11096,
+        ocs:C12112,
+        ocs:C2,
+        ocs:C21892,
+        ocs:C22,
+        ocs:C5769,
+        ocs:C6586,
+        ocs:C8499 .
+

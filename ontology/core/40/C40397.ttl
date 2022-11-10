@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40397 a skos:Concept ;
+    skos:broader ocs:C30630,
+        ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_hijacking> ;
+    skos:prefLabel "IP hijacking" ;
+    skos:related ocs:C14321,
+        ocs:C18213,
+        ocs:C19383,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C35362,
+        ocs:C36475,
+        ocs:C38672,
+        ocs:C40959,
+        ocs:C41298,
+        ocs:C41930,
+        ocs:C42609,
+        ocs:C42853,
+        ocs:C43012,
+        ocs:C43015,
+        ocs:C44229,
+        ocs:C45517,
+        ocs:C45818,
+        ocs:C8614 .
+

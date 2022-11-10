@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40054 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Core_ontology> ;
+    skos:prefLabel "Core ontology" ;
+    skos:related ocs:C1443,
+        ocs:C29642,
+        ocs:C35993,
+        ocs:C37709,
+        ocs:C39954 .
+

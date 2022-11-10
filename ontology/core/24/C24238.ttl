@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24238 a skos:Concept ;
+    skos:broader ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_mixing_(recorded_music)> ;
+    skos:prefLabel "Audio mixing (recorded music)" ;
+    skos:related ocs:C11254,
+        ocs:C2135,
+        ocs:C520,
+        ocs:C7255,
+        ocs:C7279 .
+

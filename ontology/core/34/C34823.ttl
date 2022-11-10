@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34823 a skos:Concept ;
+    skos:broader ocs:C28998 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lasius_emarginatus> ;
+    skos:prefLabel "Lasius emarginatus" ;
+    skos:related ocs:C13998,
+        ocs:C14496,
+        ocs:C19235,
+        ocs:C21004,
+        ocs:C28251,
+        ocs:C28812,
+        ocs:C28998,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C34293 .
+

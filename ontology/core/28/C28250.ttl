@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28250 a skos:Concept ;
+    skos:broader ocs:C12148 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_group_learning> ;
+    skos:prefLabel "Small group learning" ;
+    skos:related ocs:C25892,
+        ocs:C3057 .
+

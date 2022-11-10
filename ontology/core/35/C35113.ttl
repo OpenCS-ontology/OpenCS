@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35113 a skos:Concept ;
+    skos:broader ocs:C14620,
+        ocs:C23865,
+        ocs:C28074 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gibbs_algorithm> ;
+    skos:prefLabel "Gibbs algorithm" ;
+    skos:related ocs:C10767,
+        ocs:C12737,
+        ocs:C30079,
+        ocs:C39363,
+        ocs:C42951,
+        ocs:C546 .
+

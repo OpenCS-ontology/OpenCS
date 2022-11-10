@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39176 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurosecurity> ;
+    skos:prefLabel "Neurosecurity" ;
+    skos:related ocs:C11329,
+        ocs:C11447,
+        ocs:C12434,
+        ocs:C21059,
+        ocs:C26691,
+        ocs:C29117,
+        ocs:C33162,
+        ocs:C38304,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41901,
+        ocs:C4218 .
+

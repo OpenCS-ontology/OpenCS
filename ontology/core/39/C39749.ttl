@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39749 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C33312,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stein's_unbiased_risk_estimate> ;
+    skos:prefLabel "Stein's unbiased risk estimate" ;
+    skos:related ocs:C13685,
+        ocs:C17922,
+        ocs:C22258,
+        ocs:C25355,
+        ocs:C26880,
+        ocs:C27667,
+        ocs:C27703,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C34590,
+        ocs:C35658,
+        ocs:C40400,
+        ocs:C41843,
+        ocs:C42850,
+        ocs:C45149,
+        ocs:C45699,
+        ocs:C45849 .
+

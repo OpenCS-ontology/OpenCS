@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37261 a skos:Concept ;
+    skos:broader ocs:C22682 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symmetric_bilinear_form> ;
+    skos:prefLabel "Symmetric bilinear form" ;
+    skos:related ocs:C1385,
+        ocs:C20124,
+        ocs:C37678 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41588 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808,
+        ocs:C33409,
+        ocs:C33982 ;
+    skos:closeMatch <http://dbpedia.org/resource/Savitch's_theorem> ;
+    skos:prefLabel "Savitch's theorem" ;
+    skos:related ocs:C10,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C32808,
+        ocs:C33409,
+        ocs:C3678,
+        ocs:C38754,
+        ocs:C39938,
+        ocs:C39984,
+        ocs:C40333,
+        ocs:C40477,
+        ocs:C40925,
+        ocs:C41061,
+        ocs:C41642,
+        ocs:C41645,
+        ocs:C5193,
+        ocs:C8660 .
+

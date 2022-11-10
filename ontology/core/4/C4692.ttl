@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4692 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Haystack_(MIT_project)> ;
+    skos:prefLabel "Haystack" ;
+    skos:related ocs:C28117,
+        ocs:C2931,
+        ocs:C30368,
+        ocs:C33916,
+        ocs:C34036,
+        ocs:C38059,
+        ocs:C3854,
+        ocs:C39618,
+        ocs:C40042,
+        ocs:C40821,
+        ocs:C41776,
+        ocs:C41864,
+        ocs:C42042,
+        ocs:C42124,
+        ocs:C43831,
+        ocs:C44135,
+        ocs:C45387,
+        ocs:C4921,
+        ocs:C6553,
+        ocs:C9836 .
+

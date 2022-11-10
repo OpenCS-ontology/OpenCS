@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16214 a skos:Concept ;
+    skos:broader ocs:C13320 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_training> ;
+    skos:prefLabel "Virtual training" ;
+    skos:related ocs:C10007,
+        ocs:C13320,
+        ocs:C13524,
+        ocs:C17157,
+        ocs:C22540,
+        ocs:C24,
+        ocs:C25507,
+        ocs:C27780,
+        ocs:C2800,
+        ocs:C31811,
+        ocs:C43674,
+        ocs:C4460,
+        ocs:C6881,
+        ocs:C8 .
+

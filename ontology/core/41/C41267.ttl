@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41267 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computing_with_Memory> ;
+    skos:prefLabel "Computing with Memory" ;
+    skos:related ocs:C11493,
+        ocs:C12690,
+        ocs:C13747,
+        ocs:C22751,
+        ocs:C24563,
+        ocs:C26155,
+        ocs:C26207,
+        ocs:C27,
+        ocs:C35049,
+        ocs:C36673,
+        ocs:C38163,
+        ocs:C4027,
+        ocs:C5336,
+        ocs:C8518 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23486 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/G-Cloud> ;
+    skos:prefLabel "G-Cloud" ;
+    skos:related ocs:C14224,
+        ocs:C15462,
+        ocs:C17246,
+        ocs:C24023,
+        ocs:C31161,
+        ocs:C33528,
+        ocs:C35669,
+        ocs:C35745,
+        ocs:C44585,
+        ocs:C597 .
+

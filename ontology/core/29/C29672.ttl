@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29672 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonholonomic_system> ;
+    skos:prefLabel "Nonholonomic system" ;
+    skos:related ocs:C17236,
+        ocs:C17396,
+        ocs:C24209,
+        ocs:C37750 .
+

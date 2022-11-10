@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33922 a skos:Concept ;
+    skos:broader ocs:C26991 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPU_shim> ;
+    skos:prefLabel "CPU shim" ;
+    skos:related ocs:C10320,
+        ocs:C15459,
+        ocs:C18684,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C2939,
+        ocs:C29728,
+        ocs:C735,
+        ocs:C9542 .
+

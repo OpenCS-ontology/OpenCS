@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32452 a skos:Concept ;
+    skos:broader ocs:C23958 ;
+    skos:closeMatch <http://dbpedia.org/resource/Special_sensor_microwave/imager> ;
+    skos:prefLabel "Special sensor microwave/imager" ;
+    skos:related ocs:C19548,
+        ocs:C32137,
+        ocs:C38502,
+        ocs:C40579,
+        ocs:C597 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37692 a skos:Concept ;
+    skos:broader ocs:C19177,
+        ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kantorovich_theorem> ;
+    skos:prefLabel "Kantorovich theorem" ;
+    skos:related ocs:C14414,
+        ocs:C19177,
+        ocs:C29738,
+        ocs:C32053,
+        ocs:C32157,
+        ocs:C32608,
+        ocs:C34414,
+        ocs:C38965,
+        ocs:C44992,
+        ocs:C6287,
+        ocs:C9051 .
+

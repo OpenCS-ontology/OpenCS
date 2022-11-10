@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5137 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adventure_film> ;
+    skos:prefLabel "Adventure" ;
+    skos:related ocs:C11262,
+        ocs:C19481,
+        ocs:C21545,
+        ocs:C21609,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C33953,
+        ocs:C33979,
+        ocs:C35621,
+        ocs:C41932,
+        ocs:C44,
+        ocs:C4916,
+        ocs:C5533,
+        ocs:C6095,
+        ocs:C9644 .
+

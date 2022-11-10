@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16011 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cosmobot> ;
+    skos:prefLabel "Cosmobot" ;
+    skos:related ocs:C11719,
+        ocs:C13727,
+        ocs:C2417,
+        ocs:C3808,
+        ocs:C45473 .
+

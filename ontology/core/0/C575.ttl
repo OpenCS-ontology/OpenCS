@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C575 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_reset_attack> ;
+    skos:prefLabel "TCP reset attack" ;
+    skos:related ocs:C14538,
+        ocs:C16953,
+        ocs:C17592,
+        ocs:C20205,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C23964,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C29803,
+        ocs:C30986,
+        ocs:C32268,
+        ocs:C38247,
+        ocs:C41298,
+        ocs:C42086,
+        ocs:C42628,
+        ocs:C8614 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19736 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C8182 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenROV> ;
+    skos:prefLabel "OpenROV" ;
+    skos:related ocs:C10286,
+        ocs:C15308,
+        ocs:C17254,
+        ocs:C17554,
+        ocs:C18432,
+        ocs:C19558,
+        ocs:C21588,
+        ocs:C29012,
+        ocs:C29969,
+        ocs:C35870,
+        ocs:C36944,
+        ocs:C6172,
+        ocs:C7625,
+        ocs:C8182 .
+

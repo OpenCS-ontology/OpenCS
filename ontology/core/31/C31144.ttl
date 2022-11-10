@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31144 a skos:Concept ;
+    skos:broader ocs:C25273 ;
+    skos:closeMatch <http://dbpedia.org/resource/Denavit–Hartenberg_parameters> ;
+    skos:prefLabel "Denavit–Hartenberg parameters" ;
+    skos:related ocs:C14326,
+        ocs:C15029,
+        ocs:C15416,
+        ocs:C17236,
+        ocs:C25273,
+        ocs:C29532,
+        ocs:C33887,
+        ocs:C41500,
+        ocs:C44424,
+        ocs:C7003,
+        ocs:C7848,
+        ocs:C8516,
+        ocs:C9237,
+        ocs:C9614,
+        ocs:C9690 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5509 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_operations_center> ;
+    skos:prefLabel "Network operations center" ;
+    skos:related ocs:C12999,
+        ocs:C197,
+        ocs:C2188,
+        ocs:C2352,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C3394,
+        ocs:C37035,
+        ocs:C39681,
+        ocs:C4817,
+        ocs:C5408,
+        ocs:C7106,
+        ocs:C7340,
+        ocs:C8614 .
+

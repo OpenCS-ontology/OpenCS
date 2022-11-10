@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32165 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Millennium_Copyright_Act> ;
+    skos:prefLabel "Digital Millennium Copyright Act" ;
+    skos:related ocs:C11540,
+        ocs:C12257,
+        ocs:C13306,
+        ocs:C15013,
+        ocs:C18764,
+        ocs:C31489,
+        ocs:C33646,
+        ocs:C36262,
+        ocs:C36711,
+        ocs:C41273,
+        ocs:C45369,
+        ocs:C6234,
+        ocs:C7170,
+        ocs:C8614 .
+

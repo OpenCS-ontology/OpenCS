@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41674 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_compiler> ;
+    skos:prefLabel "Java compiler" ;
+    skos:related ocs:C1142,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C14627,
+        ocs:C18570,
+        ocs:C19,
+        ocs:C22284,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C28539,
+        ocs:C35849,
+        ocs:C39149,
+        ocs:C42037,
+        ocs:C42633,
+        ocs:C43036,
+        ocs:C4321,
+        ocs:C43415,
+        ocs:C45618,
+        ocs:C6280,
+        ocs:C7800 .
+

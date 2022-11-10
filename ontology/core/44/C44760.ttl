@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44760 a skos:Concept ;
+    skos:broader ocs:C33699,
+        ocs:C35533,
+        ocs:C35577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_rank_of_a_graph> ;
+    skos:prefLabel "Minimum rank of a graph" ;
+    skos:related ocs:C14693,
+        ocs:C15460,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C30245,
+        ocs:C31884,
+        ocs:C33951,
+        ocs:C36406,
+        ocs:C38121,
+        ocs:C39019,
+        ocs:C39256,
+        ocs:C39595,
+        ocs:C39719,
+        ocs:C42233,
+        ocs:C42751,
+        ocs:C43181 .
+

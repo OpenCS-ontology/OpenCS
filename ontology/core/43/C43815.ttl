@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43815 a skos:Concept ;
+    skos:broader ocs:C31629 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knight's_tour> ;
+    skos:prefLabel "Knight's tour" ;
+    skos:related ocs:C10,
+        ocs:C1134,
+        ocs:C11372,
+        ocs:C14693,
+        ocs:C31629,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C40871,
+        ocs:C41794,
+        ocs:C44250,
+        ocs:C4648,
+        ocs:C5242,
+        ocs:C5697,
+        ocs:C8660 .
+

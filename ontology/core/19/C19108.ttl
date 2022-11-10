@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19108 a skos:Concept ;
+    skos:broader ocs:C7850 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exercise_intensity> ;
+    skos:prefLabel "Activity intensity" ;
+    skos:related ocs:C33 .
+

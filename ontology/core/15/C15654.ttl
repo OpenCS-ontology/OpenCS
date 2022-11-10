@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15654 a skos:Concept ;
+    skos:broader ocs:C3987 ;
+    skos:closeMatch <http://dbpedia.org/resource/State-transition_equation> ;
+    skos:prefLabel "State-transition equation" ;
+    skos:related ocs:C1447,
+        ocs:C22507,
+        ocs:C27505,
+        ocs:C28698 .
+

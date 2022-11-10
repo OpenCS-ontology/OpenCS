@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42143 a skos:Concept ;
+    skos:broader ocs:C31149,
+        ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_communications_over_IP> ;
+    skos:prefLabel "Mobile communications over IP" ;
+    skos:related ocs:C17999,
+        ocs:C19350,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C27704,
+        ocs:C29949,
+        ocs:C32955,
+        ocs:C33895,
+        ocs:C34908,
+        ocs:C35200,
+        ocs:C35370,
+        ocs:C39175,
+        ocs:C41460,
+        ocs:C41821,
+        ocs:C41910,
+        ocs:C42007,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

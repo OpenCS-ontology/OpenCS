@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40401 a skos:Concept ;
+    skos:broader ocs:C30408,
+        ocs:C33275,
+        ocs:C35263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balking_pattern> ;
+    skos:prefLabel "Balking pattern" ;
+    skos:related ocs:C12455,
+        ocs:C12584,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C28341,
+        ocs:C28759,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C33621,
+        ocs:C42211,
+        ocs:C44286,
+        ocs:C5248,
+        ocs:C5784,
+        ocs:C6399,
+        ocs:C7870,
+        ocs:C8146 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C692 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_simulation> ;
+    skos:prefLabel "Deterministic simulation" ;
+    skos:related ocs:C10803,
+        ocs:C11986,
+        ocs:C121,
+        ocs:C24,
+        ocs:C25024,
+        ocs:C260,
+        ocs:C29727,
+        ocs:C39620,
+        ocs:C5496,
+        ocs:C6395,
+        ocs:C7256 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26764 a skos:Concept ;
+    skos:broader ocs:C1302 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biotelemetry> ;
+    skos:prefLabel "Biotelemetry" ;
+    skos:related ocs:C1302,
+        ocs:C314,
+        ocs:C3236,
+        ocs:C36608 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18432 a skos:Concept ;
+    skos:broader ocs:C4593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Underwater_glider> ;
+    skos:prefLabel "Underwater glider" ;
+    skos:related ocs:C11187,
+        ocs:C3644,
+        ocs:C8182 .
+

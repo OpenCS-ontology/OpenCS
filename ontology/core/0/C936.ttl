@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C936 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_lists_by_frequency> ;
+    skos:prefLabel "Word lists by frequency" ;
+    skos:related ocs:C11722,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C15475,
+        ocs:C1948,
+        ocs:C27459,
+        ocs:C2761,
+        ocs:C32,
+        ocs:C3580,
+        ocs:C40793,
+        ocs:C6247,
+        ocs:C8366,
+        ocs:C928,
+        ocs:C961 .
+

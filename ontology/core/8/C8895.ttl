@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8895 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_case> ;
+    skos:prefLabel "Test case" ;
+    skos:related ocs:C13313,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C20063,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C2671,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C31890,
+        ocs:C36470,
+        ocs:C3844,
+        ocs:C40291,
+        ocs:C42333,
+        ocs:C7053,
+        ocs:C8268 .
+

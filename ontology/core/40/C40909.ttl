@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40909 a skos:Concept ;
+    skos:broader ocs:C36965 ;
+    skos:closeMatch <http://dbpedia.org/resource/Handle_decomposition> ;
+    skos:prefLabel "Handle decomposition" ;
+    skos:related ocs:C17860,
+        ocs:C30041,
+        ocs:C43503 .
+

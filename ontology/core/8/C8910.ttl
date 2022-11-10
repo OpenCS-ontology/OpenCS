@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8910 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indication_of_interest> ;
+    skos:prefLabel "Indication of interest" ;
+    skos:related ocs:C23994 .
+

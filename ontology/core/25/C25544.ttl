@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25544 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pied-piping> ;
+    skos:prefLabel "Pied-piping" ;
+    skos:related ocs:C18744,
+        ocs:C18979,
+        ocs:C19422,
+        ocs:C19753,
+        ocs:C21016,
+        ocs:C22961,
+        ocs:C24070,
+        ocs:C24691,
+        ocs:C25696,
+        ocs:C27346,
+        ocs:C29705,
+        ocs:C30451,
+        ocs:C5798 .
+

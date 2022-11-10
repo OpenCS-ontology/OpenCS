@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5427 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Landing_page> ;
+    skos:prefLabel "Landing page" ;
+    skos:related ocs:C10947,
+        ocs:C11116,
+        ocs:C13681,
+        ocs:C13752,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C33206,
+        ocs:C35013,
+        ocs:C35660,
+        ocs:C38534,
+        ocs:C40049,
+        ocs:C42101,
+        ocs:C43157,
+        ocs:C8807,
+        ocs:C897 .
+

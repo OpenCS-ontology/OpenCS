@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38516 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pick's_theorem> ;
+    skos:prefLabel "Pick's theorem" ;
+    skos:related ocs:C33963,
+        ocs:C37206,
+        ocs:C40176,
+        ocs:C43433,
+        ocs:C43646,
+        ocs:C43751,
+        ocs:C45139 .
+

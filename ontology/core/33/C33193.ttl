@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33193 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Debit_card> ;
+    skos:prefLabel "Debit card" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C14011,
+        ocs:C15464,
+        ocs:C16179,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C21054,
+        ocs:C22776,
+        ocs:C27327,
+        ocs:C28781,
+        ocs:C31096,
+        ocs:C32504,
+        ocs:C34589,
+        ocs:C35630,
+        ocs:C37095,
+        ocs:C8437,
+        ocs:C9495 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26902 a skos:Concept ;
+    skos:broader ocs:C8753,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_computing> ;
+    skos:prefLabel "Stochastic computing" ;
+    skos:related ocs:C14161,
+        ocs:C15398,
+        ocs:C16106,
+        ocs:C16152,
+        ocs:C16978,
+        ocs:C26265,
+        ocs:C28074,
+        ocs:C3357,
+        ocs:C3936,
+        ocs:C5072,
+        ocs:C6537,
+        ocs:C6817 .
+

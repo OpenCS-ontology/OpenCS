@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37400 a skos:Concept ;
+    skos:broader ocs:C23787,
+        ocs:C24469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oscillator_linewidth> ;
+    skos:prefLabel "Oscillator linewidth" ;
+    skos:related ocs:C13373,
+        ocs:C25436,
+        ocs:C260,
+        ocs:C5769 .
+

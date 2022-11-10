@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29472 a skos:Concept ;
+    skos:broader ocs:C10244,
+        ocs:C9372 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circle_Limit_III> ;
+    skos:prefLabel "Circle Limit III" ;
+    skos:related ocs:C30429,
+        ocs:C40580,
+        ocs:C9372 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12047 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:prefLabel "External route" ;
+    skos:related ocs:C30,
+        ocs:C38451,
+        ocs:C390,
+        ocs:C40965,
+        ocs:C41572,
+        ocs:C44582,
+        ocs:C7179 .
+

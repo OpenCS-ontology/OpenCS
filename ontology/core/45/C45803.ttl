@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45803 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C32333,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:prefLabel "Light graph" .
+

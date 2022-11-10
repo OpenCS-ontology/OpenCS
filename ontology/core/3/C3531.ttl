@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3531 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pursuit-evasion> ;
+    skos:prefLabel "Pursuit-evasion" ;
+    skos:related ocs:C14009,
+        ocs:C14693,
+        ocs:C19336,
+        ocs:C20376,
+        ocs:C38781,
+        ocs:C40666,
+        ocs:C42060,
+        ocs:C42244,
+        ocs:C42281,
+        ocs:C42822,
+        ocs:C43912,
+        ocs:C45225,
+        ocs:C45271 .
+

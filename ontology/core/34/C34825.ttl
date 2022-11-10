@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34825 a skos:Concept ;
+    skos:broader ocs:C14359,
+        ocs:C17070 ;
+    skos:closeMatch <http://dbpedia.org/resource/Andricus_kollari> ;
+    skos:prefLabel "Andricus kollari" ;
+    skos:related ocs:C20864,
+        ocs:C22892,
+        ocs:C24182,
+        ocs:C24959,
+        ocs:C32588,
+        ocs:C37336 .
+

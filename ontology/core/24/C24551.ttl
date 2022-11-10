@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24551 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Salisbury_screen> ;
+    skos:prefLabel "Salisbury screen" ;
+    skos:related ocs:C1219,
+        ocs:C13211,
+        ocs:C7159 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43832 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular-arc_graph> ;
+    skos:prefLabel "Circular-arc graph" ;
+    skos:related ocs:C13880,
+        ocs:C14693,
+        ocs:C19336,
+        ocs:C31884,
+        ocs:C32333,
+        ocs:C34096,
+        ocs:C36279,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38303,
+        ocs:C38404,
+        ocs:C38781,
+        ocs:C39480,
+        ocs:C41484,
+        ocs:C41783,
+        ocs:C42392,
+        ocs:C43035,
+        ocs:C43156,
+        ocs:C43787,
+        ocs:C44807 .
+

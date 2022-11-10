@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45345 a skos:Concept ;
+    skos:broader ocs:C30151 ;
+    skos:closeMatch <http://dbpedia.org/resource/NCI_Metathesaurus> ;
+    skos:prefLabel "NCI Metathesaurus" ;
+    skos:related ocs:C11763,
+        ocs:C25186,
+        ocs:C26644 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21067 a skos:Concept ;
+    skos:broader ocs:C7060 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ambidextrous_organization> ;
+    skos:prefLabel "Ambidextrous organization" ;
+    skos:related ocs:C11026,
+        ocs:C12,
+        ocs:C2717,
+        ocs:C3343,
+        ocs:C3738,
+        ocs:C5568,
+        ocs:C7060,
+        ocs:C9328 .
+

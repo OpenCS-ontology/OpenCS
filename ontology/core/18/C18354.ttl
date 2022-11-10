@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18354 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Duration_(project_management)> ;
+    skos:prefLabel "Duration (project management)" ;
+    skos:related ocs:C13143,
+        ocs:C19418,
+        ocs:C20086,
+        ocs:C20809,
+        ocs:C25147,
+        ocs:C30932 .
+

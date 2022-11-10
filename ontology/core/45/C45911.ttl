@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45911 a skos:Concept ;
+    skos:broader ocs:C35107,
+        ocs:C37786 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consistency_(statistics)> ;
+    skos:prefLabel "Consistency (statistics)" ;
+    skos:related ocs:C11025,
+        ocs:C11767,
+        ocs:C13685,
+        ocs:C15256,
+        ocs:C25690,
+        ocs:C33312,
+        ocs:C35310,
+        ocs:C39127,
+        ocs:C41656 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26461 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C12806 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comma_operator> ;
+    skos:prefLabel "Comma operator" ;
+    skos:related ocs:C10284,
+        ocs:C10557,
+        ocs:C10608,
+        ocs:C11991,
+        ocs:C1333,
+        ocs:C13366,
+        ocs:C13411,
+        ocs:C23909,
+        ocs:C25460,
+        ocs:C26024,
+        ocs:C27521,
+        ocs:C31014,
+        ocs:C3785,
+        ocs:C41006,
+        ocs:C4918,
+        ocs:C6025,
+        ocs:C8616 .
+

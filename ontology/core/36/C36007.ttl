@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36007 a skos:Concept ;
+    skos:broader ocs:C18082,
+        ocs:C20518 ;
+    skos:closeMatch <http://dbpedia.org/resource/Verb_phrase_ellipsis> ;
+    skos:prefLabel "Verb phrase ellipsis" ;
+    skos:related ocs:C1034,
+        ocs:C21429,
+        ocs:C23321,
+        ocs:C24691,
+        ocs:C25696,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C27369,
+        ocs:C32275,
+        ocs:C33168,
+        ocs:C34937,
+        ocs:C5347,
+        ocs:C6764 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C586 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:prefLabel "Helmet worn" ;
+    skos:related ocs:C2,
+        ocs:C22,
+        ocs:C4718,
+        ocs:C8291 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28629 a skos:Concept ;
+    skos:broader ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/New_business_development> ;
+    skos:prefLabel "New business development" ;
+    skos:related ocs:C10141,
+        ocs:C12146,
+        ocs:C22811,
+        ocs:C24134,
+        ocs:C33625,
+        ocs:C37106,
+        ocs:C3836,
+        ocs:C45772 .
+

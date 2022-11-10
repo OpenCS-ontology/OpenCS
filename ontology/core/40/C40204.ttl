@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40204 a skos:Concept ;
+    skos:broader ocs:C30920,
+        ocs:C35571 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance-enhancing_proxy> ;
+    skos:prefLabel "Performance-enhancing proxy" ;
+    skos:related ocs:C20540,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24348,
+        ocs:C24824,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C34719,
+        ocs:C37577,
+        ocs:C38698,
+        ocs:C38817,
+        ocs:C3989,
+        ocs:C39947,
+        ocs:C4197,
+        ocs:C42429,
+        ocs:C44568,
+        ocs:C45773,
+        ocs:C6185 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32983 a skos:Concept ;
+    skos:broader ocs:C22407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_telephony_service_provider> ;
+    skos:prefLabel "Internet telephony service provider" ;
+    skos:related ocs:C12001,
+        ocs:C125,
+        ocs:C22407,
+        ocs:C24131,
+        ocs:C28758,
+        ocs:C28949,
+        ocs:C29603,
+        ocs:C30005,
+        ocs:C30664,
+        ocs:C30757,
+        ocs:C31365,
+        ocs:C31821,
+        ocs:C34631,
+        ocs:C35499,
+        ocs:C36124,
+        ocs:C36980,
+        ocs:C480,
+        ocs:C8515,
+        ocs:C8614 .
+

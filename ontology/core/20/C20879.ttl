@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20879 a skos:Concept ;
+    skos:broader ocs:C747 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sky_brightness> ;
+    skos:prefLabel "Sky brightness" ;
+    skos:related ocs:C16976,
+        ocs:C17246,
+        ocs:C17730,
+        ocs:C28586 .
+

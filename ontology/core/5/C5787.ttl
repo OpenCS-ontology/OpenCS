@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5787 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earthscore> ;
+    skos:prefLabel "Earthscore" ;
+    skos:related ocs:C11578,
+        ocs:C21872,
+        ocs:C7334 .
+

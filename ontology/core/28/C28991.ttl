@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28991 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_graph> ;
+    skos:prefLabel "Random graph" ;
+    skos:related ocs:C11026,
+        ocs:C14693,
+        ocs:C15476,
+        ocs:C18569,
+        ocs:C19399,
+        ocs:C22417,
+        ocs:C28521,
+        ocs:C28786,
+        ocs:C33768,
+        ocs:C37036,
+        ocs:C41628,
+        ocs:C42813,
+        ocs:C6909,
+        ocs:C7460 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31789 a skos:Concept ;
+    skos:broader ocs:C24730 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_prosecution> ;
+    skos:prefLabel "Patent prosecution" ;
+    skos:related ocs:C13306,
+        ocs:C13634,
+        ocs:C16398,
+        ocs:C23056,
+        ocs:C24730,
+        ocs:C26600,
+        ocs:C27519,
+        ocs:C30696,
+        ocs:C31185,
+        ocs:C32561,
+        ocs:C33830,
+        ocs:C34393,
+        ocs:C39999 .
+

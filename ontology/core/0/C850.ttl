@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C850 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finger_tracking> ;
+    skos:prefLabel "Finger tracking" ;
+    skos:related ocs:C10368,
+        ocs:C10630,
+        ocs:C11700,
+        ocs:C1239,
+        ocs:C12453,
+        ocs:C13065,
+        ocs:C18,
+        ocs:C18367,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C23978,
+        ocs:C24825,
+        ocs:C27445,
+        ocs:C3525,
+        ocs:C41932,
+        ocs:C6069,
+        ocs:C8399,
+        ocs:C8499 .
+

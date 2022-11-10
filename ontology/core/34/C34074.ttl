@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34074 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clarkson's_inequalities> ;
+    skos:prefLabel "Clarkson's inequalities" ;
+    skos:related ocs:C23927,
+        ocs:C26263,
+        ocs:C28787,
+        ocs:C28804,
+        ocs:C30507,
+        ocs:C40375,
+        ocs:C41233,
+        ocs:C41464 .
+

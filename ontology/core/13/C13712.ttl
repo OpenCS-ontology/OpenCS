@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13712 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_cable> ;
+    skos:prefLabel "Active cable" ;
+    skos:related ocs:C12336,
+        ocs:C15410,
+        ocs:C1563,
+        ocs:C18745,
+        ocs:C24264,
+        ocs:C24592,
+        ocs:C26580,
+        ocs:C34034,
+        ocs:C41110,
+        ocs:C691 .
+

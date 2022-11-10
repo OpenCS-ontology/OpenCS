@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43531 a skos:Concept ;
+    skos:broader ocs:C31107 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hidden_subgroup_problem> ;
+    skos:prefLabel "Hidden subgroup problem" ;
+    skos:related ocs:C2425,
+        ocs:C29,
+        ocs:C29935,
+        ocs:C34794,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C38277,
+        ocs:C41758,
+        ocs:C42084,
+        ocs:C8660 .
+

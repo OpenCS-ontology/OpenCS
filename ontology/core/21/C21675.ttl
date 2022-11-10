@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21675 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_space> ;
+    skos:prefLabel "Weighted space" ;
+    skos:related ocs:C18076,
+        ocs:C19125,
+        ocs:C23927,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C35661,
+        ocs:C36920,
+        ocs:C39004,
+        ocs:C40195,
+        ocs:C41178,
+        ocs:C41640 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42701 a skos:Concept ;
+    skos:broader ocs:C29901,
+        ocs:C34566,
+        ocs:C34937,
+        ocs:C36538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Range_concatenation_grammars> ;
+    skos:prefLabel "Range concatenation grammars" ;
+    skos:related ocs:C17566,
+        ocs:C17732,
+        ocs:C22093,
+        ocs:C22624,
+        ocs:C25360,
+        ocs:C26158,
+        ocs:C29709,
+        ocs:C29901,
+        ocs:C35270,
+        ocs:C36538,
+        ocs:C38283,
+        ocs:C38340,
+        ocs:C39098,
+        ocs:C39250,
+        ocs:C39589,
+        ocs:C39656,
+        ocs:C40631,
+        ocs:C43816,
+        ocs:C44056 .
+

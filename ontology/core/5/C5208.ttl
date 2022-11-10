@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5208 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fundamental_pattern> ;
+    skos:prefLabel "Fundamental pattern" ;
+    skos:related ocs:C2415,
+        ocs:C2533,
+        ocs:C25359,
+        ocs:C25508,
+        ocs:C28759,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C34686,
+        ocs:C36310,
+        ocs:C36729,
+        ocs:C37822,
+        ocs:C42211,
+        ocs:C42943,
+        ocs:C43722,
+        ocs:C43786,
+        ocs:C44286,
+        ocs:C5248,
+        ocs:C5784 .
+

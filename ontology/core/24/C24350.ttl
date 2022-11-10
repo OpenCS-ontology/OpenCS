@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24350 a skos:Concept ;
+    skos:broader ocs:C7379 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nearest_neighbour_distribution> ;
+    skos:prefLabel "Nearest neighbour distribution" ;
+    skos:related ocs:C10803,
+        ocs:C1844,
+        ocs:C23164,
+        ocs:C23888,
+        ocs:C26839,
+        ocs:C29727,
+        ocs:C33580,
+        ocs:C42236 .
+

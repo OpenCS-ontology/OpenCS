@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3124 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-link_trunking> ;
+    skos:prefLabel "Multi-link trunking" ;
+    skos:related ocs:C11157,
+        ocs:C11277,
+        ocs:C1398,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C17187,
+        ocs:C22819,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C2986,
+        ocs:C30216,
+        ocs:C30342,
+        ocs:C31983,
+        ocs:C38451,
+        ocs:C39294,
+        ocs:C42234,
+        ocs:C42239,
+        ocs:C42584,
+        ocs:C490,
+        ocs:C5343 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2576 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Profiling_(information_science)> ;
+    skos:prefLabel "Profiling (information science)" ;
+    skos:related ocs:C10382,
+        ocs:C11126,
+        ocs:C1212,
+        ocs:C12491,
+        ocs:C12644,
+        ocs:C13,
+        ocs:C21,
+        ocs:C25,
+        ocs:C26350,
+        ocs:C26767,
+        ocs:C28882,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C7510,
+        ocs:C9022,
+        ocs:C9874 .
+

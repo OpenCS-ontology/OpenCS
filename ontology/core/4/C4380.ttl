@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4380 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Policy_appliances> ;
+    skos:prefLabel "Policy appliances" ;
+    skos:related ocs:C10565,
+        ocs:C11087,
+        ocs:C12434,
+        ocs:C1399,
+        ocs:C17656,
+        ocs:C24008,
+        ocs:C2580,
+        ocs:C35267,
+        ocs:C3757,
+        ocs:C41011,
+        ocs:C4218,
+        ocs:C4984,
+        ocs:C5705,
+        ocs:C6031,
+        ocs:C6234,
+        ocs:C7006,
+        ocs:C7510,
+        ocs:C8711 .
+

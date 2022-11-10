@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31194 a skos:Concept ;
+    skos:broader ocs:C18799,
+        ocs:C28404 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gold_code> ;
+    skos:prefLabel "Gold code" ;
+    skos:related ocs:C11096,
+        ocs:C12153,
+        ocs:C12641,
+        ocs:C18799,
+        ocs:C21929,
+        ocs:C24146,
+        ocs:C25445,
+        ocs:C28404,
+        ocs:C30924,
+        ocs:C32576,
+        ocs:C36866,
+        ocs:C37788,
+        ocs:C5072,
+        ocs:C836 .
+

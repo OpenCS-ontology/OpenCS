@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2077 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dansk_Datamatik_Center> ;
+    skos:prefLabel "Dansk Datamatik Center" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C10720,
+        ocs:C10825,
+        ocs:C13624,
+        ocs:C18469,
+        ocs:C2050,
+        ocs:C21434,
+        ocs:C26693,
+        ocs:C28702,
+        ocs:C30651,
+        ocs:C31028,
+        ocs:C31722,
+        ocs:C32014,
+        ocs:C36771,
+        ocs:C4321,
+        ocs:C8786,
+        ocs:C9,
+        ocs:C9113 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14225 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polynomiography> ;
+    skos:prefLabel "Polynomiography" ;
+    skos:related ocs:C18362,
+        ocs:C37392,
+        ocs:C38866,
+        ocs:C45598,
+        ocs:C8781 .
+

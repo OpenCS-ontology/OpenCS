@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8795 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/WS-Context> ;
+    skos:prefLabel "WS-Context" ;
+    skos:related ocs:C12617,
+        ocs:C13252,
+        ocs:C16599,
+        ocs:C19052,
+        ocs:C21614,
+        ocs:C22847,
+        ocs:C26828,
+        ocs:C30649,
+        ocs:C38075,
+        ocs:C39108,
+        ocs:C39643,
+        ocs:C43607,
+        ocs:C43812,
+        ocs:C43890,
+        ocs:C44171,
+        ocs:C44429,
+        ocs:C44609,
+        ocs:C45846,
+        ocs:C6442,
+        ocs:C8347 .
+

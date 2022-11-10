@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21649 a skos:Concept ;
+    skos:broader ocs:C10444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Database_preservation> ;
+    skos:prefLabel "Database preservation" ;
+    skos:related ocs:C1047,
+        ocs:C10988,
+        ocs:C1253,
+        ocs:C1676,
+        ocs:C16861,
+        ocs:C1704,
+        ocs:C18405,
+        ocs:C26532,
+        ocs:C35393,
+        ocs:C3997,
+        ocs:C42374,
+        ocs:C4335,
+        ocs:C43539,
+        ocs:C5159,
+        ocs:C5402,
+        ocs:C5414,
+        ocs:C6,
+        ocs:C8574 .
+

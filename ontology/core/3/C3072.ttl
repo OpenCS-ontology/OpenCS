@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3072 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_Intersect_(Chuck)> ;
+    skos:prefLabel "The Intersect" ;
+    skos:related ocs:C18256,
+        ocs:C2981,
+        ocs:C4182,
+        ocs:C6234,
+        ocs:C8,
+        ocs:C837 .
+

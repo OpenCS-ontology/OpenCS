@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10047 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lines_per_inch> ;
+    skos:prefLabel "Lines per inch" ;
+    skos:related ocs:C14411,
+        ocs:C1703,
+        ocs:C22059,
+        ocs:C28588,
+        ocs:C32992,
+        ocs:C34257,
+        ocs:C34529,
+        ocs:C36730,
+        ocs:C5450,
+        ocs:C6113,
+        ocs:C7981,
+        ocs:C8021,
+        ocs:C8611 .
+

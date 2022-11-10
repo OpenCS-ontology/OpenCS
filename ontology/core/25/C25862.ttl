@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25862 a skos:Concept ;
+    skos:broader ocs:C10923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multivariate_normal_distribution> ;
+    skos:prefLabel "Multivariate normal distribution" ;
+    skos:related ocs:C14852,
+        ocs:C16163,
+        ocs:C1844,
+        ocs:C31579,
+        ocs:C9326 .
+

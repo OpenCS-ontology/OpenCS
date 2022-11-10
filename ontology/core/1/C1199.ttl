@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1199 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zorba_(XQuery_processor)> ;
+    skos:prefLabel "Zorba" ;
+    skos:related ocs:C1042,
+        ocs:C10444,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C1253,
+        ocs:C13068,
+        ocs:C17123,
+        ocs:C17401,
+        ocs:C18083,
+        ocs:C18361,
+        ocs:C31,
+        ocs:C33052,
+        ocs:C33916,
+        ocs:C36924,
+        ocs:C42037,
+        ocs:C44814,
+        ocs:C4918,
+        ocs:C6941,
+        ocs:C7572,
+        ocs:C7797 .
+

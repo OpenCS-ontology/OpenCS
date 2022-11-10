@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38793 a skos:Concept ;
+    skos:broader ocs:C30766,
+        ocs:C31692,
+        ocs:C35137,
+        ocs:C35363 ;
+    skos:closeMatch <http://dbpedia.org/resource/New_Ways_of_Analyzing_Variation> ;
+    skos:prefLabel "New Ways of Analyzing Variation" ;
+    skos:related ocs:C16549,
+        ocs:C30766,
+        ocs:C45888,
+        ocs:C5628,
+        ocs:C9777 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33530 a skos:Concept ;
+    skos:broader ocs:C14264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nav1.5> ;
+    skos:prefLabel "Nav1.5" ;
+    skos:related ocs:C14264,
+        ocs:C23973,
+        ocs:C25667,
+        ocs:C33534,
+        ocs:C39387 .
+

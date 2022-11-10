@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42847 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C33033,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multipliers_and_centralizers_(Banach_spaces)> ;
+    skos:prefLabel "Multipliers and centralizers" ;
+    skos:related ocs:C23927,
+        ocs:C28583,
+        ocs:C28787,
+        ocs:C29686,
+        ocs:C33700,
+        ocs:C34336,
+        ocs:C34413,
+        ocs:C36974,
+        ocs:C39302,
+        ocs:C40731,
+        ocs:C41464,
+        ocs:C43376,
+        ocs:C44450,
+        ocs:C45388 .
+

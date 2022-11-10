@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4965 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deaf_studies> ;
+    skos:prefLabel "Deaf studies" ;
+    skos:related ocs:C15973,
+        ocs:C16631,
+        ocs:C23682,
+        ocs:C25188,
+        ocs:C26953,
+        ocs:C7858 .
+

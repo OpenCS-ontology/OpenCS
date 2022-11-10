@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8127 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differentiation_(sociology)> ;
+    skos:prefLabel "Differentiation" ;
+    skos:related ocs:C20012,
+        ocs:C2421,
+        ocs:C37641,
+        ocs:C5668,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C8341 .
+

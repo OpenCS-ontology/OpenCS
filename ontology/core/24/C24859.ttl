@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24859 a skos:Concept ;
+    skos:broader ocs:C1940 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_processor> ;
+    skos:prefLabel "Information processor" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C10368,
+        ocs:C12150,
+        ocs:C1940,
+        ocs:C2193,
+        ocs:C2728,
+        ocs:C2979,
+        ocs:C33617,
+        ocs:C4099,
+        ocs:C5298,
+        ocs:C5816,
+        ocs:C6944,
+        ocs:C8024,
+        ocs:C8566,
+        ocs:C8634,
+        ocs:C941 .
+

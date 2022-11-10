@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17601 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radiation_hardening> ;
+    skos:prefLabel "Radiation hardening" ;
+    skos:related ocs:C10320,
+        ocs:C17668,
+        ocs:C5293,
+        ocs:C597 .
+

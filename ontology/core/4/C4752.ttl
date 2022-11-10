@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4752 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Outlier> ;
+    skos:prefLabel "Outlier" ;
+    skos:related ocs:C10382,
+        ocs:C11425,
+        ocs:C13685,
+        ocs:C1844,
+        ocs:C23554,
+        ocs:C30859,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C662 .
+

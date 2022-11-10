@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34420 a skos:Concept ;
+    skos:broader ocs:C18799,
+        ocs:C20845 ;
+    skos:closeMatch <http://dbpedia.org/resource/GpsOne> ;
+    skos:prefLabel "gpsOne" ;
+    skos:related ocs:C10217,
+        ocs:C12265,
+        ocs:C12641,
+        ocs:C1793,
+        ocs:C20845,
+        ocs:C23009,
+        ocs:C29023,
+        ocs:C30890,
+        ocs:C37303,
+        ocs:C39726,
+        ocs:C39949,
+        ocs:C41460,
+        ocs:C44290,
+        ocs:C44458,
+        ocs:C44584,
+        ocs:C45543,
+        ocs:C5088,
+        ocs:C6311,
+        ocs:C9113 .
+

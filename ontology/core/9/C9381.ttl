@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9381 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delay_line_memory> ;
+    skos:prefLabel "Delay line memory" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C23270,
+        ocs:C28078,
+        ocs:C3231,
+        ocs:C4259,
+        ocs:C4703,
+        ocs:C8328,
+        ocs:C9839 .
+

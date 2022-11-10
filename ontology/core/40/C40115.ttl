@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40115 a skos:Concept ;
+    skos:broader ocs:C34893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thermal_time_scale> ;
+    skos:prefLabel "Thermal time scale" ;
+    skos:related ocs:C14111,
+        ocs:C21307,
+        ocs:C22014,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C24230,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C33891,
+        ocs:C33961,
+        ocs:C35893,
+        ocs:C40619 .
+

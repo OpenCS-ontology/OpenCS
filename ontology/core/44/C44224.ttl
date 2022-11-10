@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44224 a skos:Concept ;
+    skos:broader ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C35389,
+        ocs:C35839,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/JH_(hash_function)> ;
+    skos:prefLabel "JH" ;
+    skos:related ocs:C1258,
+        ocs:C21796,
+        ocs:C23875,
+        ocs:C25174,
+        ocs:C29808,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38073,
+        ocs:C39849,
+        ocs:C40877,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C43275,
+        ocs:C43883,
+        ocs:C43899,
+        ocs:C43967,
+        ocs:C45340 .
+

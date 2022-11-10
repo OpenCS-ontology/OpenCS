@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42042 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C34391,
+        ocs:C36508,
+        ocs:C36913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_desktop> ;
+    skos:prefLabel "Semantic desktop" ;
+    skos:related ocs:C12,
+        ocs:C12304,
+        ocs:C22668,
+        ocs:C27515,
+        ocs:C28117,
+        ocs:C31489,
+        ocs:C33916,
+        ocs:C34391,
+        ocs:C37046,
+        ocs:C38059,
+        ocs:C3896,
+        ocs:C39618,
+        ocs:C43138,
+        ocs:C4692,
+        ocs:C6553,
+        ocs:C9,
+        ocs:C9836 .
+

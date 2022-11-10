@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32089 a skos:Concept ;
+    skos:broader ocs:C14693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coates_graph> ;
+    skos:prefLabel "Coates graph" ;
+    skos:related ocs:C14693,
+        ocs:C15460,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C20376,
+        ocs:C23247,
+        ocs:C29708,
+        ocs:C33437,
+        ocs:C33951,
+        ocs:C38121,
+        ocs:C39019,
+        ocs:C39256 .
+

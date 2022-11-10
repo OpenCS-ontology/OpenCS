@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6652 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biosignal> ;
+    skos:prefLabel "Biosignal" ;
+    skos:related ocs:C11636,
+        ocs:C1402,
+        ocs:C21717,
+        ocs:C2582,
+        ocs:C836 .
+

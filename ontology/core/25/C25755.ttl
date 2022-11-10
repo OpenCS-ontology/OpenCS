@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25755 a skos:Concept ;
+    skos:broader ocs:C11768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_resolution> ;
+    skos:prefLabel "Optical resolution" ;
+    skos:related ocs:C2196,
+        ocs:C5854,
+        ocs:C597,
+        ocs:C7597,
+        ocs:C7789,
+        ocs:C8021 .
+

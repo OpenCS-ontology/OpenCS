@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41779 a skos:Concept ;
+    skos:broader ocs:C35103,
+        ocs:C36407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Newton–Pepys_problem> ;
+    skos:prefLabel "Newton–Pepys problem" ;
+    skos:related ocs:C12109,
+        ocs:C2668,
+        ocs:C6291 .
+

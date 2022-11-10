@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8275 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Register_file> ;
+    skos:prefLabel "Register file" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C3118,
+        ocs:C37538,
+        ocs:C40036,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9487,
+        ocs:C9542 .
+

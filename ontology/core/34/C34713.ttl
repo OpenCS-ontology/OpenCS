@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34713 a skos:Concept ;
+    skos:broader ocs:C14329 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reference_architecture> ;
+    skos:prefLabel "Reference architecture" ;
+    skos:related ocs:C11203,
+        ocs:C14329,
+        ocs:C14401,
+        ocs:C25184,
+        ocs:C30335,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C35399,
+        ocs:C38363,
+        ocs:C40270,
+        ocs:C41867,
+        ocs:C42543,
+        ocs:C43434,
+        ocs:C43774,
+        ocs:C4451,
+        ocs:C44839,
+        ocs:C45082 .
+

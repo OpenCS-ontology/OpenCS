@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11060 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/History_of_logic> ;
+    skos:prefLabel "History of logic" ;
+    skos:related ocs:C10,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C27458,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C5251,
+        ocs:C9834 .
+

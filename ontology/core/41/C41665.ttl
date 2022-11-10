@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41665 a skos:Concept ;
+    skos:broader ocs:C32962,
+        ocs:C34475 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_Interface_Toolkit> ;
+    skos:prefLabel "User Interface Toolkit" ;
+    skos:related ocs:C14627,
+        ocs:C14655,
+        ocs:C24634,
+        ocs:C24871,
+        ocs:C26700,
+        ocs:C31489,
+        ocs:C39337,
+        ocs:C5180,
+        ocs:C668,
+        ocs:C7293 .
+

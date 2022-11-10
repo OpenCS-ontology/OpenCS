@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43497 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aperture_(computer_memory)> ;
+    skos:prefLabel "Aperture (computer memory)" ;
+    skos:related ocs:C10320,
+        ocs:C14162,
+        ocs:C23270,
+        ocs:C23749,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C3231,
+        ocs:C35049,
+        ocs:C38449,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C41599,
+        ocs:C4259,
+        ocs:C42690,
+        ocs:C7007,
+        ocs:C8026,
+        ocs:C9600 .
+

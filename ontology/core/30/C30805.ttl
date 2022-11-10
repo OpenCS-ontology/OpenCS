@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30805 a skos:Concept ;
+    skos:broader ocs:C20332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Yellow_crazy_ant> ;
+    skos:prefLabel "Yellow crazy ant" ;
+    skos:related ocs:C19253,
+        ocs:C19311,
+        ocs:C21653,
+        ocs:C27032,
+        ocs:C2760,
+        ocs:C30775,
+        ocs:C36512,
+        ocs:C37210 .
+

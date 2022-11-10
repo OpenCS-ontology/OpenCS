@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18179 a skos:Concept ;
+    skos:broader ocs:C2863 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crashworthiness> ;
+    skos:prefLabel "Crashworthiness" ;
+    skos:related ocs:C16728,
+        ocs:C17865,
+        ocs:C20456,
+        ocs:C24715,
+        ocs:C26749,
+        ocs:C27671,
+        ocs:C28746 .
+

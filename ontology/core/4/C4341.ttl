@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4341 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triton_II> ;
+    skos:prefLabel "Triton II" ;
+    skos:related ocs:C10991,
+        ocs:C1810,
+        ocs:C19131,
+        ocs:C21617,
+        ocs:C23251,
+        ocs:C28515,
+        ocs:C36894,
+        ocs:C38463,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C40232,
+        ocs:C40559,
+        ocs:C43764 .
+

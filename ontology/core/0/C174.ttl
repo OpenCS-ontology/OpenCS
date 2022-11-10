@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C174 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Restrict> ;
+    skos:prefLabel "restrict" ;
+    skos:related ocs:C10909,
+        ocs:C11082,
+        ocs:C14990,
+        ocs:C17316,
+        ocs:C18991,
+        ocs:C19,
+        ocs:C20693,
+        ocs:C21019,
+        ocs:C220,
+        ocs:C23967,
+        ocs:C25127,
+        ocs:C26466,
+        ocs:C28582,
+        ocs:C39309,
+        ocs:C39715,
+        ocs:C41905,
+        ocs:C4321,
+        ocs:C43851,
+        ocs:C5630,
+        ocs:C9160 .
+

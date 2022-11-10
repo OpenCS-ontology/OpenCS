@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3568 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mouseover> ;
+    skos:prefLabel "Mouseover" ;
+    skos:related ocs:C11700,
+        ocs:C11989,
+        ocs:C12477,
+        ocs:C1787,
+        ocs:C19298,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C2654,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C40687,
+        ocs:C4253,
+        ocs:C4918,
+        ocs:C5095,
+        ocs:C5305,
+        ocs:C5702,
+        ocs:C841 .
+

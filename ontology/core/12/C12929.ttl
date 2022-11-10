@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12929 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vectograph> ;
+    skos:prefLabel "Vectograph" ;
+    skos:related ocs:C11774,
+        ocs:C12053,
+        ocs:C13549,
+        ocs:C14023,
+        ocs:C14925,
+        ocs:C221,
+        ocs:C23153,
+        ocs:C2422,
+        ocs:C244,
+        ocs:C2825,
+        ocs:C2883,
+        ocs:C34586,
+        ocs:C36940,
+        ocs:C3816,
+        ocs:C664,
+        ocs:C7910 .
+

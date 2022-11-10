@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33705 a skos:Concept ;
+    skos:broader ocs:C15253,
+        ocs:C17723,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-level_scheduling> ;
+    skos:prefLabel "Two-level scheduling" ;
+    skos:related ocs:C1242,
+        ocs:C15595,
+        ocs:C1910,
+        ocs:C2014,
+        ocs:C2353,
+        ocs:C23926,
+        ocs:C25960,
+        ocs:C2815,
+        ocs:C32786,
+        ocs:C38680,
+        ocs:C40529,
+        ocs:C40787,
+        ocs:C41159,
+        ocs:C41966,
+        ocs:C45029,
+        ocs:C45527,
+        ocs:C45708,
+        ocs:C8704 .
+

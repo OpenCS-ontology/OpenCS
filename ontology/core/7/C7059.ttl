@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7059 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C2,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_button> ;
+    skos:prefLabel "Radio button" ;
+    skos:related ocs:C10096,
+        ocs:C11951,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C13790,
+        ocs:C1787,
+        ocs:C19298,
+        ocs:C2365,
+        ocs:C26700,
+        ocs:C3568,
+        ocs:C3672,
+        ocs:C4253,
+        ocs:C4450,
+        ocs:C5305,
+        ocs:C5702,
+        ocs:C6860,
+        ocs:C7530,
+        ocs:C7736,
+        ocs:C8129 .
+

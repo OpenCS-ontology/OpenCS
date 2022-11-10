@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37046 a skos:Concept ;
+    skos:broader ocs:C15008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dublin_Core> ;
+    skos:prefLabel "Dublin Core" ;
+    skos:related ocs:C11927,
+        ocs:C15008,
+        ocs:C15906,
+        ocs:C17188,
+        ocs:C23088,
+        ocs:C25617,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31929,
+        ocs:C32112,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C4335,
+        ocs:C4500,
+        ocs:C6553,
+        ocs:C6915,
+        ocs:C9836 .
+

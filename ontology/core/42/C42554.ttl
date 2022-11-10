@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42554 a skos:Concept ;
+    skos:broader ocs:C32134,
+        ocs:C34789 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_random_early_detection> ;
+    skos:prefLabel "Weighted random early detection" ;
+    skos:related ocs:C12642,
+        ocs:C15065,
+        ocs:C17625,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24870,
+        ocs:C26,
+        ocs:C3239,
+        ocs:C33900,
+        ocs:C34789,
+        ocs:C36201,
+        ocs:C36873,
+        ocs:C38698,
+        ocs:C38818,
+        ocs:C39948,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C44036,
+        ocs:C45252 .
+

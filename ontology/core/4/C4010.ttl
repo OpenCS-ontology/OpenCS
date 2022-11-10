@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4010 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decidable_sublanguages_of_set_theory> ;
+    skos:prefLabel "Decidable sublanguages of set theory" ;
+    skos:related ocs:C10498,
+        ocs:C10825,
+        ocs:C12346,
+        ocs:C17372,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C29948,
+        ocs:C32454,
+        ocs:C429,
+        ocs:C4756,
+        ocs:C5251,
+        ocs:C810,
+        ocs:C8635 .
+

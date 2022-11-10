@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40369 a skos:Concept ;
+    skos:broader ocs:C30728,
+        ocs:C31794,
+        ocs:C32633,
+        ocs:C32844,
+        ocs:C35532,
+        ocs:C37294 ;
+    skos:prefLabel "Mimo channel capacity" .
+

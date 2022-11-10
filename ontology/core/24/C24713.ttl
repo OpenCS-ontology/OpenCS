@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24713 a skos:Concept ;
+    skos:broader ocs:C7995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vienna_Convention_on_Road_Traffic> ;
+    skos:prefLabel "Vienna Convention on Road Traffic" ;
+    skos:related ocs:C28912,
+        ocs:C30476 .
+

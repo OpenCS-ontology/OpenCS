@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32578 a skos:Concept ;
+    skos:broader ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voltage-controlled_filter> ;
+    skos:prefLabel "Voltage-controlled filter" ;
+    skos:related ocs:C14262,
+        ocs:C21364,
+        ocs:C21717,
+        ocs:C29220,
+        ocs:C40768,
+        ocs:C42625,
+        ocs:C7502,
+        ocs:C8718 .
+

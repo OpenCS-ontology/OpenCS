@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17725 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_map> ;
+    skos:prefLabel "Standard map" ;
+    skos:related ocs:C13992,
+        ocs:C14375,
+        ocs:C14592,
+        ocs:C15405,
+        ocs:C16955,
+        ocs:C17729,
+        ocs:C23029,
+        ocs:C24384,
+        ocs:C27040,
+        ocs:C29662,
+        ocs:C30833,
+        ocs:C37144 .
+

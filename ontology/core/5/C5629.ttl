@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5629 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IOS_XR> ;
+    skos:prefLabel "Cisco IOS XR" ;
+    skos:related ocs:C11,
+        ocs:C11106,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C20540,
+        ocs:C20800,
+        ocs:C23922,
+        ocs:C2492,
+        ocs:C26097,
+        ocs:C34800,
+        ocs:C42853,
+        ocs:C44,
+        ocs:C5840,
+        ocs:C6703,
+        ocs:C8148,
+        ocs:C9 .
+

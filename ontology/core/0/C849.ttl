@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C849 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autonomous_system_(Internet)> ;
+    skos:prefLabel "Autonomous system (Internet)" ;
+    skos:related ocs:C10563,
+        ocs:C13522,
+        ocs:C14321,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C21894,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C26450,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C37035,
+        ocs:C38451,
+        ocs:C39681,
+        ocs:C41442,
+        ocs:C42853,
+        ocs:C43015,
+        ocs:C44229,
+        ocs:C45517,
+        ocs:C8614 .
+

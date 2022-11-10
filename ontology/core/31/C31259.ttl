@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31259 a skos:Concept ;
+    skos:broader ocs:C25033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modularity_of_mind> ;
+    skos:prefLabel "Modularity of mind" ;
+    skos:related ocs:C25033,
+        ocs:C30276,
+        ocs:C35968 .
+

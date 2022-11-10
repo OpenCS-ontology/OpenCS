@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34193 a skos:Concept ;
+    skos:broader ocs:C19876 ;
+    skos:closeMatch <http://dbpedia.org/resource/MPICH> ;
+    skos:prefLabel "MPICH" ;
+    skos:related ocs:C10822,
+        ocs:C12690,
+        ocs:C13113,
+        ocs:C17626,
+        ocs:C19876,
+        ocs:C26030,
+        ocs:C27,
+        ocs:C31489,
+        ocs:C36579,
+        ocs:C42619,
+        ocs:C45518,
+        ocs:C5766,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9,
+        ocs:C9872 .
+

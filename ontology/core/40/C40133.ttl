@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40133 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C31925,
+        ocs:C35076,
+        ocs:C36104,
+        ocs:C36964 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean-valued_function> ;
+    skos:prefLabel "Boolean-valued function" ;
+    skos:related ocs:C1,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C12023,
+        ocs:C14103,
+        ocs:C22333,
+        ocs:C2418,
+        ocs:C2978,
+        ocs:C36104,
+        ocs:C3894,
+        ocs:C40719,
+        ocs:C4073,
+        ocs:C42338,
+        ocs:C44499,
+        ocs:C5032,
+        ocs:C524,
+        ocs:C8077,
+        ocs:C8697 .
+

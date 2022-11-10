@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9001 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:prefLabel "Subscriber - self" ;
+    skos:related ocs:C1,
+        ocs:C26,
+        ocs:C3236 .
+

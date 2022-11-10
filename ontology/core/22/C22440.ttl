@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22440 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oecophylla_smaragdina> ;
+    skos:prefLabel "Oecophylla smaragdina" ;
+    skos:related ocs:C18735,
+        ocs:C19019,
+        ocs:C21653,
+        ocs:C27372,
+        ocs:C28251,
+        ocs:C30805,
+        ocs:C34823,
+        ocs:C34831,
+        ocs:C36748 .
+

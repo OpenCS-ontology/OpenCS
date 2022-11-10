@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27285 a skos:Concept ;
+    skos:broader ocs:C6943 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sparse_image> ;
+    skos:prefLabel "Sparse image" ;
+    skos:related ocs:C10447,
+        ocs:C10682,
+        ocs:C12060,
+        ocs:C13875,
+        ocs:C24871,
+        ocs:C32126,
+        ocs:C40478,
+        ocs:C42399,
+        ocs:C5702,
+        ocs:C7476,
+        ocs:C9938 .
+

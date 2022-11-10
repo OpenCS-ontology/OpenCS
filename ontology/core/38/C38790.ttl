@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38790 a skos:Concept ;
+    skos:broader ocs:C35697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonvolatile_BIOS_memory> ;
+    skos:prefLabel "Nonvolatile BIOS memory" ;
+    skos:related ocs:C10223,
+        ocs:C10568,
+        ocs:C13022,
+        ocs:C13875,
+        ocs:C1904,
+        ocs:C19481,
+        ocs:C21617,
+        ocs:C23251,
+        ocs:C3118,
+        ocs:C3231,
+        ocs:C4259,
+        ocs:C43462,
+        ocs:C74 .
+

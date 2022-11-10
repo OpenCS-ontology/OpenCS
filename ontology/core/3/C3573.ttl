@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3573 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C22,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Procedural_modeling> ;
+    skos:prefLabel "Procedural modeling" ;
+    skos:related ocs:C10,
+        ocs:C10426,
+        ocs:C12577,
+        ocs:C13852,
+        ocs:C16068,
+        ocs:C17902,
+        ocs:C18367,
+        ocs:C18519,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23750,
+        ocs:C32378,
+        ocs:C35225,
+        ocs:C6448,
+        ocs:C8399 .
+

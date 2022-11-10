@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1891 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ssh-keygen> ;
+    skos:prefLabel "ssh-keygen" ;
+    skos:related ocs:C13632,
+        ocs:C16125,
+        ocs:C16980,
+        ocs:C18948,
+        ocs:C23151,
+        ocs:C27571,
+        ocs:C28637,
+        ocs:C31037,
+        ocs:C32484,
+        ocs:C36231,
+        ocs:C37228,
+        ocs:C38359,
+        ocs:C39017,
+        ocs:C4218,
+        ocs:C43074,
+        ocs:C44017,
+        ocs:C45187,
+        ocs:C45216,
+        ocs:C8437 .
+

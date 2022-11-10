@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8203 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Table_of_contents> ;
+    skos:prefLabel "Table of contents" ;
+    skos:related ocs:C10220,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C13577,
+        ocs:C26337,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C3896,
+        ocs:C4443,
+        ocs:C5057,
+        ocs:C5477,
+        ocs:C5746,
+        ocs:C6852,
+        ocs:C8614,
+        ocs:C8915 .
+

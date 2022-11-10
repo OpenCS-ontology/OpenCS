@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8989 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Location_information_server> ;
+    skos:prefLabel "Location information server" ;
+    skos:related ocs:C12307,
+        ocs:C12308,
+        ocs:C13695,
+        ocs:C1398,
+        ocs:C16022,
+        ocs:C20314,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C30757,
+        ocs:C30890,
+        ocs:C35370,
+        ocs:C36678,
+        ocs:C4987,
+        ocs:C6821,
+        ocs:C8515,
+        ocs:C8614 .
+

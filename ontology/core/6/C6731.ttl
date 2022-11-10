@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6731 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_transmission_group> ;
+    skos:prefLabel "Digital transmission group" ;
+    skos:related ocs:C12942,
+        ocs:C20151,
+        ocs:C23155,
+        ocs:C24781,
+        ocs:C26734,
+        ocs:C28561,
+        ocs:C30667,
+        ocs:C31109,
+        ocs:C37232,
+        ocs:C40954,
+        ocs:C4099,
+        ocs:C43465,
+        ocs:C515,
+        ocs:C8410 .
+

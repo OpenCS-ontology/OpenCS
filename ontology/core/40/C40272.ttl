@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40272 a skos:Concept ;
+    skos:broader ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed-priority_pre-emptive_scheduling> ;
+    skos:prefLabel "Fixed-priority pre-emptive scheduling" ;
+    skos:related ocs:C11,
+        ocs:C12984,
+        ocs:C1396,
+        ocs:C15595,
+        ocs:C20800,
+        ocs:C2353,
+        ocs:C2750,
+        ocs:C33,
+        ocs:C37367,
+        ocs:C42251,
+        ocs:C43283,
+        ocs:C45363,
+        ocs:C5861,
+        ocs:C5912,
+        ocs:C8204,
+        ocs:C8704,
+        ocs:C9,
+        ocs:C9262 .
+

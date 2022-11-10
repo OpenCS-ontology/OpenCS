@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15395 a skos:Concept ;
+    skos:broader ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physical_unclonable_function> ;
+    skos:prefLabel "Physical unclonable function" ;
+    skos:related ocs:C10803,
+        ocs:C14164,
+        ocs:C19151,
+        ocs:C19521,
+        ocs:C20978,
+        ocs:C21383,
+        ocs:C21553,
+        ocs:C21625,
+        ocs:C23875,
+        ocs:C33857,
+        ocs:C38723,
+        ocs:C4218,
+        ocs:C42551,
+        ocs:C43005,
+        ocs:C5930,
+        ocs:C7225,
+        ocs:C7292 .
+

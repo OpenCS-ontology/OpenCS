@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43609 a skos:Concept ;
+    skos:broader ocs:C37597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal_variance-mean_mixture> ;
+    skos:prefLabel "Normal variance-mean mixture" ;
+    skos:related ocs:C14100,
+        ocs:C16163,
+        ocs:C1844,
+        ocs:C21356,
+        ocs:C22092,
+        ocs:C34746,
+        ocs:C39273,
+        ocs:C39274,
+        ocs:C40060,
+        ocs:C45643 .
+

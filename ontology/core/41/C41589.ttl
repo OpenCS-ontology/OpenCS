@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41589 a skos:Concept ;
+    skos:broader ocs:C31695,
+        ocs:C32289,
+        ocs:C33141,
+        ocs:C35397,
+        ocs:C36409 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_kernel> ;
+    skos:prefLabel "Graph kernel" ;
+    skos:related ocs:C17313,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25201,
+        ocs:C32289,
+        ocs:C33141,
+        ocs:C34006,
+        ocs:C35397,
+        ocs:C36403,
+        ocs:C38643,
+        ocs:C38984,
+        ocs:C41275,
+        ocs:C41418,
+        ocs:C45844,
+        ocs:C9022,
+        ocs:C9538 .
+

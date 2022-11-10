@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10684 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/RAM_parity> ;
+    skos:prefLabel "RAM parity" ;
+    skos:related ocs:C12485,
+        ocs:C13875,
+        ocs:C14144,
+        ocs:C14162,
+        ocs:C15912,
+        ocs:C21929,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27019,
+        ocs:C27610,
+        ocs:C29183,
+        ocs:C3231,
+        ocs:C33838,
+        ocs:C37483,
+        ocs:C39218,
+        ocs:C6798,
+        ocs:C8613 .
+

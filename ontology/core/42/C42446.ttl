@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42446 a skos:Concept ;
+    skos:broader ocs:C33054 ;
+    skos:closeMatch <http://dbpedia.org/resource/ANCAP_(commodity_standard)> ;
+    skos:prefLabel "ANCAP" ;
+    skos:related ocs:C23245,
+        ocs:C41120 .
+

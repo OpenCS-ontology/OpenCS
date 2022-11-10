@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35368 a skos:Concept ;
+    skos:broader ocs:C13880,
+        ocs:C25024,
+        ocs:C25044,
+        ocs:C28340,
+        ocs:C29280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit-reversal_permutation> ;
+    skos:prefLabel "Bit-reversal permutation" ;
+    skos:related ocs:C11282,
+        ocs:C11443,
+        ocs:C16150,
+        ocs:C31106,
+        ocs:C3931,
+        ocs:C40868,
+        ocs:C43280,
+        ocs:C45071,
+        ocs:C45372 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34399 a skos:Concept ;
+    skos:broader ocs:C15117 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rectified_Gaussian_distribution> ;
+    skos:prefLabel "Rectified Gaussian distribution" ;
+    skos:related ocs:C16163,
+        ocs:C1844,
+        ocs:C33009 .
+

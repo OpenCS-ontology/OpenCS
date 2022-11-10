@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28939 a skos:Concept ;
+    skos:broader ocs:C13058,
+        ocs:C4099,
+        ocs:C7312 ;
+    skos:closeMatch <http://dbpedia.org/resource/SINCGARS> ;
+    skos:prefLabel "SINCGARS" ;
+    skos:related ocs:C12641,
+        ocs:C1265,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C21417,
+        ocs:C24312,
+        ocs:C30503,
+        ocs:C37386,
+        ocs:C41370,
+        ocs:C43515,
+        ocs:C4473,
+        ocs:C5692,
+        ocs:C7216 .
+

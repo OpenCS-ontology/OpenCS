@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31889 a skos:Concept ;
+    skos:broader ocs:C19994 ;
+    skos:closeMatch <http://dbpedia.org/resource/Texas_Instruments_TMS320> ;
+    skos:prefLabel "Texas Instruments TMS320" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C15336,
+        ocs:C19487,
+        ocs:C19556,
+        ocs:C19994,
+        ocs:C26328,
+        ocs:C29530,
+        ocs:C6172,
+        ocs:C6447,
+        ocs:C7165,
+        ocs:C856,
+        ocs:C8579,
+        ocs:C9 .
+

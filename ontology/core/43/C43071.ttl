@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43071 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Architectural_geometry> ;
+    skos:prefLabel "Architectural geometry" ;
+    skos:related ocs:C11072,
+        ocs:C12448,
+        ocs:C2115,
+        ocs:C23146,
+        ocs:C3345,
+        ocs:C3443,
+        ocs:C4645,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8324,
+        ocs:C8399,
+        ocs:C9606 .
+

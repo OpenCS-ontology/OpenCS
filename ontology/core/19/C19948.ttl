@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19948 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apparent_retrograde_motion> ;
+    skos:prefLabel "Apparent retrograde motion" ;
+    skos:related ocs:C14270,
+        ocs:C597 .
+

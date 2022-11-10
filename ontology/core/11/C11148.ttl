@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11148 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call_duration> ;
+    skos:prefLabel "Call duration" ;
+    skos:related ocs:C26818,
+        ocs:C30567,
+        ocs:C38619,
+        ocs:C4197 .
+

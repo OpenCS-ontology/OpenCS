@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37039 a skos:Concept ;
+    skos:broader ocs:C15258,
+        ocs:C23664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brown–Forsythe_test> ;
+    skos:prefLabel "Brown–Forsythe test" ;
+    skos:related ocs:C11767,
+        ocs:C15258,
+        ocs:C18968,
+        ocs:C20979,
+        ocs:C23264,
+        ocs:C25294,
+        ocs:C37937,
+        ocs:C43372,
+        ocs:C7908,
+        ocs:C82 .
+

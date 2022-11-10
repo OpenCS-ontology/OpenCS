@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20670 a skos:Concept ;
+    skos:broader ocs:C12075 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topological_data_analysis> ;
+    skos:prefLabel "Topological data analysis" ;
+    skos:related ocs:C11189,
+        ocs:C1412,
+        ocs:C17860,
+        ocs:C23363,
+        ocs:C34507,
+        ocs:C3518 .
+

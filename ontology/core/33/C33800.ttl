@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33800 a skos:Concept ;
+    skos:broader ocs:C14322,
+        ocs:C17561,
+        ocs:C18790,
+        ocs:C26690 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adjusted_mutual_information> ;
+    skos:prefLabel "Adjusted mutual information" ;
+    skos:related ocs:C10767,
+        ocs:C13874,
+        ocs:C14322,
+        ocs:C17561,
+        ocs:C18790,
+        ocs:C19099,
+        ocs:C21471,
+        ocs:C24172,
+        ocs:C25862,
+        ocs:C26690,
+        ocs:C27705,
+        ocs:C43296,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9268 .
+

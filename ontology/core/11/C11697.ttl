@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11697 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Factoring_(finance)> ;
+    skos:prefLabel "Factoring" ;
+    skos:related ocs:C14059,
+        ocs:C14584,
+        ocs:C22671,
+        ocs:C22677,
+        ocs:C24050 .
+

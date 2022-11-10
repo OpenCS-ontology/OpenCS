@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8443 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_gain_ratio> ;
+    skos:prefLabel "Information gain ratio" ;
+    skos:related ocs:C10767,
+        ocs:C11030,
+        ocs:C13874,
+        ocs:C16990,
+        ocs:C21931,
+        ocs:C22264,
+        ocs:C24136,
+        ocs:C25196,
+        ocs:C25462,
+        ocs:C25520,
+        ocs:C39283,
+        ocs:C41777,
+        ocs:C41937,
+        ocs:C45455,
+        ocs:C5816,
+        ocs:C7803,
+        ocs:C8332,
+        ocs:C9268 .
+

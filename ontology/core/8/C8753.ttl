@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8753 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computation> ;
+    skos:prefLabel "Computation" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10320,
+        ocs:C11885,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C22100,
+        ocs:C25,
+        ocs:C27,
+        ocs:C29,
+        ocs:C3678,
+        ocs:C6072,
+        ocs:C6941,
+        ocs:C7256,
+        ocs:C8,
+        ocs:C8791 .
+

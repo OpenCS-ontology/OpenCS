@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31464 a skos:Concept ;
+    skos:broader ocs:C22524,
+        ocs:C29390 ;
+    skos:closeMatch <http://dbpedia.org/resource/MiroSurge> ;
+    skos:prefLabel "MiroSurge" ;
+    skos:related ocs:C10396,
+        ocs:C11255,
+        ocs:C12976,
+        ocs:C13727,
+        ocs:C17816,
+        ocs:C22524,
+        ocs:C29070,
+        ocs:C29532,
+        ocs:C31957,
+        ocs:C32424,
+        ocs:C34508,
+        ocs:C36737 .
+

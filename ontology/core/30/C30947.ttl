@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30947 a skos:Concept ;
+    skos:broader ocs:C20809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_leveling> ;
+    skos:prefLabel "Resource leveling" ;
+    skos:related ocs:C13143,
+        ocs:C20086,
+        ocs:C20809,
+        ocs:C30932,
+        ocs:C41097,
+        ocs:C44198,
+        ocs:C7056,
+        ocs:C7358,
+        ocs:C9483 .
+

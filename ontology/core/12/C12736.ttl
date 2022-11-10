@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12736 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_intelligence> ;
+    skos:prefLabel "Business intelligence" ;
+    skos:related ocs:C10764,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C12238,
+        ocs:C1253,
+        ocs:C12694,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C18025,
+        ocs:C197,
+        ocs:C20446,
+        ocs:C35701,
+        ocs:C37135,
+        ocs:C3896,
+        ocs:C44052,
+        ocs:C4768,
+        ocs:C6,
+        ocs:C7106,
+        ocs:C9488,
+        ocs:C9874 .
+

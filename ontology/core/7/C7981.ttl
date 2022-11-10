@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7981 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tone_reproduction> ;
+    skos:prefLabel "Tone reproduction" ;
+    skos:related ocs:C1935,
+        ocs:C32992,
+        ocs:C34257,
+        ocs:C3743,
+        ocs:C5469,
+        ocs:C6179,
+        ocs:C6257,
+        ocs:C6444,
+        ocs:C6942,
+        ocs:C740 .
+

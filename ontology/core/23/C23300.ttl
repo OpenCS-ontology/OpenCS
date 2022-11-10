@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23300 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thematic_relation> ;
+    skos:prefLabel "Thematic relation" ;
+    skos:related ocs:C1034,
+        ocs:C12270,
+        ocs:C14181,
+        ocs:C16230,
+        ocs:C16635,
+        ocs:C16672,
+        ocs:C1739,
+        ocs:C18082,
+        ocs:C1952,
+        ocs:C21271,
+        ocs:C24499,
+        ocs:C29004,
+        ocs:C30451,
+        ocs:C3261,
+        ocs:C5311,
+        ocs:C6545,
+        ocs:C9533 .
+

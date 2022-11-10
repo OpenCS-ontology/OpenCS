@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43819 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schematron> ;
+    skos:prefLabel "Schematron" ;
+    skos:related ocs:C11927,
+        ocs:C16159,
+        ocs:C17170,
+        ocs:C18361,
+        ocs:C23027,
+        ocs:C23709,
+        ocs:C28801,
+        ocs:C31343,
+        ocs:C33052,
+        ocs:C33079,
+        ocs:C33709,
+        ocs:C36924,
+        ocs:C40354,
+        ocs:C42905,
+        ocs:C43834,
+        ocs:C44049,
+        ocs:C44193,
+        ocs:C44536,
+        ocs:C44843 .
+

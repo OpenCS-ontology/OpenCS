@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33502 a skos:Concept ;
+    skos:broader ocs:C14099,
+        ocs:C19721,
+        ocs:C24264 ;
+    skos:prefLabel "Transmitter diversity" .
+

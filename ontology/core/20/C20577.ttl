@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20577 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Empty_category> ;
+    skos:prefLabel "Empty category" ;
+    skos:related ocs:C1034,
+        ocs:C12270,
+        ocs:C15202,
+        ocs:C18082,
+        ocs:C21429,
+        ocs:C21811,
+        ocs:C22961,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25761,
+        ocs:C27994,
+        ocs:C28817,
+        ocs:C30451,
+        ocs:C32138,
+        ocs:C34287,
+        ocs:C3474,
+        ocs:C42812,
+        ocs:C6764 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18804 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Permutohedron> ;
+    skos:prefLabel "Permutohedron" ;
+    skos:related ocs:C11282,
+        ocs:C25044,
+        ocs:C33802,
+        ocs:C34394,
+        ocs:C37833,
+        ocs:C38990,
+        ocs:C43720,
+        ocs:C9372 .
+

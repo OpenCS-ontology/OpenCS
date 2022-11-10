@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19475 a skos:Concept ;
+    skos:broader ocs:C10377 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_integrity> ;
+    skos:prefLabel "Power integrity" ;
+    skos:related ocs:C10377,
+        ocs:C1564,
+        ocs:C254,
+        ocs:C2975,
+        ocs:C5369,
+        ocs:C5397,
+        ocs:C5511 .
+

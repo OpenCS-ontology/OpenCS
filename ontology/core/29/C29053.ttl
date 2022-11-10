@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29053 a skos:Concept ;
+    skos:broader ocs:C9066 ;
+    skos:prefLabel "Missile wound" ;
+    skos:related ocs:C22796,
+        ocs:C9066 .
+

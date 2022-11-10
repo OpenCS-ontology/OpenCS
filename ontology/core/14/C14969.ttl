@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14969 a skos:Concept ;
+    skos:broader ocs:C11767,
+        ocs:C4697 ;
+    skos:prefLabel "Estelite sigma" ;
+    skos:related ocs:C14490,
+        ocs:C14910,
+        ocs:C24626 .
+

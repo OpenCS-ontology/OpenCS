@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5085 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dependence_analysis> ;
+    skos:prefLabel "Dependence analysis" ;
+    skos:related ocs:C1,
+        ocs:C14467,
+        ocs:C15465,
+        ocs:C17089,
+        ocs:C18617,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C23854,
+        ocs:C33100,
+        ocs:C36309,
+        ocs:C40582,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C6714,
+        ocs:C8131 .
+

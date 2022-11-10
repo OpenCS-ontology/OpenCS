@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43824 a skos:Concept ;
+    skos:broader ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniform_absolute-convergence> ;
+    skos:prefLabel "Uniform absolute-convergence" ;
+    skos:related ocs:C15454,
+        ocs:C16025,
+        ocs:C16568,
+        ocs:C18280,
+        ocs:C23927,
+        ocs:C24810,
+        ocs:C27189,
+        ocs:C30139,
+        ocs:C30602,
+        ocs:C38482,
+        ocs:C40340,
+        ocs:C44482 .
+

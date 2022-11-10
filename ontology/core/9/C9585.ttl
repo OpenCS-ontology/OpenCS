@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9585 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Informationist> ;
+    skos:prefLabel "Informationist" ;
+    skos:related ocs:C11763,
+        ocs:C13078,
+        ocs:C23629,
+        ocs:C2426,
+        ocs:C4184,
+        ocs:C448,
+        ocs:C703 .
+

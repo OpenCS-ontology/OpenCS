@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20803 a skos:Concept ;
+    skos:broader ocs:C13686,
+        ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_expression> ;
+    skos:prefLabel "Boolean expression" ;
+    skos:related ocs:C11283,
+        ocs:C11635,
+        ocs:C12023,
+        ocs:C13686,
+        ocs:C13855,
+        ocs:C19,
+        ocs:C22706,
+        ocs:C27882,
+        ocs:C29529,
+        ocs:C36104,
+        ocs:C3894,
+        ocs:C39136,
+        ocs:C4073,
+        ocs:C4149,
+        ocs:C45339,
+        ocs:C45430,
+        ocs:C4869,
+        ocs:C5280,
+        ocs:C6714,
+        ocs:C9450 .
+

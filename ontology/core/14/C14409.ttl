@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14409 a skos:Concept ;
+    skos:broader ocs:C5064 ;
+    skos:closeMatch <http://dbpedia.org/resource/Psychological_refractory_period> ;
+    skos:prefLabel "Psychological refractory period" ;
+    skos:related ocs:C4171 .
+

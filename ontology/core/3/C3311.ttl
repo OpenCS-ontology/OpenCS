@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3311 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/8250_UART> ;
+    skos:prefLabel "8250 UART" ;
+    skos:related ocs:C10568,
+        ocs:C13022,
+        ocs:C17404,
+        ocs:C19481,
+        ocs:C23251,
+        ocs:C27283,
+        ocs:C5557,
+        ocs:C5991,
+        ocs:C6403,
+        ocs:C7647,
+        ocs:C8024,
+        ocs:C8345,
+        ocs:C9433 .
+

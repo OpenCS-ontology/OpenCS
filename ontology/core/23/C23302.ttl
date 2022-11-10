@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23302 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C6822 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_message_length> ;
+    skos:prefLabel "Minimum message length" ;
+    skos:related ocs:C1021,
+        ocs:C10551,
+        ocs:C10767,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C1834,
+        ocs:C20374,
+        ocs:C25,
+        ocs:C26398,
+        ocs:C33736,
+        ocs:C34894,
+        ocs:C36758,
+        ocs:C5093,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C6822,
+        ocs:C6880,
+        ocs:C7282 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36138 a skos:Concept ;
+    skos:broader ocs:C26483,
+        ocs:C28712 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dastar> ;
+    skos:prefLabel "Dastar" ;
+    skos:related ocs:C4169,
+        ocs:C7930 .
+

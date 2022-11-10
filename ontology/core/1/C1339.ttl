@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1339 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/BLEU> ;
+    skos:prefLabel "BLEU" ;
+    skos:related ocs:C1034,
+        ocs:C11386,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1444,
+        ocs:C19194,
+        ocs:C24011,
+        ocs:C28097,
+        ocs:C28527,
+        ocs:C2884,
+        ocs:C31163,
+        ocs:C32,
+        ocs:C3612,
+        ocs:C39236,
+        ocs:C45335,
+        ocs:C4982,
+        ocs:C5852,
+        ocs:C6947,
+        ocs:C9106,
+        ocs:C961 .
+

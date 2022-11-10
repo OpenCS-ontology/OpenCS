@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36166 a skos:Concept ;
+    skos:broader ocs:C21934 ;
+    skos:closeMatch <http://dbpedia.org/resource/Singular_function> ;
+    skos:prefLabel "Singular function" ;
+    skos:related ocs:C1844,
+        ocs:C19105,
+        ocs:C28787,
+        ocs:C9326 .
+

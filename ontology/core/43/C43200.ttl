@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43200 a skos:Concept ;
+    skos:broader ocs:C30109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hertzsprung_gap> ;
+    skos:prefLabel "Hertzsprung gap" ;
+    skos:related ocs:C21307,
+        ocs:C21884,
+        ocs:C22649,
+        ocs:C23210,
+        ocs:C24129,
+        ocs:C25586,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C31120,
+        ocs:C31399,
+        ocs:C31785,
+        ocs:C32483,
+        ocs:C35893,
+        ocs:C38445 .
+

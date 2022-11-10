@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32427 a skos:Concept ;
+    skos:broader ocs:C15479 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hemicube_(geometry)> ;
+    skos:prefLabel "Hemicube" ;
+    skos:related ocs:C22433,
+        ocs:C29942,
+        ocs:C38990,
+        ocs:C39263,
+        ocs:C43720 .
+

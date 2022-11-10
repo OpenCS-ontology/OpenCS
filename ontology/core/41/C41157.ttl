@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41157 a skos:Concept ;
+    skos:broader ocs:C31018,
+        ocs:C31195,
+        ocs:C31362,
+        ocs:C33011,
+        ocs:C33187 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudo-differential_operator> ;
+    skos:prefLabel "Pseudo-differential operator" ;
+    skos:related ocs:C11150,
+        ocs:C14918,
+        ocs:C14997,
+        ocs:C16744,
+        ocs:C20390,
+        ocs:C21934,
+        ocs:C28787,
+        ocs:C31018,
+        ocs:C33011,
+        ocs:C35612,
+        ocs:C40469 .
+

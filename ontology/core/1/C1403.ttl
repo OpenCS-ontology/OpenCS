@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1403 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collective_wisdom> ;
+    skos:prefLabel "Collective wisdom" ;
+    skos:related ocs:C10519,
+        ocs:C11290,
+        ocs:C12146,
+        ocs:C13108,
+        ocs:C1939,
+        ocs:C20049,
+        ocs:C27771,
+        ocs:C33198,
+        ocs:C5140 .
+

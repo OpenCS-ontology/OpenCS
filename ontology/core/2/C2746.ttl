@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2746 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regret_(decision_theory)> ;
+    skos:prefLabel "Regret" ;
+    skos:related ocs:C13685,
+        ocs:C22258,
+        ocs:C25862,
+        ocs:C28077,
+        ocs:C28722,
+        ocs:C29461,
+        ocs:C31804,
+        ocs:C34590,
+        ocs:C3753,
+        ocs:C39749,
+        ocs:C4594 .
+

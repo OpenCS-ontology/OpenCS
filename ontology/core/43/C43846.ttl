@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43846 a skos:Concept ;
+    skos:broader ocs:C32289,
+        ocs:C33141,
+        ocs:C35397 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kernel_(set_theory)> ;
+    skos:prefLabel "Kernel (set theory)" ;
+    skos:related ocs:C11771,
+        ocs:C18277,
+        ocs:C20124,
+        ocs:C26261 .
+

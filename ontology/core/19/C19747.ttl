@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19747 a skos:Concept ;
+    skos:broader ocs:C6949 ;
+    skos:closeMatch <http://dbpedia.org/resource/Revelation_principle> ;
+    skos:prefLabel "Revelation principle" ;
+    skos:related ocs:C19168,
+        ocs:C20813,
+        ocs:C37310,
+        ocs:C6949 .
+

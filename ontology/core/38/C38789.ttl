@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38789 a skos:Concept ;
+    skos:broader ocs:C30533,
+        ocs:C34565,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balinski's_theorem> ;
+    skos:prefLabel "Balinski's theorem" ;
+    skos:related ocs:C14693,
+        ocs:C15097,
+        ocs:C30730,
+        ocs:C32727,
+        ocs:C35958,
+        ocs:C36406,
+        ocs:C39885,
+        ocs:C39982,
+        ocs:C40694,
+        ocs:C41573,
+        ocs:C41759,
+        ocs:C42848,
+        ocs:C44460 .
+

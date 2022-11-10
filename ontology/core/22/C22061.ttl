@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22061 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lead_shielding> ;
+    skos:prefLabel "Lead shielding" ;
+    skos:related ocs:C25787,
+        ocs:C26944 .
+

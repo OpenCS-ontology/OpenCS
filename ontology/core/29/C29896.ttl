@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29896 a skos:Concept ;
+    skos:broader ocs:C15666,
+        ocs:C25871,
+        ocs:C26034 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_Wide_Information_Management> ;
+    skos:prefLabel "System Wide Information Management" ;
+    skos:related ocs:C11301,
+        ocs:C14308,
+        ocs:C15050,
+        ocs:C15666,
+        ocs:C16585,
+        ocs:C18229,
+        ocs:C23082,
+        ocs:C2438,
+        ocs:C25871,
+        ocs:C26034,
+        ocs:C28140,
+        ocs:C30040,
+        ocs:C32563,
+        ocs:C33217,
+        ocs:C38891,
+        ocs:C41676,
+        ocs:C4597 .
+

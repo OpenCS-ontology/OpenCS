@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41273 a skos:Concept ;
+    skos:broader ocs:C30476 ;
+    skos:closeMatch <http://dbpedia.org/resource/WIPO_Copyright_Treaty> ;
+    skos:prefLabel "WIPO Copyright Treaty" ;
+    skos:related ocs:C15143,
+        ocs:C28912,
+        ocs:C30476,
+        ocs:C32165,
+        ocs:C41874,
+        ocs:C44209 .
+

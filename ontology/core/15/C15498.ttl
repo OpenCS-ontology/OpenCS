@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15498 a skos:Concept ;
+    skos:broader ocs:C747 ;
+    skos:prefLabel "Brightness discrimination" ;
+    skos:related ocs:C21,
+        ocs:C5430,
+        ocs:C6420,
+        ocs:C747 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26548 a skos:Concept ;
+    skos:broader ocs:C10382 ;
+    skos:prefLabel "Spatial cluster analysis" ;
+    skos:related ocs:C26767,
+        ocs:C3401,
+        ocs:C5660 .
+

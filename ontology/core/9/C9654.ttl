@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9654 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Videocipher> ;
+    skos:prefLabel "Videocipher" ;
+    skos:related ocs:C12544,
+        ocs:C13994,
+        ocs:C17661,
+        ocs:C18878,
+        ocs:C2581,
+        ocs:C27103,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C3522,
+        ocs:C36807,
+        ocs:C37869,
+        ocs:C37973,
+        ocs:C43089,
+        ocs:C4433,
+        ocs:C44963,
+        ocs:C8351,
+        ocs:C9045 .
+

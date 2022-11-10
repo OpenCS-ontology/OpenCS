@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36899 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trirectangular_tetrahedron> ;
+    skos:prefLabel "Trirectangular tetrahedron" ;
+    skos:related ocs:C32462,
+        ocs:C33135 .
+

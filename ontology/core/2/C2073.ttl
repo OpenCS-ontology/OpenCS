@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2073 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specialization_of_knowledge> ;
+    skos:prefLabel "Specialization of knowledge" ;
+    skos:related ocs:C2062,
+        ocs:C3835,
+        ocs:C6290,
+        ocs:C7406 .
+

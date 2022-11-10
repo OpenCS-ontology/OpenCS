@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18669 a skos:Concept ;
+    skos:broader ocs:C12098,
+        ocs:C2469,
+        ocs:C7689 ;
+    skos:prefLabel "Stochastic logic" .
+

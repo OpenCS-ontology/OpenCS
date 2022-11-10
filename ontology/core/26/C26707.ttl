@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26707 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise-equivalent_temperature> ;
+    skos:prefLabel "Noise-equivalent temperature" ;
+    skos:related ocs:C11747,
+        ocs:C19353,
+        ocs:C22118,
+        ocs:C31411,
+        ocs:C32531,
+        ocs:C32748,
+        ocs:C36416 .
+

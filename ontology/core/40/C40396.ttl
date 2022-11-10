@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40396 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_inspection> ;
+    skos:prefLabel "Software inspection" ;
+    skos:related ocs:C12257,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C23580,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C31890,
+        ocs:C31984,
+        ocs:C37174,
+        ocs:C38023,
+        ocs:C38570,
+        ocs:C39522,
+        ocs:C40979,
+        ocs:C41038,
+        ocs:C41111,
+        ocs:C44964,
+        ocs:C45212,
+        ocs:C45544,
+        ocs:C8183 .
+

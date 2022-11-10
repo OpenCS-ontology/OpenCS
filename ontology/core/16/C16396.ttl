@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16396 a skos:Concept ;
+    skos:broader ocs:C2933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orbital_state_vectors> ;
+    skos:prefLabel "Orbital state vectors" ;
+    skos:related ocs:C28337,
+        ocs:C28891,
+        ocs:C37916 .
+

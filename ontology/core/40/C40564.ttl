@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40564 a skos:Concept ;
+    skos:broader ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch_trace> ;
+    skos:prefLabel "Branch trace" ;
+    skos:related ocs:C12683,
+        ocs:C17204,
+        ocs:C19699,
+        ocs:C2649,
+        ocs:C31771,
+        ocs:C35529,
+        ocs:C42977,
+        ocs:C4321,
+        ocs:C5041,
+        ocs:C6072,
+        ocs:C7431,
+        ocs:C7529,
+        ocs:C8783 .
+

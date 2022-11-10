@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17693 a skos:Concept ;
+    skos:broader ocs:C12690 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenSPARC> ;
+    skos:prefLabel "OpenSPARC" ;
+    skos:related ocs:C10320,
+        ocs:C11582,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C18114,
+        ocs:C23473,
+        ocs:C27,
+        ocs:C28409,
+        ocs:C28515,
+        ocs:C29969,
+        ocs:C34465,
+        ocs:C3981,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C856 .
+

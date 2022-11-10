@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3529 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bongard_problem> ;
+    skos:prefLabel "Bongard problem" ;
+    skos:related ocs:C11030,
+        ocs:C13677,
+        ocs:C20941,
+        ocs:C21,
+        ocs:C25,
+        ocs:C36403,
+        ocs:C431,
+        ocs:C9031 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1131 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airplay> ;
+    skos:prefLabel "Airplay" ;
+    skos:related ocs:C11254,
+        ocs:C15505,
+        ocs:C24238,
+        ocs:C520,
+        ocs:C7255 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16345 a skos:Concept ;
+    skos:broader ocs:C7310 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tangor> ;
+    skos:prefLabel "Tangor" ;
+    skos:related ocs:C16367,
+        ocs:C18090,
+        ocs:C24340,
+        ocs:C28650 .
+

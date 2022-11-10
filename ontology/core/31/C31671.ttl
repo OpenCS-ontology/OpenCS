@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31671 a skos:Concept ;
+    skos:broader ocs:C14622,
+        ocs:C23865,
+        ocs:C23888,
+        ocs:C25285 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dependent_Dirichlet_process> ;
+    skos:prefLabel "Dependent Dirichlet process" .
+

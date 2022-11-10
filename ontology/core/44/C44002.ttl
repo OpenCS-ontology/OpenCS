@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44002 a skos:Concept ;
+    skos:broader ocs:C30507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Banach_bundle> ;
+    skos:prefLabel "Banach bundle" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C39288,
+        ocs:C39433 .
+

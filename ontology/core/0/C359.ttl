@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C359 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Processing priority" ;
+    skos:related ocs:C12431,
+        ocs:C1940,
+        ocs:C2,
+        ocs:C24859,
+        ocs:C3,
+        ocs:C30,
+        ocs:C33,
+        ocs:C35,
+        ocs:C4099,
+        ocs:C6408,
+        ocs:C8021,
+        ocs:C8704,
+        ocs:C8706,
+        ocs:C9113,
+        ocs:C9380 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28145 a skos:Concept ;
+    skos:broader ocs:C10768 ;
+    skos:prefLabel "Vocal function" ;
+    skos:related ocs:C16,
+        ocs:C2300,
+        ocs:C28019,
+        ocs:C5506 .
+

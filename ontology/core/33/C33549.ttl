@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33549 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_escrow> ;
+    skos:prefLabel "Key escrow" ;
+    skos:related ocs:C14539,
+        ocs:C16125,
+        ocs:C17091,
+        ocs:C17900,
+        ocs:C21324,
+        ocs:C23666,
+        ocs:C25340,
+        ocs:C25749,
+        ocs:C29363,
+        ocs:C30595,
+        ocs:C36136,
+        ocs:C38245,
+        ocs:C4218,
+        ocs:C42288,
+        ocs:C44003,
+        ocs:C5692,
+        ocs:C7006,
+        ocs:C8614 .
+

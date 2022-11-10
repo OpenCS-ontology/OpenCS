@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4166 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/E.164> ;
+    skos:prefLabel "E.164" ;
+    skos:related ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C3,
+        ocs:C30757,
+        ocs:C34092,
+        ocs:C36124,
+        ocs:C6027,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

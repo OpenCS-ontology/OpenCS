@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12124 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/W_band> ;
+    skos:prefLabel "W band" ;
+    skos:related ocs:C11201,
+        ocs:C11863,
+        ocs:C2006,
+        ocs:C2581,
+        ocs:C3068,
+        ocs:C37332,
+        ocs:C45299,
+        ocs:C5369,
+        ocs:C6474,
+        ocs:C7216,
+        ocs:C8359,
+        ocs:C8612,
+        ocs:C863,
+        ocs:C9103,
+        ocs:C9156 .
+

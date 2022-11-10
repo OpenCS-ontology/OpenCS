@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C698 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_communication> ;
+    skos:prefLabel "Business communication" ;
+    skos:related ocs:C10045,
+        ocs:C10905,
+        ocs:C10978,
+        ocs:C11810,
+        ocs:C3444,
+        ocs:C8614 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2513 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_visitor_tracking> ;
+    skos:prefLabel "Website visitor tracking" ;
+    skos:related ocs:C11026,
+        ocs:C12378,
+        ocs:C16338,
+        ocs:C17266,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C27097,
+        ocs:C28801,
+        ocs:C30926,
+        ocs:C33206,
+        ocs:C33709,
+        ocs:C35660,
+        ocs:C39478,
+        ocs:C42101,
+        ocs:C4918,
+        ocs:C5,
+        ocs:C8614,
+        ocs:C9803 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37787 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C28991 ;
+    skos:closeMatch <http://dbpedia.org/resource/Giant_component> ;
+    skos:prefLabel "Giant component" ;
+    skos:related ocs:C19399,
+        ocs:C23873,
+        ocs:C25175,
+        ocs:C28991,
+        ocs:C30730,
+        ocs:C33768,
+        ocs:C36516,
+        ocs:C38523,
+        ocs:C40694,
+        ocs:C41731,
+        ocs:C45422,
+        ocs:C45746,
+        ocs:C7109,
+        ocs:C7460 .
+

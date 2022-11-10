@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34225 a skos:Concept ;
+    skos:broader ocs:C14985,
+        ocs:C17480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basis_pursuit_denoising> ;
+    skos:prefLabel "Basis pursuit denoising" ;
+    skos:related ocs:C11693,
+        ocs:C14481,
+        ocs:C15665,
+        ocs:C1794,
+        ocs:C19335,
+        ocs:C22681,
+        ocs:C2321,
+        ocs:C24130,
+        ocs:C27828,
+        ocs:C37322,
+        ocs:C43184,
+        ocs:C6943,
+        ocs:C7471,
+        ocs:C8435,
+        ocs:C9243 .
+

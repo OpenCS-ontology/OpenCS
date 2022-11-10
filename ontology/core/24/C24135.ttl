@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24135 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C10909,
+        ocs:C4321,
+        ocs:C6255,
+        ocs:C794 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_mathematical_functions> ;
+    skos:prefLabel "C mathematical functions" ;
+    skos:related ocs:C10284,
+        ocs:C12262,
+        ocs:C14163,
+        ocs:C14990,
+        ocs:C19,
+        ocs:C21019,
+        ocs:C2301,
+        ocs:C24189,
+        ocs:C33702,
+        ocs:C34815,
+        ocs:C39715,
+        ocs:C42032,
+        ocs:C5468,
+        ocs:C6255,
+        ocs:C6714,
+        ocs:C7602,
+        ocs:C8323 .
+

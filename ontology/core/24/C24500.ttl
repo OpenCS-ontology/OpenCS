@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24500 a skos:Concept ;
+    skos:broader ocs:C12759 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inventive_spelling> ;
+    skos:prefLabel "Inventive spelling" ;
+    skos:related ocs:C14527,
+        ocs:C19543,
+        ocs:C24227,
+        ocs:C28710,
+        ocs:C29128,
+        ocs:C8020 .
+

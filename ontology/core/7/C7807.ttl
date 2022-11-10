@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7807 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_embedding> ;
+    skos:prefLabel "Word embedding" ;
+    skos:related ocs:C11722,
+        ocs:C16,
+        ocs:C17261,
+        ocs:C19354,
+        ocs:C20003,
+        ocs:C20377,
+        ocs:C23970,
+        ocs:C2884,
+        ocs:C30532,
+        ocs:C32,
+        ocs:C32651,
+        ocs:C39236,
+        ocs:C5498,
+        ocs:C6912,
+        ocs:C7558,
+        ocs:C7862,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9287,
+        ocs:C9538 .
+

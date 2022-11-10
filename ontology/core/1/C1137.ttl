@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1137 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Termination_analysis> ;
+    skos:prefLabel "Termination analysis" ;
+    skos:related ocs:C10,
+        ocs:C12474,
+        ocs:C12852,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C16907,
+        ocs:C19,
+        ocs:C28286,
+        ocs:C30,
+        ocs:C33824,
+        ocs:C34319,
+        ocs:C4756,
+        ocs:C6941,
+        ocs:C7733,
+        ocs:C8455 .
+

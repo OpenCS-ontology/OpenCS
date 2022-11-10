@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30215 a skos:Concept ;
+    skos:broader ocs:C22180 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-based_testing> ;
+    skos:prefLabel "Model-based testing" ;
+    skos:related ocs:C18415,
+        ocs:C19404,
+        ocs:C22894,
+        ocs:C23439,
+        ocs:C24477,
+        ocs:C25956,
+        ocs:C26460,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C31705,
+        ocs:C34078,
+        ocs:C35399,
+        ocs:C35609,
+        ocs:C40291,
+        ocs:C41719,
+        ocs:C4209,
+        ocs:C42762,
+        ocs:C43659,
+        ocs:C45334,
+        ocs:C8895 .
+

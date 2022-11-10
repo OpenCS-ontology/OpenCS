@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45746 a skos:Concept ;
+    skos:broader ocs:C34542,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tutte_matrix> ;
+    skos:prefLabel "Tutte matrix" ;
+    skos:related ocs:C19336,
+        ocs:C26989,
+        ocs:C30245,
+        ocs:C31884,
+        ocs:C34051,
+        ocs:C36200,
+        ocs:C37036,
+        ocs:C38929,
+        ocs:C39719,
+        ocs:C40314,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C44862,
+        ocs:C5244 .
+

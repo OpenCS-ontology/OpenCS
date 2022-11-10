@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33778 a skos:Concept ;
+    skos:broader ocs:C21929,
+        ocs:C24469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Residual_bit_error_rate> ;
+    skos:prefLabel "Residual bit error rate" ;
+    skos:related ocs:C19230,
+        ocs:C19721,
+        ocs:C21929,
+        ocs:C24469,
+        ocs:C26814,
+        ocs:C27316,
+        ocs:C31408,
+        ocs:C36274,
+        ocs:C37232,
+        ocs:C38424,
+        ocs:C44927,
+        ocs:C45789,
+        ocs:C5994,
+        ocs:C8810 .
+

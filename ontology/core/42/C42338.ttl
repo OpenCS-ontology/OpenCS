@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42338 a skos:Concept ;
+    skos:broader ocs:C32645,
+        ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_algebra_(structure)> ;
+    skos:prefLabel "Boolean algebra (structure)" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C32743,
+        ocs:C3894,
+        ocs:C39210,
+        ocs:C5251,
+        ocs:C8635 .
+

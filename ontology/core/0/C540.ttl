@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C540 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sales_force_management_system> ;
+    skos:prefLabel "Sales force management system" ;
+    skos:related ocs:C10764,
+        ocs:C1253,
+        ocs:C12736,
+        ocs:C25464,
+        ocs:C35701,
+        ocs:C4768,
+        ocs:C9163,
+        ocs:C9874 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44106 a skos:Concept ;
+    skos:broader ocs:C32349 ;
+    skos:closeMatch <http://dbpedia.org/resource/Euclidean_topology> ;
+    skos:prefLabel "Euclidean topology" ;
+    skos:related ocs:C13787,
+        ocs:C27650,
+        ocs:C33798,
+        ocs:C42132 .
+

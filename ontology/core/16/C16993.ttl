@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16993 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colour_look-up_table> ;
+    skos:prefLabel "Colour look-up table" ;
+    skos:related ocs:C10320,
+        ocs:C10696,
+        ocs:C13155,
+        ocs:C18246,
+        ocs:C22,
+        ocs:C22257,
+        ocs:C24211,
+        ocs:C28172,
+        ocs:C35166,
+        ocs:C36598,
+        ocs:C36633,
+        ocs:C4027,
+        ocs:C41662,
+        ocs:C41977,
+        ocs:C44,
+        ocs:C44318,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C8021 .
+

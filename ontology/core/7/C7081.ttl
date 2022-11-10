@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7081 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:prefLabel "Received spoken" ;
+    skos:related ocs:C18870,
+        ocs:C19905,
+        ocs:C2298,
+        ocs:C4174,
+        ocs:C6028,
+        ocs:C8090,
+        ocs:C8291 .
+

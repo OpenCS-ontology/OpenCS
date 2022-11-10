@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26636 a skos:Concept ;
+    skos:broader ocs:C11445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Runway_visual_range> ;
+    skos:prefLabel "Runway visual range" ;
+    skos:related ocs:C11445,
+        ocs:C17981,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C26346,
+        ocs:C33190,
+        ocs:C4597,
+        ocs:C5030 .
+

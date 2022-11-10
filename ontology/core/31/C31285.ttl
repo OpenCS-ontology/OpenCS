@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31285 a skos:Concept ;
+    skos:broader ocs:C25464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strategic_information_system> ;
+    skos:prefLabel "Strategic information system" ;
+    skos:related ocs:C12736,
+        ocs:C1332,
+        ocs:C2304,
+        ocs:C2529,
+        ocs:C25464,
+        ocs:C28742,
+        ocs:C2979,
+        ocs:C448,
+        ocs:C4768,
+        ocs:C6855 .
+

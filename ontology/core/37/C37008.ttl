@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37008 a skos:Concept ;
+    skos:broader ocs:C22501,
+        ocs:C28335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Game_complexity> ;
+    skos:prefLabel "Game complexity" ;
+    skos:related ocs:C11414,
+        ocs:C18256,
+        ocs:C20382,
+        ocs:C21370,
+        ocs:C3583,
+        ocs:C3678,
+        ocs:C44665,
+        ocs:C4594,
+        ocs:C5193,
+        ocs:C8,
+        ocs:C8660 .
+

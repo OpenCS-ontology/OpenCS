@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2059 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projection_pursuit> ;
+    skos:prefLabel "Projection pursuit" ;
+    skos:related ocs:C11693,
+        ocs:C12811,
+        ocs:C14985,
+        ocs:C1879,
+        ocs:C20383,
+        ocs:C25,
+        ocs:C26767,
+        ocs:C26886,
+        ocs:C28024,
+        ocs:C29204,
+        ocs:C4256,
+        ocs:C6591,
+        ocs:C6912,
+        ocs:C9538 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8538 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Online document" ;
+    skos:related ocs:C1092,
+        ocs:C1498,
+        ocs:C16,
+        ocs:C17,
+        ocs:C21,
+        ocs:C25464,
+        ocs:C3413,
+        ocs:C35,
+        ocs:C4561,
+        ocs:C4595,
+        ocs:C5,
+        ocs:C515,
+        ocs:C5706,
+        ocs:C6999,
+        ocs:C7006,
+        ocs:C8614 .
+

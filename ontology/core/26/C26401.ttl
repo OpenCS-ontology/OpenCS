@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26401 a skos:Concept ;
+    skos:broader ocs:C3337 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anger_function> ;
+    skos:prefLabel "Anger function" ;
+    skos:related ocs:C36278,
+        ocs:C9204 .
+

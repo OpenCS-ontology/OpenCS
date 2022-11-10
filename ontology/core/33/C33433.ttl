@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33433 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_k-cut> ;
+    skos:prefLabel "Minimum k-cut" ;
+    skos:related ocs:C11372,
+        ocs:C21308,
+        ocs:C22985,
+        ocs:C30401,
+        ocs:C31026,
+        ocs:C31647,
+        ocs:C31884,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C37036,
+        ocs:C37611,
+        ocs:C39136,
+        ocs:C41731,
+        ocs:C42329,
+        ocs:C42822,
+        ocs:C44806,
+        ocs:C5823 .
+

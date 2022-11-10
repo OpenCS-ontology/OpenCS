@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36569 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C24023,
+        ocs:C29170 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infrared_cirrus> ;
+    skos:prefLabel "Infrared cirrus" ;
+    skos:related ocs:C17174,
+        ocs:C17246,
+        ocs:C24023,
+        ocs:C43114,
+        ocs:C597 .
+

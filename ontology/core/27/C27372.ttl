@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27372 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tapinoma_melanocephalum> ;
+    skos:prefLabel "Tapinoma melanocephalum" ;
+    skos:related ocs:C14279,
+        ocs:C15126,
+        ocs:C19235,
+        ocs:C24249,
+        ocs:C27032,
+        ocs:C30017,
+        ocs:C30349,
+        ocs:C30775 .
+

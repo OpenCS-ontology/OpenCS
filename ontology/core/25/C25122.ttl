@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25122 a skos:Concept ;
+    skos:broader ocs:C12580,
+        ocs:C8021,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vision_chip> ;
+    skos:prefLabel "Vision chip" ;
+    skos:related ocs:C10700,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C17828,
+        ocs:C22544,
+        ocs:C22613,
+        ocs:C27089,
+        ocs:C27322,
+        ocs:C29365,
+        ocs:C32529,
+        ocs:C3341,
+        ocs:C38640,
+        ocs:C43962,
+        ocs:C7789 .
+

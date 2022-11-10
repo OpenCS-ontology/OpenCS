@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25686 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_platform> ;
+    skos:prefLabel "Open platform" ;
+    skos:related ocs:C1042,
+        ocs:C10689,
+        ocs:C13144,
+        ocs:C17183,
+        ocs:C17238,
+        ocs:C18973,
+        ocs:C2109,
+        ocs:C24143,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C31894,
+        ocs:C34170,
+        ocs:C37447,
+        ocs:C41162,
+        ocs:C45203,
+        ocs:C4918,
+        ocs:C5786,
+        ocs:C7106,
+        ocs:C9 .
+

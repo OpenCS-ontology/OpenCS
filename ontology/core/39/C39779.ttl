@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39779 a skos:Concept ;
+    skos:broader ocs:C34973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schwarz_triangle> ;
+    skos:prefLabel "Schwarz triangle" ;
+    skos:related ocs:C38670,
+        ocs:C38990,
+        ocs:C9372 .
+

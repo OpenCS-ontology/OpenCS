@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2538 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asynchronous_Balanced_Mode> ;
+    skos:prefLabel "Asynchronous Balanced Mode" ;
+    skos:related ocs:C10992,
+        ocs:C12490,
+        ocs:C20314,
+        ocs:C25384,
+        ocs:C27426,
+        ocs:C30342,
+        ocs:C33931,
+        ocs:C37232,
+        ocs:C38753,
+        ocs:C40142,
+        ocs:C41099,
+        ocs:C42689,
+        ocs:C6082,
+        ocs:C6185,
+        ocs:C6930,
+        ocs:C9931 .
+

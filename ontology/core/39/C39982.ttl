@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39982 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C32333,
+        ocs:C35233,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robbins'_theorem> ;
+    skos:prefLabel "Robbins' theorem" ;
+    skos:related ocs:C14693,
+        ocs:C14894,
+        ocs:C16957,
+        ocs:C17700,
+        ocs:C26989,
+        ocs:C32757,
+        ocs:C33699,
+        ocs:C39263,
+        ocs:C39316,
+        ocs:C40184,
+        ocs:C40663,
+        ocs:C40694,
+        ocs:C42244,
+        ocs:C45005,
+        ocs:C45671 .
+

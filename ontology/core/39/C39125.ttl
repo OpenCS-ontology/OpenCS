@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39125 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quad-edge> ;
+    skos:prefLabel "Quad-edge" ;
+    skos:related ocs:C12482,
+        ocs:C14693,
+        ocs:C19997,
+        ocs:C26516,
+        ocs:C2885,
+        ocs:C30245,
+        ocs:C34223,
+        ocs:C36406,
+        ocs:C38114,
+        ocs:C39545,
+        ocs:C4919,
+        ocs:C5722 .
+

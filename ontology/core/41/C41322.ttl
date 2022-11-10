@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41322 a skos:Concept ;
+    skos:broader ocs:C30955 ;
+    skos:closeMatch <http://dbpedia.org/resource/Illegal_opcode> ;
+    skos:prefLabel "Illegal opcode" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31346,
+        ocs:C35009,
+        ocs:C37847,
+        ocs:C40172,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

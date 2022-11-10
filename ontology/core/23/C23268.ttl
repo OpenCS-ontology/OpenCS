@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23268 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gas_electron_multiplier> ;
+    skos:prefLabel "Gas electron multiplier" ;
+    skos:related ocs:C14078,
+        ocs:C16154,
+        ocs:C16317,
+        ocs:C18360,
+        ocs:C22012,
+        ocs:C26747,
+        ocs:C27193,
+        ocs:C28752,
+        ocs:C29906,
+        ocs:C32838 .
+

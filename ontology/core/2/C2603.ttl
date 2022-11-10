@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2603 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C30,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metacomputing> ;
+    skos:prefLabel "Metacomputing" ;
+    skos:related ocs:C12,
+        ocs:C1253,
+        ocs:C13264,
+        ocs:C19,
+        ocs:C19003,
+        ocs:C26,
+        ocs:C27,
+        ocs:C28080,
+        ocs:C2979,
+        ocs:C30,
+        ocs:C38688,
+        ocs:C5496,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8614 .
+

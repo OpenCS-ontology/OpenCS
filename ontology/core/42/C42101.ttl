@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42101 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C32720,
+        ocs:C35109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_analytics> ;
+    skos:prefLabel "Web analytics" ;
+    skos:related ocs:C1155,
+        ocs:C16338,
+        ocs:C17235,
+        ocs:C18985,
+        ocs:C21129,
+        ocs:C22597,
+        ocs:C26014,
+        ocs:C27097,
+        ocs:C28801,
+        ocs:C33206,
+        ocs:C34262,
+        ocs:C35660,
+        ocs:C38991,
+        ocs:C4918,
+        ocs:C8614 .
+

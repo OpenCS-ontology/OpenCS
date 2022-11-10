@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25166 a skos:Concept ;
+    skos:broader ocs:C9777 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grimm's_law> ;
+    skos:prefLabel "Grimm's law" ;
+    skos:related ocs:C14130,
+        ocs:C19817,
+        ocs:C25834,
+        ocs:C27881,
+        ocs:C3356,
+        ocs:C9777 .
+

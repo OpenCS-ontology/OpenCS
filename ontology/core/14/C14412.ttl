@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14412 a skos:Concept ;
+    skos:broader ocs:C6588 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_disk> ;
+    skos:prefLabel "Logical disk" ;
+    skos:related ocs:C10501,
+        ocs:C10785,
+        ocs:C12211,
+        ocs:C14707,
+        ocs:C17533,
+        ocs:C26157,
+        ocs:C30950,
+        ocs:C31164,
+        ocs:C3231,
+        ocs:C39275,
+        ocs:C40587,
+        ocs:C4384,
+        ocs:C6588,
+        ocs:C6768,
+        ocs:C7476,
+        ocs:C9 .
+

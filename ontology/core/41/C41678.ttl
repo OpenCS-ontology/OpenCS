@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41678 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypostomus_cochliodon> ;
+    skos:prefLabel "Hypostomus cochliodon" ;
+    skos:related ocs:C41395,
+        ocs:C45232 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39061 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_rank> ;
+    skos:prefLabel "Memory rank" ;
+    skos:related ocs:C13162,
+        ocs:C13875,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C25954,
+        ocs:C26602,
+        ocs:C29183,
+        ocs:C33838,
+        ocs:C35309,
+        ocs:C35697,
+        ocs:C35698,
+        ocs:C35751,
+        ocs:C37483,
+        ocs:C38300,
+        ocs:C39215,
+        ocs:C44598,
+        ocs:C45186 .
+

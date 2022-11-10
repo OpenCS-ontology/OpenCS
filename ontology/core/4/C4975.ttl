@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4975 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/SINPO_code> ;
+    skos:prefLabel "SINPO code" ;
+    skos:related ocs:C10208,
+        ocs:C12757,
+        ocs:C13755,
+        ocs:C15511,
+        ocs:C15824,
+        ocs:C17534,
+        ocs:C19903,
+        ocs:C21604,
+        ocs:C23488,
+        ocs:C2369,
+        ocs:C24264,
+        ocs:C35081,
+        ocs:C39057,
+        ocs:C45368,
+        ocs:C7159,
+        ocs:C8700,
+        ocs:C9691 .
+

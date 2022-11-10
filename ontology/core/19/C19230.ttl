@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19230 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phase-shift_keying> ;
+    skos:prefLabel "Phase-shift keying" ;
+    skos:related ocs:C14053,
+        ocs:C15410,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19492,
+        ocs:C19721,
+        ocs:C21424,
+        ocs:C21929,
+        ocs:C22451,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C28744,
+        ocs:C29419,
+        ocs:C3,
+        ocs:C36670,
+        ocs:C37472,
+        ocs:C7502,
+        ocs:C8952 .
+

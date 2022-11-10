@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39041 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Source_Data_Base> ;
+    skos:prefLabel "Common Source Data Base" ;
+    skos:related ocs:C11531,
+        ocs:C11759,
+        ocs:C11927,
+        ocs:C13767,
+        ocs:C20960,
+        ocs:C21072,
+        ocs:C2266,
+        ocs:C24338,
+        ocs:C28801,
+        ocs:C29317,
+        ocs:C29401,
+        ocs:C3280,
+        ocs:C38130,
+        ocs:C4333,
+        ocs:C4335,
+        ocs:C8270,
+        ocs:C8511,
+        ocs:C9150,
+        ocs:C9549 .
+

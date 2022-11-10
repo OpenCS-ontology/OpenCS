@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19648 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:prefLabel "Lower extremity joint" ;
+    skos:related ocs:C1239,
+        ocs:C20806,
+        ocs:C4435,
+        ocs:C6340 .
+

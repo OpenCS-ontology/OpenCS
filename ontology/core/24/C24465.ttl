@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24465 a skos:Concept ;
+    skos:broader ocs:C1040,
+        ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-document_summarization> ;
+    skos:prefLabel "Multi-document summarization" ;
+    skos:related ocs:C1040,
+        ocs:C11542,
+        ocs:C16741,
+        ocs:C16745,
+        ocs:C18694,
+        ocs:C22310,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C26283,
+        ocs:C29542,
+        ocs:C30113,
+        ocs:C32,
+        ocs:C34830,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C5852,
+        ocs:C6762,
+        ocs:C8368,
+        ocs:C8576 .
+

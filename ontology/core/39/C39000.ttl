@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39000 a skos:Concept ;
+    skos:broader ocs:C29803,
+        ocs:C30982,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Host_Based_Security_System> ;
+    skos:prefLabel "Host Based Security System" ;
+    skos:related ocs:C13307,
+        ocs:C1399,
+        ocs:C1665,
+        ocs:C18084,
+        ocs:C1906,
+        ocs:C20265,
+        ocs:C23103,
+        ocs:C26892,
+        ocs:C30412,
+        ocs:C30595,
+        ocs:C30929,
+        ocs:C34428,
+        ocs:C39016,
+        ocs:C41003,
+        ocs:C41850,
+        ocs:C43900,
+        ocs:C44122,
+        ocs:C8298,
+        ocs:C9224 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33020 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_and_Language_Learning> ;
+    skos:prefLabel "Identity and Language Learning" ;
+    skos:related ocs:C10057,
+        ocs:C1299,
+        ocs:C13566,
+        ocs:C16053,
+        ocs:C21011,
+        ocs:C21674,
+        ocs:C29527,
+        ocs:C29973,
+        ocs:C31775,
+        ocs:C32426,
+        ocs:C33078,
+        ocs:C34497,
+        ocs:C35271,
+        ocs:C3613,
+        ocs:C44334 .
+

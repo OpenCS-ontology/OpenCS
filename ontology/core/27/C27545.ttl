@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27545 a skos:Concept ;
+    skos:broader ocs:C2579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interaction_protocol> ;
+    skos:prefLabel "Interaction protocol" ;
+    skos:related ocs:C1,
+        ocs:C10720,
+        ocs:C10904,
+        ocs:C11927,
+        ocs:C13252,
+        ocs:C1451,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C19,
+        ocs:C22597,
+        ocs:C25382,
+        ocs:C28801,
+        ocs:C32662,
+        ocs:C3623,
+        ocs:C43595,
+        ocs:C8614,
+        ocs:C8791,
+        ocs:C9 .
+

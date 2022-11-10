@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33192 a skos:Concept ;
+    skos:broader ocs:C28519 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fréchet_mean> ;
+    skos:prefLabel "Fréchet mean" ;
+    skos:related ocs:C10672,
+        ocs:C11441,
+        ocs:C13685,
+        ocs:C27442,
+        ocs:C27701 .
+

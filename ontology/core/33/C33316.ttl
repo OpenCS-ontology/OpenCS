@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33316 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Derivative_work> ;
+    skos:prefLabel "Derivative work" ;
+    skos:related ocs:C13306,
+        ocs:C14002,
+        ocs:C15013,
+        ocs:C18764,
+        ocs:C19039,
+        ocs:C2543,
+        ocs:C27996,
+        ocs:C28712,
+        ocs:C30476,
+        ocs:C31822,
+        ocs:C32165,
+        ocs:C32306,
+        ocs:C40984,
+        ocs:C6234 .
+

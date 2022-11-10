@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34510 a skos:Concept ;
+    skos:broader ocs:C23865 ;
+    skos:closeMatch <http://dbpedia.org/resource/Swendsen–Wang_algorithm> ;
+    skos:prefLabel "Swendsen–Wang algorithm" ;
+    skos:related ocs:C10,
+        ocs:C23865,
+        ocs:C31458,
+        ocs:C31842,
+        ocs:C32755,
+        ocs:C33242,
+        ocs:C38763,
+        ocs:C41470,
+        ocs:C41787,
+        ocs:C43852,
+        ocs:C44604,
+        ocs:C693 .
+

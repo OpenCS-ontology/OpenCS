@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37598 a skos:Concept ;
+    skos:broader ocs:C15008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Archives_Initiative> ;
+    skos:prefLabel "Open Archives Initiative" ;
+    skos:related ocs:C11462,
+        ocs:C11595,
+        ocs:C11886,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C13826,
+        ocs:C15008,
+        ocs:C15906,
+        ocs:C16775,
+        ocs:C31929,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C4335,
+        ocs:C4500,
+        ocs:C5312,
+        ocs:C9096,
+        ocs:C9836 .
+

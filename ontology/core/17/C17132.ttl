@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17132 a skos:Concept ;
+    skos:broader ocs:C9601 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smartwatch> ;
+    skos:prefLabel "Smartwatch" ;
+    skos:related ocs:C10368,
+        ocs:C1042,
+        ocs:C12641,
+        ocs:C1338,
+        ocs:C21424,
+        ocs:C22076,
+        ocs:C24448,
+        ocs:C29012,
+        ocs:C29046,
+        ocs:C31110,
+        ocs:C31489,
+        ocs:C35370,
+        ocs:C7850,
+        ocs:C9,
+        ocs:C9113,
+        ocs:C9601 .
+

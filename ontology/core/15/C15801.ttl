@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15801 a skos:Concept ;
+    skos:broader ocs:C12112,
+        ocs:C12695,
+        ocs:C12806 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operand_forwarding> ;
+    skos:prefLabel "Operand forwarding" ;
+    skos:related ocs:C10320,
+        ocs:C12112,
+        ocs:C12431,
+        ocs:C1721,
+        ocs:C21266,
+        ocs:C22907,
+        ocs:C26755,
+        ocs:C27610,
+        ocs:C33375,
+        ocs:C36686,
+        ocs:C37538,
+        ocs:C40036,
+        ocs:C4863,
+        ocs:C8275,
+        ocs:C856,
+        ocs:C9487 .
+

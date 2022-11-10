@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30278 a skos:Concept ;
+    skos:broader ocs:C21324 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_signature> ;
+    skos:prefLabel "Mobile signature" ;
+    skos:related ocs:C12853,
+        ocs:C16125,
+        ocs:C21054,
+        ocs:C21324,
+        ocs:C26006,
+        ocs:C27571,
+        ocs:C29611,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C36171,
+        ocs:C36500,
+        ocs:C39722,
+        ocs:C40789,
+        ocs:C7006,
+        ocs:C8437,
+        ocs:C9113,
+        ocs:C9154 .
+

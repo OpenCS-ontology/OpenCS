@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19580 a skos:Concept ;
+    skos:broader ocs:C11763,
+        ocs:C3736 ;
+    skos:prefLabel "Concept Unique Identifier" ;
+    skos:related ocs:C21,
+        ocs:C7558 .
+

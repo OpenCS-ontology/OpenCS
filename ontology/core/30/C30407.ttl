@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30407 a skos:Concept ;
+    skos:broader ocs:C17434 ;
+    skos:closeMatch <http://dbpedia.org/resource/SISD> ;
+    skos:prefLabel "SISD" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C15179,
+        ocs:C1668,
+        ocs:C1721,
+        ocs:C17243,
+        ocs:C17434,
+        ocs:C22525,
+        ocs:C2478,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C32161,
+        ocs:C4804 .
+

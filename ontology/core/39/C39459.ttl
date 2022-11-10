@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39459 a skos:Concept ;
+    skos:broader ocs:C31400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stone–von_Neumann_theorem> ;
+    skos:prefLabel "Stone–von Neumann theorem" ;
+    skos:related ocs:C27394,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C34413,
+        ocs:C36974 .
+

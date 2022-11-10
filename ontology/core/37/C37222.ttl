@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37222 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C17856,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cube_attack> ;
+    skos:prefLabel "Cube attack" ;
+    skos:related ocs:C12076,
+        ocs:C16983,
+        ocs:C18091,
+        ocs:C23230,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C31774,
+        ocs:C34052,
+        ocs:C34567,
+        ocs:C38401,
+        ocs:C40736,
+        ocs:C41008,
+        ocs:C41514,
+        ocs:C4218,
+        ocs:C44384,
+        ocs:C44933,
+        ocs:C7226,
+        ocs:C8076 .
+

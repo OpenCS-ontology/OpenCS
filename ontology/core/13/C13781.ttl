@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13781 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enzmann_starship> ;
+    skos:prefLabel "Enzmann starship" ;
+    skos:related ocs:C10499,
+        ocs:C13529,
+        ocs:C25126,
+        ocs:C35745,
+        ocs:C5293 .
+

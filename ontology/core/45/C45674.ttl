@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45674 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deadline-monotonic_scheduling> ;
+    skos:prefLabel "Deadline-monotonic scheduling" ;
+    skos:related ocs:C30218,
+        ocs:C37367,
+        ocs:C40272,
+        ocs:C42251,
+        ocs:C43283,
+        ocs:C45363,
+        ocs:C5912 .
+

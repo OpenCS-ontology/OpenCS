@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44782 a skos:Concept ;
+    skos:broader ocs:C33033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gagliardo–Nirenberg_interpolation_inequality> ;
+    skos:prefLabel "Gagliardo–Nirenberg interpolation inequality" ;
+    skos:related ocs:C20235,
+        ocs:C28787,
+        ocs:C33033,
+        ocs:C37809,
+        ocs:C38849,
+        ocs:C40375,
+        ocs:C41233 .
+

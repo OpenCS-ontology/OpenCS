@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8727 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auto-wah> ;
+    skos:prefLabel "Auto-wah" ;
+    skos:related ocs:C21364,
+        ocs:C25634,
+        ocs:C3173,
+        ocs:C32578,
+        ocs:C38689,
+        ocs:C44671,
+        ocs:C5790 .
+

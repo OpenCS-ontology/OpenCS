@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9102 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Imus_in_the_Morning> ;
+    skos:prefLabel "Imus in the Morning" ;
+    skos:related ocs:C12544,
+        ocs:C12999,
+        ocs:C15505,
+        ocs:C19903,
+        ocs:C28716,
+        ocs:C29378,
+        ocs:C31899,
+        ocs:C7159,
+        ocs:C7255,
+        ocs:C8388 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29810 a skos:Concept ;
+    skos:broader ocs:C18579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barytone> ;
+    skos:prefLabel "Barytone" ;
+    skos:related ocs:C13096,
+        ocs:C15491,
+        ocs:C16185,
+        ocs:C18579,
+        ocs:C23342,
+        ocs:C24565,
+        ocs:C25849,
+        ocs:C28600,
+        ocs:C29067,
+        ocs:C34995,
+        ocs:C36331 .
+

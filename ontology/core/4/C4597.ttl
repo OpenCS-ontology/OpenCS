@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4597 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Air_traffic_control> ;
+    skos:prefLabel "Air traffic control" ;
+    skos:related ocs:C11445,
+        ocs:C15050,
+        ocs:C18229,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C22758,
+        ocs:C23477,
+        ocs:C26346,
+        ocs:C42471 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27382 a skos:Concept ;
+    skos:broader ocs:C10445,
+        ocs:C6342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Military_deception> ;
+    skos:prefLabel "Military deception" ;
+    skos:related ocs:C10191,
+        ocs:C3059,
+        ocs:C31034,
+        ocs:C3232,
+        ocs:C5247 .
+

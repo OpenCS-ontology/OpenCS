@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35146 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Forward_secrecy> ;
+    skos:prefLabel "Forward secrecy" ;
+    skos:related ocs:C13991,
+        ocs:C16125,
+        ocs:C19219,
+        ocs:C20243,
+        ocs:C24131,
+        ocs:C26581,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C30656,
+        ocs:C32192,
+        ocs:C32484,
+        ocs:C35391,
+        ocs:C38359,
+        ocs:C39389,
+        ocs:C41498,
+        ocs:C41598,
+        ocs:C4218,
+        ocs:C42490,
+        ocs:C5692,
+        ocs:C5842 .
+

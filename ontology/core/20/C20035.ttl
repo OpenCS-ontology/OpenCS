@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20035 a skos:Concept ;
+    skos:broader ocs:C5633 ;
+    skos:prefLabel "Pedestrian overpass" ;
+    skos:related ocs:C21412,
+        ocs:C3390,
+        ocs:C4099,
+        ocs:C6243 .
+

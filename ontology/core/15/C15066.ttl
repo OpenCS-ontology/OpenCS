@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15066 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_system_simulator_for_engineering> ;
+    skos:prefLabel "Power system simulator for engineering" ;
+    skos:related ocs:C19129,
+        ocs:C20156,
+        ocs:C25507,
+        ocs:C2650,
+        ocs:C29052,
+        ocs:C32961,
+        ocs:C43674 .
+

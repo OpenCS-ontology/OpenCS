@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45701 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trace_scheduling> ;
+    skos:prefLabel "Trace scheduling" ;
+    skos:related ocs:C10320,
+        ocs:C17089,
+        ocs:C17204,
+        ocs:C19147,
+        ocs:C21201,
+        ocs:C27080,
+        ocs:C28073,
+        ocs:C31844,
+        ocs:C32227,
+        ocs:C3448,
+        ocs:C38481,
+        ocs:C38816,
+        ocs:C40088,
+        ocs:C40105,
+        ocs:C40191,
+        ocs:C4321,
+        ocs:C542 .
+

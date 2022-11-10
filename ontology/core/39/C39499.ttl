@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39499 a skos:Concept ;
+    skos:broader ocs:C32582,
+        ocs:C36171 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_authentication> ;
+    skos:prefLabel "Email authentication" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C14647,
+        ocs:C14983,
+        ocs:C16125,
+        ocs:C20205,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C31410,
+        ocs:C39520,
+        ocs:C40986,
+        ocs:C42304,
+        ocs:C42433,
+        ocs:C44566,
+        ocs:C5472,
+        ocs:C6965,
+        ocs:C7006 .
+

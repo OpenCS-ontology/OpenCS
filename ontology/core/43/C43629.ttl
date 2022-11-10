@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43629 a skos:Concept ;
+    skos:broader ocs:C29803 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application_firewall> ;
+    skos:prefLabel "Application firewall" ;
+    skos:related ocs:C10565,
+        ocs:C13307,
+        ocs:C15883,
+        ocs:C17235,
+        ocs:C19227,
+        ocs:C22597,
+        ocs:C25123,
+        ocs:C25291,
+        ocs:C25292,
+        ocs:C26,
+        ocs:C26783,
+        ocs:C27112,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C35,
+        ocs:C40799,
+        ocs:C41003,
+        ocs:C8614 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42973 a skos:Concept ;
+    skos:broader ocs:C33774,
+        ocs:C33980 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kepler-47> ;
+    skos:prefLabel "Kepler-47" ;
+    skos:related ocs:C14224,
+        ocs:C14270,
+        ocs:C18085,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30632,
+        ocs:C32085,
+        ocs:C32417,
+        ocs:C33980,
+        ocs:C34570,
+        ocs:C36203,
+        ocs:C38054,
+        ocs:C41271,
+        ocs:C42491,
+        ocs:C45144 .
+

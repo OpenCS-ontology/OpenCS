@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15651 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leaky_integrator> ;
+    skos:prefLabel "Leaky integrator" ;
+    skos:related ocs:C11807,
+        ocs:C9602 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16597 a skos:Concept ;
+    skos:broader ocs:C2369,
+        ocs:C4099,
+        ocs:C6760,
+        ocs:C7790,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Push_broom_scanner> ;
+    skos:prefLabel "Push broom scanner" ;
+    skos:related ocs:C10275,
+        ocs:C26834,
+        ocs:C6257,
+        ocs:C6760,
+        ocs:C7789,
+        ocs:C8021 .
+

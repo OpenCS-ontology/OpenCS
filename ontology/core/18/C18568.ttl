@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18568 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geoid> ;
+    skos:prefLabel "Geoid" ;
+    skos:related ocs:C12641,
+        ocs:C16293,
+        ocs:C24604,
+        ocs:C30827,
+        ocs:C32639,
+        ocs:C597 .
+

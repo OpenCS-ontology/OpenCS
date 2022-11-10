@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28448 a skos:Concept ;
+    skos:broader ocs:C11701,
+        ocs:C12295,
+        ocs:C1918,
+        ocs:C7553 ;
+    skos:prefLabel "Multi objective optimization algorithm" .
+

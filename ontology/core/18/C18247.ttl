@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18247 a skos:Concept ;
+    skos:broader ocs:C12317 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO_31> ;
+    skos:prefLabel "ISO 31" ;
+    skos:related ocs:C1848,
+        ocs:C21096,
+        ocs:C5853,
+        ocs:C6297 .
+

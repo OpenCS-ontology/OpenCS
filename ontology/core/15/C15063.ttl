@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15063 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biolinguistics> ;
+    skos:prefLabel "Biolinguistics" ;
+    skos:related ocs:C1034,
+        ocs:C12110,
+        ocs:C12696,
+        ocs:C1299,
+        ocs:C13210,
+        ocs:C2761,
+        ocs:C28029,
+        ocs:C30276,
+        ocs:C30531,
+        ocs:C32426,
+        ocs:C34287,
+        ocs:C5556 .
+

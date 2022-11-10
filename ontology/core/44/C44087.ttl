@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44087 a skos:Concept ;
+    skos:broader ocs:C29793,
+        ocs:C30592,
+        ocs:C32806,
+        ocs:C35233 ;
+    skos:prefLabel "Connected domination" .
+

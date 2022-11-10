@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18259 a skos:Concept ;
+    skos:broader ocs:C11701,
+        ocs:C5691 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_assignment_problem> ;
+    skos:prefLabel "Generalized assignment problem" ;
+    skos:related ocs:C11372,
+        ocs:C14127,
+        ocs:C18302,
+        ocs:C21308,
+        ocs:C23872,
+        ocs:C2413,
+        ocs:C24154,
+        ocs:C24647,
+        ocs:C25481,
+        ocs:C32917,
+        ocs:C38036,
+        ocs:C3837,
+        ocs:C5691,
+        ocs:C5864,
+        ocs:C7397,
+        ocs:C7988,
+        ocs:C8944,
+        ocs:C9264 .
+

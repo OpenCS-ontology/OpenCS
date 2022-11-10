@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34095 a skos:Concept ;
+    skos:broader ocs:C21368 ;
+    skos:closeMatch <http://dbpedia.org/resource/Listwise_deletion> ;
+    skos:prefLabel "Listwise deletion" ;
+    skos:related ocs:C16319,
+        ocs:C21368,
+        ocs:C21710,
+        ocs:C8781,
+        ocs:C9740 .
+

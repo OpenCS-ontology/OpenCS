@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39365 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C30982,
+        ocs:C32555,
+        ocs:C35370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_Transport_Layer_Security> ;
+    skos:prefLabel "Wireless Transport Layer Security" ;
+    skos:related ocs:C15591,
+        ocs:C20243,
+        ocs:C22597,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C27749,
+        ocs:C31654,
+        ocs:C36161,
+        ocs:C36500,
+        ocs:C36896,
+        ocs:C37133,
+        ocs:C38446,
+        ocs:C38524,
+        ocs:C39078,
+        ocs:C40535,
+        ocs:C40789,
+        ocs:C41312,
+        ocs:C41498,
+        ocs:C41750 .
+

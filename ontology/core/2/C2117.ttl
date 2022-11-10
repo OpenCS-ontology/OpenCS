@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2117 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maximum_segment_lifetime> ;
+    skos:prefLabel "Maximum segment lifetime" ;
+    skos:related ocs:C10008,
+        ocs:C10231,
+        ocs:C13551,
+        ocs:C14134,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C23155,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C30866,
+        ocs:C33957,
+        ocs:C34264,
+        ocs:C35493,
+        ocs:C36782,
+        ocs:C38272,
+        ocs:C38814,
+        ocs:C38818,
+        ocs:C40689,
+        ocs:C5837,
+        ocs:C8722 .
+

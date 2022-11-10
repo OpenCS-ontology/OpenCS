@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29913 a skos:Concept ;
+    skos:broader ocs:C14004,
+        ocs:C17245 ;
+    skos:closeMatch <http://dbpedia.org/resource/VisualRank> ;
+    skos:prefLabel "VisualRank" ;
+    skos:related ocs:C13142,
+        ocs:C14004,
+        ocs:C14082,
+        ocs:C1503,
+        ocs:C25937,
+        ocs:C32077,
+        ocs:C34626,
+        ocs:C37748,
+        ocs:C3847,
+        ocs:C39495,
+        ocs:C45316,
+        ocs:C5462,
+        ocs:C7,
+        ocs:C9312 .
+

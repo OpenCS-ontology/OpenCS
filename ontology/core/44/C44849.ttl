@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44849 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C30659,
+        ocs:C35109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_engineering> ;
+    skos:prefLabel "Web engineering" ;
+    skos:related ocs:C1,
+        ocs:C1006,
+        ocs:C10904,
+        ocs:C12810,
+        ocs:C14,
+        ocs:C15478,
+        ocs:C17235,
+        ocs:C17557,
+        ocs:C197,
+        ocs:C2057,
+        ocs:C25710,
+        ocs:C28,
+        ocs:C28533,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C34668,
+        ocs:C4918,
+        ocs:C7106 .
+

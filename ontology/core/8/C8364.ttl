@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8364 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plectics> ;
+    skos:prefLabel "Plectics" ;
+    skos:related ocs:C10997,
+        ocs:C122,
+        ocs:C14592,
+        ocs:C1630,
+        ocs:C20012,
+        ocs:C21018,
+        ocs:C2380,
+        ocs:C2421,
+        ocs:C4023,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C925 .
+

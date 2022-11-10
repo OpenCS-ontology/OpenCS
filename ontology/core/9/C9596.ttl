@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9596 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_signal> ;
+    skos:prefLabel "Audio signal" ;
+    skos:related ocs:C10492,
+        ocs:C15341,
+        ocs:C18001,
+        ocs:C25195,
+        ocs:C26575,
+        ocs:C38517,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5790,
+        ocs:C5843,
+        ocs:C7159,
+        ocs:C7502,
+        ocs:C8291 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16123 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_promotion> ;
+    skos:prefLabel "Website promotion" ;
+    skos:related ocs:C12555,
+        ocs:C23393,
+        ocs:C27097,
+        ocs:C27895,
+        ocs:C28136,
+        ocs:C28988,
+        ocs:C38051,
+        ocs:C40507,
+        ocs:C44855,
+        ocs:C4803 .
+

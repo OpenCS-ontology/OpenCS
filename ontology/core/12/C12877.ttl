@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12877 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sony_XEL-1> ;
+    skos:prefLabel "Sony XEL-1" ;
+    skos:related ocs:C12849,
+        ocs:C13725,
+        ocs:C1704,
+        ocs:C2074,
+        ocs:C2722,
+        ocs:C653,
+        ocs:C669,
+        ocs:C6942,
+        ocs:C9045,
+        ocs:C9605 .
+

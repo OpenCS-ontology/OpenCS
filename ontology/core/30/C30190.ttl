@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30190 a skos:Concept ;
+    skos:broader ocs:C29175,
+        ocs:C29242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mixed_raster_content> ;
+    skos:prefLabel "Mixed raster content" ;
+    skos:related ocs:C10089,
+        ocs:C11927,
+        ocs:C19367,
+        ocs:C23918,
+        ocs:C24828,
+        ocs:C26787,
+        ocs:C29854,
+        ocs:C35732,
+        ocs:C36168,
+        ocs:C37394,
+        ocs:C38859,
+        ocs:C39144,
+        ocs:C7682 .
+

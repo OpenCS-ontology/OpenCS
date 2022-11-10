@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29475 a skos:Concept ;
+    skos:broader ocs:C3740 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffuse_optical_imaging> ;
+    skos:prefLabel "Diffuse optical imaging" ;
+    skos:related ocs:C3740 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11344 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_timecode> ;
+    skos:prefLabel "Linear timecode" ;
+    skos:related ocs:C12430,
+        ocs:C12541,
+        ocs:C13466,
+        ocs:C16371,
+        ocs:C16377,
+        ocs:C2000,
+        ocs:C26814,
+        ocs:C36645,
+        ocs:C38826,
+        ocs:C42394,
+        ocs:C5706,
+        ocs:C8718,
+        ocs:C9748 .
+

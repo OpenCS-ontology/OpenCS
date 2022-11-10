@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16896 a skos:Concept ;
+    skos:broader ocs:C2863,
+        ocs:C4026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Head-on_collision> ;
+    skos:prefLabel "Head-on collision" ;
+    skos:related ocs:C16728,
+        ocs:C17865,
+        ocs:C20456,
+        ocs:C24356,
+        ocs:C24715,
+        ocs:C25484,
+        ocs:C26749,
+        ocs:C43680,
+        ocs:C6243,
+        ocs:C9657 .
+

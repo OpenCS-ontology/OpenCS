@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19696 a skos:Concept ;
+    skos:broader ocs:C11932,
+        ocs:C13757 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_compound> ;
+    skos:prefLabel "English compound" ;
+    skos:related ocs:C11932,
+        ocs:C13757,
+        ocs:C13868,
+        ocs:C15644,
+        ocs:C1952,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C28817,
+        ocs:C32159,
+        ocs:C32490,
+        ocs:C3261,
+        ocs:C34204,
+        ocs:C8454,
+        ocs:C9533 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37935 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nurse_scheduling_problem> ;
+    skos:prefLabel "Nurse scheduling problem" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C12530,
+        ocs:C13610,
+        ocs:C15253,
+        ocs:C23250,
+        ocs:C23872,
+        ocs:C2413,
+        ocs:C24647,
+        ocs:C29055,
+        ocs:C32917,
+        ocs:C38436,
+        ocs:C513,
+        ocs:C5691,
+        ocs:C5861,
+        ocs:C7553,
+        ocs:C8944 .
+

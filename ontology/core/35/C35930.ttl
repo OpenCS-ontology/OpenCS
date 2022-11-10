@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35930 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C18135,
+        ocs:C23966 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vertex_operator_algebra> ;
+    skos:prefLabel "Vertex operator algebra" ;
+    skos:related ocs:C18135,
+        ocs:C23209,
+        ocs:C32124,
+        ocs:C38728,
+        ocs:C42485 .
+

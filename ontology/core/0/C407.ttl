@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C407 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simplex_signaling> ;
+    skos:prefLabel "Simplex signaling" ;
+    skos:related ocs:C14615,
+        ocs:C20485,
+        ocs:C20983,
+        ocs:C30667,
+        ocs:C32291,
+        ocs:C36245,
+        ocs:C4007,
+        ocs:C40954,
+        ocs:C44863,
+        ocs:C520,
+        ocs:C5416,
+        ocs:C9345,
+        ocs:C9505 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17837 a skos:Concept ;
+    skos:broader ocs:C6919,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_qualitative_research> ;
+    skos:prefLabel "Online qualitative research" ;
+    skos:related ocs:C16586,
+        ocs:C19463,
+        ocs:C26015,
+        ocs:C6919,
+        ocs:C9939 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C794 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pointer_(computer_programming)> ;
+    skos:prefLabel "Pointer (computer programming)" ;
+    skos:related ocs:C10214,
+        ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C1333,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C25570,
+        ocs:C2885,
+        ocs:C39715,
+        ocs:C40322,
+        ocs:C5722,
+        ocs:C6255,
+        ocs:C9 .
+

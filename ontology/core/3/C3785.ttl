@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3785 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reverse_Polish_notation> ;
+    skos:prefLabel "Reverse Polish notation" ;
+    skos:related ocs:C1,
+        ocs:C10332,
+        ocs:C10557,
+        ocs:C12806,
+        ocs:C13411,
+        ocs:C15500,
+        ocs:C16733,
+        ocs:C19,
+        ocs:C25143,
+        ocs:C283,
+        ocs:C28408,
+        ocs:C33918,
+        ocs:C3561,
+        ocs:C4703,
+        ocs:C8441 .
+

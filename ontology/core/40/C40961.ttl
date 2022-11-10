@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40961 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_architecture_description> ;
+    skos:prefLabel "Software architecture description" ;
+    skos:related ocs:C14329,
+        ocs:C24477,
+        ocs:C2523,
+        ocs:C29840,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38885,
+        ocs:C39178,
+        ocs:C39332,
+        ocs:C40490,
+        ocs:C41641,
+        ocs:C42204,
+        ocs:C42495,
+        ocs:C43469,
+        ocs:C4451,
+        ocs:C44859,
+        ocs:C45437,
+        ocs:C5869 .
+

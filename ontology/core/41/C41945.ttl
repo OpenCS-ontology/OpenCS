@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41945 a skos:Concept ;
+    skos:broader ocs:C33146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bagarius_yarrelli> ;
+    skos:prefLabel "Bagarius yarrelli" ;
+    skos:related ocs:C24236,
+        ocs:C33146,
+        ocs:C37148,
+        ocs:C40967,
+        ocs:C41824,
+        ocs:C42957,
+        ocs:C43662,
+        ocs:C44889 .
+

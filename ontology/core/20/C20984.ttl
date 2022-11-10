@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20984 a skos:Concept ;
+    skos:broader ocs:C747 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foot-lambert> ;
+    skos:prefLabel "Foot-lambert" ;
+    skos:related ocs:C13100,
+        ocs:C21747,
+        ocs:C28466,
+        ocs:C6444,
+        ocs:C7981 .
+

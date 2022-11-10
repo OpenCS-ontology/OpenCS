@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8278 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oblique_projection> ;
+    skos:prefLabel "Oblique projection" ;
+    skos:related ocs:C1036,
+        ocs:C1095,
+        ocs:C2246,
+        ocs:C35621,
+        ocs:C4160,
+        ocs:C41932,
+        ocs:C9479,
+        ocs:C9933 .
+

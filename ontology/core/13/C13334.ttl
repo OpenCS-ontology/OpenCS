@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13334 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:prefLabel "Indic language" ;
+    skos:related ocs:C16,
+        ocs:C16589,
+        ocs:C17,
+        ocs:C18,
+        ocs:C2480,
+        ocs:C31,
+        ocs:C4373,
+        ocs:C5126 .
+

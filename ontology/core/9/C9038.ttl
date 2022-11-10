@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9038 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plessey_System_250> ;
+    skos:prefLabel "Plessey System 250" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C14063,
+        ocs:C15,
+        ocs:C15589,
+        ocs:C16295,
+        ocs:C17236,
+        ocs:C17881,
+        ocs:C21232,
+        ocs:C27610,
+        ocs:C2935,
+        ocs:C29359,
+        ocs:C41159,
+        ocs:C6072,
+        ocs:C9,
+        ocs:C9600 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10631 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_value> ;
+    skos:prefLabel "Knowledge value" ;
+    skos:related ocs:C10061,
+        ocs:C11021,
+        ocs:C11657,
+        ocs:C11762,
+        ocs:C12,
+        ocs:C2062,
+        ocs:C20786,
+        ocs:C25192,
+        ocs:C34300,
+        ocs:C35311,
+        ocs:C42305,
+        ocs:C5977,
+        ocs:C7634,
+        ocs:C8769 .
+

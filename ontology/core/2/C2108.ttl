@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2108 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poietic_Generator> ;
+    skos:prefLabel "Poietic Generator" ;
+    skos:related ocs:C10997,
+        ocs:C11026,
+        ocs:C20012,
+        ocs:C29276,
+        ocs:C3391,
+        ocs:C43776,
+        ocs:C45376,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C8614,
+        ocs:C9373 .
+

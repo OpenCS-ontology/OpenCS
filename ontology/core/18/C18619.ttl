@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18619 a skos:Concept ;
+    skos:broader ocs:C6909 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stationary_sequence> ;
+    skos:prefLabel "Stationary sequence" ;
+    skos:related ocs:C15256,
+        ocs:C16169,
+        ocs:C18102,
+        ocs:C1844,
+        ocs:C22334,
+        ocs:C32480,
+        ocs:C38568,
+        ocs:C41389,
+        ocs:C44669,
+        ocs:C45652 .
+

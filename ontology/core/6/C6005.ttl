@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6005 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deafblindness> ;
+    skos:prefLabel "Deafblind people" ;
+    skos:related ocs:C1051,
+        ocs:C12974,
+        ocs:C16,
+        ocs:C17,
+        ocs:C197,
+        ocs:C2,
+        ocs:C3,
+        ocs:C8566 .
+

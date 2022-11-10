@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29595 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C17856,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:prefLabel "Algebraic cryptanalysis" .
+

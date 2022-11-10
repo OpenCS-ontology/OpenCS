@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8240 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C23 ;
+    skos:closeMatch <http://dbpedia.org/resource/ACM_Computing_Classification_System> ;
+    skos:prefLabel "ACM Computing Classification System" ;
+    skos:related ocs:C1,
+        ocs:C14693,
+        ocs:C18,
+        ocs:C23756,
+        ocs:C28635,
+        ocs:C5251,
+        ocs:C8635 .
+

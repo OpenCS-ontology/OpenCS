@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34449 a skos:Concept ;
+    skos:broader ocs:C16874,
+        ocs:C17701,
+        ocs:C17905,
+        ocs:C18405,
+        ocs:C18567,
+        ocs:C24811,
+        ocs:C27386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Change_data_capture> ;
+    skos:prefLabel "Change data capture" ;
+    skos:related ocs:C1060,
+        ocs:C10926,
+        ocs:C12694,
+        ocs:C14153,
+        ocs:C16874,
+        ocs:C18381,
+        ocs:C18405,
+        ocs:C18567,
+        ocs:C20446,
+        ocs:C20517,
+        ocs:C224,
+        ocs:C23505,
+        ocs:C2528,
+        ocs:C28120,
+        ocs:C33744,
+        ocs:C35393,
+        ocs:C38452,
+        ocs:C3896,
+        ocs:C6,
+        ocs:C8184 .
+

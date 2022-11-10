@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6044 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Charlieplexing> ;
+    skos:prefLabel "Charlieplexing" ;
+    skos:related ocs:C12942,
+        ocs:C13386,
+        ocs:C21598,
+        ocs:C2241,
+        ocs:C22528,
+        ocs:C22530,
+        ocs:C24204,
+        ocs:C33099,
+        ocs:C39723,
+        ocs:C4863,
+        ocs:C6299,
+        ocs:C6538,
+        ocs:C9605 .
+

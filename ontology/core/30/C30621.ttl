@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30621 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diamond_graph> ;
+    skos:prefLabel "Diamond graph" ;
+    skos:related ocs:C17043,
+        ocs:C30730,
+        ocs:C30933,
+        ocs:C36770,
+        ocs:C38962,
+        ocs:C39477,
+        ocs:C39783,
+        ocs:C40694,
+        ocs:C41969,
+        ocs:C43097,
+        ocs:C43125,
+        ocs:C43374,
+        ocs:C44168,
+        ocs:C44281,
+        ocs:C45361,
+        ocs:C45842 .
+

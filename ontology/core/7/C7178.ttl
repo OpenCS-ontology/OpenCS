@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7178 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_design> ;
+    skos:prefLabel "Community design" ;
+    skos:related ocs:C13306,
+        ocs:C20093,
+        ocs:C22189,
+        ocs:C22439,
+        ocs:C26600,
+        ocs:C34393,
+        ocs:C767,
+        ocs:C7736 .
+

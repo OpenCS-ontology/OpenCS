@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7346 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Caption_contest> ;
+    skos:prefLabel "Caption contest" ;
+    skos:related ocs:C10225,
+        ocs:C10513,
+        ocs:C13428,
+        ocs:C2135,
+        ocs:C22683,
+        ocs:C6032,
+        ocs:C667 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45427 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C36703,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fuzzy_measure_theory> ;
+    skos:prefLabel "Fuzzy measure theory" ;
+    skos:related ocs:C11771,
+        ocs:C14579,
+        ocs:C33734,
+        ocs:C36703,
+        ocs:C43635,
+        ocs:C44764,
+        ocs:C45862,
+        ocs:C5032,
+        ocs:C5209,
+        ocs:C5659 .
+

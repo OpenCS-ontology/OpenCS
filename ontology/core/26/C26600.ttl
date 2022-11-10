@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26600 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_Cooperation_Treaty> ;
+    skos:prefLabel "Patent Cooperation Treaty" ;
+    skos:related ocs:C16340,
+        ocs:C22189,
+        ocs:C28912,
+        ocs:C30476 .
+

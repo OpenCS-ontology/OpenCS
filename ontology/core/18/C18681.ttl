@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18681 a skos:Concept ;
+    skos:broader ocs:C13210,
+        ocs:C5717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Suprasegmentals> ;
+    skos:prefLabel "Suprasegmentals" .
+

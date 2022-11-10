@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35231 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Behavior-based_robotics> ;
+    skos:prefLabel "Behavior-based robotics" ;
+    skos:related ocs:C10396,
+        ocs:C11143,
+        ocs:C13858,
+        ocs:C17236,
+        ocs:C23165,
+        ocs:C26519,
+        ocs:C29173,
+        ocs:C30824,
+        ocs:C31036,
+        ocs:C34368,
+        ocs:C3848,
+        ocs:C39358,
+        ocs:C40194,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C8701,
+        ocs:C8759 .
+

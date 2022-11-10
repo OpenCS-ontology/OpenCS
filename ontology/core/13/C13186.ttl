@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13186 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neuroinformatics> ;
+    skos:prefLabel "Neuroinformatics" ;
+    skos:related ocs:C12548,
+        ocs:C21772,
+        ocs:C33167,
+        ocs:C3848,
+        ocs:C3932,
+        ocs:C5070,
+        ocs:C9022 .
+

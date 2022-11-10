@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36822 a skos:Concept ;
+    skos:broader ocs:C17484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_RAID_levels> ;
+    skos:prefLabel "Standard RAID levels" ;
+    skos:related ocs:C10501,
+        ocs:C11281,
+        ocs:C13783,
+        ocs:C17903,
+        ocs:C20800,
+        ocs:C26157,
+        ocs:C29116,
+        ocs:C29846,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C37940,
+        ocs:C40928,
+        ocs:C42878,
+        ocs:C43308,
+        ocs:C673,
+        ocs:C7476 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18089 a skos:Concept ;
+    skos:broader ocs:C2115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_Data_Transfer_Standard> ;
+    skos:prefLabel "Spatial Data Transfer Standard" ;
+    skos:related ocs:C12317,
+        ocs:C13455,
+        ocs:C18574,
+        ocs:C20066,
+        ocs:C22573,
+        ocs:C24208,
+        ocs:C42090 .
+

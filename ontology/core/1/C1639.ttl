@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1639 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/NEWP> ;
+    skos:prefLabel "NEWP" ;
+    skos:related ocs:C10284,
+        ocs:C11501,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C14830,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C24544,
+        ocs:C2587,
+        ocs:C3036,
+        ocs:C3576,
+        ocs:C4022,
+        ocs:C4321,
+        ocs:C4832,
+        ocs:C5515,
+        ocs:C6024,
+        ocs:C659,
+        ocs:C6714,
+        ocs:C7289,
+        ocs:C9 .
+

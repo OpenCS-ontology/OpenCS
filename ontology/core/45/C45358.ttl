@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45358 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stress_testing_(software)> ;
+    skos:prefLabel "Stress testing (software)" ;
+    skos:related ocs:C1083,
+        ocs:C17235,
+        ocs:C18784,
+        ocs:C19404,
+        ocs:C21942,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C26339,
+        ocs:C27557,
+        ocs:C28,
+        ocs:C2863,
+        ocs:C35575,
+        ocs:C40291,
+        ocs:C42762,
+        ocs:C44389,
+        ocs:C45629,
+        ocs:C8559 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43209 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_over_IP> ;
+    skos:prefLabel "Audio over IP" ;
+    skos:related ocs:C11605,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27620,
+        ocs:C2917,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C3084,
+        ocs:C34235,
+        ocs:C34719,
+        ocs:C3853,
+        ocs:C39294,
+        ocs:C4197,
+        ocs:C44663,
+        ocs:C8515,
+        ocs:C8614 .
+

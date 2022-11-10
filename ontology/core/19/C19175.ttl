@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19175 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_interpretation> ;
+    skos:prefLabel "Language interpretation" ;
+    skos:related ocs:C14869,
+        ocs:C16631,
+        ocs:C17649,
+        ocs:C19,
+        ocs:C19406,
+        ocs:C23682,
+        ocs:C25188,
+        ocs:C4321,
+        ocs:C4710,
+        ocs:C5852,
+        ocs:C7858 .
+

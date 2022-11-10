@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7066 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/POP-2> ;
+    skos:prefLabel "POP-2" ;
+    skos:related ocs:C10219,
+        ocs:C12108,
+        ocs:C12974,
+        ocs:C15335,
+        ocs:C17667,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C22245,
+        ocs:C27380,
+        ocs:C4321,
+        ocs:C5515,
+        ocs:C5517,
+        ocs:C6024,
+        ocs:C6531,
+        ocs:C6723,
+        ocs:C7289,
+        ocs:C8,
+        ocs:C8441 .
+

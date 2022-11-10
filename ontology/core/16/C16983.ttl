@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16983 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brute-force_attack> ;
+    skos:prefLabel "Brute-force attack" ;
+    skos:related ocs:C16125,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C21623,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C35391,
+        ocs:C40332,
+        ocs:C40476,
+        ocs:C40900,
+        ocs:C40956,
+        ocs:C4218,
+        ocs:C43814,
+        ocs:C4513,
+        ocs:C45688,
+        ocs:C5052,
+        ocs:C5692 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9403 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Burst count" ;
+    skos:related ocs:C12582,
+        ocs:C17114,
+        ocs:C18807,
+        ocs:C222,
+        ocs:C23432,
+        ocs:C2878,
+        ocs:C33,
+        ocs:C6408,
+        ocs:C6588 .
+

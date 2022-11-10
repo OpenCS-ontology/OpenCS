@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16730 a skos:Concept ;
+    skos:broader ocs:C10135,
+        ocs:C10331,
+        ocs:C3968,
+        ocs:C490,
+        ocs:C8367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stream_Reservation_Protocol> ;
+    skos:prefLabel "Stream Reservation Protocol" ;
+    skos:related ocs:C12935,
+        ocs:C1307,
+        ocs:C13857,
+        ocs:C1398,
+        ocs:C15589,
+        ocs:C15804,
+        ocs:C1633,
+        ocs:C19722,
+        ocs:C20323,
+        ocs:C26,
+        ocs:C27620,
+        ocs:C32196,
+        ocs:C39009,
+        ocs:C4197,
+        ocs:C42692,
+        ocs:C44663,
+        ocs:C44780,
+        ocs:C490 .
+

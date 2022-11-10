@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27676 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dummy_pronoun> ;
+    skos:prefLabel "Dummy pronoun" ;
+    skos:related ocs:C1034,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C14349,
+        ocs:C1739,
+        ocs:C18082,
+        ocs:C18987,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C27994,
+        ocs:C29004,
+        ocs:C31817,
+        ocs:C32159,
+        ocs:C6545 .
+

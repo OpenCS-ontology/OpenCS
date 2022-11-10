@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16166 a skos:Concept ;
+    skos:broader ocs:C5197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bat_algorithm> ;
+    skos:prefLabel "Bat algorithm" ;
+    skos:related ocs:C11746,
+        ocs:C12530,
+        ocs:C13208,
+        ocs:C15670,
+        ocs:C18366,
+        ocs:C19750,
+        ocs:C22852,
+        ocs:C27563,
+        ocs:C28035,
+        ocs:C29055,
+        ocs:C33291,
+        ocs:C36684,
+        ocs:C44043,
+        ocs:C5197,
+        ocs:C7553 .
+

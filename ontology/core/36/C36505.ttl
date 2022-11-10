@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36505 a skos:Concept ;
+    skos:broader ocs:C22985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partition_refinement> ;
+    skos:prefLabel "Partition refinement" ;
+    skos:related ocs:C19352,
+        ocs:C28283,
+        ocs:C30307,
+        ocs:C31647,
+        ocs:C32333,
+        ocs:C38404,
+        ocs:C40216,
+        ocs:C41182,
+        ocs:C41484,
+        ocs:C41731,
+        ocs:C42401,
+        ocs:C42664,
+        ocs:C44192,
+        ocs:C44517 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15973 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oralism> ;
+    skos:prefLabel "Oralism" ;
+    skos:related ocs:C16631,
+        ocs:C20933,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26953,
+        ocs:C27530,
+        ocs:C30694,
+        ocs:C34292,
+        ocs:C35636,
+        ocs:C7501,
+        ocs:C7858 .
+

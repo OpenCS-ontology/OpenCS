@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15881 a skos:Concept ;
+    skos:broader ocs:C4768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manufacturing_resource_planning> ;
+    skos:prefLabel "Manufacturing resource planning" ;
+    skos:related ocs:C18732,
+        ocs:C23146,
+        ocs:C4768,
+        ocs:C4841,
+        ocs:C6,
+        ocs:C7914 .
+

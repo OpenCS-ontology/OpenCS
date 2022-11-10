@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42715 a skos:Concept ;
+    skos:broader ocs:C33886,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_dependence_prediction> ;
+    skos:prefLabel "Memory dependence prediction" ;
+    skos:related ocs:C10320,
+        ocs:C1721,
+        ocs:C26791,
+        ocs:C27610,
+        ocs:C28073,
+        ocs:C33375,
+        ocs:C34090,
+        ocs:C35009,
+        ocs:C37461,
+        ocs:C40036,
+        ocs:C41964,
+        ocs:C5625,
+        ocs:C8180,
+        ocs:C9487 .
+

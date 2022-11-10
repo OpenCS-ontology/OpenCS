@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13431 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airchain> ;
+    skos:prefLabel "Airchain" ;
+    skos:related ocs:C12999,
+        ocs:C1490,
+        ocs:C155,
+        ocs:C21364,
+        ocs:C26575,
+        ocs:C28716,
+        ocs:C2952,
+        ocs:C3853,
+        ocs:C39294,
+        ocs:C42788,
+        ocs:C44663,
+        ocs:C520,
+        ocs:C7300 .
+

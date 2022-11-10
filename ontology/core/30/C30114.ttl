@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30114 a skos:Concept ;
+    skos:broader ocs:C25012 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recovery_point_objective> ;
+    skos:prefLabel "Recovery point objective" ;
+    skos:related ocs:C1253,
+        ocs:C12988,
+        ocs:C13412,
+        ocs:C13550,
+        ocs:C15587,
+        ocs:C22104,
+        ocs:C24942,
+        ocs:C25012,
+        ocs:C27259,
+        ocs:C6173,
+        ocs:C621,
+        ocs:C694,
+        ocs:C7476,
+        ocs:C9035,
+        ocs:C9447 .
+

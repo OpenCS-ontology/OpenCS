@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13073 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21 ;
+    skos:prefLabel "Noise sensitivity" ;
+    skos:related ocs:C1501,
+        ocs:C16,
+        ocs:C21,
+        ocs:C2875,
+        ocs:C3,
+        ocs:C3401,
+        ocs:C669,
+        ocs:C8021 .
+

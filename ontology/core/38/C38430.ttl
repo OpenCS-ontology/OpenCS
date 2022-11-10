@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38430 a skos:Concept ;
+    skos:broader ocs:C32254,
+        ocs:C36077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Painter's_algorithm> ;
+    skos:prefLabel "Painter's algorithm" ;
+    skos:related ocs:C11325,
+        ocs:C15632,
+        ocs:C17815,
+        ocs:C18519,
+        ocs:C19700,
+        ocs:C21609,
+        ocs:C23566,
+        ocs:C27264,
+        ocs:C30435,
+        ocs:C32254,
+        ocs:C32394,
+        ocs:C36168,
+        ocs:C39921,
+        ocs:C40203,
+        ocs:C41077,
+        ocs:C43204,
+        ocs:C43751,
+        ocs:C6238 .
+

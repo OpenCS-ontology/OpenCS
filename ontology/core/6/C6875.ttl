@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6875 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Joint_Computer_Conference> ;
+    skos:prefLabel "Joint Computer Conference" ;
+    skos:related ocs:C10320,
+        ocs:C10772,
+        ocs:C1130,
+        ocs:C12851,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C14538,
+        ocs:C1498,
+        ocs:C20516,
+        ocs:C28881,
+        ocs:C3036,
+        ocs:C37013,
+        ocs:C490,
+        ocs:C5702,
+        ocs:C6714,
+        ocs:C7914,
+        ocs:C8614,
+        ocs:C9 .
+

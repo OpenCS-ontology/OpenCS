@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7284 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:prefLabel "Delay Duration" ;
+    skos:related ocs:C19721,
+        ocs:C2,
+        ocs:C33,
+        ocs:C433,
+        ocs:C8010,
+        ocs:C8021,
+        ocs:C8704 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6238 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Warnock_algorithm> ;
+    skos:prefLabel "Warnock algorithm" ;
+    skos:related ocs:C11325,
+        ocs:C15632,
+        ocs:C16042,
+        ocs:C17815,
+        ocs:C19043,
+        ocs:C19229,
+        ocs:C19700,
+        ocs:C22,
+        ocs:C27264,
+        ocs:C2747,
+        ocs:C28280,
+        ocs:C29600,
+        ocs:C29796,
+        ocs:C30435,
+        ocs:C38430,
+        ocs:C40203,
+        ocs:C41077,
+        ocs:C42716,
+        ocs:C8670 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22146 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C9022,
+        ocs:C9106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_neural_network> ;
+    skos:prefLabel "Semantic neural network" ;
+    skos:related ocs:C13277,
+        ocs:C23422,
+        ocs:C2418,
+        ocs:C25,
+        ocs:C28286,
+        ocs:C2985,
+        ocs:C32,
+        ocs:C33952,
+        ocs:C5852,
+        ocs:C6072,
+        ocs:C6692,
+        ocs:C8,
+        ocs:C8710,
+        ocs:C9022,
+        ocs:C928 .
+

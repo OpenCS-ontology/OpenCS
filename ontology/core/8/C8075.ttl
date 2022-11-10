@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8075 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correspondence_problem> ;
+    skos:prefLabel "Correspondence problem" ;
+    skos:related ocs:C10,
+        ocs:C11774,
+        ocs:C12401,
+        ocs:C13549,
+        ocs:C13745,
+        ocs:C14925,
+        ocs:C20207,
+        ocs:C22975,
+        ocs:C23153,
+        ocs:C2422,
+        ocs:C25249,
+        ocs:C2703,
+        ocs:C2883,
+        ocs:C36940,
+        ocs:C7,
+        ocs:C948 .
+

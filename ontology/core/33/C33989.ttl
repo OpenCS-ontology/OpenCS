@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33989 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Petersson_trace_formula> ;
+    skos:prefLabel "Petersson trace formula" ;
+    skos:related ocs:C16169,
+        ocs:C24512,
+        ocs:C29134,
+        ocs:C41634,
+        ocs:C45445 .
+

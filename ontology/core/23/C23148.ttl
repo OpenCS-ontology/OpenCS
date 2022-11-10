@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23148 a skos:Concept ;
+    skos:broader ocs:C11252,
+        ocs:C13686,
+        ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_circuit> ;
+    skos:prefLabel "Boolean circuit" ;
+    skos:related ocs:C11252,
+        ocs:C12781,
+        ocs:C13686,
+        ocs:C16696,
+        ocs:C19673,
+        ocs:C20382,
+        ocs:C21332,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C29,
+        ocs:C3678,
+        ocs:C3894,
+        ocs:C45339,
+        ocs:C8660,
+        ocs:C8791,
+        ocs:C9450 .
+

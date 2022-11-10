@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45106 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C34752,
+        ocs:C35008,
+        ocs:C35391,
+        ocs:C36136,
+        ocs:C37517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptographic_key_types> ;
+    skos:prefLabel "Cryptographic key types" ;
+    skos:related ocs:C1186,
+        ocs:C16125,
+        ocs:C16690,
+        ocs:C20922,
+        ocs:C22251,
+        ocs:C23230,
+        ocs:C25500,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C33459,
+        ocs:C34895,
+        ocs:C36136,
+        ocs:C40736,
+        ocs:C4218,
+        ocs:C43880,
+        ocs:C44481,
+        ocs:C4751,
+        ocs:C4909 .
+

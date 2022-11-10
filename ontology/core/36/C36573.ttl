@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36573 a skos:Concept ;
+    skos:broader ocs:C21268 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamicism> ;
+    skos:prefLabel "Dynamicism" ;
+    skos:related ocs:C10410,
+        ocs:C10887,
+        ocs:C21268,
+        ocs:C29527,
+        ocs:C41473,
+        ocs:C8701 .
+

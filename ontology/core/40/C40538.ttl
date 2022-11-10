@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40538 a skos:Concept ;
+    skos:broader ocs:C33191 ;
+    skos:closeMatch <http://dbpedia.org/resource/De-identification> ;
+    skos:prefLabel "De-identification" ;
+    skos:related ocs:C12378,
+        ocs:C12510,
+        ocs:C13,
+        ocs:C14831,
+        ocs:C23108,
+        ocs:C25527,
+        ocs:C27255,
+        ocs:C28085,
+        ocs:C35814,
+        ocs:C394,
+        ocs:C40486,
+        ocs:C7510 .
+

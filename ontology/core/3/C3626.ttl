@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3626 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/XDR_Schema> ;
+    skos:prefLabel "XDR Schema" ;
+    skos:related ocs:C11927,
+        ocs:C13252,
+        ocs:C16159,
+        ocs:C18361,
+        ocs:C19693,
+        ocs:C23709,
+        ocs:C24486,
+        ocs:C26630,
+        ocs:C31929,
+        ocs:C33272,
+        ocs:C35992,
+        ocs:C38883,
+        ocs:C40902,
+        ocs:C43819,
+        ocs:C44193,
+        ocs:C44843,
+        ocs:C45664,
+        ocs:C45693,
+        ocs:C6744 .
+

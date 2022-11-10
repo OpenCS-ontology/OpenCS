@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4219 a skos:Concept ;
+    skos:broader ocs:C14,
+        ocs:C17,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classes_of_computers> ;
+    skos:prefLabel "Classes of computers" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C11,
+        ocs:C12851,
+        ocs:C15478,
+        ocs:C19487,
+        ocs:C21125,
+        ocs:C2464,
+        ocs:C26030,
+        ocs:C29012,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C8614,
+        ocs:C8787,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9540 .
+

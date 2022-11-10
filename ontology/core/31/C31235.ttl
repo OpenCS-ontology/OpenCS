@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31235 a skos:Concept ;
+    skos:broader ocs:C29280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_shift> ;
+    skos:prefLabel "Circular shift" ;
+    skos:related ocs:C10719,
+        ocs:C11282,
+        ocs:C18434,
+        ocs:C24353,
+        ocs:C27882,
+        ocs:C29280,
+        ocs:C30333,
+        ocs:C44441,
+        ocs:C4622,
+        ocs:C4811,
+        ocs:C4937,
+        ocs:C524 .
+

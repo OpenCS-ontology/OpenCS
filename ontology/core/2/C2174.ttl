@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2174 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preference_learning> ;
+    skos:prefLabel "Preference learning" ;
+    skos:related ocs:C11030,
+        ocs:C11508,
+        ocs:C12864,
+        ocs:C13806,
+        ocs:C15346,
+        ocs:C15879,
+        ocs:C17322,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C21157,
+        ocs:C24136,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C28523,
+        ocs:C3056,
+        ocs:C38726,
+        ocs:C41650,
+        ocs:C8 .
+

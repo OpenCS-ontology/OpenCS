@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20330 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/End-to-end_delay> ;
+    skos:prefLabel "End-to-end delay" ;
+    skos:related ocs:C10913,
+        ocs:C14134,
+        ocs:C14210,
+        ocs:C15065,
+        ocs:C16243,
+        ocs:C16953,
+        ocs:C18502,
+        ocs:C18971,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C31729,
+        ocs:C33381,
+        ocs:C4197,
+        ocs:C44663,
+        ocs:C5616,
+        ocs:C8614 .
+

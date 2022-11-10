@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17168 a skos:Concept ;
+    skos:broader ocs:C9608,
+        ocs:C9781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rank_reversals_in_decision-making> ;
+    skos:prefLabel "Rank reversals in decision-making" ;
+    skos:related ocs:C17414,
+        ocs:C22628,
+        ocs:C22673,
+        ocs:C27265,
+        ocs:C32194,
+        ocs:C33161,
+        ocs:C36383,
+        ocs:C38630,
+        ocs:C38996,
+        ocs:C41595,
+        ocs:C5352,
+        ocs:C8124 .
+

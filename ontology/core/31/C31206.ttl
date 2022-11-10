@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31206 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Callichthyidae> ;
+    skos:prefLabel "Callichthyidae" ;
+    skos:related ocs:C24236,
+        ocs:C31573,
+        ocs:C32781,
+        ocs:C36328,
+        ocs:C36867,
+        ocs:C37403,
+        ocs:C38607,
+        ocs:C39063,
+        ocs:C41560,
+        ocs:C42290,
+        ocs:C43137 .
+

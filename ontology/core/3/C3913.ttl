@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3913 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stack_(abstract_data_type)> ;
+    skos:prefLabel "Stack (abstract data type)" ;
+    skos:related ocs:C10320,
+        ocs:C19,
+        ocs:C19487,
+        ocs:C2009,
+        ocs:C2050,
+        ocs:C21718,
+        ocs:C28116,
+        ocs:C28232,
+        ocs:C283,
+        ocs:C2885,
+        ocs:C31203,
+        ocs:C38925,
+        ocs:C41659,
+        ocs:C5722,
+        ocs:C5745,
+        ocs:C8022,
+        ocs:C856,
+        ocs:C9 .
+

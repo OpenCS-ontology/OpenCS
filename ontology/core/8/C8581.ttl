@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8581 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arbitrary-precision_arithmetic> ;
+    skos:prefLabel "Arbitrary-precision arithmetic" ;
+    skos:related ocs:C10,
+        ocs:C12262,
+        ocs:C16377,
+        ocs:C18434,
+        ocs:C19,
+        ocs:C19487,
+        ocs:C22452,
+        ocs:C22525,
+        ocs:C31030,
+        ocs:C4816,
+        ocs:C6255,
+        ocs:C6941 .
+

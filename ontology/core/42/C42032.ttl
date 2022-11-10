@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42032 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_conversion> ;
+    skos:prefLabel "Type conversion" ;
+    skos:related ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12262,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C24970,
+        ocs:C25460,
+        ocs:C2879,
+        ocs:C31014,
+        ocs:C4321,
+        ocs:C5280,
+        ocs:C6255,
+        ocs:C794,
+        ocs:C8193 .
+

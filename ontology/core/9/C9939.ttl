@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9939 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_interview> ;
+    skos:prefLabel "Online interview" ;
+    skos:related ocs:C16586,
+        ocs:C17658,
+        ocs:C17837,
+        ocs:C19463,
+        ocs:C23866,
+        ocs:C25547,
+        ocs:C26217,
+        ocs:C3444,
+        ocs:C6919,
+        ocs:C8614 .
+

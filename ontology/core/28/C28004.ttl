@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28004 a skos:Concept ;
+    skos:broader ocs:C4090 ;
+    skos:prefLabel "Biosatellites" ;
+    skos:related ocs:C22,
+        ocs:C2252,
+        ocs:C22930,
+        ocs:C4718,
+        ocs:C5293 .
+

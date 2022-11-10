@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38480 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bound_graph> ;
+    skos:prefLabel "Bound graph" ;
+    skos:related ocs:C15414,
+        ocs:C19336,
+        ocs:C31884,
+        ocs:C32111,
+        ocs:C32333,
+        ocs:C34051,
+        ocs:C36126,
+        ocs:C36279,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C38220,
+        ocs:C38535,
+        ocs:C40694,
+        ocs:C40880,
+        ocs:C41484,
+        ocs:C41969,
+        ocs:C42098,
+        ocs:C42525,
+        ocs:C43567,
+        ocs:C45746 .
+

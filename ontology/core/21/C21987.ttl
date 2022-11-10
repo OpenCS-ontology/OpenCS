@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21987 a skos:Concept ;
+    skos:broader ocs:C13837 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amateur_radio_operator> ;
+    skos:prefLabel "Amateur radio operator" ;
+    skos:related ocs:C10409,
+        ocs:C11669,
+        ocs:C12757,
+        ocs:C14053,
+        ocs:C16547,
+        ocs:C18001,
+        ocs:C3310,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C5369,
+        ocs:C597,
+        ocs:C6034,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C8169 .
+

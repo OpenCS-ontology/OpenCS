@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14523 a skos:Concept ;
+    skos:broader ocs:C2682 ;
+    skos:prefLabel "Specific data source" ;
+    skos:related ocs:C13,
+        ocs:C13187,
+        ocs:C174,
+        ocs:C18567,
+        ocs:C5722 .
+

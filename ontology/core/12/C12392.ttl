@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12392 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_3090> ;
+    skos:prefLabel "IBM 3090" ;
+    skos:related ocs:C10320,
+        ocs:C11207,
+        ocs:C12262,
+        ocs:C14271,
+        ocs:C15,
+        ocs:C15733,
+        ocs:C2352,
+        ocs:C2478,
+        ocs:C40691,
+        ocs:C42662,
+        ocs:C6714,
+        ocs:C7735,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9850 .
+

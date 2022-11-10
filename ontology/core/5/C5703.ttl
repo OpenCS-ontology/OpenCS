@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5703 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Score_(statistics)> ;
+    skos:prefLabel "Score" ;
+    skos:related ocs:C10222,
+        ocs:C11025,
+        ocs:C13685,
+        ocs:C13877,
+        ocs:C14030,
+        ocs:C19420,
+        ocs:C23664,
+        ocs:C29461,
+        ocs:C34590,
+        ocs:C35658,
+        ocs:C38623,
+        ocs:C7908 .
+

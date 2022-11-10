@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38873 a skos:Concept ;
+    skos:broader ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_architect> ;
+    skos:prefLabel "Data architect" ;
+    skos:related ocs:C10141,
+        ocs:C10609,
+        ocs:C10979,
+        ocs:C12694,
+        ocs:C18539,
+        ocs:C18791,
+        ocs:C2414,
+        ocs:C25681,
+        ocs:C31201,
+        ocs:C34720,
+        ocs:C35637,
+        ocs:C38667,
+        ocs:C3896,
+        ocs:C40270,
+        ocs:C44842,
+        ocs:C45437,
+        ocs:C8500 .
+

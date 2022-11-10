@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33921 a skos:Concept ;
+    skos:broader ocs:C22284,
+        ocs:C28944,
+        ocs:C29215 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_concurrency> ;
+    skos:prefLabel "Java concurrency" ;
+    skos:related ocs:C10320,
+        ocs:C1142,
+        ocs:C13315,
+        ocs:C16588,
+        ocs:C16747,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C2983,
+        ocs:C3514,
+        ocs:C36373,
+        ocs:C39243,
+        ocs:C39342,
+        ocs:C3981,
+        ocs:C43851,
+        ocs:C5551,
+        ocs:C8204 .
+

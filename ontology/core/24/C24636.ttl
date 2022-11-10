@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24636 a skos:Concept ;
+    skos:broader ocs:C12812,
+        ocs:C5698,
+        ocs:C7106,
+        ocs:C8704 ;
+    skos:prefLabel "Cloudsim simulator" .
+

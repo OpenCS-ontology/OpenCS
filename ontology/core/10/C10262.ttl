@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10262 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Location_intelligence> ;
+    skos:prefLabel "Location intelligence" ;
+    skos:related ocs:C10764,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C14626,
+        ocs:C15046,
+        ocs:C1728,
+        ocs:C18025,
+        ocs:C19079,
+        ocs:C2115,
+        ocs:C22573,
+        ocs:C24208,
+        ocs:C37135,
+        ocs:C37642,
+        ocs:C44052,
+        ocs:C9163 .
+

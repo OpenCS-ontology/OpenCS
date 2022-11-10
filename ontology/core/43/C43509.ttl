@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43509 a skos:Concept ;
+    skos:broader ocs:C32262,
+        ocs:C35197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Directory_Access_Protocol> ;
+    skos:prefLabel "Directory Access Protocol" ;
+    skos:related ocs:C11091,
+        ocs:C13718,
+        ocs:C14417,
+        ocs:C15411,
+        ocs:C25938,
+        ocs:C26499,
+        ocs:C29190,
+        ocs:C29359,
+        ocs:C32262,
+        ocs:C35197,
+        ocs:C36401,
+        ocs:C380,
+        ocs:C3968,
+        ocs:C40789,
+        ocs:C45641,
+        ocs:C8105 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20496 a skos:Concept ;
+    skos:broader ocs:C13046,
+        ocs:C3678,
+        ocs:C746,
+        ocs:C8517 ;
+    skos:prefLabel "Frequency domain adaptive filtering" .
+

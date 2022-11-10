@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8859 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ordinal_logic> ;
+    skos:prefLabel "Ordinal logic" ;
+    skos:related ocs:C10,
+        ocs:C10588,
+        ocs:C12346,
+        ocs:C12474,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C29,
+        ocs:C29299,
+        ocs:C31529,
+        ocs:C34693,
+        ocs:C36575,
+        ocs:C39944,
+        ocs:C42139 .
+

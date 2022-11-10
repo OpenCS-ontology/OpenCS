@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27882 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bitwise_operation> ;
+    skos:prefLabel "Bitwise operation" ;
+    skos:related ocs:C10,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C12262,
+        ocs:C13025,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C37538,
+        ocs:C3931,
+        ocs:C4622,
+        ocs:C6911,
+        ocs:C856 .
+

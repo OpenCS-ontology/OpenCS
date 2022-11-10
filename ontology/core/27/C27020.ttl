@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27020 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Composite_epoxy_material> ;
+    skos:prefLabel "Composite epoxy material" ;
+    skos:related ocs:C22967,
+        ocs:C28797,
+        ocs:C4469 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25040 a skos:Concept ;
+    skos:broader ocs:C10534,
+        ocs:C2005 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kernel_method> ;
+    skos:prefLabel "Kernel method" ;
+    skos:related ocs:C11030,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C27703,
+        ocs:C31695,
+        ocs:C32289,
+        ocs:C32918,
+        ocs:C33141,
+        ocs:C3512,
+        ocs:C38984,
+        ocs:C41589,
+        ocs:C45844,
+        ocs:C6912,
+        ocs:C9022 .
+

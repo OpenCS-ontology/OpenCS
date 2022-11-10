@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42459 a skos:Concept ;
+    skos:broader ocs:C29803 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_Parameter_Index> ;
+    skos:prefLabel "Security Parameter Index" ;
+    skos:related ocs:C18213,
+        ocs:C19227,
+        ocs:C20119,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C23666,
+        ocs:C29359,
+        ocs:C32642,
+        ocs:C33957,
+        ocs:C34194,
+        ocs:C34800,
+        ocs:C35969,
+        ocs:C37209,
+        ocs:C38359,
+        ocs:C39435,
+        ocs:C40753,
+        ocs:C41726,
+        ocs:C42909,
+        ocs:C44970,
+        ocs:C45551 .
+

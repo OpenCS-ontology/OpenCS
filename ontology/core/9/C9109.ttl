@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9109 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Account_aggregation> ;
+    skos:prefLabel "Account aggregation" ;
+    skos:related ocs:C12810,
+        ocs:C14011,
+        ocs:C15597,
+        ocs:C20937,
+        ocs:C22450,
+        ocs:C24131,
+        ocs:C24143,
+        ocs:C26528,
+        ocs:C28781,
+        ocs:C30848,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C3520,
+        ocs:C37361,
+        ocs:C40346,
+        ocs:C45494,
+        ocs:C7875 .
+

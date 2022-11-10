@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7370 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trakhtenbrot's_theorem> ;
+    skos:prefLabel "Trakhtenbrot's theorem" ;
+    skos:related ocs:C1205,
+        ocs:C12474,
+        ocs:C14986,
+        ocs:C1604,
+        ocs:C20939,
+        ocs:C2138,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C26756,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C3515,
+        ocs:C36945,
+        ocs:C6778,
+        ocs:C862,
+        ocs:C8635,
+        ocs:C9313 .
+

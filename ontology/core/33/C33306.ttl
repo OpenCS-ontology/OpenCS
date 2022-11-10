@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33306 a skos:Concept ;
+    skos:broader ocs:C21027 ;
+    skos:closeMatch <http://dbpedia.org/resource/Midhinge> ;
+    skos:prefLabel "Midhinge" ;
+    skos:related ocs:C12811,
+        ocs:C22455,
+        ocs:C24728,
+        ocs:C25294,
+        ocs:C36906,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C662 .
+

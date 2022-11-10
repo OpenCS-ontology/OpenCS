@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11821 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tone_letter> ;
+    skos:prefLabel "Tone letter" ;
+    skos:related ocs:C10187,
+        ocs:C11398,
+        ocs:C18819,
+        ocs:C2025,
+        ocs:C22271,
+        ocs:C24459,
+        ocs:C25538,
+        ocs:C25698,
+        ocs:C25849,
+        ocs:C26180,
+        ocs:C26940,
+        ocs:C27886,
+        ocs:C37050,
+        ocs:C37265,
+        ocs:C5862,
+        ocs:C7131,
+        ocs:C7310 .
+

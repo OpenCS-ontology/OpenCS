@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17154 a skos:Concept ;
+    skos:broader ocs:C10534,
+        ocs:C11150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kernel_(image_processing)> ;
+    skos:prefLabel "Kernel (image processing)" ;
+    skos:related ocs:C11150,
+        ocs:C11253,
+        ocs:C13684,
+        ocs:C13970,
+        ocs:C14863,
+        ocs:C21200,
+        ocs:C2216,
+        ocs:C26688,
+        ocs:C26812,
+        ocs:C27903,
+        ocs:C28754,
+        ocs:C30877,
+        ocs:C32156,
+        ocs:C34906,
+        ocs:C36137,
+        ocs:C37394,
+        ocs:C37582,
+        ocs:C38864,
+        ocs:C40344 .
+

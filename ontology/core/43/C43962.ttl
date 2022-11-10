@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43962 a skos:Concept ;
+    skos:broader ocs:C30704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Black_balance> ;
+    skos:prefLabel "Black balance" ;
+    skos:related ocs:C10700,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C22544,
+        ocs:C22613,
+        ocs:C25122,
+        ocs:C29365,
+        ocs:C33388,
+        ocs:C6019,
+        ocs:C7789 .
+

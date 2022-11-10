@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7692 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/360-degree_feedback> ;
+    skos:prefLabel "360-degree feedback" ;
+    skos:related ocs:C10134,
+        ocs:C16483,
+        ocs:C3738,
+        ocs:C5092,
+        ocs:C9328 .
+

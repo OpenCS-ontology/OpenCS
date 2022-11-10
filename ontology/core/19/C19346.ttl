@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19346 a skos:Concept ;
+    skos:broader ocs:C12812 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_migration> ;
+    skos:prefLabel "Process migration" ;
+    skos:related ocs:C12683,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C29376,
+        ocs:C29554,
+        ocs:C30,
+        ocs:C3948,
+        ocs:C5613,
+        ocs:C6312,
+        ocs:C6346,
+        ocs:C7735,
+        ocs:C8032,
+        ocs:C8704,
+        ocs:C8901,
+        ocs:C9 .
+

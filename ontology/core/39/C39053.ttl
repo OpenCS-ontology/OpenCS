@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39053 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C31489,
+        ocs:C33138,
+        ocs:C35926 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTree> ;
+    skos:prefLabel "HTree" ;
+    skos:related ocs:C20127,
+        ocs:C20800,
+        ocs:C22970,
+        ocs:C26456,
+        ocs:C31489,
+        ocs:C32362,
+        ocs:C35398,
+        ocs:C37404,
+        ocs:C38031,
+        ocs:C38346,
+        ocs:C40109,
+        ocs:C40763,
+        ocs:C41512,
+        ocs:C43104,
+        ocs:C43718,
+        ocs:C44617,
+        ocs:C7476,
+        ocs:C8522,
+        ocs:C8893,
+        ocs:C9938 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28702 a skos:Concept ;
+    skos:broader ocs:C8387 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_of_systems> ;
+    skos:prefLabel "System of systems" ;
+    skos:related ocs:C1,
+        ocs:C10720,
+        ocs:C10997,
+        ocs:C1253,
+        ocs:C14329,
+        ocs:C1502,
+        ocs:C1630,
+        ocs:C18436,
+        ocs:C28,
+        ocs:C30528,
+        ocs:C41641,
+        ocs:C44906,
+        ocs:C5863,
+        ocs:C9224 .
+

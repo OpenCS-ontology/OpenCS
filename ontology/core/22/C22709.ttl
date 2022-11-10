@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22709 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C11152,
+        ocs:C11927,
+        ocs:C13252 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML-RPC> ;
+    skos:prefLabel "XML-RPC" ;
+    skos:related ocs:C10249,
+        ocs:C10904,
+        ocs:C11152,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C14418,
+        ocs:C14966,
+        ocs:C17238,
+        ocs:C18398,
+        ocs:C22597,
+        ocs:C2599,
+        ocs:C2674,
+        ocs:C28941,
+        ocs:C39643,
+        ocs:C40833,
+        ocs:C42755,
+        ocs:C4500,
+        ocs:C4918,
+        ocs:C661 .
+

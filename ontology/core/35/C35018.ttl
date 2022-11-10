@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35018 a skos:Concept ;
+    skos:broader ocs:C24340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Melogold> ;
+    skos:prefLabel "Melogold" ;
+    skos:related ocs:C16367,
+        ocs:C24340,
+        ocs:C28650 .
+

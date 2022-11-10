@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44767 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tag_RAM> ;
+    skos:prefLabel "Tag RAM" ;
+    skos:related ocs:C17698,
+        ocs:C23864,
+        ocs:C27610,
+        ocs:C30274,
+        ocs:C3118,
+        ocs:C3586,
+        ocs:C37234,
+        ocs:C39646,
+        ocs:C40068,
+        ocs:C40922,
+        ocs:C41201,
+        ocs:C43131,
+        ocs:C44418,
+        ocs:C45910 .
+

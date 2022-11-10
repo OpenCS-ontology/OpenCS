@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30213 a skos:Concept ;
+    skos:broader ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robopsychology> ;
+    skos:prefLabel "Robopsychology" ;
+    skos:related ocs:C10396,
+        ocs:C11381,
+        ocs:C17117,
+        ocs:C17236,
+        ocs:C31197,
+        ocs:C35805,
+        ocs:C3694,
+        ocs:C37107,
+        ocs:C44350,
+        ocs:C7107,
+        ocs:C7334,
+        ocs:C8 .
+

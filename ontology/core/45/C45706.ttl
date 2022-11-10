@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45706 a skos:Concept ;
+    skos:broader ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interval_scheduling> ;
+    skos:prefLabel "Interval scheduling" ;
+    skos:related ocs:C1446,
+        ocs:C15675,
+        ocs:C20674,
+        ocs:C22946,
+        ocs:C30401,
+        ocs:C31026,
+        ocs:C31148,
+        ocs:C32806,
+        ocs:C36279,
+        ocs:C39136,
+        ocs:C41731,
+        ocs:C4203,
+        ocs:C43638,
+        ocs:C43652,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C6774,
+        ocs:C77,
+        ocs:C8660 .
+

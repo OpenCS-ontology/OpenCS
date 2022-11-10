@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12227 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPI-4.2> ;
+    skos:prefLabel "SPI-4.2" ;
+    skos:related ocs:C14856,
+        ocs:C15589,
+        ocs:C18745,
+        ocs:C20934,
+        ocs:C2189,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C2842,
+        ocs:C29862,
+        ocs:C33551,
+        ocs:C36329,
+        ocs:C36412,
+        ocs:C40784,
+        ocs:C6245,
+        ocs:C8567,
+        ocs:C9931 .
+

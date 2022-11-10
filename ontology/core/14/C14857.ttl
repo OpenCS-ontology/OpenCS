@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14857 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C9049 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anti-replay> ;
+    skos:prefLabel "Anti-replay" ;
+    skos:related ocs:C18213,
+        ocs:C21203,
+        ocs:C23567,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24563,
+        ocs:C29803,
+        ocs:C33957,
+        ocs:C34235,
+        ocs:C36896,
+        ocs:C3989,
+        ocs:C40328,
+        ocs:C41934,
+        ocs:C42909,
+        ocs:C44103,
+        ocs:C44603,
+        ocs:C45147,
+        ocs:C4657,
+        ocs:C8995 .
+

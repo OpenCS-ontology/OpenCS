@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20493 a skos:Concept ;
+    skos:broader ocs:C248,
+        ocs:C2801,
+        ocs:C4256,
+        ocs:C6116,
+        ocs:C9538 ;
+    skos:prefLabel "Spectral regression" .
+

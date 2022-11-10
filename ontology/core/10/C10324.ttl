@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10324 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_correspondence_analysis> ;
+    skos:prefLabel "Multiple correspondence analysis" ;
+    skos:related ocs:C10382,
+        ocs:C18074,
+        ocs:C28118,
+        ocs:C312,
+        ocs:C31695,
+        ocs:C31721,
+        ocs:C3389,
+        ocs:C4256,
+        ocs:C5073,
+        ocs:C6912,
+        ocs:C8084,
+        ocs:C9538 .
+

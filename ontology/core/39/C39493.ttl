@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39493 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dominance_drawing> ;
+    skos:prefLabel "Dominance drawing" ;
+    skos:related ocs:C13613,
+        ocs:C15414,
+        ocs:C15490,
+        ocs:C18800,
+        ocs:C20376,
+        ocs:C27330,
+        ocs:C30307,
+        ocs:C32819,
+        ocs:C35574,
+        ocs:C36406,
+        ocs:C40783,
+        ocs:C41540,
+        ocs:C42616,
+        ocs:C42723,
+        ocs:C43652,
+        ocs:C7109 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20995 a skos:Concept ;
+    skos:broader ocs:C11280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wound_ballistics> ;
+    skos:prefLabel "Wound ballistics" ;
+    skos:related ocs:C11280,
+        ocs:C15840,
+        ocs:C22484,
+        ocs:C27381,
+        ocs:C4861 .
+

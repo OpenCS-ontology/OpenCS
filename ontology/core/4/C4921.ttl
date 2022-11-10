@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4921 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Versa_(query_language)> ;
+    skos:prefLabel "Versa" ;
+    skos:related ocs:C11927,
+        ocs:C12185,
+        ocs:C16739,
+        ocs:C17103,
+        ocs:C18361,
+        ocs:C264,
+        ocs:C32170,
+        ocs:C33052,
+        ocs:C33281,
+        ocs:C33916,
+        ocs:C36924,
+        ocs:C38072,
+        ocs:C39973,
+        ocs:C45387,
+        ocs:C6,
+        ocs:C6074,
+        ocs:C6553,
+        ocs:C9836 .
+

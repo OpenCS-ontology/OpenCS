@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16303 a skos:Concept ;
+    skos:broader ocs:C122 ;
+    skos:closeMatch <http://dbpedia.org/resource/Selection_rule> ;
+    skos:prefLabel "Selection rule" ;
+    skos:related ocs:C597 .
+

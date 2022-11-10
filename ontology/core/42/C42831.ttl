@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42831 a skos:Concept ;
+    skos:broader ocs:C34615 ;
+    skos:closeMatch <http://dbpedia.org/resource/Epistemicism> ;
+    skos:prefLabel "Epistemicism" ;
+    skos:related ocs:C20451,
+        ocs:C21672,
+        ocs:C22456,
+        ocs:C28677,
+        ocs:C29206,
+        ocs:C31776,
+        ocs:C34615,
+        ocs:C37730,
+        ocs:C7467 .
+

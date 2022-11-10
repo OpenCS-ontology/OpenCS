@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7919 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shar> ;
+    skos:prefLabel "shar" ;
+    skos:related ocs:C10284,
+        ocs:C10682,
+        ocs:C11545,
+        ocs:C1165,
+        ocs:C12980,
+        ocs:C14271,
+        ocs:C18814,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C34227,
+        ocs:C36601,
+        ocs:C41115,
+        ocs:C41873,
+        ocs:C42140,
+        ocs:C4813,
+        ocs:C5936,
+        ocs:C6605,
+        ocs:C9 .
+

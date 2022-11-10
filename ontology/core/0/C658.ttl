@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C658 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filter_design> ;
+    skos:prefLabel "Filter design" ;
+    skos:related ocs:C123,
+        ocs:C15194,
+        ocs:C18077,
+        ocs:C23968,
+        ocs:C257,
+        ocs:C32519,
+        ocs:C42625,
+        ocs:C44628,
+        ocs:C5042,
+        ocs:C6816 .
+

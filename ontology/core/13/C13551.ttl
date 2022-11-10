@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13551 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silly_window_syndrome> ;
+    skos:prefLabel "Silly window syndrome" ;
+    skos:related ocs:C10008,
+        ocs:C11455,
+        ocs:C13706,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C34264,
+        ocs:C34358,
+        ocs:C35493,
+        ocs:C37011,
+        ocs:C38272,
+        ocs:C41119,
+        ocs:C42242,
+        ocs:C42419,
+        ocs:C42692,
+        ocs:C443,
+        ocs:C5203,
+        ocs:C686 .
+

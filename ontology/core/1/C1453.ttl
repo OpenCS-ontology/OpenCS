@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1453 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surrogate_model> ;
+    skos:prefLabel "Surrogate model" ;
+    skos:related ocs:C10370,
+        ocs:C19150,
+        ocs:C2005,
+        ocs:C23242,
+        ocs:C33143,
+        ocs:C3839,
+        ocs:C4209,
+        ocs:C5713,
+        ocs:C6116,
+        ocs:C7553,
+        ocs:C8756,
+        ocs:C9022,
+        ocs:C9088 .
+

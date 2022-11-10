@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1651 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_Features> ;
+    skos:prefLabel "Simple Features" ;
+    skos:related ocs:C10232,
+        ocs:C1037,
+        ocs:C10610,
+        ocs:C12185,
+        ocs:C14626,
+        ocs:C19460,
+        ocs:C23889,
+        ocs:C27492,
+        ocs:C28117,
+        ocs:C33916,
+        ocs:C38078,
+        ocs:C38189,
+        ocs:C39955,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C44135,
+        ocs:C44189,
+        ocs:C7918,
+        ocs:C9836 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2874 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_network> ;
+    skos:prefLabel "Bayesian network" ;
+    skos:related ocs:C12748,
+        ocs:C14161,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C21710,
+        ocs:C25,
+        ocs:C28074,
+        ocs:C30115,
+        ocs:C30864,
+        ocs:C5856,
+        ocs:C6021,
+        ocs:C6116,
+        ocs:C6822,
+        ocs:C9022 .
+

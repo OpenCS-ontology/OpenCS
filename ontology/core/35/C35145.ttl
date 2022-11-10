@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35145 a skos:Concept ;
+    skos:broader ocs:C22878 ;
+    skos:closeMatch <http://dbpedia.org/resource/Job_queue> ;
+    skos:prefLabel "Job queue" ;
+    skos:related ocs:C10772,
+        ocs:C12129,
+        ocs:C12455,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C22878,
+        ocs:C24871,
+        ocs:C28232,
+        ocs:C28881,
+        ocs:C30377,
+        ocs:C30993,
+        ocs:C31489,
+        ocs:C39675,
+        ocs:C6,
+        ocs:C6072,
+        ocs:C7735,
+        ocs:C8704,
+        ocs:C9,
+        ocs:C9035 .
+

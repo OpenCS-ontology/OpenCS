@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18256 a skos:Concept ;
+    skos:broader ocs:C6015 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_chess> ;
+    skos:prefLabel "Computer chess" ;
+    skos:related ocs:C1,
+        ocs:C11414,
+        ocs:C21370,
+        ocs:C34786,
+        ocs:C40237,
+        ocs:C41004,
+        ocs:C4594,
+        ocs:C4648,
+        ocs:C6748,
+        ocs:C6920,
+        ocs:C6945,
+        ocs:C7717,
+        ocs:C8,
+        ocs:C8276 .
+

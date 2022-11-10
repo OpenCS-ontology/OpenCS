@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42586 a skos:Concept ;
+    skos:broader ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domino_logic> ;
+    skos:prefLabel "Domino logic" ;
+    skos:related ocs:C11252,
+        ocs:C12002,
+        ocs:C2827,
+        ocs:C35269,
+        ocs:C40172,
+        ocs:C42796,
+        ocs:C45121 .
+

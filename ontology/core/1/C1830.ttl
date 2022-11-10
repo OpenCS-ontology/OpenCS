@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1830 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strict_function> ;
+    skos:prefLabel "Strict function" ;
+    skos:related ocs:C10284,
+        ocs:C12003,
+        ocs:C12108,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C20150,
+        ocs:C20542,
+        ocs:C25684,
+        ocs:C26693,
+        ocs:C33185,
+        ocs:C35431,
+        ocs:C3639,
+        ocs:C36771,
+        ocs:C3845,
+        ocs:C41808,
+        ocs:C42424,
+        ocs:C43382,
+        ocs:C5239,
+        ocs:C6941 .
+

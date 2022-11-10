@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42134 a skos:Concept ;
+    skos:broader ocs:C31018,
+        ocs:C31450,
+        ocs:C34818,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Green's_function_(many-body_theory)> ;
+    skos:prefLabel "Green's function (many-body theory)" ;
+    skos:related ocs:C15588,
+        ocs:C24313,
+        ocs:C24834,
+        ocs:C24854 .
+

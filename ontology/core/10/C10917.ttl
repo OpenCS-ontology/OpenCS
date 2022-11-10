@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10917 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursion> ;
+    skos:prefLabel "Recursion" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12474,
+        ocs:C1333,
+        ocs:C1631,
+        ocs:C19,
+        ocs:C25057,
+        ocs:C5722,
+        ocs:C6941,
+        ocs:C77 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36313 a skos:Concept ;
+    skos:broader ocs:C19909,
+        ocs:C27184 ;
+    skos:closeMatch <http://dbpedia.org/resource/Customer_Service_Assurance> ;
+    skos:prefLabel "Customer Service Assurance" ;
+    skos:related ocs:C15802,
+        ocs:C17625,
+        ocs:C27500,
+        ocs:C3778,
+        ocs:C39948,
+        ocs:C40087,
+        ocs:C41620,
+        ocs:C42054,
+        ocs:C42093,
+        ocs:C43524,
+        ocs:C44036,
+        ocs:C45854 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36917 a skos:Concept ;
+    skos:broader ocs:C27666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eigenspinor> ;
+    skos:prefLabel "Eigenspinor" ;
+    skos:related ocs:C1220,
+        ocs:C27666,
+        ocs:C28787,
+        ocs:C28965,
+        ocs:C33700 .
+

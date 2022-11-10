@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28762 a skos:Concept ;
+    skos:broader ocs:C10616 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internist-I> ;
+    skos:prefLabel "Internist-I" ;
+    skos:related ocs:C10616,
+        ocs:C11087,
+        ocs:C11724,
+        ocs:C13116,
+        ocs:C14954,
+        ocs:C15444,
+        ocs:C21,
+        ocs:C21269,
+        ocs:C22121,
+        ocs:C25,
+        ocs:C31008,
+        ocs:C31111,
+        ocs:C34619,
+        ocs:C8,
+        ocs:C8996 .
+

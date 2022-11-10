@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12742 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boilerplate_(text)> ;
+    skos:prefLabel "Boilerplate text" ;
+    skos:related ocs:C10725,
+        ocs:C12759,
+        ocs:C15969,
+        ocs:C20008,
+        ocs:C4153,
+        ocs:C5746,
+        ocs:C5939 .
+

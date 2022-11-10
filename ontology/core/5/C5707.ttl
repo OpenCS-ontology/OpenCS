@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5707 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skunkworks_project> ;
+    skos:prefLabel "Skunkworks project" ;
+    skos:related ocs:C13799,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C32195,
+        ocs:C3321,
+        ocs:C9,
+        ocs:C9656 .
+

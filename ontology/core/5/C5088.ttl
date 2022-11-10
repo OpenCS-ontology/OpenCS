@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5088 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geotagging> ;
+    skos:prefLabel "Geotagging" ;
+    skos:related ocs:C10217,
+        ocs:C11324,
+        ocs:C11862,
+        ocs:C12641,
+        ocs:C13065,
+        ocs:C20845,
+        ocs:C21424,
+        ocs:C3446,
+        ocs:C35370,
+        ocs:C3896,
+        ocs:C6504,
+        ocs:C8021,
+        ocs:C8614 .
+

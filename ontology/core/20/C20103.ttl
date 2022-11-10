@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20103 a skos:Concept ;
+    skos:broader ocs:C431 ;
+    skos:closeMatch <http://dbpedia.org/resource/CRFS> ;
+    skos:prefLabel "CRFS" ;
+    skos:related ocs:C10880,
+        ocs:C10911,
+        ocs:C15477,
+        ocs:C17533,
+        ocs:C26687,
+        ocs:C27190,
+        ocs:C29846,
+        ocs:C37404,
+        ocs:C38032,
+        ocs:C39186,
+        ocs:C40330,
+        ocs:C42749,
+        ocs:C44627,
+        ocs:C45269,
+        ocs:C5667,
+        ocs:C6905,
+        ocs:C9273 .
+

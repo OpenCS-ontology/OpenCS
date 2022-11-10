@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31016 a skos:Concept ;
+    skos:broader ocs:C27708 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-stage-to-orbit> ;
+    skos:prefLabel "Two-stage-to-orbit" ;
+    skos:related ocs:C1628,
+        ocs:C21936,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C27708,
+        ocs:C34065,
+        ocs:C40983,
+        ocs:C41911,
+        ocs:C45459,
+        ocs:C5293,
+        ocs:C6412 .
+

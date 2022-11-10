@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44421 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/AVM_Navigator> ;
+    skos:prefLabel "AVM Navigator" ;
+    skos:related ocs:C17396,
+        ocs:C33579,
+        ocs:C357 .
+

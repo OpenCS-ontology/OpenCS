@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21722 a skos:Concept ;
+    skos:broader ocs:C4804 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_lockout> ;
+    skos:prefLabel "Software lockout" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C15595,
+        ocs:C2353,
+        ocs:C23924,
+        ocs:C23926,
+        ocs:C24754,
+        ocs:C26097,
+        ocs:C26124,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C28515,
+        ocs:C3948,
+        ocs:C45146,
+        ocs:C4804,
+        ocs:C8204 .
+

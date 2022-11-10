@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9120 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power-up_in_standby> ;
+    skos:prefLabel "Power-up in standby" ;
+    skos:related ocs:C10568,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C20114,
+        ocs:C22904,
+        ocs:C302,
+        ocs:C32160,
+        ocs:C39237,
+        ocs:C5695,
+        ocs:C7622,
+        ocs:C9401 .
+

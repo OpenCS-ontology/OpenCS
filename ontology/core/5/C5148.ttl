@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5148 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hotline> ;
+    skos:prefLabel "Hotline" ;
+    skos:related ocs:C12005,
+        ocs:C1316,
+        ocs:C13305,
+        ocs:C1512,
+        ocs:C25293,
+        ocs:C30667,
+        ocs:C39169,
+        ocs:C4099,
+        ocs:C7661,
+        ocs:C9113 .
+

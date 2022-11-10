@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C491 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Empirical_modelling> ;
+    skos:prefLabel "Empirical modelling" ;
+    skos:related ocs:C1,
+        ocs:C1207,
+        ocs:C19,
+        ocs:C22,
+        ocs:C22762,
+        ocs:C28420,
+        ocs:C6178,
+        ocs:C6941,
+        ocs:C7256,
+        ocs:C7869,
+        ocs:C8399 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12455 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Command_pattern> ;
+    skos:prefLabel "Command pattern" ;
+    skos:related ocs:C10720,
+        ocs:C13628,
+        ocs:C16530,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C27826,
+        ocs:C28,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C329,
+        ocs:C36310,
+        ocs:C36628,
+        ocs:C36729,
+        ocs:C44286,
+        ocs:C44725,
+        ocs:C5248,
+        ocs:C9535 .
+

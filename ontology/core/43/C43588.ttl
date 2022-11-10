@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43588 a skos:Concept ;
+    skos:broader ocs:C29795,
+        ocs:C30725 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quotient_space_(linear_algebra)> ;
+    skos:prefLabel "Quotient space (linear algebra)" ;
+    skos:related ocs:C10534,
+        ocs:C1220,
+        ocs:C20124,
+        ocs:C23927,
+        ocs:C26792,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C6863 .
+

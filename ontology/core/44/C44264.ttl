@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44264 a skos:Concept ;
+    skos:broader ocs:C29732,
+        ocs:C30108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_fault> ;
+    skos:prefLabel "Double fault" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C12573,
+        ocs:C1441,
+        ocs:C19487,
+        ocs:C22553,
+        ocs:C2545,
+        ocs:C28515,
+        ocs:C2939,
+        ocs:C36806,
+        ocs:C39555,
+        ocs:C39896,
+        ocs:C42695,
+        ocs:C44361,
+        ocs:C5147,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

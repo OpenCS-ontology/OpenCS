@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42460 a skos:Concept ;
+    skos:broader ocs:C36822,
+        ocs:C37546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_Data_Format> ;
+    skos:prefLabel "Disk Data Format" ;
+    skos:related ocs:C10501,
+        ocs:C11281,
+        ocs:C11438,
+        ocs:C12812,
+        ocs:C13119,
+        ocs:C17484,
+        ocs:C20800,
+        ocs:C26687,
+        ocs:C31489,
+        ocs:C34921,
+        ocs:C36822,
+        ocs:C37940,
+        ocs:C40928,
+        ocs:C43308,
+        ocs:C43764,
+        ocs:C5694,
+        ocs:C9540 .
+

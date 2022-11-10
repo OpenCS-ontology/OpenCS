@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42857 a skos:Concept ;
+    skos:broader ocs:C30801,
+        ocs:C32266,
+        ocs:C33454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fontaine–Mazur_conjecture> ;
+    skos:prefLabel "Fontaine–Mazur conjecture" ;
+    skos:related ocs:C29941,
+        ocs:C30801,
+        ocs:C32266,
+        ocs:C34380,
+        ocs:C38738,
+        ocs:C40563,
+        ocs:C42148,
+        ocs:C42611,
+        ocs:C43343,
+        ocs:C45133 .
+

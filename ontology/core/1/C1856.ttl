@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1856 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Request_for_production> ;
+    skos:prefLabel "Request for production" ;
+    skos:related ocs:C36185,
+        ocs:C6404,
+        ocs:C8993 .
+

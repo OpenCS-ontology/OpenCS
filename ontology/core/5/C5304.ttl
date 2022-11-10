@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5304 a skos:Concept ;
+    skos:broader ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geographic_profiling> ;
+    skos:prefLabel "Geographic profiling" ;
+    skos:related ocs:C11049,
+        ocs:C11879,
+        ocs:C20994,
+        ocs:C27612,
+        ocs:C29321,
+        ocs:C34899 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14617 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffraction_spike> ;
+    skos:prefLabel "Diffraction spike" ;
+    skos:related ocs:C11391,
+        ocs:C17898,
+        ocs:C20721,
+        ocs:C33557,
+        ocs:C8085 .
+

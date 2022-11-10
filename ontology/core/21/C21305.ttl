@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21305 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C4199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scientific_visualization> ;
+    skos:prefLabel "Scientific visualization" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11094,
+        ocs:C12638,
+        ocs:C13320,
+        ocs:C15806,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23564,
+        ocs:C24603,
+        ocs:C27130,
+        ocs:C28233,
+        ocs:C36835,
+        ocs:C41932,
+        ocs:C6448,
+        ocs:C7,
+        ocs:C7256,
+        ocs:C8399,
+        ocs:C969 .
+

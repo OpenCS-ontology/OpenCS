@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7108 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Engineering_sample> ;
+    skos:prefLabel "Engineering sample" ;
+    skos:related ocs:C13747,
+        ocs:C14144,
+        ocs:C23432,
+        ocs:C24662,
+        ocs:C25107,
+        ocs:C33838,
+        ocs:C38463,
+        ocs:C39621,
+        ocs:C44003,
+        ocs:C9487,
+        ocs:C9542 .
+

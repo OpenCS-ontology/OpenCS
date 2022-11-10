@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10321 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_quality> ;
+    skos:prefLabel "Image quality" ;
+    skos:related ocs:C10318,
+        ocs:C10993,
+        ocs:C22707,
+        ocs:C251,
+        ocs:C27086,
+        ocs:C27572,
+        ocs:C2937,
+        ocs:C38815,
+        ocs:C4095,
+        ocs:C6444,
+        ocs:C740,
+        ocs:C7468,
+        ocs:C7789 .
+

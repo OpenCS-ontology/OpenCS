@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20149 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C13631 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulator_sickness> ;
+    skos:prefLabel "Simulator sickness" ;
+    skos:related ocs:C13320,
+        ocs:C13631,
+        ocs:C18171,
+        ocs:C2800,
+        ocs:C28814,
+        ocs:C29137,
+        ocs:C31811,
+        ocs:C35621,
+        ocs:C42684,
+        ocs:C660,
+        ocs:C6881 .
+

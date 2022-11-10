@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12926 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/McCarthy_Formalism> ;
+    skos:prefLabel "McCarthy Formalism" ;
+    skos:related ocs:C10,
+        ocs:C12474,
+        ocs:C13421,
+        ocs:C13855,
+        ocs:C18926,
+        ocs:C22069,
+        ocs:C2439,
+        ocs:C24483,
+        ocs:C2747,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C34540,
+        ocs:C37966,
+        ocs:C40719,
+        ocs:C41356,
+        ocs:C41365,
+        ocs:C41497,
+        ocs:C5914,
+        ocs:C7574 .
+

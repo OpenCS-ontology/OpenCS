@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32528 a skos:Concept ;
+    skos:broader ocs:C17246 ;
+    skos:closeMatch <http://dbpedia.org/resource/Near_3_kpc_Arm> ;
+    skos:prefLabel "Near 3 kpc Arm" ;
+    skos:related ocs:C17246,
+        ocs:C18299,
+        ocs:C23210,
+        ocs:C25918,
+        ocs:C31421,
+        ocs:C33081,
+        ocs:C34069,
+        ocs:C34198,
+        ocs:C34515,
+        ocs:C37041 .
+

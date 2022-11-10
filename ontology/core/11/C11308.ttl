@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11308 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schönhage–Strassen_algorithm> ;
+    skos:prefLabel "Schönhage–Strassen algorithm" ;
+    skos:related ocs:C11150,
+        ocs:C11443,
+        ocs:C15418,
+        ocs:C24353,
+        ocs:C2747,
+        ocs:C3081,
+        ocs:C33927,
+        ocs:C6128,
+        ocs:C6550,
+        ocs:C8581 .
+

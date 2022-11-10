@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42209 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/KPI-driven_code_analysis> ;
+    skos:prefLabel "KPI-driven code analysis" ;
+    skos:related ocs:C10724,
+        ocs:C10870,
+        ocs:C10937,
+        ocs:C12238,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C24603,
+        ocs:C26009,
+        ocs:C28950,
+        ocs:C32019,
+        ocs:C32978,
+        ocs:C36479,
+        ocs:C3736,
+        ocs:C39744,
+        ocs:C41456,
+        ocs:C45212,
+        ocs:C45374,
+        ocs:C45659,
+        ocs:C7465 .
+

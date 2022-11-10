@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40812 a skos:Concept ;
+    skos:broader ocs:C30215 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_testing> ;
+    skos:prefLabel "Domain testing" ;
+    skos:related ocs:C11591,
+        ocs:C11785,
+        ocs:C12557,
+        ocs:C13313,
+        ocs:C19315,
+        ocs:C19562,
+        ocs:C20063,
+        ocs:C22004,
+        ocs:C29422,
+        ocs:C29869,
+        ocs:C33413,
+        ocs:C34713,
+        ocs:C39181,
+        ocs:C41270,
+        ocs:C42543,
+        ocs:C45409,
+        ocs:C45493 .
+

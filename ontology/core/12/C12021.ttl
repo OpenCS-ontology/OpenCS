@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12021 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-communication> ;
+    skos:prefLabel "Meta-communication" ;
+    skos:related ocs:C10498,
+        ocs:C11060,
+        ocs:C12474,
+        ocs:C14114,
+        ocs:C15966,
+        ocs:C19818,
+        ocs:C27390,
+        ocs:C28277,
+        ocs:C35464,
+        ocs:C5717,
+        ocs:C8125,
+        ocs:C855 .
+

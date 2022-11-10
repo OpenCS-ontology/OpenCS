@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33601 a skos:Concept ;
+    skos:broader ocs:C24023 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circumstellar_dust> ;
+    skos:prefLabel "Circumstellar dust" ;
+    skos:related ocs:C14402,
+        ocs:C16417,
+        ocs:C21884,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C29867,
+        ocs:C30109,
+        ocs:C34110,
+        ocs:C597 .
+

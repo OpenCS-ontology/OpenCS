@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16087 a skos:Concept ;
+    skos:broader ocs:C13511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inductive_set> ;
+    skos:prefLabel "Inductive set" ;
+    skos:related ocs:C27699,
+        ocs:C32128,
+        ocs:C38600,
+        ocs:C4281,
+        ocs:C43266,
+        ocs:C44291,
+        ocs:C45669,
+        ocs:C5251 .
+

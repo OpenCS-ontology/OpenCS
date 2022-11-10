@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19493 a skos:Concept ;
+    skos:broader ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proto-Sinaitic_script> ;
+    skos:prefLabel "Proto-Sinaitic script" ;
+    skos:related ocs:C18296,
+        ocs:C2025,
+        ocs:C25565,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6282 .
+

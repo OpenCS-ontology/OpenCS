@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10924 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constructive_solid_geometry> ;
+    skos:prefLabel "Constructive solid geometry" ;
+    skos:related ocs:C10391,
+        ocs:C11325,
+        ocs:C11689,
+        ocs:C12454,
+        ocs:C160,
+        ocs:C19559,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C29796,
+        ocs:C3174,
+        ocs:C35950,
+        ocs:C3894,
+        ocs:C6279,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8399,
+        ocs:C8662 .
+

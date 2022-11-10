@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11595 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eprint> ;
+    skos:prefLabel "Eprint" ;
+    skos:related ocs:C11462,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C15008,
+        ocs:C1622,
+        ocs:C16778,
+        ocs:C21591,
+        ocs:C23568,
+        ocs:C24639,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C4098,
+        ocs:C41375,
+        ocs:C5312,
+        ocs:C8614,
+        ocs:C9096,
+        ocs:C9218 .
+

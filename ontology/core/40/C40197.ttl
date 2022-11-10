@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40197 a skos:Concept ;
+    skos:broader ocs:C32462 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brahmagupta's_formula> ;
+    skos:prefLabel "Brahmagupta's formula" ;
+    skos:related ocs:C20312,
+        ocs:C32462,
+        ocs:C40104,
+        ocs:C43235 .
+

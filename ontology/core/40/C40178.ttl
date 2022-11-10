@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40178 a skos:Concept ;
+    skos:broader ocs:C31809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schilbeidae> ;
+    skos:prefLabel "Schilbeidae" ;
+    skos:related ocs:C24236,
+        ocs:C29991,
+        ocs:C31573,
+        ocs:C31809,
+        ocs:C33146,
+        ocs:C36286,
+        ocs:C39669,
+        ocs:C42958,
+        ocs:C43038,
+        ocs:C44015 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7871 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specialty_engineering> ;
+    skos:prefLabel "Specialty engineering" ;
+    skos:related ocs:C2214,
+        ocs:C23314,
+        ocs:C28,
+        ocs:C31773,
+        ocs:C31890,
+        ocs:C3674,
+        ocs:C3748,
+        ocs:C38363,
+        ocs:C44902,
+        ocs:C5869,
+        ocs:C6595,
+        ocs:C924,
+        ocs:C947 .
+

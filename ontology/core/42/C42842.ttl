@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42842 a skos:Concept ;
+    skos:broader ocs:C32133 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyperprior> ;
+    skos:prefLabel "Hyperprior" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C22075,
+        ocs:C22258,
+        ocs:C23888,
+        ocs:C26986,
+        ocs:C27312,
+        ocs:C27786,
+        ocs:C30115,
+        ocs:C31024,
+        ocs:C32133,
+        ocs:C34619,
+        ocs:C38623,
+        ocs:C39577,
+        ocs:C45643,
+        ocs:C6822 .
+

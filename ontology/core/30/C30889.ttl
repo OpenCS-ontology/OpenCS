@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30889 a skos:Concept ;
+    skos:broader ocs:C19827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lampyris_noctiluca> ;
+    skos:prefLabel "Lampyris noctiluca" ;
+    skos:related ocs:C22760,
+        ocs:C23197,
+        ocs:C34268,
+        ocs:C36212,
+        ocs:C36246,
+        ocs:C37615,
+        ocs:C42703 .
+

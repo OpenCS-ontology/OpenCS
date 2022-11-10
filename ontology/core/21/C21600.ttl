@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21600 a skos:Concept ;
+    skos:broader ocs:C5298,
+        ocs:C7008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sonar_signal_processing> ;
+    skos:prefLabel "Sonar signal processing" ;
+    skos:related ocs:C10554,
+        ocs:C1449,
+        ocs:C14989,
+        ocs:C19905,
+        ocs:C257,
+        ocs:C260,
+        ocs:C3589,
+        ocs:C37328,
+        ocs:C5298,
+        ocs:C6816,
+        ocs:C7008 .
+

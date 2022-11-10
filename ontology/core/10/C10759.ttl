@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10759 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_centroid> ;
+    skos:prefLabel "Spectral centroid" ;
+    skos:related ocs:C10509,
+        ocs:C11385,
+        ocs:C1449,
+        ocs:C16301,
+        ocs:C22455,
+        ocs:C23308,
+        ocs:C3530,
+        ocs:C41662,
+        ocs:C5035,
+        ocs:C9428 .
+

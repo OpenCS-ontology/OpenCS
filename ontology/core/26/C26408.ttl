@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26408 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roll_program> ;
+    skos:prefLabel "Roll program" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C2252,
+        ocs:C23362,
+        ocs:C23481,
+        ocs:C27708,
+        ocs:C3290,
+        ocs:C4326,
+        ocs:C43342,
+        ocs:C5030,
+        ocs:C5689 .
+

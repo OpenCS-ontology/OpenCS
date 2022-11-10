@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32106 a skos:Concept ;
+    skos:broader ocs:C19687,
+        ocs:C22457 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_chain> ;
+    skos:prefLabel "Signal chain" ;
+    skos:related ocs:C10492,
+        ocs:C257,
+        ocs:C3843,
+        ocs:C38517,
+        ocs:C520,
+        ocs:C5298 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25963 a skos:Concept ;
+    skos:broader ocs:C260 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymmetric_cointegration> ;
+    skos:prefLabel "Asymmetric cointegration" ;
+    skos:related ocs:C13258,
+        ocs:C15614,
+        ocs:C26272,
+        ocs:C26888,
+        ocs:C3065,
+        ocs:C32059,
+        ocs:C6116,
+        ocs:C8385 .
+

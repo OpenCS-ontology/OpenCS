@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18627 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topological_index> ;
+    skos:prefLabel "Topological index" ;
+    skos:related ocs:C26774,
+        ocs:C30245,
+        ocs:C31311,
+        ocs:C34498,
+        ocs:C35080,
+        ocs:C37079,
+        ocs:C38643,
+        ocs:C43652,
+        ocs:C43710,
+        ocs:C44857,
+        ocs:C45329 .
+

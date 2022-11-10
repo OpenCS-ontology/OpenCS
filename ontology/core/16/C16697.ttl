@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16697 a skos:Concept ;
+    skos:broader ocs:C2409,
+        ocs:C5615,
+        ocs:C6448,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stencil_buffer> ;
+    skos:prefLabel "Stencil buffer" ;
+    skos:related ocs:C12347,
+        ocs:C17815,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C24235,
+        ocs:C2662,
+        ocs:C28172,
+        ocs:C29600,
+        ocs:C31152,
+        ocs:C32394,
+        ocs:C32556,
+        ocs:C41077,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C43276,
+        ocs:C4938 .
+

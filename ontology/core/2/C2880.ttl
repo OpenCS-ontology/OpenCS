@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2880 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_switch> ;
+    skos:prefLabel "Optical switch" ;
+    skos:related ocs:C26,
+        ocs:C3,
+        ocs:C31584,
+        ocs:C38402,
+        ocs:C597,
+        ocs:C7502,
+        ocs:C8567 .
+

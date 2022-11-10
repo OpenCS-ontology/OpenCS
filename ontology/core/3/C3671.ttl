@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3671 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ecompass> ;
+    skos:prefLabel "Ecompass" ;
+    skos:related ocs:C1338,
+        ocs:C16625,
+        ocs:C27524,
+        ocs:C28354,
+        ocs:C35497,
+        ocs:C9242 .
+

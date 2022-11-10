@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10057 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_of_practice> ;
+    skos:prefLabel "Community of practice" ;
+    skos:related ocs:C10337,
+        ocs:C11021,
+        ocs:C11026,
+        ocs:C12,
+        ocs:C13078,
+        ocs:C13566,
+        ocs:C21011,
+        ocs:C21674,
+        ocs:C22713,
+        ocs:C26654,
+        ocs:C29527,
+        ocs:C3343,
+        ocs:C3444,
+        ocs:C3613,
+        ocs:C9058 .
+

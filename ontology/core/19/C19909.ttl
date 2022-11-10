@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19909 a skos:Concept ;
+    skos:broader ocs:C3778 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_level_requirement> ;
+    skos:prefLabel "Service level requirement" ;
+    skos:related ocs:C12149,
+        ocs:C13002,
+        ocs:C23462,
+        ocs:C27184,
+        ocs:C27500,
+        ocs:C29181,
+        ocs:C32020,
+        ocs:C32188,
+        ocs:C35343,
+        ocs:C35797,
+        ocs:C3778,
+        ocs:C37971,
+        ocs:C3836,
+        ocs:C4280,
+        ocs:C4817,
+        ocs:C7106,
+        ocs:C9700 .
+

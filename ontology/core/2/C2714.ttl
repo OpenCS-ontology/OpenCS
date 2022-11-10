@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2714 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computers_in_the_classroom> ;
+    skos:prefLabel "Computers in the classroom" ;
+    skos:related ocs:C10225,
+        ocs:C10783,
+        ocs:C17812,
+        ocs:C1955,
+        ocs:C20867,
+        ocs:C22540,
+        ocs:C2367,
+        ocs:C25752,
+        ocs:C26,
+        ocs:C26281,
+        ocs:C29012,
+        ocs:C3444,
+        ocs:C37105,
+        ocs:C4438,
+        ocs:C8614 .
+

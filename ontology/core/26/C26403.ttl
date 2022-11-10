@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26403 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_architecture> ;
+    skos:prefLabel "Hardware architecture" ;
+    skos:related ocs:C10,
+        ocs:C1253,
+        ocs:C13747,
+        ocs:C14316,
+        ocs:C14329,
+        ocs:C17877,
+        ocs:C23394,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C31894,
+        ocs:C38363,
+        ocs:C6072,
+        ocs:C7256,
+        ocs:C7511,
+        ocs:C8387,
+        ocs:C9 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34101 a skos:Concept ;
+    skos:broader ocs:C14264,
+        ocs:C27047 ;
+    skos:prefLabel "Ornithoctonus hainana" ;
+    skos:related ocs:C34175,
+        ocs:C34824 .
+

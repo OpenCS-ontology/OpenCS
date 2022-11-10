@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13823 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/ICL_2900_Series> ;
+    skos:prefLabel "ICL 2900 Series" ;
+    skos:related ocs:C10320,
+        ocs:C10772,
+        ocs:C12851,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C15317,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2353,
+        ocs:C2587,
+        ocs:C3036,
+        ocs:C38819,
+        ocs:C5515,
+        ocs:C6714,
+        ocs:C6906,
+        ocs:C7289,
+        ocs:C9,
+        ocs:C9035 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32647 a skos:Concept ;
+    skos:broader ocs:C14986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_problem_(mathematics)> ;
+    skos:prefLabel "Word problem (mathematics)" ;
+    skos:related ocs:C12474,
+        ocs:C13751,
+        ocs:C14986,
+        ocs:C1631,
+        ocs:C2420,
+        ocs:C25682,
+        ocs:C3484,
+        ocs:C36813 .
+

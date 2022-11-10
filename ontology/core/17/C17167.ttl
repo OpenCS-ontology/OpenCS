@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17167 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3905,
+        ocs:C4804,
+        ocs:C5912 ;
+    skos:closeMatch <http://dbpedia.org/resource/PEARL_(programming_language)> ;
+    skos:prefLabel "PEARL (programming language)" ;
+    skos:related ocs:C10284,
+        ocs:C11,
+        ocs:C11333,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C17204,
+        ocs:C18469,
+        ocs:C19,
+        ocs:C19128,
+        ocs:C23909,
+        ocs:C2587,
+        ocs:C2894,
+        ocs:C3036,
+        ocs:C5529,
+        ocs:C6714,
+        ocs:C7289,
+        ocs:C794,
+        ocs:C8581,
+        ocs:C9898 .
+

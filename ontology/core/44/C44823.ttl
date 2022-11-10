@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44823 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Source_routing> ;
+    skos:prefLabel "Source routing" ;
+    skos:related ocs:C15396,
+        ocs:C18213,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C22851,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C35923,
+        ocs:C38632,
+        ocs:C40959,
+        ocs:C41222,
+        ocs:C42093,
+        ocs:C42429,
+        ocs:C42585,
+        ocs:C42781,
+        ocs:C42792,
+        ocs:C43595,
+        ocs:C44968,
+        ocs:C45164 .
+

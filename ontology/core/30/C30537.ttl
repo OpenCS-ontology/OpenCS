@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30537 a skos:Concept ;
+    skos:broader ocs:C24826 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonological_opacity> ;
+    skos:prefLabel "Phonological opacity" ;
+    skos:related ocs:C10687,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C14010,
+        ocs:C16930,
+        ocs:C17789,
+        ocs:C18386,
+        ocs:C23276,
+        ocs:C24826,
+        ocs:C30912,
+        ocs:C35317,
+        ocs:C6784 .
+

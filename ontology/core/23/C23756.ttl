@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23756 a skos:Concept ;
+    skos:broader ocs:C6639 ;
+    skos:closeMatch <http://dbpedia.org/resource/Library_of_Congress_Classification> ;
+    skos:prefLabel "Library of Congress Classification" ;
+    skos:related ocs:C15072,
+        ocs:C1578,
+        ocs:C16879,
+        ocs:C21155,
+        ocs:C23088,
+        ocs:C4,
+        ocs:C4334,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C7849 .
+

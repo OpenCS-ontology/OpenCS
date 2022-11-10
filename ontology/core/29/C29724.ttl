@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29724 a skos:Concept ;
+    skos:broader ocs:C27188 ;
+    skos:closeMatch <http://dbpedia.org/resource/Einstein_Telescope> ;
+    skos:prefLabel "Einstein Telescope" ;
+    skos:related ocs:C15852,
+        ocs:C17386,
+        ocs:C26898,
+        ocs:C27188,
+        ocs:C30525,
+        ocs:C34151,
+        ocs:C34608,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C36773,
+        ocs:C37145,
+        ocs:C37557 .
+

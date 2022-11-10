@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15933 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:prefLabel "Channel sensitivity" ;
+    skos:related ocs:C18138,
+        ocs:C21331,
+        ocs:C23973,
+        ocs:C33 .
+

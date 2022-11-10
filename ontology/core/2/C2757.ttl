@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2757 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/XNUMBERS> ;
+    skos:prefLabel "XNUMBERS" ;
+    skos:related ocs:C12262,
+        ocs:C18362,
+        ocs:C19901,
+        ocs:C21384,
+        ocs:C23874,
+        ocs:C29107,
+        ocs:C2981,
+        ocs:C31284,
+        ocs:C34400,
+        ocs:C36704,
+        ocs:C37518,
+        ocs:C39774,
+        ocs:C5566,
+        ocs:C5865,
+        ocs:C6714,
+        ocs:C9743 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12015 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Shared attribute" ;
+    skos:related ocs:C12100,
+        ocs:C12454,
+        ocs:C1338,
+        ocs:C17,
+        ocs:C21,
+        ocs:C22,
+        ocs:C23,
+        ocs:C29,
+        ocs:C30,
+        ocs:C3401,
+        ocs:C35,
+        ocs:C7 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26828 a skos:Concept ;
+    skos:broader ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/WS-Federation_Active_Requestor_Profile> ;
+    skos:prefLabel "WS-Federation Active Requestor Profile" ;
+    skos:related ocs:C10692,
+        ocs:C10904,
+        ocs:C12617,
+        ocs:C13252,
+        ocs:C20239,
+        ocs:C22847,
+        ocs:C30649,
+        ocs:C38075,
+        ocs:C39108,
+        ocs:C41982,
+        ocs:C43607,
+        ocs:C43812,
+        ocs:C43890,
+        ocs:C44171,
+        ocs:C44609,
+        ocs:C45846,
+        ocs:C6442,
+        ocs:C7530,
+        ocs:C8347,
+        ocs:C8795 .
+

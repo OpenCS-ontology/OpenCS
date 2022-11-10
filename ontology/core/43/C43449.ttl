@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43449 a skos:Concept ;
+    skos:broader ocs:C31200 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11af> ;
+    skos:prefLabel "IEEE 802.11af" ;
+    skos:related ocs:C19721,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C24558,
+        ocs:C2708,
+        ocs:C28937,
+        ocs:C31200,
+        ocs:C31252,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C35370,
+        ocs:C35674,
+        ocs:C38184,
+        ocs:C40496,
+        ocs:C40866,
+        ocs:C41995,
+        ocs:C42902,
+        ocs:C4665,
+        ocs:C7216,
+        ocs:C8784 .
+

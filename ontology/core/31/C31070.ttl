@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31070 a skos:Concept ;
+    skos:broader ocs:C17801 ;
+    skos:prefLabel "Batracobdelloides" ;
+    skos:related ocs:C17801,
+        ocs:C2197 .
+

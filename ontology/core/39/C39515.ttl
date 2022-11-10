@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39515 a skos:Concept ;
+    skos:broader ocs:C30245,
+        ocs:C35233,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resistance_distance> ;
+    skos:prefLabel "Resistance distance" ;
+    skos:related ocs:C14693,
+        ocs:C14853,
+        ocs:C15460,
+        ocs:C27903,
+        ocs:C30245,
+        ocs:C34565,
+        ocs:C36126,
+        ocs:C36200,
+        ocs:C37036,
+        ocs:C38545,
+        ocs:C39937,
+        ocs:C41114,
+        ocs:C44157,
+        ocs:C45737,
+        ocs:C597,
+        ocs:C6335 .
+

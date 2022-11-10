@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5615 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_buffer> ;
+    skos:prefLabel "Circular buffer" ;
+    skos:related ocs:C10214,
+        ocs:C10320,
+        ocs:C10693,
+        ocs:C2050,
+        ocs:C26456,
+        ocs:C28232,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C33378,
+        ocs:C38925,
+        ocs:C39950,
+        ocs:C45621,
+        ocs:C4938,
+        ocs:C5722,
+        ocs:C5745,
+        ocs:C6408 .
+

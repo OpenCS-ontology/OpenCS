@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13657 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Multi-planar Reformatting" ;
+    skos:related ocs:C6448,
+        ocs:C7,
+        ocs:C7161,
+        ocs:C8,
+        ocs:C8499 .
+

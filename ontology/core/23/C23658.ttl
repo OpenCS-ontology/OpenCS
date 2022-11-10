@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23658 a skos:Concept ;
+    skos:broader ocs:C2979,
+        ocs:C4201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tolerance_relation> ;
+    skos:prefLabel "Tolerance relation" ;
+    skos:related ocs:C623 .
+

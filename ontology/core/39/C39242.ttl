@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39242 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C32878,
+        ocs:C33705,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foreground-background> ;
+    skos:prefLabel "Foreground-background" ;
+    skos:related ocs:C12812,
+        ocs:C17723,
+        ocs:C27568,
+        ocs:C30218,
+        ocs:C33705,
+        ocs:C37367,
+        ocs:C44378,
+        ocs:C45252,
+        ocs:C45363,
+        ocs:C45527,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8704,
+        ocs:C8967 .
+

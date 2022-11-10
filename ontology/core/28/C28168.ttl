@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28168 a skos:Concept ;
+    skos:broader ocs:C8385 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_data_type> ;
+    skos:prefLabel "Statistical data type" ;
+    skos:related ocs:C1844,
+        ocs:C3065,
+        ocs:C40043,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C6909,
+        ocs:C8280,
+        ocs:C8385 .
+

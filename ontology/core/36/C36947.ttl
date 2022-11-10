@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36947 a skos:Concept ;
+    skos:broader ocs:C23849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precovery> ;
+    skos:prefLabel "Precovery" ;
+    skos:related ocs:C25412,
+        ocs:C597 .
+

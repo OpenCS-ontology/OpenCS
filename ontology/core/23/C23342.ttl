@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23342 a skos:Concept ;
+    skos:broader ocs:C5717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pitch_accent> ;
+    skos:prefLabel "Pitch accent" ;
+    skos:related ocs:C13096,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C2025,
+        ocs:C22147,
+        ocs:C24968,
+        ocs:C25849,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C32199,
+        ocs:C7131,
+        ocs:C7501 .
+

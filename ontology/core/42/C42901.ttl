@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42901 a skos:Concept ;
+    skos:broader ocs:C32349,
+        ocs:C32356,
+        ocs:C33893 ;
+    skos:closeMatch <http://dbpedia.org/resource/Base_(topology)> ;
+    skos:prefLabel "Base (topology)" ;
+    skos:related ocs:C6221 .
+

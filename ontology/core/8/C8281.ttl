@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8281 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operations_order> ;
+    skos:prefLabel "Operations order" ;
+    skos:related ocs:C1502,
+        ocs:C3232,
+        ocs:C5247,
+        ocs:C6665 .
+

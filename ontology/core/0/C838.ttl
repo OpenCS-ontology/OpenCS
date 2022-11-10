@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C838 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trilateration> ;
+    skos:prefLabel "Trilateration" ;
+    skos:related ocs:C10587,
+        ocs:C12641,
+        ocs:C12850,
+        ocs:C1793,
+        ocs:C27698,
+        ocs:C33055,
+        ocs:C38766,
+        ocs:C4398,
+        ocs:C44290 .
+

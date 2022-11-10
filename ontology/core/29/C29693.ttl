@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29693 a skos:Concept ;
+    skos:broader ocs:C15406,
+        ocs:C17703,
+        ocs:C22567,
+        ocs:C26637,
+        ocs:C27052,
+        ocs:C28582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Return_value_optimization> ;
+    skos:prefLabel "Return value optimization" ;
+    skos:related ocs:C1083,
+        ocs:C10909,
+        ocs:C1142,
+        ocs:C11991,
+        ocs:C1333,
+        ocs:C2009,
+        ocs:C21201,
+        ocs:C26642,
+        ocs:C28073,
+        ocs:C28783,
+        ocs:C37996,
+        ocs:C39814,
+        ocs:C40088,
+        ocs:C41006,
+        ocs:C4321,
+        ocs:C4477,
+        ocs:C5049,
+        ocs:C6072 .
+

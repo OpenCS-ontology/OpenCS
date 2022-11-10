@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20119 a skos:Concept ;
+    skos:broader ocs:C11540,
+        ocs:C2684,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dead_Peer_Detection> ;
+    skos:prefLabel "Dead Peer Detection" ;
+    skos:related ocs:C20205,
+        ocs:C22407,
+        ocs:C23666,
+        ocs:C29568,
+        ocs:C31950,
+        ocs:C35969,
+        ocs:C38359,
+        ocs:C39435,
+        ocs:C40328,
+        ocs:C40519,
+        ocs:C40753,
+        ocs:C40789,
+        ocs:C41726,
+        ocs:C42459,
+        ocs:C42909,
+        ocs:C44017,
+        ocs:C44103,
+        ocs:C44970,
+        ocs:C45281 .
+

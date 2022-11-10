@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43056 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space-based_architecture> ;
+    skos:prefLabel "Space-based architecture" ;
+    skos:related ocs:C14580,
+        ocs:C1496,
+        ocs:C16530,
+        ocs:C17238,
+        ocs:C20370,
+        ocs:C28941,
+        ocs:C30,
+        ocs:C31527,
+        ocs:C31667,
+        ocs:C31894,
+        ocs:C34992,
+        ocs:C3569,
+        ocs:C38250,
+        ocs:C40626,
+        ocs:C41310,
+        ocs:C43753,
+        ocs:C6312,
+        ocs:C7106 .
+

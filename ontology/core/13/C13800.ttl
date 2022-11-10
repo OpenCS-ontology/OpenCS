@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13800 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/WAI-ARIA> ;
+    skos:prefLabel "WAI-ARIA" ;
+    skos:related ocs:C12477,
+        ocs:C12810,
+        ocs:C15593,
+        ocs:C16336,
+        ocs:C17235,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C23836,
+        ocs:C24509,
+        ocs:C2464,
+        ocs:C26528,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C33709,
+        ocs:C34668,
+        ocs:C355,
+        ocs:C39498,
+        ocs:C40902,
+        ocs:C4918,
+        ocs:C7714 .
+

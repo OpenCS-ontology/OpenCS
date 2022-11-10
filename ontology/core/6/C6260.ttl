@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6260 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "St. Tammany Parish" ;
+    skos:related ocs:C11640,
+        ocs:C4 .
+

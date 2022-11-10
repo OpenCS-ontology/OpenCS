@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10887 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational-representational_understanding_of_mind> ;
+    skos:prefLabel "Computational-representational understanding of mind" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10410,
+        ocs:C25,
+        ocs:C36573,
+        ocs:C3932,
+        ocs:C42947,
+        ocs:C43382,
+        ocs:C9022 .
+

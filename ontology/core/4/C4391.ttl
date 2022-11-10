@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4391 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:prefLabel "Validation methods" ;
+    skos:related ocs:C11092,
+        ocs:C17,
+        ocs:C21,
+        ocs:C30,
+        ocs:C33,
+        ocs:C34 .
+

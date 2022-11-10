@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32998 a skos:Concept ;
+    skos:broader ocs:C16106,
+        ocs:C16570,
+        ocs:C29366 ;
+    skos:prefLabel "Additive white gaussian noise awgn channel" .
+

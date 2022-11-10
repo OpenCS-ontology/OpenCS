@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33106 a skos:Concept ;
+    skos:broader ocs:C27117 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-source_publishing> ;
+    skos:prefLabel "Single source publishing" ;
+    skos:related ocs:C10978,
+        ocs:C11927,
+        ocs:C1253,
+        ocs:C22568,
+        ocs:C23103,
+        ocs:C24783,
+        ocs:C26337,
+        ocs:C26903,
+        ocs:C27199,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C35505,
+        ocs:C35567,
+        ocs:C3896,
+        ocs:C42905,
+        ocs:C5554,
+        ocs:C5746,
+        ocs:C6234,
+        ocs:C6852 .
+

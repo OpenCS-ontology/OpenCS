@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31067 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhamdia> ;
+    skos:prefLabel "Rhamdia" ;
+    skos:related ocs:C24236,
+        ocs:C38562,
+        ocs:C39200 .
+

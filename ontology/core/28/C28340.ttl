@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28340 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Permutation_group> ;
+    skos:prefLabel "Permutation group" ;
+    skos:related ocs:C11282,
+        ocs:C41928 .
+

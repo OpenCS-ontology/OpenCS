@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22705 a skos:Concept ;
+    skos:broader ocs:C5404,
+        ocs:C9856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncompressed_video> ;
+    skos:prefLabel "Uncompressed video" ;
+    skos:related ocs:C12544,
+        ocs:C13509,
+        ocs:C13586,
+        ocs:C13691,
+        ocs:C20961,
+        ocs:C2722,
+        ocs:C29048,
+        ocs:C38826,
+        ocs:C4448,
+        ocs:C653,
+        ocs:C8021 .
+

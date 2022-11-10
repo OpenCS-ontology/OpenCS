@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44138 a skos:Concept ;
+    skos:broader ocs:C35800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_language_learning> ;
+    skos:prefLabel "Community language learning" ;
+    skos:related ocs:C13920,
+        ocs:C17471,
+        ocs:C24354,
+        ocs:C30934,
+        ocs:C33078,
+        ocs:C33315,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C35800,
+        ocs:C41308,
+        ocs:C43756,
+        ocs:C9065 .
+

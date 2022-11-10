@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18105 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C2800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensorama> ;
+    skos:prefLabel "Sensorama" ;
+    skos:related ocs:C10562,
+        ocs:C13320,
+        ocs:C18109,
+        ocs:C21677,
+        ocs:C23907,
+        ocs:C23978,
+        ocs:C25022,
+        ocs:C25195,
+        ocs:C27445,
+        ocs:C2883,
+        ocs:C31899,
+        ocs:C34997,
+        ocs:C40511,
+        ocs:C42202,
+        ocs:C9603 .
+

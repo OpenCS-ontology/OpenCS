@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10079 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slide_library> ;
+    skos:prefLabel "Slide library" ;
+    skos:related ocs:C12473,
+        ocs:C15008,
+        ocs:C17044,
+        ocs:C21316,
+        ocs:C37477,
+        ocs:C39,
+        ocs:C4,
+        ocs:C4934,
+        ocs:C6639,
+        ocs:C7698,
+        ocs:C7849,
+        ocs:C8770 .
+

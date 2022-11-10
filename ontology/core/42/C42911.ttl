@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42911 a skos:Concept ;
+    skos:broader ocs:C34809 ;
+    skos:closeMatch <http://dbpedia.org/resource/String_interning> ;
+    skos:prefLabel "String interning" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12108,
+        ocs:C12848,
+        ocs:C19,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C27190,
+        ocs:C2879,
+        ocs:C28944,
+        ocs:C30672,
+        ocs:C3637,
+        ocs:C5280,
+        ocs:C6941 .
+

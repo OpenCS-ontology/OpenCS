@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14620 a skos:Concept ;
+    skos:broader ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_inference> ;
+    skos:prefLabel "Bayesian inference" ;
+    skos:related ocs:C10767,
+        ocs:C14030,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C22075,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C33349,
+        ocs:C34619,
+        ocs:C45643,
+        ocs:C6291,
+        ocs:C6395,
+        ocs:C6692 .
+

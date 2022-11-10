@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13704 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/UTF-32> ;
+    skos:prefLabel "UTF-32" ;
+    skos:related ocs:C10696,
+        ocs:C11927,
+        ocs:C13253,
+        ocs:C19341,
+        ocs:C2078,
+        ocs:C21496,
+        ocs:C2204,
+        ocs:C23560,
+        ocs:C24544,
+        ocs:C32013,
+        ocs:C33894,
+        ocs:C40665,
+        ocs:C5126,
+        ocs:C7966,
+        ocs:C8620,
+        ocs:C9162 .
+

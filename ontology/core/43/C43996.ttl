@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43996 a skos:Concept ;
+    skos:broader ocs:C36835 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glyph_(data_visualization)> ;
+    skos:prefLabel "Glyph (data visualization)" ;
+    skos:related ocs:C11094,
+        ocs:C11699,
+        ocs:C12638,
+        ocs:C13605,
+        ocs:C17405,
+        ocs:C21305,
+        ocs:C24603,
+        ocs:C27130,
+        ocs:C27378,
+        ocs:C29854,
+        ocs:C36835,
+        ocs:C38092,
+        ocs:C39310,
+        ocs:C43721 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22566 a skos:Concept ;
+    skos:broader ocs:C10922,
+        ocs:C12099,
+        ocs:C12313 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prefix_order> ;
+    skos:prefLabel "Prefix order" ;
+    skos:related ocs:C26008,
+        ocs:C4257,
+        ocs:C43648,
+        ocs:C5239,
+        ocs:C608 .
+

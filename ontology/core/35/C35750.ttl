@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35750 a skos:Concept ;
+    skos:broader ocs:C19827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photinus_carolinus> ;
+    skos:prefLabel "Photinus carolinus" ;
+    skos:related ocs:C34268,
+        ocs:C43010 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32988 a skos:Concept ;
+    skos:broader ocs:C16977 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primary_Atomic_Reference_Clock_in_Space> ;
+    skos:prefLabel "Primary Atomic Reference Clock in Space" ;
+    skos:related ocs:C12641,
+        ocs:C16977,
+        ocs:C20663,
+        ocs:C22220,
+        ocs:C7201 .
+

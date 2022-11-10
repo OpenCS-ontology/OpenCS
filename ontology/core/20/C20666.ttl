@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20666 a skos:Concept ;
+    skos:broader ocs:C9380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Change_detection_and_notification> ;
+    skos:prefLabel "Change detection and notification" ;
+    skos:related ocs:C10069,
+        ocs:C12858,
+        ocs:C14159,
+        ocs:C16338,
+        ocs:C17045,
+        ocs:C22597,
+        ocs:C28117,
+        ocs:C31,
+        ocs:C3398,
+        ocs:C37238,
+        ocs:C39431,
+        ocs:C39727,
+        ocs:C40049,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C8614,
+        ocs:C9604 .
+

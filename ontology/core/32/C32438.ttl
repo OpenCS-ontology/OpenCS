@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32438 a skos:Concept ;
+    skos:broader ocs:C15410,
+        ocs:C19721,
+        ocs:C27263 ;
+    skos:prefLabel "Fast link adaptation" .
+

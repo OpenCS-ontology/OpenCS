@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26950 a skos:Concept ;
+    skos:broader ocs:C1811,
+        ocs:C2422,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Negative_relative_accommodation> ;
+    skos:prefLabel "Negative relative accommodation" ;
+    skos:related ocs:C10740,
+        ocs:C1811,
+        ocs:C21964,
+        ocs:C2422 .
+

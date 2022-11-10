@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9014 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Big_bang_adoption> ;
+    skos:prefLabel "Big bang adoption" ;
+    skos:related ocs:C10279,
+        ocs:C1253,
+        ocs:C22648,
+        ocs:C23269,
+        ocs:C2352,
+        ocs:C24181,
+        ocs:C27567,
+        ocs:C28080,
+        ocs:C31650,
+        ocs:C4768,
+        ocs:C6,
+        ocs:C6944,
+        ocs:C7366,
+        ocs:C8889 .
+

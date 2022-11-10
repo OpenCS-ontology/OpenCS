@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19003 a skos:Concept ;
+    skos:broader ocs:C8172 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensor_grid> ;
+    skos:prefLabel "Sensor grid" ;
+    skos:related ocs:C13,
+        ocs:C1590,
+        ocs:C2576,
+        ocs:C2603,
+        ocs:C36207,
+        ocs:C38768,
+        ocs:C3896,
+        ocs:C39371,
+        ocs:C40929,
+        ocs:C44892,
+        ocs:C7106,
+        ocs:C7735,
+        ocs:C8040,
+        ocs:C8172,
+        ocs:C8614 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44841 a skos:Concept ;
+    skos:broader ocs:C31256 ;
+    skos:closeMatch <http://dbpedia.org/resource/COMEFROM> ;
+    skos:prefLabel "COMEFROM" ;
+    skos:related ocs:C10219,
+        ocs:C1083,
+        ocs:C11991,
+        ocs:C12379,
+        ocs:C12846,
+        ocs:C1333,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C3036,
+        ocs:C3376,
+        ocs:C43596,
+        ocs:C4778,
+        ocs:C4937,
+        ocs:C6072,
+        ocs:C6411,
+        ocs:C6714,
+        ocs:C8439,
+        ocs:C9833 .
+

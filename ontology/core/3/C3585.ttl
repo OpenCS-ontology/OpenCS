@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3585 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_sentence_perspective> ;
+    skos:prefLabel "Functional sentence perspective" ;
+    skos:related ocs:C1034,
+        ocs:C12110,
+        ocs:C1451,
+        ocs:C15067,
+        ocs:C15202,
+        ocs:C16964,
+        ocs:C28029,
+        ocs:C30451,
+        ocs:C34287,
+        ocs:C37545,
+        ocs:C4650 .
+

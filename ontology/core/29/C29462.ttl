@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29462 a skos:Concept ;
+    skos:broader ocs:C5555 ;
+    skos:closeMatch <http://dbpedia.org/resource/Investigative_Data_Warehouse> ;
+    skos:prefLabel "Investigative Data Warehouse" ;
+    skos:related ocs:C11290,
+        ocs:C12434,
+        ocs:C13538,
+        ocs:C20384,
+        ocs:C2060,
+        ocs:C3638,
+        ocs:C37703,
+        ocs:C43566,
+        ocs:C45070,
+        ocs:C5555,
+        ocs:C6,
+        ocs:C7113 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16553 a skos:Concept ;
+    skos:broader ocs:C836 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autocorrelation_matrix> ;
+    skos:prefLabel "Autocorrelation matrix" ;
+    skos:related ocs:C14585,
+        ocs:C260,
+        ocs:C34690,
+        ocs:C6110 .
+

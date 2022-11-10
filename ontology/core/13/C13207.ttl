@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13207 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C20 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_Step_Method> ;
+    skos:prefLabel "Standard Step Method" ;
+    skos:related ocs:C23751,
+        ocs:C24140,
+        ocs:C27192 .
+

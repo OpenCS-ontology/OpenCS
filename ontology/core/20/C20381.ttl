@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20381 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbolic_convergence_theory> ;
+    skos:prefLabel "Symbolic convergence theory" ;
+    skos:related ocs:C11032,
+        ocs:C19941,
+        ocs:C22745,
+        ocs:C38687 .
+

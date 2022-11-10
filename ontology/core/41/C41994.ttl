@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41994 a skos:Concept ;
+    skos:broader ocs:C30001,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hamming_graph> ;
+    skos:prefLabel "Hamming graph" ;
+    skos:related ocs:C19336,
+        ocs:C20376,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C37036,
+        ocs:C38121,
+        ocs:C38981,
+        ocs:C39730,
+        ocs:C41628,
+        ocs:C41794,
+        ocs:C42281,
+        ocs:C42340,
+        ocs:C42872,
+        ocs:C43256,
+        ocs:C43587,
+        ocs:C44168,
+        ocs:C44453,
+        ocs:C44935,
+        ocs:C45277,
+        ocs:C45361 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43002 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moral_graph> ;
+    skos:prefLabel "Moral graph" ;
+    skos:related ocs:C14161,
+        ocs:C15414,
+        ocs:C18813,
+        ocs:C27330,
+        ocs:C2874,
+        ocs:C30307,
+        ocs:C30864,
+        ocs:C32333,
+        ocs:C32757,
+        ocs:C38526,
+        ocs:C38757,
+        ocs:C39986,
+        ocs:C41484,
+        ocs:C42060,
+        ocs:C42071,
+        ocs:C44341,
+        ocs:C44560,
+        ocs:C45271 .
+

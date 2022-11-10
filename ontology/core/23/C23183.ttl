@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23183 a skos:Concept ;
+    skos:broader ocs:C10616 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subject-matter_expert> ;
+    skos:prefLabel "Subject-matter expert" ;
+    skos:related ocs:C10616,
+        ocs:C12,
+        ocs:C1253,
+        ocs:C13152,
+        ocs:C20118,
+        ocs:C2057,
+        ocs:C2062,
+        ocs:C25681,
+        ocs:C28,
+        ocs:C28503,
+        ocs:C28809,
+        ocs:C3444,
+        ocs:C5614,
+        ocs:C651,
+        ocs:C7736,
+        ocs:C8,
+        ocs:C9607 .
+

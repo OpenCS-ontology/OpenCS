@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14484 a skos:Concept ;
+    skos:broader ocs:C751 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-ray_transform> ;
+    skos:prefLabel "X-ray transform" ;
+    skos:related ocs:C11150,
+        ocs:C22614,
+        ocs:C28787,
+        ocs:C751 .
+

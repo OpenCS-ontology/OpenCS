@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25853 a skos:Concept ;
+    skos:broader ocs:C11814,
+        ocs:C1449 ;
+    skos:closeMatch <http://dbpedia.org/resource/Media_processor> ;
+    skos:prefLabel "Media processor" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11326,
+        ocs:C11814,
+        ocs:C12690,
+        ocs:C13747,
+        ocs:C13970,
+        ocs:C1904,
+        ocs:C19556,
+        ocs:C20961,
+        ocs:C2478,
+        ocs:C43505,
+        ocs:C43964,
+        ocs:C7165 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39259 a skos:Concept ;
+    skos:broader ocs:C31741,
+        ocs:C36128,
+        ocs:C37782 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kurtoxin> ;
+    skos:prefLabel "Kurtoxin" ;
+    skos:related ocs:C14264,
+        ocs:C15901,
+        ocs:C19629,
+        ocs:C36051,
+        ocs:C36335,
+        ocs:C37219 .
+

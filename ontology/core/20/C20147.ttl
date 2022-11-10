@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20147 a skos:Concept ;
+    skos:broader ocs:C2801 ;
+    skos:closeMatch <http://dbpedia.org/resource/TRECVID> ;
+    skos:prefLabel "TRECVID" ;
+    skos:related ocs:C1,
+        ocs:C10382,
+        ocs:C1040,
+        ocs:C10620,
+        ocs:C12784,
+        ocs:C16,
+        ocs:C1812,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C23271,
+        ocs:C41877,
+        ocs:C6700,
+        ocs:C6963,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9876 .
+

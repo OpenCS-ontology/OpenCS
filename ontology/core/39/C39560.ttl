@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39560 a skos:Concept ;
+    skos:broader ocs:C33059,
+        ocs:C36950 ;
+    skos:prefLabel "White catfish" ;
+    skos:related ocs:C38495,
+        ocs:C39959,
+        ocs:C42289 .
+

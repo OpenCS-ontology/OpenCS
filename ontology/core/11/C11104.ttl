@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11104 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Minimum_detectable_signal> ;
+    skos:prefLabel "Minimum detectable signal" ;
+    skos:related ocs:C11747,
+        ocs:C1219,
+        ocs:C14053,
+        ocs:C1564,
+        ocs:C16773,
+        ocs:C25042,
+        ocs:C26449,
+        ocs:C37874,
+        ocs:C42249,
+        ocs:C5853 .
+

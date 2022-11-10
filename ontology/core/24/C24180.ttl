@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24180 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polysyndeton> ;
+    skos:prefLabel "Polysyndeton" ;
+    skos:related ocs:C19047,
+        ocs:C2298 .
+

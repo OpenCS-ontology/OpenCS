@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C570 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Happy_path> ;
+    skos:prefLabel "Happy path" ;
+    skos:related ocs:C13313,
+        ocs:C13616,
+        ocs:C18576,
+        ocs:C19315,
+        ocs:C2214,
+        ocs:C24477,
+        ocs:C25956,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C30528,
+        ocs:C31890,
+        ocs:C34078,
+        ocs:C34658,
+        ocs:C36874,
+        ocs:C37831,
+        ocs:C41536,
+        ocs:C4209,
+        ocs:C6696,
+        ocs:C8895 .
+

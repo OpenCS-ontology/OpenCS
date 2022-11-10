@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9458 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_Augmented_Reality> ;
+    skos:prefLabel "Spatial Projection" ;
+    skos:related ocs:C11016,
+        ocs:C16,
+        ocs:C21,
+        ocs:C22,
+        ocs:C25,
+        ocs:C257,
+        ocs:C4861,
+        ocs:C669 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1854 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/SAIV> ;
+    skos:prefLabel "SAIV" ;
+    skos:related ocs:C1033,
+        ocs:C11591,
+        ocs:C16160,
+        ocs:C22004,
+        ocs:C23312,
+        ocs:C28080,
+        ocs:C29044,
+        ocs:C29422,
+        ocs:C29525,
+        ocs:C29869,
+        ocs:C35207,
+        ocs:C38960,
+        ocs:C39671,
+        ocs:C41097,
+        ocs:C42543,
+        ocs:C43494,
+        ocs:C5237 .
+

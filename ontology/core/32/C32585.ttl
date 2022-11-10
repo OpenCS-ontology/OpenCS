@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32585 a skos:Concept ;
+    skos:broader ocs:C22099,
+        ocs:C23204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyper-encryption> ;
+    skos:prefLabel "Hyper-encryption" ;
+    skos:related ocs:C16125,
+        ocs:C17834,
+        ocs:C20993,
+        ocs:C22099,
+        ocs:C23230,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29533,
+        ocs:C29841,
+        ocs:C30768,
+        ocs:C32109,
+        ocs:C33857,
+        ocs:C35146,
+        ocs:C41644,
+        ocs:C4218,
+        ocs:C45704,
+        ocs:C6537 .
+

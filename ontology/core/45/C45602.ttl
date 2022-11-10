@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45602 a skos:Concept ;
+    skos:broader ocs:C31755 ;
+    skos:closeMatch <http://dbpedia.org/resource/GSM_procedures> ;
+    skos:prefLabel "GSM procedures" ;
+    skos:related ocs:C1210,
+        ocs:C12853,
+        ocs:C21976,
+        ocs:C24123,
+        ocs:C26262,
+        ocs:C26502,
+        ocs:C27704,
+        ocs:C31755,
+        ocs:C33410,
+        ocs:C44125,
+        ocs:C44251,
+        ocs:C44416,
+        ocs:C44506,
+        ocs:C5917,
+        ocs:C634,
+        ocs:C6987,
+        ocs:C796,
+        ocs:C8287,
+        ocs:C9154 .
+

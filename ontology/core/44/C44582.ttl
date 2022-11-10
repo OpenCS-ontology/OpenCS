@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44582 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interior_gateway_protocol> ;
+    skos:prefLabel "Interior gateway protocol" ;
+    skos:related ocs:C10563,
+        ocs:C11157,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C39742,
+        ocs:C40621,
+        ocs:C41259,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C43513,
+        ocs:C45818,
+        ocs:C8142,
+        ocs:C8614 .
+

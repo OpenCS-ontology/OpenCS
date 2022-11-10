@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38682 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C30507,
+        ocs:C31362,
+        ocs:C33033,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operator_topologies> ;
+    skos:prefLabel "Operator topologies" ;
+    skos:related ocs:C17651,
+        ocs:C19125,
+        ocs:C23927,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C36144,
+        ocs:C36808,
+        ocs:C40830,
+        ocs:C41063,
+        ocs:C44342 .
+

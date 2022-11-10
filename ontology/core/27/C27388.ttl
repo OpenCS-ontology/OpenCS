@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27388 a skos:Concept ;
+    skos:broader ocs:C7825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributive_law_between_monads> ;
+    skos:prefLabel "Distributive law between monads" ;
+    skos:related ocs:C22119,
+        ocs:C23892,
+        ocs:C25685 .
+

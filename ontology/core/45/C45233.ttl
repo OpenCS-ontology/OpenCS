@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45233 a skos:Concept ;
+    skos:broader ocs:C34288 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_Angle_and_Spectrometric_Coronagraph> ;
+    skos:prefLabel "Large Angle and Spectrometric Coronagraph" ;
+    skos:related ocs:C13065,
+        ocs:C22752,
+        ocs:C34288,
+        ocs:C597 .
+

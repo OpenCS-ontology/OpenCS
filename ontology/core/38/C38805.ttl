@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38805 a skos:Concept ;
+    skos:broader ocs:C37614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectroscopic_parallax> ;
+    skos:prefLabel "Spectroscopic parallax" ;
+    skos:related ocs:C13745,
+        ocs:C17246,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C24724,
+        ocs:C25918,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C30109,
+        ocs:C32953,
+        ocs:C36476,
+        ocs:C37614,
+        ocs:C40426 .
+

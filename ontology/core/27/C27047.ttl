@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27047 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:prefLabel "Spider Venoms" ;
+    skos:related ocs:C18138,
+        ocs:C23973,
+        ocs:C30049,
+        ocs:C34824 .
+

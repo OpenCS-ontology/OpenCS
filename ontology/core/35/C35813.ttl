@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35813 a skos:Concept ;
+    skos:broader ocs:C26066 ;
+    skos:closeMatch <http://dbpedia.org/resource/AETX> ;
+    skos:prefLabel "AETX" ;
+    skos:related ocs:C14264,
+        ocs:C15042,
+        ocs:C33053,
+        ocs:C34294,
+        ocs:C37219,
+        ocs:C41979,
+        ocs:C44461 .
+

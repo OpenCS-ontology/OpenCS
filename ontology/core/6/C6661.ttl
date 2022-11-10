@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6661 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Record_(computer_science)> ;
+    skos:prefLabel "Record" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C13101,
+        ocs:C1333,
+        ocs:C17204,
+        ocs:C22266,
+        ocs:C35141,
+        ocs:C5722,
+        ocs:C6255,
+        ocs:C6714,
+        ocs:C7116,
+        ocs:C794,
+        ocs:C8170,
+        ocs:C9985 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16243 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Processing_delay> ;
+    skos:prefLabel "Processing delay" ;
+    skos:related ocs:C10563,
+        ocs:C10913,
+        ocs:C13786,
+        ocs:C14210,
+        ocs:C14938,
+        ocs:C15065,
+        ocs:C18971,
+        ocs:C19170,
+        ocs:C19227,
+        ocs:C19730,
+        ocs:C20330,
+        ocs:C20691,
+        ocs:C26,
+        ocs:C34789,
+        ocs:C37848,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C44036,
+        ocs:C45164,
+        ocs:C5616 .
+

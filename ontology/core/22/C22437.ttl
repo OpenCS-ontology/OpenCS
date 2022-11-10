@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22437 a skos:Concept ;
+    skos:broader ocs:C11701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infinite-dimensional_optimization> ;
+    skos:prefLabel "Infinite-dimensional optimization" ;
+    skos:related ocs:C17096,
+        ocs:C21421,
+        ocs:C28787,
+        ocs:C3837,
+        ocs:C4216,
+        ocs:C5201 .
+

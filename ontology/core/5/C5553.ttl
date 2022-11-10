@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5553 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coco_(robot)> ;
+    skos:prefLabel "Coco" ;
+    skos:related ocs:C10215,
+        ocs:C114,
+        ocs:C11619,
+        ocs:C13542,
+        ocs:C16011,
+        ocs:C19558,
+        ocs:C20229,
+        ocs:C23845,
+        ocs:C30191,
+        ocs:C31062,
+        ocs:C34504,
+        ocs:C36316,
+        ocs:C37010,
+        ocs:C3808,
+        ocs:C39373,
+        ocs:C45473,
+        ocs:C469,
+        ocs:C5635,
+        ocs:C9370 .
+

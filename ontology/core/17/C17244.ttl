@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17244 a skos:Concept ;
+    skos:broader ocs:C8386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Load_balancing_(electrical_power)> ;
+    skos:prefLabel "Load balancing (electrical power)" ;
+    skos:related ocs:C8386,
+        ocs:C9718,
+        ocs:C985 .
+

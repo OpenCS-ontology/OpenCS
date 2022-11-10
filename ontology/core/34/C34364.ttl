@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34364 a skos:Concept ;
+    skos:broader ocs:C19342 ;
+    skos:closeMatch <http://dbpedia.org/resource/ATSC_tuner> ;
+    skos:prefLabel "ATSC tuner" ;
+    skos:related ocs:C11323,
+        ocs:C12430,
+        ocs:C12544,
+        ocs:C18761,
+        ocs:C19342,
+        ocs:C20140,
+        ocs:C21312,
+        ocs:C27081,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C30635,
+        ocs:C30923,
+        ocs:C31899,
+        ocs:C32488,
+        ocs:C32753,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C3522,
+        ocs:C36807 .
+

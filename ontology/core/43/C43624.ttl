@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43624 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C34752,
+        ocs:C34793,
+        ocs:C36898 ;
+    skos:closeMatch <http://dbpedia.org/resource/TLS-SRP> ;
+    skos:prefLabel "TLS-SRP" ;
+    skos:related ocs:C17314,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C26581,
+        ocs:C30656,
+        ocs:C33191,
+        ocs:C35146,
+        ocs:C35995,
+        ocs:C38359,
+        ocs:C38692,
+        ocs:C40332,
+        ocs:C40413,
+        ocs:C40791,
+        ocs:C41012,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C41838,
+        ocs:C4225,
+        ocs:C4513,
+        ocs:C45715 .
+

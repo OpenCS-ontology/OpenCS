@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39485 a skos:Concept ;
+    skos:broader ocs:C30408,
+        ocs:C33275,
+        ocs:C35263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_resurrection> ;
+    skos:prefLabel "Object resurrection" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C12584,
+        ocs:C259,
+        ocs:C2871,
+        ocs:C37844,
+        ocs:C40193,
+        ocs:C43716,
+        ocs:C5308 .
+

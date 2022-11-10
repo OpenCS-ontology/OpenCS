@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10963 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Group_method_of_data_handling> ;
+    skos:prefLabel "Group method of data handling" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C14221,
+        ocs:C16,
+        ocs:C17261,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C22089,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C26343,
+        ocs:C29,
+        ocs:C34002,
+        ocs:C3512,
+        ocs:C37012,
+        ocs:C7471,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9874 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19422 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parasitic_gap> ;
+    skos:prefLabel "Parasitic gap" ;
+    skos:related ocs:C1034,
+        ocs:C18744,
+        ocs:C20679,
+        ocs:C21429,
+        ocs:C22961,
+        ocs:C23608,
+        ocs:C25544,
+        ocs:C25696,
+        ocs:C27346,
+        ocs:C27696,
+        ocs:C34287,
+        ocs:C42812,
+        ocs:C43158,
+        ocs:C43813,
+        ocs:C43937,
+        ocs:C5556,
+        ocs:C6764 .
+

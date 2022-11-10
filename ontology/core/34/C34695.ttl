@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34695 a skos:Concept ;
+    skos:broader ocs:C14261,
+        ocs:C20374,
+        ocs:C25255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithmically_random_sequence> ;
+    skos:prefLabel "Algorithmically random sequence" ;
+    skos:related ocs:C10,
+        ocs:C1021,
+        ocs:C10803,
+        ocs:C1499,
+        ocs:C20374,
+        ocs:C20939,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C25255,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C34319,
+        ocs:C41780,
+        ocs:C41998,
+        ocs:C44414,
+        ocs:C6880 .
+

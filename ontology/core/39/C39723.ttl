@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39723 a skos:Concept ;
+    skos:broader ocs:C30593,
+        ocs:C31754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-state_logic> ;
+    skos:prefLabel "Three-state logic" ;
+    skos:related ocs:C10320,
+        ocs:C11252,
+        ocs:C13386,
+        ocs:C22530,
+        ocs:C24204,
+        ocs:C3357,
+        ocs:C35269,
+        ocs:C40172,
+        ocs:C41110,
+        ocs:C45328,
+        ocs:C8475 .
+

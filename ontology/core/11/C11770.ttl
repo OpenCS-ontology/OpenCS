@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11770 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_problem_in_optics> ;
+    skos:prefLabel "Inverse problem in optics" ;
+    skos:related ocs:C13682,
+        ocs:C15029,
+        ocs:C15615,
+        ocs:C2321,
+        ocs:C2364,
+        ocs:C29219,
+        ocs:C39099,
+        ocs:C40579,
+        ocs:C6420 .
+

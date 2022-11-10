@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12641 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Positioning_System> ;
+    skos:prefLabel "Global Positioning System" ;
+    skos:related ocs:C16352,
+        ocs:C21424,
+        ocs:C27698,
+        ocs:C30565,
+        ocs:C35370,
+        ocs:C36895,
+        ocs:C42471,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40411 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921,
+        ocs:C37067 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_Data_Objects> ;
+    skos:prefLabel "Java Data Objects" ;
+    skos:related ocs:C10444,
+        ocs:C10720,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C14627,
+        ocs:C17183,
+        ocs:C22971,
+        ocs:C2303,
+        ocs:C24252,
+        ocs:C28234,
+        ocs:C28734,
+        ocs:C29401,
+        ocs:C30561,
+        ocs:C31693,
+        ocs:C34066,
+        ocs:C42037,
+        ocs:C6,
+        ocs:C6093 .
+

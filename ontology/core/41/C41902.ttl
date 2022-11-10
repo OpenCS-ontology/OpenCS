@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41902 a skos:Concept ;
+    skos:broader ocs:C37128 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physically_based_animation> ;
+    skos:prefLabel "Physically based animation" ;
+    skos:related ocs:C16728,
+        ocs:C17237,
+        ocs:C19043,
+        ocs:C19229,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C223,
+        ocs:C24,
+        ocs:C26812,
+        ocs:C29060,
+        ocs:C37128,
+        ocs:C5300 .
+

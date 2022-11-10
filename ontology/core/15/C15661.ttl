@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15661 a skos:Concept ;
+    skos:broader ocs:C9262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupt_request_(PC_architecture)> ;
+    skos:prefLabel "Interrupt request" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C13022,
+        ocs:C14470,
+        ocs:C17404,
+        ocs:C19487,
+        ocs:C39429,
+        ocs:C41110,
+        ocs:C45375,
+        ocs:C6403,
+        ocs:C7750,
+        ocs:C9,
+        ocs:C9262,
+        ocs:C9267 .
+

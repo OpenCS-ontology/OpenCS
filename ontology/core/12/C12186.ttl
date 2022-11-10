@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12186 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_over_IP> ;
+    skos:prefLabel "Text over IP" ;
+    skos:related ocs:C125,
+        ocs:C15530,
+        ocs:C1855,
+        ocs:C19227,
+        ocs:C19497,
+        ocs:C21981,
+        ocs:C22407,
+        ocs:C24131,
+        ocs:C28758,
+        ocs:C28949,
+        ocs:C29603,
+        ocs:C34719,
+        ocs:C36782,
+        ocs:C3933,
+        ocs:C4710,
+        ocs:C5285,
+        ocs:C6721,
+        ocs:C8515 .
+

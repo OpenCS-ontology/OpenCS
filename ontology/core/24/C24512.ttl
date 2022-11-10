@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24512 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C5867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diamond_operator> ;
+    skos:prefLabel "Diamond operator" ;
+    skos:related ocs:C23209,
+        ocs:C24506,
+        ocs:C30996,
+        ocs:C32392,
+        ocs:C32463,
+        ocs:C32877,
+        ocs:C33989,
+        ocs:C35040,
+        ocs:C36759,
+        ocs:C37795,
+        ocs:C38739,
+        ocs:C39587,
+        ocs:C41237,
+        ocs:C43605,
+        ocs:C44038,
+        ocs:C45135 .
+

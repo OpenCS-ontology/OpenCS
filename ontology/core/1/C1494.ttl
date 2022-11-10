@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1494 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Assembly_(programming)> ;
+    skos:prefLabel "Assembly" ;
+    skos:related ocs:C10182,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C11413,
+        ocs:C11991,
+        ocs:C12584,
+        ocs:C17316,
+        ocs:C22630,
+        ocs:C28187,
+        ocs:C28944,
+        ocs:C30334,
+        ocs:C35502,
+        ocs:C39309,
+        ocs:C40870,
+        ocs:C44447,
+        ocs:C5709,
+        ocs:C9947 .
+

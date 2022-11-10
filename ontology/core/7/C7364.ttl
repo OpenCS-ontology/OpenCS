@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7364 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glove_prints> ;
+    skos:prefLabel "Glove prints" ;
+    skos:related ocs:C27445,
+        ocs:C42791,
+        ocs:C43566,
+        ocs:C7604,
+        ocs:C9489 .
+

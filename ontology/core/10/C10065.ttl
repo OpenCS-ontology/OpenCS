@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10065 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synthetic_Environment_for_Analysis_and_Simulations> ;
+    skos:prefLabel "Synthetic Environment for Analysis and Simulations" ;
+    skos:related ocs:C10997,
+        ocs:C11143,
+        ocs:C20384,
+        ocs:C2579,
+        ocs:C26213,
+        ocs:C32,
+        ocs:C5140,
+        ocs:C8,
+        ocs:C8458 .
+

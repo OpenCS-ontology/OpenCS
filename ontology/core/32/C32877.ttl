@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32877 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eisenstein_series> ;
+    skos:prefLabel "Eisenstein series" ;
+    skos:related ocs:C23209,
+        ocs:C35040,
+        ocs:C39587,
+        ocs:C39710,
+        ocs:C41237,
+        ocs:C45135,
+        ocs:C45218 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40537 a skos:Concept ;
+    skos:broader ocs:C33575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Helix_Nebula> ;
+    skos:prefLabel "Helix Nebula" ;
+    skos:related ocs:C16731,
+        ocs:C17246,
+        ocs:C22542,
+        ocs:C25918,
+        ocs:C26524,
+        ocs:C33140,
+        ocs:C33488,
+        ocs:C34069,
+        ocs:C597 .
+

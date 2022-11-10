@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3670 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Engineering_support> ;
+    skos:prefLabel "Engineering support" ;
+    skos:related ocs:C10279,
+        ocs:C12746,
+        ocs:C13205,
+        ocs:C24212,
+        ocs:C28080,
+        ocs:C28526,
+        ocs:C29840,
+        ocs:C35144,
+        ocs:C3674,
+        ocs:C37443,
+        ocs:C38570,
+        ocs:C42487,
+        ocs:C45391,
+        ocs:C6,
+        ocs:C8081,
+        ocs:C9056,
+        ocs:C9700 .
+

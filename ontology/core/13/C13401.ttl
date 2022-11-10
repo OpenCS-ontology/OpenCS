@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13401 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributional_semantics> ;
+    skos:prefLabel "Distributional semantics" ;
+    skos:related ocs:C1132,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C1948,
+        ocs:C19499,
+        ocs:C2171,
+        ocs:C23070,
+        ocs:C30276,
+        ocs:C312,
+        ocs:C31956,
+        ocs:C38477,
+        ocs:C38887,
+        ocs:C39451,
+        ocs:C4774,
+        ocs:C961 .
+

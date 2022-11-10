@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22455 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truncated_mean> ;
+    skos:prefLabel "Truncated mean" ;
+    skos:related ocs:C13685,
+        ocs:C24728,
+        ocs:C25294,
+        ocs:C25320,
+        ocs:C28243,
+        ocs:C36906,
+        ocs:C39575,
+        ocs:C42729,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662 .
+

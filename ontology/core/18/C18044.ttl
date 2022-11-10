@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18044 a skos:Concept ;
+    skos:broader ocs:C5918 ;
+    skos:prefLabel "LIFE SUPPORT EQUIPMENT" ;
+    skos:related ocs:C12431,
+        ocs:C1628,
+        ocs:C3180,
+        ocs:C33,
+        ocs:C4718 .
+

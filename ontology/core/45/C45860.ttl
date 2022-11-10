@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45860 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_color> ;
+    skos:prefLabel "False color" ;
+    skos:related ocs:C16423,
+        ocs:C19157,
+        ocs:C24211,
+        ocs:C30704,
+        ocs:C31013,
+        ocs:C3458,
+        ocs:C41483,
+        ocs:C41977,
+        ocs:C597,
+        ocs:C6942,
+        ocs:C8021 .
+

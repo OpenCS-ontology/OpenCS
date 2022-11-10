@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10087 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Composite_monitor> ;
+    skos:prefLabel "Composite monitor" ;
+    skos:related ocs:C11040,
+        ocs:C13973,
+        ocs:C16856,
+        ocs:C1724,
+        ocs:C18761,
+        ocs:C24015,
+        ocs:C32920,
+        ocs:C34890,
+        ocs:C37865,
+        ocs:C44318,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C9045 .
+

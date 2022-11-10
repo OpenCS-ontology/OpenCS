@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2841 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/XPEDITER> ;
+    skos:prefLabel "XPEDITER" ;
+    skos:related ocs:C10496,
+        ocs:C11118,
+        ocs:C12851,
+        ocs:C15611,
+        ocs:C15733,
+        ocs:C17204,
+        ocs:C3036,
+        ocs:C31771,
+        ocs:C34325,
+        ocs:C39675,
+        ocs:C4046,
+        ocs:C41812,
+        ocs:C43881,
+        ocs:C442,
+        ocs:C6926,
+        ocs:C7105,
+        ocs:C9035 .
+

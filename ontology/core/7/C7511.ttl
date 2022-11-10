@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7511 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reusability> ;
+    skos:prefLabel "Reusability" ;
+    skos:related ocs:C10720,
+        ocs:C11262,
+        ocs:C11886,
+        ocs:C1253,
+        ocs:C1333,
+        ocs:C17238,
+        ocs:C2057,
+        ocs:C24453,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29525,
+        ocs:C30036,
+        ocs:C31894,
+        ocs:C32990,
+        ocs:C35575,
+        ocs:C37174,
+        ocs:C43665,
+        ocs:C45391,
+        ocs:C688 .
+

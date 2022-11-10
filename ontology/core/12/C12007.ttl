@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12007 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha_recursion_theory> ;
+    skos:prefLabel "Alpha recursion theory" ;
+    skos:related ocs:C10498,
+        ocs:C1205,
+        ocs:C12474,
+        ocs:C20939,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32128,
+        ocs:C32546,
+        ocs:C36945,
+        ocs:C38518,
+        ocs:C38955,
+        ocs:C41998,
+        ocs:C44414,
+        ocs:C44854,
+        ocs:C45880,
+        ocs:C5255,
+        ocs:C9313 .
+

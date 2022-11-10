@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11288 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpunct> ;
+    skos:prefLabel "Interpunct" ;
+    skos:related ocs:C12983,
+        ocs:C1860,
+        ocs:C2023,
+        ocs:C25565,
+        ocs:C26353,
+        ocs:C27886,
+        ocs:C5126,
+        ocs:C5870,
+        ocs:C6293,
+        ocs:C6416,
+        ocs:C7131 .
+

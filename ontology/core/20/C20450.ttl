@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20450 a skos:Concept ;
+    skos:broader ocs:C5030 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autothrottle> ;
+    skos:prefLabel "Autothrottle" ;
+    skos:related ocs:C11445,
+        ocs:C16191,
+        ocs:C20572,
+        ocs:C22667,
+        ocs:C36804,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C6412 .
+

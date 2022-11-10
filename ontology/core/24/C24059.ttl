@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24059 a skos:Concept ;
+    skos:broader ocs:C10321,
+        ocs:C7604 ;
+    skos:prefLabel "Poor Quality Image" ;
+    skos:related ocs:C10321,
+        ocs:C27953,
+        ocs:C37459,
+        ocs:C5659,
+        ocs:C8021,
+        ocs:C8499,
+        ocs:C9489 .
+

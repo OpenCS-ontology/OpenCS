@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11880 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/VideoLectures.net> ;
+    skos:prefLabel "VideoLectures.net" ;
+    skos:related ocs:C1,
+        ocs:C11126,
+        ocs:C1132,
+        ocs:C11866,
+        ocs:C12238,
+        ocs:C13,
+        ocs:C18566,
+        ocs:C21072,
+        ocs:C21157,
+        ocs:C25,
+        ocs:C26676,
+        ocs:C32,
+        ocs:C34,
+        ocs:C3736,
+        ocs:C39132,
+        ocs:C4269,
+        ocs:C8,
+        ocs:C9874 .
+

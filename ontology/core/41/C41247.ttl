@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41247 a skos:Concept ;
+    skos:broader ocs:C33773 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_allocation_vector> ;
+    skos:prefLabel "Network allocation vector" ;
+    skos:related ocs:C1398,
+        ocs:C16022,
+        ocs:C21760,
+        ocs:C26,
+        ocs:C32171,
+        ocs:C33773,
+        ocs:C36169,
+        ocs:C36375,
+        ocs:C37651,
+        ocs:C38184,
+        ocs:C38536,
+        ocs:C39494,
+        ocs:C42692,
+        ocs:C42991,
+        ocs:C43093,
+        ocs:C45396,
+        ocs:C45510,
+        ocs:C4720,
+        ocs:C6446 .
+

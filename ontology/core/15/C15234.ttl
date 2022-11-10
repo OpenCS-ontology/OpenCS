@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15234 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stewart_platform> ;
+    skos:prefLabel "Stewart platform" ;
+    skos:related ocs:C10500,
+        ocs:C12976,
+        ocs:C15416,
+        ocs:C17236,
+        ocs:C28948,
+        ocs:C33887,
+        ocs:C34131,
+        ocs:C41360,
+        ocs:C660,
+        ocs:C6881,
+        ocs:C7003,
+        ocs:C7848 .
+

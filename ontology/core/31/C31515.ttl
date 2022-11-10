@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31515 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/R-process> ;
+    skos:prefLabel "r-process" ;
+    skos:related ocs:C22014,
+        ocs:C33412,
+        ocs:C37112,
+        ocs:C37677,
+        ocs:C44452,
+        ocs:C597 .
+

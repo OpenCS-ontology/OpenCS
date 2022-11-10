@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5766 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C30,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SPMD> ;
+    skos:prefLabel "SPMD" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C17434,
+        ocs:C17626,
+        ocs:C1831,
+        ocs:C19876,
+        ocs:C26124,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C32161,
+        ocs:C3981,
+        ocs:C40330,
+        ocs:C4804,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9486,
+        ocs:C9872 .
+

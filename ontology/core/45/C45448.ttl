@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45448 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32484,
+        ocs:C34752,
+        ocs:C35391 ;
+    skos:prefLabel "Wireless sensor networks public key cryptography" .
+

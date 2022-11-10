@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15447 a skos:Concept ;
+    skos:broader ocs:C13252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_soap> ;
+    skos:prefLabel "Hard soap" ;
+    skos:related ocs:C14525,
+        ocs:C16909,
+        ocs:C22831,
+        ocs:C36216 .
+

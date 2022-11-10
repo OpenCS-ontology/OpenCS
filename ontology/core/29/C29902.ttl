@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29902 a skos:Concept ;
+    skos:broader ocs:C15256 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sum_of_normally_distributed_random_variables> ;
+    skos:prefLabel "Sum of normally distributed random variables" ;
+    skos:related ocs:C16163,
+        ocs:C21356,
+        ocs:C25862,
+        ocs:C36008,
+        ocs:C38209,
+        ocs:C40060 .
+

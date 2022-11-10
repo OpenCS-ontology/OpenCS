@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30582 a skos:Concept ;
+    skos:broader ocs:C29175 ;
+    skos:prefLabel "Anatomical segmentation" ;
+    skos:related ocs:C1566,
+        ocs:C21,
+        ocs:C2194,
+        ocs:C3063,
+        ocs:C33244,
+        ocs:C3864,
+        ocs:C8021 .
+

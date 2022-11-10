@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44881 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_redundancy> ;
+    skos:prefLabel "Logic redundancy" ;
+    skos:related ocs:C11252,
+        ocs:C22699,
+        ocs:C22706,
+        ocs:C27883,
+        ocs:C33318,
+        ocs:C34687,
+        ocs:C35076,
+        ocs:C37887,
+        ocs:C40719,
+        ocs:C41432,
+        ocs:C41587,
+        ocs:C4651,
+        ocs:C5245,
+        ocs:C6306,
+        ocs:C6497 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C387 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cocktail_party_effect> ;
+    skos:prefLabel "Cocktail party effect" ;
+    skos:related ocs:C1879,
+        ocs:C7518 .
+

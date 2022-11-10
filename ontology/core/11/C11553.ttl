@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11553 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_store> ;
+    skos:prefLabel "Control store" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C11047,
+        ocs:C12431,
+        ocs:C12851,
+        ocs:C14917,
+        ocs:C19487,
+        ocs:C35009,
+        ocs:C35886,
+        ocs:C4863,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C8698,
+        ocs:C9 .
+

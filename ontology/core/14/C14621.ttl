@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14621 a skos:Concept ;
+    skos:broader ocs:C257,
+        ocs:C8563 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighting_filter> ;
+    skos:prefLabel "Weighting filter" ;
+    skos:related ocs:C13048,
+        ocs:C14001,
+        ocs:C1624,
+        ocs:C16548,
+        ocs:C2300,
+        ocs:C2759,
+        ocs:C28189,
+        ocs:C29469,
+        ocs:C4875,
+        ocs:C5139,
+        ocs:C5853,
+        ocs:C8291,
+        ocs:C8563,
+        ocs:C8637 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12427 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Petri_net> ;
+    skos:prefLabel "Petri net" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C14693,
+        ocs:C17831,
+        ocs:C18357,
+        ocs:C19336,
+        ocs:C24477,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C28526,
+        ocs:C30,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C36771,
+        ocs:C3990,
+        ocs:C5974,
+        ocs:C7689,
+        ocs:C7903,
+        ocs:C8791 .
+

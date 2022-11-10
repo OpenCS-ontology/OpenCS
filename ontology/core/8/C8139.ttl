@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8139 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sura_Ionospheric_Heating_Facility> ;
+    skos:prefLabel "Sura Ionospheric Heating Facility" ;
+    skos:related ocs:C24213,
+        ocs:C8388 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21764 a skos:Concept ;
+    skos:broader ocs:C13511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Completeness_of_the_real_numbers> ;
+    skos:prefLabel "Completeness of the real numbers" ;
+    skos:related ocs:C27879,
+        ocs:C28787,
+        ocs:C29795,
+        ocs:C33313 .
+

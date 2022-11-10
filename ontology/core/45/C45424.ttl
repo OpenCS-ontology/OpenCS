@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45424 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parametrix> ;
+    skos:prefLabel "Parametrix" ;
+    skos:related ocs:C20390,
+        ocs:C22086,
+        ocs:C28787,
+        ocs:C29877,
+        ocs:C33011 .
+

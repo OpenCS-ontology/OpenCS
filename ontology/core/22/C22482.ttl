@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22482 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12270,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reciprocal_pronoun> ;
+    skos:prefLabel "Reciprocal pronoun" ;
+    skos:related ocs:C1034,
+        ocs:C10760,
+        ocs:C12270,
+        ocs:C15012,
+        ocs:C15644,
+        ocs:C18082,
+        ocs:C22250,
+        ocs:C23243,
+        ocs:C25761,
+        ocs:C26816,
+        ocs:C28646,
+        ocs:C29763,
+        ocs:C32159,
+        ocs:C4025 .
+

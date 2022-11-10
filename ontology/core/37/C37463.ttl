@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37463 a skos:Concept ;
+    skos:broader ocs:C14954 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_algorithm> ;
+    skos:prefLabel "Medical algorithm" ;
+    skos:related ocs:C10,
+        ocs:C14954,
+        ocs:C15590,
+        ocs:C25,
+        ocs:C35549,
+        ocs:C7652,
+        ocs:C8753,
+        ocs:C9874 .
+

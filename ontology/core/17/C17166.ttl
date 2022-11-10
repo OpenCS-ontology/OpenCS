@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17166 a skos:Concept ;
+    skos:broader ocs:C3231 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_repository> ;
+    skos:prefLabel "Information repository" ;
+    skos:related ocs:C10501,
+        ocs:C16416,
+        ocs:C17533,
+        ocs:C197,
+        ocs:C24143,
+        ocs:C29116,
+        ocs:C3231,
+        ocs:C3896,
+        ocs:C39275,
+        ocs:C40278,
+        ocs:C4335,
+        ocs:C6,
+        ocs:C6749,
+        ocs:C7476,
+        ocs:C9150 .
+

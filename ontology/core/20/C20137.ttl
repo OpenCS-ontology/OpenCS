@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20137 a skos:Concept ;
+    skos:broader ocs:C12849,
+        ocs:C6420,
+        ocs:C9122 ;
+    skos:closeMatch <http://dbpedia.org/resource/Farnsworth-Munsell_100_hue_test> ;
+    skos:prefLabel "Farnsworth-Munsell 100 hue test" ;
+    skos:related ocs:C11670,
+        ocs:C12849,
+        ocs:C16674,
+        ocs:C2074,
+        ocs:C20871,
+        ocs:C24888,
+        ocs:C3743,
+        ocs:C5469 .
+

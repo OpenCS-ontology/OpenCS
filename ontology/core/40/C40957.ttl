@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40957 a skos:Concept ;
+    skos:broader ocs:C34143,
+        ocs:C37488 ;
+    skos:closeMatch <http://dbpedia.org/resource/Short-range_ballistic_missile> ;
+    skos:prefLabel "Short-range ballistic missile" ;
+    skos:related ocs:C14318,
+        ocs:C20104,
+        ocs:C21379,
+        ocs:C25124,
+        ocs:C28174,
+        ocs:C28796,
+        ocs:C30159,
+        ocs:C34143,
+        ocs:C37488,
+        ocs:C5247,
+        ocs:C7371,
+        ocs:C9066 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45374 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_analytics> ;
+    skos:prefLabel "Software analytics" ;
+    skos:related ocs:C1253,
+        ocs:C1728,
+        ocs:C24603,
+        ocs:C25,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29525,
+        ocs:C32019,
+        ocs:C32978,
+        ocs:C35202,
+        ocs:C35701,
+        ocs:C37174,
+        ocs:C37447,
+        ocs:C41162,
+        ocs:C41184,
+        ocs:C41456,
+        ocs:C42209,
+        ocs:C4226,
+        ocs:C7106 .
+

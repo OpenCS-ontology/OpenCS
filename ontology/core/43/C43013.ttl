@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43013 a skos:Concept ;
+    skos:broader ocs:C30653 ;
+    skos:closeMatch <http://dbpedia.org/resource/DeepFace> ;
+    skos:prefLabel "DeepFace" ;
+    skos:related ocs:C16355,
+        ocs:C16908,
+        ocs:C17311,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C23500,
+        ocs:C248,
+        ocs:C25,
+        ocs:C2768,
+        ocs:C3063,
+        ocs:C34002,
+        ocs:C34289,
+        ocs:C38447,
+        ocs:C39688,
+        ocs:C43990,
+        ocs:C45070,
+        ocs:C5498,
+        ocs:C8,
+        ocs:C9022 .
+

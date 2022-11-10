@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34351 a skos:Concept ;
+    skos:broader ocs:C17396 ;
+    skos:prefLabel "Flight planner" ;
+    skos:related ocs:C1253,
+        ocs:C17396,
+        ocs:C4861,
+        ocs:C5702,
+        ocs:C6072,
+        ocs:C9552 .
+

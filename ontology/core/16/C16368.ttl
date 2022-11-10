@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16368 a skos:Concept ;
+    skos:broader ocs:C12755 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barcode_reader> ;
+    skos:prefLabel "Barcode reader" ;
+    skos:related ocs:C10270,
+        ocs:C10368,
+        ocs:C1253,
+        ocs:C12640,
+        ocs:C12641,
+        ocs:C12755,
+        ocs:C13065,
+        ocs:C1338,
+        ocs:C21424,
+        ocs:C2974,
+        ocs:C35370,
+        ocs:C4917,
+        ocs:C7166,
+        ocs:C8614 .
+

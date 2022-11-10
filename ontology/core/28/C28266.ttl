@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28266 a skos:Concept ;
+    skos:broader ocs:C8790 ;
+    skos:prefLabel "Patient identifier" ;
+    skos:related ocs:C10052,
+        ocs:C10721,
+        ocs:C14954,
+        ocs:C17,
+        ocs:C2,
+        ocs:C20957,
+        ocs:C5,
+        ocs:C7006,
+        ocs:C8614,
+        ocs:C9596 .
+

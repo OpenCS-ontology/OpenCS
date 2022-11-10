@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25311 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C6117 ;
+    skos:closeMatch <http://dbpedia.org/resource/VHF_Data_Link> ;
+    skos:prefLabel "VHF Data Link" ;
+    skos:related ocs:C10919,
+        ocs:C12828,
+        ocs:C15050,
+        ocs:C15796,
+        ocs:C18537,
+        ocs:C20572,
+        ocs:C22667,
+        ocs:C23082,
+        ocs:C26346,
+        ocs:C30306,
+        ocs:C36766,
+        ocs:C41676,
+        ocs:C42092,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C6117 .
+

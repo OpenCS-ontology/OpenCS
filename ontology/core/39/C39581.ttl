@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39581 a skos:Concept ;
+    skos:broader ocs:C30001,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hexacode> ;
+    skos:prefLabel "Hexacode" ;
+    skos:related ocs:C18626,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C38160,
+        ocs:C41653,
+        ocs:C42512,
+        ocs:C42778,
+        ocs:C43048,
+        ocs:C43079,
+        ocs:C43745,
+        ocs:C43991,
+        ocs:C44130,
+        ocs:C44265,
+        ocs:C44441,
+        ocs:C45024,
+        ocs:C5196,
+        ocs:C7856 .
+

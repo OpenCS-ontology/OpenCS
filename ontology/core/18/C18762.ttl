@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18762 a skos:Concept ;
+    skos:broader ocs:C11814,
+        ocs:C1253,
+        ocs:C1449,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_Platform_Interface> ;
+    skos:prefLabel "Hardware Platform Interface" ;
+    skos:related ocs:C10568,
+        ocs:C12348,
+        ocs:C1243,
+        ocs:C14691,
+        ocs:C20881,
+        ocs:C20925,
+        ocs:C26709,
+        ocs:C2674,
+        ocs:C2878,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C34195,
+        ocs:C4159,
+        ocs:C4259,
+        ocs:C6223,
+        ocs:C6858,
+        ocs:C9540,
+        ocs:C9642 .
+

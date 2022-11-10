@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40533 a skos:Concept ;
+    skos:broader ocs:C32962 ;
+    skos:closeMatch <http://dbpedia.org/resource/UIML> ;
+    skos:prefLabel "UIML" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C12657,
+        ocs:C1386,
+        ocs:C16739,
+        ocs:C17248,
+        ocs:C26700,
+        ocs:C30772,
+        ocs:C31724,
+        ocs:C36472,
+        ocs:C3679,
+        ocs:C41912,
+        ocs:C45,
+        ocs:C5702,
+        ocs:C5939,
+        ocs:C6887,
+        ocs:C7736,
+        ocs:C9033,
+        ocs:C9553 .
+

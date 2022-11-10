@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27754 a skos:Concept ;
+    skos:broader ocs:C10390,
+        ocs:C1134,
+        ocs:C9264 ;
+    skos:prefLabel "Large neighborhood search" .
+

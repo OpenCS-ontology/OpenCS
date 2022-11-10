@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23983 a skos:Concept ;
+    skos:broader ocs:C2979,
+        ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bioinformatics> ;
+    skos:prefLabel "Bio informatics" ;
+    skos:related ocs:C1399,
+        ocs:C30,
+        ocs:C545,
+        ocs:C8499,
+        ocs:C8614,
+        ocs:C950 .
+

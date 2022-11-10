@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1527 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C32 ;
+    skos:prefLabel "Seed entity" ;
+    skos:related ocs:C11302,
+        ocs:C13,
+        ocs:C32,
+        ocs:C8 .
+

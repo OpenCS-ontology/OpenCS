@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32051 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C21324 ;
+    skos:closeMatch <http://dbpedia.org/resource/Group_signature> ;
+    skos:prefLabel "Group signature" ;
+    skos:related ocs:C12450,
+        ocs:C14164,
+        ocs:C21324,
+        ocs:C25749,
+        ocs:C28212,
+        ocs:C29572,
+        ocs:C33191,
+        ocs:C35771,
+        ocs:C35807,
+        ocs:C36150,
+        ocs:C37069,
+        ocs:C37228,
+        ocs:C37863,
+        ocs:C38377,
+        ocs:C38681,
+        ocs:C39034,
+        ocs:C39168,
+        ocs:C39967,
+        ocs:C40978,
+        ocs:C4218 .
+

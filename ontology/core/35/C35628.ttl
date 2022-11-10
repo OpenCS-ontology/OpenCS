@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35628 a skos:Concept ;
+    skos:broader ocs:C18084 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_information_and_event_management> ;
+    skos:prefLabel "Security information and event management" ;
+    skos:related ocs:C11404,
+        ocs:C12238,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C1665,
+        ocs:C1728,
+        ocs:C20295,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C35701,
+        ocs:C39016,
+        ocs:C41850,
+        ocs:C41901,
+        ocs:C4226,
+        ocs:C45587,
+        ocs:C5408,
+        ocs:C7106,
+        ocs:C8025,
+        ocs:C9 .
+

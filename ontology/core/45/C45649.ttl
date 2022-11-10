@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45649 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C33043,
+        ocs:C34568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Examples_of_Markov_chains> ;
+    skos:prefLabel "Examples of Markov chains" ;
+    skos:related ocs:C14004,
+        ocs:C20860,
+        ocs:C22334,
+        ocs:C23865,
+        ocs:C32511,
+        ocs:C33043,
+        ocs:C37437,
+        ocs:C37861,
+        ocs:C39172,
+        ocs:C39495,
+        ocs:C41481,
+        ocs:C42135,
+        ocs:C42940,
+        ocs:C5856,
+        ocs:C6909,
+        ocs:C7689 .
+

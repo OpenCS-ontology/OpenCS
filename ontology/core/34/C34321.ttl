@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34321 a skos:Concept ;
+    skos:broader ocs:C25681 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_ontology> ;
+    skos:prefLabel "Process ontology" ;
+    skos:related ocs:C12066,
+        ocs:C1443,
+        ocs:C18111,
+        ocs:C21264,
+        ocs:C25681,
+        ocs:C28119,
+        ocs:C29173,
+        ocs:C3395,
+        ocs:C35993,
+        ocs:C36911,
+        ocs:C38537,
+        ocs:C40912,
+        ocs:C41212,
+        ocs:C41547,
+        ocs:C41877,
+        ocs:C44162,
+        ocs:C44939 .
+

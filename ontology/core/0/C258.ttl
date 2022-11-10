@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C258 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/NuBus> ;
+    skos:prefLabel "NuBus" ;
+    skos:related ocs:C10320,
+        ocs:C11960,
+        ocs:C13022,
+        ocs:C19481,
+        ocs:C23239,
+        ocs:C24085,
+        ocs:C25252,
+        ocs:C26829,
+        ocs:C29292,
+        ocs:C4038,
+        ocs:C41110,
+        ocs:C521,
+        ocs:C7534,
+        ocs:C9 .
+

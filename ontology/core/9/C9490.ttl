@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9490 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Body_of_knowledge> ;
+    skos:prefLabel "Body of knowledge" ;
+    skos:related ocs:C1038,
+        ocs:C12977,
+        ocs:C14847,
+        ocs:C16349,
+        ocs:C17268,
+        ocs:C26601,
+        ocs:C45783,
+        ocs:C6077,
+        ocs:C6636,
+        ocs:C8,
+        ocs:C8990 .
+

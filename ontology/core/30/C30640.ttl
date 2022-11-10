@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30640 a skos:Concept ;
+    skos:broader ocs:C24563 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fast_reroute> ;
+    skos:prefLabel "Fast reroute" ;
+    skos:related ocs:C24563,
+        ocs:C27960,
+        ocs:C3083,
+        ocs:C34258,
+        ocs:C34606,
+        ocs:C35673,
+        ocs:C38344,
+        ocs:C38865,
+        ocs:C40070,
+        ocs:C40784,
+        ocs:C41709,
+        ocs:C44236,
+        ocs:C44929,
+        ocs:C44974,
+        ocs:C45247,
+        ocs:C45892,
+        ocs:C6703,
+        ocs:C9652 .
+

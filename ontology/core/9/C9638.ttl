@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9638 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_variable> ;
+    skos:prefLabel "Local variable" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11284,
+        ocs:C12108,
+        ocs:C128,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C20907,
+        ocs:C23909,
+        ocs:C26632,
+        ocs:C27380,
+        ocs:C34807,
+        ocs:C36972,
+        ocs:C4321,
+        ocs:C6024,
+        ocs:C7470 .
+

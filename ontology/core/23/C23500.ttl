@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23500 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neural_network_software> ;
+    skos:prefLabel "Neural network software" ;
+    skos:related ocs:C11,
+        ocs:C1253,
+        ocs:C13,
+        ocs:C20126,
+        ocs:C21,
+        ocs:C2320,
+        ocs:C23970,
+        ocs:C25,
+        ocs:C26825,
+        ocs:C3063,
+        ocs:C37012,
+        ocs:C3932,
+        ocs:C42754,
+        ocs:C45659,
+        ocs:C8,
+        ocs:C8039,
+        ocs:C9022,
+        ocs:C9373,
+        ocs:C9874 .
+

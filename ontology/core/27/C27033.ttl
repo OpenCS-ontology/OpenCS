@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27033 a skos:Concept ;
+    skos:broader ocs:C11389,
+        ocs:C6754,
+        ocs:C7006,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_Electronic_Transaction> ;
+    skos:prefLabel "Secure Electronic Transaction" ;
+    skos:related ocs:C12698,
+        ocs:C14011,
+        ocs:C18629,
+        ocs:C24131,
+        ocs:C28637,
+        ocs:C2935,
+        ocs:C30829,
+        ocs:C30848,
+        ocs:C32192,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C37095,
+        ocs:C37915,
+        ocs:C40789,
+        ocs:C41033,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C44448,
+        ocs:C45140,
+        ocs:C8614 .
+

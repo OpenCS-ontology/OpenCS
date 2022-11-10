@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19930 a skos:Concept ;
+    skos:broader ocs:C5625 ;
+    skos:prefLabel "Trip number" ;
+    skos:related ocs:C10,
+        ocs:C24,
+        ocs:C31754,
+        ocs:C5625,
+        ocs:C8,
+        ocs:C8704 .
+

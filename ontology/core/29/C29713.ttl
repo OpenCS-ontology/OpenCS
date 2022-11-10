@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29713 a skos:Concept ;
+    skos:broader ocs:C28789 ;
+    skos:prefLabel "Dicom Standard" ;
+    skos:related ocs:C10052,
+        ocs:C12317,
+        ocs:C197,
+        ocs:C2,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C2414,
+        ocs:C33447,
+        ocs:C7006,
+        ocs:C8614 .
+

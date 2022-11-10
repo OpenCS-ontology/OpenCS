@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20649 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Myrmica_rubra> ;
+    skos:prefLabel "Myrmica rubra" ;
+    skos:related ocs:C14756,
+        ocs:C15126,
+        ocs:C18049,
+        ocs:C19311,
+        ocs:C27032,
+        ocs:C28812,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C30349,
+        ocs:C33999,
+        ocs:C34831,
+        ocs:C37210 .
+

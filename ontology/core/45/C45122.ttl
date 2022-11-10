@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45122 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_inclusion_vulnerability> ;
+    skos:prefLabel "File inclusion vulnerability" ;
+    skos:related ocs:C15129,
+        ocs:C16336,
+        ocs:C16338,
+        ocs:C17235,
+        ocs:C17557,
+        ocs:C19358,
+        ocs:C22630,
+        ocs:C27557,
+        ocs:C32485,
+        ocs:C34170,
+        ocs:C39920,
+        ocs:C40290,
+        ocs:C41699,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C4918,
+        ocs:C7530 .
+

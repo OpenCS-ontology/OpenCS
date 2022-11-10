@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12393 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Symbolic_Cholesky_decomposition> ;
+    skos:prefLabel "Symbolic Cholesky decomposition" ;
+    skos:related ocs:C10,
+        ocs:C15070,
+        ocs:C19348,
+        ocs:C25867,
+        ocs:C29473,
+        ocs:C39605,
+        ocs:C3987,
+        ocs:C40577 .
+

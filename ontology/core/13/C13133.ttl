@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13133 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/T-commerce> ;
+    skos:prefLabel "T-commerce" ;
+    skos:related ocs:C10569,
+        ocs:C11696,
+        ocs:C12999,
+        ocs:C1496,
+        ocs:C18,
+        ocs:C18985,
+        ocs:C23106,
+        ocs:C26014,
+        ocs:C27572,
+        ocs:C31549,
+        ocs:C33826,
+        ocs:C4433,
+        ocs:C5573,
+        ocs:C5839,
+        ocs:C5926,
+        ocs:C8614 .
+

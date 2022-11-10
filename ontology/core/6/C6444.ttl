@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6444 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Luminance> ;
+    skos:prefLabel "Luminance" ;
+    skos:related ocs:C10740,
+        ocs:C20871,
+        ocs:C20984,
+        ocs:C27086,
+        ocs:C6942,
+        ocs:C740,
+        ocs:C747,
+        ocs:C8021 .
+

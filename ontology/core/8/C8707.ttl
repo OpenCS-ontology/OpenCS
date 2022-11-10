@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8707 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soft_sensor> ;
+    skos:prefLabel "Soft sensor" ;
+    skos:related ocs:C10143,
+        ocs:C16352,
+        ocs:C16916,
+        ocs:C18408,
+        ocs:C28522,
+        ocs:C30733,
+        ocs:C3140,
+        ocs:C3900,
+        ocs:C3987,
+        ocs:C43373,
+        ocs:C43990,
+        ocs:C8273,
+        ocs:C9373 .
+

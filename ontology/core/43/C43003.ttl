@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43003 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Region-based_memory_management> ;
+    skos:prefLabel "Region-based memory management" ;
+    skos:related ocs:C12004,
+        ocs:C12108,
+        ocs:C259,
+        ocs:C25960,
+        ocs:C29314,
+        ocs:C32676,
+        ocs:C37844,
+        ocs:C6941,
+        ocs:C7470,
+        ocs:C794 .
+

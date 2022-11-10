@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33691 a skos:Concept ;
+    skos:broader ocs:C19721 ;
+    skos:closeMatch <http://dbpedia.org/resource/DVB-T> ;
+    skos:prefLabel "DVB-T" ;
+    skos:related ocs:C11323,
+        ocs:C12544,
+        ocs:C19721,
+        ocs:C20140,
+        ocs:C22326,
+        ocs:C25114,
+        ocs:C27572,
+        ocs:C29048,
+        ocs:C30311,
+        ocs:C32488,
+        ocs:C32756,
+        ocs:C34890,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C35819,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C40667,
+        ocs:C4433 .
+

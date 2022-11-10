@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34791 a skos:Concept ;
+    skos:broader ocs:C28340,
+        ocs:C29280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Base_(group_theory)> ;
+    skos:prefLabel "Base (group theory)" ;
+    skos:related ocs:C28340,
+        ocs:C29978,
+        ocs:C34715,
+        ocs:C35163,
+        ocs:C36814,
+        ocs:C39552,
+        ocs:C44977 .
+

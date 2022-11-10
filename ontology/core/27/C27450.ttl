@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27450 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neutron-star_oscillation> ;
+    skos:prefLabel "Neutron-star oscillation" ;
+    skos:related ocs:C20110,
+        ocs:C22542,
+        ocs:C23201,
+        ocs:C27257,
+        ocs:C35073,
+        ocs:C597 .
+

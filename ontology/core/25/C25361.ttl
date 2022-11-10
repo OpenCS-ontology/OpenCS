@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25361 a skos:Concept ;
+    skos:broader ocs:C13857,
+        ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/VLAN_access_control_list> ;
+    skos:prefLabel "VLAN access control list" ;
+    skos:related ocs:C10774,
+        ocs:C11157,
+        ocs:C12334,
+        ocs:C12935,
+        ocs:C13307,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26523,
+        ocs:C27557,
+        ocs:C27923,
+        ocs:C30825,
+        ocs:C41930,
+        ocs:C44711,
+        ocs:C44780,
+        ocs:C44968,
+        ocs:C45254 .
+

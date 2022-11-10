@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24892 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C8430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Energy_management_software> ;
+    skos:prefLabel "Energy management software" ;
+    skos:related ocs:C13402,
+        ocs:C1626,
+        ocs:C19129,
+        ocs:C21317,
+        ocs:C24065,
+        ocs:C35701,
+        ocs:C8386,
+        ocs:C8430,
+        ocs:C985 .
+

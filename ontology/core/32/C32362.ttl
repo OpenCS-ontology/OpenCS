@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32362 a skos:Concept ;
+    skos:broader ocs:C16666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skip_graph> ;
+    skos:prefLabel "Skip graph" ;
+    skos:related ocs:C14223,
+        ocs:C16666,
+        ocs:C18860,
+        ocs:C23443,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28743,
+        ocs:C2885,
+        ocs:C30,
+        ocs:C33417,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C38550,
+        ocs:C39053,
+        ocs:C39430,
+        ocs:C42687,
+        ocs:C44121,
+        ocs:C8452,
+        ocs:C8522 .
+

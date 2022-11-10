@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2434 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hold-And-Modify> ;
+    skos:prefLabel "Hold-And-Modify" ;
+    skos:related ocs:C10320,
+        ocs:C15700,
+        ocs:C15817,
+        ocs:C17257,
+        ocs:C1935,
+        ocs:C24211,
+        ocs:C28172,
+        ocs:C2937,
+        ocs:C30745,
+        ocs:C36633,
+        ocs:C41977,
+        ocs:C44,
+        ocs:C44318,
+        ocs:C45499,
+        ocs:C45843,
+        ocs:C6942,
+        ocs:C9664 .
+

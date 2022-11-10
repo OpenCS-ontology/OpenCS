@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31776 a skos:Concept ;
+    skos:broader ocs:C29206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alethiology> ;
+    skos:prefLabel "Alethiology" ;
+    skos:related ocs:C26019,
+        ocs:C26360,
+        ocs:C29358,
+        ocs:C42831 .
+

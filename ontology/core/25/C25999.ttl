@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25999 a skos:Concept ;
+    skos:broader ocs:C13685,
+        ocs:C4151,
+        ocs:C5087,
+        ocs:C7791 ;
+    skos:prefLabel "Functional linear regression" .
+

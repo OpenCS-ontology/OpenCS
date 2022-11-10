@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9784 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit-stream_access> ;
+    skos:prefLabel "Bit-stream access" ;
+    skos:related ocs:C10638,
+        ocs:C12308,
+        ocs:C1344,
+        ocs:C14832,
+        ocs:C16400,
+        ocs:C17411,
+        ocs:C17867,
+        ocs:C19350,
+        ocs:C22407,
+        ocs:C26580,
+        ocs:C2917,
+        ocs:C2988,
+        ocs:C34141,
+        ocs:C45074,
+        ocs:C45690,
+        ocs:C9327 .
+

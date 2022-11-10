@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3448 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basic_block> ;
+    skos:prefLabel "Basic block" ;
+    skos:related ocs:C1,
+        ocs:C12257,
+        ocs:C1587,
+        ocs:C17204,
+        ocs:C18272,
+        ocs:C19487,
+        ocs:C2057,
+        ocs:C21201,
+        ocs:C22987,
+        ocs:C24591,
+        ocs:C25139,
+        ocs:C27080,
+        ocs:C29056,
+        ocs:C37538,
+        ocs:C41964,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C7800,
+        ocs:C856 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44989 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Package_development_process> ;
+    skos:prefLabel "Package development process" ;
+    skos:related ocs:C11591,
+        ocs:C13374,
+        ocs:C14372,
+        ocs:C18415,
+        ocs:C20241,
+        ocs:C25557,
+        ocs:C25956,
+        ocs:C26009,
+        ocs:C29790,
+        ocs:C36599,
+        ocs:C37174,
+        ocs:C38555,
+        ocs:C38916,
+        ocs:C41038,
+        ocs:C41111,
+        ocs:C42070,
+        ocs:C42576,
+        ocs:C44802,
+        ocs:C45208 .
+

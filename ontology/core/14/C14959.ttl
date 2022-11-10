@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14959 a skos:Concept ;
+    skos:broader ocs:C12641,
+        ocs:C9690 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coordinate_time> ;
+    skos:prefLabel "Coordinate time" ;
+    skos:related ocs:C18988,
+        ocs:C1941 .
+

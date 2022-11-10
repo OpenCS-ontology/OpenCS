@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11034 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Progressive_disclosure> ;
+    skos:prefLabel "Progressive disclosure" ;
+    skos:related ocs:C13413,
+        ocs:C14148,
+        ocs:C15633,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C21671,
+        ocs:C26634,
+        ocs:C28503,
+        ocs:C34316,
+        ocs:C34564,
+        ocs:C39960,
+        ocs:C4094,
+        ocs:C42871,
+        ocs:C5051,
+        ocs:C5876,
+        ocs:C7736,
+        ocs:C7937,
+        ocs:C8269,
+        ocs:C9607 .
+

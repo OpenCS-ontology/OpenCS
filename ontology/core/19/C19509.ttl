@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19509 a skos:Concept ;
+    skos:broader ocs:C2978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diamond_principle> ;
+    skos:prefLabel "Diamond principle" ;
+    skos:related ocs:C16069,
+        ocs:C16190,
+        ocs:C24167,
+        ocs:C27491,
+        ocs:C30150,
+        ocs:C33304,
+        ocs:C44324,
+        ocs:C5251,
+        ocs:C8635 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2458 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CcTalk> ;
+    skos:prefLabel "ccTalk" ;
+    skos:related ocs:C10400,
+        ocs:C11960,
+        ocs:C13386,
+        ocs:C13689,
+        ocs:C14931,
+        ocs:C20442,
+        ocs:C21598,
+        ocs:C42690,
+        ocs:C43497,
+        ocs:C45243,
+        ocs:C7983 .
+

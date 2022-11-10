@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10943 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mass_deacidification> ;
+    skos:prefLabel "Mass deacidification" ;
+    skos:related ocs:C1090,
+        ocs:C11198,
+        ocs:C11492,
+        ocs:C2862,
+        ocs:C39,
+        ocs:C6954,
+        ocs:C8498 .
+

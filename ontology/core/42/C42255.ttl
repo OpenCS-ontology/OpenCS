@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42255 a skos:Concept ;
+    skos:broader ocs:C31484,
+        ocs:C32049,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Repetition_code> ;
+    skos:prefLabel "Repetition code" ;
+    skos:related ocs:C14926,
+        ocs:C16106,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C32049,
+        ocs:C34133,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C35925,
+        ocs:C37934,
+        ocs:C40267,
+        ocs:C40903,
+        ocs:C41626,
+        ocs:C42003,
+        ocs:C42033 .
+

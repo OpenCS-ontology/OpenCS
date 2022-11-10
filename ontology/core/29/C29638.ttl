@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29638 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pangasius> ;
+    skos:prefLabel "Pangasius" ;
+    skos:related ocs:C24236,
+        ocs:C29621,
+        ocs:C29736,
+        ocs:C32611,
+        ocs:C36214,
+        ocs:C38348,
+        ocs:C39733,
+        ocs:C40766,
+        ocs:C40967,
+        ocs:C41316,
+        ocs:C43000 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8864 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iterator> ;
+    skos:prefLabel "Iterator" ;
+    skos:related ocs:C10182,
+        ocs:C10384,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C10862,
+        ocs:C11547,
+        ocs:C12848,
+        ocs:C19,
+        ocs:C2050,
+        ocs:C23909,
+        ocs:C26456,
+        ocs:C27131,
+        ocs:C27826,
+        ocs:C31014,
+        ocs:C4700,
+        ocs:C6941,
+        ocs:C8022 .
+

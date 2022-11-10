@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33374 a skos:Concept ;
+    skos:broader ocs:C25341 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ground_dipole> ;
+    skos:prefLabel "Ground dipole" ;
+    skos:related ocs:C10108,
+        ocs:C1219,
+        ocs:C25341,
+        ocs:C37939,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C42274,
+        ocs:C42721,
+        ocs:C7159,
+        ocs:C793,
+        ocs:C9691 .
+

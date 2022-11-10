@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2723 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_information_architecture> ;
+    skos:prefLabel "Social information architecture" ;
+    skos:related ocs:C11087,
+        ocs:C12998,
+        ocs:C1621,
+        ocs:C20461,
+        ocs:C22668,
+        ocs:C2474,
+        ocs:C25681,
+        ocs:C28988,
+        ocs:C31201,
+        ocs:C38403,
+        ocs:C39858,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C4803,
+        ocs:C8614,
+        ocs:C9057 .
+

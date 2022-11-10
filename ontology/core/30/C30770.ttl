@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30770 a skos:Concept ;
+    skos:broader ocs:C20124 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rank–nullity_theorem> ;
+    skos:prefLabel "Rank–nullity theorem" ;
+    skos:related ocs:C10534,
+        ocs:C20124 .
+

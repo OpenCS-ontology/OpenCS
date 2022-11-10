@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43513 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distance-vector_routing_protocol> ;
+    skos:prefLabel "Distance-vector routing protocol" ;
+    skos:related ocs:C10563,
+        ocs:C17158,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C39424,
+        ocs:C39642,
+        ocs:C39742,
+        ocs:C40621,
+        ocs:C41259,
+        ocs:C41572,
+        ocs:C42316,
+        ocs:C42853,
+        ocs:C42898,
+        ocs:C44582,
+        ocs:C45818 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37262 a skos:Concept ;
+    skos:broader ocs:C27343 ;
+    skos:closeMatch <http://dbpedia.org/resource/Third_declension> ;
+    skos:prefLabel "Third declension" ;
+    skos:related ocs:C10287,
+        ocs:C13868,
+        ocs:C15856,
+        ocs:C20209,
+        ocs:C20344,
+        ocs:C22126,
+        ocs:C24499,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C29667,
+        ocs:C31787,
+        ocs:C33460,
+        ocs:C41279,
+        ocs:C9533 .
+

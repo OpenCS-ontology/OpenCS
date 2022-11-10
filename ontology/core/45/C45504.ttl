@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45504 a skos:Concept ;
+    skos:broader ocs:C34795 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_modal_logic> ;
+    skos:prefLabel "Regular modal logic" ;
+    skos:related ocs:C17925,
+        ocs:C19322,
+        ocs:C22706,
+        ocs:C34795,
+        ocs:C41067,
+        ocs:C41203,
+        ocs:C41223,
+        ocs:C41584,
+        ocs:C42906,
+        ocs:C43143,
+        ocs:C43164,
+        ocs:C43742,
+        ocs:C5714,
+        ocs:C7766,
+        ocs:C8748 .
+

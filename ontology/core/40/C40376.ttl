@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40376 a skos:Concept ;
+    skos:broader ocs:C31695,
+        ocs:C32289,
+        ocs:C32918,
+        ocs:C33141,
+        ocs:C36409 ;
+    skos:closeMatch <http://dbpedia.org/resource/Representer_theorem> ;
+    skos:prefLabel "Representer theorem" ;
+    skos:related ocs:C10136,
+        ocs:C11599,
+        ocs:C15346,
+        ocs:C18225,
+        ocs:C18966,
+        ocs:C2005,
+        ocs:C24337,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C2834,
+        ocs:C28787,
+        ocs:C31630,
+        ocs:C32918,
+        ocs:C33141,
+        ocs:C38726,
+        ocs:C41650,
+        ocs:C43231,
+        ocs:C45844 .
+

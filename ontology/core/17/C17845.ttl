@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17845 a skos:Concept ;
+    skos:broader ocs:C3515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Presburger_arithmetic> ;
+    skos:prefLabel "Presburger arithmetic" ;
+    skos:related ocs:C10,
+        ocs:C11658,
+        ocs:C12474,
+        ocs:C14986,
+        ocs:C23662,
+        ocs:C2418,
+        ocs:C2425,
+        ocs:C26402,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C33304,
+        ocs:C34319,
+        ocs:C39446,
+        ocs:C4756,
+        ocs:C8635 .
+

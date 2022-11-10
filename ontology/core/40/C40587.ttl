@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40587 a skos:Concept ;
+    skos:broader ocs:C36536 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_enclosure> ;
+    skos:prefLabel "Disk enclosure" ;
+    skos:related ocs:C10785,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C17533,
+        ocs:C29012,
+        ocs:C29846,
+        ocs:C30953,
+        ocs:C41110,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9426 .
+

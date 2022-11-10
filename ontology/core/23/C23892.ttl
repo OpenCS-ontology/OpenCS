@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23892 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C7825,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_monad> ;
+    skos:prefLabel "Strong monad" ;
+    skos:related ocs:C17067,
+        ocs:C23891,
+        ocs:C27388 .
+

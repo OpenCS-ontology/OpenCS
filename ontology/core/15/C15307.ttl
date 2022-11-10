@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15307 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stencil_code> ;
+    skos:prefLabel "Stencil code" ;
+    skos:related ocs:C16298,
+        ocs:C29207,
+        ocs:C36615,
+        ocs:C45217,
+        ocs:C6178,
+        ocs:C7256 .
+

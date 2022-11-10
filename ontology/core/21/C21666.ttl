@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21666 a skos:Concept ;
+    skos:broader ocs:C3312 ;
+    skos:prefLabel "Purchase invoice" ;
+    skos:related ocs:C1,
+        ocs:C14584,
+        ocs:C24142,
+        ocs:C31,
+        ocs:C6,
+        ocs:C7800,
+        ocs:C983 .
+

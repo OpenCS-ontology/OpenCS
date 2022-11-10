@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C247 a skos:Concept ;
+    skos:broader ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Overlap_coefficient> ;
+    skos:prefLabel "Overlap coefficient" ;
+    skos:related ocs:C10398,
+        ocs:C19398,
+        ocs:C24845,
+        ocs:C25980,
+        ocs:C3189,
+        ocs:C32077,
+        ocs:C34809,
+        ocs:C42776,
+        ocs:C44677 .
+

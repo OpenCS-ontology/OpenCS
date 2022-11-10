@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38530 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attack_(computing)> ;
+    skos:prefLabel "Attack" ;
+    skos:related ocs:C1399,
+        ocs:C15729,
+        ocs:C17699,
+        ocs:C22122,
+        ocs:C25176,
+        ocs:C25619,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C35810,
+        ocs:C38304,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C40243,
+        ocs:C41865,
+        ocs:C41901,
+        ocs:C45654,
+        ocs:C7804,
+        ocs:C8458 .
+

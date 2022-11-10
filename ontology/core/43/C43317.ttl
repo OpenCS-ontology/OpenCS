@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43317 a skos:Concept ;
+    skos:broader ocs:C31195,
+        ocs:C35699 ;
+    skos:closeMatch <http://dbpedia.org/resource/Momentum_operator> ;
+    skos:prefLabel "Momentum operator" ;
+    skos:related ocs:C20541,
+        ocs:C44649 .
+

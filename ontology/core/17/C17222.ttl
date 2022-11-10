@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17222 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:prefLabel "Circumduction" ;
+    skos:related ocs:C1,
+        ocs:C1239,
+        ocs:C21424,
+        ocs:C4435 .
+

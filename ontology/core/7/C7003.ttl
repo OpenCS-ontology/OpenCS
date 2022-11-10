@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7003 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Machine_(mechanical)> ;
+    skos:prefLabel "Machine" ;
+    skos:related ocs:C15416,
+        ocs:C28400,
+        ocs:C5394,
+        ocs:C7848 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C898 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Eye exercise" ;
+    skos:related ocs:C1,
+        ocs:C2,
+        ocs:C22,
+        ocs:C4780,
+        ocs:C4842,
+        ocs:C7,
+        ocs:C8 .
+

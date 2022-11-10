@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39611 a skos:Concept ;
+    skos:broader ocs:C31111,
+        ocs:C31887,
+        ocs:C36383 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_field_theory> ;
+    skos:prefLabel "Decision field theory" ;
+    skos:related ocs:C10410,
+        ocs:C11668,
+        ocs:C19002,
+        ocs:C3753,
+        ocs:C5295,
+        ocs:C7256 .
+

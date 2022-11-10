@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41385 a skos:Concept ;
+    skos:broader ocs:C33140 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pillars_of_Creation> ;
+    skos:prefLabel "Pillars of Creation" ;
+    skos:related ocs:C16731,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C25949,
+        ocs:C30450,
+        ocs:C33140,
+        ocs:C34547,
+        ocs:C36389,
+        ocs:C40958,
+        ocs:C44200,
+        ocs:C44556,
+        ocs:C44587 .
+

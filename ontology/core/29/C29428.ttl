@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29428 a skos:Concept ;
+    skos:broader ocs:C660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_director_(aeronautics)> ;
+    skos:prefLabel "Flight director" ;
+    skos:related ocs:C13683,
+        ocs:C13856,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C23477,
+        ocs:C24485,
+        ocs:C26346,
+        ocs:C30597,
+        ocs:C31202,
+        ocs:C32744,
+        ocs:C36804,
+        ocs:C43975,
+        ocs:C4979,
+        ocs:C5030,
+        ocs:C5913 .
+

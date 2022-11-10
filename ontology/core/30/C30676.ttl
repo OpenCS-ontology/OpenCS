@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30676 a skos:Concept ;
+    skos:broader ocs:C14479 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gramicidin_S> ;
+    skos:prefLabel "Gramicidin S" ;
+    skos:related ocs:C14479,
+        ocs:C30774 .
+

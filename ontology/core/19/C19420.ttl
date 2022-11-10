@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19420 a skos:Concept ;
+    skos:broader ocs:C2250 ;
+    skos:closeMatch <http://dbpedia.org/resource/Observed_information> ;
+    skos:prefLabel "Observed information" ;
+    skos:related ocs:C10222,
+        ocs:C11025,
+        ocs:C13685,
+        ocs:C14030,
+        ocs:C23664,
+        ocs:C25862,
+        ocs:C29461,
+        ocs:C31283,
+        ocs:C5703 .
+

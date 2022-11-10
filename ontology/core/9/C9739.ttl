@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9739 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuous_operation> ;
+    skos:prefLabel "Continuous operation" ;
+    skos:related ocs:C2656,
+        ocs:C30667,
+        ocs:C31746,
+        ocs:C43515,
+        ocs:C43945,
+        ocs:C5725,
+        ocs:C6117,
+        ocs:C6964,
+        ocs:C8410 .
+

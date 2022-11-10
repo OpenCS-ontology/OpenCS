@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36324 a skos:Concept ;
+    skos:broader ocs:C16169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schilder's_theorem> ;
+    skos:prefLabel "Schilder's theorem" ;
+    skos:related ocs:C42064,
+        ocs:C6909 .
+

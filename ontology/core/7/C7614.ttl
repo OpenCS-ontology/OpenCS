@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7614 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Degree_of_parallelism> ;
+    skos:prefLabel "Degree of parallelism" ;
+    skos:related ocs:C10320,
+        ocs:C11093,
+        ocs:C12690,
+        ocs:C1721,
+        ocs:C17626,
+        ocs:C18983,
+        ocs:C21266,
+        ocs:C21551,
+        ocs:C27,
+        ocs:C32161,
+        ocs:C3482,
+        ocs:C39243,
+        ocs:C3981,
+        ocs:C5766,
+        ocs:C6312,
+        ocs:C7735 .
+

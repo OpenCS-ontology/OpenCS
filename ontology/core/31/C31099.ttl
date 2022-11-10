@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31099 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Computed perimetry" ;
+    skos:related ocs:C11402,
+        ocs:C16038 .
+

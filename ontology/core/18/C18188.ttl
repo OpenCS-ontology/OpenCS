@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18188 a skos:Concept ;
+    skos:broader ocs:C2917,
+        ocs:C9327 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISDN_digital_subscriber_line> ;
+    skos:prefLabel "ISDN digital subscriber line" ;
+    skos:related ocs:C13695,
+        ocs:C15589,
+        ocs:C1733,
+        ocs:C19350,
+        ocs:C21610,
+        ocs:C22669,
+        ocs:C23555,
+        ocs:C24466,
+        ocs:C26580,
+        ocs:C26809,
+        ocs:C2917,
+        ocs:C29601,
+        ocs:C2982,
+        ocs:C34009,
+        ocs:C34141,
+        ocs:C34505,
+        ocs:C38664,
+        ocs:C40684,
+        ocs:C9327 .
+

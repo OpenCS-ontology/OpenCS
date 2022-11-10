@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43534 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C36497,
+        ocs:C37469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Session_Announcement_Protocol> ;
+    skos:prefLabel "Session Announcement Protocol" ;
+    skos:related ocs:C14160,
+        ocs:C22493,
+        ocs:C23503,
+        ocs:C23995,
+        ocs:C25482,
+        ocs:C26067,
+        ocs:C30247,
+        ocs:C31065,
+        ocs:C31990,
+        ocs:C33414,
+        ocs:C3391,
+        ocs:C34719,
+        ocs:C36782,
+        ocs:C39108,
+        ocs:C43574,
+        ocs:C44254,
+        ocs:C44991,
+        ocs:C45376,
+        ocs:C6961,
+        ocs:C8515 .
+

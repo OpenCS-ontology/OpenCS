@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22059 a skos:Concept ;
+    skos:broader ocs:C13155 ;
+    skos:closeMatch <http://dbpedia.org/resource/Raster_image_processor> ;
+    skos:prefLabel "Raster image processor" ;
+    skos:related ocs:C10986,
+        ocs:C13155,
+        ocs:C1397,
+        ocs:C16042,
+        ocs:C20066,
+        ocs:C28588,
+        ocs:C29600,
+        ocs:C30512,
+        ocs:C31489,
+        ocs:C33188,
+        ocs:C4503,
+        ocs:C5450,
+        ocs:C5477,
+        ocs:C8021 .
+

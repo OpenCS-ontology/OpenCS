@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44609 a skos:Concept ;
+    skos:broader ocs:C30405 ;
+    skos:closeMatch <http://dbpedia.org/resource/WS-SecurityPolicy> ;
+    skos:prefLabel "WS-SecurityPolicy" ;
+    skos:related ocs:C10904,
+        ocs:C12617,
+        ocs:C13252,
+        ocs:C20239,
+        ocs:C22847,
+        ocs:C29951,
+        ocs:C33015,
+        ocs:C38075,
+        ocs:C38250,
+        ocs:C38484,
+        ocs:C39108,
+        ocs:C39643,
+        ocs:C43607,
+        ocs:C43812,
+        ocs:C44171,
+        ocs:C44429,
+        ocs:C449,
+        ocs:C45846,
+        ocs:C8347,
+        ocs:C8795 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37921 a skos:Concept ;
+    skos:broader ocs:C32807 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spinors_in_three_dimensions> ;
+    skos:prefLabel "Spinors in three dimensions" ;
+    skos:related ocs:C1385,
+        ocs:C16671,
+        ocs:C28787,
+        ocs:C28965 .
+

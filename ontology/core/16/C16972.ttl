@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16972 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abundance_of_the_chemical_elements> ;
+    skos:prefLabel "Abundance of the chemical elements" ;
+    skos:related ocs:C22014,
+        ocs:C597 .
+

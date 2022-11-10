@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3706 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-structured_programming> ;
+    skos:prefLabel "Non-structured programming" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C12003,
+        ocs:C12846,
+        ocs:C13101,
+        ocs:C1333,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C23909,
+        ocs:C3036,
+        ocs:C31724,
+        ocs:C36972,
+        ocs:C43596,
+        ocs:C4778,
+        ocs:C4937,
+        ocs:C5049,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8751 .
+

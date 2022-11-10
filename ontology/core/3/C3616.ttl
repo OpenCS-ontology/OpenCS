@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3616 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dummy_data> ;
+    skos:prefLabel "Dummy data" ;
+    skos:related ocs:C12100,
+        ocs:C1253,
+        ocs:C25430,
+        ocs:C25464,
+        ocs:C27130,
+        ocs:C950 .
+

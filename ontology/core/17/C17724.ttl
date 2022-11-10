@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17724 a skos:Concept ;
+    skos:broader ocs:C10670,
+        ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semiparametric_model> ;
+    skos:prefLabel "Semiparametric model" ;
+    skos:related ocs:C10670,
+        ocs:C13685,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C16913,
+        ocs:C20050,
+        ocs:C39127,
+        ocs:C6116,
+        ocs:C6395 .
+

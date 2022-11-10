@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43011 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C30335,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain-specific_software_architecture> ;
+    skos:prefLabel "Domain-specific software architecture" .
+

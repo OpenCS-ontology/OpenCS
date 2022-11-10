@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4811 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barrel_shifter> ;
+    skos:prefLabel "Barrel shifter" ;
+    skos:related ocs:C10320,
+        ocs:C10719,
+        ocs:C11047,
+        ocs:C12262,
+        ocs:C19487,
+        ocs:C21384,
+        ocs:C22525,
+        ocs:C23148,
+        ocs:C27610,
+        ocs:C27882,
+        ocs:C28063,
+        ocs:C31235,
+        ocs:C40443,
+        ocs:C4863,
+        ocs:C856 .
+

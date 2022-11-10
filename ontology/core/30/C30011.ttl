@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30011 a skos:Concept ;
+    skos:broader ocs:C26410 ;
+    skos:closeMatch <http://dbpedia.org/resource/N-Hash> ;
+    skos:prefLabel "N-Hash" ;
+    skos:related ocs:C15591,
+        ocs:C23875,
+        ocs:C29363,
+        ocs:C33923,
+        ocs:C34052,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37976,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43112,
+        ocs:C43191,
+        ocs:C43750,
+        ocs:C43883,
+        ocs:C5930,
+        ocs:C8946 .
+

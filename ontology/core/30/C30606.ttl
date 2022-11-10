@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30606 a skos:Concept ;
+    skos:broader ocs:C13977 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carya_texana> ;
+    skos:prefLabel "Carya texana" ;
+    skos:related ocs:C13977,
+        ocs:C23903,
+        ocs:C23963,
+        ocs:C28894,
+        ocs:C34331 .
+

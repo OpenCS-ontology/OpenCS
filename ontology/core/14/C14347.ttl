@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14347 a skos:Concept ;
+    skos:broader ocs:C7987 ;
+    skos:prefLabel "Signal Detection Analyses" ;
+    skos:related ocs:C16,
+        ocs:C1742,
+        ocs:C5298 .
+

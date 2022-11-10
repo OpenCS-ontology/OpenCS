@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5141 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semiconductor_memory> ;
+    skos:prefLabel "Semiconductor memory" ;
+    skos:related ocs:C10320,
+        ocs:C10696,
+        ocs:C13875,
+        ocs:C14162,
+        ocs:C17846,
+        ocs:C23270,
+        ocs:C27610,
+        ocs:C2936,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C35697,
+        ocs:C4259,
+        ocs:C7007,
+        ocs:C9381 .
+

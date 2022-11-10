@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12439 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/DirectShow> ;
+    skos:prefLabel "DirectShow" ;
+    skos:related ocs:C11933,
+        ocs:C12152,
+        ocs:C14634,
+        ocs:C15642,
+        ocs:C22144,
+        ocs:C26268,
+        ocs:C2674,
+        ocs:C28717,
+        ocs:C28881,
+        ocs:C31114,
+        ocs:C3176,
+        ocs:C333,
+        ocs:C34356,
+        ocs:C34697,
+        ocs:C38834,
+        ocs:C39584,
+        ocs:C42693,
+        ocs:C5514,
+        ocs:C9033 .
+

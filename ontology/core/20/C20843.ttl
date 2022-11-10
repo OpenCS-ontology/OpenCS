@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20843 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C2800,
+        ocs:C5698 ;
+    skos:closeMatch <http://dbpedia.org/resource/Redirected_walking> ;
+    skos:prefLabel "Redirected walking" .
+

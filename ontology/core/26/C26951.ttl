@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26951 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C10557,
+        ocs:C3838,
+        ocs:C6764 ;
+    skos:closeMatch <http://dbpedia.org/resource/Focus_phrase> ;
+    skos:prefLabel "Focus phrase" ;
+    skos:related ocs:C39789 .
+

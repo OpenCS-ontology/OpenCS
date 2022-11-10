@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26031 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006,
+        ocs:C6545,
+        ocs:C9158 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predicative_verb> ;
+    skos:prefLabel "Predicative verb" ;
+    skos:related ocs:C11932,
+        ocs:C12270,
+        ocs:C1739,
+        ocs:C18397,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C22560,
+        ocs:C25015,
+        ocs:C26884,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C35115,
+        ocs:C37448,
+        ocs:C6545,
+        ocs:C8454 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5998 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intentional_radiator> ;
+    skos:prefLabel "Intentional radiator" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C16925,
+        ocs:C18989,
+        ocs:C2465,
+        ocs:C3044,
+        ocs:C4205,
+        ocs:C42274,
+        ocs:C4585,
+        ocs:C6295,
+        ocs:C7159,
+        ocs:C9263 .
+

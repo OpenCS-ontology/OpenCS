@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36948 a skos:Concept ;
+    skos:broader ocs:C15168 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complex_beam_parameter> ;
+    skos:prefLabel "Complex beam parameter" ;
+    skos:related ocs:C15168,
+        ocs:C45278 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6390 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/HOL_(proof_assistant)> ;
+    skos:prefLabel "HOL" ;
+    skos:related ocs:C10498,
+        ocs:C21497,
+        ocs:C22394,
+        ocs:C23248,
+        ocs:C24168,
+        ocs:C2418,
+        ocs:C24395,
+        ocs:C25442,
+        ocs:C27091,
+        ocs:C28007,
+        ocs:C28895,
+        ocs:C29068,
+        ocs:C35496,
+        ocs:C36877,
+        ocs:C4756,
+        ocs:C5517,
+        ocs:C6492,
+        ocs:C8080,
+        ocs:C9891 .
+

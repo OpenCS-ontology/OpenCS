@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4441 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voiceless_velar_fricative> ;
+    skos:prefLabel "Voiceless velar fricative" ;
+    skos:related ocs:C12222,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C14361,
+        ocs:C17395,
+        ocs:C18818,
+        ocs:C18819,
+        ocs:C19971,
+        ocs:C2025,
+        ocs:C21409,
+        ocs:C22147,
+        ocs:C27886,
+        ocs:C29494,
+        ocs:C6361,
+        ocs:C7501,
+        ocs:C8121 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29771 a skos:Concept ;
+    skos:broader ocs:C19494 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-aided_dispatch> ;
+    skos:prefLabel "Computer-aided dispatch" ;
+    skos:related ocs:C13571,
+        ocs:C19494,
+        ocs:C23237,
+        ocs:C30890,
+        ocs:C33607,
+        ocs:C37139,
+        ocs:C4255,
+        ocs:C4320,
+        ocs:C43408,
+        ocs:C6598,
+        ocs:C6763,
+        ocs:C7914,
+        ocs:C9113 .
+

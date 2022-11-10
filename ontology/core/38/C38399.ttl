@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38399 a skos:Concept ;
+    skos:broader ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Covert_channel> ;
+    skos:prefLabel "Covert channel" ;
+    skos:related ocs:C12052,
+        ocs:C13319,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C20443,
+        ocs:C21383,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C35388,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41901,
+        ocs:C8614 .
+

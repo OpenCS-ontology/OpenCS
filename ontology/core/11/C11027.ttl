@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11027 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_ad_hoc_network> ;
+    skos:prefLabel "Mobile ad hoc network" ;
+    skos:related ocs:C15728,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C28122,
+        ocs:C28850,
+        ocs:C3236,
+        ocs:C33674,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C34938,
+        ocs:C35370,
+        ocs:C36109,
+        ocs:C37073,
+        ocs:C44097,
+        ocs:C45428,
+        ocs:C45545,
+        ocs:C490,
+        ocs:C8172 .
+

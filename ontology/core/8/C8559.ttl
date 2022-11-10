@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8559 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robustness_(computer_science)> ;
+    skos:prefLabel "Robustness (computer science)" ;
+    skos:related ocs:C10,
+        ocs:C1083,
+        ocs:C12691,
+        ocs:C17589,
+        ocs:C18784,
+        ocs:C19562,
+        ocs:C21942,
+        ocs:C23580,
+        ocs:C28073,
+        ocs:C35575,
+        ocs:C38644,
+        ocs:C45358,
+        ocs:C5722,
+        ocs:C6072,
+        ocs:C6255 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14955 a skos:Concept ;
+    skos:broader ocs:C5251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paradoxes_of_set_theory> ;
+    skos:prefLabel "Paradoxes of set theory" ;
+    skos:related ocs:C12474,
+        ocs:C16538,
+        ocs:C19818,
+        ocs:C24167,
+        ocs:C27083,
+        ocs:C28286,
+        ocs:C33304,
+        ocs:C34745,
+        ocs:C38759,
+        ocs:C5251 .
+

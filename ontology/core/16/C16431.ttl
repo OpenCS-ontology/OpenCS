@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16431 a skos:Concept ;
+    skos:broader ocs:C13546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_event_dynamic_system> ;
+    skos:prefLabel "Discrete event dynamic system" ;
+    skos:related ocs:C1103,
+        ocs:C11616,
+        ocs:C13046,
+        ocs:C14327,
+        ocs:C1447,
+        ocs:C27522,
+        ocs:C34269,
+        ocs:C492 .
+

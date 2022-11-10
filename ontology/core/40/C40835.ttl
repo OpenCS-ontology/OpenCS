@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40835 a skos:Concept ;
+    skos:broader ocs:C34990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frege_system> ;
+    skos:prefLabel "Frege system" ;
+    skos:related ocs:C10825,
+        ocs:C13255,
+        ocs:C16432,
+        ocs:C16614,
+        ocs:C19295,
+        ocs:C21946,
+        ocs:C22946,
+        ocs:C26406,
+        ocs:C26635,
+        ocs:C34990,
+        ocs:C40719,
+        ocs:C41782,
+        ocs:C44339,
+        ocs:C45667,
+        ocs:C45817,
+        ocs:C4596,
+        ocs:C5714,
+        ocs:C7596,
+        ocs:C9429 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23550 a skos:Concept ;
+    skos:broader ocs:C12918,
+        ocs:C7165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_Microcontroller_Bus_Architecture> ;
+    skos:prefLabel "Advanced Microcontroller Bus Architecture" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C13747,
+        ocs:C19556,
+        ocs:C22530,
+        ocs:C26273,
+        ocs:C27610,
+        ocs:C40556,
+        ocs:C41110,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C6496,
+        ocs:C7165 .
+

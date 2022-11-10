@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34786 a skos:Concept ;
+    skos:broader ocs:C18256,
+        ocs:C21286 ;
+    skos:closeMatch <http://dbpedia.org/resource/Endgame_tablebase> ;
+    skos:prefLabel "Endgame tablebase" ;
+    skos:related ocs:C11414,
+        ocs:C1400,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C33246,
+        ocs:C34062,
+        ocs:C41004,
+        ocs:C4648,
+        ocs:C6748,
+        ocs:C7717,
+        ocs:C8,
+        ocs:C8276 .
+

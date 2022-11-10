@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13879 a skos:Concept ;
+    skos:broader ocs:C10917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_definition> ;
+    skos:prefLabel "Recursive definition" ;
+    skos:related ocs:C10498,
+        ocs:C10825,
+        ocs:C10917,
+        ocs:C12474,
+        ocs:C1631,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C45525,
+        ocs:C524,
+        ocs:C5251,
+        ocs:C8635 .
+

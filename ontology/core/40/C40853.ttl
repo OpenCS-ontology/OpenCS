@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40853 a skos:Concept ;
+    skos:broader ocs:C35427 ;
+    skos:closeMatch <http://dbpedia.org/resource/Copyright_Clause> ;
+    skos:prefLabel "Copyright Clause" ;
+    skos:related ocs:C13306,
+        ocs:C18764,
+        ocs:C24008,
+        ocs:C40984 .
+

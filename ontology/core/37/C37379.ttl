@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37379 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C19052,
+        ocs:C29390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotics_middleware> ;
+    skos:prefLabel "Robotics middleware" ;
+    skos:related ocs:C10279,
+        ocs:C10396,
+        ocs:C14329,
+        ocs:C18973,
+        ocs:C19374,
+        ocs:C20576,
+        ocs:C21166,
+        ocs:C2214,
+        ocs:C23314,
+        ocs:C23394,
+        ocs:C26833,
+        ocs:C31894,
+        ocs:C33991,
+        ocs:C37447,
+        ocs:C38363,
+        ocs:C39671,
+        ocs:C41135,
+        ocs:C44902,
+        ocs:C45782,
+        ocs:C924 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32252 a skos:Concept ;
+    skos:broader ocs:C24129 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blue_supergiant> ;
+    skos:prefLabel "Blue supergiant" ;
+    skos:related ocs:C16731,
+        ocs:C17246,
+        ocs:C22542,
+        ocs:C24129,
+        ocs:C26348,
+        ocs:C29074,
+        ocs:C31023,
+        ocs:C31589,
+        ocs:C33488,
+        ocs:C34069,
+        ocs:C34819,
+        ocs:C42345,
+        ocs:C597 .
+

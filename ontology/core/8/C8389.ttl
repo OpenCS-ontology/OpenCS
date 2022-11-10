@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8389 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reservation_station> ;
+    skos:prefLabel "Reservation station" ;
+    skos:related ocs:C10230,
+        ocs:C10320,
+        ocs:C10683,
+        ocs:C11047,
+        ocs:C15,
+        ocs:C15801,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C24702,
+        ocs:C26755,
+        ocs:C27,
+        ocs:C33375,
+        ocs:C34127,
+        ocs:C36686,
+        ocs:C40036,
+        ocs:C41469,
+        ocs:C4863 .
+

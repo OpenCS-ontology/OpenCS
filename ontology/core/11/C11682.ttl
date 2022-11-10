@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11682 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-supported_cooperative_work> ;
+    skos:prefLabel "Computer-supported cooperative work" ;
+    skos:related ocs:C1,
+        ocs:C10225,
+        ocs:C11107,
+        ocs:C17394,
+        ocs:C18,
+        ocs:C23866,
+        ocs:C25121,
+        ocs:C28,
+        ocs:C34391,
+        ocs:C3444,
+        ocs:C37105,
+        ocs:C420,
+        ocs:C5876,
+        ocs:C672,
+        ocs:C7736,
+        ocs:C8614,
+        ocs:C8869,
+        ocs:C9047,
+        ocs:C9607 .
+

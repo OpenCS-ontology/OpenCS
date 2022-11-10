@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29382 a skos:Concept ;
+    skos:broader ocs:C3231 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key-value_database> ;
+    skos:prefLabel "Key-value database" ;
+    skos:related ocs:C10444,
+        ocs:C10720,
+        ocs:C12185,
+        ocs:C13068,
+        ocs:C14025,
+        ocs:C14209,
+        ocs:C1648,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28963,
+        ocs:C32327,
+        ocs:C37480,
+        ocs:C43443,
+        ocs:C44816,
+        ocs:C5192,
+        ocs:C5402,
+        ocs:C6,
+        ocs:C8022,
+        ocs:C8327 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2480 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gesture> ;
+    skos:prefLabel "Gesture" ;
+    skos:related ocs:C10566,
+        ocs:C1451,
+        ocs:C15966,
+        ocs:C2298,
+        ocs:C24825,
+        ocs:C25188,
+        ocs:C30694,
+        ocs:C34292,
+        ocs:C6124,
+        ocs:C7858 .
+

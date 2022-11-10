@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11443 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fast_Fourier_transform> ;
+    skos:prefLabel "Fast Fourier transform" ;
+    skos:related ocs:C10,
+        ocs:C11150,
+        ocs:C12046,
+        ocs:C1449,
+        ocs:C5298 .
+

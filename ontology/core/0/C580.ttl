@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C580 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_tutoring> ;
+    skos:prefLabel "Online tutoring" ;
+    skos:related ocs:C1145,
+        ocs:C11875,
+        ocs:C17658,
+        ocs:C18169,
+        ocs:C18417,
+        ocs:C2367,
+        ocs:C24564,
+        ocs:C25547,
+        ocs:C26813,
+        ocs:C29527,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C35838,
+        ocs:C7360,
+        ocs:C8614 .
+

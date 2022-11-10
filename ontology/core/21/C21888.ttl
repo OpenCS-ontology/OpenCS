@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21888 a skos:Concept ;
+    skos:broader ocs:C912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Groupshift> ;
+    skos:prefLabel "Groupshift" ;
+    skos:related ocs:C10861,
+        ocs:C26584,
+        ocs:C27771,
+        ocs:C912 .
+

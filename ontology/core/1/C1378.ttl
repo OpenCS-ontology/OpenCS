@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1378 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CINT> ;
+    skos:prefLabel "CINT" ;
+    skos:related ocs:C10284,
+        ocs:C10769,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C1345,
+        ocs:C1386,
+        ocs:C17204,
+        ocs:C3001,
+        ocs:C30078,
+        ocs:C3087,
+        ocs:C34227,
+        ocs:C34475,
+        ocs:C41368,
+        ocs:C5034,
+        ocs:C5308,
+        ocs:C6072 .
+

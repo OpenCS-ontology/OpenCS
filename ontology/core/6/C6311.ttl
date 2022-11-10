@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6311 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_tracking_system> ;
+    skos:prefLabel "Vehicle tracking system" ;
+    skos:related ocs:C12641,
+        ocs:C1508,
+        ocs:C1793,
+        ocs:C19494,
+        ocs:C19726,
+        ocs:C20845,
+        ocs:C23009,
+        ocs:C28169,
+        ocs:C30565,
+        ocs:C3673,
+        ocs:C4428,
+        ocs:C44290,
+        ocs:C45711,
+        ocs:C525,
+        ocs:C7877,
+        ocs:C9100,
+        ocs:C9113 .
+

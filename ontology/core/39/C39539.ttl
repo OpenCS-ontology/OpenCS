@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39539 a skos:Concept ;
+    skos:broader ocs:C30079 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conditional_quantum_entropy> ;
+    skos:prefLabel "Conditional quantum entropy" ;
+    skos:related ocs:C10767,
+        ocs:C13874,
+        ocs:C21931,
+        ocs:C24973,
+        ocs:C27705,
+        ocs:C44674,
+        ocs:C546 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14476 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C5698 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaborative_virtual_environment> ;
+    skos:prefLabel "Collaborative virtual environment" ;
+    skos:related ocs:C13320,
+        ocs:C8614 .
+

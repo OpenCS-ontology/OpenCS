@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23736 a skos:Concept ;
+    skos:broader ocs:C11124 ;
+    skos:closeMatch <http://dbpedia.org/resource/Third-party_beneficiary> ;
+    skos:prefLabel "Third-party beneficiary" ;
+    skos:related ocs:C28422 .
+

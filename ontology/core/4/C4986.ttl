@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4986 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Propositional_directed_acyclic_graph> ;
+    skos:prefLabel "Propositional directed acyclic graph" ;
+    skos:related ocs:C13686,
+        ocs:C13855,
+        ocs:C14416,
+        ocs:C18220,
+        ocs:C21365,
+        ocs:C24146,
+        ocs:C30179,
+        ocs:C30314,
+        ocs:C31925,
+        ocs:C34687,
+        ocs:C36964,
+        ocs:C41587,
+        ocs:C42511,
+        ocs:C45667,
+        ocs:C5722,
+        ocs:C6497,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C9393 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14162 a skos:Concept ;
+    skos:broader ocs:C3985,
+        ocs:C5141 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_address> ;
+    skos:prefLabel "Memory address" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C11258,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C23749,
+        ocs:C27610,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C5463,
+        ocs:C6255,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C9 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13673 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Website_governance> ;
+    skos:prefLabel "Website governance" ;
+    skos:related ocs:C10052,
+        ocs:C11087,
+        ocs:C13014,
+        ocs:C1621,
+        ocs:C17557,
+        ocs:C20513,
+        ocs:C23103,
+        ocs:C28533,
+        ocs:C29256,
+        ocs:C31201,
+        ocs:C3395,
+        ocs:C34434,
+        ocs:C5554,
+        ocs:C6944 .
+

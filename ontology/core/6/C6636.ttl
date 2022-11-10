@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6636 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_Architecture_Body_of_Knowledge> ;
+    skos:prefLabel "Enterprise Architecture Body of Knowledge" ;
+    skos:related ocs:C18539,
+        ocs:C205,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C40085,
+        ocs:C40895,
+        ocs:C41641,
+        ocs:C42441,
+        ocs:C43347,
+        ocs:C44210,
+        ocs:C44353,
+        ocs:C44909,
+        ocs:C45082,
+        ocs:C45437,
+        ocs:C45783,
+        ocs:C4985 .
+

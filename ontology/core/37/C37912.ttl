@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37912 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Implicit_graph> ;
+    skos:prefLabel "Implicit graph" ;
+    skos:related ocs:C14693,
+        ocs:C15414,
+        ocs:C16033,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C20382,
+        ocs:C22388,
+        ocs:C30245,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C38220,
+        ocs:C40333,
+        ocs:C40560,
+        ocs:C40871,
+        ocs:C41731,
+        ocs:C42822,
+        ocs:C43088,
+        ocs:C43652,
+        ocs:C45821 .
+

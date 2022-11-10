@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4167 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Portable_communications_device> ;
+    skos:prefLabel "Portable communications device" ;
+    skos:related ocs:C1338,
+        ocs:C17132,
+        ocs:C19350,
+        ocs:C20852,
+        ocs:C21755,
+        ocs:C25062,
+        ocs:C2605,
+        ocs:C26281,
+        ocs:C27339,
+        ocs:C32451,
+        ocs:C36500,
+        ocs:C39810,
+        ocs:C5285,
+        ocs:C7166,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9601 .
+

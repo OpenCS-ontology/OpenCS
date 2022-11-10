@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37728 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jacobi_form> ;
+    skos:prefLabel "Jacobi form" ;
+    skos:related ocs:C23209,
+        ocs:C32877,
+        ocs:C35930,
+        ocs:C36759,
+        ocs:C39710,
+        ocs:C45135 .
+

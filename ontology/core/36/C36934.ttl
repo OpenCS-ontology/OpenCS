@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36934 a skos:Concept ;
+    skos:broader ocs:C14925 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudoscope> ;
+    skos:prefLabel "Pseudoscope" ;
+    skos:related ocs:C13549,
+        ocs:C14925,
+        ocs:C2422,
+        ocs:C244,
+        ocs:C2883,
+        ocs:C3104,
+        ocs:C31056,
+        ocs:C36940 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21314 a skos:Concept ;
+    skos:broader ocs:C9931 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-Triggered_Protocol> ;
+    skos:prefLabel "Time-Triggered Protocol" ;
+    skos:related ocs:C15858,
+        ocs:C16191,
+        ocs:C1626,
+        ocs:C18167,
+        ocs:C26,
+        ocs:C27554,
+        ocs:C33,
+        ocs:C33387,
+        ocs:C36804,
+        ocs:C490,
+        ocs:C511,
+        ocs:C7794 .
+

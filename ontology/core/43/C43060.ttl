@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43060 a skos:Concept ;
+    skos:broader ocs:C32106 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_signal_handling> ;
+    skos:prefLabel "C signal handling" ;
+    skos:related ocs:C1083,
+        ocs:C1165,
+        ocs:C12683,
+        ocs:C14163,
+        ocs:C14990,
+        ocs:C2301,
+        ocs:C24135,
+        ocs:C29420,
+        ocs:C33278,
+        ocs:C33702,
+        ocs:C40322,
+        ocs:C41472,
+        ocs:C41970,
+        ocs:C42695,
+        ocs:C6140,
+        ocs:C8323 .
+

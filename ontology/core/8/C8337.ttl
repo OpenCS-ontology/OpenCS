@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8337 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vehicle_Area_Network> ;
+    skos:prefLabel "Vehicle Area Network" ;
+    skos:related ocs:C13386,
+        ocs:C22530,
+        ocs:C22845,
+        ocs:C27350,
+        ocs:C3357,
+        ocs:C3945,
+        ocs:C4458,
+        ocs:C45243,
+        ocs:C6451,
+        ocs:C8190 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44780 a skos:Concept ;
+    skos:broader ocs:C33773,
+        ocs:C36169 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.1Q> ;
+    skos:prefLabel "IEEE 802.1Q" ;
+    skos:related ocs:C11157,
+        ocs:C12334,
+        ocs:C12935,
+        ocs:C1307,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C1398,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C27398,
+        ocs:C29014,
+        ocs:C2935,
+        ocs:C30342,
+        ocs:C31983,
+        ocs:C33773,
+        ocs:C39009,
+        ocs:C4197,
+        ocs:C4720,
+        ocs:C490,
+        ocs:C5343 .
+

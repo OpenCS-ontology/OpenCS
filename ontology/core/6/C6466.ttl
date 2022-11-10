@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6466 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsoft_P-Code> ;
+    skos:prefLabel "Microsoft P-Code" ;
+    skos:related ocs:C1085,
+        ocs:C11194,
+        ocs:C11262,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C14632,
+        ocs:C17472,
+        ocs:C19147,
+        ocs:C1963,
+        ocs:C2057,
+        ocs:C21718,
+        ocs:C22322,
+        ocs:C2876,
+        ocs:C3176,
+        ocs:C41659,
+        ocs:C4261,
+        ocs:C4321,
+        ocs:C5698,
+        ocs:C7800,
+        ocs:C9033 .
+

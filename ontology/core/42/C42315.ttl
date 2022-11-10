@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42315 a skos:Concept ;
+    skos:broader ocs:C32521 ;
+    skos:closeMatch <http://dbpedia.org/resource/SOA_governance> ;
+    skos:prefLabel "SOA governance" ;
+    skos:related ocs:C10904,
+        ocs:C17238,
+        ocs:C21763,
+        ocs:C24688,
+        ocs:C2674,
+        ocs:C28941,
+        ocs:C30,
+        ocs:C31667,
+        ocs:C36422,
+        ocs:C38250,
+        ocs:C39323,
+        ocs:C40192,
+        ocs:C40833,
+        ocs:C45883,
+        ocs:C7019,
+        ocs:C7106,
+        ocs:C7180,
+        ocs:C9700 .
+

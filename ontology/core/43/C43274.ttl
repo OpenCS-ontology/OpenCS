@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43274 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C33185,
+        ocs:C35009,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthogonality_(programming)> ;
+    skos:prefLabel "Orthogonality (programming)" ;
+    skos:related ocs:C2057,
+        ocs:C8751 .
+

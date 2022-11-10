@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42685 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_(software_engineering)> ;
+    skos:prefLabel "Domain (software engineering)" ;
+    skos:related ocs:C23439,
+        ocs:C41867,
+        ocs:C42543,
+        ocs:C45202,
+        ocs:C45385 .
+

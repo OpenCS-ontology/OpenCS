@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20445 a skos:Concept ;
+    skos:broader ocs:C6078 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indoor_golf> ;
+    skos:prefLabel "Indoor golf" ;
+    skos:related ocs:C7850 .
+

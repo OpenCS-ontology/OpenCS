@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4782 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lab_notebook> ;
+    skos:prefLabel "Lab notebook" ;
+    skos:related ocs:C10062,
+        ocs:C13306,
+        ocs:C23932,
+        ocs:C29124,
+        ocs:C3171 .
+

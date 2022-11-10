@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7219 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/VideoCore> ;
+    skos:prefLabel "VideoCore" ;
+    skos:related ocs:C10320,
+        ocs:C11323,
+        ocs:C11814,
+        ocs:C16860,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C19487,
+        ocs:C19556,
+        ocs:C26328,
+        ocs:C2722,
+        ocs:C29530,
+        ocs:C34702,
+        ocs:C39584,
+        ocs:C43505,
+        ocs:C6172,
+        ocs:C6496,
+        ocs:C7165,
+        ocs:C856 .
+

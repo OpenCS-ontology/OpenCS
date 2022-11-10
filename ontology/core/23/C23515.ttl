@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23515 a skos:Concept ;
+    skos:broader ocs:C2941,
+        ocs:C3936,
+        ocs:C4218,
+        ocs:C5659 ;
+    skos:prefLabel "Fuzzy hashing" .
+

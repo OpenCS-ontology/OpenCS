@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7812 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/X2APIC> ;
+    skos:prefLabel "x2APIC" ;
+    skos:related ocs:C10568,
+        ocs:C10824,
+        ocs:C14470,
+        ocs:C16094,
+        ocs:C18684,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C24590,
+        ocs:C36337,
+        ocs:C39121,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C4439,
+        ocs:C4804,
+        ocs:C9262,
+        ocs:C9542,
+        ocs:C9897 .
+

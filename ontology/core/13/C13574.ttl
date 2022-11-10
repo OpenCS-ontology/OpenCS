@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13574 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Public_Lending_Right> ;
+    skos:prefLabel "Public Lending Right" ;
+    skos:related ocs:C10220,
+        ocs:C10801,
+        ocs:C11492,
+        ocs:C1321,
+        ocs:C13306,
+        ocs:C17042,
+        ocs:C22687,
+        ocs:C26604,
+        ocs:C32847,
+        ocs:C36637,
+        ocs:C4,
+        ocs:C5746,
+        ocs:C5877,
+        ocs:C6690,
+        ocs:C9692 .
+

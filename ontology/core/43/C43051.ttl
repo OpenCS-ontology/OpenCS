@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43051 a skos:Concept ;
+    skos:broader ocs:C29601,
+        ocs:C30432,
+        ocs:C34141,
+        ocs:C34505 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subscriber_loop_carrier> ;
+    skos:prefLabel "Subscriber loop carrier" ;
+    skos:related ocs:C10638,
+        ocs:C11465,
+        ocs:C11769,
+        ocs:C1310,
+        ocs:C13714,
+        ocs:C14832,
+        ocs:C21725,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C29460,
+        ocs:C34141,
+        ocs:C4821,
+        ocs:C691,
+        ocs:C7612,
+        ocs:C9327 .
+

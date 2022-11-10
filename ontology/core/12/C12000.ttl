@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12000 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interface-based_programming> ;
+    skos:prefLabel "Interface-based programming" ;
+    skos:related ocs:C10720,
+        ocs:C14329,
+        ocs:C16530,
+        ocs:C17238,
+        ocs:C17389,
+        ocs:C18973,
+        ocs:C21419,
+        ocs:C24550,
+        ocs:C25956,
+        ocs:C28187,
+        ocs:C3036,
+        ocs:C31751,
+        ocs:C3176,
+        ocs:C31894,
+        ocs:C38237,
+        ocs:C41179,
+        ocs:C5308,
+        ocs:C661,
+        ocs:C9049 .
+

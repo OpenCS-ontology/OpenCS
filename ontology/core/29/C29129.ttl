@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29129 a skos:Concept ;
+    skos:broader ocs:C3896,
+        ocs:C4335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preservation_Metadata:_Implementation_Strategies> ;
+    skos:prefLabel "Preservation Metadata: Implementation Strategies" ;
+    skos:related ocs:C11927,
+        ocs:C15008,
+        ocs:C15831,
+        ocs:C16775,
+        ocs:C16861,
+        ocs:C17514,
+        ocs:C1848,
+        ocs:C23088,
+        ocs:C31343,
+        ocs:C31929,
+        ocs:C32112,
+        ocs:C35637,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C4335,
+        ocs:C5126,
+        ocs:C5832,
+        ocs:C6690 .
+

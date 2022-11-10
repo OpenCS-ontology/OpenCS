@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C165 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_display_systems> ;
+    skos:prefLabel "Information display systems" ;
+    skos:related ocs:C24462,
+        ocs:C30565 .
+

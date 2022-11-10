@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14224 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha_Centauri> ;
+    skos:prefLabel "Alpha Centauri" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C16579,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C31589,
+        ocs:C33488,
+        ocs:C597 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10975 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radiotelephone> ;
+    skos:prefLabel "Radiotelephone" ;
+    skos:related ocs:C10078,
+        ocs:C10409,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19903,
+        ocs:C3,
+        ocs:C44707,
+        ocs:C6763,
+        ocs:C6967,
+        ocs:C7159,
+        ocs:C9113,
+        ocs:C9154 .
+

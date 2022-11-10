@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5504 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Target Response" ;
+    skos:related ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C21364,
+        ocs:C24137,
+        ocs:C33 .
+

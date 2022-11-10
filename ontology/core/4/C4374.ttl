@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4374 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/W-VHS> ;
+    skos:prefLabel "W-VHS" ;
+    skos:related ocs:C12430,
+        ocs:C12544,
+        ocs:C13691,
+        ocs:C13973,
+        ocs:C14053,
+        ocs:C1724,
+        ocs:C18385,
+        ocs:C27086,
+        ocs:C35988,
+        ocs:C37865,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C4461,
+        ocs:C520,
+        ocs:C6079,
+        ocs:C6942 .
+

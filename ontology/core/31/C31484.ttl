@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31484 a skos:Concept ;
+    skos:broader ocs:C16106,
+        ocs:C18626 ;
+    skos:closeMatch <http://dbpedia.org/resource/Error_floor> ;
+    skos:prefLabel "Error floor" .
+

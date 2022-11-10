@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37877 a skos:Concept ;
+    skos:broader ocs:C32049,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_concatenated_convolutional_codes> ;
+    skos:prefLabel "Serial concatenated convolutional codes" ;
+    skos:related ocs:C14161,
+        ocs:C14926,
+        ocs:C16106,
+        ocs:C16978,
+        ocs:C19174,
+        ocs:C19721,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C26265,
+        ocs:C26349,
+        ocs:C32049,
+        ocs:C33924,
+        ocs:C34133,
+        ocs:C35138,
+        ocs:C39952,
+        ocs:C40267,
+        ocs:C42255,
+        ocs:C43091,
+        ocs:C44927,
+        ocs:C45108 .
+

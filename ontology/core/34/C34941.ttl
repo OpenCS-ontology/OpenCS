@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34941 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:closeMatch <http://dbpedia.org/resource/Epineurial_repair> ;
+    skos:prefLabel "Epineurial repair" ;
+    skos:related ocs:C14142,
+        ocs:C21491,
+        ocs:C22690,
+        ocs:C25080,
+        ocs:C26901,
+        ocs:C31556,
+        ocs:C32421,
+        ocs:C33836 .
+

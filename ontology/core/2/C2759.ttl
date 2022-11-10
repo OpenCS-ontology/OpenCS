@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2759 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_system_measurements> ;
+    skos:prefLabel "Audio system measurements" ;
+    skos:related ocs:C14001,
+        ocs:C14621,
+        ocs:C1624,
+        ocs:C16548,
+        ocs:C19631,
+        ocs:C37917,
+        ocs:C3843,
+        ocs:C41991,
+        ocs:C4875,
+        ocs:C520,
+        ocs:C5853,
+        ocs:C8637,
+        ocs:C9481 .
+

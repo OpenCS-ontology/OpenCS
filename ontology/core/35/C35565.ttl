@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35565 a skos:Concept ;
+    skos:broader ocs:C14148,
+        ocs:C16613,
+        ocs:C29407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Usability_inspection> ;
+    skos:prefLabel "Usability inspection" ;
+    skos:related ocs:C11034,
+        ocs:C14148,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C18494,
+        ocs:C26160,
+        ocs:C28503,
+        ocs:C28533,
+        ocs:C34316,
+        ocs:C36674,
+        ocs:C4292,
+        ocs:C5876,
+        ocs:C7736,
+        ocs:C8269,
+        ocs:C9089,
+        ocs:C9607,
+        ocs:C9873 .
+

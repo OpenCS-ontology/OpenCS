@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27274 a skos:Concept ;
+    skos:broader ocs:C12942,
+        ocs:C4152 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Signal_3> ;
+    skos:prefLabel "Digital Signal 3" ;
+    skos:related ocs:C11018,
+        ocs:C12942,
+        ocs:C15589,
+        ocs:C18217,
+        ocs:C25250,
+        ocs:C25293,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C31109,
+        ocs:C40954,
+        ocs:C490,
+        ocs:C691,
+        ocs:C8567,
+        ocs:C9327 .
+

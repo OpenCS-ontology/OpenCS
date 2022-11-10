@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45282 a skos:Concept ;
+    skos:broader ocs:C30500 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_Control_Protocol> ;
+    skos:prefLabel "Link Control Protocol" ;
+    skos:related ocs:C10913,
+        ocs:C14134,
+        ocs:C14938,
+        ocs:C20314,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C24335,
+        ocs:C24348,
+        ocs:C25384,
+        ocs:C26,
+        ocs:C27426,
+        ocs:C2842,
+        ocs:C29359,
+        ocs:C32582,
+        ocs:C38485,
+        ocs:C41934,
+        ocs:C43997,
+        ocs:C6185,
+        ocs:C8614 .
+

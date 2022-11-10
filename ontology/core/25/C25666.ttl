@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25666 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692,
+        ocs:C7106,
+        ocs:C8753,
+        ocs:C9540 ;
+    skos:prefLabel "Computation outsourcing" .
+

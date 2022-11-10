@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18364 a skos:Concept ;
+    skos:broader ocs:C8686 ;
+    skos:closeMatch <http://dbpedia.org/resource/Science_of_team_science> ;
+    skos:prefLabel "Science of team science" ;
+    skos:related ocs:C11026,
+        ocs:C13524,
+        ocs:C1630,
+        ocs:C5150,
+        ocs:C5863 .
+

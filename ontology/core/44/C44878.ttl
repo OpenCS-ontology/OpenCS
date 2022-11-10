@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44878 a skos:Concept ;
+    skos:broader ocs:C30730,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turán_graph> ;
+    skos:prefLabel "Turán graph" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C32333,
+        ocs:C36279,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38243,
+        ocs:C38962,
+        ocs:C38981,
+        ocs:C39937,
+        ocs:C40440,
+        ocs:C40560,
+        ocs:C41137,
+        ocs:C41182,
+        ocs:C41739,
+        ocs:C41794,
+        ocs:C44630,
+        ocs:C45361,
+        ocs:C45741 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23203 a skos:Concept ;
+    skos:broader ocs:C3894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absorption_law> ;
+    skos:prefLabel "Absorption law" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C3894,
+        ocs:C45667,
+        ocs:C8077 .
+

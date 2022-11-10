@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41350 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/OntoCAPE> ;
+    skos:prefLabel "OntoCAPE" ;
+    skos:related ocs:C12066,
+        ocs:C12856,
+        ocs:C25681,
+        ocs:C28809,
+        ocs:C29569,
+        ocs:C32303,
+        ocs:C3396,
+        ocs:C35993,
+        ocs:C38158,
+        ocs:C38217,
+        ocs:C38537,
+        ocs:C39728,
+        ocs:C41822,
+        ocs:C41877,
+        ocs:C43095,
+        ocs:C44162,
+        ocs:C45202,
+        ocs:C45248,
+        ocs:C45752,
+        ocs:C7500 .
+

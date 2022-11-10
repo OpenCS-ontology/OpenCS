@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2501 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Completion Status" ;
+    skos:related ocs:C10052,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22903,
+        ocs:C25045,
+        ocs:C30,
+        ocs:C33,
+        ocs:C5702,
+        ocs:C5722,
+        ocs:C6773,
+        ocs:C8614,
+        ocs:C8704,
+        ocs:C8706 .
+

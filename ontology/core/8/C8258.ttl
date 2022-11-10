@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8258 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_Locator_Server> ;
+    skos:prefLabel "Internet Locator Server" ;
+    skos:related ocs:C1248,
+        ocs:C20205,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C26776,
+        ocs:C27426,
+        ocs:C2935,
+        ocs:C29359,
+        ocs:C29603,
+        ocs:C30211,
+        ocs:C32724,
+        ocs:C37893,
+        ocs:C38039,
+        ocs:C38894,
+        ocs:C40409,
+        ocs:C41298,
+        ocs:C42235,
+        ocs:C42429,
+        ocs:C42609,
+        ocs:C8614 .
+

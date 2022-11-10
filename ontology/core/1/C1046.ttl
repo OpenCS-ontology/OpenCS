@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1046 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preventive_action> ;
+    skos:prefLabel "Preventive action" ;
+    skos:related ocs:C1,
+        ocs:C1336,
+        ocs:C1399,
+        ocs:C25176,
+        ocs:C29840,
+        ocs:C3395,
+        ocs:C35,
+        ocs:C38304,
+        ocs:C4879,
+        ocs:C5869,
+        ocs:C947 .
+

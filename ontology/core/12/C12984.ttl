@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12984 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SCHED_DEADLINE> ;
+    skos:prefLabel "SCHED_DEADLINE" ;
+    skos:related ocs:C10320,
+        ocs:C1396,
+        ocs:C14623,
+        ocs:C16539,
+        ocs:C18236,
+        ocs:C20800,
+        ocs:C2815,
+        ocs:C31489,
+        ocs:C31780,
+        ocs:C33,
+        ocs:C39383,
+        ocs:C40272,
+        ocs:C42251,
+        ocs:C43283,
+        ocs:C45363,
+        ocs:C5912,
+        ocs:C8704,
+        ocs:C9 .
+

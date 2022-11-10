@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34380 a skos:Concept ;
+    skos:broader ocs:C24843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embedding_problem> ;
+    skos:prefLabel "Embedding problem" ;
+    skos:related ocs:C29941,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C38194,
+        ocs:C39747,
+        ocs:C39958,
+        ocs:C40475,
+        ocs:C40563,
+        ocs:C41535,
+        ocs:C44354 .
+

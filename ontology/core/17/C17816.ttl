@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17816 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_surgery> ;
+    skos:prefLabel "Remote surgery" ;
+    skos:related ocs:C10396,
+        ocs:C11255,
+        ocs:C12976,
+        ocs:C20900,
+        ocs:C22524,
+        ocs:C26,
+        ocs:C3,
+        ocs:C31464,
+        ocs:C32424,
+        ocs:C36737,
+        ocs:C36944,
+        ocs:C4197 .
+

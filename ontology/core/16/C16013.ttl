@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16013 a skos:Concept ;
+    skos:broader ocs:C12976,
+        ocs:C9603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projection_augmented_model> ;
+    skos:prefLabel "Projection augmented model" ;
+    skos:related ocs:C10081,
+        ocs:C10562,
+        ocs:C1239,
+        ocs:C12976,
+        ocs:C13320,
+        ocs:C15836,
+        ocs:C16587,
+        ocs:C23978,
+        ocs:C25022,
+        ocs:C27206,
+        ocs:C2800,
+        ocs:C28468,
+        ocs:C33489,
+        ocs:C34997,
+        ocs:C37963,
+        ocs:C3967,
+        ocs:C42202,
+        ocs:C9603 .
+

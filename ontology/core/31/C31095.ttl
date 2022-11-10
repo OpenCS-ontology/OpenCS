@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31095 a skos:Concept ;
+    skos:broader ocs:C15296,
+        ocs:C27086 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_killer> ;
+    skos:prefLabel "Color killer" ;
+    skos:related ocs:C10875,
+        ocs:C14053,
+        ocs:C1724,
+        ocs:C18701,
+        ocs:C19301,
+        ocs:C25850,
+        ocs:C27086,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C36645,
+        ocs:C36807,
+        ocs:C38813,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C9045 .
+

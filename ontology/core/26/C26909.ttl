@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26909 a skos:Concept ;
+    skos:broader ocs:C1498,
+        ocs:C176,
+        ocs:C3548,
+        ocs:C672,
+        ocs:C6978 ;
+    skos:prefLabel "Cooperative hypermedia" .
+

@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17825 a skos:Concept ;
+    skos:broader ocs:C13545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trust_certificate_(finance)> ;
+    skos:prefLabel "Trust certificate" .
+

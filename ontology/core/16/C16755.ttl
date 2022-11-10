@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16755 a skos:Concept ;
+    skos:broader ocs:C10985,
+        ocs:C2025,
+        ocs:C3393 ;
+    skos:prefLabel "Formant bandwidth" .
+

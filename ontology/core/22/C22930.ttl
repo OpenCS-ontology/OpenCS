@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22930 a skos:Concept ;
+    skos:broader ocs:C5918 ;
+    skos:closeMatch <http://dbpedia.org/resource/Closed_ecological_system> ;
+    skos:prefLabel "Closed ecological system" ;
+    skos:related ocs:C17605,
+        ocs:C23481,
+        ocs:C26021,
+        ocs:C36879,
+        ocs:C5918 .
+

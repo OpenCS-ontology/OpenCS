@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24322 a skos:Concept ;
+    skos:broader ocs:C10534 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_control_block> ;
+    skos:prefLabel "Process control block" ;
+    skos:related ocs:C10320,
+        ocs:C12683,
+        ocs:C1396,
+        ocs:C14271,
+        ocs:C15595,
+        ocs:C15860,
+        ocs:C2009,
+        ocs:C2014,
+        ocs:C2353,
+        ocs:C23924,
+        ocs:C23926,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3247,
+        ocs:C5722,
+        ocs:C7635,
+        ocs:C9 .
+

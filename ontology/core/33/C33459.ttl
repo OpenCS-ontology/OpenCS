@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33459 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/CBC-MAC> ;
+    skos:prefLabel "CBC-MAC" ;
+    skos:related ocs:C1186,
+        ocs:C18803,
+        ocs:C20993,
+        ocs:C22949,
+        ocs:C23875,
+        ocs:C25500,
+        ocs:C29363,
+        ocs:C31654,
+        ocs:C34895,
+        ocs:C35391,
+        ocs:C37264,
+        ocs:C38115,
+        ocs:C38401,
+        ocs:C39657,
+        ocs:C4218,
+        ocs:C42241,
+        ocs:C45551,
+        ocs:C4751,
+        ocs:C5930 .
+

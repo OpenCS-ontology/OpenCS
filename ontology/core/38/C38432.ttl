@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38432 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/ICC_profile> ;
+    skos:prefLabel "ICC profile" ;
+    skos:related ocs:C12849,
+        ocs:C16423,
+        ocs:C17520,
+        ocs:C1935,
+        ocs:C20260,
+        ocs:C20871,
+        ocs:C22083,
+        ocs:C32992,
+        ocs:C4584,
+        ocs:C5469,
+        ocs:C6942,
+        ocs:C8099,
+        ocs:C8622 .
+

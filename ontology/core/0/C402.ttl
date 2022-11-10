@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C402 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Augmentative_and_alternative_communication> ;
+    skos:prefLabel "Augmentative and alternative communication" ;
+    skos:related ocs:C22529,
+        ocs:C2480,
+        ocs:C3866,
+        ocs:C4397,
+        ocs:C7858 .
+

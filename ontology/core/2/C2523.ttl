@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2523 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conceptual_model> ;
+    skos:prefLabel "Conceptual model" ;
+    skos:related ocs:C11668,
+        ocs:C13744,
+        ocs:C14316,
+        ocs:C16758,
+        ocs:C24,
+        ocs:C24477,
+        ocs:C27386,
+        ocs:C29840,
+        ocs:C38363,
+        ocs:C5869,
+        ocs:C8387 .
+

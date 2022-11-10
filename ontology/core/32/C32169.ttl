@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32169 a skos:Concept ;
+    skos:broader ocs:C24822,
+        ocs:C27193 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enriched_Xenon_Observatory> ;
+    skos:prefLabel "Enriched Xenon Observatory" ;
+    skos:related ocs:C24822,
+        ocs:C34396,
+        ocs:C34671,
+        ocs:C597 .
+

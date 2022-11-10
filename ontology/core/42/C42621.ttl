@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42621 a skos:Concept ;
+    skos:broader ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Problem_of_future_contingents> ;
+    skos:prefLabel "Problem of future contingents" ;
+    skos:related ocs:C10825,
+        ocs:C11060,
+        ocs:C11635,
+        ocs:C13408,
+        ocs:C27458,
+        ocs:C32129,
+        ocs:C3375,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C5714,
+        ocs:C8077,
+        ocs:C9834 .
+

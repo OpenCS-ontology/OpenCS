@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42963 a skos:Concept ;
+    skos:broader ocs:C34749,
+        ocs:C35807,
+        ocs:C37228 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_RSA_assumption> ;
+    skos:prefLabel "Strong RSA assumption" ;
+    skos:related ocs:C12450,
+        ocs:C14164,
+        ocs:C16026,
+        ocs:C18803,
+        ocs:C20555,
+        ocs:C21324,
+        ocs:C31468,
+        ocs:C33191,
+        ocs:C34749,
+        ocs:C36434,
+        ocs:C39168,
+        ocs:C40692,
+        ocs:C4076,
+        ocs:C40978,
+        ocs:C4218,
+        ocs:C43187,
+        ocs:C43394,
+        ocs:C44329,
+        ocs:C44466,
+        ocs:C45207 .
+

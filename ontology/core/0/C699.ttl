@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C699 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physical_security> ;
+    skos:prefLabel "Physical security" ;
+    skos:related ocs:C12116,
+        ocs:C12503,
+        ocs:C1399,
+        ocs:C1848,
+        ocs:C21747,
+        ocs:C2934,
+        ocs:C35,
+        ocs:C4218,
+        ocs:C43428,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C7106,
+        ocs:C8437,
+        ocs:C8711,
+        ocs:C9,
+        ocs:C9375,
+        ocs:C9489 .
+

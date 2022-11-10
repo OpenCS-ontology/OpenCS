@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15663 a skos:Concept ;
+    skos:broader ocs:C1842,
+        ocs:C5856,
+        ocs:C8454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trigram_tagger> ;
+    skos:prefLabel "Trigram tagger" ;
+    skos:related ocs:C11317,
+        ocs:C11712,
+        ocs:C11722,
+        ocs:C15475,
+        ocs:C16,
+        ocs:C1842,
+        ocs:C22390,
+        ocs:C2884,
+        ocs:C32,
+        ocs:C39451,
+        ocs:C40655,
+        ocs:C41504,
+        ocs:C43828,
+        ocs:C5852,
+        ocs:C5856,
+        ocs:C6068,
+        ocs:C706,
+        ocs:C961,
+        ocs:C980 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11300 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_keylogger> ;
+    skos:prefLabel "Hardware keylogger" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C12116,
+        ocs:C1318,
+        ocs:C15529,
+        ocs:C16481,
+        ocs:C20986,
+        ocs:C24214,
+        ocs:C24611,
+        ocs:C27768,
+        ocs:C2823,
+        ocs:C35,
+        ocs:C38723,
+        ocs:C4031,
+        ocs:C4984,
+        ocs:C6223,
+        ocs:C6699,
+        ocs:C74,
+        ocs:C9 .
+

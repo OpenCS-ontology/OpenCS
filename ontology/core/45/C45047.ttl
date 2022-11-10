@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45047 a skos:Concept ;
+    skos:broader ocs:C30409,
+        ocs:C36540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_mining> ;
+    skos:prefLabel "Process mining" ;
+    skos:related ocs:C10052,
+        ocs:C10617,
+        ocs:C12427,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C29983,
+        ocs:C30409,
+        ocs:C3395,
+        ocs:C36911,
+        ocs:C37370,
+        ocs:C44050,
+        ocs:C44699,
+        ocs:C4768 .
+

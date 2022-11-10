@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40304 a skos:Concept ;
+    skos:broader ocs:C34356,
+        ocs:C36631 ;
+    skos:closeMatch <http://dbpedia.org/resource/LifeCam> ;
+    skos:prefLabel "LifeCam" ;
+    skos:related ocs:C12580,
+        ocs:C24628,
+        ocs:C4448 .
+

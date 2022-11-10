@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12023 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Free_variables_and_bound_variables> ;
+    skos:prefLabel "Free variables and bound variables" ;
+    skos:related ocs:C10322,
+        ocs:C1034,
+        ocs:C10558,
+        ocs:C10622,
+        ocs:C10671,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C1451,
+        ocs:C1631,
+        ocs:C2418,
+        ocs:C30651,
+        ocs:C45295,
+        ocs:C45525,
+        ocs:C524,
+        ocs:C5251,
+        ocs:C8077,
+        ocs:C8635 .
+

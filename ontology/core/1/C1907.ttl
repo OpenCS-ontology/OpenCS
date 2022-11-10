@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1907 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multimodal_learning> ;
+    skos:prefLabel "Multimodal learning" ;
+    skos:related ocs:C17791,
+        ocs:C20377,
+        ocs:C22089,
+        ocs:C22643,
+        ocs:C23070,
+        ocs:C23957,
+        ocs:C25196,
+        ocs:C26765,
+        ocs:C30532,
+        ocs:C32651,
+        ocs:C33983,
+        ocs:C34121,
+        ocs:C34289,
+        ocs:C35308,
+        ocs:C37012,
+        ocs:C39688,
+        ocs:C5498,
+        ocs:C9022,
+        ocs:C9874 .
+

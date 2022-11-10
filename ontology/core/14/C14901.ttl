@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14901 a skos:Concept ;
+    skos:broader ocs:C7166,
+        ocs:C9047 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sentient_computing> ;
+    skos:prefLabel "Sentient computing" ;
+    skos:related ocs:C10770,
+        ocs:C11153,
+        ocs:C11555,
+        ocs:C12644,
+        ocs:C1588,
+        ocs:C24139,
+        ocs:C2605,
+        ocs:C28882,
+        ocs:C31131,
+        ocs:C36183,
+        ocs:C36377,
+        ocs:C3675,
+        ocs:C36815,
+        ocs:C661,
+        ocs:C7393,
+        ocs:C9047,
+        ocs:C9601 .
+

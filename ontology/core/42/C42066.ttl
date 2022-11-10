@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42066 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Well-quasi-ordering> ;
+    skos:prefLabel "Well-quasi-ordering" ;
+    skos:related ocs:C26946,
+        ocs:C31555,
+        ocs:C38069,
+        ocs:C43266,
+        ocs:C45225,
+        ocs:C608 .
+

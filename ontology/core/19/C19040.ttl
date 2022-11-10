@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19040 a skos:Concept ;
+    skos:broader ocs:C11386,
+        ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptographic_Module_Validation_Program> ;
+    skos:prefLabel "Cryptographic Module Validation Program" ;
+    skos:related ocs:C1184,
+        ocs:C12052,
+        ocs:C12317,
+        ocs:C23666,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C26006,
+        ocs:C31037,
+        ocs:C33147,
+        ocs:C35,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37314,
+        ocs:C38401,
+        ocs:C40061,
+        ocs:C4218,
+        ocs:C9349 .
+

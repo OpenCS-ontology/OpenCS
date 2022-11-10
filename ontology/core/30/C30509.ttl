@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30509 a skos:Concept ;
+    skos:broader ocs:C14989,
+        ocs:C22623,
+        ocs:C23307,
+        ocs:C29199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_Z-transform> ;
+    skos:prefLabel "Advanced Z-transform" ;
+    skos:related ocs:C123,
+        ocs:C1274,
+        ocs:C18077,
+        ocs:C3589,
+        ocs:C5042,
+        ocs:C6816 .
+

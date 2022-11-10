@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22391 a skos:Concept ;
+    skos:broader ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Article_processing_charge> ;
+    skos:prefLabel "Article processing charge" ;
+    skos:related ocs:C11446,
+        ocs:C11462,
+        ocs:C12146,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C32616,
+        ocs:C34236,
+        ocs:C406,
+        ocs:C4424,
+        ocs:C5746,
+        ocs:C9096 .
+

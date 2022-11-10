@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27019 a skos:Concept ;
+    skos:broader ocs:C11188 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_redundancy> ;
+    skos:prefLabel "Data redundancy" ;
+    skos:related ocs:C10447,
+        ocs:C10501,
+        ocs:C10684,
+        ocs:C13767,
+        ocs:C13783,
+        ocs:C14144,
+        ocs:C17701,
+        ocs:C17903,
+        ocs:C20517,
+        ocs:C23270,
+        ocs:C26157,
+        ocs:C29846,
+        ocs:C3231,
+        ocs:C36822,
+        ocs:C6,
+        ocs:C7476 .
+

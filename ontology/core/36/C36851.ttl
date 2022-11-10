@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36851 a skos:Concept ;
+    skos:broader ocs:C15260,
+        ocs:C16570,
+        ocs:C24558,
+        ocs:C27756 ;
+    skos:prefLabel "Gaussian broadcast channel" .
+

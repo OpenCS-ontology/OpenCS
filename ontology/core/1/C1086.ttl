@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1086 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brute-force_search> ;
+    skos:prefLabel "Brute-force search" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10390,
+        ocs:C11095,
+        ocs:C1134,
+        ocs:C13208,
+        ocs:C13317,
+        ocs:C1446,
+        ocs:C16983,
+        ocs:C25,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C4218,
+        ocs:C5242,
+        ocs:C7397,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C8,
+        ocs:C8660 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30755 a skos:Concept ;
+    skos:broader ocs:C21204,
+        ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multipath_mitigation> ;
+    skos:prefLabel "Multipath mitigation" ;
+    skos:related ocs:C10006,
+        ocs:C1219,
+        ocs:C12641,
+        ocs:C14099,
+        ocs:C19721,
+        ocs:C21945,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C24558,
+        ocs:C27698,
+        ocs:C29007,
+        ocs:C30473,
+        ocs:C30565,
+        ocs:C36630,
+        ocs:C36733,
+        ocs:C37214,
+        ocs:C37368,
+        ocs:C40171,
+        ocs:C40917 .
+

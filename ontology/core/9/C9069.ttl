@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9069 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contingency_approach> ;
+    skos:prefLabel "Contingency approach" ;
+    skos:related ocs:C37135,
+        ocs:C5243,
+        ocs:C9248 .
+

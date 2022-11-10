@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5414 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Datasource> ;
+    skos:prefLabel "Datasource" ;
+    skos:related ocs:C15611,
+        ocs:C16901,
+        ocs:C17701,
+        ocs:C18567,
+        ocs:C22879,
+        ocs:C23753,
+        ocs:C264,
+        ocs:C28963,
+        ocs:C30561,
+        ocs:C33457,
+        ocs:C35393,
+        ocs:C38452,
+        ocs:C43670,
+        ocs:C44816,
+        ocs:C5159,
+        ocs:C5497,
+        ocs:C6,
+        ocs:C7568 .
+

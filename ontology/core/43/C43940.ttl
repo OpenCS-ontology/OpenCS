@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43940 a skos:Concept ;
+    skos:broader ocs:C31852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heterometrus_spinifer> ;
+    skos:prefLabel "Heterometrus spinifer" ;
+    skos:related ocs:C22696,
+        ocs:C34919 .
+

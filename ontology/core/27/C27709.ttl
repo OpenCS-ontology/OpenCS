@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27709 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Copy_propagation> ;
+    skos:prefLabel "Copy propagation" ;
+    skos:related ocs:C15465,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22584,
+        ocs:C27080,
+        ocs:C28630,
+        ocs:C29056,
+        ocs:C30086,
+        ocs:C31513,
+        ocs:C32012,
+        ocs:C32352,
+        ocs:C32422,
+        ocs:C33100,
+        ocs:C36309,
+        ocs:C37970,
+        ocs:C39814,
+        ocs:C41661,
+        ocs:C43269,
+        ocs:C45909 .
+

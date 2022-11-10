@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18571 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complex_contagion> ;
+    skos:prefLabel "Complex contagion" ;
+    skos:related ocs:C11026,
+        ocs:C14528,
+        ocs:C14853,
+        ocs:C17671,
+        ocs:C18683,
+        ocs:C20170,
+        ocs:C22417,
+        ocs:C23434,
+        ocs:C23565,
+        ocs:C25141,
+        ocs:C26462,
+        ocs:C28521,
+        ocs:C32056,
+        ocs:C34224,
+        ocs:C36858,
+        ocs:C7460 .
+

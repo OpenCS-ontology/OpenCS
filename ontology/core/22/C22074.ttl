@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22074 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Function_block_diagram> ;
+    skos:prefLabel "Function block diagram" ;
+    skos:related ocs:C10666,
+        ocs:C19,
+        ocs:C20519,
+        ocs:C4771,
+        ocs:C5821,
+        ocs:C5869 .
+

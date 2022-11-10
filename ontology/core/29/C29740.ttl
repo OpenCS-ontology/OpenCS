@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29740 a skos:Concept ;
+    skos:broader ocs:C26764 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_Device_Radiocommunications_Service> ;
+    skos:prefLabel "Medical Device Radiocommunications Service" ;
+    skos:related ocs:C10409,
+        ocs:C13593,
+        ocs:C15505,
+        ocs:C16773,
+        ocs:C27912,
+        ocs:C30901,
+        ocs:C35075,
+        ocs:C3966,
+        ocs:C9793 .
+

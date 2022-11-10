@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28524 a skos:Concept ;
+    skos:broader ocs:C10720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_dispatch> ;
+    skos:prefLabel "Double dispatch" ;
+    skos:related ocs:C10720,
+        ocs:C12057,
+        ocs:C1333,
+        ocs:C14222,
+        ocs:C16569,
+        ocs:C21130,
+        ocs:C2257,
+        ocs:C3282,
+        ocs:C329,
+        ocs:C35998,
+        ocs:C39309,
+        ocs:C41254,
+        ocs:C5308,
+        ocs:C6653,
+        ocs:C9535,
+        ocs:C9947 .
+

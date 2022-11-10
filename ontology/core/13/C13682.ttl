@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13682 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_problem> ;
+    skos:prefLabel "Inverse problem" ;
+    skos:related ocs:C11150,
+        ocs:C22854,
+        ocs:C2321,
+        ocs:C2364,
+        ocs:C25,
+        ocs:C28787,
+        ocs:C29219,
+        ocs:C34413,
+        ocs:C597 .
+

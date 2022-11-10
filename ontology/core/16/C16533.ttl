@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16533 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thick_disk> ;
+    skos:prefLabel "Thick disk" ;
+    skos:related ocs:C17246,
+        ocs:C18299,
+        ocs:C20206,
+        ocs:C21768,
+        ocs:C22752,
+        ocs:C23077,
+        ocs:C23244,
+        ocs:C26348,
+        ocs:C28402,
+        ocs:C31589,
+        ocs:C31953,
+        ocs:C33081,
+        ocs:C34069,
+        ocs:C37905,
+        ocs:C41648,
+        ocs:C597 .
+

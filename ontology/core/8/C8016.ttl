@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8016 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Building_management_system> ;
+    skos:prefLabel "Building management system" ;
+    skos:related ocs:C1206,
+        ocs:C14858,
+        ocs:C1626,
+        ocs:C22449,
+        ocs:C23445,
+        ocs:C25027,
+        ocs:C5821,
+        ocs:C7740,
+        ocs:C8711 .
+

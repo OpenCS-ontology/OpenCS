@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23598 a skos:Concept ;
+    skos:broader ocs:C6753 ;
+    skos:prefLabel "Confidentiality rights" ;
+    skos:related ocs:C35,
+        ocs:C7510 .
+

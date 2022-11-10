@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18214 a skos:Concept ;
+    skos:broader ocs:C2188,
+        ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Broadbanding> ;
+    skos:prefLabel "Broadbanding" ;
+    skos:related ocs:C12824,
+        ocs:C1693,
+        ocs:C20101,
+        ocs:C22700,
+        ocs:C26092,
+        ocs:C642,
+        ocs:C9328 .
+

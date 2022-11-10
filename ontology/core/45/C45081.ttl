@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45081 a skos:Concept ;
+    skos:broader ocs:C31455,
+        ocs:C34584 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hash_trie> ;
+    skos:prefLabel "Hash trie" ;
+    skos:related ocs:C1,
+        ocs:C11325,
+        ocs:C18220,
+        ocs:C19305,
+        ocs:C24541,
+        ocs:C26456,
+        ocs:C26515,
+        ocs:C27088,
+        ocs:C30059,
+        ocs:C33416,
+        ocs:C34223,
+        ocs:C36112,
+        ocs:C36234,
+        ocs:C37978,
+        ocs:C41512,
+        ocs:C42030,
+        ocs:C45644,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25834 a skos:Concept ;
+    skos:broader ocs:C9777 ;
+    skos:closeMatch <http://dbpedia.org/resource/Verner's_law> ;
+    skos:prefLabel "Verner's law" ;
+    skos:related ocs:C16420,
+        ocs:C18698,
+        ocs:C25166,
+        ocs:C26370,
+        ocs:C3356,
+        ocs:C9777 .
+

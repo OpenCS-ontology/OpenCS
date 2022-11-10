@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9062 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/IPv6-to-IPv6_Network_Prefix_Translation> ;
+    skos:prefLabel "IPv6-to-IPv6 Network Prefix Translation" ;
+    skos:related ocs:C18213,
+        ocs:C19227,
+        ocs:C2181,
+        ocs:C23666,
+        ocs:C30241,
+        ocs:C34235,
+        ocs:C35706,
+        ocs:C36475,
+        ocs:C36678,
+        ocs:C38966,
+        ocs:C39946,
+        ocs:C41726,
+        ocs:C41948,
+        ocs:C42429,
+        ocs:C43820,
+        ocs:C43939,
+        ocs:C44571,
+        ocs:C44710,
+        ocs:C45007,
+        ocs:C4987 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32194 a skos:Concept ;
+    skos:broader ocs:C22495,
+        ocs:C25501 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_sum_model> ;
+    skos:prefLabel "Weighted sum model" ;
+    skos:related ocs:C17168,
+        ocs:C17414,
+        ocs:C22628,
+        ocs:C22673,
+        ocs:C27265,
+        ocs:C33161,
+        ocs:C36383,
+        ocs:C38630,
+        ocs:C5352,
+        ocs:C8124 .
+

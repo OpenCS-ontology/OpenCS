@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42620 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intergalactic_star> ;
+    skos:prefLabel "Intergalactic star" ;
+    skos:related ocs:C17246,
+        ocs:C23430,
+        ocs:C33107,
+        ocs:C37041,
+        ocs:C45805 .
+

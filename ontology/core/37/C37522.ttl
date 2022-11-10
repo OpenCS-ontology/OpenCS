@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37522 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C22524,
+        ocs:C29390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotic_surgery> ;
+    skos:prefLabel "Robotic assisted procedures" ;
+    skos:related ocs:C17236,
+        ocs:C22524 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6084 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noun_particle> ;
+    skos:prefLabel "Noun particle" ;
+    skos:related ocs:C11932,
+        ocs:C12443,
+        ocs:C15202,
+        ocs:C15644,
+        ocs:C1952,
+        ocs:C19696,
+        ocs:C26816,
+        ocs:C27326,
+        ocs:C29191,
+        ocs:C30931,
+        ocs:C32280,
+        ocs:C32450,
+        ocs:C32477,
+        ocs:C3261,
+        ocs:C8454 .
+

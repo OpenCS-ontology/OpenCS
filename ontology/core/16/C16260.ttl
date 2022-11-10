@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16260 a skos:Concept ;
+    skos:broader ocs:C2863,
+        ocs:C2878,
+        ocs:C3283,
+        ocs:C9486 ;
+    skos:prefLabel "Atomic register" .
+

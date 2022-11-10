@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16568 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modes_of_convergence> ;
+    skos:prefLabel "Modes of convergence" ;
+    skos:related ocs:C16025,
+        ocs:C18280,
+        ocs:C23927,
+        ocs:C24265,
+        ocs:C24810,
+        ocs:C29795,
+        ocs:C30139,
+        ocs:C40340,
+        ocs:C41795 .
+

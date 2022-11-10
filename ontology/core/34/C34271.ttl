@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34271 a skos:Concept ;
+    skos:broader ocs:C21769 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_classification> ;
+    skos:prefLabel "Traffic classification" ;
+    skos:related ocs:C11540,
+        ocs:C16369,
+        ocs:C16851,
+        ocs:C17625,
+        ocs:C20691,
+        ocs:C22407,
+        ocs:C24323,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C27557,
+        ocs:C37175,
+        ocs:C37577,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C4502,
+        ocs:C45252,
+        ocs:C5403,
+        ocs:C8614 .
+

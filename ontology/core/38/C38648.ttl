@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38648 a skos:Concept ;
+    skos:broader ocs:C33852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antitarget> ;
+    skos:prefLabel "Antitarget" ;
+    skos:related ocs:C33852 .
+

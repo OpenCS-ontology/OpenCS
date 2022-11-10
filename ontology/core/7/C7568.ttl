@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7568 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Load_file> ;
+    skos:prefLabel "Load file" ;
+    skos:related ocs:C10380,
+        ocs:C10988,
+        ocs:C1998,
+        ocs:C3077,
+        ocs:C3263,
+        ocs:C34481,
+        ocs:C36535,
+        ocs:C37009,
+        ocs:C40981,
+        ocs:C41073,
+        ocs:C43539,
+        ocs:C43670,
+        ocs:C5159,
+        ocs:C5402,
+        ocs:C5414,
+        ocs:C6,
+        ocs:C6654,
+        ocs:C7286 .
+

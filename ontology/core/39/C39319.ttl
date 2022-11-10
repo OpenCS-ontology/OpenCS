@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39319 a skos:Concept ;
+    skos:broader ocs:C36046 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brownian_tree> ;
+    skos:prefLabel "Brownian tree" ;
+    skos:related ocs:C23871,
+        ocs:C33101,
+        ocs:C36046,
+        ocs:C43106,
+        ocs:C6909 .
+

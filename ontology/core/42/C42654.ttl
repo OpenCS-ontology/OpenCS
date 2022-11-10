@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42654 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C34713,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modified_Harvard_architecture> ;
+    skos:prefLabel "Modified Harvard architecture" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C21718,
+        ocs:C27610,
+        ocs:C2939,
+        ocs:C3160,
+        ocs:C37538,
+        ocs:C5136,
+        ocs:C6172,
+        ocs:C6447,
+        ocs:C8024,
+        ocs:C856 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45453 a skos:Concept ;
+    skos:broader ocs:C31362 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamical_system_(definition)> ;
+    skos:prefLabel "Dynamical system (definition)" ;
+    skos:related ocs:C23029,
+        ocs:C28787,
+        ocs:C5867 .
+

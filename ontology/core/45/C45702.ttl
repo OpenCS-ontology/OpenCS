@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45702 a skos:Concept ;
+    skos:broader ocs:C31781,
+        ocs:C32347,
+        ocs:C33035,
+        ocs:C33304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-well-founded_set_theory> ;
+    skos:prefLabel "Non-well-founded set theory" ;
+    skos:related ocs:C12474,
+        ocs:C16950,
+        ocs:C19818,
+        ocs:C28286,
+        ocs:C32347,
+        ocs:C33304,
+        ocs:C38759,
+        ocs:C38858,
+        ocs:C39138,
+        ocs:C42636,
+        ocs:C42656,
+        ocs:C43476,
+        ocs:C44591,
+        ocs:C45913,
+        ocs:C5251 .
+

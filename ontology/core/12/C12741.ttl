@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12741 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transparency_(graphic)> ;
+    skos:prefLabel "Transparency (graphic)" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C10973,
+        ocs:C13155,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C29600,
+        ocs:C30745,
+        ocs:C33188,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C41977,
+        ocs:C43198,
+        ocs:C4584,
+        ocs:C6942,
+        ocs:C797,
+        ocs:C8099 .
+

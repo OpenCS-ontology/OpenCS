@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15197 a skos:Concept ;
+    skos:broader ocs:C6615 ;
+    skos:closeMatch <http://dbpedia.org/resource/Product_data_record> ;
+    skos:prefLabel "Product data record" ;
+    skos:related ocs:C23146,
+        ocs:C27972,
+        ocs:C31430,
+        ocs:C3345,
+        ocs:C34713,
+        ocs:C38285,
+        ocs:C38916,
+        ocs:C39322,
+        ocs:C4670 .
+

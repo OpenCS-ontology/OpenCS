@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6496 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xilleon> ;
+    skos:prefLabel "Xilleon" ;
+    skos:related ocs:C11323,
+        ocs:C1904,
+        ocs:C20961,
+        ocs:C21097,
+        ocs:C23550,
+        ocs:C23673,
+        ocs:C25853,
+        ocs:C2722,
+        ocs:C27572,
+        ocs:C28515,
+        ocs:C35808,
+        ocs:C36647,
+        ocs:C39584,
+        ocs:C45687,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C7219,
+        ocs:C7447 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8143 a skos:Concept ;
+    skos:broader ocs:C15,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Giga-updates_per_second> ;
+    skos:prefLabel "Giga-updates per second" ;
+    skos:related ocs:C22554,
+        ocs:C26,
+        ocs:C26580,
+        ocs:C27,
+        ocs:C27611,
+        ocs:C29418,
+        ocs:C29419,
+        ocs:C30689,
+        ocs:C3429,
+        ocs:C35049,
+        ocs:C37577,
+        ocs:C39939,
+        ocs:C4099,
+        ocs:C42093,
+        ocs:C5180,
+        ocs:C7767,
+        ocs:C8901 .
+

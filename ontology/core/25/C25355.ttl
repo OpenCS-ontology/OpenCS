@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25355 a skos:Concept ;
+    skos:broader ocs:C13685,
+        ocs:C4752,
+        ocs:C9641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Huber_loss> ;
+    skos:prefLabel "Huber loss" ;
+    skos:related ocs:C13685,
+        ocs:C13877,
+        ocs:C17791,
+        ocs:C25294,
+        ocs:C28056,
+        ocs:C28243,
+        ocs:C28403,
+        ocs:C30859,
+        ocs:C34750,
+        ocs:C35658,
+        ocs:C39575,
+        ocs:C40400,
+        ocs:C42850,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662 .
+

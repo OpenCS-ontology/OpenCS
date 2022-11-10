@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7095 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Explanation-based_learning> ;
+    skos:prefLabel "Explanation-based learning" ;
+    skos:related ocs:C10241,
+        ocs:C11030,
+        ocs:C14849,
+        ocs:C16711,
+        ocs:C2005,
+        ocs:C20274,
+        ocs:C21,
+        ocs:C2418,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C2758,
+        ocs:C31543,
+        ocs:C34002,
+        ocs:C35604,
+        ocs:C36272,
+        ocs:C41772,
+        ocs:C41937,
+        ocs:C5498,
+        ocs:C8 .
+

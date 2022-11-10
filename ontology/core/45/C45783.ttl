@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45783 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_Engineering_Body_of_Knowledge> ;
+    skos:prefLabel "Software Engineering Body of Knowledge" ;
+    skos:related ocs:C1,
+        ocs:C1253,
+        ocs:C14,
+        ocs:C2057,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28454,
+        ocs:C30036,
+        ocs:C32978,
+        ocs:C35202,
+        ocs:C35575,
+        ocs:C37174,
+        ocs:C42487,
+        ocs:C42883,
+        ocs:C43527,
+        ocs:C9490 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14118 a skos:Concept ;
+    skos:broader ocs:C3206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Display_Serial_Interface> ;
+    skos:prefLabel "Display Serial Interface" ;
+    skos:related ocs:C13386,
+        ocs:C13614,
+        ocs:C15858,
+        ocs:C18246,
+        ocs:C21612,
+        ocs:C22530,
+        ocs:C36240,
+        ocs:C3627,
+        ocs:C41840,
+        ocs:C6866,
+        ocs:C7927,
+        ocs:C9717 .
+

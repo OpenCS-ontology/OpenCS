@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42694 a skos:Concept ;
+    skos:broader ocs:C33349,
+        ocs:C34619 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithmic_inference> ;
+    skos:prefLabel "Algorithmic inference" ;
+    skos:related ocs:C13685,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C28074,
+        ocs:C36008,
+        ocs:C41574,
+        ocs:C6822 .
+

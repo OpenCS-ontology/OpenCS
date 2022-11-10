@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5559 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_communication> ;
+    skos:prefLabel "Optical communication" ;
+    skos:related ocs:C10884,
+        ocs:C16547,
+        ocs:C22335,
+        ocs:C26,
+        ocs:C3,
+        ocs:C3236,
+        ocs:C34124,
+        ocs:C6365,
+        ocs:C7502 .
+

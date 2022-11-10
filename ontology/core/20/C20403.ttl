@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20403 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mixed_complementarity_problem> ;
+    skos:prefLabel "Mixed complementarity problem" ;
+    skos:related ocs:C21421,
+        ocs:C33829,
+        ocs:C3570,
+        ocs:C36768,
+        ocs:C39422,
+        ocs:C43279,
+        ocs:C8331,
+        ocs:C8435,
+        ocs:C8944,
+        ocs:C9243 .
+

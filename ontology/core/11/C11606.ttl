@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11606 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Public_data_network> ;
+    skos:prefLabel "Public data network" ;
+    skos:related ocs:C15589,
+        ocs:C16953,
+        ocs:C2188,
+        ocs:C2435,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C28758,
+        ocs:C29799,
+        ocs:C3,
+        ocs:C31746,
+        ocs:C36001,
+        ocs:C36766,
+        ocs:C38247,
+        ocs:C6182,
+        ocs:C6861,
+        ocs:C7340,
+        ocs:C9480 .
+

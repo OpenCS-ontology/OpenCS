@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45554 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_documentation> ;
+    skos:prefLabel "Software documentation" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C14329,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C2674,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28881,
+        ocs:C30036,
+        ocs:C31320,
+        ocs:C37174,
+        ocs:C40700,
+        ocs:C41788,
+        ocs:C42280,
+        ocs:C4558,
+        ocs:C9607 .
+

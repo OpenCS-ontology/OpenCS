@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15883 a skos:Concept ;
+    skos:broader ocs:C12812,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application_delivery_controller> ;
+    skos:prefLabel "Application delivery controller" ;
+    skos:related ocs:C10280,
+        ocs:C12812,
+        ocs:C13786,
+        ocs:C17183,
+        ocs:C19722,
+        ocs:C24131,
+        ocs:C26354,
+        ocs:C27557,
+        ocs:C29002,
+        ocs:C35632,
+        ocs:C35801,
+        ocs:C36777,
+        ocs:C3901,
+        ocs:C39727,
+        ocs:C41003,
+        ocs:C43629,
+        ocs:C4663,
+        ocs:C7530 .
+

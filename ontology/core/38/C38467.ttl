@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38467 a skos:Concept ;
+    skos:broader ocs:C32266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frey_curve> ;
+    skos:prefLabel "Frey curve" ;
+    skos:related ocs:C10640,
+        ocs:C23209,
+        ocs:C32392,
+        ocs:C42979 .
+

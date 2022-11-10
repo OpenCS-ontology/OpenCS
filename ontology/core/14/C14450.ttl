@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14450 a skos:Concept ;
+    skos:broader ocs:C9534 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trauma_plate> ;
+    skos:prefLabel "Trauma plate" ;
+    skos:related ocs:C20415,
+        ocs:C31568 .
+

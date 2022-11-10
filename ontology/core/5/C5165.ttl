@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5165 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sinclair_Cambridge> ;
+    skos:prefLabel "Sinclair Cambridge" ;
+    skos:related ocs:C10,
+        ocs:C12262,
+        ocs:C13649,
+        ocs:C15500,
+        ocs:C16733,
+        ocs:C17802,
+        ocs:C18434,
+        ocs:C2241,
+        ocs:C28026,
+        ocs:C28408,
+        ocs:C37538,
+        ocs:C3785,
+        ocs:C41964,
+        ocs:C4703,
+        ocs:C788,
+        ocs:C8787 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C396 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Von_Neumann_cellular_automaton> ;
+    skos:prefLabel "Von Neumann cellular automaton" ;
+    skos:related ocs:C11405,
+        ocs:C122,
+        ocs:C13465,
+        ocs:C15307,
+        ocs:C16298,
+        ocs:C17869,
+        ocs:C22255,
+        ocs:C23026,
+        ocs:C25461,
+        ocs:C25857,
+        ocs:C26213,
+        ocs:C29207,
+        ocs:C3466,
+        ocs:C36615,
+        ocs:C42034,
+        ocs:C42980,
+        ocs:C45217,
+        ocs:C4606,
+        ocs:C7334 .
+

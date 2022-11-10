@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17575 a skos:Concept ;
+    skos:broader ocs:C8390,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Right_to_be_forgotten> ;
+    skos:prefLabel "Right to be forgotten" ;
+    skos:related ocs:C14105,
+        ocs:C16181,
+        ocs:C25346,
+        ocs:C26011,
+        ocs:C26514,
+        ocs:C37237,
+        ocs:C395,
+        ocs:C40049,
+        ocs:C45697,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C7963,
+        ocs:C8614 .
+

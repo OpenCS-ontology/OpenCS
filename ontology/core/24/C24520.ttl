@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24520 a skos:Concept ;
+    skos:broader ocs:C10917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_competitive_equilibrium> ;
+    skos:prefLabel "Recursive competitive equilibrium" ;
+    skos:related ocs:C14906,
+        ocs:C27053,
+        ocs:C39586,
+        ocs:C77 .
+

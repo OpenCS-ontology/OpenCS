@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21206 a skos:Concept ;
+    skos:broader ocs:C8172 ;
+    skos:closeMatch <http://dbpedia.org/resource/NesC> ;
+    skos:prefLabel "nesC" ;
+    skos:related ocs:C1142,
+        ocs:C13593,
+        ocs:C1386,
+        ocs:C14632,
+        ocs:C15415,
+        ocs:C19,
+        ocs:C23438,
+        ocs:C30652,
+        ocs:C31749,
+        ocs:C31894,
+        ocs:C38237,
+        ocs:C38833,
+        ocs:C40705,
+        ocs:C4321,
+        ocs:C44346,
+        ocs:C5308,
+        ocs:C8172,
+        ocs:C9,
+        ocs:C9047 .
+

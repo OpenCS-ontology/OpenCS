@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1913 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C32 ;
+    skos:prefLabel "Dictionaries as Topic" ;
+    skos:related ocs:C11763,
+        ocs:C1253,
+        ocs:C13,
+        ocs:C1451,
+        ocs:C17,
+        ocs:C2979,
+        ocs:C4,
+        ocs:C431,
+        ocs:C6947,
+        ocs:C8614 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11022 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sink_(computing)> ;
+    skos:prefLabel "Sink (computing)" ;
+    skos:related ocs:C10182,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C12108,
+        ocs:C12584,
+        ocs:C12848,
+        ocs:C17734,
+        ocs:C21265,
+        ocs:C36614,
+        ocs:C3676,
+        ocs:C38027,
+        ocs:C4041,
+        ocs:C41248,
+        ocs:C43851,
+        ocs:C45775,
+        ocs:C466,
+        ocs:C9397 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1511 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ring_learning_with_errors_key_exchange> ;
+    skos:prefLabel "Ring learning with errors key exchange" ;
+    skos:related ocs:C13632,
+        ocs:C16125,
+        ocs:C19573,
+        ocs:C27571,
+        ocs:C28075,
+        ocs:C28347,
+        ocs:C30656,
+        ocs:C32484,
+        ocs:C33428,
+        ocs:C34794,
+        ocs:C38277,
+        ocs:C38359,
+        ocs:C39034,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43199,
+        ocs:C6727 .
+

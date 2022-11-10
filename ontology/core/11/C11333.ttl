@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11333 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Haxe> ;
+    skos:prefLabel "Haxe" ;
+    skos:related ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C22322,
+        ocs:C2490,
+        ocs:C25313,
+        ocs:C28944,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C6918,
+        ocs:C6941,
+        ocs:C7572,
+        ocs:C9033 .
+

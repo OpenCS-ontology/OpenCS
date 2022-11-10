@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37235 a skos:Concept ;
+    skos:broader ocs:C14626,
+        ocs:C19733,
+        ocs:C25251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_network_analysis_software> ;
+    skos:prefLabel "Spatial network analysis software" ;
+    skos:related ocs:C12271,
+        ocs:C14853,
+        ocs:C15476,
+        ocs:C21545,
+        ocs:C23323,
+        ocs:C28881,
+        ocs:C28991,
+        ocs:C32254,
+        ocs:C36406,
+        ocs:C37873,
+        ocs:C39334,
+        ocs:C4020,
+        ocs:C43367,
+        ocs:C5034,
+        ocs:C7460 .
+

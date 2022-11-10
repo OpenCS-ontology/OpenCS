@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42585 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Policy-based_routing> ;
+    skos:prefLabel "Policy-based routing" ;
+    skos:related ocs:C15396,
+        ocs:C20540,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C38632,
+        ocs:C40959,
+        ocs:C41222,
+        ocs:C41572,
+        ocs:C41930,
+        ocs:C4197,
+        ocs:C42781,
+        ocs:C42853,
+        ocs:C44823,
+        ocs:C44972,
+        ocs:C45164,
+        ocs:C45399,
+        ocs:C8614 .
+

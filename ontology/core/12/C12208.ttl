@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12208 a skos:Concept ;
+    skos:broader ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intersection_(set_theory)> ;
+    skos:prefLabel "Intersection (set theory)" ;
+    skos:related ocs:C10553,
+        ocs:C11771,
+        ocs:C14151,
+        ocs:C16538,
+        ocs:C38759,
+        ocs:C5251 .
+

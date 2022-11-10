@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25220 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:prefLabel "Joint limitations" ;
+    skos:related ocs:C24212,
+        ocs:C9204,
+        ocs:C9664 .
+

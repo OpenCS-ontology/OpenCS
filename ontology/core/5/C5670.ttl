@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5670 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tag_omission> ;
+    skos:prefLabel "Tag omission" ;
+    skos:related ocs:C11927,
+        ocs:C13008,
+        ocs:C20790,
+        ocs:C23027,
+        ocs:C24783,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C29284,
+        ocs:C31343,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C36380,
+        ocs:C38964,
+        ocs:C39420,
+        ocs:C41346,
+        ocs:C41537,
+        ocs:C42905,
+        ocs:C45472,
+        ocs:C9709 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8430 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Energy_management> ;
+    skos:prefLabel "Energy management" ;
+    skos:related ocs:C11153,
+        ocs:C19129,
+        ocs:C4906,
+        ocs:C8386 .
+

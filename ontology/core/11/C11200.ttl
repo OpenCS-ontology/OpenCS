@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11200 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hereditary_set> ;
+    skos:prefLabel "Hereditary set" ;
+    skos:related ocs:C12208,
+        ocs:C16069,
+        ocs:C16950,
+        ocs:C32347,
+        ocs:C33304,
+        ocs:C34099,
+        ocs:C41266,
+        ocs:C42636,
+        ocs:C44591,
+        ocs:C45702,
+        ocs:C45891,
+        ocs:C45913,
+        ocs:C5251 .
+

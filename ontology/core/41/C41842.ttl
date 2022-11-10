@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41842 a skos:Concept ;
+    skos:broader ocs:C33963 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rectilinear_polygon> ;
+    skos:prefLabel "Rectilinear polygon" ;
+    skos:related ocs:C20539,
+        ocs:C32031,
+        ocs:C33963,
+        ocs:C36077,
+        ocs:C37589,
+        ocs:C38214,
+        ocs:C41880,
+        ocs:C44616,
+        ocs:C6279 .
+

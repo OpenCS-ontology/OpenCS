@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12450 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boneh–Lynn–Shacham> ;
+    skos:prefLabel "Boneh–Lynn–Shacham" ;
+    skos:related ocs:C1505,
+        ocs:C18118,
+        ocs:C21324,
+        ocs:C23042,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C33191,
+        ocs:C34749,
+        ocs:C35600,
+        ocs:C37228,
+        ocs:C37918,
+        ocs:C38377,
+        ocs:C38669,
+        ocs:C39168,
+        ocs:C40978,
+        ocs:C42963,
+        ocs:C43183,
+        ocs:C43305,
+        ocs:C7292 .
+

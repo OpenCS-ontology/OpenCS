@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3228 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galton's_problem> ;
+    skos:prefLabel "Galton's problem" ;
+    skos:related ocs:C11767,
+        ocs:C15614,
+        ocs:C42748,
+        ocs:C6116,
+        ocs:C836 .
+

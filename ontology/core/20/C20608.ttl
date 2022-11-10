@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20608 a skos:Concept ;
+    skos:broader ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Return-to-zero> ;
+    skos:prefLabel "Return-to-zero" ;
+    skos:related ocs:C10778,
+        ocs:C11018,
+        ocs:C16371,
+        ocs:C26814,
+        ocs:C29471,
+        ocs:C31520,
+        ocs:C36050,
+        ocs:C37072,
+        ocs:C38664,
+        ocs:C40772,
+        ocs:C45522,
+        ocs:C45901,
+        ocs:C7502 .
+

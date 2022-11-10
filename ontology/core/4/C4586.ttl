@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4586 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary_splitting> ;
+    skos:prefLabel "Binary splitting" ;
+    skos:related ocs:C11308,
+        ocs:C15418,
+        ocs:C20648,
+        ocs:C27,
+        ocs:C3081,
+        ocs:C33927,
+        ocs:C39716,
+        ocs:C6128,
+        ocs:C8581 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32265 a skos:Concept ;
+    skos:broader ocs:C14852,
+        ocs:C25862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal-Wishart_distribution> ;
+    skos:prefLabel "Normal-Wishart distribution" ;
+    skos:related ocs:C10767,
+        ocs:C14852,
+        ocs:C25862,
+        ocs:C31486,
+        ocs:C33009,
+        ocs:C35392,
+        ocs:C38218,
+        ocs:C40060,
+        ocs:C42795 .
+

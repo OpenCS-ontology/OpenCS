@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12394 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_Packet_Transport> ;
+    skos:prefLabel "Dynamic Packet Transport" ;
+    skos:related ocs:C13326,
+        ocs:C15417,
+        ocs:C15589,
+        ocs:C18802,
+        ocs:C20314,
+        ocs:C20934,
+        ocs:C23483,
+        ocs:C23613,
+        ocs:C25384,
+        ocs:C26,
+        ocs:C2842,
+        ocs:C30535,
+        ocs:C30986,
+        ocs:C36412,
+        ocs:C43211,
+        ocs:C44776,
+        ocs:C490,
+        ocs:C8567 .
+

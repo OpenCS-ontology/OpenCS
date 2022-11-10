@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17475 a skos:Concept ;
+    skos:broader ocs:C6756 ;
+    skos:prefLabel "Echocardiogram (image)" ;
+    skos:related ocs:C1,
+        ocs:C12582,
+        ocs:C21,
+        ocs:C6756,
+        ocs:C8499,
+        ocs:C9022 .
+

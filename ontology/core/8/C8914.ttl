@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8914 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kleene–Rosser_paradox> ;
+    skos:prefLabel "Kleene–Rosser paradox" ;
+    skos:related ocs:C10,
+        ocs:C10322,
+        ocs:C10498,
+        ocs:C12474,
+        ocs:C13751,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C36417,
+        ocs:C38038,
+        ocs:C38884,
+        ocs:C41359,
+        ocs:C4168,
+        ocs:C44999,
+        ocs:C45460,
+        ocs:C4978,
+        ocs:C6941,
+        ocs:C9560 .
+

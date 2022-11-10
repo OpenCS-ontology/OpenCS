@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15177 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_area_estimation> ;
+    skos:prefLabel "Small area estimation" ;
+    skos:related ocs:C10138,
+        ocs:C10976,
+        ocs:C12456,
+        ocs:C21710,
+        ocs:C25690,
+        ocs:C25711,
+        ocs:C26398,
+        ocs:C26880,
+        ocs:C27194,
+        ocs:C27703,
+        ocs:C5087 .
+

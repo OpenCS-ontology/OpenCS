@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5058 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monolingual_learner's_dictionary> ;
+    skos:prefLabel "Monolingual learner's dictionary" ;
+    skos:related ocs:C16053,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C24461,
+        ocs:C2761,
+        ocs:C27886,
+        ocs:C30934,
+        ocs:C3779,
+        ocs:C7040,
+        ocs:C9119,
+        ocs:C961 .
+

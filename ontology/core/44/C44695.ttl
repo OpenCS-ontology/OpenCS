@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44695 a skos:Concept ;
+    skos:broader ocs:C30705,
+        ocs:C33174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_4004> ;
+    skos:prefLabel "Intel 4004" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10409,
+        ocs:C11,
+        ocs:C19487,
+        ocs:C30705,
+        ocs:C4703,
+        ocs:C8787 .
+

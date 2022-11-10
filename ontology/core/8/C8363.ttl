@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8363 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:prefLabel "Feature Dataset" ;
+    skos:related ocs:C12206,
+        ocs:C13155,
+        ocs:C13677,
+        ocs:C13744,
+        ocs:C14626,
+        ocs:C16,
+        ocs:C1938,
+        ocs:C33,
+        ocs:C4256,
+        ocs:C5498,
+        ocs:C6021,
+        ocs:C6255,
+        ocs:C8499,
+        ocs:C9538,
+        ocs:C9641 .
+

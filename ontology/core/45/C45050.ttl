@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45050 a skos:Concept ;
+    skos:broader ocs:C31222,
+        ocs:C34662 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_masking> ;
+    skos:prefLabel "Domain masking" ;
+    skos:related ocs:C1059,
+        ocs:C17045,
+        ocs:C17225,
+        ocs:C20937,
+        ocs:C23016,
+        ocs:C2464,
+        ocs:C31,
+        ocs:C37042,
+        ocs:C38459,
+        ocs:C39074,
+        ocs:C39128,
+        ocs:C40902,
+        ocs:C42434,
+        ocs:C42880,
+        ocs:C437,
+        ocs:C44855,
+        ocs:C6642,
+        ocs:C6968,
+        ocs:C7147 .
+

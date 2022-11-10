@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17405 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/VisAD> ;
+    skos:prefLabel "VisAD" ;
+    skos:related ocs:C10822,
+        ocs:C12638,
+        ocs:C18973,
+        ocs:C1909,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C24603,
+        ocs:C28233,
+        ocs:C2846,
+        ocs:C29854,
+        ocs:C36835,
+        ocs:C40415,
+        ocs:C43996,
+        ocs:C6,
+        ocs:C7256,
+        ocs:C9836 .
+

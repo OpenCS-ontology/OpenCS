@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9344 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_identity> ;
+    skos:prefLabel "Digital identity" ;
+    skos:related ocs:C12510,
+        ocs:C14417,
+        ocs:C17656,
+        ocs:C20937,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C27531,
+        ocs:C29951,
+        ocs:C30771,
+        ocs:C31,
+        ocs:C31315,
+        ocs:C32400,
+        ocs:C37016,
+        ocs:C394,
+        ocs:C7006,
+        ocs:C7432,
+        ocs:C8614 .
+

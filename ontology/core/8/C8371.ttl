@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8371 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telco-OTT> ;
+    skos:prefLabel "Telco-OTT" ;
+    skos:related ocs:C12307,
+        ocs:C12308,
+        ocs:C125,
+        ocs:C16666,
+        ocs:C18264,
+        ocs:C19350,
+        ocs:C20540,
+        ocs:C21595,
+        ocs:C29359,
+        ocs:C3083,
+        ocs:C3139,
+        ocs:C35703,
+        ocs:C38894,
+        ocs:C4433,
+        ocs:C7106,
+        ocs:C7327,
+        ocs:C8614,
+        ocs:C8896 .
+

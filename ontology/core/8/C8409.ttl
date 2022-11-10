@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8409 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Colloquial_Finnish> ;
+    skos:prefLabel "Colloquial Finnish" ;
+    skos:related ocs:C10570,
+        ocs:C11932,
+        ocs:C13096,
+        ocs:C17395,
+        ocs:C18386,
+        ocs:C22126,
+        ocs:C22147,
+        ocs:C25558,
+        ocs:C26169,
+        ocs:C26896,
+        ocs:C3474,
+        ocs:C4025,
+        ocs:C6914,
+        ocs:C7183 .
+

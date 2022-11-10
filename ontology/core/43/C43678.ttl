@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43678 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pitman_closeness_criterion> ;
+    skos:prefLabel "Pitman closeness criterion" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C13877,
+        ocs:C14030,
+        ocs:C18916,
+        ocs:C19577,
+        ocs:C25294,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C33312,
+        ocs:C35061,
+        ocs:C39320,
+        ocs:C42850,
+        ocs:C45149,
+        ocs:C6498 .
+

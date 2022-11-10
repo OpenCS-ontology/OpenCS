@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C637 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cursive> ;
+    skos:prefLabel "Cursive" ;
+    skos:related ocs:C11699,
+        ocs:C19846,
+        ocs:C2025,
+        ocs:C25565,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C6505,
+        ocs:C7131,
+        ocs:C8396,
+        ocs:C8744 .
+

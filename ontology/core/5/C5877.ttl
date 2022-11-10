@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5877 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_public_access_catalog> ;
+    skos:prefLabel "Online public access catalog" ;
+    skos:related ocs:C10413,
+        ocs:C11492,
+        ocs:C15008,
+        ocs:C23088,
+        ocs:C24891,
+        ocs:C26424,
+        ocs:C3364,
+        ocs:C3413,
+        ocs:C3896,
+        ocs:C5832,
+        ocs:C6,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C6690,
+        ocs:C6726,
+        ocs:C6790,
+        ocs:C7849,
+        ocs:C8614,
+        ocs:C8770,
+        ocs:C9213 .
+

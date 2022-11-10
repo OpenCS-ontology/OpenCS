@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20091 a skos:Concept ;
+    skos:broader ocs:C6594,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Markov_additive_process> ;
+    skos:prefLabel "Markov additive process" ;
+    skos:related ocs:C16774,
+        ocs:C18439,
+        ocs:C27748,
+        ocs:C30610,
+        ocs:C31158,
+        ocs:C39308,
+        ocs:C5856,
+        ocs:C6594,
+        ocs:C7689 .
+

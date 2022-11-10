@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1356 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Task_management> ;
+    skos:prefLabel "Task management" ;
+    skos:related ocs:C10052,
+        ocs:C10225,
+        ocs:C1253,
+        ocs:C12810,
+        ocs:C20086,
+        ocs:C22668,
+        ocs:C25147,
+        ocs:C28632,
+        ocs:C29044,
+        ocs:C3395,
+        ocs:C34391,
+        ocs:C35701,
+        ocs:C36479,
+        ocs:C3795,
+        ocs:C672 .
+

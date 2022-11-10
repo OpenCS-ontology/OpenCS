@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15048 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_control> ;
+    skos:prefLabel "Motion control" ;
+    skos:related ocs:C14858,
+        ocs:C17236,
+        ocs:C173,
+        ocs:C23445,
+        ocs:C25027,
+        ocs:C31931 .
+

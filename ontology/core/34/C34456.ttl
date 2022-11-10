@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34456 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:prefLabel "Right sciatic nerve" ;
+    skos:related ocs:C21491,
+        ocs:C25080,
+        ocs:C29702 .
+

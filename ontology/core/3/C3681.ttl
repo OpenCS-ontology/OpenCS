@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3681 a skos:Concept ;
+    skos:broader ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/TATP_Benchmark> ;
+    skos:prefLabel "TATP Benchmark" ;
+    skos:related ocs:C1,
+        ocs:C11118,
+        ocs:C13767,
+        ocs:C15611,
+        ocs:C17701,
+        ocs:C2083,
+        ocs:C28963,
+        ocs:C3429,
+        ocs:C3569,
+        ocs:C38026,
+        ocs:C38458,
+        ocs:C40503,
+        ocs:C42517,
+        ocs:C43644,
+        ocs:C43670,
+        ocs:C44650,
+        ocs:C45466,
+        ocs:C6,
+        ocs:C6987,
+        ocs:C7877 .
+

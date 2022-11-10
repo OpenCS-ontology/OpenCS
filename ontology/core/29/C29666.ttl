@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29666 a skos:Concept ;
+    skos:broader ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_ethics> ;
+    skos:prefLabel "Roboethics" ;
+    skos:related ocs:C10396,
+        ocs:C11033,
+        ocs:C11381,
+        ocs:C13328,
+        ocs:C17117,
+        ocs:C17236,
+        ocs:C31197,
+        ocs:C34991,
+        ocs:C35770,
+        ocs:C35805,
+        ocs:C3694,
+        ocs:C3808,
+        ocs:C3848,
+        ocs:C44765,
+        ocs:C8 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43010 a skos:Concept ;
+    skos:broader ocs:C33992,
+        ocs:C34268,
+        ocs:C36246 ;
+    skos:closeMatch <http://dbpedia.org/resource/Photurinae> ;
+    skos:prefLabel "Photurinae" ;
+    skos:related ocs:C30751,
+        ocs:C33992,
+        ocs:C34268,
+        ocs:C35750,
+        ocs:C36212,
+        ocs:C37615,
+        ocs:C42703 .
+

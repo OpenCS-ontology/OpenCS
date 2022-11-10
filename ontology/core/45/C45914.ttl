@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45914 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Satellite_galaxy> ;
+    skos:prefLabel "Satellite galaxy" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C21056,
+        ocs:C23430,
+        ocs:C34069,
+        ocs:C597 .
+

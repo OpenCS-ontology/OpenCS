@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6004 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/O-minimal_theory> ;
+    skos:prefLabel "o-minimal theory" ;
+    skos:related ocs:C12346,
+        ocs:C12474,
+        ocs:C12739,
+        ocs:C30990,
+        ocs:C42320,
+        ocs:C8635 .
+

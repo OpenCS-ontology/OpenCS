@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43069 a skos:Concept ;
+    skos:broader ocs:C33093,
+        ocs:C35103,
+        ocs:C36407,
+        ocs:C37236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mean-preserving_spread> ;
+    skos:prefLabel "Mean-preserving spread" ;
+    skos:related ocs:C13869,
+        ocs:C16036,
+        ocs:C1844,
+        ocs:C22092,
+        ocs:C36008,
+        ocs:C44257,
+        ocs:C45652,
+        ocs:C9326 .
+

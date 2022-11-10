@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43718 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C34753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dm-crypt> ;
+    skos:prefLabel "dm-crypt" ;
+    skos:related ocs:C13783,
+        ocs:C20800,
+        ocs:C22065,
+        ocs:C26157,
+        ocs:C27449,
+        ocs:C29363,
+        ocs:C31338,
+        ocs:C31489,
+        ocs:C33857,
+        ocs:C37404,
+        ocs:C38723,
+        ocs:C39657,
+        ocs:C40478,
+        ocs:C40765,
+        ocs:C43761,
+        ocs:C44003,
+        ocs:C7476,
+        ocs:C9 .
+

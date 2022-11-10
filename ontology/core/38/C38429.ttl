@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38429 a skos:Concept ;
+    skos:broader ocs:C31379,
+        ocs:C36161,
+        ocs:C36898,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/DRYAD> ;
+    skos:prefLabel "DRYAD" ;
+    skos:related ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C20993,
+        ocs:C23666,
+        ocs:C28501,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30538,
+        ocs:C39582,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C45628,
+        ocs:C4751,
+        ocs:C5575,
+        ocs:C5692,
+        ocs:C8102 .
+

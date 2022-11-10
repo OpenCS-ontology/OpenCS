@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17819 a skos:Concept ;
+    skos:broader ocs:C4866 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microwork> ;
+    skos:prefLabel "Microwork" ;
+    skos:related ocs:C10,
+        ocs:C17394,
+        ocs:C25,
+        ocs:C30,
+        ocs:C40794,
+        ocs:C4866,
+        ocs:C8614 .
+

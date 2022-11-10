@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18735 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prenolepis_imparis> ;
+    skos:prefLabel "Prenolepis imparis" ;
+    skos:related ocs:C14279,
+        ocs:C19019,
+        ocs:C19235,
+        ocs:C20738,
+        ocs:C28251,
+        ocs:C30017,
+        ocs:C34293 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40823 a skos:Concept ;
+    skos:broader ocs:C30304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bernstein's_theorem_on_monotone_functions> ;
+    skos:prefLabel "Bernstein's theorem on monotone functions" ;
+    skos:related ocs:C20096,
+        ocs:C40292,
+        ocs:C41687 .
+

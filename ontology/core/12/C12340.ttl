@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12340 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Age_progression> ;
+    skos:prefLabel "Age progression" ;
+    skos:related ocs:C1394,
+        ocs:C19157,
+        ocs:C28945,
+        ocs:C38640,
+        ocs:C422,
+        ocs:C45860,
+        ocs:C8499 .
+

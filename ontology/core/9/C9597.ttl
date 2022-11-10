@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9597 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_proposition> ;
+    skos:prefLabel "Value proposition" ;
+    skos:related ocs:C12146,
+        ocs:C1332,
+        ocs:C19513,
+        ocs:C21881,
+        ocs:C3836 .
+

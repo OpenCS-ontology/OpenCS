@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7330 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rule-based_machine_translation> ;
+    skos:prefLabel "Rule-based machine translation" ;
+    skos:related ocs:C10227,
+        ocs:C15828,
+        ocs:C16771,
+        ocs:C19194,
+        ocs:C24011,
+        ocs:C24215,
+        ocs:C28336,
+        ocs:C31163,
+        ocs:C3145,
+        ocs:C32,
+        ocs:C34574,
+        ocs:C34912,
+        ocs:C35568,
+        ocs:C39236,
+        ocs:C42582,
+        ocs:C44911,
+        ocs:C5836,
+        ocs:C5852,
+        ocs:C8564,
+        ocs:C961 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41065 a skos:Concept ;
+    skos:broader ocs:C29834 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peak_information_rate> ;
+    skos:prefLabel "Peak information rate" ;
+    skos:related ocs:C12111,
+        ocs:C13695,
+        ocs:C15802,
+        ocs:C16473,
+        ocs:C19350,
+        ocs:C20010,
+        ocs:C23964,
+        ocs:C26809,
+        ocs:C29834,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C37577,
+        ocs:C38817,
+        ocs:C38888,
+        ocs:C42617,
+        ocs:C44104,
+        ocs:C4433 .
+

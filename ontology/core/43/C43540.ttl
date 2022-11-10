@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43540 a skos:Concept ;
+    skos:broader ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nested_triangles_graph> ;
+    skos:prefLabel "Nested triangles graph" ;
+    skos:related ocs:C28291,
+        ocs:C30730,
+        ocs:C36406,
+        ocs:C38339,
+        ocs:C38962,
+        ocs:C39263,
+        ocs:C39583,
+        ocs:C39781,
+        ocs:C40817,
+        ocs:C41573,
+        ocs:C41759,
+        ocs:C42723,
+        ocs:C42848,
+        ocs:C43437,
+        ocs:C44460,
+        ocs:C45670 .
+

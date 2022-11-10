@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30112 a skos:Concept ;
+    skos:broader ocs:C22245,
+        ocs:C23863 ;
+    skos:closeMatch <http://dbpedia.org/resource/JIT_spraying> ;
+    skos:prefLabel "JIT spraying" ;
+    skos:related ocs:C10214,
+        ocs:C19173,
+        ocs:C19349,
+        ocs:C19487,
+        ocs:C19620,
+        ocs:C23789,
+        ocs:C23863,
+        ocs:C25313,
+        ocs:C2545,
+        ocs:C26602,
+        ocs:C2939,
+        ocs:C31870,
+        ocs:C33483,
+        ocs:C35465,
+        ocs:C38959,
+        ocs:C39214,
+        ocs:C41159,
+        ocs:C4918,
+        ocs:C6172,
+        ocs:C794 .
+

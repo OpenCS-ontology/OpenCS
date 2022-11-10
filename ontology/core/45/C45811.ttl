@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45811 a skos:Concept ;
+    skos:broader ocs:C30895,
+        ocs:C32125,
+        ocs:C32876 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bink_Video> ;
+    skos:prefLabel "Bink Video" ;
+    skos:related ocs:C11043,
+        ocs:C11969,
+        ocs:C16860,
+        ocs:C19334,
+        ocs:C19484,
+        ocs:C26268,
+        ocs:C28881,
+        ocs:C30758,
+        ocs:C31114,
+        ocs:C32876,
+        ocs:C33979,
+        ocs:C34697,
+        ocs:C38834,
+        ocs:C39584,
+        ocs:C4448,
+        ocs:C45687,
+        ocs:C5514,
+        ocs:C6081,
+        ocs:C6640 .
+

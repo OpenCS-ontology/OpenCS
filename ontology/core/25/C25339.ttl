@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25339 a skos:Concept ;
+    skos:broader ocs:C3903 ;
+    skos:closeMatch <http://dbpedia.org/resource/Function_(engineering)> ;
+    skos:prefLabel "Function (engineering)" ;
+    skos:related ocs:C11,
+        ocs:C1630,
+        ocs:C23885,
+        ocs:C26403,
+        ocs:C29840,
+        ocs:C4651,
+        ocs:C5863,
+        ocs:C5869,
+        ocs:C924 .
+

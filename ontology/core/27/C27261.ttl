@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27261 a skos:Concept ;
+    skos:broader ocs:C7509 ;
+    skos:closeMatch <http://dbpedia.org/resource/Change_management_(ITSM)> ;
+    skos:prefLabel "Change management (ITSM)" ;
+    skos:related ocs:C10091,
+        ocs:C12149,
+        ocs:C12746,
+        ocs:C1399,
+        ocs:C197,
+        ocs:C29181,
+        ocs:C31261,
+        ocs:C3342,
+        ocs:C35343,
+        ocs:C38642,
+        ocs:C40280,
+        ocs:C43524,
+        ocs:C45228,
+        ocs:C45814,
+        ocs:C4670,
+        ocs:C7509,
+        ocs:C9700 .
+

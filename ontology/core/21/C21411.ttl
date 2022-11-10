@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21411 a skos:Concept ;
+    skos:broader ocs:C11252,
+        ocs:C5336,
+        ocs:C9908 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programmable_logic_array> ;
+    skos:prefLabel "Programmable logic array" ;
+    skos:related ocs:C10320,
+        ocs:C11252,
+        ocs:C13747,
+        ocs:C19582,
+        ocs:C19673,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C37887,
+        ocs:C38360,
+        ocs:C4259,
+        ocs:C42760,
+        ocs:C43781,
+        ocs:C4863,
+        ocs:C5336,
+        ocs:C8518,
+        ocs:C8791,
+        ocs:C9908 .
+

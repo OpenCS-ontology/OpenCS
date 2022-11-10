@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12224 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Snake_case> ;
+    skos:prefLabel "Snake case" ;
+    skos:related ocs:C10284,
+        ocs:C12257,
+        ocs:C12379,
+        ocs:C1333,
+        ocs:C13464,
+        ocs:C1805,
+        ocs:C19,
+        ocs:C3036,
+        ocs:C33275,
+        ocs:C41793,
+        ocs:C5049,
+        ocs:C6248,
+        ocs:C7985,
+        ocs:C8790,
+        ocs:C9033,
+        ocs:C9325,
+        ocs:C9638 .
+

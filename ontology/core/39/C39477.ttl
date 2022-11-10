@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39477 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Friendship_graph> ;
+    skos:prefLabel "Friendship graph" ;
+    skos:related ocs:C14693,
+        ocs:C17043,
+        ocs:C30621,
+        ocs:C30730,
+        ocs:C30933,
+        ocs:C36330,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C38243,
+        ocs:C38962,
+        ocs:C39783,
+        ocs:C42000,
+        ocs:C42845,
+        ocs:C43125,
+        ocs:C43374,
+        ocs:C45361,
+        ocs:C45842 .
+

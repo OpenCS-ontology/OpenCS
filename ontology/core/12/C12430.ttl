@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12430 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Videocassette_recorder> ;
+    skos:prefLabel "Videocassette recorder" ;
+    skos:related ocs:C11040,
+        ocs:C12544,
+        ocs:C13725,
+        ocs:C1724,
+        ocs:C27572,
+        ocs:C30569,
+        ocs:C34890,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C4461,
+        ocs:C520,
+        ocs:C7255,
+        ocs:C8935,
+        ocs:C9481 .
+

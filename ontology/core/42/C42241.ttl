@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42241 a skos:Concept ;
+    skos:broader ocs:C36161,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/UMAC> ;
+    skos:prefLabel "UMAC" ;
+    skos:related ocs:C1186,
+        ocs:C15591,
+        ocs:C16125,
+        ocs:C18803,
+        ocs:C20993,
+        ocs:C23875,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C33459,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39524,
+        ocs:C40584,
+        ocs:C40696,
+        ocs:C4218,
+        ocs:C43191,
+        ocs:C45551,
+        ocs:C4751 .
+

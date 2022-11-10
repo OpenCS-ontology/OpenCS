@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39482 a skos:Concept ;
+    skos:broader ocs:C32351,
+        ocs:C34060 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_client> ;
+    skos:prefLabel "Smart client" ;
+    skos:related ocs:C11293,
+        ocs:C12810,
+        ocs:C13800,
+        ocs:C15593,
+        ocs:C1670,
+        ocs:C22144,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C23856,
+        ocs:C25556,
+        ocs:C26102,
+        ocs:C26528,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C40510,
+        ocs:C45173,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5203,
+        ocs:C9033 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15640 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C4255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Received_signal_code_power> ;
+    skos:prefLabel "Received signal code power" ;
+    skos:related ocs:C13316,
+        ocs:C18799,
+        ocs:C21976,
+        ocs:C27263,
+        ocs:C27704,
+        ocs:C30309,
+        ocs:C32846,
+        ocs:C34471,
+        ocs:C34627,
+        ocs:C35692,
+        ocs:C36143,
+        ocs:C38053,
+        ocs:C41460,
+        ocs:C45515,
+        ocs:C45692,
+        ocs:C634,
+        ocs:C7877 .
+

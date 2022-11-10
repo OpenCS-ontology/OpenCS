@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6792 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infrared_cleaning> ;
+    skos:prefLabel "Infrared cleaning" ;
+    skos:related ocs:C12053,
+        ocs:C12473,
+        ocs:C13065,
+        ocs:C28806,
+        ocs:C4009,
+        ocs:C669,
+        ocs:C6942,
+        ocs:C9451 .
+

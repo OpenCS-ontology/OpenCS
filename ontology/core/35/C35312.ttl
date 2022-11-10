@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35312 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhombic_triacontahedron> ;
+    skos:prefLabel "Rhombic triacontahedron" ;
+    skos:related ocs:C33802,
+        ocs:C35696,
+        ocs:C38968,
+        ocs:C43632 .
+

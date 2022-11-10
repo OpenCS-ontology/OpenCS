@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41360 a skos:Concept ;
+    skos:broader ocs:C30080,
+        ocs:C33887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delta_robot> ;
+    skos:prefLabel "Delta robot" ;
+    skos:related ocs:C1493,
+        ocs:C15234,
+        ocs:C15308,
+        ocs:C15416,
+        ocs:C17236,
+        ocs:C18287,
+        ocs:C25273,
+        ocs:C29532,
+        ocs:C33887,
+        ocs:C34131,
+        ocs:C44424,
+        ocs:C7003 .
+

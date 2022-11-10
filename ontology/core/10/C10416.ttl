@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10416 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Image Inspection" ;
+    skos:related ocs:C10510,
+        ocs:C12580,
+        ocs:C1501,
+        ocs:C2,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C37748,
+        ocs:C5620,
+        ocs:C8021,
+        ocs:C8520 .
+

@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41033 a skos:Concept ;
+    skos:broader ocs:C31379,
+        ocs:C32582,
+        ocs:C33074,
+        ocs:C34793,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/3-D_Secure> ;
+    skos:prefLabel "3-D Secure" ;
+    skos:related ocs:C19151,
+        ocs:C22753,
+        ocs:C25306,
+        ocs:C26014,
+        ocs:C27033,
+        ocs:C28781,
+        ocs:C30829,
+        ocs:C32504,
+        ocs:C33193,
+        ocs:C35630,
+        ocs:C36171,
+        ocs:C36543,
+        ocs:C37095,
+        ocs:C37915,
+        ocs:C41228,
+        ocs:C44448,
+        ocs:C4513,
+        ocs:C45140,
+        ocs:C6305,
+        ocs:C8437 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24844 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_modular_avionics> ;
+    skos:prefLabel "Integrated modular avionics" ;
+    skos:related ocs:C13850,
+        ocs:C13856,
+        ocs:C16191,
+        ocs:C16926,
+        ocs:C18469,
+        ocs:C22647,
+        ocs:C22667,
+        ocs:C2674,
+        ocs:C32958,
+        ocs:C33387,
+        ocs:C36472,
+        ocs:C36484,
+        ocs:C36804,
+        ocs:C37895,
+        ocs:C41110,
+        ocs:C42151,
+        ocs:C45623,
+        ocs:C511,
+        ocs:C5912 .
+

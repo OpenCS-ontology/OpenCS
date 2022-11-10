@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10780 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/LZJB> ;
+    skos:prefLabel "LZJB" ;
+    skos:related ocs:C10,
+        ocs:C12441,
+        ocs:C43270,
+        ocs:C44662,
+        ocs:C5368,
+        ocs:C6609,
+        ocs:C9269 .
+

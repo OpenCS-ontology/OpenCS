@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6538 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arduino> ;
+    skos:prefLabel "Arduino" ;
+    skos:related ocs:C10286,
+        ocs:C10562,
+        ocs:C11,
+        ocs:C13386,
+        ocs:C22530,
+        ocs:C29969,
+        ocs:C31489,
+        ocs:C35870,
+        ocs:C6172 .
+

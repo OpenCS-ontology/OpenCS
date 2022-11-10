@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31325 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pre-stellar_core> ;
+    skos:prefLabel "Pre-stellar core" ;
+    skos:related ocs:C16731,
+        ocs:C17246,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C32298,
+        ocs:C33112,
+        ocs:C33408,
+        ocs:C34450,
+        ocs:C34547,
+        ocs:C45153 .
+

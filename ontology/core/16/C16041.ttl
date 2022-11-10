@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16041 a skos:Concept ;
+    skos:broader ocs:C7854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bloom's_taxonomy> ;
+    skos:prefLabel "Bloom's taxonomy" ;
+    skos:related ocs:C10559,
+        ocs:C18169,
+        ocs:C19066,
+        ocs:C25892,
+        ocs:C3444,
+        ocs:C34751,
+        ocs:C934 .
+

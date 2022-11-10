@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1132 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sentiment_analysis> ;
+    skos:prefLabel "Sentiment analysis" ;
+    skos:related ocs:C1040,
+        ocs:C12238,
+        ocs:C12696,
+        ocs:C13,
+        ocs:C16,
+        ocs:C21072,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C312,
+        ocs:C32,
+        ocs:C35701,
+        ocs:C36447,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38477,
+        ocs:C5852,
+        ocs:C8,
+        ocs:C9287 .
+

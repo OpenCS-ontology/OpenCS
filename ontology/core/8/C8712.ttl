@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8712 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_theory> ;
+    skos:prefLabel "Designtheory" ;
+    skos:related ocs:C1020,
+        ocs:C1196,
+        ocs:C12847,
+        ocs:C18,
+        ocs:C2136,
+        ocs:C22811,
+        ocs:C23671,
+        ocs:C7904 .
+

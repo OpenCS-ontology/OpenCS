@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5769 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Matched_filter> ;
+    skos:prefLabel "Matched filter" ;
+    skos:related ocs:C10509,
+        ocs:C11096,
+        ocs:C11150,
+        ocs:C11747,
+        ocs:C123,
+        ocs:C15788,
+        ocs:C2168,
+        ocs:C23968,
+        ocs:C25436,
+        ocs:C5505,
+        ocs:C5829,
+        ocs:C836 .
+

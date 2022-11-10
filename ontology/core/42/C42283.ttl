@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42283 a skos:Concept ;
+    skos:broader ocs:C32222,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero_page> ;
+    skos:prefLabel "Zero page" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C11258,
+        ocs:C1251,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C38819,
+        ocs:C42690,
+        ocs:C45812,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856 .
+

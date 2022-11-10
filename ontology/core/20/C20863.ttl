@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20863 a skos:Concept ;
+    skos:broader ocs:C7502,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interferometric_modulator_display> ;
+    skos:prefLabel "Interferometric modulator display" ;
+    skos:related ocs:C1084,
+        ocs:C15787,
+        ocs:C17132,
+        ocs:C35867,
+        ocs:C653,
+        ocs:C6969,
+        ocs:C8021,
+        ocs:C9265 .
+

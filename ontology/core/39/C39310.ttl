@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39310 a skos:Concept ;
+    skos:broader ocs:C32320,
+        ocs:C33348 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymptotic_decider> ;
+    skos:prefLabel "Asymptotic decider" ;
+    skos:related ocs:C10,
+        ocs:C12012,
+        ocs:C12638,
+        ocs:C15806,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C25851,
+        ocs:C28233,
+        ocs:C28280,
+        ocs:C29854,
+        ocs:C3174,
+        ocs:C32320,
+        ocs:C33348,
+        ocs:C36835,
+        ocs:C43996 .
+

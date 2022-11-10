@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39018 a skos:Concept ;
+    skos:broader ocs:C30630,
+        ocs:C31982 ;
+    skos:closeMatch <http://dbpedia.org/resource/IPoDWDM> ;
+    skos:prefLabel "IPoDWDM" ;
+    skos:related ocs:C10049,
+        ocs:C10331,
+        ocs:C10765,
+        ocs:C12583,
+        ocs:C20934,
+        ocs:C2492,
+        ocs:C26,
+        ocs:C27546,
+        ocs:C29799,
+        ocs:C35673,
+        ocs:C38402,
+        ocs:C4166,
+        ocs:C7327,
+        ocs:C7340,
+        ocs:C8567 .
+

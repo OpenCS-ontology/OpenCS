@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25139 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyclomatic_complexity> ;
+    skos:prefLabel "Cyclomatic complexity" ;
+    skos:related ocs:C12257,
+        ocs:C12846,
+        ocs:C17717,
+        ocs:C22987,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C26339,
+        ocs:C28,
+        ocs:C29427,
+        ocs:C3036,
+        ocs:C33699,
+        ocs:C39488,
+        ocs:C41270,
+        ocs:C42395,
+        ocs:C42762,
+        ocs:C45212,
+        ocs:C45422 .
+

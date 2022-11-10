@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40606 a skos:Concept ;
+    skos:broader ocs:C35406,
+        ocs:C35846 ;
+    skos:prefLabel "Genus Clarias" ;
+    skos:related ocs:C24236,
+        ocs:C35406,
+        ocs:C40122 .
+

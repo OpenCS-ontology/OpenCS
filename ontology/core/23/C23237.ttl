@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23237 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C4255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trunked_radio_system> ;
+    skos:prefLabel "Trunked radio system" ;
+    skos:related ocs:C12767,
+        ocs:C13110,
+        ocs:C20116,
+        ocs:C2369,
+        ocs:C2423,
+        ocs:C27956,
+        ocs:C29184,
+        ocs:C34473,
+        ocs:C4255,
+        ocs:C43408,
+        ocs:C43572,
+        ocs:C6763,
+        ocs:C7216,
+        ocs:C9113,
+        ocs:C9154 .
+

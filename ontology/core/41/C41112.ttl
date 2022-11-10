@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41112 a skos:Concept ;
+    skos:broader ocs:C36313 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attitudinal_analytics> ;
+    skos:prefLabel "Attitudinal analytics" ;
+    skos:related ocs:C10764,
+        ocs:C263,
+        ocs:C27097,
+        ocs:C27989,
+        ocs:C35660,
+        ocs:C42101 .
+

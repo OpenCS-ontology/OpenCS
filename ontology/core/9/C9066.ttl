@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9066 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Missile> ;
+    skos:prefLabel "Missile" ;
+    skos:related ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C25124,
+        ocs:C28174,
+        ocs:C28796,
+        ocs:C34143,
+        ocs:C5247,
+        ocs:C6589 .
+

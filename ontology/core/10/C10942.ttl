@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10942 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/APC_Smart-UPS> ;
+    skos:prefLabel "APC Smart-UPS" ;
+    skos:related ocs:C16980,
+        ocs:C28637,
+        ocs:C29359,
+        ocs:C30769,
+        ocs:C31772,
+        ocs:C3394,
+        ocs:C34195,
+        ocs:C3428,
+        ocs:C34358,
+        ocs:C44603,
+        ocs:C490,
+        ocs:C5840,
+        ocs:C9217,
+        ocs:C9540 .
+

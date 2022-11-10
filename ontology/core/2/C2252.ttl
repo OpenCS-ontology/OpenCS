@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2252 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spaceflight> ;
+    skos:prefLabel "Spaceflight" ;
+    skos:related ocs:C1628,
+        ocs:C17254,
+        ocs:C23481,
+        ocs:C24462,
+        ocs:C26021,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C81 .
+

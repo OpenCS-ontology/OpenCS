@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1520 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Med_Flash> ;
+    skos:prefLabel "Med Flash" ;
+    skos:related ocs:C17553,
+        ocs:C18682,
+        ocs:C2054,
+        ocs:C6536 .
+

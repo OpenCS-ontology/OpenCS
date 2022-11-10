@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42303 a skos:Concept ;
+    skos:broader ocs:C32658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ant_cricket> ;
+    skos:prefLabel "Ant cricket" ;
+    skos:related ocs:C30775 .
+

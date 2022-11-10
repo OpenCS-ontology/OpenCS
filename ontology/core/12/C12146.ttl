@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12146 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_model> ;
+    skos:prefLabel "Business model" ;
+    skos:related ocs:C13306,
+        ocs:C1332,
+        ocs:C197,
+        ocs:C26014,
+        ocs:C28526,
+        ocs:C3395,
+        ocs:C8614 .
+

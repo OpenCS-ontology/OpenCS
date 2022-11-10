@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25959 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C5637,
+        ocs:C8385 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mosaic_plot> ;
+    skos:prefLabel "Mosaic plot" ;
+    skos:related ocs:C11809,
+        ocs:C12322,
+        ocs:C16605,
+        ocs:C18406,
+        ocs:C1938,
+        ocs:C19998,
+        ocs:C24971,
+        ocs:C27130,
+        ocs:C32448,
+        ocs:C383,
+        ocs:C5700 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13610 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reinforcement_learning> ;
+    skos:prefLabel "Reinforcement learning" ;
+    skos:related ocs:C1,
+        ocs:C18279,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21546,
+        ocs:C22089,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C27053,
+        ocs:C27563,
+        ocs:C29173,
+        ocs:C36567,
+        ocs:C7094,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C8,
+        ocs:C9022 .
+

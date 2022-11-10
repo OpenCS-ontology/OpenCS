@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45576 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C31195,
+        ocs:C33187,
+        ocs:C34818,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contraction_(operator_theory)> ;
+    skos:prefLabel "Contraction (operator theory)" ;
+    skos:related ocs:C19542,
+        ocs:C20853,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31362,
+        ocs:C31450,
+        ocs:C31849,
+        ocs:C32558,
+        ocs:C33554,
+        ocs:C36808,
+        ocs:C36974,
+        ocs:C39028,
+        ocs:C40536,
+        ocs:C40662,
+        ocs:C44342 .
+

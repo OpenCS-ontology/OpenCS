@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2970 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Freedom_of_information_laws_by_country> ;
+    skos:prefLabel "Freedom of information laws by country" ;
+    skos:related ocs:C13538,
+        ocs:C2060,
+        ocs:C22551,
+        ocs:C23932,
+        ocs:C32525,
+        ocs:C7510,
+        ocs:C8390,
+        ocs:C8614 .
+

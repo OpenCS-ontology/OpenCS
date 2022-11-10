@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15676 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Induction_loop> ;
+    skos:prefLabel "Induction loop" ;
+    skos:related ocs:C4917,
+        ocs:C4998,
+        ocs:C9100 .
+

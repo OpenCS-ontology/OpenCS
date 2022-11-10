@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42922 a skos:Concept ;
+    skos:broader ocs:C37207 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_pushdown_automaton> ;
+    skos:prefLabel "Deterministic pushdown automaton" ;
+    skos:related ocs:C17566,
+        ocs:C17732,
+        ocs:C22100,
+        ocs:C22624,
+        ocs:C22626,
+        ocs:C26158,
+        ocs:C30272,
+        ocs:C30921,
+        ocs:C33013,
+        ocs:C33441,
+        ocs:C37890,
+        ocs:C38591,
+        ocs:C39098,
+        ocs:C39527,
+        ocs:C40873,
+        ocs:C41257,
+        ocs:C43348,
+        ocs:C43816,
+        ocs:C524 .
+

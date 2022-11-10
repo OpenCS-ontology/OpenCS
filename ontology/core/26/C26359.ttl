@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26359 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-recurring_engineering> ;
+    skos:prefLabel "Non-recurring engineering" ;
+    skos:related ocs:C13747,
+        ocs:C14694,
+        ocs:C254,
+        ocs:C3160,
+        ocs:C5336,
+        ocs:C7165,
+        ocs:C7914,
+        ocs:C866,
+        ocs:C9835 .
+

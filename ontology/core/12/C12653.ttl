@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12653 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wish_list> ;
+    skos:prefLabel "Wish list" ;
+    skos:related ocs:C10513,
+        ocs:C27979,
+        ocs:C7626,
+        ocs:C9033,
+        ocs:C9219 .
+

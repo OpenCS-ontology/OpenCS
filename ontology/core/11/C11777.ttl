@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11777 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prelink> ;
+    skos:prefLabel "prelink" ;
+    skos:related ocs:C10214,
+        ocs:C24871,
+        ocs:C25185,
+        ocs:C26607,
+        ocs:C29426,
+        ocs:C31489,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C4321,
+        ocs:C5470,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C8863,
+        ocs:C9 .
+

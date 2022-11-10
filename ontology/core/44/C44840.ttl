@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44840 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geographic_routing> ;
+    skos:prefLabel "Geographic routing" ;
+    skos:related ocs:C14321,
+        ocs:C1446,
+        ocs:C20376,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C28122,
+        ocs:C28520,
+        ocs:C30514,
+        ocs:C34938,
+        ocs:C38869,
+        ocs:C39494,
+        ocs:C40576,
+        ocs:C41980,
+        ocs:C42316,
+        ocs:C43525,
+        ocs:C44043,
+        ocs:C44074,
+        ocs:C5406,
+        ocs:C8172 .
+

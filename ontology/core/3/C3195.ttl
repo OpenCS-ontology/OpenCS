@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3195 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Power_management> ;
+    skos:prefLabel "Power management" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C12690,
+        ocs:C15459,
+        ocs:C1668,
+        ocs:C1904,
+        ocs:C21765,
+        ocs:C23610,
+        ocs:C25678,
+        ocs:C26517,
+        ocs:C27560,
+        ocs:C3510,
+        ocs:C3893,
+        ocs:C6410,
+        ocs:C7165,
+        ocs:C9,
+        ocs:C9897 .
+

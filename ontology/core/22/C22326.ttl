@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22326 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_audio_broadcasting> ;
+    skos:prefLabel "Digital audio broadcasting" ;
+    skos:related ocs:C10409,
+        ocs:C12942,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C15774,
+        ocs:C19366,
+        ocs:C19721,
+        ocs:C19903,
+        ocs:C20140,
+        ocs:C26768,
+        ocs:C27572,
+        ocs:C31899,
+        ocs:C32456,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C36245,
+        ocs:C7216 .
+

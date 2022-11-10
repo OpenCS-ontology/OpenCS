@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16723 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Swedish_grammar> ;
+    skos:prefLabel "Swedish grammar" ;
+    skos:related ocs:C15021,
+        ocs:C18232,
+        ocs:C18978,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23243,
+        ocs:C23692,
+        ocs:C24499,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C28817,
+        ocs:C31787 .
+

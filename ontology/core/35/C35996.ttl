@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35996 a skos:Concept ;
+    skos:broader ocs:C14269,
+        ocs:C25440,
+        ocs:C26753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ternary_search_tree> ;
+    skos:prefLabel "Ternary search tree" ;
+    skos:related ocs:C11899,
+        ocs:C14255,
+        ocs:C18220,
+        ocs:C19305,
+        ocs:C24541,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C38550,
+        ocs:C41512,
+        ocs:C42036,
+        ocs:C43106,
+        ocs:C6697,
+        ocs:C8022,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C8893 .
+

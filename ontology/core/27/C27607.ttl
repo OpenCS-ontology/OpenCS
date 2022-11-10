@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27607 a skos:Concept ;
+    skos:broader ocs:C11492,
+        ocs:C3238,
+        ocs:C7849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_Description_and_Access> ;
+    skos:prefLabel "Resource Description and Access" ;
+    skos:related ocs:C10413,
+        ocs:C11492,
+        ocs:C14421,
+        ocs:C1561,
+        ocs:C22536,
+        ocs:C22687,
+        ocs:C23088,
+        ocs:C24661,
+        ocs:C24891,
+        ocs:C28463,
+        ocs:C29008,
+        ocs:C3413,
+        ocs:C37709,
+        ocs:C3896,
+        ocs:C4,
+        ocs:C45647,
+        ocs:C5877,
+        ocs:C6639,
+        ocs:C6690,
+        ocs:C7849 .
+

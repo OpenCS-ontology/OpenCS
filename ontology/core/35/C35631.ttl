@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35631 a skos:Concept ;
+    skos:broader ocs:C16980 ;
+    skos:closeMatch <http://dbpedia.org/resource/MX_record> ;
+    skos:prefLabel "MX record" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C14983,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C34662,
+        ocs:C37824,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C40509,
+        ocs:C40832,
+        ocs:C40986,
+        ocs:C41056,
+        ocs:C41967,
+        ocs:C42100,
+        ocs:C42304,
+        ocs:C43392,
+        ocs:C8614,
+        ocs:C9683 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33373 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C15067,
+        ocs:C24640,
+        ocs:C28644 ;
+    skos:closeMatch <http://dbpedia.org/resource/Media_linguistics> ;
+    skos:prefLabel "Media linguistics" ;
+    skos:related ocs:C12110,
+        ocs:C1299,
+        ocs:C14477,
+        ocs:C20012,
+        ocs:C26019,
+        ocs:C2761,
+        ocs:C35271,
+        ocs:C38486,
+        ocs:C8187,
+        ocs:C9777 .
+

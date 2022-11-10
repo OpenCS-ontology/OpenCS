@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6694 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anscombe's_quartet> ;
+    skos:prefLabel "Anscombe's quartet" ;
+    skos:related ocs:C10138,
+        ocs:C11767,
+        ocs:C12206,
+        ocs:C12811,
+        ocs:C18625,
+        ocs:C23554,
+        ocs:C29843,
+        ocs:C3389,
+        ocs:C34115,
+        ocs:C383,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C662,
+        ocs:C7161,
+        ocs:C8398 .
+

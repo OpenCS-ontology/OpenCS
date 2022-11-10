@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8023 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Action_at_a_distance_(computer_programming)> ;
+    skos:prefLabel "Action at a distance (computer programming)" ;
+    skos:related ocs:C10219,
+        ocs:C10781,
+        ocs:C13606,
+        ocs:C32549,
+        ocs:C34057,
+        ocs:C39851,
+        ocs:C4229,
+        ocs:C43771,
+        ocs:C44841,
+        ocs:C6941,
+        ocs:C794,
+        ocs:C8616,
+        ocs:C9638 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24186 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amplitude_distortion> ;
+    skos:prefLabel "Amplitude distortion" ;
+    skos:related ocs:C1564,
+        ocs:C16335,
+        ocs:C17432,
+        ocs:C19401,
+        ocs:C20154,
+        ocs:C33950,
+        ocs:C3843,
+        ocs:C44610,
+        ocs:C4651,
+        ocs:C9371 .
+

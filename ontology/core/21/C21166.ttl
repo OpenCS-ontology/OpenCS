@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21166 a skos:Concept ;
+    skos:broader ocs:C1496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Message-oriented_middleware> ;
+    skos:prefLabel "Message-oriented middleware" ;
+    skos:related ocs:C10904,
+        ocs:C11084,
+        ocs:C13252,
+        ocs:C1496,
+        ocs:C15320,
+        ocs:C15478,
+        ocs:C17238,
+        ocs:C21549,
+        ocs:C21713,
+        ocs:C24252,
+        ocs:C26,
+        ocs:C26260,
+        ocs:C2674,
+        ocs:C27982,
+        ocs:C30,
+        ocs:C31667,
+        ocs:C32357,
+        ocs:C41310,
+        ocs:C5279,
+        ocs:C9049 .
+

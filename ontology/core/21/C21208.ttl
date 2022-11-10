@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21208 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpha_process> ;
+    skos:prefLabel "Alpha process" ;
+    skos:related ocs:C20206,
+        ocs:C22014,
+        ocs:C25034,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C29804,
+        ocs:C30752,
+        ocs:C30948,
+        ocs:C33891,
+        ocs:C37112,
+        ocs:C37677,
+        ocs:C39852,
+        ocs:C40619,
+        ocs:C44452 .
+

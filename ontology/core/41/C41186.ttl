@@ -1,0 +1,35 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41186 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31654,
+        ocs:C31777,
+        ocs:C31949,
+        ocs:C33459,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Null_cipher> ;
+    skos:prefLabel "Null cipher" ;
+    skos:related ocs:C1027,
+        ocs:C11704,
+        ocs:C14539,
+        ocs:C17091,
+        ocs:C17344,
+        ocs:C17856,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C29841,
+        ocs:C30538,
+        ocs:C31777,
+        ocs:C32109,
+        ocs:C32975,
+        ocs:C39180,
+        ocs:C39582,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C5575,
+        ocs:C9491 .
+

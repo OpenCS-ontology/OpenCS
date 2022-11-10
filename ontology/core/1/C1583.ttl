@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1583 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Altaic_languages> ;
+    skos:prefLabel "Altaic languages" ;
+    skos:related ocs:C10516,
+        ocs:C172,
+        ocs:C17789,
+        ocs:C19172,
+        ocs:C23243,
+        ocs:C2471,
+        ocs:C36131,
+        ocs:C6046 .
+

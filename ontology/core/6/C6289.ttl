@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6289 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Point_location> ;
+    skos:prefLabel "Point location" ;
+    skos:related ocs:C10,
+        ocs:C14255,
+        ocs:C15414,
+        ocs:C19178,
+        ocs:C27384,
+        ocs:C32254,
+        ocs:C34223,
+        ocs:C34301,
+        ocs:C35574,
+        ocs:C36077,
+        ocs:C38114,
+        ocs:C38214,
+        ocs:C41631,
+        ocs:C43751,
+        ocs:C44924,
+        ocs:C4867,
+        ocs:C6279,
+        ocs:C7000 .
+

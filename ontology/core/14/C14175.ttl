@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14175 a skos:Concept ;
+    skos:broader ocs:C11447 ;
+    skos:closeMatch <http://dbpedia.org/resource/White_hat_(computer_security)> ;
+    skos:prefLabel "White hat" ;
+    skos:related ocs:C11447,
+        ocs:C12240,
+        ocs:C13319,
+        ocs:C17873,
+        ocs:C19173,
+        ocs:C21322,
+        ocs:C35,
+        ocs:C36682,
+        ocs:C38304,
+        ocs:C38530,
+        ocs:C39307,
+        ocs:C40291,
+        ocs:C40900,
+        ocs:C41901,
+        ocs:C4513,
+        ocs:C8440,
+        ocs:C8458,
+        ocs:C8614 .
+

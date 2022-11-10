@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34032 a skos:Concept ;
+    skos:broader ocs:C18466,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_scheduling_method> ;
+    skos:prefLabel "Linear scheduling method" ;
+    skos:related ocs:C13143,
+        ocs:C20086,
+        ocs:C25147,
+        ocs:C30932,
+        ocs:C30947,
+        ocs:C5861,
+        ocs:C7407,
+        ocs:C9483 .
+

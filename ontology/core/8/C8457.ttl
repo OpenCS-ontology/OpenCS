@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8457 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_identifier> ;
+    skos:prefLabel "User identifier" ;
+    skos:related ocs:C10423,
+        ocs:C1165,
+        ocs:C12683,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C19000,
+        ocs:C19902,
+        ocs:C24871,
+        ocs:C26754,
+        ocs:C31489,
+        ocs:C34914,
+        ocs:C37964,
+        ocs:C42619,
+        ocs:C43104,
+        ocs:C45497,
+        ocs:C7476,
+        ocs:C8349,
+        ocs:C9,
+        ocs:C9938 .
+

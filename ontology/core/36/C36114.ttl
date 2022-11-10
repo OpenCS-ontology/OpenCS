@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36114 a skos:Concept ;
+    skos:broader ocs:C14410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sheltered_instruction> ;
+    skos:prefLabel "Sheltered instruction" ;
+    skos:related ocs:C18169,
+        ocs:C29973,
+        ocs:C35800,
+        ocs:C41308,
+        ocs:C43756,
+        ocs:C4924,
+        ocs:C7158 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5364 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C6 ;
+    skos:prefLabel "Agreement <document>" ;
+    skos:related ocs:C11389,
+        ocs:C20957,
+        ocs:C23,
+        ocs:C26,
+        ocs:C31,
+        ocs:C35,
+        ocs:C6,
+        ocs:C6754,
+        ocs:C7006,
+        ocs:C949,
+        ocs:C9993 .
+

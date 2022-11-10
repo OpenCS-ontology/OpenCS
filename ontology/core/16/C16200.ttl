@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16200 a skos:Concept ;
+    skos:broader ocs:C10390,
+        ocs:C10502,
+        ocs:C1134,
+        ocs:C1918,
+        ocs:C3837,
+        ocs:C931 ;
+    skos:prefLabel "Pareto local search" .
+

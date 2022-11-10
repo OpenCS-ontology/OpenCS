@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15792 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Welch's_t_test> ;
+    skos:prefLabel "Welch's t-test" .
+

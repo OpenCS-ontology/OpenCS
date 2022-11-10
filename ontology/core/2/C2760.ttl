@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2760 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Camponotus_anderseni> ;
+    skos:prefLabel "Camponotus anderseni" ;
+    skos:related ocs:C13054,
+        ocs:C15126,
+        ocs:C18049,
+        ocs:C20738,
+        ocs:C27510,
+        ocs:C34600,
+        ocs:C37210 .
+

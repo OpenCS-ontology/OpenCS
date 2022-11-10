@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25110 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C6913,
+        ocs:C9718 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_transmission_line> ;
+    skos:prefLabel "Artificial transmission line" ;
+    skos:related ocs:C1053,
+        ocs:C11554,
+        ocs:C36281,
+        ocs:C39709,
+        ocs:C43780,
+        ocs:C5506,
+        ocs:C6913 .
+

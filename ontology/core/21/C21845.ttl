@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21845 a skos:Concept ;
+    skos:broader ocs:C11670,
+        ocs:C5469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Illuminant_D65> ;
+    skos:prefLabel "Illuminant D65" ;
+    skos:related ocs:C11670,
+        ocs:C12484,
+        ocs:C17520,
+        ocs:C1935,
+        ocs:C20260,
+        ocs:C20871,
+        ocs:C22083,
+        ocs:C22748,
+        ocs:C23732,
+        ocs:C29534,
+        ocs:C38432,
+        ocs:C41646,
+        ocs:C4818,
+        ocs:C6420,
+        ocs:C8099,
+        ocs:C8622 .
+

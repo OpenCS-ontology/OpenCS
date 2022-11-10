@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35624 a skos:Concept ;
+    skos:broader ocs:C16744,
+        ocs:C19542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_geometry> ;
+    skos:prefLabel "Spectral geometry" ;
+    skos:related ocs:C23502,
+        ocs:C28787,
+        ocs:C34413,
+        ocs:C34423,
+        ocs:C40662 .
+

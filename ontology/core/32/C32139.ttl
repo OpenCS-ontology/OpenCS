@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32139 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotics_simulator> ;
+    skos:prefLabel "Robotics simulator" ;
+    skos:related ocs:C10396,
+        ocs:C11,
+        ocs:C11128,
+        ocs:C1386,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C16890,
+        ocs:C17236,
+        ocs:C24,
+        ocs:C28021,
+        ocs:C31036,
+        ocs:C33991,
+        ocs:C34991,
+        ocs:C35231,
+        ocs:C357,
+        ocs:C36715,
+        ocs:C40076,
+        ocs:C5296,
+        ocs:C5300 .
+

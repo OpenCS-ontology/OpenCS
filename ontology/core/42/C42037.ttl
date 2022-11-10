@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42037 a skos:Concept ;
+    skos:broader ocs:C31693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_Community_Process> ;
+    skos:prefLabel "Java Community Process" ;
+    skos:related ocs:C10720,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C12091,
+        ocs:C14627,
+        ocs:C21761,
+        ocs:C2303,
+        ocs:C24252,
+        ocs:C2674,
+        ocs:C28187,
+        ocs:C29215,
+        ocs:C29401,
+        ocs:C31693,
+        ocs:C41674,
+        ocs:C42633,
+        ocs:C43415,
+        ocs:C44346,
+        ocs:C9,
+        ocs:C9113 .
+

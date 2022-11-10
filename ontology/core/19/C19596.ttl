@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19596 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C6221 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyclic_subspace> ;
+    skos:prefLabel "Cyclic subspace" ;
+    skos:related ocs:C10534,
+        ocs:C24256,
+        ocs:C26792,
+        ocs:C28787,
+        ocs:C33700,
+        ocs:C41657,
+        ocs:C5332,
+        ocs:C6863 .
+

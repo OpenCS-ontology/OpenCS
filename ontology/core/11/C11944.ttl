@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11944 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-services> ;
+    skos:prefLabel "E-services" ;
+    skos:related ocs:C10070,
+        ocs:C10611,
+        ocs:C11645,
+        ocs:C15045,
+        ocs:C16235,
+        ocs:C19350,
+        ocs:C22701,
+        ocs:C25134,
+        ocs:C26014,
+        ocs:C29488,
+        ocs:C35838,
+        ocs:C4438,
+        ocs:C7297,
+        ocs:C8614 .
+

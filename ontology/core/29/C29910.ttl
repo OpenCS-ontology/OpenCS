@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29910 a skos:Concept ;
+    skos:broader ocs:C22542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_envelope> ;
+    skos:prefLabel "Common envelope" ;
+    skos:related ocs:C18085,
+        ocs:C19549,
+        ocs:C20110,
+        ocs:C22542,
+        ocs:C26348,
+        ocs:C29212,
+        ocs:C31488,
+        ocs:C31960,
+        ocs:C34893,
+        ocs:C37491,
+        ocs:C597 .
+

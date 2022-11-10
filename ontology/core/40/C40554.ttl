@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40554 a skos:Concept ;
+    skos:broader ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_security_audit> ;
+    skos:prefLabel "Information security audit" ;
+    skos:related ocs:C10064,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C17399,
+        ocs:C18084,
+        ocs:C25176,
+        ocs:C29803,
+        ocs:C30240,
+        ocs:C35,
+        ocs:C38304,
+        ocs:C39016,
+        ocs:C40409 .
+

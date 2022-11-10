@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19734 a skos:Concept ;
+    skos:broader ocs:C13769,
+        ocs:C3896,
+        ocs:C5554 ;
+    skos:closeMatch <http://dbpedia.org/resource/Component_content_management_system> ;
+    skos:prefLabel "Component content management system" ;
+    skos:related ocs:C10878,
+        ocs:C11927,
+        ocs:C16091,
+        ocs:C17557,
+        ocs:C28801,
+        ocs:C30246,
+        ocs:C31929,
+        ocs:C32481,
+        ocs:C32566,
+        ocs:C33040,
+        ocs:C33106,
+        ocs:C33709,
+        ocs:C35505,
+        ocs:C35567,
+        ocs:C35701,
+        ocs:C4035,
+        ocs:C42905,
+        ocs:C5554,
+        ocs:C8196 .
+

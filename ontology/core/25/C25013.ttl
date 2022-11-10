@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25013 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telephone_banking> ;
+    skos:prefLabel "Telephone banking" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C15464,
+        ocs:C15597,
+        ocs:C16179,
+        ocs:C16740,
+        ocs:C24659,
+        ocs:C27327,
+        ocs:C27523,
+        ocs:C30848,
+        ocs:C33193 .
+

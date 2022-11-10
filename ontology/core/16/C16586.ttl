@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16586 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyber-ethnography> ;
+    skos:prefLabel "Cyber-ethnography" ;
+    skos:related ocs:C11026,
+        ocs:C18683,
+        ocs:C19463,
+        ocs:C21011,
+        ocs:C26654,
+        ocs:C4712,
+        ocs:C6919,
+        ocs:C9939 .
+

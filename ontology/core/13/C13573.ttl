@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13573 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_projection> ;
+    skos:prefLabel "Information projection" ;
+    skos:related ocs:C10767,
+        ocs:C12737,
+        ocs:C16726,
+        ocs:C2119,
+        ocs:C21931,
+        ocs:C26690,
+        ocs:C28992,
+        ocs:C30657,
+        ocs:C31632,
+        ocs:C34661,
+        ocs:C35956,
+        ocs:C43061,
+        ocs:C44257,
+        ocs:C5816 .
+

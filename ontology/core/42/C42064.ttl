@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42064 a skos:Concept ;
+    skos:broader ocs:C35103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exponentially_equivalent_measures> ;
+    skos:prefLabel "Exponentially equivalent measures" ;
+    skos:related ocs:C10767,
+        ocs:C15256,
+        ocs:C20982,
+        ocs:C28270,
+        ocs:C36324 .
+

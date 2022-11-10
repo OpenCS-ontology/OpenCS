@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1939 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delphi_method> ;
+    skos:prefLabel "Delphi method" ;
+    skos:related ocs:C10519,
+        ocs:C12238,
+        ocs:C1492,
+        ocs:C18685,
+        ocs:C18801,
+        ocs:C23064,
+        ocs:C2751,
+        ocs:C5140,
+        ocs:C9428 .
+

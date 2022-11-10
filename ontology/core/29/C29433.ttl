@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29433 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C1444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low_bit> ;
+    skos:prefLabel "Low bit" ;
+    skos:related ocs:C12152,
+        ocs:C1568,
+        ocs:C19334,
+        ocs:C2113,
+        ocs:C24392,
+        ocs:C26268,
+        ocs:C26814,
+        ocs:C31114,
+        ocs:C36139,
+        ocs:C9266 .
+

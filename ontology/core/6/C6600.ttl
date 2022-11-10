@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6600 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Silicon_Photonics_Link> ;
+    skos:prefLabel "Silicon Photonics Link" ;
+    skos:related ocs:C11882,
+        ocs:C1311,
+        ocs:C30033,
+        ocs:C3070,
+        ocs:C38463,
+        ocs:C39121,
+        ocs:C39646,
+        ocs:C40232,
+        ocs:C40559,
+        ocs:C7074,
+        ocs:C7812,
+        ocs:C9897 .
+

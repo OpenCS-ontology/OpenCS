@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34628 a skos:Concept ;
+    skos:broader ocs:C14579,
+        ocs:C16538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relative_scalar> ;
+    skos:prefLabel "Relative scalar" ;
+    skos:related ocs:C11285 .
+

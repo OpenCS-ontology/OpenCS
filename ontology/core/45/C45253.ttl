@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45253 a skos:Concept ;
+    skos:broader ocs:C34794 ;
+    skos:closeMatch <http://dbpedia.org/resource/BKM_algorithm> ;
+    skos:prefLabel "BKM algorithm" ;
+    skos:related ocs:C12262,
+        ocs:C13541,
+        ocs:C20516,
+        ocs:C22525,
+        ocs:C3539,
+        ocs:C39809,
+        ocs:C42463,
+        ocs:C4703 .
+

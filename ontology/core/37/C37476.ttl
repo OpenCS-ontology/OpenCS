@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37476 a skos:Concept ;
+    skos:broader ocs:C20382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_bounded_measure> ;
+    skos:prefLabel "Resource bounded measure" ;
+    skos:related ocs:C20382,
+        ocs:C23023,
+        ocs:C2425,
+        ocs:C29677,
+        ocs:C31892,
+        ocs:C3678,
+        ocs:C38867,
+        ocs:C41116,
+        ocs:C42320,
+        ocs:C8660 .
+

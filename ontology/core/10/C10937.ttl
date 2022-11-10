@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10937 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/SEMMA> ;
+    skos:prefLabel "SEMMA" ;
+    skos:related ocs:C10382,
+        ocs:C10724,
+        ocs:C10870,
+        ocs:C11875,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C17576,
+        ocs:C18025,
+        ocs:C25520,
+        ocs:C26350,
+        ocs:C26825,
+        ocs:C34,
+        ocs:C34622,
+        ocs:C3485,
+        ocs:C37135,
+        ocs:C4437,
+        ocs:C45659,
+        ocs:C9874 .
+

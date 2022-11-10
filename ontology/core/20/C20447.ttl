@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20447 a skos:Concept ;
+    skos:broader ocs:C7340,
+        ocs:C8386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unified_Smart_Grid> ;
+    skos:prefLabel "Unified Smart Grid" ;
+    skos:related ocs:C8386,
+        ocs:C9718 .
+

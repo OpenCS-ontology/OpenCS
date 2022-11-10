@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31347 a skos:Concept ;
+    skos:broader ocs:C21048 ;
+    skos:closeMatch <http://dbpedia.org/resource/De_Bruijn–Newman_constant> ;
+    skos:prefLabel "De Bruijn–Newman constant" ;
+    skos:related ocs:C18034,
+        ocs:C6712 .
+

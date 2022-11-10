@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43905 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C32518,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C34684,
+        ocs:C34753,
+        ocs:C36233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encryption_software> ;
+    skos:prefLabel "Encryption software" ;
+    skos:related ocs:C12076,
+        ocs:C16125,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C26,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29841,
+        ocs:C31224,
+        ocs:C33857,
+        ocs:C34052,
+        ocs:C34537,
+        ocs:C35391,
+        ocs:C36136,
+        ocs:C4218,
+        ocs:C44933,
+        ocs:C5692,
+        ocs:C7226 .
+

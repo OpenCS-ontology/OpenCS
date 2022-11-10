@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20144 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nominal_sentence> ;
+    skos:prefLabel "Nominal sentence" ;
+    skos:related ocs:C11932,
+        ocs:C15012,
+        ocs:C18082,
+        ocs:C20004,
+        ocs:C20870,
+        ocs:C23692,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C29541,
+        ocs:C30776,
+        ocs:C33772,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C6764 .
+

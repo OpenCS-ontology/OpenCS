@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40327 a skos:Concept ;
+    skos:broader ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_Interface_for_Real_Time_Information> ;
+    skos:prefLabel "Service Interface for Real Time Information" ;
+    skos:related ocs:C11090,
+        ocs:C11927,
+        ocs:C19494,
+        ocs:C25798,
+        ocs:C33,
+        ocs:C34126,
+        ocs:C36500,
+        ocs:C44052,
+        ocs:C5917 .
+

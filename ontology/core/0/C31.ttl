@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/World_Wide_Web> ;
+    skos:prefLabel "World Wide Web" ;
+    skos:related ocs:C11927,
+        ocs:C1253,
+        ocs:C12810,
+        ocs:C1498,
+        ocs:C16980,
+        ocs:C17235,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C2464,
+        ocs:C26,
+        ocs:C26337,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C40049,
+        ocs:C4918,
+        ocs:C6,
+        ocs:C8614,
+        ocs:C9 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2762 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flipped_classroom> ;
+    skos:prefLabel "Flipped classroom" ;
+    skos:related ocs:C10518,
+        ocs:C10559,
+        ocs:C11050,
+        ocs:C13047,
+        ocs:C15193,
+        ocs:C17812,
+        ocs:C25892,
+        ocs:C26813,
+        ocs:C3444,
+        ocs:C34751,
+        ocs:C3521,
+        ocs:C4174,
+        ocs:C4642,
+        ocs:C934 .
+

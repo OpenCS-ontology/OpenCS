@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7465 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Program_analysis> ;
+    skos:prefLabel "Program analysis" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1137,
+        ocs:C12098,
+        ocs:C17737,
+        ocs:C19,
+        ocs:C21627,
+        ocs:C22987,
+        ocs:C28073,
+        ocs:C28950,
+        ocs:C38436,
+        ocs:C4321,
+        ocs:C44231,
+        ocs:C45212,
+        ocs:C5041,
+        ocs:C7126,
+        ocs:C7733,
+        ocs:C7903 .
+

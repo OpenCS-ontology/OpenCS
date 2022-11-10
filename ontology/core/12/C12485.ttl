@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12485 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyclic_redundancy_check> ;
+    skos:prefLabel "Cyclic redundancy check" ;
+    skos:related ocs:C10696,
+        ocs:C15591,
+        ocs:C17903,
+        ocs:C19749,
+        ocs:C21929,
+        ocs:C23875,
+        ocs:C26,
+        ocs:C30001,
+        ocs:C30342,
+        ocs:C33935,
+        ocs:C34133,
+        ocs:C3936,
+        ocs:C40267,
+        ocs:C44441,
+        ocs:C490,
+        ocs:C9162,
+        ocs:C9931 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42853 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Border_Gateway_Protocol> ;
+    skos:prefLabel "Border Gateway Protocol" ;
+    skos:related ocs:C10563,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C21894,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C34235,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C39681,
+        ocs:C41572,
+        ocs:C43015,
+        ocs:C44582,
+        ocs:C44972,
+        ocs:C45517,
+        ocs:C45818,
+        ocs:C849,
+        ocs:C8614 .
+

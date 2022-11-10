@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30806 a skos:Concept ;
+    skos:broader ocs:C24724,
+        ocs:C25140,
+        ocs:C25630,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/AB_Doradus_moving_group> ;
+    skos:prefLabel "AB Doradus moving group" ;
+    skos:related ocs:C10556,
+        ocs:C15251,
+        ocs:C18085,
+        ocs:C20309,
+        ocs:C21607,
+        ocs:C23210,
+        ocs:C25140,
+        ocs:C25918,
+        ocs:C25976,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C32417,
+        ocs:C37041,
+        ocs:C597 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18266 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_information_system> ;
+    skos:prefLabel "Global information system" ;
+    skos:related ocs:C1,
+        ocs:C12,
+        ocs:C1590,
+        ocs:C197,
+        ocs:C22247,
+        ocs:C2529,
+        ocs:C25464,
+        ocs:C28080,
+        ocs:C2979,
+        ocs:C30,
+        ocs:C3395,
+        ocs:C37505,
+        ocs:C6944 .
+

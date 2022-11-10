@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40242 a skos:Concept ;
+    skos:broader ocs:C33033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pugh's_closing_lemma> ;
+    skos:prefLabel "Pugh's closing lemma" ;
+    skos:related ocs:C14592,
+        ocs:C16955,
+        ocs:C33560,
+        ocs:C37723 .
+

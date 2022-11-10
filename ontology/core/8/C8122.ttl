@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8122 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rebracketing> ;
+    skos:prefLabel "Rebracketing" ;
+    skos:related ocs:C13757,
+        ocs:C2114,
+        ocs:C26304,
+        ocs:C2761,
+        ocs:C2847,
+        ocs:C3356,
+        ocs:C5628,
+        ocs:C8283 .
+

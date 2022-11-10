@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27779 a skos:Concept ;
+    skos:broader ocs:C10135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aquatic_insect> ;
+    skos:prefLabel "Aquatic insect" ;
+    skos:related ocs:C17470 .
+

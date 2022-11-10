@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11813 a skos:Concept ;
+    skos:broader ocs:C23 ;
+    skos:closeMatch <http://dbpedia.org/resource/Item_bank> ;
+    skos:prefLabel "Item bank" ;
+    skos:related ocs:C3444,
+        ocs:C5775 .
+

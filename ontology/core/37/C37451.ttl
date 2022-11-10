@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37451 a skos:Concept ;
+    skos:broader ocs:C25713 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_Group_Problem_Solving_(GGPS)_Model> ;
+    skos:prefLabel "General Group Problem Solving (GGPS) Model" ;
+    skos:related ocs:C26225,
+        ocs:C4447,
+        ocs:C5092,
+        ocs:C609,
+        ocs:C6656,
+        ocs:C7163,
+        ocs:C7879,
+        ocs:C912 .
+

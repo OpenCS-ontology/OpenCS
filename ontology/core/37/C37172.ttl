@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37172 a skos:Concept ;
+    skos:broader ocs:C15419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete-time_stochastic_process> ;
+    skos:prefLabel "Discrete-time stochastic process" ;
+    skos:related ocs:C13607,
+        ocs:C14424,
+        ocs:C15419,
+        ocs:C18102,
+        ocs:C23563,
+        ocs:C260,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689,
+        ocs:C836,
+        ocs:C9428 .
+

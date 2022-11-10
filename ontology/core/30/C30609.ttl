@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30609 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantum_graph> ;
+    skos:prefLabel "Quantum graph" ;
+    skos:related ocs:C15460,
+        ocs:C22896,
+        ocs:C24641,
+        ocs:C27903,
+        ocs:C28787,
+        ocs:C34565,
+        ocs:C35572,
+        ocs:C40195 .
+

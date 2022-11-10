@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7468 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structural_similarity> ;
+    skos:prefLabel "Structural similarity" ;
+    skos:related ocs:C10321,
+        ocs:C11747,
+        ocs:C1564,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C22707,
+        ocs:C29174,
+        ocs:C2937,
+        ocs:C30004,
+        ocs:C31451,
+        ocs:C34585,
+        ocs:C4095,
+        ocs:C45148,
+        ocs:C45662,
+        ocs:C6116,
+        ocs:C9095 .
+

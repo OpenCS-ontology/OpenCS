@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45459 a skos:Concept ;
+    skos:broader ocs:C34065 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delta-v_budget> ;
+    skos:prefLabel "Delta-v budget" ;
+    skos:related ocs:C15452,
+        ocs:C19614,
+        ocs:C2252,
+        ocs:C27429,
+        ocs:C28072,
+        ocs:C34065,
+        ocs:C34426,
+        ocs:C38278,
+        ocs:C41911,
+        ocs:C5293 .
+

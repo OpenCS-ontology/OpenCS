@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11099 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_you> ;
+    skos:prefLabel "Generic you" ;
+    skos:related ocs:C10760,
+        ocs:C12270,
+        ocs:C15644,
+        ocs:C19623,
+        ocs:C22250,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C32159,
+        ocs:C32280,
+        ocs:C4025,
+        ocs:C44227,
+        ocs:C6545 .
+

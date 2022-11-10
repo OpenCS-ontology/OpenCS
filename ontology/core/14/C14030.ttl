@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14030 a skos:Concept ;
+    skos:broader ocs:C10222,
+        ocs:C2250 ;
+    skos:closeMatch <http://dbpedia.org/resource/Likelihood_function> ;
+    skos:prefLabel "Likelihood function" ;
+    skos:related ocs:C10222,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C22075,
+        ocs:C6291,
+        ocs:C6395,
+        ocs:C7908,
+        ocs:C9326 .
+

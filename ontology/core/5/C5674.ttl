@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5674 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hotspot_gateway> ;
+    skos:prefLabel "Hotspot gateway" ;
+    skos:related ocs:C1949,
+        ocs:C20237,
+        ocs:C20313,
+        ocs:C22114,
+        ocs:C26,
+        ocs:C27315,
+        ocs:C29803,
+        ocs:C3086,
+        ocs:C34194,
+        ocs:C35370,
+        ocs:C37731,
+        ocs:C41498,
+        ocs:C44603,
+        ocs:C4513,
+        ocs:C45575,
+        ocs:C4663,
+        ocs:C5418,
+        ocs:C8028 .
+

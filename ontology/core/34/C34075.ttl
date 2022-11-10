@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34075 a skos:Concept ;
+    skos:broader ocs:C21150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statary> ;
+    skos:prefLabel "Statary" ;
+    skos:related ocs:C21150,
+        ocs:C24345,
+        ocs:C34483,
+        ocs:C38192,
+        ocs:C7513 .
+

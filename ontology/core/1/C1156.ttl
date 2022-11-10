@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1156 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/W%5EX> ;
+    skos:prefLabel "W^X" ;
+    skos:related ocs:C10214,
+        ocs:C10320,
+        ocs:C10994,
+        ocs:C12605,
+        ocs:C12683,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C2545,
+        ocs:C28515,
+        ocs:C2939,
+        ocs:C31489,
+        ocs:C35465,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C40322,
+        ocs:C41159,
+        ocs:C41696,
+        ocs:C9 .
+

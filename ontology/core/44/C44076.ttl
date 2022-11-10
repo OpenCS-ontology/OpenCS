@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44076 a skos:Concept ;
+    skos:broader ocs:C30238,
+        ocs:C31627,
+        ocs:C32133,
+        ocs:C34619 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_average> ;
+    skos:prefLabel "Bayesian average" ;
+    skos:related ocs:C10101,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C24476,
+        ocs:C27786,
+        ocs:C30445,
+        ocs:C34619,
+        ocs:C34894,
+        ocs:C38931,
+        ocs:C45643,
+        ocs:C6021,
+        ocs:C6291,
+        ocs:C6692 .
+

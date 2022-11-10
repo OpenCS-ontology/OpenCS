@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7942 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Store guide" ;
+    skos:related ocs:C12431,
+        ocs:C2,
+        ocs:C31 .
+

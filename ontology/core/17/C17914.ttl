@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17914 a skos:Concept ;
+    skos:broader ocs:C123,
+        ocs:C257,
+        ocs:C658,
+        ocs:C746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kernel_adaptive_filter> ;
+    skos:prefLabel "Kernel adaptive filter" ;
+    skos:related ocs:C123,
+        ocs:C17791,
+        ocs:C25040,
+        ocs:C25518,
+        ocs:C257,
+        ocs:C27320,
+        ocs:C31630,
+        ocs:C34091,
+        ocs:C34750,
+        ocs:C41275,
+        ocs:C42625,
+        ocs:C5042,
+        ocs:C6110,
+        ocs:C746 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8289 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simultaneous_editing> ;
+    skos:prefLabel "Simultaneous editing" ;
+    skos:related ocs:C10094,
+        ocs:C10725,
+        ocs:C14271,
+        ocs:C14557,
+        ocs:C15131,
+        ocs:C1694,
+        ocs:C18,
+        ocs:C20840,
+        ocs:C21007,
+        ocs:C24143,
+        ocs:C24181,
+        ocs:C26634,
+        ocs:C280,
+        ocs:C30078,
+        ocs:C3398,
+        ocs:C34966,
+        ocs:C4230,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C7736 .
+

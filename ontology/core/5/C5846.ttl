@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5846 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balance_(ability)> ;
+    skos:prefLabel "Balance ability" ;
+    skos:related ocs:C10891,
+        ocs:C13320,
+        ocs:C1647,
+        ocs:C26017,
+        ocs:C6718 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14364 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_network> ;
+    skos:prefLabel "Personal network" ;
+    skos:related ocs:C11026,
+        ocs:C18683,
+        ocs:C20170,
+        ocs:C21011,
+        ocs:C22956,
+        ocs:C24134,
+        ocs:C25192,
+        ocs:C34391,
+        ocs:C4652,
+        ocs:C5140 .
+

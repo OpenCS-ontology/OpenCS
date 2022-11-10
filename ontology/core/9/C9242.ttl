@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9242 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inertial_measurement_unit> ;
+    skos:prefLabel "Inertial measurement unit" ;
+    skos:related ocs:C12641,
+        ocs:C14324,
+        ocs:C16352,
+        ocs:C21715,
+        ocs:C2256,
+        ocs:C27698,
+        ocs:C33861,
+        ocs:C35497,
+        ocs:C5293,
+        ocs:C7850,
+        ocs:C9431 .
+

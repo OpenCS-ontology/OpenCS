@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30450 a skos:Concept ;
+    skos:broader ocs:C17945,
+        ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wide_Field_Camera_3> ;
+    skos:prefLabel "Wide Field Camera 3" ;
+    skos:related ocs:C17174,
+        ocs:C29571,
+        ocs:C30252,
+        ocs:C30679,
+        ocs:C33140,
+        ocs:C33158,
+        ocs:C33820,
+        ocs:C35164,
+        ocs:C36389,
+        ocs:C40958,
+        ocs:C41385,
+        ocs:C44200,
+        ocs:C44556,
+        ocs:C597,
+        ocs:C7789 .
+

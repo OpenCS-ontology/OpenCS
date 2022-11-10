@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22847 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C11886 ;
+    skos:closeMatch <http://dbpedia.org/resource/WS-ReliableMessaging> ;
+    skos:prefLabel "WS-ReliableMessaging" ;
+    skos:related ocs:C10904,
+        ocs:C11259,
+        ocs:C11927,
+        ocs:C12617,
+        ocs:C13252,
+        ocs:C14497,
+        ocs:C17238,
+        ocs:C26828,
+        ocs:C28941,
+        ocs:C38075,
+        ocs:C38888,
+        ocs:C39108,
+        ocs:C39643,
+        ocs:C43607,
+        ocs:C43812,
+        ocs:C44609,
+        ocs:C45846,
+        ocs:C6442,
+        ocs:C8347,
+        ocs:C8795 .
+

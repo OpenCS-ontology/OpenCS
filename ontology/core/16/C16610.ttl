@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16610 a skos:Concept ;
+    skos:broader ocs:C13677,
+        ocs:C13787,
+        ocs:C2801,
+        ocs:C9312 ;
+    skos:closeMatch <http://dbpedia.org/resource/Canberra_distance> ;
+    skos:prefLabel "Canberra distance" ;
+    skos:related ocs:C13787,
+        ocs:C33700,
+        ocs:C5332 .
+

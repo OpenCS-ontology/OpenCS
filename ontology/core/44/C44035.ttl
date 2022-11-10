@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44035 a skos:Concept ;
+    skos:broader ocs:C32550 ;
+    skos:closeMatch <http://dbpedia.org/resource/Defense_Satellite_Communications_System> ;
+    skos:prefLabel "Defense Satellite Communications System" ;
+    skos:related ocs:C12641,
+        ocs:C15955,
+        ocs:C1628,
+        ocs:C20391,
+        ocs:C22555,
+        ocs:C32550,
+        ocs:C34143,
+        ocs:C40298,
+        ocs:C45299,
+        ocs:C8388 .
+

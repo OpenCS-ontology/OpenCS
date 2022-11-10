@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7214 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_algorithm> ;
+    skos:prefLabel "Deterministic algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11885,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C25,
+        ocs:C32771,
+        ocs:C3678,
+        ocs:C5072,
+        ocs:C611,
+        ocs:C6537,
+        ocs:C6941,
+        ocs:C6953,
+        ocs:C8660,
+        ocs:C9252 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11490 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_Patterns> ;
+    skos:prefLabel "Security pattern" ;
+    skos:related ocs:C1399,
+        ocs:C15729,
+        ocs:C15846,
+        ocs:C16530,
+        ocs:C20404,
+        ocs:C39016,
+        ocs:C41901,
+        ocs:C44634 .
+

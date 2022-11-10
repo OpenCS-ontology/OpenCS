@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6086 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MessagEase> ;
+    skos:prefLabel "MessagEase" ;
+    skos:related ocs:C10,
+        ocs:C10368,
+        ocs:C13167,
+        ocs:C13822,
+        ocs:C16,
+        ocs:C1975,
+        ocs:C20986,
+        ocs:C24143,
+        ocs:C24825,
+        ocs:C25565,
+        ocs:C26343,
+        ocs:C27099,
+        ocs:C2884,
+        ocs:C28881,
+        ocs:C5138,
+        ocs:C6189,
+        ocs:C6282,
+        ocs:C7131,
+        ocs:C7736,
+        ocs:C9 .
+

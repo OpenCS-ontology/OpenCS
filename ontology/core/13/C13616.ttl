@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13616 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_engineering> ;
+    skos:prefLabel "Performance engineering" ;
+    skos:related ocs:C1253,
+        ocs:C197,
+        ocs:C2057,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C28,
+        ocs:C32402,
+        ocs:C3569,
+        ocs:C37174,
+        ocs:C44389,
+        ocs:C44902,
+        ocs:C44988,
+        ocs:C5041,
+        ocs:C7345,
+        ocs:C924,
+        ocs:C9700 .
+

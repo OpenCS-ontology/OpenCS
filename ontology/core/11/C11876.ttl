@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11876 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_dabble> ;
+    skos:prefLabel "Double dabble" ;
+    skos:related ocs:C11709,
+        ocs:C16377,
+        ocs:C20516,
+        ocs:C2317,
+        ocs:C26455,
+        ocs:C26618,
+        ocs:C27882,
+        ocs:C40069,
+        ocs:C43223,
+        ocs:C5037,
+        ocs:C5290,
+        ocs:C794,
+        ocs:C8660 .
+

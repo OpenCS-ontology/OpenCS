@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23830 a skos:Concept ;
+    skos:broader ocs:C10224 ;
+    skos:prefLabel "Numbering unit" ;
+    skos:related ocs:C1,
+        ocs:C10510,
+        ocs:C2,
+        ocs:C24311,
+        ocs:C3231,
+        ocs:C428,
+        ocs:C6 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31541 a skos:Concept ;
+    skos:broader ocs:C20937 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spoofed_URL> ;
+    skos:prefLabel "Spoofed URL" ;
+    skos:related ocs:C1061,
+        ocs:C16338,
+        ocs:C17126,
+        ocs:C18100,
+        ocs:C18985,
+        ocs:C19156,
+        ocs:C20937,
+        ocs:C25757,
+        ocs:C26,
+        ocs:C26337,
+        ocs:C27557,
+        ocs:C29803,
+        ocs:C30926,
+        ocs:C31,
+        ocs:C32229,
+        ocs:C39074,
+        ocs:C44968,
+        ocs:C8614 .
+

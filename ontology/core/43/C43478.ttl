@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43478 a skos:Concept ;
+    skos:broader ocs:C30630,
+        ocs:C31783,
+        ocs:C31982 ;
+    skos:closeMatch <http://dbpedia.org/resource/Egress_filtering> ;
+    skos:prefLabel "Egress filtering" ;
+    skos:related ocs:C14134,
+        ocs:C14810,
+        ocs:C1595,
+        ocs:C17205,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C25292,
+        ocs:C25757,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C29803,
+        ocs:C34194,
+        ocs:C41338,
+        ocs:C44968,
+        ocs:C5207,
+        ocs:C8614 .
+

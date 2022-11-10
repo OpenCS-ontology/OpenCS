@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3357 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/1-Wire> ;
+    skos:prefLabel "1-Wire" ;
+    skos:related ocs:C13386,
+        ocs:C15858,
+        ocs:C17404,
+        ocs:C22530,
+        ocs:C27554,
+        ocs:C41110,
+        ocs:C479,
+        ocs:C9717 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22436 a skos:Concept ;
+    skos:broader ocs:C6420,
+        ocs:C6444 ;
+    skos:prefLabel "Color contrast sensitivity" ;
+    skos:related ocs:C1,
+        ocs:C11768,
+        ocs:C19364,
+        ocs:C22,
+        ocs:C5469,
+        ocs:C6444,
+        ocs:C7 .
+

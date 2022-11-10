@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34472 a skos:Concept ;
+    skos:broader ocs:C15258 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ancillary_statistic> ;
+    skos:prefLabel "Ancillary statistic" ;
+    skos:related ocs:C10222,
+        ocs:C14030,
+        ocs:C30859,
+        ocs:C662 .
+

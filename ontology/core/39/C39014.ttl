@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39014 a skos:Concept ;
+    skos:broader ocs:C34746,
+        ocs:C35392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scaled_inverse_chi-squared_distribution> ;
+    skos:prefLabel "Scaled inverse chi-squared distribution" ;
+    skos:related ocs:C14030,
+        ocs:C14622,
+        ocs:C16163,
+        ocs:C21356,
+        ocs:C22075,
+        ocs:C31627,
+        ocs:C38623,
+        ocs:C40060,
+        ocs:C45117,
+        ocs:C45643 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23043 a skos:Concept ;
+    skos:broader ocs:C2801,
+        ocs:C5320 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_History_Images> ;
+    skos:prefLabel "Motion History Images" ;
+    skos:related ocs:C10914,
+        ocs:C11937,
+        ocs:C12786,
+        ocs:C12805,
+        ocs:C14657,
+        ocs:C23063,
+        ocs:C34002,
+        ocs:C34121,
+        ocs:C36541,
+        ocs:C37267,
+        ocs:C38887,
+        ocs:C40655,
+        ocs:C45180,
+        ocs:C7348,
+        ocs:C8996 .
+

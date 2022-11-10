@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6229 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continued_fraction_factorization> ;
+    skos:prefLabel "Continued fraction factorization" ;
+    skos:related ocs:C3144,
+        ocs:C37205,
+        ocs:C40515,
+        ocs:C44312,
+        ocs:C4466,
+        ocs:C6475 .
+

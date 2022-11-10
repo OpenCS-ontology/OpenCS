@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39452 a skos:Concept ;
+    skos:broader ocs:C30001,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lee_distance> ;
+    skos:prefLabel "Lee distance" ;
+    skos:related ocs:C18626,
+        ocs:C21929,
+        ocs:C22275,
+        ocs:C27316,
+        ocs:C2930,
+        ocs:C29577,
+        ocs:C3189,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C37998,
+        ocs:C41869,
+        ocs:C43048,
+        ocs:C43079,
+        ocs:C44265,
+        ocs:C44415,
+        ocs:C5037,
+        ocs:C5196,
+        ocs:C6402 .
+

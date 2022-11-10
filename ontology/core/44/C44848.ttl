@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44848 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Routing_domain> ;
+    skos:prefLabel "Routing domain" ;
+    skos:related ocs:C10563,
+        ocs:C1595,
+        ocs:C20540,
+        ocs:C22819,
+        ocs:C26066,
+        ocs:C34221,
+        ocs:C35362,
+        ocs:C36109,
+        ocs:C38451,
+        ocs:C38462,
+        ocs:C38632,
+        ocs:C39742,
+        ocs:C41572,
+        ocs:C4197,
+        ocs:C43370,
+        ocs:C43513,
+        ocs:C8142,
+        ocs:C849,
+        ocs:C8517,
+        ocs:C8614 .
+

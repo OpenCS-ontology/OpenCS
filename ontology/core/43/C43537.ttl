@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43537 a skos:Concept ;
+    skos:broader ocs:C29902,
+        ocs:C30269,
+        ocs:C30602 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proofs_of_convergence_of_random_variables> ;
+    skos:prefLabel "Proofs of convergence of random variables" ;
+    skos:related ocs:C15256,
+        ocs:C18102,
+        ocs:C26013,
+        ocs:C33312,
+        ocs:C36379,
+        ocs:C42149,
+        ocs:C45547 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24836 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intelligent_street_lighting> ;
+    skos:prefLabel "Intelligent street lighting" ;
+    skos:related ocs:C15834,
+        ocs:C44928 .
+

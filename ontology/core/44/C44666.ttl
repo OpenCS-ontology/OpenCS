@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44666 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_product> ;
+    skos:prefLabel "Graph product" ;
+    skos:related ocs:C14151,
+        ocs:C14693,
+        ocs:C16033,
+        ocs:C19336,
+        ocs:C20376,
+        ocs:C31884,
+        ocs:C34565,
+        ocs:C35179,
+        ocs:C37036,
+        ocs:C41585,
+        ocs:C41628,
+        ocs:C42082,
+        ocs:C44157,
+        ocs:C45676 .
+

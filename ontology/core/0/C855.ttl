@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C855 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Emoticon> ;
+    skos:prefLabel "Emoticon" ;
+    skos:related ocs:C12095,
+        ocs:C12983,
+        ocs:C16205,
+        ocs:C17794,
+        ocs:C18456,
+        ocs:C19754,
+        ocs:C20100,
+        ocs:C24871,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C5126,
+        ocs:C6189,
+        ocs:C6732,
+        ocs:C7064,
+        ocs:C7131,
+        ocs:C8125,
+        ocs:C8614,
+        ocs:C9162 .
+

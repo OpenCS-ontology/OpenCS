@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32332 a skos:Concept ;
+    skos:broader ocs:C19230,
+        ocs:C26916,
+        ocs:C28069,
+        ocs:C28537 ;
+    skos:prefLabel "Nonlinear phase noise" .
+

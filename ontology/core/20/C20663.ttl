@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20663 a skos:Concept ;
+    skos:broader ocs:C11386 ;
+    skos:closeMatch <http://dbpedia.org/resource/NIST-F1> ;
+    skos:prefLabel "NIST-F1" ;
+    skos:related ocs:C18988,
+        ocs:C19672,
+        ocs:C22220,
+        ocs:C24213,
+        ocs:C32284,
+        ocs:C7648 .
+

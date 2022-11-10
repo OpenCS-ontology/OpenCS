@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24123 a skos:Concept ;
+    skos:broader ocs:C5672 ;
+    skos:closeMatch <http://dbpedia.org/resource/MMS_Architecture> ;
+    skos:prefLabel "MMS Architecture" ;
+    skos:related ocs:C13252,
+        ocs:C1464,
+        ocs:C21976,
+        ocs:C26262,
+        ocs:C27704,
+        ocs:C29873,
+        ocs:C31755,
+        ocs:C33285,
+        ocs:C36500,
+        ocs:C39289,
+        ocs:C44125,
+        ocs:C44416,
+        ocs:C44506,
+        ocs:C44880,
+        ocs:C45602,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6240,
+        ocs:C6987,
+        ocs:C9154 .
+

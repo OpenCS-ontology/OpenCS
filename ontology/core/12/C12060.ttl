@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12060 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apple_Filing_Protocol> ;
+    skos:prefLabel "Apple Filing Protocol" ;
+    skos:related ocs:C16980,
+        ocs:C18862,
+        ocs:C20205,
+        ocs:C21545,
+        ocs:C24323,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C29359,
+        ocs:C29846,
+        ocs:C30431,
+        ocs:C31489,
+        ocs:C38032,
+        ocs:C38824,
+        ocs:C39186,
+        ocs:C41604,
+        ocs:C42612,
+        ocs:C45269,
+        ocs:C7476,
+        ocs:C9 .
+

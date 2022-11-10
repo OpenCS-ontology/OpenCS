@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9753 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6 ;
+    skos:prefLabel "Report Source" ;
+    skos:related ocs:C20957,
+        ocs:C23,
+        ocs:C26,
+        ocs:C31,
+        ocs:C35,
+        ocs:C3799,
+        ocs:C6,
+        ocs:C8790 .
+

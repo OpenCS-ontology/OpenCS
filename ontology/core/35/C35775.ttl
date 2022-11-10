@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35775 a skos:Concept ;
+    skos:broader ocs:C23565,
+        ocs:C28521 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_theory_in_risk_assessment> ;
+    skos:prefLabel "Network theory in risk assessment" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C16764,
+        ocs:C19399,
+        ocs:C20170,
+        ocs:C24,
+        ocs:C25,
+        ocs:C28745,
+        ocs:C4652,
+        ocs:C5496,
+        ocs:C7460 .
+

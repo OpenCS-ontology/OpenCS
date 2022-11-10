@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24699 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ceramic_matrix_composite> ;
+    skos:prefLabel "Ceramic matrix composite" ;
+    skos:related ocs:C22741,
+        ocs:C23870,
+        ocs:C29965 .
+

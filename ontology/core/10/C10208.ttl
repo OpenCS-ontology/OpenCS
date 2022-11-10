@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10208 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/T2FD_antenna> ;
+    skos:prefLabel "T2FD antenna" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C36281,
+        ocs:C38796,
+        ocs:C39709,
+        ocs:C40585,
+        ocs:C4205,
+        ocs:C44141,
+        ocs:C44485,
+        ocs:C45043,
+        ocs:C7909,
+        ocs:C9691 .
+

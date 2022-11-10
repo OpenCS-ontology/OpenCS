@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35075 a skos:Concept ;
+    skos:broader ocs:C15728 ;
+    skos:closeMatch <http://dbpedia.org/resource/Body_area_network> ;
+    skos:prefLabel "Body area network" ;
+    skos:related ocs:C11,
+        ocs:C12698,
+        ocs:C13593,
+        ocs:C15728,
+        ocs:C17536,
+        ocs:C17976,
+        ocs:C19161,
+        ocs:C20483,
+        ocs:C21424,
+        ocs:C29046,
+        ocs:C29052,
+        ocs:C29740,
+        ocs:C3034,
+        ocs:C31489,
+        ocs:C8172,
+        ocs:C9601 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37730 a skos:Concept ;
+    skos:broader ocs:C22456 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frege's_Puzzle> ;
+    skos:prefLabel "Frege's Puzzle" ;
+    skos:related ocs:C15015,
+        ocs:C16079,
+        ocs:C16238,
+        ocs:C19192,
+        ocs:C21127,
+        ocs:C22456,
+        ocs:C26109,
+        ocs:C26476,
+        ocs:C29358,
+        ocs:C34578,
+        ocs:C7467 .
+

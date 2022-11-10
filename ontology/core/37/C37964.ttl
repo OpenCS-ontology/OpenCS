@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37964 a skos:Concept ;
+    skos:broader ocs:C33138,
+        ocs:C35926 ;
+    skos:closeMatch <http://dbpedia.org/resource/Procfs> ;
+    skos:prefLabel "procfs" ;
+    skos:related ocs:C10423,
+        ocs:C12683,
+        ocs:C14271,
+        ocs:C15860,
+        ocs:C20800,
+        ocs:C22569,
+        ocs:C26754,
+        ocs:C27120,
+        ocs:C27721,
+        ocs:C31489,
+        ocs:C33138,
+        ocs:C35926,
+        ocs:C42619,
+        ocs:C43822,
+        ocs:C44098,
+        ocs:C44627,
+        ocs:C7476,
+        ocs:C8349,
+        ocs:C9 .
+

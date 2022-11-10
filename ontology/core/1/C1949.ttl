@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1949 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/EZproxy> ;
+    skos:prefLabel "EZproxy" ;
+    skos:related ocs:C11446,
+        ocs:C1155,
+        ocs:C12812,
+        ocs:C15373,
+        ocs:C19624,
+        ocs:C24727,
+        ocs:C27315,
+        ocs:C32229,
+        ocs:C36411,
+        ocs:C44968,
+        ocs:C4663,
+        ocs:C5418,
+        ocs:C5674,
+        ocs:C5877,
+        ocs:C8614,
+        ocs:C9218 .
+

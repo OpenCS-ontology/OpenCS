@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30766 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C15067,
+        ocs:C24640,
+        ocs:C28644 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sociocultural_linguistics> ;
+    skos:prefLabel "Sociocultural linguistics" ;
+    skos:related ocs:C1451,
+        ocs:C31692,
+        ocs:C38793 .
+

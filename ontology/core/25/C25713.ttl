@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25713 a skos:Concept ;
+    skos:broader ocs:C11088,
+        ocs:C12977,
+        ocs:C1722,
+        ocs:C3058,
+        ocs:C8473,
+        ocs:C852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_reasoning> ;
+    skos:prefLabel "Adaptive reasoning" ;
+    skos:related ocs:C26225,
+        ocs:C33142,
+        ocs:C4447,
+        ocs:C5906,
+        ocs:C7163,
+        ocs:C7404,
+        ocs:C8473 .
+

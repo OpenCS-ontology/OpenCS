@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25866 a skos:Concept ;
+    skos:broader ocs:C4512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_domain_electromagnetics> ;
+    skos:prefLabel "Time domain electromagnetics" ;
+    skos:related ocs:C11150,
+        ocs:C32517,
+        ocs:C37919 .
+

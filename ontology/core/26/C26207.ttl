@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26207 a skos:Concept ;
+    skos:broader ocs:C7165 ;
+    skos:closeMatch <http://dbpedia.org/resource/PSoC> ;
+    skos:prefLabel "PSoC" ;
+    skos:related ocs:C11,
+        ocs:C12690,
+        ocs:C13689,
+        ocs:C13747,
+        ocs:C26090,
+        ocs:C26155,
+        ocs:C3160,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C7165 .
+

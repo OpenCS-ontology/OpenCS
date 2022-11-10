@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11965 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:prefLabel "Interactive Tutorial" ;
+    skos:related ocs:C1145,
+        ocs:C12810,
+        ocs:C20,
+        ocs:C20042,
+        ocs:C22,
+        ocs:C25,
+        ocs:C29,
+        ocs:C3119,
+        ocs:C34,
+        ocs:C8614 .
+

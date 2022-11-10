@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1703 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Samples_per_inch> ;
+    skos:prefLabel "Samples per inch" ;
+    skos:related ocs:C10047,
+        ocs:C12755,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C14411,
+        ocs:C15658,
+        ocs:C16368,
+        ocs:C17520,
+        ocs:C25755,
+        ocs:C28806,
+        ocs:C39,
+        ocs:C5450,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C8021 .
+

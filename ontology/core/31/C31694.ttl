@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31694 a skos:Concept ;
+    skos:broader ocs:C28013 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dixon's_Q_test> ;
+    skos:prefLabel "Dixon's Q test" ;
+    skos:related ocs:C11425,
+        ocs:C17650,
+        ocs:C25355,
+        ocs:C28013,
+        ocs:C28243,
+        ocs:C28403,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662,
+        ocs:C8398 .
+

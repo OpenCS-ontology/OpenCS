@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45333 a skos:Concept ;
+    skos:broader ocs:C31017,
+        ocs:C32720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spider_trap> ;
+    skos:prefLabel "Spider trap" ;
+    skos:related ocs:C11484,
+        ocs:C15831,
+        ocs:C17235,
+        ocs:C22597,
+        ocs:C24903,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C30732,
+        ocs:C31805,
+        ocs:C34170,
+        ocs:C37238,
+        ocs:C37829,
+        ocs:C38403,
+        ocs:C38987,
+        ocs:C40049,
+        ocs:C437,
+        ocs:C44280,
+        ocs:C44855 .
+

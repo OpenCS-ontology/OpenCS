@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10635 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human_search_engine> ;
+    skos:prefLabel "Human search engine" ;
+    skos:related ocs:C11089,
+        ocs:C17658,
+        ocs:C23,
+        ocs:C31149,
+        ocs:C34300,
+        ocs:C3587,
+        ocs:C38799,
+        ocs:C40049,
+        ocs:C43593,
+        ocs:C45806,
+        ocs:C5355,
+        ocs:C9209 .
+

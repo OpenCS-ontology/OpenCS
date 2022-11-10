@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40314 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36406,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_coloring> ;
+    skos:prefLabel "Total coloring" ;
+    skos:related ocs:C14693,
+        ocs:C20875,
+        ocs:C26989,
+        ocs:C30730,
+        ocs:C37036,
+        ocs:C38560,
+        ocs:C40006,
+        ocs:C40165,
+        ocs:C40407,
+        ocs:C40485,
+        ocs:C40560,
+        ocs:C40622,
+        ocs:C40694,
+        ocs:C41767,
+        ocs:C42377,
+        ocs:C42470,
+        ocs:C43196,
+        ocs:C43652,
+        ocs:C45361,
+        ocs:C45425 .
+

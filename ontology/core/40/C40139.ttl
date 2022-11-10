@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40139 a skos:Concept ;
+    skos:broader ocs:C29664,
+        ocs:C31150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Beat_frequency_oscillator> ;
+    skos:prefLabel "Beat frequency oscillator" ;
+    skos:related ocs:C10078,
+        ocs:C10974,
+        ocs:C11669,
+        ocs:C12582,
+        ocs:C15511,
+        ocs:C18001,
+        ocs:C20333,
+        ocs:C28744,
+        ocs:C38689,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C7502,
+        ocs:C8348 .
+

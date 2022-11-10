@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33243 a skos:Concept ;
+    skos:broader ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/DYNAMIXEL> ;
+    skos:prefLabel "DYNAMIXEL" ;
+    skos:related ocs:C10396,
+        ocs:C15048,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C25273,
+        ocs:C28350,
+        ocs:C36290,
+        ocs:C9660 .
+

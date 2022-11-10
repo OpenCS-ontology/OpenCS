@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13745 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallax> ;
+    skos:prefLabel "Parallax" ;
+    skos:related ocs:C10556,
+        ocs:C18085,
+        ocs:C18175,
+        ocs:C19222,
+        ocs:C21607,
+        ocs:C22649,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C25028,
+        ocs:C25918,
+        ocs:C26348,
+        ocs:C27562,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C597 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C763 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inquiry-based_learning> ;
+    skos:prefLabel "Inquiry-based learning" ;
+    skos:related ocs:C10518,
+        ocs:C13047,
+        ocs:C18169,
+        ocs:C25892,
+        ocs:C3057,
+        ocs:C764 .
+

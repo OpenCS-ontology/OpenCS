@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27282 a skos:Concept ;
+    skos:broader ocs:C3232 ;
+    skos:closeMatch <http://dbpedia.org/resource/Light_infantry> ;
+    skos:prefLabel "Light infantry" ;
+    skos:related ocs:C1331,
+        ocs:C3232,
+        ocs:C5247,
+        ocs:C5252 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34269 a skos:Concept ;
+    skos:broader ocs:C18430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_parameter-varying_control> ;
+    skos:prefLabel "Linear parameter-varying control" ;
+    skos:related ocs:C1447,
+        ocs:C14592,
+        ocs:C25627,
+        ocs:C28698,
+        ocs:C34416 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7629 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-core> ;
+    skos:prefLabel "Single-core" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C10824,
+        ocs:C12690,
+        ocs:C1668,
+        ocs:C17854,
+        ocs:C19936,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C38129,
+        ocs:C39621,
+        ocs:C3981,
+        ocs:C9542 .
+

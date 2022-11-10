@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11295 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_consulting> ;
+    skos:prefLabel "Performance consulting" ;
+    skos:related ocs:C26,
+        ocs:C28,
+        ocs:C38988,
+        ocs:C6529 .
+

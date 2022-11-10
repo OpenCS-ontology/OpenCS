@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16609 a skos:Concept ;
+    skos:broader ocs:C12974,
+        ocs:C13366,
+        ocs:C8441 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fexpr> ;
+    skos:prefLabel "Fexpr" ;
+    skos:related ocs:C10268,
+        ocs:C10384,
+        ocs:C11990,
+        ocs:C12108,
+        ocs:C13527,
+        ocs:C14317,
+        ocs:C15650,
+        ocs:C1631,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C25779,
+        ocs:C29292,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C4032,
+        ocs:C4214,
+        ocs:C4465,
+        ocs:C6941,
+        ocs:C8441 .
+

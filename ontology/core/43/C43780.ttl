@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43780 a skos:Concept ;
+    skos:broader ocs:C36281 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reflections_of_signals_on_conducting_lines> ;
+    skos:prefLabel "Reflections of signals on conducting lines" ;
+    skos:related ocs:C1219,
+        ocs:C14320,
+        ocs:C22702,
+        ocs:C32554,
+        ocs:C36281,
+        ocs:C41756,
+        ocs:C42697,
+        ocs:C6913 .
+

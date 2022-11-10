@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45187 a skos:Concept ;
+    skos:broader ocs:C31037,
+        ocs:C35807,
+        ocs:C37228 ;
+    skos:closeMatch <http://dbpedia.org/resource/EdDSA> ;
+    skos:prefLabel "EdDSA" ;
+    skos:related ocs:C16125,
+        ocs:C1891,
+        ocs:C21324,
+        ocs:C25340,
+        ocs:C31037,
+        ocs:C32484,
+        ocs:C33428,
+        ocs:C37826,
+        ocs:C37881,
+        ocs:C38359,
+        ocs:C39034,
+        ocs:C39389,
+        ocs:C40519,
+        ocs:C40978,
+        ocs:C4218,
+        ocs:C42747,
+        ocs:C43074,
+        ocs:C43982,
+        ocs:C44443,
+        ocs:C5692 .
+

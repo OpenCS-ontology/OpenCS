@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11035 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mini_ATX> ;
+    skos:prefLabel "Mini ATX" ;
+    skos:related ocs:C10320,
+        ocs:C11052,
+        ocs:C12556,
+        ocs:C26991 .
+

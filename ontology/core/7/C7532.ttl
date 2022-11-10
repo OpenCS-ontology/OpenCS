@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7532 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tree_network> ;
+    skos:prefLabel "Tree network" ;
+    skos:related ocs:C14223,
+        ocs:C15728,
+        ocs:C1644,
+        ocs:C18802,
+        ocs:C19101,
+        ocs:C19675,
+        ocs:C24541,
+        ocs:C26,
+        ocs:C28636,
+        ocs:C28850,
+        ocs:C2935,
+        ocs:C30593,
+        ocs:C30797,
+        ocs:C3233,
+        ocs:C34137,
+        ocs:C34938,
+        ocs:C36375,
+        ocs:C37864,
+        ocs:C490 .
+

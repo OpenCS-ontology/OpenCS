@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9485 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_transformation> ;
+    skos:prefLabel "Digital transformation" ;
+    skos:related ocs:C10764,
+        ocs:C12736,
+        ocs:C197,
+        ocs:C2352,
+        ocs:C26014,
+        ocs:C6219,
+        ocs:C6529,
+        ocs:C7106,
+        ocs:C9113 .
+

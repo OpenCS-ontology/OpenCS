@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8301 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/MeaningCloud> ;
+    skos:prefLabel "MeaningCloud" ;
+    skos:related ocs:C10867,
+        ocs:C1132,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C14632,
+        ocs:C2468,
+        ocs:C27391,
+        ocs:C30113,
+        ocs:C32,
+        ocs:C35701,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38477,
+        ocs:C3854,
+        ocs:C39451,
+        ocs:C4968,
+        ocs:C5852 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32725 a skos:Concept ;
+    skos:broader ocs:C14579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soft_set> ;
+    skos:prefLabel "Soft set" ;
+    skos:related ocs:C12332,
+        ocs:C14151,
+        ocs:C14579,
+        ocs:C24613,
+        ocs:C29176,
+        ocs:C32948,
+        ocs:C33227,
+        ocs:C36575,
+        ocs:C41266,
+        ocs:C4201,
+        ocs:C5032,
+        ocs:C5659 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18858 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/NSA_cryptography> ;
+    skos:prefLabel "NSA cryptography" ;
+    skos:related ocs:C2060,
+        ocs:C2349,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C3003,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C33147,
+        ocs:C33346,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38277,
+        ocs:C400,
+        ocs:C42170,
+        ocs:C4218,
+        ocs:C44388 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16374 a skos:Concept ;
+    skos:broader ocs:C4819 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communication_for_social_change> ;
+    skos:prefLabel "Communication for social change" ;
+    skos:related ocs:C11026,
+        ocs:C13710,
+        ocs:C29488 .
+

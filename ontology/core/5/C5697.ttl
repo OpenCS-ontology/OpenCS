@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5697 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_chess_problem> ;
+    skos:prefLabel "Mathematical chess problem" ;
+    skos:related ocs:C1135,
+        ocs:C14693,
+        ocs:C31762,
+        ocs:C35153,
+        ocs:C36999,
+        ocs:C40771,
+        ocs:C41343,
+        ocs:C41794,
+        ocs:C42164,
+        ocs:C43815,
+        ocs:C5242 .
+

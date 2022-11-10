@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31786 a skos:Concept ;
+    skos:broader ocs:C29212 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schönberg–Chandrasekhar_limit> ;
+    skos:prefLabel "Schönberg–Chandrasekhar limit" ;
+    skos:related ocs:C20206,
+        ocs:C21307,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C23210,
+        ocs:C25028,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C30948,
+        ocs:C31120,
+        ocs:C31399,
+        ocs:C35073 .
+

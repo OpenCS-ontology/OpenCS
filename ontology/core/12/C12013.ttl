@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12013 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/RCA_Spectra_70> ;
+    skos:prefLabel "RCA Spectra 70" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C10772,
+        ocs:C11207,
+        ocs:C1130,
+        ocs:C12815,
+        ocs:C13372,
+        ocs:C15,
+        ocs:C2353,
+        ocs:C24544,
+        ocs:C37538,
+        ocs:C4832,
+        ocs:C4863,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C9,
+        ocs:C9035 .
+

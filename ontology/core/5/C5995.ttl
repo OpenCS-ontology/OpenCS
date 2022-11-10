@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5995 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/USB_communications_device_class> ;
+    skos:prefLabel "USB communications device class" ;
+    skos:related ocs:C15589,
+        ocs:C17404,
+        ocs:C19350,
+        ocs:C2054,
+        ocs:C25967,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C2917,
+        ocs:C32395,
+        ocs:C479,
+        ocs:C490,
+        ocs:C6538,
+        ocs:C9327 .
+

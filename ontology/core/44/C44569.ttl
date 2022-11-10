@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44569 a skos:Concept ;
+    skos:broader ocs:C32778,
+        ocs:C34886 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indian_Financial_System_Code> ;
+    skos:prefLabel "Indian Financial System Code" ;
+    skos:related ocs:C11389,
+        ocs:C11486,
+        ocs:C12752,
+        ocs:C22776,
+        ocs:C26112,
+        ocs:C27327,
+        ocs:C31096,
+        ocs:C32778,
+        ocs:C33193 .
+

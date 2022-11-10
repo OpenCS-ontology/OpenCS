@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8794 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/FCMOV> ;
+    skos:prefLabel "FCMOV" ;
+    skos:related ocs:C14965,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C2185,
+        ocs:C22553,
+        ocs:C2312,
+        ocs:C25966,
+        ocs:C31346,
+        ocs:C35108,
+        ocs:C37134,
+        ocs:C38427,
+        ocs:C38797,
+        ocs:C43544,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9487,
+        ocs:C9542 .
+

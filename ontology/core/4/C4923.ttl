@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4923 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/EtherSound> ;
+    skos:prefLabel "EtherSound" ;
+    skos:related ocs:C12871,
+        ocs:C13786,
+        ocs:C15417,
+        ocs:C18745,
+        ocs:C23919,
+        ocs:C26575,
+        ocs:C27398,
+        ocs:C27620,
+        ocs:C29125,
+        ocs:C2935,
+        ocs:C29862,
+        ocs:C33551,
+        ocs:C39294,
+        ocs:C43209,
+        ocs:C44484,
+        ocs:C44663,
+        ocs:C45690,
+        ocs:C490,
+        ocs:C9267 .
+

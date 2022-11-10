@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3287 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Futoshiki> ;
+    skos:prefLabel "Futoshiki" ;
+    skos:related ocs:C10665,
+        ocs:C11556,
+        ocs:C12254,
+        ocs:C12314,
+        ocs:C15062,
+        ocs:C23508,
+        ocs:C27054,
+        ocs:C2807,
+        ocs:C2893,
+        ocs:C32610,
+        ocs:C41663,
+        ocs:C43647,
+        ocs:C5242,
+        ocs:C5561,
+        ocs:C7964 .
+

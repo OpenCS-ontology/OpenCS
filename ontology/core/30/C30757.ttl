@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30757 a skos:Concept ;
+    skos:broader ocs:C20205,
+        ocs:C20540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telephone_number_mapping> ;
+    skos:prefLabel "Telephone number mapping" ;
+    skos:related ocs:C11371,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C28758,
+        ocs:C28911,
+        ocs:C28949,
+        ocs:C29603,
+        ocs:C31,
+        ocs:C34235,
+        ocs:C36124,
+        ocs:C38211,
+        ocs:C41442,
+        ocs:C41627,
+        ocs:C4166,
+        ocs:C43392,
+        ocs:C8515,
+        ocs:C8614 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14308 a skos:Concept ;
+    skos:broader ocs:C4597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airport_surveillance_radar> ;
+    skos:prefLabel "Airport surveillance radar" ;
+    skos:related ocs:C11445,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C16291,
+        ocs:C18229,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C23477,
+        ocs:C24807,
+        ocs:C26346,
+        ocs:C37719,
+        ocs:C42274,
+        ocs:C45299,
+        ocs:C4597 .
+

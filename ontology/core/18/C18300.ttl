@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18300 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halo_orbit> ;
+    skos:prefLabel "Halo orbit" ;
+    skos:related ocs:C24464,
+        ocs:C27429,
+        ocs:C28072,
+        ocs:C34065,
+        ocs:C34426,
+        ocs:C36381,
+        ocs:C44515,
+        ocs:C45459,
+        ocs:C5293 .
+

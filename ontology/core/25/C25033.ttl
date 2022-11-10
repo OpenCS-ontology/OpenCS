@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25033 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modularity> ;
+    skos:prefLabel "Modularity" ;
+    skos:related ocs:C10720,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C2674,
+        ocs:C28080,
+        ocs:C31259,
+        ocs:C31489,
+        ocs:C36804,
+        ocs:C5818 .
+

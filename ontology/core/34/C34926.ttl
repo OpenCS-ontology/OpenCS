@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34926 a skos:Concept ;
+    skos:broader ocs:C29024 ;
+    skos:prefLabel "Tissue cluster" ;
+    skos:related ocs:C1,
+        ocs:C6756,
+        ocs:C8 .
+

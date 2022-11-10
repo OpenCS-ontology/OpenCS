@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35388 a skos:Concept ;
+    skos:broader ocs:C19557,
+        ocs:C21951,
+        ocs:C27768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discretionary_access_control> ;
+    skos:prefLabel "Discretionary access control" ;
+    skos:related ocs:C12052,
+        ocs:C16295,
+        ocs:C16727,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C19557,
+        ocs:C20443,
+        ocs:C21059,
+        ocs:C21232,
+        ocs:C21592,
+        ocs:C21951,
+        ocs:C22970,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C38399,
+        ocs:C45563,
+        ocs:C8711,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16213 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/CLOUD> ;
+    skos:prefLabel "CLOUD experiment" ;
+    skos:related ocs:C32279,
+        ocs:C33051,
+        ocs:C40801,
+        ocs:C43081,
+        ocs:C597 .
+

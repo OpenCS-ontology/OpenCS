@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15845 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Innateness_hypothesis> ;
+    skos:prefLabel "Innateness hypothesis" ;
+    skos:related ocs:C20155,
+        ocs:C2298,
+        ocs:C26173,
+        ocs:C30276,
+        ocs:C32426,
+        ocs:C37515,
+        ocs:C37561,
+        ocs:C39066 .
+

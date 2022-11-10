@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11048 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dissemination> ;
+    skos:prefLabel "Dissemination" ;
+    skos:related ocs:C11032,
+        ocs:C11087,
+        ocs:C12999,
+        ocs:C14903,
+        ocs:C5746,
+        ocs:C8011,
+        ocs:C8614 .
+

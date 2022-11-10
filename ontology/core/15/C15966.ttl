@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15966 a skos:Concept ;
+    skos:broader ocs:C2480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kinesics> ;
+    skos:prefLabel "Kinesics" ;
+    skos:related ocs:C10566,
+        ocs:C12021,
+        ocs:C16695,
+        ocs:C2480,
+        ocs:C30928,
+        ocs:C31012,
+        ocs:C32017,
+        ocs:C7858,
+        ocs:C8125,
+        ocs:C855 .
+

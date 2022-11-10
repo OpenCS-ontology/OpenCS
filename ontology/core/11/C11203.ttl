@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11203 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_appreciation> ;
+    skos:prefLabel "System appreciation" ;
+    skos:related ocs:C14,
+        ocs:C14329,
+        ocs:C16530,
+        ocs:C28,
+        ocs:C28697,
+        ocs:C34713,
+        ocs:C35575,
+        ocs:C37875,
+        ocs:C38363,
+        ocs:C42276,
+        ocs:C42543,
+        ocs:C42972,
+        ocs:C43665,
+        ocs:C43774,
+        ocs:C4451,
+        ocs:C44773,
+        ocs:C688,
+        ocs:C7511 .
+

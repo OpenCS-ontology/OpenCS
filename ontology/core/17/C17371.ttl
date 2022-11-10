@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17371 a skos:Concept ;
+    skos:broader ocs:C11988,
+        ocs:C390,
+        ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leaky_bucket> ;
+    skos:prefLabel "Leaky bucket" ;
+    skos:related ocs:C12111,
+        ocs:C15589,
+        ocs:C17625,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24870,
+        ocs:C26,
+        ocs:C27574,
+        ocs:C3,
+        ocs:C31732,
+        ocs:C37577,
+        ocs:C38312,
+        ocs:C39948,
+        ocs:C40303,
+        ocs:C41620,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C5506 .
+

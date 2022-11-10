@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36769 a skos:Concept ;
+    skos:broader ocs:C16025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dini's_theorem> ;
+    skos:prefLabel "Dini's theorem" ;
+    skos:related ocs:C16025,
+        ocs:C24265,
+        ocs:C24810,
+        ocs:C34983,
+        ocs:C44908 .
+

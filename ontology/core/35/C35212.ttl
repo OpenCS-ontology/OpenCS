@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35212 a skos:Concept ;
+    skos:broader ocs:C15781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_mind_thesis> ;
+    skos:prefLabel "Extended mind thesis" ;
+    skos:related ocs:C11483,
+        ocs:C15781,
+        ocs:C29527,
+        ocs:C8701 .
+

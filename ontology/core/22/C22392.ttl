@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22392 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C12238,
+        ocs:C13068,
+        ocs:C264,
+        ocs:C3569,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jaql> ;
+    skos:prefLabel "Jaql" ;
+    skos:related ocs:C13068,
+        ocs:C14544,
+        ocs:C18398,
+        ocs:C20208,
+        ocs:C2067,
+        ocs:C21124,
+        ocs:C25684,
+        ocs:C28944,
+        ocs:C29066,
+        ocs:C35502,
+        ocs:C36924,
+        ocs:C37480,
+        ocs:C4591,
+        ocs:C6080,
+        ocs:C6941,
+        ocs:C7519,
+        ocs:C7825,
+        ocs:C8312,
+        ocs:C8511 .
+

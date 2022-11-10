@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37979 a skos:Concept ;
+    skos:broader ocs:C30141,
+        ocs:C34255 ;
+    skos:closeMatch <http://dbpedia.org/resource/European_Terrestrial_Reference_System_1989> ;
+    skos:prefLabel "European Terrestrial Reference System 1989" ;
+    skos:related ocs:C16293,
+        ocs:C18568,
+        ocs:C20371,
+        ocs:C21587,
+        ocs:C27277,
+        ocs:C29425,
+        ocs:C30473,
+        ocs:C30565,
+        ocs:C30827,
+        ocs:C40075,
+        ocs:C7918,
+        ocs:C8708 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26714 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C6540,
+        ocs:C8751 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deterministic_Parallel_Java> ;
+    skos:prefLabel "Deterministic Parallel Java" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C17467,
+        ocs:C17703,
+        ocs:C2830,
+        ocs:C28944,
+        ocs:C30561,
+        ocs:C3199,
+        ocs:C38027,
+        ocs:C44845,
+        ocs:C743,
+        ocs:C7572,
+        ocs:C8193,
+        ocs:C9023 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23508 a skos:Concept ;
+    skos:broader ocs:C13793 ;
+    skos:closeMatch <http://dbpedia.org/resource/God's_algorithm> ;
+    skos:prefLabel "God's algorithm" ;
+    skos:related ocs:C10,
+        ocs:C11482,
+        ocs:C13793,
+        ocs:C1792,
+        ocs:C25685,
+        ocs:C43645 .
+

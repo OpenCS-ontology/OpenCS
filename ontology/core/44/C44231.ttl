@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44231 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPAchecker> ;
+    skos:prefLabel "CPAchecker" ;
+    skos:related ocs:C1,
+        ocs:C1137,
+        ocs:C12098,
+        ocs:C14081,
+        ocs:C17916,
+        ocs:C20800,
+        ocs:C22987,
+        ocs:C23140,
+        ocs:C24595,
+        ocs:C27383,
+        ocs:C29708,
+        ocs:C33202,
+        ocs:C43302,
+        ocs:C45777,
+        ocs:C4756,
+        ocs:C6183,
+        ocs:C7126,
+        ocs:C7465,
+        ocs:C7903 .
+

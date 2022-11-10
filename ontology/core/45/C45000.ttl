@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45000 a skos:Concept ;
+    skos:broader ocs:C31010,
+        ocs:C32110,
+        ocs:C37360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consistency_(database_systems)> ;
+    skos:prefLabel "Consistency (database systems)" ;
+    skos:related ocs:C13767,
+        ocs:C13984,
+        ocs:C17905,
+        ocs:C22879,
+        ocs:C23694,
+        ocs:C23753,
+        ocs:C30273,
+        ocs:C34694,
+        ocs:C37360,
+        ocs:C38458,
+        ocs:C40503,
+        ocs:C42517,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C45466,
+        ocs:C6,
+        ocs:C6754,
+        ocs:C8184,
+        ocs:C8702 .
+

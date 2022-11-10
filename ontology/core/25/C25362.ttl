@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25362 a skos:Concept ;
+    skos:broader ocs:C7765 ;
+    skos:closeMatch <http://dbpedia.org/resource/Posynomial> ;
+    skos:prefLabel "Posynomial" ;
+    skos:related ocs:C11701,
+        ocs:C15954,
+        ocs:C20242,
+        ocs:C21197,
+        ocs:C24384,
+        ocs:C30833,
+        ocs:C35404,
+        ocs:C37808,
+        ocs:C7765,
+        ocs:C8781 .
+

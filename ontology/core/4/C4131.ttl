@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4131 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_P1906.1> ;
+    skos:prefLabel "IEEE P1906.1" ;
+    skos:related ocs:C21231,
+        ocs:C29974,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C43573,
+        ocs:C44282,
+        ocs:C5617 .
+

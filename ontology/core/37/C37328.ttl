@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37328 a skos:Concept ;
+    skos:broader ocs:C16105,
+        ocs:C17914,
+        ocs:C23968 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadrature_filter> ;
+    skos:prefLabel "Quadrature filter" ;
+    skos:related ocs:C11150,
+        ocs:C20514,
+        ocs:C3589,
+        ocs:C42625,
+        ocs:C44707,
+        ocs:C5042,
+        ocs:C5769,
+        ocs:C6816,
+        ocs:C9444 .
+

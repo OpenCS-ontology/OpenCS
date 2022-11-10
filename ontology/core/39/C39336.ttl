@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39336 a skos:Concept ;
+    skos:broader ocs:C31398,
+        ocs:C35270,
+        ocs:C35868,
+        ocs:C36404,
+        ocs:C36437 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_grammar> ;
+    skos:prefLabel "Stochastic grammar" ;
+    skos:related ocs:C1034,
+        ocs:C11030,
+        ocs:C11722,
+        ocs:C12696,
+        ocs:C13,
+        ocs:C16,
+        ocs:C21,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C25,
+        ocs:C32,
+        ocs:C34149,
+        ocs:C39236,
+        ocs:C43547,
+        ocs:C5556,
+        ocs:C5852,
+        ocs:C5856,
+        ocs:C8 .
+

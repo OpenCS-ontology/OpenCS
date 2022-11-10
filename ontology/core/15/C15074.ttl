@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15074 a skos:Concept ;
+    skos:broader ocs:C10611,
+        ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_relationship_management> ;
+    skos:prefLabel "Business relationship management" ;
+    skos:related ocs:C10764,
+        ocs:C16292,
+        ocs:C3674,
+        ocs:C7509,
+        ocs:C9874 .
+

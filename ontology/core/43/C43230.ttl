@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43230 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35008,
+        ocs:C35839,
+        ocs:C36161,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/CityHash> ;
+    skos:prefLabel "CityHash" ;
+    skos:related ocs:C10284,
+        ocs:C10398,
+        ocs:C15591,
+        ocs:C23875,
+        ocs:C2475,
+        ocs:C29808,
+        ocs:C32054,
+        ocs:C33416,
+        ocs:C35389,
+        ocs:C3936,
+        ocs:C4026,
+        ocs:C4033,
+        ocs:C40339,
+        ocs:C41603,
+        ocs:C43098,
+        ocs:C43191,
+        ocs:C44164 .
+

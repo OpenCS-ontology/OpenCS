@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32961 a skos:Concept ;
+    skos:broader ocs:C25475 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPN_Tools> ;
+    skos:prefLabel "CPN Tools" ;
+    skos:related ocs:C12427,
+        ocs:C15549,
+        ocs:C17157,
+        ocs:C17831,
+        ocs:C22387,
+        ocs:C25507,
+        ocs:C26029,
+        ocs:C27664,
+        ocs:C27718,
+        ocs:C28944,
+        ocs:C35299,
+        ocs:C35848,
+        ocs:C35904,
+        ocs:C43674,
+        ocs:C5517 .
+

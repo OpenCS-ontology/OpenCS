@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42210 a skos:Concept ;
+    skos:broader ocs:C31149,
+        ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/IMT_Advanced> ;
+    skos:prefLabel "IMT Advanced" ;
+    skos:related ocs:C19350,
+        ocs:C19721,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C27633,
+        ocs:C28176,
+        ocs:C29419,
+        ocs:C29697,
+        ocs:C32302,
+        ocs:C32715,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C37037,
+        ocs:C37303,
+        ocs:C41460,
+        ocs:C43573,
+        ocs:C45492,
+        ocs:C8704,
+        ocs:C9113,
+        ocs:C9154 .
+

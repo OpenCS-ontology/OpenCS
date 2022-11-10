@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26118 a skos:Concept ;
+    skos:broader ocs:C10616 ;
+    skos:prefLabel "Agent Expert" ;
+    skos:related ocs:C12,
+        ocs:C2579 .
+

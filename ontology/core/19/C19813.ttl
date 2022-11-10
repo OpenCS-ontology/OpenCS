@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19813 a skos:Concept ;
+    skos:broader ocs:C10135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stream_pool> ;
+    skos:prefLabel "Stream pool" ;
+    skos:related ocs:C14117,
+        ocs:C22221,
+        ocs:C35341,
+        ocs:C5708 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4647 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_safety> ;
+    skos:prefLabel "Active safety" ;
+    skos:related ocs:C10340,
+        ocs:C1346,
+        ocs:C17865,
+        ocs:C22960,
+        ocs:C27671,
+        ocs:C5973,
+        ocs:C6243 .
+

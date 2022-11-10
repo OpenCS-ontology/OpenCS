@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14210 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C390,
+        ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Queuing_delay> ;
+    skos:prefLabel "Queuing delay" ;
+    skos:related ocs:C12373,
+        ocs:C15065,
+        ocs:C16243,
+        ocs:C18971,
+        ocs:C19730,
+        ocs:C20330,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C3,
+        ocs:C34789,
+        ocs:C38698,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C5506,
+        ocs:C5616 .
+

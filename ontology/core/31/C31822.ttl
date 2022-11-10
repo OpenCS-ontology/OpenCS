@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31822 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Work_for_hire> ;
+    skos:prefLabel "Work for hire" ;
+    skos:related ocs:C13306,
+        ocs:C17042,
+        ocs:C17516,
+        ocs:C18764,
+        ocs:C19039,
+        ocs:C28712,
+        ocs:C30476,
+        ocs:C32306,
+        ocs:C33316,
+        ocs:C40984,
+        ocs:C5746,
+        ocs:C6234,
+        ocs:C767,
+        ocs:C8011 .
+

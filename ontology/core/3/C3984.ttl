@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3984 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gigabyte> ;
+    skos:prefLabel "Gigabyte" ;
+    skos:related ocs:C10213,
+        ocs:C10320,
+        ocs:C10409,
+        ocs:C10696,
+        ocs:C13851,
+        ocs:C16480,
+        ocs:C21424,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C41094,
+        ocs:C43161,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9430,
+        ocs:C9609 .
+

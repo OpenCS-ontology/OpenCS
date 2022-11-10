@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30349 a skos:Concept ;
+    skos:broader ocs:C17522 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pharaoh_ant> ;
+    skos:prefLabel "Pharaoh ant" ;
+    skos:related ocs:C14756,
+        ocs:C17062,
+        ocs:C17522,
+        ocs:C22123,
+        ocs:C26257,
+        ocs:C27032,
+        ocs:C29582,
+        ocs:C30775,
+        ocs:C33999,
+        ocs:C37210 .
+

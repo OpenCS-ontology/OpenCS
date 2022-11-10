@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36604 a skos:Concept ;
+    skos:broader ocs:C20382,
+        ocs:C23904 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_hierarchy> ;
+    skos:prefLabel "Boolean hierarchy" ;
+    skos:related ocs:C20382,
+        ocs:C23023,
+        ocs:C23904,
+        ocs:C25360,
+        ocs:C2807,
+        ocs:C31892,
+        ocs:C33982,
+        ocs:C35501,
+        ocs:C3678,
+        ocs:C38374,
+        ocs:C38867,
+        ocs:C39640,
+        ocs:C40818,
+        ocs:C41116,
+        ocs:C42271,
+        ocs:C42400,
+        ocs:C44886,
+        ocs:C6776 .
+

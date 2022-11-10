@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20454 a skos:Concept ;
+    skos:broader ocs:C7040,
+        ocs:C8366 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sight_word> ;
+    skos:prefLabel "Sight word" ;
+    skos:related ocs:C13096,
+        ocs:C14527,
+        ocs:C2025,
+        ocs:C24227,
+        ocs:C4664,
+        ocs:C8020 .
+

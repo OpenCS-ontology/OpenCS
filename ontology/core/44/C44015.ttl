@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44015 a skos:Concept ;
+    skos:broader ocs:C30248,
+        ocs:C33146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Erethistidae> ;
+    skos:prefLabel "Erethistidae" ;
+    skos:related ocs:C24236,
+        ocs:C30248,
+        ocs:C31573,
+        ocs:C33146,
+        ocs:C35705,
+        ocs:C37148,
+        ocs:C37952,
+        ocs:C38071,
+        ocs:C42154,
+        ocs:C42957 .
+

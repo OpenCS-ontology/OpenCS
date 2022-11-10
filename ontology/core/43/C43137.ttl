@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43137 a skos:Concept ;
+    skos:broader ocs:C31206,
+        ocs:C33683 ;
+    skos:closeMatch <http://dbpedia.org/resource/Callichthys> ;
+    skos:prefLabel "Callichthys" ;
+    skos:related ocs:C31206,
+        ocs:C33683,
+        ocs:C36328,
+        ocs:C38607,
+        ocs:C39756,
+        ocs:C40967,
+        ocs:C41560,
+        ocs:C43241,
+        ocs:C44456,
+        ocs:C44612 .
+

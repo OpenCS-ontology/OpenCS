@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38626 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affine-regular_polygon> ;
+    skos:prefLabel "Affine-regular polygon" ;
+    skos:related ocs:C15795,
+        ocs:C38702,
+        ocs:C43646,
+        ocs:C43811,
+        ocs:C45052 .
+

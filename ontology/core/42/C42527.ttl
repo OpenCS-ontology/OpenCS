@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42527 a skos:Concept ;
+    skos:broader ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch_misprediction> ;
+    skos:prefLabel "Branch misprediction" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C1721,
+        ocs:C21266,
+        ocs:C22907,
+        ocs:C27610,
+        ocs:C3231,
+        ocs:C33375,
+        ocs:C34127,
+        ocs:C35108,
+        ocs:C41964,
+        ocs:C42715,
+        ocs:C43544,
+        ocs:C4824,
+        ocs:C6172,
+        ocs:C8180,
+        ocs:C9487 .
+

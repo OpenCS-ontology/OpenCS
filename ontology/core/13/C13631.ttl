@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13631 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Motion sickness" ;
+    skos:related ocs:C18171,
+        ocs:C2749 .
+

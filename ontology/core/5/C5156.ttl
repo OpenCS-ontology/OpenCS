@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5156 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consumer_adoption_of_technological_innovations> ;
+    skos:prefLabel "Consumer adoption of technological innovations" ;
+    skos:related ocs:C11938,
+        ocs:C16,
+        ocs:C2544,
+        ocs:C25714,
+        ocs:C263,
+        ocs:C27096,
+        ocs:C3321,
+        ocs:C40049,
+        ocs:C8236,
+        ocs:C8343 .
+

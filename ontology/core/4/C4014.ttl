@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4014 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:prefLabel "Urban main road" ;
+    skos:related ocs:C10,
+        ocs:C1197,
+        ocs:C1940,
+        ocs:C24,
+        ocs:C28021,
+        ocs:C33,
+        ocs:C3744,
+        ocs:C4099,
+        ocs:C4694,
+        ocs:C5399,
+        ocs:C6335 .
+

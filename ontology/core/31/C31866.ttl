@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31866 a skos:Concept ;
+    skos:broader ocs:C29314 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_MPX> ;
+    skos:prefLabel "Intel MPX" ;
+    skos:related ocs:C11258,
+        ocs:C1251,
+        ocs:C12683,
+        ocs:C19487,
+        ocs:C2312,
+        ocs:C31038,
+        ocs:C31346,
+        ocs:C31489,
+        ocs:C35009,
+        ocs:C38427,
+        ocs:C39214,
+        ocs:C40322,
+        ocs:C42142,
+        ocs:C6782,
+        ocs:C8189,
+        ocs:C856,
+        ocs:C9 .
+

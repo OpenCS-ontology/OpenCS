@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5630 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Struct_(C_programming_language)> ;
+    skos:prefLabel "struct" ;
+    skos:related ocs:C10720,
+        ocs:C10909,
+        ocs:C14990,
+        ocs:C174,
+        ocs:C17703,
+        ocs:C19,
+        ocs:C25570,
+        ocs:C2879,
+        ocs:C35141,
+        ocs:C39715,
+        ocs:C42032,
+        ocs:C6255,
+        ocs:C6661,
+        ocs:C8170,
+        ocs:C9023 .
+

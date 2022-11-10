@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9507 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C32 ;
+    skos:prefLabel "Document section" ;
+    skos:related ocs:C12431,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C35,
+        ocs:C4,
+        ocs:C5702,
+        ocs:C8,
+        ocs:C9150,
+        ocs:C9993 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30465 a skos:Concept ;
+    skos:broader ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noma_(disease)> ;
+    skos:prefLabel "Noma" ;
+    skos:related ocs:C43889 .
+

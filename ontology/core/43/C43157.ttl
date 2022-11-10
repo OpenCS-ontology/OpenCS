@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43157 a skos:Concept ;
+    skos:broader ocs:C32220,
+        ocs:C35013,
+        ocs:C35430,
+        ocs:C36167,
+        ocs:C36469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cost_per_impression> ;
+    skos:prefLabel "Cost per impression" ;
+    skos:related ocs:C11116,
+        ocs:C12857,
+        ocs:C13681,
+        ocs:C1576,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C2203,
+        ocs:C29564,
+        ocs:C31169,
+        ocs:C33206,
+        ocs:C35660,
+        ocs:C3582,
+        ocs:C39428,
+        ocs:C42101,
+        ocs:C43295,
+        ocs:C5427 .
+

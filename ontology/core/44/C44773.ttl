@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44773 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C30335,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Darwin_(ADL)> ;
+    skos:prefLabel "Darwin (ADL)" ;
+    skos:related ocs:C11203,
+        ocs:C11992,
+        ocs:C14329,
+        ocs:C19809,
+        ocs:C31430,
+        ocs:C32723,
+        ocs:C35739,
+        ocs:C37875,
+        ocs:C39178,
+        ocs:C39332,
+        ocs:C40490,
+        ocs:C40626,
+        ocs:C40961,
+        ocs:C41179,
+        ocs:C42543,
+        ocs:C42972,
+        ocs:C4451,
+        ocs:C44859 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22446 a skos:Concept ;
+    skos:broader ocs:C10566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mécanisme_de_la_physionomie_humaine> ;
+    skos:prefLabel "Mécanisme de la physionomie humaine" ;
+    skos:related ocs:C10566,
+        ocs:C14273 .
+

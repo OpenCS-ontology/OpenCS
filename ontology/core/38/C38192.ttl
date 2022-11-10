@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38192 a skos:Concept ;
+    skos:broader ocs:C34483 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eciton_burchellii> ;
+    skos:prefLabel "Eciton burchellii" ;
+    skos:related ocs:C21150,
+        ocs:C22504,
+        ocs:C27032,
+        ocs:C31040,
+        ocs:C34483,
+        ocs:C44498 .
+

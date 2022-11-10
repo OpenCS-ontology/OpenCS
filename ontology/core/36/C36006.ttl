@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36006 a skos:Concept ;
+    skos:broader ocs:C22263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_two-party_computation> ;
+    skos:prefLabel "Secure two-party computation" ;
+    skos:related ocs:C14164,
+        ocs:C16125,
+        ocs:C18621,
+        ocs:C22263,
+        ocs:C23073,
+        ocs:C23855,
+        ocs:C27284,
+        ocs:C29533,
+        ocs:C31401,
+        ocs:C31465,
+        ocs:C37934,
+        ocs:C41131,
+        ocs:C4218,
+        ocs:C5816,
+        ocs:C7506 .
+

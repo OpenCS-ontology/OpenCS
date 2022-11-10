@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C177 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cromwell's_rule> ;
+    skos:prefLabel "Cromwell's rule" ;
+    skos:related ocs:C11608,
+        ocs:C12737,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C17176,
+        ocs:C17792,
+        ocs:C20005,
+        ocs:C21729,
+        ocs:C34619,
+        ocs:C39174,
+        ocs:C45643,
+        ocs:C6291,
+        ocs:C6692 .
+

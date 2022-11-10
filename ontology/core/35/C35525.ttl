@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35525 a skos:Concept ;
+    skos:broader ocs:C14622,
+        ocs:C19790,
+        ocs:C23888,
+        ocs:C25285 ;
+    skos:prefLabel "Nonparametric bayesian methods" .
+

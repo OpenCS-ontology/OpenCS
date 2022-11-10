@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5203 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Push_technology> ;
+    skos:prefLabel "Push technology" ;
+    skos:related ocs:C12810,
+        ocs:C14983,
+        ocs:C15478,
+        ocs:C16338,
+        ocs:C17794,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31,
+        ocs:C355,
+        ocs:C40510,
+        ocs:C4500,
+        ocs:C4918,
+        ocs:C5920,
+        ocs:C8577,
+        ocs:C8614,
+        ocs:C8771 .
+

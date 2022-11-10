@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16068 a skos:Concept ;
+    skos:broader ocs:C2298,
+        ocs:C7330 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shape_grammar> ;
+    skos:prefLabel "Shape grammar" ;
+    skos:related ocs:C10924,
+        ocs:C13852,
+        ocs:C22273,
+        ocs:C26158,
+        ocs:C3573,
+        ocs:C8324,
+        ocs:C8399 .
+

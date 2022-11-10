@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8069 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_master> ;
+    skos:prefLabel "Digital master" ;
+    skos:related ocs:C10052,
+        ocs:C13095,
+        ocs:C1357,
+        ocs:C13691,
+        ocs:C26790,
+        ocs:C27266,
+        ocs:C2814,
+        ocs:C2883,
+        ocs:C28945,
+        ocs:C31011,
+        ocs:C37582,
+        ocs:C4448,
+        ocs:C5410,
+        ocs:C5854,
+        ocs:C7255,
+        ocs:C7279,
+        ocs:C7789,
+        ocs:C797 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31788 a skos:Concept ;
+    skos:broader ocs:C15862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mu_to_E_Gamma> ;
+    skos:prefLabel "Mu to E Gamma" ;
+    skos:related ocs:C15862,
+        ocs:C32583,
+        ocs:C34440,
+        ocs:C35941 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44788 a skos:Concept ;
+    skos:broader ocs:C31741,
+        ocs:C35162 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large-conductance_mechanosensitive_channel> ;
+    skos:prefLabel "Large-conductance mechanosensitive channel" ;
+    skos:related ocs:C18138,
+        ocs:C23973,
+        ocs:C29218,
+        ocs:C35162,
+        ocs:C36128,
+        ocs:C38491 .
+

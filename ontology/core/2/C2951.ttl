@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2951 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_Security_Services_Application_Program_Interface> ;
+    skos:prefLabel "Generic Security Services Application Program Interface" ;
+    skos:related ocs:C1399,
+        ocs:C16125,
+        ocs:C16980,
+        ocs:C22450,
+        ocs:C22597,
+        ocs:C23446,
+        ocs:C24131,
+        ocs:C28637,
+        ocs:C28881,
+        ocs:C3085,
+        ocs:C34358,
+        ocs:C34696,
+        ocs:C38032,
+        ocs:C42844,
+        ocs:C43719,
+        ocs:C44603,
+        ocs:C4513,
+        ocs:C7006,
+        ocs:C8310 .
+

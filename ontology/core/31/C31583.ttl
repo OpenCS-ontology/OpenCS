@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31583 a skos:Concept ;
+    skos:broader ocs:C19500,
+        ocs:C28140 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enhanced_flight_vision_system> ;
+    skos:prefLabel "Enhanced flight vision system" ;
+    skos:related ocs:C11445,
+        ocs:C12636,
+        ocs:C13856,
+        ocs:C19500,
+        ocs:C20450,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C24976,
+        ocs:C26346,
+        ocs:C30597,
+        ocs:C36804,
+        ocs:C36895,
+        ocs:C5030,
+        ocs:C511 .
+

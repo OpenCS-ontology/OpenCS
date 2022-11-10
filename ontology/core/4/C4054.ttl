@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4054 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33,
+        ocs:C7 ;
+    skos:prefLabel "Person location" ;
+    skos:related ocs:C12920,
+        ocs:C15728,
+        ocs:C1725,
+        ocs:C18,
+        ocs:C21,
+        ocs:C26,
+        ocs:C3,
+        ocs:C31,
+        ocs:C3236,
+        ocs:C33,
+        ocs:C35,
+        ocs:C9113 .
+

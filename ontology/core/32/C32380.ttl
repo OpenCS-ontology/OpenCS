@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32380 a skos:Concept ;
+    skos:broader ocs:C20382,
+        ocs:C22100,
+        ocs:C26756 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fagin's_theorem> ;
+    skos:prefLabel "Fagin's theorem" ;
+    skos:related ocs:C12474,
+        ocs:C20382,
+        ocs:C21946,
+        ocs:C2418,
+        ocs:C2425,
+        ocs:C25360,
+        ocs:C26756,
+        ocs:C32808,
+        ocs:C33982,
+        ocs:C34139,
+        ocs:C3678,
+        ocs:C38867,
+        ocs:C39938,
+        ocs:C41642,
+        ocs:C41645,
+        ocs:C44665,
+        ocs:C4517,
+        ocs:C9999 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40728 a skos:Concept ;
+    skos:broader ocs:C33102 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gelfand–Naimark_theorem> ;
+    skos:prefLabel "Gelfand–Naimark theorem" ;
+    skos:related ocs:C17651,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C39154,
+        ocs:C41513,
+        ocs:C42529,
+        ocs:C44342 .
+

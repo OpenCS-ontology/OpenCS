@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13949 a skos:Concept ;
+    skos:broader ocs:C402 ;
+    skos:prefLabel "Communication boards" ;
+    skos:related ocs:C18,
+        ocs:C2,
+        ocs:C26,
+        ocs:C3,
+        ocs:C515,
+        ocs:C78 .
+

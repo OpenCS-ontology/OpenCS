@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41668 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/F._and_M._Riesz_theorem> ;
+    skos:prefLabel "F. and M. Riesz theorem" ;
+    skos:related ocs:C18944,
+        ocs:C20853,
+        ocs:C23752,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C3589,
+        ocs:C42875 .
+

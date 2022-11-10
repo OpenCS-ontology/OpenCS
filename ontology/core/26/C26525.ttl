@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26525 a skos:Concept ;
+    skos:broader ocs:C4515 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seasonal_adjustment> ;
+    skos:prefLabel "Seasonal adjustment" ;
+    skos:related ocs:C13607,
+        ocs:C14027,
+        ocs:C23554,
+        ocs:C26888,
+        ocs:C33305,
+        ocs:C4515,
+        ocs:C9428 .
+

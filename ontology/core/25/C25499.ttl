@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25499 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Underwater_acoustic_communication> ;
+    skos:prefLabel "Underwater acoustic communication" ;
+    skos:related ocs:C12580,
+        ocs:C13211,
+        ocs:C15596,
+        ocs:C19905,
+        ocs:C24264,
+        ocs:C3044,
+        ocs:C7008 .
+

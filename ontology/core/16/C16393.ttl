@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16393 a skos:Concept ;
+    skos:broader ocs:C8561 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strehl_ratio> ;
+    skos:prefLabel "Strehl ratio" ;
+    skos:related ocs:C14268,
+        ocs:C2196,
+        ocs:C25755,
+        ocs:C45278,
+        ocs:C7597,
+        ocs:C8561 .
+

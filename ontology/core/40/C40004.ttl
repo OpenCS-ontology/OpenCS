@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40004 a skos:Concept ;
+    skos:broader ocs:C30405,
+        ocs:C30659,
+        ocs:C32720,
+        ocs:C35109,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/DAML-S> ;
+    skos:prefLabel "DAML-S" ;
+    skos:related ocs:C10904,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C39643,
+        ocs:C42885,
+        ocs:C44014,
+        ocs:C44161,
+        ocs:C9553 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15444 a skos:Concept ;
+    skos:broader ocs:C10616,
+        ocs:C1092,
+        ocs:C6749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inference_engine> ;
+    skos:prefLabel "Inference engine" ;
+    skos:related ocs:C10616,
+        ocs:C1092,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C13116,
+        ocs:C14156,
+        ocs:C16466,
+        ocs:C21269,
+        ocs:C23248,
+        ocs:C2418,
+        ocs:C27665,
+        ocs:C28809,
+        ocs:C3565,
+        ocs:C37649,
+        ocs:C5614,
+        ocs:C6531,
+        ocs:C6749,
+        ocs:C7311,
+        ocs:C8,
+        ocs:C852 .
+

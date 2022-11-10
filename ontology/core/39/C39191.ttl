@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39191 a skos:Concept ;
+    skos:broader ocs:C34195 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_over_LAN> ;
+    skos:prefLabel "Serial over LAN" ;
+    skos:related ocs:C20125,
+        ocs:C20540,
+        ocs:C2206,
+        ocs:C24131,
+        ocs:C2430,
+        ocs:C24323,
+        ocs:C2935,
+        ocs:C29359,
+        ocs:C3070,
+        ocs:C31772,
+        ocs:C34195,
+        ocs:C39579,
+        ocs:C40211,
+        ocs:C41466,
+        ocs:C9217 .
+

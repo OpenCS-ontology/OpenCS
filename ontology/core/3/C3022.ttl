@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3022 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CD_player> ;
+    skos:prefLabel "CD player" ;
+    skos:related ocs:C11040,
+        ocs:C21424,
+        ocs:C25195,
+        ocs:C26575,
+        ocs:C34571,
+        ocs:C4916,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C7255,
+        ocs:C9481 .
+

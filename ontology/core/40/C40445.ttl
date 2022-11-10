@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40445 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ordered_graph> ;
+    skos:prefLabel "Ordered graph" ;
+    skos:related ocs:C16738,
+        ocs:C17717,
+        ocs:C18813,
+        ocs:C2807,
+        ocs:C29632,
+        ocs:C29708,
+        ocs:C30609,
+        ocs:C31884,
+        ocs:C36126,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C42329,
+        ocs:C42465,
+        ocs:C42518,
+        ocs:C42828,
+        ocs:C43365,
+        ocs:C45271 .
+

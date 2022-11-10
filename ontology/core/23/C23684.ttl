@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23684 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evergreening> ;
+    skos:prefLabel "Evergreening" ;
+    skos:related ocs:C13306,
+        ocs:C17516,
+        ocs:C24730,
+        ocs:C31789,
+        ocs:C33117,
+        ocs:C36712 .
+

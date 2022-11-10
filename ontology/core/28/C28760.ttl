@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28760 a skos:Concept ;
+    skos:broader ocs:C4169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unobtainium> ;
+    skos:prefLabel "Unobtainium" ;
+    skos:related ocs:C40207,
+        ocs:C43998,
+        ocs:C44888,
+        ocs:C5096 .
+

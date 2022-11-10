@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40192 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_(systems_architecture)> ;
+    skos:prefLabel "Service (systems architecture)" ;
+    skos:related ocs:C11612,
+        ocs:C1253,
+        ocs:C16218,
+        ocs:C16599,
+        ocs:C17238,
+        ocs:C19052,
+        ocs:C23856,
+        ocs:C24453,
+        ocs:C31667,
+        ocs:C31894,
+        ocs:C35701,
+        ocs:C36422,
+        ocs:C40359,
+        ocs:C42315,
+        ocs:C45107,
+        ocs:C45883,
+        ocs:C7106,
+        ocs:C7180 .
+

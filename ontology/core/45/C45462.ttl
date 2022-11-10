@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45462 a skos:Concept ;
+    skos:broader ocs:C29704,
+        ocs:C32079,
+        ocs:C33346,
+        ocs:C34052,
+        ocs:C35391 ;
+    skos:closeMatch <http://dbpedia.org/resource/Black-bag_cryptanalysis> ;
+    skos:prefLabel "Black-bag cryptanalysis" ;
+    skos:related ocs:C16983,
+        ocs:C17856,
+        ocs:C21383,
+        ocs:C27571,
+        ocs:C31981,
+        ocs:C32079,
+        ocs:C32109,
+        ocs:C39180,
+        ocs:C4031,
+        ocs:C40900,
+        ocs:C41514,
+        ocs:C41541,
+        ocs:C4218,
+        ocs:C42818,
+        ocs:C42904,
+        ocs:C43188,
+        ocs:C43934,
+        ocs:C45116,
+        ocs:C6699,
+        ocs:C6781 .
+

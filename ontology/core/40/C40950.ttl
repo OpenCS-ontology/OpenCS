@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40950 a skos:Concept ;
+    skos:broader ocs:C32825,
+        ocs:C35772,
+        ocs:C37679 ;
+    skos:prefLabel "Multipath rayleigh fading channel" .
+

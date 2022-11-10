@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30622 a skos:Concept ;
+    skos:broader ocs:C19253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wasmannia> ;
+    skos:prefLabel "Wasmannia" ;
+    skos:related ocs:C20240,
+        ocs:C23015,
+        ocs:C24249,
+        ocs:C24385 .
+

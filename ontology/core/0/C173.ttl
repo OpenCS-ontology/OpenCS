@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C173 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenSafety> ;
+    skos:prefLabel "OpenSafety" ;
+    skos:related ocs:C11864,
+        ocs:C14858,
+        ocs:C15048,
+        ocs:C15484,
+        ocs:C1705,
+        ocs:C20519,
+        ocs:C21935,
+        ocs:C23445,
+        ocs:C25027,
+        ocs:C31552,
+        ocs:C3362,
+        ocs:C38589,
+        ocs:C40074,
+        ocs:C42934,
+        ocs:C4458,
+        ocs:C8562 .
+

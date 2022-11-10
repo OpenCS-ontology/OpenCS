@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C990 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_key> ;
+    skos:prefLabel "Smart key" ;
+    skos:related ocs:C1346,
+        ocs:C18535,
+        ocs:C21424,
+        ocs:C27671,
+        ocs:C5973 .
+

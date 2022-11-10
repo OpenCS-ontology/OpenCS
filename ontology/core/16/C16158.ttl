@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16158 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Squat_effect> ;
+    skos:prefLabel "Squat effect" ;
+    skos:related ocs:C2932,
+        ocs:C29730,
+        ocs:C30110 .
+

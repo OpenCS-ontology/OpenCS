@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30240 a skos:Concept ;
+    skos:broader ocs:C19557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Separation_of_duties> ;
+    skos:prefLabel "Separation of duties" ;
+    skos:related ocs:C1399,
+        ocs:C19557,
+        ocs:C22064,
+        ocs:C31042,
+        ocs:C40554 .
+

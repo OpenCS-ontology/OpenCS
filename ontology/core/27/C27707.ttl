@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27707 a skos:Concept ;
+    skos:broader ocs:C1940 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_Processing_Language> ;
+    skos:prefLabel "Information Processing Language" ;
+    skos:related ocs:C10,
+        ocs:C10479,
+        ocs:C12977,
+        ocs:C1333,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C28783,
+        ocs:C2885,
+        ocs:C29292,
+        ocs:C3732,
+        ocs:C4269,
+        ocs:C4756,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C794,
+        ocs:C8,
+        ocs:C8086,
+        ocs:C8441,
+        ocs:C852 .
+

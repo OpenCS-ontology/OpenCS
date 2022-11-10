@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26490 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:prefLabel "Sample Median" ;
+    skos:related ocs:C1092,
+        ocs:C13869,
+        ocs:C20051,
+        ocs:C8517,
+        ocs:C9101 .
+

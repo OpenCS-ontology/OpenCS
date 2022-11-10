@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33251 a skos:Concept ;
+    skos:broader ocs:C26987 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_part_function> ;
+    skos:prefLabel "Standard part function" ;
+    skos:related ocs:C26987,
+        ocs:C33313 .
+

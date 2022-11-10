@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6961 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiprotocol_BGP> ;
+    skos:prefLabel "Multiprotocol BGP" ;
+    skos:related ocs:C14160,
+        ocs:C17580,
+        ocs:C18213,
+        ocs:C22819,
+        ocs:C24563,
+        ocs:C26067,
+        ocs:C30247,
+        ocs:C3391,
+        ocs:C34235,
+        ocs:C35706,
+        ocs:C36863,
+        ocs:C38451,
+        ocs:C38551,
+        ocs:C40959,
+        ocs:C41542,
+        ocs:C43015,
+        ocs:C43135,
+        ocs:C44145,
+        ocs:C44254,
+        ocs:C45376 .
+

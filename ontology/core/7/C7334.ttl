@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7334 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cybernetics> ;
+    skos:prefLabel "Cybernetics" ;
+    skos:related ocs:C1,
+        ocs:C10396,
+        ocs:C17236,
+        ocs:C5863,
+        ocs:C8,
+        ocs:C9373 .
+

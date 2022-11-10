@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8202 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_positive_rate> ;
+    skos:prefLabel "False positive rate" ;
+    skos:related ocs:C11767,
+        ocs:C12433,
+        ocs:C15258,
+        ocs:C19752,
+        ocs:C20615,
+        ocs:C24855,
+        ocs:C25754,
+        ocs:C27702,
+        ocs:C30081,
+        ocs:C7908 .
+

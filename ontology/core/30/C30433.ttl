@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30433 a skos:Concept ;
+    skos:broader ocs:C19357 ;
+    skos:closeMatch <http://dbpedia.org/resource/Placement_(EDA)> ;
+    skos:prefLabel "Placement" ;
+    skos:related ocs:C10377,
+        ocs:C11690,
+        ocs:C13747,
+        ocs:C14650,
+        ocs:C15798,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C33434,
+        ocs:C37773,
+        ocs:C41136,
+        ocs:C4274,
+        ocs:C5336,
+        ocs:C6797 .
+

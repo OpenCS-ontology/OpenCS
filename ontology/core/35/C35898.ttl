@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35898 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plateau_de_Bure_Interferometer> ;
+    skos:prefLabel "Plateau de Bure Interferometer" ;
+    skos:related ocs:C14963,
+        ocs:C30181,
+        ocs:C30662,
+        ocs:C30765,
+        ocs:C34673,
+        ocs:C42039 .
+

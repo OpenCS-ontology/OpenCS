@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30085 a skos:Concept ;
+    skos:broader ocs:C19400,
+        ocs:C26155,
+        ocs:C26403 ;
+    skos:closeMatch <http://dbpedia.org/resource/FpgaC> ;
+    skos:prefLabel "FpgaC" ;
+    skos:related ocs:C14994,
+        ocs:C16067,
+        ocs:C17790,
+        ocs:C19400,
+        ocs:C20607,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C26155,
+        ocs:C27,
+        ocs:C27883,
+        ocs:C29006,
+        ocs:C31559,
+        ocs:C31853,
+        ocs:C36420,
+        ocs:C37773,
+        ocs:C43781,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C9908 .
+

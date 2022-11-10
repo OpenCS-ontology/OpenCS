@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37610 a skos:Concept ;
+    skos:broader ocs:C22682,
+        ocs:C29534 ;
+    skos:closeMatch <http://dbpedia.org/resource/Whittaker–Shannon_interpolation_formula> ;
+    skos:prefLabel "Whittaker–Shannon interpolation formula" ;
+    skos:related ocs:C10554,
+        ocs:C1449,
+        ocs:C42128,
+        ocs:C42625,
+        ocs:C44628,
+        ocs:C6816 .
+

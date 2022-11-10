@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39978 a skos:Concept ;
+    skos:broader ocs:C36474 ;
+    skos:closeMatch <http://dbpedia.org/resource/Class_number_problem> ;
+    skos:prefLabel "Class number problem" ;
+    skos:related ocs:C22290,
+        ocs:C30639,
+        ocs:C36474,
+        ocs:C39710,
+        ocs:C44225 .
+

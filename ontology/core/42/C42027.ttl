@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42027 a skos:Concept ;
+    skos:broader ocs:C32393,
+        ocs:C35798,
+        ocs:C36565 ;
+    skos:closeMatch <http://dbpedia.org/resource/Euclidean_plane_isometry> ;
+    skos:prefLabel "Euclidean plane isometry" ;
+    skos:related ocs:C16671 .
+

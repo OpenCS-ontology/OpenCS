@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43233 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/DSRFLOW> ;
+    skos:prefLabel "DSRFLOW" ;
+    skos:related ocs:C14321,
+        ocs:C18180,
+        ocs:C3233,
+        ocs:C35923,
+        ocs:C37073,
+        ocs:C37888,
+        ocs:C38760,
+        ocs:C39642,
+        ocs:C39948,
+        ocs:C40576,
+        ocs:C40934,
+        ocs:C43403,
+        ocs:C44097,
+        ocs:C44823,
+        ocs:C45428 .
+

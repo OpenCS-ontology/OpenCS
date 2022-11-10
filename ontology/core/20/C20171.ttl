@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20171 a skos:Concept ;
+    skos:broader ocs:C11304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Street_hierarchy> ;
+    skos:prefLabel "Street hierarchy" ;
+    skos:related ocs:C17865,
+        ocs:C435,
+        ocs:C6243 .
+

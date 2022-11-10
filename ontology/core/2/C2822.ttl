@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2822 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_Certificate_Enrollment_Protocol> ;
+    skos:prefLabel "Simple Certificate Enrollment Protocol" ;
+    skos:related ocs:C10231,
+        ocs:C10284,
+        ocs:C13252,
+        ocs:C14952,
+        ocs:C20606,
+        ocs:C22493,
+        ocs:C23851,
+        ocs:C23995,
+        ocs:C24131,
+        ocs:C31065,
+        ocs:C31365,
+        ocs:C33191,
+        ocs:C34259,
+        ocs:C38185,
+        ocs:C40718,
+        ocs:C40789,
+        ocs:C43338,
+        ocs:C43534,
+        ocs:C44769 .
+

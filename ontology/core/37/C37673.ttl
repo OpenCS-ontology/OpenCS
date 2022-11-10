@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37673 a skos:Concept ;
+    skos:broader ocs:C17896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carbon_microphone> ;
+    skos:prefLabel "Carbon microphone" ;
+    skos:related ocs:C18001,
+        ocs:C21441,
+        ocs:C2582,
+        ocs:C26449,
+        ocs:C38517,
+        ocs:C5790,
+        ocs:C5843,
+        ocs:C7159,
+        ocs:C8291 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16232 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real_computation> ;
+    skos:prefLabel "Real computation" ;
+    skos:related ocs:C11885,
+        ocs:C20382,
+        ocs:C20939,
+        ocs:C2170,
+        ocs:C22100,
+        ocs:C23023,
+        ocs:C2420,
+        ocs:C24483,
+        ocs:C29,
+        ocs:C30675,
+        ocs:C32379,
+        ocs:C3678,
+        ocs:C38116,
+        ocs:C42400,
+        ocs:C5255,
+        ocs:C8660 .
+

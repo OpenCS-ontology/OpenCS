@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44594 a skos:Concept ;
+    skos:broader ocs:C30109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hess_diagram> ;
+    skos:prefLabel "Hess diagram" ;
+    skos:related ocs:C15251,
+        ocs:C21884,
+        ocs:C25586,
+        ocs:C26156,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C31399,
+        ocs:C31785,
+        ocs:C38445,
+        ocs:C39392,
+        ocs:C40683,
+        ocs:C43200,
+        ocs:C43393 .
+

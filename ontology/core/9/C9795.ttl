@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9795 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technophobia> ;
+    skos:prefLabel "Technophobia" ;
+    skos:related ocs:C10396,
+        ocs:C17913,
+        ocs:C23564,
+        ocs:C24555,
+        ocs:C8,
+        ocs:C8619,
+        ocs:C8991 .
+

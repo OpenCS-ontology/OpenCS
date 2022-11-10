@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27133 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arabic_grammar> ;
+    skos:prefLabel "Arabic grammar" ;
+    skos:related ocs:C10570,
+        ocs:C11957,
+        ocs:C20344,
+        ocs:C26599,
+        ocs:C28960,
+        ocs:C29067 .
+

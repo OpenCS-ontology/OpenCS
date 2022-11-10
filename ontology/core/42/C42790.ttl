@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42790 a skos:Concept ;
+    skos:broader ocs:C36867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eremophilus_mutisii> ;
+    skos:prefLabel "Eremophilus mutisii" ;
+    skos:related ocs:C24236,
+        ocs:C2698,
+        ocs:C31206,
+        ocs:C33650,
+        ocs:C36328,
+        ocs:C38897,
+        ocs:C39063,
+        ocs:C41080,
+        ocs:C43660,
+        ocs:C43754,
+        ocs:C45663 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7279 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remaster> ;
+    skos:prefLabel "Remaster" ;
+    skos:related ocs:C15341,
+        ocs:C24238,
+        ocs:C25195,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5819,
+        ocs:C622,
+        ocs:C7255 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33963 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_polygon> ;
+    skos:prefLabel "Simple polygon" ;
+    skos:related ocs:C32031,
+        ocs:C35574,
+        ocs:C36077,
+        ocs:C38214,
+        ocs:C5204,
+        ocs:C6279 .
+

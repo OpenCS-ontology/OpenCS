@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42710 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C32978,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_architecture_analysis_method> ;
+    skos:prefLabel "Software architecture analysis method" ;
+    skos:related ocs:C11203,
+        ocs:C14329,
+        ocs:C14401,
+        ocs:C23465,
+        ocs:C24712,
+        ocs:C25184,
+        ocs:C31527,
+        ocs:C31894,
+        ocs:C34713,
+        ocs:C38363,
+        ocs:C40490,
+        ocs:C40961,
+        ocs:C41135,
+        ocs:C41867,
+        ocs:C42543,
+        ocs:C42972,
+        ocs:C43303,
+        ocs:C43434,
+        ocs:C43774,
+        ocs:C4451 .
+

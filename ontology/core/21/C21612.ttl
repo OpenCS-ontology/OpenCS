@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21612 a skos:Concept ;
+    skos:broader ocs:C1727,
+        ocs:C1841,
+        ocs:C8169,
+        ocs:C9154 ;
+    skos:closeMatch <http://dbpedia.org/resource/DigRF> ;
+    skos:prefLabel "DigRF" ;
+    skos:related ocs:C13614,
+        ocs:C14118,
+        ocs:C16302,
+        ocs:C19350,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C28176,
+        ocs:C30338,
+        ocs:C32715,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C38536,
+        ocs:C4104,
+        ocs:C41460,
+        ocs:C41840,
+        ocs:C43951,
+        ocs:C45492,
+        ocs:C796 .
+

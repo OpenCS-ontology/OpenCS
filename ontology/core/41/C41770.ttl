@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41770 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31397,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concurrent_object-oriented_programming> ;
+    skos:prefLabel "Concurrent object-oriented programming" ;
+    skos:related ocs:C10327,
+        ocs:C10720,
+        ocs:C11000,
+        ocs:C11279,
+        ocs:C16968,
+        ocs:C23909,
+        ocs:C25382,
+        ocs:C26397,
+        ocs:C27334,
+        ocs:C33311,
+        ocs:C33921,
+        ocs:C3514,
+        ocs:C3706,
+        ocs:C43575,
+        ocs:C43888,
+        ocs:C45142,
+        ocs:C45775,
+        ocs:C6400,
+        ocs:C8751 .
+

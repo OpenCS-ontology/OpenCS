@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29059 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interaction_picture> ;
+    skos:prefLabel "Interaction picture" ;
+    skos:related ocs:C22400,
+        ocs:C24854,
+        ocs:C33115,
+        ocs:C33700 .
+

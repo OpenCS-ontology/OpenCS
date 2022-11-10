@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39778 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Versine> ;
+    skos:prefLabel "Versine" ;
+    skos:related ocs:C13541,
+        ocs:C14919,
+        ocs:C17969,
+        ocs:C39809,
+        ocs:C43694 .
+

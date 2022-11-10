@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31809 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bagridae> ;
+    skos:prefLabel "Bagridae" ;
+    skos:related ocs:C24236,
+        ocs:C32617,
+        ocs:C33479,
+        ocs:C36214,
+        ocs:C36286,
+        ocs:C37727,
+        ocs:C38193,
+        ocs:C39669,
+        ocs:C42823,
+        ocs:C43111,
+        ocs:C43354,
+        ocs:C44467 .
+

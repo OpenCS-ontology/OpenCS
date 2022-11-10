@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44858 a skos:Concept ;
+    skos:broader ocs:C31845,
+        ocs:C32107,
+        ocs:C34795,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signature_(logic)> ;
+    skos:prefLabel "Signature (logic)" ;
+    skos:related ocs:C12474,
+        ocs:C2418,
+        ocs:C26094,
+        ocs:C44499,
+        ocs:C4517,
+        ocs:C45295,
+        ocs:C524,
+        ocs:C6047,
+        ocs:C8635 .
+

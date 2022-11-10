@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5039 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Not_invented_here> ;
+    skos:prefLabel "Not invented here" ;
+    skos:related ocs:C10781,
+        ocs:C11928,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C14271,
+        ocs:C197,
+        ocs:C2399,
+        ocs:C24453,
+        ocs:C24837,
+        ocs:C27519,
+        ocs:C27996,
+        ocs:C45120,
+        ocs:C7170,
+        ocs:C8997 .
+

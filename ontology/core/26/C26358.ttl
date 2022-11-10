@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26358 a skos:Concept ;
+    skos:broader ocs:C12942,
+        ocs:C8475,
+        ocs:C9914 ;
+    skos:closeMatch <http://dbpedia.org/resource/AN/UCC-4> ;
+    skos:prefLabel "AN/UCC-4" ;
+    skos:related ocs:C10409,
+        ocs:C11824,
+        ocs:C1727,
+        ocs:C2582,
+        ocs:C30432,
+        ocs:C30503,
+        ocs:C330,
+        ocs:C35301,
+        ocs:C41370,
+        ocs:C44707,
+        ocs:C7464 .
+

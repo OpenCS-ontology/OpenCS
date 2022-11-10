@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14423 a skos:Concept ;
+    skos:broader ocs:C1262,
+        ocs:C6028 ;
+    skos:closeMatch <http://dbpedia.org/resource/Illocutionary_act> ;
+    skos:prefLabel "Illocutionary act" ;
+    skos:related ocs:C1034,
+        ocs:C25495,
+        ocs:C32587,
+        ocs:C39863,
+        ocs:C6028,
+        ocs:C7467 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19096 a skos:Concept ;
+    skos:broader ocs:C5338,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seam_carving> ;
+    skos:prefLabel "Seam carving" ;
+    skos:related ocs:C10,
+        ocs:C13155,
+        ocs:C14107,
+        ocs:C21158,
+        ocs:C22,
+        ocs:C2937,
+        ocs:C30035,
+        ocs:C31489,
+        ocs:C34585,
+        ocs:C41662,
+        ocs:C4584,
+        ocs:C4966,
+        ocs:C669,
+        ocs:C77,
+        ocs:C797,
+        ocs:C9604 .
+

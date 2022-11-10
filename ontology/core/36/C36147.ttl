@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36147 a skos:Concept ;
+    skos:broader ocs:C26694 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clinical_coder> ;
+    skos:prefLabel "Clinical coder" ;
+    skos:related ocs:C10524,
+        ocs:C14932,
+        ocs:C1623,
+        ocs:C18682,
+        ocs:C26644 .
+

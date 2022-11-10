@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8342 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Percent_sign> ;
+    skos:prefLabel "Percent sign" ;
+    skos:related ocs:C10284,
+        ocs:C11149,
+        ocs:C12983,
+        ocs:C19,
+        ocs:C30078,
+        ocs:C39526,
+        ocs:C4922,
+        ocs:C5126,
+        ocs:C6493,
+        ocs:C7693,
+        ocs:C8988 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11020 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/C37.94> ;
+    skos:prefLabel "C37.94" ;
+    skos:related ocs:C11018,
+        ocs:C11554,
+        ocs:C26216,
+        ocs:C34034,
+        ocs:C9718 .
+

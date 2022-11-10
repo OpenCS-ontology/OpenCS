@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10772 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Punched_card> ;
+    skos:prefLabel "Punched card" ;
+    skos:related ocs:C12815,
+        ocs:C12851,
+        ocs:C13372,
+        ocs:C15673,
+        ocs:C17204,
+        ocs:C24544,
+        ocs:C3231,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9162 .
+

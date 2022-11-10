@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7699 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geomipmapping> ;
+    skos:prefLabel "Geomipmapping" ;
+    skos:related ocs:C10320,
+        ocs:C11689,
+        ocs:C12577,
+        ocs:C13312,
+        ocs:C14895,
+        ocs:C15820,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C21427,
+        ocs:C22,
+        ocs:C23149,
+        ocs:C32556,
+        ocs:C36168,
+        ocs:C37333,
+        ocs:C39182,
+        ocs:C42489,
+        ocs:C44381,
+        ocs:C6448,
+        ocs:C9314 .
+

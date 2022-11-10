@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40797 a skos:Concept ;
+    skos:broader ocs:C29901,
+        ocs:C34566,
+        ocs:C36538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regulated_rewriting> ;
+    skos:prefLabel "Regulated rewriting" ;
+    skos:related ocs:C12870,
+        ocs:C13751,
+        ocs:C17732,
+        ocs:C21926,
+        ocs:C22624,
+        ocs:C24026,
+        ocs:C25202,
+        ocs:C26158,
+        ocs:C33287,
+        ocs:C34888,
+        ocs:C34939,
+        ocs:C38284,
+        ocs:C39656,
+        ocs:C40518,
+        ocs:C40875,
+        ocs:C41098,
+        ocs:C41354,
+        ocs:C42635,
+        ocs:C45525 .
+

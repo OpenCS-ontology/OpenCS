@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9876 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human–computer_information_retrieval> ;
+    skos:prefLabel "Human–computer information retrieval" ;
+    skos:related ocs:C11087,
+        ocs:C11089,
+        ocs:C13520,
+        ocs:C17722,
+        ocs:C18,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C26634,
+        ocs:C29402,
+        ocs:C3364,
+        ocs:C33651,
+        ocs:C34208,
+        ocs:C39815,
+        ocs:C3983,
+        ocs:C40049,
+        ocs:C9704 .
+

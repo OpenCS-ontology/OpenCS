@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7436 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_verification> ;
+    skos:prefLabel "File verification" ;
+    skos:related ocs:C13767,
+        ocs:C15591,
+        ocs:C16125,
+        ocs:C17903,
+        ocs:C23875,
+        ocs:C30090,
+        ocs:C30340,
+        ocs:C33416,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39101,
+        ocs:C3936,
+        ocs:C39524,
+        ocs:C40146,
+        ocs:C4026,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C8750 .
+

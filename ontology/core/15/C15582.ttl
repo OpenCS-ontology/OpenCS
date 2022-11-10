@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15582 a skos:Concept ;
+    skos:broader ocs:C2422 ;
+    skos:closeMatch <http://dbpedia.org/resource/Worth_4_dot_test> ;
+    skos:prefLabel "Worth test" ;
+    skos:related ocs:C2422 .
+

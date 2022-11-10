@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29804 a skos:Concept ;
+    skos:broader ocs:C22014 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triple-alpha_process> ;
+    skos:prefLabel "Triple-alpha process" ;
+    skos:related ocs:C20206,
+        ocs:C21208,
+        ocs:C21307,
+        ocs:C21884,
+        ocs:C22014,
+        ocs:C22542,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C30752,
+        ocs:C30948,
+        ocs:C37677,
+        ocs:C40619,
+        ocs:C597 .
+

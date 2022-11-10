@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12860 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTTP_location> ;
+    skos:prefLabel "HTTP location" ;
+    skos:related ocs:C12055,
+        ocs:C12858,
+        ocs:C16338,
+        ocs:C22597,
+        ocs:C23016,
+        ocs:C2566,
+        ocs:C28480,
+        ocs:C39074,
+        ocs:C39128,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C437,
+        ocs:C45342,
+        ocs:C4663,
+        ocs:C6689,
+        ocs:C7147,
+        ocs:C7533,
+        ocs:C8466,
+        ocs:C8771 .
+

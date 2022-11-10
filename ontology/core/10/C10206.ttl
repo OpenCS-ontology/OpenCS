@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10206 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PICMG_1.0> ;
+    skos:prefLabel "PICMG 1.0" ;
+    skos:related ocs:C13022,
+        ocs:C2084,
+        ocs:C23239,
+        ocs:C23465,
+        ocs:C29323,
+        ocs:C33099,
+        ocs:C41110,
+        ocs:C4159,
+        ocs:C521,
+        ocs:C7750,
+        ocs:C9093 .
+

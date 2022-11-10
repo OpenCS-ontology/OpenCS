@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10011 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulation-based_optimization> ;
+    skos:prefLabel "Simulation-based optimization" ;
+    skos:related ocs:C11372,
+        ocs:C13610,
+        ocs:C17791,
+        ocs:C20325,
+        ocs:C22089,
+        ocs:C23250,
+        ocs:C25196,
+        ocs:C25774,
+        ocs:C29055,
+        ocs:C29578,
+        ocs:C37201,
+        ocs:C38436,
+        ocs:C44532,
+        ocs:C513,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C9780 .
+

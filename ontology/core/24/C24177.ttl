@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24177 a skos:Concept ;
+    skos:broader ocs:C12373 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ergodic_sequence> ;
+    skos:prefLabel "Ergodic sequence" ;
+    skos:related ocs:C18994,
+        ocs:C27825,
+        ocs:C32127,
+        ocs:C6909 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27969 a skos:Concept ;
+    skos:broader ocs:C7767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bouteloua_gracilis> ;
+    skos:prefLabel "Bouteloua gracilis" ;
+    skos:related ocs:C19519,
+        ocs:C30968,
+        ocs:C31132,
+        ocs:C34579,
+        ocs:C39757 .
+

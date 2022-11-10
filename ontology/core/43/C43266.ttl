@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43266 a skos:Concept ;
+    skos:broader ocs:C30270 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prewellordering> ;
+    skos:prefLabel "Prewellordering" ;
+    skos:related ocs:C25113,
+        ocs:C42066,
+        ocs:C43648,
+        ocs:C5251,
+        ocs:C608,
+        ocs:C623 .
+

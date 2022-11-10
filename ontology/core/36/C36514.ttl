@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36514 a skos:Concept ;
+    skos:broader ocs:C28668 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_information_system> ;
+    skos:prefLabel "Web information system" ;
+    skos:related ocs:C1,
+        ocs:C10988,
+        ocs:C15597,
+        ocs:C16336,
+        ocs:C19848,
+        ocs:C22597,
+        ocs:C2303,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C2529,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C4397,
+        ocs:C4500,
+        ocs:C5839,
+        ocs:C7106,
+        ocs:C8583,
+        ocs:C8614 .
+

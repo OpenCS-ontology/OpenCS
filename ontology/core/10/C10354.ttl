@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10354 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Test timing" ;
+    skos:related ocs:C10,
+        ocs:C11,
+        ocs:C11690,
+        ocs:C2,
+        ocs:C33,
+        ocs:C5624,
+        ocs:C5706,
+        ocs:C8,
+        ocs:C987 .
+

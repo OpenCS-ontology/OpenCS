@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36151 a skos:Concept ;
+    skos:broader ocs:C26006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_obfuscation> ;
+    skos:prefLabel "Hardware obfuscation" ;
+    skos:related ocs:C10320,
+        ocs:C10965,
+        ocs:C14650,
+        ocs:C17790,
+        ocs:C19400,
+        ocs:C19521,
+        ocs:C22124,
+        ocs:C24200,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C33318,
+        ocs:C34718,
+        ocs:C37773,
+        ocs:C4218,
+        ocs:C5336,
+        ocs:C8460 .
+

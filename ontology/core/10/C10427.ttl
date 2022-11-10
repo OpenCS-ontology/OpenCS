@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10427 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26 ;
+    skos:prefLabel "Origination site" ;
+    skos:related ocs:C1,
+        ocs:C11620,
+        ocs:C17,
+        ocs:C2,
+        ocs:C515 .
+

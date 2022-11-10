@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8374 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Intermittent observation" ;
+    skos:related ocs:C10,
+        ocs:C13685,
+        ocs:C24 .
+

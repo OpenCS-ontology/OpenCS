@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37671 a skos:Concept ;
+    skos:broader ocs:C16913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nuisance_variable> ;
+    skos:prefLabel "Nuisance variable" ;
+    skos:related ocs:C11767,
+        ocs:C12748,
+        ocs:C14030,
+        ocs:C15256,
+        ocs:C16169,
+        ocs:C16913,
+        ocs:C22334,
+        ocs:C23888,
+        ocs:C31024,
+        ocs:C33043,
+        ocs:C6291,
+        ocs:C6909,
+        ocs:C7689 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23097 a skos:Concept ;
+    skos:broader ocs:C7789 ;
+    skos:closeMatch <http://dbpedia.org/resource/Charge-coupled_device> ;
+    skos:prefLabel "CCD - charge coupled device" ;
+    skos:related ocs:C10492,
+        ocs:C12580,
+        ocs:C2,
+        ocs:C2196,
+        ocs:C23849,
+        ocs:C25586,
+        ocs:C5336,
+        ocs:C5620,
+        ocs:C8021 .
+

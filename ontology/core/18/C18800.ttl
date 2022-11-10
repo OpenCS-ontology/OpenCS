@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18800 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Order_dimension> ;
+    skos:prefLabel "Order dimension" ;
+    skos:related ocs:C13647,
+        ocs:C15414,
+        ocs:C24232,
+        ocs:C38781,
+        ocs:C40783,
+        ocs:C41484,
+        ocs:C41540 .
+

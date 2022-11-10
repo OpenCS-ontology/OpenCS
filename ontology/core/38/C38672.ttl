@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38672 a skos:Concept ;
+    skos:broader ocs:C30652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Route_filtering> ;
+    skos:prefLabel "Route filtering" ;
+    skos:related ocs:C14321,
+        ocs:C1741,
+        ocs:C21894,
+        ocs:C26,
+        ocs:C35362,
+        ocs:C36384,
+        ocs:C37035,
+        ocs:C38632,
+        ocs:C39681,
+        ocs:C40397,
+        ocs:C40959,
+        ocs:C41206,
+        ocs:C42853,
+        ocs:C43012,
+        ocs:C43015,
+        ocs:C44229,
+        ocs:C45498,
+        ocs:C45517,
+        ocs:C849,
+        ocs:C8614 .
+

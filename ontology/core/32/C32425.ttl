@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32425 a skos:Concept ;
+    skos:broader ocs:C25677 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_control_theory> ;
+    skos:prefLabel "Identity control theory" ;
+    skos:related ocs:C18212 .
+

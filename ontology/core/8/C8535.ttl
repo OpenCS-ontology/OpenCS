@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8535 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voice_inversion> ;
+    skos:prefLabel "Voice inversion" ;
+    skos:related ocs:C12582,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C17555,
+        ocs:C17661,
+        ocs:C17926,
+        ocs:C18001,
+        ocs:C18761,
+        ocs:C22451,
+        ocs:C23488,
+        ocs:C27103,
+        ocs:C28744,
+        ocs:C35301,
+        ocs:C38024,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C5692,
+        ocs:C7502,
+        ocs:C9176 .
+

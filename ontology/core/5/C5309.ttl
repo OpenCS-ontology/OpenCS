@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5309 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C19,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_judge> ;
+    skos:prefLabel "Online judge" ;
+    skos:related ocs:C10,
+        ocs:C12762,
+        ocs:C14548,
+        ocs:C15531,
+        ocs:C19,
+        ocs:C2057 .
+

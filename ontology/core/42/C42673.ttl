@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42673 a skos:Concept ;
+    skos:broader ocs:C32506,
+        ocs:C33052,
+        ocs:C34168,
+        ocs:C36924 ;
+    skos:prefLabel "Xml query languages" .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28063 a skos:Concept ;
+    skos:broader ocs:C12262,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-precision_floating-point_format> ;
+    skos:prefLabel "Single-precision floating-point format" ;
+    skos:related ocs:C10320,
+        ocs:C12262,
+        ocs:C19487,
+        ocs:C21384,
+        ocs:C21496,
+        ocs:C22452,
+        ocs:C22525,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C31030,
+        ocs:C3450,
+        ocs:C36704,
+        ocs:C37239,
+        ocs:C37518,
+        ocs:C39774,
+        ocs:C40691,
+        ocs:C42983,
+        ocs:C43784,
+        ocs:C45395 .
+

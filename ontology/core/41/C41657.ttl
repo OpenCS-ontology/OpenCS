@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41657 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C34051 ;
+    skos:closeMatch <http://dbpedia.org/resource/Edge_space> ;
+    skos:prefLabel "Edge space" ;
+    skos:related ocs:C11395,
+        ocs:C15255,
+        ocs:C15460,
+        ocs:C19336,
+        ocs:C19596,
+        ocs:C26989,
+        ocs:C30533,
+        ocs:C31647,
+        ocs:C33699,
+        ocs:C36200,
+        ocs:C38171,
+        ocs:C38361,
+        ocs:C40694,
+        ocs:C41114,
+        ocs:C42087,
+        ocs:C42162,
+        ocs:C45422 .
+

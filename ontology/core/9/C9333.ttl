@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9333 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Survival_radio> ;
+    skos:prefLabel "Survival radio" ;
+    skos:related ocs:C10078,
+        ocs:C10103,
+        ocs:C11669,
+        ocs:C12118,
+        ocs:C12641,
+        ocs:C12648,
+        ocs:C1589,
+        ocs:C21441,
+        ocs:C30281,
+        ocs:C30901,
+        ocs:C34620,
+        ocs:C4427,
+        ocs:C702 .
+

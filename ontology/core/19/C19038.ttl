@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19038 a skos:Concept ;
+    skos:broader ocs:C3390,
+        ocs:C6243 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_congestion_reconstruction_with_Kerner's_three-phase_theory> ;
+    skos:prefLabel "Traffic congestion reconstruction with Kerner's three-phase theory" ;
+    skos:related ocs:C11869,
+        ocs:C15115,
+        ocs:C21412,
+        ocs:C27525,
+        ocs:C27658,
+        ocs:C28361,
+        ocs:C31393,
+        ocs:C32722,
+        ocs:C3390,
+        ocs:C36448,
+        ocs:C39139,
+        ocs:C43067,
+        ocs:C45111,
+        ocs:C4694,
+        ocs:C6243,
+        ocs:C9100 .
+

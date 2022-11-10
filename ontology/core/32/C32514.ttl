@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32514 a skos:Concept ;
+    skos:broader ocs:C16120,
+        ocs:C18799 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cell_breathing_(telephony)> ;
+    skos:prefLabel "Cell breathing" ;
+    skos:related ocs:C1041,
+        ocs:C12767,
+        ocs:C16022,
+        ocs:C18799,
+        ocs:C20116,
+        ocs:C20859,
+        ocs:C29419,
+        ocs:C30037,
+        ocs:C3074,
+        ocs:C34471,
+        ocs:C35169,
+        ocs:C37368,
+        ocs:C4255,
+        ocs:C42961,
+        ocs:C6114,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9332 .
+

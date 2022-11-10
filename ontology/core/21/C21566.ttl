@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21566 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_leg> ;
+    skos:prefLabel "Robot leg" ;
+    skos:related ocs:C10396,
+        ocs:C16890,
+        ocs:C17234,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C21943,
+        ocs:C23165,
+        ocs:C2658,
+        ocs:C29532,
+        ocs:C34709,
+        ocs:C35805,
+        ocs:C36567,
+        ocs:C5922 .
+

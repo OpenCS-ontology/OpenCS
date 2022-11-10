@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31261 a skos:Concept ;
+    skos:broader ocs:C29181 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_20000> ;
+    skos:prefLabel "ISO/IEC 20000" ;
+    skos:related ocs:C12149,
+        ocs:C12507,
+        ocs:C1399,
+        ocs:C24513,
+        ocs:C27261,
+        ocs:C27500,
+        ocs:C29181,
+        ocs:C32020,
+        ocs:C35343,
+        ocs:C3674,
+        ocs:C40111,
+        ocs:C44040,
+        ocs:C45654,
+        ocs:C9121,
+        ocs:C9700 .
+

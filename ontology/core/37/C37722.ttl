@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37722 a skos:Concept ;
+    skos:broader ocs:C15804,
+        ocs:C20373 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metro_Ethernet> ;
+    skos:prefLabel "Metro Ethernet" ;
+    skos:related ocs:C11157,
+        ocs:C13857,
+        ocs:C15589,
+        ocs:C19350,
+        ocs:C20373,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C3,
+        ocs:C35370,
+        ocs:C36975,
+        ocs:C42234,
+        ocs:C44776,
+        ocs:C45690,
+        ocs:C490,
+        ocs:C8567,
+        ocs:C9327 .
+

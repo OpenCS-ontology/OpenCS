@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42892 a skos:Concept ;
+    skos:broader ocs:C31484,
+        ocs:C32049,
+        ocs:C32321 ;
+    skos:prefLabel "Sum product decoding" .
+

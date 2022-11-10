@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32366 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Automatic perimeter" ;
+    skos:related ocs:C22,
+        ocs:C35970,
+        ocs:C5854 .
+

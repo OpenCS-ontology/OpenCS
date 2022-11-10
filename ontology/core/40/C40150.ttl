@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40150 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adiabatic_circuit> ;
+    skos:prefLabel "Adiabatic circuit" ;
+    skos:related ocs:C11252,
+        ocs:C12002,
+        ocs:C21765,
+        ocs:C23610,
+        ocs:C24204,
+        ocs:C25678 .
+

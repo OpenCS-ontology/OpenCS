@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24251 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rockworks> ;
+    skos:prefLabel "Rockworks" ;
+    skos:related ocs:C15806,
+        ocs:C2115,
+        ocs:C21305,
+        ocs:C25040,
+        ocs:C25847,
+        ocs:C28233,
+        ocs:C8756,
+        ocs:C8781,
+        ocs:C969 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12600 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_operating_system> ;
+    skos:prefLabel "Trusted operating system" ;
+    skos:related ocs:C10932,
+        ocs:C1156,
+        ocs:C12052,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C15860,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C20443,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C29434,
+        ocs:C31489,
+        ocs:C33988,
+        ocs:C3757,
+        ocs:C40604,
+        ocs:C41226,
+        ocs:C42619,
+        ocs:C4832,
+        ocs:C9 .
+

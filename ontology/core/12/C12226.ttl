@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12226 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Employee_exit_management> ;
+    skos:prefLabel "Employee offboarding" ;
+    skos:related ocs:C12752,
+        ocs:C1399,
+        ocs:C17878,
+        ocs:C20295,
+        ocs:C25464,
+        ocs:C35,
+        ocs:C41901,
+        ocs:C7006,
+        ocs:C9851 .
+

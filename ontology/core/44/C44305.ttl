@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44305 a skos:Concept ;
+    skos:broader ocs:C34711,
+        ocs:C35657,
+        ocs:C36221,
+        ocs:C36970 ;
+    skos:prefLabel "Fuzzy lyapunov function" .
+

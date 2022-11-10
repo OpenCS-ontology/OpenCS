@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17597 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12110,
+        ocs:C9106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linguistic_universal> ;
+    skos:prefLabel "Linguistic universal" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C15647,
+        ocs:C16672,
+        ocs:C1952,
+        ocs:C2298,
+        ocs:C30276,
+        ocs:C3261,
+        ocs:C4587,
+        ocs:C4650,
+        ocs:C6545,
+        ocs:C9777 .
+

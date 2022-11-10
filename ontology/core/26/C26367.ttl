@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26367 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C4321,
+        ocs:C6714,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Livermore_loops> ;
+    skos:prefLabel "Livermore loops" ;
+    skos:related ocs:C12115,
+        ocs:C17570,
+        ocs:C22554,
+        ocs:C23022,
+        ocs:C25043,
+        ocs:C27,
+        ocs:C3141,
+        ocs:C40330,
+        ocs:C40762,
+        ocs:C4321,
+        ocs:C44841,
+        ocs:C6714,
+        ocs:C7735,
+        ocs:C9245 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25786 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C2800 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_art> ;
+    skos:prefLabel "Virtual art" ;
+    skos:related ocs:C12448,
+        ocs:C13153,
+        ocs:C13320,
+        ocs:C14032,
+        ocs:C17,
+        ocs:C22,
+        ocs:C2800,
+        ocs:C2883,
+        ocs:C6757,
+        ocs:C9603 .
+

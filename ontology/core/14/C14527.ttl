@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14527 a skos:Concept ;
+    skos:broader ocs:C12759,
+        ocs:C8020 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_orthography> ;
+    skos:prefLabel "English orthography" ;
+    skos:related ocs:C12222,
+        ocs:C13096,
+        ocs:C15020,
+        ocs:C17395,
+        ocs:C17677,
+        ocs:C19146,
+        ocs:C19812,
+        ocs:C2025,
+        ocs:C27326,
+        ocs:C27533,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C36864,
+        ocs:C7131,
+        ocs:C8020 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26608 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Micromixer> ;
+    skos:prefLabel "Micromixer" ;
+    skos:related ocs:C14102,
+        ocs:C14982,
+        ocs:C28514 .
+

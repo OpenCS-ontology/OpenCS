@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2498 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:prefLabel "Transportation request" ;
+    skos:related ocs:C1134,
+        ocs:C12431,
+        ocs:C13265,
+        ocs:C26,
+        ocs:C28022,
+        ocs:C29,
+        ocs:C30,
+        ocs:C33,
+        ocs:C35,
+        ocs:C3778,
+        ocs:C8704,
+        ocs:C932 .
+

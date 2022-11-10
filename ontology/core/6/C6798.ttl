@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6798 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SIMM> ;
+    skos:prefLabel "SIMM" ;
+    skos:related ocs:C10320,
+        ocs:C11960,
+        ocs:C13022,
+        ocs:C13875,
+        ocs:C19481,
+        ocs:C22525,
+        ocs:C25107,
+        ocs:C27610,
+        ocs:C33838,
+        ocs:C35309,
+        ocs:C36894,
+        ocs:C44,
+        ocs:C9 .
+

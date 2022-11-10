@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45643 a skos:Concept ;
+    skos:broader ocs:C31627 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conjugate_prior> ;
+    skos:prefLabel "Conjugate prior" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C22075,
+        ocs:C22258,
+        ocs:C26986,
+        ocs:C28074,
+        ocs:C34619,
+        ocs:C38623,
+        ocs:C40060 .
+

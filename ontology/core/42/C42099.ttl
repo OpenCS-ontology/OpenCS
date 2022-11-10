@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42099 a skos:Concept ;
+    skos:broader ocs:C33603,
+        ocs:C37207 ;
+    skos:closeMatch <http://dbpedia.org/resource/Curtis–Hedlund–Lyndon_theorem> ;
+    skos:prefLabel "Curtis–Hedlund–Lyndon theorem" ;
+    skos:related ocs:C122,
+        ocs:C17882,
+        ocs:C39305,
+        ocs:C45217 .
+

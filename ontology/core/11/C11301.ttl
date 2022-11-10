@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11301 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equipment_codes> ;
+    skos:prefLabel "Equipment codes" ;
+    skos:related ocs:C15050,
+        ocs:C15283,
+        ocs:C15796,
+        ocs:C18229,
+        ocs:C23444,
+        ocs:C26346,
+        ocs:C27698,
+        ocs:C27838,
+        ocs:C30057,
+        ocs:C32563,
+        ocs:C36681,
+        ocs:C36895,
+        ocs:C38155,
+        ocs:C40906,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C9720 .
+

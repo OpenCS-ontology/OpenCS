@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3309 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interaction_model> ;
+    skos:prefLabel "Interaction model" ;
+    skos:related ocs:C1261,
+        ocs:C13153,
+        ocs:C13320,
+        ocs:C20671,
+        ocs:C26281,
+        ocs:C26846,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C4973,
+        ocs:C5634 .
+

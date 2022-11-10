@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20310 a skos:Concept ;
+    skos:broader ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Policy-based_management> ;
+    skos:prefLabel "Policy-based management" ;
+    skos:related ocs:C11184,
+        ocs:C14417,
+        ocs:C16402,
+        ocs:C17918,
+        ocs:C18107,
+        ocs:C20668,
+        ocs:C23666,
+        ocs:C30880,
+        ocs:C31146,
+        ocs:C3394,
+        ocs:C34267,
+        ocs:C34921,
+        ocs:C39341,
+        ocs:C44603,
+        ocs:C45575,
+        ocs:C6592,
+        ocs:C7106,
+        ocs:C8665,
+        ocs:C8896 .
+

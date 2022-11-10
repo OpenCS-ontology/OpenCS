@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30564 a skos:Concept ;
+    skos:broader ocs:C14032 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyberethics> ;
+    skos:prefLabel "Cyberethics" ;
+    skos:related ocs:C11540,
+        ocs:C14026,
+        ocs:C14032,
+        ocs:C16181,
+        ocs:C16369,
+        ocs:C17046,
+        ocs:C18764,
+        ocs:C21961,
+        ocs:C33442,
+        ocs:C395,
+        ocs:C5,
+        ocs:C8614 .
+

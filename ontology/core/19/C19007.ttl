@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19007 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/ANOVA_gauge_R&R> ;
+    skos:prefLabel "ANOVA gauge R&R" ;
+    skos:related ocs:C30858,
+        ocs:C8456,
+        ocs:C8694 .
+

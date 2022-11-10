@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22629 a skos:Concept ;
+    skos:broader ocs:C12673,
+        ocs:C670,
+        ocs:C8888 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indicated_airspeed> ;
+    skos:prefLabel "Indicated airspeed" ;
+    skos:related ocs:C15071,
+        ocs:C25753,
+        ocs:C31255,
+        ocs:C37071,
+        ocs:C41539,
+        ocs:C5913,
+        ocs:C670,
+        ocs:C8888 .
+

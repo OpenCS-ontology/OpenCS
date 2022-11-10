@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31811 a skos:Concept ;
+    skos:broader ocs:C20149 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_reality_sickness> ;
+    skos:prefLabel "Virtual reality sickness" ;
+    skos:related ocs:C11457,
+        ocs:C13320,
+        ocs:C13631,
+        ocs:C18171,
+        ocs:C20149,
+        ocs:C24397,
+        ocs:C244,
+        ocs:C2800,
+        ocs:C35621,
+        ocs:C6881 .
+

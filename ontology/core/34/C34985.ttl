@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34985 a skos:Concept ;
+    skos:broader ocs:C20748 ;
+    skos:closeMatch <http://dbpedia.org/resource/AP_Physics_1> ;
+    skos:prefLabel "AP Physics 1" ;
+    skos:related ocs:C20748,
+        ocs:C43430,
+        ocs:C9855 .
+

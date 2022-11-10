@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15798 a skos:Concept ;
+    skos:broader ocs:C10965 ;
+    skos:closeMatch <http://dbpedia.org/resource/Floorplan_(microelectronics)> ;
+    skos:prefLabel "Floorplan" ;
+    skos:related ocs:C10377,
+        ocs:C14650,
+        ocs:C15664,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C27118,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C30433,
+        ocs:C35802,
+        ocs:C37773,
+        ocs:C41136,
+        ocs:C4274,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C8460 .
+

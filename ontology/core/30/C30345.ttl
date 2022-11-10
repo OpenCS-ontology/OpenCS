@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30345 a skos:Concept ;
+    skos:broader ocs:C25936 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi_Unit_Spectroscopic_Explorer> ;
+    skos:prefLabel "Multi Unit Spectroscopic Explorer" ;
+    skos:related ocs:C14237,
+        ocs:C16178,
+        ocs:C17246,
+        ocs:C18230,
+        ocs:C25936,
+        ocs:C25949,
+        ocs:C35164,
+        ocs:C38572,
+        ocs:C41072 .
+

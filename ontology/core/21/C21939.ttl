@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21939 a skos:Concept ;
+    skos:broader ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-data_management> ;
+    skos:prefLabel "Metadata management" ;
+    skos:related ocs:C11952,
+        ocs:C11997,
+        ocs:C20153,
+        ocs:C20647,
+        ocs:C20667,
+        ocs:C23756,
+        ocs:C28117,
+        ocs:C3034,
+        ocs:C31518,
+        ocs:C32413,
+        ocs:C35637,
+        ocs:C35993,
+        ocs:C3696,
+        ocs:C37747,
+        ocs:C38252,
+        ocs:C3896,
+        ocs:C41877,
+        ocs:C9244 .
+

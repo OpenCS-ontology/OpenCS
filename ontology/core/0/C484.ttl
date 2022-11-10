@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C484 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:prefLabel "Associated party" ;
+    skos:related ocs:C1,
+        ocs:C2674,
+        ocs:C3,
+        ocs:C35,
+        ocs:C4561,
+        ocs:C5746 .
+

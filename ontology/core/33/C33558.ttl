@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33558 a skos:Concept ;
+    skos:broader ocs:C18828 ;
+    skos:closeMatch <http://dbpedia.org/resource/DAP_FORTRAN> ;
+    skos:prefLabel "DAP FORTRAN" ;
+    skos:related ocs:C10320,
+        ocs:C10938,
+        ocs:C13970,
+        ocs:C15179,
+        ocs:C164,
+        ocs:C17570,
+        ocs:C17626,
+        ocs:C26422,
+        ocs:C27,
+        ocs:C32161,
+        ocs:C37674,
+        ocs:C40762,
+        ocs:C43505,
+        ocs:C5766,
+        ocs:C6714 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37819 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triacontagon> ;
+    skos:prefLabel "Triacontagon" ;
+    skos:related ocs:C40166,
+        ocs:C42462,
+        ocs:C42935,
+        ocs:C44703 .
+

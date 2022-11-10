@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20898 a skos:Concept ;
+    skos:broader ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shibboleth> ;
+    skos:prefLabel "Shibboleth" ;
+    skos:related ocs:C12388,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C18386,
+        ocs:C2847 .
+

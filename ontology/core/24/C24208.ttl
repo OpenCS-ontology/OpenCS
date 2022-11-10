@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24208 a skos:Concept ;
+    skos:broader ocs:C8946 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shapefile> ;
+    skos:prefLabel "Shapefile" ;
+    skos:related ocs:C10822,
+        ocs:C14626,
+        ocs:C20066,
+        ocs:C23889,
+        ocs:C27492,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C38891,
+        ocs:C40725,
+        ocs:C42090,
+        ocs:C44203 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1577 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Program_synthesis> ;
+    skos:prefLabel "Program synthesis" ;
+    skos:related ocs:C10,
+        ocs:C10498,
+        ocs:C12657,
+        ocs:C16100,
+        ocs:C1631,
+        ocs:C17709,
+        ocs:C18566,
+        ocs:C2057,
+        ocs:C2418,
+        ocs:C26693,
+        ocs:C3484,
+        ocs:C4149,
+        ocs:C45817,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C7903,
+        ocs:C8,
+        ocs:C9772 .
+

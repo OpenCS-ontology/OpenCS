@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37991 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C32289,
+        ocs:C33141,
+        ocs:C35693 ;
+    skos:prefLabel "Kernel clustering" .
+

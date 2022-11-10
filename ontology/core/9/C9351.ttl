@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9351 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Related Record" ;
+    skos:related ocs:C10444,
+        ocs:C2,
+        ocs:C22,
+        ocs:C23,
+        ocs:C26,
+        ocs:C26337,
+        ocs:C26502,
+        ocs:C3231,
+        ocs:C33,
+        ocs:C3901,
+        ocs:C6114,
+        ocs:C8782 .
+

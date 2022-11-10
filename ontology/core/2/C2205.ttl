@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2205 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interlaken_(networking)> ;
+    skos:prefLabel "Interlaken" ;
+    skos:related ocs:C12698,
+        ocs:C14938,
+        ocs:C20323,
+        ocs:C21620,
+        ocs:C21818,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C2659,
+        ocs:C2799,
+        ocs:C2842,
+        ocs:C3005,
+        ocs:C35692,
+        ocs:C35923,
+        ocs:C3627,
+        ocs:C36980,
+        ocs:C44266,
+        ocs:C6185 .
+

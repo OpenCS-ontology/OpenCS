@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11582 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/UltraSPARC_IV> ;
+    skos:prefLabel "UltraSPARC IV" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C14376,
+        ocs:C14627,
+        ocs:C17693,
+        ocs:C19487,
+        ocs:C31823,
+        ocs:C3935,
+        ocs:C6172,
+        ocs:C7977,
+        ocs:C856 .
+

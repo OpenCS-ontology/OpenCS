@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38166 a skos:Concept ;
+    skos:broader ocs:C30409,
+        ocs:C36540,
+        ocs:C37370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_rules_approach> ;
+    skos:prefLabel "Business rules approach" ;
+    skos:related ocs:C10444,
+        ocs:C10508,
+        ocs:C11927,
+        ocs:C12064,
+        ocs:C14156,
+        ocs:C16334,
+        ocs:C16874,
+        ocs:C17238,
+        ocs:C17701,
+        ocs:C197,
+        ocs:C20385,
+        ocs:C24477,
+        ocs:C28632,
+        ocs:C39366,
+        ocs:C41875,
+        ocs:C41941,
+        ocs:C43655,
+        ocs:C44883,
+        ocs:C6,
+        ocs:C852 .
+

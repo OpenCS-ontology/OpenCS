@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30678 a skos:Concept ;
+    skos:broader ocs:C13935,
+        ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/GNSS_reflectometry> ;
+    skos:prefLabel "GNSS reflectometry" ;
+    skos:related ocs:C12641,
+        ocs:C14699,
+        ocs:C21630,
+        ocs:C21814,
+        ocs:C27698,
+        ocs:C28779,
+        ocs:C30057,
+        ocs:C30565,
+        ocs:C34811,
+        ocs:C34871,
+        ocs:C37214,
+        ocs:C38986 .
+

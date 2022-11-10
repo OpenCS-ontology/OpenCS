@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21614 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C11927,
+        ocs:C13252 ;
+    skos:closeMatch <http://dbpedia.org/resource/SOAP_with_Attachments> ;
+    skos:prefLabel "SOAP with Attachments" ;
+    skos:related ocs:C10904,
+        ocs:C13252,
+        ocs:C15320,
+        ocs:C17665,
+        ocs:C22597,
+        ocs:C2599,
+        ocs:C31665,
+        ocs:C33040,
+        ocs:C38075,
+        ocs:C39292,
+        ocs:C42587,
+        ocs:C43812,
+        ocs:C44171,
+        ocs:C45846,
+        ocs:C4641,
+        ocs:C6442,
+        ocs:C7530,
+        ocs:C8347,
+        ocs:C8795 .
+

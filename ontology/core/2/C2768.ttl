@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2768 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ensemble_averaging_(machine_learning)> ;
+    skos:prefLabel "Ensemble averaging" ;
+    skos:related ocs:C13,
+        ocs:C13610,
+        ocs:C14849,
+        ocs:C15879,
+        ocs:C18966,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C22194,
+        ocs:C22432,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C26398,
+        ocs:C32813,
+        ocs:C37012,
+        ocs:C610,
+        ocs:C8,
+        ocs:C9022 .
+

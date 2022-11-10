@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33038 a skos:Concept ;
+    skos:broader ocs:C14266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Khmaladze_transformation> ;
+    skos:prefLabel "Khmaladze transformation" ;
+    skos:related ocs:C14174,
+        ocs:C16163,
+        ocs:C19565,
+        ocs:C41656,
+        ocs:C43902,
+        ocs:C7908,
+        ocs:C795 .
+

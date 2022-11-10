@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12265 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SiRFstarIII> ;
+    skos:prefLabel "SiRFstarIII" ;
+    skos:related ocs:C10368,
+        ocs:C12641,
+        ocs:C13187,
+        ocs:C20845,
+        ocs:C23009,
+        ocs:C2710,
+        ocs:C34420,
+        ocs:C35730,
+        ocs:C36895,
+        ocs:C39726,
+        ocs:C39949,
+        ocs:C41939,
+        ocs:C44458,
+        ocs:C6311,
+        ocs:C6538 .
+

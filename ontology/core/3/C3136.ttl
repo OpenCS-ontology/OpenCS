@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3136 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hashlife> ;
+    skos:prefLabel "Hashlife" ;
+    skos:related ocs:C11199,
+        ocs:C122,
+        ocs:C12400,
+        ocs:C16298,
+        ocs:C2057,
+        ocs:C23026,
+        ocs:C26275,
+        ocs:C28073,
+        ocs:C29292,
+        ocs:C30672,
+        ocs:C3466,
+        ocs:C35625,
+        ocs:C39305,
+        ocs:C3936,
+        ocs:C41669,
+        ocs:C45217,
+        ocs:C4593,
+        ocs:C5865 .
+

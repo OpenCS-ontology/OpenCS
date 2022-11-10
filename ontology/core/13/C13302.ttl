@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13302 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Joe_job> ;
+    skos:prefLabel "Joe job" ;
+    skos:related ocs:C10247,
+        ocs:C14983,
+        ocs:C17567,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C316,
+        ocs:C31805,
+        ocs:C32976,
+        ocs:C36810,
+        ocs:C37946,
+        ocs:C39499,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C42304,
+        ocs:C44519,
+        ocs:C44734,
+        ocs:C5960 .
+

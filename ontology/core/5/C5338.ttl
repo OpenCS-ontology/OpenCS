@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5338 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resizing_(fiction)> ;
+    skos:prefLabel "Resizing" ;
+    skos:related ocs:C2585,
+        ocs:C31062,
+        ocs:C4000,
+        ocs:C45206,
+        ocs:C541,
+        ocs:C622 .
+

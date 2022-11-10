@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15781 a skos:Concept ;
+    skos:broader ocs:C8701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_cognition> ;
+    skos:prefLabel "Extended cognition" ;
+    skos:related ocs:C16500,
+        ocs:C21268,
+        ocs:C29527,
+        ocs:C35212,
+        ocs:C8,
+        ocs:C8701 .
+

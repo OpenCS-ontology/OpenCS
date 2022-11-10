@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5145 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Longest_common_subsequence_problem> ;
+    skos:prefLabel "Longest common subsequence problem" ;
+    skos:related ocs:C1,
+        ocs:C14079,
+        ocs:C16150,
+        ocs:C16676,
+        ocs:C2930,
+        ocs:C3189,
+        ocs:C35625,
+        ocs:C37359,
+        ocs:C38603,
+        ocs:C3936,
+        ocs:C41731,
+        ocs:C4760,
+        ocs:C77 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31959 a skos:Concept ;
+    skos:broader ocs:C17532 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surface_wave_inversion> ;
+    skos:prefLabel "Surface wave inversion" ;
+    skos:related ocs:C17532,
+        ocs:C20133,
+        ocs:C22013,
+        ocs:C30110,
+        ocs:C36111 .
+

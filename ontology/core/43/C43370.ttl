@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43370 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topology_table> ;
+    skos:prefLabel "Topology table" ;
+    skos:related ocs:C15396,
+        ocs:C22006,
+        ocs:C24563,
+        ocs:C26066,
+        ocs:C35297,
+        ocs:C38632,
+        ocs:C39742,
+        ocs:C40959,
+        ocs:C41572,
+        ocs:C42617,
+        ocs:C42853,
+        ocs:C43015,
+        ocs:C44582,
+        ocs:C44972,
+        ocs:C45517,
+        ocs:C45818,
+        ocs:C8142,
+        ocs:C8517,
+        ocs:C9233 .
+

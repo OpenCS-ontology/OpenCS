@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14815 a skos:Concept ;
+    skos:broader ocs:C5633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pedestrian_underpass> ;
+    skos:prefLabel "Pedestrian underpass" ;
+    skos:related ocs:C7256 .
+

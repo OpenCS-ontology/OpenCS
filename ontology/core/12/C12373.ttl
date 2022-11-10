@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12373 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Queueing_theory> ;
+    skos:prefLabel "Queueing theory" ;
+    skos:related ocs:C18439,
+        ocs:C23261,
+        ocs:C29900,
+        ocs:C30610,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C31803,
+        ocs:C32553,
+        ocs:C34165,
+        ocs:C39751,
+        ocs:C41000,
+        ocs:C45179,
+        ocs:C6909,
+        ocs:C7689 .
+

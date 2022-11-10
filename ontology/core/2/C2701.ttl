@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2701 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_food> ;
+    skos:prefLabel "Space food" ;
+    skos:related ocs:C1628,
+        ocs:C16300,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C24462,
+        ocs:C4090,
+        ocs:C5293,
+        ocs:C6691,
+        ocs:C7201,
+        ocs:C7739 .
+

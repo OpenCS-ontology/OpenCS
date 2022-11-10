@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44472 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudohemiodon> ;
+    skos:prefLabel "Pseudohemiodon" ;
+    skos:related ocs:C33166,
+        ocs:C38319,
+        ocs:C38930,
+        ocs:C39157,
+        ocs:C39594,
+        ocs:C39985,
+        ocs:C41638,
+        ocs:C41675,
+        ocs:C42528,
+        ocs:C43757,
+        ocs:C45689 .
+

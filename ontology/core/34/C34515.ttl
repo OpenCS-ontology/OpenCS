@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34515 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C28402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perseus_Arm> ;
+    skos:prefLabel "Perseus Arm" ;
+    skos:related ocs:C17246,
+        ocs:C19938,
+        ocs:C21056,
+        ocs:C23244,
+        ocs:C25918,
+        ocs:C29074,
+        ocs:C34069,
+        ocs:C34265,
+        ocs:C35669,
+        ocs:C39291,
+        ocs:C597 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3410 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proximity_card> ;
+    skos:prefLabel "Proximity card" ;
+    skos:related ocs:C10103,
+        ocs:C12698,
+        ocs:C17383,
+        ocs:C2318,
+        ocs:C26648,
+        ocs:C28781,
+        ocs:C44122,
+        ocs:C4917,
+        ocs:C5369,
+        ocs:C6133,
+        ocs:C8437,
+        ocs:C8711 .
+

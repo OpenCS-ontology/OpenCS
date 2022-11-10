@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19177 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Newton's_method> ;
+    skos:prefLabel "Newton's method" ;
+    skos:related ocs:C12155,
+        ocs:C18362,
+        ocs:C23925,
+        ocs:C29411,
+        ocs:C29738,
+        ocs:C32053,
+        ocs:C32608,
+        ocs:C34414,
+        ocs:C38866,
+        ocs:C5201 .
+

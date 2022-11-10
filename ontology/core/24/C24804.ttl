@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24804 a skos:Concept ;
+    skos:broader ocs:C10918 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_encoder> ;
+    skos:prefLabel "Linear encoder" ;
+    skos:related ocs:C10492,
+        ocs:C10918,
+        ocs:C22096,
+        ocs:C23445,
+        ocs:C31457,
+        ocs:C35822,
+        ocs:C4820,
+        ocs:C5506,
+        ocs:C8475 .
+

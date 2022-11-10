@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23871 a skos:Concept ;
+    skos:broader ocs:C5505 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brownian_noise> ;
+    skos:prefLabel "Brownian noise" ;
+    skos:related ocs:C10509,
+        ocs:C1564,
+        ocs:C1832,
+        ocs:C23308,
+        ocs:C25042,
+        ocs:C25668,
+        ocs:C260,
+        ocs:C29366,
+        ocs:C37458,
+        ocs:C5194,
+        ocs:C5505,
+        ocs:C6909 .
+

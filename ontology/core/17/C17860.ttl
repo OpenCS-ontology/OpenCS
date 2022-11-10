@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17860 a skos:Concept ;
+    skos:broader ocs:C11669 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morse_theory> ;
+    skos:prefLabel "Morse theory" ;
+    skos:related ocs:C40909,
+        ocs:C43425 .
+

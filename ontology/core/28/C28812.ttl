@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28812 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_fusca> ;
+    skos:prefLabel "Formica fusca" ;
+    skos:related ocs:C13998,
+        ocs:C14756,
+        ocs:C17062,
+        ocs:C18049,
+        ocs:C20649,
+        ocs:C24249,
+        ocs:C29538,
+        ocs:C30349,
+        ocs:C33999,
+        ocs:C34823 .
+

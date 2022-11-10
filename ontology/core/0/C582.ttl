@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C582 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C6 ;
+    skos:prefLabel "Manufacturer name" ;
+    skos:related ocs:C1253,
+        ocs:C2,
+        ocs:C22,
+        ocs:C23,
+        ocs:C31,
+        ocs:C6,
+        ocs:C6999,
+        ocs:C8416 .
+

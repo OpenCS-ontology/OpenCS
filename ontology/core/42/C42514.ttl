@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42514 a skos:Concept ;
+    skos:broader ocs:C30004,
+        ocs:C35808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_motion_compensation> ;
+    skos:prefLabel "Global motion compensation" ;
+    skos:related ocs:C11323,
+        ocs:C16860,
+        ocs:C23318,
+        ocs:C23673,
+        ocs:C29048,
+        ocs:C30895,
+        ocs:C31114,
+        ocs:C35808,
+        ocs:C3777,
+        ocs:C40690,
+        ocs:C45662,
+        ocs:C45687,
+        ocs:C523,
+        ocs:C7447 .
+

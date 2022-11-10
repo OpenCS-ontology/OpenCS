@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11959 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temporary_variable> ;
+    skos:prefLabel "Temporary variable" ;
+    skos:related ocs:C10284,
+        ocs:C10408,
+        ocs:C11112,
+        ocs:C11284,
+        ocs:C128,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21201,
+        ocs:C26632,
+        ocs:C273,
+        ocs:C35961,
+        ocs:C38271,
+        ocs:C39814,
+        ocs:C4321,
+        ocs:C7470,
+        ocs:C9,
+        ocs:C9638,
+        ocs:C9799 .
+

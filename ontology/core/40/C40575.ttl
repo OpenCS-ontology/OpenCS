@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40575 a skos:Concept ;
+    skos:broader ocs:C32506 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_API_for_XML> ;
+    skos:prefLabel "Simple API for XML" ;
+    skos:related ocs:C10000,
+        ocs:C10284,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C17401,
+        ocs:C18361,
+        ocs:C23709,
+        ocs:C2674,
+        ocs:C27115,
+        ocs:C27119,
+        ocs:C29138,
+        ocs:C31343,
+        ocs:C33052,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C38883,
+        ocs:C43819,
+        ocs:C45472,
+        ocs:C45664,
+        ocs:C8564 .
+

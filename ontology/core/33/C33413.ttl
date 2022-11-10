@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33413 a skos:Concept ;
+    skos:broader ocs:C18415,
+        ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Daily_build> ;
+    skos:prefLabel "Daily build" ;
+    skos:related ocs:C12257,
+        ocs:C12830,
+        ocs:C16627,
+        ocs:C18415,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29525,
+        ocs:C29790,
+        ocs:C30650,
+        ocs:C41038,
+        ocs:C41788,
+        ocs:C4321,
+        ocs:C43670,
+        ocs:C45391,
+        ocs:C45524,
+        ocs:C6780,
+        ocs:C9 .
+

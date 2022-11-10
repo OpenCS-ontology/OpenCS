@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2370 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_conditional_sentences> ;
+    skos:prefLabel "English conditional sentences" ;
+    skos:related ocs:C18046,
+        ocs:C20905,
+        ocs:C22749,
+        ocs:C23321,
+        ocs:C25696,
+        ocs:C25746,
+        ocs:C25971,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C27028,
+        ocs:C33165,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C36868,
+        ocs:C44871 .
+

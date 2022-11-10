@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6038 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Address-range_register> ;
+    skos:prefLabel "Address-range register" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C1441,
+        ocs:C14917,
+        ocs:C14965,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C31284,
+        ocs:C31346,
+        ocs:C36894,
+        ocs:C37538,
+        ocs:C38797,
+        ocs:C41698,
+        ocs:C42499,
+        ocs:C43368,
+        ocs:C45155,
+        ocs:C5147,
+        ocs:C856 .
+

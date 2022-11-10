@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18957 a skos:Concept ;
+    skos:broader ocs:C490 ;
+    skos:prefLabel "CIP protocol" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C26,
+        ocs:C3236,
+        ocs:C490 .
+

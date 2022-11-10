@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3396 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conceptualization_(information_science)> ;
+    skos:prefLabel "Conceptualization" ;
+    skos:related ocs:C12066,
+        ocs:C12977,
+        ocs:C1443,
+        ocs:C25681,
+        ocs:C28809,
+        ocs:C31165,
+        ocs:C32303,
+        ocs:C35993,
+        ocs:C38158,
+        ocs:C38217,
+        ocs:C38537,
+        ocs:C39278,
+        ocs:C41350,
+        ocs:C41822,
+        ocs:C41877,
+        ocs:C42623,
+        ocs:C44161,
+        ocs:C45248,
+        ocs:C45752,
+        ocs:C7500 .
+

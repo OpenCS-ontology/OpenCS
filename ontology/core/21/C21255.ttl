@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21255 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Argumentation_framework> ;
+    skos:prefLabel "Argumentation framework" ;
+    skos:related ocs:C10825,
+        ocs:C12977,
+        ocs:C14373,
+        ocs:C19190,
+        ocs:C23657,
+        ocs:C2418,
+        ocs:C33313,
+        ocs:C36126,
+        ocs:C42162,
+        ocs:C42722,
+        ocs:C44157,
+        ocs:C608 .
+

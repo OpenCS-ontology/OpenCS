@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43646 a skos:Concept ;
+    skos:broader ocs:C36077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wallace–Bolyai–Gerwien_theorem> ;
+    skos:prefLabel "Wallace–Bolyai–Gerwien theorem" ;
+    skos:related ocs:C16532,
+        ocs:C38516,
+        ocs:C38626,
+        ocs:C43811 .
+

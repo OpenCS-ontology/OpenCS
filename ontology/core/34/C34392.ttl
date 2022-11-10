@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34392 a skos:Concept ;
+    skos:broader ocs:C14989 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multidimensional_transform> ;
+    skos:prefLabel "Multidimensional transform" ;
+    skos:related ocs:C11150,
+        ocs:C11443,
+        ocs:C12046,
+        ocs:C2168,
+        ocs:C22494,
+        ocs:C33342,
+        ocs:C6816 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13330 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Count-distinct_problem> ;
+    skos:prefLabel "Count-distinct problem" ;
+    skos:related ocs:C15396,
+        ocs:C19227,
+        ocs:C20540,
+        ocs:C21129,
+        ocs:C25365,
+        ocs:C25610,
+        ocs:C26067,
+        ocs:C27667,
+        ocs:C32724,
+        ocs:C3286,
+        ocs:C34796,
+        ocs:C3936,
+        ocs:C41298,
+        ocs:C42235,
+        ocs:C42429,
+        ocs:C43015,
+        ocs:C44823 .
+

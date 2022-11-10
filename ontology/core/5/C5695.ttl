@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5695 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_block_addressing> ;
+    skos:prefLabel "Logical block addressing" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C10785,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C15529,
+        ocs:C19487,
+        ocs:C20557,
+        ocs:C22742,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C32640,
+        ocs:C33255,
+        ocs:C41962,
+        ocs:C7476,
+        ocs:C9 .
+

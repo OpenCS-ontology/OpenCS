@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45496 a skos:Concept ;
+    skos:broader ocs:C36704,
+        ocs:C37239,
+        ocs:C37518 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decimal_data_type> ;
+    skos:prefLabel "Decimal data type" ;
+    skos:related ocs:C1142,
+        ocs:C12262,
+        ocs:C13101,
+        ocs:C16377,
+        ocs:C21384,
+        ocs:C22452,
+        ocs:C2524,
+        ocs:C28063,
+        ocs:C2879,
+        ocs:C31030,
+        ocs:C3450,
+        ocs:C36704,
+        ocs:C44259,
+        ocs:C4816,
+        ocs:C5468,
+        ocs:C6255,
+        ocs:C794,
+        ocs:C8581 .
+

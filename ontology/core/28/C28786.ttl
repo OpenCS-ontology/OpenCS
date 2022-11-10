@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28786 a skos:Concept ;
+    skos:broader ocs:C2469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probabilistic_method> ;
+    skos:prefLabel "Probabilistic method" ;
+    skos:related ocs:C14693,
+        ocs:C19667,
+        ocs:C28070,
+        ocs:C28991,
+        ocs:C29577,
+        ocs:C32746,
+        ocs:C33768,
+        ocs:C37036,
+        ocs:C40560,
+        ocs:C42813,
+        ocs:C45075 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2980 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Personal_wiki> ;
+    skos:prefLabel "Personal wiki" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C1955,
+        ocs:C22668,
+        ocs:C2464,
+        ocs:C25192,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3406,
+        ocs:C34391,
+        ocs:C41776,
+        ocs:C4918,
+        ocs:C6,
+        ocs:C6656,
+        ocs:C672,
+        ocs:C851,
+        ocs:C8614 .
+

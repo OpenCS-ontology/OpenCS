@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15373 a skos:Concept ;
+    skos:broader ocs:C12240,
+        ocs:C5538,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_proxy> ;
+    skos:prefLabel "Open proxy" ;
+    skos:related ocs:C12496,
+        ocs:C12995,
+        ocs:C14983,
+        ocs:C17205,
+        ocs:C17794,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C29803,
+        ocs:C31,
+        ocs:C39727,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C4338,
+        ocs:C8614 .
+

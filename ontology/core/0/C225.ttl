@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C225 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metatheorem> ;
+    skos:prefLabel "Metatheorem" ;
+    skos:related ocs:C10498,
+        ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C126,
+        ocs:C13255,
+        ocs:C13749,
+        ocs:C15965,
+        ocs:C25442,
+        ocs:C26635,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C29879,
+        ocs:C42137,
+        ocs:C4557,
+        ocs:C5097,
+        ocs:C8697 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C942 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/News_Industry_Text_Format> ;
+    skos:prefLabel "News Industry Text Format" ;
+    skos:related ocs:C11927,
+        ocs:C13068,
+        ocs:C18361,
+        ocs:C19324,
+        ocs:C19693,
+        ocs:C2067,
+        ocs:C20790,
+        ocs:C21066,
+        ocs:C23709,
+        ocs:C23803,
+        ocs:C2534,
+        ocs:C26656,
+        ocs:C33709,
+        ocs:C35567,
+        ocs:C3896,
+        ocs:C42905,
+        ocs:C45664,
+        ocs:C6278,
+        ocs:C6744 .
+

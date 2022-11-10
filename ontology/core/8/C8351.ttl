@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8351 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pay-per-view> ;
+    skos:prefLabel "Pay-per-view" ;
+    skos:related ocs:C12544,
+        ocs:C12999,
+        ocs:C17568,
+        ocs:C18697,
+        ocs:C18878,
+        ocs:C22551,
+        ocs:C27572,
+        ocs:C30635,
+        ocs:C32488,
+        ocs:C36807,
+        ocs:C40199,
+        ocs:C4433,
+        ocs:C4448,
+        ocs:C6340,
+        ocs:C8614 .
+

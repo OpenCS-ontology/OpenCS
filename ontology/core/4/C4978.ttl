@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4978 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/SKI_combinator_calculus> ;
+    skos:prefLabel "SKI combinator calculus" ;
+    skos:related ocs:C10322,
+        ocs:C10825,
+        ocs:C11411,
+        ocs:C12474,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C29879,
+        ocs:C29948,
+        ocs:C36417,
+        ocs:C38884,
+        ocs:C39944,
+        ocs:C40372,
+        ocs:C4097,
+        ocs:C41359,
+        ocs:C5714,
+        ocs:C6941,
+        ocs:C8914,
+        ocs:C9560 .
+

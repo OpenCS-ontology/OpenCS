@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35693 a skos:Concept ;
+    skos:broader ocs:C16742,
+        ocs:C20811 ;
+    skos:closeMatch <http://dbpedia.org/resource/CURE_data_clustering_algorithm> ;
+    skos:prefLabel "CURE data clustering algorithm" ;
+    skos:related ocs:C10382,
+        ocs:C26767,
+        ocs:C29024,
+        ocs:C30082,
+        ocs:C35924,
+        ocs:C36672,
+        ocs:C38213,
+        ocs:C39217,
+        ocs:C39575,
+        ocs:C41863,
+        ocs:C42682,
+        ocs:C42787,
+        ocs:C43372,
+        ocs:C45859,
+        ocs:C662,
+        ocs:C8398 .
+

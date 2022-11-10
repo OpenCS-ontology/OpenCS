@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2427 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_logic> ;
+    skos:prefLabel "State logic" ;
+    skos:related ocs:C12587,
+        ocs:C19,
+        ocs:C22074,
+        ocs:C28640,
+        ocs:C3168,
+        ocs:C3289,
+        ocs:C33825,
+        ocs:C43727,
+        ocs:C4771,
+        ocs:C8791 .
+

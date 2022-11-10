@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34151 a skos:Concept ;
+    skos:broader ocs:C17386,
+        ocs:C27188 ;
+    skos:closeMatch <http://dbpedia.org/resource/TAMA_300> ;
+    skos:prefLabel "TAMA 300" ;
+    skos:related ocs:C15852,
+        ocs:C17386,
+        ocs:C26898,
+        ocs:C27188,
+        ocs:C29724,
+        ocs:C30525,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C34885,
+        ocs:C36773,
+        ocs:C37145,
+        ocs:C37557 .
+

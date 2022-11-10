@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1326 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parlay_(gambling)> ;
+    skos:prefLabel "Parlay" ;
+    skos:related ocs:C12109,
+        ocs:C246,
+        ocs:C2776,
+        ocs:C40593,
+        ocs:C9268 .
+

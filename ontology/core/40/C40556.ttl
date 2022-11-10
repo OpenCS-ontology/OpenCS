@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40556 a skos:Concept ;
+    skos:broader ocs:C30033,
+        ocs:C30705,
+        ocs:C33174,
+        ocs:C36894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Atom_(system_on_chip)> ;
+    skos:prefLabel "Atom (system on chip)" ;
+    skos:related ocs:C1042,
+        ocs:C10824,
+        ocs:C10938,
+        ocs:C11,
+        ocs:C1904,
+        ocs:C19487,
+        ocs:C19556,
+        ocs:C20800,
+        ocs:C38427,
+        ocs:C39896,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C7219,
+        ocs:C9542 .
+

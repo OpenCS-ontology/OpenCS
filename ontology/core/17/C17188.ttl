@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17188 a skos:Concept ;
+    skos:broader ocs:C10067,
+        ocs:C3444,
+        ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learning_object_metadata> ;
+    skos:prefLabel "Learning object metadata" ;
+    skos:related ocs:C10067,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C12317,
+        ocs:C15008,
+        ocs:C15906,
+        ocs:C19324,
+        ocs:C25617,
+        ocs:C26813,
+        ocs:C28801,
+        ocs:C32112,
+        ocs:C3444,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C6915,
+        ocs:C9836,
+        ocs:C9893 .
+

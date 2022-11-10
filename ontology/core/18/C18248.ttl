@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18248 a skos:Concept ;
+    skos:broader ocs:C3452,
+        ocs:C6412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_test_instrumentation> ;
+    skos:prefLabel "Flight test instrumentation" ;
+    skos:related ocs:C10683,
+        ocs:C1302,
+        ocs:C14211,
+        ocs:C15192,
+        ocs:C16191,
+        ocs:C5293,
+        ocs:C5821,
+        ocs:C6412 .
+

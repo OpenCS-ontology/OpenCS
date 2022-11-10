@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2050 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstract_data_type> ;
+    skos:prefLabel "Abstract data type" ;
+    skos:related ocs:C1,
+        ocs:C10720,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C26456,
+        ocs:C28116,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C31203,
+        ocs:C38644,
+        ocs:C3913,
+        ocs:C5722,
+        ocs:C5745,
+        ocs:C6255,
+        ocs:C6941,
+        ocs:C8022,
+        ocs:C8864 .
+

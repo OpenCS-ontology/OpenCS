@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10110 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rosetta_Code> ;
+    skos:prefLabel "Rosetta Code" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C10917,
+        ocs:C11284,
+        ocs:C11547,
+        ocs:C1837,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C20907,
+        ocs:C24909,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C5422,
+        ocs:C6714,
+        ocs:C6941 .
+

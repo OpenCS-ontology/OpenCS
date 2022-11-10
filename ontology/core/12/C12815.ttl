@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12815 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_terminal> ;
+    skos:prefLabel "Computer terminal" ;
+    skos:related ocs:C10320,
+        ocs:C1130,
+        ocs:C12851,
+        ocs:C14271,
+        ocs:C2534,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C34358,
+        ocs:C37894,
+        ocs:C5702,
+        ocs:C8787,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9162 .
+

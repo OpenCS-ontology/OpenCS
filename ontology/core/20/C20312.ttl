@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20312 a skos:Concept ;
+    skos:broader ocs:C11285 ;
+    skos:closeMatch <http://dbpedia.org/resource/Newton_line> ;
+    skos:prefLabel "Newton line" ;
+    skos:related ocs:C13409,
+        ocs:C32462,
+        ocs:C39788,
+        ocs:C43235,
+        ocs:C5204 .
+

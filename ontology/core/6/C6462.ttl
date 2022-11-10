@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6462 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call_forwarding> ;
+    skos:prefLabel "Call forwarding" ;
+    skos:related ocs:C10927,
+        ocs:C13514,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C31755,
+        ocs:C5917,
+        ocs:C6027,
+        ocs:C6821,
+        ocs:C6987,
+        ocs:C7661,
+        ocs:C8515,
+        ocs:C9113,
+        ocs:C9154 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29912 a skos:Concept ;
+    skos:broader ocs:C20903 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ophiocoma_wendtii> ;
+    skos:prefLabel "Ophiocoma wendtii" ;
+    skos:related ocs:C18918,
+        ocs:C20903,
+        ocs:C29871,
+        ocs:C43517 .
+

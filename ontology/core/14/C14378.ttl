@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14378 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reinhardt_domain> ;
+    skos:prefLabel "Reinhardt domain" ;
+    skos:related ocs:C15454,
+        ocs:C36642,
+        ocs:C43381,
+        ocs:C43886,
+        ocs:C44705 .
+

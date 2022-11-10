@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20790 a skos:Concept ;
+    skos:broader ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Processing_Instruction> ;
+    skos:prefLabel "Processing Instruction" ;
+    skos:related ocs:C11927,
+        ocs:C13068,
+        ocs:C15902,
+        ocs:C17170,
+        ocs:C17401,
+        ocs:C18083,
+        ocs:C18361,
+        ocs:C31343,
+        ocs:C33052,
+        ocs:C33272,
+        ocs:C35567,
+        ocs:C36380,
+        ocs:C36924,
+        ocs:C40575,
+        ocs:C42212,
+        ocs:C42905,
+        ocs:C43819,
+        ocs:C43834,
+        ocs:C45664 .
+

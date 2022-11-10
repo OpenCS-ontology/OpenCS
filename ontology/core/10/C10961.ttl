@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10961 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/I2O> ;
+    skos:prefLabel "I2O" ;
+    skos:related ocs:C10514,
+        ocs:C10568,
+        ocs:C11216,
+        ocs:C12851,
+        ocs:C14271,
+        ocs:C19487,
+        ocs:C2054,
+        ocs:C2353,
+        ocs:C25917,
+        ocs:C28637,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C42619,
+        ocs:C42662,
+        ocs:C42690,
+        ocs:C42982,
+        ocs:C8024,
+        ocs:C9 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1788 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/RSA_BSAFE> ;
+    skos:prefLabel "RSA BSAFE" ;
+    skos:related ocs:C12637,
+        ocs:C18948,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C30083,
+        ocs:C32484,
+        ocs:C33956,
+        ocs:C35371,
+        ocs:C38245,
+        ocs:C40789,
+        ocs:C4218,
+        ocs:C45216,
+        ocs:C6187,
+        ocs:C6582,
+        ocs:C6953,
+        ocs:C970 .
+

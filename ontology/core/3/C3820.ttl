@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3820 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:prefLabel "Safety Communications" ;
+    skos:related ocs:C11027,
+        ocs:C23912,
+        ocs:C25514,
+        ocs:C26502,
+        ocs:C28122,
+        ocs:C29410,
+        ocs:C30,
+        ocs:C33,
+        ocs:C33487,
+        ocs:C35,
+        ocs:C4099,
+        ocs:C41543,
+        ocs:C5,
+        ocs:C61,
+        ocs:C8704 .
+

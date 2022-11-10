@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42727 a skos:Concept ;
+    skos:broader ocs:C36671,
+        ocs:C37364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line_spectral_pairs> ;
+    skos:prefLabel "Line spectral pairs" ;
+    skos:related ocs:C1506,
+        ocs:C16397,
+        ocs:C17433,
+        ocs:C27611,
+        ocs:C32609,
+        ocs:C35731,
+        ocs:C36671,
+        ocs:C37364,
+        ocs:C39055,
+        ocs:C42341,
+        ocs:C42949,
+        ocs:C529,
+        ocs:C6125,
+        ocs:C9154 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13520 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exploratory_search> ;
+    skos:prefLabel "Exploratory search" ;
+    skos:related ocs:C11089,
+        ocs:C11126,
+        ocs:C11205,
+        ocs:C13071,
+        ocs:C17722,
+        ocs:C18,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C25121,
+        ocs:C27130,
+        ocs:C29402,
+        ocs:C3364,
+        ocs:C3736,
+        ocs:C4211,
+        ocs:C5877,
+        ocs:C9704,
+        ocs:C9876 .
+

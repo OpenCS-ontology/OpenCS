@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5219 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guard_band> ;
+    skos:prefLabel "Guard band" ;
+    skos:related ocs:C10409,
+        ocs:C12942,
+        ocs:C12999,
+        ocs:C15505,
+        ocs:C16357,
+        ocs:C1727,
+        ocs:C26409,
+        ocs:C27912,
+        ocs:C3,
+        ocs:C31200,
+        ocs:C3236,
+        ocs:C32548,
+        ocs:C34890,
+        ocs:C35370,
+        ocs:C4331,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C8612,
+        ocs:C9423 .
+

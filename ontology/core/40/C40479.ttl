@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40479 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269,
+        ocs:C37773 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_probe> ;
+    skos:prefLabel "Logic probe" ;
+    skos:related ocs:C11252,
+        ocs:C11613,
+        ocs:C12002,
+        ocs:C24204,
+        ocs:C27349,
+        ocs:C34150,
+        ocs:C45121,
+        ocs:C45624,
+        ocs:C9288 .
+

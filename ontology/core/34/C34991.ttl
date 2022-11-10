@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34991 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Military_robot> ;
+    skos:prefLabel "Military robot" ;
+    skos:related ocs:C10396,
+        ocs:C11381,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C16890,
+        ocs:C17236,
+        ocs:C17375,
+        ocs:C17554,
+        ocs:C19558,
+        ocs:C30596,
+        ocs:C33579,
+        ocs:C36290,
+        ocs:C36567,
+        ocs:C36715,
+        ocs:C40324,
+        ocs:C44139,
+        ocs:C8 .
+

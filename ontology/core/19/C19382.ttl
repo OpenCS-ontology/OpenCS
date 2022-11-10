@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19382 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-ray_detector> ;
+    skos:prefLabel "X-ray detector" ;
+    skos:related ocs:C14078,
+        ocs:C14306,
+        ocs:C16020,
+        ocs:C18360,
+        ocs:C19353,
+        ocs:C19524,
+        ocs:C25787,
+        ocs:C26747,
+        ocs:C32838 .
+

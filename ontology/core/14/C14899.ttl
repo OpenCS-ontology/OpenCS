@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14899 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ackermann_steering_geometry> ;
+    skos:prefLabel "Ackermann steering geometry" ;
+    skos:related ocs:C1240,
+        ocs:C26278,
+        ocs:C8615 .
+

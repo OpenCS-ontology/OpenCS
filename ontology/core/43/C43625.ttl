@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43625 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conventional_memory> ;
+    skos:prefLabel "Conventional memory" ;
+    skos:related ocs:C10568,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C28881,
+        ocs:C3089,
+        ocs:C31027,
+        ocs:C33174,
+        ocs:C3320,
+        ocs:C37847,
+        ocs:C40632,
+        ocs:C44667,
+        ocs:C45812,
+        ocs:C5147,
+        ocs:C7647,
+        ocs:C9,
+        ocs:C923,
+        ocs:C9433 .
+

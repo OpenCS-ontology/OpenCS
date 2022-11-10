@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42940 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C33043,
+        ocs:C34568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absorbing_Markov_chain> ;
+    skos:prefLabel "Absorbing Markov chain" ;
+    skos:related ocs:C11722,
+        ocs:C20860,
+        ocs:C22334,
+        ocs:C33220,
+        ocs:C37861,
+        ocs:C39172,
+        ocs:C39751,
+        ocs:C41481,
+        ocs:C45649,
+        ocs:C5856,
+        ocs:C7689 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42741 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:prefLabel "Tcp sack" .
+

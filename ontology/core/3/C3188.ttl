@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3188 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_music> ;
+    skos:prefLabel "Mobile music" ;
+    skos:related ocs:C11696,
+        ocs:C15113,
+        ocs:C21595,
+        ocs:C29023,
+        ocs:C32451,
+        ocs:C36500,
+        ocs:C3746,
+        ocs:C45515,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C9113 .
+

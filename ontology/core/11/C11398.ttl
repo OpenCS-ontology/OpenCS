@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11398 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_Chinese> ;
+    skos:prefLabel "Standard Chinese" ;
+    skos:related ocs:C10187,
+        ocs:C25152,
+        ocs:C25538,
+        ocs:C401,
+        ocs:C4757,
+        ocs:C6505,
+        ocs:C7310 .
+

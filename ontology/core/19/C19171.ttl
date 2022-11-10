@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19171 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ant_venom> ;
+    skos:prefLabel "Ant venom" ;
+    skos:related ocs:C19253,
+        ocs:C21653,
+        ocs:C28708,
+        ocs:C36512 .
+

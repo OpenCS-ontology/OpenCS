@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43501 a skos:Concept ;
+    skos:broader ocs:C34053,
+        ocs:C36768 ;
+    skos:closeMatch <http://dbpedia.org/resource/Big_M_method> ;
+    skos:prefLabel "Big M method" ;
+    skos:related ocs:C15480,
+        ocs:C19181,
+        ocs:C2413,
+        ocs:C26453,
+        ocs:C34053,
+        ocs:C34975,
+        ocs:C3570,
+        ocs:C35890,
+        ocs:C36768,
+        ocs:C38436,
+        ocs:C40100,
+        ocs:C5691,
+        ocs:C6287,
+        ocs:C8944,
+        ocs:C9243 .
+

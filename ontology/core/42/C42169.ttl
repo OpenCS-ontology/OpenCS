@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42169 a skos:Concept ;
+    skos:broader ocs:C33935 ;
+    skos:closeMatch <http://dbpedia.org/resource/CRC-based_framing> ;
+    skos:prefLabel "CRC-based framing" ;
+    skos:related ocs:C15589,
+        ocs:C19749,
+        ocs:C25250,
+        ocs:C26,
+        ocs:C26208,
+        ocs:C26809,
+        ocs:C30342,
+        ocs:C30568,
+        ocs:C31109,
+        ocs:C3283,
+        ocs:C33137,
+        ocs:C33996,
+        ocs:C42820,
+        ocs:C44104,
+        ocs:C5997,
+        ocs:C8567 .
+

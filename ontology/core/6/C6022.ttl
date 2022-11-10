@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6022 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lamport_timestamps> ;
+    skos:prefLabel "Lamport timestamps" ;
+    skos:related ocs:C10941,
+        ocs:C13206,
+        ocs:C15964,
+        ocs:C1635,
+        ocs:C17915,
+        ocs:C19291,
+        ocs:C24153,
+        ocs:C30,
+        ocs:C34712,
+        ocs:C37542,
+        ocs:C4092 .
+

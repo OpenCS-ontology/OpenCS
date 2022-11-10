@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10636 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_Ct> ;
+    skos:prefLabel "Intel Ct" ;
+    skos:related ocs:C10320,
+        ocs:C10938,
+        ocs:C1188,
+        ocs:C12690,
+        ocs:C1308,
+        ocs:C13970,
+        ocs:C17626,
+        ocs:C1904,
+        ocs:C19487,
+        ocs:C19936,
+        ocs:C22280,
+        ocs:C26812,
+        ocs:C27,
+        ocs:C38129,
+        ocs:C6244,
+        ocs:C7507 .
+

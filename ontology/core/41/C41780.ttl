@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41780 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C34319 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chaitin's_constant> ;
+    skos:prefLabel "Chaitin's constant" ;
+    skos:related ocs:C10803,
+        ocs:C12474,
+        ocs:C14986,
+        ocs:C20374,
+        ocs:C20939,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C32379,
+        ocs:C34319,
+        ocs:C34695,
+        ocs:C39884,
+        ocs:C45460,
+        ocs:C6880 .
+

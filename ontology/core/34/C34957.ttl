@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34957 a skos:Concept ;
+    skos:broader ocs:C14226 ;
+    skos:prefLabel "Gluteal nerves" ;
+    skos:related ocs:C14226,
+        ocs:C31875 .
+

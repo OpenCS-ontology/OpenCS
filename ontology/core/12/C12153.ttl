@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12153 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barker_code> ;
+    skos:prefLabel "Barker code" ;
+    skos:related ocs:C19230,
+        ocs:C24312,
+        ocs:C28404,
+        ocs:C30565,
+        ocs:C30924,
+        ocs:C31031,
+        ocs:C31194,
+        ocs:C37788,
+        ocs:C38184,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C7502 .
+

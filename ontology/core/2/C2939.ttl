@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2939 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/NX_bit> ;
+    skos:prefLabel "NX bit" ;
+    skos:related ocs:C10320,
+        ocs:C10938,
+        ocs:C10994,
+        ocs:C11258,
+        ocs:C14856,
+        ocs:C18684,
+        ocs:C19487,
+        ocs:C2545,
+        ocs:C27610,
+        ocs:C29728,
+        ocs:C38427,
+        ocs:C39623,
+        ocs:C39896,
+        ocs:C6410,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9542 .
+

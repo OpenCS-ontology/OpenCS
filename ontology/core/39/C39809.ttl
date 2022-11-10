@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39809 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trigonometric_tables> ;
+    skos:prefLabel "Trigonometric tables" ;
+    skos:related ocs:C13541,
+        ocs:C18362,
+        ocs:C18434,
+        ocs:C2011,
+        ocs:C20516,
+        ocs:C39778 .
+

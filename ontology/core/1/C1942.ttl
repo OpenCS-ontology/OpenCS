@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1942 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skip_zone> ;
+    skos:prefLabel "Skip zone" ;
+    skos:related ocs:C1219,
+        ocs:C15824,
+        ocs:C21945,
+        ocs:C24264,
+        ocs:C3044,
+        ocs:C35931,
+        ocs:C45368,
+        ocs:C5618,
+        ocs:C8700,
+        ocs:C9263 .
+

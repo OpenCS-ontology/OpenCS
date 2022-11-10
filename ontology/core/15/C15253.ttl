@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15253 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Job_shop_scheduling> ;
+    skos:prefLabel "Job shop scheduling" ;
+    skos:related ocs:C1,
+        ocs:C10390,
+        ocs:C11372,
+        ocs:C12530,
+        ocs:C2413,
+        ocs:C30307,
+        ocs:C30401,
+        ocs:C32878,
+        ocs:C37036,
+        ocs:C38119,
+        ocs:C3837,
+        ocs:C44341,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C77,
+        ocs:C8660,
+        ocs:C9264 .
+

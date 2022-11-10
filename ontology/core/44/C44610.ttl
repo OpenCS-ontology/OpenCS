@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44610 a skos:Concept ;
+    skos:broader ocs:C36671,
+        ocs:C37364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_predictive_coding> ;
+    skos:prefLabel "Adaptive predictive coding" ;
+    skos:related ocs:C10778,
+        ocs:C123,
+        ocs:C1274,
+        ocs:C1449,
+        ocs:C22096,
+        ocs:C36671,
+        ocs:C39,
+        ocs:C44628,
+        ocs:C45152,
+        ocs:C6816,
+        ocs:C9371 .
+

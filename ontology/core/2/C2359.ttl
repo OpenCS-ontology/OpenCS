@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2359 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trust_boundary> ;
+    skos:prefLabel "Trust boundary" ;
+    skos:related ocs:C10064,
+        ocs:C10214,
+        ocs:C13319,
+        ocs:C17647,
+        ocs:C18784,
+        ocs:C21232,
+        ocs:C24915,
+        ocs:C2767,
+        ocs:C32076,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C36682,
+        ocs:C39016,
+        ocs:C39307,
+        ocs:C40586,
+        ocs:C41159,
+        ocs:C45494,
+        ocs:C4651 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45270 a skos:Concept ;
+    skos:broader ocs:C34613 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intersection_(aeronautics)> ;
+    skos:prefLabel "Intersection (aeronautics)" ;
+    skos:related ocs:C11158,
+        ocs:C12648,
+        ocs:C14697,
+        ocs:C18229,
+        ocs:C18521,
+        ocs:C18996,
+        ocs:C25380,
+        ocs:C30951,
+        ocs:C4328,
+        ocs:C4597,
+        ocs:C8868 .
+

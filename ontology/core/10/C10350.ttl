@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10350 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Associated image" ;
+    skos:related ocs:C12580,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C33,
+        ocs:C37748,
+        ocs:C5620,
+        ocs:C695,
+        ocs:C8021,
+        ocs:C8499,
+        ocs:C8614 .
+

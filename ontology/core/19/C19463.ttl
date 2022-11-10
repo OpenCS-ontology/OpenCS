@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19463 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web-based_experiments> ;
+    skos:prefLabel "Web-based experiments" ;
+    skos:related ocs:C16586,
+        ocs:C16772,
+        ocs:C26584,
+        ocs:C6919,
+        ocs:C9939 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5181 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Massively_parallel_(computing)> ;
+    skos:prefLabel "Massively parallel" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C17434,
+        ocs:C2478,
+        ocs:C26030,
+        ocs:C27,
+        ocs:C28515,
+        ocs:C31489,
+        ocs:C40330,
+        ocs:C4804,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9 .
+

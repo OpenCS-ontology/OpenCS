@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2255 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_monitoring> ;
+    skos:prefLabel "System monitoring" ;
+    skos:related ocs:C12185,
+        ocs:C12304,
+        ocs:C14271,
+        ocs:C1496,
+        ocs:C15182,
+        ocs:C17918,
+        ocs:C24143,
+        ocs:C2543,
+        ocs:C26,
+        ocs:C26574,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C3569,
+        ocs:C5698,
+        ocs:C6,
+        ocs:C6592,
+        ocs:C661,
+        ocs:C8901,
+        ocs:C9 .
+

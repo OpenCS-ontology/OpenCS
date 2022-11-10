@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41959 a skos:Concept ;
+    skos:broader ocs:C31283,
+        ocs:C33009,
+        ocs:C34142,
+        ocs:C34746,
+        ocs:C35392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Folded_normal_distribution> ;
+    skos:prefLabel "Folded normal distribution" ;
+    skos:related ocs:C16163,
+        ocs:C21356,
+        ocs:C25862,
+        ocs:C34142,
+        ocs:C40060,
+        ocs:C41148,
+        ocs:C42463,
+        ocs:C45117,
+        ocs:C9326 .
+

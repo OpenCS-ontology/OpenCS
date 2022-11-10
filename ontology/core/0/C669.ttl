@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C669 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise_reduction> ;
+    skos:prefLabel "Noise reduction" ;
+    skos:related ocs:C10318,
+        ocs:C11747,
+        ocs:C15505,
+        ocs:C1564,
+        ocs:C17412,
+        ocs:C25195,
+        ocs:C33605,
+        ocs:C37582,
+        ocs:C520,
+        ocs:C5298,
+        ocs:C5464,
+        ocs:C5505,
+        ocs:C7502,
+        ocs:C8021,
+        ocs:C8499,
+        ocs:C9775 .
+

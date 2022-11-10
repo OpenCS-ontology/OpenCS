@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22464 a skos:Concept ;
+    skos:broader ocs:C1386,
+        ocs:C2464,
+        ocs:C4918 ;
+    skos:prefLabel "Javascript scripts" .
+

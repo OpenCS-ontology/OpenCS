@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23546 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Γ-convergence> ;
+    skos:prefLabel "Γ-convergence" ;
+    skos:related ocs:C21421,
+        ocs:C37335,
+        ocs:C39746,
+        ocs:C41139,
+        ocs:C41538 .
+

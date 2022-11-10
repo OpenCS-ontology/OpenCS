@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34134 a skos:Concept ;
+    skos:broader ocs:C24689,
+        ocs:C27111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morphological_skeleton> ;
+    skos:prefLabel "Morphological skeleton" ;
+    skos:related ocs:C10239,
+        ocs:C17171,
+        ocs:C21158,
+        ocs:C23962,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C28701,
+        ocs:C29694,
+        ocs:C31456,
+        ocs:C32381,
+        ocs:C32479,
+        ocs:C35732,
+        ocs:C36966,
+        ocs:C38859,
+        ocs:C6401 .
+

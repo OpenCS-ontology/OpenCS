@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16233 a skos:Concept ;
+    skos:broader ocs:C13305,
+        ocs:C6821,
+        ocs:C6972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Personal_Telecommunications> ;
+    skos:prefLabel "Universal Personal Telecommunications" ;
+    skos:related ocs:C13585,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C30757,
+        ocs:C4166,
+        ocs:C5917,
+        ocs:C6972,
+        ocs:C9113,
+        ocs:C9154 .
+

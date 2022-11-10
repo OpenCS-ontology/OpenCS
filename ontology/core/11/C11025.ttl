@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11025 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scoring_algorithm> ;
+    skos:prefLabel "Scoring algorithm" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C13877,
+        ocs:C14030,
+        ocs:C19420,
+        ocs:C21710,
+        ocs:C23664,
+        ocs:C26986,
+        ocs:C29461,
+        ocs:C41344,
+        ocs:C5703 .
+

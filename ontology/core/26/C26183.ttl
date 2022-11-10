@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26183 a skos:Concept ;
+    skos:broader ocs:C3233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topology_(electrical_circuits)> ;
+    skos:prefLabel "Topology (electrical circuits)" ;
+    skos:related ocs:C15194,
+        ocs:C26989,
+        ocs:C32554,
+        ocs:C38683,
+        ocs:C38695,
+        ocs:C40654,
+        ocs:C40694,
+        ocs:C41756 .
+

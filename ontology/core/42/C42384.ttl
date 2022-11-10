@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42384 a skos:Concept ;
+    skos:broader ocs:C31395,
+        ocs:C33103,
+        ocs:C34873,
+        ocs:C35534 ;
+    skos:prefLabel "Schema versioning" .
+

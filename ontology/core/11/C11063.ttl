@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11063 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Writing_process> ;
+    skos:prefLabel "Writing process" ;
+    skos:related ocs:C2298,
+        ocs:C2412,
+        ocs:C6765 .
+

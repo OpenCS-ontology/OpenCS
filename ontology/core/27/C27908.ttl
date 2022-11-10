@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27908 a skos:Concept ;
+    skos:broader ocs:C12388 ;
+    skos:closeMatch <http://dbpedia.org/resource/Appalachian_English> ;
+    skos:prefLabel "Appalachian English" ;
+    skos:related ocs:C12167,
+        ocs:C12388,
+        ocs:C2298,
+        ocs:C26896,
+        ocs:C6194,
+        ocs:C6237 .
+

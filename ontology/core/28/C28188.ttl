@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28188 a skos:Concept ;
+    skos:broader ocs:C5529 ;
+    skos:closeMatch <http://dbpedia.org/resource/Porpoise> ;
+    skos:prefLabel "Porpoise" ;
+    skos:related ocs:C18366,
+        ocs:C43380 .
+

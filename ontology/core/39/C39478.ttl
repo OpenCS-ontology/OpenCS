@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39478 a skos:Concept ;
+    skos:broader ocs:C31017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Page_view> ;
+    skos:prefLabel "Page view" ;
+    skos:related ocs:C12477,
+        ocs:C17235,
+        ocs:C18985,
+        ocs:C21129,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C26014,
+        ocs:C26337,
+        ocs:C27097,
+        ocs:C28542,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C35660,
+        ocs:C40049,
+        ocs:C42101,
+        ocs:C4918,
+        ocs:C8614 .
+

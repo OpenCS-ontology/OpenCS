@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42225 a skos:Concept ;
+    skos:broader ocs:C37237 ;
+    skos:closeMatch <http://dbpedia.org/resource/Misuse_of_private_information_in_English_law> ;
+    skos:prefLabel "Misuse of private information" ;
+    skos:related ocs:C25346,
+        ocs:C26514,
+        ocs:C28076,
+        ocs:C2970,
+        ocs:C37237 .
+

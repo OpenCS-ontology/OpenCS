@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39884 a skos:Concept ;
+    skos:broader ocs:C36232 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computable_number> ;
+    skos:prefLabel "Computable number" ;
+    skos:related ocs:C10,
+        ocs:C20939,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C34319,
+        ocs:C36232,
+        ocs:C41780,
+        ocs:C43294 .
+

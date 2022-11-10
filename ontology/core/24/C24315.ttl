@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24315 a skos:Concept ;
+    skos:broader ocs:C10284,
+        ocs:C11545,
+        ocs:C1386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perl::Critic> ;
+    skos:prefLabel "Perl::Critic" ;
+    skos:related ocs:C10284,
+        ocs:C1690,
+        ocs:C19,
+        ocs:C20150,
+        ocs:C20515,
+        ocs:C2057,
+        ocs:C21359,
+        ocs:C26005,
+        ocs:C29792,
+        ocs:C30650,
+        ocs:C39744,
+        ocs:C41724,
+        ocs:C42070,
+        ocs:C42209,
+        ocs:C45212,
+        ocs:C6178 .
+

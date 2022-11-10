@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27838 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C9720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncontrolled_airspace> ;
+    skos:prefLabel "Uncontrolled airspace" ;
+    skos:related ocs:C13785,
+        ocs:C14241,
+        ocs:C16585,
+        ocs:C18229,
+        ocs:C18521,
+        ocs:C18996,
+        ocs:C23477,
+        ocs:C25295,
+        ocs:C33190,
+        ocs:C33217,
+        ocs:C35629,
+        ocs:C42092,
+        ocs:C45176,
+        ocs:C45558,
+        ocs:C4597,
+        ocs:C9720 .
+

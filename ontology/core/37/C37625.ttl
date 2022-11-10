@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37625 a skos:Concept ;
+    skos:broader ocs:C22322,
+        ocs:C25252 ;
+    skos:prefLabel "Bytecode interpreter" .
+

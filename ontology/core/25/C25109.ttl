@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25109 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_nervous_system> ;
+    skos:prefLabel "Digital nervous system" ;
+    skos:related ocs:C17238,
+        ocs:C197,
+        ocs:C2421,
+        ocs:C29276,
+        ocs:C40352,
+        ocs:C5699,
+        ocs:C5863,
+        ocs:C6118,
+        ocs:C7334 .
+

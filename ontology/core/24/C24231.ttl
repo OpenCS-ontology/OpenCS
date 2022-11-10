@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24231 a skos:Concept ;
+    skos:broader ocs:C12694 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_warehouse_appliance> ;
+    skos:prefLabel "Data warehouse appliance" ;
+    skos:related ocs:C12238,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C13783,
+        ocs:C14627,
+        ocs:C16874,
+        ocs:C18025,
+        ocs:C20446,
+        ocs:C2083,
+        ocs:C23505,
+        ocs:C25950,
+        ocs:C42619,
+        ocs:C45138,
+        ocs:C6 .
+

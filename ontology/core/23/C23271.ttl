@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23271 a skos:Concept ;
+    skos:broader ocs:C9876 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relevance_(information_retrieval)> ;
+    skos:prefLabel "Relevance (information retrieval)" ;
+    skos:related ocs:C11087,
+        ocs:C12784,
+        ocs:C14238,
+        ocs:C16799,
+        ocs:C20147,
+        ocs:C21157,
+        ocs:C21673,
+        ocs:C23,
+        ocs:C2526,
+        ocs:C34003,
+        ocs:C38799,
+        ocs:C6947,
+        ocs:C6963,
+        ocs:C7607,
+        ocs:C9704,
+        ocs:C9876 .
+

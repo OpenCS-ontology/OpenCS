@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9710 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Viewport> ;
+    skos:prefLabel "Viewport" ;
+    skos:related ocs:C11234,
+        ocs:C14183,
+        ocs:C15632,
+        ocs:C18519,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24871,
+        ocs:C27264,
+        ocs:C27515,
+        ocs:C28881,
+        ocs:C29600,
+        ocs:C35950,
+        ocs:C41932,
+        ocs:C4223,
+        ocs:C42716,
+        ocs:C45703,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C8330 .
+

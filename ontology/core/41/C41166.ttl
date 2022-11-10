@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41166 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Green_bean_galaxy> ;
+    skos:prefLabel "Green bean galaxy" ;
+    skos:related ocs:C35164,
+        ocs:C39596,
+        ocs:C40683,
+        ocs:C41072,
+        ocs:C597 .
+

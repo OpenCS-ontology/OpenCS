@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31145 a skos:Concept ;
+    skos:broader ocs:C18436,
+        ocs:C28454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_(engineering)> ;
+    skos:prefLabel "Process (engineering)" ;
+    skos:related ocs:C1563,
+        ocs:C28,
+        ocs:C3674,
+        ocs:C854 .
+

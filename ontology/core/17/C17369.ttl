@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17369 a skos:Concept ;
+    skos:broader ocs:C5633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schema_crosswalk> ;
+    skos:prefLabel "Schema crosswalk" ;
+    skos:related ocs:C1038,
+        ocs:C1090,
+        ocs:C10979,
+        ocs:C11492,
+        ocs:C12694,
+        ocs:C12819,
+        ocs:C15209,
+        ocs:C15472,
+        ocs:C15906,
+        ocs:C21399,
+        ocs:C23088,
+        ocs:C3037,
+        ocs:C34720,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C40051,
+        ocs:C42947,
+        ocs:C45647,
+        ocs:C6,
+        ocs:C6915 .
+

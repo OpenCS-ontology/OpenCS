@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6071 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_register> ;
+    skos:prefLabel "Link register" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C1333,
+        ocs:C2009,
+        ocs:C283,
+        ocs:C28788,
+        ocs:C35009,
+        ocs:C37134,
+        ocs:C37461,
+        ocs:C37538,
+        ocs:C39277,
+        ocs:C41268,
+        ocs:C5340,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C6280,
+        ocs:C8275,
+        ocs:C856 .
+

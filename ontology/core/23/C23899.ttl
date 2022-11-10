@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23899 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Euler_operator> ;
+    skos:prefLabel "Euler operator" ;
+    skos:related ocs:C10391,
+        ocs:C10773,
+        ocs:C10924,
+        ocs:C11450,
+        ocs:C11689,
+        ocs:C12577,
+        ocs:C15820,
+        ocs:C19559,
+        ocs:C2927,
+        ocs:C36542,
+        ocs:C4199,
+        ocs:C44381,
+        ocs:C7000,
+        ocs:C8399 .
+

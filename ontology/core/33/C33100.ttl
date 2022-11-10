@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33100 a skos:Concept ;
+    skos:broader ocs:C21201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_optimization> ;
+    skos:prefLabel "Loop optimization" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C17089,
+        ocs:C17698,
+        ocs:C19490,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C23854,
+        ocs:C25210,
+        ocs:C30086,
+        ocs:C30556,
+        ocs:C38816,
+        ocs:C40582,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C5085,
+        ocs:C8131 .
+

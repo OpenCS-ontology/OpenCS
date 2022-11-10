@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16152 a skos:Concept ;
+    skos:broader ocs:C10803,
+        ocs:C4082,
+        ocs:C4218,
+        ocs:C5072,
+        ocs:C6953 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_random_number_generator> ;
+    skos:prefLabel "Hardware random number generator" ;
+    skos:related ocs:C10803,
+        ocs:C15398,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C37133,
+        ocs:C41220,
+        ocs:C4218,
+        ocs:C45216,
+        ocs:C5072,
+        ocs:C6953,
+        ocs:C7130 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4715 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sality> ;
+    skos:prefLabel "Sality" ;
+    skos:related ocs:C14466,
+        ocs:C16481,
+        ocs:C17126,
+        ocs:C17205,
+        ocs:C18986,
+        ocs:C19000,
+        ocs:C2941,
+        ocs:C32264,
+        ocs:C34356,
+        ocs:C35171,
+        ocs:C41323,
+        ocs:C44734,
+        ocs:C45359,
+        ocs:C45546,
+        ocs:C4977,
+        ocs:C6605,
+        ocs:C8614,
+        ocs:C9938 .
+

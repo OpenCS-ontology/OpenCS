@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44874 a skos:Concept ;
+    skos:broader ocs:C33104,
+        ocs:C34421,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sherwood_Applied_Business_Security_Architecture> ;
+    skos:prefLabel "Sherwood Applied Business Security Architecture" ;
+    skos:related ocs:C10620,
+        ocs:C1399,
+        ocs:C17877,
+        ocs:C18539,
+        ocs:C2304,
+        ocs:C31890,
+        ocs:C38363,
+        ocs:C40085,
+        ocs:C40270,
+        ocs:C45082,
+        ocs:C45437,
+        ocs:C9700 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21252 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eurocomb> ;
+    skos:prefLabel "Eurocomb" ;
+    skos:related ocs:C13150,
+        ocs:C14693,
+        ocs:C15971,
+        ocs:C17726,
+        ocs:C24146,
+        ocs:C28786,
+        ocs:C33920,
+        ocs:C40771,
+        ocs:C41797,
+        ocs:C44460 .
+

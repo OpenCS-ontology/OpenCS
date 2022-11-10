@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34997 a skos:Concept ;
+    skos:broader ocs:C25022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-mediated_reality> ;
+    skos:prefLabel "Computer-mediated reality" ;
+    skos:related ocs:C10081,
+        ocs:C13320,
+        ocs:C13856,
+        ocs:C15986,
+        ocs:C17132,
+        ocs:C21017,
+        ocs:C23978,
+        ocs:C25022,
+        ocs:C27445,
+        ocs:C29806,
+        ocs:C31110,
+        ocs:C32263,
+        ocs:C32962,
+        ocs:C37963,
+        ocs:C39979,
+        ocs:C9047,
+        ocs:C9601,
+        ocs:C9603 .
+

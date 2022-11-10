@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42982 a skos:Concept ;
+    skos:broader ocs:C30529,
+        ocs:C37134,
+        ocs:C37538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Register_window> ;
+    skos:prefLabel "Register window" ;
+    skos:related ocs:C10320,
+        ocs:C1333,
+        ocs:C14627,
+        ocs:C15,
+        ocs:C19487,
+        ocs:C2009,
+        ocs:C27610,
+        ocs:C37538,
+        ocs:C3913,
+        ocs:C3935,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C8275,
+        ocs:C856 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38000 a skos:Concept ;
+    skos:broader ocs:C30507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bochner_integral> ;
+    skos:prefLabel "Bochner integral" ;
+    skos:related ocs:C11150,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C33860,
+        ocs:C36053,
+        ocs:C40562,
+        ocs:C41233,
+        ocs:C42548,
+        ocs:C45267,
+        ocs:C45388 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21262 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692,
+        ocs:C9323 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concrete_security> ;
+    skos:prefLabel "Concrete security" ;
+    skos:related ocs:C15837,
+        ocs:C16026,
+        ocs:C23073,
+        ocs:C23855,
+        ocs:C23875,
+        ocs:C28763,
+        ocs:C29363,
+        ocs:C29533,
+        ocs:C31482,
+        ocs:C32985,
+        ocs:C33426,
+        ocs:C34749,
+        ocs:C38115,
+        ocs:C40692,
+        ocs:C4218,
+        ocs:C43005,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C45207 .
+

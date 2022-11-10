@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10791 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Post-occupancy_evaluation> ;
+    skos:prefLabel "Post-occupancy evaluation" ;
+    skos:related ocs:C17837 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29703 a skos:Concept ;
+    skos:broader ocs:C14434,
+        ocs:C15405,
+        ocs:C18419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chaotic_hysteresis> ;
+    skos:prefLabel "Chaotic hysteresis" ;
+    skos:related ocs:C14592,
+        ocs:C16955,
+        ocs:C18223,
+        ocs:C24717,
+        ocs:C35892,
+        ocs:C8754 .
+

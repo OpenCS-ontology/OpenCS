@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5780 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commonsense_reasoning> ;
+    skos:prefLabel "Commonsense reasoning" ;
+    skos:related ocs:C1,
+        ocs:C10479,
+        ocs:C10551,
+        ocs:C10616,
+        ocs:C11033,
+        ocs:C12579,
+        ocs:C12977,
+        ocs:C1722,
+        ocs:C17236,
+        ocs:C1936,
+        ocs:C25,
+        ocs:C28119,
+        ocs:C29173,
+        ocs:C31036,
+        ocs:C32,
+        ocs:C43845,
+        ocs:C685,
+        ocs:C7,
+        ocs:C8 .
+

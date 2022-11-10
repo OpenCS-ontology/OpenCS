@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19368 a skos:Concept ;
+    skos:broader ocs:C2321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bregman_method> ;
+    skos:prefLabel "Bregman method" ;
+    skos:related ocs:C15070,
+        ocs:C15665,
+        ocs:C17791,
+        ocs:C24130,
+        ocs:C27828,
+        ocs:C32418,
+        ocs:C6287,
+        ocs:C8944 .
+

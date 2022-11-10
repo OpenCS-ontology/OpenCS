@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4044 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Program_transformation> ;
+    skos:prefLabel "Program transformation" ;
+    skos:related ocs:C1,
+        ocs:C11262,
+        ocs:C12257,
+        ocs:C12657,
+        ocs:C1451,
+        ocs:C1781,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21627,
+        ocs:C23439,
+        ocs:C26572,
+        ocs:C3639,
+        ocs:C4321,
+        ocs:C45212,
+        ocs:C6072,
+        ocs:C6941,
+        ocs:C7126,
+        ocs:C8564,
+        ocs:C9 .
+

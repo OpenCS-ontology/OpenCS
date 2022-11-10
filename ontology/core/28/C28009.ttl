@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28009 a skos:Concept ;
+    skos:broader ocs:C10918,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Endec> ;
+    skos:prefLabel "Endec" ;
+    skos:related ocs:C10881,
+        ocs:C12046,
+        ocs:C16860,
+        ocs:C22841,
+        ocs:C26268,
+        ocs:C27316,
+        ocs:C29471,
+        ocs:C30758,
+        ocs:C31114,
+        ocs:C31720,
+        ocs:C34010,
+        ocs:C36912,
+        ocs:C37689,
+        ocs:C41438,
+        ocs:C45152 .
+

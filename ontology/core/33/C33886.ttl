@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33886 a skos:Concept ;
+    skos:broader ocs:C25954,
+        ocs:C25960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniform_memory_access> ;
+    skos:prefLabel "Uniform memory access" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C14856,
+        ocs:C1904,
+        ocs:C26124,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C36211,
+        ocs:C38461,
+        ocs:C39272,
+        ocs:C40330,
+        ocs:C42759,
+        ocs:C43877,
+        ocs:C4804,
+        ocs:C5766,
+        ocs:C8010,
+        ocs:C9486 .
+

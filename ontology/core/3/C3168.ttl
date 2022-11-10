@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3168 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_diagram> ;
+    skos:prefLabel "State diagram" ;
+    skos:related ocs:C1,
+        ocs:C10720,
+        ocs:C12427,
+        ocs:C12587,
+        ocs:C14235,
+        ocs:C19,
+        ocs:C21398,
+        ocs:C24477,
+        ocs:C28640,
+        ocs:C29844,
+        ocs:C33825,
+        ocs:C35299,
+        ocs:C37864,
+        ocs:C38187,
+        ocs:C39238,
+        ocs:C39850,
+        ocs:C41766,
+        ocs:C43696,
+        ocs:C5500,
+        ocs:C8791 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11193 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layered_Model_of_Regulation> ;
+    skos:prefLabel "Layered Model of Regulation" ;
+    skos:related ocs:C1398,
+        ocs:C15589,
+        ocs:C19227,
+        ocs:C19722,
+        ocs:C20323,
+        ocs:C22208,
+        ocs:C24323,
+        ocs:C24335,
+        ocs:C26,
+        ocs:C2917,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C30502,
+        ocs:C3968,
+        ocs:C44624,
+        ocs:C5343,
+        ocs:C6861,
+        ocs:C9931 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11865 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Central_Air_Data_Computer> ;
+    skos:prefLabel "Central Air Data Computer" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C35269,
+        ocs:C4259,
+        ocs:C44695,
+        ocs:C4703,
+        ocs:C6072,
+        ocs:C8434 .
+

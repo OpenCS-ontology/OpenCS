@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19943 a skos:Concept ;
+    skos:broader ocs:C9603 ;
+    skos:closeMatch <http://dbpedia.org/resource/Augmented_learning> ;
+    skos:prefLabel "Augmented learning" ;
+    skos:related ocs:C14177,
+        ocs:C14971,
+        ocs:C20042,
+        ocs:C25,
+        ocs:C26639,
+        ocs:C3057,
+        ocs:C3444,
+        ocs:C37105 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C467 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combat_readiness> ;
+    skos:prefLabel "Combat readiness" ;
+    skos:related ocs:C1502,
+        ocs:C2139,
+        ocs:C25124,
+        ocs:C3232,
+        ocs:C5247 .
+

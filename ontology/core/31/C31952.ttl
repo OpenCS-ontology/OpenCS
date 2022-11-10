@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31952 a skos:Concept ;
+    skos:broader ocs:C15308 ;
+    skos:closeMatch <http://dbpedia.org/resource/ASEA_IRB> ;
+    skos:prefLabel "ASEA IRB" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C28127,
+        ocs:C28740,
+        ocs:C33991,
+        ocs:C34131,
+        ocs:C39311,
+        ocs:C40076,
+        ocs:C4269,
+        ocs:C43586,
+        ocs:C43810,
+        ocs:C44269,
+        ocs:C44779,
+        ocs:C5083 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13219 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technology_intelligence> ;
+    skos:prefLabel "Technology intelligence" ;
+    skos:related ocs:C13420,
+        ocs:C18685,
+        ocs:C2476,
+        ocs:C26214,
+        ocs:C28528,
+        ocs:C38988,
+        ocs:C8419 .
+

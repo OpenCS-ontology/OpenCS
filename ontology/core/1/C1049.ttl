@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1049 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Professional_video_over_IP> ;
+    skos:prefLabel "Professional video over IP" ;
+    skos:related ocs:C1151,
+        ocs:C14160,
+        ocs:C16953,
+        ocs:C20323,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C3,
+        ocs:C30630,
+        ocs:C34719,
+        ocs:C36923,
+        ocs:C37577,
+        ocs:C390,
+        ocs:C39853,
+        ocs:C4197,
+        ocs:C43209,
+        ocs:C4433,
+        ocs:C8298 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41190 a skos:Concept ;
+    skos:broader ocs:C31395 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physical_schema> ;
+    skos:prefLabel "Physical schema" ;
+    skos:related ocs:C13744,
+        ocs:C17701,
+        ocs:C18383,
+        ocs:C18405,
+        ocs:C20895,
+        ocs:C2414,
+        ocs:C2528,
+        ocs:C26351,
+        ocs:C26941,
+        ocs:C27386,
+        ocs:C28349,
+        ocs:C29797,
+        ocs:C33744,
+        ocs:C35012,
+        ocs:C37009,
+        ocs:C42440,
+        ocs:C44839,
+        ocs:C6,
+        ocs:C7651 .
+

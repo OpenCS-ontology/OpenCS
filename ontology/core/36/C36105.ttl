@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36105 a skos:Concept ;
+    skos:broader ocs:C17985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monocular_rivalry> ;
+    skos:prefLabel "Monocular rivalry" ;
+    skos:related ocs:C13549,
+        ocs:C2422,
+        ocs:C36940,
+        ocs:C5585,
+        ocs:C8725 .
+

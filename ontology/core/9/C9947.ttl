@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9947 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extension_method> ;
+    skos:prefLabel "Extension method" ;
+    skos:related ocs:C10182,
+        ocs:C10384,
+        ocs:C10552,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C17734,
+        ocs:C19,
+        ocs:C2419,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C31014,
+        ocs:C3282,
+        ocs:C5308,
+        ocs:C9033 .
+

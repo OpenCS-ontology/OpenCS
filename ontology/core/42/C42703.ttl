@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42703 a skos:Concept ;
+    skos:broader ocs:C36246 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rhagophthalmidae> ;
+    skos:prefLabel "Rhagophthalmidae" ;
+    skos:related ocs:C22760,
+        ocs:C30889,
+        ocs:C34268,
+        ocs:C36246,
+        ocs:C37372,
+        ocs:C38668 .
+

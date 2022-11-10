@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26579 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Closure_operator> ;
+    skos:prefLabel "Closure operator" ;
+    skos:related ocs:C11771,
+        ocs:C27650,
+        ocs:C8635 .
+

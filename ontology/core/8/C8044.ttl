@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8044 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elevator_pitch> ;
+    skos:prefLabel "Elevator pitch" ;
+    skos:related ocs:C12146,
+        ocs:C13095,
+        ocs:C2057,
+        ocs:C28422,
+        ocs:C45554 .
+

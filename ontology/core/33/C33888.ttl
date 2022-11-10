@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33888 a skos:Concept ;
+    skos:broader ocs:C16742,
+        ocs:C20811 ;
+    skos:closeMatch <http://dbpedia.org/resource/Similarity_(network_science)> ;
+    skos:prefLabel "Similarity (network science)" ;
+    skos:related ocs:C10382,
+        ocs:C15476,
+        ocs:C18864,
+        ocs:C29024,
+        ocs:C38396,
+        ocs:C38397,
+        ocs:C39217,
+        ocs:C40822,
+        ocs:C41039,
+        ocs:C5940,
+        ocs:C7658 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1899 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Drive_bay> ;
+    skos:prefLabel "Drive bay" ;
+    skos:related ocs:C10213,
+        ocs:C10320,
+        ocs:C10568,
+        ocs:C11052,
+        ocs:C11960,
+        ocs:C19481,
+        ocs:C29012,
+        ocs:C31489,
+        ocs:C6397,
+        ocs:C9 .
+

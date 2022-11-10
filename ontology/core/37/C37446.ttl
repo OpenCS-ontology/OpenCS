@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37446 a skos:Concept ;
+    skos:broader ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/QoS_Class_Identifier> ;
+    skos:prefLabel "QoS Class Identifier" ;
+    skos:related ocs:C16851,
+        ocs:C21976,
+        ocs:C23025,
+        ocs:C27704,
+        ocs:C29873,
+        ocs:C31469,
+        ocs:C31996,
+        ocs:C32300,
+        ocs:C32715,
+        ocs:C32846,
+        ocs:C34908,
+        ocs:C35776,
+        ocs:C35897,
+        ocs:C3933,
+        ocs:C41695,
+        ocs:C4197,
+        ocs:C44416,
+        ocs:C45589 .
+

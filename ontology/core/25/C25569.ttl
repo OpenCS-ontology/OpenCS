@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25569 a skos:Concept ;
+    skos:broader ocs:C7163,
+        ocs:C8126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sociological_intelligence> ;
+    skos:prefLabel "Sociological intelligence" ;
+    skos:related ocs:C1331 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23350 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C12380,
+        ocs:C5083 ;
+    skos:prefLabel "Active vision system" .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42200 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_exit> ;
+    skos:prefLabel "User exit" ;
+    skos:related ocs:C10243,
+        ocs:C10349,
+        ocs:C10567,
+        ocs:C11991,
+        ocs:C1253,
+        ocs:C1333,
+        ocs:C2009,
+        ocs:C25185,
+        ocs:C2674,
+        ocs:C28783,
+        ocs:C40088,
+        ocs:C41659,
+        ocs:C4321,
+        ocs:C5049,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C9 .
+

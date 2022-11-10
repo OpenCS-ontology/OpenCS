@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C383 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scatter_plot> ;
+    skos:prefLabel "Scatter plot" ;
+    skos:related ocs:C11986,
+        ocs:C18406,
+        ocs:C1938,
+        ocs:C21385,
+        ocs:C38822,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C6116 .
+

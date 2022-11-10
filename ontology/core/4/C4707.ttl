@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4707 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baguenaudier> ;
+    skos:prefLabel "Baguenaudier" ;
+    skos:related ocs:C18358,
+        ocs:C25850,
+        ocs:C39452,
+        ocs:C40443,
+        ocs:C43079,
+        ocs:C44935,
+        ocs:C5037,
+        ocs:C6550 .
+

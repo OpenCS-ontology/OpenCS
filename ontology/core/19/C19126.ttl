@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19126 a skos:Concept ;
+    skos:broader ocs:C2973,
+        ocs:C8891 ;
+    skos:closeMatch <http://dbpedia.org/resource/Living_Human_Project> ;
+    skos:prefLabel "Living Human Project" ;
+    skos:related ocs:C2973,
+        ocs:C8891 .
+

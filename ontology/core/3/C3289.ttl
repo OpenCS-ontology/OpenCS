@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3289 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_logic> ;
+    skos:prefLabel "Control logic" ;
+    skos:related ocs:C10,
+        ocs:C12587,
+        ocs:C12852,
+        ocs:C14235,
+        ocs:C19400,
+        ocs:C23058,
+        ocs:C2427,
+        ocs:C2523,
+        ocs:C26,
+        ocs:C28640,
+        ocs:C3168,
+        ocs:C33825,
+        ocs:C38187,
+        ocs:C39850,
+        ocs:C5500,
+        ocs:C6072,
+        ocs:C8791 .
+

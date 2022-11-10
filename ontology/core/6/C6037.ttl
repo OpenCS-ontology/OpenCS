@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6037 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/User_expectations> ;
+    skos:prefLabel "User expectations" ;
+    skos:related ocs:C11034,
+        ocs:C12022,
+        ocs:C13144,
+        ocs:C13413,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C21213,
+        ocs:C24143,
+        ocs:C27331,
+        ocs:C28503,
+        ocs:C32547,
+        ocs:C4292,
+        ocs:C5051,
+        ocs:C7714,
+        ocs:C7736,
+        ocs:C8269,
+        ocs:C9441,
+        ocs:C9607 .
+

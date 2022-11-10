@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12070 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C35 ;
+    skos:prefLabel "Toll-Free Number" ;
+    skos:related ocs:C26,
+        ocs:C3,
+        ocs:C34,
+        ocs:C35,
+        ocs:C3778,
+        ocs:C3799,
+        ocs:C428,
+        ocs:C5,
+        ocs:C7601,
+        ocs:C8614,
+        ocs:C9874 .
+

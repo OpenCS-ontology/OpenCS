@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31814 a skos:Concept ;
+    skos:broader ocs:C28129 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wollaston_wire> ;
+    skos:prefLabel "Wollaston wire" ;
+    skos:related ocs:C10103,
+        ocs:C14698,
+        ocs:C17127,
+        ocs:C19669,
+        ocs:C21441,
+        ocs:C28744 .
+

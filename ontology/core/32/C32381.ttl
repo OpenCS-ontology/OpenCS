@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32381 a skos:Concept ;
+    skos:broader ocs:C24969 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topological_skeleton> ;
+    skos:prefLabel "Topological skeleton" ;
+    skos:related ocs:C1023,
+        ocs:C10239,
+        ocs:C16532,
+        ocs:C22623,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C28701,
+        ocs:C32162,
+        ocs:C32479,
+        ocs:C33963,
+        ocs:C34134,
+        ocs:C37007,
+        ocs:C6401,
+        ocs:C7,
+        ocs:C8271 .
+

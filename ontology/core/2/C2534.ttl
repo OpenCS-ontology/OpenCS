@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2534 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teleprinter> ;
+    skos:prefLabel "Teleprinter" ;
+    skos:related ocs:C10772,
+        ocs:C1130,
+        ocs:C11669,
+        ocs:C12815,
+        ocs:C13253,
+        ocs:C1523,
+        ocs:C16547,
+        ocs:C2169,
+        ocs:C3,
+        ocs:C6034,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9162 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29727 a skos:Concept ;
+    skos:broader ocs:C23164 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moment_measure> ;
+    skos:prefLabel "Moment measure" ;
+    skos:related ocs:C1844,
+        ocs:C23164,
+        ocs:C24350,
+        ocs:C26839,
+        ocs:C33580,
+        ocs:C42236,
+        ocs:C6909 .
+

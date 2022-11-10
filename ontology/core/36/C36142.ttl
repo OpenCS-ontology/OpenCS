@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36142 a skos:Concept ;
+    skos:broader ocs:C13933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exponential_integrate-and-fire> ;
+    skos:prefLabel "Exponential integrate-and-fire" ;
+    skos:related ocs:C13933,
+        ocs:C20126,
+        ocs:C20990,
+        ocs:C24856,
+        ocs:C26206,
+        ocs:C36977,
+        ocs:C37841,
+        ocs:C3932,
+        ocs:C9022 .
+

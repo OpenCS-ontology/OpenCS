@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17873 a skos:Concept ;
+    skos:broader ocs:C11447,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hacktivism> ;
+    skos:prefLabel "Hacktivism" ;
+    skos:related ocs:C11447,
+        ocs:C14032,
+        ocs:C16181,
+        ocs:C17046,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C30412,
+        ocs:C33379,
+        ocs:C35,
+        ocs:C36682,
+        ocs:C3815,
+        ocs:C8025,
+        ocs:C8458,
+        ocs:C8614 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7653 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_of_information> ;
+    skos:prefLabel "Value of information" ;
+    skos:related ocs:C15414,
+        ocs:C16975,
+        ocs:C22495,
+        ocs:C28342,
+        ocs:C2874,
+        ocs:C41130,
+        ocs:C7652,
+        ocs:C8,
+        ocs:C9608 .
+

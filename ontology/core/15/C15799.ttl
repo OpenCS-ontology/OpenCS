@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15799 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_of_a_function> ;
+    skos:prefLabel "Graph of a function" ;
+    skos:related ocs:C14151,
+        ocs:C9690 .
+

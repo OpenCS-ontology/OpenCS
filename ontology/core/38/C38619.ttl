@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38619 a skos:Concept ;
+    skos:broader ocs:C33381,
+        ocs:C36010,
+        ocs:C37577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teletraffic_engineering> ;
+    skos:prefLabel "Teletraffic engineering" ;
+    skos:related ocs:C12373,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C19152,
+        ocs:C20045,
+        ocs:C20691,
+        ocs:C21769,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C26,
+        ocs:C26818,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C31732,
+        ocs:C35659,
+        ocs:C36010,
+        ocs:C4197,
+        ocs:C5399,
+        ocs:C7221,
+        ocs:C9480 .
+

@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20448 a skos:Concept ;
+    skos:broader ocs:C10135,
+        ocs:C12942,
+        ocs:C390,
+        ocs:C5196,
+        ocs:C6751 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packetized_elementary_stream> ;
+    skos:prefLabel "Packetized elementary stream" ;
+    skos:related ocs:C11214,
+        ocs:C11323,
+        ocs:C12942,
+        ocs:C18917,
+        ocs:C19334,
+        ocs:C21312,
+        ocs:C22694,
+        ocs:C25298,
+        ocs:C27081,
+        ocs:C32488,
+        ocs:C33691,
+        ocs:C34364,
+        ocs:C34624,
+        ocs:C3522,
+        ocs:C36332,
+        ocs:C390,
+        ocs:C41876,
+        ocs:C4433,
+        ocs:C44962,
+        ocs:C9266 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24913 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constant_envelope> ;
+    skos:prefLabel "Constant envelope" ;
+    skos:related ocs:C11747,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C22451,
+        ocs:C23548,
+        ocs:C2803,
+        ocs:C28069,
+        ocs:C5369,
+        ocs:C7502 .
+

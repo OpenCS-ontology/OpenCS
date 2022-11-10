@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12177 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C5,
+        ocs:C6 ;
+    skos:prefLabel "Deidentification" ;
+    skos:related ocs:C11048,
+        ocs:C25,
+        ocs:C26639,
+        ocs:C35,
+        ocs:C5,
+        ocs:C5619,
+        ocs:C7510,
+        ocs:C7604 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22681 a skos:Concept ;
+    skos:broader ocs:C2321,
+        ocs:C669 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_variation_denoising> ;
+    skos:prefLabel "Total variation denoising" ;
+    skos:related ocs:C10554,
+        ocs:C14414,
+        ocs:C14863,
+        ocs:C15615,
+        ocs:C17412,
+        ocs:C22623,
+        ocs:C23346,
+        ocs:C33605,
+        ocs:C34225,
+        ocs:C43184,
+        ocs:C669,
+        ocs:C6943,
+        ocs:C7052,
+        ocs:C7471,
+        ocs:C8499 .
+

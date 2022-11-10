@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C444 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Content_adaptation> ;
+    skos:prefLabel "Content adaptation" ;
+    skos:related ocs:C11696,
+        ocs:C12477,
+        ocs:C22597,
+        ocs:C26528,
+        ocs:C26882,
+        ocs:C26903,
+        ocs:C31,
+        ocs:C32451,
+        ocs:C33709,
+        ocs:C36500,
+        ocs:C37852,
+        ocs:C38446,
+        ocs:C41750,
+        ocs:C42102,
+        ocs:C4337,
+        ocs:C44238,
+        ocs:C44835,
+        ocs:C45390,
+        ocs:C4918,
+        ocs:C7166 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9271 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embryo_space_colonization> ;
+    skos:prefLabel "Embryo space colonization" ;
+    skos:related ocs:C10499,
+        ocs:C13529,
+        ocs:C14270,
+        ocs:C26021,
+        ocs:C26524,
+        ocs:C36203,
+        ocs:C36947,
+        ocs:C42001,
+        ocs:C42138,
+        ocs:C8 .
+

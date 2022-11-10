@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22760 a skos:Concept ;
+    skos:broader ocs:C7513 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glowworm> ;
+    skos:prefLabel "Glowworm" ;
+    skos:related ocs:C30889,
+        ocs:C36246,
+        ocs:C42703 .
+

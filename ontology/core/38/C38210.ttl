@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38210 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coarea_formula> ;
+    skos:prefLabel "Coarea formula" ;
+    skos:related ocs:C11150,
+        ocs:C30507,
+        ocs:C39746 .
+

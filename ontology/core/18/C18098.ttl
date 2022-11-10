@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18098 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C12474,
+        ocs:C12780,
+        ocs:C2478,
+        ocs:C5201,
+        ocs:C6714 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heterogeneous_Element_Processor> ;
+    skos:prefLabel "Heterogeneous Element Processor" ;
+    skos:related ocs:C10320,
+        ocs:C10583,
+        ocs:C11258,
+        ocs:C13274,
+        ocs:C17434,
+        ocs:C2478,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C40330,
+        ocs:C7356,
+        ocs:C7507,
+        ocs:C7735 .
+

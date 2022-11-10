@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10459 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_policy> ;
+    skos:prefLabel "Information policy" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C13306,
+        ocs:C1399,
+        ocs:C18764,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C2979,
+        ocs:C3,
+        ocs:C31201,
+        ocs:C4,
+        ocs:C6944,
+        ocs:C7297,
+        ocs:C8137,
+        ocs:C9057 .
+

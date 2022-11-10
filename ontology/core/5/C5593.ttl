@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5593 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oromo_language> ;
+    skos:prefLabel "Oromo language" ;
+    skos:related ocs:C10570,
+        ocs:C11957,
+        ocs:C23243,
+        ocs:C32159,
+        ocs:C7501 .
+

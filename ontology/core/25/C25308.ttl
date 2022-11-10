@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25308 a skos:Concept ;
+    skos:broader ocs:C13151 ;
+    skos:closeMatch <http://dbpedia.org/resource/SDET> ;
+    skos:prefLabel "SDET" ;
+    skos:related ocs:C14271,
+        ocs:C23022,
+        ocs:C3429,
+        ocs:C39149,
+        ocs:C9,
+        ocs:C9245 .
+

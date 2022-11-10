@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22388 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Configuration_graph> ;
+    skos:prefLabel "Configuration graph" ;
+    skos:related ocs:C11885,
+        ocs:C22100,
+        ocs:C23023,
+        ocs:C31761,
+        ocs:C33409,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C37912,
+        ocs:C38754,
+        ocs:C40333,
+        ocs:C41116,
+        ocs:C41642,
+        ocs:C42271,
+        ocs:C42320,
+        ocs:C43652,
+        ocs:C44854,
+        ocs:C7109 .
+

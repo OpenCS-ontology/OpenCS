@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10626 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/NWScript> ;
+    skos:prefLabel "NWScript" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11333,
+        ocs:C1142,
+        ocs:C12974,
+        ocs:C1386,
+        ocs:C19,
+        ocs:C25313,
+        ocs:C29907,
+        ocs:C3036,
+        ocs:C32486,
+        ocs:C34227,
+        ocs:C4321,
+        ocs:C5034,
+        ocs:C5308,
+        ocs:C7114,
+        ocs:C7530,
+        ocs:C7800 .
+

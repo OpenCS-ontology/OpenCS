@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30419 a skos:Concept ;
+    skos:broader ocs:C23973 ;
+    skos:prefLabel "Ion channel activity" ;
+    skos:related ocs:C18138,
+        ocs:C7553,
+        ocs:C9664 .
+

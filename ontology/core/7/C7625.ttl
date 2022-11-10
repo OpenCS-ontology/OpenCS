@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7625 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncrewed_vehicle> ;
+    skos:prefLabel "Uncrewed vehicle" ;
+    skos:related ocs:C10340,
+        ocs:C11593,
+        ocs:C1240,
+        ocs:C1346,
+        ocs:C14022,
+        ocs:C15963,
+        ocs:C17254,
+        ocs:C17375,
+        ocs:C17554,
+        ocs:C29938,
+        ocs:C3227,
+        ocs:C34991,
+        ocs:C8,
+        ocs:C8556 .
+

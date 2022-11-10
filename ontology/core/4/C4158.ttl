@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4158 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_model> ;
+    skos:prefLabel "Decision model" ;
+    skos:related ocs:C10,
+        ocs:C10771,
+        ocs:C13,
+        ocs:C20385,
+        ocs:C22495,
+        ocs:C2529,
+        ocs:C28526,
+        ocs:C31111,
+        ocs:C37370,
+        ocs:C3753,
+        ocs:C41232,
+        ocs:C41875,
+        ocs:C7652,
+        ocs:C9608,
+        ocs:C9874 .
+

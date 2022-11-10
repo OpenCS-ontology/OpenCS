@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2715 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jensen's_Device> ;
+    skos:prefLabel "Jensen's Device" ;
+    skos:related ocs:C10349,
+        ocs:C10387,
+        ocs:C11373,
+        ocs:C12004,
+        ocs:C15667,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C25684,
+        ocs:C29634,
+        ocs:C35961,
+        ocs:C3845,
+        ocs:C40231,
+        ocs:C4778,
+        ocs:C6024,
+        ocs:C6255,
+        ocs:C659,
+        ocs:C7066,
+        ocs:C7289,
+        ocs:C8441,
+        ocs:C9277 .
+

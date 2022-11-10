@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17773 a skos:Concept ;
+    skos:broader ocs:C10999 ;
+    skos:prefLabel "Wheelchair user" ;
+    skos:related ocs:C10420,
+        ocs:C17,
+        ocs:C19558,
+        ocs:C2,
+        ocs:C3,
+        ocs:C34535,
+        ocs:C6340 .
+

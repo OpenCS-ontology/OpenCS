@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28787 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert_space> ;
+    skos:prefLabel "Hilbert space" ;
+    skos:related ocs:C20124,
+        ocs:C23927,
+        ocs:C30507,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C36974,
+        ocs:C5969 .
+

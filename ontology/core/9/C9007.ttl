@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9007 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_peptide> ;
+    skos:prefLabel "Sequence signal" ;
+    skos:related ocs:C10492,
+        ocs:C11443,
+        ocs:C12431,
+        ocs:C16,
+        ocs:C19687,
+        ocs:C2,
+        ocs:C22457,
+        ocs:C33,
+        ocs:C36598,
+        ocs:C5298,
+        ocs:C5336,
+        ocs:C8021 .
+

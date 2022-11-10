@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C470 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Score_following> ;
+    skos:prefLabel "Score following" ;
+    skos:related ocs:C10554,
+        ocs:C11042,
+        ocs:C11096,
+        ocs:C11254,
+        ocs:C11487,
+        ocs:C18518,
+        ocs:C25,
+        ocs:C386,
+        ocs:C5298,
+        ocs:C5816,
+        ocs:C8 .
+

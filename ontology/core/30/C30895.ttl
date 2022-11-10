@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30895 a skos:Concept ;
+    skos:broader ocs:C23673 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_compression_picture_types> ;
+    skos:prefLabel "Video compression picture types" ;
+    skos:related ocs:C11323,
+        ocs:C13092,
+        ocs:C15700,
+        ocs:C16860,
+        ocs:C19334,
+        ocs:C23318,
+        ocs:C23673,
+        ocs:C29048,
+        ocs:C30004,
+        ocs:C40353,
+        ocs:C42514,
+        ocs:C45687,
+        ocs:C7447 .
+

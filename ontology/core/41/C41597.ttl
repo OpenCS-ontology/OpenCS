@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41597 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dark_galaxy> ;
+    skos:prefLabel "Dark galaxy" ;
+    skos:related ocs:C17246,
+        ocs:C23430,
+        ocs:C28402,
+        ocs:C34069,
+        ocs:C36635,
+        ocs:C40683,
+        ocs:C597 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41558 a skos:Concept ;
+    skos:broader ocs:C34197,
+        ocs:C36509,
+        ocs:C36568 ;
+    skos:prefLabel "Impulse noise detection" .
+

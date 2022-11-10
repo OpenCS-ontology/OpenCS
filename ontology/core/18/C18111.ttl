@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18111 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_Services_Modeling_Language> ;
+    skos:prefLabel "Web Services Modeling Language" ;
+    skos:related ocs:C1451,
+        ocs:C16356,
+        ocs:C19,
+        ocs:C2418,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C32080,
+        ocs:C34321,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C39137,
+        ocs:C39278,
+        ocs:C43271,
+        ocs:C44014,
+        ocs:C44161,
+        ocs:C45295,
+        ocs:C4781,
+        ocs:C524,
+        ocs:C6047,
+        ocs:C8635 .
+

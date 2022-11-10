@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29435 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_performance_counter> ;
+    skos:prefLabel "Hardware performance counter" ;
+    skos:related ocs:C10320,
+        ocs:C10824,
+        ocs:C14965,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C19699,
+        ocs:C19836,
+        ocs:C21718,
+        ocs:C22525,
+        ocs:C25171,
+        ocs:C27610,
+        ocs:C31489,
+        ocs:C36673,
+        ocs:C5041 .
+

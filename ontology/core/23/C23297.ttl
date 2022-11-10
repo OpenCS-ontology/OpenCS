@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23297 a skos:Concept ;
+    skos:broader ocs:C492 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_identification_number> ;
+    skos:prefLabel "System identification number" ;
+    skos:related ocs:C1041,
+        ocs:C12853,
+        ocs:C16693,
+        ocs:C20116,
+        ocs:C20859,
+        ocs:C25712,
+        ocs:C29697,
+        ocs:C35725,
+        ocs:C37303,
+        ocs:C39689,
+        ocs:C40140,
+        ocs:C40238,
+        ocs:C42449,
+        ocs:C4255,
+        ocs:C44251,
+        ocs:C6114,
+        ocs:C7877,
+        ocs:C9332 .
+

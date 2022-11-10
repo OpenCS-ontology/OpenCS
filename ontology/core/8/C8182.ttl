@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8182 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remotely_operated_underwater_vehicle> ;
+    skos:prefLabel "Remotely operated underwater vehicle" ;
+    skos:related ocs:C1334,
+        ocs:C23843,
+        ocs:C35960,
+        ocs:C7008 .
+

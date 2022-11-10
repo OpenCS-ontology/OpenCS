@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C471 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rock's_law> ;
+    skos:prefLabel "Rock's law" ;
+    skos:related ocs:C3160,
+        ocs:C33434,
+        ocs:C37208,
+        ocs:C7165 .
+

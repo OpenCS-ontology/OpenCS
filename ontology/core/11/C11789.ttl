@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11789 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:prefLabel "Reconstruction procedure" ;
+    skos:related ocs:C11253,
+        ocs:C13208,
+        ocs:C22,
+        ocs:C25,
+        ocs:C33,
+        ocs:C6943,
+        ocs:C8753 .
+

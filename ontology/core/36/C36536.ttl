@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36536 a skos:Concept ;
+    skos:broader ocs:C14625 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_sector> ;
+    skos:prefLabel "Disk sector" ;
+    skos:related ocs:C10213,
+        ocs:C10501,
+        ocs:C10696,
+        ocs:C10785,
+        ocs:C13486,
+        ocs:C13783,
+        ocs:C15529,
+        ocs:C3231,
+        ocs:C328,
+        ocs:C33255,
+        ocs:C41962,
+        ocs:C43161,
+        ocs:C4916,
+        ocs:C600,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9430 .
+

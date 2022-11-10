@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19920 a skos:Concept ;
+    skos:broader ocs:C2011,
+        ocs:C8517,
+        ocs:C9022 ;
+    skos:prefLabel "Chebyshev neural network" .
+

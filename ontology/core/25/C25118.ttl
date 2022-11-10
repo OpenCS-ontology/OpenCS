@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25118 a skos:Concept ;
+    skos:broader ocs:C931 ;
+    skos:closeMatch <http://dbpedia.org/resource/Utility–possibility_frontier> ;
+    skos:prefLabel "Utility–possibility frontier" ;
+    skos:related ocs:C19168,
+        ocs:C1918,
+        ocs:C35466 .
+

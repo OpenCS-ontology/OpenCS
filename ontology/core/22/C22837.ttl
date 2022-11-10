@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22837 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/German_sentence_structure> ;
+    skos:prefLabel "German sentence structure" ;
+    skos:related ocs:C19047,
+        ocs:C20870,
+        ocs:C21092,
+        ocs:C2370,
+        ocs:C25746,
+        ocs:C25971,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C33735,
+        ocs:C36746,
+        ocs:C37038,
+        ocs:C44227 .
+

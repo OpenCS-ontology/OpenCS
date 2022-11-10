@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33649 a skos:Concept ;
+    skos:broader ocs:C16514 ;
+    skos:closeMatch <http://dbpedia.org/resource/Atmospheric_Radiation_Measurement_Climate_Research_Facility> ;
+    skos:prefLabel "Atmospheric Radiation Measurement Climate Research Facility" ;
+    skos:related ocs:C18292,
+        ocs:C34996 .
+

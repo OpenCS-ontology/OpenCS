@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38999 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31654,
+        ocs:C31777,
+        ocs:C33459,
+        ocs:C34052,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_whitening> ;
+    skos:prefLabel "Key whitening" ;
+    skos:related ocs:C11716,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C29977,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C37854,
+        ocs:C37976,
+        ocs:C38401,
+        ocs:C38685,
+        ocs:C39213,
+        ocs:C4218,
+        ocs:C42904,
+        ocs:C7226,
+        ocs:C8076 .
+

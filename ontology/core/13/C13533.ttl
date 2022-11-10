@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13533 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Instrument Data" ;
+    skos:related ocs:C10211,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C3,
+        ocs:C3231,
+        ocs:C33,
+        ocs:C34,
+        ocs:C35,
+        ocs:C5293,
+        ocs:C5722 .
+

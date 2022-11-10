@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22402 a skos:Concept ;
+    skos:broader ocs:C12533 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_maritime_signal_flags> ;
+    skos:prefLabel "International maritime signal flags" ;
+    skos:related ocs:C1051,
+        ocs:C10884,
+        ocs:C11669,
+        ocs:C13253,
+        ocs:C20612,
+        ocs:C3511,
+        ocs:C41763,
+        ocs:C9162 .
+

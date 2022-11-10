@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7374 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C6 ;
+    skos:prefLabel "Location Directory" ;
+    skos:related ocs:C12853,
+        ocs:C14417,
+        ocs:C15411,
+        ocs:C1595,
+        ocs:C2,
+        ocs:C3,
+        ocs:C31,
+        ocs:C3799,
+        ocs:C6 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3588 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complete_streets> ;
+    skos:prefLabel "Complete streets" ;
+    skos:related ocs:C17865,
+        ocs:C21412,
+        ocs:C435,
+        ocs:C5633 .
+

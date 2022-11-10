@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11492 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cataloging> ;
+    skos:prefLabel "Cataloging" ;
+    skos:related ocs:C10220,
+        ocs:C10413,
+        ocs:C1090,
+        ocs:C14421,
+        ocs:C1561,
+        ocs:C22687,
+        ocs:C23088,
+        ocs:C24891,
+        ocs:C27607,
+        ocs:C29008,
+        ocs:C3896,
+        ocs:C4,
+        ocs:C5877,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C6690,
+        ocs:C6915,
+        ocs:C7849,
+        ocs:C9662,
+        ocs:C9692 .
+

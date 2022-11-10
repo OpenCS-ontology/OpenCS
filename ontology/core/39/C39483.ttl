@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39483 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_test_generator> ;
+    skos:prefLabel "Random test generator" ;
+    skos:related ocs:C10444,
+        ocs:C10725,
+        ocs:C1386,
+        ocs:C19,
+        ocs:C19400,
+        ocs:C20745,
+        ocs:C20907,
+        ocs:C254,
+        ocs:C27118,
+        ocs:C28039,
+        ocs:C28235,
+        ocs:C35319,
+        ocs:C40343,
+        ocs:C40574,
+        ocs:C6797,
+        ocs:C7114,
+        ocs:C856 .
+

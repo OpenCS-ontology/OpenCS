@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39433 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C31362,
+        ocs:C33033,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Banach–Mazur_theorem> ;
+    skos:prefLabel "Banach–Mazur theorem" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C29686,
+        ocs:C31849,
+        ocs:C31924,
+        ocs:C39124 .
+

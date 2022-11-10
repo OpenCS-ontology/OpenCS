@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C758 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Switch-reference> ;
+    skos:prefLabel "Switch-reference" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C13006,
+        ocs:C15202,
+        ocs:C16364,
+        ocs:C16672,
+        ocs:C20016,
+        ocs:C24499,
+        ocs:C25761,
+        ocs:C28646,
+        ocs:C32138,
+        ocs:C32450,
+        ocs:C35238,
+        ocs:C4587,
+        ocs:C6545,
+        ocs:C7501 .
+

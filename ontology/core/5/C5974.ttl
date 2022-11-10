@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5974 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_calculus> ;
+    skos:prefLabel "Process calculus" ;
+    skos:related ocs:C1,
+        ocs:C12427,
+        ocs:C12693,
+        ocs:C1631,
+        ocs:C17971,
+        ocs:C18357,
+        ocs:C24326,
+        ocs:C25382,
+        ocs:C26693,
+        ocs:C27,
+        ocs:C28502,
+        ocs:C30,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C36771,
+        ocs:C3990 .
+

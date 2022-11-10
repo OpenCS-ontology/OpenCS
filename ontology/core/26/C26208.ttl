@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26208 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C490,
+        ocs:C8567 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_concatenation> ;
+    skos:prefLabel "Virtual concatenation" ;
+    skos:related ocs:C10477,
+        ocs:C12942,
+        ocs:C15589,
+        ocs:C20373,
+        ocs:C20934,
+        ocs:C24781,
+        ocs:C25250,
+        ocs:C2842,
+        ocs:C31109,
+        ocs:C35346,
+        ocs:C36308,
+        ocs:C42169,
+        ocs:C42256,
+        ocs:C42820,
+        ocs:C5997,
+        ocs:C8567 .
+

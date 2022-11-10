@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44962 a skos:Concept ;
+    skos:broader ocs:C30690,
+        ocs:C35731,
+        ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/MPEG-4_Part_3> ;
+    skos:prefLabel "MPEG-4 Part 3" ;
+    skos:related ocs:C10881,
+        ocs:C11214,
+        ocs:C11323,
+        ocs:C12152,
+        ocs:C19334,
+        ocs:C21413,
+        ocs:C26268,
+        ocs:C29048,
+        ocs:C30758,
+        ocs:C31114,
+        ocs:C32456,
+        ocs:C34697,
+        ocs:C36139,
+        ocs:C39927,
+        ocs:C44774,
+        ocs:C45687 .
+

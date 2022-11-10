@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35840 a skos:Concept ;
+    skos:broader ocs:C15251,
+        ocs:C16687,
+        ocs:C17246,
+        ocs:C17920,
+        ocs:C23430,
+        ocs:C28402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Star_count> ;
+    skos:prefLabel "Star count" ;
+    skos:related ocs:C14224,
+        ocs:C17246,
+        ocs:C17920,
+        ocs:C18137,
+        ocs:C19222,
+        ocs:C22649,
+        ocs:C24129,
+        ocs:C25028,
+        ocs:C25140,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28402,
+        ocs:C31589,
+        ocs:C41771,
+        ocs:C44585,
+        ocs:C44975,
+        ocs:C597 .
+

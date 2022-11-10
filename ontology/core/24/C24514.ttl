@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24514 a skos:Concept ;
+    skos:broader ocs:C8614,
+        ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information-centric_networking> ;
+    skos:prefLabel "Information-centric networking" ;
+    skos:related ocs:C19516 .
+

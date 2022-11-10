@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9602 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_analyser> ;
+    skos:prefLabel "Differential analyser" ;
+    skos:related ocs:C11186,
+        ocs:C2433,
+        ocs:C24543,
+        ocs:C4703 .
+

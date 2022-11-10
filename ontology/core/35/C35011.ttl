@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35011 a skos:Concept ;
+    skos:broader ocs:C17921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fundamental_unit_(number_theory)> ;
+    skos:prefLabel "Fundamental unit (number theory)" ;
+    skos:related ocs:C17921,
+        ocs:C19545,
+        ocs:C32751,
+        ocs:C40563,
+        ocs:C44225,
+        ocs:C44869 .
+

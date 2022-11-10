@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16070 a skos:Concept ;
+    skos:broader ocs:C987 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_built-in_self-test> ;
+    skos:prefLabel "Logic built-in self-test" ;
+    skos:related ocs:C13747,
+        ocs:C15912,
+        ocs:C17519,
+        ocs:C20065,
+        ocs:C26207,
+        ocs:C2936,
+        ocs:C3177,
+        ocs:C4464,
+        ocs:C4863,
+        ocs:C5336,
+        ocs:C987 .
+

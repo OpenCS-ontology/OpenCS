@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26350 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C2464 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_mining> ;
+    skos:prefLabel "Web mining" ;
+    skos:related ocs:C10382,
+        ocs:C1040,
+        ocs:C1132,
+        ocs:C12206,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C21072,
+        ocs:C25,
+        ocs:C2576,
+        ocs:C27711,
+        ocs:C32,
+        ocs:C34006,
+        ocs:C35109,
+        ocs:C36447,
+        ocs:C3736,
+        ocs:C40049,
+        ocs:C6,
+        ocs:C9874 .
+

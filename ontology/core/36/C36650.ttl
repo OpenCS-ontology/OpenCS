@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36650 a skos:Concept ;
+    skos:broader ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comprehensible_output> ;
+    skos:prefLabel "Comprehensible output" ;
+    skos:related ocs:C14410,
+        ocs:C16053,
+        ocs:C29973,
+        ocs:C32426,
+        ocs:C33078,
+        ocs:C35271,
+        ocs:C37591,
+        ocs:C37690,
+        ocs:C44334,
+        ocs:C9065 .
+

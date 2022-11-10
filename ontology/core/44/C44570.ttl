@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44570 a skos:Concept ;
+    skos:broader ocs:C31251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equivalent_noise_resistance> ;
+    skos:prefLabel "Equivalent noise resistance" ;
+    skos:related ocs:C10509,
+        ocs:C10763,
+        ocs:C1564,
+        ocs:C21891,
+        ocs:C23308,
+        ocs:C25042,
+        ocs:C26712,
+        ocs:C29366,
+        ocs:C31251,
+        ocs:C32531,
+        ocs:C32960,
+        ocs:C44518,
+        ocs:C45152,
+        ocs:C5505 .
+

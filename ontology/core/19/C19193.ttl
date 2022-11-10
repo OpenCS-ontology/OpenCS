@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19193 a skos:Concept ;
+    skos:broader ocs:C12155,
+        ocs:C13409 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lehmer–Schur_algorithm> ;
+    skos:prefLabel "Lehmer–Schur algorithm" ;
+    skos:related ocs:C10907,
+        ocs:C12155,
+        ocs:C13615,
+        ocs:C18362,
+        ocs:C19177,
+        ocs:C32608,
+        ocs:C36134,
+        ocs:C37392,
+        ocs:C38866,
+        ocs:C38965,
+        ocs:C43400 .
+

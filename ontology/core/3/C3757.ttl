@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3757 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_system> ;
+    skos:prefLabel "Trusted system" ;
+    skos:related ocs:C12052,
+        ocs:C1399,
+        ocs:C16295,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C19557,
+        ocs:C20443,
+        ocs:C2060,
+        ocs:C22065,
+        ocs:C28530,
+        ocs:C29434,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C4832,
+        ocs:C6031,
+        ocs:C8711 .
+

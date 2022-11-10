@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9851 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Onboarding> ;
+    skos:prefLabel "Onboarding" ;
+    skos:related ocs:C12824,
+        ocs:C5092,
+        ocs:C9328 .
+

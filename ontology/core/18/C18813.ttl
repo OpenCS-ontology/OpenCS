@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18813 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C12748,
+        ocs:C2469,
+        ocs:C2874 ;
+    skos:closeMatch <http://dbpedia.org/resource/Junction_tree_algorithm> ;
+    skos:prefLabel "Junction tree algorithm" ;
+    skos:related ocs:C12748,
+        ocs:C14161,
+        ocs:C19336,
+        ocs:C25175,
+        ocs:C26265,
+        ocs:C27330,
+        ocs:C2874,
+        ocs:C32333,
+        ocs:C33141,
+        ocs:C38781,
+        ocs:C42060,
+        ocs:C42329,
+        ocs:C42822,
+        ocs:C43002,
+        ocs:C43710,
+        ocs:C43711,
+        ocs:C44442,
+        ocs:C45271 .
+

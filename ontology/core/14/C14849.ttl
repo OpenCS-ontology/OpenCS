@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14849 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unsupervised_learning> ;
+    skos:prefLabel "Unsupervised learning" ;
+    skos:related ocs:C10136,
+        ocs:C10382,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C20001,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C21710,
+        ocs:C22089,
+        ocs:C23970,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C26398,
+        ocs:C6116,
+        ocs:C6822,
+        ocs:C8,
+        ocs:C9022 .
+

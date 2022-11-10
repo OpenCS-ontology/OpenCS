@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30888 a skos:Concept ;
+    skos:broader ocs:C20933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Danish_Sign_Language> ;
+    skos:prefLabel "Danish Sign Language" ;
+    skos:related ocs:C14125,
+        ocs:C16631,
+        ocs:C20481,
+        ocs:C20561,
+        ocs:C20861,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26108,
+        ocs:C27530,
+        ocs:C31406,
+        ocs:C32758,
+        ocs:C33438,
+        ocs:C44007,
+        ocs:C6046,
+        ocs:C7501,
+        ocs:C7858 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20960 a skos:Concept ;
+    skos:broader ocs:C13320,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/VRML> ;
+    skos:prefLabel "VRML" ;
+    skos:related ocs:C11531,
+        ocs:C11927,
+        ocs:C12399,
+        ocs:C13320,
+        ocs:C14024,
+        ocs:C14416,
+        ocs:C18519,
+        ocs:C21609,
+        ocs:C24235,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31,
+        ocs:C3679,
+        ocs:C4918,
+        ocs:C8399,
+        ocs:C8614 .
+

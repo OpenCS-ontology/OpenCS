@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39901 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auxiliary_field_Monte_Carlo> ;
+    skos:prefLabel "Auxiliary field Monte Carlo" ;
+    skos:related ocs:C31167,
+        ocs:C31458,
+        ocs:C33242,
+        ocs:C36442,
+        ocs:C38763,
+        ocs:C39027,
+        ocs:C597,
+        ocs:C8516 .
+

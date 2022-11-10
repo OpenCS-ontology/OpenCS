@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24828 a skos:Concept ;
+    skos:broader ocs:C6448,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Depth_peeling> ;
+    skos:prefLabel "Depth peeling" ;
+    skos:related ocs:C12741,
+        ocs:C14895,
+        ocs:C15836,
+        ocs:C16697,
+        ocs:C18519,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23918,
+        ocs:C25764,
+        ocs:C29600,
+        ocs:C29854,
+        ocs:C30190,
+        ocs:C32394,
+        ocs:C35732,
+        ocs:C37333,
+        ocs:C37867,
+        ocs:C40261,
+        ocs:C41106 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26155 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reconfigurable_computing> ;
+    skos:prefLabel "Reconfigurable computing" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12690,
+        ocs:C13747,
+        ocs:C16067,
+        ocs:C19400,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C27,
+        ocs:C27883,
+        ocs:C41267,
+        ocs:C41988,
+        ocs:C5336,
+        ocs:C7735,
+        ocs:C856,
+        ocs:C9908 .
+

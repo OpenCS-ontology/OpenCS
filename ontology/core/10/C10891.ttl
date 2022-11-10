@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10891 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Functional reach test" ;
+    skos:related ocs:C13320,
+        ocs:C26017,
+        ocs:C4435,
+        ocs:C5846,
+        ocs:C6718 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6034 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radioteletype> ;
+    skos:prefLabel "Radioteletype" ;
+    skos:related ocs:C10826,
+        ocs:C11669,
+        ocs:C12349,
+        ocs:C14053,
+        ocs:C16547,
+        ocs:C18001,
+        ocs:C2169,
+        ocs:C21987,
+        ocs:C22451,
+        ocs:C2534,
+        ocs:C36766,
+        ocs:C43783,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C8147,
+        ocs:C8952,
+        ocs:C9162 .
+

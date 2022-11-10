@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45625 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_variates> ;
+    skos:prefLabel "Control variates" ;
+    skos:related ocs:C13748,
+        ocs:C20379,
+        ocs:C26880,
+        ocs:C29461,
+        ocs:C38763,
+        ocs:C39027,
+        ocs:C43676,
+        ocs:C45433,
+        ocs:C5774,
+        ocs:C8516 .
+

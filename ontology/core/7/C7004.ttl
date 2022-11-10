@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7004 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Misleading_graph> ;
+    skos:prefLabel "Misleading graph" ;
+    skos:related ocs:C11094,
+        ocs:C12638,
+        ocs:C12811,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C24603,
+        ocs:C27130,
+        ocs:C306,
+        ocs:C34,
+        ocs:C34158,
+        ocs:C5700,
+        ocs:C9322,
+        ocs:C9488 .
+

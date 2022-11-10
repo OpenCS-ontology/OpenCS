@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38995 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252,
+        ocs:C33921,
+        ocs:C37067 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_Card_OpenPlatform> ;
+    skos:prefLabel "Java Card OpenPlatform" ;
+    skos:related ocs:C13689,
+        ocs:C24871,
+        ocs:C25340,
+        ocs:C28881,
+        ocs:C29530,
+        ocs:C31489,
+        ocs:C32484,
+        ocs:C37067,
+        ocs:C38479,
+        ocs:C40169,
+        ocs:C41604,
+        ocs:C41700,
+        ocs:C5034,
+        ocs:C6457,
+        ocs:C8437,
+        ocs:C9 .
+

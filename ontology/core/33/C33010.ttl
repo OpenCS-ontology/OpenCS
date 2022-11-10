@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33010 a skos:Concept ;
+    skos:broader ocs:C14109,
+        ocs:C16432,
+        ocs:C16912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Join_dependency> ;
+    skos:prefLabel "Join dependency" ;
+    skos:related ocs:C15510,
+        ocs:C16432,
+        ocs:C24811,
+        ocs:C26635,
+        ocs:C28120,
+        ocs:C32747,
+        ocs:C35395,
+        ocs:C35463,
+        ocs:C35707,
+        ocs:C36811,
+        ocs:C38021,
+        ocs:C38096,
+        ocs:C40657,
+        ocs:C41160,
+        ocs:C41258,
+        ocs:C42859,
+        ocs:C45040,
+        ocs:C7309,
+        ocs:C7596 .
+

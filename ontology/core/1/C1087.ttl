@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1087 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conditional_dependence> ;
+    skos:prefLabel "Conditional dependence" ;
+    skos:related ocs:C11384,
+        ocs:C12748,
+        ocs:C246,
+        ocs:C2726,
+        ocs:C39926,
+        ocs:C41059,
+        ocs:C44592,
+        ocs:C6291 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24910 a skos:Concept ;
+    skos:broader ocs:C2978 ;
+    skos:closeMatch <http://dbpedia.org/resource/Martin's_maximum> ;
+    skos:prefLabel "Martin's maximum" ;
+    skos:related ocs:C11331,
+        ocs:C12474,
+        ocs:C15010,
+        ocs:C19509,
+        ocs:C24167,
+        ocs:C27491,
+        ocs:C30150,
+        ocs:C31927,
+        ocs:C33304,
+        ocs:C5251,
+        ocs:C5420 .
+

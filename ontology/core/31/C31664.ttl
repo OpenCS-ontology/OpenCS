@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31664 a skos:Concept ;
+    skos:broader ocs:C19721,
+        ocs:C25852,
+        ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/DVB-RCT> ;
+    skos:prefLabel "DVB-RCT" ;
+    skos:related ocs:C10569,
+        ocs:C14535,
+        ocs:C19721,
+        ocs:C21204,
+        ocs:C21749,
+        ocs:C24264,
+        ocs:C25114,
+        ocs:C25712,
+        ocs:C25850,
+        ocs:C27572,
+        ocs:C30311,
+        ocs:C30728,
+        ocs:C32323,
+        ocs:C32488,
+        ocs:C32753,
+        ocs:C33691,
+        ocs:C37338,
+        ocs:C44055,
+        ocs:C7216 .
+

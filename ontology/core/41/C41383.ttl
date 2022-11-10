@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41383 a skos:Concept ;
+    skos:broader ocs:C30654,
+        ocs:C31794,
+        ocs:C32844,
+        ocs:C36733 ;
+    skos:prefLabel "Mimo interference channel" .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43335 a skos:Concept ;
+    skos:broader ocs:C32948,
+        ocs:C33073,
+        ocs:C34711 ;
+    skos:closeMatch <http://dbpedia.org/resource/T-norm> ;
+    skos:prefLabel "T-norm" ;
+    skos:related ocs:C10825,
+        ocs:C14579,
+        ocs:C29495,
+        ocs:C32129,
+        ocs:C36703,
+        ocs:C38533,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C43099,
+        ocs:C44736,
+        ocs:C44960,
+        ocs:C45683,
+        ocs:C5659,
+        ocs:C8077 .
+

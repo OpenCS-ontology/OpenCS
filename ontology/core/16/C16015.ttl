@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16015 a skos:Concept ;
+    skos:broader ocs:C2196,
+        ocs:C5854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Siemens_star> ;
+    skos:prefLabel "Siemens star" ;
+    skos:related ocs:C13065,
+        ocs:C13467,
+        ocs:C2196,
+        ocs:C25755,
+        ocs:C4453,
+        ocs:C6079,
+        ocs:C8021 .
+

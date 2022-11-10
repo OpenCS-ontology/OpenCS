@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6145 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Participatory_culture> ;
+    skos:prefLabel "Participatory culture" ;
+    skos:related ocs:C18683,
+        ocs:C20400,
+        ocs:C21013,
+        ocs:C22668,
+        ocs:C22701,
+        ocs:C4438,
+        ocs:C6219,
+        ocs:C6352,
+        ocs:C6757,
+        ocs:C7816,
+        ocs:C8230,
+        ocs:C8614 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2887 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boxcar_function> ;
+    skos:prefLabel "Boxcar function" ;
+    skos:related ocs:C11150,
+        ocs:C2168,
+        ocs:C23346,
+        ocs:C40292,
+        ocs:C5032,
+        ocs:C5042 .
+

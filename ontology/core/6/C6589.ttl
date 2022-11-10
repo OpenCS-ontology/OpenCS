@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6589 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precision-guided_munition> ;
+    skos:prefLabel "Precision-guided munition" ;
+    skos:related ocs:C12641,
+        ocs:C16352,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C22021,
+        ocs:C25124,
+        ocs:C28796,
+        ocs:C5247,
+        ocs:C7371,
+        ocs:C9066 .
+

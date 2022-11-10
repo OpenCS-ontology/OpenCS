@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27674 a skos:Concept ;
+    skos:broader ocs:C6234,
+        ocs:C8068 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_hole> ;
+    skos:prefLabel "Analog hole" ;
+    skos:related ocs:C13306,
+        ocs:C18764,
+        ocs:C23307,
+        ocs:C31899,
+        ocs:C32165,
+        ocs:C32678,
+        ocs:C34356,
+        ocs:C35224,
+        ocs:C43244,
+        ocs:C45369,
+        ocs:C4709,
+        ocs:C520,
+        ocs:C6031,
+        ocs:C6234,
+        ocs:C7255,
+        ocs:C9039 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10793 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application-Layer_Protocol_Negotiation> ;
+    skos:prefLabel "Application-Layer Protocol Negotiation" ;
+    skos:related ocs:C14360,
+        ocs:C16966,
+        ocs:C17399,
+        ocs:C17794,
+        ocs:C18946,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C34625,
+        ocs:C34696,
+        ocs:C36896,
+        ocs:C3968,
+        ocs:C3989,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C8515,
+        ocs:C8771 .
+

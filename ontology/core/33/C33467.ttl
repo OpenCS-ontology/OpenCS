@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33467 a skos:Concept ;
+    skos:broader ocs:C15453 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anisotropic_Network_Model> ;
+    skos:prefLabel "Anisotropic Network Model" ;
+    skos:related ocs:C11285,
+        ocs:C15453,
+        ocs:C15460,
+        ocs:C4422,
+        ocs:C6912 .
+

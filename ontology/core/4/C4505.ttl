@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4505 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telemeter> ;
+    skos:prefLabel "Telemeter" ;
+    skos:related ocs:C1302,
+        ocs:C1704,
+        ocs:C18584,
+        ocs:C27342,
+        ocs:C8858 .
+

@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38032 a skos:Concept ;
+    skos:broader ocs:C30431,
+        ocs:C30860,
+        ocs:C31950,
+        ocs:C34229,
+        ocs:C34356,
+        ocs:C36631,
+        ocs:C37552 ;
+    skos:closeMatch <http://dbpedia.org/resource/Server_Message_Block> ;
+    skos:prefLabel "Server Message Block" ;
+    skos:related ocs:C10911,
+        ocs:C16980,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C24348,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C28637,
+        ocs:C28881,
+        ocs:C29359,
+        ocs:C29846,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C379,
+        ocs:C45269,
+        ocs:C45688,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9 .
+

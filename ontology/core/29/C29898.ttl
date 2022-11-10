@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29898 a skos:Concept ;
+    skos:broader ocs:C14270,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circumstellar_habitable_zone> ;
+    skos:prefLabel "Circumstellar habitable zone" ;
+    skos:related ocs:C14270,
+        ocs:C22752,
+        ocs:C26524,
+        ocs:C30006,
+        ocs:C31589,
+        ocs:C34570,
+        ocs:C36203,
+        ocs:C38054,
+        ocs:C38786,
+        ocs:C40516,
+        ocs:C42138,
+        ocs:C597 .
+

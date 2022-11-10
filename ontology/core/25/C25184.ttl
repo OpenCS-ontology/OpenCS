@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25184 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/AUTOSAR> ;
+    skos:prefLabel "AUTOSAR" ;
+    skos:related ocs:C11,
+        ocs:C11927,
+        ocs:C14329,
+        ocs:C15594,
+        ocs:C19837,
+        ocs:C24477,
+        ocs:C2674,
+        ocs:C29044,
+        ocs:C34713,
+        ocs:C39332,
+        ocs:C40490,
+        ocs:C42590,
+        ocs:C8562,
+        ocs:C9 .
+

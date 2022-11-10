@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8012 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paro_(robot)> ;
+    skos:prefLabel "Paro" ;
+    skos:related ocs:C10215,
+        ocs:C10396,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C32579,
+        ocs:C36206,
+        ocs:C38703,
+        ocs:C39373,
+        ocs:C41001,
+        ocs:C41862,
+        ocs:C42061,
+        ocs:C42415,
+        ocs:C44350,
+        ocs:C45035 .
+

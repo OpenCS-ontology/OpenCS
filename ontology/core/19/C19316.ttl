@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19316 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cold_shield> ;
+    skos:prefLabel "Cold shield" ;
+    skos:related ocs:C13985,
+        ocs:C22118,
+        ocs:C26163,
+        ocs:C37596 .
+

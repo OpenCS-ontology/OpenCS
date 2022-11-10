@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22205 a skos:Concept ;
+    skos:broader ocs:C5829,
+        ocs:C6909 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_resonance_(sensory_neurobiology)> ;
+    skos:prefLabel "Stochastic resonance (sensory neurobiology)" ;
+    skos:related ocs:C11747,
+        ocs:C1316,
+        ocs:C1564,
+        ocs:C3624,
+        ocs:C3843,
+        ocs:C5829,
+        ocs:C597,
+        ocs:C8332,
+        ocs:C9481 .
+

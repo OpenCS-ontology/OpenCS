@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27666 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dirac_operator> ;
+    skos:prefLabel "Dirac operator" ;
+    skos:related ocs:C20390,
+        ocs:C22086,
+        ocs:C32807,
+        ocs:C34423,
+        ocs:C44979 .
+

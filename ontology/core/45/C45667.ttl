@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45667 a skos:Concept ;
+    skos:broader ocs:C31925,
+        ocs:C35076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_completeness> ;
+    skos:prefLabel "Functional completeness" ;
+    skos:related ocs:C10825,
+        ocs:C11252,
+        ocs:C11283,
+        ocs:C11635,
+        ocs:C13686,
+        ocs:C13855,
+        ocs:C15662,
+        ocs:C17884,
+        ocs:C22706,
+        ocs:C24858,
+        ocs:C26482,
+        ocs:C30600,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C44852,
+        ocs:C5714,
+        ocs:C8077 .
+

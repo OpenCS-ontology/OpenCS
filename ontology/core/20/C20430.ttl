@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20430 a skos:Concept ;
+    skos:broader ocs:C1299 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_for_specific_purposes> ;
+    skos:prefLabel "Language for specific purposes" ;
+    skos:related ocs:C1299,
+        ocs:C15067,
+        ocs:C16053,
+        ocs:C23866,
+        ocs:C26019,
+        ocs:C26217,
+        ocs:C33020,
+        ocs:C9801 .
+

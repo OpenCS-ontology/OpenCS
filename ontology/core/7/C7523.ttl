@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7523 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Onboard_camera> ;
+    skos:prefLabel "Onboard camera" ;
+    skos:related ocs:C12979,
+        ocs:C201,
+        ocs:C39979,
+        ocs:C45386,
+        ocs:C4608,
+        ocs:C4749,
+        ocs:C5350 .
+

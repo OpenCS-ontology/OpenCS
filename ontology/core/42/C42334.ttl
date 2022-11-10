@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42334 a skos:Concept ;
+    skos:broader ocs:C35196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sub-Earth> ;
+    skos:prefLabel "Sub-Earth" ;
+    skos:related ocs:C14270,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30632,
+        ocs:C32085,
+        ocs:C35196,
+        ocs:C36203,
+        ocs:C38054,
+        ocs:C38832,
+        ocs:C40047,
+        ocs:C40326,
+        ocs:C40408,
+        ocs:C42138,
+        ocs:C42491,
+        ocs:C45242 .
+

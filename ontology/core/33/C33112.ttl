@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33112 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C24023 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coreshine> ;
+    skos:prefLabel "Coreshine" ;
+    skos:related ocs:C17174,
+        ocs:C17246,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C24023,
+        ocs:C31325,
+        ocs:C33286,
+        ocs:C34547,
+        ocs:C35749 .
+

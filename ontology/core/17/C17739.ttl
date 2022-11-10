@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17739 a skos:Concept ;
+    skos:broader ocs:C12510,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_disinhibition_effect> ;
+    skos:prefLabel "Online disinhibition effect" ;
+    skos:related ocs:C12510,
+        ocs:C16205,
+        ocs:C18683,
+        ocs:C20100,
+        ocs:C24850,
+        ocs:C25411,
+        ocs:C26584,
+        ocs:C27498,
+        ocs:C27531,
+        ocs:C27784,
+        ocs:C4712,
+        ocs:C8614,
+        ocs:C9787 .
+

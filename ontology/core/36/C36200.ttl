@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36200 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_edges> ;
+    skos:prefLabel "Multiple edges" ;
+    skos:related ocs:C14693,
+        ocs:C26989,
+        ocs:C29632,
+        ocs:C30533,
+        ocs:C32757,
+        ocs:C38361,
+        ocs:C39885,
+        ocs:C40314,
+        ocs:C40694,
+        ocs:C41657,
+        ocs:C42955,
+        ocs:C43606,
+        ocs:C45225,
+        ocs:C45422 .
+

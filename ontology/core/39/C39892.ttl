@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39892 a skos:Concept ;
+    skos:broader ocs:C32990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature-oriented_programming> ;
+    skos:prefLabel "Feature-oriented programming" ;
+    skos:related ocs:C10720,
+        ocs:C12657,
+        ocs:C14280,
+        ocs:C14329,
+        ocs:C1781,
+        ocs:C21671,
+        ocs:C23181,
+        ocs:C23439,
+        ocs:C24453,
+        ocs:C26642,
+        ocs:C32990,
+        ocs:C33311,
+        ocs:C35202,
+        ocs:C37447,
+        ocs:C39671,
+        ocs:C41908,
+        ocs:C42543,
+        ocs:C45202,
+        ocs:C8751 .
+

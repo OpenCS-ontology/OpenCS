@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37397 a skos:Concept ;
+    skos:broader ocs:C17532 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rayleigh's_method_of_dimensional_analysis> ;
+    skos:prefLabel "Rayleigh's method of dimensional analysis" ;
+    skos:related ocs:C12435,
+        ocs:C16124,
+        ocs:C37808,
+        ocs:C38573 .
+

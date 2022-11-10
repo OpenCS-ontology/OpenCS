@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12232 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MapBasic> ;
+    skos:prefLabel "MapBasic" ;
+    skos:related ocs:C1028,
+        ocs:C12501,
+        ocs:C12851,
+        ocs:C14632,
+        ocs:C19,
+        ocs:C22003,
+        ocs:C24208,
+        ocs:C27492,
+        ocs:C28090,
+        ocs:C31404,
+        ocs:C38891,
+        ocs:C4321,
+        ocs:C5961,
+        ocs:C6714 .
+

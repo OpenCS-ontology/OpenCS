@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38986 a skos:Concept ;
+    skos:broader ocs:C30057 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_Reference_Station> ;
+    skos:prefLabel "Virtual Reference Station" ;
+    skos:related ocs:C14699,
+        ocs:C22328,
+        ocs:C27698,
+        ocs:C28779,
+        ocs:C30057,
+        ocs:C30565,
+        ocs:C30678,
+        ocs:C32563,
+        ocs:C34196,
+        ocs:C34811,
+        ocs:C37214 .
+

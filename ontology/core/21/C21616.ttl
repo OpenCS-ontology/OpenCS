@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21616 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C10639,
+        ocs:C12780 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_iPSC> ;
+    skos:prefLabel "Intel iPSC" ;
+    skos:related ocs:C10639,
+        ocs:C10683,
+        ocs:C14627,
+        ocs:C1831,
+        ocs:C19487,
+        ocs:C20146,
+        ocs:C22525,
+        ocs:C25061,
+        ocs:C27,
+        ocs:C27602,
+        ocs:C32277,
+        ocs:C33174,
+        ocs:C37847,
+        ocs:C40330,
+        ocs:C6312,
+        ocs:C7735 .
+

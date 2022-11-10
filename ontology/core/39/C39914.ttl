@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39914 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C32552,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biconical_antenna> ;
+    skos:prefLabel "Biconical antenna" ;
+    skos:related ocs:C1219,
+        ocs:C24151,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C28404,
+        ocs:C38796,
+        ocs:C39060,
+        ocs:C39458,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C42043,
+        ocs:C42056,
+        ocs:C44485,
+        ocs:C44707,
+        ocs:C45043,
+        ocs:C45781,
+        ocs:C6913,
+        ocs:C7216,
+        ocs:C9691 .
+

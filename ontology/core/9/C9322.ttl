@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9322 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circular_analysis> ;
+    skos:prefLabel "Circular analysis" ;
+    skos:related ocs:C11463,
+        ocs:C13371,
+        ocs:C15879,
+        ocs:C19537,
+        ocs:C27575,
+        ocs:C27901,
+        ocs:C34894,
+        ocs:C37302,
+        ocs:C39025,
+        ocs:C7004,
+        ocs:C7282,
+        ocs:C8768,
+        ocs:C9721 .
+

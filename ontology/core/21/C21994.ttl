@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21994 a skos:Concept ;
+    skos:broader ocs:C401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Urdu_language> ;
+    skos:prefLabel "Language Urdu" ;
+    skos:related ocs:C1,
+        ocs:C1034,
+        ocs:C1451,
+        ocs:C15475,
+        ocs:C18353,
+        ocs:C318,
+        ocs:C32,
+        ocs:C401,
+        ocs:C8,
+        ocs:C8454,
+        ocs:C9244 .
+

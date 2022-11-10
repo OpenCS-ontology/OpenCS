@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15205 a skos:Concept ;
+    skos:broader ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kuramoto_model> ;
+    skos:prefLabel "Kuramoto model" ;
+    skos:related ocs:C14592,
+        ocs:C15405,
+        ocs:C15819,
+        ocs:C17100,
+        ocs:C22278,
+        ocs:C28282,
+        ocs:C45737,
+        ocs:C597 .
+

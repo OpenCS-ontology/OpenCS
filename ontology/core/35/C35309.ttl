@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35309 a skos:Concept ;
+    skos:broader ocs:C23432,
+        ocs:C25954 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_presence_detect> ;
+    skos:prefLabel "Serial presence detect" ;
+    skos:related ocs:C10568,
+        ocs:C13875,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C25954,
+        ocs:C29183,
+        ocs:C3160,
+        ocs:C33838,
+        ocs:C45186,
+        ocs:C5136,
+        ocs:C6341,
+        ocs:C6649,
+        ocs:C6798 .
+

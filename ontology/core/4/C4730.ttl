@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4730 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31 ;
+    skos:prefLabel "Document Body" ;
+    skos:related ocs:C16159,
+        ocs:C17,
+        ocs:C2,
+        ocs:C35,
+        ocs:C4595,
+        ocs:C7006,
+        ocs:C9664 .
+

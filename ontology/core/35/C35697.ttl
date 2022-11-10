@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35697 a skos:Concept ;
+    skos:broader ocs:C23270 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_refresh> ;
+    skos:prefLabel "Memory refresh" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C16592,
+        ocs:C18379,
+        ocs:C18431,
+        ocs:C23270,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27610,
+        ocs:C29183,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C39218,
+        ocs:C5141,
+        ocs:C9839 .
+

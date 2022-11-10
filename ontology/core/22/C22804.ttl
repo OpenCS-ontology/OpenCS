@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22804 a skos:Concept ;
+    skos:broader ocs:C5854 ;
+    skos:closeMatch <http://dbpedia.org/resource/AFM-IR> ;
+    skos:prefLabel "AFM-IR" ;
+    skos:related ocs:C14110,
+        ocs:C28018,
+        ocs:C597 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5356 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Not_Another_Completely_Heuristic_Operating_System> ;
+    skos:prefLabel "Not Another Completely Heuristic Operating System" ;
+    skos:related ocs:C11293,
+        ocs:C19487,
+        ocs:C20261,
+        ocs:C20519,
+        ocs:C20800,
+        ocs:C24458,
+        ocs:C25171,
+        ocs:C25966,
+        ocs:C27610,
+        ocs:C30860,
+        ocs:C36897,
+        ocs:C37133,
+        ocs:C42065,
+        ocs:C44555,
+        ocs:C5463,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9177 .
+

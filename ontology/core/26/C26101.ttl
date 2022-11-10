@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26101 a skos:Concept ;
+    skos:broader ocs:C10963,
+        ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/On-board_data_handling> ;
+    skos:prefLabel "On-board data handling" ;
+    skos:related ocs:C10326,
+        ocs:C10778,
+        ocs:C12348,
+        ocs:C1302,
+        ocs:C15527,
+        ocs:C15858,
+        ocs:C17315,
+        ocs:C19755,
+        ocs:C26400,
+        ocs:C4817,
+        ocs:C511,
+        ocs:C515,
+        ocs:C5293,
+        ocs:C5369,
+        ocs:C5689 .
+

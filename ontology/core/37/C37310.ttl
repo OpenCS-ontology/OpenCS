@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37310 a skos:Concept ;
+    skos:broader ocs:C22356 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_efficiency> ;
+    skos:prefLabel "Bayesian efficiency" ;
+    skos:related ocs:C19168,
+        ocs:C19747,
+        ocs:C20813,
+        ocs:C25118,
+        ocs:C35466,
+        ocs:C39239,
+        ocs:C6949 .
+

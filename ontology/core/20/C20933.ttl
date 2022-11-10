@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20933 a skos:Concept ;
+    skos:broader ocs:C7858,
+        ocs:C9106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manually_coded_language> ;
+    skos:prefLabel "Manually coded language" ;
+    skos:related ocs:C14125,
+        ocs:C15973,
+        ocs:C16631,
+        ocs:C19175,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26032,
+        ocs:C26953,
+        ocs:C27507,
+        ocs:C27530,
+        ocs:C30694,
+        ocs:C35636,
+        ocs:C7501,
+        ocs:C7858 .
+

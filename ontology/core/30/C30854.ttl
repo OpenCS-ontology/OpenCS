@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30854 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blum_integer> ;
+    skos:prefLabel "Blum integer" ;
+    skos:related ocs:C24353,
+        ocs:C37205,
+        ocs:C43730,
+        ocs:C4697 .
+

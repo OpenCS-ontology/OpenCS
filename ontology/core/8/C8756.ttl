@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8756 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kriging> ;
+    skos:prefLabel "Kriging" ;
+    skos:related ocs:C14553,
+        ocs:C16169,
+        ocs:C28028,
+        ocs:C34821,
+        ocs:C42417,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C836,
+        ocs:C8781,
+        ocs:C9088 .
+

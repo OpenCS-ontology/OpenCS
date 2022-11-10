@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37709 a skos:Concept ;
+    skos:broader ocs:C25681,
+        ocs:C28117 ;
+    skos:closeMatch <http://dbpedia.org/resource/CIDOC_Conceptual_Reference_Model> ;
+    skos:prefLabel "CIDOC Conceptual Reference Model" ;
+    skos:related ocs:C1038,
+        ocs:C11087,
+        ocs:C11492,
+        ocs:C13744,
+        ocs:C17044,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C29008,
+        ocs:C29840,
+        ocs:C31201,
+        ocs:C35993,
+        ocs:C36637,
+        ocs:C3896,
+        ocs:C39137,
+        ocs:C40912,
+        ocs:C41877,
+        ocs:C42947,
+        ocs:C9836 .
+

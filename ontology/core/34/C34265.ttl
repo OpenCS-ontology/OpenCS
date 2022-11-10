@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34265 a skos:Concept ;
+    skos:broader ocs:C15251,
+        ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Omega_Centauri> ;
+    skos:prefLabel "Omega Centauri" ;
+    skos:related ocs:C16731,
+        ocs:C17246,
+        ocs:C19938,
+        ocs:C21056,
+        ocs:C22542,
+        ocs:C29074,
+        ocs:C31589,
+        ocs:C34069,
+        ocs:C597 .
+

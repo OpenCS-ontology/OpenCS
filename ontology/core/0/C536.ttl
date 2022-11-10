@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C536 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small_data> ;
+    skos:prefLabel "Small data" ;
+    skos:related ocs:C12238,
+        ocs:C13264,
+        ocs:C20383,
+        ocs:C21072,
+        ocs:C27130,
+        ocs:C29488,
+        ocs:C34,
+        ocs:C8,
+        ocs:C9874 .
+

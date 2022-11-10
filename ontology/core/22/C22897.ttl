@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22897 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Permutation_pattern> ;
+    skos:prefLabel "Permutation pattern" ;
+    skos:related ocs:C11282,
+        ocs:C24232,
+        ocs:C25504,
+        ocs:C2820,
+        ocs:C31403,
+        ocs:C39136,
+        ocs:C43652,
+        ocs:C619,
+        ocs:C8660 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42979 a skos:Concept ;
+    skos:broader ocs:C31107 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abelian_variety_of_CM-type> ;
+    skos:prefLabel "Abelian variety of CM-type" ;
+    skos:related ocs:C23209,
+        ocs:C34812,
+        ocs:C43968,
+        ocs:C45133 .
+

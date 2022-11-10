@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C788 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keypad> ;
+    skos:prefLabel "Keypad" ;
+    skos:related ocs:C10320,
+        ocs:C10368,
+        ocs:C18535,
+        ocs:C19162,
+        ocs:C2241,
+        ocs:C2417,
+        ocs:C27099,
+        ocs:C29012,
+        ocs:C4703,
+        ocs:C5138,
+        ocs:C5702,
+        ocs:C7525,
+        ocs:C9113 .
+

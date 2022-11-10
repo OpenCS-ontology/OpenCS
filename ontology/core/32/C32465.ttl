@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32465 a skos:Concept ;
+    skos:broader ocs:C17522,
+        ocs:C20240,
+        ocs:C21004 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tetramorium_bicarinatum> ;
+    skos:prefLabel "Tetramorium bicarinatum" ;
+    skos:related ocs:C14279,
+        ocs:C23059,
+        ocs:C27372,
+        ocs:C30775 .
+

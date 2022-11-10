@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26900 a skos:Concept ;
+    skos:broader ocs:C11540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurogrid> ;
+    skos:prefLabel "Neurogrid" ;
+    skos:related ocs:C16881,
+        ocs:C17234,
+        ocs:C20126,
+        ocs:C24856,
+        ocs:C27121,
+        ocs:C32529,
+        ocs:C36128,
+        ocs:C36977,
+        ocs:C3932,
+        ocs:C9854 .
+

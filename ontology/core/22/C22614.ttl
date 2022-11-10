@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22614 a skos:Concept ;
+    skos:broader ocs:C3740 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reconstruction_algorithm> ;
+    skos:prefLabel "Reconstruction algorithm" ;
+    skos:related ocs:C10,
+        ocs:C14484,
+        ocs:C14653,
+        ocs:C23962,
+        ocs:C34313,
+        ocs:C3740,
+        ocs:C751 .
+

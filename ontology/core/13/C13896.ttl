@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13896 a skos:Concept ;
+    skos:broader ocs:C8790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_Access_Identifier> ;
+    skos:prefLabel "Network Access Identifier" ;
+    skos:related ocs:C11550,
+        ocs:C15174,
+        ocs:C20314,
+        ocs:C23303,
+        ocs:C23567,
+        ocs:C27543,
+        ocs:C29568,
+        ocs:C30769,
+        ocs:C33773,
+        ocs:C39947,
+        ocs:C40409,
+        ocs:C43473,
+        ocs:C44196,
+        ocs:C44282,
+        ocs:C44603,
+        ocs:C45519,
+        ocs:C45575 .
+

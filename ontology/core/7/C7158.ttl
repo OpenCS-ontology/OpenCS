@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7158 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peer_feedback> ;
+    skos:prefLabel "Peer feedback" ;
+    skos:related ocs:C10559,
+        ocs:C20867,
+        ocs:C30934,
+        ocs:C3444,
+        ocs:C35800,
+        ocs:C4924 .
+

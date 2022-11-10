@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27272 a skos:Concept ;
+    skos:broader ocs:C11895 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robbins'_problem> ;
+    skos:prefLabel "Robbins' problem" ;
+    skos:related ocs:C30269,
+        ocs:C44669,
+        ocs:C45652 .
+

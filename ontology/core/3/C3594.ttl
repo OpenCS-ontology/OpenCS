@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3594 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:prefLabel "Language type" ;
+    skos:related ocs:C12486,
+        ocs:C13006,
+        ocs:C13413,
+        ocs:C16,
+        ocs:C17,
+        ocs:C1940,
+        ocs:C2,
+        ocs:C22,
+        ocs:C2298,
+        ocs:C29,
+        ocs:C6545 .
+

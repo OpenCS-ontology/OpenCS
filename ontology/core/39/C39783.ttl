@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39783 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wagner_graph> ;
+    skos:prefLabel "Wagner graph" ;
+    skos:related ocs:C17043,
+        ocs:C30621,
+        ocs:C30730,
+        ocs:C32685,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C39110,
+        ocs:C39615,
+        ocs:C39781,
+        ocs:C43097,
+        ocs:C43125,
+        ocs:C43374,
+        ocs:C44168,
+        ocs:C44281,
+        ocs:C44453,
+        ocs:C45361,
+        ocs:C45648 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3201 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_language> ;
+    skos:prefLabel "Visual language" ;
+    skos:related ocs:C10982,
+        ocs:C11094,
+        ocs:C12638,
+        ocs:C13744,
+        ocs:C22683,
+        ocs:C2409,
+        ocs:C27130,
+        ocs:C3042 .
+

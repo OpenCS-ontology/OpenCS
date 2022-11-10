@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19097 a skos:Concept ;
+    skos:broader ocs:C6448,
+        ocs:C8753,
+        ocs:C9372 ;
+    skos:prefLabel "Uniform tessellation" .
+

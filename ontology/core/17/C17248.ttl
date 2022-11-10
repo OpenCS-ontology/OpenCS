@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17248 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/FXML> ;
+    skos:prefLabel "FXML" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C15593,
+        ocs:C16159,
+        ocs:C16739,
+        ocs:C17401,
+        ocs:C26700,
+        ocs:C30772,
+        ocs:C33709,
+        ocs:C35992,
+        ocs:C36472,
+        ocs:C3679,
+        ocs:C39183,
+        ocs:C4035,
+        ocs:C40533,
+        ocs:C41912,
+        ocs:C5702,
+        ocs:C6278,
+        ocs:C7736 .
+

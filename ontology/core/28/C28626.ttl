@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28626 a skos:Concept ;
+    skos:broader ocs:C1938,
+        ocs:C2005,
+        ocs:C2801 ;
+    skos:closeMatch <http://dbpedia.org/resource/Histogram_of_oriented_gradients> ;
+    skos:prefLabel "Histogram of oriented gradients" ;
+    skos:related ocs:C13142,
+        ocs:C14465,
+        ocs:C14863,
+        ocs:C1503,
+        ocs:C22975,
+        ocs:C24607,
+        ocs:C25410,
+        ocs:C25439,
+        ocs:C26688,
+        ocs:C30877,
+        ocs:C31308,
+        ocs:C31947,
+        ocs:C35308,
+        ocs:C35330,
+        ocs:C37582,
+        ocs:C40344,
+        ocs:C43031,
+        ocs:C5462,
+        ocs:C7,
+        ocs:C8097 .
+

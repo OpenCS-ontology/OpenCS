@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38833 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555 ;
+    skos:closeMatch <http://dbpedia.org/resource/NeuRFon> ;
+    skos:prefLabel "NeuRFon" ;
+    skos:related ocs:C12229,
+        ocs:C13593,
+        ocs:C15415,
+        ocs:C20483,
+        ocs:C20540,
+        ocs:C27912,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C31749,
+        ocs:C33357,
+        ocs:C35370,
+        ocs:C35923,
+        ocs:C36784,
+        ocs:C3863,
+        ocs:C39689,
+        ocs:C41802,
+        ocs:C4316,
+        ocs:C8136 .
+

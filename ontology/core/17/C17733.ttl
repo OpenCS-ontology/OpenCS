@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17733 a skos:Concept ;
+    skos:broader ocs:C8387,
+        ocs:C8514 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-automated_design> ;
+    skos:prefLabel "Computer-automated design" ;
+    skos:related ocs:C10390,
+        ocs:C13610,
+        ocs:C13633,
+        ocs:C14921,
+        ocs:C19750,
+        ocs:C25,
+        ocs:C27563,
+        ocs:C28522,
+        ocs:C2989,
+        ocs:C33012,
+        ocs:C33143,
+        ocs:C36567,
+        ocs:C44532,
+        ocs:C7553,
+        ocs:C7914,
+        ocs:C8,
+        ocs:C8660,
+        ocs:C90,
+        ocs:C9779 .
+

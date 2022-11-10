@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5280 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_data_type> ;
+    skos:prefLabel "Boolean data type" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11635,
+        ocs:C12262,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C23909,
+        ocs:C25460,
+        ocs:C2879,
+        ocs:C3894,
+        ocs:C42032,
+        ocs:C6255,
+        ocs:C6941,
+        ocs:C7289,
+        ocs:C794,
+        ocs:C8022 .
+

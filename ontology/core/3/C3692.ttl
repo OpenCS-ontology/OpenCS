@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3692 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_measurement_period> ;
+    skos:prefLabel "Performance measurement period" ;
+    skos:related ocs:C13305,
+        ocs:C13590,
+        ocs:C138,
+        ocs:C19934,
+        ocs:C21891,
+        ocs:C26712,
+        ocs:C27907,
+        ocs:C28334,
+        ocs:C30667,
+        ocs:C32960,
+        ocs:C3625,
+        ocs:C4343,
+        ocs:C6731,
+        ocs:C7444 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6709 a skos:Concept ;
+    skos:broader ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Product_lining> ;
+    skos:prefLabel "Product lining" ;
+    skos:related ocs:C14157 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32311 a skos:Concept ;
+    skos:broader ocs:C26694 ;
+    skos:prefLabel "Company secretary" ;
+    skos:related ocs:C1187,
+        ocs:C8725 .
+

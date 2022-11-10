@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24843 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resolvent_(Galois_theory)> ;
+    skos:prefLabel "Resolvent" ;
+    skos:related ocs:C28261,
+        ocs:C38108,
+        ocs:C3840,
+        ocs:C38426 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7431 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SIMMON> ;
+    skos:prefLabel "SIMMON" ;
+    skos:related ocs:C1130,
+        ocs:C16481,
+        ocs:C17204,
+        ocs:C19699,
+        ocs:C28950,
+        ocs:C31267,
+        ocs:C36897,
+        ocs:C38819,
+        ocs:C39214,
+        ocs:C40564,
+        ocs:C42662,
+        ocs:C44344,
+        ocs:C5041,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C8024,
+        ocs:C9 .
+

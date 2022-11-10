@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7972 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/SQL/Schemata> ;
+    skos:prefLabel "SQL/Schemata" ;
+    skos:related ocs:C12185,
+        ocs:C12403,
+        ocs:C12818,
+        ocs:C16901,
+        ocs:C17103,
+        ocs:C17905,
+        ocs:C18383,
+        ocs:C23139,
+        ocs:C3754,
+        ocs:C3896,
+        ocs:C40466,
+        ocs:C5685,
+        ocs:C5789,
+        ocs:C6,
+        ocs:C8184 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17316 a skos:Concept ;
+    skos:broader ocs:C3036,
+        ocs:C4321,
+        ocs:C6714 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable-length_array> ;
+    skos:prefLabel "Variable-length array" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C10909,
+        ocs:C14990,
+        ocs:C19,
+        ocs:C2195,
+        ocs:C23909,
+        ocs:C25127,
+        ocs:C25960,
+        ocs:C26632,
+        ocs:C33702,
+        ocs:C38269,
+        ocs:C39309,
+        ocs:C39715,
+        ocs:C4321,
+        ocs:C5280,
+        ocs:C5515,
+        ocs:C7289,
+        ocs:C794 .
+

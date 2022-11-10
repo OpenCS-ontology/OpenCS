@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18418 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bandwidth_allocation> ;
+    skos:prefLabel "Bandwidth allocation" ;
+    skos:related ocs:C12308,
+        ocs:C15728,
+        ocs:C19342,
+        ocs:C21441,
+        ocs:C22335,
+        ocs:C26,
+        ocs:C35370,
+        ocs:C43300,
+        ocs:C43573,
+        ocs:C43783,
+        ocs:C5511,
+        ocs:C5671,
+        ocs:C7216,
+        ocs:C7857,
+        ocs:C793,
+        ocs:C92 .
+

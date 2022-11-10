@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22674 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_scientist> ;
+    skos:prefLabel "Computational scientist" ;
+    skos:related ocs:C20,
+        ocs:C21194,
+        ocs:C26345,
+        ocs:C26786,
+        ocs:C27,
+        ocs:C29,
+        ocs:C44583,
+        ocs:C6714,
+        ocs:C7256,
+        ocs:C7735 .
+

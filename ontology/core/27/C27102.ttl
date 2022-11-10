@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27102 a skos:Concept ;
+    skos:broader ocs:C5298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Array_processing> ;
+    skos:prefLabel "Array processing" ;
+    skos:related ocs:C11096,
+        ocs:C1337,
+        ocs:C1449,
+        ocs:C19905,
+        ocs:C25436,
+        ocs:C32552,
+        ocs:C5042,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C6110,
+        ocs:C6816,
+        ocs:C7909,
+        ocs:C8273,
+        ocs:C836,
+        ocs:C8499 .
+

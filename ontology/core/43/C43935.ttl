@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43935 a skos:Concept ;
+    skos:broader ocs:C35889,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Security_Area> ;
+    skos:prefLabel "National Security Area" ;
+    skos:related ocs:C14809,
+        ocs:C39784,
+        ocs:C42130,
+        ocs:C45558 .
+

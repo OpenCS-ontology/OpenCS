@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C164 a skos:Concept ;
+    skos:broader ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/STARAN> ;
+    skos:prefLabel "STARAN" ;
+    skos:related ocs:C10320,
+        ocs:C13970,
+        ocs:C14732,
+        ocs:C15179,
+        ocs:C23957,
+        ocs:C2600,
+        ocs:C26934,
+        ocs:C27,
+        ocs:C31926,
+        ocs:C32161,
+        ocs:C33380,
+        ocs:C3355,
+        ocs:C33558,
+        ocs:C37674,
+        ocs:C43505,
+        ocs:C5766,
+        ocs:C7507 .
+

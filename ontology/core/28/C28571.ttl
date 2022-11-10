@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28571 a skos:Concept ;
+    skos:broader ocs:C11213,
+        ocs:C4644 ;
+    skos:prefLabel "Pronunciation error detection" .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23825 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:prefLabel "Frames/sec" ;
+    skos:related ocs:C22,
+        ocs:C7,
+        ocs:C8 .
+

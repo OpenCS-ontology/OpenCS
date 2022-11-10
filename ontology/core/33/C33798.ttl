@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33798 a skos:Concept ;
+    skos:broader ocs:C13902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disjoint_union_(topology)> ;
+    skos:prefLabel "Disjoint union (topology)" ;
+    skos:related ocs:C32349,
+        ocs:C6221 .
+

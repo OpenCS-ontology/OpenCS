@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31461 a skos:Concept ;
+    skos:broader ocs:C26483,
+        ocs:C27675 ;
+    skos:closeMatch <http://dbpedia.org/resource/Federal_Trademark_Dilution_Act> ;
+    skos:prefLabel "Federal Trademark Dilution Act" ;
+    skos:related ocs:C15208,
+        ocs:C26483,
+        ocs:C27675,
+        ocs:C36262 .
+

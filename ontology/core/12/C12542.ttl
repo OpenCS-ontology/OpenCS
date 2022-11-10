@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12542 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C24,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_maintenance> ;
+    skos:prefLabel "Computer maintenance" ;
+    skos:related ocs:C10568,
+        ocs:C10569,
+        ocs:C12815,
+        ocs:C1318,
+        ocs:C13783,
+        ocs:C14707,
+        ocs:C16481,
+        ocs:C2,
+        ocs:C25031,
+        ocs:C34356,
+        ocs:C38527,
+        ocs:C653,
+        ocs:C8024,
+        ocs:C8999,
+        ocs:C9,
+        ocs:C9537 .
+

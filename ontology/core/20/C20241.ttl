@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20241 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Behavior-driven_development> ;
+    skos:prefLabel "Behavior-driven development" ;
+    skos:related ocs:C2214,
+        ocs:C23394,
+        ocs:C23437,
+        ocs:C23439,
+        ocs:C23997,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C34078,
+        ocs:C37174,
+        ocs:C3844,
+        ocs:C41038,
+        ocs:C41111,
+        ocs:C41437,
+        ocs:C44785,
+        ocs:C44988,
+        ocs:C4558,
+        ocs:C666 .
+

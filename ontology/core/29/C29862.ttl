@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29862 a skos:Concept ;
+    skos:broader ocs:C17505 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physical_Coding_Sublayer> ;
+    skos:prefLabel "Physical Coding Sublayer" ;
+    skos:related ocs:C1398,
+        ocs:C1663,
+        ocs:C17505,
+        ocs:C18745,
+        ocs:C22101,
+        ocs:C22270,
+        ocs:C23188,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C29125,
+        ocs:C30342,
+        ocs:C33551,
+        ocs:C40695,
+        ocs:C44484,
+        ocs:C9267 .
+

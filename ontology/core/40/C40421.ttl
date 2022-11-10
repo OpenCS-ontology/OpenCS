@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40421 a skos:Concept ;
+    skos:broader ocs:C30766,
+        ocs:C33373,
+        ocs:C37545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrational_linguistics> ;
+    skos:prefLabel "Integrational linguistics" ;
+    skos:related ocs:C13210,
+        ocs:C17239,
+        ocs:C2298,
+        ocs:C24316,
+        ocs:C24826,
+        ocs:C26173,
+        ocs:C28748,
+        ocs:C34287,
+        ocs:C37545,
+        ocs:C39066,
+        ocs:C43813,
+        ocs:C4650,
+        ocs:C5556 .
+

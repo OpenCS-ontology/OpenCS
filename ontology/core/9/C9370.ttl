@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9370 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cog_(project)> ;
+    skos:prefLabel "Cog" ;
+    skos:related ocs:C10215,
+        ocs:C114,
+        ocs:C13542,
+        ocs:C19558,
+        ocs:C20229,
+        ocs:C20576,
+        ocs:C21007,
+        ocs:C23165,
+        ocs:C23845,
+        ocs:C31062,
+        ocs:C34504,
+        ocs:C36316,
+        ocs:C37010,
+        ocs:C45473,
+        ocs:C5553,
+        ocs:C5635,
+        ocs:C8,
+        ocs:C8701 .
+

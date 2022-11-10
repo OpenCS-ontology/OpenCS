@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C965 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timeout_(computing)> ;
+    skos:prefLabel "Timeout" ;
+    skos:related ocs:C14926,
+        ocs:C16978,
+        ocs:C17903,
+        ocs:C19877,
+        ocs:C20391,
+        ocs:C21929,
+        ocs:C25850,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C3,
+        ocs:C30001,
+        ocs:C3039,
+        ocs:C39544,
+        ocs:C4099,
+        ocs:C5816,
+        ocs:C7340,
+        ocs:C7502,
+        ocs:C9931 .
+

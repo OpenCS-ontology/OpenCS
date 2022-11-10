@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16096 a skos:Concept ;
+    skos:broader ocs:C10801,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_encyclopedia> ;
+    skos:prefLabel "Online encyclopedia" ;
+    skos:related ocs:C10284,
+        ocs:C10801,
+        ocs:C1498,
+        ocs:C15008,
+        ocs:C17794,
+        ocs:C20100,
+        ocs:C22849,
+        ocs:C23,
+        ocs:C26337,
+        ocs:C27526,
+        ocs:C31,
+        ocs:C40049,
+        ocs:C447,
+        ocs:C6,
+        ocs:C8614 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25016 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C4255,
+        ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synchronization_Channel> ;
+    skos:prefLabel "Synchronization Channel" ;
+    skos:related ocs:C1198,
+        ocs:C1210,
+        ocs:C12767,
+        ocs:C20116,
+        ocs:C20661,
+        ocs:C26274,
+        ocs:C27704,
+        ocs:C33410,
+        ocs:C37065,
+        ocs:C37543,
+        ocs:C38413,
+        ocs:C39175,
+        ocs:C39659,
+        ocs:C42273,
+        ocs:C44670,
+        ocs:C7102,
+        ocs:C9154,
+        ocs:C9332 .
+

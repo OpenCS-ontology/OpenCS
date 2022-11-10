@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38608 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C36497,
+        ocs:C37469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scalable_Reliable_Multicast> ;
+    skos:prefLabel "Scalable Reliable Multicast" ;
+    skos:related ocs:C13850,
+        ocs:C14134,
+        ocs:C14160,
+        ocs:C16953,
+        ocs:C20540,
+        ocs:C23155,
+        ocs:C24323,
+        ocs:C24824,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C3391,
+        ocs:C33957,
+        ocs:C34161,
+        ocs:C34235,
+        ocs:C37469,
+        ocs:C38451,
+        ocs:C4433,
+        ocs:C6002 .
+

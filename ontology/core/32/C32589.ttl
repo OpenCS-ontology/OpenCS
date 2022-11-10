@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32589 a skos:Concept ;
+    skos:broader ocs:C18016,
+        ocs:C18985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_strategy> ;
+    skos:prefLabel "Digital strategy" ;
+    skos:related ocs:C10764,
+        ocs:C1187,
+        ocs:C12578,
+        ocs:C1332,
+        ocs:C13413,
+        ocs:C26214,
+        ocs:C28533,
+        ocs:C42101 .
+

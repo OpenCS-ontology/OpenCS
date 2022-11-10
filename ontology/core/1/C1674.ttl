@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1674 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programming_interview> ;
+    skos:prefLabel "Programming interview" ;
+    skos:related ocs:C10284,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12848,
+        ocs:C13045,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23909,
+        ocs:C25460,
+        ocs:C27380,
+        ocs:C28783,
+        ocs:C38521,
+        ocs:C39526,
+        ocs:C4032,
+        ocs:C4937,
+        ocs:C5280,
+        ocs:C6941 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3038 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discovery_science> ;
+    skos:prefLabel "Discovery science" ;
+    skos:related ocs:C10382,
+        ocs:C16918,
+        ocs:C2068,
+        ocs:C25,
+        ocs:C29,
+        ocs:C5195 .
+

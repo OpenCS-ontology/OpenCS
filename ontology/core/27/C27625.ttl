@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27625 a skos:Concept ;
+    skos:broader ocs:C983 ;
+    skos:prefLabel "Staff Workload" ;
+    skos:related ocs:C1,
+        ocs:C17,
+        ocs:C17812,
+        ocs:C5861,
+        ocs:C8704 .
+

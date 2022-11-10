@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7630 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blend_word> ;
+    skos:prefLabel "Blend word" ;
+    skos:related ocs:C12486,
+        ocs:C13109,
+        ocs:C13210,
+        ocs:C13757,
+        ocs:C14834,
+        ocs:C17707,
+        ocs:C21948,
+        ocs:C23243,
+        ocs:C27520,
+        ocs:C2761,
+        ocs:C28248,
+        ocs:C6784,
+        ocs:C8283,
+        ocs:C8296,
+        ocs:C9884 .
+

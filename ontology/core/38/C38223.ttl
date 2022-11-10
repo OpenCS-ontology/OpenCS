@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38223 a skos:Concept ;
+    skos:broader ocs:C32825,
+        ocs:C36733,
+        ocs:C37294,
+        ocs:C37679 ;
+    skos:prefLabel "Fading correlation" .
+

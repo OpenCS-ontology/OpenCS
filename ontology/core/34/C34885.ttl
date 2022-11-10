@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34885 a skos:Concept ;
+    skos:broader ocs:C27188 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interferometric_gravitational_wave_detector> ;
+    skos:prefLabel "Interferometric gravitational wave detector" ;
+    skos:related ocs:C17386,
+        ocs:C25070,
+        ocs:C26898,
+        ocs:C27188,
+        ocs:C34151,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C36773,
+        ocs:C37557 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42469 a skos:Concept ;
+    skos:broader ocs:C30919,
+        ocs:C37678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spinor_genus> ;
+    skos:prefLabel "Spinor genus" ;
+    skos:related ocs:C17921,
+        ocs:C30919,
+        ocs:C37678,
+        ocs:C39096 .
+

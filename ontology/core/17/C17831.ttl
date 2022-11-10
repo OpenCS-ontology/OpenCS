@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17831 a skos:Concept ;
+    skos:broader ocs:C12427 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coloured_Petri_net> ;
+    skos:prefLabel "Coloured Petri net" ;
+    skos:related ocs:C1,
+        ocs:C12098,
+        ocs:C12427,
+        ocs:C15457,
+        ocs:C15549,
+        ocs:C19336,
+        ocs:C22312,
+        ocs:C26029,
+        ocs:C27718,
+        ocs:C31886,
+        ocs:C32961,
+        ocs:C35299,
+        ocs:C35848,
+        ocs:C37174,
+        ocs:C37447,
+        ocs:C4938,
+        ocs:C6149,
+        ocs:C8791 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16469 a skos:Concept ;
+    skos:broader ocs:C10007 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Advanced_Driving_Simulator> ;
+    skos:prefLabel "National Advanced Driving Simulator" ;
+    skos:related ocs:C10007,
+        ocs:C14113,
+        ocs:C15234,
+        ocs:C2373 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4091 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_segment> ;
+    skos:prefLabel "Data segment" ;
+    skos:related ocs:C1251,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C2009,
+        ocs:C25960,
+        ocs:C28881,
+        ocs:C33702,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C39623,
+        ocs:C40322,
+        ocs:C41159,
+        ocs:C4259,
+        ocs:C5337,
+        ocs:C7470,
+        ocs:C7800,
+        ocs:C9,
+        ocs:C9638 .
+

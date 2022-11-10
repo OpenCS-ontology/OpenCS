@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12679 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/S_interface> ;
+    skos:prefLabel "S interface" ;
+    skos:related ocs:C13462,
+        ocs:C13695,
+        ocs:C13944,
+        ocs:C15022,
+        ocs:C15589,
+        ocs:C21610,
+        ocs:C21725,
+        ocs:C22669,
+        ocs:C23555,
+        ocs:C24466,
+        ocs:C25293,
+        ocs:C26809,
+        ocs:C28709,
+        ocs:C2917,
+        ocs:C2982,
+        ocs:C34009,
+        ocs:C35928,
+        ocs:C38753,
+        ocs:C6861 .
+

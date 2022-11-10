@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15529 a skos:Concept ;
+    skos:broader ocs:C10400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Master_boot_record> ;
+    skos:prefLabel "Master boot record" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C13783,
+        ocs:C16481,
+        ocs:C19487,
+        ocs:C20557,
+        ocs:C22742,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C32640,
+        ocs:C33255,
+        ocs:C3523,
+        ocs:C41962,
+        ocs:C5695,
+        ocs:C7476,
+        ocs:C9 .
+

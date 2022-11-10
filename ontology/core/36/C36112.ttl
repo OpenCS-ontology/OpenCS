@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36112 a skos:Concept ;
+    skos:broader ocs:C14269,
+        ocs:C23182,
+        ocs:C25440,
+        ocs:C26753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-balancing_binary_search_tree> ;
+    skos:prefLabel "Self-balancing binary search tree" ;
+    skos:related ocs:C1,
+        ocs:C14255,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C29660,
+        ocs:C36204,
+        ocs:C37685,
+        ocs:C43106,
+        ocs:C43467,
+        ocs:C5722,
+        ocs:C8022,
+        ocs:C8452,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C8660,
+        ocs:C8893 .
+

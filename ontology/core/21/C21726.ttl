@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21726 a skos:Concept ;
+    skos:broader ocs:C10760,
+        ocs:C12270 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subject_pronoun> ;
+    skos:prefLabel "Subject pronoun" ;
+    skos:related ocs:C10760,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26884,
+        ocs:C27187,
+        ocs:C31787,
+        ocs:C32280,
+        ocs:C32736,
+        ocs:C5311,
+        ocs:C6545 .
+

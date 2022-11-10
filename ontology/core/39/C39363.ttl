@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39363 a skos:Concept ;
+    skos:broader ocs:C30079 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_in_thermodynamics_and_information_theory> ;
+    skos:prefLabel "Entropy in thermodynamics and information theory" ;
+    skos:related ocs:C22399,
+        ocs:C24755,
+        ocs:C30079,
+        ocs:C38595,
+        ocs:C41429,
+        ocs:C42951,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C597 .
+

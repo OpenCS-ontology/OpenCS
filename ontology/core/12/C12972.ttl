@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12972 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_appearance_model> ;
+    skos:prefLabel "Active appearance model" ;
+    skos:related ocs:C1573,
+        ocs:C16355,
+        ocs:C19844,
+        ocs:C20460,
+        ocs:C21710,
+        ocs:C24784,
+        ocs:C24969,
+        ocs:C25249,
+        ocs:C29175,
+        ocs:C32156,
+        ocs:C32308,
+        ocs:C37694,
+        ocs:C37720,
+        ocs:C3898,
+        ocs:C4646,
+        ocs:C7,
+        ocs:C948 .
+

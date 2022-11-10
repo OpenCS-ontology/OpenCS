@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12576 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long_tail> ;
+    skos:prefLabel "Long tail" ;
+    skos:related ocs:C11126,
+        ocs:C17678,
+        ocs:C19399,
+        ocs:C26012,
+        ocs:C26204,
+        ocs:C35659,
+        ocs:C795,
+        ocs:C8614,
+        ocs:C931 .
+

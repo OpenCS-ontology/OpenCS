@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4943 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6 ;
+    skos:prefLabel "Policy Source" ;
+    skos:related ocs:C10988,
+        ocs:C1338,
+        ocs:C26,
+        ocs:C35,
+        ocs:C9540 .
+

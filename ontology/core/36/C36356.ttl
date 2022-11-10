@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36356 a skos:Concept ;
+    skos:broader ocs:C20206,
+        ocs:C23077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hamburg/ESO_Survey> ;
+    skos:prefLabel "Hamburg/ESO Survey" ;
+    skos:related ocs:C17523,
+        ocs:C18137,
+        ocs:C22220,
+        ocs:C22488,
+        ocs:C23849,
+        ocs:C25918,
+        ocs:C30543,
+        ocs:C30762,
+        ocs:C36878,
+        ocs:C37272,
+        ocs:C37452,
+        ocs:C37554,
+        ocs:C37614,
+        ocs:C45054,
+        ocs:C597 .
+

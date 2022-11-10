@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24717 a skos:Concept ;
+    skos:broader ocs:C12112,
+        ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chaotic_bubble> ;
+    skos:prefLabel "Chaotic bubble" ;
+    skos:related ocs:C13992,
+        ocs:C14592,
+        ocs:C28443,
+        ocs:C29703,
+        ocs:C34416,
+        ocs:C37144 .
+

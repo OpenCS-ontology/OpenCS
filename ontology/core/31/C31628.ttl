@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31628 a skos:Concept ;
+    skos:broader ocs:C22928 ;
+    skos:closeMatch <http://dbpedia.org/resource/TecTile> ;
+    skos:prefLabel "TecTile" ;
+    skos:related ocs:C1042,
+        ocs:C12698,
+        ocs:C12755,
+        ocs:C22928,
+        ocs:C2527,
+        ocs:C27912,
+        ocs:C29023,
+        ocs:C34172,
+        ocs:C34723,
+        ocs:C35206,
+        ocs:C35370,
+        ocs:C36860,
+        ocs:C44996,
+        ocs:C4917,
+        ocs:C5917,
+        ocs:C8614,
+        ocs:C9113 .
+

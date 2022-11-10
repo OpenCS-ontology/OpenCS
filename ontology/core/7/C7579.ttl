@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7579 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sat-IP> ;
+    skos:prefLabel "Sat-IP" ;
+    skos:related ocs:C12544,
+        ocs:C14160,
+        ocs:C18878,
+        ocs:C22597,
+        ocs:C22981,
+        ocs:C3,
+        ocs:C32753,
+        ocs:C3391,
+        ocs:C3522,
+        ocs:C35370,
+        ocs:C35819,
+        ocs:C38451,
+        ocs:C42429,
+        ocs:C4433,
+        ocs:C44963,
+        ocs:C490,
+        ocs:C5975,
+        ocs:C8515 .
+

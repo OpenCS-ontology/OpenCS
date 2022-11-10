@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34955 a skos:Concept ;
+    skos:broader ocs:C19329,
+        ocs:C24952 ;
+    skos:prefLabel "Phoxinus erythrogaster" ;
+    skos:related ocs:C14451,
+        ocs:C4515 .
+

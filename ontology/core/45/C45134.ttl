@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45134 a skos:Concept ;
+    skos:broader ocs:C36384,
+        ocs:C37441 ;
+    skos:closeMatch <http://dbpedia.org/resource/FRIACO> ;
+    skos:prefLabel "FRIACO" ;
+    skos:related ocs:C19350,
+        ocs:C23964,
+        ocs:C3705,
+        ocs:C8614 .
+

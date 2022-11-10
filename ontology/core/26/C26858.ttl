@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26858 a skos:Concept ;
+    skos:broader ocs:C10616,
+        ocs:C11724,
+        ocs:C2062,
+        ocs:C5614,
+        ocs:C651,
+        ocs:C6749 ;
+    skos:prefLabel "Knowledge engineer" .
+

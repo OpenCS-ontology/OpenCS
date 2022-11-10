@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24147 a skos:Concept ;
+    skos:broader ocs:C6124 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mathematical_Alphanumeric_Symbols> ;
+    skos:prefLabel "Mathematical Alphanumeric Symbols" ;
+    skos:related ocs:C25565,
+        ocs:C27886,
+        ocs:C28711,
+        ocs:C29368,
+        ocs:C33894,
+        ocs:C40665,
+        ocs:C5126,
+        ocs:C6189,
+        ocs:C6282,
+        ocs:C637 .
+

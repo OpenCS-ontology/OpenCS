@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22670 a skos:Concept ;
+    skos:broader ocs:C8386 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grid_friendly> ;
+    skos:prefLabel "Grid friendly" ;
+    skos:related ocs:C1626,
+        ocs:C4346,
+        ocs:C8386 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39885 a skos:Concept ;
+    skos:broader ocs:C36406 ;
+    skos:closeMatch <http://dbpedia.org/resource/Circle_packing_theorem> ;
+    skos:prefLabel "Circle packing theorem" ;
+    skos:related ocs:C30730,
+        ocs:C36406,
+        ocs:C38339,
+        ocs:C38853,
+        ocs:C39263,
+        ocs:C41573,
+        ocs:C41785,
+        ocs:C41797,
+        ocs:C42616,
+        ocs:C42822,
+        ocs:C42848,
+        ocs:C44460,
+        ocs:C44762,
+        ocs:C45150 .
+

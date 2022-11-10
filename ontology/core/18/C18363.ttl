@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18363 a skos:Concept ;
+    skos:broader ocs:C159,
+        ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timestamping_(computing)> ;
+    skos:prefLabel "Timestamping" ;
+    skos:related ocs:C13767,
+        ocs:C159,
+        ocs:C22879,
+        ocs:C35,
+        ocs:C35932,
+        ocs:C36408,
+        ocs:C36535,
+        ocs:C38026,
+        ocs:C39186,
+        ocs:C40919,
+        ocs:C4129,
+        ocs:C41803,
+        ocs:C43992,
+        ocs:C44853,
+        ocs:C45518,
+        ocs:C6,
+        ocs:C6312,
+        ocs:C6910,
+        ocs:C7476 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30620 a skos:Concept ;
+    skos:broader ocs:C14264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dravet_syndrome> ;
+    skos:prefLabel "Dravet syndrome" ;
+    skos:related ocs:C43795,
+        ocs:C44537 .
+

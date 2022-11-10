@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41184 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C34200,
+        ocs:C35202,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_archaeology> ;
+    skos:prefLabel "Software archaeology" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C1880,
+        ocs:C21399,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C32019,
+        ocs:C35202,
+        ocs:C37447,
+        ocs:C38903,
+        ocs:C41303,
+        ocs:C41456,
+        ocs:C45374,
+        ocs:C7170,
+        ocs:C9 .
+

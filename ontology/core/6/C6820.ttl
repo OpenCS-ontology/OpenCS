@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6820 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncertainty_theory> ;
+    skos:prefLabel "Uncertainty theory" ;
+    skos:related ocs:C14579,
+        ocs:C26013,
+        ocs:C29727,
+        ocs:C32127,
+        ocs:C33734 .
+

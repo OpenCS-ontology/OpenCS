@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6492 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_framework> ;
+    skos:prefLabel "Logical framework" ;
+    skos:related ocs:C10498,
+        ocs:C12474,
+        ocs:C13255,
+        ocs:C1631,
+        ocs:C16537,
+        ocs:C16614,
+        ocs:C18772,
+        ocs:C2418,
+        ocs:C29068,
+        ocs:C3484,
+        ocs:C36417,
+        ocs:C39487,
+        ocs:C41754,
+        ocs:C43542,
+        ocs:C4726,
+        ocs:C6941,
+        ocs:C7980,
+        ocs:C8077 .
+

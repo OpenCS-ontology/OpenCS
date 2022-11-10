@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9846 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Map_database_management> ;
+    skos:prefLabel "Map database management" ;
+    skos:related ocs:C10981,
+        ocs:C11158,
+        ocs:C11783,
+        ocs:C12641,
+        ocs:C13187,
+        ocs:C14324,
+        ocs:C16177,
+        ocs:C16679,
+        ocs:C16971,
+        ocs:C22960,
+        ocs:C23009,
+        ocs:C27698,
+        ocs:C28169,
+        ocs:C33579,
+        ocs:C4428,
+        ocs:C4647,
+        ocs:C6029,
+        ocs:C9100 .
+

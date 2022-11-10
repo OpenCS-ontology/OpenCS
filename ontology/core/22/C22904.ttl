@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22904 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware-based_full_disk_encryption> ;
+    skos:prefLabel "Hardware-based full disk encryption" ;
+    skos:related ocs:C10269,
+        ocs:C10320,
+        ocs:C13222,
+        ocs:C13783,
+        ocs:C1574,
+        ocs:C22065,
+        ocs:C22957,
+        ocs:C32160,
+        ocs:C33857,
+        ocs:C38723,
+        ocs:C41697,
+        ocs:C44003,
+        ocs:C6588,
+        ocs:C9 .
+

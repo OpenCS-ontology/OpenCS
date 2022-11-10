@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37437 a skos:Concept ;
+    skos:broader ocs:C14922,
+        ocs:C15419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interacting_particle_system> ;
+    skos:prefLabel "Interacting particle system" ;
+    skos:related ocs:C16774,
+        ocs:C18975,
+        ocs:C30864,
+        ocs:C31138,
+        ocs:C33043,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 .
+

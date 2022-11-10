@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44132 a skos:Concept ;
+    skos:broader ocs:C37233 ;
+    skos:closeMatch <http://dbpedia.org/resource/AN/URM-25D_Signal_Generator> ;
+    skos:prefLabel "AN/URM-25D Signal Generator" ;
+    skos:related ocs:C13690,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C19342,
+        ocs:C21441,
+        ocs:C22840,
+        ocs:C4427,
+        ocs:C45624,
+        ocs:C7159 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45681 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paley–Wiener_integral> ;
+    skos:prefLabel "Paley–Wiener integral" ;
+    skos:related ocs:C16744,
+        ocs:C23927,
+        ocs:C25153,
+        ocs:C28787,
+        ocs:C39433,
+        ocs:C41735,
+        ocs:C45668,
+        ocs:C45815 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40926 a skos:Concept ;
+    skos:broader ocs:C34472 ;
+    skos:closeMatch <http://dbpedia.org/resource/PRESS_statistic> ;
+    skos:prefLabel "PRESS statistic" ;
+    skos:related ocs:C16304,
+        ocs:C1794,
+        ocs:C19042,
+        ocs:C20955,
+        ocs:C27703,
+        ocs:C32577,
+        ocs:C32677,
+        ocs:C33496,
+        ocs:C37170,
+        ocs:C39650,
+        ocs:C42437,
+        ocs:C610,
+        ocs:C6116,
+        ocs:C7282 .
+

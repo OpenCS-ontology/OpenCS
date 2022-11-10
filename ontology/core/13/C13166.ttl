@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13166 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Urology_robotics> ;
+    skos:prefLabel "Urology robotics" ;
+    skos:related ocs:C17816,
+        ocs:C22524,
+        ocs:C32424,
+        ocs:C36737 .
+

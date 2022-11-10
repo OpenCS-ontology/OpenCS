@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6096 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Passage_planning> ;
+    skos:prefLabel "Passage planning" ;
+    skos:related ocs:C12641,
+        ocs:C12808,
+        ocs:C14324,
+        ocs:C20002,
+        ocs:C3230,
+        ocs:C4284 .
+

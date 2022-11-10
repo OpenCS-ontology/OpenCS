@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6929 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-loss_expectancy> ;
+    skos:prefLabel "Single-loss expectancy" ;
+    skos:related ocs:C1399,
+        ocs:C15729,
+        ocs:C22064,
+        ocs:C25176,
+        ocs:C35810,
+        ocs:C44194,
+        ocs:C5660 .
+

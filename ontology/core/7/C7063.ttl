@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7063 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_plan> ;
+    skos:prefLabel "Open plan" ;
+    skos:related ocs:C197,
+        ocs:C2530,
+        ocs:C26517,
+        ocs:C9595 .
+

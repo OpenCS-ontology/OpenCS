@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7971 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/MDSP> ;
+    skos:prefLabel "MDSP" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C11326,
+        ocs:C11814,
+        ocs:C20961,
+        ocs:C22448,
+        ocs:C27,
+        ocs:C29530,
+        ocs:C30860,
+        ocs:C31889,
+        ocs:C42977,
+        ocs:C43505,
+        ocs:C43964,
+        ocs:C44,
+        ocs:C4824,
+        ocs:C6447,
+        ocs:C7012 .
+

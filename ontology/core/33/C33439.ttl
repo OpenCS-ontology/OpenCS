@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33439 a skos:Concept ;
+    skos:broader ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iron_peak> ;
+    skos:prefLabel "Iron peak" ;
+    skos:related ocs:C20206,
+        ocs:C22014,
+        ocs:C37677,
+        ocs:C44452 .
+

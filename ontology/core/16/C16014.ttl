@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16014 a skos:Concept ;
+    skos:broader ocs:C1262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Drinking_water_directive> ;
+    skos:prefLabel "Drinking water directive" ;
+    skos:related ocs:C20680,
+        ocs:C23196 .
+

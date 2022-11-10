@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31032 a skos:Concept ;
+    skos:broader ocs:C14209,
+        ocs:C23247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wait-for_graph> ;
+    skos:prefLabel "Wait-for graph" ;
+    skos:related ocs:C1,
+        ocs:C12098,
+        ocs:C15414,
+        ocs:C16677,
+        ocs:C22090,
+        ocs:C22879,
+        ocs:C30,
+        ocs:C30307,
+        ocs:C30464,
+        ocs:C30688,
+        ocs:C3514,
+        ocs:C36648,
+        ocs:C38026,
+        ocs:C42251,
+        ocs:C42329,
+        ocs:C6346,
+        ocs:C8277,
+        ocs:C9 .
+

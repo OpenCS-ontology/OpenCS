@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9094 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programmable_matter> ;
+    skos:prefLabel "Programmable matter" ;
+    skos:related ocs:C10396,
+        ocs:C122,
+        ocs:C23438,
+        ocs:C24808,
+        ocs:C39739,
+        ocs:C43723,
+        ocs:C45217 .
+

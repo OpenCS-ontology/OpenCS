@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6419 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_estimation> ;
+    skos:prefLabel "Sequential estimation" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C12256,
+        ocs:C12456,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C25294,
+        ocs:C29461,
+        ocs:C33312,
+        ocs:C41344,
+        ocs:C4653,
+        ocs:C7052,
+        ocs:C8333 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1005 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_factor_analysis> ;
+    skos:prefLabel "Multiple factor analysis" ;
+    skos:related ocs:C10324,
+        ocs:C18859,
+        ocs:C20003,
+        ocs:C20460,
+        ocs:C20578,
+        ocs:C22492,
+        ocs:C6912,
+        ocs:C9538 .
+

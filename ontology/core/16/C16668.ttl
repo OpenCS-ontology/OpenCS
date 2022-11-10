@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16668 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mecanum_wheel> ;
+    skos:prefLabel "Mecanum wheel" ;
+    skos:related ocs:C10686,
+        ocs:C10999,
+        ocs:C17236,
+        ocs:C31524 .
+

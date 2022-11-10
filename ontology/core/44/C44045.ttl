@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44045 a skos:Concept ;
+    skos:broader ocs:C29902,
+        ocs:C30269,
+        ocs:C34472,
+        ocs:C35061 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decoupling_(probability)> ;
+    skos:prefLabel "Decoupling (probability)" .
+

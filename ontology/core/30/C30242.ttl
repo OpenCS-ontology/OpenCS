@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30242 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cayley_graph> ;
+    skos:prefLabel "Cayley graph" ;
+    skos:related ocs:C14693,
+        ocs:C16573,
+        ocs:C19336,
+        ocs:C37036,
+        ocs:C45277 .
+

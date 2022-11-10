@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15009 a skos:Concept ;
+    skos:broader ocs:C2975 ;
+    skos:closeMatch <http://dbpedia.org/resource/GTEM_cell> ;
+    skos:prefLabel "GTEM cell" ;
+    skos:related ocs:C1219,
+        ocs:C1243,
+        ocs:C13211,
+        ocs:C23105,
+        ocs:C28404,
+        ocs:C28800,
+        ocs:C2975,
+        ocs:C3173,
+        ocs:C35370,
+        ocs:C5511 .
+

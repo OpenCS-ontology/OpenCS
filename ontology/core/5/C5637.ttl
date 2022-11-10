@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5637 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contingency_table> ;
+    skos:prefLabel "Contingency table" ;
+    skos:related ocs:C26527,
+        ocs:C4479,
+        ocs:C45684,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7908,
+        ocs:C8332,
+        ocs:C8385 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37840 a skos:Concept ;
+    skos:broader ocs:C33955 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kir2.1> ;
+    skos:prefLabel "Kir2.1" ;
+    skos:related ocs:C32030,
+        ocs:C33852,
+        ocs:C33955,
+        ocs:C36128,
+        ocs:C39387 .
+

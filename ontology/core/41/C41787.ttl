@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41787 a skos:Concept ;
+    skos:broader ocs:C31167,
+        ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metropolis_light_transport> ;
+    skos:prefLabel "Metropolis light transport" ;
+    skos:related ocs:C12454,
+        ocs:C15479,
+        ocs:C19041,
+        ocs:C19043,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C22983,
+        ocs:C25137,
+        ocs:C30435,
+        ocs:C30748,
+        ocs:C31167,
+        ocs:C33219,
+        ocs:C37944,
+        ocs:C38763,
+        ocs:C41470,
+        ocs:C42371,
+        ocs:C42719,
+        ocs:C6448,
+        ocs:C8516 .
+

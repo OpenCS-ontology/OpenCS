@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21747 a skos:Concept ;
+    skos:broader ocs:C11886 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standards_organization> ;
+    skos:prefLabel "Standards organization" ;
+    skos:related ocs:C11927,
+        ocs:C12317,
+        ocs:C13144,
+        ocs:C1848,
+        ocs:C3338,
+        ocs:C699,
+        ocs:C9375 .
+

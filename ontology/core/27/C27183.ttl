@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27183 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fiber-reinforced_composite> ;
+    skos:prefLabel "Fiber-reinforced composite" ;
+    skos:related ocs:C13871,
+        ocs:C14860,
+        ocs:C17510,
+        ocs:C17788,
+        ocs:C23870,
+        ocs:C24699,
+        ocs:C27776 .
+

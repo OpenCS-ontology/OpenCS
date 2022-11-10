@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9047 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C26,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ubiquitous_computing> ;
+    skos:prefLabel "Ubiquitous computing" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C11153,
+        ocs:C12644,
+        ocs:C18,
+        ocs:C21424,
+        ocs:C24139,
+        ocs:C24643,
+        ocs:C25029,
+        ocs:C2605,
+        ocs:C35370,
+        ocs:C4917,
+        ocs:C7166,
+        ocs:C7736,
+        ocs:C8,
+        ocs:C8191,
+        ocs:C8614,
+        ocs:C9601,
+        ocs:C9603 .
+

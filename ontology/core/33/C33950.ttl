@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33950 a skos:Concept ;
+    skos:broader ocs:C17119 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crossover_distortion> ;
+    skos:prefLabel "Crossover distortion" ;
+    skos:related ocs:C17432,
+        ocs:C3843 .
+

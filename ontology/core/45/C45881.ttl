@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45881 a skos:Concept ;
+    skos:broader ocs:C34593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fletcher's_checksum> ;
+    skos:prefLabel "Fletcher's checksum" ;
+    skos:related ocs:C10,
+        ocs:C10696,
+        ocs:C12485,
+        ocs:C15591,
+        ocs:C17903,
+        ocs:C19749,
+        ocs:C21929,
+        ocs:C24353,
+        ocs:C30090,
+        ocs:C33935,
+        ocs:C38454,
+        ocs:C3936,
+        ocs:C43107,
+        ocs:C8581,
+        ocs:C8763 .
+

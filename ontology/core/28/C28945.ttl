@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28945 a skos:Concept ;
+    skos:broader ocs:C1023 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_imaging> ;
+    skos:prefLabel "Digital imaging" ;
+    skos:related ocs:C1023,
+        ocs:C1253,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C13095,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C39,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C797,
+        ocs:C8021,
+        ocs:C8499 .
+

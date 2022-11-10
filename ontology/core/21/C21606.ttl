@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21606 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adjacent-channel_interference> ;
+    skos:prefLabel "Adjacent-channel interference" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C17564,
+        ocs:C22511,
+        ocs:C23488,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C3,
+        ocs:C3044,
+        ocs:C34890,
+        ocs:C4427,
+        ocs:C5511,
+        ocs:C7216,
+        ocs:C8388,
+        ocs:C8612,
+        ocs:C8636 .
+

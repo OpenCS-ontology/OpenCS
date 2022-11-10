@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10528 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process-based_management> ;
+    skos:prefLabel "Process-based management" ;
+    skos:related ocs:C10134,
+        ocs:C11094,
+        ocs:C16605,
+        ocs:C19998,
+        ocs:C22412,
+        ocs:C28526,
+        ocs:C30036,
+        ocs:C3395 .
+

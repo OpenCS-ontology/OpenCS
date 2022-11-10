@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14626 a skos:Concept ;
+    skos:broader ocs:C2115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spatial_database> ;
+    skos:prefLabel "Spatial database" ;
+    skos:related ocs:C10232,
+        ocs:C10382,
+        ocs:C12185,
+        ocs:C13296,
+        ocs:C14209,
+        ocs:C1651,
+        ocs:C20539,
+        ocs:C2115,
+        ocs:C22573,
+        ocs:C24208,
+        ocs:C26515,
+        ocs:C27492,
+        ocs:C36084,
+        ocs:C3896,
+        ocs:C4004,
+        ocs:C6,
+        ocs:C6693,
+        ocs:C7401 .
+

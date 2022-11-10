@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31640 a skos:Concept ;
+    skos:broader ocs:C15728,
+        ocs:C15964,
+        ocs:C28122 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timing_Synchronization_Function> ;
+    skos:prefLabel "Timing Synchronization Function" ;
+    skos:related ocs:C21760,
+        ocs:C2708,
+        ocs:C28937,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C36169,
+        ocs:C39020,
+        ocs:C40496,
+        ocs:C41247,
+        ocs:C41837,
+        ocs:C41995,
+        ocs:C43093,
+        ocs:C43449,
+        ocs:C44700,
+        ocs:C45396,
+        ocs:C45456,
+        ocs:C45519,
+        ocs:C45666,
+        ocs:C4665,
+        ocs:C6446 .
+

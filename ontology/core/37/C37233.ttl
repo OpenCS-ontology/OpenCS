@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37233 a skos:Concept ;
+    skos:broader ocs:C19687 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_transition> ;
+    skos:prefLabel "Signal transition" ;
+    skos:related ocs:C12582,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C22451,
+        ocs:C23488,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C31520,
+        ocs:C35957,
+        ocs:C37266,
+        ocs:C38310,
+        ocs:C7502,
+        ocs:C8952 .
+

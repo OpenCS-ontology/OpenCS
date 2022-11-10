@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40209 a skos:Concept ;
+    skos:broader ocs:C31512,
+        ocs:C34821 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slerp> ;
+    skos:prefLabel "Slerp" ;
+    skos:related ocs:C11187,
+        ocs:C14263,
+        ocs:C16671,
+        ocs:C3851,
+        ocs:C6226 .
+

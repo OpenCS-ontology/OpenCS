@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43529 a skos:Concept ;
+    skos:broader ocs:C34588,
+        ocs:C37171 ;
+    skos:closeMatch <http://dbpedia.org/resource/Canada_Geographic_Information_System> ;
+    skos:prefLabel "Canada Geographic Information System" ;
+    skos:related ocs:C11862,
+        ocs:C11879,
+        ocs:C25186,
+        ocs:C4534 .
+

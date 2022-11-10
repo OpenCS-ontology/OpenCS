@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42149 a skos:Concept ;
+    skos:broader ocs:C29902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuous_mapping_theorem> ;
+    skos:prefLabel "Continuous mapping theorem" ;
+    skos:related ocs:C14266,
+        ocs:C15256,
+        ocs:C18102,
+        ocs:C33312,
+        ocs:C35310,
+        ocs:C36379,
+        ocs:C44131,
+        ocs:C45547 .
+

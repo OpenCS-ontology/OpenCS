@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25045 a skos:Concept ;
+    skos:broader ocs:C3283 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asynchronous_operation> ;
+    skos:prefLabel "Asynchronous operation" ;
+    skos:related ocs:C10320,
+        ocs:C10733,
+        ocs:C11408,
+        ocs:C15146,
+        ocs:C2106,
+        ocs:C27907,
+        ocs:C2886,
+        ocs:C43379,
+        ocs:C44120,
+        ocs:C5214,
+        ocs:C8029,
+        ocs:C9371 .
+

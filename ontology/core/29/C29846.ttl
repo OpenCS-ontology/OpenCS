@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29846 a skos:Concept ;
+    skos:broader ocs:C17533 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network-attached_storage> ;
+    skos:prefLabel "Network-attached storage" ;
+    skos:related ocs:C10501,
+        ocs:C16980,
+        ocs:C17533,
+        ocs:C24871,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C30953,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C379,
+        ocs:C38032,
+        ocs:C39186,
+        ocs:C39275,
+        ocs:C45269,
+        ocs:C490,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9426 .
+

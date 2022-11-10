@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33704 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C16033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph500> ;
+    skos:prefLabel "Graph500" ;
+    skos:related ocs:C16231,
+        ocs:C1831,
+        ocs:C19876,
+        ocs:C21883,
+        ocs:C22554,
+        ocs:C24207,
+        ocs:C24846,
+        ocs:C26030,
+        ocs:C26342,
+        ocs:C28811,
+        ocs:C29418,
+        ocs:C6312,
+        ocs:C750,
+        ocs:C7735,
+        ocs:C7977 .
+

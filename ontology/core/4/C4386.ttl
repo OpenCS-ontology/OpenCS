@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4386 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alphanumeric> ;
+    skos:prefLabel "Alphanumeric" ;
+    skos:related ocs:C19,
+        ocs:C2241,
+        ocs:C28881,
+        ocs:C3398,
+        ocs:C4048,
+        ocs:C4597,
+        ocs:C4703,
+        ocs:C5126,
+        ocs:C6714,
+        ocs:C7131,
+        ocs:C7525,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9162 .
+

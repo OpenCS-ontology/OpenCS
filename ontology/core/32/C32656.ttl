@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32656 a skos:Concept ;
+    skos:broader ocs:C20240 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brachymyrmex> ;
+    skos:prefLabel "Brachymyrmex" ;
+    skos:related ocs:C14314,
+        ocs:C14496,
+        ocs:C18993,
+        ocs:C20240,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C21750,
+        ocs:C28251 .
+

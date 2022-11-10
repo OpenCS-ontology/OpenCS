@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18411 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstract_syntax> ;
+    skos:prefLabel "Abstract syntax" ;
+    skos:related ocs:C1,
+        ocs:C10720,
+        ocs:C15051,
+        ocs:C16616,
+        ocs:C17906,
+        ocs:C19,
+        ocs:C19345,
+        ocs:C20000,
+        ocs:C20679,
+        ocs:C21627,
+        ocs:C22624,
+        ocs:C31405,
+        ocs:C32080,
+        ocs:C35691,
+        ocs:C386,
+        ocs:C4321,
+        ocs:C6941,
+        ocs:C8564,
+        ocs:C9985 .
+

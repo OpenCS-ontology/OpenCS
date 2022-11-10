@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4432 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decorrelation> ;
+    skos:prefLabel "Decorrelation" ;
+    skos:related ocs:C10509,
+        ocs:C12046,
+        ocs:C29963,
+        ocs:C30690,
+        ocs:C37788,
+        ocs:C4218,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C5829,
+        ocs:C6125,
+        ocs:C6912,
+        ocs:C836,
+        ocs:C9039 .
+

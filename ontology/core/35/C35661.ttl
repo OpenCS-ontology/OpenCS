@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35661 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual_norm> ;
+    skos:prefLabel "Dual norm" ;
+    skos:related ocs:C18076,
+        ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C32026,
+        ocs:C36808,
+        ocs:C38409,
+        ocs:C39124,
+        ocs:C39302,
+        ocs:C40195,
+        ocs:C43695 .
+

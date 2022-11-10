@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45307 a skos:Concept ;
+    skos:broader ocs:C33955 ;
+    skos:prefLabel "Cardiac Inward Rectifier" ;
+    skos:related ocs:C37840,
+        ocs:C4099 .
+

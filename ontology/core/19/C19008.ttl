@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19008 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_servoing> ;
+    skos:prefLabel "Visual servoing" ;
+    skos:related ocs:C10396,
+        ocs:C15029,
+        ocs:C17236,
+        ocs:C23110,
+        ocs:C26631,
+        ocs:C27770,
+        ocs:C30080,
+        ocs:C31485,
+        ocs:C31648,
+        ocs:C33411,
+        ocs:C33737,
+        ocs:C33887,
+        ocs:C35623,
+        ocs:C35805,
+        ocs:C36944,
+        ocs:C37901,
+        ocs:C44928,
+        ocs:C5083,
+        ocs:C7 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5558 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stop_sign> ;
+    skos:prefLabel "Stop sign" ;
+    skos:related ocs:C1581,
+        ocs:C1664,
+        ocs:C17865,
+        ocs:C18233,
+        ocs:C21285,
+        ocs:C21412,
+        ocs:C21601,
+        ocs:C24356,
+        ocs:C25072,
+        ocs:C5633,
+        ocs:C6243,
+        ocs:C9657 .
+

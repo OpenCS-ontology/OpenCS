@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32300 a skos:Concept ;
+    skos:broader ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_over_LTE> ;
+    skos:prefLabel "Video over LTE" ;
+    skos:related ocs:C15396,
+        ocs:C15530,
+        ocs:C1855,
+        ocs:C1894,
+        ocs:C21981,
+        ocs:C23025,
+        ocs:C29873,
+        ocs:C31469,
+        ocs:C31996,
+        ocs:C32715,
+        ocs:C32846,
+        ocs:C35897,
+        ocs:C3695,
+        ocs:C37446,
+        ocs:C3933,
+        ocs:C44506,
+        ocs:C45589,
+        ocs:C4710,
+        ocs:C6660 .
+

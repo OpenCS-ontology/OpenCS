@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8288 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallel_database> ;
+    skos:prefLabel "Parallel database" ;
+    skos:related ocs:C10320,
+        ocs:C10988,
+        ocs:C11093,
+        ocs:C12185,
+        ocs:C12690,
+        ocs:C13372,
+        ocs:C15611,
+        ocs:C18083,
+        ocs:C22879,
+        ocs:C230,
+        ocs:C27,
+        ocs:C28963,
+        ocs:C30,
+        ocs:C35640,
+        ocs:C4804,
+        ocs:C6,
+        ocs:C7106,
+        ocs:C8327,
+        ocs:C9872 .
+

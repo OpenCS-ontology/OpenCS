@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22202 a skos:Concept ;
+    skos:broader ocs:C10141 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embedded_value> ;
+    skos:prefLabel "Embedded value" ;
+    skos:related ocs:C22812,
+        ocs:C37495 .
+

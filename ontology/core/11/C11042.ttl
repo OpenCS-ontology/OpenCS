@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11042 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C17,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Csound> ;
+    skos:prefLabel "Csound" ;
+    skos:related ocs:C11128,
+        ocs:C11254,
+        ocs:C11487,
+        ocs:C1253,
+        ocs:C1386,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23439,
+        ocs:C26575,
+        ocs:C31489,
+        ocs:C3405,
+        ocs:C39927,
+        ocs:C44962,
+        ocs:C8718 .
+

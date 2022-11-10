@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9651 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clipper_architecture> ;
+    skos:prefLabel "Clipper architecture" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C14917,
+        ocs:C16229,
+        ocs:C19487,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C30860,
+        ocs:C33174,
+        ocs:C43505,
+        ocs:C4824,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

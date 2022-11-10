@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42855 a skos:Concept ;
+    skos:broader ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operator_ideal> ;
+    skos:prefLabel "Operator ideal" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C31849,
+        ocs:C43500 .
+

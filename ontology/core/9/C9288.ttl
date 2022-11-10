@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9288 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Continuity_tester> ;
+    skos:prefLabel "Continuity tester" ;
+    skos:related ocs:C24645,
+        ocs:C45624 .
+

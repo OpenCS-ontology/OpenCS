@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41341 a skos:Concept ;
+    skos:broader ocs:C33528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comet_dust> ;
+    skos:prefLabel "Comet dust" ;
+    skos:related ocs:C24023,
+        ocs:C33528,
+        ocs:C3952 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24255 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_set> ;
+    skos:prefLabel "Spectral set" ;
+    skos:related ocs:C14029,
+        ocs:C18076,
+        ocs:C19542,
+        ocs:C28025,
+        ocs:C28787,
+        ocs:C32558,
+        ocs:C39154 .
+

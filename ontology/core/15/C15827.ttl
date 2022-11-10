@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15827 a skos:Concept ;
+    skos:broader ocs:C5334 ;
+    skos:closeMatch <http://dbpedia.org/resource/Saaz_hops> ;
+    skos:prefLabel "Saaz hops" ;
+    skos:related ocs:C14934,
+        ocs:C20311,
+        ocs:C21164,
+        ocs:C24126 .
+

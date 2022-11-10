@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2303 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Application_server> ;
+    skos:prefLabel "Application server" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C12810,
+        ocs:C14627,
+        ocs:C1496,
+        ocs:C15478,
+        ocs:C17183,
+        ocs:C17235,
+        ocs:C17238,
+        ocs:C17556,
+        ocs:C24143,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C29401,
+        ocs:C31,
+        ocs:C31489,
+        ocs:C4918,
+        ocs:C6,
+        ocs:C8091,
+        ocs:C9 .
+

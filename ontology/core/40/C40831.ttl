@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40831 a skos:Concept ;
+    skos:broader ocs:C32419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Money_measurement_concept> ;
+    skos:prefLabel "Money measurement concept" ;
+    skos:related ocs:C14584 .
+

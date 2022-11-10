@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4693 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/AutoLISP> ;
+    skos:prefLabel "AutoLISP" ;
+    skos:related ocs:C10284,
+        ocs:C11293,
+        ocs:C1333,
+        ocs:C1386,
+        ocs:C14632,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C20150,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C28944,
+        ocs:C29907,
+        ocs:C35502,
+        ocs:C4261,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C7914,
+        ocs:C8441 .
+

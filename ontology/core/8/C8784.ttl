@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8784 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weightless_(wireless_communications)> ;
+    skos:prefLabel "Weightless" ;
+    skos:related ocs:C15962,
+        ocs:C16218,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C27263,
+        ocs:C28937,
+        ocs:C31200,
+        ocs:C3236,
+        ocs:C33773,
+        ocs:C37303,
+        ocs:C37749,
+        ocs:C40866,
+        ocs:C41460,
+        ocs:C43449,
+        ocs:C44487 .
+

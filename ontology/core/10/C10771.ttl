@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10771 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_management> ;
+    skos:prefLabel "Decision management" ;
+    skos:related ocs:C10,
+        ocs:C10764,
+        ocs:C1728,
+        ocs:C197,
+        ocs:C20385,
+        ocs:C2529,
+        ocs:C27200,
+        ocs:C28632,
+        ocs:C31111,
+        ocs:C3753,
+        ocs:C38166,
+        ocs:C4158,
+        ocs:C41875,
+        ocs:C44883,
+        ocs:C9874 .
+

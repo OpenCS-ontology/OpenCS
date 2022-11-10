@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15659 a skos:Concept ;
+    skos:broader ocs:C10323,
+        ocs:C1449,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/External_memory_interface> ;
+    skos:prefLabel "External memory interface" ;
+    skos:related ocs:C12211,
+        ocs:C12918,
+        ocs:C23270,
+        ocs:C23956,
+        ocs:C25107,
+        ocs:C34298,
+        ocs:C39723,
+        ocs:C44,
+        ocs:C4824,
+        ocs:C6913,
+        ocs:C8787,
+        ocs:C940 .
+

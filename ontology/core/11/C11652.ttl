@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11652 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bell_212A> ;
+    skos:prefLabel "Bell 212A" ;
+    skos:related ocs:C10049,
+        ocs:C10093,
+        ocs:C11817,
+        ocs:C13629,
+        ocs:C15962,
+        ocs:C17404,
+        ocs:C2263,
+        ocs:C22669,
+        ocs:C26814,
+        ocs:C2917,
+        ocs:C30303,
+        ocs:C3039,
+        ocs:C35495,
+        ocs:C39501,
+        ocs:C4040,
+        ocs:C45690,
+        ocs:C8952 .
+

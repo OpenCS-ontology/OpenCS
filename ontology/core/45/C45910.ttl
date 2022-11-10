@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45910 a skos:Concept ;
+    skos:broader ocs:C31363 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_sharing> ;
+    skos:prefLabel "False sharing" ;
+    skos:related ocs:C14162,
+        ocs:C17698,
+        ocs:C22850,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C38461,
+        ocs:C38525,
+        ocs:C40922,
+        ocs:C42759,
+        ocs:C44418,
+        ocs:C44767,
+        ocs:C4804,
+        ocs:C4824,
+        ocs:C5141,
+        ocs:C7009,
+        ocs:C9486 .
+

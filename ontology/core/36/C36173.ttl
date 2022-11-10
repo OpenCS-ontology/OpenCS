@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36173 a skos:Concept ;
+    skos:broader ocs:C19715 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solid-state_nuclear_track_detector> ;
+    skos:prefLabel "Solid-state nuclear track detector" ;
+    skos:related ocs:C18360,
+        ocs:C21331,
+        ocs:C25787,
+        ocs:C45219 .
+

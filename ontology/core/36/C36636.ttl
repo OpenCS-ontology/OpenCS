@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36636 a skos:Concept ;
+    skos:broader ocs:C24710 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gorgonocephalus> ;
+    skos:prefLabel "Gorgonocephalus" ;
+    skos:related ocs:C20903,
+        ocs:C24710,
+        ocs:C25562 .
+

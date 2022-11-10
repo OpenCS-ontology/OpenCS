@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11442 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Outline_of_electronics> ;
+    skos:prefLabel "Outline of electronics" ;
+    skos:related ocs:C11827,
+        ocs:C12820,
+        ocs:C12971,
+        ocs:C43340,
+        ocs:C43781,
+        ocs:C5336,
+        ocs:C9908 .
+

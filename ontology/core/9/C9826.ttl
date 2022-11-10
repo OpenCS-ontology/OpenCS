@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9826 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Forking_extension> ;
+    skos:prefLabel "Forking extension" ;
+    skos:related ocs:C17726,
+        ocs:C26826,
+        ocs:C29417,
+        ocs:C30990,
+        ocs:C42162,
+        ocs:C8635 .
+

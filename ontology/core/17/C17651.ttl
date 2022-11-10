@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17651 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Von_Neumann_algebra> ;
+    skos:prefLabel "Von Neumann algebra" ;
+    skos:related ocs:C19542,
+        ocs:C23890,
+        ocs:C23966,
+        ocs:C27394,
+        ocs:C28787,
+        ocs:C31400,
+        ocs:C33102,
+        ocs:C38279,
+        ocs:C44342,
+        ocs:C45503 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5636 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/SEQUAL_framework> ;
+    skos:prefLabel "SEQUAL framework" ;
+    skos:related ocs:C10617,
+        ocs:C12427,
+        ocs:C1336,
+        ocs:C14316,
+        ocs:C24,
+        ocs:C2523,
+        ocs:C28526,
+        ocs:C29840,
+        ocs:C38885,
+        ocs:C39686,
+        ocs:C4209,
+        ocs:C42440,
+        ocs:C42495,
+        ocs:C42767,
+        ocs:C43341,
+        ocs:C8171 .
+

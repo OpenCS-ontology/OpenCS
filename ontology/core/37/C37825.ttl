@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37825 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integration_using_Euler's_formula> ;
+    skos:prefLabel "Integration using Euler's formula" ;
+    skos:related ocs:C13541,
+        ocs:C39778,
+        ocs:C39809,
+        ocs:C40729,
+        ocs:C40788,
+        ocs:C40825,
+        ocs:C41054 .
+

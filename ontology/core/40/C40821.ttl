@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40821 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C33916,
+        ocs:C35570,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rule_Interchange_Format> ;
+    skos:prefLabel "Rule Interchange Format" ;
+    skos:related ocs:C11927,
+        ocs:C12977,
+        ocs:C1451,
+        ocs:C2418,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28259,
+        ocs:C2931,
+        ocs:C33916,
+        ocs:C35570,
+        ocs:C39073,
+        ocs:C39278,
+        ocs:C41158,
+        ocs:C41781,
+        ocs:C42124,
+        ocs:C43831,
+        ocs:C44135,
+        ocs:C6531,
+        ocs:C6553,
+        ocs:C9836 .
+

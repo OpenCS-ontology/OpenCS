@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30507 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lp_space> ;
+    skos:prefLabel "Lp space" ;
+    skos:related ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30725,
+        ocs:C31849,
+        ocs:C39124 .
+

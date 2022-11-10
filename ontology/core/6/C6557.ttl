@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6557 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:prefLabel "Birth disorders" ;
+    skos:related ocs:C11328,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C30,
+        ocs:C33,
+        ocs:C4435,
+        ocs:C5298 .
+

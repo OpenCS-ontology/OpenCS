@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20011 a skos:Concept ;
+    skos:broader ocs:C10720,
+        ocs:C10909,
+        ocs:C3517,
+        ocs:C4321,
+        ocs:C4700,
+        ocs:C794 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequence_container_(C++)> ;
+    skos:prefLabel "Sequence container" .
+

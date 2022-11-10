@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10668 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gaze> ;
+    skos:prefLabel "Gaze" ;
+    skos:related ocs:C14805,
+        ocs:C27957,
+        ocs:C34517 .
+

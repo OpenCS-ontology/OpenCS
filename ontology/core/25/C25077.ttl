@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25077 a skos:Concept ;
+    skos:broader ocs:C11150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boehmians> ;
+    skos:prefLabel "Boehmians" ;
+    skos:related ocs:C14997,
+        ocs:C27444,
+        ocs:C34116,
+        ocs:C39613 .
+

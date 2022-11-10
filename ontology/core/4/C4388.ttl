@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4388 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jumping_jack> ;
+    skos:prefLabel "Jumping jack" ;
+    skos:related ocs:C2658,
+        ocs:C34206,
+        ocs:C7331 .
+

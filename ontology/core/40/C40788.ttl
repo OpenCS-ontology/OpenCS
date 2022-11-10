@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40788 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pythagorean_trigonometric_identity> ;
+    skos:prefLabel "Pythagorean trigonometric identity" ;
+    skos:related ocs:C13541,
+        ocs:C1385,
+        ocs:C14919,
+        ocs:C1884,
+        ocs:C39778 .
+

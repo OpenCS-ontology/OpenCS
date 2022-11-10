@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42488 a skos:Concept ;
+    skos:broader ocs:C31400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tomita–Takesaki_theory> ;
+    skos:prefLabel "Tomita–Takesaki theory" ;
+    skos:related ocs:C17651,
+        ocs:C19542,
+        ocs:C23890,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C31400,
+        ocs:C33102,
+        ocs:C34669,
+        ocs:C38279,
+        ocs:C45503 .
+

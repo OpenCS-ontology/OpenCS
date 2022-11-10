@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8276 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chess_endgame> ;
+    skos:prefLabel "Chess endgame" ;
+    skos:related ocs:C11414,
+        ocs:C18256,
+        ocs:C33246,
+        ocs:C33463,
+        ocs:C34062,
+        ocs:C34786,
+        ocs:C4648,
+        ocs:C6748,
+        ocs:C7717,
+        ocs:C8 .
+

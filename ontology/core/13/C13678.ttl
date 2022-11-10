@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13678 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_flight> ;
+    skos:prefLabel "Direct flight" ;
+    skos:related ocs:C14012,
+        ocs:C20572,
+        ocs:C22758,
+        ocs:C309,
+        ocs:C34482,
+        ocs:C4597 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21057 a skos:Concept ;
+    skos:broader ocs:C5620 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensor-based_sorting> ;
+    skos:prefLabel "Sensor-based sorting" ;
+    skos:related ocs:C10492,
+        ocs:C23317,
+        ocs:C44928,
+        ocs:C7417 .
+

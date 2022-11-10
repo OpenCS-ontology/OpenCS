@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25141 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpersonal_ties> ;
+    skos:prefLabel "Interpersonal ties" ;
+    skos:related ocs:C11026,
+        ocs:C14693,
+        ocs:C15000,
+        ocs:C15047,
+        ocs:C17658,
+        ocs:C18683,
+        ocs:C20170,
+        ocs:C22115,
+        ocs:C26462,
+        ocs:C29674,
+        ocs:C33437,
+        ocs:C35838,
+        ocs:C36858 .
+

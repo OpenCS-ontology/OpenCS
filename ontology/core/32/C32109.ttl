@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32109 a skos:Concept ;
+    skos:broader ocs:C17091,
+        ocs:C17856,
+        ocs:C17900 ;
+    skos:closeMatch <http://dbpedia.org/resource/Known-plaintext_attack> ;
+    skos:prefLabel "Known-plaintext attack" ;
+    skos:related ocs:C1027,
+        ocs:C14539,
+        ocs:C1571,
+        ocs:C16983,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C23080,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C32482,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C3784,
+        ocs:C39105,
+        ocs:C39180,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C5692,
+        ocs:C8076 .
+

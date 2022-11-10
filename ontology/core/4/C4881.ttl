@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4881 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_acoustic_management> ;
+    skos:prefLabel "Automatic acoustic management" ;
+    skos:related ocs:C10269,
+        ocs:C10785,
+        ocs:C11960,
+        ocs:C13222,
+        ocs:C13783,
+        ocs:C14625,
+        ocs:C15529,
+        ocs:C18235,
+        ocs:C2,
+        ocs:C20114,
+        ocs:C26157,
+        ocs:C29846,
+        ocs:C30953,
+        ocs:C38117,
+        ocs:C5695 .
+

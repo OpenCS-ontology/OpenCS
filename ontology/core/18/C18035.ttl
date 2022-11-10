@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18035 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonological_dyslexia> ;
+    skos:prefLabel "Phonological dyslexia" ;
+    skos:related ocs:C10570,
+        ocs:C16762,
+        ocs:C18026,
+        ocs:C19419,
+        ocs:C25491,
+        ocs:C28033 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42606 a skos:Concept ;
+    skos:broader ocs:C31949,
+        ocs:C34052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meet-in-the-middle_attack> ;
+    skos:prefLabel "Meet-in-the-middle attack" ;
+    skos:related ocs:C1039,
+        ocs:C11716,
+        ocs:C16125,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C20993,
+        ocs:C23875,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C32079,
+        ocs:C35391,
+        ocs:C37854,
+        ocs:C4218,
+        ocs:C42818,
+        ocs:C4751,
+        ocs:C4773,
+        ocs:C5052 .
+

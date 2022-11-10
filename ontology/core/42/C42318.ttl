@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42318 a skos:Concept ;
+    skos:broader ocs:C35240,
+        ocs:C36974 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extensions_of_symmetric_operators> ;
+    skos:prefLabel "Extensions of symmetric operators" ;
+    skos:related ocs:C19542,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C31450,
+        ocs:C33102,
+        ocs:C33700,
+        ocs:C36247,
+        ocs:C36974,
+        ocs:C38236,
+        ocs:C39302,
+        ocs:C40167,
+        ocs:C40195,
+        ocs:C40434,
+        ocs:C40662,
+        ocs:C44691 .
+

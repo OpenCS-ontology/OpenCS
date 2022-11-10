@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7077 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real-time_charging> ;
+    skos:prefLabel "Real-time charging" ;
+    skos:related ocs:C11054,
+        ocs:C13179,
+        ocs:C1344,
+        ocs:C16953,
+        ocs:C22407,
+        ocs:C22988,
+        ocs:C23607,
+        ocs:C23964,
+        ocs:C25712,
+        ocs:C2880,
+        ocs:C31755,
+        ocs:C36382,
+        ocs:C38888,
+        ocs:C40087,
+        ocs:C4433,
+        ocs:C6660,
+        ocs:C6861,
+        ocs:C8896,
+        ocs:C9327 .
+

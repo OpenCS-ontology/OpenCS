@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30090 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/Luhn_algorithm> ;
+    skos:prefLabel "Luhn algorithm" ;
+    skos:related ocs:C10,
+        ocs:C13767,
+        ocs:C15591,
+        ocs:C17903,
+        ocs:C23875,
+        ocs:C24353,
+        ocs:C30001,
+        ocs:C31096,
+        ocs:C33935,
+        ocs:C3936,
+        ocs:C42449,
+        ocs:C43107,
+        ocs:C7436,
+        ocs:C7611 .
+

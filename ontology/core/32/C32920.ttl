@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32920 a skos:Concept ;
+    skos:broader ocs:C19050 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Visual_Interface> ;
+    skos:prefLabel "Digital Visual Interface" ;
+    skos:related ocs:C12544,
+        ocs:C13586,
+        ocs:C13973,
+        ocs:C1724,
+        ocs:C1904,
+        ocs:C24015,
+        ocs:C34150,
+        ocs:C3627,
+        ocs:C37865,
+        ocs:C653,
+        ocs:C8021 .
+

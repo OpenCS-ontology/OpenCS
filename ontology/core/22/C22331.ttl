@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22331 a skos:Concept ;
+    skos:broader ocs:C6773 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_interface_device> ;
+    skos:prefLabel "Network interface device" ;
+    skos:related ocs:C11769,
+        ocs:C12308,
+        ocs:C12942,
+        ocs:C13695,
+        ocs:C21610,
+        ocs:C22933,
+        ocs:C25293,
+        ocs:C26580,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C6027,
+        ocs:C7612,
+        ocs:C9327 .
+

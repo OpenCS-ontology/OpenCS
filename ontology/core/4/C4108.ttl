@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4108 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:prefLabel "Expiration Time" ;
+    skos:related ocs:C11027,
+        ocs:C159,
+        ocs:C17,
+        ocs:C2,
+        ocs:C2543,
+        ocs:C27560,
+        ocs:C28122,
+        ocs:C30,
+        ocs:C35,
+        ocs:C515,
+        ocs:C5706,
+        ocs:C5722,
+        ocs:C7006,
+        ocs:C7424,
+        ocs:C8704,
+        ocs:C8706 .
+

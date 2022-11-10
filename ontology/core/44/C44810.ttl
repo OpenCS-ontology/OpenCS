@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44810 a skos:Concept ;
+    skos:broader ocs:C32548,
+        ocs:C35878 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_spectrum_management> ;
+    skos:prefLabel "Dynamic spectrum management" ;
+    skos:related ocs:C11542,
+        ocs:C11769,
+        ocs:C13610,
+        ocs:C17653,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C20804,
+        ocs:C33773,
+        ocs:C34141,
+        ocs:C35370,
+        ocs:C35674,
+        ocs:C39135,
+        ocs:C4021,
+        ocs:C4197,
+        ocs:C45300,
+        ocs:C45844,
+        ocs:C8,
+        ocs:C9327 .
+

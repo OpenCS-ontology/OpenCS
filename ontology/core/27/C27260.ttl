@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27260 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C4966,
+        ocs:C6335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Yen's_algorithm> ;
+    skos:prefLabel "Yen's algorithm" ;
+    skos:related ocs:C16033,
+        ocs:C17158,
+        ocs:C18798,
+        ocs:C19540,
+        ocs:C24779,
+        ocs:C24885,
+        ocs:C31884,
+        ocs:C34565,
+        ocs:C38402,
+        ocs:C38535,
+        ocs:C38755,
+        ocs:C40680,
+        ocs:C41938,
+        ocs:C42302,
+        ocs:C44959,
+        ocs:C4966,
+        ocs:C6335 .
+

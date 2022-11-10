@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24009 a skos:Concept ;
+    skos:broader ocs:C11705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_vector> ;
+    skos:prefLabel "Motion vector" ;
+    skos:related ocs:C13092,
+        ocs:C16860,
+        ocs:C23318,
+        ocs:C23673,
+        ocs:C25687,
+        ocs:C30004,
+        ocs:C30895,
+        ocs:C35808,
+        ocs:C40353,
+        ocs:C41256,
+        ocs:C42514,
+        ocs:C45662,
+        ocs:C523,
+        ocs:C7447,
+        ocs:C8021 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29361 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Liquid_water_content> ;
+    skos:prefLabel "Liquid water content" ;
+    skos:related ocs:C26939,
+        ocs:C27609,
+        ocs:C42337 .
+

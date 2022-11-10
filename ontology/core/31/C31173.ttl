@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31173 a skos:Concept ;
+    skos:broader ocs:C17505 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_noise> ;
+    skos:prefLabel "Artificial noise" ;
+    skos:related ocs:C28385,
+        ocs:C6340 .
+

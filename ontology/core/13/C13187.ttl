@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13187 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Point_of_interest> ;
+    skos:prefLabel "Point of interest" ;
+    skos:related ocs:C10217,
+        ocs:C10637,
+        ocs:C11158,
+        ocs:C12641,
+        ocs:C13065,
+        ocs:C16293,
+        ocs:C23009,
+        ocs:C23889,
+        ocs:C44458,
+        ocs:C5088,
+        ocs:C6311,
+        ocs:C9113,
+        ocs:C9846 .
+

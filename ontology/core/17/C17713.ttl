@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17713 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12486,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_morpheme> ;
+    skos:prefLabel "Functional morpheme" ;
+    skos:related ocs:C12486,
+        ocs:C14834,
+        ocs:C15012,
+        ocs:C15644,
+        ocs:C18978,
+        ocs:C19932,
+        ocs:C20088,
+        ocs:C20870,
+        ocs:C26816,
+        ocs:C26896,
+        ocs:C28817,
+        ocs:C3261,
+        ocs:C3580 .
+

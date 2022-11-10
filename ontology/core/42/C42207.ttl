@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42207 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C32645,
+        ocs:C32743,
+        ocs:C36104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ideal_(order_theory)> ;
+    skos:prefLabel "Ideal (order theory)" ;
+    skos:related ocs:C42338 .
+

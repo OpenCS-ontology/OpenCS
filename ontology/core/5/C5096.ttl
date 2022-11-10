@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5096 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_elevator> ;
+    skos:prefLabel "Space elevator" ;
+    skos:related ocs:C20573,
+        ocs:C2252,
+        ocs:C24464,
+        ocs:C25126,
+        ocs:C26021,
+        ocs:C40983,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C6882 .
+

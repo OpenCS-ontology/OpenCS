@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1518 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Middle-square_method> ;
+    skos:prefLabel "Middle-square method" ;
+    skos:related ocs:C10,
+        ocs:C15398,
+        ocs:C16152,
+        ocs:C21284,
+        ocs:C23230,
+        ocs:C25322,
+        ocs:C25445,
+        ocs:C38763,
+        ocs:C40868,
+        ocs:C41074,
+        ocs:C41220,
+        ocs:C41778,
+        ocs:C5072,
+        ocs:C6953,
+        ocs:C7130 .
+

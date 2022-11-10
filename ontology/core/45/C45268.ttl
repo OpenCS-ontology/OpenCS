@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45268 a skos:Concept ;
+    skos:broader ocs:C30533,
+        ocs:C32111,
+        ocs:C36279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_center> ;
+    skos:prefLabel "Graph center" ;
+    skos:related ocs:C14209,
+        ocs:C14693,
+        ocs:C14953,
+        ocs:C19336,
+        ocs:C24647,
+        ocs:C27668,
+        ocs:C31026,
+        ocs:C32806,
+        ocs:C36200,
+        ocs:C36279,
+        ocs:C38220,
+        ocs:C38535,
+        ocs:C38981,
+        ocs:C39617,
+        ocs:C41589,
+        ocs:C44562,
+        ocs:C45271,
+        ocs:C4966,
+        ocs:C5823,
+        ocs:C9090 .
+

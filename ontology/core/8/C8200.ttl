@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8200 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discoverability> ;
+    skos:prefLabel "Discoverability" ;
+    skos:related ocs:C11182,
+        ocs:C11492,
+        ocs:C12998,
+        ocs:C13413,
+        ocs:C17238,
+        ocs:C22668,
+        ocs:C22927,
+        ocs:C28117,
+        ocs:C28503,
+        ocs:C31201,
+        ocs:C38459,
+        ocs:C3896,
+        ocs:C45883,
+        ocs:C477,
+        ocs:C7714,
+        ocs:C9279,
+        ocs:C9607,
+        ocs:C9931 .
+

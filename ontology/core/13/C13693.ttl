@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13693 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Viewing_instrument> ;
+    skos:prefLabel "Viewing instrument" ;
+    skos:related ocs:C14925,
+        ocs:C29365 .
+

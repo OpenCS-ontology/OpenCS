@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4449 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pinwheel_(cryptography)> ;
+    skos:prefLabel "Pinwheel" ;
+    skos:related ocs:C1571,
+        ocs:C17876,
+        ocs:C23230,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C30768,
+        ocs:C34326,
+        ocs:C41220,
+        ocs:C4218,
+        ocs:C42918,
+        ocs:C5037,
+        ocs:C5072 .
+

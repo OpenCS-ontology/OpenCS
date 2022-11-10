@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1022 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed_access> ;
+    skos:prefLabel "Fixed access" ;
+    skos:related ocs:C12844,
+        ocs:C12853,
+        ocs:C1303,
+        ocs:C13709,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C22933,
+        ocs:C26,
+        ocs:C2602,
+        ocs:C27704,
+        ocs:C28758,
+        ocs:C3,
+        ocs:C32672,
+        ocs:C34908,
+        ocs:C43465,
+        ocs:C6972,
+        ocs:C8614,
+        ocs:C9154 .
+

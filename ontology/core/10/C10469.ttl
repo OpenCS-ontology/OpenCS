@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10469 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Three Dimensional Size" ;
+    skos:related ocs:C1,
+        ocs:C21,
+        ocs:C5620,
+        ocs:C7 .
+

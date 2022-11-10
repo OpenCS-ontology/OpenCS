@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6887 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Runtime_system> ;
+    skos:prefLabel "Runtime system" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C1386,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21718,
+        ocs:C23863,
+        ocs:C2674,
+        ocs:C27898,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C9 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26733 a skos:Concept ;
+    skos:broader ocs:C4528 ;
+    skos:closeMatch <http://dbpedia.org/resource/LCD_projector> ;
+    skos:prefLabel "LCD projector" ;
+    skos:related ocs:C13586,
+        ocs:C15787,
+        ocs:C21488,
+        ocs:C21755,
+        ocs:C22257,
+        ocs:C23498,
+        ocs:C2416,
+        ocs:C26790,
+        ocs:C29011,
+        ocs:C5841,
+        ocs:C653 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42583 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C34795,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modal_μ-calculus> ;
+    skos:prefLabel "Modal μ-calculus" ;
+    skos:related ocs:C10140,
+        ocs:C10825,
+        ocs:C12098,
+        ocs:C12474,
+        ocs:C13408,
+        ocs:C22978,
+        ocs:C25869,
+        ocs:C2721,
+        ocs:C34795,
+        ocs:C37100,
+        ocs:C38919,
+        ocs:C41223,
+        ocs:C5459,
+        ocs:C7903 .
+

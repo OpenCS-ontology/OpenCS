@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23847 a skos:Concept ;
+    skos:broader ocs:C12811 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_dredging> ;
+    skos:prefLabel "Data dredging" ;
+    skos:related ocs:C11767,
+        ocs:C12811,
+        ocs:C15258,
+        ocs:C19752,
+        ocs:C20615,
+        ocs:C22401,
+        ocs:C27702,
+        ocs:C30081,
+        ocs:C6116 .
+

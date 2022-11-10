@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38774 a skos:Concept ;
+    skos:broader ocs:C29848 ;
+    skos:prefLabel "SCN9A Gene" ;
+    skos:related ocs:C29848,
+        ocs:C30803 .
+

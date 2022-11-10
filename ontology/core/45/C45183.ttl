@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45183 a skos:Concept ;
+    skos:broader ocs:C34382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fortune's_algorithm> ;
+    skos:prefLabel "Fortune's algorithm" ;
+    skos:related ocs:C13876,
+        ocs:C14576,
+        ocs:C16370,
+        ocs:C19178,
+        ocs:C19972,
+        ocs:C26767,
+        ocs:C27384,
+        ocs:C34382,
+        ocs:C39263,
+        ocs:C43029,
+        ocs:C43738,
+        ocs:C4867,
+        ocs:C5860,
+        ocs:C8271 .
+

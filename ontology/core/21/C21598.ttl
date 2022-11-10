@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21598 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Display_driver> ;
+    skos:prefLabel "Display driver" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C11,
+        ocs:C11960,
+        ocs:C13386,
+        ocs:C13689,
+        ocs:C13747,
+        ocs:C19582,
+        ocs:C24015,
+        ocs:C4259,
+        ocs:C4703,
+        ocs:C6538 .
+

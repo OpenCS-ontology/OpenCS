@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29481 a skos:Concept ;
+    skos:broader ocs:C6243 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transportation_demand_management> ;
+    skos:prefLabel "Transportation demand management" ;
+    skos:related ocs:C12758,
+        ocs:C14215,
+        ocs:C1691,
+        ocs:C24884,
+        ocs:C25914,
+        ocs:C6243,
+        ocs:C9100 .
+

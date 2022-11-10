@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1028 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/TI-BASIC> ;
+    skos:prefLabel "TI-BASIC" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C12108,
+        ocs:C12846,
+        ocs:C1386,
+        ocs:C15500,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C3036,
+        ocs:C33918,
+        ocs:C4321,
+        ocs:C4703,
+        ocs:C4778,
+        ocs:C4877,
+        ocs:C4937,
+        ocs:C5961,
+        ocs:C6714,
+        ocs:C7430,
+        ocs:C7797 .
+

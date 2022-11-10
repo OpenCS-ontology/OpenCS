@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41803 a skos:Concept ;
+    skos:broader ocs:C31922,
+        ocs:C36860 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_timestamping> ;
+    skos:prefLabel "Trusted timestamping" ;
+    skos:related ocs:C14647,
+        ocs:C15591,
+        ocs:C159,
+        ocs:C16125,
+        ocs:C18803,
+        ocs:C19518,
+        ocs:C21324,
+        ocs:C23245,
+        ocs:C23666,
+        ocs:C23875,
+        ocs:C30595,
+        ocs:C33416,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39064,
+        ocs:C3936,
+        ocs:C40789,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C5692 .
+

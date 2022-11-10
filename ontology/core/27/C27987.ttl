@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27987 a skos:Concept ;
+    skos:broader ocs:C2941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Malware_analysis> ;
+    skos:prefLabel "Malware analysis" ;
+    skos:related ocs:C11278,
+        ocs:C14466,
+        ocs:C25619,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C36897 .
+

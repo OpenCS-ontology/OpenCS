@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28528 a skos:Concept ;
+    skos:broader ocs:C197,
+        ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_technology_planning> ;
+    skos:prefLabel "Information technology planning" ;
+    skos:related ocs:C13219,
+        ocs:C1332,
+        ocs:C19374,
+        ocs:C197,
+        ocs:C29840,
+        ocs:C30335,
+        ocs:C31201,
+        ocs:C38363,
+        ocs:C38988,
+        ocs:C40270,
+        ocs:C41595,
+        ocs:C41897,
+        ocs:C44839 .
+

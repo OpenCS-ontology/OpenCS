@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18301 a skos:Concept ;
+    skos:broader ocs:C12976 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereotaxy> ;
+    skos:prefLabel "Stereotaxy" ;
+    skos:related ocs:C12976,
+        ocs:C13320,
+        ocs:C13549,
+        ocs:C16013,
+        ocs:C16500,
+        ocs:C221,
+        ocs:C244,
+        ocs:C25786,
+        ocs:C2883,
+        ocs:C34508,
+        ocs:C36940,
+        ocs:C3911,
+        ocs:C9603 .
+

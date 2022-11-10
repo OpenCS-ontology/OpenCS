@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44726 a skos:Concept ;
+    skos:broader ocs:C34586,
+        ocs:C36940 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereopsis_recovery> ;
+    skos:prefLabel "Stereopsis recovery" ;
+    skos:related ocs:C13549,
+        ocs:C21964,
+        ocs:C2422,
+        ocs:C25191,
+        ocs:C2883,
+        ocs:C34586 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24530 a skos:Concept ;
+    skos:broader ocs:C13364,
+        ocs:C492,
+        ocs:C5969 ;
+    skos:prefLabel "Orthonormal basis functions" .
+

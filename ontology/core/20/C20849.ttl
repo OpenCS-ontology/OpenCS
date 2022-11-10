@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20849 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Operator_(physics)> ;
+    skos:prefLabel "Operator (physics)" ;
+    skos:related ocs:C28787,
+        ocs:C33700,
+        ocs:C36974,
+        ocs:C40662,
+        ocs:C43317,
+        ocs:C44649 .
+

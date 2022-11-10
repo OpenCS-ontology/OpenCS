@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3848 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_general_intelligence> ;
+    skos:prefLabel "Artificial general intelligence" ;
+    skos:related ocs:C10616,
+        ocs:C11381,
+        ocs:C11874,
+        ocs:C13328,
+        ocs:C17234,
+        ocs:C25,
+        ocs:C27116,
+        ocs:C39803,
+        ocs:C4269,
+        ocs:C43472,
+        ocs:C44765,
+        ocs:C685,
+        ocs:C8,
+        ocs:C9022 .
+

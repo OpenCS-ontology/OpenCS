@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27337 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spanish_grammar> ;
+    skos:prefLabel "Spanish grammar" ;
+    skos:related ocs:C14180,
+        ocs:C15012,
+        ocs:C15021,
+        ocs:C16095,
+        ocs:C18232,
+        ocs:C18978,
+        ocs:C20870,
+        ocs:C23243,
+        ocs:C23692,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28817,
+        ocs:C33735,
+        ocs:C35238,
+        ocs:C37038 .
+

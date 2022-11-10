@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34715 a skos:Concept ;
+    skos:broader ocs:C28340,
+        ocs:C29280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primitive_permutation_group> ;
+    skos:prefLabel "Primitive permutation group" ;
+    skos:related ocs:C11282,
+        ocs:C28340,
+        ocs:C41928,
+        ocs:C45096 .
+

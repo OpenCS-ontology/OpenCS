@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14233 a skos:Concept ;
+    skos:broader ocs:C5616 ;
+    skos:closeMatch <http://dbpedia.org/resource/Latency_%28engineering%29> ;
+    skos:prefLabel "Latency Interval" ;
+    skos:related ocs:C1,
+        ocs:C27832,
+        ocs:C3236,
+        ocs:C33,
+        ocs:C4099,
+        ocs:C5706,
+        ocs:C7 .
+

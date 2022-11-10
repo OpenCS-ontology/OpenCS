@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4208 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Visual contrast" ;
+    skos:related ocs:C10321,
+        ocs:C11768,
+        ocs:C12849,
+        ocs:C13367,
+        ocs:C14597,
+        ocs:C16,
+        ocs:C22,
+        ocs:C6420,
+        ocs:C8021 .
+

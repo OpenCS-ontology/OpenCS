@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21317 a skos:Concept ;
+    skos:broader ocs:C5007 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonintrusive_load_monitoring> ;
+    skos:prefLabel "Nonintrusive load monitoring" ;
+    skos:related ocs:C13402,
+        ocs:C1626,
+        ocs:C24065,
+        ocs:C24892,
+        ocs:C7740,
+        ocs:C8386 .
+

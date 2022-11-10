@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31702 a skos:Concept ;
+    skos:broader ocs:C24607,
+        ocs:C27111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_subtraction> ;
+    skos:prefLabel "Image subtraction" ;
+    skos:related ocs:C23921,
+        ocs:C29113,
+        ocs:C42391,
+        ocs:C7789,
+        ocs:C797 .
+

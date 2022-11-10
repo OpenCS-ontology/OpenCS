@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32678 a skos:Concept ;
+    skos:broader ocs:C22457,
+        ocs:C23307,
+        ocs:C27572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cliff_effect> ;
+    skos:prefLabel "Cliff effect" ;
+    skos:related ocs:C12942,
+        ocs:C15410,
+        ocs:C15505,
+        ocs:C19721,
+        ocs:C21604,
+        ocs:C24264,
+        ocs:C25018,
+        ocs:C26768,
+        ocs:C27572,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C32488,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C36245,
+        ocs:C36807,
+        ocs:C45515,
+        ocs:C7502 .
+

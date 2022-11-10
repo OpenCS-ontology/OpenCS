@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C753 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_algorithm> ;
+    skos:prefLabel "Adaptive algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10146,
+        ocs:C10370,
+        ocs:C13208,
+        ocs:C20377,
+        ocs:C25,
+        ocs:C29,
+        ocs:C34571,
+        ocs:C5033,
+        ocs:C5298,
+        ocs:C5816 .
+

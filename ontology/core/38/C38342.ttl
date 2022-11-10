@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38342 a skos:Concept ;
+    skos:broader ocs:C35165 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fourier_amplitude_sensitivity_testing> ;
+    skos:prefLabel "Fourier amplitude sensitivity testing" ;
+    skos:related ocs:C1950,
+        ocs:C20979,
+        ocs:C22686,
+        ocs:C31458,
+        ocs:C35165,
+        ocs:C38763,
+        ocs:C41778,
+        ocs:C42128,
+        ocs:C42466,
+        ocs:C45625,
+        ocs:C6816,
+        ocs:C9051 .
+

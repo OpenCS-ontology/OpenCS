@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26835 a skos:Concept ;
+    skos:broader ocs:C5702,
+        ocs:C6172 ;
+    skos:closeMatch <http://dbpedia.org/resource/EMWIN> ;
+    skos:prefLabel "EMWIN" ;
+    skos:related ocs:C19320,
+        ocs:C23887,
+        ocs:C29211,
+        ocs:C33190,
+        ocs:C36094,
+        ocs:C40684 .
+

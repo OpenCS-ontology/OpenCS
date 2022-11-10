@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45454 a skos:Concept ;
+    skos:broader ocs:C29576 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projective_Hilbert_space> ;
+    skos:prefLabel "Projective Hilbert space" ;
+    skos:related ocs:C28787,
+        ocs:C33700 .
+

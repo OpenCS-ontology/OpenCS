@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C426 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knights_of_the_Lambda_Calculus> ;
+    skos:prefLabel "Knights of the Lambda Calculus" ;
+    skos:related ocs:C10268,
+        ocs:C10384,
+        ocs:C1631,
+        ocs:C16609,
+        ocs:C20208,
+        ocs:C25779,
+        ocs:C33185,
+        ocs:C36417,
+        ocs:C38038,
+        ocs:C38884,
+        ocs:C39917,
+        ocs:C41359,
+        ocs:C4214,
+        ocs:C4465,
+        ocs:C44999,
+        ocs:C45460,
+        ocs:C6657,
+        ocs:C8441,
+        ocs:C8914 .
+

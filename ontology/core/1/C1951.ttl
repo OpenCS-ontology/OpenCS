@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1951 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lighting-up_time> ;
+    skos:prefLabel "Lighting-up time" ;
+    skos:related ocs:C2107,
+        ocs:C7367 .
+

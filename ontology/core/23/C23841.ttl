@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23841 a skos:Concept ;
+    skos:broader ocs:C12262,
+        ocs:C4816 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guard_digit> ;
+    skos:prefLabel "Guard digit" ;
+    skos:related ocs:C12262,
+        ocs:C12315,
+        ocs:C1832,
+        ocs:C24149,
+        ocs:C32982,
+        ocs:C34400,
+        ocs:C43435,
+        ocs:C4816,
+        ocs:C5566,
+        ocs:C9051,
+        ocs:C9743 .
+

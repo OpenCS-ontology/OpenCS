@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20806 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ground_reaction_force> ;
+    skos:prefLabel "Ground reaction force" ;
+    skos:related ocs:C15029,
+        ocs:C23570,
+        ocs:C35642,
+        ocs:C7848 .
+

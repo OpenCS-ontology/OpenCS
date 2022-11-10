@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39057 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/HRS_antenna> ;
+    skos:prefLabel "HRS antenna" ;
+    skos:related ocs:C10208,
+        ocs:C17534,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C38483,
+        ocs:C38796,
+        ocs:C39964,
+        ocs:C40106,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C44485,
+        ocs:C45043,
+        ocs:C7159,
+        ocs:C7909,
+        ocs:C9691 .
+

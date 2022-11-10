@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45431 a skos:Concept ;
+    skos:broader ocs:C30921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simple_LR_parser> ;
+    skos:prefLabel "Simple LR parser" ;
+    skos:related ocs:C1,
+        ocs:C11819,
+        ocs:C22624,
+        ocs:C30921,
+        ocs:C31160,
+        ocs:C31850,
+        ocs:C33609,
+        ocs:C38591,
+        ocs:C39400,
+        ocs:C40293,
+        ocs:C40905,
+        ocs:C41257,
+        ocs:C41349,
+        ocs:C42877,
+        ocs:C43346,
+        ocs:C45758,
+        ocs:C5107,
+        ocs:C5976,
+        ocs:C8313,
+        ocs:C8564 .
+

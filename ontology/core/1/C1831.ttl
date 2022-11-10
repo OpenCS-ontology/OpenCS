@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1831 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PARAM> ;
+    skos:prefLabel "PARAM" ;
+    skos:related ocs:C10320,
+        ocs:C16231,
+        ocs:C22554,
+        ocs:C23974,
+        ocs:C24207,
+        ocs:C2478,
+        ocs:C26030,
+        ocs:C26342,
+        ocs:C27,
+        ocs:C27602,
+        ocs:C40330,
+        ocs:C5766,
+        ocs:C6312,
+        ocs:C7735 .
+

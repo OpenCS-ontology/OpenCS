@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44843 a skos:Concept ;
+    skos:broader ocs:C32506 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Schema_(W3C)> ;
+    skos:prefLabel "XML Schema (W3C)" ;
+    skos:related ocs:C11927,
+        ocs:C13744,
+        ocs:C18361,
+        ocs:C23709,
+        ocs:C24477,
+        ocs:C28801,
+        ocs:C30182,
+        ocs:C31343,
+        ocs:C33052,
+        ocs:C33709,
+        ocs:C36924,
+        ocs:C38584,
+        ocs:C38812,
+        ocs:C3896,
+        ocs:C39253,
+        ocs:C39643,
+        ocs:C42905,
+        ocs:C43819,
+        ocs:C44193,
+        ocs:C45664 .
+

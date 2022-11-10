@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32299 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C27571 ;
+    skos:closeMatch <http://dbpedia.org/resource/Financial_cryptography> ;
+    skos:prefLabel "Financial cryptography" ;
+    skos:related ocs:C14011,
+        ocs:C14164,
+        ocs:C16125,
+        ocs:C18948,
+        ocs:C23054,
+        ocs:C23245,
+        ocs:C23855,
+        ocs:C23875,
+        ocs:C25749,
+        ocs:C26452,
+        ocs:C26617,
+        ocs:C29704,
+        ocs:C30434,
+        ocs:C35008,
+        ocs:C35771,
+        ocs:C37069,
+        ocs:C37209,
+        ocs:C37228,
+        ocs:C4218,
+        ocs:C4751 .
+

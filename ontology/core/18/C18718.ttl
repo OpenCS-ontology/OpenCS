@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18718 a skos:Concept ;
+    skos:broader ocs:C1832,
+        ocs:C4099,
+        ocs:C6113,
+        ocs:C8760 ;
+    skos:prefLabel "Dithered quantization" .
+

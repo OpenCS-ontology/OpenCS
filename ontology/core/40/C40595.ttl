@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40595 a skos:Concept ;
+    skos:broader ocs:C29803,
+        ocs:C30982,
+        ocs:C33104,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_of_interest_(computer_security)> ;
+    skos:prefLabel "Community of interest (computer security)" ;
+    skos:related ocs:C10064,
+        ocs:C13307,
+        ocs:C15512,
+        ocs:C17530,
+        ocs:C19173,
+        ocs:C25292,
+        ocs:C26,
+        ocs:C28530,
+        ocs:C2935,
+        ocs:C29803,
+        ocs:C29855,
+        ocs:C35370,
+        ocs:C39016,
+        ocs:C39421,
+        ocs:C40799,
+        ocs:C41901,
+        ocs:C43428,
+        ocs:C7106,
+        ocs:C8614 .
+

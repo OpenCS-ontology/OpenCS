@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13421 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smn_theorem> ;
+    skos:prefLabel "smn theorem" ;
+    skos:related ocs:C1096,
+        ocs:C12926,
+        ocs:C15800,
+        ocs:C1631,
+        ocs:C1737,
+        ocs:C24336,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C34540,
+        ocs:C38732,
+        ocs:C39944,
+        ocs:C41356,
+        ocs:C41497,
+        ocs:C41998,
+        ocs:C44854,
+        ocs:C5914,
+        ocs:C7574 .
+

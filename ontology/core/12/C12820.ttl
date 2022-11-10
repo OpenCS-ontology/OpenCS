@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12820 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/LatticeMico32> ;
+    skos:prefLabel "LatticeMico32" ;
+    skos:related ocs:C11814,
+        ocs:C16067,
+        ocs:C18114,
+        ocs:C19400,
+        ocs:C21980,
+        ocs:C22124,
+        ocs:C23343,
+        ocs:C25966,
+        ocs:C26155,
+        ocs:C26769,
+        ocs:C28409,
+        ocs:C29530,
+        ocs:C3359,
+        ocs:C34465,
+        ocs:C43781,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C9908 .
+

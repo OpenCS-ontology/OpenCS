@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4295 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_and_motion_study> ;
+    skos:prefLabel "TIME MOTION STUDIES" ;
+    skos:related ocs:C1,
+        ocs:C24,
+        ocs:C7,
+        ocs:C8 .
+

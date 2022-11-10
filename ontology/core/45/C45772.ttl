@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45772 a skos:Concept ;
+    skos:broader ocs:C31149,
+        ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_business_development> ;
+    skos:prefLabel "Mobile business development" ;
+    skos:related ocs:C10141,
+        ocs:C10611,
+        ocs:C12146,
+        ocs:C14122,
+        ocs:C19627,
+        ocs:C21881,
+        ocs:C22551,
+        ocs:C23336,
+        ocs:C24134,
+        ocs:C24449,
+        ocs:C28629,
+        ocs:C37106,
+        ocs:C3836,
+        ocs:C43203 .
+

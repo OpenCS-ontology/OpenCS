@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42817 a skos:Concept ;
+    skos:broader ocs:C31166 ;
+    skos:closeMatch <http://dbpedia.org/resource/Per-pixel_lighting> ;
+    skos:prefLabel "Per-pixel lighting" ;
+    skos:related ocs:C12590,
+        ocs:C15250,
+        ocs:C17403,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C22,
+        ocs:C23667,
+        ocs:C28061,
+        ocs:C29600,
+        ocs:C30362,
+        ocs:C31152,
+        ocs:C32394,
+        ocs:C32898,
+        ocs:C331,
+        ocs:C39182,
+        ocs:C39285,
+        ocs:C43276,
+        ocs:C6448 .
+

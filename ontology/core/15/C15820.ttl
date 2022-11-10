@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15820 a skos:Concept ;
+    skos:broader ocs:C11689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triangle_mesh> ;
+    skos:prefLabel "Triangle mesh" ;
+    skos:related ocs:C11450,
+        ocs:C11689,
+        ocs:C12577,
+        ocs:C17403,
+        ocs:C19229,
+        ocs:C19559,
+        ocs:C22,
+        ocs:C24235,
+        ocs:C25851,
+        ocs:C2927,
+        ocs:C34704,
+        ocs:C35190,
+        ocs:C36315,
+        ocs:C36542,
+        ocs:C39921,
+        ocs:C8399 .
+

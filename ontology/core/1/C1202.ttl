@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1202 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Molecular_Query_Language> ;
+    skos:prefLabel "Molecular Query Language" ;
+    skos:related ocs:C11812,
+        ocs:C13705,
+        ocs:C2024,
+        ocs:C264,
+        ocs:C33052,
+        ocs:C33281,
+        ocs:C33916,
+        ocs:C36924,
+        ocs:C37079,
+        ocs:C38643,
+        ocs:C39748,
+        ocs:C41589,
+        ocs:C45138,
+        ocs:C4781 .
+

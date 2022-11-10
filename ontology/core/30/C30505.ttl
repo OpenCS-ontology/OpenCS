@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30505 a skos:Concept ;
+    skos:broader ocs:C14053,
+        ocs:C18001,
+        ocs:C22101 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pulse-frequency_modulation> ;
+    skos:prefLabel "Pulse-frequency modulation" ;
+    skos:related ocs:C10778,
+        ocs:C22096,
+        ocs:C22101,
+        ocs:C30984,
+        ocs:C34890,
+        ocs:C42272,
+        ocs:C7502 .
+

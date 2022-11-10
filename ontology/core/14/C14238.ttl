@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14238 a skos:Concept ;
+    skos:broader ocs:C11087 ;
+    skos:closeMatch <http://dbpedia.org/resource/Documentation_science> ;
+    skos:prefLabel "Documentation science" ;
+    skos:related ocs:C10507,
+        ocs:C1090,
+        ocs:C11087,
+        ocs:C11914,
+        ocs:C12491,
+        ocs:C15008,
+        ocs:C22927,
+        ocs:C23,
+        ocs:C23629,
+        ocs:C31201,
+        ocs:C4,
+        ocs:C4762,
+        ocs:C5150,
+        ocs:C5351,
+        ocs:C7607,
+        ocs:C8990,
+        ocs:C9704 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14059 a skos:Concept ;
+    skos:broader ocs:C11389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Line_of_credit> ;
+    skos:prefLabel "Line of credit" ;
+    skos:related ocs:C11697,
+        ocs:C16179,
+        ocs:C31655,
+        ocs:C33193 .
+

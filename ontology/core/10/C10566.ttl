@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10566 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Facial_expression> ;
+    skos:prefLabel "Facial expression" ;
+    skos:related ocs:C15613,
+        ocs:C15966,
+        ocs:C18440,
+        ocs:C21329,
+        ocs:C2480,
+        ocs:C32017,
+        ocs:C7858 .
+

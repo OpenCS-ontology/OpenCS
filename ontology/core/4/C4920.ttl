@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4920 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mission_assurance> ;
+    skos:prefLabel "Mission assurance" ;
+    skos:related ocs:C13412,
+        ocs:C13616,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C25176,
+        ocs:C2979,
+        ocs:C29840,
+        ocs:C35,
+        ocs:C38530,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41901,
+        ocs:C44988,
+        ocs:C5869,
+        ocs:C947 .
+

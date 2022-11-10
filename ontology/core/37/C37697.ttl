@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37697 a skos:Concept ;
+    skos:broader ocs:C27557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_exhaustion_attack> ;
+    skos:prefLabel "Resource exhaustion attack" ;
+    skos:related ocs:C1442,
+        ocs:C18784,
+        ocs:C22094,
+        ocs:C25960,
+        ocs:C27557,
+        ocs:C2767,
+        ocs:C2863,
+        ocs:C29950,
+        ocs:C31257,
+        ocs:C31870,
+        ocs:C33919,
+        ocs:C42628,
+        ocs:C42814,
+        ocs:C45254,
+        ocs:C8455 .
+

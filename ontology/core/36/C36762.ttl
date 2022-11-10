@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36762 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/SK3> ;
+    skos:prefLabel "SK3" ;
+    skos:related ocs:C23973,
+        ocs:C32084,
+        ocs:C32659,
+        ocs:C32749,
+        ocs:C37268,
+        ocs:C41701,
+        ocs:C41774 .
+

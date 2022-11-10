@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42948 a skos:Concept ;
+    skos:broader ocs:C32774 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gentzen's_consistency_proof> ;
+    skos:prefLabel "Gentzen's consistency proof" ;
+    skos:related ocs:C12474,
+        ocs:C21406,
+        ocs:C2402,
+        ocs:C25442,
+        ocs:C26402,
+        ocs:C26578,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C32774,
+        ocs:C41485,
+        ocs:C44771 .
+

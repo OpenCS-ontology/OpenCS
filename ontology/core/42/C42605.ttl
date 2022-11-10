@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42605 a skos:Concept ;
+    skos:broader ocs:C35937,
+        ocs:C37068 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pyknon> ;
+    skos:prefLabel "Pyknon" ;
+    skos:related ocs:C35937,
+        ocs:C37068,
+        ocs:C38381,
+        ocs:C40356 .
+

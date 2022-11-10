@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43990 a skos:Concept ;
+    skos:broader ocs:C31626,
+        ocs:C34121,
+        ocs:C37012,
+        ocs:C37267 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neural_modeling_fields> ;
+    skos:prefLabel "Neural modeling fields" ;
+    skos:related ocs:C12579,
+        ocs:C21,
+        ocs:C25,
+        ocs:C2523,
+        ocs:C2768,
+        ocs:C28522,
+        ocs:C3063,
+        ocs:C31626,
+        ocs:C34002,
+        ocs:C38447,
+        ocs:C7163,
+        ocs:C9022 .
+

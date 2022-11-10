@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28741 a skos:Concept ;
+    skos:broader ocs:C4199 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hidden_line_removal> ;
+    skos:prefLabel "Hidden line removal" ;
+    skos:related ocs:C10,
+        ocs:C11689,
+        ocs:C1381,
+        ocs:C15632,
+        ocs:C19700,
+        ocs:C20066,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C32556,
+        ocs:C38430,
+        ocs:C40203,
+        ocs:C41077,
+        ocs:C43204,
+        ocs:C6279,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8662 .
+

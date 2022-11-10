@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45222 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555,
+        ocs:C33674,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_Access_with_Collision_Avoidance_for_Wireless> ;
+    skos:prefLabel "Multiple Access with Collision Avoidance for Wireless" ;
+    skos:related ocs:C12229,
+        ocs:C13593,
+        ocs:C1398,
+        ocs:C15728,
+        ocs:C16022,
+        ocs:C29052,
+        ocs:C30593,
+        ocs:C33773,
+        ocs:C34938,
+        ocs:C36169,
+        ocs:C36375,
+        ocs:C37651,
+        ocs:C38760,
+        ocs:C39130,
+        ocs:C39494,
+        ocs:C43093,
+        ocs:C45396,
+        ocs:C45545,
+        ocs:C45852,
+        ocs:C5343 .
+

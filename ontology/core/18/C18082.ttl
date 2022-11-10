@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18082 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C11932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noun_phrase> ;
+    skos:prefLabel "Noun phrase" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C1451,
+        ocs:C1739,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C28646,
+        ocs:C30931,
+        ocs:C32159,
+        ocs:C3261,
+        ocs:C33168,
+        ocs:C6545,
+        ocs:C6764,
+        ocs:C8454 .
+

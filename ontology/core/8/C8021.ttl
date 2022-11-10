@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8021 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pixel> ;
+    skos:prefLabel "Pixel" ;
+    skos:related ocs:C10320,
+        ocs:C10368,
+        ocs:C10409,
+        ocs:C11324,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C13509,
+        ocs:C21424,
+        ocs:C22257,
+        ocs:C5854,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C7789 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25857 a skos:Concept ;
+    skos:broader ocs:C11252,
+        ocs:C122 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantum_dot_cellular_automaton> ;
+    skos:prefLabel "Quantum dot cellular automaton" ;
+    skos:related ocs:C11252,
+        ocs:C122,
+        ocs:C14101,
+        ocs:C16298,
+        ocs:C210,
+        ocs:C23148,
+        ocs:C25461,
+        ocs:C29207,
+        ocs:C29276,
+        ocs:C396,
+        ocs:C43807,
+        ocs:C4651 .
+

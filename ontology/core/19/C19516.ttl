@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19516 a skos:Concept ;
+    skos:broader ocs:C8614,
+        ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Content_centric_networking> ;
+    skos:prefLabel "Content centric networking" ;
+    skos:related ocs:C10563,
+        ocs:C11157,
+        ocs:C13252,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C20606,
+        ocs:C22597,
+        ocs:C23503,
+        ocs:C24323,
+        ocs:C24514,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26260,
+        ocs:C29964,
+        ocs:C3083,
+        ocs:C31,
+        ocs:C38451,
+        ocs:C39948,
+        ocs:C41930,
+        ocs:C43015 .
+

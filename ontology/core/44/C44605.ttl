@@ -1,0 +1,34 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44605 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31654,
+        ocs:C31777,
+        ocs:C31949,
+        ocs:C33459,
+        ocs:C34052,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rip_van_Winkle_cipher> ;
+    skos:prefLabel "Rip van Winkle cipher" ;
+    skos:related ocs:C13654,
+        ocs:C17856,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C34567,
+        ocs:C35455,
+        ocs:C37854,
+        ocs:C38359,
+        ocs:C39168,
+        ocs:C41495,
+        ocs:C41639,
+        ocs:C41929,
+        ocs:C42286,
+        ocs:C43409,
+        ocs:C43516,
+        ocs:C43934,
+        ocs:C44636,
+        ocs:C45207,
+        ocs:C6246,
+        ocs:C7567 .
+

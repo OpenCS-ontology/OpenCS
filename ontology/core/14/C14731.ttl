@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14731 a skos:Concept ;
+    skos:broader ocs:C4513,
+        ocs:C7006,
+        ocs:C7738 ;
+    skos:closeMatch <http://dbpedia.org/resource/Login_session> ;
+    skos:prefLabel "Login session" ;
+    skos:related ocs:C1165,
+        ocs:C12683,
+        ocs:C12815,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C14363,
+        ocs:C2130,
+        ocs:C22450,
+        ocs:C2322,
+        ocs:C28637,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C4513,
+        ocs:C5702,
+        ocs:C6140,
+        ocs:C7738,
+        ocs:C8349,
+        ocs:C9 .
+

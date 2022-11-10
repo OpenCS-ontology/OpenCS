@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24481 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solar_apex> ;
+    skos:prefLabel "Solar apex" ;
+    skos:related ocs:C10556,
+        ocs:C14224,
+        ocs:C14270,
+        ocs:C17246,
+        ocs:C18299,
+        ocs:C22542,
+        ocs:C23244,
+        ocs:C31953,
+        ocs:C33081,
+        ocs:C36834,
+        ocs:C37041 .
+

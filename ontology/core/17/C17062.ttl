@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17062 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carpenter_ant> ;
+    skos:prefLabel "Carpenter ant" ;
+    skos:related ocs:C16341,
+        ocs:C18049,
+        ocs:C22123,
+        ocs:C27032,
+        ocs:C30349 .
+

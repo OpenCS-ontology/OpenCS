@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18168 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organisational_semiotics> ;
+    skos:prefLabel "Organisational semiotics" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C14179,
+        ocs:C2264,
+        ocs:C22704,
+        ocs:C2414,
+        ocs:C2979,
+        ocs:C31201,
+        ocs:C35,
+        ocs:C6944 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13171 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partisan_game> ;
+    skos:prefLabel "Partisan game" ;
+    skos:related ocs:C11414,
+        ocs:C272,
+        ocs:C3583,
+        ocs:C37008,
+        ocs:C41474,
+        ocs:C4661 .
+

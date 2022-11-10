@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4857 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data-informed_decision-making> ;
+    skos:prefLabel "Data-informed decision-making" ;
+    skos:related ocs:C10063,
+        ocs:C10676,
+        ocs:C10764,
+        ocs:C12274,
+        ocs:C2193,
+        ocs:C25,
+        ocs:C28168,
+        ocs:C2979,
+        ocs:C3034,
+        ocs:C3344,
+        ocs:C37135,
+        ocs:C43372,
+        ocs:C4445,
+        ocs:C9488 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11508 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discriminative_model> ;
+    skos:prefLabel "Discriminative model" ;
+    skos:related ocs:C10136,
+        ocs:C12748,
+        ocs:C19354,
+        ocs:C20001,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C30864,
+        ocs:C41650,
+        ocs:C431,
+        ocs:C5856,
+        ocs:C6021,
+        ocs:C9022 .
+

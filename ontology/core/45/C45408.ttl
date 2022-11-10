@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45408 a skos:Concept ;
+    skos:broader ocs:C36540,
+        ocs:C37370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_Motivation_Model> ;
+    skos:prefLabel "Business Motivation Model" ;
+    skos:related ocs:C17238,
+        ocs:C18539,
+        ocs:C24477,
+        ocs:C30528,
+        ocs:C34477,
+        ocs:C35399,
+        ocs:C35609,
+        ocs:C37370,
+        ocs:C38363,
+        ocs:C38667,
+        ocs:C39366,
+        ocs:C39856,
+        ocs:C40895,
+        ocs:C42495,
+        ocs:C43469,
+        ocs:C44909,
+        ocs:C45437,
+        ocs:C45883 .
+

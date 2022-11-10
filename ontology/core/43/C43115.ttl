@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43115 a skos:Concept ;
+    skos:broader ocs:C34979,
+        ocs:C37292 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_computing_architecture> ;
+    skos:prefLabel "Cloud computing architecture" ;
+    skos:related ocs:C1390,
+        ocs:C15182,
+        ocs:C16218,
+        ocs:C1956,
+        ocs:C22597,
+        ocs:C26837,
+        ocs:C28087,
+        ocs:C2981,
+        ocs:C32880,
+        ocs:C34261,
+        ocs:C35701,
+        ocs:C36777,
+        ocs:C36982,
+        ocs:C37292,
+        ocs:C42653,
+        ocs:C43642,
+        ocs:C44266,
+        ocs:C4918,
+        ocs:C7106 .
+

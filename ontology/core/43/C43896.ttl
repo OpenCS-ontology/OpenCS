@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43896 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C37234,
+        ocs:C37538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Base_and_bounds> ;
+    skos:prefLabel "Base and bounds" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C13025,
+        ocs:C14162,
+        ocs:C2022,
+        ocs:C23270,
+        ocs:C23956,
+        ocs:C38819,
+        ocs:C3946,
+        ocs:C39623,
+        ocs:C3985,
+        ocs:C40322,
+        ocs:C40529,
+        ocs:C41159,
+        ocs:C41696,
+        ocs:C42695,
+        ocs:C7900,
+        ocs:C9 .
+

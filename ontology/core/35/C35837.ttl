@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35837 a skos:Concept ;
+    skos:broader ocs:C19038,
+        ocs:C21769,
+        ocs:C27878 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_equations> ;
+    skos:prefLabel "Traffic equations" ;
+    skos:related ocs:C12373,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C23261,
+        ocs:C26091,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C27878,
+        ocs:C31015,
+        ocs:C32815,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C40289,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C43525,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45748 .
+

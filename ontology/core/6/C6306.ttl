@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6306 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Don't-care_term> ;
+    skos:prefLabel "Don't-care term" ;
+    skos:related ocs:C11252,
+        ocs:C16377,
+        ocs:C19400,
+        ocs:C22699,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C2991,
+        ocs:C33318,
+        ocs:C35076,
+        ocs:C36420,
+        ocs:C37773,
+        ocs:C37887,
+        ocs:C40719,
+        ocs:C44881,
+        ocs:C5336,
+        ocs:C9908 .
+

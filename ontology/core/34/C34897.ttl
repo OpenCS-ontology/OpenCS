@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34897 a skos:Concept ;
+    skos:broader ocs:C25310 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stalagmometric_method> ;
+    skos:prefLabel "Stalagmometric method" ;
+    skos:related ocs:C25310,
+        ocs:C37613 .
+

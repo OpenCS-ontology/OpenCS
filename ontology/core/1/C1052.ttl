@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1052 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Receiver_Operating_Characteristic_Curve_Explorer_and_Tester> ;
+    skos:prefLabel "Receiver Operating Characteristic Curve Explorer and Tester" ;
+    skos:related ocs:C11030,
+        ocs:C11875,
+        ocs:C26886,
+        ocs:C6912 .
+

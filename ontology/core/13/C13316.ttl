@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13316 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Handover> ;
+    skos:prefLabel "Handover" ;
+    skos:related ocs:C12853,
+        ocs:C18799,
+        ocs:C20116,
+        ocs:C20859,
+        ocs:C25712,
+        ocs:C27704,
+        ocs:C28758,
+        ocs:C30037,
+        ocs:C37303,
+        ocs:C37543,
+        ocs:C39949,
+        ocs:C4197,
+        ocs:C42007,
+        ocs:C4255,
+        ocs:C45515,
+        ocs:C634,
+        ocs:C6987,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

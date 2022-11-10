@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37842 a skos:Concept ;
+    skos:broader ocs:C32962,
+        ocs:C33826,
+        ocs:C34475,
+        ocs:C36470 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interface_metaphor> ;
+    skos:prefLabel "Interface metaphor" ;
+    skos:related ocs:C1253,
+        ocs:C15131,
+        ocs:C18,
+        ocs:C24871,
+        ocs:C26634,
+        ocs:C280,
+        ocs:C28503,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C34966,
+        ocs:C37013,
+        ocs:C43110,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C7736,
+        ocs:C9,
+        ocs:C9607 .
+

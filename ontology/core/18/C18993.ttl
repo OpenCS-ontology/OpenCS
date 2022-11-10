@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18993 a skos:Concept ;
+    skos:broader ocs:C10447,
+        ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gigantiops> ;
+    skos:prefLabel "Gigantiops" ;
+    skos:related ocs:C14496,
+        ocs:C19235,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C28251 .
+

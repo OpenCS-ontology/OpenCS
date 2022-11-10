@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43006 a skos:Concept ;
+    skos:broader ocs:C32844 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero-forcing_precoding> ;
+    skos:prefLabel "Zero-forcing precoding" ;
+    skos:related ocs:C11027,
+        ocs:C11747,
+        ocs:C14099,
+        ocs:C15410,
+        ocs:C19905,
+        ocs:C24264,
+        ocs:C24558,
+        ocs:C28404,
+        ocs:C30728,
+        ocs:C31025,
+        ocs:C32290,
+        ocs:C32844,
+        ocs:C34748,
+        ocs:C34903,
+        ocs:C36733,
+        ocs:C37368,
+        ocs:C40214,
+        ocs:C41276 .
+

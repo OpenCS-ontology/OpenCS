@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14715 a skos:Concept ;
+    skos:broader ocs:C7106,
+        ocs:C8704,
+        ocs:C983 ;
+    skos:prefLabel "Workload scheduling" .
+

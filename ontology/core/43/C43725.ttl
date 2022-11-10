@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43725 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory-level_parallelism> ;
+    skos:prefLabel "Memory-level parallelism" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C1668,
+        ocs:C1721,
+        ocs:C23864,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C39623,
+        ocs:C40191,
+        ocs:C42715,
+        ocs:C8180,
+        ocs:C9487 .
+

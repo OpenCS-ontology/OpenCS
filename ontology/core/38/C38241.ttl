@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38241 a skos:Concept ;
+    skos:broader ocs:C30139,
+        ocs:C30602,
+        ocs:C36809 ;
+    skos:closeMatch <http://dbpedia.org/resource/Direct_comparison_test> ;
+    skos:prefLabel "Direct comparison test" ;
+    skos:related ocs:C15454,
+        ocs:C18280,
+        ocs:C27189,
+        ocs:C30602,
+        ocs:C38482,
+        ocs:C44197,
+        ocs:C44482 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C279 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unified_messaging> ;
+    skos:prefLabel "Unified messaging" ;
+    skos:related ocs:C10904,
+        ocs:C10905,
+        ocs:C1253,
+        ocs:C13514,
+        ocs:C13585,
+        ocs:C16,
+        ocs:C1726,
+        ocs:C22407,
+        ocs:C2304,
+        ocs:C3,
+        ocs:C3178,
+        ocs:C35701,
+        ocs:C420,
+        ocs:C5702,
+        ocs:C672,
+        ocs:C8614,
+        ocs:C9931 .
+

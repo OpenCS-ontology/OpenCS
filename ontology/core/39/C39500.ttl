@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39500 a skos:Concept ;
+    skos:broader ocs:C31512,
+        ocs:C34821 ;
+    skos:closeMatch <http://dbpedia.org/resource/Padua_points> ;
+    skos:prefLabel "Padua points" ;
+    skos:related ocs:C18076,
+        ocs:C19373,
+        ocs:C21380,
+        ocs:C28942,
+        ocs:C31512,
+        ocs:C34821,
+        ocs:C39716,
+        ocs:C42372,
+        ocs:C42417,
+        ocs:C42630,
+        ocs:C43001,
+        ocs:C45272,
+        ocs:C8756,
+        ocs:C8781 .
+

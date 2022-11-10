@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10106 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signetics_8X300> ;
+    skos:prefLabel "Signetics 8X300" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10683,
+        ocs:C10938,
+        ocs:C11047,
+        ocs:C29530,
+        ocs:C36673,
+        ocs:C37847,
+        ocs:C42313,
+        ocs:C6172,
+        ocs:C6280,
+        ocs:C7434,
+        ocs:C856 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1243 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Immunity-aware_programming> ;
+    skos:prefLabel "Immunity-aware programming" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11,
+        ocs:C12855,
+        ocs:C17204,
+        ocs:C17903,
+        ocs:C19582,
+        ocs:C2975,
+        ocs:C3160,
+        ocs:C543,
+        ocs:C5511,
+        ocs:C6172,
+        ocs:C6223,
+        ocs:C856 .
+

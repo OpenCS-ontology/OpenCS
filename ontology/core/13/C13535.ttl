@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13535 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:prefLabel "Electronic surveillance" ;
+    skos:related ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C3,
+        ocs:C33,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8614,
+        ocs:C9218 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C428 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search_engine_indexing> ;
+    skos:prefLabel "Search engine indexing" ;
+    skos:related ocs:C11927,
+        ocs:C15482,
+        ocs:C1561,
+        ocs:C16188,
+        ocs:C23,
+        ocs:C28801,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C44855,
+        ocs:C6,
+        ocs:C8564,
+        ocs:C8614 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32017 a skos:Concept ;
+    skos:broader ocs:C15966 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oculesics> ;
+    skos:prefLabel "Oculesics" ;
+    skos:related ocs:C10566,
+        ocs:C15966,
+        ocs:C16695,
+        ocs:C21618,
+        ocs:C2480,
+        ocs:C31012,
+        ocs:C8125 .
+

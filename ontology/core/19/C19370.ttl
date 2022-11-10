@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19370 a skos:Concept ;
+    skos:broader ocs:C1262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Directive_2001/83/EC> ;
+    skos:prefLabel "Directive 2001/83/EC" ;
+    skos:related ocs:C33646,
+        ocs:C38190 .
+

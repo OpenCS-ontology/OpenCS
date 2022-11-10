@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26460 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C8895 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_under_test> ;
+    skos:prefLabel "System under test" ;
+    skos:related ocs:C1253,
+        ocs:C13313,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C20063,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C30215,
+        ocs:C38219,
+        ocs:C39614,
+        ocs:C40291,
+        ocs:C42031,
+        ocs:C42333,
+        ocs:C45409,
+        ocs:C45493,
+        ocs:C7053,
+        ocs:C8895,
+        ocs:C9 .
+

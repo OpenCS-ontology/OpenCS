@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7805 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tapeless_production> ;
+    skos:prefLabel "Tapeless production" ;
+    skos:related ocs:C12430,
+        ocs:C12999,
+        ocs:C155,
+        ocs:C19567,
+        ocs:C19823,
+        ocs:C24503,
+        ocs:C27511,
+        ocs:C30569,
+        ocs:C31011,
+        ocs:C40628,
+        ocs:C520,
+        ocs:C577,
+        ocs:C7369,
+        ocs:C9244 .
+

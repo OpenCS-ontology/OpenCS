@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1456 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_1711> ;
+    skos:prefLabel "IBM 1711" ;
+    skos:related ocs:C15312,
+        ocs:C16152,
+        ocs:C19342,
+        ocs:C20669,
+        ocs:C22096,
+        ocs:C28464,
+        ocs:C30691,
+        ocs:C45651 .
+

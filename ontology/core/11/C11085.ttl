@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11085 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Swiss_cheese_model> ;
+    skos:prefLabel "Swiss cheese model" ;
+    skos:related ocs:C20112,
+        ocs:C22735,
+        ocs:C26696,
+        ocs:C30400 .
+

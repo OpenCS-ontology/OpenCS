@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41621 a skos:Concept ;
+    skos:broader ocs:C34817 ;
+    skos:closeMatch <http://dbpedia.org/resource/PictBridge> ;
+    skos:prefLabel "PictBridge" ;
+    skos:related ocs:C12580,
+        ocs:C13065,
+        ocs:C13144,
+        ocs:C16423,
+        ocs:C21424,
+        ocs:C44417,
+        ocs:C6019,
+        ocs:C6223,
+        ocs:C7789,
+        ocs:C8021 .
+

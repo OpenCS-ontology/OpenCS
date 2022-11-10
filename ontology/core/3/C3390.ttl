@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3390 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_flow> ;
+    skos:prefLabel "Traffic flow" ;
+    skos:related ocs:C1207,
+        ocs:C19038,
+        ocs:C22762,
+        ocs:C28361,
+        ocs:C30949,
+        ocs:C31393,
+        ocs:C32722,
+        ocs:C34071,
+        ocs:C36448,
+        ocs:C39139,
+        ocs:C41753,
+        ocs:C42980,
+        ocs:C43067,
+        ocs:C45111,
+        ocs:C4694,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

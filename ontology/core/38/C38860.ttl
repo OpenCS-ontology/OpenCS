@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38860 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monte_Carlo_method_for_photon_transport> ;
+    skos:prefLabel "Monte Carlo method for photon transport" ;
+    skos:related ocs:C39362,
+        ocs:C41778,
+        ocs:C45433,
+        ocs:C597,
+        ocs:C693 .
+

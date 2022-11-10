@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4652 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Six_degrees_of_separation> ;
+    skos:prefLabel "Six degrees of separation" ;
+    skos:related ocs:C11026,
+        ocs:C14528,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C1650,
+        ocs:C17671,
+        ocs:C19399,
+        ocs:C20170,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C25868,
+        ocs:C28521,
+        ocs:C33768,
+        ocs:C35775,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C7460,
+        ocs:C8614 .
+

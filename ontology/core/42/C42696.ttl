@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42696 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C33043 ;
+    skos:closeMatch <http://dbpedia.org/resource/Forward_algorithm> ;
+    skos:prefLabel "Forward algorithm" ;
+    skos:related ocs:C12748,
+        ocs:C14922,
+        ocs:C16,
+        ocs:C19174,
+        ocs:C20860,
+        ocs:C21710,
+        ocs:C2874,
+        ocs:C30864,
+        ocs:C37207,
+        ocs:C37684,
+        ocs:C38829,
+        ocs:C39680,
+        ocs:C3987,
+        ocs:C39922,
+        ocs:C44494,
+        ocs:C44876,
+        ocs:C5856,
+        ocs:C6021,
+        ocs:C7689 .
+

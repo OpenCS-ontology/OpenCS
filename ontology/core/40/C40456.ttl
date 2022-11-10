@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40456 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reuse_metrics> ;
+    skos:prefLabel "Reuse metrics" ;
+    skos:related ocs:C10720,
+        ocs:C11591,
+        ocs:C12317,
+        ocs:C24453,
+        ocs:C29525,
+        ocs:C32990,
+        ocs:C3833,
+        ocs:C38960,
+        ocs:C42500,
+        ocs:C42543,
+        ocs:C42733,
+        ocs:C43821,
+        ocs:C45042,
+        ocs:C45202,
+        ocs:C7236 .
+

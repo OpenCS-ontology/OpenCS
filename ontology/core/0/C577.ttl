@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C577 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hard_disk_recorder> ;
+    skos:prefLabel "Hard disk recorder" ;
+    skos:related ocs:C10778,
+        ocs:C12430,
+        ocs:C13095,
+        ocs:C13467,
+        ocs:C2000,
+        ocs:C25195,
+        ocs:C26575,
+        ocs:C30569,
+        ocs:C34571,
+        ocs:C40628,
+        ocs:C42394,
+        ocs:C4820,
+        ocs:C520,
+        ocs:C7255,
+        ocs:C7369,
+        ocs:C8718 .
+

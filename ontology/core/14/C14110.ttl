@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14110 a skos:Concept ;
+    skos:broader ocs:C5854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scanning_joule_expansion_microscopy> ;
+    skos:prefLabel "Scanning joule expansion microscopy" ;
+    skos:related ocs:C22804 .
+

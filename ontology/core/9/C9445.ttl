@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9445 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_omnivore> ;
+    skos:prefLabel "Digital omnivore" ;
+    skos:related ocs:C11696,
+        ocs:C12599,
+        ocs:C16055,
+        ocs:C16205,
+        ocs:C17,
+        ocs:C19350,
+        ocs:C20400,
+        ocs:C22701,
+        ocs:C24449,
+        ocs:C27633,
+        ocs:C29023,
+        ocs:C31,
+        ocs:C32451,
+        ocs:C35370,
+        ocs:C6234,
+        ocs:C8614,
+        ocs:C9113 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32457 a skos:Concept ;
+    skos:broader ocs:C17119,
+        ocs:C19721,
+        ocs:C24001 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_regrowth> ;
+    skos:prefLabel "Spectral regrowth" .
+

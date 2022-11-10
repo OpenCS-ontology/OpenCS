@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22291 a skos:Concept ;
+    skos:broader ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sentence_function> ;
+    skos:prefLabel "Sentence function" ;
+    skos:related ocs:C10555,
+        ocs:C12270,
+        ocs:C13006,
+        ocs:C16672,
+        ocs:C19337,
+        ocs:C19932,
+        ocs:C2298,
+        ocs:C6293,
+        ocs:C9659 .
+

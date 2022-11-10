@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C625 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_1613> ;
+    skos:prefLabel "IEEE 1613" ;
+    skos:related ocs:C20883,
+        ocs:C21231,
+        ocs:C21935,
+        ocs:C22559,
+        ocs:C24189,
+        ocs:C35778,
+        ocs:C41115,
+        ocs:C45300 .
+

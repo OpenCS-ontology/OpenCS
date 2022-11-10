@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23042 a skos:Concept ;
+    skos:broader ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weil_pairing> ;
+    skos:prefLabel "Weil pairing" ;
+    skos:related ocs:C1505,
+        ocs:C18118,
+        ocs:C27863,
+        ocs:C32484,
+        ocs:C3629,
+        ocs:C39928 .
+

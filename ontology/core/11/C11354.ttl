@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11354 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:prefLabel "Sponsor ID" ;
+    skos:related ocs:C31,
+        ocs:C8614 .
+

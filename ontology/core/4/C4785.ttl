@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4785 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C26 ;
+    skos:prefLabel "Message Title" ;
+    skos:related ocs:C17 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38163 a skos:Concept ;
+    skos:broader ocs:C30085 ;
+    skos:closeMatch <http://dbpedia.org/resource/PipeRench> ;
+    skos:prefLabel "PipeRench" ;
+    skos:related ocs:C112,
+        ocs:C16183,
+        ocs:C22124,
+        ocs:C22751,
+        ocs:C26155,
+        ocs:C27,
+        ocs:C29006,
+        ocs:C30085,
+        ocs:C32360,
+        ocs:C3359,
+        ocs:C35049,
+        ocs:C36673,
+        ocs:C41267,
+        ocs:C5336,
+        ocs:C6288,
+        ocs:C7735,
+        ocs:C9908 .
+

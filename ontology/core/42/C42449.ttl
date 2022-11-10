@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42449 a skos:Concept ;
+    skos:broader ocs:C29899 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_equipment_identifier> ;
+    skos:prefLabel "Mobile equipment identifier" ;
+    skos:related ocs:C18799,
+        ocs:C29697,
+        ocs:C30090,
+        ocs:C34092,
+        ocs:C37133,
+        ocs:C37141,
+        ocs:C37303,
+        ocs:C38022,
+        ocs:C39722,
+        ocs:C40140,
+        ocs:C40238,
+        ocs:C44251,
+        ocs:C7127,
+        ocs:C9113,
+        ocs:C9154 .
+

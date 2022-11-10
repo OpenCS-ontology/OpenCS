@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7084 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:prefLabel "Knowledge interdependence" ;
+    skos:related ocs:C10861,
+        ocs:C25033,
+        ocs:C6754 .
+

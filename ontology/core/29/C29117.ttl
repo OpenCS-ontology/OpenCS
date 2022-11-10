@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29117 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C8889 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptographic_engineering> ;
+    skos:prefLabel "Cryptographic engineering" ;
+    skos:related ocs:C16125,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C21324,
+        ocs:C23666,
+        ocs:C26691,
+        ocs:C27316,
+        ocs:C27571,
+        ocs:C31774,
+        ocs:C33191,
+        ocs:C33414,
+        ocs:C34895,
+        ocs:C40751,
+        ocs:C4218,
+        ocs:C43963,
+        ocs:C4751,
+        ocs:C5264,
+        ocs:C7006 .
+

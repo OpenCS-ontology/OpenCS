@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8367 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_stream_mining> ;
+    skos:prefLabel "Data stream mining" ;
+    skos:related ocs:C10278,
+        ocs:C1038,
+        ocs:C10382,
+        ocs:C1040,
+        ocs:C11030,
+        ocs:C11875,
+        ocs:C13,
+        ocs:C2004,
+        ocs:C23295,
+        ocs:C25,
+        ocs:C25520,
+        ocs:C26750,
+        ocs:C31626,
+        ocs:C3286,
+        ocs:C3736,
+        ocs:C41591,
+        ocs:C7507,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9874 .
+

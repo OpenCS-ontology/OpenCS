@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28026 a skos:Concept ;
+    skos:broader ocs:C4703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_calculator> ;
+    skos:prefLabel "Software calculator" ;
+    skos:related ocs:C10320,
+        ocs:C13929,
+        ocs:C14271,
+        ocs:C15500,
+        ocs:C17802,
+        ocs:C2064,
+        ocs:C24143,
+        ocs:C25143,
+        ocs:C28408,
+        ocs:C30078,
+        ocs:C44595,
+        ocs:C4703,
+        ocs:C5702,
+        ocs:C6,
+        ocs:C6072,
+        ocs:C8787,
+        ocs:C9,
+        ocs:C9381 .
+

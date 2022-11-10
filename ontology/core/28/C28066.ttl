@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28066 a skos:Concept ;
+    skos:broader ocs:C10516 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persian_studies> ;
+    skos:prefLabel "Persian studies" ;
+    skos:related ocs:C10516,
+        ocs:C13210,
+        ocs:C14854,
+        ocs:C19381,
+        ocs:C26894 .
+

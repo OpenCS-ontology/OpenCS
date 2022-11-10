@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12783 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_representation> ;
+    skos:prefLabel "Adaptive representation" ;
+    skos:related ocs:C26360,
+        ocs:C31776,
+        ocs:C4972,
+        ocs:C5817 .
+

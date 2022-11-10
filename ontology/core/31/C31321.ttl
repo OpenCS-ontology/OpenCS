@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31321 a skos:Concept ;
+    skos:broader ocs:C23181 ;
+    skos:closeMatch <http://dbpedia.org/resource/Join_point> ;
+    skos:prefLabel "Join point" ;
+    skos:related ocs:C10219,
+        ocs:C10720,
+        ocs:C12389,
+        ocs:C19,
+        ocs:C22095,
+        ocs:C23181,
+        ocs:C29905,
+        ocs:C33311,
+        ocs:C34398,
+        ocs:C37447,
+        ocs:C37654,
+        ocs:C42280,
+        ocs:C44841,
+        ocs:C6072,
+        ocs:C6941 .
+

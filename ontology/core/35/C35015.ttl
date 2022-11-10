@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35015 a skos:Concept ;
+    skos:broader ocs:C15457,
+        ocs:C24259,
+        ocs:C25821,
+        ocs:C29478 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kepler_scientific_workflow_system> ;
+    skos:prefLabel "Kepler scientific workflow system" ;
+    skos:related ocs:C10052,
+        ocs:C10904,
+        ocs:C1264,
+        ocs:C13264,
+        ocs:C15457,
+        ocs:C21997,
+        ocs:C27098,
+        ocs:C31518,
+        ocs:C34979,
+        ocs:C36207,
+        ocs:C3896,
+        ocs:C43753,
+        ocs:C6312,
+        ocs:C8032 .
+

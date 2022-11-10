@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45807 a skos:Concept ;
+    skos:broader ocs:C32188 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_guarantee> ;
+    skos:prefLabel "Service guarantee" ;
+    skos:related ocs:C14157,
+        ocs:C15074 .
+

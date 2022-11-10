@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33188 a skos:Concept ;
+    skos:broader ocs:C20066,
+        ocs:C21609 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_tracing> ;
+    skos:prefLabel "Image tracing" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C10973,
+        ocs:C12741,
+        ocs:C13155,
+        ocs:C13173,
+        ocs:C20066,
+        ocs:C21548,
+        ocs:C22,
+        ocs:C23850,
+        ocs:C29600,
+        ocs:C34585,
+        ocs:C3679,
+        ocs:C3851,
+        ocs:C43198,
+        ocs:C43649,
+        ocs:C45145,
+        ocs:C4584,
+        ocs:C797 .
+

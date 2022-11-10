@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22221 a skos:Concept ;
+    skos:broader ocs:C10135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Riffle> ;
+    skos:prefLabel "Riffle" ;
+    skos:related ocs:C17470,
+        ocs:C19813,
+        ocs:C22625,
+        ocs:C27280,
+        ocs:C5708 .
+

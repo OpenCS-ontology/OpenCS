@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41838 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C32204,
+        ocs:C34752,
+        ocs:C34793,
+        ocs:C36898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Encrypted_key_exchange> ;
+    skos:prefLabel "Encrypted key exchange" ;
+    skos:related ocs:C23855,
+        ocs:C2467,
+        ocs:C26537,
+        ocs:C26581,
+        ocs:C29568,
+        ocs:C30656,
+        ocs:C35146,
+        ocs:C38359,
+        ocs:C38692,
+        ocs:C38957,
+        ocs:C40044,
+        ocs:C40332,
+        ocs:C40791,
+        ocs:C41012,
+        ocs:C4218,
+        ocs:C43624,
+        ocs:C44564,
+        ocs:C4513,
+        ocs:C45715,
+        ocs:C700 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13980 a skos:Concept ;
+    skos:broader ocs:C5140 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polymath_Project> ;
+    skos:prefLabel "Polymath Project" ;
+    skos:related ocs:C32616,
+        ocs:C35114,
+        ocs:C38156,
+        ocs:C597 .
+

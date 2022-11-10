@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18727 a skos:Concept ;
+    skos:broader ocs:C3736 ;
+    skos:prefLabel "Juvenile tabes dorsalis" ;
+    skos:related ocs:C1,
+        ocs:C31,
+        ocs:C4 .
+

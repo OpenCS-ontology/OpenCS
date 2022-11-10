@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5473 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_replay> ;
+    skos:prefLabel "Virtual replay" ;
+    skos:related ocs:C19700,
+        ocs:C21609,
+        ocs:C27264,
+        ocs:C27489,
+        ocs:C2881,
+        ocs:C36168,
+        ocs:C37867,
+        ocs:C39182,
+        ocs:C41106,
+        ocs:C41811,
+        ocs:C42489,
+        ocs:C43448,
+        ocs:C44047,
+        ocs:C534,
+        ocs:C8399,
+        ocs:C969 .
+

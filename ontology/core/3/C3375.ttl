@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3375 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-valued_logic> ;
+    skos:prefLabel "Three-valued logic" ;
+    skos:related ocs:C10825,
+        ocs:C13855,
+        ocs:C17884,
+        ocs:C32129,
+        ocs:C38533,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C43307,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

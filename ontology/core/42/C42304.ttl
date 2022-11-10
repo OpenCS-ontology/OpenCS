@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42304 a skos:Concept ;
+    skos:broader ocs:C36171 ;
+    skos:closeMatch <http://dbpedia.org/resource/DomainKeys_Identified_Mail> ;
+    skos:prefLabel "DomainKeys Identified Mail" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C14647,
+        ocs:C14983,
+        ocs:C16125,
+        ocs:C20205,
+        ocs:C20937,
+        ocs:C24131,
+        ocs:C24903,
+        ocs:C35631,
+        ocs:C39064,
+        ocs:C39499,
+        ocs:C39520,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C44017,
+        ocs:C4641,
+        ocs:C5472,
+        ocs:C6965 .
+

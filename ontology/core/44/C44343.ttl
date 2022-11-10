@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44343 a skos:Concept ;
+    skos:broader ocs:C33774 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secondary_atmosphere> ;
+    skos:prefLabel "Secondary atmosphere" ;
+    skos:related ocs:C14270,
+        ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30091,
+        ocs:C33774,
+        ocs:C33980,
+        ocs:C36203,
+        ocs:C39576,
+        ocs:C41369 .
+

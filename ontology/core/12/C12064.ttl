@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12064 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C19,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event_condition_action> ;
+    skos:prefLabel "Event condition action" ;
+    skos:related ocs:C10019,
+        ocs:C10327,
+        ocs:C10685,
+        ocs:C1092,
+        ocs:C14156,
+        ocs:C15444,
+        ocs:C23439,
+        ocs:C2371,
+        ocs:C25163,
+        ocs:C25935,
+        ocs:C27665,
+        ocs:C31527,
+        ocs:C31894,
+        ocs:C33490,
+        ocs:C38166,
+        ocs:C41310,
+        ocs:C44883,
+        ocs:C6,
+        ocs:C7311,
+        ocs:C852 .
+

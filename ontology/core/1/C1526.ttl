@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1526 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Procedure training" ;
+    skos:related ocs:C12810,
+        ocs:C13320,
+        ocs:C17,
+        ocs:C18,
+        ocs:C28,
+        ocs:C28814,
+        ocs:C28962 .
+

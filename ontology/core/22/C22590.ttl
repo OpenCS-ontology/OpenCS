@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22590 a skos:Concept ;
+    skos:broader ocs:C5692,
+        ocs:C7006,
+        ocs:C8325,
+        ocs:C8711 ;
+    skos:prefLabel "Attribute based signature" .
+

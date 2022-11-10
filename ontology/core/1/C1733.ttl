@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1733 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-rate_symmetric_digital_subscriber_line> ;
+    skos:prefLabel "Multi-rate symmetric digital subscriber line" ;
+    skos:related ocs:C11703,
+        ocs:C12666,
+        ocs:C18188,
+        ocs:C19350,
+        ocs:C22669,
+        ocs:C24335,
+        ocs:C26580,
+        ocs:C2917,
+        ocs:C29601,
+        ocs:C34505,
+        ocs:C39976,
+        ocs:C40684,
+        ocs:C40748,
+        ocs:C42846,
+        ocs:C7290,
+        ocs:C8244,
+        ocs:C8668,
+        ocs:C9327 .
+

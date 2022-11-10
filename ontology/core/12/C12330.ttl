@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12330 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/The_Map_Library> ;
+    skos:prefLabel "The Map Library" ;
+    skos:related ocs:C10072,
+        ocs:C1023,
+        ocs:C10380,
+        ocs:C10987,
+        ocs:C15046,
+        ocs:C24208,
+        ocs:C27492,
+        ocs:C29600,
+        ocs:C33188,
+        ocs:C37462,
+        ocs:C37913,
+        ocs:C42402,
+        ocs:C45145 .
+

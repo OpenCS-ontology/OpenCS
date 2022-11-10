@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43429 a skos:Concept ;
+    skos:broader ocs:C32878 ;
+    skos:closeMatch <http://dbpedia.org/resource/Job_shop> ;
+    skos:prefLabel "Job shop" ;
+    skos:related ocs:C10052,
+        ocs:C15253,
+        ocs:C38900,
+        ocs:C39986 .
+

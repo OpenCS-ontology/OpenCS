@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10419 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C4 ;
+    skos:prefLabel "Audiovisual document" ;
+    skos:related ocs:C10459,
+        ocs:C1498,
+        ocs:C16,
+        ocs:C1940,
+        ocs:C197,
+        ocs:C28715,
+        ocs:C3,
+        ocs:C5832,
+        ocs:C6637,
+        ocs:C8614,
+        ocs:C9692 .
+

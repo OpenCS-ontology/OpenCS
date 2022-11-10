@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38007 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342,
+        ocs:C34362 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modified_Morlet_wavelet> ;
+    skos:prefLabel "Modified Morlet wavelet" ;
+    skos:related ocs:C10554,
+        ocs:C18434,
+        ocs:C20175,
+        ocs:C26827,
+        ocs:C34362,
+        ocs:C36952,
+        ocs:C38465,
+        ocs:C40802,
+        ocs:C41327,
+        ocs:C42353,
+        ocs:C43553,
+        ocs:C43666,
+        ocs:C43908,
+        ocs:C44791,
+        ocs:C45112 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33546 a skos:Concept ;
+    skos:broader ocs:C15062,
+        ocs:C16538,
+        ocs:C16738,
+        ocs:C19031 ;
+    skos:prefLabel "Bound consistency" .
+

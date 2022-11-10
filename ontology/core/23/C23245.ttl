@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23245 a skos:Concept ;
+    skos:broader ocs:C3563 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptocurrency> ;
+    skos:prefLabel "Cryptocurrency" ;
+    skos:related ocs:C11540,
+        ocs:C14011,
+        ocs:C16125,
+        ocs:C23054,
+        ocs:C23875,
+        ocs:C26452,
+        ocs:C30434,
+        ocs:C31489,
+        ocs:C36685,
+        ocs:C37209,
+        ocs:C40718,
+        ocs:C4218,
+        ocs:C8614 .
+

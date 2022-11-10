@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37846 a skos:Concept ;
+    skos:broader ocs:C31379,
+        ocs:C32582,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_Bootstrapping_Architecture> ;
+    skos:prefLabel "Generic Bootstrapping Architecture" ;
+    skos:related ocs:C15530,
+        ocs:C16338,
+        ocs:C22597,
+        ocs:C23489,
+        ocs:C24131,
+        ocs:C25566,
+        ocs:C28276,
+        ocs:C29568,
+        ocs:C29611,
+        ocs:C30278,
+        ocs:C30595,
+        ocs:C38959,
+        ocs:C39033,
+        ocs:C3933,
+        ocs:C41784,
+        ocs:C44122,
+        ocs:C4565,
+        ocs:C8437,
+        ocs:C9154 .
+

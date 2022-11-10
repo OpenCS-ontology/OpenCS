@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24471 a skos:Concept ;
+    skos:broader ocs:C13701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lattice_Miner> ;
+    skos:prefLabel "Lattice Miner" ;
+    skos:related ocs:C13701,
+        ocs:C20268,
+        ocs:C27617,
+        ocs:C29495,
+        ocs:C32881,
+        ocs:C45455 .
+

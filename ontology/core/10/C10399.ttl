@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10399 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Turmite> ;
+    skos:prefLabel "Turmite" ;
+    skos:related ocs:C10,
+        ocs:C11405,
+        ocs:C122,
+        ocs:C17869,
+        ocs:C21205,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C30429,
+        ocs:C31124,
+        ocs:C38067,
+        ocs:C38733,
+        ocs:C39944,
+        ocs:C40419,
+        ocs:C41471,
+        ocs:C42091,
+        ocs:C8334 .
+

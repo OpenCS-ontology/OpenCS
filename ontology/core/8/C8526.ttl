@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8526 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Defun> ;
+    skos:prefLabel "defun" ;
+    skos:related ocs:C10268,
+        ocs:C10284,
+        ocs:C11990,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C13606,
+        ocs:C1386,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C28783,
+        ocs:C29467,
+        ocs:C29907,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C40088,
+        ocs:C4693,
+        ocs:C8441,
+        ocs:C9638 .
+

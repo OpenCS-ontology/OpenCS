@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6890 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Patient Motion" ;
+    skos:related ocs:C11548,
+        ocs:C22,
+        ocs:C23673,
+        ocs:C2369,
+        ocs:C525,
+        ocs:C8021 .
+

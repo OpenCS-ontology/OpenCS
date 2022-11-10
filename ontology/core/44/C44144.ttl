@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44144 a skos:Concept ;
+    skos:broader ocs:C30242,
+        ocs:C31629,
+        ocs:C36770 ;
+    skos:prefLabel "Alternating group graph" .
+

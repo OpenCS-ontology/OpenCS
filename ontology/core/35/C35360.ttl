@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35360 a skos:Concept ;
+    skos:broader ocs:C19524,
+        ocs:C21331,
+        ocs:C22012 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radiation_Portal_Monitor> ;
+    skos:prefLabel "Radiation Portal Monitor" ;
+    skos:related ocs:C25787,
+        ocs:C597 .
+

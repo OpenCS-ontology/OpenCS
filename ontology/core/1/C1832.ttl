@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1832 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantization_(signal_processing)> ;
+    skos:prefLabel "Quantization (signal processing)" ;
+    skos:related ocs:C10492,
+        ocs:C10778,
+        ocs:C11747,
+        ocs:C1449,
+        ocs:C1564,
+        ocs:C22096,
+        ocs:C27556,
+        ocs:C27649,
+        ocs:C2937,
+        ocs:C37917,
+        ocs:C3843,
+        ocs:C5505,
+        ocs:C6113,
+        ocs:C6816 .
+

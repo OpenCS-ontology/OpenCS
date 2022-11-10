@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17695 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C1645 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autonomous_Navigation_System> ;
+    skos:prefLabel "Autonomous Navigation System" ;
+    skos:related ocs:C597 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26947 a skos:Concept ;
+    skos:broader ocs:C4257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Limit_analysis> ;
+    skos:prefLabel "Limit analysis" ;
+    skos:related ocs:C133,
+        ocs:C34256 .
+

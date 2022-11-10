@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41933 a skos:Concept ;
+    skos:broader ocs:C34983 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quasi-derivative> ;
+    skos:prefLabel "Quasi-derivative" ;
+    skos:related ocs:C23927,
+        ocs:C28787,
+        ocs:C32157,
+        ocs:C34983,
+        ocs:C36110,
+        ocs:C39745,
+        ocs:C40236,
+        ocs:C44450 .
+

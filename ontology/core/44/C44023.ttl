@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44023 a skos:Concept ;
+    skos:broader ocs:C32852 ;
+    skos:prefLabel "Leptocerus" ;
+    skos:related ocs:C10135,
+        ocs:C17470,
+        ocs:C29676,
+        ocs:C37376,
+        ocs:C45308 .
+

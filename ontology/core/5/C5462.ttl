@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5462 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scale-invariant_feature_transform> ;
+    skos:prefLabel "Scale-invariant feature transform" ;
+    skos:related ocs:C13142,
+        ocs:C13684,
+        ocs:C14863,
+        ocs:C1501,
+        ocs:C22975,
+        ocs:C24607,
+        ocs:C25648,
+        ocs:C26688,
+        ocs:C28626,
+        ocs:C31308,
+        ocs:C31947,
+        ocs:C32479,
+        ocs:C34290,
+        ocs:C35330,
+        ocs:C6912,
+        ocs:C7 .
+

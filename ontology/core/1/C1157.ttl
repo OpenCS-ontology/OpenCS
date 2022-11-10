@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1157 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Waveshaper> ;
+    skos:prefLabel "Waveshaper" ;
+    skos:related ocs:C11254,
+        ocs:C14262,
+        ocs:C17432,
+        ocs:C28604,
+        ocs:C3843,
+        ocs:C5790,
+        ocs:C7502 .
+

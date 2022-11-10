@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41077 a skos:Concept ;
+    skos:broader ocs:C31152,
+        ocs:C32556,
+        ocs:C37333 ;
+    skos:closeMatch <http://dbpedia.org/resource/Z-buffering> ;
+    skos:prefLabel "Z-buffering" ;
+    skos:related ocs:C10320,
+        ocs:C15632,
+        ocs:C16697,
+        ocs:C17403,
+        ocs:C17815,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C23566,
+        ocs:C24235,
+        ocs:C29600,
+        ocs:C32394,
+        ocs:C32556,
+        ocs:C38430,
+        ocs:C41662,
+        ocs:C43204 .
+

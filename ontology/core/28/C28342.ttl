@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28342 a skos:Concept ;
+    skos:broader ocs:C7653 ;
+    skos:closeMatch <http://dbpedia.org/resource/Expected_value_of_perfect_information> ;
+    skos:prefLabel "Expected value of perfect information" ;
+    skos:related ocs:C16975,
+        ocs:C22258,
+        ocs:C22495,
+        ocs:C28722,
+        ocs:C31804,
+        ocs:C353,
+        ocs:C3753,
+        ocs:C41130,
+        ocs:C4594,
+        ocs:C7653,
+        ocs:C9608 .
+

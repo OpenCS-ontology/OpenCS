@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36332 a skos:Concept ;
+    skos:broader ocs:C21929,
+        ocs:C24824,
+        ocs:C25114 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiprotocol_Encapsulation> ;
+    skos:prefLabel "Multiprotocol Encapsulation" ;
+    skos:related ocs:C10569,
+        ocs:C15589,
+        ocs:C20314,
+        ocs:C20448,
+        ocs:C20540,
+        ocs:C25114,
+        ocs:C27081,
+        ocs:C30311,
+        ocs:C30342,
+        ocs:C32323,
+        ocs:C32753,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C35276,
+        ocs:C3863,
+        ocs:C39853,
+        ocs:C40086,
+        ocs:C40667,
+        ocs:C41876,
+        ocs:C42692 .
+

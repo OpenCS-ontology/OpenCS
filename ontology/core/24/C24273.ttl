@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24273 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wick's_theorem> ;
+    skos:prefLabel "Wick's theorem" ;
+    skos:related ocs:C15588,
+        ocs:C24834,
+        ocs:C24854 .
+

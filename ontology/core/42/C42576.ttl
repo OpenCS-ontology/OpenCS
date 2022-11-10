@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42576 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Development_testing> ;
+    skos:prefLabel "Development testing" ;
+    skos:related ocs:C18415,
+        ocs:C19404,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C28950,
+        ocs:C31867,
+        ocs:C35575,
+        ocs:C3844,
+        ocs:C38761,
+        ocs:C39522,
+        ocs:C40064,
+        ocs:C41038,
+        ocs:C41437,
+        ocs:C45212,
+        ocs:C4558,
+        ocs:C6780 .
+

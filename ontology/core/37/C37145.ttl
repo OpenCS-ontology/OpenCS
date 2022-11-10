@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37145 a skos:Concept ;
+    skos:broader ocs:C17386,
+        ocs:C27188 ;
+    skos:closeMatch <http://dbpedia.org/resource/LIGO_Scientific_Collaboration> ;
+    skos:prefLabel "LIGO Scientific Collaboration" ;
+    skos:related ocs:C17386,
+        ocs:C25070,
+        ocs:C27188,
+        ocs:C29724,
+        ocs:C30525,
+        ocs:C34151,
+        ocs:C34608,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C36773,
+        ocs:C37557 .
+

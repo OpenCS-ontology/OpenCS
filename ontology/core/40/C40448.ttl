@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40448 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_hole_punching> ;
+    skos:prefLabel "TCP hole punching" ;
+    skos:related ocs:C11540,
+        ocs:C11871,
+        ocs:C12785,
+        ocs:C19227,
+        ocs:C22407,
+        ocs:C23666,
+        ocs:C24323,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C32526,
+        ocs:C37893,
+        ocs:C41726,
+        ocs:C42429,
+        ocs:C43318,
+        ocs:C44004,
+        ocs:C5975,
+        ocs:C6035,
+        ocs:C8515,
+        ocs:C8614 .
+

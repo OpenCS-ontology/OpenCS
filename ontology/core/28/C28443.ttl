@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28443 a skos:Concept ;
+    skos:broader ocs:C12112 ;
+    skos:closeMatch <http://dbpedia.org/resource/Economic_bubble> ;
+    skos:prefLabel "Economic bubble" ;
+    skos:related ocs:C14218 .
+

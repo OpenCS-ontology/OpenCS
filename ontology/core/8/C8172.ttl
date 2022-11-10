@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8172 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_sensor_network> ;
+    skos:prefLabel "Wireless sensor network" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C11027,
+        ocs:C15728,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C23438,
+        ocs:C26,
+        ocs:C28122,
+        ocs:C28850,
+        ocs:C30,
+        ocs:C3236,
+        ocs:C34938,
+        ocs:C40705,
+        ocs:C45545,
+        ocs:C4917,
+        ocs:C8614,
+        ocs:C9 .
+

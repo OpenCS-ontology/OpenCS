@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8028 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hotspot_(Wi-Fi)> ;
+    skos:prefLabel "Hotspot (Wi-Fi)" ;
+    skos:related ocs:C10055,
+        ocs:C15728,
+        ocs:C15832,
+        ocs:C19350,
+        ocs:C21357,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C30769,
+        ocs:C32724,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C45666,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9327 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43965 a skos:Concept ;
+    skos:broader ocs:C35013,
+        ocs:C35430,
+        ocs:C36167,
+        ocs:C36469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cost_per_acquisition> ;
+    skos:prefLabel "Cost per acquisition" ;
+    skos:related ocs:C1576,
+        ocs:C18985 .
+

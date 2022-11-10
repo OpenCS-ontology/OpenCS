@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32984 a skos:Concept ;
+    skos:broader ocs:C17522 ;
+    skos:closeMatch <http://dbpedia.org/resource/Little_black_ant> ;
+    skos:prefLabel "Little black ant" ;
+    skos:related ocs:C17062,
+        ocs:C19311,
+        ocs:C20649,
+        ocs:C20738,
+        ocs:C27032,
+        ocs:C29582,
+        ocs:C30349,
+        ocs:C30775,
+        ocs:C30897,
+        ocs:C33999,
+        ocs:C34831 .
+

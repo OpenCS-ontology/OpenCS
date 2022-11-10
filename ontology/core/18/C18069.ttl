@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18069 a skos:Concept ;
+    skos:broader ocs:C10220 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filmography> ;
+    skos:prefLabel "Filmography" ;
+    skos:related ocs:C10220,
+        ocs:C11955,
+        ocs:C201,
+        ocs:C21360,
+        ocs:C26542,
+        ocs:C7849,
+        ocs:C922 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28214 a skos:Concept ;
+    skos:broader ocs:C10445,
+        ocs:C4099,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C8566 ;
+    skos:prefLabel "Secure message transmission" .
+

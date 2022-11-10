@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11528 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthogonal_transformation> ;
+    skos:prefLabel "Orthogonal transformation" ;
+    skos:related ocs:C14325,
+        ocs:C20124,
+        ocs:C31450,
+        ocs:C5969 .
+

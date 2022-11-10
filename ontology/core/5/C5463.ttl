@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5463 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/32-bit> ;
+    skos:prefLabel "32-bit" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C11258,
+        ocs:C14271,
+        ocs:C19487,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C37538,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C6172,
+        ocs:C7186,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C9 .
+

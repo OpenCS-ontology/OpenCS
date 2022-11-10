@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45337 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C33709,
+        ocs:C35567 ;
+    skos:closeMatch <http://dbpedia.org/resource/Textile_(markup_language)> ;
+    skos:prefLabel "Textile (markup language)" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C11927,
+        ocs:C12848,
+        ocs:C13008,
+        ocs:C19,
+        ocs:C2067,
+        ocs:C24783,
+        ocs:C28801,
+        ocs:C28944,
+        ocs:C29192,
+        ocs:C33709,
+        ocs:C39526,
+        ocs:C4500,
+        ocs:C4918,
+        ocs:C5939,
+        ocs:C8864 .
+

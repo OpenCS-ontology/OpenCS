@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30882 a skos:Concept ;
+    skos:broader ocs:C24477,
+        ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Booch_method> ;
+    skos:prefLabel "Booch method" ;
+    skos:related ocs:C19809,
+        ocs:C20241,
+        ocs:C2214,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C29844,
+        ocs:C31894,
+        ocs:C34078,
+        ocs:C35144,
+        ocs:C35207,
+        ocs:C37174,
+        ocs:C38385,
+        ocs:C4209,
+        ocs:C43378,
+        ocs:C43901,
+        ocs:C43994,
+        ocs:C44031,
+        ocs:C44278,
+        ocs:C44988,
+        ocs:C666 .
+

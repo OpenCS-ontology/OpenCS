@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31112 a skos:Concept ;
+    skos:broader ocs:C17567 ;
+    skos:closeMatch <http://dbpedia.org/resource/CAN-SPAM_Act_of_2003> ;
+    skos:prefLabel "CAN-SPAM Act of 2003" ;
+    skos:related ocs:C11371,
+        ocs:C12749,
+        ocs:C14983,
+        ocs:C17567,
+        ocs:C18030,
+        ocs:C18986,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C2941,
+        ocs:C3305,
+        ocs:C37829,
+        ocs:C39520,
+        ocs:C40986,
+        ocs:C4621,
+        ocs:C8614,
+        ocs:C986 .
+

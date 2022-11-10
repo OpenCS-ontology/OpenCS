@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15704 a skos:Concept ;
+    skos:broader ocs:C12689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Odia_language> ;
+    skos:prefLabel "Oriya" ;
+    skos:related ocs:C10229,
+        ocs:C10516,
+        ocs:C12689,
+        ocs:C13824,
+        ocs:C15778,
+        ocs:C2491,
+        ocs:C29540,
+        ocs:C401,
+        ocs:C4373,
+        ocs:C4757 .
+

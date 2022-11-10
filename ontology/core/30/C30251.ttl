@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30251 a skos:Concept ;
+    skos:broader ocs:C14053,
+        ocs:C20302,
+        ocs:C22451,
+        ocs:C28744 ;
+    skos:closeMatch <http://dbpedia.org/resource/FM-UWB> ;
+    skos:prefLabel "FM-UWB" ;
+    skos:related ocs:C13110,
+        ocs:C14053,
+        ocs:C14275,
+        ocs:C1455,
+        ocs:C15505,
+        ocs:C17555,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C2178,
+        ocs:C22451,
+        ocs:C25850,
+        ocs:C26908,
+        ocs:C28537,
+        ocs:C44487,
+        ocs:C5036,
+        ocs:C6883 .
+

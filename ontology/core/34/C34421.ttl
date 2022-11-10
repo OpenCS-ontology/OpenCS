@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34421 a skos:Concept ;
+    skos:broader ocs:C14329 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_architecture_framework> ;
+    skos:prefLabel "Enterprise architecture framework" ;
+    skos:related ocs:C14329,
+        ocs:C17238,
+        ocs:C18539,
+        ocs:C29840,
+        ocs:C38363,
+        ocs:C38667,
+        ocs:C38885,
+        ocs:C39686,
+        ocs:C40085,
+        ocs:C40270,
+        ocs:C40895,
+        ocs:C41641,
+        ocs:C42767,
+        ocs:C43469,
+        ocs:C44353,
+        ocs:C44839,
+        ocs:C45082,
+        ocs:C45437 .
+

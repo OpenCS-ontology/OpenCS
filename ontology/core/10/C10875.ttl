@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10875 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_phase> ;
+    skos:prefLabel "Differential phase" ;
+    skos:related ocs:C14053,
+        ocs:C1724,
+        ocs:C17432,
+        ocs:C19342,
+        ocs:C25850,
+        ocs:C27086,
+        ocs:C31095,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C36645,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C44707,
+        ocs:C5354 .
+

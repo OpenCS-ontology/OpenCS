@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15173 a skos:Concept ;
+    skos:broader ocs:C11616 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stuck-at_fault> ;
+    skos:prefLabel "Stuck-at fault" ;
+    skos:related ocs:C10377,
+        ocs:C10920,
+        ocs:C11252,
+        ocs:C15664,
+        ocs:C22699,
+        ocs:C2354,
+        ocs:C24204,
+        ocs:C254,
+        ocs:C3177,
+        ocs:C35540,
+        ocs:C45121,
+        ocs:C5624 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12398 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chirp_transmitter> ;
+    skos:prefLabel "Chirp transmitter" ;
+    skos:related ocs:C15824,
+        ocs:C17653,
+        ocs:C20804,
+        ocs:C3044,
+        ocs:C40585,
+        ocs:C40982,
+        ocs:C45043,
+        ocs:C45368,
+        ocs:C8700 .
+

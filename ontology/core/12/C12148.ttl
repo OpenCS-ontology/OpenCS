@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12148 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cooperative_learning> ;
+    skos:prefLabel "Cooperative learning" ;
+    skos:related ocs:C13047,
+        ocs:C15193,
+        ocs:C18169,
+        ocs:C25892,
+        ocs:C3057,
+        ocs:C4174,
+        ocs:C764 .
+

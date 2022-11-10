@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22805 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modular_origami> ;
+    skos:prefLabel "Modular origami" ;
+    skos:related ocs:C31481,
+        ocs:C34506,
+        ocs:C35312,
+        ocs:C40196,
+        ocs:C41829,
+        ocs:C43632 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31153 a skos:Concept ;
+    skos:broader ocs:C23291,
+        ocs:C26161,
+        ocs:C28235 ;
+    skos:prefLabel "Scalable network emulation" .
+

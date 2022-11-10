@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17176 a skos:Concept ;
+    skos:broader ocs:C246,
+        ocs:C6291,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prosecutor's_fallacy> ;
+    skos:prefLabel "Prosecutor's fallacy" ;
+    skos:related ocs:C10551,
+        ocs:C11947,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C23847,
+        ocs:C246,
+        ocs:C2874,
+        ocs:C6112,
+        ocs:C6291,
+        ocs:C6692 .
+

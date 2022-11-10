@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22699 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_logic> ;
+    skos:prefLabel "Sequential logic" ;
+    skos:related ocs:C10320,
+        ocs:C11252,
+        ocs:C12002,
+        ocs:C19673,
+        ocs:C210,
+        ocs:C37773,
+        ocs:C39850,
+        ocs:C4651,
+        ocs:C6534,
+        ocs:C8475,
+        ocs:C8791,
+        ocs:C9908 .
+

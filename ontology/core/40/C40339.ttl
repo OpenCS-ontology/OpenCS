@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40339 a skos:Concept ;
+    skos:broader ocs:C34052 ;
+    skos:closeMatch <http://dbpedia.org/resource/SipHash> ;
+    skos:prefLabel "SipHash" ;
+    skos:related ocs:C18803,
+        ocs:C23875,
+        ocs:C25500,
+        ocs:C26456,
+        ocs:C32054,
+        ocs:C33459,
+        ocs:C35389,
+        ocs:C37854,
+        ocs:C38073,
+        ocs:C3936,
+        ocs:C40519,
+        ocs:C4218,
+        ocs:C42747,
+        ocs:C43230,
+        ocs:C44443,
+        ocs:C45187,
+        ocs:C45340,
+        ocs:C4751 .
+

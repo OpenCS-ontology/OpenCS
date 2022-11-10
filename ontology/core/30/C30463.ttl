@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30463 a skos:Concept ;
+    skos:broader ocs:C22494 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bartlett's_method> ;
+    skos:prefLabel "Bartlett's method" ;
+    skos:related ocs:C10509,
+        ocs:C11443,
+        ocs:C1449,
+        ocs:C15052,
+        ocs:C2168,
+        ocs:C22494,
+        ocs:C23024,
+        ocs:C34392,
+        ocs:C9428,
+        ocs:C9871 .
+

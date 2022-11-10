@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30510 a skos:Concept ;
+    skos:broader ocs:C14832 ;
+    skos:closeMatch <http://dbpedia.org/resource/Remote_Digital_Terminal> ;
+    skos:prefLabel "Remote Digital Terminal" ;
+    skos:related ocs:C10638,
+        ocs:C11769,
+        ocs:C12307,
+        ocs:C12308,
+        ocs:C13695,
+        ocs:C25250,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C29460,
+        ocs:C31109,
+        ocs:C34141,
+        ocs:C4821,
+        ocs:C6027 .
+

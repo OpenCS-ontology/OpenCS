@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33824 a skos:Concept ;
+    skos:broader ocs:C23854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_variant> ;
+    skos:prefLabel "Loop variant" ;
+    skos:related ocs:C10,
+        ocs:C10917,
+        ocs:C1137,
+        ocs:C12474,
+        ocs:C16907,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C28783,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C37681,
+        ocs:C4778,
+        ocs:C6941,
+        ocs:C7733,
+        ocs:C8439 .
+

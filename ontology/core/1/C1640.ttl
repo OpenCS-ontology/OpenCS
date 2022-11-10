@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1640 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Directional_statistics> ;
+    skos:prefLabel "Directional statistics" ;
+    skos:related ocs:C1844,
+        ocs:C23748,
+        ocs:C25862,
+        ocs:C26952,
+        ocs:C42128,
+        ocs:C9326 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2185 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IOPL> ;
+    skos:prefLabel "IOPL" ;
+    skos:related ocs:C10994,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C12533,
+        ocs:C12738,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C22553,
+        ocs:C27025,
+        ocs:C31346,
+        ocs:C35579,
+        ocs:C36806,
+        ocs:C37134,
+        ocs:C39896,
+        ocs:C5147,
+        ocs:C7635,
+        ocs:C8794,
+        ocs:C9 .
+

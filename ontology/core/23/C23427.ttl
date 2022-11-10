@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23427 a skos:Concept ;
+    skos:broader ocs:C6912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_tongue> ;
+    skos:prefLabel "Electronic tongue" ;
+    skos:related ocs:C10212 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14310 a skos:Concept ;
+    skos:broader ocs:C12304,
+        ocs:C12579,
+        ocs:C2579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Belief–desire–intention_model> ;
+    skos:prefLabel "Belief–desire–intention model" ;
+    skos:related ocs:C1,
+        ocs:C12579,
+        ocs:C21254,
+        ocs:C2579,
+        ocs:C27665,
+        ocs:C33186,
+        ocs:C33531,
+        ocs:C37586,
+        ocs:C685,
+        ocs:C8,
+        ocs:C852 .
+

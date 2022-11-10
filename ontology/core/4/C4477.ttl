@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4477 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unspecified_behavior> ;
+    skos:prefLabel "Unspecified behavior" ;
+    skos:related ocs:C1142,
+        ocs:C11991,
+        ocs:C12257,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21201,
+        ocs:C25127,
+        ocs:C27521,
+        ocs:C29693,
+        ocs:C3036,
+        ocs:C4321,
+        ocs:C4869,
+        ocs:C6025,
+        ocs:C6072,
+        ocs:C6941,
+        ocs:C9277 .
+

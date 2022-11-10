@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12762 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Competitive_programming> ;
+    skos:prefLabel "Competitive programming" ;
+    skos:related ocs:C10,
+        ocs:C10284,
+        ocs:C14693,
+        ocs:C15531,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C29,
+        ocs:C3678,
+        ocs:C41603,
+        ocs:C5000,
+        ocs:C5309,
+        ocs:C6072,
+        ocs:C8,
+        ocs:C8614,
+        ocs:C8660 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4807 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Componential_analysis> ;
+    skos:prefLabel "Componential analysis" ;
+    skos:related ocs:C1451,
+        ocs:C15463,
+        ocs:C22317,
+        ocs:C22325,
+        ocs:C22456,
+        ocs:C26019,
+        ocs:C27168,
+        ocs:C28248,
+        ocs:C28748,
+        ocs:C28799,
+        ocs:C37545,
+        ocs:C43813,
+        ocs:C5311,
+        ocs:C6018,
+        ocs:C7467 .
+

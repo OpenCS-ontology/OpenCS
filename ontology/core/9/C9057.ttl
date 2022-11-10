@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9057 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Content_creation> ;
+    skos:prefLabel "Content creation" ;
+    skos:related ocs:C11456,
+        ocs:C15008,
+        ocs:C17,
+        ocs:C22668,
+        ocs:C25752,
+        ocs:C2970,
+        ocs:C3444,
+        ocs:C3896,
+        ocs:C5554,
+        ocs:C5746,
+        ocs:C6219,
+        ocs:C7914,
+        ocs:C8068,
+        ocs:C8614 .
+

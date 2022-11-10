@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35960 a skos:Concept ;
+    skos:broader ocs:C25499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Underwater_acoustic_positioning_system> ;
+    skos:prefLabel "Underwater acoustic positioning system" ;
+    skos:related ocs:C17172,
+        ocs:C23843,
+        ocs:C25571,
+        ocs:C25625,
+        ocs:C7008,
+        ocs:C8182 .
+

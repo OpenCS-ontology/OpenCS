@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39576 a skos:Concept ;
+    skos:broader ocs:C33774 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primary_atmosphere> ;
+    skos:prefLabel "Primary atmosphere" ;
+    skos:related ocs:C14270,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C30091,
+        ocs:C33774,
+        ocs:C36203,
+        ocs:C37074,
+        ocs:C41369,
+        ocs:C44343 .
+

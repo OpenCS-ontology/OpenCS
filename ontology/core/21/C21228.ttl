@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21228 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:prefLabel "Post Technique" ;
+    skos:related ocs:C1,
+        ocs:C29399,
+        ocs:C4697 .
+

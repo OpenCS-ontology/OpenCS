@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24962 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Two-dimensional_graph> ;
+    skos:prefLabel "Two-dimensional graph" ;
+    skos:related ocs:C10051,
+        ocs:C15799,
+        ocs:C19664,
+        ocs:C5204,
+        ocs:C9690 .
+

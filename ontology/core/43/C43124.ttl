@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43124 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncore> ;
+    skos:prefLabel "Uncore" ;
+    skos:related ocs:C10320,
+        ocs:C1810,
+        ocs:C21617,
+        ocs:C23432,
+        ocs:C24190,
+        ocs:C25171,
+        ocs:C27610,
+        ocs:C36894,
+        ocs:C38461,
+        ocs:C38463,
+        ocs:C38525,
+        ocs:C40559,
+        ocs:C42759,
+        ocs:C9542 .
+

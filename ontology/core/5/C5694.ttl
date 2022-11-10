@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5694 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vinum_volume_manager> ;
+    skos:prefLabel "Vinum volume manager" ;
+    skos:related ocs:C10501,
+        ocs:C10568,
+        ocs:C11438,
+        ocs:C17484,
+        ocs:C19523,
+        ocs:C25967,
+        ocs:C26157,
+        ocs:C27449,
+        ocs:C33900,
+        ocs:C36822,
+        ocs:C37940,
+        ocs:C42460,
+        ocs:C42619,
+        ocs:C43308,
+        ocs:C43718,
+        ocs:C43764,
+        ocs:C44,
+        ocs:C7341,
+        ocs:C9 .
+

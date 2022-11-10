@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21995 a skos:Concept ;
+    skos:broader ocs:C6749 ;
+    skos:prefLabel "Employer name" ;
+    skos:related ocs:C1,
+        ocs:C25,
+        ocs:C31,
+        ocs:C6749,
+        ocs:C7912,
+        ocs:C8 .
+

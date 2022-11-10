@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4037 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudoelementary_class> ;
+    skos:prefLabel "Pseudoelementary class" ;
+    skos:related ocs:C12474,
+        ocs:C17372,
+        ocs:C26094,
+        ocs:C2727,
+        ocs:C32839,
+        ocs:C3894,
+        ocs:C43897,
+        ocs:C44499,
+        ocs:C44858,
+        ocs:C8635,
+        ocs:C9440 .
+

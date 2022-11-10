@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32511 a skos:Concept ;
+    skos:broader ocs:C14922 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable-order_Markov_model> ;
+    skos:prefLabel "Variable-order Markov model" ;
+    skos:related ocs:C14922,
+        ocs:C22075,
+        ocs:C23888,
+        ocs:C2874,
+        ocs:C29577,
+        ocs:C29727,
+        ocs:C30238,
+        ocs:C30864,
+        ocs:C33043,
+        ocs:C39751,
+        ocs:C42135,
+        ocs:C5856,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 .
+

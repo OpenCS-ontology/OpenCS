@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9453 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polarizing_organic_photovoltaics> ;
+    skos:prefLabel "Polarizing organic photovoltaics" ;
+    skos:related ocs:C1084,
+        ocs:C13725,
+        ocs:C24972,
+        ocs:C26526,
+        ocs:C29012,
+        ocs:C5577,
+        ocs:C653,
+        ocs:C6969,
+        ocs:C9605 .
+

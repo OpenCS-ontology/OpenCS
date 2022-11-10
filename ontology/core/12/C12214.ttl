@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12214 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formal_learning> ;
+    skos:prefLabel "Formal learning" ;
+    skos:related ocs:C10669,
+        ocs:C15347,
+        ocs:C20042,
+        ocs:C21674,
+        ocs:C25037,
+        ocs:C3444 .
+

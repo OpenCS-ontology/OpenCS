@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11252 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_gate> ;
+    skos:prefLabel "Logic gate" ;
+    skos:related ocs:C10320,
+        ocs:C12781,
+        ocs:C13855,
+        ocs:C22699,
+        ocs:C35269,
+        ocs:C3894,
+        ocs:C45667,
+        ocs:C8791 .
+

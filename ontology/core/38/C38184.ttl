@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38184 a skos:Concept ;
+    skos:broader ocs:C33773,
+        ocs:C36169 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11b-1999> ;
+    skos:prefLabel "IEEE 802.11b-1999" ;
+    skos:related ocs:C15728,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C2708,
+        ocs:C31252,
+        ocs:C31489,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C39020,
+        ocs:C41893,
+        ocs:C42902,
+        ocs:C45757,
+        ocs:C45852,
+        ocs:C4665,
+        ocs:C490 .
+

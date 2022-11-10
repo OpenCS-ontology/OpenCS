@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32855 a skos:Concept ;
+    skos:broader ocs:C14479,
+        ocs:C23973 ;
+    skos:prefLabel "Gramicidin A" ;
+    skos:related ocs:C23973,
+        ocs:C26689,
+        ocs:C4099 .
+

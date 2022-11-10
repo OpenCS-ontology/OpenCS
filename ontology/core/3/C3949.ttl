@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3949 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-letter_acronym> ;
+    skos:prefLabel "Three-letter acronym" ;
+    skos:related ocs:C10320,
+        ocs:C1253,
+        ocs:C13096,
+        ocs:C17204,
+        ocs:C1803,
+        ocs:C19,
+        ocs:C19754,
+        ocs:C31,
+        ocs:C34050,
+        ocs:C9162 .
+

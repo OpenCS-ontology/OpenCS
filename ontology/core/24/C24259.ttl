@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24259 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kepler_(lunar_crater)> ;
+    skos:prefLabel "Kepler" ;
+    skos:related ocs:C28425,
+        ocs:C31029 .
+

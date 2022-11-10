@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15679 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C13006,
+        ocs:C8564,
+        ocs:C8725 ;
+    skos:closeMatch <http://dbpedia.org/resource/Syntactic_ambiguity> ;
+    skos:prefLabel "Syntactic ambiguity" ;
+    skos:related ocs:C1034,
+        ocs:C15463,
+        ocs:C15475,
+        ocs:C20679,
+        ocs:C21988,
+        ocs:C29946,
+        ocs:C32,
+        ocs:C34149,
+        ocs:C524,
+        ocs:C6293,
+        ocs:C6764,
+        ocs:C8454,
+        ocs:C8564,
+        ocs:C8725 .
+

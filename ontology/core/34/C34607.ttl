@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34607 a skos:Concept ;
+    skos:broader ocs:C17656 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_provider> ;
+    skos:prefLabel "Identity provider" ;
+    skos:related ocs:C1634,
+        ocs:C17656,
+        ocs:C20313,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C25612,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C31995,
+        ocs:C32400,
+        ocs:C33015,
+        ocs:C3778,
+        ocs:C38075,
+        ocs:C44429,
+        ocs:C449,
+        ocs:C5731,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8711,
+        ocs:C9344 .
+

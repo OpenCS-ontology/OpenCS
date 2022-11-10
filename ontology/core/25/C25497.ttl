@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25497 a skos:Concept ;
+    skos:broader ocs:C2005,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_separability> ;
+    skos:prefLabel "Linear separability" ;
+    skos:related ocs:C11030,
+        ocs:C12258,
+        ocs:C1829,
+        ocs:C19354,
+        ocs:C2005,
+        ocs:C22260,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C41650,
+        ocs:C5799,
+        ocs:C9022 .
+

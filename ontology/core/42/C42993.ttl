@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42993 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36406,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oriented_coloring> ;
+    skos:prefLabel "Oriented coloring" ;
+    skos:related ocs:C15097,
+        ocs:C32757,
+        ocs:C32801,
+        ocs:C37036,
+        ocs:C38560,
+        ocs:C39401,
+        ocs:C39516,
+        ocs:C40314,
+        ocs:C40485,
+        ocs:C40560,
+        ocs:C41797,
+        ocs:C42377,
+        ocs:C42470,
+        ocs:C42845,
+        ocs:C42986,
+        ocs:C43652,
+        ocs:C43912,
+        ocs:C45425,
+        ocs:C45882 .
+

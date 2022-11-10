@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9548 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rijndael_mix_columns> ;
+    skos:prefLabel "Rijndael MixColumns" ;
+    skos:related ocs:C25340,
+        ocs:C29982,
+        ocs:C31224,
+        ocs:C35265,
+        ocs:C36570,
+        ocs:C38401,
+        ocs:C39173,
+        ocs:C39203,
+        ocs:C39213,
+        ocs:C39657,
+        ocs:C41514,
+        ocs:C42142,
+        ocs:C42904,
+        ocs:C7171,
+        ocs:C8076 .
+

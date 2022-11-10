@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5262 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subtitle_(captioning)> ;
+    skos:prefLabel "Subtitle" ;
+    skos:related ocs:C10463,
+        ocs:C12544,
+        ocs:C18701,
+        ocs:C25195,
+        ocs:C28881,
+        ocs:C3522,
+        ocs:C38826,
+        ocs:C39183,
+        ocs:C4433,
+        ocs:C4448,
+        ocs:C7255,
+        ocs:C8234,
+        ocs:C9045 .
+

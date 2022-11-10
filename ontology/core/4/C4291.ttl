@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4291 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Problem_domain> ;
+    skos:prefLabel "Problem domain" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10720,
+        ocs:C1834,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C28349,
+        ocs:C29844,
+        ocs:C31320,
+        ocs:C37174,
+        ocs:C4207,
+        ocs:C4260,
+        ocs:C8,
+        ocs:C8751,
+        ocs:C8786,
+        ocs:C8889 .
+

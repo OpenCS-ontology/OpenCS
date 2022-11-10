@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28064 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amorphous_computing> ;
+    skos:prefLabel "Amorphous computing" ;
+    skos:related ocs:C122,
+        ocs:C18982,
+        ocs:C20120,
+        ocs:C20846,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C30,
+        ocs:C35953,
+        ocs:C9022 .
+

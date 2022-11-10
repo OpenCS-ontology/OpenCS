@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33134 a skos:Concept ;
+    skos:broader ocs:C26344 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_matrix_notation_of_a_VAR(p)> ;
+    skos:prefLabel "General matrix notation of a VAR" ;
+    skos:related ocs:C26344 .
+

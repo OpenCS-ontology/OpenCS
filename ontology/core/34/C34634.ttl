@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34634 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orphan_works> ;
+    skos:prefLabel "Orphan works" ;
+    skos:related ocs:C1253,
+        ocs:C13306,
+        ocs:C14002,
+        ocs:C17516,
+        ocs:C18764,
+        ocs:C28712,
+        ocs:C30476,
+        ocs:C32165,
+        ocs:C32306,
+        ocs:C32530,
+        ocs:C32847,
+        ocs:C33316,
+        ocs:C40984,
+        ocs:C6234,
+        ocs:C8011 .
+

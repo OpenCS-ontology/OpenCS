@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39651 a skos:Concept ;
+    skos:broader ocs:C33575,
+        ocs:C33611,
+        ocs:C34110 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bipolar_nebula> ;
+    skos:prefLabel "Bipolar nebula" ;
+    skos:related ocs:C10556,
+        ocs:C18085,
+        ocs:C22542,
+        ocs:C23296,
+        ocs:C24720,
+        ocs:C25028,
+        ocs:C25949,
+        ocs:C29212,
+        ocs:C32298,
+        ocs:C33575,
+        ocs:C33611,
+        ocs:C33620,
+        ocs:C34110,
+        ocs:C597 .
+

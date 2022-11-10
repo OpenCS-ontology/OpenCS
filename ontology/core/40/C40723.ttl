@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40723 a skos:Concept ;
+    skos:broader ocs:C35166,
+        ocs:C35429 ;
+    skos:closeMatch <http://dbpedia.org/resource/SeaChanger_Color_Engine> ;
+    skos:prefLabel "SeaChanger Color Engine" ;
+    skos:related ocs:C12484,
+        ocs:C13525,
+        ocs:C1806,
+        ocs:C21360,
+        ocs:C26733,
+        ocs:C9482 .
+

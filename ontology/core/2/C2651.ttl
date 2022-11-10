@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2651 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Canonical_model> ;
+    skos:prefLabel "Canonical model" ;
+    skos:related ocs:C10781,
+        ocs:C11927,
+        ocs:C13744,
+        ocs:C1496,
+        ocs:C17238,
+        ocs:C19052,
+        ocs:C20446,
+        ocs:C23709,
+        ocs:C28581,
+        ocs:C31667,
+        ocs:C39077,
+        ocs:C39686,
+        ocs:C42780,
+        ocs:C44634,
+        ocs:C44843,
+        ocs:C5284 .
+

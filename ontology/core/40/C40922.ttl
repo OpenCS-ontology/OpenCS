@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40922 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C31363,
+        ocs:C36439 ;
+    skos:closeMatch <http://dbpedia.org/resource/MOESI_protocol> ;
+    skos:prefLabel "MOESI protocol" ;
+    skos:related ocs:C10320,
+        ocs:C1491,
+        ocs:C17698,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C3231,
+        ocs:C38461,
+        ocs:C38525,
+        ocs:C38992,
+        ocs:C40630,
+        ocs:C41895,
+        ocs:C42095,
+        ocs:C42420,
+        ocs:C42759,
+        ocs:C44255,
+        ocs:C44418,
+        ocs:C44866,
+        ocs:C45910,
+        ocs:C8706 .
+

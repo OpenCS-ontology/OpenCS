@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43876 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differentiation_of_trigonometric_functions> ;
+    skos:prefLabel "Differentiation of trigonometric functions" ;
+    skos:related ocs:C10531,
+        ocs:C13541,
+        ocs:C40788,
+        ocs:C44284 .
+

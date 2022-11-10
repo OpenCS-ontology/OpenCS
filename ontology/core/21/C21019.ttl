@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21019 a skos:Concept ;
+    skos:broader ocs:C13366,
+        ocs:C6255,
+        ocs:C794 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_data_types> ;
+    skos:prefLabel "C data types" ;
+    skos:related ocs:C10909,
+        ocs:C14990,
+        ocs:C15051,
+        ocs:C17703,
+        ocs:C18991,
+        ocs:C24135,
+        ocs:C26466,
+        ocs:C33278,
+        ocs:C33702,
+        ocs:C39715,
+        ocs:C5280,
+        ocs:C5722,
+        ocs:C6255,
+        ocs:C794,
+        ocs:C8170,
+        ocs:C8323 .
+

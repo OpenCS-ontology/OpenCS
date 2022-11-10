@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15856 a skos:Concept ;
+    skos:broader ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thematic_vowel> ;
+    skos:prefLabel "Thematic vowel" ;
+    skos:related ocs:C13868,
+        ocs:C13926,
+        ocs:C18046,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25169,
+        ocs:C26884,
+        ocs:C32159,
+        ocs:C35238 .
+

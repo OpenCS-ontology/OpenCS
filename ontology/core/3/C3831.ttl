@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3831 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supertask> ;
+    skos:prefLabel "Supertask" ;
+    skos:related ocs:C11060,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C32379,
+        ocs:C41471,
+        ocs:C5251 .
+

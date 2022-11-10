@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24552 a skos:Concept ;
+    skos:broader ocs:C11402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Homonymous_hemianopsia> ;
+    skos:prefLabel "Homonymous hemianopsia" ;
+    skos:related ocs:C11402,
+        ocs:C21487 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20248 a skos:Concept ;
+    skos:broader ocs:C2875,
+        ocs:C5865,
+        ocs:C6279 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithm_engineering> ;
+    skos:prefLabel "Algorithm engineering" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C1035,
+        ocs:C23183,
+        ocs:C2747,
+        ocs:C29,
+        ocs:C30406,
+        ocs:C38070,
+        ocs:C3837,
+        ocs:C6279,
+        ocs:C628,
+        ocs:C8329 .
+

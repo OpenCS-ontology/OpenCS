@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44939 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ontology_for_Biomedical_Investigations> ;
+    skos:prefLabel "Ontology for Biomedical Investigations" ;
+    skos:related ocs:C25681,
+        ocs:C28117,
+        ocs:C28119,
+        ocs:C28591,
+        ocs:C30736,
+        ocs:C3396,
+        ocs:C34321,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C40851,
+        ocs:C40912,
+        ocs:C41212,
+        ocs:C41877,
+        ocs:C44161,
+        ocs:C44162,
+        ocs:C45213,
+        ocs:C45471 .
+

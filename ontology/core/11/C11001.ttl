@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11001 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:prefLabel "Pseudo-code" ;
+    skos:related ocs:C10052,
+        ocs:C11443,
+        ocs:C12257,
+        ocs:C12641,
+        ocs:C16,
+        ocs:C2,
+        ocs:C22,
+        ocs:C28069,
+        ocs:C30,
+        ocs:C33,
+        ocs:C3401,
+        ocs:C5336,
+        ocs:C7733,
+        ocs:C8329,
+        ocs:C8704 .
+

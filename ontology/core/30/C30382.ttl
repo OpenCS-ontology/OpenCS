@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30382 a skos:Concept ;
+    skos:broader ocs:C20845 ;
+    skos:prefLabel "POC protocol" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C26,
+        ocs:C30,
+        ocs:C7159 .
+

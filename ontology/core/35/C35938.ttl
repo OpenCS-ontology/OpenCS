@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35938 a skos:Concept ;
+    skos:broader ocs:C15275,
+        ocs:C20132,
+        ocs:C26693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rho_calculus> ;
+    skos:prefLabel "Rho calculus" ;
+    skos:related ocs:C13751,
+        ocs:C13852,
+        ocs:C14419,
+        ocs:C1631,
+        ocs:C18045,
+        ocs:C24197,
+        ocs:C32647,
+        ocs:C36813,
+        ocs:C38604,
+        ocs:C39944,
+        ocs:C41096,
+        ocs:C41359,
+        ocs:C41703,
+        ocs:C44735,
+        ocs:C44875,
+        ocs:C44999,
+        ocs:C5206,
+        ocs:C7601,
+        ocs:C8914,
+        ocs:C9560 .
+

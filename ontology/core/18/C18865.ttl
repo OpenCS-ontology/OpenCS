@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18865 a skos:Concept ;
+    skos:broader ocs:C1501,
+        ocs:C2801,
+        ocs:C8499 ;
+    skos:prefLabel "Hough transforms" .
+

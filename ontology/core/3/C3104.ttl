@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3104 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wiggle_stereoscopy> ;
+    skos:prefLabel "Wiggle stereoscopy" ;
+    skos:related ocs:C11774,
+        ocs:C13549,
+        ocs:C13745,
+        ocs:C14023,
+        ocs:C14925,
+        ocs:C20207,
+        ocs:C23153,
+        ocs:C2422,
+        ocs:C244,
+        ocs:C25249,
+        ocs:C2825,
+        ocs:C2883,
+        ocs:C36940,
+        ocs:C664,
+        ocs:C7,
+        ocs:C7910 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4617 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/MicroID> ;
+    skos:prefLabel "MicroID" ;
+    skos:related ocs:C1746,
+        ocs:C20313,
+        ocs:C22246,
+        ocs:C26239,
+        ocs:C30237,
+        ocs:C31,
+        ocs:C37042,
+        ocs:C38459,
+        ocs:C38812,
+        ocs:C39074,
+        ocs:C4129,
+        ocs:C43255,
+        ocs:C4431,
+        ocs:C44631,
+        ocs:C5065,
+        ocs:C6553,
+        ocs:C6642,
+        ocs:C6968 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4659 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wizard_(software)> ;
+    skos:prefLabel "Wizard" ;
+    skos:related ocs:C10096,
+        ocs:C1042,
+        ocs:C10616,
+        ocs:C12325,
+        ocs:C12579,
+        ocs:C12810,
+        ocs:C18,
+        ocs:C22254,
+        ocs:C27515,
+        ocs:C2981,
+        ocs:C30078,
+        ocs:C3900,
+        ocs:C4230,
+        ocs:C5702,
+        ocs:C7736,
+        ocs:C7819,
+        ocs:C8289,
+        ocs:C8330,
+        ocs:C8965,
+        ocs:C9 .
+

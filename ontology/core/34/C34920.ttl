@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34920 a skos:Concept ;
+    skos:broader ocs:C16954 ;
+    skos:closeMatch <http://dbpedia.org/resource/Under_color_removal> ;
+    skos:prefLabel "Under color removal" ;
+    skos:related ocs:C12053,
+        ocs:C13544,
+        ocs:C16674,
+        ocs:C24911,
+        ocs:C25345,
+        ocs:C32992,
+        ocs:C38650,
+        ocs:C42852 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33063 a skos:Concept ;
+    skos:broader ocs:C27076 ;
+    skos:prefLabel "Patents rights" ;
+    skos:related ocs:C26214,
+        ocs:C5625 .
+

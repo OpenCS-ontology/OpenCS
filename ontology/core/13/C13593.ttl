@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13593 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/ANT_(network)> ;
+    skos:prefLabel "ANT" ;
+    skos:related ocs:C14931,
+        ocs:C20231,
+        ocs:C21424,
+        ocs:C23666,
+        ocs:C26,
+        ocs:C31749,
+        ocs:C33773,
+        ocs:C35075,
+        ocs:C35370,
+        ocs:C36375,
+        ocs:C38833,
+        ocs:C40705,
+        ocs:C45545,
+        ocs:C8136,
+        ocs:C8172,
+        ocs:C8431 .
+

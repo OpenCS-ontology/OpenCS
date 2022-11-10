@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8352 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Procrustes_transformation> ;
+    skos:prefLabel "Procrustes transformation" ;
+    skos:related ocs:C13097,
+        ocs:C16671,
+        ocs:C20460,
+        ocs:C38626,
+        ocs:C41932,
+        ocs:C42027 .
+

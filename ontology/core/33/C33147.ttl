@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33147 a skos:Concept ;
+    skos:broader ocs:C26006 ;
+    skos:closeMatch <http://dbpedia.org/resource/FIPS_140-2> ;
+    skos:prefLabel "FIPS 140-2" ;
+    skos:related ocs:C1184,
+        ocs:C12052,
+        ocs:C16125,
+        ocs:C17314,
+        ocs:C17878,
+        ocs:C19040,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C25358,
+        ocs:C26006,
+        ocs:C28881,
+        ocs:C35,
+        ocs:C37209,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C8437,
+        ocs:C9071,
+        ocs:C9349,
+        ocs:C970 .
+

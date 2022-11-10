@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17413 a skos:Concept ;
+    skos:broader ocs:C3283,
+        ocs:C4099,
+        ocs:C5279,
+        ocs:C5706,
+        ocs:C8901,
+        ocs:C9049 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_(programming)> ;
+    skos:prefLabel "Channel (programming)" ;
+    skos:related ocs:C10135,
+        ocs:C10219,
+        ocs:C10379,
+        ocs:C10683,
+        ocs:C11084,
+        ocs:C14994,
+        ocs:C1625,
+        ocs:C19876,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C32014,
+        ocs:C3514,
+        ocs:C38237,
+        ocs:C40231,
+        ocs:C40312,
+        ocs:C41733,
+        ocs:C41970,
+        ocs:C5279 .
+

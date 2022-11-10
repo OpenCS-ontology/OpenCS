@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29131 a skos:Concept ;
+    skos:broader ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Financial_Information_eXchange> ;
+    skos:prefLabel "Financial Information eXchange" ;
+    skos:related ocs:C11927,
+        ocs:C13252,
+        ocs:C24338,
+        ocs:C28597,
+        ocs:C33469,
+        ocs:C7675 .
+

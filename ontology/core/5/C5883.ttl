@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5883 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C22 ;
+    skos:prefLabel "DVD-RW" ;
+    skos:related ocs:C11040,
+        ocs:C12430,
+        ocs:C12872,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C3984,
+        ocs:C4916,
+        ocs:C7255,
+        ocs:C8935,
+        ocs:C9266 .
+

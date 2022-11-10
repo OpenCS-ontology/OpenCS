@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30091 a skos:Concept ;
+    skos:broader ocs:C14270,
+        ocs:C26524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Giant_planet> ;
+    skos:prefLabel "Giant planet" ;
+    skos:related ocs:C10556,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C34570,
+        ocs:C38234,
+        ocs:C597 .
+

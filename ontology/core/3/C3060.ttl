@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3060 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IS-41> ;
+    skos:prefLabel "IS-41" ;
+    skos:related ocs:C1041,
+        ocs:C15612,
+        ocs:C16693,
+        ocs:C20859,
+        ocs:C28176,
+        ocs:C29697,
+        ocs:C32231,
+        ocs:C35725,
+        ocs:C36500,
+        ocs:C37065,
+        ocs:C37303,
+        ocs:C3933,
+        ocs:C39722,
+        ocs:C40238,
+        ocs:C44251,
+        ocs:C5917,
+        ocs:C6987,
+        ocs:C7877,
+        ocs:C9154,
+        ocs:C9332 .
+

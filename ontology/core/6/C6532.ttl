@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6532 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_possibility> ;
+    skos:prefLabel "Logical possibility" ;
+    skos:related ocs:C11635,
+        ocs:C17925,
+        ocs:C2418,
+        ocs:C32129,
+        ocs:C36725,
+        ocs:C3894,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C45548,
+        ocs:C5714,
+        ocs:C6669,
+        ocs:C8077 .
+

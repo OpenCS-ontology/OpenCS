@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26894 a skos:Concept ;
+    skos:broader ocs:C10516 ;
+    skos:closeMatch <http://dbpedia.org/resource/Middle_Persian> ;
+    skos:prefLabel "Middle Persian" ;
+    skos:related ocs:C10516,
+        ocs:C14854,
+        ocs:C19381,
+        ocs:C23905,
+        ocs:C401,
+        ocs:C5062 .
+

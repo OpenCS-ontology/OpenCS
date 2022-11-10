@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44164 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35839,
+        ocs:C36161,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fowler–Noll–Vo_hash_function> ;
+    skos:prefLabel "Fowler–Noll–Vo hash function" ;
+    skos:related ocs:C12852,
+        ocs:C15591,
+        ocs:C17903,
+        ocs:C23875,
+        ocs:C2475,
+        ocs:C32054,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37936,
+        ocs:C3936,
+        ocs:C4026,
+        ocs:C4033,
+        ocs:C43191,
+        ocs:C43230,
+        ocs:C44226 .
+

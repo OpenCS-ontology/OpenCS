@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28187 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_package> ;
+    skos:prefLabel "Java package" ;
+    skos:related ocs:C10408,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C14627,
+        ocs:C16588,
+        ocs:C17123,
+        ocs:C19,
+        ocs:C2674,
+        ocs:C31693,
+        ocs:C33921,
+        ocs:C41248,
+        ocs:C42037,
+        ocs:C44708,
+        ocs:C5308,
+        ocs:C5702,
+        ocs:C9 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15675 a skos:Concept ;
+    skos:broader ocs:C2413,
+        ocs:C8944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_programming_relaxation> ;
+    skos:prefLabel "Linear programming relaxation" ;
+    skos:related ocs:C11372,
+        ocs:C14851,
+        ocs:C15480,
+        ocs:C2413,
+        ocs:C26453,
+        ocs:C30401,
+        ocs:C31026,
+        ocs:C36279,
+        ocs:C3678,
+        ocs:C37036,
+        ocs:C3837,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C7397,
+        ocs:C8660,
+        ocs:C8944 .
+

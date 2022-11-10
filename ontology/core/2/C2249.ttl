@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2249 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sobol_sequence> ;
+    skos:prefLabel "Sobol sequence" ;
+    skos:related ocs:C22686,
+        ocs:C23865,
+        ocs:C24394,
+        ocs:C35165,
+        ocs:C36008,
+        ocs:C40868,
+        ocs:C41778,
+        ocs:C43676,
+        ocs:C44529,
+        ocs:C45071,
+        ocs:C5037,
+        ocs:C6535 .
+

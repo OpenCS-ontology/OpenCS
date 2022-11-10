@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2317 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sethi–Ullman_algorithm> ;
+    skos:prefLabel "Sethi–Ullman algorithm" ;
+    skos:related ocs:C10,
+        ocs:C12974,
+        ocs:C13045,
+        ocs:C17204,
+        ocs:C18272,
+        ocs:C18370,
+        ocs:C18617,
+        ocs:C19,
+        ocs:C19147,
+        ocs:C21627,
+        ocs:C34037,
+        ocs:C35009,
+        ocs:C3561,
+        ocs:C35961,
+        ocs:C37461,
+        ocs:C37538,
+        ocs:C39149,
+        ocs:C43186,
+        ocs:C4321,
+        ocs:C5256 .
+

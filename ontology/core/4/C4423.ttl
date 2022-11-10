@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4423 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Business Personnel" ;
+    skos:related ocs:C13078,
+        ocs:C17238,
+        ocs:C197,
+        ocs:C20812,
+        ocs:C30649,
+        ocs:C33,
+        ocs:C3395,
+        ocs:C39666,
+        ocs:C8614 .
+

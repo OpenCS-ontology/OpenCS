@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40983 a skos:Concept ;
+    skos:broader ocs:C31016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-rocket_spacelaunch> ;
+    skos:prefLabel "Non-rocket spacelaunch" ;
+    skos:related ocs:C1628,
+        ocs:C20573,
+        ocs:C2252,
+        ocs:C26021,
+        ocs:C4072,
+        ocs:C41911,
+        ocs:C5096,
+        ocs:C5293,
+        ocs:C6882,
+        ocs:C81 .
+

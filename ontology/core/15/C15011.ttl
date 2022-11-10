@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15011 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Readout_integrated_circuit> ;
+    skos:prefLabel "Readout integrated circuit" ;
+    skos:related ocs:C11814,
+        ocs:C13985,
+        ocs:C17601,
+        ocs:C20658,
+        ocs:C22118,
+        ocs:C5336,
+        ocs:C9431 .
+

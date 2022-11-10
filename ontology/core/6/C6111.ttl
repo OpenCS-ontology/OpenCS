@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6111 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telegraphic_speech> ;
+    skos:prefLabel "Telegraphic speech" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C15526,
+        ocs:C19932,
+        ocs:C20956,
+        ocs:C2761,
+        ocs:C30276,
+        ocs:C32426,
+        ocs:C3261,
+        ocs:C6634,
+        ocs:C8454 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18871 a skos:Concept ;
+    skos:broader ocs:C7008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Towed_array_sonar> ;
+    skos:prefLabel "Towed array sonar" ;
+    skos:related ocs:C14989,
+        ocs:C16720,
+        ocs:C5298,
+        ocs:C7008,
+        ocs:C7909,
+        ocs:C8182,
+        ocs:C8273 .
+

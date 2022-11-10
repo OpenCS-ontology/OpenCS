@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27080 a skos:Concept ;
+    skos:broader ocs:C13605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data-flow_analysis> ;
+    skos:prefLabel "Data-flow analysis" ;
+    skos:related ocs:C1083,
+        ocs:C12257,
+        ocs:C15465,
+        ocs:C17204,
+        ocs:C18272,
+        ocs:C21201,
+        ocs:C22987,
+        ocs:C29056,
+        ocs:C31513,
+        ocs:C3448,
+        ocs:C36309,
+        ocs:C37970,
+        ocs:C38162,
+        ocs:C40371,
+        ocs:C4321,
+        ocs:C45212,
+        ocs:C45909 .
+

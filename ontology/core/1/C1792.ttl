@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1792 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/15_puzzle> ;
+    skos:prefLabel "15 puzzle" ;
+    skos:related ocs:C11282,
+        ocs:C11372,
+        ocs:C21308,
+        ocs:C23508,
+        ocs:C3339,
+        ocs:C35163,
+        ocs:C5242,
+        ocs:C5823,
+        ocs:C6402,
+        ocs:C7988 .
+

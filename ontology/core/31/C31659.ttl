@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31659 a skos:Concept ;
+    skos:broader ocs:C14693,
+        ocs:C23873 ;
+    skos:closeMatch <http://dbpedia.org/resource/Series-parallel_networks_problem> ;
+    skos:prefLabel "Series-parallel networks problem" ;
+    skos:related ocs:C14588,
+        ocs:C21048,
+        ocs:C31555,
+        ocs:C31884,
+        ocs:C33455,
+        ocs:C33920,
+        ocs:C42164 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2803 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crest_factor> ;
+    skos:prefLabel "Crest factor" ;
+    skos:related ocs:C11747,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C3843,
+        ocs:C5853,
+        ocs:C7502 .
+

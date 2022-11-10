@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6109 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rail_transport_modelling> ;
+    skos:prefLabel "Rail transport modelling" ;
+    skos:related ocs:C1185,
+        ocs:C6413,
+        ocs:C7402 .
+

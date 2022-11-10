@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32867 a skos:Concept ;
+    skos:broader ocs:C16383,
+        ocs:C16545,
+        ocs:C19353 ;
+    skos:prefLabel "Top counter" .
+

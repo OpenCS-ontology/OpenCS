@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12646 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C6 ;
+    skos:prefLabel "Text value" ;
+    skos:related ocs:C1034,
+        ocs:C23,
+        ocs:C5702,
+        ocs:C5722,
+        ocs:C6280,
+        ocs:C8 .
+

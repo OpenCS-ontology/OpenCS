@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16742 a skos:Concept ;
+    skos:broader ocs:C10382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Correlation_clustering> ;
+    skos:prefLabel "Correlation clustering" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C16054,
+        ocs:C21,
+        ocs:C21308,
+        ocs:C25,
+        ocs:C26767,
+        ocs:C26989,
+        ocs:C29024,
+        ocs:C33433,
+        ocs:C38914,
+        ocs:C39217,
+        ocs:C40348,
+        ocs:C44201,
+        ocs:C45859,
+        ocs:C5823,
+        ocs:C6535,
+        ocs:C6912,
+        ocs:C9022 .
+

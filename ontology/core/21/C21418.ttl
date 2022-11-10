@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21418 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search_and_rescue> ;
+    skos:prefLabel "Search and rescue" ;
+    skos:related ocs:C12641,
+        ocs:C34620,
+        ocs:C4597 .
+

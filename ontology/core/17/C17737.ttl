@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17737 a skos:Concept ;
+    skos:broader ocs:C10330,
+        ocs:C1451,
+        ocs:C6753,
+        ocs:C7913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language-based_security> ;
+    skos:prefLabel "Language-based security" ;
+    skos:related ocs:C10284,
+        ocs:C1137,
+        ocs:C12974,
+        ocs:C13366,
+        ocs:C16614,
+        ocs:C18578,
+        ocs:C19,
+        ocs:C20515,
+        ocs:C21627,
+        ocs:C28073,
+        ocs:C29068,
+        ocs:C30007,
+        ocs:C386,
+        ocs:C4321,
+        ocs:C6255,
+        ocs:C6941,
+        ocs:C7465,
+        ocs:C794 .
+

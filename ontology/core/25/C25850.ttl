@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25850 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quadrature_amplitude_modulation> ;
+    skos:prefLabel "Quadrature amplitude modulation" ;
+    skos:related ocs:C14053,
+        ocs:C18001,
+        ocs:C19230,
+        ocs:C19492,
+        ocs:C19721,
+        ocs:C26814,
+        ocs:C27572,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C3,
+        ocs:C30635,
+        ocs:C33356,
+        ocs:C34890,
+        ocs:C36043,
+        ocs:C37472,
+        ocs:C38826,
+        ocs:C44707,
+        ocs:C7502 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27350 a skos:Concept ;
+    skos:broader ocs:C7340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Train_communication_network> ;
+    skos:prefLabel "Train communication network" ;
+    skos:related ocs:C11864,
+        ocs:C14858,
+        ocs:C15858,
+        ocs:C20519,
+        ocs:C25027,
+        ocs:C45243,
+        ocs:C5814,
+        ocs:C7794,
+        ocs:C8337 .
+

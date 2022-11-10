@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45847 a skos:Concept ;
+    skos:broader ocs:C34792,
+        ocs:C35367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_network_architecture> ;
+    skos:prefLabel "Open network architecture" ;
+    skos:related ocs:C10331,
+        ocs:C13326,
+        ocs:C16318,
+        ocs:C2700,
+        ocs:C3,
+        ocs:C34952,
+        ocs:C35634,
+        ocs:C36001,
+        ocs:C38402,
+        ocs:C39018,
+        ocs:C45074,
+        ocs:C5399,
+        ocs:C5617,
+        ocs:C6453,
+        ocs:C6821,
+        ocs:C7340,
+        ocs:C9105,
+        ocs:C9107,
+        ocs:C9480 .
+

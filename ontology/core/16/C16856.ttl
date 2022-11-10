@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16856 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5369,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/RF_modulator> ;
+    skos:prefLabel "RF modulator" ;
+    skos:related ocs:C10320,
+        ocs:C10409,
+        ocs:C12430,
+        ocs:C13851,
+        ocs:C13973,
+        ocs:C1724,
+        ocs:C19342,
+        ocs:C2417,
+        ocs:C34890,
+        ocs:C37865,
+        ocs:C38826,
+        ocs:C4259,
+        ocs:C6942 .
+

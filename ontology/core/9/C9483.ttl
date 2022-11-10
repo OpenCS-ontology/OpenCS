@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9483 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Critical_path_method> ;
+    skos:prefLabel "Critical path method" ;
+    skos:related ocs:C18222,
+        ocs:C20086,
+        ocs:C25147,
+        ocs:C30932,
+        ocs:C30947,
+        ocs:C44198,
+        ocs:C44250,
+        ocs:C7056 .
+

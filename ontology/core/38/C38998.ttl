@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38998 a skos:Concept ;
+    skos:broader ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heawood_graph> ;
+    skos:prefLabel "Heawood graph" ;
+    skos:related ocs:C14693,
+        ocs:C20868,
+        ocs:C30730,
+        ocs:C37036,
+        ocs:C38321,
+        ocs:C39615,
+        ocs:C39783,
+        ocs:C41969,
+        ocs:C42281,
+        ocs:C42340,
+        ocs:C42707,
+        ocs:C42730,
+        ocs:C42872,
+        ocs:C43097,
+        ocs:C44281,
+        ocs:C44935,
+        ocs:C45361,
+        ocs:C45648 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36949 a skos:Concept ;
+    skos:broader ocs:C28698 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integral_sliding_mode> ;
+    skos:prefLabel "Integral sliding mode" ;
+    skos:related ocs:C18430,
+        ocs:C28698,
+        ocs:C29875 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18226 a skos:Concept ;
+    skos:broader ocs:C2674 ;
+    skos:closeMatch <http://dbpedia.org/resource/Native_API> ;
+    skos:prefLabel "Native API" ;
+    skos:related ocs:C12683,
+        ocs:C15860,
+        ocs:C16481,
+        ocs:C19487,
+        ocs:C20942,
+        ocs:C24007,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C29426,
+        ocs:C30860,
+        ocs:C34320,
+        ocs:C43101,
+        ocs:C45251,
+        ocs:C45816,
+        ocs:C5514,
+        ocs:C9,
+        ocs:C9033 .
+

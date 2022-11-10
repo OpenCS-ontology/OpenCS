@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26712 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_noise_level> ;
+    skos:prefLabel "Channel noise level" ;
+    skos:related ocs:C12844,
+        ocs:C13590,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C21891,
+        ocs:C31251,
+        ocs:C32960,
+        ocs:C3625,
+        ocs:C4343,
+        ocs:C7444 .
+

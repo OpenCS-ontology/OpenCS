@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22097 a skos:Concept ;
+    skos:broader ocs:C6147 ;
+    skos:closeMatch <http://dbpedia.org/resource/Combinatorial_class> ;
+    skos:prefLabel "Combinatorial class" ;
+    skos:related ocs:C14151,
+        ocs:C25685,
+        ocs:C2820,
+        ocs:C34745,
+        ocs:C36814 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13946 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_feature> ;
+    skos:prefLabel "Semantic feature" ;
+    skos:related ocs:C10102,
+        ocs:C1034,
+        ocs:C11192,
+        ocs:C12270,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C19232,
+        ocs:C23321,
+        ocs:C24499,
+        ocs:C32159,
+        ocs:C35238,
+        ocs:C4587,
+        ocs:C6018 .
+

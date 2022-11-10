@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10665 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ages_of_Three_Children_puzzle> ;
+    skos:prefLabel "Ages of Three Children puzzle" ;
+    skos:related ocs:C12254,
+        ocs:C23508,
+        ocs:C27054,
+        ocs:C2893,
+        ocs:C3287,
+        ocs:C7964 .
+

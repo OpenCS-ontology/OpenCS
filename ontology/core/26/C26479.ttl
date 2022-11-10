@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26479 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Completely_positive_map> ;
+    skos:prefLabel "Completely positive map" ;
+    skos:related ocs:C14696,
+        ocs:C28787,
+        ocs:C28954,
+        ocs:C33102,
+        ocs:C40728 .
+

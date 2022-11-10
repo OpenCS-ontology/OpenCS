@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12448 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithmic_art> ;
+    skos:prefLabel "Algorithmic art" ;
+    skos:related ocs:C10,
+        ocs:C11948,
+        ocs:C122,
+        ocs:C22,
+        ocs:C2246,
+        ocs:C4503,
+        ocs:C7553 .
+

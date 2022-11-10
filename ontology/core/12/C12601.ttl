@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12601 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SAF-TE> ;
+    skos:prefLabel "SAF-TE" ;
+    skos:related ocs:C10059,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C17484,
+        ocs:C2054,
+        ocs:C27710,
+        ocs:C30953,
+        ocs:C33099,
+        ocs:C38117,
+        ocs:C39275,
+        ocs:C40587,
+        ocs:C4266,
+        ocs:C4384,
+        ocs:C521,
+        ocs:C8298 .
+

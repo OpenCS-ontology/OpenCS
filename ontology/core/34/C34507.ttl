@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34507 a skos:Concept ;
+    skos:broader ocs:C17860 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_Morse_theory> ;
+    skos:prefLabel "Discrete Morse theory" ;
+    skos:related ocs:C17726,
+        ocs:C17860,
+        ocs:C20124,
+        ocs:C20670,
+        ocs:C45230 .
+

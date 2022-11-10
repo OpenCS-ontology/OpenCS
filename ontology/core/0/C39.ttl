@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digitization> ;
+    skos:prefLabel "Digitization" ;
+    skos:related ocs:C1023,
+        ocs:C10492,
+        ocs:C10778,
+        ocs:C13065,
+        ocs:C1449,
+        ocs:C15008,
+        ocs:C1704,
+        ocs:C28945,
+        ocs:C3077,
+        ocs:C4335,
+        ocs:C6,
+        ocs:C7502,
+        ocs:C8021,
+        ocs:C8498,
+        ocs:C8614,
+        ocs:C8797 .
+

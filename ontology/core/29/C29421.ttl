@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29421 a skos:Concept ;
+    skos:broader ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blocking_(statistics)> ;
+    skos:prefLabel "Blocking (statistics)" ;
+    skos:related ocs:C11767,
+        ocs:C11986,
+        ocs:C17120,
+        ocs:C28576,
+        ocs:C5713 .
+

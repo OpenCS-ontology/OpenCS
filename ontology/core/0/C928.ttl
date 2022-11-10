@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C928 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C32,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_network> ;
+    skos:prefLabel "Semantic network" ;
+    skos:related ocs:C10102,
+        ocs:C12977,
+        ocs:C1451,
+        ocs:C14693,
+        ocs:C15610,
+        ocs:C2418,
+        ocs:C24316,
+        ocs:C25681,
+        ocs:C2761,
+        ocs:C28117,
+        ocs:C28809,
+        ocs:C32,
+        ocs:C35568,
+        ocs:C39137,
+        ocs:C6656,
+        ocs:C8,
+        ocs:C8710,
+        ocs:C8894 .
+

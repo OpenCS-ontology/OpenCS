@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41707 a skos:Concept ;
+    skos:broader ocs:C36472 ;
+    skos:closeMatch <http://dbpedia.org/resource/ARINC_818> ;
+    skos:prefLabel "ARINC 818" ;
+    skos:related ocs:C10919,
+        ocs:C15858,
+        ocs:C16673,
+        ocs:C22530,
+        ocs:C22647,
+        ocs:C27554,
+        ocs:C30597,
+        ocs:C33387,
+        ocs:C3357,
+        ocs:C45901,
+        ocs:C5336,
+        ocs:C9426,
+        ocs:C9908 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5792 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-aided_assessment> ;
+    skos:prefLabel "Computer-aided assessment" ;
+    skos:related ocs:C10559,
+        ocs:C3444,
+        ocs:C37105,
+        ocs:C6529,
+        ocs:C734,
+        ocs:C934 .
+

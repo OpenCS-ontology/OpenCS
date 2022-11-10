@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2379 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/NP-equivalent> ;
+    skos:prefLabel "NP-equivalent" ;
+    skos:related ocs:C11250,
+        ocs:C20382,
+        ocs:C23023,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C25360,
+        ocs:C30401,
+        ocs:C33982,
+        ocs:C34139,
+        ocs:C3678,
+        ocs:C37845,
+        ocs:C38590,
+        ocs:C39640,
+        ocs:C41116,
+        ocs:C42626,
+        ocs:C44597,
+        ocs:C6776 .
+

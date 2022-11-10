@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3259 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alcatel_Business_Communications> ;
+    skos:prefLabel "Alcatel Business Communications" ;
+    skos:related ocs:C12171,
+        ocs:C13850,
+        ocs:C15589,
+        ocs:C19350,
+        ocs:C24335,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C2917,
+        ocs:C29359,
+        ocs:C29603,
+        ocs:C37752,
+        ocs:C38247,
+        ocs:C40329,
+        ocs:C44663,
+        ocs:C45003,
+        ocs:C45147,
+        ocs:C6861 .
+

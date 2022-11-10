@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4384 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logical_unit_number> ;
+    skos:prefLabel "Logical unit number" ;
+    skos:related ocs:C10059,
+        ocs:C10501,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C17533,
+        ocs:C22191,
+        ocs:C27921,
+        ocs:C29846,
+        ocs:C3231,
+        ocs:C32777,
+        ocs:C38117,
+        ocs:C39275,
+        ocs:C41992,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9426 .
+

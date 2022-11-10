@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6087 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blacklist_(computing)> ;
+    skos:prefLabel "Blacklist" ;
+    skos:related ocs:C11371,
+        ocs:C14983,
+        ocs:C16362,
+        ocs:C17205,
+        ocs:C18100,
+        ocs:C19624,
+        ocs:C20205,
+        ocs:C20937,
+        ocs:C22597,
+        ocs:C24903,
+        ocs:C25292,
+        ocs:C29803,
+        ocs:C31489,
+        ocs:C37829,
+        ocs:C40554,
+        ocs:C40986,
+        ocs:C5403,
+        ocs:C7738,
+        ocs:C8614 .
+

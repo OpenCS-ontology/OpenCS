@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44649 a skos:Concept ;
+    skos:broader ocs:C31195,
+        ocs:C33187,
+        ocs:C35699 ;
+    skos:closeMatch <http://dbpedia.org/resource/Position_operator> ;
+    skos:prefLabel "Position operator" ;
+    skos:related ocs:C28787,
+        ocs:C33700,
+        ocs:C43317 .
+

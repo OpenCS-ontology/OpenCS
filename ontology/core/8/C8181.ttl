@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8181 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_education> ;
+    skos:prefLabel "Design education" ;
+    skos:related ocs:C10905,
+        ocs:C10982,
+        ocs:C1196,
+        ocs:C13413,
+        ocs:C20958,
+        ocs:C2135,
+        ocs:C22811,
+        ocs:C23671,
+        ocs:C26903,
+        ocs:C28533,
+        ocs:C306,
+        ocs:C31201,
+        ocs:C5916 .
+

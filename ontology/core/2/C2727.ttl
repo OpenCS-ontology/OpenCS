@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2727 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peano_axioms> ;
+    skos:prefLabel "Peano axioms" ;
+    skos:related ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C26402,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C2978,
+        ocs:C32546,
+        ocs:C33304,
+        ocs:C39446,
+        ocs:C5251,
+        ocs:C8635 .
+

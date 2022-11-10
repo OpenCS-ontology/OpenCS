@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21332 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/TC0> ;
+    skos:prefLabel "TC0" ;
+    skos:related ocs:C11250,
+        ocs:C17566,
+        ocs:C20382,
+        ocs:C20562,
+        ocs:C23148,
+        ocs:C25360,
+        ocs:C30179,
+        ocs:C30442,
+        ocs:C36571,
+        ocs:C3678,
+        ocs:C41731,
+        ocs:C42400,
+        ocs:C45339 .
+

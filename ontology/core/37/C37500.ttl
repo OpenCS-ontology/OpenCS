@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37500 a skos:Concept ;
+    skos:broader ocs:C26905 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolution_random_number_generator> ;
+    skos:prefLabel "Convolution random number generator" ;
+    skos:related ocs:C17131,
+        ocs:C28074,
+        ocs:C31167,
+        ocs:C35158,
+        ocs:C36008,
+        ocs:C40553,
+        ocs:C41074,
+        ocs:C41470,
+        ocs:C43902,
+        ocs:C795 .
+

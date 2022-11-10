@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11641 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert_curve> ;
+    skos:prefLabel "Hilbert curve" ;
+    skos:related ocs:C10393,
+        ocs:C13852,
+        ocs:C25142,
+        ocs:C2541,
+        ocs:C2720,
+        ocs:C29767,
+        ocs:C36311,
+        ocs:C41265 .
+

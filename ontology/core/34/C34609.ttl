@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34609 a skos:Concept ;
+    skos:broader ocs:C16191,
+        ocs:C22667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_control_modes> ;
+    skos:prefLabel "Flight control modes" ;
+    skos:related ocs:C16191,
+        ocs:C33387,
+        ocs:C36804,
+        ocs:C40097,
+        ocs:C5030,
+        ocs:C511 .
+

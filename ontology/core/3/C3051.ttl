@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3051 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_milliwatt> ;
+    skos:prefLabel "Digital milliwatt" ;
+    skos:related ocs:C10409,
+        ocs:C10778,
+        ocs:C13018,
+        ocs:C16371,
+        ocs:C17433,
+        ocs:C22654,
+        ocs:C23240,
+        ocs:C28758,
+        ocs:C37917,
+        ocs:C4928,
+        ocs:C5464,
+        ocs:C6027,
+        ocs:C6775,
+        ocs:C6964 .
+

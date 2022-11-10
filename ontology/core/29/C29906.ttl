@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29906 a skos:Concept ;
+    skos:broader ocs:C15862 ;
+    skos:closeMatch <http://dbpedia.org/resource/COMPASS_experiment> ;
+    skos:prefLabel "COMPASS experiment" ;
+    skos:related ocs:C16317,
+        ocs:C22996,
+        ocs:C27037,
+        ocs:C27193,
+        ocs:C27677,
+        ocs:C32279,
+        ocs:C35999 .
+

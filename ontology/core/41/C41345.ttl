@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41345 a skos:Concept ;
+    skos:broader ocs:C30409,
+        ocs:C36540,
+        ocs:C37370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_domain> ;
+    skos:prefLabel "Business domain" ;
+    skos:related ocs:C10720,
+        ocs:C12810,
+        ocs:C15786,
+        ocs:C28941,
+        ocs:C31894,
+        ocs:C32225,
+        ocs:C3395,
+        ocs:C38983 .
+

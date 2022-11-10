@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3285 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aerial_reconnaissance> ;
+    skos:prefLabel "Aerial reconnaissance" ;
+    skos:related ocs:C25124,
+        ocs:C3180,
+        ocs:C4008,
+        ocs:C5913 .
+

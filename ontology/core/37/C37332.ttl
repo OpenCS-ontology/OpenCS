@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37332 a skos:Concept ;
+    skos:broader ocs:C22283 ;
+    skos:closeMatch <http://dbpedia.org/resource/Submillimetre_astronomy> ;
+    skos:prefLabel "Submillimetre astronomy" ;
+    skos:related ocs:C17174,
+        ocs:C22283,
+        ocs:C23430,
+        ocs:C30181,
+        ocs:C34673,
+        ocs:C597 .
+

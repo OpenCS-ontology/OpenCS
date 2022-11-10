@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42088 a skos:Concept ;
+    skos:broader ocs:C29730,
+        ocs:C30110 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airy_wave_theory> ;
+    skos:prefLabel "Airy wave theory" ;
+    skos:related ocs:C16540,
+        ocs:C27122,
+        ocs:C30110 .
+

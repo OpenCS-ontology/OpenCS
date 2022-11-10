@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31852 a skos:Concept ;
+    skos:broader ocs:C14264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scorpion_toxin> ;
+    skos:prefLabel "Scorpion toxin" ;
+    skos:related ocs:C33493,
+        ocs:C38074,
+        ocs:C39344,
+        ocs:C41081,
+        ocs:C42913 .
+

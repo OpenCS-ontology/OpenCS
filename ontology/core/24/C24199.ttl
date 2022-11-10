@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24199 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flight_computer> ;
+    skos:prefLabel "Flight computer" ;
+    skos:related ocs:C14324,
+        ocs:C15071,
+        ocs:C18521,
+        ocs:C25753,
+        ocs:C28814,
+        ocs:C38466,
+        ocs:C4703,
+        ocs:C527,
+        ocs:C9602 .
+

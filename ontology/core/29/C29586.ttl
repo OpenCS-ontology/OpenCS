@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29586 a skos:Concept ;
+    skos:broader ocs:C23966,
+        ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bicommutant> ;
+    skos:prefLabel "Bicommutant" ;
+    skos:related ocs:C17651,
+        ocs:C19542,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C36144,
+        ocs:C44342,
+        ocs:C45503,
+        ocs:C6863 .
+

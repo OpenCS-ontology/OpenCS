@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17088 a skos:Concept ;
+    skos:broader ocs:C8021,
+        ocs:C9605 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surface-conduction_electron-emitter_display> ;
+    skos:prefLabel "Surface-conduction electron-emitter display" ;
+    skos:related ocs:C1084,
+        ocs:C13725,
+        ocs:C22257,
+        ocs:C2416,
+        ocs:C653,
+        ocs:C8021 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31012 a skos:Concept ;
+    skos:broader ocs:C15966 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chronemics> ;
+    skos:prefLabel "Chronemics" ;
+    skos:related ocs:C15966,
+        ocs:C16695,
+        ocs:C2480,
+        ocs:C29320,
+        ocs:C32017,
+        ocs:C8125 .
+

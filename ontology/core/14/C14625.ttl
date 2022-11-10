@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14625 a skos:Concept ;
+    skos:broader ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_buffer> ;
+    skos:prefLabel "Disk buffer" ;
+    skos:related ocs:C10785,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C302,
+        ocs:C32160,
+        ocs:C3231,
+        ocs:C3334,
+        ocs:C36439,
+        ocs:C3915,
+        ocs:C7476,
+        ocs:C8706,
+        ocs:C9 .
+

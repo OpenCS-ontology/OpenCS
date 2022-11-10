@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32461 a skos:Concept ;
+    skos:broader ocs:C19721,
+        ocs:C20804 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectrum_pooling> ;
+    skos:prefLabel "Spectrum pooling" ;
+    skos:related ocs:C19721,
+        ocs:C20804,
+        ocs:C25626,
+        ocs:C32302,
+        ocs:C35674,
+        ocs:C4197,
+        ocs:C5369 .
+

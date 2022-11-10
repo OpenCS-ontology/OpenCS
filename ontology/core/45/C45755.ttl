@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45755 a skos:Concept ;
+    skos:broader ocs:C36214 ;
+    skos:prefLabel "Cathorops arenatus" ;
+    skos:related ocs:C36214,
+        ocs:C45083,
+        ocs:C45866 .
+

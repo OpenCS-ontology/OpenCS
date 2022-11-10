@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36040 a skos:Concept ;
+    skos:broader ocs:C23202,
+        ocs:C23973 ;
+    skos:prefLabel "Channel gating" .
+

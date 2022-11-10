@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16778 a skos:Concept ;
+    skos:broader ocs:C11462,
+        ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disciplinary_repository> ;
+    skos:prefLabel "Disciplinary repository" ;
+    skos:related ocs:C11462,
+        ocs:C11595,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C15008,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C4424,
+        ocs:C5150,
+        ocs:C6,
+        ocs:C9096 .
+

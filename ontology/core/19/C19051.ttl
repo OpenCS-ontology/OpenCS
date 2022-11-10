@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19051 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C2300 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loudness_monitoring> ;
+    skos:prefLabel "Loudness monitoring" ;
+    skos:related ocs:C11636,
+        ocs:C13048,
+        ocs:C14001,
+        ocs:C16548,
+        ocs:C1959,
+        ocs:C2300,
+        ocs:C26758,
+        ocs:C44262,
+        ocs:C45463,
+        ocs:C4875,
+        ocs:C5139 .
+

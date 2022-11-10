@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26480 a skos:Concept ;
+    skos:broader ocs:C5072 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lehmer_random_number_generator> ;
+    skos:prefLabel "Lehmer random number generator" ;
+    skos:related ocs:C16361,
+        ocs:C24353,
+        ocs:C24912,
+        ocs:C29356,
+        ocs:C34794,
+        ocs:C3931,
+        ocs:C5072,
+        ocs:C9449 .
+

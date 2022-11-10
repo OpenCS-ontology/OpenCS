@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9211 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Navigation_function> ;
+    skos:prefLabel "Navigation function" ;
+    skos:related ocs:C12162,
+        ocs:C13610,
+        ocs:C16157,
+        ocs:C17598,
+        ocs:C27053,
+        ocs:C31144,
+        ocs:C31172,
+        ocs:C32401,
+        ocs:C34535,
+        ocs:C35866,
+        ocs:C41082,
+        ocs:C43184,
+        ocs:C77,
+        ocs:C9022 .
+

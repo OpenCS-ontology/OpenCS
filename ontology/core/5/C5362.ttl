@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5362 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:prefLabel "Traffic noise" ;
+    skos:related ocs:C12271,
+        ocs:C13168,
+        ocs:C14240,
+        ocs:C17242,
+        ocs:C25548 .
+

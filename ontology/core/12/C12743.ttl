@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12743 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superorganism> ;
+    skos:prefLabel "Superorganism" ;
+    skos:related ocs:C19155,
+        ocs:C5140,
+        ocs:C597,
+        ocs:C7334 .
+

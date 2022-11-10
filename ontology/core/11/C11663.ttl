@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11663 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_teleswitch> ;
+    skos:prefLabel "Radio teleswitch" ;
+    skos:related ocs:C12851,
+        ocs:C15824,
+        ocs:C17244,
+        ocs:C21317,
+        ocs:C21978,
+        ocs:C7740,
+        ocs:C985 .
+

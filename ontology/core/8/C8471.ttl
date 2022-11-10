@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8471 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_crafting> ;
+    skos:prefLabel "Packet crafting" ;
+    skos:related ocs:C10913,
+        ocs:C13307,
+        ocs:C14134,
+        ocs:C14538,
+        ocs:C15065,
+        ocs:C1595,
+        ocs:C18502,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C27923,
+        ocs:C28592,
+        ocs:C29359,
+        ocs:C3139,
+        ocs:C36135,
+        ocs:C38894,
+        ocs:C41222,
+        ocs:C42429,
+        ocs:C8468 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15017 a skos:Concept ;
+    skos:broader ocs:C197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Productivity_paradox> ;
+    skos:prefLabel "Productivity paradox" ;
+    skos:related ocs:C10772,
+        ocs:C13372,
+        ocs:C197,
+        ocs:C20841,
+        ocs:C5702 .
+

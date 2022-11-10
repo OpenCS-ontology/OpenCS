@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7557 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Page_(computer_memory)> ;
+    skos:prefLabel "Page" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C12683,
+        ocs:C19487,
+        ocs:C20800,
+        ocs:C23864,
+        ocs:C25171,
+        ocs:C25960,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C41115,
+        ocs:C41696,
+        ocs:C43102,
+        ocs:C8782,
+        ocs:C9 .
+

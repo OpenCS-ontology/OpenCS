@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44764 a skos:Concept ;
+    skos:broader ocs:C34711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Choquet_integral> ;
+    skos:prefLabel "Choquet integral" ;
+    skos:related ocs:C20635,
+        ocs:C22598,
+        ocs:C28722,
+        ocs:C33734,
+        ocs:C35572,
+        ocs:C36230,
+        ocs:C3753,
+        ocs:C45427,
+        ocs:C5209 .
+

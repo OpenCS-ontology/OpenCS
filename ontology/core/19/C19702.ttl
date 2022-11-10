@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19702 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_homing> ;
+    skos:prefLabel "Multiple homing" ;
+    skos:related ocs:C12308,
+        ocs:C12844,
+        ocs:C138,
+        ocs:C16022,
+        ocs:C19934,
+        ocs:C21891,
+        ocs:C25293,
+        ocs:C26712,
+        ocs:C32919,
+        ocs:C4343,
+        ocs:C5725,
+        ocs:C5830,
+        ocs:C6027,
+        ocs:C7444 .
+

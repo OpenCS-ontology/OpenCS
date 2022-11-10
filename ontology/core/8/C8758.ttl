@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8758 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multinomial_logistic_regression> ;
+    skos:prefLabel "Multinomial logistic regression" ;
+    skos:related ocs:C11030,
+        ocs:C11986,
+        ocs:C1844,
+        ocs:C39577,
+        ocs:C40043,
+        ocs:C4256,
+        ocs:C4643,
+        ocs:C5087,
+        ocs:C5499,
+        ocs:C6021,
+        ocs:C6116,
+        ocs:C8385 .
+

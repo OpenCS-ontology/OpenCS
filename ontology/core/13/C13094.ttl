@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13094 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interactive_design> ;
+    skos:prefLabel "Interactive design" ;
+    skos:related ocs:C10905,
+        ocs:C13153,
+        ocs:C1498,
+        ocs:C17,
+        ocs:C18,
+        ocs:C2135,
+        ocs:C22597,
+        ocs:C22849,
+        ocs:C26337,
+        ocs:C28533,
+        ocs:C31,
+        ocs:C4292,
+        ocs:C5926,
+        ocs:C6219,
+        ocs:C6757,
+        ocs:C7736,
+        ocs:C8269,
+        ocs:C8614 .
+

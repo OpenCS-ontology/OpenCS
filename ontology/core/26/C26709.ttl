@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26709 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware_reset> ;
+    skos:prefLabel "Hardware reset" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C19487,
+        ocs:C20065,
+        ocs:C20557,
+        ocs:C20999,
+        ocs:C22742,
+        ocs:C24214,
+        ocs:C26451,
+        ocs:C34195,
+        ocs:C38723,
+        ocs:C4259,
+        ocs:C44667,
+        ocs:C6072,
+        ocs:C6223,
+        ocs:C9,
+        ocs:C9425 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30237 a skos:Concept ;
+    skos:broader ocs:C13896,
+        ocs:C16315,
+        ocs:C20957 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fragment_identifier> ;
+    skos:prefLabel "Fragment identifier" ;
+    skos:related ocs:C11927,
+        ocs:C1319,
+        ocs:C17235,
+        ocs:C1746,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C26528,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C37042,
+        ocs:C40902,
+        ocs:C43255,
+        ocs:C6553,
+        ocs:C6968,
+        ocs:C8614,
+        ocs:C9836 .
+

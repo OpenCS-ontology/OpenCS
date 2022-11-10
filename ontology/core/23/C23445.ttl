@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23445 a skos:Concept ;
+    skos:broader ocs:C10918 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rotary_encoder> ;
+    skos:prefLabel "Rotary encoder" ;
+    skos:related ocs:C10873,
+        ocs:C10918,
+        ocs:C15048,
+        ocs:C17236,
+        ocs:C24804,
+        ocs:C25027,
+        ocs:C5037 .
+

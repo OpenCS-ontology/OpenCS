@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38572 a skos:Concept ;
+    skos:broader ocs:C34288 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gemini_Planet_Imager> ;
+    skos:prefLabel "Gemini Planet Imager" ;
+    skos:related ocs:C14237,
+        ocs:C18230,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C30091,
+        ocs:C32417,
+        ocs:C32423,
+        ocs:C34228,
+        ocs:C34288,
+        ocs:C36049,
+        ocs:C38054,
+        ocs:C40047,
+        ocs:C8561 .
+

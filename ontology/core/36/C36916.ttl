@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36916 a skos:Concept ;
+    skos:broader ocs:C20903 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amphiura_filiformis> ;
+    skos:prefLabel "Amphiura filiformis" ;
+    skos:related ocs:C20903,
+        ocs:C29871,
+        ocs:C34597,
+        ocs:C43517 .
+

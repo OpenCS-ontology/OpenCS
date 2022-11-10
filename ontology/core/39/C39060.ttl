@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39060 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discone_antenna> ;
+    skos:prefLabel "Discone antenna" ;
+    skos:related ocs:C1219,
+        ocs:C18989,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C25341,
+        ocs:C30337,
+        ocs:C38796,
+        ocs:C39914,
+        ocs:C39964,
+        ocs:C40106,
+        ocs:C40585,
+        ocs:C41367,
+        ocs:C42043,
+        ocs:C42721,
+        ocs:C43628,
+        ocs:C44637,
+        ocs:C7216,
+        ocs:C9691 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20976 a skos:Concept ;
+    skos:broader ocs:C13253,
+        ocs:C5126 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unicode_font> ;
+    skos:prefLabel "Unicode font" ;
+    skos:related ocs:C11699,
+        ocs:C13253,
+        ocs:C18940,
+        ocs:C27886,
+        ocs:C29368,
+        ocs:C30436,
+        ocs:C31958,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C9162,
+        ocs:C9598 .
+

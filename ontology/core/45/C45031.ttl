@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45031 a skos:Concept ;
+    skos:broader ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEC_62304> ;
+    skos:prefLabel "IEC 62304" ;
+    skos:related ocs:C16709,
+        ocs:C20265,
+        ocs:C25956,
+        ocs:C26339,
+        ocs:C37174,
+        ocs:C38249,
+        ocs:C41434,
+        ocs:C42151,
+        ocs:C45212,
+        ocs:C8562 .
+

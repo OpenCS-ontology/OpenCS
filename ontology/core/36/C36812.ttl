@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36812 a skos:Concept ;
+    skos:broader ocs:C27114 ;
+    skos:closeMatch <http://dbpedia.org/resource/Priority_call> ;
+    skos:prefLabel "Priority call" ;
+    skos:related ocs:C10927,
+        ocs:C1495,
+        ocs:C21769,
+        ocs:C27114,
+        ocs:C30667,
+        ocs:C3105,
+        ocs:C35538,
+        ocs:C39284,
+        ocs:C45713,
+        ocs:C5565,
+        ocs:C6462,
+        ocs:C7221,
+        ocs:C7288,
+        ocs:C7661,
+        ocs:C9480 .
+

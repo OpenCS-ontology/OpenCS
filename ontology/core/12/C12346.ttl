@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12346 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complete_theory> ;
+    skos:prefLabel "Complete theory" ;
+    skos:related ocs:C10558,
+        ocs:C12474,
+        ocs:C21651,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C25869,
+        ocs:C2727,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C2978,
+        ocs:C30990,
+        ocs:C41223,
+        ocs:C4517,
+        ocs:C5251,
+        ocs:C6004,
+        ocs:C8635 .
+

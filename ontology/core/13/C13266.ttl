@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13266 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gurmukhi_numerals> ;
+    skos:prefLabel "Gurmukhi numerals" ;
+    skos:related ocs:C23551,
+        ocs:C3786,
+        ocs:C4048,
+        ocs:C945 .
+

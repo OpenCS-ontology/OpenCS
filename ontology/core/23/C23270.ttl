@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23270 a skos:Concept ;
+    skos:broader ocs:C3985,
+        ocs:C5141 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_memory> ;
+    skos:prefLabel "Computer memory" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C10696,
+        ocs:C13783,
+        ocs:C13875,
+        ocs:C14162,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C4259,
+        ocs:C5141,
+        ocs:C6072,
+        ocs:C7007,
+        ocs:C9 .
+

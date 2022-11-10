@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11151 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_performance> ;
+    skos:prefLabel "Organizational performance" ;
+    skos:related ocs:C10134,
+        ocs:C10141,
+        ocs:C1332,
+        ocs:C22489,
+        ocs:C2947,
+        ocs:C30344,
+        ocs:C3343,
+        ocs:C3738,
+        ocs:C7509 .
+

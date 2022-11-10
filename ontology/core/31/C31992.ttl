@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31992 a skos:Concept ;
+    skos:broader ocs:C26724 ;
+    skos:closeMatch <http://dbpedia.org/resource/SDCH> ;
+    skos:prefLabel "SDCH" ;
+    skos:related ocs:C14360,
+        ocs:C22705,
+        ocs:C2937,
+        ocs:C3418,
+        ocs:C34872,
+        ocs:C38927,
+        ocs:C41438,
+        ocs:C43270,
+        ocs:C43672,
+        ocs:C8788,
+        ocs:C9269,
+        ocs:C9782 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24133 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_bandwidth_allocation> ;
+    skos:prefLabel "Dynamic bandwidth allocation" ;
+    skos:related ocs:C12942,
+        ocs:C1398,
+        ocs:C15589,
+        ocs:C16022,
+        ocs:C16953,
+        ocs:C20116,
+        ocs:C24781,
+        ocs:C25626,
+        ocs:C27568,
+        ocs:C27704,
+        ocs:C30037,
+        ocs:C32302,
+        ocs:C35169,
+        ocs:C4197,
+        ocs:C45252,
+        ocs:C490,
+        ocs:C8704,
+        ocs:C9154,
+        ocs:C9480 .
+

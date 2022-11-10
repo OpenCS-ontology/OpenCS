@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11028 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thundering_herd_problem> ;
+    skos:prefLabel "Thundering herd problem" ;
+    skos:related ocs:C1,
+        ocs:C20245,
+        ocs:C20540,
+        ocs:C21551,
+        ocs:C22879,
+        ocs:C24323,
+        ocs:C2750,
+        ocs:C36873,
+        ocs:C8204,
+        ocs:C9776 .
+

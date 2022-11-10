@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43941 a skos:Concept ;
+    skos:broader ocs:C30826,
+        ocs:C37568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knapsack_cryptosystems> ;
+    skos:prefLabel "Knapsack cryptosystems" ;
+    skos:related ocs:C10056,
+        ocs:C13123,
+        ocs:C13632,
+        ocs:C1511,
+        ocs:C16125,
+        ocs:C17856,
+        ocs:C21383,
+        ocs:C31774,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C3678,
+        ocs:C36859,
+        ocs:C37863,
+        ocs:C38277,
+        ocs:C40045,
+        ocs:C4218 .
+

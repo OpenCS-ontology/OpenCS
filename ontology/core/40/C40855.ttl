@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40855 a skos:Concept ;
+    skos:broader ocs:C31894,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_crisis> ;
+    skos:prefLabel "Software crisis" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10720,
+        ocs:C1253,
+        ocs:C14329,
+        ocs:C16571,
+        ocs:C19,
+        ocs:C22095,
+        ocs:C2315,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C30036,
+        ocs:C3036,
+        ocs:C32978,
+        ocs:C3561,
+        ocs:C42395,
+        ocs:C6714,
+        ocs:C8204,
+        ocs:C8751,
+        ocs:C9 .
+

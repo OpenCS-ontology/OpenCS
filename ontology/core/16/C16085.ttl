@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16085 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:prefLabel "Parallel import" ;
+    skos:related ocs:C17516,
+        ocs:C31129,
+        ocs:C5619,
+        ocs:C5625 .
+

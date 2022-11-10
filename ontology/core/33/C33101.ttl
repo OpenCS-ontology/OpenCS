@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33101 a skos:Concept ;
+    skos:broader ocs:C28991 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop-erased_random_walk> ;
+    skos:prefLabel "Loop-erased random walk" ;
+    skos:related ocs:C14693,
+        ocs:C15460,
+        ocs:C16670,
+        ocs:C17726,
+        ocs:C22896,
+        ocs:C26989,
+        ocs:C28991,
+        ocs:C30729,
+        ocs:C31703,
+        ocs:C38545,
+        ocs:C40771 .
+

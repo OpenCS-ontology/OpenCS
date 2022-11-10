@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42725 a skos:Concept ;
+    skos:broader ocs:C35264 ;
+    skos:closeMatch <http://dbpedia.org/resource/US_Orbital_Segment> ;
+    skos:prefLabel "US Orbital Segment" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C16977,
+        ocs:C21630,
+        ocs:C22192,
+        ocs:C23609,
+        ocs:C24462,
+        ocs:C26596,
+        ocs:C26824,
+        ocs:C29692,
+        ocs:C33741,
+        ocs:C36594,
+        ocs:C37010,
+        ocs:C42136,
+        ocs:C43342,
+        ocs:C7201 .
+

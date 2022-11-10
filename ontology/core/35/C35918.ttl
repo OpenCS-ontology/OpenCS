@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35918 a skos:Concept ;
+    skos:broader ocs:C23249,
+        ocs:C26585 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prograph> ;
+    skos:prefLabel "Prograph" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C11487,
+        ocs:C13581,
+        ocs:C16968,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C23249,
+        ocs:C24909,
+        ocs:C3036,
+        ocs:C32649,
+        ocs:C38237,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C5941,
+        ocs:C6941,
+        ocs:C7797,
+        ocs:C8751 .
+

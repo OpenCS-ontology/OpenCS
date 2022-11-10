@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45823 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Consensus_clustering> ;
+    skos:prefLabel "Consensus clustering" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C19697,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25520,
+        ocs:C26767,
+        ocs:C29,
+        ocs:C29024,
+        ocs:C34,
+        ocs:C3512,
+        ocs:C40348,
+        ocs:C5401,
+        ocs:C5816,
+        ocs:C610,
+        ocs:C9022,
+        ocs:C9874 .
+

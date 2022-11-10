@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4610 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/VESA_BIOS_Extensions> ;
+    skos:prefLabel "VESA BIOS Extensions" ;
+    skos:related ocs:C10568,
+        ocs:C12323,
+        ocs:C12724,
+        ocs:C13586,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C26451,
+        ocs:C28172,
+        ocs:C30378,
+        ocs:C31249,
+        ocs:C31489,
+        ocs:C36633,
+        ocs:C39555,
+        ocs:C44318,
+        ocs:C653,
+        ocs:C9 .
+

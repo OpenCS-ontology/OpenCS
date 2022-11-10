@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41473 a skos:Concept ;
+    skos:broader ocs:C36478 ;
+    skos:closeMatch <http://dbpedia.org/resource/Embodied_embedded_cognition> ;
+    skos:prefLabel "Embodied embedded cognition" ;
+    skos:related ocs:C21268,
+        ocs:C23165,
+        ocs:C29527,
+        ocs:C36478,
+        ocs:C36573,
+        ocs:C37107,
+        ocs:C8,
+        ocs:C8701 .
+

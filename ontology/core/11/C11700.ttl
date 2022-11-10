@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11700 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pointing_device> ;
+    skos:prefLabel "Pointing device" ;
+    skos:related ocs:C10368,
+        ocs:C15214,
+        ocs:C20986,
+        ocs:C2417,
+        ocs:C24825,
+        ocs:C24871,
+        ocs:C2655,
+        ocs:C28881,
+        ocs:C29012,
+        ocs:C3284,
+        ocs:C34966,
+        ocs:C5086,
+        ocs:C5702,
+        ocs:C6069,
+        ocs:C653,
+        ocs:C7621,
+        ocs:C9 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24011 a skos:Concept ;
+    skos:broader ocs:C5852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Postediting> ;
+    skos:prefLabel "Postediting" ;
+    skos:related ocs:C11386,
+        ocs:C1339,
+        ocs:C1411,
+        ocs:C1444,
+        ocs:C15828,
+        ocs:C16771,
+        ocs:C19194,
+        ocs:C21320,
+        ocs:C21444,
+        ocs:C21652,
+        ocs:C22320,
+        ocs:C24215,
+        ocs:C28527,
+        ocs:C34912,
+        ocs:C35137,
+        ocs:C39236,
+        ocs:C43891,
+        ocs:C5262,
+        ocs:C5852 .
+

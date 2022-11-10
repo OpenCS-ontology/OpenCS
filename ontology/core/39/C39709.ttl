@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39709 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electrical_length> ;
+    skos:prefLabel "Electrical length" ;
+    skos:related ocs:C10103,
+        ocs:C11554,
+        ocs:C1219,
+        ocs:C25341,
+        ocs:C36281,
+        ocs:C37939,
+        ocs:C4205,
+        ocs:C5397,
+        ocs:C6913,
+        ocs:C7159,
+        ocs:C793,
+        ocs:C9691 .
+

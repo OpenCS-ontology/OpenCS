@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13676 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incompressible_string> ;
+    skos:prefLabel "Incompressible string" ;
+    skos:related ocs:C10,
+        ocs:C12310,
+        ocs:C24483,
+        ocs:C29,
+        ocs:C41438,
+        ocs:C5000,
+        ocs:C5368,
+        ocs:C5816,
+        ocs:C6609,
+        ocs:C6880,
+        ocs:C8788,
+        ocs:C9269 .
+

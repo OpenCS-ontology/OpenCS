@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20112 a skos:Concept ;
+    skos:broader ocs:C13792 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chain_of_events_(aeronautics)> ;
+    skos:prefLabel "Chain of events (aeronautics)" ;
+    skos:related ocs:C11085,
+        ocs:C11212,
+        ocs:C26696 .
+

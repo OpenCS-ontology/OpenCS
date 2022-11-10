@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27888 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/SignWriting> ;
+    skos:prefLabel "SignWriting" ;
+    skos:related ocs:C13210,
+        ocs:C14125,
+        ocs:C16631,
+        ocs:C17523,
+        ocs:C23682,
+        ocs:C23816,
+        ocs:C25188,
+        ocs:C26032,
+        ocs:C27886,
+        ocs:C30694,
+        ocs:C32399,
+        ocs:C7501,
+        ocs:C7858 .
+

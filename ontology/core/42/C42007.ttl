@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42007 a skos:Concept ;
+    skos:broader ocs:C29899 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generic_Access_Network> ;
+    skos:prefLabel "Generic Access Network" ;
+    skos:related ocs:C12853,
+        ocs:C13316,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C25712,
+        ocs:C27704,
+        ocs:C28176,
+        ocs:C3074,
+        ocs:C34908,
+        ocs:C35370,
+        ocs:C37303,
+        ocs:C39861,
+        ocs:C41460,
+        ocs:C41821,
+        ocs:C42991,
+        ocs:C45666,
+        ocs:C5917,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

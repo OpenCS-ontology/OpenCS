@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4209 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metamodeling> ;
+    skos:prefLabel "Metamodeling" ;
+    skos:related ocs:C13152,
+        ocs:C22894,
+        ocs:C23439,
+        ocs:C24477,
+        ocs:C27499,
+        ocs:C28,
+        ocs:C30528,
+        ocs:C31705,
+        ocs:C32723,
+        ocs:C35399,
+        ocs:C35609,
+        ocs:C35641,
+        ocs:C37443,
+        ocs:C37920,
+        ocs:C38382,
+        ocs:C3896,
+        ocs:C41719,
+        ocs:C42006,
+        ocs:C45334 .
+

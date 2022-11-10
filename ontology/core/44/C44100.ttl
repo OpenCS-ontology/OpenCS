@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44100 a skos:Concept ;
+    skos:broader ocs:C32962,
+        ocs:C33826,
+        ocs:C34475 ;
+    skos:closeMatch <http://dbpedia.org/resource/Console_application> ;
+    skos:prefLabel "Console application" ;
+    skos:related ocs:C1085,
+        ocs:C12724,
+        ocs:C12815,
+        ocs:C1386,
+        ocs:C14271,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C3176,
+        ocs:C34475,
+        ocs:C37894,
+        ocs:C5034,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C9,
+        ocs:C9033,
+        ocs:C9442 .
+

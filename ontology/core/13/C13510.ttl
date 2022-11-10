@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13510 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C4 ;
+    skos:prefLabel "Digital Object Identifier" ;
+    skos:related ocs:C10052,
+        ocs:C10211,
+        ocs:C16878,
+        ocs:C17,
+        ocs:C17870,
+        ocs:C197,
+        ocs:C20957,
+        ocs:C22,
+        ocs:C26337,
+        ocs:C28739,
+        ocs:C3,
+        ocs:C34,
+        ocs:C8614,
+        ocs:C9993 .
+

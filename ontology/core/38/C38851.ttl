@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38851 a skos:Concept ;
+    skos:broader ocs:C33410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Station_(networking)> ;
+    skos:prefLabel "Station" ;
+    skos:related ocs:C15728,
+        ocs:C15832,
+        ocs:C15865,
+        ocs:C21760,
+        ocs:C28122,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38784,
+        ocs:C39020,
+        ocs:C39494,
+        ocs:C40578,
+        ocs:C41837,
+        ocs:C41995,
+        ocs:C42423,
+        ocs:C42521,
+        ocs:C44700,
+        ocs:C45510,
+        ocs:C8028 .
+

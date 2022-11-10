@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36576 a skos:Concept ;
+    skos:broader ocs:C25960 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scratchpad_memory> ;
+    skos:prefLabel "Scratchpad memory" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C17698,
+        ocs:C17828,
+        ocs:C1904,
+        ocs:C19487,
+        ocs:C19936,
+        ocs:C20236,
+        ocs:C27610,
+        ocs:C29060,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C38461,
+        ocs:C8706 .
+

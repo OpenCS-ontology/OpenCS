@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10004 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unisys_2200_Series_system_architecture> ;
+    skos:prefLabel "Unisys 2200 Series system architecture" ;
+    skos:related ocs:C10320,
+        ocs:C14063,
+        ocs:C16229,
+        ocs:C19487,
+        ocs:C24754,
+        ocs:C32786,
+        ocs:C35009,
+        ocs:C39753,
+        ocs:C41110,
+        ocs:C42662,
+        ocs:C4832,
+        ocs:C4863,
+        ocs:C5681,
+        ocs:C6172,
+        ocs:C8024,
+        ocs:C8026,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9162 .
+

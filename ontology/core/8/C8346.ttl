@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8346 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_kit> ;
+    skos:prefLabel "Electronic kit" ;
+    skos:related ocs:C10320,
+        ocs:C2084,
+        ocs:C4259,
+        ocs:C7534,
+        ocs:C756,
+        ocs:C8787 .
+

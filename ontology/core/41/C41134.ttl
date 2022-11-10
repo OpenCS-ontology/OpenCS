@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41134 a skos:Concept ;
+    skos:broader ocs:C37041 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oort_constants> ;
+    skos:prefLabel "Oort constants" ;
+    skos:related ocs:C13745,
+        ocs:C17246,
+        ocs:C17708,
+        ocs:C18299,
+        ocs:C23210,
+        ocs:C23244,
+        ocs:C23849,
+        ocs:C28402,
+        ocs:C29074,
+        ocs:C34069,
+        ocs:C37041,
+        ocs:C597 .
+

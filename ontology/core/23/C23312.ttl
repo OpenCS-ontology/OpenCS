@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23312 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Planning_poker> ;
+    skos:prefLabel "Planning poker" ;
+    skos:related ocs:C18274,
+        ocs:C18801,
+        ocs:C21979,
+        ocs:C2214,
+        ocs:C28080,
+        ocs:C31920,
+        ocs:C3293,
+        ocs:C37174,
+        ocs:C3844,
+        ocs:C39202,
+        ocs:C40422,
+        ocs:C41038,
+        ocs:C41314,
+        ocs:C41437,
+        ocs:C41673,
+        ocs:C4558,
+        ocs:C666 .
+

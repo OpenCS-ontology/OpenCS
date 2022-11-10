@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34483 a skos:Concept ;
+    skos:broader ocs:C21150 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eciton> ;
+    skos:prefLabel "Eciton" ;
+    skos:related ocs:C21150,
+        ocs:C22504,
+        ocs:C38192,
+        ocs:C40458,
+        ocs:C44018,
+        ocs:C44206,
+        ocs:C44498 .
+

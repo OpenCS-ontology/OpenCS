@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21350 a skos:Concept ;
+    skos:broader ocs:C9178 ;
+    skos:prefLabel "Computer-based instruction" ;
+    skos:related ocs:C14,
+        ocs:C18417,
+        ocs:C197,
+        ocs:C23866,
+        ocs:C8614,
+        ocs:C8787 .
+

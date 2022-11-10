@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7400 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ramsey_RESET_test> ;
+    skos:prefLabel "Ramsey RESET test" ;
+    skos:related ocs:C11986,
+        ocs:C13789,
+        ocs:C21236,
+        ocs:C21385,
+        ocs:C29226,
+        ocs:C32577,
+        ocs:C32677,
+        ocs:C33496,
+        ocs:C38822,
+        ocs:C40043,
+        ocs:C42437,
+        ocs:C5087,
+        ocs:C6116 .
+

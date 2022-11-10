@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16105 a skos:Concept ;
+    skos:broader ocs:C123,
+        ocs:C257,
+        ocs:C658,
+        ocs:C746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Root-raised-cosine_filter> ;
+    skos:prefLabel "Root-raised-cosine filter" ;
+    skos:related ocs:C15194,
+        ocs:C16335,
+        ocs:C20514,
+        ocs:C23968,
+        ocs:C257,
+        ocs:C31408,
+        ocs:C34056,
+        ocs:C35894,
+        ocs:C36076,
+        ocs:C37328,
+        ocs:C39778,
+        ocs:C42625,
+        ocs:C44927,
+        ocs:C5505,
+        ocs:C5769 .
+

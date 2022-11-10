@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12985 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rational_consequence_relation> ;
+    skos:prefLabel "Rational consequence relation" ;
+    skos:related ocs:C10825,
+        ocs:C1092,
+        ocs:C126,
+        ocs:C14028,
+        ocs:C19908,
+        ocs:C2010,
+        ocs:C20246,
+        ocs:C38602,
+        ocs:C38890,
+        ocs:C39073,
+        ocs:C44864,
+        ocs:C45174,
+        ocs:C45548,
+        ocs:C4557,
+        ocs:C6669,
+        ocs:C8802 .
+

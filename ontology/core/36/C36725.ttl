@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36725 a skos:Concept ;
+    skos:broader ocs:C17925 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modal_realism> ;
+    skos:prefLabel "Modal realism" ;
+    skos:related ocs:C1443,
+        ocs:C17925,
+        ocs:C31196,
+        ocs:C32467,
+        ocs:C44623,
+        ocs:C6532,
+        ocs:C7467 .
+

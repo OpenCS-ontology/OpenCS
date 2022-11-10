@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18406 a skos:Concept ;
+    skos:broader ocs:C3042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pareto_chart> ;
+    skos:prefLabel "Pareto chart" ;
+    skos:related ocs:C14173,
+        ocs:C16605,
+        ocs:C1844,
+        ocs:C1938,
+        ocs:C21209,
+        ocs:C383,
+        ocs:C5500,
+        ocs:C8511,
+        ocs:C931 .
+

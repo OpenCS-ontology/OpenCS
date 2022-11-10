@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10457 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IT_assistant> ;
+    skos:prefLabel "IT assistant" ;
+    skos:related ocs:C11540,
+        ocs:C1253,
+        ocs:C15478,
+        ocs:C197,
+        ocs:C23856,
+        ocs:C26,
+        ocs:C34264,
+        ocs:C35,
+        ocs:C37997,
+        ocs:C3895,
+        ocs:C3968,
+        ocs:C5112,
+        ocs:C5698,
+        ocs:C6031,
+        ocs:C6072,
+        ocs:C6473,
+        ocs:C6790,
+        ocs:C8471,
+        ocs:C8614 .
+

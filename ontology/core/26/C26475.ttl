@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26475 a skos:Concept ;
+    skos:broader ocs:C9100 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partners_for_Advanced_Transit_and_Highways> ;
+    skos:prefLabel "Partners for Advanced Transit and Highways" ;
+    skos:related ocs:C11869,
+        ocs:C14215,
+        ocs:C14828,
+        ocs:C23912,
+        ocs:C25914,
+        ocs:C26444,
+        ocs:C4273,
+        ocs:C9100,
+        ocs:C9657 .
+

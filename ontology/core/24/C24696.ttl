@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24696 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Butterfly_effect> ;
+    skos:prefLabel "Butterfly effect" ;
+    skos:related ocs:C10803,
+        ocs:C13992,
+        ocs:C14592,
+        ocs:C597,
+        ocs:C693,
+        ocs:C8696 .
+

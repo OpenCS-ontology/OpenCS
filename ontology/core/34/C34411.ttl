@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34411 a skos:Concept ;
+    skos:broader ocs:C22243,
+        ocs:C29255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Derivative-free_optimization> ;
+    skos:prefLabel "Derivative-free optimization" ;
+    skos:related ocs:C12105,
+        ocs:C12217,
+        ocs:C25774,
+        ocs:C31561,
+        ocs:C34414,
+        ocs:C37565,
+        ocs:C40201,
+        ocs:C41428,
+        ocs:C41550,
+        ocs:C44532,
+        ocs:C513,
+        ocs:C5197,
+        ocs:C7553,
+        ocs:C8781 .
+

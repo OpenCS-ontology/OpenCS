@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25359 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12293,
+        ocs:C12974 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpreter_pattern> ;
+    skos:prefLabel "Interpreter pattern" ;
+    skos:related ocs:C10720,
+        ocs:C12455,
+        ocs:C12974,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C27826,
+        ocs:C29634,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C36310,
+        ocs:C36729,
+        ocs:C37822,
+        ocs:C42211,
+        ocs:C43786,
+        ocs:C44286,
+        ocs:C5248 .
+

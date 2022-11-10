@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37399 a skos:Concept ;
+    skos:broader ocs:C17654 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carry_(arithmetic)> ;
+    skos:prefLabel "Carry (arithmetic)" ;
+    skos:related ocs:C11047,
+        ocs:C16377,
+        ocs:C18607,
+        ocs:C22525,
+        ocs:C5563,
+        ocs:C8581 .
+

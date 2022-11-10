@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10287 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Russian_declension> ;
+    skos:prefLabel "Russian declension" ;
+    skos:related ocs:C15178,
+        ocs:C18232,
+        ocs:C19302,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C23692,
+        ocs:C24499,
+        ocs:C25375,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C29667,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C9533 .
+

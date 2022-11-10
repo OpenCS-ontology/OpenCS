@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42791 a skos:Concept ;
+    skos:broader ocs:C33342,
+        ocs:C33396,
+        ocs:C35481 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wavelet_scalar_quantization> ;
+    skos:prefLabel "Wavelet scalar quantization" ;
+    skos:related ocs:C10380,
+        ocs:C10554,
+        ocs:C20648,
+        ocs:C27953,
+        ocs:C31551,
+        ocs:C39918,
+        ocs:C40380,
+        ocs:C43566,
+        ocs:C7364,
+        ocs:C7604 .
+

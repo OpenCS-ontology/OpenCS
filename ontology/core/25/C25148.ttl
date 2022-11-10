@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25148 a skos:Concept ;
+    skos:broader ocs:C12737,
+        ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_estimation> ;
+    skos:prefLabel "Entropy estimation" ;
+    skos:related ocs:C1089,
+        ocs:C16,
+        ocs:C1938,
+        ocs:C20003,
+        ocs:C20377,
+        ocs:C26767,
+        ocs:C27660,
+        ocs:C28074,
+        ocs:C30115,
+        ocs:C30657,
+        ocs:C39127,
+        ocs:C546,
+        ocs:C5856,
+        ocs:C6822,
+        ocs:C9326 .
+

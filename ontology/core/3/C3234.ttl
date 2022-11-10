@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3234 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deep-sky_object> ;
+    skos:prefLabel "Deep-sky object" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C23296,
+        ocs:C25949,
+        ocs:C597 .
+

@@ -1,0 +1,35 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40061 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35839,
+        ocs:C36161,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_Hash_Standard> ;
+    skos:prefLabel "Secure Hash Standard" ;
+    skos:related ocs:C15591,
+        ocs:C2349,
+        ocs:C23875,
+        ocs:C32054,
+        ocs:C35389,
+        ocs:C36161,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37314,
+        ocs:C3936,
+        ocs:C39524,
+        ocs:C40146,
+        ocs:C40584,
+        ocs:C4218,
+        ocs:C43739,
+        ocs:C43967,
+        ocs:C44462,
+        ocs:C44709,
+        ocs:C7436,
+        ocs:C8189 .
+

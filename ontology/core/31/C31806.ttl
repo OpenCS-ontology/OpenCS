@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31806 a skos:Concept ;
+    skos:broader ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mutually_unbiased_bases> ;
+    skos:prefLabel "Mutually unbiased bases" ;
+    skos:related ocs:C28787,
+        ocs:C39891,
+        ocs:C597 .
+

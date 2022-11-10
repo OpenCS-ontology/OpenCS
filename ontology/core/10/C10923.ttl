@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10923 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multivariate_statistics> ;
+    skos:prefLabel "Multivariate statistics" ;
+    skos:related ocs:C14852,
+        ocs:C1844,
+        ocs:C25862,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C6912,
+        ocs:C9326,
+        ocs:C9428 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1394 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Depth_of_field> ;
+    skos:prefLabel "Depth of field" ;
+    skos:related ocs:C11324,
+        ocs:C11391,
+        ocs:C13065,
+        ocs:C19157,
+        ocs:C19180,
+        ocs:C3842 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21996 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scattering_channel> ;
+    skos:prefLabel "Scattering channel" ;
+    skos:related ocs:C22400,
+        ocs:C24313,
+        ocs:C28787,
+        ocs:C29059,
+        ocs:C32025,
+        ocs:C33115,
+        ocs:C40816 .
+

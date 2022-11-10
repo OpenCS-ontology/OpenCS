@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32057 a skos:Concept ;
+    skos:broader ocs:C24783 ;
+    skos:closeMatch <http://dbpedia.org/resource/OMDoc> ;
+    skos:prefLabel "OMDoc" ;
+    skos:related ocs:C11927,
+        ocs:C12977,
+        ocs:C1451,
+        ocs:C15895,
+        ocs:C24783,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C32413,
+        ocs:C33709,
+        ocs:C355,
+        ocs:C35570,
+        ocs:C36276,
+        ocs:C3854,
+        ocs:C39776,
+        ocs:C40821,
+        ocs:C6278,
+        ocs:C6553,
+        ocs:C9836 .
+

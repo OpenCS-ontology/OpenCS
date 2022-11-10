@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32000 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:prefLabel "Quercus candicans" ;
+    skos:related ocs:C20037,
+        ocs:C33871,
+        ocs:C34947,
+        ocs:C36096 .
+

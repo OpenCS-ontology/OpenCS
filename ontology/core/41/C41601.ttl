@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41601 a skos:Concept ;
+    skos:broader ocs:C29660,
+        ocs:C34470,
+        ocs:C35996,
+        ocs:C36112,
+        ocs:C37685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stern–Brocot_tree> ;
+    skos:prefLabel "Stern–Brocot tree" ;
+    skos:related ocs:C19223,
+        ocs:C37974,
+        ocs:C38755,
+        ocs:C43280,
+        ocs:C6697 .
+

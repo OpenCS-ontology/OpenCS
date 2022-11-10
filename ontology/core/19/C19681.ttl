@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19681 a skos:Concept ;
+    skos:broader ocs:C2005,
+        ocs:C2801,
+        ocs:C7021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hjorth_parameters> ;
+    skos:prefLabel "Hjorth parameters" ;
+    skos:related ocs:C10554,
+        ocs:C13046,
+        ocs:C14053,
+        ocs:C20514,
+        ocs:C28213,
+        ocs:C34943,
+        ocs:C37366,
+        ocs:C4512,
+        ocs:C5298,
+        ocs:C5505,
+        ocs:C836,
+        ocs:C9427,
+        ocs:C9428 .
+

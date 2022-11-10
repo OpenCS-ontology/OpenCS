@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39752 a skos:Concept ;
+    skos:broader ocs:C30405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mass_assignment_vulnerability> ;
+    skos:prefLabel "Mass assignment vulnerability" ;
+    skos:related ocs:C10284,
+        ocs:C12810,
+        ocs:C13068,
+        ocs:C13720,
+        ocs:C15902,
+        ocs:C19358,
+        ocs:C21230,
+        ocs:C23061,
+        ocs:C26528,
+        ocs:C3850,
+        ocs:C39663,
+        ocs:C45494,
+        ocs:C45536,
+        ocs:C4722,
+        ocs:C4918,
+        ocs:C5192,
+        ocs:C6772,
+        ocs:C7395,
+        ocs:C7530 .
+

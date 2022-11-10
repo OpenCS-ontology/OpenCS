@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9045 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C17,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Closed_captioning> ;
+    skos:prefLabel "Closed captioning" ;
+    skos:related ocs:C10463,
+        ocs:C11323,
+        ocs:C12430,
+        ocs:C12544,
+        ocs:C1724,
+        ocs:C18697,
+        ocs:C18701,
+        ocs:C21312,
+        ocs:C27572,
+        ocs:C34890,
+        ocs:C3522,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C5262,
+        ocs:C7120 .
+

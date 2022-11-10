@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21630 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_debris> ;
+    skos:prefLabel "Space debris" ;
+    skos:related ocs:C1628,
+        ocs:C21936,
+        ocs:C2252,
+        ocs:C23609,
+        ocs:C32643,
+        ocs:C33314,
+        ocs:C5293,
+        ocs:C597,
+        ocs:C7201 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6077 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_knowledge> ;
+    skos:prefLabel "Design knowledge" ;
+    skos:related ocs:C1020,
+        ocs:C1038,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C16604,
+        ocs:C17268,
+        ocs:C2523,
+        ocs:C28591,
+        ocs:C29840,
+        ocs:C37478,
+        ocs:C39366,
+        ocs:C41897,
+        ocs:C5782,
+        ocs:C7170,
+        ocs:C7256,
+        ocs:C7914,
+        ocs:C8,
+        ocs:C8712 .
+

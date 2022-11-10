@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32230 a skos:Concept ;
+    skos:broader ocs:C20636,
+        ocs:C27885 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_Hazard_Analysis> ;
+    skos:prefLabel "Process Hazard Analysis" ;
+    skos:related ocs:C26696,
+        ocs:C3794,
+        ocs:C9745 .
+

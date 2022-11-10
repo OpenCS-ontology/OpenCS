@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7570 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Faro_shuffle> ;
+    skos:prefLabel "Faro shuffle" ;
+    skos:related ocs:C10,
+        ocs:C10320,
+        ocs:C10803,
+        ocs:C11282,
+        ocs:C16028,
+        ocs:C16296,
+        ocs:C25024,
+        ocs:C27,
+        ocs:C2704,
+        ocs:C2860,
+        ocs:C31106,
+        ocs:C34451,
+        ocs:C42250 .
+

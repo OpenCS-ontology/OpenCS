@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22526 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balun> ;
+    skos:prefLabel "Balun" ;
+    skos:related ocs:C11554,
+        ocs:C1219,
+        ocs:C19234,
+        ocs:C36281,
+        ocs:C39709,
+        ocs:C4205,
+        ocs:C44141,
+        ocs:C6913,
+        ocs:C9691 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17578 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C3639,
+        ocs:C5818,
+        ocs:C7825,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monad_transformer> ;
+    skos:prefLabel "Monad transformer" ;
+    skos:related ocs:C10244,
+        ocs:C14836,
+        ocs:C18507,
+        ocs:C20000,
+        ocs:C21436,
+        ocs:C22266,
+        ocs:C24148,
+        ocs:C27185,
+        ocs:C28944,
+        ocs:C29467,
+        ocs:C34136,
+        ocs:C35502,
+        ocs:C40762,
+        ocs:C4918,
+        ocs:C6080,
+        ocs:C6941,
+        ocs:C7825 .
+

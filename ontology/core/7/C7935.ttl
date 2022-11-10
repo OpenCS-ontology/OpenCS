@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7935 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_print_film> ;
+    skos:prefLabel "Color print film" ;
+    skos:related ocs:C12473,
+        ocs:C27527,
+        ocs:C6191,
+        ocs:C9451 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19691 a skos:Concept ;
+    skos:broader ocs:C8291 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electret_microphone> ;
+    skos:prefLabel "Electret microphone" ;
+    skos:related ocs:C26449,
+        ocs:C26481,
+        ocs:C32291,
+        ocs:C34538,
+        ocs:C37673,
+        ocs:C38517,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C8291 .
+

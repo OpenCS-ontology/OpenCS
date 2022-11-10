@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26166 a skos:Concept ;
+    skos:broader ocs:C2800 ;
+    skos:closeMatch <http://dbpedia.org/resource/French_immersion> ;
+    skos:prefLabel "French immersion" ;
+    skos:related ocs:C13920,
+        ocs:C6340 .
+

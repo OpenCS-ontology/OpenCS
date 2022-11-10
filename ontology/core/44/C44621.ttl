@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44621 a skos:Concept ;
+    skos:broader ocs:C30895,
+        ocs:C32125,
+        ocs:C32876 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wedding_videography> ;
+    skos:prefLabel "Wedding videography" ;
+    skos:related ocs:C13095,
+        ocs:C1517,
+        ocs:C2000,
+        ocs:C25356,
+        ocs:C40628,
+        ocs:C4448,
+        ocs:C6079,
+        ocs:C7369,
+        ocs:C7816,
+        ocs:C8256,
+        ocs:C9611 .
+

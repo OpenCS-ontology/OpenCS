@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40233 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342,
+        ocs:C36509 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wavelet_noise> ;
+    skos:prefLabel "Wavelet noise" ;
+    skos:related ocs:C11114,
+        ocs:C13854,
+        ocs:C14895,
+        ocs:C15903,
+        ocs:C16407,
+        ocs:C18519,
+        ocs:C23750,
+        ocs:C23918,
+        ocs:C36509,
+        ocs:C36568,
+        ocs:C39653,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C42371,
+        ocs:C43197,
+        ocs:C5523,
+        ocs:C7104 .
+

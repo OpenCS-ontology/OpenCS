@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21727 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_geometry> ;
+    skos:prefLabel "Feature geometry" ;
+    skos:related ocs:C10687,
+        ocs:C12110,
+        ocs:C13210,
+        ocs:C14010,
+        ocs:C14704,
+        ocs:C16228,
+        ocs:C18070,
+        ocs:C21948,
+        ocs:C24826,
+        ocs:C30537,
+        ocs:C308,
+        ocs:C31453,
+        ocs:C5556,
+        ocs:C6449,
+        ocs:C6784 .
+

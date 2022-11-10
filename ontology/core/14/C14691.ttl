@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14691 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3452,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_Telecommunications_Computing_Architecture> ;
+    skos:prefLabel "Advanced Telecommunications Computing Architecture" ;
+    skos:related ocs:C18745,
+        ocs:C18762,
+        ocs:C2084,
+        ocs:C20881,
+        ocs:C26,
+        ocs:C3,
+        ocs:C34195,
+        ocs:C3627,
+        ocs:C4159,
+        ocs:C490,
+        ocs:C521,
+        ocs:C9426,
+        ocs:C9642 .
+

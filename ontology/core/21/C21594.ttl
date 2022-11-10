@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21594 a skos:Concept ;
+    skos:broader ocs:C6760,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/HyMap> ;
+    skos:prefLabel "HyMap" ;
+    skos:related ocs:C12580,
+        ocs:C13985,
+        ocs:C29698,
+        ocs:C35208 .
+

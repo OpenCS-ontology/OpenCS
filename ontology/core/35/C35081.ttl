@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35081 a skos:Concept ;
+    skos:broader ocs:C19721,
+        ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diversity_scheme> ;
+    skos:prefLabel "Diversity scheme" ;
+    skos:related ocs:C14099,
+        ocs:C15410,
+        ocs:C16335,
+        ocs:C19721,
+        ocs:C21204,
+        ocs:C21929,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C24469,
+        ocs:C24558,
+        ocs:C28404,
+        ocs:C3,
+        ocs:C30265,
+        ocs:C31025,
+        ocs:C31578,
+        ocs:C33606,
+        ocs:C33607,
+        ocs:C34903,
+        ocs:C35020,
+        ocs:C7502 .
+

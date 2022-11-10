@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43114 a skos:Concept ;
+    skos:broader ocs:C33528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffuse_Infrared_Background_Experiment> ;
+    skos:prefLabel "Diffuse Infrared Background Experiment" ;
+    skos:related ocs:C10556,
+        ocs:C17174,
+        ocs:C17246,
+        ocs:C22752,
+        ocs:C36569,
+        ocs:C45820,
+        ocs:C597 .
+

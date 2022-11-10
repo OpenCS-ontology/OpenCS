@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3298 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Input_enhancement> ;
+    skos:prefLabel "Input enhancement" ;
+    skos:related ocs:C16053,
+        ocs:C26478,
+        ocs:C29769,
+        ocs:C29973,
+        ocs:C32426,
+        ocs:C33078,
+        ocs:C36650,
+        ocs:C37591,
+        ocs:C37690,
+        ocs:C44334 .
+

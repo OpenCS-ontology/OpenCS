@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30449 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_standard> ;
+    skos:prefLabel "Software standard" ;
+    skos:related ocs:C11886,
+        ocs:C1253,
+        ocs:C13144,
+        ocs:C14983,
+        ocs:C16980,
+        ocs:C21747,
+        ocs:C22246,
+        ocs:C23780,
+        ocs:C24323,
+        ocs:C24348,
+        ocs:C29359,
+        ocs:C3,
+        ocs:C30474,
+        ocs:C44196,
+        ocs:C6473,
+        ocs:C8614,
+        ocs:C8718,
+        ocs:C9375,
+        ocs:C9931 .
+

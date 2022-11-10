@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10415 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Surgical assistance" ;
+    skos:related ocs:C10052,
+        ocs:C12565,
+        ocs:C1443,
+        ocs:C2,
+        ocs:C22524 .
+

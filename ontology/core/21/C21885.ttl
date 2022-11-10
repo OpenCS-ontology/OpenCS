@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21885 a skos:Concept ;
+    skos:broader ocs:C8514 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probabilistic_design> ;
+    skos:prefLabel "Probabilistic design" ;
+    skos:related ocs:C13748,
+        ocs:C1844,
+        ocs:C19150,
+        ocs:C19512,
+        ocs:C7515 .
+

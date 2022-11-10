@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39509 a skos:Concept ;
+    skos:broader ocs:C30272,
+        ocs:C32948,
+        ocs:C33073,
+        ocs:C34711,
+        ocs:C37207 ;
+    skos:prefLabel "Fuzzy finite automata" .
+

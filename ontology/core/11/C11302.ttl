@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11302 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Named_entity> ;
+    skos:prefLabel "Named entity" ;
+    skos:related ocs:C1026,
+        ocs:C19459,
+        ocs:C23894,
+        ocs:C32,
+        ocs:C8710 .
+

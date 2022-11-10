@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10083 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modulation_sphere> ;
+    skos:prefLabel "Modulation sphere" ;
+    skos:related ocs:C12582,
+        ocs:C14053,
+        ocs:C16694,
+        ocs:C18001,
+        ocs:C23488,
+        ocs:C2368,
+        ocs:C25850,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C30857,
+        ocs:C35957,
+        ocs:C37472,
+        ocs:C38024,
+        ocs:C38310,
+        ocs:C44707,
+        ocs:C4612,
+        ocs:C7502 .
+

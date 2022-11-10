@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18246 a skos:Concept ;
+    skos:broader ocs:C2409,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/RAMDAC> ;
+    skos:prefLabel "RAMDAC" ;
+    skos:related ocs:C10002,
+        ocs:C11884,
+        ocs:C13586,
+        ocs:C13875,
+        ocs:C1904,
+        ocs:C24015,
+        ocs:C28172,
+        ocs:C32920,
+        ocs:C35166,
+        ocs:C36633,
+        ocs:C41977,
+        ocs:C653,
+        ocs:C6942 .
+

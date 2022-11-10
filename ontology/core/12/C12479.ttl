@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12479 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_analysis> ;
+    skos:prefLabel "Static analysis" ;
+    skos:related ocs:C10720,
+        ocs:C12009,
+        ocs:C19,
+        ocs:C20259,
+        ocs:C45212,
+        ocs:C7126 .
+

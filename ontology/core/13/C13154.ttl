@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13154 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_module> ;
+    skos:prefLabel "Service module" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C19819,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C23609,
+        ocs:C24462,
+        ocs:C33613,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C7739,
+        ocs:C81 .
+

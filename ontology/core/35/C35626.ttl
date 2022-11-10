@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35626 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_server_(cryptographic)> ;
+    skos:prefLabel "Key server" ;
+    skos:related ocs:C13991,
+        ocs:C14417,
+        ocs:C16125,
+        ocs:C19219,
+        ocs:C21006,
+        ocs:C24131,
+        ocs:C26892,
+        ocs:C27571,
+        ocs:C30595,
+        ocs:C30656,
+        ocs:C31147,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41533,
+        ocs:C4218,
+        ocs:C42304 .
+

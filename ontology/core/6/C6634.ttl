@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6634 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code-switching> ;
+    skos:prefLabel "Code-switching" ;
+    skos:related ocs:C1034,
+        ocs:C1304,
+        ocs:C13210,
+        ocs:C14477,
+        ocs:C15207,
+        ocs:C2298,
+        ocs:C2847,
+        ocs:C5990,
+        ocs:C7501 .
+

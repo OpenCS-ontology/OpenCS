@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30914 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C14576,
+        ocs:C16370,
+        ocs:C19972 ;
+    skos:prefLabel "Voronoi vertex" .
+

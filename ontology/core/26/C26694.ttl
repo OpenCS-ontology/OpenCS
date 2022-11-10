@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26694 a skos:Concept ;
+    skos:broader ocs:C5746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Project_commissioning> ;
+    skos:prefLabel "Project commissioning" ;
+    skos:related ocs:C3674,
+        ocs:C4817,
+        ocs:C8388,
+        ocs:C8438 .
+

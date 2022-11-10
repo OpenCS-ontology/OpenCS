@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15188 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Map_matching> ;
+    skos:prefLabel "Map matching" ;
+    skos:related ocs:C11,
+        ocs:C13187,
+        ocs:C13320,
+        ocs:C14853,
+        ocs:C22762,
+        ocs:C24885,
+        ocs:C32346,
+        ocs:C3339,
+        ocs:C33579,
+        ocs:C34119,
+        ocs:C37913,
+        ocs:C4020,
+        ocs:C40680,
+        ocs:C4966,
+        ocs:C9264 .
+

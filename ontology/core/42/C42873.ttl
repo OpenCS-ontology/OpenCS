@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42873 a skos:Concept ;
+    skos:broader ocs:C37173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Great_dodecahedron> ;
+    skos:prefLabel "Great dodecahedron" ;
+    skos:related ocs:C29999,
+        ocs:C33802,
+        ocs:C35232,
+        ocs:C38358,
+        ocs:C38990,
+        ocs:C40652,
+        ocs:C43966 .
+

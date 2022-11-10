@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45518 a skos:Concept ;
+    skos:broader ocs:C36502 ;
+    skos:closeMatch <http://dbpedia.org/resource/High-availability_cluster> ;
+    skos:prefLabel "High-availability cluster" ;
+    skos:related ocs:C10326,
+        ocs:C12348,
+        ocs:C12812,
+        ocs:C13550,
+        ocs:C1723,
+        ocs:C17533,
+        ocs:C26266,
+        ocs:C27259,
+        ocs:C2878,
+        ocs:C28881,
+        ocs:C30,
+        ocs:C31489,
+        ocs:C39186,
+        ocs:C6173,
+        ocs:C6312,
+        ocs:C7106,
+        ocs:C8298,
+        ocs:C8467,
+        ocs:C9,
+        ocs:C9426 .
+

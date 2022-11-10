@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30181 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Submillimeter_Array> ;
+    skos:prefLabel "Submillimeter Array" ;
+    skos:related ocs:C32423,
+        ocs:C34673,
+        ocs:C37332,
+        ocs:C38705 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41114 a skos:Concept ;
+    skos:broader ocs:C30245 ;
+    skos:closeMatch <http://dbpedia.org/resource/Degree_matrix> ;
+    skos:prefLabel "Degree matrix" ;
+    skos:related ocs:C15255,
+        ocs:C15460,
+        ocs:C17717,
+        ocs:C30245,
+        ocs:C31884,
+        ocs:C33699,
+        ocs:C36126,
+        ocs:C39515,
+        ocs:C39719,
+        ocs:C40880,
+        ocs:C41628,
+        ocs:C41657,
+        ocs:C42751,
+        ocs:C43606 .
+

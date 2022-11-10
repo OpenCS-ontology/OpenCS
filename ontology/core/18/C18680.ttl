@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18680 a skos:Concept ;
+    skos:broader ocs:C2464,
+        ocs:C355,
+        ocs:C3655 ;
+    skos:closeMatch <http://dbpedia.org/resource/WebVTT> ;
+    skos:prefLabel "WebVTT" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C13069,
+        ocs:C17401,
+        ocs:C25697,
+        ocs:C27985,
+        ocs:C28801,
+        ocs:C28999,
+        ocs:C33709,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C39183,
+        ocs:C39663,
+        ocs:C4231,
+        ocs:C4918,
+        ocs:C6278,
+        ocs:C8234,
+        ocs:C9045,
+        ocs:C9748 .
+

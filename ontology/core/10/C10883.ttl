@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10883 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_network> ;
+    skos:prefLabel "Community network" ;
+    skos:related ocs:C10270,
+        ocs:C11026,
+        ocs:C11862,
+        ocs:C17608,
+        ocs:C19350,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C24449,
+        ocs:C31,
+        ocs:C3236,
+        ocs:C44239,
+        ocs:C7295,
+        ocs:C8578,
+        ocs:C8614 .
+

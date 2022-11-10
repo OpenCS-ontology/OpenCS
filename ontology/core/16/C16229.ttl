@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16229 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C12851 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_General_Nova> ;
+    skos:prefLabel "Data General Nova" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C12851,
+        ocs:C14063,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C28464,
+        ocs:C35009,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C6714,
+        ocs:C7434,
+        ocs:C8026,
+        ocs:C8434,
+        ocs:C8787,
+        ocs:C9 .
+

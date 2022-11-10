@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11690 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_timing_analysis> ;
+    skos:prefLabel "Static timing analysis" ;
+    skos:related ocs:C10377,
+        ocs:C10965,
+        ocs:C13747,
+        ocs:C19400,
+        ocs:C20745,
+        ocs:C23473,
+        ocs:C25373,
+        ocs:C254,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C37773,
+        ocs:C433,
+        ocs:C5336,
+        ocs:C6797 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9063 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indicator_vector> ;
+    skos:prefLabel "Indicator vector" ;
+    skos:related ocs:C17726,
+        ocs:C36575,
+        ocs:C38600,
+        ocs:C39004,
+        ocs:C42959,
+        ocs:C5032 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9646 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slicing_(interface_design)> ;
+    skos:prefLabel "Slicing" ;
+    skos:related ocs:C11531,
+        ocs:C13155,
+        ocs:C13173,
+        ocs:C20066,
+        ocs:C20457,
+        ocs:C2135,
+        ocs:C22,
+        ocs:C2366,
+        ocs:C2409,
+        ocs:C28533,
+        ocs:C35078,
+        ocs:C3679,
+        ocs:C37913,
+        ocs:C41932,
+        ocs:C4233,
+        ocs:C4584,
+        ocs:C5477,
+        ocs:C797 .
+

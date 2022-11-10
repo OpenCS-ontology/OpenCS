@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31171 a skos:Concept ;
+    skos:broader ocs:C14264,
+        ocs:C23202,
+        ocs:C23973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thrixopelma_pruriens> ;
+    skos:prefLabel "Thrixopelma pruriens" .
+

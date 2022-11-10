@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38886 a skos:Concept ;
+    skos:broader ocs:C29969,
+        ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/SQALE> ;
+    skos:prefLabel "SQALE" ;
+    skos:related ocs:C14329,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C24176,
+        ocs:C25854,
+        ocs:C25957,
+        ocs:C32019,
+        ocs:C32646,
+        ocs:C32978,
+        ocs:C3463,
+        ocs:C41303,
+        ocs:C41456,
+        ocs:C43671,
+        ocs:C44528,
+        ocs:C45212,
+        ocs:C4558,
+        ocs:C5308,
+        ocs:C6780,
+        ocs:C9033 .
+

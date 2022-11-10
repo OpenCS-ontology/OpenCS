@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20176 a skos:Concept ;
+    skos:broader ocs:C257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tilting_pan_filter> ;
+    skos:prefLabel "Tilting pan filter" ;
+    skos:related ocs:C18820 .
+

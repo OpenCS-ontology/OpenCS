@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2805 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supervisory_control> ;
+    skos:prefLabel "Supervisory control" ;
+    skos:related ocs:C10449,
+        ocs:C22507,
+        ocs:C25068,
+        ocs:C26696,
+        ocs:C34269,
+        ocs:C5821 .
+

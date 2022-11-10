@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23313 a skos:Concept ;
+    skos:broader ocs:C6913,
+        ocs:C9718 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transposition_(telecommunications)> ;
+    skos:prefLabel "Transposition (telecommunications)" ;
+    skos:related ocs:C11554,
+        ocs:C14154,
+        ocs:C15194,
+        ocs:C19234,
+        ocs:C22526,
+        ocs:C41367,
+        ocs:C691,
+        ocs:C6913,
+        ocs:C7555,
+        ocs:C9718 .
+

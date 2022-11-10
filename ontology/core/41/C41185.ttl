@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41185 a skos:Concept ;
+    skos:broader ocs:C31949,
+        ocs:C32079,
+        ocs:C34052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slide_attack> ;
+    skos:prefLabel "Slide attack" ;
+    skos:related ocs:C17856,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30003,
+        ocs:C31224,
+        ocs:C32079,
+        ocs:C34052,
+        ocs:C36690,
+        ocs:C37854,
+        ocs:C37976,
+        ocs:C38685,
+        ocs:C41514,
+        ocs:C41541,
+        ocs:C4218,
+        ocs:C42904,
+        ocs:C43188,
+        ocs:C43934,
+        ocs:C45116,
+        ocs:C638 .
+

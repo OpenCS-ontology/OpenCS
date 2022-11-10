@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33416 a skos:Concept ;
+    skos:broader ocs:C23875,
+        ocs:C26410 ;
+    skos:closeMatch <http://dbpedia.org/resource/Merkle_tree> ;
+    skos:prefLabel "Merkle tree" ;
+    skos:related ocs:C11540,
+        ocs:C14223,
+        ocs:C15591,
+        ocs:C21324,
+        ocs:C23875,
+        ocs:C26456,
+        ocs:C35539,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C37978,
+        ocs:C38620,
+        ocs:C3936,
+        ocs:C39396,
+        ocs:C40584,
+        ocs:C4129,
+        ocs:C4218,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C7292,
+        ocs:C8946 .
+

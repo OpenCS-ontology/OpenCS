@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32919 a skos:Concept ;
+    skos:broader ocs:C25514 ;
+    skos:closeMatch <http://dbpedia.org/resource/Long-haul_communications> ;
+    skos:prefLabel "Long-haul communications" ;
+    skos:related ocs:C11554,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C21891,
+        ocs:C2423,
+        ocs:C25293,
+        ocs:C26712,
+        ocs:C3,
+        ocs:C30667,
+        ocs:C4343,
+        ocs:C5725,
+        ocs:C5830,
+        ocs:C7444,
+        ocs:C7464 .
+

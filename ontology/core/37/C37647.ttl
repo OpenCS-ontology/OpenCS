@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37647 a skos:Concept ;
+    skos:broader ocs:C21607,
+        ocs:C23210,
+        ocs:C24259 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gyrochronology> ;
+    skos:prefLabel "Gyrochronology" ;
+    skos:related ocs:C15251,
+        ocs:C18085,
+        ocs:C19222,
+        ocs:C20206,
+        ocs:C21607,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C30109,
+        ocs:C38054,
+        ocs:C597 .
+

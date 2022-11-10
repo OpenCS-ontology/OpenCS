@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C653 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_monitor> ;
+    skos:prefLabel "Computer monitor" ;
+    skos:related ocs:C10320,
+        ocs:C10368,
+        ocs:C13586,
+        ocs:C13725,
+        ocs:C22257,
+        ocs:C28881,
+        ocs:C29012,
+        ocs:C32920,
+        ocs:C5702,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9605 .
+

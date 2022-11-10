@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39595 a skos:Concept ;
+    skos:broader ocs:C30242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ramanujan_graph> ;
+    skos:prefLabel "Ramanujan graph" ;
+    skos:related ocs:C14127,
+        ocs:C15460,
+        ocs:C16667,
+        ocs:C27903,
+        ocs:C30242,
+        ocs:C30245,
+        ocs:C36149,
+        ocs:C38121,
+        ocs:C38821,
+        ocs:C39019,
+        ocs:C41441,
+        ocs:C41628,
+        ocs:C42751 .
+

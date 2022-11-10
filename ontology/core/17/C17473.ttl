@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17473 a skos:Concept ;
+    skos:broader ocs:C8559 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stability_radius> ;
+    skos:prefLabel "Stability radius" ;
+    skos:related ocs:C28077,
+        ocs:C28722,
+        ocs:C31804,
+        ocs:C4594 .
+

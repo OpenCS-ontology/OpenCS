@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31991 a skos:Concept ;
+    skos:broader ocs:C28337 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mars_cycler> ;
+    skos:prefLabel "Mars cycler" ;
+    skos:related ocs:C2252,
+        ocs:C23481,
+        ocs:C23609,
+        ocs:C26021,
+        ocs:C28072 .
+

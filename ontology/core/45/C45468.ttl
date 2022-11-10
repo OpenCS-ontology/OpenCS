@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45468 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_regression> ;
+    skos:prefLabel "Software regression" ;
+    skos:related ocs:C10214,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C1736,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C19822,
+        ocs:C2265,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28080,
+        ocs:C37168,
+        ocs:C38916,
+        ocs:C41303,
+        ocs:C41788,
+        ocs:C5800,
+        ocs:C9347 .
+

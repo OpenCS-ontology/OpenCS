@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35366 a skos:Concept ;
+    skos:broader ocs:C17703,
+        ocs:C22567,
+        ocs:C26637,
+        ocs:C27052 ;
+    skos:closeMatch <http://dbpedia.org/resource/C++_Technical_Report_1> ;
+    skos:prefLabel "C++ Technical Report 1" .
+

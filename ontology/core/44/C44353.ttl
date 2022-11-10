@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44353 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/TAFIM> ;
+    skos:prefLabel "TAFIM" ;
+    skos:related ocs:C205,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38885,
+        ocs:C39686,
+        ocs:C40895,
+        ocs:C41641,
+        ocs:C42441,
+        ocs:C43347,
+        ocs:C43469,
+        ocs:C44805,
+        ocs:C44839,
+        ocs:C44909,
+        ocs:C45082,
+        ocs:C45437 .
+

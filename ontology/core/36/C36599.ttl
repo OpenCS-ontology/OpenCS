@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36599 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/MBASE> ;
+    skos:prefLabel "MBASE" ;
+    skos:related ocs:C11591,
+        ocs:C20241,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C28454,
+        ocs:C34078,
+        ocs:C37174,
+        ocs:C41038,
+        ocs:C41111,
+        ocs:C42972,
+        ocs:C43434,
+        ocs:C43668,
+        ocs:C43715,
+        ocs:C44988,
+        ocs:C44989,
+        ocs:C45202,
+        ocs:C45629,
+        ocs:C5869,
+        ocs:C688 .
+

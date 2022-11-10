@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36178 a skos:Concept ;
+    skos:broader ocs:C20611,
+        ocs:C26257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microdon_mutabilis> ;
+    skos:prefLabel "Microdon mutabilis" .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3951 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diary_studies> ;
+    skos:prefLabel "Diary studies" ;
+    skos:related ocs:C10368,
+        ocs:C13413,
+        ocs:C14148,
+        ocs:C18,
+        ocs:C25671,
+        ocs:C28503,
+        ocs:C34564,
+        ocs:C3795,
+        ocs:C39960,
+        ocs:C5926,
+        ocs:C78,
+        ocs:C8712,
+        ocs:C9607 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23140 a skos:Concept ;
+    skos:broader ocs:C12098,
+        ocs:C7903 ;
+    skos:closeMatch <http://dbpedia.org/resource/Promela> ;
+    skos:prefLabel "Promela" ;
+    skos:related ocs:C1035,
+        ocs:C12098,
+        ocs:C12427,
+        ocs:C13152,
+        ocs:C14316,
+        ocs:C24012,
+        ocs:C24477,
+        ocs:C28080,
+        ocs:C30,
+        ocs:C3004,
+        ocs:C30050,
+        ocs:C33202,
+        ocs:C35744,
+        ocs:C42440,
+        ocs:C43378,
+        ocs:C44231,
+        ocs:C6346,
+        ocs:C8171,
+        ocs:C8786,
+        ocs:C9252 .
+

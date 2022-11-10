@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C614 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gunfire_locator> ;
+    skos:prefLabel "Gunfire locator" ;
+    skos:related ocs:C11879,
+        ocs:C17375,
+        ocs:C33197,
+        ocs:C36377,
+        ocs:C8291 .
+

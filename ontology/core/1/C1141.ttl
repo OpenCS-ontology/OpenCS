@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1141 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Xkcd> ;
+    skos:prefLabel "xkcd" ;
+    skos:related ocs:C10284,
+        ocs:C11641,
+        ocs:C11989,
+        ocs:C18764,
+        ocs:C26337,
+        ocs:C3398,
+        ocs:C3568,
+        ocs:C622,
+        ocs:C6234,
+        ocs:C7201,
+        ocs:C8614,
+        ocs:C9537,
+        ocs:C9794 .
+

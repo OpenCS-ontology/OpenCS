@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39338 a skos:Concept ;
+    skos:broader ocs:C30595,
+        ocs:C32192,
+        ocs:C33191 ;
+    skos:closeMatch <http://dbpedia.org/resource/Certificate_policy> ;
+    skos:prefLabel "Certificate policy" ;
+    skos:related ocs:C16125,
+        ocs:C21324,
+        ocs:C27571,
+        ocs:C30448,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C38305,
+        ocs:C39888,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C41533,
+        ocs:C4218,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C7006 .
+

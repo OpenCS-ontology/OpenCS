@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9801 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexicography> ;
+    skos:prefLabel "Lexicography" ;
+    skos:related ocs:C10516,
+        ocs:C1451,
+        ocs:C2298,
+        ocs:C2358,
+        ocs:C26019,
+        ocs:C2761,
+        ocs:C2847,
+        ocs:C308,
+        ocs:C8020 .
+

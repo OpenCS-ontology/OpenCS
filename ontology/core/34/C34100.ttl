@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34100 a skos:Concept ;
+    skos:broader ocs:C14032,
+        ocs:C25173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_harassment> ;
+    skos:prefLabel "Electronic harassment" ;
+    skos:related ocs:C21813 .
+

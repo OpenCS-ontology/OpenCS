@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28813 a skos:Concept ;
+    skos:broader ocs:C2880,
+        ocs:C4029,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wavelength_switched_optical_network> ;
+    skos:prefLabel "Wavelength switched optical network" ;
+    skos:related ocs:C10765,
+        ocs:C20462,
+        ocs:C24563,
+        ocs:C24781,
+        ocs:C35634,
+        ocs:C38402,
+        ocs:C38451,
+        ocs:C39018,
+        ocs:C41914,
+        ocs:C44228,
+        ocs:C7327,
+        ocs:C7340,
+        ocs:C7469 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19159 a skos:Concept ;
+    skos:broader ocs:C13096,
+        ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Syllabification> ;
+    skos:prefLabel "Syllabification" ;
+    skos:related ocs:C11288,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C13872,
+        ocs:C14527,
+        ocs:C15491,
+        ocs:C17395,
+        ocs:C2025,
+        ocs:C20621,
+        ocs:C22147,
+        ocs:C23422,
+        ocs:C24968,
+        ocs:C26896,
+        ocs:C5870,
+        ocs:C6416,
+        ocs:C8020 .
+

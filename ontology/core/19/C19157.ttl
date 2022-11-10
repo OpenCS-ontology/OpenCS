@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19157 a skos:Concept ;
+    skos:broader ocs:C1394 ;
+    skos:closeMatch <http://dbpedia.org/resource/Focus_stacking> ;
+    skos:prefLabel "Focus stacking" ;
+    skos:related ocs:C11324,
+        ocs:C11391,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C21025,
+        ocs:C21158,
+        ocs:C45860 .
+

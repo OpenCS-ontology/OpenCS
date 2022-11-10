@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36135 a skos:Concept ;
+    skos:broader ocs:C15065,
+        ocs:C16243,
+        ocs:C18971,
+        ocs:C20330,
+        ocs:C21887,
+        ocs:C27923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_generator> ;
+    skos:prefLabel "Packet generator" ;
+    skos:related ocs:C10008,
+        ocs:C15860,
+        ocs:C18428,
+        ocs:C19170,
+        ocs:C20540,
+        ocs:C20800,
+        ocs:C21769,
+        ocs:C24323,
+        ocs:C25123,
+        ocs:C27109,
+        ocs:C27923,
+        ocs:C29359,
+        ocs:C30630,
+        ocs:C30986,
+        ocs:C31489,
+        ocs:C35047,
+        ocs:C38784,
+        ocs:C44266,
+        ocs:C6667,
+        ocs:C8471 .
+

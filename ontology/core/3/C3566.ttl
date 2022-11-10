@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3566 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interconnectivity> ;
+    skos:prefLabel "Interconnectivity" ;
+    skos:related ocs:C11026,
+        ocs:C122,
+        ocs:C13786,
+        ocs:C15047,
+        ocs:C197,
+        ocs:C5496,
+        ocs:C5502,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C925,
+        ocs:C9373 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6920 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_Othello> ;
+    skos:prefLabel "Computer Othello" ;
+    skos:related ocs:C11414,
+        ocs:C13317,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C27,
+        ocs:C37008,
+        ocs:C40237,
+        ocs:C4254,
+        ocs:C43080,
+        ocs:C4594,
+        ocs:C6759 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41598 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C34752,
+        ocs:C35146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Station-to-Station_protocol> ;
+    skos:prefLabel "Station-to-Station protocol" ;
+    skos:related ocs:C10056,
+        ocs:C13632,
+        ocs:C16125,
+        ocs:C19219,
+        ocs:C24131,
+        ocs:C26581,
+        ocs:C30656,
+        ocs:C31365,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C35146,
+        ocs:C38359,
+        ocs:C39389,
+        ocs:C40791,
+        ocs:C41012,
+        ocs:C4218,
+        ocs:C42490,
+        ocs:C44564,
+        ocs:C45281,
+        ocs:C5842 .
+

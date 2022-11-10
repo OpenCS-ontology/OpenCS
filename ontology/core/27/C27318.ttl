@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27318 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_navigational_chart> ;
+    skos:prefLabel "Electronic navigational chart" ;
+    skos:related ocs:C10283,
+        ocs:C10448,
+        ocs:C12641,
+        ocs:C12652,
+        ocs:C12808,
+        ocs:C13155,
+        ocs:C16340,
+        ocs:C27698,
+        ocs:C4284,
+        ocs:C6096,
+        ocs:C9169 .
+

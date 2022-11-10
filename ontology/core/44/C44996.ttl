@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44996 a skos:Concept ;
+    skos:broader ocs:C31149,
+        ocs:C31755,
+        ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_phone> ;
+    skos:prefLabel "Feature phone" ;
+    skos:related ocs:C10368,
+        ocs:C1042,
+        ocs:C12641,
+        ocs:C1338,
+        ocs:C21357,
+        ocs:C21424,
+        ocs:C22397,
+        ocs:C27633,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C35370,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C9,
+        ocs:C9113,
+        ocs:C9154 .
+

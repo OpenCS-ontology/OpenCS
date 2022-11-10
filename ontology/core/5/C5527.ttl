@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5527 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anubis_(cipher)> ;
+    skos:prefLabel "Anubis" ;
+    skos:related ocs:C202,
+        ocs:C2259,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C31224,
+        ocs:C32079,
+        ocs:C32234,
+        ocs:C33162,
+        ocs:C33622,
+        ocs:C36690,
+        ocs:C37241,
+        ocs:C39213,
+        ocs:C41514,
+        ocs:C41639,
+        ocs:C42904,
+        ocs:C44818 .
+

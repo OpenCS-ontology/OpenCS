@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34602 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Progressive_meshes> ;
+    skos:prefLabel "Progressive meshes" ;
+    skos:related ocs:C11689,
+        ocs:C12577,
+        ocs:C36542,
+        ocs:C44381 .
+

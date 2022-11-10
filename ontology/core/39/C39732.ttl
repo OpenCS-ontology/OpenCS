@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39732 a skos:Concept ;
+    skos:broader ocs:C33650,
+        ocs:C36867 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scleronema_(fish)> ;
+    skos:prefLabel "Scleronema" ;
+    skos:related ocs:C39065,
+        ocs:C39150,
+        ocs:C42954,
+        ocs:C43311,
+        ocs:C45663 .
+

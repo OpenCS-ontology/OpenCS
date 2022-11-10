@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21818 a skos:Concept ;
+    skos:broader ocs:C5336,
+        ocs:C8169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-gigabit_transceiver> ;
+    skos:prefLabel "Multi-gigabit transceiver" ;
+    skos:related ocs:C14650,
+        ocs:C18745,
+        ocs:C19492,
+        ocs:C2205,
+        ocs:C23919,
+        ocs:C24469,
+        ocs:C26,
+        ocs:C2799,
+        ocs:C29006,
+        ocs:C41707,
+        ocs:C5336,
+        ocs:C5506,
+        ocs:C8567 .
+

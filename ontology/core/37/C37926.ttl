@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37926 a skos:Concept ;
+    skos:broader ocs:C35226,
+        ocs:C35696 ;
+    skos:closeMatch <http://dbpedia.org/resource/Snub_dodecahedron> ;
+    skos:prefLabel "Snub dodecahedron" ;
+    skos:related ocs:C30619,
+        ocs:C32168,
+        ocs:C35226,
+        ocs:C35696,
+        ocs:C38968,
+        ocs:C39317 .
+

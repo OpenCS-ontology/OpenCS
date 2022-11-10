@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2256 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attitude_and_heading_reference_system> ;
+    skos:prefLabel "Attitude and heading reference system" ;
+    skos:related ocs:C12641,
+        ocs:C13683,
+        ocs:C16352,
+        ocs:C21142,
+        ocs:C24485,
+        ocs:C31202,
+        ocs:C32744,
+        ocs:C35497,
+        ocs:C36804,
+        ocs:C40097,
+        ocs:C43975,
+        ocs:C5030,
+        ocs:C7850,
+        ocs:C9242 .
+

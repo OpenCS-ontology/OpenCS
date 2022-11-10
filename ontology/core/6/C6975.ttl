@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6975 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2 ;
+    skos:prefLabel "Electronic recording medium" ;
+    skos:related ocs:C10211,
+        ocs:C10557,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C26,
+        ocs:C31,
+        ocs:C35,
+        ocs:C7006,
+        ocs:C8614 .
+

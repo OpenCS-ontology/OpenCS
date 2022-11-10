@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30565 a skos:Concept ;
+    skos:broader ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/GLONASS> ;
+    skos:prefLabel "GLONASS" ;
+    skos:related ocs:C12641,
+        ocs:C22328,
+        ocs:C27698,
+        ocs:C30057,
+        ocs:C32576,
+        ocs:C34196,
+        ocs:C34620,
+        ocs:C34811,
+        ocs:C36895,
+        ocs:C37214,
+        ocs:C41939,
+        ocs:C42549,
+        ocs:C43594,
+        ocs:C7201 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43778 a skos:Concept ;
+    skos:broader ocs:C33093,
+        ocs:C35103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Conditional_event_algebra> ;
+    skos:prefLabel "Conditional event algebra" ;
+    skos:related ocs:C21154,
+        ocs:C246,
+        ocs:C25039,
+        ocs:C29495,
+        ocs:C41305,
+        ocs:C42482,
+        ocs:C6291,
+        ocs:C9246 .
+

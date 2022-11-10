@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41592 a skos:Concept ;
+    skos:broader ocs:C30704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gray_card> ;
+    skos:prefLabel "Gray card" ;
+    skos:related ocs:C10564,
+        ocs:C12484,
+        ocs:C13065,
+        ocs:C21490,
+        ocs:C2895,
+        ocs:C30704,
+        ocs:C3374,
+        ocs:C38868,
+        ocs:C4009,
+        ocs:C6041,
+        ocs:C6179,
+        ocs:C6257 .
+

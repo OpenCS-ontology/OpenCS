@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8573 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Need_to_know> ;
+    skos:prefLabel "Need to know" ;
+    skos:related ocs:C12434,
+        ocs:C1331,
+        ocs:C14984,
+        ocs:C16295,
+        ocs:C17669,
+        ocs:C19557,
+        ocs:C20443,
+        ocs:C2060,
+        ocs:C28422,
+        ocs:C29434,
+        ocs:C2970,
+        ocs:C3059,
+        ocs:C33988,
+        ocs:C35388,
+        ocs:C6582,
+        ocs:C7113,
+        ocs:C8390,
+        ocs:C9 .
+

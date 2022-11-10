@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15945 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Creative_visualization> ;
+    skos:prefLabel "Visualisation technique" ;
+    skos:related ocs:C14837,
+        ocs:C1498,
+        ocs:C17,
+        ocs:C22,
+        ocs:C24603,
+        ocs:C31695,
+        ocs:C3395,
+        ocs:C3401 .
+

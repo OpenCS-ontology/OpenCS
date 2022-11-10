@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38405 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C31017,
+        ocs:C32720,
+        ocs:C35109,
+        ocs:C36508 ;
+    skos:prefLabel "Website Parse Template" .
+

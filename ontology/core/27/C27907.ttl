@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27907 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Channel_reliability> ;
+    skos:prefLabel "Channel reliability" ;
+    skos:related ocs:C10733,
+        ocs:C13590,
+        ocs:C138,
+        ocs:C21891,
+        ocs:C25045,
+        ocs:C26712,
+        ocs:C32960,
+        ocs:C3692,
+        ocs:C4343,
+        ocs:C5416,
+        ocs:C7974,
+        ocs:C8029,
+        ocs:C9222 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38378 a skos:Concept ;
+    skos:broader ocs:C31018 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiplier_(Fourier_analysis)> ;
+    skos:prefLabel "Multiplier (Fourier analysis)" ;
+    skos:related ocs:C11150,
+        ocs:C21934,
+        ocs:C26263,
+        ocs:C28787,
+        ocs:C29528,
+        ocs:C30507,
+        ocs:C3589,
+        ocs:C42875 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36975 a skos:Concept ;
+    skos:broader ocs:C15804,
+        ocs:C20373,
+        ocs:C27546 ;
+    skos:closeMatch <http://dbpedia.org/resource/Connection-oriented_Ethernet> ;
+    skos:prefLabel "Connection-oriented Ethernet" ;
+    skos:related ocs:C11157,
+        ocs:C13857,
+        ocs:C15589,
+        ocs:C16608,
+        ocs:C16953,
+        ocs:C20373,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C32718,
+        ocs:C33283,
+        ocs:C35673,
+        ocs:C37722,
+        ocs:C4197,
+        ocs:C42234,
+        ocs:C490,
+        ocs:C686,
+        ocs:C8567 .
+

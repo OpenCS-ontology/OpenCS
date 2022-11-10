@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34270 a skos:Concept ;
+    skos:broader ocs:C16687,
+        ocs:C25140 ;
+    skos:closeMatch <http://dbpedia.org/resource/TW_Hydrae> ;
+    skos:prefLabel "TW Hydrae" ;
+    skos:related ocs:C14224,
+        ocs:C14270,
+        ocs:C16417,
+        ocs:C16687,
+        ocs:C16731,
+        ocs:C25140,
+        ocs:C26524,
+        ocs:C29867,
+        ocs:C29898,
+        ocs:C30091,
+        ocs:C36049,
+        ocs:C38054,
+        ocs:C44975,
+        ocs:C597 .
+

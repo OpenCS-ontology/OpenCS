@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16884 a skos:Concept ;
+    skos:broader ocs:C2543 ;
+    skos:closeMatch <http://dbpedia.org/resource/Driver's_license> ;
+    skos:prefLabel "Driver's license" ;
+    skos:related ocs:C12011,
+        ocs:C17865,
+        ocs:C2543,
+        ocs:C394,
+        ocs:C4917,
+        ocs:C7604,
+        ocs:C8437,
+        ocs:C8625,
+        ocs:C9489,
+        ocs:C9657 .
+

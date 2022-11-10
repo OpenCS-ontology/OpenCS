@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C795 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kurtosis> ;
+    skos:prefLabel "Kurtosis" ;
+    skos:related ocs:C13262,
+        ocs:C1844,
+        ocs:C20805,
+        ocs:C9326 .
+

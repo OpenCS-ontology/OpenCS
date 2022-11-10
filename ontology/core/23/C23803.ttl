@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23803 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/ATML> ;
+    skos:prefLabel "ATML" ;
+    skos:related ocs:C10637,
+        ocs:C11927,
+        ocs:C16159,
+        ocs:C19693,
+        ocs:C21066,
+        ocs:C23709,
+        ocs:C29058,
+        ocs:C29317,
+        ocs:C33040,
+        ocs:C41941,
+        ocs:C43142,
+        ocs:C44049,
+        ocs:C44193,
+        ocs:C45276,
+        ocs:C45693,
+        ocs:C6278,
+        ocs:C942 .
+

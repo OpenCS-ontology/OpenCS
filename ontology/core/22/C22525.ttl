@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22525 a skos:Concept ;
+    skos:broader ocs:C12262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Floating-point_unit> ;
+    skos:prefLabel "Floating-point unit" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11047,
+        ocs:C11258,
+        ocs:C12262,
+        ocs:C14627,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C25252,
+        ocs:C27610,
+        ocs:C31284,
+        ocs:C5463,
+        ocs:C7735,
+        ocs:C856,
+        ocs:C9 .
+

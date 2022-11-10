@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1095 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Curvilinear_perspective> ;
+    skos:prefLabel "Curvilinear perspective" ;
+    skos:related ocs:C1036,
+        ocs:C2246,
+        ocs:C24025,
+        ocs:C4160,
+        ocs:C8278,
+        ocs:C9479 .
+

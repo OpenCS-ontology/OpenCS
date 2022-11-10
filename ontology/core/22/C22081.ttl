@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22081 a skos:Concept ;
+    skos:broader ocs:C6797,
+        ocs:C7165 ;
+    skos:prefLabel "System on chip design" .
+

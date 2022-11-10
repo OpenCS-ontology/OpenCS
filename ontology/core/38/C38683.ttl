@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38683 a skos:Concept ;
+    skos:broader ocs:C36281 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foster's_reactance_theorem> ;
+    skos:prefLabel "Foster's reactance theorem" ;
+    skos:related ocs:C15194,
+        ocs:C26183,
+        ocs:C32519,
+        ocs:C32554,
+        ocs:C38695,
+        ocs:C41756 .
+

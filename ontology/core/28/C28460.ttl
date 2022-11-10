@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28460 a skos:Concept ;
+    skos:broader ocs:C2298,
+        ocs:C7330,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parser_combinator> ;
+    skos:prefLabel "Parser combinator" ;
+    skos:related ocs:C16044,
+        ocs:C20679,
+        ocs:C22624,
+        ocs:C25600,
+        ocs:C26158,
+        ocs:C28579,
+        ocs:C30921,
+        ocs:C32663,
+        ocs:C35625,
+        ocs:C38591,
+        ocs:C39244,
+        ocs:C39527,
+        ocs:C40293,
+        ocs:C40588,
+        ocs:C40875,
+        ocs:C41349,
+        ocs:C43346,
+        ocs:C45758,
+        ocs:C6941,
+        ocs:C8564 .
+

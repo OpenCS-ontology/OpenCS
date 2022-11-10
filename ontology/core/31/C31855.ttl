@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31855 a skos:Concept ;
+    skos:broader ocs:C18799,
+        ocs:C19721,
+        ocs:C24264,
+        ocs:C24469,
+        ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-carrier_code_division_multiple_access> ;
+    skos:prefLabel "Multi-carrier code-division multiple access" .
+

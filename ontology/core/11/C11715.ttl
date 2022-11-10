@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11715 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Red_zone_(computing)> ;
+    skos:prefLabel "Red zone" ;
+    skos:related ocs:C10219,
+        ocs:C1083,
+        ocs:C11016,
+        ocs:C1251,
+        ocs:C14350,
+        ocs:C2009,
+        ocs:C25185,
+        ocs:C2545,
+        ocs:C28788,
+        ocs:C31346,
+        ocs:C34807,
+        ocs:C39394,
+        ocs:C39555,
+        ocs:C41064,
+        ocs:C41970,
+        ocs:C44264,
+        ocs:C5049,
+        ocs:C6906,
+        ocs:C7800,
+        ocs:C9638 .
+

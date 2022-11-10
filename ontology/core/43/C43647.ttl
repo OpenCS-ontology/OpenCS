@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43647 a skos:Concept ;
+    skos:broader ocs:C32610 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graeco-Latin_square> ;
+    skos:prefLabel "Graeco-Latin square" ;
+    skos:related ocs:C11282,
+        ocs:C13150,
+        ocs:C14151,
+        ocs:C32610 .
+

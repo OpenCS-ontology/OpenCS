@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22887 a skos:Concept ;
+    skos:broader ocs:C5696 ;
+    skos:prefLabel "Decreased speech" ;
+    skos:related ocs:C1,
+        ocs:C17874,
+        ocs:C4531 .
+

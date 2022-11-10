@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40583 a skos:Concept ;
+    skos:broader ocs:C34469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paley_construction> ;
+    skos:prefLabel "Paley construction" ;
+    skos:related ocs:C37290,
+        ocs:C39848,
+        ocs:C9449 .
+

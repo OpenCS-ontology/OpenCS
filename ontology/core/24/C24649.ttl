@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24649 a skos:Concept ;
+    skos:broader ocs:C1035,
+        ocs:C3905,
+        ocs:C7903,
+        ocs:C8786 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_Of_Temporal_Ordering_Specification> ;
+    skos:prefLabel "Language Of Temporal Ordering Specification" ;
+    skos:related ocs:C1,
+        ocs:C1035,
+        ocs:C12427,
+        ocs:C14655,
+        ocs:C18606,
+        ocs:C24326,
+        ocs:C25382,
+        ocs:C2892,
+        ocs:C29290,
+        ocs:C31028,
+        ocs:C31722,
+        ocs:C32014,
+        ocs:C35170,
+        ocs:C37896,
+        ocs:C38537,
+        ocs:C3905,
+        ocs:C3945,
+        ocs:C5974,
+        ocs:C7903,
+        ocs:C8786 .
+

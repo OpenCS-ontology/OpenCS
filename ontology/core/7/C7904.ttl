@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7904 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_thinking> ;
+    skos:prefLabel "Design thinking" ;
+    skos:related ocs:C12847,
+        ocs:C23671,
+        ocs:C27184,
+        ocs:C30036,
+        ocs:C4292,
+        ocs:C5876,
+        ocs:C7879,
+        ocs:C8269,
+        ocs:C8712 .
+

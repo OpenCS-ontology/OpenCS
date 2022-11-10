@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39235 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_synchronization> ;
+    skos:prefLabel "File synchronization" ;
+    skos:related ocs:C10911,
+        ocs:C15182,
+        ocs:C16369,
+        ocs:C16980,
+        ocs:C1956,
+        ocs:C24871,
+        ocs:C27832,
+        ocs:C28881,
+        ocs:C29846,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C3799,
+        ocs:C5692,
+        ocs:C5702,
+        ocs:C7106,
+        ocs:C7476,
+        ocs:C8614,
+        ocs:C9 .
+

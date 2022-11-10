@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25194 a skos:Concept ;
+    skos:broader ocs:C724 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_technical_system> ;
+    skos:prefLabel "Large technical system" ;
+    skos:related ocs:C11026,
+        ocs:C12219,
+        ocs:C19194,
+        ocs:C5863,
+        ocs:C6730,
+        ocs:C7607 .
+

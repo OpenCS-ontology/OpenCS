@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41391 a skos:Concept ;
+    skos:broader ocs:C30247,
+        ocs:C34161,
+        ocs:C34221,
+        ocs:C36497,
+        ocs:C37469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_Management_Interface> ;
+    skos:prefLabel "Local Management Interface" ;
+    skos:related ocs:C10503,
+        ocs:C16953,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26067,
+        ocs:C26809,
+        ocs:C29834,
+        ocs:C34221,
+        ocs:C37316,
+        ocs:C40784,
+        ocs:C41542,
+        ocs:C42429,
+        ocs:C44128,
+        ocs:C44145,
+        ocs:C44254,
+        ocs:C45003,
+        ocs:C45247,
+        ocs:C45376,
+        ocs:C6861 .
+

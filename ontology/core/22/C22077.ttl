@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22077 a skos:Concept ;
+    skos:broader ocs:C10608,
+        ocs:C4700,
+        ocs:C794 ;
+    skos:closeMatch <http://dbpedia.org/resource/Associative_containers> ;
+    skos:prefLabel "Associative containers" ;
+    skos:related ocs:C10608,
+        ocs:C10862,
+        ocs:C14624,
+        ocs:C26456,
+        ocs:C27826,
+        ocs:C28116,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C30594,
+        ocs:C30731,
+        ocs:C31203,
+        ocs:C33250,
+        ocs:C41512,
+        ocs:C4700,
+        ocs:C8022,
+        ocs:C8864 .
+

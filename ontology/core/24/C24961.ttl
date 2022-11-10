@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24961 a skos:Concept ;
+    skos:broader ocs:C12099,
+        ocs:C8895 ;
+    skos:closeMatch <http://dbpedia.org/resource/Input/output_automaton> ;
+    skos:prefLabel "Input/output automaton" ;
+    skos:related ocs:C1142,
+        ocs:C12427,
+        ocs:C13407,
+        ocs:C1625,
+        ocs:C18357,
+        ocs:C19153,
+        ocs:C25382,
+        ocs:C2750,
+        ocs:C29,
+        ocs:C30,
+        ocs:C32014,
+        ocs:C34694,
+        ocs:C3514,
+        ocs:C37655,
+        ocs:C3990,
+        ocs:C41733,
+        ocs:C5279,
+        ocs:C6188,
+        ocs:C6346 .
+

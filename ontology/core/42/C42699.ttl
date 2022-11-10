@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42699 a skos:Concept ;
+    skos:broader ocs:C33187 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indefinite_inner_product_space> ;
+    skos:prefLabel "Indefinite inner product space" ;
+    skos:related ocs:C10534,
+        ocs:C23927,
+        ocs:C24313,
+        ocs:C26792,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C39124,
+        ocs:C39302,
+        ocs:C44691,
+        ocs:C6863 .
+

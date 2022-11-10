@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39810 a skos:Concept ;
+    skos:broader ocs:C32451,
+        ocs:C36473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_device_forensics> ;
+    skos:prefLabel "Mobile device forensics" ;
+    skos:related ocs:C10400,
+        ocs:C13065,
+        ocs:C1338,
+        ocs:C13783,
+        ocs:C21211,
+        ocs:C3160,
+        ocs:C42374,
+        ocs:C6588,
+        ocs:C7007,
+        ocs:C7166,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9113 .
+

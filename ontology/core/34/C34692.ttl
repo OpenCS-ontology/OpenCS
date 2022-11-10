@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34692 a skos:Concept ;
+    skos:broader ocs:C17433,
+        ocs:C25709,
+        ocs:C27611 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_mining> ;
+    skos:prefLabel "Audio mining" ;
+    skos:related ocs:C11722,
+        ocs:C1444,
+        ocs:C16,
+        ocs:C16189,
+        ocs:C20511,
+        ocs:C23422,
+        ocs:C25709,
+        ocs:C27351,
+        ocs:C27611,
+        ocs:C28638,
+        ocs:C30113,
+        ocs:C34703,
+        ocs:C36836,
+        ocs:C36951,
+        ocs:C39236,
+        ocs:C39489,
+        ocs:C41291,
+        ocs:C45036 .
+

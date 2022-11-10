@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37746 a skos:Concept ;
+    skos:broader ocs:C29218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aquaporin_3> ;
+    skos:prefLabel "Aquaporin 3" ;
+    skos:related ocs:C29218,
+        ocs:C29357,
+        ocs:C41965 .
+

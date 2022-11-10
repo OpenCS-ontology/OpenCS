@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44514 a skos:Concept ;
+    skos:broader ocs:C29898,
+        ocs:C32085,
+        ocs:C36203 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neocatastrophism> ;
+    skos:prefLabel "Neocatastrophism" ;
+    skos:related ocs:C28456,
+        ocs:C29898,
+        ocs:C36203,
+        ocs:C38786,
+        ocs:C41648 .
+

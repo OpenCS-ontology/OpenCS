@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8858 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binoculars> ;
+    skos:prefLabel "Binoculars" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C19568,
+        ocs:C22752,
+        ocs:C26348,
+        ocs:C597,
+        ocs:C9744 .
+

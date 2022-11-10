@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3430 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C24,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/CityGML> ;
+    skos:prefLabel "CityGML" ;
+    skos:related ocs:C1037,
+        ocs:C11927,
+        ocs:C12577,
+        ocs:C14846,
+        ocs:C1651,
+        ocs:C19460,
+        ocs:C21427,
+        ocs:C23889,
+        ocs:C2438,
+        ocs:C31518,
+        ocs:C38189,
+        ocs:C38561,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C44135,
+        ocs:C44189,
+        ocs:C45231,
+        ocs:C7918,
+        ocs:C9618 .
+

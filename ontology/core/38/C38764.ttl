@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38764 a skos:Concept ;
+    skos:broader ocs:C29969,
+        ocs:C33960,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fragmentation_(programming)> ;
+    skos:prefLabel "Market fragmentation" ;
+    skos:related ocs:C25031 .
+

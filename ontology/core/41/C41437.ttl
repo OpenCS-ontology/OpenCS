@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41437 a skos:Concept ;
+    skos:broader ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lean_software_development> ;
+    skos:prefLabel "Lean software development" ;
+    skos:related ocs:C15950,
+        ocs:C18274,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29790,
+        ocs:C31920,
+        ocs:C37174,
+        ocs:C41038,
+        ocs:C41097,
+        ocs:C43969,
+        ocs:C4558,
+        ocs:C666 .
+

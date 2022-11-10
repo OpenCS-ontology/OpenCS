@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16576 a skos:Concept ;
+    skos:broader ocs:C1631,
+        ocs:C7766,
+        ocs:C8660,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affine_logic> ;
+    skos:prefLabel "Affine logic" ;
+    skos:related ocs:C126,
+        ocs:C13255,
+        ocs:C13278,
+        ocs:C14581,
+        ocs:C1599,
+        ocs:C18959,
+        ocs:C19818,
+        ocs:C20246,
+        ocs:C25442,
+        ocs:C38594,
+        ocs:C38890,
+        ocs:C39399,
+        ocs:C39670,
+        ocs:C4049,
+        ocs:C42944,
+        ocs:C44516,
+        ocs:C44936,
+        ocs:C7766 .
+

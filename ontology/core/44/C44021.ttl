@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44021 a skos:Concept ;
+    skos:broader ocs:C30729 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biased_graph> ;
+    skos:prefLabel "Biased graph" ;
+    skos:related ocs:C14693,
+        ocs:C17717,
+        ocs:C17726,
+        ocs:C19336,
+        ocs:C31762,
+        ocs:C31884,
+        ocs:C33149,
+        ocs:C33437,
+        ocs:C33699,
+        ocs:C33872,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C39263,
+        ocs:C39334,
+        ocs:C39591,
+        ocs:C40663,
+        ocs:C40694,
+        ocs:C43365,
+        ocs:C44136 .
+

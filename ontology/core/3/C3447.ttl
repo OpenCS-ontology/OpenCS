@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3447 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/MK_II_FPA> ;
+    skos:prefLabel "MK II FPA" ;
+    skos:related ocs:C2214,
+        ocs:C29427,
+        ocs:C37672,
+        ocs:C38478,
+        ocs:C39488,
+        ocs:C39588,
+        ocs:C41314,
+        ocs:C43715,
+        ocs:C45366,
+        ocs:C45378,
+        ocs:C924 .
+

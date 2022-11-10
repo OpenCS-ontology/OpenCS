@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2542 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automated_Mathematician> ;
+    skos:prefLabel "Automated Mathematician" ;
+    skos:related ocs:C10284,
+        ocs:C10450,
+        ocs:C10616,
+        ocs:C1134,
+        ocs:C14353,
+        ocs:C23846,
+        ocs:C28882,
+        ocs:C3848,
+        ocs:C4269,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8441 .
+

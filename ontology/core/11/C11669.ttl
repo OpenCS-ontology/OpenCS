@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11669 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morse_code> ;
+    skos:prefLabel "Morse code" ;
+    skos:related ocs:C10078,
+        ocs:C10409,
+        ocs:C13755,
+        ocs:C14649,
+        ocs:C1523,
+        ocs:C16547,
+        ocs:C18001,
+        ocs:C21441,
+        ocs:C21987,
+        ocs:C3,
+        ocs:C44707,
+        ocs:C6034,
+        ocs:C7159,
+        ocs:C7502 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10404 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pedestrian_safety_through_vehicle_design> ;
+    skos:prefLabel "Pedestrian safety through vehicle design" ;
+    skos:related ocs:C1346,
+        ocs:C16679,
+        ocs:C17865,
+        ocs:C20456,
+        ocs:C2658,
+        ocs:C27671,
+        ocs:C5633,
+        ocs:C5973 .
+

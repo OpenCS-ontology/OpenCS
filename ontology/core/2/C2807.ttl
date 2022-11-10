@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2807 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constraint_satisfaction_problem> ;
+    skos:prefLabel "Constraint satisfaction problem" ;
+    skos:related ocs:C10,
+        ocs:C11095,
+        ocs:C11556,
+        ocs:C13317,
+        ocs:C16738,
+        ocs:C19031,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C39136,
+        ocs:C39540,
+        ocs:C42518,
+        ocs:C43383,
+        ocs:C44195,
+        ocs:C5242,
+        ocs:C6400,
+        ocs:C6925,
+        ocs:C7985,
+        ocs:C8,
+        ocs:C9450 .
+

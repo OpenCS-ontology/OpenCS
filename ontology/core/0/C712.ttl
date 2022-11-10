@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C712 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:prefLabel "Language sign" ;
+    skos:related ocs:C13006,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2761,
+        ocs:C8614 .
+

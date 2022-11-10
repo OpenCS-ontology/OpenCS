@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28965 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pauli_matrices> ;
+    skos:prefLabel "Pauli matrices" ;
+    skos:related ocs:C23485,
+        ocs:C28787 .
+

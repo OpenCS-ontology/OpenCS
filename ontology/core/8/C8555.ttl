@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8555 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_bound_function> ;
+    skos:prefLabel "Memory bound function" ;
+    skos:related ocs:C10,
+        ocs:C10320,
+        ocs:C10917,
+        ocs:C14079,
+        ocs:C15,
+        ocs:C17567,
+        ocs:C18372,
+        ocs:C25057,
+        ocs:C27,
+        ocs:C2747,
+        ocs:C30434,
+        ocs:C35625,
+        ocs:C35850,
+        ocs:C5145,
+        ocs:C611,
+        ocs:C77,
+        ocs:C8660 .
+

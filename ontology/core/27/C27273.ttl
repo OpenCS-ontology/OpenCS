@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27273 a skos:Concept ;
+    skos:broader ocs:C5141 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit_Test> ;
+    skos:prefLabel "Bit Test" ;
+    skos:related ocs:C10053,
+        ocs:C11258,
+        ocs:C12339,
+        ocs:C13617,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C22553,
+        ocs:C26638,
+        ocs:C29077,
+        ocs:C31346,
+        ocs:C35009,
+        ocs:C3946,
+        ocs:C5463,
+        ocs:C7186,
+        ocs:C8434 .
+

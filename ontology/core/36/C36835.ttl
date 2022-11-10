@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36835 a skos:Concept ;
+    skos:broader ocs:C27130 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_analytics> ;
+    skos:prefLabel "Visual analytics" ;
+    skos:related ocs:C1,
+        ocs:C10088,
+        ocs:C11094,
+        ocs:C12638,
+        ocs:C13153,
+        ocs:C17405,
+        ocs:C18,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C24603,
+        ocs:C26634,
+        ocs:C27130,
+        ocs:C28233,
+        ocs:C37642,
+        ocs:C38092,
+        ocs:C40415,
+        ocs:C40923,
+        ocs:C41456,
+        ocs:C6396 .
+

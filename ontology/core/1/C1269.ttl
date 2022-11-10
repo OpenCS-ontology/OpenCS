@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1269 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Driver safety" ;
+    skos:related ocs:C12641,
+        ocs:C33,
+        ocs:C35,
+        ocs:C3892 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29915 a skos:Concept ;
+    skos:broader ocs:C18791 ;
+    skos:prefLabel "Data Element Concept" ;
+    skos:related ocs:C1,
+        ocs:C23 .
+

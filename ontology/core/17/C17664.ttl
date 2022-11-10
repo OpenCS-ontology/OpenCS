@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17664 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Production_schedule> ;
+    skos:prefLabel "Production schedule" ;
+    skos:related ocs:C13095,
+        ocs:C6032,
+        ocs:C8950 .
+

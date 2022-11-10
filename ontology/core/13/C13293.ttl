@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13293 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unwin_Radar> ;
+    skos:prefLabel "Unwin Radar" ;
+    skos:related ocs:C1219,
+        ocs:C12398,
+        ocs:C24312,
+        ocs:C3044,
+        ocs:C44141,
+        ocs:C45043,
+        ocs:C5511 .
+

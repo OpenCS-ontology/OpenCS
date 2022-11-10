@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4870 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_instantiation> ;
+    skos:prefLabel "Universal instantiation" ;
+    skos:related ocs:C10671,
+        ocs:C10825,
+        ocs:C11060,
+        ocs:C13255,
+        ocs:C22706,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C26760,
+        ocs:C2978,
+        ocs:C29948,
+        ocs:C30651,
+        ocs:C30692,
+        ocs:C3340,
+        ocs:C38646,
+        ocs:C40724,
+        ocs:C4557,
+        ocs:C45642,
+        ocs:C5421 .
+

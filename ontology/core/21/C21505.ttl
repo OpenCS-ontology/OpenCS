@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21505 a skos:Concept ;
+    skos:broader ocs:C77 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_search_problem> ;
+    skos:prefLabel "Linear search problem" ;
+    skos:related ocs:C1,
+        ocs:C10618,
+        ocs:C12816,
+        ocs:C1446,
+        ocs:C16150,
+        ocs:C17158,
+        ocs:C34470,
+        ocs:C39333,
+        ocs:C41570,
+        ocs:C4594,
+        ocs:C5106,
+        ocs:C6535,
+        ocs:C77,
+        ocs:C7988 .
+

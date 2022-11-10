@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3733 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_feedback> ;
+    skos:prefLabel "Audio feedback" ;
+    skos:related ocs:C21364,
+        ocs:C26449,
+        ocs:C3843,
+        ocs:C38517,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8291 .
+

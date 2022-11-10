@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7682 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Least_squares_conformal_map> ;
+    skos:prefLabel "Least squares conformal map" ;
+    skos:related ocs:C10426,
+        ocs:C11689,
+        ocs:C12500,
+        ocs:C12832,
+        ocs:C18519,
+        ocs:C29675,
+        ocs:C31056,
+        ocs:C32162,
+        ocs:C34843,
+        ocs:C37867,
+        ocs:C8399,
+        ocs:C8499 .
+

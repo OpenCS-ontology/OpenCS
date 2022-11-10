@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13852 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/L-system> ;
+    skos:prefLabel "L-system" ;
+    skos:related ocs:C10917,
+        ocs:C11641,
+        ocs:C22093,
+        ocs:C22624,
+        ocs:C25202,
+        ocs:C26158,
+        ocs:C33287,
+        ocs:C38406,
+        ocs:C39653,
+        ocs:C43633,
+        ocs:C524 .
+

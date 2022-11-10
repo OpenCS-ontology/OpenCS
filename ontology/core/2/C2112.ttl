@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2112 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thaumatrope> ;
+    skos:prefLabel "Thaumatrope" ;
+    skos:related ocs:C14925,
+        ocs:C27834,
+        ocs:C38302,
+        ocs:C41218,
+        ocs:C5084,
+        ocs:C6032,
+        ocs:C622 .
+

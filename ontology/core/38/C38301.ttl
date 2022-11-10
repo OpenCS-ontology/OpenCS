@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38301 a skos:Concept ;
+    skos:broader ocs:C31256 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolution_(computer_science)> ;
+    skos:prefLabel "Convolution (computer science)" ;
+    skos:related ocs:C10392,
+        ocs:C11282,
+        ocs:C11327,
+        ocs:C12865,
+        ocs:C13411,
+        ocs:C19,
+        ocs:C25682,
+        ocs:C27380,
+        ocs:C35502,
+        ocs:C4032,
+        ocs:C4097,
+        ocs:C43816,
+        ocs:C45525,
+        ocs:C6854,
+        ocs:C6941,
+        ocs:C8441 .
+

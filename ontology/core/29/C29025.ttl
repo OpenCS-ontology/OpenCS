@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29025 a skos:Concept ;
+    skos:broader ocs:C313,
+        ocs:C7879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Production_blocking> ;
+    skos:prefLabel "Production blocking" ;
+    skos:related ocs:C11646,
+        ocs:C6656,
+        ocs:C7879 .
+

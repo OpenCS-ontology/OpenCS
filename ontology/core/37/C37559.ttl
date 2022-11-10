@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37559 a skos:Concept ;
+    skos:broader ocs:C17119,
+        ocs:C19721,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bussgang_theorem> ;
+    skos:prefLabel "Bussgang theorem" ;
+    skos:related ocs:C10509,
+        ocs:C11096,
+        ocs:C12779,
+        ocs:C18994,
+        ocs:C25668,
+        ocs:C260,
+        ocs:C28028,
+        ocs:C36641,
+        ocs:C5769 .
+

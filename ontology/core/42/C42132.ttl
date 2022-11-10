@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42132 a skos:Concept ;
+    skos:broader ocs:C30725,
+        ocs:C32393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real_coordinate_space> ;
+    skos:prefLabel "Real coordinate space" ;
+    skos:related ocs:C1385,
+        ocs:C16671,
+        ocs:C1884,
+        ocs:C28787 .
+

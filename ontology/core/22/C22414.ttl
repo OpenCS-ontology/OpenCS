@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22414 a skos:Concept ;
+    skos:broader ocs:C12454,
+        ocs:C5336,
+        ocs:C6448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ray-tracing_hardware> ;
+    skos:prefLabel "Ray tracing hardware" .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17702 a skos:Concept ;
+    skos:broader ocs:C5621 ;
+    skos:closeMatch <http://dbpedia.org/resource/Born–Huang_approximation> ;
+    skos:prefLabel "Born–Huang approximation" ;
+    skos:related ocs:C29195,
+        ocs:C597 .
+

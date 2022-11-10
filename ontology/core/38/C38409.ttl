@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38409 a skos:Concept ;
+    skos:broader ocs:C33187,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schatten_class_operator> ;
+    skos:prefLabel "Schatten class operator" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31849,
+        ocs:C33187,
+        ocs:C34336,
+        ocs:C35661,
+        ocs:C36144,
+        ocs:C36507,
+        ocs:C39302,
+        ocs:C39549,
+        ocs:C39658,
+        ocs:C41141,
+        ocs:C41178,
+        ocs:C41513,
+        ocs:C43500,
+        ocs:C45795 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29643 a skos:Concept ;
+    skos:broader ocs:C20879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sky_Quality_Meter> ;
+    skos:prefLabel "Sky Quality Meter" ;
+    skos:related ocs:C16976,
+        ocs:C17246,
+        ocs:C17730,
+        ocs:C28586,
+        ocs:C30073,
+        ocs:C34069,
+        ocs:C6444,
+        ocs:C6454 .
+

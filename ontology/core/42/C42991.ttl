@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42991 a skos:Concept ;
+    skos:broader ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.21> ;
+    skos:prefLabel "IEEE 802.21" ;
+    skos:related ocs:C13316,
+        ocs:C20483,
+        ocs:C22493,
+        ocs:C25712,
+        ocs:C27704,
+        ocs:C32715,
+        ocs:C33773,
+        ocs:C34670,
+        ocs:C35370,
+        ocs:C38097,
+        ocs:C39861,
+        ocs:C41695,
+        ocs:C42007,
+        ocs:C45666,
+        ocs:C45852,
+        ocs:C4720,
+        ocs:C490,
+        ocs:C5999,
+        ocs:C634,
+        ocs:C9154 .
+

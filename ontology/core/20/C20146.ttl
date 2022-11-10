@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20146 a skos:Concept ;
+    skos:broader ocs:C10619 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_Paragon> ;
+    skos:prefLabel "Intel Paragon" ;
+    skos:related ocs:C10320,
+        ocs:C19487,
+        ocs:C21616,
+        ocs:C24785,
+        ocs:C26030,
+        ocs:C26342,
+        ocs:C27,
+        ocs:C27602,
+        ocs:C31489,
+        ocs:C32277,
+        ocs:C44583,
+        ocs:C5181,
+        ocs:C7735,
+        ocs:C9 .
+

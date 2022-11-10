@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11746 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Harmony_search> ;
+    skos:prefLabel "Harmony search" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C12530,
+        ocs:C13208,
+        ocs:C13610,
+        ocs:C1389,
+        ocs:C14921,
+        ocs:C15670,
+        ocs:C19750,
+        ocs:C22852,
+        ocs:C23250,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C33012,
+        ocs:C36442,
+        ocs:C38436,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553 .
+

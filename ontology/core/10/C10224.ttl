@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10224 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Numbering_(computability_theory)> ;
+    skos:prefLabel "Numbering" ;
+    skos:related ocs:C15800,
+        ocs:C1737,
+        ocs:C20939,
+        ocs:C23662,
+        ocs:C24201,
+        ocs:C24336,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32546,
+        ocs:C34540,
+        ocs:C36945,
+        ocs:C38732,
+        ocs:C3986,
+        ocs:C39884,
+        ocs:C41040,
+        ocs:C43294,
+        ocs:C5255,
+        ocs:C7574,
+        ocs:C9313 .
+

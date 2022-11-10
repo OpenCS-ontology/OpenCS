@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31327 a skos:Concept ;
+    skos:broader ocs:C26013 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fatou's_theorem> ;
+    skos:prefLabel "Fatou's theorem" ;
+    skos:related ocs:C18076,
+        ocs:C20853,
+        ocs:C23752,
+        ocs:C26263,
+        ocs:C27333,
+        ocs:C31021 .
+

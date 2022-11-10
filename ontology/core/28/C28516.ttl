@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28516 a skos:Concept ;
+    skos:broader ocs:C2005 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary_classification> ;
+    skos:prefLabel "Binary classification" ;
+    skos:related ocs:C10,
+        ocs:C11030,
+        ocs:C12433,
+        ocs:C12864,
+        ocs:C1840,
+        ocs:C2005,
+        ocs:C23929,
+        ocs:C24024,
+        ocs:C25,
+        ocs:C2526,
+        ocs:C4982,
+        ocs:C6947 .
+

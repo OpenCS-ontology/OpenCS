@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7075 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transmeta_Efficeon> ;
+    skos:prefLabel "Transmeta Efficeon" ;
+    skos:related ocs:C10320,
+        ocs:C10994,
+        ocs:C19487,
+        ocs:C21024,
+        ocs:C2478,
+        ocs:C25171,
+        ocs:C2545,
+        ocs:C2939,
+        ocs:C29728,
+        ocs:C31284,
+        ocs:C35666,
+        ocs:C38427,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9542 .
+

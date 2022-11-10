@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45235 a skos:Concept ;
+    skos:broader ocs:C32519 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elliptic_filter> ;
+    skos:prefLabel "Elliptic filter" ;
+    skos:related ocs:C15194,
+        ocs:C23968,
+        ocs:C25026,
+        ocs:C31885,
+        ocs:C32519,
+        ocs:C44671,
+        ocs:C45857 .
+

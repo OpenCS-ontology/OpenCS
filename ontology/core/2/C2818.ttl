@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2818 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technology_readiness_level> ;
+    skos:prefLabel "Technology readiness level" ;
+    skos:related ocs:C10625,
+        ocs:C1628,
+        ocs:C197,
+        ocs:C2044,
+        ocs:C20754,
+        ocs:C23609,
+        ocs:C6412,
+        ocs:C6943,
+        ocs:C7201,
+        ocs:C9829 .
+

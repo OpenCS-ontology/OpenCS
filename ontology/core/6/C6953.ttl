@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6953 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_number_generation> ;
+    skos:prefLabel "Random number generation" ;
+    skos:related ocs:C10,
+        ocs:C10803,
+        ocs:C14271,
+        ocs:C15398,
+        ocs:C16152,
+        ocs:C25322,
+        ocs:C25445,
+        ocs:C255,
+        ocs:C28881,
+        ocs:C41220,
+        ocs:C4218,
+        ocs:C45216,
+        ocs:C45553,
+        ocs:C5072,
+        ocs:C9,
+        ocs:C970 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13518 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trojan_horse_(computing)> ;
+    skos:prefLabel "Trojan horse" ;
+    skos:related ocs:C13123,
+        ocs:C16481,
+        ocs:C17126,
+        ocs:C17205,
+        ocs:C18373,
+        ocs:C18986,
+        ocs:C19674,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C27557,
+        ocs:C28881,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C4031,
+        ocs:C4984,
+        ocs:C6286,
+        ocs:C8614,
+        ocs:C9 .
+

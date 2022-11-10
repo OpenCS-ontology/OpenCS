@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3812 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/In-memory_database> ;
+    skos:prefLabel "In-memory database" ;
+    skos:related ocs:C10444,
+        ocs:C12185,
+        ocs:C12736,
+        ocs:C13550,
+        ocs:C13783,
+        ocs:C16874,
+        ocs:C18025,
+        ocs:C28881,
+        ocs:C28963,
+        ocs:C31489,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C35640,
+        ocs:C36439,
+        ocs:C6,
+        ocs:C6552,
+        ocs:C6754,
+        ocs:C8893 .
+

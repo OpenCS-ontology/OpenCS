@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17655 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/GOMS> ;
+    skos:prefLabel "GOMS" ;
+    skos:related ocs:C13413,
+        ocs:C16613,
+        ocs:C18,
+        ocs:C20631,
+        ocs:C2116,
+        ocs:C2136,
+        ocs:C26696,
+        ocs:C30560,
+        ocs:C32354,
+        ocs:C33858,
+        ocs:C3574,
+        ocs:C7355,
+        ocs:C7736,
+        ocs:C8,
+        ocs:C9607 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33579 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robotic_mapping> ;
+    skos:prefLabel "Robotic mapping" ;
+    skos:related ocs:C10396,
+        ocs:C12641,
+        ocs:C14022,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C17554,
+        ocs:C1793,
+        ocs:C23009,
+        ocs:C31485,
+        ocs:C34991,
+        ocs:C357,
+        ocs:C36413,
+        ocs:C36715,
+        ocs:C38095,
+        ocs:C40717,
+        ocs:C6495,
+        ocs:C7,
+        ocs:C8 .
+

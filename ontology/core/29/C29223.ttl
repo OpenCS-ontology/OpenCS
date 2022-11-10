@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29223 a skos:Concept ;
+    skos:broader ocs:C13511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proofs_involving_the_addition_of_natural_numbers> ;
+    skos:prefLabel "Proofs involving the addition of natural numbers" ;
+    skos:related ocs:C12474,
+        ocs:C13511,
+        ocs:C17845,
+        ocs:C26402,
+        ocs:C2727,
+        ocs:C7459 .
+

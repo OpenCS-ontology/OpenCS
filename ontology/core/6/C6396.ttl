@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6396 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_visualisation> ;
+    skos:prefLabel "Patent visualisation" ;
+    skos:related ocs:C11094,
+        ocs:C13,
+        ocs:C13547,
+        ocs:C13584,
+        ocs:C1728,
+        ocs:C21072,
+        ocs:C21305,
+        ocs:C24603,
+        ocs:C24971,
+        ocs:C25,
+        ocs:C27130,
+        ocs:C27519,
+        ocs:C29370,
+        ocs:C36835,
+        ocs:C3736,
+        ocs:C38984,
+        ocs:C40415,
+        ocs:C8,
+        ocs:C972 .
+

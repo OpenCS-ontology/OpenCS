@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1250 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parasitic_computing> ;
+    skos:prefLabel "Parasitic computing" ;
+    skos:related ocs:C11540,
+        ocs:C14134,
+        ocs:C1904,
+        ocs:C19227,
+        ocs:C19674,
+        ocs:C20540,
+        ocs:C23054,
+        ocs:C23245,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C26812,
+        ocs:C27,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C33957,
+        ocs:C38485,
+        ocs:C7735,
+        ocs:C8614 .
+

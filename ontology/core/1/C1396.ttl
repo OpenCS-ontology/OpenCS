@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1396 a skos:Concept ;
+    skos:broader ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preemption_(computing)> ;
+    skos:prefLabel "Preemption" ;
+    skos:related ocs:C10320,
+        ocs:C12323,
+        ocs:C14271,
+        ocs:C15595,
+        ocs:C20800,
+        ocs:C21545,
+        ocs:C2353,
+        ocs:C24871,
+        ocs:C26097,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C33,
+        ocs:C41159,
+        ocs:C43283,
+        ocs:C5912,
+        ocs:C9,
+        ocs:C9262,
+        ocs:C9433 .
+

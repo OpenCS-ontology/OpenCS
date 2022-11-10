@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3250 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Version_targeting> ;
+    skos:prefLabel "Version targeting" ;
+    skos:related ocs:C12477,
+        ocs:C15593,
+        ocs:C17401,
+        ocs:C20937,
+        ocs:C25556,
+        ocs:C26528,
+        ocs:C28533,
+        ocs:C28801,
+        ocs:C33709,
+        ocs:C355,
+        ocs:C40418,
+        ocs:C41537,
+        ocs:C42182,
+        ocs:C4584,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C567,
+        ocs:C6278,
+        ocs:C9647 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12779 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Karhunen–Loève_theorem> ;
+    skos:prefLabel "Karhunen–Loève theorem" ;
+    skos:related ocs:C16169,
+        ocs:C18225,
+        ocs:C25040,
+        ocs:C25668,
+        ocs:C260,
+        ocs:C28787,
+        ocs:C5505,
+        ocs:C6909,
+        ocs:C6912,
+        ocs:C8756 .
+

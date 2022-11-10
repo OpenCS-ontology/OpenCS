@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30664 a skos:Concept ;
+    skos:broader ocs:C22407,
+        ocs:C24727 ;
+    skos:closeMatch <http://dbpedia.org/resource/VoIP_VPN> ;
+    skos:prefLabel "VoIP VPN" ;
+    skos:related ocs:C11871,
+        ocs:C12001,
+        ocs:C18981,
+        ocs:C19227,
+        ocs:C22407,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C29803,
+        ocs:C30630,
+        ocs:C31365,
+        ocs:C32642,
+        ocs:C32955,
+        ocs:C32983,
+        ocs:C36124,
+        ocs:C41726,
+        ocs:C8444,
+        ocs:C8515 .
+

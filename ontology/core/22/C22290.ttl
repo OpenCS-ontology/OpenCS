@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22290 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heegner_point> ;
+    skos:prefLabel "Heegner point" ;
+    skos:related ocs:C23209,
+        ocs:C29416,
+        ocs:C36474,
+        ocs:C39710,
+        ocs:C39978,
+        ocs:C44225 .
+

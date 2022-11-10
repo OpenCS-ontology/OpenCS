@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22099 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probabilistic_encryption> ;
+    skos:prefLabel "Probabilistic encryption" ;
+    skos:related ocs:C16026,
+        ocs:C16125,
+        ocs:C17091,
+        ocs:C20993,
+        ocs:C27571,
+        ocs:C28347,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C32288,
+        ocs:C32482,
+        ocs:C32518,
+        ocs:C35391,
+        ocs:C39645,
+        ocs:C40300,
+        ocs:C41495,
+        ocs:C4218,
+        ocs:C43409,
+        ocs:C44466,
+        ocs:C5692,
+        ocs:C8947 .
+

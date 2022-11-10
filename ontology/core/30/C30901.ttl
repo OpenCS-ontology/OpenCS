@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30901 a skos:Concept ;
+    skos:broader ocs:C19855 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airband> ;
+    skos:prefLabel "Airband" ;
+    skos:related ocs:C10409,
+        ocs:C12648,
+        ocs:C13827,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C15824,
+        ocs:C18001,
+        ocs:C19903,
+        ocs:C20572,
+        ocs:C3,
+        ocs:C30281,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C6763,
+        ocs:C702,
+        ocs:C7159,
+        ocs:C7216 .
+

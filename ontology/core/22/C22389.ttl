@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22389 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_cinerea> ;
+    skos:prefLabel "Formica cinerea" ;
+    skos:related ocs:C19311,
+        ocs:C20649,
+        ocs:C21653,
+        ocs:C21750,
+        ocs:C21893,
+        ocs:C22675,
+        ocs:C27032,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C32984,
+        ocs:C33999,
+        ocs:C37210 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8035 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Historical_document> ;
+    skos:prefLabel "Historical document" ;
+    skos:related ocs:C1090,
+        ocs:C11492,
+        ocs:C11751,
+        ocs:C13538,
+        ocs:C1704,
+        ocs:C5031,
+        ocs:C799 .
+

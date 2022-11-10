@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22748 a skos:Concept ;
+    skos:broader ocs:C1935,
+        ocs:C6942 ;
+    skos:closeMatch <http://dbpedia.org/resource/ColorChecker> ;
+    skos:prefLabel "ColorChecker" ;
+    skos:related ocs:C11670,
+        ocs:C12849,
+        ocs:C13544,
+        ocs:C16674,
+        ocs:C2074,
+        ocs:C44943,
+        ocs:C5310,
+        ocs:C6942 .
+

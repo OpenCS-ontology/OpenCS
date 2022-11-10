@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40761 a skos:Concept ;
+    skos:broader ocs:C31362,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Holomorphic_functional_calculus> ;
+    skos:prefLabel "Holomorphic functional calculus" ;
+    skos:related ocs:C16124,
+        ocs:C19125,
+        ocs:C19542,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C33102,
+        ocs:C34413,
+        ocs:C39154,
+        ocs:C44602,
+        ocs:C44691,
+        ocs:C44846 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44203 a skos:Concept ;
+    skos:broader ocs:C31518,
+        ocs:C32050 ;
+    skos:closeMatch <http://dbpedia.org/resource/ArcExplorer> ;
+    skos:prefLabel "ArcExplorer" ;
+    skos:related ocs:C13455,
+        ocs:C15046,
+        ocs:C16797,
+        ocs:C24208,
+        ocs:C32050,
+        ocs:C37913,
+        ocs:C38891,
+        ocs:C44189 .
+

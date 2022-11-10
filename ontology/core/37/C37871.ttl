@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37871 a skos:Concept ;
+    skos:broader ocs:C36275 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert's_sixteenth_problem> ;
+    skos:prefLabel "Hilbert's sixteenth problem" ;
+    skos:related ocs:C37862,
+        ocs:C41538,
+        ocs:C44771 .
+

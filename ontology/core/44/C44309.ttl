@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44309 a skos:Concept ;
+    skos:broader ocs:C30144,
+        ocs:C32555,
+        ocs:C34874,
+        ocs:C35370 ;
+    skos:closeMatch <http://dbpedia.org/resource/SoftAP> ;
+    skos:prefLabel "SoftAP" ;
+    skos:related ocs:C10055,
+        ocs:C1042,
+        ocs:C13786,
+        ocs:C15728,
+        ocs:C15832,
+        ocs:C1793,
+        ocs:C19350,
+        ocs:C21357,
+        ocs:C25870,
+        ocs:C32555,
+        ocs:C34356,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C38784,
+        ocs:C41593,
+        ocs:C42521,
+        ocs:C8028,
+        ocs:C8614,
+        ocs:C9 .
+

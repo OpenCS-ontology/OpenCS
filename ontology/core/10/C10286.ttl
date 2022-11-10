@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10286 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maker_culture> ;
+    skos:prefLabel "Maker culture" ;
+    skos:related ocs:C11254,
+        ocs:C29969,
+        ocs:C35870,
+        ocs:C6538,
+        ocs:C8399,
+        ocs:C9110 .
+

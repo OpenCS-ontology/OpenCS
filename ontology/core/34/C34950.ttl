@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34950 a skos:Concept ;
+    skos:broader ocs:C22096,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/1-bit_DAC> ;
+    skos:prefLabel "1-bit DAC" ;
+    skos:related ocs:C10778,
+        ocs:C16700,
+        ocs:C22096,
+        ocs:C26575,
+        ocs:C27649,
+        ocs:C30637,
+        ocs:C30691,
+        ocs:C30853,
+        ocs:C37917,
+        ocs:C42272,
+        ocs:C44628,
+        ocs:C6791 .
+

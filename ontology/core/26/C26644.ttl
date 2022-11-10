@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26644 a skos:Concept ;
+    skos:broader ocs:C11705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_classification> ;
+    skos:prefLabel "Medical classification" ;
+    skos:related ocs:C10524,
+        ocs:C14932,
+        ocs:C1623,
+        ocs:C18682,
+        ocs:C36147 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31268 a skos:Concept ;
+    skos:broader ocs:C17699,
+        ocs:C18084 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_as_a_service> ;
+    skos:prefLabel "Security as a service" ;
+    skos:related ocs:C2352,
+        ocs:C29803,
+        ocs:C31489,
+        ocs:C3196,
+        ocs:C35701,
+        ocs:C44496,
+        ocs:C7106 .
+

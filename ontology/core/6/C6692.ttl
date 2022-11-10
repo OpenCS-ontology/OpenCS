@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6692 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_probability> ;
+    skos:prefLabel "Bayesian probability" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C1834,
+        ocs:C1844,
+        ocs:C22075,
+        ocs:C246,
+        ocs:C32717,
+        ocs:C33349,
+        ocs:C34619,
+        ocs:C3753,
+        ocs:C6291 .
+

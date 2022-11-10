@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39627 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ptolemaic_graph> ;
+    skos:prefLabel "Ptolemaic graph" ;
+    skos:related ocs:C14693,
+        ocs:C32333,
+        ocs:C32881,
+        ocs:C37036,
+        ocs:C38303,
+        ocs:C38404,
+        ocs:C38757,
+        ocs:C38981,
+        ocs:C40398,
+        ocs:C40800,
+        ocs:C41182,
+        ocs:C42401,
+        ocs:C42664,
+        ocs:C43189,
+        ocs:C44221,
+        ocs:C45842,
+        ocs:C6335,
+        ocs:C8660 .
+

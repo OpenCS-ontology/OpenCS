@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14522 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inferior_mesenteric_lymph_nodes> ;
+    skos:prefLabel "Sigmoid nodes" ;
+    skos:related ocs:C1,
+        ocs:C25,
+        ocs:C8 .
+

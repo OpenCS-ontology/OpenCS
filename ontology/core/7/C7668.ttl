@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7668 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bulletin_board> ;
+    skos:prefLabel "Bulletin board" ;
+    skos:related ocs:C12328,
+        ocs:C1253,
+        ocs:C16205,
+        ocs:C17794,
+        ocs:C18683,
+        ocs:C18814,
+        ocs:C20100,
+        ocs:C27498,
+        ocs:C31,
+        ocs:C31489,
+        ocs:C32874,
+        ocs:C3444,
+        ocs:C44,
+        ocs:C4712,
+        ocs:C7295,
+        ocs:C8614,
+        ocs:C9 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38883 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_data_binding> ;
+    skos:prefLabel "XML data binding" ;
+    skos:related ocs:C10000,
+        ocs:C10720,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13744,
+        ocs:C15902,
+        ocs:C17401,
+        ocs:C18361,
+        ocs:C23709,
+        ocs:C32170,
+        ocs:C33052,
+        ocs:C39253,
+        ocs:C40575,
+        ocs:C43819,
+        ocs:C44193,
+        ocs:C44346,
+        ocs:C45664,
+        ocs:C8948,
+        ocs:C9790 .
+

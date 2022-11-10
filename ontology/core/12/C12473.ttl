@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12473 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reversal_film> ;
+    skos:prefLabel "Reversal film" ;
+    skos:related ocs:C12053,
+        ocs:C13065,
+        ocs:C21316,
+        ocs:C24467,
+        ocs:C5728,
+        ocs:C9451 .
+

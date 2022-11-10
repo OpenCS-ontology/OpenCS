@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15021 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dutch_grammar> ;
+    skos:prefLabel "Dutch grammar" ;
+    skos:related ocs:C15178,
+        ocs:C15641,
+        ocs:C18232,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23692,
+        ocs:C24499,
+        ocs:C25169,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28295,
+        ocs:C28817,
+        ocs:C34204 .
+

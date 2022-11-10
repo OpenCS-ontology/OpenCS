@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4097 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Currying> ;
+    skos:prefLabel "Currying" ;
+    skos:related ocs:C10322,
+        ocs:C10498,
+        ocs:C11527,
+        ocs:C13411,
+        ocs:C14151,
+        ocs:C1631,
+        ocs:C16614,
+        ocs:C19,
+        ocs:C25684,
+        ocs:C27380,
+        ocs:C36417,
+        ocs:C41762,
+        ocs:C6854,
+        ocs:C6941 .
+

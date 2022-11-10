@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28800 a skos:Concept ;
+    skos:broader ocs:C6417 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electromagnetic_reverberation_chamber> ;
+    skos:prefLabel "Electromagnetic reverberation chamber" ;
+    skos:related ocs:C1219,
+        ocs:C13211,
+        ocs:C1884,
+        ocs:C2975,
+        ocs:C32554 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3041 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MMIX> ;
+    skos:prefLabel "MMIX" ;
+    skos:related ocs:C10320,
+        ocs:C10387,
+        ocs:C11258,
+        ocs:C15,
+        ocs:C16348,
+        ocs:C17204,
+        ocs:C18114,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C22508,
+        ocs:C25966,
+        ocs:C27,
+        ocs:C37965,
+        ocs:C42977,
+        ocs:C6172,
+        ocs:C856 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C531 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Request–response> ;
+    skos:prefLabel "Request–response" ;
+    skos:related ocs:C11084,
+        ocs:C11152,
+        ocs:C11927,
+        ocs:C12810,
+        ocs:C13068,
+        ocs:C15478,
+        ocs:C17235,
+        ocs:C21166,
+        ocs:C21713,
+        ocs:C22597,
+        ocs:C25382,
+        ocs:C26260,
+        ocs:C2674,
+        ocs:C28941,
+        ocs:C40231,
+        ocs:C8614,
+        ocs:C8901,
+        ocs:C9540,
+        ocs:C9931 .
+

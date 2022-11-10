@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43379 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/N-ary_code> ;
+    skos:prefLabel "n-ary code" ;
+    skos:related ocs:C13411,
+        ocs:C15146,
+        ocs:C19230,
+        ocs:C25045,
+        ocs:C29471,
+        ocs:C34009,
+        ocs:C34790,
+        ocs:C38664,
+        ocs:C42512,
+        ocs:C44120,
+        ocs:C4622,
+        ocs:C9371 .
+

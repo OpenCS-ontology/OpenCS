@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22453 a skos:Concept ;
+    skos:broader ocs:C12257,
+        ocs:C12312,
+        ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_code> ;
+    skos:prefLabel "Object code" ;
+    skos:related ocs:C10320,
+        ocs:C10408,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C21718,
+        ocs:C23909,
+        ocs:C38663,
+        ocs:C39309,
+        ocs:C39715,
+        ocs:C4321,
+        ocs:C442,
+        ocs:C45210,
+        ocs:C5515,
+        ocs:C6072,
+        ocs:C7800,
+        ocs:C9 .
+

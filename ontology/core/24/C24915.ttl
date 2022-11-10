@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24915 a skos:Concept ;
+    skos:broader ocs:C5779,
+        ocs:C7006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_by_default> ;
+    skos:prefLabel "Secure by default" ;
+    skos:related ocs:C13578,
+        ocs:C14271,
+        ocs:C19830,
+        ocs:C21951,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C35,
+        ocs:C37641,
+        ocs:C3858,
+        ocs:C39252,
+        ocs:C39787,
+        ocs:C40409,
+        ocs:C4513,
+        ocs:C5731,
+        ocs:C5768,
+        ocs:C5779,
+        ocs:C7006,
+        ocs:C9,
+        ocs:C9607 .
+

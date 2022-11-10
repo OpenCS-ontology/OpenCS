@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31096 a skos:Concept ;
+    skos:broader ocs:C28781 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bank_card_number> ;
+    skos:prefLabel "Payment card number" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C20937,
+        ocs:C21054,
+        ocs:C22776,
+        ocs:C25306,
+        ocs:C28781,
+        ocs:C30090,
+        ocs:C32504,
+        ocs:C33074,
+        ocs:C33193,
+        ocs:C37095,
+        ocs:C394,
+        ocs:C41037,
+        ocs:C8437,
+        ocs:C8690 .
+

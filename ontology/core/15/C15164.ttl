@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15164 a skos:Concept ;
+    skos:broader ocs:C11095,
+        ocs:C11556,
+        ocs:C13317,
+        ocs:C2807,
+        ocs:C3283,
+        ocs:C8753 ;
+    skos:prefLabel "Asynchronous weak commitment" .
+

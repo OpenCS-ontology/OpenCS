@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25195 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stereophonic_sound> ;
+    skos:prefLabel "Stereophonic sound" ;
+    skos:related ocs:C15341,
+        ocs:C15505,
+        ocs:C36627,
+        ocs:C42394,
+        ocs:C45143,
+        ocs:C520,
+        ocs:C5819,
+        ocs:C5843,
+        ocs:C7255,
+        ocs:C8291,
+        ocs:C9481 .
+

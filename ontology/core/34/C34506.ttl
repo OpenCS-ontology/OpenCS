@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34506 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_polytope> ;
+    skos:prefLabel "Regular polytope" ;
+    skos:related ocs:C10639,
+        ocs:C38670,
+        ocs:C38990,
+        ocs:C40652,
+        ocs:C43720,
+        ocs:C9372 .
+

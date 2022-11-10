@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7397 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch_and_bound> ;
+    skos:prefLabel "Branch and bound" ;
+    skos:related ocs:C10390,
+        ocs:C1086,
+        ocs:C11095,
+        ocs:C11372,
+        ocs:C13208,
+        ocs:C1446,
+        ocs:C15675,
+        ocs:C18302,
+        ocs:C21370,
+        ocs:C2413,
+        ocs:C26453,
+        ocs:C29055,
+        ocs:C32048,
+        ocs:C3339,
+        ocs:C3837,
+        ocs:C5823,
+        ocs:C77,
+        ocs:C8660,
+        ocs:C8944 .
+

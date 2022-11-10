@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28937 a skos:Concept ;
+    skos:broader ocs:C12111,
+        ocs:C3236,
+        ocs:C4099,
+        ocs:C545 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11ah> ;
+    skos:prefLabel "IEEE 802.11ah" ;
+    skos:related ocs:C19721,
+        ocs:C21424,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C38184,
+        ocs:C39020,
+        ocs:C40496,
+        ocs:C40866,
+        ocs:C41995,
+        ocs:C42902,
+        ocs:C43449,
+        ocs:C44700,
+        ocs:C45519,
+        ocs:C45666,
+        ocs:C4665,
+        ocs:C7216,
+        ocs:C8784 .
+

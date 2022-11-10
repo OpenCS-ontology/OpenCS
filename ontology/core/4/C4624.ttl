@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4624 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:prefLabel "Configuration Issue" ;
+    skos:related ocs:C1253,
+        ocs:C12999,
+        ocs:C17166,
+        ocs:C2,
+        ocs:C26,
+        ocs:C3674,
+        ocs:C7179,
+        ocs:C9 .
+

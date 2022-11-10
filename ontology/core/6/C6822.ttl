@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6822 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mixture_model> ;
+    skos:prefLabel "Mixture model" ;
+    skos:related ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C21710,
+        ocs:C23070,
+        ocs:C23888,
+        ocs:C25,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C39577,
+        ocs:C45643,
+        ocs:C5856 .
+

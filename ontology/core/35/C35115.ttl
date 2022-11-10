@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35115 a skos:Concept ;
+    skos:broader ocs:C20518,
+        ocs:C22560 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_verb> ;
+    skos:prefLabel "Dynamic verb" ;
+    skos:related ocs:C11932,
+        ocs:C14558,
+        ocs:C1739,
+        ocs:C18397,
+        ocs:C22560,
+        ocs:C23321,
+        ocs:C25015,
+        ocs:C25746,
+        ocs:C26031,
+        ocs:C26467,
+        ocs:C26539,
+        ocs:C26884,
+        ocs:C28426,
+        ocs:C29763,
+        ocs:C32275,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C6545 .
+

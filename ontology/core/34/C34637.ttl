@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34637 a skos:Concept ;
+    skos:broader ocs:C17774,
+        ocs:C19875 ;
+    skos:prefLabel "Physician Payment Review Commission" ;
+    skos:related ocs:C14587,
+        ocs:C16090,
+        ocs:C17774,
+        ocs:C19875,
+        ocs:C21533 .
+

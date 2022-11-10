@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42084 a skos:Concept ;
+    skos:broader ocs:C34666 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simon's_problem> ;
+    skos:prefLabel "Simon's problem" ;
+    skos:related ocs:C25338,
+        ocs:C29935,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C41940,
+        ocs:C42752,
+        ocs:C43531,
+        ocs:C8660 .
+

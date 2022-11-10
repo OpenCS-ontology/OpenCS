@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37595 a skos:Concept ;
+    skos:broader ocs:C28117 ;
+    skos:closeMatch <http://dbpedia.org/resource/HCard> ;
+    skos:prefLabel "hCard" ;
+    skos:related ocs:C10530,
+        ocs:C11927,
+        ocs:C1521,
+        ocs:C27119,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C32413,
+        ocs:C32686,
+        ocs:C33709,
+        ocs:C36357,
+        ocs:C3896,
+        ocs:C40275,
+        ocs:C5088,
+        ocs:C7963,
+        ocs:C8572,
+        ocs:C9836 .
+

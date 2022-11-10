@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44568 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/WTCP> ;
+    skos:prefLabel "WTCP" ;
+    skos:related ocs:C13381,
+        ocs:C15410,
+        ocs:C19903,
+        ocs:C22335,
+        ocs:C24323,
+        ocs:C25712,
+        ocs:C26,
+        ocs:C30920,
+        ocs:C31025,
+        ocs:C32290,
+        ocs:C35462,
+        ocs:C36733,
+        ocs:C36766,
+        ocs:C39175,
+        ocs:C3989,
+        ocs:C39947,
+        ocs:C40204,
+        ocs:C43806,
+        ocs:C4459,
+        ocs:C45850 .
+

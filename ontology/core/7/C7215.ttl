@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7215 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_privacy> ;
+    skos:prefLabel "Differential privacy" ;
+    skos:related ocs:C10803,
+        ocs:C12378,
+        ocs:C23108,
+        ocs:C25222,
+        ocs:C25527,
+        ocs:C27255,
+        ocs:C27528,
+        ocs:C34749,
+        ocs:C36117,
+        ocs:C39924,
+        ocs:C40538,
+        ocs:C40696,
+        ocs:C41424,
+        ocs:C43963,
+        ocs:C5816,
+        ocs:C6537,
+        ocs:C7510,
+        ocs:C8669,
+        ocs:C9615 .
+

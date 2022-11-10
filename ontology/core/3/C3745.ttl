@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3745 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_SSL> ;
+    skos:prefLabel "Dynamic SSL" ;
+    skos:related ocs:C13017,
+        ocs:C16338,
+        ocs:C20243,
+        ocs:C24131,
+        ocs:C27509,
+        ocs:C29803,
+        ocs:C30769,
+        ocs:C30926,
+        ocs:C32204,
+        ocs:C32229,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C38118,
+        ocs:C41033,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C8614 .
+

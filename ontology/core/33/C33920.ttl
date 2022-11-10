@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33920 a skos:Concept ;
+    skos:broader ocs:C14471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graph_enumeration> ;
+    skos:prefLabel "Graph enumeration" ;
+    skos:related ocs:C14693,
+        ocs:C15414,
+        ocs:C16670,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C20123,
+        ocs:C29708,
+        ocs:C30730,
+        ocs:C31629,
+        ocs:C35233,
+        ocs:C36814,
+        ocs:C37036,
+        ocs:C38171,
+        ocs:C38981,
+        ocs:C42271,
+        ocs:C42848 .
+

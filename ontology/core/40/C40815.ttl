@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40815 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_Based_Software_Assistant> ;
+    skos:prefLabel "Knowledge Based Software Assistant" ;
+    skos:related ocs:C10182,
+        ocs:C1035,
+        ocs:C10616,
+        ocs:C10720,
+        ocs:C12977,
+        ocs:C14655,
+        ocs:C16356,
+        ocs:C17823,
+        ocs:C28080,
+        ocs:C28809,
+        ocs:C31320,
+        ocs:C35570,
+        ocs:C4006,
+        ocs:C41607,
+        ocs:C41897,
+        ocs:C7311,
+        ocs:C8,
+        ocs:C852 .
+

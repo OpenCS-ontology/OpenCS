@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4034 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_goods> ;
+    skos:prefLabel "Digital goods" ;
+    skos:related ocs:C1155,
+        ocs:C11710,
+        ocs:C1253,
+        ocs:C18977,
+        ocs:C2061,
+        ocs:C2409,
+        ocs:C25752,
+        ocs:C26014,
+        ocs:C27996,
+        ocs:C32306,
+        ocs:C45529,
+        ocs:C6219,
+        ocs:C6234,
+        ocs:C7170,
+        ocs:C8068,
+        ocs:C8797 .
+

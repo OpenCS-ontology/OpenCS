@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27912 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISM_band> ;
+    skos:prefLabel "ISM band" ;
+    skos:related ocs:C10409,
+        ocs:C15728,
+        ocs:C15824,
+        ocs:C16788,
+        ocs:C21424,
+        ocs:C22761,
+        ocs:C28404,
+        ocs:C3236,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C8612 .
+

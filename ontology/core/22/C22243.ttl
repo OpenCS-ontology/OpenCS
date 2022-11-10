@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22243 a skos:Concept ;
+    skos:broader ocs:C10390,
+        ocs:C11701,
+        ocs:C5197,
+        ocs:C7553 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-optimization> ;
+    skos:prefLabel "Meta-optimization" ;
+    skos:related ocs:C10013,
+        ocs:C10390,
+        ocs:C14353,
+        ocs:C14414,
+        ocs:C19750,
+        ocs:C20226,
+        ocs:C23250,
+        ocs:C25,
+        ocs:C27563,
+        ocs:C29573,
+        ocs:C30267,
+        ocs:C36438,
+        ocs:C37049,
+        ocs:C37775,
+        ocs:C41363,
+        ocs:C44532,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20901 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyperscale> ;
+    skos:prefLabel "Hyperscale" ;
+    skos:related ocs:C12238,
+        ocs:C13264,
+        ocs:C14223,
+        ocs:C1590,
+        ocs:C27098,
+        ocs:C3486,
+        ocs:C34979,
+        ocs:C35932,
+        ocs:C40330,
+        ocs:C42749,
+        ocs:C43992,
+        ocs:C44173,
+        ocs:C6312,
+        ocs:C7106,
+        ocs:C7735,
+        ocs:C8032 .
+

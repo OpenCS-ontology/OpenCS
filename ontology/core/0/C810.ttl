@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C810 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interpretability> ;
+    skos:prefLabel "Interpretability" ;
+    skos:related ocs:C10825,
+        ocs:C12346,
+        ocs:C12474,
+        ocs:C12594,
+        ocs:C13255,
+        ocs:C21651,
+        ocs:C23931,
+        ocs:C25442,
+        ocs:C2727,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C429,
+        ocs:C44339,
+        ocs:C5251,
+        ocs:C5981,
+        ocs:C8635,
+        ocs:C8672 .
+

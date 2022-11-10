@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30958 a skos:Concept ;
+    skos:broader ocs:C17062 ;
+    skos:closeMatch <http://dbpedia.org/resource/Camponotus_modoc> ;
+    skos:prefLabel "Camponotus modoc" ;
+    skos:related ocs:C16341,
+        ocs:C17062,
+        ocs:C18049,
+        ocs:C25692,
+        ocs:C26948,
+        ocs:C2760 .
+

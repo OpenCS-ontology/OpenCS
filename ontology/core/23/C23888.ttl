@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23888 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C1092,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dirichlet_process> ;
+    skos:prefLabel "Dirichlet process" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C1844,
+        ocs:C22244,
+        ocs:C23070,
+        ocs:C28074,
+        ocs:C30115,
+        ocs:C32480,
+        ocs:C39577,
+        ocs:C6822,
+        ocs:C6909 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C983 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Workload> ;
+    skos:prefLabel "Workload" ;
+    skos:related ocs:C10320,
+        ocs:C14594,
+        ocs:C17215,
+        ocs:C4754 .
+

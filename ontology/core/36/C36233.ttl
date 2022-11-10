@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36233 a skos:Concept ;
+    skos:broader ocs:C16690,
+        ocs:C22099,
+        ocs:C26817,
+        ocs:C28501 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_encryption> ;
+    skos:prefLabel "Link encryption" ;
+    skos:related ocs:C14539,
+        ocs:C14647,
+        ocs:C17091,
+        ocs:C17900,
+        ocs:C20993,
+        ocs:C22099,
+        ocs:C28501,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29841,
+        ocs:C32109,
+        ocs:C33549,
+        ocs:C34295,
+        ocs:C36136,
+        ocs:C38924,
+        ocs:C41186,
+        ocs:C43436,
+        ocs:C4344,
+        ocs:C5692 .
+

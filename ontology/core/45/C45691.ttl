@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45691 a skos:Concept ;
+    skos:broader ocs:C32845 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diplomystes_camposensis> ;
+    skos:prefLabel "Diplomystes camposensis" ;
+    skos:related ocs:C24236,
+        ocs:C32845,
+        ocs:C35372,
+        ocs:C37727,
+        ocs:C40976,
+        ocs:C42823 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9027 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Raster_scan> ;
+    skos:prefLabel "Raster scan" ;
+    skos:related ocs:C13155,
+        ocs:C13509,
+        ocs:C13679,
+        ocs:C13725,
+        ocs:C15700,
+        ocs:C21949,
+        ocs:C22,
+        ocs:C28172,
+        ocs:C29600,
+        ocs:C34890,
+        ocs:C36598,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C40199,
+        ocs:C5996,
+        ocs:C8021 .
+

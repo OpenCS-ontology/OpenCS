@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12490 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Data_Communications_Message_Protocol> ;
+    skos:prefLabel "Digital Data Communications Message Protocol" ;
+    skos:related ocs:C10992,
+        ocs:C15484,
+        ocs:C20314,
+        ocs:C20540,
+        ocs:C2538,
+        ocs:C27426,
+        ocs:C3,
+        ocs:C31983,
+        ocs:C3283,
+        ocs:C40142,
+        ocs:C4093,
+        ocs:C45177,
+        ocs:C7865,
+        ocs:C9482,
+        ocs:C9931 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23971 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meander_cutoff> ;
+    skos:prefLabel "Meander cutoff" ;
+    skos:related ocs:C13455,
+        ocs:C27280,
+        ocs:C28088,
+        ocs:C32591,
+        ocs:C35528 .
+

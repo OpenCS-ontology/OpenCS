@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20442 a skos:Concept ;
+    skos:broader ocs:C12640 ;
+    skos:closeMatch <http://dbpedia.org/resource/DataFlash> ;
+    skos:prefLabel "DataFlash" ;
+    skos:related ocs:C10400,
+        ocs:C13386,
+        ocs:C13689,
+        ocs:C21598,
+        ocs:C22530,
+        ocs:C24321,
+        ocs:C24967,
+        ocs:C2936,
+        ocs:C3160,
+        ocs:C39810,
+        ocs:C4259,
+        ocs:C4464,
+        ocs:C479,
+        ocs:C5136,
+        ocs:C5336,
+        ocs:C6538,
+        ocs:C7007 .
+

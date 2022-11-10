@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33241 a skos:Concept ;
+    skos:broader ocs:C26901 ;
+    skos:closeMatch <http://dbpedia.org/resource/NMNAT1> ;
+    skos:prefLabel "NMNAT1" ;
+    skos:related ocs:C26901,
+        ocs:C36415 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19642 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_determiners> ;
+    skos:prefLabel "English determiners" ;
+    skos:related ocs:C1043,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C15644,
+        ocs:C1952,
+        ocs:C20870,
+        ocs:C21988,
+        ocs:C22126,
+        ocs:C24499,
+        ocs:C25559,
+        ocs:C26169,
+        ocs:C26816,
+        ocs:C32159,
+        ocs:C32280,
+        ocs:C4025,
+        ocs:C8454 .
+

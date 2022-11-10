@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14967 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3452 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_instrumentation> ;
+    skos:prefLabel "Virtual instrumentation" ;
+    skos:related ocs:C1253,
+        ocs:C13012,
+        ocs:C22751,
+        ocs:C23249,
+        ocs:C26943,
+        ocs:C3173,
+        ocs:C3452,
+        ocs:C5336 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31126 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Study_software> ;
+    skos:prefLabel "Study software" ;
+    skos:related ocs:C11646,
+        ocs:C1261,
+        ocs:C14177,
+        ocs:C1955,
+        ocs:C3444,
+        ocs:C6656,
+        ocs:C7040 .
+

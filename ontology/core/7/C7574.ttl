@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7574 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kleene's_T_predicate> ;
+    skos:prefLabel "Kleene's T predicate" ;
+    skos:related ocs:C12474,
+        ocs:C13421,
+        ocs:C15800,
+        ocs:C23662,
+        ocs:C24201,
+        ocs:C24483,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C32379,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C34540,
+        ocs:C38518,
+        ocs:C38732,
+        ocs:C41998,
+        ocs:C42139,
+        ocs:C45460,
+        ocs:C45880,
+        ocs:C9313 .
+

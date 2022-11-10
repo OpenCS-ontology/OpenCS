@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22729 a skos:Concept ;
+    skos:broader ocs:C2975,
+        ocs:C4865,
+        ocs:C5511 ;
+    skos:prefLabel "Conducted Interference" ;
+    skos:related ocs:C257,
+        ocs:C2975,
+        ocs:C3,
+        ocs:C35,
+        ocs:C8612 .
+

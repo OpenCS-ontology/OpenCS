@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36235 a skos:Concept ;
+    skos:broader ocs:C23849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Division_on_Dynamical_Astronomy> ;
+    skos:prefLabel "Division on Dynamical Astronomy" ;
+    skos:related ocs:C18085,
+        ocs:C23849,
+        ocs:C36210,
+        ocs:C597 .
+

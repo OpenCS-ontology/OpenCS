@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27301 a skos:Concept ;
+    skos:broader ocs:C3799,
+        ocs:C7476 ;
+    skos:prefLabel "Directory entry" .
+

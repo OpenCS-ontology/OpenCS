@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21668 a skos:Concept ;
+    skos:broader ocs:C1340 ;
+    skos:prefLabel "Auditory localisation" ;
+    skos:related ocs:C1,
+        ocs:C1340,
+        ocs:C24,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9170 .
+

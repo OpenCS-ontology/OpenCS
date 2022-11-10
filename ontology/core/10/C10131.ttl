@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10131 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gaussian_noise> ;
+    skos:prefLabel "Gaussian noise" ;
+    skos:related ocs:C10318,
+        ocs:C11747,
+        ocs:C1564,
+        ocs:C16169,
+        ocs:C1844,
+        ocs:C25042,
+        ocs:C29366,
+        ocs:C34197,
+        ocs:C3987,
+        ocs:C5298,
+        ocs:C5505,
+        ocs:C669,
+        ocs:C6909,
+        ocs:C836 .
+

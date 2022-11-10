@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7337 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:prefLabel "Verification routine" ;
+    skos:related ocs:C2,
+        ocs:C4296,
+        ocs:C7736 .
+

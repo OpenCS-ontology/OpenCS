@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8189 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intel_SHA_extensions> ;
+    skos:prefLabel "Intel SHA extensions" ;
+    skos:related ocs:C1251,
+        ocs:C19487,
+        ocs:C21024,
+        ocs:C2312,
+        ocs:C2478,
+        ocs:C30615,
+        ocs:C31038,
+        ocs:C31284,
+        ocs:C31346,
+        ocs:C31866,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38427,
+        ocs:C40061,
+        ocs:C42142,
+        ocs:C42499,
+        ocs:C6172,
+        ocs:C7075 .
+

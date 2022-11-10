@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29063 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Event_reconstruction> ;
+    skos:prefLabel "Event reconstruction" ;
+    skos:related ocs:C15862,
+        ocs:C16383,
+        ocs:C17228,
+        ocs:C19692,
+        ocs:C21331,
+        ocs:C26845,
+        ocs:C32279,
+        ocs:C35999,
+        ocs:C37701 .
+

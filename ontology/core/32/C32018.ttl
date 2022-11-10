@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32018 a skos:Concept ;
+    skos:broader ocs:C14600,
+        ocs:C19264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medipix> ;
+    skos:prefLabel "Medipix" ;
+    skos:related ocs:C14306,
+        ocs:C16020,
+        ocs:C16154,
+        ocs:C17109,
+        ocs:C18360,
+        ocs:C19292,
+        ocs:C19353,
+        ocs:C19382 .
+

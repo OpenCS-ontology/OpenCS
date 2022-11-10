@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19686 a skos:Concept ;
+    skos:broader ocs:C5394,
+        ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sarrus_linkage> ;
+    skos:prefLabel "Sarrus linkage" ;
+    skos:related ocs:C15528,
+        ocs:C15847,
+        ocs:C18577,
+        ocs:C19233,
+        ocs:C41500,
+        ocs:C5394,
+        ocs:C5992,
+        ocs:C7003 .
+

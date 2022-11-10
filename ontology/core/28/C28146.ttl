@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28146 a skos:Concept ;
+    skos:broader ocs:C10080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arthropod_exoskeleton> ;
+    skos:prefLabel "Exoskeleton structure" ;
+    skos:related ocs:C12976,
+        ocs:C23317,
+        ocs:C5818,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9601 .
+

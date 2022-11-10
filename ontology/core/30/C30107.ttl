@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30107 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rescue_robot> ;
+    skos:prefLabel "Rescue robot" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C16890,
+        ocs:C17236,
+        ocs:C17390,
+        ocs:C17554,
+        ocs:C19558,
+        ocs:C21418,
+        ocs:C29666,
+        ocs:C31062,
+        ocs:C32579,
+        ocs:C33411,
+        ocs:C34991,
+        ocs:C41862 .
+

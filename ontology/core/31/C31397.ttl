@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31397 a skos:Concept ;
+    skos:broader ocs:C18566 ;
+    skos:closeMatch <http://dbpedia.org/resource/Programming_domain> ;
+    skos:prefLabel "Programming domain" ;
+    skos:related ocs:C1386,
+        ocs:C16952,
+        ocs:C19,
+        ocs:C23439,
+        ocs:C31705,
+        ocs:C4756,
+        ocs:C8751 .
+

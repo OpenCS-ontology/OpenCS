@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11150 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolution> ;
+    skos:prefLabel "Convolution" ;
+    skos:related ocs:C1844,
+        ocs:C28787,
+        ocs:C3589,
+        ocs:C5298 .
+

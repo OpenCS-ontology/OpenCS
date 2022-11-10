@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17710 a skos:Concept ;
+    skos:broader ocs:C13745,
+        ocs:C2883,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parallax_mapping> ;
+    skos:prefLabel "Parallax mapping" ;
+    skos:related ocs:C15250,
+        ocs:C15632,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C19229,
+        ocs:C2118,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C24235,
+        ocs:C28061,
+        ocs:C32841,
+        ocs:C331,
+        ocs:C33277,
+        ocs:C35621,
+        ocs:C37333,
+        ocs:C39285,
+        ocs:C40693,
+        ocs:C6448 .
+

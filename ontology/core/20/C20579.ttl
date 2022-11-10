@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20579 a skos:Concept ;
+    skos:broader ocs:C1794,
+        ocs:C5087,
+        ocs:C5401,
+        ocs:C6116 ;
+    skos:prefLabel "High dimensional regression" .
+

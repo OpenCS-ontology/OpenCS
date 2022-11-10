@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29061 a skos:Concept ;
+    skos:broader ocs:C9601 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quantified_Self> ;
+    skos:prefLabel "Quantified Self" ;
+    skos:related ocs:C12238,
+        ocs:C12979,
+        ocs:C17132,
+        ocs:C19161,
+        ocs:C21424,
+        ocs:C22076,
+        ocs:C24448,
+        ocs:C29046,
+        ocs:C31110,
+        ocs:C35,
+        ocs:C7106,
+        ocs:C9489,
+        ocs:C9601 .
+

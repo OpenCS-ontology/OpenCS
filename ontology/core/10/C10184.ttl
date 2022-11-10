@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10184 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leaf_driver> ;
+    skos:prefLabel "Leaf driver" ;
+    skos:related ocs:C10785,
+        ocs:C11216,
+        ocs:C11960,
+        ocs:C20750,
+        ocs:C22569,
+        ocs:C27890,
+        ocs:C28135,
+        ocs:C41110,
+        ocs:C41599,
+        ocs:C7105,
+        ocs:C7750,
+        ocs:C7927,
+        ocs:C8024,
+        ocs:C8026,
+        ocs:C9262,
+        ocs:C9530 .
+

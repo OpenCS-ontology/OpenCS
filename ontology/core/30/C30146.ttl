@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30146 a skos:Concept ;
+    skos:broader ocs:C23025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Broadcast_and_Multicast_Service> ;
+    skos:prefLabel "Broadcast and Multicast Service" ;
+    skos:related ocs:C12999,
+        ocs:C15774,
+        ocs:C19721,
+        ocs:C21367,
+        ocs:C21749,
+        ocs:C22203,
+        ocs:C22551,
+        ocs:C23025,
+        ocs:C2700,
+        ocs:C29697,
+        ocs:C30145,
+        ocs:C32753,
+        ocs:C3391,
+        ocs:C34952,
+        ocs:C41099,
+        ocs:C41460,
+        ocs:C42186,
+        ocs:C42210,
+        ocs:C42428 .
+

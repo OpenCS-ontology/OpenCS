@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9667 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Controlled_image_base> ;
+    skos:prefLabel "Controlled image base" ;
+    skos:related ocs:C1023,
+        ocs:C22,
+        ocs:C23889,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C28701,
+        ocs:C31514,
+        ocs:C32381,
+        ocs:C41932,
+        ocs:C42090 .
+

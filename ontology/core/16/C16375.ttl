@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16375 a skos:Concept ;
+    skos:broader ocs:C1165 ;
+    skos:closeMatch <http://dbpedia.org/resource/C_POSIX_library> ;
+    skos:prefLabel "C POSIX library" ;
+    skos:related ocs:C1048,
+        ocs:C1165,
+        ocs:C14163,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C17703,
+        ocs:C18991,
+        ocs:C24135,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C33278,
+        ocs:C34815,
+        ocs:C36188,
+        ocs:C41115,
+        ocs:C41472,
+        ocs:C4706,
+        ocs:C8323,
+        ocs:C9 .
+

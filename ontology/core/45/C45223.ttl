@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45223 a skos:Concept ;
+    skos:broader ocs:C31845 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boole's_syllogistic> ;
+    skos:prefLabel "Boole's syllogistic" ;
+    skos:related ocs:C10825,
+        ocs:C11283,
+        ocs:C11635,
+        ocs:C16440,
+        ocs:C22706,
+        ocs:C27458,
+        ocs:C28014,
+        ocs:C29013,
+        ocs:C35456,
+        ocs:C35737,
+        ocs:C3894,
+        ocs:C40719,
+        ocs:C42338,
+        ocs:C43271,
+        ocs:C5280,
+        ocs:C8077,
+        ocs:C9834 .
+

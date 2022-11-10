@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3254 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rasch_model_estimation> ;
+    skos:prefLabel "Rasch model estimation" ;
+    skos:related ocs:C11025,
+        ocs:C20270,
+        ocs:C21710,
+        ocs:C27786,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C30859,
+        ocs:C37684,
+        ocs:C44532,
+        ocs:C45849,
+        ocs:C6822 .
+

@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38445 a skos:Concept ;
+    skos:broader ocs:C29892,
+        ocs:C30109,
+        ocs:C30236,
+        ocs:C33961,
+        ocs:C34450,
+        ocs:C37041 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stellar_birthline> ;
+    skos:prefLabel "Stellar birthline" ;
+    skos:related ocs:C16417,
+        ocs:C16687,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C23430,
+        ocs:C26156,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C30189,
+        ocs:C32295,
+        ocs:C34450,
+        ocs:C35888,
+        ocs:C35893,
+        ocs:C36049,
+        ocs:C40039,
+        ocs:C43200,
+        ocs:C43393 .
+

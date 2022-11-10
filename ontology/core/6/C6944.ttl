@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6944 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_management> ;
+    skos:prefLabel "Information management" ;
+    skos:related ocs:C1,
+        ocs:C10052,
+        ocs:C10211,
+        ocs:C11087,
+        ocs:C12,
+        ocs:C1332,
+        ocs:C197,
+        ocs:C22412,
+        ocs:C28,
+        ocs:C2979,
+        ocs:C3395,
+        ocs:C6,
+        ocs:C8 .
+

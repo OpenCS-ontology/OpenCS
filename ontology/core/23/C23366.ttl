@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23366 a skos:Concept ;
+    skos:broader ocs:C4257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Siegel's_lemma> ;
+    skos:prefLabel "Siegel's lemma" ;
+    skos:related ocs:C44298,
+        ocs:C9429 .
+

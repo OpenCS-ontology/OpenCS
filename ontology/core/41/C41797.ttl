@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41797 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36200,
+        ocs:C36406,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grötzsch's_theorem> ;
+    skos:prefLabel "Grötzsch's theorem" ;
+    skos:related ocs:C15097,
+        ocs:C17043,
+        ocs:C24988,
+        ocs:C33163,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38243,
+        ocs:C38560,
+        ocs:C38853,
+        ocs:C38962,
+        ocs:C39885,
+        ocs:C40165,
+        ocs:C40560,
+        ocs:C41785,
+        ocs:C42822,
+        ocs:C42845,
+        ocs:C43652,
+        ocs:C43912,
+        ocs:C44460,
+        ocs:C45425 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44290 a skos:Concept ;
+    skos:broader ocs:C29899,
+        ocs:C31149,
+        ocs:C31755,
+        ocs:C32451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_phone_tracking> ;
+    skos:prefLabel "Mobile phone tracking" ;
+    skos:related ocs:C10587,
+        ocs:C12641,
+        ocs:C1793,
+        ocs:C20845,
+        ocs:C27698,
+        ocs:C28851,
+        ocs:C30890,
+        ocs:C33055,
+        ocs:C3446,
+        ocs:C35370,
+        ocs:C39949,
+        ocs:C40171,
+        ocs:C4398,
+        ocs:C45515,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

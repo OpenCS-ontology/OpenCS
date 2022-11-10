@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C228 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Debugging_data_format> ;
+    skos:prefLabel "Debugging data format" ;
+    skos:related ocs:C11991,
+        ocs:C12257,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C18295,
+        ocs:C2009,
+        ocs:C21201,
+        ocs:C25596,
+        ocs:C28073,
+        ocs:C29426,
+        ocs:C43054,
+        ocs:C4321,
+        ocs:C5337,
+        ocs:C6072,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C8783 .
+

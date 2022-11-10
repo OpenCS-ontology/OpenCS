@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21543 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudospectrum> ;
+    skos:prefLabel "Pseudospectrum" ;
+    skos:related ocs:C19542,
+        ocs:C21143,
+        ocs:C31450,
+        ocs:C31516,
+        ocs:C34314,
+        ocs:C34413,
+        ocs:C38758,
+        ocs:C40761,
+        ocs:C44602,
+        ocs:C44649,
+        ocs:C44846,
+        ocs:C5201 .
+

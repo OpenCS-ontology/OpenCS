@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5945 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:prefLabel "Coherent speech" ;
+    skos:related ocs:C1034,
+        ocs:C13096,
+        ocs:C16,
+        ocs:C21,
+        ocs:C32,
+        ocs:C5696 .
+

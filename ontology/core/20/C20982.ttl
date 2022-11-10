@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20982 a skos:Concept ;
+    skos:broader ocs:C3740,
+        ocs:C751 ;
+    skos:prefLabel "Radon space" ;
+    skos:related ocs:C35103,
+        ocs:C45151 .
+

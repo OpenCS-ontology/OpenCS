@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28082 a skos:Concept ;
+    skos:broader ocs:C12759,
+        ocs:C13210,
+        ocs:C8020 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthographic_depth> ;
+    skos:prefLabel "Orthographic depth" ;
+    skos:related ocs:C12759,
+        ocs:C13210,
+        ocs:C14527,
+        ocs:C14808,
+        ocs:C15020,
+        ocs:C17677,
+        ocs:C27886,
+        ocs:C29128,
+        ocs:C36864,
+        ocs:C5862,
+        ocs:C8020 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9551 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_technological_development> ;
+    skos:prefLabel "Differential technological development" ;
+    skos:related ocs:C11381,
+        ocs:C11532,
+        ocs:C11938,
+        ocs:C12009,
+        ocs:C13328,
+        ocs:C3321,
+        ocs:C39803,
+        ocs:C8 .
+

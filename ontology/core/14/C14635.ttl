@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14635 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/First_magnitude_star> ;
+    skos:prefLabel "First magnitude star" ;
+    skos:related ocs:C13745,
+        ocs:C14224,
+        ocs:C16579,
+        ocs:C22752,
+        ocs:C24724,
+        ocs:C26348,
+        ocs:C28586,
+        ocs:C33488,
+        ocs:C597 .
+

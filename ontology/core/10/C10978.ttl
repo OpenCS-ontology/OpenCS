@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10978 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technical_communication> ;
+    skos:prefLabel "Technical communication" ;
+    skos:related ocs:C1,
+        ocs:C10045,
+        ocs:C1253,
+        ocs:C18587,
+        ocs:C1908,
+        ocs:C2135,
+        ocs:C306,
+        ocs:C31201,
+        ocs:C33106,
+        ocs:C40700,
+        ocs:C5554,
+        ocs:C9607 .
+

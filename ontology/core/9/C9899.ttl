@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9899 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:prefLabel "Serial Publications" ;
+    skos:related ocs:C10220,
+        ocs:C17,
+        ocs:C34,
+        ocs:C8498,
+        ocs:C8614,
+        ocs:C9692 .
+

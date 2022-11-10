@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27823 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/XOR_gate> ;
+    skos:prefLabel "XOR gate" ;
+    skos:related ocs:C11252,
+        ocs:C11283,
+        ocs:C11635,
+        ocs:C12781,
+        ocs:C13855,
+        ocs:C14021,
+        ocs:C19935,
+        ocs:C26482,
+        ocs:C3894,
+        ocs:C43103 .
+

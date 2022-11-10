@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20851 a skos:Concept ;
+    skos:broader ocs:C12974,
+        ocs:C4321,
+        ocs:C6541 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meta-circular_evaluator> ;
+    skos:prefLabel "Meta-circular evaluator" ;
+    skos:related ocs:C10284,
+        ocs:C11990,
+        ocs:C12974,
+        ocs:C17204,
+        ocs:C1781,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C23863,
+        ocs:C24909,
+        ocs:C35502,
+        ocs:C4214,
+        ocs:C4321,
+        ocs:C45037,
+        ocs:C4918,
+        ocs:C5698,
+        ocs:C5962,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C8441 .
+

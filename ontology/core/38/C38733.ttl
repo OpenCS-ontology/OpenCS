@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38733 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Description_number> ;
+    skos:prefLabel "Description number" ;
+    skos:related ocs:C10,
+        ocs:C14986,
+        ocs:C22100,
+        ocs:C24201,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C31124,
+        ocs:C32379,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C38116,
+        ocs:C39884,
+        ocs:C39944,
+        ocs:C40419,
+        ocs:C41356,
+        ocs:C41365,
+        ocs:C42091,
+        ocs:C45460 .
+

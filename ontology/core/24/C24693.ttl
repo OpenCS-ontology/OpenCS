@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24693 a skos:Concept ;
+    skos:broader ocs:C12810 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_framework> ;
+    skos:prefLabel "Web application framework" .
+

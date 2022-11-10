@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15069 a skos:Concept ;
+    skos:broader ocs:C4804,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniprocessor_system> ;
+    skos:prefLabel "Uniprocessor system" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C12690,
+        ocs:C15595,
+        ocs:C19487,
+        ocs:C2353,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C3514,
+        ocs:C42759,
+        ocs:C4804,
+        ocs:C5463,
+        ocs:C6346,
+        ocs:C7735,
+        ocs:C8204,
+        ocs:C9,
+        ocs:C9262,
+        ocs:C9776 .
+

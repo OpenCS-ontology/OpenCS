@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23908 a skos:Concept ;
+    skos:broader ocs:C7201 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_exposure> ;
+    skos:prefLabel "Space exposure" ;
+    skos:related ocs:C23481,
+        ocs:C24462,
+        ocs:C5293,
+        ocs:C6691,
+        ocs:C7201,
+        ocs:C7739 .
+

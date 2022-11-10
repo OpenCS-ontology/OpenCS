@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15405 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lyapunov_exponent> ;
+    skos:prefLabel "Lyapunov exponent" ;
+    skos:related ocs:C13992,
+        ocs:C14592,
+        ocs:C16955,
+        ocs:C23029,
+        ocs:C33199,
+        ocs:C33560,
+        ocs:C34416,
+        ocs:C597 .
+

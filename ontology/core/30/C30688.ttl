@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30688 a skos:Concept ;
+    skos:broader ocs:C22090 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reentrant_mutex> ;
+    skos:prefLabel "Reentrant mutex" ;
+    skos:related ocs:C13315,
+        ocs:C14950,
+        ocs:C16571,
+        ocs:C27084,
+        ocs:C32786,
+        ocs:C33921,
+        ocs:C3514,
+        ocs:C38644,
+        ocs:C40601,
+        ocs:C5198,
+        ocs:C5495,
+        ocs:C5551,
+        ocs:C6346,
+        ocs:C8204,
+        ocs:C9776 .
+

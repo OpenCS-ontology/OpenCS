@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36001 a skos:Concept ;
+    skos:broader ocs:C16104 ;
+    skos:closeMatch <http://dbpedia.org/resource/Switched_communication_network> ;
+    skos:prefLabel "Switched communication network" ;
+    skos:related ocs:C10680,
+        ocs:C11606,
+        ocs:C13623,
+        ocs:C16104,
+        ocs:C16666,
+        ocs:C21769,
+        ocs:C23155,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C3,
+        ocs:C31584,
+        ocs:C3233,
+        ocs:C34938,
+        ocs:C38402,
+        ocs:C7340,
+        ocs:C9107,
+        ocs:C9480 .
+

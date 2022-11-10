@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11864 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/AS-Interface> ;
+    skos:prefLabel "AS-Interface" ;
+    skos:related ocs:C14858,
+        ocs:C173,
+        ocs:C23445,
+        ocs:C25027,
+        ocs:C31552,
+        ocs:C38589,
+        ocs:C40074,
+        ocs:C43830,
+        ocs:C4458,
+        ocs:C7794 .
+

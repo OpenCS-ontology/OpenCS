@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21269 a skos:Concept ;
+    skos:broader ocs:C10616 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mycin> ;
+    skos:prefLabel "Mycin" ;
+    skos:related ocs:C10616,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C15444,
+        ocs:C16466,
+        ocs:C20118,
+        ocs:C23248,
+        ocs:C27665,
+        ocs:C2874,
+        ocs:C28762,
+        ocs:C31008,
+        ocs:C5614,
+        ocs:C651,
+        ocs:C6531,
+        ocs:C6749,
+        ocs:C7311,
+        ocs:C8,
+        ocs:C852,
+        ocs:C9022 .
+

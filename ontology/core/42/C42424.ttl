@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42424 a skos:Concept ;
+    skos:broader ocs:C31256,
+        ocs:C31724,
+        ocs:C32649 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strict_programming_language> ;
+    skos:prefLabel "Strict programming language" ;
+    skos:related ocs:C12108,
+        ocs:C1631,
+        ocs:C18086,
+        ocs:C1830,
+        ocs:C19,
+        ocs:C20542,
+        ocs:C21124,
+        ocs:C25684,
+        ocs:C28944,
+        ocs:C35431,
+        ocs:C3639,
+        ocs:C3845,
+        ocs:C38521,
+        ocs:C386,
+        ocs:C43382,
+        ocs:C6941,
+        ocs:C7825,
+        ocs:C8441 .
+

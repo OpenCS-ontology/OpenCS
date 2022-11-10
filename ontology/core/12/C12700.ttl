@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12700 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Image name" ;
+    skos:related ocs:C13065,
+        ocs:C22,
+        ocs:C23,
+        ocs:C6 .
+

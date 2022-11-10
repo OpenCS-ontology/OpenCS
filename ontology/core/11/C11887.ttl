@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11887 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Region_of_interest> ;
+    skos:prefLabel "Region of interest" ;
+    skos:related ocs:C13024,
+        ocs:C14863,
+        ocs:C28789,
+        ocs:C29175,
+        ocs:C3032,
+        ocs:C3077,
+        ocs:C318,
+        ocs:C33447,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C8021,
+        ocs:C948 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7111 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attractiveness_principle> ;
+    skos:prefLabel "Attractiveness principle" ;
+    skos:related ocs:C10997,
+        ocs:C1150,
+        ocs:C16894,
+        ocs:C22976,
+        ocs:C2421,
+        ocs:C25955,
+        ocs:C37540,
+        ocs:C4023,
+        ocs:C6998,
+        ocs:C7334 .
+

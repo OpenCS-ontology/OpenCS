@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1204 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coloured_Book_protocols> ;
+    skos:prefLabel "Coloured Book protocols" ;
+    skos:related ocs:C10049,
+        ocs:C1144,
+        ocs:C13629,
+        ocs:C14538,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C20205,
+        ocs:C2435,
+        ocs:C26,
+        ocs:C26809,
+        ocs:C30303,
+        ocs:C32115,
+        ocs:C40505,
+        ocs:C42692,
+        ocs:C43595,
+        ocs:C6766,
+        ocs:C6861,
+        ocs:C8614,
+        ocs:C978 .
+

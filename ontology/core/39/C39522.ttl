@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39522 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code_review> ;
+    skos:prefLabel "Code review" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C26339,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C31984,
+        ocs:C37174,
+        ocs:C38023,
+        ocs:C40396,
+        ocs:C41038,
+        ocs:C44964,
+        ocs:C45212,
+        ocs:C4558,
+        ocs:C8183 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22124 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtex_(FPGA)> ;
+    skos:prefLabel "Virtex" ;
+    skos:related ocs:C11252,
+        ocs:C13747,
+        ocs:C16183,
+        ocs:C17790,
+        ocs:C19400,
+        ocs:C20607,
+        ocs:C23343,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C26155,
+        ocs:C27883,
+        ocs:C28409,
+        ocs:C29006,
+        ocs:C31853,
+        ocs:C33533,
+        ocs:C34718,
+        ocs:C36420,
+        ocs:C5336,
+        ocs:C9908 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16990 a skos:Concept ;
+    skos:broader ocs:C6021,
+        ocs:C7021,
+        ocs:C7652 ;
+    skos:closeMatch <http://dbpedia.org/resource/C4.5_algorithm> ;
+    skos:prefLabel "C4.5 algorithm" ;
+    skos:related ocs:C11030,
+        ocs:C11544,
+        ocs:C13,
+        ocs:C2005,
+        ocs:C22643,
+        ocs:C23929,
+        ocs:C24136,
+        ocs:C25,
+        ocs:C25462,
+        ocs:C25520,
+        ocs:C34006,
+        ocs:C36198,
+        ocs:C39132,
+        ocs:C39283,
+        ocs:C41937,
+        ocs:C45455,
+        ocs:C7803 .
+

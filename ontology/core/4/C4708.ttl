@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4708 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gradient_network> ;
+    skos:prefLabel "Gradient network" ;
+    skos:related ocs:C13857,
+        ocs:C14223,
+        ocs:C1595,
+        ocs:C16666,
+        ocs:C19101,
+        ocs:C19675,
+        ocs:C20691,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C28122,
+        ocs:C28520,
+        ocs:C28850,
+        ocs:C3233,
+        ocs:C34938,
+        ocs:C35041,
+        ocs:C36678,
+        ocs:C38632,
+        ocs:C7532,
+        ocs:C8185,
+        ocs:C973 .
+

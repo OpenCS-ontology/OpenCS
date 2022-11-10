@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3065 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moderation_(statistics)> ;
+    skos:prefLabel "Moderation" ;
+    skos:related ocs:C12371,
+        ocs:C13367,
+        ocs:C13789,
+        ocs:C23264,
+        ocs:C26888,
+        ocs:C28168,
+        ocs:C29226,
+        ocs:C29661,
+        ocs:C40043,
+        ocs:C4873,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C8385,
+        ocs:C8758 .
+

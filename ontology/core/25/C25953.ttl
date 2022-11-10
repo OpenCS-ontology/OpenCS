@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25953 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3674 ;
+    skos:closeMatch <http://dbpedia.org/resource/Configuration_Management_(ITSM)> ;
+    skos:prefLabel "Configuration Management (ITSM)" ;
+    skos:related ocs:C12746,
+        ocs:C3674 .
+

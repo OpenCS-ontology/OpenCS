@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12382 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MAC_times> ;
+    skos:prefLabel "MAC times" ;
+    skos:related ocs:C10447,
+        ocs:C12211,
+        ocs:C25031,
+        ocs:C26754,
+        ocs:C34537,
+        ocs:C3799,
+        ocs:C38346,
+        ocs:C39246,
+        ocs:C39791,
+        ocs:C40099,
+        ocs:C40351,
+        ocs:C41604,
+        ocs:C43104,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C7516,
+        ocs:C9938 .
+

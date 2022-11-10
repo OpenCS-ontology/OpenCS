@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3833 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ambiguous_viewpoint> ;
+    skos:prefLabel "Ambiguous viewpoint" ;
+    skos:related ocs:C10182,
+        ocs:C12921,
+        ocs:C17734,
+        ocs:C19809,
+        ocs:C22259,
+        ocs:C30799,
+        ocs:C34057,
+        ocs:C34066,
+        ocs:C34078,
+        ocs:C3487,
+        ocs:C38385,
+        ocs:C39631,
+        ocs:C39851,
+        ocs:C7731,
+        ocs:C8023,
+        ocs:C8889 .
+

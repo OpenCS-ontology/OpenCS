@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6112 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/False_positive_paradox> ;
+    skos:prefLabel "False positive paradox" ;
+    skos:related ocs:C11947,
+        ocs:C12433,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C17176,
+        ocs:C23847,
+        ocs:C34894,
+        ocs:C38771,
+        ocs:C6291,
+        ocs:C6692 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32981 a skos:Concept ;
+    skos:broader ocs:C21934 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regular_singular_point> ;
+    skos:prefLabel "Regular singular point" ;
+    skos:related ocs:C38728 .
+

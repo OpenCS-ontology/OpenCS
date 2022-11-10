@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6695 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_simulator> ;
+    skos:prefLabel "Space simulator" ;
+    skos:related ocs:C15180,
+        ocs:C19614,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C2701,
+        ocs:C44,
+        ocs:C5293,
+        ocs:C5533,
+        ocs:C660,
+        ocs:C7739,
+        ocs:C81 .
+

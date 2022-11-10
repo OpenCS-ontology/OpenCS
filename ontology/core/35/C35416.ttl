@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35416 a skos:Concept ;
+    skos:broader ocs:C20134,
+        ocs:C26639 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_learning_in_animals> ;
+    skos:prefLabel "Social learning in animals" ;
+    skos:related ocs:C12649 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29277 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C4752 ;
+    skos:closeMatch <http://dbpedia.org/resource/Functional_boxplot> ;
+    skos:prefLabel "Functional boxplot" ;
+    skos:related ocs:C11094,
+        ocs:C19998,
+        ocs:C25294,
+        ocs:C26880,
+        ocs:C45514,
+        ocs:C4752,
+        ocs:C5700 .
+

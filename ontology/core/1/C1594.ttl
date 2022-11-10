@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1594 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:prefLabel "Material Name" ;
+    skos:related ocs:C1443,
+        ocs:C2,
+        ocs:C23,
+        ocs:C31,
+        ocs:C3231,
+        ocs:C6,
+        ocs:C75 .
+

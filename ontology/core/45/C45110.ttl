@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45110 a skos:Concept ;
+    skos:broader ocs:C29898,
+        ocs:C30006,
+        ocs:C32085,
+        ocs:C35196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tau_Ceti_e> ;
+    skos:prefLabel "Tau Ceti e" .
+

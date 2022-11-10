@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41675 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loricaria> ;
+    skos:prefLabel "Loricaria" ;
+    skos:related ocs:C36328,
+        ocs:C38565,
+        ocs:C38930,
+        ocs:C39157,
+        ocs:C39219,
+        ocs:C39594,
+        ocs:C42810,
+        ocs:C43241,
+        ocs:C43757,
+        ocs:C44472,
+        ocs:C44786,
+        ocs:C45689 .
+

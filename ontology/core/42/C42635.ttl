@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42635 a skos:Concept ;
+    skos:broader ocs:C29901,
+        ocs:C34566,
+        ocs:C36538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Matrix_grammar> ;
+    skos:prefLabel "Matrix grammar" ;
+    skos:related ocs:C13852,
+        ocs:C17732,
+        ocs:C22624,
+        ocs:C24026,
+        ocs:C25202,
+        ocs:C26158,
+        ocs:C27892,
+        ocs:C29901,
+        ocs:C30796,
+        ocs:C31398,
+        ocs:C33013,
+        ocs:C33287,
+        ocs:C35779,
+        ocs:C36538,
+        ocs:C38283,
+        ocs:C38686,
+        ocs:C39656,
+        ocs:C40588,
+        ocs:C40797,
+        ocs:C40875 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41640 a skos:Concept ;
+    skos:broader ocs:C30725,
+        ocs:C33033,
+        ocs:C36009 ;
+    skos:closeMatch <http://dbpedia.org/resource/BK-space> ;
+    skos:prefLabel "BK-space" ;
+    skos:related ocs:C23927,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C36009,
+        ocs:C36920,
+        ocs:C38414,
+        ocs:C39124,
+        ocs:C39367,
+        ocs:C39745,
+        ocs:C39925,
+        ocs:C40236,
+        ocs:C41233,
+        ocs:C42981,
+        ocs:C43500,
+        ocs:C44001,
+        ocs:C44367,
+        ocs:C44450 .
+

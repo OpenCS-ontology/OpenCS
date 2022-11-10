@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42039 a skos:Concept ;
+    skos:broader ocs:C37301 ;
+    skos:closeMatch <http://dbpedia.org/resource/Degree_Angular_Scale_Interferometer> ;
+    skos:prefLabel "Degree Angular Scale Interferometer" ;
+    skos:related ocs:C30977,
+        ocs:C597 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27136 a skos:Concept ;
+    skos:broader ocs:C1451,
+        ocs:C7825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lawvere_theory> ;
+    skos:prefLabel "Lawvere theory" ;
+    skos:related ocs:C24454 .
+

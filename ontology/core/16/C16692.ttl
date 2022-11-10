@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16692 a skos:Concept ;
+    skos:broader ocs:C13607,
+        ocs:C260,
+        ocs:C836,
+        ocs:C9428 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partial_autocorrelation_function> ;
+    skos:prefLabel "Partial autocorrelation function" ;
+    skos:related ocs:C11096,
+        ocs:C13607,
+        ocs:C14424,
+        ocs:C15614,
+        ocs:C21608,
+        ocs:C23563,
+        ocs:C24319,
+        ocs:C260,
+        ocs:C35266,
+        ocs:C5505,
+        ocs:C6952,
+        ocs:C836,
+        ocs:C9428,
+        ocs:C9874 .
+

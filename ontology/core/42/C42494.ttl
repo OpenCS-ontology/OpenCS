@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42494 a skos:Concept ;
+    skos:broader ocs:C32484 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-commutative_cryptography> ;
+    skos:prefLabel "Non-commutative cryptography" ;
+    skos:related ocs:C1511,
+        ocs:C16125,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C30656,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C34664,
+        ocs:C38359,
+        ocs:C39389,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43183,
+        ocs:C44481 .
+

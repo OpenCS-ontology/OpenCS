@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16718 a skos:Concept ;
+    skos:broader ocs:C7531 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metaphrase> ;
+    skos:prefLabel "Metaphrase" ;
+    skos:related ocs:C11449,
+        ocs:C19175,
+        ocs:C2298,
+        ocs:C5233,
+        ocs:C5852,
+        ocs:C7531 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33015 a skos:Concept ;
+    skos:broader ocs:C22450 ;
+    skos:closeMatch <http://dbpedia.org/resource/SAML_2.0> ;
+    skos:prefLabel "SAML 2.0" ;
+    skos:related ocs:C10904,
+        ocs:C11927,
+        ocs:C14417,
+        ocs:C17656,
+        ocs:C20313,
+        ocs:C22114,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C32400,
+        ocs:C34607,
+        ocs:C3778,
+        ocs:C38075,
+        ocs:C44429,
+        ocs:C449,
+        ocs:C4513,
+        ocs:C5418,
+        ocs:C7006,
+        ocs:C816 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22754 a skos:Concept ;
+    skos:broader ocs:C11188,
+        ocs:C11705,
+        ocs:C1879,
+        ocs:C248,
+        ocs:C6912,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Factorial_code> ;
+    skos:prefLabel "Factorial code" ;
+    skos:related ocs:C11030,
+        ocs:C14859,
+        ocs:C1879,
+        ocs:C19354,
+        ocs:C20377,
+        ocs:C21,
+        ocs:C24605,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C35079,
+        ocs:C424,
+        ocs:C5816,
+        ocs:C6021,
+        ocs:C6591,
+        ocs:C6912,
+        ocs:C9022,
+        ocs:C9874 .
+

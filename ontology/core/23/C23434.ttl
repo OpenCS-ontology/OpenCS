@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23434 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Friendship_paradox> ;
+    skos:prefLabel "Friendship paradox" ;
+    skos:related ocs:C11026,
+        ocs:C13647,
+        ocs:C15047,
+        ocs:C17671,
+        ocs:C18571,
+        ocs:C18864,
+        ocs:C28521,
+        ocs:C34224,
+        ocs:C41731,
+        ocs:C42470,
+        ocs:C43088,
+        ocs:C4652 .
+

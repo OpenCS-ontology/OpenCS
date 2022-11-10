@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6706 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/A-not-A_question> ;
+    skos:prefLabel "A-not-A question" ;
+    skos:related ocs:C124,
+        ocs:C15012,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C22268,
+        ocs:C22596,
+        ocs:C2298,
+        ocs:C4755,
+        ocs:C7310,
+        ocs:C9659 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36308 a skos:Concept ;
+    skos:broader ocs:C15804,
+        ocs:C20373 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ethernet_over_SDH> ;
+    skos:prefLabel "Ethernet over SDH" ;
+    skos:related ocs:C10477,
+        ocs:C10765,
+        ocs:C15589,
+        ocs:C20373,
+        ocs:C20934,
+        ocs:C23483,
+        ocs:C25250,
+        ocs:C26208,
+        ocs:C2842,
+        ocs:C31109,
+        ocs:C35346,
+        ocs:C36329,
+        ocs:C37722,
+        ocs:C42256,
+        ocs:C42820,
+        ocs:C490,
+        ocs:C8567 .
+

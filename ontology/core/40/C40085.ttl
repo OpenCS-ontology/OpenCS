@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40085 a skos:Concept ;
+    skos:broader ocs:C30335 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_architecture_planning> ;
+    skos:prefLabel "Enterprise architecture planning" ;
+    skos:related ocs:C18539,
+        ocs:C197,
+        ocs:C2264,
+        ocs:C30335,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38667,
+        ocs:C40270,
+        ocs:C42767,
+        ocs:C43469,
+        ocs:C44353,
+        ocs:C44839,
+        ocs:C45082,
+        ocs:C45114,
+        ocs:C45437,
+        ocs:C6855 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12927 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evenki_language> ;
+    skos:prefLabel "Evenki language" ;
+    skos:related ocs:C1583,
+        ocs:C25538,
+        ocs:C31994,
+        ocs:C6505,
+        ocs:C7310,
+        ocs:C7501 .
+

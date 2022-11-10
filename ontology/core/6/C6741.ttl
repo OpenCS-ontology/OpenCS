@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6741 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carousel_memory> ;
+    skos:prefLabel "Carousel memory" ;
+    skos:related ocs:C10323,
+        ocs:C10785,
+        ocs:C11129,
+        ocs:C3231,
+        ocs:C38449,
+        ocs:C43496,
+        ocs:C5141,
+        ocs:C520,
+        ocs:C7007,
+        ocs:C7476,
+        ocs:C8024 .
+

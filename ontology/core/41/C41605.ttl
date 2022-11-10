@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41605 a skos:Concept ;
+    skos:broader ocs:C33602 ;
+    skos:closeMatch <http://dbpedia.org/resource/Theoretical_astronomy> ;
+    skos:prefLabel "Theoretical astronomy" ;
+    skos:related ocs:C17246,
+        ocs:C23849,
+        ocs:C597 .
+

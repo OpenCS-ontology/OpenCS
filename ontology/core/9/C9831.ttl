@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9831 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Set_and_drift> ;
+    skos:prefLabel "Set and drift" ;
+    skos:related ocs:C11158,
+        ocs:C12808,
+        ocs:C14324,
+        ocs:C15887,
+        ocs:C16352,
+        ocs:C18521,
+        ocs:C38466,
+        ocs:C6495,
+        ocs:C9258 .
+

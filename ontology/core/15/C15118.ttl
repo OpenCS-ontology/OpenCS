@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15118 a skos:Concept ;
+    skos:broader ocs:C7163 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intelligence_assessment> ;
+    skos:prefLabel "Intelligence assessment" ;
+    skos:related ocs:C1331,
+        ocs:C1845,
+        ocs:C19079,
+        ocs:C2060,
+        ocs:C28057,
+        ocs:C3048,
+        ocs:C3059,
+        ocs:C33610,
+        ocs:C4163,
+        ocs:C7113,
+        ocs:C8126 .
+

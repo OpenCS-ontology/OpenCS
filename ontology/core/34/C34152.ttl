@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34152 a skos:Concept ;
+    skos:broader ocs:C19715 ;
+    skos:closeMatch <http://dbpedia.org/resource/MoEDAL_experiment> ;
+    skos:prefLabel "MoEDAL experiment" ;
+    skos:related ocs:C16784,
+        ocs:C22996,
+        ocs:C32279,
+        ocs:C35999,
+        ocs:C597 .
+

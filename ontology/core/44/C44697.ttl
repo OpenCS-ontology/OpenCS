@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44697 a skos:Concept ;
+    skos:broader ocs:C30500,
+        ocs:C31690,
+        ocs:C36863 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_Inter-ORB_Protocol> ;
+    skos:prefLabel "General Inter-ORB Protocol" ;
+    skos:related ocs:C11152,
+        ocs:C132,
+        ocs:C13252,
+        ocs:C14251,
+        ocs:C17238,
+        ocs:C21419,
+        ocs:C22597,
+        ocs:C23138,
+        ocs:C23663,
+        ocs:C24914,
+        ocs:C26106,
+        ocs:C29359,
+        ocs:C30,
+        ocs:C35609,
+        ocs:C38311,
+        ocs:C39337,
+        ocs:C5236,
+        ocs:C5613,
+        ocs:C661,
+        ocs:C9931 .
+

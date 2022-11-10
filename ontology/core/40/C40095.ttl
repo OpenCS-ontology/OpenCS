@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40095 a skos:Concept ;
+    skos:broader ocs:C35769 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nichols_plot> ;
+    skos:prefLabel "Nichols plot" ;
+    skos:related ocs:C35769 .
+

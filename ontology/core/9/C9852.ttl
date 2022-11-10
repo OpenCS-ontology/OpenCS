@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9852 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field_encapsulation> ;
+    skos:prefLabel "Field encapsulation" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C11,
+        ocs:C11128,
+        ocs:C1333,
+        ocs:C18469,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28073,
+        ocs:C31851,
+        ocs:C32782,
+        ocs:C32814,
+        ocs:C33806,
+        ocs:C3985,
+        ocs:C40088,
+        ocs:C45142,
+        ocs:C8629,
+        ocs:C9 .
+

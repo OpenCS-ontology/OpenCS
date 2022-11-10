@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7093 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphic_organizer> ;
+    skos:prefLabel "Graphic organizer" ;
+    skos:related ocs:C10225,
+        ocs:C11094,
+        ocs:C11646,
+        ocs:C12,
+        ocs:C12638,
+        ocs:C12811,
+        ocs:C3042,
+        ocs:C37827,
+        ocs:C5500,
+        ocs:C6032,
+        ocs:C6656 .
+

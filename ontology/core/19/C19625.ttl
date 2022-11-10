@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19625 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Formica_polyctena> ;
+    skos:prefLabel "Formica polyctena" ;
+    skos:related ocs:C14756,
+        ocs:C19155,
+        ocs:C19235,
+        ocs:C21653,
+        ocs:C24249,
+        ocs:C29538,
+        ocs:C33999,
+        ocs:C34757 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28124 a skos:Concept ;
+    skos:broader ocs:C12976 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electrovibration> ;
+    skos:prefLabel "Electrovibration" ;
+    skos:related ocs:C10368,
+        ocs:C17191,
+        ocs:C21441 .
+

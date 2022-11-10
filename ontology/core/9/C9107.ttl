@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9107 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interconnect_facility> ;
+    skos:prefLabel "Interconnect facility" ;
+    skos:related ocs:C10331,
+        ocs:C10680,
+        ocs:C13709,
+        ocs:C16022,
+        ocs:C16104,
+        ocs:C16666,
+        ocs:C26,
+        ocs:C31746,
+        ocs:C34938,
+        ocs:C35279,
+        ocs:C36001,
+        ocs:C38869,
+        ocs:C43515,
+        ocs:C5617,
+        ocs:C9105,
+        ocs:C9480 .
+

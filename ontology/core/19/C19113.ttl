@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19113 a skos:Concept ;
+    skos:broader ocs:C7850 ;
+    skos:prefLabel "Physical Activity Measurement" ;
+    skos:related ocs:C12641,
+        ocs:C17,
+        ocs:C34,
+        ocs:C6116,
+        ocs:C9113 .
+

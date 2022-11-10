@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32838 a skos:Concept ;
+    skos:broader ocs:C16186,
+        ocs:C18237 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-ray_astronomy_detector> ;
+    skos:prefLabel "X-ray astronomy detector" ;
+    skos:related ocs:C14078,
+        ocs:C16020,
+        ocs:C19382,
+        ocs:C19524,
+        ocs:C25787,
+        ocs:C597 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6590 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boolean_analysis> ;
+    skos:prefLabel "Boolean analysis" ;
+    skos:related ocs:C12811,
+        ocs:C13701,
+        ocs:C13855,
+        ocs:C1509,
+        ocs:C15662,
+        ocs:C18522,
+        ocs:C32645,
+        ocs:C32743,
+        ocs:C3736,
+        ocs:C6912,
+        ocs:C9488 .
+

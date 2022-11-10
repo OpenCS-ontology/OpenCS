@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38055 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Real-time_Control_System_Software> ;
+    skos:prefLabel "Real-time Control System Software" ;
+    skos:related ocs:C10562,
+        ocs:C11,
+        ocs:C11593,
+        ocs:C22684,
+        ocs:C23580,
+        ocs:C23875,
+        ocs:C32610,
+        ocs:C33,
+        ocs:C34131,
+        ocs:C45216,
+        ocs:C7106,
+        ocs:C8759,
+        ocs:C8791 .
+

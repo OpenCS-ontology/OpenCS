@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32303 a skos:Concept ;
+    skos:broader ocs:C25681 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foundational_Model_of_Anatomy> ;
+    skos:prefLabel "Foundational Model of Anatomy" ;
+    skos:related ocs:C12066,
+        ocs:C12856,
+        ocs:C25681,
+        ocs:C3396,
+        ocs:C38158,
+        ocs:C38217,
+        ocs:C38537,
+        ocs:C41158,
+        ocs:C41350,
+        ocs:C41822,
+        ocs:C41877,
+        ocs:C44161,
+        ocs:C45248,
+        ocs:C45752,
+        ocs:C7500 .
+

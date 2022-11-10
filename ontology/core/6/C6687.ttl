@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6687 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_literacy> ;
+    skos:prefLabel "Visual literacy" ;
+    skos:related ocs:C1402,
+        ocs:C17,
+        ocs:C2135,
+        ocs:C25968,
+        ocs:C306,
+        ocs:C3067,
+        ocs:C3119,
+        ocs:C4438,
+        ocs:C9606 .
+

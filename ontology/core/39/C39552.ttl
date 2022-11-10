@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39552 a skos:Concept ;
+    skos:broader ocs:C34120,
+        ocs:C34791 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strong_generating_set> ;
+    skos:prefLabel "Strong generating set" ;
+    skos:related ocs:C28340,
+        ocs:C29978,
+        ocs:C30242,
+        ocs:C34791,
+        ocs:C41928,
+        ocs:C45096 .
+

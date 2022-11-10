@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8583 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quality_of_results> ;
+    skos:prefLabel "Quality of results" ;
+    skos:related ocs:C10137,
+        ocs:C10965,
+        ocs:C11252,
+        ocs:C19400,
+        ocs:C19673,
+        ocs:C22124,
+        ocs:C254,
+        ocs:C33318,
+        ocs:C34945,
+        ocs:C35729,
+        ocs:C37773,
+        ocs:C3894,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C8791 .
+

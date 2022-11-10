@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39622 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36200,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semi-symmetric_graph> ;
+    skos:prefLabel "Semi-symmetric graph" ;
+    skos:related ocs:C14693,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C37036,
+        ocs:C38321,
+        ocs:C39615,
+        ocs:C39730,
+        ocs:C39783,
+        ocs:C40048,
+        ocs:C41032,
+        ocs:C41386,
+        ocs:C41628,
+        ocs:C41969,
+        ocs:C42281,
+        ocs:C42872,
+        ocs:C43097,
+        ocs:C44563,
+        ocs:C45277,
+        ocs:C45361 .
+

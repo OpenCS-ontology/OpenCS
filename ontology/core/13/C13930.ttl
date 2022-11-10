@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13930 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Am_star> ;
+    skos:prefLabel "Am star" ;
+    skos:related ocs:C10556,
+        ocs:C13745,
+        ocs:C18085,
+        ocs:C22649,
+        ocs:C22752,
+        ocs:C24175,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C28956,
+        ocs:C31964,
+        ocs:C34013,
+        ocs:C35044,
+        ocs:C37216,
+        ocs:C597 .
+

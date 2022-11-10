@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29020 a skos:Concept ;
+    skos:broader ocs:C7848,
+        ocs:C9690 ;
+    skos:prefLabel "Anatomical coordinate" ;
+    skos:related ocs:C1239,
+        ocs:C21,
+        ocs:C4435,
+        ocs:C6395 .
+

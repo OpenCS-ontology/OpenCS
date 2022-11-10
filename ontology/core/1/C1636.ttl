@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1636 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modulo_operation> ;
+    skos:prefLabel "Modulo operation" ;
+    skos:related ocs:C10,
+        ocs:C19,
+        ocs:C24353,
+        ocs:C27882,
+        ocs:C3931,
+        ocs:C6128 .
+

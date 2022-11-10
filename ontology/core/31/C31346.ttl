@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31346 a skos:Concept ;
+    skos:broader ocs:C17204,
+        ocs:C19487 ;
+    skos:closeMatch <http://dbpedia.org/resource/X86_assembly_language> ;
+    skos:prefLabel "x86 assembly language" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C28881,
+        ocs:C31284,
+        ocs:C33174,
+        ocs:C35009,
+        ocs:C36894,
+        ocs:C37847,
+        ocs:C5147,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856,
+        ocs:C9 .
+

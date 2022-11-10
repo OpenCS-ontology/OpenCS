@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7406 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_human_studies> ;
+    skos:prefLabel "Integrated human studies" ;
+    skos:related ocs:C10070,
+        ocs:C11087,
+        ocs:C2073,
+        ocs:C3343,
+        ocs:C4,
+        ocs:C852 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2258 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adleman–Pomerance–Rumely_primality_test> ;
+    skos:prefLabel "Adleman–Pomerance–Rumely primality test" ;
+    skos:related ocs:C10,
+        ocs:C2309,
+        ocs:C3158,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C40241,
+        ocs:C44312,
+        ocs:C5815,
+        ocs:C8660 .
+

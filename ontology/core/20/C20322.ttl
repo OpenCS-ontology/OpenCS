@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20322 a skos:Concept ;
+    skos:broader ocs:C1972,
+        ocs:C6291 ;
+    skos:prefLabel "Bayes decision rule" .
+

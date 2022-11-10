@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11445 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Runway> ;
+    skos:prefLabel "Runway" ;
+    skos:related ocs:C20572,
+        ocs:C22758,
+        ocs:C26346,
+        ocs:C4597 .
+

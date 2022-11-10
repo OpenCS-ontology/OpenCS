@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12666 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/SkyDSL> ;
+    skos:prefLabel "SkyDSL" ;
+    skos:related ocs:C1733,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C24335,
+        ocs:C26580,
+        ocs:C27447,
+        ocs:C2917,
+        ocs:C29601,
+        ocs:C2988,
+        ocs:C30432,
+        ocs:C34141,
+        ocs:C34505,
+        ocs:C37037,
+        ocs:C41630,
+        ocs:C42167,
+        ocs:C4433,
+        ocs:C7857,
+        ocs:C9327 .
+

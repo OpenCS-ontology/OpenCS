@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28285 a skos:Concept ;
+    skos:broader ocs:C10554,
+        ocs:C5298,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-scale_approaches> ;
+    skos:prefLabel "Multi-scale approaches" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C11253,
+        ocs:C14863,
+        ocs:C20514,
+        ocs:C2216,
+        ocs:C24607,
+        ocs:C26688,
+        ocs:C28754,
+        ocs:C31108,
+        ocs:C31308,
+        ocs:C32156,
+        ocs:C34512,
+        ocs:C37582,
+        ocs:C7,
+        ocs:C8499 .
+

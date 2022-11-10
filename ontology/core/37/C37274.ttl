@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37274 a skos:Concept ;
+    skos:broader ocs:C27613 ;
+    skos:closeMatch <http://dbpedia.org/resource/EPCIS> ;
+    skos:prefLabel "EPCIS" ;
+    skos:related ocs:C10904,
+        ocs:C11084,
+        ocs:C11861,
+        ocs:C11927,
+        ocs:C12755,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C20957,
+        ocs:C22668,
+        ocs:C26,
+        ocs:C26603,
+        ocs:C27613,
+        ocs:C28941,
+        ocs:C32652,
+        ocs:C40346,
+        ocs:C4917,
+        ocs:C525,
+        ocs:C5465 .
+

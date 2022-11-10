@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11143 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_life> ;
+    skos:prefLabel "Artificial life" ;
+    skos:related ocs:C1,
+        ocs:C10997,
+        ocs:C122,
+        ocs:C13746,
+        ocs:C14921,
+        ocs:C17236,
+        ocs:C25010,
+        ocs:C27563,
+        ocs:C5496,
+        ocs:C7256,
+        ocs:C7334,
+        ocs:C7553,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9373 .
+

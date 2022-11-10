@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38628 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Halo_antenna> ;
+    skos:prefLabel "Halo antenna" ;
+    skos:related ocs:C10185,
+        ocs:C1219,
+        ocs:C15030,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C25341,
+        ocs:C37939,
+        ocs:C39964,
+        ocs:C41367,
+        ocs:C41732,
+        ocs:C42721,
+        ocs:C44463,
+        ocs:C44637,
+        ocs:C45716,
+        ocs:C9691 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34118 a skos:Concept ;
+    skos:broader ocs:C19223 ;
+    skos:closeMatch <http://dbpedia.org/resource/Klee's_measure_problem> ;
+    skos:prefLabel "Klee's measure problem" ;
+    skos:related ocs:C10,
+        ocs:C19352,
+        ocs:C20674,
+        ocs:C23346,
+        ocs:C25248,
+        ocs:C25338,
+        ocs:C26515,
+        ocs:C43751,
+        ocs:C611,
+        ocs:C7461,
+        ocs:C7677,
+        ocs:C8519,
+        ocs:C8660 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22750 a skos:Concept ;
+    skos:broader ocs:C8890 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inductive_bias> ;
+    skos:prefLabel "Inductive bias" ;
+    skos:related ocs:C13,
+        ocs:C13677,
+        ocs:C14849,
+        ocs:C15879,
+        ocs:C1834,
+        ocs:C18566,
+        ocs:C18966,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C21157,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C26398,
+        ocs:C31543,
+        ocs:C41650,
+        ocs:C424,
+        ocs:C44492,
+        ocs:C5401,
+        ocs:C6021,
+        ocs:C9779 .
+

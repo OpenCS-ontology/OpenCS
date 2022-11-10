@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5311 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Case_role> ;
+    skos:prefLabel "Case role" ;
+    skos:related ocs:C12270,
+        ocs:C13868,
+        ocs:C15178,
+        ocs:C15202,
+        ocs:C16635,
+        ocs:C1952,
+        ocs:C20209,
+        ocs:C20344,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C22126,
+        ocs:C23300,
+        ocs:C24499,
+        ocs:C26884,
+        ocs:C27343,
+        ocs:C31787,
+        ocs:C3261,
+        ocs:C9533 .
+

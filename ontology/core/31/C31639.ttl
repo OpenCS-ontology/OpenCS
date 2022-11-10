@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31639 a skos:Concept ;
+    skos:broader ocs:C21331 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryogenic_particle_detectors> ;
+    skos:prefLabel "Cryogenic particle detectors" ;
+    skos:related ocs:C22283,
+        ocs:C32531,
+        ocs:C33383,
+        ocs:C36714 .
+

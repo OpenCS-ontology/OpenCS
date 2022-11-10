@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2497 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Qualifier value" ;
+    skos:related ocs:C13369,
+        ocs:C2,
+        ocs:C40140,
+        ocs:C7006,
+        ocs:C7127,
+        ocs:C7800 .
+

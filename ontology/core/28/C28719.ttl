@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28719 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Field-sequential_color_system> ;
+    skos:prefLabel "Field-sequential color system" ;
+    skos:related ocs:C10700,
+        ocs:C12390,
+        ocs:C15700,
+        ocs:C1724,
+        ocs:C22257,
+        ocs:C27086,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C5996,
+        ocs:C6942,
+        ocs:C8021 .
+

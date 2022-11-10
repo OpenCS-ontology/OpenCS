@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19049 a skos:Concept ;
+    skos:broader ocs:C5660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Risk_management_tools> ;
+    skos:prefLabel "Risk management tools" ;
+    skos:related ocs:C14133,
+        ocs:C22064,
+        ocs:C28631,
+        ocs:C9874 .
+

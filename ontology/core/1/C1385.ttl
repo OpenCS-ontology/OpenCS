@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1385 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dot_product> ;
+    skos:prefLabel "Dot product" ;
+    skos:related ocs:C1884,
+        ocs:C20124,
+        ocs:C28787,
+        ocs:C5332,
+        ocs:C8749 .
+

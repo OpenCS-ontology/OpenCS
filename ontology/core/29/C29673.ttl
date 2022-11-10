@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29673 a skos:Concept ;
+    skos:broader ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fusion_frame> ;
+    skos:prefLabel "Fusion frame" ;
+    skos:related ocs:C10554,
+        ocs:C1220,
+        ocs:C14325,
+        ocs:C26792,
+        ocs:C26827,
+        ocs:C28787,
+        ocs:C33700,
+        ocs:C33779,
+        ocs:C33860,
+        ocs:C42698,
+        ocs:C6863 .
+

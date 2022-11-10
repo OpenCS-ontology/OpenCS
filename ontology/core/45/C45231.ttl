@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45231 a skos:Concept ;
+    skos:broader ocs:C32506 ;
+    skos:closeMatch <http://dbpedia.org/resource/GML_Application_Schemas> ;
+    skos:prefLabel "GML application schema" ;
+    skos:related ocs:C10637,
+        ocs:C10987,
+        ocs:C11927,
+        ocs:C14846,
+        ocs:C1651,
+        ocs:C19460,
+        ocs:C2260,
+        ocs:C23709,
+        ocs:C23889,
+        ocs:C2438,
+        ocs:C24477,
+        ocs:C29317,
+        ocs:C3430,
+        ocs:C38885,
+        ocs:C40725,
+        ocs:C43712,
+        ocs:C4835,
+        ocs:C5552 .
+

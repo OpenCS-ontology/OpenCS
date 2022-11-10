@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12692 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human_multitasking> ;
+    skos:prefLabel "Human multitasking" ;
+    skos:related ocs:C11657,
+        ocs:C1212,
+        ocs:C13003,
+        ocs:C15483,
+        ocs:C29320,
+        ocs:C387,
+        ocs:C9113 .
+

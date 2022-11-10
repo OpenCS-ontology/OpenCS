@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20048 a skos:Concept ;
+    skos:broader ocs:C669 ;
+    skos:closeMatch <http://dbpedia.org/resource/Helicopter_noise_reduction> ;
+    skos:prefLabel "Helicopter noise reduction" ;
+    skos:related ocs:C7008 .
+

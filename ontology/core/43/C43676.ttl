@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43676 a skos:Concept ;
+    skos:broader ocs:C32503 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monte_Carlo_methods_in_finance> ;
+    skos:prefLabel "Monte Carlo methods in finance" ;
+    skos:related ocs:C41778 .
+

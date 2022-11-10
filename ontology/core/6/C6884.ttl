@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6884 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ditto_mark> ;
+    skos:prefLabel "Ditto mark" ;
+    skos:related ocs:C11699,
+        ocs:C12547,
+        ocs:C23011,
+        ocs:C4755,
+        ocs:C4922,
+        ocs:C5126,
+        ocs:C5870,
+        ocs:C6293 .
+

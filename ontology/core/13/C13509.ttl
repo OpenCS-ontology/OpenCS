@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13509 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frame_rate> ;
+    skos:prefLabel "Frame rate" ;
+    skos:related ocs:C10409,
+        ocs:C11324,
+        ocs:C12544,
+        ocs:C13679,
+        ocs:C15700,
+        ocs:C18519,
+        ocs:C1904,
+        ocs:C21207,
+        ocs:C21609,
+        ocs:C22257,
+        ocs:C2722,
+        ocs:C28881,
+        ocs:C38826,
+        ocs:C4448,
+        ocs:C8,
+        ocs:C8021 .
+

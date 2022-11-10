@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18096 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microstrip_antenna> ;
+    skos:prefLabel "Microstrip antenna" ;
+    skos:related ocs:C1219,
+        ocs:C17577,
+        ocs:C25341,
+        ocs:C32554,
+        ocs:C38796,
+        ocs:C39709,
+        ocs:C41433,
+        ocs:C42721,
+        ocs:C43033,
+        ocs:C43141,
+        ocs:C5397,
+        ocs:C6913,
+        ocs:C9691 .
+

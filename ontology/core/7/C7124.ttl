@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7124 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Getaddrinfo> ;
+    skos:prefLabel "getaddrinfo" ;
+    skos:related ocs:C1165,
+        ocs:C14990,
+        ocs:C18213,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C24348,
+        ocs:C26114,
+        ocs:C2674,
+        ocs:C28346,
+        ocs:C30757,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C37732,
+        ocs:C38824,
+        ocs:C41442,
+        ocs:C43015,
+        ocs:C43392,
+        ocs:C9 .
+

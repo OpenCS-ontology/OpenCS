@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9543 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watershed_(image_processing)> ;
+    skos:prefLabel "Watershed" ;
+    skos:related ocs:C14414,
+        ocs:C14863,
+        ocs:C22681,
+        ocs:C24211,
+        ocs:C24607,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C29175,
+        ocs:C29738,
+        ocs:C31013,
+        ocs:C38215,
+        ocs:C40344,
+        ocs:C40681,
+        ocs:C44133,
+        ocs:C44175,
+        ocs:C44268,
+        ocs:C4876,
+        ocs:C8969 .
+

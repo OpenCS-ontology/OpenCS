@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23497 a skos:Concept ;
+    skos:broader ocs:C622 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloth_modeling> ;
+    skos:prefLabel "Cloth modeling" ;
+    skos:related ocs:C11689,
+        ocs:C17237,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C223,
+        ocs:C23564,
+        ocs:C24205,
+        ocs:C26812,
+        ocs:C2927,
+        ocs:C36542,
+        ocs:C5300,
+        ocs:C8399 .
+

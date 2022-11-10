@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43498 a skos:Concept ;
+    skos:broader ocs:C35232,
+        ocs:C35696 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truncation_(geometry)> ;
+    skos:prefLabel "Truncation (geometry)" ;
+    skos:related ocs:C34506,
+        ocs:C38670,
+        ocs:C38990 .
+

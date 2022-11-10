@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5367 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paxos_(computer_science)> ;
+    skos:prefLabel "Paxos" ;
+    skos:related ocs:C11403,
+        ocs:C14150,
+        ocs:C17272,
+        ocs:C19153,
+        ocs:C198,
+        ocs:C26260,
+        ocs:C26617,
+        ocs:C28412,
+        ocs:C30,
+        ocs:C34694,
+        ocs:C34712,
+        ocs:C37330,
+        ocs:C37365,
+        ocs:C39455,
+        ocs:C45370,
+        ocs:C6173,
+        ocs:C6750,
+        ocs:C7562 .
+

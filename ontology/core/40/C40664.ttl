@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40664 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Raw_audio_format> ;
+    skos:prefLabel "Raw audio format" ;
+    skos:related ocs:C10778,
+        ocs:C12152,
+        ocs:C1263,
+        ocs:C1507,
+        ocs:C19484,
+        ocs:C20647,
+        ocs:C22654,
+        ocs:C25934,
+        ocs:C26575,
+        ocs:C2937,
+        ocs:C34571,
+        ocs:C37917,
+        ocs:C40311,
+        ocs:C42272,
+        ocs:C5464,
+        ocs:C6775,
+        ocs:C6791,
+        ocs:C7255,
+        ocs:C8237 .
+

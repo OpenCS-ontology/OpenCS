@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31009 a skos:Concept ;
+    skos:broader ocs:C15413,
+        ocs:C28779 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orbit_modeling> ;
+    skos:prefLabel "Orbit modeling" ;
+    skos:related ocs:C31029,
+        ocs:C37916 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41666 a skos:Concept ;
+    skos:broader ocs:C36448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Macroscopic_traffic_flow_model> ;
+    skos:prefLabel "Macroscopic traffic flow model" ;
+    skos:related ocs:C15127,
+        ocs:C16234,
+        ocs:C27525,
+        ocs:C30949,
+        ocs:C31393,
+        ocs:C3390,
+        ocs:C34071,
+        ocs:C36448,
+        ocs:C39139,
+        ocs:C41753,
+        ocs:C43067,
+        ocs:C4694,
+        ocs:C6243 .
+

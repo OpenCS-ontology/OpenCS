@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31736 a skos:Concept ;
+    skos:broader ocs:C14921,
+        ocs:C27563 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_Congress_on_Evolutionary_Computation> ;
+    skos:prefLabel "IEEE Congress on Evolutionary Computation" ;
+    skos:related ocs:C10390,
+        ocs:C10396,
+        ocs:C12530,
+        ocs:C13610,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C17236,
+        ocs:C19750,
+        ocs:C20846,
+        ocs:C27563,
+        ocs:C28522,
+        ocs:C2989,
+        ocs:C36567,
+        ocs:C37049,
+        ocs:C44532,
+        ocs:C45377,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C8 .
+

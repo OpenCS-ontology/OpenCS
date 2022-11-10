@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38520 a skos:Concept ;
+    skos:broader ocs:C29902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_normal_deviate> ;
+    skos:prefLabel "Standard normal deviate" ;
+    skos:related ocs:C1844,
+        ocs:C25862,
+        ocs:C36941,
+        ocs:C38209,
+        ocs:C38568,
+        ocs:C41148,
+        ocs:C44669,
+        ocs:C5505,
+        ocs:C9326 .
+

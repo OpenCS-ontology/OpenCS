@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2582 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Repeater> ;
+    skos:prefLabel "Repeater" ;
+    skos:related ocs:C12942,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C19903,
+        ocs:C26,
+        ocs:C27572,
+        ocs:C3,
+        ocs:C34890,
+        ocs:C35301,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7502,
+        ocs:C8169,
+        ocs:C9113 .
+

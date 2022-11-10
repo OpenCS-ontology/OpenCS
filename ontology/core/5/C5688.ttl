@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5688 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C35 ;
+    skos:prefLabel "Account Administrator" ;
+    skos:related ocs:C11371,
+        ocs:C12,
+        ocs:C16740,
+        ocs:C20540,
+        ocs:C257,
+        ocs:C4433,
+        ocs:C5,
+        ocs:C5160,
+        ocs:C6185,
+        ocs:C6754,
+        ocs:C7006 .
+

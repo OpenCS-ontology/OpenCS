@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43995 a skos:Concept ;
+    skos:broader ocs:C29902,
+        ocs:C30269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exchangeable_random_variables> ;
+    skos:prefLabel "Exchangeable random variables" ;
+    skos:related ocs:C14620,
+        ocs:C1844,
+        ocs:C23888,
+        ocs:C35061,
+        ocs:C44833 .
+

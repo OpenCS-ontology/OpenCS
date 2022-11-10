@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33475 a skos:Concept ;
+    skos:broader ocs:C16257 ;
+    skos:prefLabel "Stiff knee gait" ;
+    skos:related ocs:C17222,
+        ocs:C37758,
+        ocs:C7848 .
+

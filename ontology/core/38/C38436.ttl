@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38436 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search-based_software_engineering> ;
+    skos:prefLabel "Search-based software engineering" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C1253,
+        ocs:C13610,
+        ocs:C14921,
+        ocs:C2057,
+        ocs:C23250,
+        ocs:C23580,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29055,
+        ocs:C35202,
+        ocs:C35575,
+        ocs:C36438,
+        ocs:C3837,
+        ocs:C41788,
+        ocs:C5041,
+        ocs:C7465,
+        ocs:C7553 .
+

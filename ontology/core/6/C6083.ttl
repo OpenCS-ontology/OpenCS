@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6083 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Matte_display> ;
+    skos:prefLabel "Matte display" ;
+    skos:related ocs:C1084,
+        ocs:C17088,
+        ocs:C20850,
+        ocs:C22257,
+        ocs:C2241,
+        ocs:C22528,
+        ocs:C32920,
+        ocs:C5577,
+        ocs:C6338,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C9605 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12587 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/State_transition_table> ;
+    skos:prefLabel "State transition table" ;
+    skos:related ocs:C1,
+        ocs:C11885,
+        ocs:C13855,
+        ocs:C14235,
+        ocs:C15002,
+        ocs:C17566,
+        ocs:C19560,
+        ocs:C21398,
+        ocs:C22100,
+        ocs:C22699,
+        ocs:C24721,
+        ocs:C27087,
+        ocs:C28640,
+        ocs:C30272,
+        ocs:C3168,
+        ocs:C33825,
+        ocs:C37207,
+        ocs:C39850,
+        ocs:C8791 .
+

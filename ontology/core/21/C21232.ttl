@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21232 a skos:Concept ;
+    skos:broader ocs:C5619,
+        ocs:C8711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Capability-based_security> ;
+    skos:prefLabel "Capability-based security" ;
+    skos:related ocs:C10720,
+        ocs:C11396,
+        ocs:C16295,
+        ocs:C1641,
+        ocs:C19557,
+        ocs:C22929,
+        ocs:C22970,
+        ocs:C26097,
+        ocs:C30365,
+        ocs:C32076,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35388,
+        ocs:C38271,
+        ocs:C41159,
+        ocs:C6458,
+        ocs:C7476,
+        ocs:C8711,
+        ocs:C9 .
+

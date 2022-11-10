@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4002 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Server-Gated_Cryptography> ;
+    skos:prefLabel "Server-Gated Cryptography" ;
+    skos:related ocs:C13720,
+        ocs:C14539,
+        ocs:C16125,
+        ocs:C16338,
+        ocs:C18946,
+        ocs:C24131,
+        ocs:C27571,
+        ocs:C28401,
+        ocs:C28881,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C34625,
+        ocs:C38524,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C43717,
+        ocs:C45747,
+        ocs:C5471 .
+

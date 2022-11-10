@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22987 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_flow_graph> ;
+    skos:prefLabel "Control flow graph" ;
+    skos:related ocs:C1,
+        ocs:C1083,
+        ocs:C12257,
+        ocs:C12846,
+        ocs:C14693,
+        ocs:C15414,
+        ocs:C21201,
+        ocs:C24591,
+        ocs:C25139,
+        ocs:C26339,
+        ocs:C27080,
+        ocs:C29056,
+        ocs:C29708,
+        ocs:C3448,
+        ocs:C35741,
+        ocs:C38162,
+        ocs:C4321,
+        ocs:C5500,
+        ocs:C6072 .
+

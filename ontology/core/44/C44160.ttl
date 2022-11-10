@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44160 a skos:Concept ;
+    skos:broader ocs:C30215 ;
+    skos:closeMatch <http://dbpedia.org/resource/All-pairs_testing> ;
+    skos:prefLabel "All-pairs testing" ;
+    skos:related ocs:C11282,
+        ocs:C1135,
+        ocs:C18099,
+        ocs:C18415,
+        ocs:C27605,
+        ocs:C32613,
+        ocs:C34507,
+        ocs:C40291,
+        ocs:C41866,
+        ocs:C42310,
+        ocs:C42333,
+        ocs:C45493,
+        ocs:C6149 .
+

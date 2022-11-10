@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44680 a skos:Concept ;
+    skos:broader ocs:C29621,
+        ocs:C29638 ;
+    skos:prefLabel "Pangasius conchophilus" ;
+    skos:related ocs:C24236,
+        ocs:C29621,
+        ocs:C31809,
+        ocs:C37621,
+        ocs:C40766 .
+

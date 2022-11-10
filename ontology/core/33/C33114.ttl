@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33114 a skos:Concept ;
+    skos:broader ocs:C21364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delay_equalization> ;
+    skos:prefLabel "Delay equalization" ;
+    skos:related ocs:C12092,
+        ocs:C15194,
+        ocs:C19401,
+        ocs:C20514,
+        ocs:C23074,
+        ocs:C3530,
+        ocs:C41790,
+        ocs:C5042,
+        ocs:C529 .
+

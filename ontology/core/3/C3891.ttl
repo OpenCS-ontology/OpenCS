@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3891 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_problem> ;
+    skos:prefLabel "Computational problem" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11372,
+        ocs:C11701,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C29,
+        ocs:C33982,
+        ocs:C34139,
+        ocs:C3619,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C40477,
+        ocs:C524,
+        ocs:C6819,
+        ocs:C8660,
+        ocs:C9450 .
+

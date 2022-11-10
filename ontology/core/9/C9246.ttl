@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9246 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elementary_event> ;
+    skos:prefLabel "Elementary event" ;
+    skos:related ocs:C15256,
+        ocs:C15797,
+        ocs:C1844,
+        ocs:C20043,
+        ocs:C246,
+        ocs:C25039,
+        ocs:C2726,
+        ocs:C33093,
+        ocs:C42482,
+        ocs:C6291 .
+

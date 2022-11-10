@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18390 a skos:Concept ;
+    skos:broader ocs:C1290 ;
+    skos:closeMatch <http://dbpedia.org/resource/RAM_image> ;
+    skos:prefLabel "RAM image" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C14162,
+        ocs:C14350,
+        ocs:C15529,
+        ocs:C20557,
+        ocs:C21266,
+        ocs:C26451,
+        ocs:C29213,
+        ocs:C31346,
+        ocs:C3998,
+        ocs:C4259,
+        ocs:C44123,
+        ocs:C45812,
+        ocs:C6223,
+        ocs:C9 .
+

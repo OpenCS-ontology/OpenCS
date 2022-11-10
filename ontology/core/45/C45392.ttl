@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45392 a skos:Concept ;
+    skos:broader ocs:C33135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truncated_triakis_tetrahedron> ;
+    skos:prefLabel "Truncated triakis tetrahedron" ;
+    skos:related ocs:C30619,
+        ocs:C35696,
+        ocs:C38702,
+        ocs:C41829,
+        ocs:C43632,
+        ocs:C9372 .
+

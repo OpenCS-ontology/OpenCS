@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37703 a skos:Concept ;
+    skos:broader ocs:C20804 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fusion_center> ;
+    skos:prefLabel "Fusion center" ;
+    skos:related ocs:C11290,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C29462,
+        ocs:C36545,
+        ocs:C37237,
+        ocs:C4984,
+        ocs:C7113 .
+

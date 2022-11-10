@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22952 a skos:Concept ;
+    skos:broader ocs:C622,
+        ocs:C9606 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kinetic_typography> ;
+    skos:prefLabel "Kinetic typography" ;
+    skos:related ocs:C1034,
+        ocs:C11548,
+        ocs:C2135,
+        ocs:C22755,
+        ocs:C26965,
+        ocs:C27256,
+        ocs:C622,
+        ocs:C6416,
+        ocs:C9606 .
+

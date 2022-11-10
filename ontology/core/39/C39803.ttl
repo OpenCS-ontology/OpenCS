@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39803 a skos:Concept ;
+    skos:broader ocs:C30824 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superintelligence> ;
+    skos:prefLabel "Superintelligence" ;
+    skos:related ocs:C10396,
+        ocs:C11381,
+        ocs:C12009,
+        ocs:C13328,
+        ocs:C13580,
+        ocs:C1492,
+        ocs:C3848,
+        ocs:C7163,
+        ocs:C7351,
+        ocs:C8 .
+

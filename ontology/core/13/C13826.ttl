@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13826 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_map> ;
+    skos:prefLabel "Resource map" ;
+    skos:related ocs:C11462,
+        ocs:C11595,
+        ocs:C13280,
+        ocs:C14418,
+        ocs:C15008,
+        ocs:C23568,
+        ocs:C32413,
+        ocs:C33709,
+        ocs:C34436,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C4335,
+        ocs:C6553,
+        ocs:C9096 .
+

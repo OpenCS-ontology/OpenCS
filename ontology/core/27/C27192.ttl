@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27192 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manning_formula> ;
+    skos:prefLabel "Manning formula" ;
+    skos:related ocs:C13207,
+        ocs:C23751,
+        ocs:C24140,
+        ocs:C28577 .
+

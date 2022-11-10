@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45013 a skos:Concept ;
+    skos:broader ocs:C32048,
+        ocs:C34470,
+        ocs:C35996,
+        ocs:C36112 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniform_binary_search> ;
+    skos:prefLabel "Uniform binary search" ;
+    skos:related ocs:C14255,
+        ocs:C16150,
+        ocs:C21370,
+        ocs:C26753,
+        ocs:C27129,
+        ocs:C28030,
+        ocs:C29055,
+        ocs:C29978,
+        ocs:C34716,
+        ocs:C37936,
+        ocs:C38371,
+        ocs:C38856,
+        ocs:C39287,
+        ocs:C39360,
+        ocs:C4027,
+        ocs:C40956,
+        ocs:C41603,
+        ocs:C6693,
+        ocs:C7224 .
+

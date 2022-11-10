@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8704 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scheduling_(computing)> ;
+    skos:prefLabel "Scheduling (computing)" ;
+    skos:related ocs:C10320,
+        ocs:C12683,
+        ocs:C15595,
+        ocs:C16953,
+        ocs:C20800,
+        ocs:C2353,
+        ocs:C27,
+        ocs:C27574,
+        ocs:C30218,
+        ocs:C31489,
+        ocs:C33,
+        ocs:C39574,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C5912,
+        ocs:C9 .
+

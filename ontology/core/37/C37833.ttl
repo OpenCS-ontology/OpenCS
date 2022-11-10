@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37833 a skos:Concept ;
+    skos:broader ocs:C31106,
+        ocs:C31482,
+        ocs:C35368,
+        ocs:C36445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Steinhaus–Johnson–Trotter_algorithm> ;
+    skos:prefLabel "Steinhaus–Johnson–Trotter algorithm" ;
+    skos:related ocs:C11282,
+        ocs:C18804,
+        ocs:C19033,
+        ocs:C23311,
+        ocs:C29280,
+        ocs:C31106,
+        ocs:C33771,
+        ocs:C35163,
+        ocs:C36814,
+        ocs:C43256,
+        ocs:C5037 .
+

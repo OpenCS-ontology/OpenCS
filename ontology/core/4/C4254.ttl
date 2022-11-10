@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4254 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/MTD-f> ;
+    skos:prefLabel "MTD-f" ;
+    skos:related ocs:C13317,
+        ocs:C18256,
+        ocs:C21370,
+        ocs:C32048,
+        ocs:C34688,
+        ocs:C40237,
+        ocs:C43080,
+        ocs:C43808,
+        ocs:C4594,
+        ocs:C6759,
+        ocs:C6920,
+        ocs:C6945 .
+

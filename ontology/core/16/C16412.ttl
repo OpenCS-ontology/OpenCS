@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16412 a skos:Concept ;
+    skos:broader ocs:C4641,
+        ocs:C6753,
+        ocs:C7006,
+        ocs:C8614 ;
+    skos:prefLabel "MIME protocol" ;
+    skos:related ocs:C11705,
+        ocs:C4641,
+        ocs:C5196 .
+

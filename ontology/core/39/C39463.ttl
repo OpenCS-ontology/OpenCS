@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39463 a skos:Concept ;
+    skos:broader ocs:C36950 ;
+    skos:closeMatch <http://dbpedia.org/resource/Madtom> ;
+    skos:prefLabel "Madtom" ;
+    skos:related ocs:C15911,
+        ocs:C24236,
+        ocs:C33059,
+        ocs:C34324,
+        ocs:C38386,
+        ocs:C39930,
+        ocs:C39959,
+        ocs:C39985,
+        ocs:C43827 .
+

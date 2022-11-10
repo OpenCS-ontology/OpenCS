@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45255 a skos:Concept ;
+    skos:broader ocs:C32852 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triaenodes> ;
+    skos:prefLabel "Triaenodes" ;
+    skos:related ocs:C30893,
+        ocs:C32852,
+        ocs:C35255,
+        ocs:C36318,
+        ocs:C44394 .
+

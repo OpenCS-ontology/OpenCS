@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24338 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C2674,
+        ocs:C8895 ;
+    skos:closeMatch <http://dbpedia.org/resource/API_testing> ;
+    skos:prefLabel "API testing" ;
+    skos:related ocs:C10904,
+        ocs:C11084,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C22597,
+        ocs:C25956,
+        ocs:C2674,
+        ocs:C28275,
+        ocs:C28941,
+        ocs:C29131,
+        ocs:C36470,
+        ocs:C38585,
+        ocs:C40346,
+        ocs:C41038,
+        ocs:C45107,
+        ocs:C6780,
+        ocs:C8268 .
+

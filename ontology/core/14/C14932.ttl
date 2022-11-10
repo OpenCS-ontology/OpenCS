@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14932 a skos:Concept ;
+    skos:broader ocs:C11705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_billing> ;
+    skos:prefLabel "Medical billing" ;
+    skos:related ocs:C10524,
+        ocs:C26644,
+        ocs:C28085,
+        ocs:C36147 .
+

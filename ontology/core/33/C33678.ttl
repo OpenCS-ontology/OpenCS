@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33678 a skos:Concept ;
+    skos:broader ocs:C17386,
+        ocs:C22014,
+        ocs:C25412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kilonova> ;
+    skos:prefLabel "Kilonova" ;
+    skos:related ocs:C20110,
+        ocs:C21622,
+        ocs:C31515,
+        ocs:C34618,
+        ocs:C35073,
+        ocs:C37491,
+        ocs:C44452 .
+

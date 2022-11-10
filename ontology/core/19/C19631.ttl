@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19631 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C4512,
+        ocs:C4865,
+        ocs:C5511 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quasi-peak_detector> ;
+    skos:prefLabel "Quasi-peak detector" ;
+    skos:related ocs:C10409,
+        ocs:C12582,
+        ocs:C14001,
+        ocs:C14621,
+        ocs:C15505,
+        ocs:C16548,
+        ocs:C18001,
+        ocs:C19669,
+        ocs:C25381,
+        ocs:C2759,
+        ocs:C28411,
+        ocs:C2975,
+        ocs:C41991,
+        ocs:C5511,
+        ocs:C8563,
+        ocs:C8637 .
+

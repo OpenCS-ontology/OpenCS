@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19375 a skos:Concept ;
+    skos:broader ocs:C1023,
+        ocs:C4201,
+        ocs:C5251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Near_sets> ;
+    skos:prefLabel "Near sets" ;
+    skos:related ocs:C19190,
+        ocs:C21,
+        ocs:C27650,
+        ocs:C623 .
+

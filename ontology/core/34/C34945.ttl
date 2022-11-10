@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34945 a skos:Concept ;
+    skos:broader ocs:C15664,
+        ocs:C27883 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Power_Format> ;
+    skos:prefLabel "Common Power Format" ;
+    skos:related ocs:C10137,
+        ocs:C10965,
+        ocs:C14650,
+        ocs:C15664,
+        ocs:C19400,
+        ocs:C21126,
+        ocs:C254,
+        ocs:C27883,
+        ocs:C30433,
+        ocs:C35729,
+        ocs:C37773,
+        ocs:C4274,
+        ocs:C42888,
+        ocs:C6797 .
+

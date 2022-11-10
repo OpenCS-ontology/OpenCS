@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17120 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalized_randomized_block_design> ;
+    skos:prefLabel "Generalized randomized block design" ;
+    skos:related ocs:C11767,
+        ocs:C12371,
+        ocs:C13789,
+        ocs:C29421,
+        ocs:C5713 .
+

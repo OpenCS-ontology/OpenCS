@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32115 a skos:Concept ;
+    skos:broader ocs:C16953 ;
+    skos:closeMatch <http://dbpedia.org/resource/DATAPAC> ;
+    skos:prefLabel "DATAPAC" ;
+    skos:related ocs:C1144,
+        ocs:C1204,
+        ocs:C13130,
+        ocs:C13629,
+        ocs:C16953,
+        ocs:C2066,
+        ocs:C23155,
+        ocs:C24563,
+        ocs:C25133,
+        ocs:C26,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C33193,
+        ocs:C36766,
+        ocs:C6766,
+        ocs:C6861,
+        ocs:C8614,
+        ocs:C9443,
+        ocs:C978 .
+

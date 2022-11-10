@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32504 a skos:Concept ;
+    skos:broader ocs:C16740,
+        ocs:C22753,
+        ocs:C25306,
+        ocs:C27460 ;
+    skos:closeMatch <http://dbpedia.org/resource/EFTPOS> ;
+    skos:prefLabel "EFTPOS" ;
+    skos:related ocs:C10270,
+        ocs:C12752,
+        ocs:C16740,
+        ocs:C18629,
+        ocs:C21054,
+        ocs:C22776,
+        ocs:C26112,
+        ocs:C28424,
+        ocs:C28781,
+        ocs:C31096,
+        ocs:C33193,
+        ocs:C34589,
+        ocs:C35630,
+        ocs:C37095,
+        ocs:C41037,
+        ocs:C8437 .
+

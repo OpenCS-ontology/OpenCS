@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29177 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sidewinding> ;
+    skos:prefLabel "Sidewinding" ;
+    skos:related ocs:C10144,
+        ocs:C14629,
+        ocs:C16527,
+        ocs:C17409,
+        ocs:C18371,
+        ocs:C20380,
+        ocs:C32523,
+        ocs:C35770,
+        ocs:C41806 .
+

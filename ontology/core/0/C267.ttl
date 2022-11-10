@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C267 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Granular_synthesis> ;
+    skos:prefLabel "Granular synthesis" ;
+    skos:related ocs:C11254,
+        ocs:C13694,
+        ocs:C14262,
+        ocs:C1449,
+        ocs:C1950,
+        ocs:C40768,
+        ocs:C4397,
+        ocs:C520,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8718 .
+

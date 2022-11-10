@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6965 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_SMTP> ;
+    skos:prefLabel "Extended SMTP" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C14983,
+        ocs:C20205,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C24903,
+        ocs:C31410,
+        ocs:C39499,
+        ocs:C40986,
+        ocs:C42304,
+        ocs:C4641,
+        ocs:C5126,
+        ocs:C7938,
+        ocs:C8614,
+        ocs:C9162 .
+

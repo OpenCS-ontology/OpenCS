@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40820 a skos:Concept ;
+    skos:broader ocs:C30211,
+        ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/Udhcpc> ;
+    skos:prefLabel "Udhcpc" ;
+    skos:related ocs:C11501,
+        ocs:C11775,
+        ocs:C1243,
+        ocs:C1687,
+        ocs:C1730,
+        ocs:C18390,
+        ocs:C22751,
+        ocs:C25043,
+        ocs:C26907,
+        ocs:C29868,
+        ocs:C42065,
+        ocs:C44123,
+        ocs:C5296,
+        ocs:C543,
+        ocs:C6223 .
+

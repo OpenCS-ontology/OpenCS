@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26946 a skos:Concept ;
+    skos:broader ocs:C4756 ;
+    skos:closeMatch <http://dbpedia.org/resource/Higman's_lemma> ;
+    skos:prefLabel "Higman's lemma" ;
+    skos:related ocs:C10922,
+        ocs:C31555,
+        ocs:C38069,
+        ocs:C40361,
+        ocs:C41182,
+        ocs:C42066,
+        ocs:C42244,
+        ocs:C43266,
+        ocs:C45225 .
+

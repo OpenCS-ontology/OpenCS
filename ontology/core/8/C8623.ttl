@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8623 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Legal_matter_management> ;
+    skos:prefLabel "Legal matter management" ;
+    skos:related ocs:C10092,
+        ocs:C1399,
+        ocs:C14584,
+        ocs:C17093,
+        ocs:C18084,
+        ocs:C23103,
+        ocs:C24688,
+        ocs:C3312,
+        ocs:C41003,
+        ocs:C8614 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25350 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schur_test> ;
+    skos:prefLabel "Schur test" ;
+    skos:related ocs:C11150,
+        ocs:C14551,
+        ocs:C16025,
+        ocs:C20235,
+        ocs:C26263,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31018,
+        ocs:C36808,
+        ocs:C40375,
+        ocs:C41141,
+        ocs:C45267 .
+

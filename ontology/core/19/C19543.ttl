@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19543 a skos:Concept ;
+    skos:broader ocs:C7040 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vocabulary_development> ;
+    skos:prefLabel "Vocabulary development" ;
+    skos:related ocs:C11932,
+        ocs:C13096,
+        ocs:C18736,
+        ocs:C23243,
+        ocs:C2761,
+        ocs:C33308,
+        ocs:C4531,
+        ocs:C7467 .
+

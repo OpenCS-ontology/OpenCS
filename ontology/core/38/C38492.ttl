@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38492 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baryancistrus> ;
+    skos:prefLabel "Baryancistrus" ;
+    skos:related ocs:C36328,
+        ocs:C36744,
+        ocs:C37950,
+        ocs:C38286,
+        ocs:C41121,
+        ocs:C41847,
+        ocs:C42528,
+        ocs:C42810,
+        ocs:C44786 .
+

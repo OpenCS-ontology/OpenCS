@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36873 a skos:Concept ;
+    skos:broader ocs:C20691,
+        ocs:C24323 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_global_synchronization> ;
+    skos:prefLabel "TCP global synchronization" ;
+    skos:related ocs:C15065,
+        ocs:C16851,
+        ocs:C20691,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C34789,
+        ocs:C36201,
+        ocs:C37329,
+        ocs:C37577,
+        ocs:C38698,
+        ocs:C38818,
+        ocs:C39947,
+        ocs:C39948,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C42554,
+        ocs:C44036 .
+

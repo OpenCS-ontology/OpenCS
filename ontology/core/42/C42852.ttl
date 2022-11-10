@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42852 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Additive_color> ;
+    skos:prefLabel "Additive color" ;
+    skos:related ocs:C12053,
+        ocs:C13544,
+        ocs:C15310,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C23675,
+        ocs:C32992,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099,
+        ocs:C966 .
+

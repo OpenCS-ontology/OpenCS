@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34131 a skos:Concept ;
+    skos:broader ocs:C15234,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robocrane> ;
+    skos:prefLabel "Robocrane" ;
+    skos:related ocs:C11593,
+        ocs:C14326,
+        ocs:C15234,
+        ocs:C22684,
+        ocs:C30191,
+        ocs:C33887,
+        ocs:C38055,
+        ocs:C3987,
+        ocs:C41360,
+        ocs:C41527,
+        ocs:C6881,
+        ocs:C7003,
+        ocs:C8759 .
+

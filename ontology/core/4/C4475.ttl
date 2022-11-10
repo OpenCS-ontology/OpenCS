@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4475 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document> ;
+    skos:prefLabel "Paper document" ;
+    skos:related ocs:C13024,
+        ocs:C1498,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C24859,
+        ocs:C26337,
+        ocs:C6069,
+        ocs:C6999,
+        ocs:C7006,
+        ocs:C8021,
+        ocs:C8614,
+        ocs:C9993 .
+

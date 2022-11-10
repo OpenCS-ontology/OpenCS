@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37372 a skos:Concept ;
+    skos:broader ocs:C19827 ;
+    skos:closeMatch <http://dbpedia.org/resource/Drilidae> ;
+    skos:prefLabel "Drilidae" ;
+    skos:related ocs:C36246,
+        ocs:C38668,
+        ocs:C42703 .
+

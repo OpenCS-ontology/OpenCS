@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30928 a skos:Concept ;
+    skos:broader ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Body-to-body_communication> ;
+    skos:prefLabel "Body-to-body communication" ;
+    skos:related ocs:C15966,
+        ocs:C2480,
+        ocs:C24825,
+        ocs:C32017,
+        ocs:C7858 .
+

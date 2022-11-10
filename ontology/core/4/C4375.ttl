@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4375 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:prefLabel "Exocortex" ;
+    skos:related ocs:C10396,
+        ocs:C12009,
+        ocs:C1253,
+        ocs:C1387,
+        ocs:C22849,
+        ocs:C39803,
+        ocs:C8 .
+

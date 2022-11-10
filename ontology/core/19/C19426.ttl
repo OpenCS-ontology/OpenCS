@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19426 a skos:Concept ;
+    skos:broader ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Optical_modulator> ;
+    skos:prefLabel "Optical modulator" ;
+    skos:related ocs:C19816,
+        ocs:C32224 .
+

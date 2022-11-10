@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20383 a skos:Concept ;
+    skos:broader ocs:C6221,
+        ocs:C9538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multilinear_subspace_learning> ;
+    skos:prefLabel "Multilinear subspace learning" ;
+    skos:related ocs:C1306,
+        ocs:C20003,
+        ocs:C20124,
+        ocs:C21,
+        ocs:C22492,
+        ocs:C25,
+        ocs:C4256,
+        ocs:C6912,
+        ocs:C9538 .
+

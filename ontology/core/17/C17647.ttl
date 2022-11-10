@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17647 a skos:Concept ;
+    skos:broader ocs:C13307 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attack_patterns> ;
+    skos:prefLabel "Attack patterns" ;
+    skos:related ocs:C10214,
+        ocs:C16481,
+        ocs:C22836,
+        ocs:C2359,
+        ocs:C27557,
+        ocs:C2767,
+        ocs:C2941,
+        ocs:C29950,
+        ocs:C30926,
+        ocs:C32485,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C39016,
+        ocs:C39522,
+        ocs:C45494,
+        ocs:C4651,
+        ocs:C6286 .
+

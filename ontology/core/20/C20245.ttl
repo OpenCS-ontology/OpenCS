@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20245 a skos:Concept ;
+    skos:broader ocs:C10619,
+        ocs:C4804,
+        ocs:C5706,
+        ocs:C5745,
+        ocs:C9486 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fetch-and-add> ;
+    skos:prefLabel "Fetch-and-add" ;
+    skos:related ocs:C13315,
+        ocs:C15481,
+        ocs:C21551,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C32786,
+        ocs:C39243,
+        ocs:C44555,
+        ocs:C4651,
+        ocs:C4804,
+        ocs:C5198,
+        ocs:C5495,
+        ocs:C5551,
+        ocs:C8204,
+        ocs:C9776 .
+

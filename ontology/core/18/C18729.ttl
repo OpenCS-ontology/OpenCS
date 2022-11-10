@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18729 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monocrystalline_whisker> ;
+    skos:prefLabel "Monocrystalline whisker" ;
+    skos:related ocs:C20271,
+        ocs:C22741,
+        ocs:C23870,
+        ocs:C24699 .
+

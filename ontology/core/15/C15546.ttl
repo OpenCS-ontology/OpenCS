@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15546 a skos:Concept ;
+    skos:broader ocs:C2469,
+        ocs:C4201,
+        ocs:C7161 ;
+    skos:prefLabel "Probabilistic approximations" .
+

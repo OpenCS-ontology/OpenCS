@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4438 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_literacy> ;
+    skos:prefLabel "Digital literacy" ;
+    skos:related ocs:C11645,
+        ocs:C15894,
+        ocs:C16055,
+        ocs:C19350,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C25968,
+        ocs:C3067,
+        ocs:C31,
+        ocs:C3119,
+        ocs:C3444,
+        ocs:C6219,
+        ocs:C6529,
+        ocs:C8614 .
+

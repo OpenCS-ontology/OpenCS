@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13210 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonology> ;
+    skos:prefLabel "Phonology" ;
+    skos:related ocs:C1034,
+        ocs:C12222,
+        ocs:C12486,
+        ocs:C13096,
+        ocs:C1451,
+        ocs:C17395,
+        ocs:C2025,
+        ocs:C22147,
+        ocs:C2298,
+        ocs:C2761,
+        ocs:C27886,
+        ocs:C2847,
+        ocs:C308,
+        ocs:C6361,
+        ocs:C7501,
+        ocs:C8020,
+        ocs:C9777 .
+

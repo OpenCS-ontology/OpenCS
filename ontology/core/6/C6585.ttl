@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6585 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/OODA_loop> ;
+    skos:prefLabel "OODA loop" ;
+    skos:related ocs:C2139,
+        ocs:C28057,
+        ocs:C33610,
+        ocs:C3910,
+        ocs:C4523,
+        ocs:C4754,
+        ocs:C5252,
+        ocs:C9224 .
+

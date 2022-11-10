@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5969 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthonormal_basis> ;
+    skos:prefLabel "Orthonormal basis" ;
+    skos:related ocs:C1220,
+        ocs:C1385,
+        ocs:C14325,
+        ocs:C19348,
+        ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C31450,
+        ocs:C33700,
+        ocs:C36974 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7393 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Locative_media> ;
+    skos:prefLabel "Locative media" ;
+    skos:related ocs:C11555,
+        ocs:C12387,
+        ocs:C12641,
+        ocs:C1338,
+        ocs:C14032,
+        ocs:C17,
+        ocs:C23901,
+        ocs:C2605,
+        ocs:C29012,
+        ocs:C4398,
+        ocs:C4917,
+        ocs:C5088,
+        ocs:C5926,
+        ocs:C6219,
+        ocs:C9047,
+        ocs:C9113,
+        ocs:C9603 .
+

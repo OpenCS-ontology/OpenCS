@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13748 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Propagation_of_uncertainty> ;
+    skos:prefLabel "Propagation of uncertainty" ;
+    skos:related ocs:C11811,
+        ocs:C23554,
+        ocs:C26880,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C9051 .
+

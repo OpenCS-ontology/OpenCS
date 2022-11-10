@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C316 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_poisoning> ;
+    skos:prefLabel "Bayesian poisoning" ;
+    skos:related ocs:C10966,
+        ocs:C13302,
+        ocs:C14620,
+        ocs:C16362,
+        ocs:C17567,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C31805,
+        ocs:C37829,
+        ocs:C37946,
+        ocs:C39499,
+        ocs:C39988,
+        ocs:C40986,
+        ocs:C42277,
+        ocs:C44519,
+        ocs:C5960,
+        ocs:C706,
+        ocs:C9287 .
+

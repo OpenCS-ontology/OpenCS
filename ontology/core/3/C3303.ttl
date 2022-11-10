@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3303 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complex_Projects_Contract> ;
+    skos:prefLabel "Complex Projects Contract" ;
+    skos:related ocs:C23437,
+        ocs:C28080,
+        ocs:C30932,
+        ocs:C41586,
+        ocs:C4558 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10974 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intermediate_frequency> ;
+    skos:prefLabel "Intermediate frequency" ;
+    skos:related ocs:C10376,
+        ocs:C14053,
+        ocs:C18001,
+        ocs:C20333,
+        ocs:C28744,
+        ocs:C33619,
+        ocs:C40139,
+        ocs:C4427,
+        ocs:C44707,
+        ocs:C5369,
+        ocs:C7159,
+        ocs:C7502,
+        ocs:C8348 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42688 a skos:Concept ;
+    skos:broader ocs:C31484,
+        ocs:C32049,
+        ocs:C32321,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Forney_algorithm> ;
+    skos:prefLabel "Forney algorithm" ;
+    skos:related ocs:C15232,
+        ocs:C21380,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C32049,
+        ocs:C39131,
+        ocs:C39340,
+        ocs:C39924,
+        ocs:C40267,
+        ocs:C40592,
+        ocs:C41221,
+        ocs:C43048,
+        ocs:C44108,
+        ocs:C44119,
+        ocs:C44265,
+        ocs:C44441,
+        ocs:C6402 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36819 a skos:Concept ;
+    skos:broader ocs:C27969 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stipa_spartea> ;
+    skos:prefLabel "Stipa spartea" ;
+    skos:related ocs:C19519,
+        ocs:C27969,
+        ocs:C31132 .
+

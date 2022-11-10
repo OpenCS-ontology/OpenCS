@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43898 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Midpoint_polygon> ;
+    skos:prefLabel "Midpoint polygon" ;
+    skos:related ocs:C10672,
+        ocs:C13409,
+        ocs:C32462,
+        ocs:C34973,
+        ocs:C45740 .
+

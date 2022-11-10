@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40266 a skos:Concept ;
+    skos:broader ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/CSS_code> ;
+    skos:prefLabel "CSS code" ;
+    skos:related ocs:C11296,
+        ocs:C30001,
+        ocs:C32290,
+        ocs:C32510,
+        ocs:C34469,
+        ocs:C39891,
+        ocs:C40373,
+        ocs:C42003,
+        ocs:C44265 .
+

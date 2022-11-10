@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20169 a skos:Concept ;
+    skos:broader ocs:C1332 ;
+    skos:closeMatch <http://dbpedia.org/resource/Investor_relations> ;
+    skos:prefLabel "Investor relations" ;
+    skos:related ocs:C1517 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41965 a skos:Concept ;
+    skos:broader ocs:C34490 ;
+    skos:closeMatch <http://dbpedia.org/resource/Major_intrinsic_proteins> ;
+    skos:prefLabel "Major intrinsic proteins" ;
+    skos:related ocs:C23973,
+        ocs:C29218,
+        ocs:C37746 .
+

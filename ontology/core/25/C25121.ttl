@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25121 a skos:Concept ;
+    skos:broader ocs:C9704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collaborative_information_seeking> ;
+    skos:prefLabel "Collaborative information seeking" ;
+    skos:related ocs:C10225,
+        ocs:C11087,
+        ocs:C11107,
+        ocs:C11682,
+        ocs:C13349,
+        ocs:C15193,
+        ocs:C211,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C26012,
+        ocs:C34391,
+        ocs:C37105,
+        ocs:C3795,
+        ocs:C38799,
+        ocs:C420,
+        ocs:C672,
+        ocs:C8869,
+        ocs:C9704,
+        ocs:C9876 .
+

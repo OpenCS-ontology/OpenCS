@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16928 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_video> ;
+    skos:prefLabel "Internet video" ;
+    skos:related ocs:C12576,
+        ocs:C18985,
+        ocs:C29378,
+        ocs:C35703,
+        ocs:C4433,
+        ocs:C8614 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44073 a skos:Concept ;
+    skos:broader ocs:C33378 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skew_binomial_heap> ;
+    skos:prefLabel "Skew binomial heap" ;
+    skos:related ocs:C39664,
+        ocs:C43160 .
+

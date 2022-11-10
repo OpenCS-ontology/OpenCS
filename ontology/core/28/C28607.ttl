@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28607 a skos:Concept ;
+    skos:broader ocs:C3736 ;
+    skos:prefLabel "Linear naevus" ;
+    skos:related ocs:C31,
+        ocs:C4 .
+

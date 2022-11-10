@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43668 a skos:Concept ;
+    skos:broader ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_Engineering_Process_Group> ;
+    skos:prefLabel "Software Engineering Process Group" ;
+    skos:related ocs:C1035,
+        ocs:C20241,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C36599,
+        ocs:C37174,
+        ocs:C39208,
+        ocs:C41007,
+        ocs:C41111,
+        ocs:C42972,
+        ocs:C43030,
+        ocs:C43434,
+        ocs:C43994,
+        ocs:C44802,
+        ocs:C44988,
+        ocs:C45401,
+        ocs:C4558,
+        ocs:C45629,
+        ocs:C688 .
+

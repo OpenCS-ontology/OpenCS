@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4642 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peer_instruction> ;
+    skos:prefLabel "Peer instruction" ;
+    skos:related ocs:C11050,
+        ocs:C17812,
+        ocs:C2762 .
+

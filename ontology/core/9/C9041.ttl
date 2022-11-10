@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9041 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search/Retrieve_via_URL> ;
+    skos:prefLabel "Search/Retrieve via URL" ;
+    skos:related ocs:C10904,
+        ocs:C23,
+        ocs:C23088,
+        ocs:C28801,
+        ocs:C31312,
+        ocs:C38799,
+        ocs:C3983,
+        ocs:C40049,
+        ocs:C428,
+        ocs:C4781,
+        ocs:C6790,
+        ocs:C922,
+        ocs:C9251 .
+

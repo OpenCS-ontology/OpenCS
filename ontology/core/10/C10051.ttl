@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10051 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Three-dimensional_space> ;
+    skos:prefLabel "Three-dimensional space" ;
+    skos:related ocs:C1385,
+        ocs:C1884,
+        ocs:C597,
+        ocs:C9690 .
+

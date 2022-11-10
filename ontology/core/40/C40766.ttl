@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40766 a skos:Concept ;
+    skos:broader ocs:C29638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Helicophagus> ;
+    skos:prefLabel "Helicophagus" ;
+    skos:related ocs:C29621,
+        ocs:C29638,
+        ocs:C35372,
+        ocs:C38348,
+        ocs:C42044,
+        ocs:C42957,
+        ocs:C43000,
+        ocs:C44472 .
+

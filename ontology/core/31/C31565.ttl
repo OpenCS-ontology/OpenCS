@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31565 a skos:Concept ;
+    skos:broader ocs:C17134 ;
+    skos:closeMatch <http://dbpedia.org/resource/Penguin_diagram> ;
+    skos:prefLabel "Penguin diagram" ;
+    skos:related ocs:C36244 .
+

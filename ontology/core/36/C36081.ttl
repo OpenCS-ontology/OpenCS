@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36081 a skos:Concept ;
+    skos:broader ocs:C17251,
+        ocs:C17723,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_scheduling> ;
+    skos:prefLabel "Loop scheduling" ;
+    skos:related ocs:C11556,
+        ocs:C1721,
+        ocs:C17698,
+        ocs:C19326,
+        ocs:C19876,
+        ocs:C20856,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C25210,
+        ocs:C26582,
+        ocs:C27,
+        ocs:C30,
+        ocs:C30556,
+        ocs:C33100,
+        ocs:C36763,
+        ocs:C3948,
+        ocs:C7345 .
+

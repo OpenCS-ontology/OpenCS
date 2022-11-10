@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2424 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/UTC_offset> ;
+    skos:prefLabel "UTC offset" ;
+    skos:related ocs:C11251,
+        ocs:C15442,
+        ocs:C19672,
+        ocs:C2107,
+        ocs:C8560,
+        ocs:C9026 .
+

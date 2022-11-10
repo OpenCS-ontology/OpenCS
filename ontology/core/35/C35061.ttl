@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35061 a skos:Concept ;
+    skos:broader ocs:C27667 ;
+    skos:closeMatch <http://dbpedia.org/resource/U-statistic> ;
+    skos:prefLabel "U-statistic" ;
+    skos:related ocs:C13685,
+        ocs:C21628,
+        ocs:C22258,
+        ocs:C25294,
+        ocs:C27667,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C37544,
+        ocs:C41362,
+        ocs:C43995,
+        ocs:C45149 .
+

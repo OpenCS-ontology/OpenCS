@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16365 a skos:Concept ;
+    skos:broader ocs:C2411,
+        ocs:C5714 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disjunction_and_existence_properties> ;
+    skos:prefLabel "Disjunction and existence properties" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C16190,
+        ocs:C16614,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C33304,
+        ocs:C37584,
+        ocs:C43476,
+        ocs:C45912,
+        ocs:C4969,
+        ocs:C5714,
+        ocs:C7901 .
+

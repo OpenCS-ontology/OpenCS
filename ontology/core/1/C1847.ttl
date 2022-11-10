@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1847 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_WebSphere_ESB> ;
+    skos:prefLabel "IBM WebSphere ESB" ;
+    skos:related ocs:C10904,
+        ocs:C12185,
+        ocs:C13252,
+        ocs:C1496,
+        ocs:C17238,
+        ocs:C18361,
+        ocs:C22597,
+        ocs:C24252,
+        ocs:C26260,
+        ocs:C30649,
+        ocs:C31667,
+        ocs:C36422,
+        ocs:C41310,
+        ocs:C42500,
+        ocs:C44843,
+        ocs:C45768,
+        ocs:C45883,
+        ocs:C9049,
+        ocs:C9164 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26399 a skos:Concept ;
+    skos:broader ocs:C7201,
+        ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neutron_Star_Interior_Composition_Explorer> ;
+    skos:prefLabel "Neutron Star Interior Composition Explorer" ;
+    skos:related ocs:C1628,
+        ocs:C23481,
+        ocs:C26824,
+        ocs:C29692,
+        ocs:C32326,
+        ocs:C35073,
+        ocs:C36594,
+        ocs:C37491,
+        ocs:C42136,
+        ocs:C42725,
+        ocs:C597,
+        ocs:C7201 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17871 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_Harvesting> ;
+    skos:prefLabel "Information Harvesting" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C18117,
+        ocs:C18966,
+        ocs:C19537,
+        ocs:C2321,
+        ocs:C2364,
+        ocs:C25,
+        ocs:C25462,
+        ocs:C25520,
+        ocs:C26398,
+        ocs:C26825,
+        ocs:C36272,
+        ocs:C38984,
+        ocs:C45823,
+        ocs:C8367,
+        ocs:C9874 .
+

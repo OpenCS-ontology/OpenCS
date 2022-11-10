@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22931 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Models_of_neural_computation> ;
+    skos:prefLabel "Models of neural computation" ;
+    skos:related ocs:C13933,
+        ocs:C20126,
+        ocs:C24856,
+        ocs:C3932,
+        ocs:C9854 .
+

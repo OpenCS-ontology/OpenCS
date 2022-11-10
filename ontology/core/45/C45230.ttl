@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45230 a skos:Concept ;
+    skos:broader ocs:C32349 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topological_combinatorics> ;
+    skos:prefLabel "Topological combinatorics" ;
+    skos:related ocs:C14693,
+        ocs:C29076,
+        ocs:C34507 .
+

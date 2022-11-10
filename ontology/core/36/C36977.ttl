@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36977 a skos:Concept ;
+    skos:broader ocs:C13933 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hindmarsh–Rose_model> ;
+    skos:prefLabel "Hindmarsh–Rose model" ;
+    skos:related ocs:C13933,
+        ocs:C14264,
+        ocs:C20126,
+        ocs:C32749,
+        ocs:C36128,
+        ocs:C37841,
+        ocs:C39387 .
+

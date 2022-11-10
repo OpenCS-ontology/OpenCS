@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35963 a skos:Concept ;
+    skos:broader ocs:C26649 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boinae> ;
+    skos:prefLabel "Boinae" ;
+    skos:related ocs:C26649,
+        ocs:C30202,
+        ocs:C32445,
+        ocs:C32523,
+        ocs:C34008,
+        ocs:C35869 .
+

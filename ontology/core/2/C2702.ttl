@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2702 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perplexity> ;
+    skos:prefLabel "Perplexity" ;
+    skos:related ocs:C10767,
+        ocs:C11722,
+        ocs:C12737,
+        ocs:C1844,
+        ocs:C20377,
+        ocs:C2119,
+        ocs:C23888,
+        ocs:C26690,
+        ocs:C2884,
+        ocs:C28992,
+        ocs:C30079,
+        ocs:C30657,
+        ocs:C39236,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9268 .
+

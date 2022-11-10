@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10930 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsoft_Point-to-Point_Compression> ;
+    skos:prefLabel "Microsoft Point-to-Point Compression" ;
+    skos:related ocs:C10780,
+        ocs:C20314,
+        ocs:C20323,
+        ocs:C23666,
+        ocs:C24335,
+        ocs:C26,
+        ocs:C3039,
+        ocs:C36766,
+        ocs:C4040,
+        ocs:C41466,
+        ocs:C6609,
+        ocs:C787,
+        ocs:C9269 .
+

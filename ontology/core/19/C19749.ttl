@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19749 a skos:Concept ;
+    skos:broader ocs:C12485 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computation_of_cyclic_redundancy_checks> ;
+    skos:prefLabel "Computation of cyclic redundancy checks" ;
+    skos:related ocs:C10696,
+        ocs:C12485,
+        ocs:C21496,
+        ocs:C42169,
+        ocs:C43107,
+        ocs:C44441,
+        ocs:C4584,
+        ocs:C45881,
+        ocs:C490 .
+

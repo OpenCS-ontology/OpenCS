@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12581 a skos:Concept ;
+    skos:broader ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Natural_mapping_(interface_design)> ;
+    skos:prefLabel "Natural mapping" ;
+    skos:related ocs:C11034,
+        ocs:C11483,
+        ocs:C13413,
+        ocs:C18,
+        ocs:C18494,
+        ocs:C21847,
+        ocs:C23020,
+        ocs:C26160,
+        ocs:C26634,
+        ocs:C29670,
+        ocs:C34564,
+        ocs:C39960,
+        ocs:C4292,
+        ocs:C44413,
+        ocs:C5232,
+        ocs:C7736,
+        ocs:C7937,
+        ocs:C8269,
+        ocs:C9607 .
+

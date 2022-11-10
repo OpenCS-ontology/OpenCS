@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25760 a skos:Concept ;
+    skos:broader ocs:C6594 ;
+    skos:closeMatch <http://dbpedia.org/resource/Killed_process> ;
+    skos:prefLabel "Killed process" ;
+    skos:related ocs:C15256,
+        ocs:C18102,
+        ocs:C18619,
+        ocs:C22334,
+        ocs:C33043,
+        ocs:C38529,
+        ocs:C6594,
+        ocs:C6909 .
+

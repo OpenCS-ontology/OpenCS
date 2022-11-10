@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21414 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/End_distortion> ;
+    skos:prefLabel "End distortion" ;
+    skos:related ocs:C1312,
+        ocs:C16335,
+        ocs:C17404,
+        ocs:C19401,
+        ocs:C2534,
+        ocs:C26814,
+        ocs:C27907,
+        ocs:C31813,
+        ocs:C3692,
+        ocs:C3843,
+        ocs:C5928,
+        ocs:C6034 .
+

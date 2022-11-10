@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41348 a skos:Concept ;
+    skos:broader ocs:C36407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Credal_set> ;
+    skos:prefLabel "Credal set" ;
+    skos:related ocs:C14928,
+        ocs:C22598,
+        ocs:C22686,
+        ocs:C31563,
+        ocs:C39812,
+        ocs:C43598 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1303 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Access_time> ;
+    skos:prefLabel "Access time" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12111,
+        ocs:C12307,
+        ocs:C13783,
+        ocs:C13875,
+        ocs:C24323,
+        ocs:C27610,
+        ocs:C3,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C3915,
+        ocs:C4259,
+        ocs:C8706,
+        ocs:C8782,
+        ocs:C9 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26424 a skos:Concept ;
+    skos:broader ocs:C10052,
+        ocs:C9741 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_resource_management> ;
+    skos:prefLabel "Electronic resource management" ;
+    skos:related ocs:C10245,
+        ocs:C11492,
+        ocs:C14421,
+        ocs:C23088,
+        ocs:C23192,
+        ocs:C23629,
+        ocs:C24639,
+        ocs:C26604,
+        ocs:C3214,
+        ocs:C37477,
+        ocs:C3896,
+        ocs:C41375,
+        ocs:C5832,
+        ocs:C5877,
+        ocs:C8770,
+        ocs:C9692 .
+

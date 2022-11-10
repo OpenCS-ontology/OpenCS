@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43307 a skos:Concept ;
+    skos:broader ocs:C30651,
+        ocs:C31845,
+        ocs:C32129 ;
+    skos:closeMatch <http://dbpedia.org/resource/Law_of_thought> ;
+    skos:prefLabel "Law of thought" ;
+    skos:related ocs:C10825,
+        ocs:C11060,
+        ocs:C12474,
+        ocs:C13255,
+        ocs:C21328,
+        ocs:C25442,
+        ocs:C2978,
+        ocs:C29948,
+        ocs:C32129,
+        ocs:C3894,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C5714,
+        ocs:C7931,
+        ocs:C8077 .
+

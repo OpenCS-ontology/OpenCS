@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7672 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/H.239> ;
+    skos:prefLabel "H.239" ;
+    skos:related ocs:C12273,
+        ocs:C12583,
+        ocs:C13718,
+        ocs:C13944,
+        ocs:C22654,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C34719,
+        ocs:C37498,
+        ocs:C39501,
+        ocs:C4166,
+        ocs:C420,
+        ocs:C45044,
+        ocs:C4530,
+        ocs:C4710,
+        ocs:C6861,
+        ocs:C8515 .
+

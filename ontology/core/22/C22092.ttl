@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22092 a skos:Concept ;
+    skos:broader ocs:C1844,
+        ocs:C9326 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moment-generating_function> ;
+    skos:prefLabel "Moment-generating function" ;
+    skos:related ocs:C13262,
+        ocs:C15797,
+        ocs:C16163,
+        ocs:C1844,
+        ocs:C36941,
+        ocs:C9326 .
+

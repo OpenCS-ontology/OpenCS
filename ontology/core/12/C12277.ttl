@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12277 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_704> ;
+    skos:prefLabel "IBM 704" ;
+    skos:related ocs:C10320,
+        ocs:C10772,
+        ocs:C1130,
+        ocs:C12262,
+        ocs:C1253,
+        ocs:C15312,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C19487,
+        ocs:C20669,
+        ocs:C21718,
+        ocs:C3450,
+        ocs:C4321,
+        ocs:C4397,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C7735,
+        ocs:C8441,
+        ocs:C9 .
+

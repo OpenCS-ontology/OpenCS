@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2011 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Approximation_theory> ;
+    skos:prefLabel "Approximation theory" ;
+    skos:related ocs:C28942,
+        ocs:C8781 .
+

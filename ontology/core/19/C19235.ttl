@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19235 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lasius_alienus> ;
+    skos:prefLabel "Lasius alienus" ;
+    skos:related ocs:C13998,
+        ocs:C14496,
+        ocs:C18993,
+        ocs:C20332,
+        ocs:C21004,
+        ocs:C28251,
+        ocs:C30017,
+        ocs:C34823 .
+

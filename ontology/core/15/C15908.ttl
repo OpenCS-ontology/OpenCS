@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15908 a skos:Concept ;
+    skos:broader ocs:C10382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cluster_labeling> ;
+    skos:prefLabel "Cluster labeling" ;
+    skos:related ocs:C10767,
+        ocs:C1844,
+        ocs:C19499,
+        ocs:C27705,
+        ocs:C2874,
+        ocs:C312,
+        ocs:C3736,
+        ocs:C42910,
+        ocs:C5816,
+        ocs:C6021,
+        ocs:C8332,
+        ocs:C9287,
+        ocs:C972 .
+

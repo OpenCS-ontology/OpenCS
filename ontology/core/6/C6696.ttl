@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6696 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scenario_(computing)> ;
+    skos:prefLabel "Scenario" ;
+    skos:related ocs:C18576,
+        ocs:C21443,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C24477,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C32390,
+        ocs:C32547,
+        ocs:C34658,
+        ocs:C37447,
+        ocs:C37831,
+        ocs:C40907,
+        ocs:C40918,
+        ocs:C41590,
+        ocs:C4292,
+        ocs:C44902,
+        ocs:C7736,
+        ocs:C924 .
+

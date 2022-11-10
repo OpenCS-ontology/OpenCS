@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43818 a skos:Concept ;
+    skos:broader ocs:C35163 ;
+    skos:closeMatch <http://dbpedia.org/resource/Golomb–Dickman_constant> ;
+    skos:prefLabel "Golomb–Dickman constant" ;
+    skos:related ocs:C11282,
+        ocs:C14269,
+        ocs:C25024,
+        ocs:C29280,
+        ocs:C31106,
+        ocs:C35163,
+        ocs:C40487,
+        ocs:C41066 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26991 a skos:Concept ;
+    skos:broader ocs:C10320,
+        ocs:C11093 ;
+    skos:closeMatch <http://dbpedia.org/resource/CPU_socket> ;
+    skos:prefLabel "CPU socket" ;
+    skos:related ocs:C10320,
+        ocs:C11261,
+        ocs:C14856,
+        ocs:C15167,
+        ocs:C19487,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C33838,
+        ocs:C38463,
+        ocs:C9542 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12500 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glu3d> ;
+    skos:prefLabel "Glu3d" ;
+    skos:related ocs:C10426,
+        ocs:C11450,
+        ocs:C12577,
+        ocs:C12832,
+        ocs:C13260,
+        ocs:C18519,
+        ocs:C19559,
+        ocs:C20960,
+        ocs:C2409,
+        ocs:C27256,
+        ocs:C27489,
+        ocs:C35225,
+        ocs:C5300,
+        ocs:C7682,
+        ocs:C8399 .
+

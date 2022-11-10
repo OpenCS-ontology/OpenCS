@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21746 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blogosphere> ;
+    skos:prefLabel "Blogosphere" ;
+    skos:related ocs:C2190,
+        ocs:C22668,
+        ocs:C31,
+        ocs:C40049,
+        ocs:C4500,
+        ocs:C4712,
+        ocs:C4819,
+        ocs:C6757,
+        ocs:C6762,
+        ocs:C6968,
+        ocs:C8614 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15784 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Netizen> ;
+    skos:prefLabel "Netizen" ;
+    skos:related ocs:C11398,
+        ocs:C11943,
+        ocs:C14032,
+        ocs:C16181,
+        ocs:C18683,
+        ocs:C20044,
+        ocs:C26014,
+        ocs:C27784,
+        ocs:C4712,
+        ocs:C8614 .
+

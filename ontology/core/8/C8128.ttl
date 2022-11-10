@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8128 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Maintainability> ;
+    skos:prefLabel "Maintainability" ;
+    skos:related ocs:C10720,
+        ocs:C1253,
+        ocs:C14329,
+        ocs:C23394,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C31890,
+        ocs:C32978,
+        ocs:C35202,
+        ocs:C44902,
+        ocs:C45212,
+        ocs:C45366,
+        ocs:C947,
+        ocs:C9607 .
+

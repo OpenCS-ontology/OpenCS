@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17865 a skos:Concept ;
+    skos:broader ocs:C7995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Road_traffic_safety> ;
+    skos:prefLabel "Road traffic safety" ;
+    skos:related ocs:C16884,
+        ocs:C16896,
+        ocs:C21412,
+        ocs:C435,
+        ocs:C43680,
+        ocs:C5558,
+        ocs:C5633,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

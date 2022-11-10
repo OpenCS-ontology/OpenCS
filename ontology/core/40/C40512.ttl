@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40512 a skos:Concept ;
+    skos:broader ocs:C37748 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layers_(digital_image_editing)> ;
+    skos:prefLabel "Layers" ;
+    skos:related ocs:C10466,
+        ocs:C13155,
+        ocs:C21158,
+        ocs:C22256,
+        ocs:C2366,
+        ocs:C2409,
+        ocs:C30704,
+        ocs:C41932,
+        ocs:C4584,
+        ocs:C5297,
+        ocs:C797,
+        ocs:C9215 .
+

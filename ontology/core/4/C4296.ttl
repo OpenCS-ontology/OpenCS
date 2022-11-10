@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4296 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Verification_and_validation> ;
+    skos:prefLabel "Verification procedure" ;
+    skos:related ocs:C16,
+        ocs:C16125,
+        ocs:C2,
+        ocs:C30,
+        ocs:C3231,
+        ocs:C33,
+        ocs:C3401,
+        ocs:C7006,
+        ocs:C7733 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4462 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Holland's_schema_theorem> ;
+    skos:prefLabel "Holland's schema theorem" ;
+    skos:related ocs:C13633,
+        ocs:C14353,
+        ocs:C20226,
+        ocs:C22243,
+        ocs:C27563,
+        ocs:C29424,
+        ocs:C30212,
+        ocs:C32353,
+        ocs:C35139,
+        ocs:C35733,
+        ocs:C38697,
+        ocs:C40760,
+        ocs:C45180,
+        ocs:C7553,
+        ocs:C8516,
+        ocs:C9484 .
+

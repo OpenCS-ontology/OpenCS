@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6828 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:prefLabel "Note taker" ;
+    skos:related ocs:C13009,
+        ocs:C1338,
+        ocs:C17,
+        ocs:C18,
+        ocs:C22,
+        ocs:C2369,
+        ocs:C31,
+        ocs:C8,
+        ocs:C9607 .
+

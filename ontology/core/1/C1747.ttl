@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1747 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/FBus> ;
+    skos:prefLabel "FBus" ;
+    skos:related ocs:C12918,
+        ocs:C13012,
+        ocs:C13022,
+        ocs:C17404,
+        ocs:C3357,
+        ocs:C43504,
+        ocs:C9093,
+        ocs:C9113 .
+

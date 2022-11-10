@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32661 a skos:Concept ;
+    skos:broader ocs:C28789 ;
+    skos:closeMatch <http://dbpedia.org/resource/DICOMweb> ;
+    skos:prefLabel "DICOMweb" ;
+    skos:related ocs:C11887,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C22597,
+        ocs:C28480,
+        ocs:C28789,
+        ocs:C28941,
+        ocs:C30237,
+        ocs:C3032,
+        ocs:C33447,
+        ocs:C40902,
+        ocs:C42519,
+        ocs:C4641,
+        ocs:C8302 .
+

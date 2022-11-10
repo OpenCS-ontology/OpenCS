@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7421 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vibrating_alert> ;
+    skos:prefLabel "Vibrating alert" ;
+    skos:related ocs:C11694,
+        ocs:C17999,
+        ocs:C1841,
+        ocs:C21367,
+        ocs:C21424,
+        ocs:C21761,
+        ocs:C27532,
+        ocs:C27704,
+        ocs:C36500,
+        ocs:C37065,
+        ocs:C5672,
+        ocs:C7850,
+        ocs:C8021,
+        ocs:C9113,
+        ocs:C9154 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15203 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glibenclamide> ;
+    skos:prefLabel "Glibenclamide" ;
+    skos:related ocs:C32728,
+        ocs:C33553 .
+

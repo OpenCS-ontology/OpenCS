@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6336 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_engineering> ;
+    skos:prefLabel "Business engineering" ;
+    skos:related ocs:C25464,
+        ocs:C28526,
+        ocs:C2979,
+        ocs:C29840,
+        ocs:C29983,
+        ocs:C3395,
+        ocs:C42767,
+        ocs:C44699,
+        ocs:C5869,
+        ocs:C8171 .
+

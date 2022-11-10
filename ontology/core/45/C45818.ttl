@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45818 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Supernetwork> ;
+    skos:prefLabel "Supernetwork" ;
+    skos:related ocs:C18213,
+        ocs:C20540,
+        ocs:C209,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C30247,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C43015,
+        ocs:C43513,
+        ocs:C44582,
+        ocs:C44972,
+        ocs:C5207,
+        ocs:C8517,
+        ocs:C8614 .
+

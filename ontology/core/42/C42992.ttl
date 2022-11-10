@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42992 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypoptopomatinae> ;
+    skos:prefLabel "Hypoptopomatinae" ;
+    skos:related ocs:C36328,
+        ocs:C38317,
+        ocs:C38319,
+        ocs:C39063,
+        ocs:C39857,
+        ocs:C41147,
+        ocs:C41847,
+        ocs:C41924,
+        ocs:C42314,
+        ocs:C44358,
+        ocs:C45586 .
+

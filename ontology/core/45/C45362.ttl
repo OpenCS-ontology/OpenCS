@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45362 a skos:Concept ;
+    skos:broader ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grothendieck_space> ;
+    skos:prefLabel "Grothendieck space" ;
+    skos:related ocs:C23927,
+        ocs:C24780,
+        ocs:C33679,
+        ocs:C36507,
+        ocs:C38414,
+        ocs:C39124,
+        ocs:C39925,
+        ocs:C40295,
+        ocs:C40731,
+        ocs:C41464,
+        ocs:C42981,
+        ocs:C44450 .
+

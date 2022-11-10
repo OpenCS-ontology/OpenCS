@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C908 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Statistical Mode" ;
+    skos:related ocs:C10612,
+        ocs:C21,
+        ocs:C26,
+        ocs:C6116,
+        ocs:C6395,
+        ocs:C8499,
+        ocs:C8517 .
+

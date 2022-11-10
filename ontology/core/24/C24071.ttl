@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24071 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphicacy> ;
+    skos:prefLabel "Graphicacy" ;
+    skos:related ocs:C10070,
+        ocs:C10801,
+        ocs:C11094,
+        ocs:C14316,
+        ocs:C22683,
+        ocs:C2409,
+        ocs:C27130,
+        ocs:C28080,
+        ocs:C3042,
+        ocs:C4531,
+        ocs:C4664,
+        ocs:C5862,
+        ocs:C6124 .
+

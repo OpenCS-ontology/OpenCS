@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20391 a skos:Concept ;
+    skos:broader ocs:C13785 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transponder> ;
+    skos:prefLabel "Transponder" ;
+    skos:related ocs:C12641,
+        ocs:C12942,
+        ocs:C18878,
+        ocs:C19819,
+        ocs:C2581,
+        ocs:C3,
+        ocs:C4597,
+        ocs:C4917,
+        ocs:C7216,
+        ocs:C7502,
+        ocs:C8169 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25552 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commercial_software> ;
+    skos:prefLabel "Commercial software" ;
+    skos:related ocs:C11293,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C13306,
+        ocs:C14002,
+        ocs:C14271,
+        ocs:C19,
+        ocs:C20800,
+        ocs:C24143,
+        ocs:C24871,
+        ocs:C2674,
+        ocs:C27996,
+        ocs:C28881,
+        ocs:C29047,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C5702,
+        ocs:C6,
+        ocs:C9 .
+

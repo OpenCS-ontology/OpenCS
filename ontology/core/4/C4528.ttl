@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4528 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projector> ;
+    skos:prefLabel "Projector" ;
+    skos:related ocs:C13065,
+        ocs:C21316,
+        ocs:C21755,
+        ocs:C23498,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C5841,
+        ocs:C5978,
+        ocs:C622,
+        ocs:C7698,
+        ocs:C8406 .
+

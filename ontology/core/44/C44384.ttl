@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44384 a skos:Concept ;
+    skos:broader ocs:C31162,
+        ocs:C36506 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shamir's_Secret_Sharing> ;
+    skos:prefLabel "Shamir's Secret Sharing" ;
+    skos:related ocs:C11664,
+        ocs:C14164,
+        ocs:C15232,
+        ocs:C21380,
+        ocs:C22263,
+        ocs:C27284,
+        ocs:C31266,
+        ocs:C34005,
+        ocs:C36506,
+        ocs:C39042,
+        ocs:C39716,
+        ocs:C40267,
+        ocs:C41541,
+        ocs:C41652,
+        ocs:C4218,
+        ocs:C7506,
+        ocs:C8660,
+        ocs:C8789 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10876 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hodges'_estimator> ;
+    skos:prefLabel "Hodges' estimator" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C14266,
+        ocs:C20531,
+        ocs:C22258,
+        ocs:C27667,
+        ocs:C28269,
+        ocs:C29461,
+        ocs:C30859,
+        ocs:C33312,
+        ocs:C35658,
+        ocs:C41656,
+        ocs:C45699,
+        ocs:C45849 .
+

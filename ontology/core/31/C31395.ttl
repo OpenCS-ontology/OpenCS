@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31395 a skos:Concept ;
+    skos:broader ocs:C16159,
+        ocs:C17905,
+        ocs:C23709,
+        ocs:C26630 ;
+    skos:prefLabel "Logical schema" .
+

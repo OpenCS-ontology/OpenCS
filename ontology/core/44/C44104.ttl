@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44104 a skos:Concept ;
+    skos:broader ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/Measuring_network_throughput> ;
+    skos:prefLabel "Measuring network throughput" ;
+    skos:related ocs:C10696,
+        ocs:C12111,
+        ocs:C13263,
+        ocs:C14162,
+        ocs:C15589,
+        ocs:C20314,
+        ocs:C21769,
+        ocs:C23433,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29419,
+        ocs:C3283,
+        ocs:C390,
+        ocs:C4197,
+        ocs:C613,
+        ocs:C6362 .
+

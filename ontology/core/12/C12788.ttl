@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12788 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C32 ;
+    skos:prefLabel "Textual representation" ;
+    skos:related ocs:C12257,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C30,
+        ocs:C4209,
+        ocs:C5702,
+        ocs:C6069,
+        ocs:C7733,
+        ocs:C8614,
+        ocs:C9596 .
+

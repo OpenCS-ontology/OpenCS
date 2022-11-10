@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8027 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Professional_audio> ;
+    skos:prefLabel "Professional audio" ;
+    skos:related ocs:C26575,
+        ocs:C38517,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5843,
+        ocs:C6417,
+        ocs:C8291,
+        ocs:C9481,
+        ocs:C9596 .
+

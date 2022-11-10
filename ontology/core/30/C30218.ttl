@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30218 a skos:Concept ;
+    skos:broader ocs:C17723,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Round-robin_scheduling> ;
+    skos:prefLabel "Round-robin scheduling" ;
+    skos:related ocs:C10320,
+        ocs:C12111,
+        ocs:C16953,
+        ocs:C17723,
+        ocs:C20691,
+        ocs:C2353,
+        ocs:C27568,
+        ocs:C27574,
+        ocs:C28952,
+        ocs:C39574,
+        ocs:C40303,
+        ocs:C40876,
+        ocs:C41260,
+        ocs:C41340,
+        ocs:C44036,
+        ocs:C45252,
+        ocs:C490,
+        ocs:C5912,
+        ocs:C8704,
+        ocs:C9 .
+

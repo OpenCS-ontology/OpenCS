@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1740 a skos:Concept ;
+    skos:broader ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human-based_genetic_algorithm> ;
+    skos:prefLabel "Human-based genetic algorithm" ;
+    skos:related ocs:C14353,
+        ocs:C18,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C29723,
+        ocs:C30267,
+        ocs:C32353,
+        ocs:C33012,
+        ocs:C34870,
+        ocs:C35139,
+        ocs:C36567,
+        ocs:C38066,
+        ocs:C40794,
+        ocs:C41431,
+        ocs:C42785,
+        ocs:C45377,
+        ocs:C7553,
+        ocs:C8571,
+        ocs:C8890 .
+

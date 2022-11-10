@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44842 a skos:Concept ;
+    skos:broader ocs:C30335,
+        ocs:C34421,
+        ocs:C34713 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solution_architecture> ;
+    skos:prefLabel "Solution architecture" ;
+    skos:related ocs:C14329,
+        ocs:C17238,
+        ocs:C18539,
+        ocs:C30335,
+        ocs:C31201,
+        ocs:C31894,
+        ocs:C34421,
+        ocs:C34713,
+        ocs:C38363,
+        ocs:C38667,
+        ocs:C38873,
+        ocs:C40085,
+        ocs:C40270,
+        ocs:C42204,
+        ocs:C43469,
+        ocs:C44859,
+        ocs:C45082,
+        ocs:C45437 .
+

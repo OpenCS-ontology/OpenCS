@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31034 a skos:Concept ;
+    skos:broader ocs:C17331,
+        ocs:C29465 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_network_operations> ;
+    skos:prefLabel "Computer network operations" ;
+    skos:related ocs:C10191,
+        ocs:C11146,
+        ocs:C14260,
+        ocs:C1502,
+        ocs:C27382,
+        ocs:C2769,
+        ocs:C35,
+        ocs:C6342,
+        ocs:C8458,
+        ocs:C8614,
+        ocs:C9224 .
+

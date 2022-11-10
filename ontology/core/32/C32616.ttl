@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32616 a skos:Concept ;
+    skos:broader ocs:C23932,
+        ocs:C28962 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_science> ;
+    skos:prefLabel "Open science" ;
+    skos:related ocs:C10062,
+        ocs:C13264,
+        ocs:C13698,
+        ocs:C20,
+        ocs:C23932,
+        ocs:C25430,
+        ocs:C31319,
+        ocs:C4164,
+        ocs:C597 .
+

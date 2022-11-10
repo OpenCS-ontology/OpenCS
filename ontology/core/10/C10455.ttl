@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10455 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non_sequitur_(logic)> ;
+    skos:prefLabel "Non sequitur" ;
+    skos:related ocs:C10464,
+        ocs:C1315,
+        ocs:C16037,
+        ocs:C26760,
+        ocs:C30692,
+        ocs:C38823,
+        ocs:C44811,
+        ocs:C7299,
+        ocs:C7343,
+        ocs:C9834 .
+

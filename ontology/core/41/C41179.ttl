@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41179 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C32978,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Connascence_(computer_programming)> ;
+    skos:prefLabel "Connascence" ;
+    skos:related ocs:C10779,
+        ocs:C11084,
+        ocs:C12000,
+        ocs:C15786,
+        ocs:C16530,
+        ocs:C3176,
+        ocs:C31894,
+        ocs:C41459,
+        ocs:C42395,
+        ocs:C42972,
+        ocs:C43378,
+        ocs:C45120,
+        ocs:C5308,
+        ocs:C5422,
+        ocs:C5822,
+        ocs:C7511 .
+

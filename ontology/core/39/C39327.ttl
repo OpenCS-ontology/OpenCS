@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39327 a skos:Concept ;
+    skos:broader ocs:C30658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Znám's_problem> ;
+    skos:prefLabel "Znám's problem" ;
+    skos:related ocs:C39148,
+        ocs:C3931,
+        ocs:C4697 .
+

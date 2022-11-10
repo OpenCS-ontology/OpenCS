@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29927 a skos:Concept ;
+    skos:broader ocs:C14209,
+        ocs:C22273,
+        ocs:C23247 ;
+    skos:prefLabel "Graph schema" .
+

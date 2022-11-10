@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26789 a skos:Concept ;
+    skos:broader ocs:C10612 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speckle_noise> ;
+    skos:prefLabel "Speckle noise" ;
+    skos:related ocs:C10272,
+        ocs:C10612,
+        ocs:C14268,
+        ocs:C19731,
+        ocs:C25272,
+        ocs:C27680,
+        ocs:C2933,
+        ocs:C34197,
+        ocs:C5298 .
+

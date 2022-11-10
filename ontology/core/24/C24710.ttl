@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24710 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gorgonocephalidae> ;
+    skos:prefLabel "Gorgonocephalidae" ;
+    skos:related ocs:C18918,
+        ocs:C20903,
+        ocs:C25562,
+        ocs:C34597,
+        ocs:C36636,
+        ocs:C39554,
+        ocs:C41123,
+        ocs:C43517 .
+

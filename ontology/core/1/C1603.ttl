@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1603 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_world_framework> ;
+    skos:prefLabel "Virtual world framework" ;
+    skos:related ocs:C10407,
+        ocs:C14330,
+        ocs:C17182,
+        ocs:C18213,
+        ocs:C18417,
+        ocs:C20960,
+        ocs:C21250,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24563,
+        ocs:C28637,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C34235,
+        ocs:C4197,
+        ocs:C7106,
+        ocs:C7857,
+        ocs:C8614 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37508 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Flicker perimetry" ;
+    skos:related ocs:C1,
+        ocs:C11402,
+        ocs:C13594,
+        ocs:C35129,
+        ocs:C36613,
+        ocs:C6444 .
+

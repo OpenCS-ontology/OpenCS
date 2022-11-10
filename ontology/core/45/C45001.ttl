@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45001 a skos:Concept ;
+    skos:broader ocs:C34539 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jabberwocky_sentence> ;
+    skos:prefLabel "Jabberwocky sentence" ;
+    skos:related ocs:C21670,
+        ocs:C29946,
+        ocs:C34149,
+        ocs:C34379 .
+

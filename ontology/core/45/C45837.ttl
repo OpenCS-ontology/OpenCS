@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45837 a skos:Concept ;
+    skos:broader ocs:C30857 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_quadrature> ;
+    skos:prefLabel "Adaptive quadrature" ;
+    skos:related ocs:C2011,
+        ocs:C38624,
+        ocs:C38763,
+        ocs:C40292 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2933 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Synthetic-aperture_radar> ;
+    skos:prefLabel "Synthetic aperture radar" ;
+    skos:related ocs:C25272,
+        ocs:C3059,
+        ocs:C3068,
+        ocs:C597,
+        ocs:C7909 .
+

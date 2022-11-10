@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C125 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Next-generation_network> ;
+    skos:prefLabel "Next-generation network" ;
+    skos:related ocs:C1344,
+        ocs:C13848,
+        ocs:C15589,
+        ocs:C19227,
+        ocs:C20540,
+        ocs:C2188,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C28949,
+        ocs:C29359,
+        ocs:C29603,
+        ocs:C3,
+        ocs:C3933,
+        ocs:C4433,
+        ocs:C7327,
+        ocs:C8515,
+        ocs:C8614 .
+

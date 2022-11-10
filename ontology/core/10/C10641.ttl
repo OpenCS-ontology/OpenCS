@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10641 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Belief_structure> ;
+    skos:prefLabel "Belief structure" ;
+    skos:related ocs:C36383 .
+

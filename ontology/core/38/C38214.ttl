@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38214 a skos:Concept ;
+    skos:broader ocs:C33963,
+        ocs:C37589 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polygon_triangulation> ;
+    skos:prefLabel "Polygon triangulation" ;
+    skos:related ocs:C14093,
+        ocs:C31148,
+        ocs:C32922,
+        ocs:C33963,
+        ocs:C35574,
+        ocs:C36077,
+        ocs:C36406,
+        ocs:C37589,
+        ocs:C43751,
+        ocs:C44616,
+        ocs:C44924,
+        ocs:C4867,
+        ocs:C6279,
+        ocs:C6289,
+        ocs:C8660 .
+

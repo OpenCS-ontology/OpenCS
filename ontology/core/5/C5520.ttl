@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5520 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lurker> ;
+    skos:prefLabel "Lurker" ;
+    skos:related ocs:C12095,
+        ocs:C16205,
+        ocs:C17658,
+        ocs:C18683,
+        ocs:C19754,
+        ocs:C24850,
+        ocs:C2525,
+        ocs:C25411,
+        ocs:C25752,
+        ocs:C27498,
+        ocs:C3444,
+        ocs:C4712,
+        ocs:C8614 .
+

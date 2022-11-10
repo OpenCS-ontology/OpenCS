@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32196 a skos:Concept ;
+    skos:broader ocs:C16380,
+        ocs:C16851 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bandwidth_Broker> ;
+    skos:prefLabel "Bandwidth Broker" ;
+    skos:related ocs:C139,
+        ocs:C1633,
+        ocs:C16730,
+        ocs:C16851,
+        ocs:C19170,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C21769,
+        ocs:C26,
+        ocs:C27620,
+        ocs:C31668,
+        ocs:C33900,
+        ocs:C37577,
+        ocs:C38888,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C443,
+        ocs:C45252,
+        ocs:C8614 .
+

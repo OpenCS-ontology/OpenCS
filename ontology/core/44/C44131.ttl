@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44131 a skos:Concept ;
+    skos:broader ocs:C29902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slutsky's_theorem> ;
+    skos:prefLabel "Slutsky's theorem" ;
+    skos:related ocs:C15256,
+        ocs:C33312,
+        ocs:C35310,
+        ocs:C42149,
+        ocs:C45547 .
+

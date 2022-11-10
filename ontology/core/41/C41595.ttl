@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41595 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C30438,
+        ocs:C31890,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Requirement_prioritization> ;
+    skos:prefLabel "Requirement prioritization" ;
+    skos:related ocs:C14004,
+        ocs:C17168,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C23437,
+        ocs:C28454,
+        ocs:C30438,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C32390,
+        ocs:C3895,
+        ocs:C39322,
+        ocs:C40064,
+        ocs:C44902,
+        ocs:C666 .
+

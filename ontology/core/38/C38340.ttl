@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38340 a skos:Concept ;
+    skos:broader ocs:C29901,
+        ocs:C34566,
+        ocs:C34937,
+        ocs:C36538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indexed_grammar> ;
+    skos:prefLabel "Indexed grammar" ;
+    skos:related ocs:C17732,
+        ocs:C22093,
+        ocs:C22624,
+        ocs:C25202,
+        ocs:C26158,
+        ocs:C29901,
+        ocs:C34287,
+        ocs:C35270,
+        ocs:C36538,
+        ocs:C38283,
+        ocs:C38284,
+        ocs:C39098,
+        ocs:C39250,
+        ocs:C41354,
+        ocs:C41655,
+        ocs:C42701,
+        ocs:C43348,
+        ocs:C43958,
+        ocs:C44056,
+        ocs:C524 .
+

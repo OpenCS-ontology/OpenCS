@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15348 a skos:Concept ;
+    skos:broader ocs:C12689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unish> ;
+    skos:prefLabel "Unish" ;
+    skos:related ocs:C10570,
+        ocs:C124,
+        ocs:C20344,
+        ocs:C22054,
+        ocs:C23243,
+        ocs:C23681,
+        ocs:C24250,
+        ocs:C26816,
+        ocs:C28817,
+        ocs:C2900,
+        ocs:C32159 .
+

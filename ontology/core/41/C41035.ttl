@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41035 a skos:Concept ;
+    skos:broader ocs:C35009,
+        ocs:C37461 ;
+    skos:closeMatch <http://dbpedia.org/resource/Orthogonal_instruction_set> ;
+    skos:prefLabel "Orthogonal instruction set" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10696,
+        ocs:C13025,
+        ocs:C14917,
+        ocs:C16229,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C283,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C4863,
+        ocs:C7434,
+        ocs:C8434,
+        ocs:C856 .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44455 a skos:Concept ;
+    skos:broader ocs:C30595,
+        ocs:C31379,
+        ocs:C36171,
+        ocs:C37069,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Credential_service_provider> ;
+    skos:prefLabel "Credential service provider" ;
+    skos:related ocs:C11109,
+        ocs:C17387,
+        ocs:C21951,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C23567,
+        ocs:C25612,
+        ocs:C29568,
+        ocs:C34607,
+        ocs:C36171,
+        ocs:C36898,
+        ocs:C38032,
+        ocs:C38959,
+        ocs:C41228,
+        ocs:C43100,
+        ocs:C44282,
+        ocs:C7006,
+        ocs:C7738,
+        ocs:C816 .
+

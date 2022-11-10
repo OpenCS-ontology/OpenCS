@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39480 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36279,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Path_(graph_theory)> ;
+    skos:prefLabel "Path graph" ;
+    skos:related ocs:C14693,
+        ocs:C15414,
+        ocs:C16670,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C31629,
+        ocs:C32333,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C37337,
+        ocs:C38091,
+        ocs:C38404,
+        ocs:C38781,
+        ocs:C38981,
+        ocs:C41137,
+        ocs:C44221,
+        ocs:C44630 .
+

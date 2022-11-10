@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3074 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcell> ;
+    skos:prefLabel "Microcell" ;
+    skos:related ocs:C13316,
+        ocs:C14578,
+        ocs:C20116,
+        ocs:C27983,
+        ocs:C28176,
+        ocs:C33732,
+        ocs:C37303,
+        ocs:C37543,
+        ocs:C3966,
+        ocs:C39949,
+        ocs:C40305,
+        ocs:C42007,
+        ocs:C4255,
+        ocs:C43951,
+        ocs:C45515,
+        ocs:C6114,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

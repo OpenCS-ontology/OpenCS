@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1835 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_structure_alignment> ;
+    skos:prefLabel "Data structure alignment" ;
+    skos:related ocs:C10320,
+        ocs:C10696,
+        ocs:C11258,
+        ocs:C13851,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C21718,
+        ocs:C2879,
+        ocs:C37538,
+        ocs:C39623,
+        ocs:C4321,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C6255,
+        ocs:C794,
+        ocs:C856,
+        ocs:C9 .
+

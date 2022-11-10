@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18955 a skos:Concept ;
+    skos:broader ocs:C5298 ;
+    skos:prefLabel "ECG artefacts" ;
+    skos:related ocs:C1879,
+        ocs:C5298,
+        ocs:C7 .
+

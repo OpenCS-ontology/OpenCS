@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5725 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interposition_trunk> ;
+    skos:prefLabel "Interposition trunk" ;
+    skos:related ocs:C12844,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C21891,
+        ocs:C2423,
+        ocs:C26712,
+        ocs:C32919,
+        ocs:C4343,
+        ocs:C5830,
+        ocs:C7444,
+        ocs:C8410 .
+

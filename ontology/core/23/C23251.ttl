@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23251 a skos:Concept ;
+    skos:broader ocs:C8024 ;
+    skos:closeMatch <http://dbpedia.org/resource/Super_I/O> ;
+    skos:prefLabel "Super I/O" ;
+    skos:related ocs:C10223,
+        ocs:C10320,
+        ocs:C10568,
+        ocs:C13022,
+        ocs:C14470,
+        ocs:C1810,
+        ocs:C21617,
+        ocs:C3311,
+        ocs:C38790,
+        ocs:C6220,
+        ocs:C74,
+        ocs:C8345 .
+

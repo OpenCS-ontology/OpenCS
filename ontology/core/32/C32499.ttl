@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32499 a skos:Concept ;
+    skos:broader ocs:C17179,
+        ocs:C18799,
+        ocs:C27263 ;
+    skos:prefLabel "Base station antenna array" .
+

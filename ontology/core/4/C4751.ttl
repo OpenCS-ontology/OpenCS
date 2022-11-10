@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4751 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Block_cipher_mode_of_operation> ;
+    skos:prefLabel "Block cipher mode of operation" ;
+    skos:related ocs:C17900,
+        ocs:C18803,
+        ocs:C20993,
+        ocs:C22949,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C25500,
+        ocs:C26691,
+        ocs:C29363,
+        ocs:C30768,
+        ocs:C31654,
+        ocs:C33459,
+        ocs:C34895,
+        ocs:C35391,
+        ocs:C39657,
+        ocs:C4218,
+        ocs:C44870,
+        ocs:C45551 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34816 a skos:Concept ;
+    skos:broader ocs:C22204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tactile_imaging> ;
+    skos:prefLabel "Tactile imaging" ;
+    skos:related ocs:C12976,
+        ocs:C3032 .
+

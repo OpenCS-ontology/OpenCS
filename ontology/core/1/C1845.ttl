@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1845 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Counterintelligence> ;
+    skos:prefLabel "Counterintelligence" ;
+    skos:related ocs:C11146,
+        ocs:C1331,
+        ocs:C15118,
+        ocs:C3059,
+        ocs:C37304,
+        ocs:C41300,
+        ocs:C4163,
+        ocs:C41643,
+        ocs:C7113 .
+

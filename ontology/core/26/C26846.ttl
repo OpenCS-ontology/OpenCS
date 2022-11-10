@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26846 a skos:Concept ;
+    skos:broader ocs:C3444,
+        ocs:C3521 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_degree> ;
+    skos:prefLabel "Online degree" ;
+    skos:related ocs:C11050,
+        ocs:C14813,
+        ocs:C17471,
+        ocs:C26281,
+        ocs:C26784,
+        ocs:C26813,
+        ocs:C31,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C39307,
+        ocs:C580,
+        ocs:C8614 .
+

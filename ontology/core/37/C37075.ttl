@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37075 a skos:Concept ;
+    skos:broader ocs:C23542,
+        ocs:C27263 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11ax> ;
+    skos:prefLabel "IEEE 802.11ax" ;
+    skos:related ocs:C12814,
+        ocs:C24558,
+        ocs:C31252,
+        ocs:C31265,
+        ocs:C32171,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C37967,
+        ocs:C40578,
+        ocs:C41995,
+        ocs:C42902,
+        ocs:C43449,
+        ocs:C43729,
+        ocs:C44282,
+        ocs:C44675,
+        ocs:C45396,
+        ocs:C45456,
+        ocs:C4665 .
+

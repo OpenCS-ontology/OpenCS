@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21156 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/Viterbi_decoder> ;
+    skos:prefLabel "Viterbi decoder" ;
+    skos:related ocs:C11747,
+        ocs:C14926,
+        ocs:C16106,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C19174,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C26349,
+        ocs:C27316,
+        ocs:C32049,
+        ocs:C32321,
+        ocs:C35138,
+        ocs:C37934,
+        ocs:C40267,
+        ocs:C40903,
+        ocs:C42255,
+        ocs:C5196,
+        ocs:C5816,
+        ocs:C8660 .
+

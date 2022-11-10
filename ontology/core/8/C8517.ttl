@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8517 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convergence_(routing)> ;
+    skos:prefLabel "Convergence (routing)" ;
+    skos:related ocs:C10563,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C39424,
+        ocs:C39742,
+        ocs:C40689,
+        ocs:C40965,
+        ocs:C41398,
+        ocs:C41572,
+        ocs:C42853,
+        ocs:C43513,
+        ocs:C44582,
+        ocs:C44801,
+        ocs:C44848,
+        ocs:C45818,
+        ocs:C8142 .
+

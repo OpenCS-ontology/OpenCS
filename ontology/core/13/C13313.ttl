@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13313 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C28,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Scenario_testing> ;
+    skos:prefLabel "Scenario testing" ;
+    skos:related ocs:C11383,
+        ocs:C18415,
+        ocs:C19315,
+        ocs:C20063,
+        ocs:C2214,
+        ocs:C25956,
+        ocs:C26460,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C30215,
+        ocs:C30802,
+        ocs:C36470,
+        ocs:C38219,
+        ocs:C38557,
+        ocs:C41342,
+        ocs:C42333,
+        ocs:C45809,
+        ocs:C570,
+        ocs:C7053,
+        ocs:C8895 .
+

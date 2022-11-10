@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27613 a skos:Concept ;
+    skos:broader ocs:C4917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_Product_Code> ;
+    skos:prefLabel "Electronic Product Code" ;
+    skos:related ocs:C10620,
+        ocs:C12755,
+        ocs:C18731,
+        ocs:C1882,
+        ocs:C20152,
+        ocs:C26603,
+        ocs:C2974,
+        ocs:C32652,
+        ocs:C37274,
+        ocs:C4398,
+        ocs:C4917,
+        ocs:C525,
+        ocs:C5465,
+        ocs:C8100 .
+

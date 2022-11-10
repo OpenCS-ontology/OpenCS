@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24951 a skos:Concept ;
+    skos:broader ocs:C6756 ;
+    skos:prefLabel "Head segmentation" ;
+    skos:related ocs:C1501,
+        ocs:C3341,
+        ocs:C37720,
+        ocs:C7911 .
+

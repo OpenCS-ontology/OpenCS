@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10339 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Copy_editing> ;
+    skos:prefLabel "Copy editing" ;
+    skos:related ocs:C13577,
+        ocs:C23568,
+        ocs:C31,
+        ocs:C5477,
+        ocs:C5746,
+        ocs:C8614 .
+

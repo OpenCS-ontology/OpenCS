@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14317 a skos:Concept ;
+    skos:broader ocs:C10268,
+        ocs:C794,
+        ocs:C8441 ;
+    skos:closeMatch <http://dbpedia.org/resource/CAR_and_CDR> ;
+    skos:prefLabel "CAR and CDR" ;
+    skos:related ocs:C10219,
+        ocs:C10268,
+        ocs:C11990,
+        ocs:C12277,
+        ocs:C13527,
+        ocs:C14624,
+        ocs:C16609,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C27380,
+        ocs:C2885,
+        ocs:C30672,
+        ocs:C3418,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C4465,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C9849 .
+

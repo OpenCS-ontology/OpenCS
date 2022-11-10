@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44942 a skos:Concept ;
+    skos:broader ocs:C32520 ;
+    skos:closeMatch <http://dbpedia.org/resource/BDDC> ;
+    skos:prefLabel "BDDC" ;
+    skos:related ocs:C15070,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C31948,
+        ocs:C32520,
+        ocs:C6203 .
+

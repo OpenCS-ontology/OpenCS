@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15233 a skos:Concept ;
+    skos:broader ocs:C6360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sleeping_Beauty_problem> ;
+    skos:prefLabel "Sleeping Beauty problem" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C246,
+        ocs:C2668,
+        ocs:C32717,
+        ocs:C6291,
+        ocs:C6692 .
+

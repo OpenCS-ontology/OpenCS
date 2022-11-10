@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8463 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/SURAnet> ;
+    skos:prefLabel "SURAnet" ;
+    skos:related ocs:C10992,
+        ocs:C14134,
+        ocs:C14538,
+        ocs:C15589,
+        ocs:C16953,
+        ocs:C21894,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C37035,
+        ocs:C38064,
+        ocs:C38451,
+        ocs:C38592,
+        ocs:C40689,
+        ocs:C42619,
+        ocs:C443,
+        ocs:C4831,
+        ocs:C686,
+        ocs:C8614,
+        ocs:C9443 .
+

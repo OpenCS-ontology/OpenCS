@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4221 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Scrolling> ;
+    skos:prefLabel "Universal Scrolling" ;
+    skos:related ocs:C10630,
+        ocs:C11700,
+        ocs:C12261,
+        ocs:C12453,
+        ocs:C15131,
+        ocs:C15214,
+        ocs:C19298,
+        ocs:C22004,
+        ocs:C28016,
+        ocs:C31891,
+        ocs:C3897,
+        ocs:C4237,
+        ocs:C45409,
+        ocs:C5086,
+        ocs:C7621,
+        ocs:C9,
+        ocs:C9262 .
+

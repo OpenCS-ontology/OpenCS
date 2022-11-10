@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22963 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fiber_metal_laminate> ;
+    skos:prefLabel "Fiber metal laminate" ;
+    skos:related ocs:C20415,
+        ocs:C24699,
+        ocs:C31568 .
+

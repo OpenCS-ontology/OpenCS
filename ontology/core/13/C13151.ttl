@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13151 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Benchmark_(computing)> ;
+    skos:prefLabel "Benchmark (computing)" ;
+    skos:related ocs:C10320,
+        ocs:C15,
+        ocs:C1668,
+        ocs:C19487,
+        ocs:C22554,
+        ocs:C23022,
+        ocs:C27,
+        ocs:C28881,
+        ocs:C30689,
+        ocs:C3429,
+        ocs:C3482,
+        ocs:C39621,
+        ocs:C4321,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9245 .
+

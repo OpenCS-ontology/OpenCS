@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6452 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexicographic_code> ;
+    skos:prefLabel "Lexicographic code" ;
+    skos:related ocs:C15232,
+        ocs:C16106,
+        ocs:C18626,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C30001,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C40052,
+        ocs:C40267,
+        ocs:C41626,
+        ocs:C41653,
+        ocs:C42003,
+        ocs:C42033,
+        ocs:C42255,
+        ocs:C43745,
+        ocs:C44441,
+        ocs:C6402,
+        ocs:C7856 .
+

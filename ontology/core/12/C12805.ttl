@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12805 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mandarax> ;
+    skos:prefLabel "Mandarax" ;
+    skos:related ocs:C1386,
+        ocs:C17053,
+        ocs:C17626,
+        ocs:C18507,
+        ocs:C19,
+        ocs:C27,
+        ocs:C31369,
+        ocs:C31724,
+        ocs:C32882,
+        ocs:C3398,
+        ocs:C39422,
+        ocs:C44162,
+        ocs:C44883,
+        ocs:C45180,
+        ocs:C5348,
+        ocs:C6779,
+        ocs:C9019 .
+

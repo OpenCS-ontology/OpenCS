@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31458 a skos:Concept ;
+    skos:broader ocs:C23865 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monte_Carlo_method_in_statistical_physics> ;
+    skos:prefLabel "Monte Carlo method in statistical physics" ;
+    skos:related ocs:C13208,
+        ocs:C31167,
+        ocs:C33242,
+        ocs:C36042,
+        ocs:C38763,
+        ocs:C39901,
+        ocs:C43852,
+        ocs:C8516 .
+

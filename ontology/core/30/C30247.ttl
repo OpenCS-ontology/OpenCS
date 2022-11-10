@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30247 a skos:Concept ;
+    skos:broader ocs:C17580,
+        ocs:C22819,
+        ocs:C26067 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multicast_address> ;
+    skos:prefLabel "Multicast address" ;
+    skos:related ocs:C1398,
+        ocs:C14160,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C26419,
+        ocs:C27426,
+        ocs:C29798,
+        ocs:C30500,
+        ocs:C3391,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C38451,
+        ocs:C38848,
+        ocs:C41442,
+        ocs:C43015,
+        ocs:C5207,
+        ocs:C5343,
+        ocs:C8614 .
+

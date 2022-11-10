@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45622 a skos:Concept ;
+    skos:broader ocs:C30505,
+        ocs:C30691 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double-sideband_suppressed-carrier_transmission> ;
+    skos:prefLabel "Double-sideband suppressed-carrier transmission" ;
+    skos:related ocs:C10409,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C1727,
+        ocs:C17432,
+        ocs:C18001,
+        ocs:C23488,
+        ocs:C25850,
+        ocs:C26908,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C3,
+        ocs:C36707,
+        ocs:C38024,
+        ocs:C38689,
+        ocs:C44707,
+        ocs:C5036,
+        ocs:C7502 .
+

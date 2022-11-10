@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11298 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Routing_and_Remote_Access_Service> ;
+    skos:prefLabel "Routing and Remote Access Service" ;
+    skos:related ocs:C11293,
+        ocs:C1410,
+        ocs:C15642,
+        ocs:C17530,
+        ocs:C20125,
+        ocs:C20987,
+        ocs:C21442,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C35331,
+        ocs:C35371,
+        ocs:C37552,
+        ocs:C38451,
+        ocs:C44603,
+        ocs:C45518,
+        ocs:C5514,
+        ocs:C8310,
+        ocs:C9 .
+

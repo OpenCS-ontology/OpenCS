@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33776 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chandra_Deep_Field_South> ;
+    skos:prefLabel "Chandra Deep Field South" ;
+    skos:related ocs:C17246,
+        ocs:C23430,
+        ocs:C32326,
+        ocs:C33140,
+        ocs:C34069,
+        ocs:C40683,
+        ocs:C41868,
+        ocs:C44200,
+        ocs:C44556 .
+

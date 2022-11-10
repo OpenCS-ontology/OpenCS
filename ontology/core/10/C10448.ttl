@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10448 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_station> ;
+    skos:prefLabel "Signal station" ;
+    skos:related ocs:C10884,
+        ocs:C11669,
+        ocs:C16547,
+        ocs:C20572,
+        ocs:C27318,
+        ocs:C3,
+        ocs:C41763,
+        ocs:C45718,
+        ocs:C4996,
+        ocs:C5559 .
+

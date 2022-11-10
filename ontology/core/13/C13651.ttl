@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13651 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobility_aid> ;
+    skos:prefLabel "Mobility aid" ;
+    skos:related ocs:C10999,
+        ocs:C5047,
+        ocs:C5633,
+        ocs:C7714 .
+

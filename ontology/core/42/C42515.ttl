@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42515 a skos:Concept ;
+    skos:broader ocs:C32392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classical_modular_curve> ;
+    skos:prefLabel "Classical modular curve" ;
+    skos:related ocs:C23040,
+        ocs:C23209,
+        ocs:C32124,
+        ocs:C32392,
+        ocs:C38194,
+        ocs:C38958,
+        ocs:C39587,
+        ocs:C39710 .
+

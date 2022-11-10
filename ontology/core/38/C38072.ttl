@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38072 a skos:Concept ;
+    skos:broader ocs:C33916 ;
+    skos:closeMatch <http://dbpedia.org/resource/GRDDL> ;
+    skos:prefLabel "GRDDL" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C18361,
+        ocs:C18435,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C30368,
+        ocs:C32413,
+        ocs:C32686,
+        ocs:C33709,
+        ocs:C33916,
+        ocs:C355,
+        ocs:C36357,
+        ocs:C39973,
+        ocs:C43834,
+        ocs:C44163,
+        ocs:C9836 .
+

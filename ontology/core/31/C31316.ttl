@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31316 a skos:Concept ;
+    skos:broader ocs:C17046 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crimeware> ;
+    skos:prefLabel "Crimeware" ;
+    skos:related ocs:C13518,
+        ocs:C13975,
+        ocs:C16481,
+        ocs:C17046,
+        ocs:C17126,
+        ocs:C20937,
+        ocs:C24479,
+        ocs:C26366,
+        ocs:C2941,
+        ocs:C35,
+        ocs:C41901,
+        ocs:C44622,
+        ocs:C44734,
+        ocs:C8294,
+        ocs:C8440 .
+

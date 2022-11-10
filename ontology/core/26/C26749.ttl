@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26749 a skos:Concept ;
+    skos:broader ocs:C2863 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crash_test> ;
+    skos:prefLabel "Crash test" ;
+    skos:related ocs:C16728,
+        ocs:C18179,
+        ocs:C20456,
+        ocs:C33054 .
+

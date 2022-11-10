@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23061 a skos:Concept ;
+    skos:broader ocs:C12075 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persistent_object_store> ;
+    skos:prefLabel "Persistent object store" ;
+    skos:related ocs:C10720,
+        ocs:C10904,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C15902,
+        ocs:C18405,
+        ocs:C24857,
+        ocs:C28963,
+        ocs:C30561,
+        ocs:C3160,
+        ocs:C32327,
+        ocs:C33584,
+        ocs:C34066,
+        ocs:C36084,
+        ocs:C38883,
+        ocs:C39752,
+        ocs:C6,
+        ocs:C7476,
+        ocs:C9 .
+

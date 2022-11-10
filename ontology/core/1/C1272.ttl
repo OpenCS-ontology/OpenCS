@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1272 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Special_Interest_Group> ;
+    skos:prefLabel "Special Interest Group" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C12317,
+        ocs:C1253,
+        ocs:C16205,
+        ocs:C18,
+        ocs:C19,
+        ocs:C22,
+        ocs:C27526,
+        ocs:C31,
+        ocs:C31489,
+        ocs:C7926,
+        ocs:C8614,
+        ocs:C9113 .
+

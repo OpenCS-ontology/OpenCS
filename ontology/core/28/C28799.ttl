@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28799 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cognitive_semantics> ;
+    skos:prefLabel "Cognitive semantics" ;
+    skos:related ocs:C13210,
+        ocs:C14170,
+        ocs:C1451,
+        ocs:C24316,
+        ocs:C26019,
+        ocs:C28748,
+        ocs:C4807,
+        ocs:C7467,
+        ocs:C8701 .
+

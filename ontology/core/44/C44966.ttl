@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44966 a skos:Concept ;
+    skos:broader ocs:C34356 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cisco_certifications> ;
+    skos:prefLabel "Cisco certifications" ;
+    skos:related ocs:C10501,
+        ocs:C11960,
+        ocs:C13010,
+        ocs:C13412,
+        ocs:C14271,
+        ocs:C197,
+        ocs:C21324,
+        ocs:C23103,
+        ocs:C26014,
+        ocs:C26776,
+        ocs:C35,
+        ocs:C37263,
+        ocs:C40796,
+        ocs:C8711,
+        ocs:C9,
+        ocs:C9150 .
+

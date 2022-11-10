@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43611 a skos:Concept ;
+    skos:broader ocs:C34938,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intra-flow_interference> ;
+    skos:prefLabel "Intra-flow interference" ;
+    skos:related ocs:C16310,
+        ocs:C29523,
+        ocs:C37925 .
+

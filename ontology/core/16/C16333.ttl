@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16333 a skos:Concept ;
+    skos:broader ocs:C5816 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymptotic_equipartition_property> ;
+    skos:prefLabel "Asymptotic equipartition property" ;
+    skos:related ocs:C10767,
+        ocs:C21471,
+        ocs:C33220,
+        ocs:C34661,
+        ocs:C37934,
+        ocs:C43672,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C7689 .
+

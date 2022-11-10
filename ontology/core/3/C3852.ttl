@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3852 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transgenerational_design> ;
+    skos:prefLabel "Transgenerational design" ;
+    skos:related ocs:C11046,
+        ocs:C5574,
+        ocs:C8955 .
+

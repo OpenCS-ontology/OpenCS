@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6144 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_format_lens> ;
+    skos:prefLabel "Large format lens" ;
+    skos:related ocs:C13652,
+        ocs:C1394,
+        ocs:C8085 .
+

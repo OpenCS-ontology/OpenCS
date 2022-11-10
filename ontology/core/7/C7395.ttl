@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7395 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model–view–controller> ;
+    skos:prefLabel "Model–view–controller" ;
+    skos:related ocs:C10720,
+        ocs:C11927,
+        ocs:C12810,
+        ocs:C15786,
+        ocs:C17183,
+        ocs:C17556,
+        ocs:C22597,
+        ocs:C26528,
+        ocs:C2674,
+        ocs:C27258,
+        ocs:C28801,
+        ocs:C28941,
+        ocs:C3850,
+        ocs:C43774,
+        ocs:C44346,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C5939,
+        ocs:C7530,
+        ocs:C7736 .
+

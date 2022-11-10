@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10391 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Boundary_representation> ;
+    skos:prefLabel "Boundary representation" ;
+    skos:related ocs:C10924,
+        ocs:C11689,
+        ocs:C19997,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23146,
+        ocs:C27972,
+        ocs:C3174,
+        ocs:C3256,
+        ocs:C38400,
+        ocs:C45109,
+        ocs:C4645,
+        ocs:C7000,
+        ocs:C7914 .
+

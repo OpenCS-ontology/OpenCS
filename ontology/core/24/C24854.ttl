@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24854 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Creation_and_annihilation_operators> ;
+    skos:prefLabel "Creation and annihilation operators" ;
+    skos:related ocs:C15588,
+        ocs:C23485,
+        ocs:C24313,
+        ocs:C32025,
+        ocs:C35699 .
+

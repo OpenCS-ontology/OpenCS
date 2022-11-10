@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16100 a skos:Concept ;
+    skos:broader ocs:C10327,
+        ocs:C3484,
+        ocs:C6531 ;
+    skos:closeMatch <http://dbpedia.org/resource/Occurs_check> ;
+    skos:prefLabel "Occurs check" ;
+    skos:related ocs:C10327,
+        ocs:C1577,
+        ocs:C19165,
+        ocs:C19352,
+        ocs:C19907,
+        ocs:C2418,
+        ocs:C26406,
+        ocs:C26635,
+        ocs:C29762,
+        ocs:C30308,
+        ocs:C3308,
+        ocs:C3484,
+        ocs:C38070,
+        ocs:C4149,
+        ocs:C44891,
+        ocs:C45817,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C8660 .
+

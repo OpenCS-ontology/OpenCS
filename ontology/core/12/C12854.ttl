@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12854 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Register_memory_architecture> ;
+    skos:prefLabel "Register memory architecture" ;
+    skos:related ocs:C11258,
+        ocs:C13025,
+        ocs:C15,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C21718,
+        ocs:C26755,
+        ocs:C283,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C39753,
+        ocs:C40036,
+        ocs:C5340,
+        ocs:C5463,
+        ocs:C856 .
+

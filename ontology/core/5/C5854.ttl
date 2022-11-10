@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5854 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_resolution> ;
+    skos:prefLabel "Image resolution" ;
+    skos:related ocs:C1023,
+        ocs:C10318,
+        ocs:C12544,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C13509,
+        ocs:C13586,
+        ocs:C22257,
+        ocs:C25755,
+        ocs:C39878,
+        ocs:C40199,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C797,
+        ocs:C8021 .
+

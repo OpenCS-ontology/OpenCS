@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40325 a skos:Concept ;
+    skos:broader ocs:C31267,
+        ocs:C36897 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardware-assisted_virtualization> ;
+    skos:prefLabel "Hardware-assisted virtualization" ;
+    skos:related ocs:C10320,
+        ocs:C19487,
+        ocs:C26161,
+        ocs:C28515,
+        ocs:C28881,
+        ocs:C2939,
+        ocs:C31267,
+        ocs:C31489,
+        ocs:C36897,
+        ocs:C39896,
+        ocs:C41159,
+        ocs:C43492,
+        ocs:C44344,
+        ocs:C4439,
+        ocs:C5587,
+        ocs:C5698,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9035 .
+

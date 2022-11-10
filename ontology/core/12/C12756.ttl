@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12756 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Changed_tone> ;
+    skos:prefLabel "Changed tone" ;
+    skos:related ocs:C11398,
+        ocs:C11821,
+        ocs:C13096,
+        ocs:C1313,
+        ocs:C16185,
+        ocs:C18579,
+        ocs:C22271,
+        ocs:C24565,
+        ocs:C25152,
+        ocs:C25698,
+        ocs:C26180,
+        ocs:C26940,
+        ocs:C27886,
+        ocs:C29810,
+        ocs:C34995,
+        ocs:C36331,
+        ocs:C6361,
+        ocs:C6784,
+        ocs:C6914 .
+

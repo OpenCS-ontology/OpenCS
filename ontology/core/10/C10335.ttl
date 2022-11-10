@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10335 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cell_on_wheels> ;
+    skos:prefLabel "Cell on wheels" ;
+    skos:related ocs:C1219,
+        ocs:C13316,
+        ocs:C21595,
+        ocs:C25712,
+        ocs:C28758,
+        ocs:C3236,
+        ocs:C37543,
+        ocs:C39175,
+        ocs:C39949,
+        ocs:C4255,
+        ocs:C43823,
+        ocs:C452,
+        ocs:C45515,
+        ocs:C6114,
+        ocs:C7874,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154 .
+

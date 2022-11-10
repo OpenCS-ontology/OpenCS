@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9536 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-destruct> ;
+    skos:prefLabel "Self-destruct" ;
+    skos:related ocs:C10396,
+        ocs:C1628,
+        ocs:C28881,
+        ocs:C3290,
+        ocs:C5692,
+        ocs:C8,
+        ocs:C9,
+        ocs:C9066 .
+

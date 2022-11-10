@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34501 a skos:Concept ;
+    skos:broader ocs:C21718,
+        ocs:C22245,
+        ocs:C23863,
+        ocs:C24185 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tracing_just-in-time_compilation> ;
+    skos:prefLabel "Tracing just-in-time compilation" ;
+    skos:related ocs:C11293,
+        ocs:C12257,
+        ocs:C12312,
+        ocs:C12974,
+        ocs:C21718,
+        ocs:C22245,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C26165,
+        ocs:C28073,
+        ocs:C32227,
+        ocs:C35849,
+        ocs:C39149,
+        ocs:C40088,
+        ocs:C41674,
+        ocs:C4321,
+        ocs:C45618,
+        ocs:C5698,
+        ocs:C6887 .
+

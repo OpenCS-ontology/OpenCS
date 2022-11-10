@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30484 a skos:Concept ;
+    skos:broader ocs:C15802,
+        ocs:C16104,
+        ocs:C17272 ;
+    skos:prefLabel "All to all broadcast" .
+

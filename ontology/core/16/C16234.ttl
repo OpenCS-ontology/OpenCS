@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16234 a skos:Concept ;
+    skos:broader ocs:C12111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bidirectional_traffic> ;
+    skos:prefLabel "Bidirectional traffic" ;
+    skos:related ocs:C122,
+        ocs:C15127,
+        ocs:C16728,
+        ocs:C16896,
+        ocs:C17865,
+        ocs:C22762,
+        ocs:C25072,
+        ocs:C30949,
+        ocs:C31393,
+        ocs:C3390,
+        ocs:C34119,
+        ocs:C36448,
+        ocs:C39139,
+        ocs:C41666,
+        ocs:C41753,
+        ocs:C7513,
+        ocs:C8693,
+        ocs:C9657 .
+

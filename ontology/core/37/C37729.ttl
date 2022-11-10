@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37729 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyers–Ulam–Rassias_stability> ;
+    skos:prefLabel "Hyers–Ulam–Rassias stability" ;
+    skos:related ocs:C23927,
+        ocs:C25758,
+        ocs:C31362,
+        ocs:C32026,
+        ocs:C33679,
+        ocs:C36920,
+        ocs:C38792,
+        ocs:C41233,
+        ocs:C43376,
+        ocs:C43747,
+        ocs:C44001 .
+

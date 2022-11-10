@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28380 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C1496,
+        ocs:C661 ;
+    skos:prefLabel "Distributed object management" .
+

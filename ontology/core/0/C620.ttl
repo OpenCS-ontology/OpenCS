@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C620 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Escrow> ;
+    skos:prefLabel "Escrow" ;
+    skos:related ocs:C16292,
+        ocs:C20264,
+        ocs:C26014 .
+

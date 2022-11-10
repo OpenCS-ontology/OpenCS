@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37082 a skos:Concept ;
+    skos:broader ocs:C18149 ;
+    skos:closeMatch <http://dbpedia.org/resource/Auto-text> ;
+    skos:prefLabel "Auto-text" ;
+    skos:related ocs:C11722,
+        ocs:C12759,
+        ocs:C17677,
+        ocs:C17884,
+        ocs:C19232,
+        ocs:C19932,
+        ocs:C23011,
+        ocs:C26816,
+        ocs:C29358,
+        ocs:C31044,
+        ocs:C4397 .
+

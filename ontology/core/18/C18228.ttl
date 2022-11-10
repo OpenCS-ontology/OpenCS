@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18228 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/MISRA_C> ;
+    skos:prefLabel "MISRA C" ;
+    skos:related ocs:C10214,
+        ocs:C10909,
+        ocs:C11082,
+        ocs:C12257,
+        ocs:C1243,
+        ocs:C14990,
+        ocs:C18991,
+        ocs:C19,
+        ocs:C19837,
+        ocs:C24176,
+        ocs:C26103,
+        ocs:C35,
+        ocs:C39715,
+        ocs:C4321,
+        ocs:C45212,
+        ocs:C5308,
+        ocs:C6223,
+        ocs:C755 .
+

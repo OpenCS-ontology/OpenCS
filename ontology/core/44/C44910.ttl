@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44910 a skos:Concept ;
+    skos:broader ocs:C34684,
+        ocs:C34749,
+        ocs:C35807 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_Linear_assumption> ;
+    skos:prefLabel "Decision Linear assumption" ;
+    skos:related ocs:C10458,
+        ocs:C12450,
+        ocs:C18118,
+        ocs:C23042,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C35600,
+        ocs:C37826,
+        ocs:C37882,
+        ocs:C39146,
+        ocs:C39295,
+        ocs:C39389,
+        ocs:C39619,
+        ocs:C43074,
+        ocs:C44443,
+        ocs:C44907,
+        ocs:C44938,
+        ocs:C45714,
+        ocs:C970 .
+

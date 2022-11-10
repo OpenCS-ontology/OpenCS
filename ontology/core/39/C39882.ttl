@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39882 a skos:Concept ;
+    skos:broader ocs:C36612 ;
+    skos:prefLabel "Confrontation visual field test" ;
+    skos:related ocs:C1,
+        ocs:C36612,
+        ocs:C7,
+        ocs:C8 .
+

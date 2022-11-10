@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8025 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyber-attack> ;
+    skos:prefLabel "Cyber-attack" ;
+    skos:related ocs:C14032,
+        ocs:C14466,
+        ocs:C17046,
+        ocs:C17205,
+        ocs:C17873,
+        ocs:C18986,
+        ocs:C20295,
+        ocs:C20937,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C30412,
+        ocs:C30563,
+        ocs:C35,
+        ocs:C3815,
+        ocs:C5821,
+        ocs:C7702,
+        ocs:C8458,
+        ocs:C8614 .
+

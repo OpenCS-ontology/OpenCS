@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7172 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Edge-notched_card> ;
+    skos:prefLabel "Edge-notched card" ;
+    skos:related ocs:C10772,
+        ocs:C11635,
+        ocs:C13855,
+        ocs:C16334,
+        ocs:C1683,
+        ocs:C17204,
+        ocs:C2049,
+        ocs:C21589,
+        ocs:C27882,
+        ocs:C33916,
+        ocs:C3894,
+        ocs:C3936,
+        ocs:C5280,
+        ocs:C6,
+        ocs:C6003,
+        ocs:C7656,
+        ocs:C7849 .
+

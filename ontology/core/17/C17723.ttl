@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17723 a skos:Concept ;
+    skos:broader ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fair-share_scheduling> ;
+    skos:prefLabel "Fair-share scheduling" ;
+    skos:related ocs:C10320,
+        ocs:C12683,
+        ocs:C20800,
+        ocs:C30218,
+        ocs:C31489,
+        ocs:C32134,
+        ocs:C37367,
+        ocs:C39242,
+        ocs:C40787,
+        ocs:C43903,
+        ocs:C44378,
+        ocs:C45252,
+        ocs:C45363,
+        ocs:C45527,
+        ocs:C45708,
+        ocs:C8704,
+        ocs:C9 .
+

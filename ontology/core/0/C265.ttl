@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C265 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ctrie> ;
+    skos:prefLabel "Ctrie" ;
+    skos:related ocs:C13516,
+        ocs:C14747,
+        ocs:C18220,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C2885,
+        ocs:C34584,
+        ocs:C35502,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C38552,
+        ocs:C40594,
+        ocs:C41512,
+        ocs:C44287,
+        ocs:C44555,
+        ocs:C8022,
+        ocs:C8522 .
+

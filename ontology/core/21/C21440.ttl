@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21440 a skos:Concept ;
+    skos:broader ocs:C8700 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-polarized_wave_generation> ;
+    skos:prefLabel "Cross-polarized wave generation" ;
+    skos:related ocs:C30988,
+        ocs:C32224 .
+

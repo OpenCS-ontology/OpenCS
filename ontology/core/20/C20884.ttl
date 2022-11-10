@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20884 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nordic_Optical_Telescope> ;
+    skos:prefLabel "Nordic Optical Telescope" ;
+    skos:related ocs:C14268,
+        ocs:C16178,
+        ocs:C17174,
+        ocs:C19222,
+        ocs:C20206,
+        ocs:C22752,
+        ocs:C25028,
+        ocs:C25918,
+        ocs:C25936,
+        ocs:C32423,
+        ocs:C38054,
+        ocs:C597,
+        ocs:C8561 .
+

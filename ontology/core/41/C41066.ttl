@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41066 a skos:Concept ;
+    skos:broader ocs:C35163,
+        ocs:C35368,
+        ocs:C36445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_permutation_statistics> ;
+    skos:prefLabel "Random permutation statistics" ;
+    skos:related ocs:C11282,
+        ocs:C18099,
+        ocs:C25024,
+        ocs:C29280,
+        ocs:C43818 .
+

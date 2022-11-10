@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37799 a skos:Concept ;
+    skos:broader ocs:C14693,
+        ocs:C15414,
+        ocs:C17251,
+        ocs:C17717 ;
+    skos:prefLabel "Dominant sequence clustering" .
+

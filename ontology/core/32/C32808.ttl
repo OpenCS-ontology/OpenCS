@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32808 a skos:Concept ;
+    skos:broader ocs:C22100 ;
+    skos:closeMatch <http://dbpedia.org/resource/PSPACE> ;
+    skos:prefLabel "PSPACE" ;
+    skos:related ocs:C11250,
+        ocs:C12618,
+        ocs:C20382,
+        ocs:C22100,
+        ocs:C23904,
+        ocs:C2420,
+        ocs:C24202,
+        ocs:C25360,
+        ocs:C29935,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C39640,
+        ocs:C41061,
+        ocs:C41116,
+        ocs:C41588,
+        ocs:C41642,
+        ocs:C44665,
+        ocs:C5193,
+        ocs:C8660 .
+

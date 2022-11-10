@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40832 a skos:Concept ;
+    skos:broader ocs:C31222,
+        ocs:C34662 ;
+    skos:closeMatch <http://dbpedia.org/resource/CNAME_record> ;
+    skos:prefLabel "CNAME record" ;
+    skos:related ocs:C14983,
+        ocs:C20205,
+        ocs:C22502,
+        ocs:C26114,
+        ocs:C30757,
+        ocs:C34662,
+        ocs:C35631,
+        ocs:C35801,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38556,
+        ocs:C40509,
+        ocs:C41056,
+        ocs:C41627,
+        ocs:C41967,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C5472 .
+

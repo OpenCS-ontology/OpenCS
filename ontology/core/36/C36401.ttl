@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36401 a skos:Concept ;
+    skos:broader ocs:C14417,
+        ocs:C15411 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_Information_Service> ;
+    skos:prefLabel "Network Information Service" ;
+    skos:related ocs:C14271,
+        ocs:C14417,
+        ocs:C14627,
+        ocs:C15411,
+        ocs:C15478,
+        ocs:C16980,
+        ocs:C20205,
+        ocs:C26,
+        ocs:C31489,
+        ocs:C34358,
+        ocs:C34662,
+        ocs:C35197,
+        ocs:C379,
+        ocs:C38032,
+        ocs:C38824,
+        ocs:C45269,
+        ocs:C7016,
+        ocs:C8614,
+        ocs:C9 .
+

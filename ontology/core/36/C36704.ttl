@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36704 a skos:Concept ;
+    skos:broader ocs:C23874,
+        ocs:C24475 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decimal_floating_point> ;
+    skos:prefLabel "Decimal floating point" ;
+    skos:related ocs:C12262,
+        ocs:C13552,
+        ocs:C16377,
+        ocs:C21384,
+        ocs:C22452,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C28063,
+        ocs:C31030,
+        ocs:C31341,
+        ocs:C37239,
+        ocs:C37518,
+        ocs:C39774,
+        ocs:C40691,
+        ocs:C42983,
+        ocs:C43784,
+        ocs:C45395,
+        ocs:C4816,
+        ocs:C5690 .
+

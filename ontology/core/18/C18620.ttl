@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18620 a skos:Concept ;
+    skos:broader ocs:C5702 ;
+    skos:closeMatch <http://dbpedia.org/resource/Widget_(GUI)> ;
+    skos:prefLabel "Graphical control element" .
+

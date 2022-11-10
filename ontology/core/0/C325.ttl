@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C325 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noisy_text> ;
+    skos:prefLabel "Noisy text" ;
+    skos:related ocs:C12696,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C20100,
+        ocs:C21072,
+        ocs:C23422,
+        ocs:C2468,
+        ocs:C28097,
+        ocs:C30113,
+        ocs:C3034,
+        ocs:C31956,
+        ocs:C32,
+        ocs:C33529,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38477,
+        ocs:C38566,
+        ocs:C8564,
+        ocs:C8965 .
+

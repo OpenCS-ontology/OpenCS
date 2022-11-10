@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42735 a skos:Concept ;
+    skos:broader ocs:C29576 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert's_Theorem_90> ;
+    skos:prefLabel "Hilbert's Theorem 90" ;
+    skos:related ocs:C30801,
+        ocs:C31107,
+        ocs:C32266,
+        ocs:C40475,
+        ocs:C44869 .
+

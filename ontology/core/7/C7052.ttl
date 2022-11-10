@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7052 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Step_detection> ;
+    skos:prefLabel "Step detection" ;
+    skos:related ocs:C10382,
+        ocs:C10554,
+        ocs:C11253,
+        ocs:C12456,
+        ocs:C14863,
+        ocs:C17412,
+        ocs:C21717,
+        ocs:C21998,
+        ocs:C2216,
+        ocs:C22681,
+        ocs:C26767,
+        ocs:C34943,
+        ocs:C5505,
+        ocs:C669,
+        ocs:C8333,
+        ocs:C9380,
+        ocs:C9428 .
+

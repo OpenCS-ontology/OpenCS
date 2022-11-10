@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4706 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process.h> ;
+    skos:prefLabel "process.h" ;
+    skos:related ocs:C1165,
+        ocs:C14271,
+        ocs:C14990,
+        ocs:C15309,
+        ocs:C16375,
+        ocs:C22630,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30860,
+        ocs:C33278,
+        ocs:C37894,
+        ocs:C39339,
+        ocs:C42140,
+        ocs:C43822,
+        ocs:C7647,
+        ocs:C8323,
+        ocs:C9235,
+        ocs:C9433 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6639 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Library_classification> ;
+    skos:prefLabel "Library classification" ;
+    skos:related ocs:C10220,
+        ocs:C11087,
+        ocs:C11492,
+        ocs:C15072,
+        ocs:C16401,
+        ocs:C16879,
+        ocs:C21155,
+        ocs:C23756,
+        ocs:C3364,
+        ocs:C3896,
+        ocs:C4,
+        ocs:C4334,
+        ocs:C5877,
+        ocs:C6023,
+        ocs:C6690,
+        ocs:C6915,
+        ocs:C7849,
+        ocs:C8990 .
+

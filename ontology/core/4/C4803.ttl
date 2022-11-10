@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4803 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_building> ;
+    skos:prefLabel "Link building" ;
+    skos:related ocs:C12555,
+        ocs:C14004,
+        ocs:C26337,
+        ocs:C28136,
+        ocs:C31,
+        ocs:C3526,
+        ocs:C40049,
+        ocs:C40507,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C7963 .
+

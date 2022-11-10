@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11762 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Explicit_knowledge> ;
+    skos:prefLabel "Explicit knowledge" ;
+    skos:related ocs:C10057,
+        ocs:C10061,
+        ocs:C10631,
+        ocs:C10801,
+        ocs:C11021,
+        ocs:C11657,
+        ocs:C12,
+        ocs:C13078,
+        ocs:C15769,
+        ocs:C33429,
+        ocs:C3343,
+        ocs:C35311,
+        ocs:C3835,
+        ocs:C5092,
+        ocs:C5977,
+        ocs:C9058 .
+

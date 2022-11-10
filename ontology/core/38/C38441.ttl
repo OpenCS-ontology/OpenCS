@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38441 a skos:Concept ;
+    skos:broader ocs:C32650 ;
+    skos:closeMatch <http://dbpedia.org/resource/Privacy_engineering> ;
+    skos:prefLabel "Privacy engineering" ;
+    skos:related ocs:C1035,
+        ocs:C1253,
+        ocs:C1399,
+        ocs:C14105,
+        ocs:C19522,
+        ocs:C25527,
+        ocs:C28,
+        ocs:C28454,
+        ocs:C32650,
+        ocs:C35,
+        ocs:C35993,
+        ocs:C38347,
+        ocs:C42769,
+        ocs:C45697,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8390 .
+

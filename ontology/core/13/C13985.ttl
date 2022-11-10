@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13985 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infrared_detector> ;
+    skos:prefLabel "Infrared detector" ;
+    skos:related ocs:C22118,
+        ocs:C29698,
+        ocs:C597 .
+

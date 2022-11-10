@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7905 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data-driven> ;
+    skos:prefLabel "Data-driven" ;
+    skos:related ocs:C10616,
+        ocs:C10720,
+        ocs:C12255,
+        ocs:C13744,
+        ocs:C15444,
+        ocs:C15769,
+        ocs:C21327,
+        ocs:C23248,
+        ocs:C26941,
+        ocs:C27665,
+        ocs:C27895,
+        ocs:C34,
+        ocs:C36978,
+        ocs:C7311 .
+

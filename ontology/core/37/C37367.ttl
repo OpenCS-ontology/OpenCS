@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37367 a skos:Concept ;
+    skos:broader ocs:C15253,
+        ocs:C17723,
+        ocs:C21210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rate-monotonic_scheduling> ;
+    skos:prefLabel "Rate-monotonic scheduling" ;
+    skos:related ocs:C17723,
+        ocs:C21210,
+        ocs:C26769,
+        ocs:C30218,
+        ocs:C33,
+        ocs:C34229,
+        ocs:C39492,
+        ocs:C40272,
+        ocs:C42251,
+        ocs:C43065,
+        ocs:C43283,
+        ocs:C45363,
+        ocs:C45674,
+        ocs:C5912,
+        ocs:C8204,
+        ocs:C8704 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41841 a skos:Concept ;
+    skos:broader ocs:C31455,
+        ocs:C32077,
+        ocs:C35839 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extendible_hashing> ;
+    skos:prefLabel "Extendible hashing" ;
+    skos:related ocs:C2049,
+        ocs:C26456,
+        ocs:C32077,
+        ocs:C35839,
+        ocs:C37936,
+        ocs:C38917,
+        ocs:C3936,
+        ocs:C39385,
+        ocs:C39995,
+        ocs:C40696,
+        ocs:C42058,
+        ocs:C42331,
+        ocs:C42629,
+        ocs:C43884,
+        ocs:C44287,
+        ocs:C44766,
+        ocs:C7476,
+        ocs:C8022,
+        ocs:C8522,
+        ocs:C8893 .
+

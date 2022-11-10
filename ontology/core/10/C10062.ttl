@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10062 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_research> ;
+    skos:prefLabel "Open research" ;
+    skos:related ocs:C12257,
+        ocs:C14002,
+        ocs:C23932,
+        ocs:C25430,
+        ocs:C27996,
+        ocs:C29969,
+        ocs:C32616,
+        ocs:C4164,
+        ocs:C4782,
+        ocs:C4866,
+        ocs:C5680,
+        ocs:C5712,
+        ocs:C9110 .
+

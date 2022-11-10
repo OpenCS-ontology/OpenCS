@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8018 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Clos_network> ;
+    skos:prefLabel "Clos network" ;
+    skos:related ocs:C10,
+        ocs:C10621,
+        ocs:C13623,
+        ocs:C13786,
+        ocs:C14685,
+        ocs:C25293,
+        ocs:C27,
+        ocs:C28758,
+        ocs:C2880,
+        ocs:C31584,
+        ocs:C3233,
+        ocs:C390,
+        ocs:C7340,
+        ocs:C8010,
+        ocs:C9480 .
+

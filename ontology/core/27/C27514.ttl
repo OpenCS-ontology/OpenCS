@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27514 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:prefLabel "EDS Detector" ;
+    skos:related ocs:C12582,
+        ocs:C18360,
+        ocs:C20535,
+        ocs:C21708 .
+

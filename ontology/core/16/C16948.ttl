@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16948 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C3452,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero_suppression> ;
+    skos:prefLabel "Zero suppression" ;
+    skos:related ocs:C13015,
+        ocs:C24266,
+        ocs:C25915,
+        ocs:C41006,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C8521 .
+

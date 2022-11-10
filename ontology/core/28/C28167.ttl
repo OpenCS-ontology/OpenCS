@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28167 a skos:Concept ;
+    skos:broader ocs:C123,
+        ocs:C1449,
+        ocs:C4152,
+        ocs:C746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_delay_line> ;
+    skos:prefLabel "Digital delay line" ;
+    skos:related ocs:C123,
+        ocs:C1449,
+        ocs:C18077,
+        ocs:C21021,
+        ocs:C28078,
+        ocs:C35668,
+        ocs:C4615,
+        ocs:C5042,
+        ocs:C5505,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8718 .
+

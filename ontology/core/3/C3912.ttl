@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3912 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paperless_office> ;
+    skos:prefLabel "Paperless office" ;
+    skos:related ocs:C1023,
+        ocs:C1253,
+        ocs:C12815,
+        ocs:C13010,
+        ocs:C22849,
+        ocs:C23103,
+        ocs:C3077,
+        ocs:C6,
+        ocs:C8498,
+        ocs:C8614,
+        ocs:C9150 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4095 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_quality> ;
+    skos:prefLabel "Video quality" ;
+    skos:related ocs:C10321,
+        ocs:C10976,
+        ocs:C11323,
+        ocs:C11747,
+        ocs:C13256,
+        ocs:C16043,
+        ocs:C22707,
+        ocs:C27572,
+        ocs:C29048,
+        ocs:C29174,
+        ocs:C3063,
+        ocs:C4197,
+        ocs:C45148,
+        ocs:C7022,
+        ocs:C7468 .
+

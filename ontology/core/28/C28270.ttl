@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28270 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convergence_of_measures> ;
+    skos:prefLabel "Convergence of measures" ;
+    skos:related ocs:C10903,
+        ocs:C15256,
+        ocs:C1844,
+        ocs:C35365,
+        ocs:C6909 .
+

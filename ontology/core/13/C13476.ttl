@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13476 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C23,
+        ocs:C7 ;
+    skos:prefLabel "Acquired Name" ;
+    skos:related ocs:C1000,
+        ocs:C12431,
+        ocs:C16,
+        ocs:C22,
+        ocs:C23,
+        ocs:C3,
+        ocs:C32,
+        ocs:C3985,
+        ocs:C6072,
+        ocs:C7 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23311 a skos:Concept ;
+    skos:broader ocs:C11282 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robinson–Schensted_correspondence> ;
+    skos:prefLabel "Robinson–Schensted correspondence" ;
+    skos:related ocs:C11282,
+        ocs:C16034,
+        ocs:C16150,
+        ocs:C18099 .
+

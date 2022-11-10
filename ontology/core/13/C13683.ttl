@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13683 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Attitude_indicator> ;
+    skos:prefLabel "Attitude indicator" ;
+    skos:related ocs:C16352,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C2256,
+        ocs:C25753,
+        ocs:C29428,
+        ocs:C32744,
+        ocs:C36804,
+        ocs:C43975,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C511,
+        ocs:C5913 .
+

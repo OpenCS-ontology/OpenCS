@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C678 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-optimization> ;
+    skos:prefLabel "Self-optimization" ;
+    skos:related ocs:C18523,
+        ocs:C34627,
+        ocs:C4129,
+        ocs:C6638,
+        ocs:C9373 .
+

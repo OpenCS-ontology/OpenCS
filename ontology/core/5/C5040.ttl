@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5040 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mood_board> ;
+    skos:prefLabel "Mood board" ;
+    skos:related ocs:C10982,
+        ocs:C12832,
+        ocs:C20958,
+        ocs:C2135,
+        ocs:C22683,
+        ocs:C5916,
+        ocs:C8181,
+        ocs:C8399,
+        ocs:C9275,
+        ocs:C9606 .
+

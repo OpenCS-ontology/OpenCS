@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11605 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_audio_codec> ;
+    skos:prefLabel "IP audio codec" ;
+    skos:related ocs:C12999,
+        ocs:C14160,
+        ocs:C18213,
+        ocs:C19350,
+        ocs:C20540,
+        ocs:C21724,
+        ocs:C22407,
+        ocs:C26216,
+        ocs:C2917,
+        ocs:C29603,
+        ocs:C3084,
+        ocs:C3391,
+        ocs:C3853,
+        ocs:C42788,
+        ocs:C43209,
+        ocs:C44034,
+        ocs:C44663,
+        ocs:C4710,
+        ocs:C8515 .
+

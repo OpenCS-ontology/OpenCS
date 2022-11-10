@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21871 a skos:Concept ;
+    skos:broader ocs:C10382 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coreset> ;
+    skos:prefLabel "Coreset" ;
+    skos:related ocs:C18359,
+        ocs:C20674,
+        ocs:C27384,
+        ocs:C28344,
+        ocs:C31733,
+        ocs:C34118,
+        ocs:C35950,
+        ocs:C37589,
+        ocs:C41076,
+        ocs:C41571,
+        ocs:C43751,
+        ocs:C44464,
+        ocs:C6279,
+        ocs:C8660,
+        ocs:C9090 .
+

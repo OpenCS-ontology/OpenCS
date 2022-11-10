@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16777 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C545,
+        ocs:C8172 ;
+    skos:closeMatch <http://dbpedia.org/resource/IQRF> ;
+    skos:prefLabel "IQRF" ;
+    skos:related ocs:C13593,
+        ocs:C14134,
+        ocs:C14931,
+        ocs:C19839,
+        ocs:C20231,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C27912,
+        ocs:C28022,
+        ocs:C28850,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C33957,
+        ocs:C35370,
+        ocs:C40705,
+        ocs:C44266,
+        ocs:C7106,
+        ocs:C9105 .
+

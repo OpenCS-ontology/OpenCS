@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35392 a skos:Concept ;
+    skos:broader ocs:C14266 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal-gamma_distribution> ;
+    skos:prefLabel "Normal-gamma distribution" ;
+    skos:related ocs:C16163,
+        ocs:C25862,
+        ocs:C28074,
+        ocs:C30115,
+        ocs:C32265,
+        ocs:C40060,
+        ocs:C45643 .
+

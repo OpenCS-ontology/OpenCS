@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28698 a skos:Concept ;
+    skos:broader ocs:C8559 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sliding_mode_control> ;
+    skos:prefLabel "Sliding mode control" ;
+    skos:related ocs:C1447,
+        ocs:C18430,
+        ocs:C30439,
+        ocs:C3987,
+        ocs:C45226 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22069 a skos:Concept ;
+    skos:broader ocs:C10917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_recursion> ;
+    skos:prefLabel "Double recursion" ;
+    skos:related ocs:C10224,
+        ocs:C10588,
+        ocs:C12926,
+        ocs:C13421,
+        ocs:C20939,
+        ocs:C24483,
+        ocs:C25057,
+        ocs:C28635,
+        ocs:C29119,
+        ocs:C32546,
+        ocs:C34540,
+        ocs:C39944,
+        ocs:C41356,
+        ocs:C41365,
+        ocs:C41497,
+        ocs:C42139,
+        ocs:C5255,
+        ocs:C5914,
+        ocs:C7574 .
+

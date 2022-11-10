@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11352 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fourier_profilometry> ;
+    skos:prefLabel "Fourier profilometry" ;
+    skos:related ocs:C10051,
+        ocs:C12661,
+        ocs:C34423,
+        ocs:C38378 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34322 a skos:Concept ;
+    skos:broader ocs:C23564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Animated_mapping> ;
+    skos:prefLabel "Animated mapping" ;
+    skos:related ocs:C21305,
+        ocs:C22,
+        ocs:C22573,
+        ocs:C24603,
+        ocs:C37642,
+        ocs:C37913,
+        ocs:C39,
+        ocs:C622 .
+

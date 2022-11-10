@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41991 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_noise_measurement> ;
+    skos:prefLabel "Audio noise measurement" ;
+    skos:related ocs:C11636,
+        ocs:C14001,
+        ocs:C14621,
+        ocs:C15505,
+        ocs:C1624,
+        ocs:C16548,
+        ocs:C19631,
+        ocs:C2300,
+        ocs:C2759,
+        ocs:C37917,
+        ocs:C8291,
+        ocs:C8637,
+        ocs:C9775 .
+

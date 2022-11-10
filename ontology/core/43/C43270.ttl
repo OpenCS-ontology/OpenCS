@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43270 a skos:Concept ;
+    skos:broader ocs:C30796,
+        ocs:C31398,
+        ocs:C35270,
+        ocs:C35868,
+        ocs:C36437 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grammar-based_code> ;
+    skos:prefLabel "Grammar-based code" ;
+    skos:related ocs:C10881,
+        ocs:C16333,
+        ocs:C1682,
+        ocs:C2937,
+        ocs:C38927,
+        ocs:C43672,
+        ocs:C5368,
+        ocs:C546 .
+

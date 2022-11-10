@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25704 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Toolchain> ;
+    skos:prefLabel "Toolchain" ;
+    skos:related ocs:C10320,
+        ocs:C10633,
+        ocs:C11,
+        ocs:C11262,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C14627,
+        ocs:C15309,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C20800,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C6172,
+        ocs:C6887,
+        ocs:C856,
+        ocs:C9 .
+

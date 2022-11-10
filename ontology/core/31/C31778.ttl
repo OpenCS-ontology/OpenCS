@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31778 a skos:Concept ;
+    skos:broader ocs:C16676 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wagner–Fischer_algorithm> ;
+    skos:prefLabel "Wagner–Fischer algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C16676,
+        ocs:C18328,
+        ocs:C19174,
+        ocs:C22275,
+        ocs:C2930,
+        ocs:C3189,
+        ocs:C3398,
+        ocs:C34809,
+        ocs:C37998,
+        ocs:C40293,
+        ocs:C43491,
+        ocs:C43627,
+        ocs:C5145,
+        ocs:C77,
+        ocs:C9556 .
+

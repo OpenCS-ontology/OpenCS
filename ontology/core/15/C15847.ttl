@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15847 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chebyshev_linkage> ;
+    skos:prefLabel "Chebyshev linkage" ;
+    skos:related ocs:C19686,
+        ocs:C23659,
+        ocs:C2948,
+        ocs:C5394,
+        ocs:C5992,
+        ocs:C7003,
+        ocs:C7848 .
+

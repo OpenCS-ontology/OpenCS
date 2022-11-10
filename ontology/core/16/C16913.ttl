@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16913 a skos:Concept ;
+    skos:broader ocs:C13685 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nuisance_parameter> ;
+    skos:prefLabel "Nuisance parameter" ;
+    skos:related ocs:C14030,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C34472,
+        ocs:C34619,
+        ocs:C6395 .
+

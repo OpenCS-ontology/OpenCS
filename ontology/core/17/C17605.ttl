@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17605 a skos:Concept ;
+    skos:broader ocs:C10568 ;
+    skos:closeMatch <http://dbpedia.org/resource/BIOS-3> ;
+    skos:prefLabel "BIOS-3" ;
+    skos:related ocs:C22930,
+        ocs:C26021,
+        ocs:C36879,
+        ocs:C5918 .
+

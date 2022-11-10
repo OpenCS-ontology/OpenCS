@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38736 a skos:Concept ;
+    skos:broader ocs:C36313,
+        ocs:C36815 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value-added_network> ;
+    skos:prefLabel "Value-added network" ;
+    skos:related ocs:C10049,
+        ocs:C1130,
+        ocs:C11861,
+        ocs:C13130,
+        ocs:C13718,
+        ocs:C16953,
+        ocs:C2169,
+        ocs:C26014,
+        ocs:C26837,
+        ocs:C28597,
+        ocs:C40359,
+        ocs:C4433,
+        ocs:C6861,
+        ocs:C7106,
+        ocs:C8614,
+        ocs:C978 .
+

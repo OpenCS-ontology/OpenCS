@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33496 a skos:Concept ;
+    skos:broader ocs:C18293,
+        ocs:C25711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Regression_diagnostic> ;
+    skos:prefLabel "Regression diagnostic" ;
+    skos:related ocs:C19042,
+        ocs:C21236,
+        ocs:C21385,
+        ocs:C26888,
+        ocs:C27703,
+        ocs:C32577,
+        ocs:C32677,
+        ocs:C38822,
+        ocs:C40926,
+        ocs:C42437,
+        ocs:C4643,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7400 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38813 a skos:Concept ;
+    skos:broader ocs:C32125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Genlock> ;
+    skos:prefLabel "Genlock" ;
+    skos:related ocs:C12430,
+        ocs:C12994,
+        ocs:C13973,
+        ocs:C15700,
+        ocs:C16856,
+        ocs:C1724,
+        ocs:C27086,
+        ocs:C28172,
+        ocs:C31323,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C44,
+        ocs:C6942,
+        ocs:C8256 .
+

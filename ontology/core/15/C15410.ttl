@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15410 a skos:Concept ;
+    skos:broader ocs:C11705,
+        ocs:C12111,
+        ocs:C3236,
+        ocs:C4099,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Link_adaptation> ;
+    skos:prefLabel "Link adaptation" ;
+    skos:related ocs:C14926,
+        ocs:C19230,
+        ocs:C19721,
+        ocs:C21929,
+        ocs:C24264,
+        ocs:C24469,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C29419,
+        ocs:C3,
+        ocs:C30037,
+        ocs:C34133,
+        ocs:C35692,
+        ocs:C40267,
+        ocs:C4099,
+        ocs:C41460,
+        ocs:C7502 .
+

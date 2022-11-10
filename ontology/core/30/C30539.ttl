@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30539 a skos:Concept ;
+    skos:broader ocs:C27572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_interference> ;
+    skos:prefLabel "Television interference" ;
+    skos:related ocs:C1219,
+        ocs:C12999,
+        ocs:C18001,
+        ocs:C21441,
+        ocs:C22511,
+        ocs:C23993,
+        ocs:C2975,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C5369,
+        ocs:C5511,
+        ocs:C7216,
+        ocs:C9691 .
+

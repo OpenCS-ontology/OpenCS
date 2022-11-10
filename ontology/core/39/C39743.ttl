@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39743 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C32918,
+        ocs:C35806,
+        ocs:C36275 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert_matrix> ;
+    skos:prefLabel "Hilbert matrix" ;
+    skos:related ocs:C14585 .
+

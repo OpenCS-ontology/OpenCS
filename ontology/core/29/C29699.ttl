@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29699 a skos:Concept ;
+    skos:broader ocs:C18985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Purchase_funnel> ;
+    skos:prefLabel "Purchase funnel" ;
+    skos:related ocs:C10764,
+        ocs:C14157,
+        ocs:C15779,
+        ocs:C18985,
+        ocs:C26014,
+        ocs:C38534 .
+

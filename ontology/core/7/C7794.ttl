@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7794 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/INTERBUS> ;
+    skos:prefLabel "INTERBUS" ;
+    skos:related ocs:C10873,
+        ocs:C11864,
+        ocs:C14858,
+        ocs:C1626,
+        ocs:C20810,
+        ocs:C31552,
+        ocs:C4458,
+        ocs:C45243,
+        ocs:C5814,
+        ocs:C6451 .
+

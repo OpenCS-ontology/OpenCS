@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30151 a skos:Concept ;
+    skos:broader ocs:C25681 ;
+    skos:prefLabel "NCI Thesaurus" ;
+    skos:related ocs:C11763,
+        ocs:C1451,
+        ocs:C16356,
+        ocs:C28117,
+        ocs:C318,
+        ocs:C32,
+        ocs:C32303,
+        ocs:C34,
+        ocs:C45213,
+        ocs:C45345,
+        ocs:C6915,
+        ocs:C8 .
+

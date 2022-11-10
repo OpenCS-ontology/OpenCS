@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16194 a skos:Concept ;
+    skos:broader ocs:C10222,
+        ocs:C1337,
+        ocs:C5405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Estimation_of_signal_parameters_via_rotational_invariance_techniques> ;
+    skos:prefLabel "Estimation of signal parameters via rotational invariance techniques" ;
+    skos:related ocs:C25436,
+        ocs:C25564,
+        ocs:C27102,
+        ocs:C32552,
+        ocs:C6591,
+        ocs:C9428 .
+

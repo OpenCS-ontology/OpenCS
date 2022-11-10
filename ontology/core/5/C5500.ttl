@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5500 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flowchart> ;
+    skos:prefLabel "Flowchart" ;
+    skos:related ocs:C10,
+        ocs:C10052,
+        ocs:C12852,
+        ocs:C13605,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C24477,
+        ocs:C28526,
+        ocs:C3042,
+        ocs:C35299,
+        ocs:C36713,
+        ocs:C37370,
+        ocs:C40410,
+        ocs:C5869,
+        ocs:C6072,
+        ocs:C6656 .
+

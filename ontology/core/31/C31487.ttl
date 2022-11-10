@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31487 a skos:Concept ;
+    skos:broader ocs:C19050,
+        ocs:C27572 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_Data_Services> ;
+    skos:prefLabel "Extended Data Services" ;
+    skos:related ocs:C12430,
+        ocs:C1724,
+        ocs:C18697,
+        ocs:C18701,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C31323,
+        ocs:C32753,
+        ocs:C32756,
+        ocs:C34890,
+        ocs:C38826,
+        ocs:C39777,
+        ocs:C45143,
+        ocs:C6349,
+        ocs:C7120,
+        ocs:C9045 .
+

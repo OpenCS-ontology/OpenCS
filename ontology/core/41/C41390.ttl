@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41390 a skos:Concept ;
+    skos:broader ocs:C30652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_sensor_network> ;
+    skos:prefLabel "Visual sensor network" ;
+    skos:related ocs:C11868,
+        ocs:C13593,
+        ocs:C1503,
+        ocs:C17236,
+        ocs:C17828,
+        ocs:C26688,
+        ocs:C31108,
+        ocs:C31749,
+        ocs:C39688,
+        ocs:C40705,
+        ocs:C4435,
+        ocs:C45204,
+        ocs:C45545,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C8172,
+        ocs:C850 .
+

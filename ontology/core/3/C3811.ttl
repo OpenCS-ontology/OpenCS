@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3811 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baby_modula-3> ;
+    skos:prefLabel "Baby modula-3" ;
+    skos:related ocs:C10720,
+        ocs:C1083,
+        ocs:C11826,
+        ocs:C18045,
+        ocs:C19,
+        ocs:C23661,
+        ocs:C26693,
+        ocs:C27954,
+        ocs:C32014,
+        ocs:C33185,
+        ocs:C36771,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C6941 .
+

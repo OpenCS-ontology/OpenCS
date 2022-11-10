@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2602 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interface_standard> ;
+    skos:prefLabel "Interface standard" ;
+    skos:related ocs:C13217,
+        ocs:C21747,
+        ocs:C22933,
+        ocs:C2700,
+        ocs:C3,
+        ocs:C30449,
+        ocs:C41099,
+        ocs:C8410,
+        ocs:C8718,
+        ocs:C9910,
+        ocs:C9931 .
+

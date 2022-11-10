@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5626 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C33,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_data> ;
+    skos:prefLabel "Dynamic data" ;
+    skos:related ocs:C11927,
+        ocs:C40575 .
+

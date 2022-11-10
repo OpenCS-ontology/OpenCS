@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42875 a skos:Concept ;
+    skos:broader ocs:C31018,
+        ocs:C31450,
+        ocs:C36808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Singular_integral_operators_of_convolution_type> ;
+    skos:prefLabel "Singular integral operators of convolution type" ;
+    skos:related ocs:C20853,
+        ocs:C21934,
+        ocs:C23752,
+        ocs:C26263,
+        ocs:C28787,
+        ocs:C29528,
+        ocs:C30507,
+        ocs:C3589,
+        ocs:C38378,
+        ocs:C38849,
+        ocs:C42608 .
+

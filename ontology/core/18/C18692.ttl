@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18692 a skos:Concept ;
+    skos:broader ocs:C13306,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Soft_IP> ;
+    skos:prefLabel "Soft IP" ;
+    skos:related ocs:C13306,
+        ocs:C14002,
+        ocs:C18582,
+        ocs:C18764,
+        ocs:C18977,
+        ocs:C24730,
+        ocs:C27519,
+        ocs:C30696,
+        ocs:C31185,
+        ocs:C31789,
+        ocs:C32561,
+        ocs:C34393,
+        ocs:C36712 .
+

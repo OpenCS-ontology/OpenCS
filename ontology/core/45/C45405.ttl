@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45405 a skos:Concept ;
+    skos:broader ocs:C35705,
+        ocs:C37391 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amblyceps> ;
+    skos:prefLabel "Amblyceps" ;
+    skos:related ocs:C35705,
+        ocs:C37148,
+        ocs:C37839,
+        ocs:C38973,
+        ocs:C42957,
+        ocs:C43078,
+        ocs:C44015,
+        ocs:C45301 .
+

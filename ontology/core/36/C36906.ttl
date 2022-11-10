@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36906 a skos:Concept ;
+    skos:broader ocs:C27701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interquartile_mean> ;
+    skos:prefLabel "Interquartile mean" ;
+    skos:related ocs:C12147,
+        ocs:C12811,
+        ocs:C22455,
+        ocs:C24728,
+        ocs:C25294,
+        ocs:C25320,
+        ocs:C33306,
+        ocs:C39575,
+        ocs:C4752,
+        ocs:C662 .
+

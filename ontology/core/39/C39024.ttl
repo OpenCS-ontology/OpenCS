@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39024 a skos:Concept ;
+    skos:broader ocs:C33774,
+        ocs:C34228 ;
+    skos:closeMatch <http://dbpedia.org/resource/Planetary_equilibrium_temperature> ;
+    skos:prefLabel "Planetary equilibrium temperature" ;
+    skos:related ocs:C19222,
+        ocs:C22752,
+        ocs:C25028,
+        ocs:C25630,
+        ocs:C25918,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C38054,
+        ocs:C45054,
+        ocs:C597 .
+

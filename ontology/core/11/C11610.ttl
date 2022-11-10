@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11610 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guobiao_standards> ;
+    skos:prefLabel "Guobiao standards" ;
+    skos:related ocs:C10881,
+        ocs:C13253,
+        ocs:C25538,
+        ocs:C29048,
+        ocs:C31517,
+        ocs:C36139,
+        ocs:C37265,
+        ocs:C40353,
+        ocs:C40578,
+        ocs:C44774,
+        ocs:C44962,
+        ocs:C5126,
+        ocs:C6505,
+        ocs:C7446,
+        ocs:C9162 .
+

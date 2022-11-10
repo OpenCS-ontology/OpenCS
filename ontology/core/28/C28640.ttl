@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28640 a skos:Concept ;
+    skos:broader ocs:C12099,
+        ocs:C8791 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mealy_machine> ;
+    skos:prefLabel "Mealy machine" ;
+    skos:related ocs:C12587,
+        ocs:C14235,
+        ocs:C15002,
+        ocs:C17566,
+        ocs:C19560,
+        ocs:C21398,
+        ocs:C22100,
+        ocs:C22699,
+        ocs:C30272,
+        ocs:C3168,
+        ocs:C33825,
+        ocs:C38187,
+        ocs:C39145,
+        ocs:C39850,
+        ocs:C43627,
+        ocs:C45537,
+        ocs:C8791 .
+

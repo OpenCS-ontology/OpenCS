@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18495 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C3452 ;
+    skos:closeMatch <http://dbpedia.org/resource/PCI_eXtensions_for_Instrumentation> ;
+    skos:prefLabel "PCI eXtensions for Instrumentation" ;
+    skos:related ocs:C13012,
+        ocs:C14077,
+        ocs:C14691,
+        ocs:C2084,
+        ocs:C26210,
+        ocs:C28138,
+        ocs:C35468,
+        ocs:C38157,
+        ocs:C4159,
+        ocs:C490,
+        ocs:C5624,
+        ocs:C8404,
+        ocs:C9093 .
+

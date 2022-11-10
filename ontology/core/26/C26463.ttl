@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26463 a skos:Concept ;
+    skos:broader ocs:C13457 ;
+    skos:closeMatch <http://dbpedia.org/resource/Names_of_small_numbers> ;
+    skos:prefLabel "Names of small numbers" ;
+    skos:related ocs:C10581,
+        ocs:C5690 .
+

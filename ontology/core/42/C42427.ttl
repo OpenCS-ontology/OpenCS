@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42427 a skos:Concept ;
+    skos:broader ocs:C30982,
+        ocs:C33104,
+        ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Principal_(computer_security)> ;
+    skos:prefLabel "Principal (computer security)" ;
+    skos:related ocs:C10214,
+        ocs:C21232,
+        ocs:C22970,
+        ocs:C2359,
+        ocs:C2545,
+        ocs:C26161,
+        ocs:C2674,
+        ocs:C30860,
+        ocs:C3176,
+        ocs:C32076,
+        ocs:C33249,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C35047,
+        ocs:C35388,
+        ocs:C41159,
+        ocs:C4513,
+        ocs:C5112,
+        ocs:C7006,
+        ocs:C7738 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36281 a skos:Concept ;
+    skos:broader ocs:C18096 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standing_wave_ratio> ;
+    skos:prefLabel "Standing wave ratio" ;
+    skos:related ocs:C1219,
+        ocs:C22274,
+        ocs:C22702,
+        ocs:C40720,
+        ocs:C4205,
+        ocs:C43780,
+        ocs:C44141,
+        ocs:C44664,
+        ocs:C6913,
+        ocs:C9691 .
+

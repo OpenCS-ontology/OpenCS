@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17564 a skos:Concept ;
+    skos:broader ocs:C12999,
+        ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_channel_frequencies> ;
+    skos:prefLabel "Television channel frequencies" ;
+    skos:related ocs:C10409,
+        ocs:C12544,
+        ocs:C14053,
+        ocs:C17663,
+        ocs:C20140,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C42783,
+        ocs:C44707,
+        ocs:C45143,
+        ocs:C512,
+        ocs:C5369,
+        ocs:C7216,
+        ocs:C8636 .
+

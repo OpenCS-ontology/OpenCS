@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1789 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aerial_image> ;
+    skos:prefLabel "Aerial image" ;
+    skos:related ocs:C12163,
+        ocs:C12492,
+        ocs:C16043,
+        ocs:C201,
+        ocs:C22,
+        ocs:C23564,
+        ocs:C24066,
+        ocs:C27256,
+        ocs:C6032,
+        ocs:C6191,
+        ocs:C622 .
+

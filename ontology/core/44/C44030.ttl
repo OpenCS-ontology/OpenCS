@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44030 a skos:Concept ;
+    skos:broader ocs:C30646,
+        ocs:C36912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modified_discrete_cosine_transform> ;
+    skos:prefLabel "Modified discrete cosine transform" ;
+    skos:related ocs:C12046,
+        ocs:C12152,
+        ocs:C19334,
+        ocs:C2168,
+        ocs:C2937,
+        ocs:C31114,
+        ocs:C34697,
+        ocs:C36139,
+        ocs:C39970,
+        ocs:C40311,
+        ocs:C44962,
+        ocs:C8088 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33011 a skos:Concept ;
+    skos:broader ocs:C16744,
+        ocs:C23079 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypoelliptic_operator> ;
+    skos:prefLabel "Hypoelliptic operator" ;
+    skos:related ocs:C16744,
+        ocs:C20390,
+        ocs:C23079,
+        ocs:C41157,
+        ocs:C45424 .
+

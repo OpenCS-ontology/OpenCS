@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1388 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C25,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Music_and_artificial_intelligence> ;
+    skos:prefLabel "Music and artificial intelligence" ;
+    skos:related ocs:C1,
+        ocs:C10616,
+        ocs:C13610,
+        ocs:C24478,
+        ocs:C25,
+        ocs:C32,
+        ocs:C3900,
+        ocs:C39311,
+        ocs:C44765,
+        ocs:C5776,
+        ocs:C8,
+        ocs:C9022 .
+

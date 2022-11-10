@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38829 a skos:Concept ;
+    skos:broader ocs:C30238,
+        ocs:C32133,
+        ocs:C34619,
+        ocs:C34894 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bayesian_programming> ;
+    skos:prefLabel "Bayesian programming" ;
+    skos:related ocs:C12748,
+        ocs:C14161,
+        ocs:C14620,
+        ocs:C18566,
+        ocs:C19174,
+        ocs:C21710,
+        ocs:C26265,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C29486,
+        ocs:C30115,
+        ocs:C30864,
+        ocs:C3987,
+        ocs:C39922,
+        ocs:C42696,
+        ocs:C5856,
+        ocs:C6021,
+        ocs:C6291 .
+

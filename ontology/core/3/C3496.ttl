@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3496 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Accident factor" ;
+    skos:related ocs:C1,
+        ocs:C1262,
+        ocs:C35,
+        ocs:C545,
+        ocs:C546,
+        ocs:C5633,
+        ocs:C6072 .
+

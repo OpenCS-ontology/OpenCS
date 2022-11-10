@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C92 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C26,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/User-in-the-loop> ;
+    skos:prefLabel "User-in-the-loop" ;
+    skos:related ocs:C15410,
+        ocs:C15728,
+        ocs:C18418,
+        ocs:C19721,
+        ocs:C26,
+        ocs:C29419,
+        ocs:C32548,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C39574,
+        ocs:C4665 .
+

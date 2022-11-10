@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27533 a skos:Concept ;
+    skos:broader ocs:C12759,
+        ocs:C8020 ;
+    skos:closeMatch <http://dbpedia.org/resource/German_orthography> ;
+    skos:prefLabel "German orthography" ;
+    skos:related ocs:C12689,
+        ocs:C13096,
+        ocs:C14527,
+        ocs:C17395,
+        ocs:C2025,
+        ocs:C22147,
+        ocs:C25565,
+        ocs:C27326,
+        ocs:C27886,
+        ocs:C36864,
+        ocs:C6282,
+        ocs:C7131,
+        ocs:C8020 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19343 a skos:Concept ;
+    skos:broader ocs:C3065 ;
+    skos:closeMatch <http://dbpedia.org/resource/Void_coefficient> ;
+    skos:prefLabel "Void coefficient" ;
+    skos:related ocs:C27905 .
+

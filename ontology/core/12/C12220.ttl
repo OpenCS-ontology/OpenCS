@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12220 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chamorro_language> ;
+    skos:prefLabel "Chamorro language" ;
+    skos:related ocs:C11458,
+        ocs:C12689,
+        ocs:C13567,
+        ocs:C172,
+        ocs:C24250 .
+

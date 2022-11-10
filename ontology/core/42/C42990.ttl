@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42990 a skos:Concept ;
+    skos:broader ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Category_utility> ;
+    skos:prefLabel "Category utility" ;
+    skos:related ocs:C10767,
+        ocs:C14622,
+        ocs:C21471,
+        ocs:C23431,
+        ocs:C246,
+        ocs:C27705,
+        ocs:C2874,
+        ocs:C29204,
+        ocs:C33141,
+        ocs:C45455,
+        ocs:C6021,
+        ocs:C8332 .
+

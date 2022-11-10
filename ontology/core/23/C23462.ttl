@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23462 a skos:Concept ;
+    skos:broader ocs:C3778 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_Process_Framework_(eTOM)> ;
+    skos:prefLabel "Enhanced Telecom Operations Map" ;
+    skos:related ocs:C12583,
+        ocs:C18539,
+        ocs:C197,
+        ocs:C19909,
+        ocs:C20143,
+        ocs:C32015,
+        ocs:C32188,
+        ocs:C34533,
+        ocs:C3468,
+        ocs:C34923,
+        ocs:C35343,
+        ocs:C35399,
+        ocs:C3778,
+        ocs:C44294,
+        ocs:C45437,
+        ocs:C45641,
+        ocs:C8896,
+        ocs:C9700 .
+

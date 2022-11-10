@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4863 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcode> ;
+    skos:prefLabel "Microcode" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C11,
+        ocs:C11047,
+        ocs:C11553,
+        ocs:C12431,
+        ocs:C14917,
+        ocs:C15,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C27610,
+        ocs:C35009,
+        ocs:C37538,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29378 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_radio> ;
+    skos:prefLabel "Internet radio" ;
+    skos:related ocs:C10409,
+        ocs:C12152,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C19366,
+        ocs:C19903,
+        ocs:C22326,
+        ocs:C26768,
+        ocs:C28881,
+        ocs:C31899,
+        ocs:C3335,
+        ocs:C35703,
+        ocs:C8614 .
+

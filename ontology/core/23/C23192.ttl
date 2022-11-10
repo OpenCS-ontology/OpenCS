@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23192 a skos:Concept ;
+    skos:broader ocs:C9692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patron-driven_acquisition> ;
+    skos:prefLabel "Patron-driven acquisition" ;
+    skos:related ocs:C10220,
+        ocs:C10413,
+        ocs:C11492,
+        ocs:C1458,
+        ocs:C15008,
+        ocs:C1887,
+        ocs:C23629,
+        ocs:C24891,
+        ocs:C26424,
+        ocs:C26542,
+        ocs:C31652,
+        ocs:C4,
+        ocs:C5877,
+        ocs:C7062,
+        ocs:C8770,
+        ocs:C9692 .
+

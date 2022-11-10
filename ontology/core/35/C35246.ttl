@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35246 a skos:Concept ;
+    skos:broader ocs:C14264 ;
+    skos:prefLabel "Sodium channel activity" ;
+    skos:related ocs:C18138,
+        ocs:C23973 .
+

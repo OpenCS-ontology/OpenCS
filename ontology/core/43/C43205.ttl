@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43205 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Otothyris> ;
+    skos:prefLabel "Otothyris" ;
+    skos:related ocs:C38386,
+        ocs:C38565,
+        ocs:C38930,
+        ocs:C39219,
+        ocs:C39594,
+        ocs:C39985,
+        ocs:C41675,
+        ocs:C43134,
+        ocs:C43241,
+        ocs:C45009,
+        ocs:C45689 .
+

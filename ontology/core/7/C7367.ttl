@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7367 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Critical_hours> ;
+    skos:prefLabel "Critical hours" ;
+    skos:related ocs:C10409,
+        ocs:C1942,
+        ocs:C1951,
+        ocs:C24264,
+        ocs:C31899,
+        ocs:C8388,
+        ocs:C8700 .
+

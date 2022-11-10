@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45501 a skos:Concept ;
+    skos:broader ocs:C32469 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amur_catfish> ;
+    skos:prefLabel "Amur catfish" ;
+    skos:related ocs:C24236,
+        ocs:C29991,
+        ocs:C30148,
+        ocs:C36292,
+        ocs:C43257 .
+

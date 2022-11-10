@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42563 a skos:Concept ;
+    skos:broader ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schläfli_graph> ;
+    skos:prefLabel "Schläfli graph" ;
+    skos:related ocs:C17043,
+        ocs:C30621,
+        ocs:C30730,
+        ocs:C36770,
+        ocs:C38434,
+        ocs:C38706,
+        ocs:C41430,
+        ocs:C41577,
+        ocs:C41794,
+        ocs:C42340,
+        ocs:C42707,
+        ocs:C42813,
+        ocs:C43125,
+        ocs:C43568,
+        ocs:C44168,
+        ocs:C44630,
+        ocs:C45361,
+        ocs:C45741 .
+

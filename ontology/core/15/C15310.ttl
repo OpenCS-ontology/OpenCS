@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15310 a skos:Concept ;
+    skos:broader ocs:C4528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_wheel> ;
+    skos:prefLabel "Color wheel" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C20177,
+        ocs:C39103,
+        ocs:C41483,
+        ocs:C42852,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C966 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22780 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_community> ;
+    skos:prefLabel "Web community" ;
+    skos:related ocs:C16205,
+        ocs:C1650,
+        ocs:C17557,
+        ocs:C17658,
+        ocs:C18683,
+        ocs:C22668,
+        ocs:C22956,
+        ocs:C23866,
+        ocs:C25752,
+        ocs:C28801,
+        ocs:C30405,
+        ocs:C30659,
+        ocs:C31,
+        ocs:C32880,
+        ocs:C35896,
+        ocs:C39858,
+        ocs:C4712,
+        ocs:C8614 .
+

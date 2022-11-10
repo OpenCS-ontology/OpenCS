@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4508 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C20 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_engineering> ;
+    skos:prefLabel "Computational Science and Engineering" .
+

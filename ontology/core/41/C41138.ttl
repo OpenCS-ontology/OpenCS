@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41138 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C32129 ;
+    skos:closeMatch <http://dbpedia.org/resource/Horn-satisfiability> ;
+    skos:prefLabel "Horn-satisfiability" ;
+    skos:related ocs:C10327,
+        ocs:C16696,
+        ocs:C17372,
+        ocs:C19031,
+        ocs:C19908,
+        ocs:C22946,
+        ocs:C23148,
+        ocs:C28386,
+        ocs:C29762,
+        ocs:C32129,
+        ocs:C3678,
+        ocs:C39073,
+        ocs:C39136,
+        ocs:C4149,
+        ocs:C4263,
+        ocs:C45817,
+        ocs:C5714,
+        ocs:C6531,
+        ocs:C8660,
+        ocs:C9450 .
+

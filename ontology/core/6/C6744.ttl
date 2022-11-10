@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6744 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Publishing_Requirements_for_Industry_Standard_Metadata> ;
+    skos:prefLabel "Publishing Requirements for Industry Standard Metadata" ;
+    skos:related ocs:C11927,
+        ocs:C16159,
+        ocs:C19324,
+        ocs:C21066,
+        ocs:C23709,
+        ocs:C25617,
+        ocs:C26656,
+        ocs:C31343,
+        ocs:C31929,
+        ocs:C33709,
+        ocs:C37046,
+        ocs:C38812,
+        ocs:C39286,
+        ocs:C40147,
+        ocs:C44193,
+        ocs:C4500,
+        ocs:C6915,
+        ocs:C942 .
+

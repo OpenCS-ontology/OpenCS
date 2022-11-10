@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9059 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-site_tracing> ;
+    skos:prefLabel "Cross-site tracing" ;
+    skos:related ocs:C12858,
+        ocs:C16338,
+        ocs:C16966,
+        ocs:C17183,
+        ocs:C19156,
+        ocs:C22597,
+        ocs:C24131,
+        ocs:C28801,
+        ocs:C29803,
+        ocs:C30926,
+        ocs:C31756,
+        ocs:C38118,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C41784,
+        ocs:C42057,
+        ocs:C45494,
+        ocs:C4918,
+        ocs:C7738 .
+

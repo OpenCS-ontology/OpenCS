@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7786 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dreyfus_model_of_skill_acquisition> ;
+    skos:prefLabel "Dreyfus model of skill acquisition" ;
+    skos:related ocs:C11021,
+        ocs:C31111,
+        ocs:C33429,
+        ocs:C37820,
+        ocs:C6551 .
+

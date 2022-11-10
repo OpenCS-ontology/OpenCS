@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26971 a skos:Concept ;
+    skos:broader ocs:C2468,
+        ocs:C6749,
+        ocs:C9106 ;
+    skos:prefLabel "Knowledge base question answering" .
+

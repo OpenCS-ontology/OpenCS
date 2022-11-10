@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29778 a skos:Concept ;
+    skos:broader ocs:C23580 ;
+    skos:prefLabel "Bug Search" ;
+    skos:related ocs:C23580,
+        ocs:C31,
+        ocs:C7800 .
+

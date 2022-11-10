@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29107 a skos:Concept ;
+    skos:broader ocs:C12262,
+        ocs:C4816,
+        ocs:C5336,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unit_in_the_last_place> ;
+    skos:prefLabel "Unit in the last place" ;
+    skos:related ocs:C12262,
+        ocs:C12315,
+        ocs:C21384,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C24266,
+        ocs:C28063,
+        ocs:C31030,
+        ocs:C31341,
+        ocs:C34400,
+        ocs:C3450,
+        ocs:C35045,
+        ocs:C39774,
+        ocs:C40691,
+        ocs:C42983,
+        ocs:C45395,
+        ocs:C4816,
+        ocs:C5468,
+        ocs:C5566,
+        ocs:C8581 .
+

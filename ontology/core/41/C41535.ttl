@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41535 a skos:Concept ;
+    skos:broader ocs:C30801,
+        ocs:C32266,
+        ocs:C33454,
+        ocs:C34380 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fundamental_theorem_of_Galois_theory> ;
+    skos:prefLabel "Fundamental theorem of Galois theory" ;
+    skos:related ocs:C32266,
+        ocs:C33454,
+        ocs:C39359,
+        ocs:C45516 .
+

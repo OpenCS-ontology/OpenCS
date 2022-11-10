@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25699 a skos:Concept ;
+    skos:broader ocs:C4754,
+        ocs:C5913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moving_map_display> ;
+    skos:prefLabel "Moving map display" ;
+    skos:related ocs:C11158,
+        ocs:C12641,
+        ocs:C16293,
+        ocs:C16352,
+        ocs:C1645,
+        ocs:C16625,
+        ocs:C16797,
+        ocs:C20845,
+        ocs:C22328,
+        ocs:C23914,
+        ocs:C27698,
+        ocs:C35428,
+        ocs:C36895,
+        ocs:C42471,
+        ocs:C6311,
+        ocs:C7654 .
+

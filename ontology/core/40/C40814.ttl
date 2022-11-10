@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40814 a skos:Concept ;
+    skos:broader ocs:C30409,
+        ocs:C36540,
+        ocs:C37370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Component_business_model> ;
+    skos:prefLabel "Component business model" ;
+    skos:related ocs:C12146,
+        ocs:C17238,
+        ocs:C21881,
+        ocs:C22551,
+        ocs:C22668,
+        ocs:C24449,
+        ocs:C27565,
+        ocs:C28526,
+        ocs:C29047,
+        ocs:C35701,
+        ocs:C40481 .
+

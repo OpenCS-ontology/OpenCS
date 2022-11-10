@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42314 a skos:Concept ;
+    skos:broader ocs:C36328,
+        ocs:C37391 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parotocinclus> ;
+    skos:prefLabel "Parotocinclus" ;
+    skos:related ocs:C36328,
+        ocs:C37834,
+        ocs:C38386,
+        ocs:C38565,
+        ocs:C39157,
+        ocs:C39594,
+        ocs:C41487,
+        ocs:C41847,
+        ocs:C42992,
+        ocs:C43241,
+        ocs:C43683,
+        ocs:C44140,
+        ocs:C44890,
+        ocs:C45009,
+        ocs:C45232 .
+

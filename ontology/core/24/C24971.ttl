@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24971 a skos:Concept ;
+    skos:broader ocs:C12638,
+        ocs:C84 ;
+    skos:closeMatch <http://dbpedia.org/resource/Treemapping> ;
+    skos:prefLabel "Treemapping" ;
+    skos:related ocs:C10,
+        ocs:C10382,
+        ocs:C11094,
+        ocs:C12322,
+        ocs:C13808,
+        ocs:C14707,
+        ocs:C19998,
+        ocs:C24603,
+        ocs:C25959,
+        ocs:C26009,
+        ocs:C27130,
+        ocs:C36835,
+        ocs:C383,
+        ocs:C40923,
+        ocs:C935,
+        ocs:C9876 .
+

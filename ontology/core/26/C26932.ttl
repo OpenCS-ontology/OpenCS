@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26932 a skos:Concept ;
+    skos:broader ocs:C10904,
+        ocs:C11927,
+        ocs:C13252 ;
+    skos:prefLabel "Soap message" .
+

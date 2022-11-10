@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38729 a skos:Concept ;
+    skos:broader ocs:C31198 ;
+    skos:closeMatch <http://dbpedia.org/resource/Out-of-kilter_algorithm> ;
+    skos:prefLabel "Out-of-kilter algorithm" ;
+    skos:related ocs:C10,
+        ocs:C13312,
+        ocs:C27399,
+        ocs:C30406,
+        ocs:C37560,
+        ocs:C39895,
+        ocs:C40622,
+        ocs:C43279,
+        ocs:C43466,
+        ocs:C44580,
+        ocs:C45574 .
+

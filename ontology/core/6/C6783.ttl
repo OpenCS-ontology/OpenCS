@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6783 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Volumetric_printing> ;
+    skos:prefLabel "Volumetric printing" ;
+    skos:related ocs:C14023,
+        ocs:C15842,
+        ocs:C19228,
+        ocs:C20850,
+        ocs:C2121,
+        ocs:C244,
+        ocs:C2883,
+        ocs:C32113,
+        ocs:C36940,
+        ocs:C8399,
+        ocs:C969 .
+

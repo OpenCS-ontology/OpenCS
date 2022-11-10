@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21318 a skos:Concept ;
+    skos:broader ocs:C3401,
+        ocs:C9538 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kirszbraun_theorem> ;
+    skos:prefLabel "Kirszbraun theorem" ;
+    skos:related ocs:C18225,
+        ocs:C23927,
+        ocs:C25758,
+        ocs:C31924,
+        ocs:C33102,
+        ocs:C36920,
+        ocs:C38409,
+        ocs:C38682,
+        ocs:C41141,
+        ocs:C45668 .
+

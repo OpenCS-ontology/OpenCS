@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8723 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layered_Service_Provider> ;
+    skos:prefLabel "Layered Service Provider" ;
+    skos:related ocs:C10495,
+        ocs:C11293,
+        ocs:C16481,
+        ocs:C18986,
+        ocs:C19674,
+        ocs:C23666,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C28881,
+        ocs:C29359,
+        ocs:C2941,
+        ocs:C34356,
+        ocs:C35331,
+        ocs:C35371,
+        ocs:C39947,
+        ocs:C443,
+        ocs:C44734,
+        ocs:C44877,
+        ocs:C8614 .
+

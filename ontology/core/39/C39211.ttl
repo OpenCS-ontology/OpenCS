@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39211 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/QName> ;
+    skos:prefLabel "QName" ;
+    skos:related ocs:C10317,
+        ocs:C11927,
+        ocs:C16159,
+        ocs:C16739,
+        ocs:C23709,
+        ocs:C30182,
+        ocs:C30237,
+        ocs:C31343,
+        ocs:C33916,
+        ocs:C35570,
+        ocs:C37980,
+        ocs:C38812,
+        ocs:C39973,
+        ocs:C44163,
+        ocs:C44738,
+        ocs:C4500,
+        ocs:C45387,
+        ocs:C6553,
+        ocs:C9836 .
+

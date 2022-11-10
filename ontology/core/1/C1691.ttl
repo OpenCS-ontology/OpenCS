@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1691 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Carpool> ;
+    skos:prefLabel "Carpool" ;
+    skos:related ocs:C12758,
+        ocs:C14215,
+        ocs:C25914,
+        ocs:C6243 .
+

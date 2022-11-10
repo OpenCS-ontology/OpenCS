@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23075 a skos:Concept ;
+    skos:broader ocs:C5247 ;
+    skos:closeMatch <http://dbpedia.org/resource/Indirect_fire> ;
+    skos:prefLabel "Indirect fire" ;
+    skos:related ocs:C14803,
+        ocs:C27381,
+        ocs:C3232,
+        ocs:C5247,
+        ocs:C9066 .
+

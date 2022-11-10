@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23411 a skos:Concept ;
+    skos:broader ocs:C1338,
+        ocs:C4513,
+        ocs:C7006 ;
+    skos:prefLabel "Mobile authentication" .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C791 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/White_Alice_Communications_System> ;
+    skos:prefLabel "White Alice Communications System" ;
+    skos:related ocs:C11824,
+        ocs:C12942,
+        ocs:C14099,
+        ocs:C19810,
+        ocs:C21945,
+        ocs:C22200,
+        ocs:C29295,
+        ocs:C3,
+        ocs:C3044,
+        ocs:C33577,
+        ocs:C35931,
+        ocs:C36668,
+        ocs:C45299,
+        ocs:C7216 .
+

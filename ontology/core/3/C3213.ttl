@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3213 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unicode_compatibility_characters> ;
+    skos:prefLabel "Unicode compatibility characters" ;
+    skos:related ocs:C12547,
+        ocs:C12983,
+        ocs:C13253,
+        ocs:C13704,
+        ocs:C20976,
+        ocs:C27886,
+        ocs:C29368,
+        ocs:C36380,
+        ocs:C36572,
+        ocs:C5126,
+        ocs:C7131,
+        ocs:C988 .
+

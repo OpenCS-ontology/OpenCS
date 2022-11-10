@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27658 a skos:Concept ;
+    skos:broader ocs:C6243 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_traffic_management> ;
+    skos:prefLabel "Active traffic management" ;
+    skos:related ocs:C14828,
+        ocs:C1581,
+        ocs:C16107,
+        ocs:C19038,
+        ocs:C25914,
+        ocs:C31393,
+        ocs:C32722,
+        ocs:C3390,
+        ocs:C34503,
+        ocs:C38216,
+        ocs:C38665,
+        ocs:C39139,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9657 .
+

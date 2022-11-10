@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C704 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speech_tempo> ;
+    skos:prefLabel "Speech tempo" ;
+    skos:related ocs:C11722,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C19812,
+        ocs:C2025,
+        ocs:C20692,
+        ocs:C22147,
+        ocs:C23422,
+        ocs:C25849,
+        ocs:C27886,
+        ocs:C28600,
+        ocs:C34315,
+        ocs:C34813,
+        ocs:C5717,
+        ocs:C9884 .
+

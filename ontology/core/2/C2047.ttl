@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2047 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Viewfinder> ;
+    skos:prefLabel "Viewfinder" ;
+    skos:related ocs:C11324,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C29172,
+        ocs:C4448,
+        ocs:C6075,
+        ocs:C7789,
+        ocs:C8021 .
+

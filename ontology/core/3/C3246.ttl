@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3246 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/On-board_diagnostics> ;
+    skos:prefLabel "On-board diagnostics" ;
+    skos:related ocs:C10346,
+        ocs:C3945,
+        ocs:C4428,
+        ocs:C5639 .
+

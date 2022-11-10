@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45463 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_normalization> ;
+    skos:prefLabel "Audio normalization" ;
+    skos:related ocs:C10778,
+        ocs:C11747,
+        ocs:C154,
+        ocs:C16548,
+        ocs:C19051,
+        ocs:C1959,
+        ocs:C2300,
+        ocs:C24238,
+        ocs:C26575,
+        ocs:C26758,
+        ocs:C3896,
+        ocs:C44262,
+        ocs:C4875,
+        ocs:C520 .
+

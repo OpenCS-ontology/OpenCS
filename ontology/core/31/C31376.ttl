@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31376 a skos:Concept ;
+    skos:broader ocs:C28739 ;
+    skos:prefLabel "Metadata Type" ;
+    skos:related ocs:C1253,
+        ocs:C13,
+        ocs:C14159,
+        ocs:C27882,
+        ocs:C8614,
+        ocs:C9312 .
+

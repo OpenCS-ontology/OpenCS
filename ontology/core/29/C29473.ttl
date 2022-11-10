@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29473 a skos:Concept ;
+    skos:broader ocs:C8781 ;
+    skos:closeMatch <http://dbpedia.org/resource/De_Boor's_algorithm> ;
+    skos:prefLabel "De Boor's algorithm" ;
+    skos:related ocs:C25020,
+        ocs:C26016,
+        ocs:C31512,
+        ocs:C37972,
+        ocs:C3851,
+        ocs:C39056,
+        ocs:C39314,
+        ocs:C39716,
+        ocs:C40577,
+        ocs:C40629,
+        ocs:C43001,
+        ocs:C43908,
+        ocs:C45272 .
+

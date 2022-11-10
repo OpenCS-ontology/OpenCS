@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20880 a skos:Concept ;
+    skos:broader ocs:C7858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Manual_communication> ;
+    skos:prefLabel "Manual communication" ;
+    skos:related ocs:C10566,
+        ocs:C15966,
+        ocs:C2025,
+        ocs:C21315,
+        ocs:C23816,
+        ocs:C2480,
+        ocs:C25188,
+        ocs:C26953,
+        ocs:C30694,
+        ocs:C35636,
+        ocs:C7858,
+        ocs:C855,
+        ocs:C9106 .
+

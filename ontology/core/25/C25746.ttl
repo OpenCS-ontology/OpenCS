@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25746 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finite_verb> ;
+    skos:prefLabel "Finite verb" ;
+    skos:related ocs:C1034,
+        ocs:C10760,
+        ocs:C11932,
+        ocs:C17260,
+        ocs:C20016,
+        ocs:C23321,
+        ocs:C24499,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C32275,
+        ocs:C33168,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C44227,
+        ocs:C6545,
+        ocs:C6764 .
+

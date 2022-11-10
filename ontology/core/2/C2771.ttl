@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2771 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_Application_Messaging_Protocol> ;
+    skos:prefLabel "Web Application Messaging Protocol" ;
+    skos:related ocs:C10694,
+        ocs:C11152,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C15320,
+        ocs:C16338,
+        ocs:C17238,
+        ocs:C18398,
+        ocs:C21166,
+        ocs:C21549,
+        ocs:C22597,
+        ocs:C22709,
+        ocs:C24131,
+        ocs:C27982,
+        ocs:C39955,
+        ocs:C41498,
+        ocs:C42755,
+        ocs:C661,
+        ocs:C8577 .
+

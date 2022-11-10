@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19822 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_management> ;
+    skos:prefLabel "Test management" ;
+    skos:related ocs:C18415,
+        ocs:C19404,
+        ocs:C2044,
+        ocs:C2674,
+        ocs:C29044,
+        ocs:C29422,
+        ocs:C29790,
+        ocs:C30438,
+        ocs:C31890,
+        ocs:C35701,
+        ocs:C36479,
+        ocs:C37174,
+        ocs:C39335,
+        ocs:C40064,
+        ocs:C41342,
+        ocs:C45468,
+        ocs:C4558,
+        ocs:C7053,
+        ocs:C8895 .
+

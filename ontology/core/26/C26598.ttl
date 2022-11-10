@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26598 a skos:Concept ;
+    skos:broader ocs:C2115,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_Map_Server> ;
+    skos:prefLabel "Internet Map Server" ;
+    skos:related ocs:C18574,
+        ocs:C23889,
+        ocs:C27492,
+        ocs:C31518,
+        ocs:C33465,
+        ocs:C38189,
+        ocs:C38891,
+        ocs:C39292,
+        ocs:C42402,
+        ocs:C43712,
+        ocs:C6224 .
+

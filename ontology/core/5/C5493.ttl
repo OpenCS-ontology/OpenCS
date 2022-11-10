@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5493 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_security> ;
+    skos:prefLabel "Data security" ;
+    skos:related ocs:C10565,
+        ocs:C13767,
+        ocs:C1399,
+        ocs:C22957,
+        ocs:C26,
+        ocs:C31489,
+        ocs:C3231,
+        ocs:C33857,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C5692,
+        ocs:C6,
+        ocs:C7006,
+        ocs:C7510,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C9838 .
+

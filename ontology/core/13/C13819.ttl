@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13819 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:prefLabel "Client status" ;
+    skos:related ocs:C10586,
+        ocs:C11417,
+        ocs:C21976,
+        ocs:C23856,
+        ocs:C3,
+        ocs:C30,
+        ocs:C33,
+        ocs:C35,
+        ocs:C4099,
+        ocs:C9605 .
+

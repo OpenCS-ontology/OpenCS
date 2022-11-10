@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8879 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C24,
+        ocs:C35 ;
+    skos:prefLabel "Suspicious behaviour" ;
+    skos:related ocs:C1092,
+        ocs:C11868,
+        ocs:C12206,
+        ocs:C197,
+        ocs:C25,
+        ocs:C26,
+        ocs:C29210,
+        ocs:C33,
+        ocs:C34,
+        ocs:C4879,
+        ocs:C5,
+        ocs:C666,
+        ocs:C7,
+        ocs:C8614 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13227 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alphanumeric_shellcode> ;
+    skos:prefLabel "Alphanumeric shellcode" ;
+    skos:related ocs:C10214,
+        ocs:C14649,
+        ocs:C18456,
+        ocs:C19173,
+        ocs:C23560,
+        ocs:C24596,
+        ocs:C29734,
+        ocs:C31870,
+        ocs:C39214,
+        ocs:C41901,
+        ocs:C42900,
+        ocs:C5126,
+        ocs:C6258,
+        ocs:C8899,
+        ocs:C9162 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24858 a skos:Concept ;
+    skos:broader ocs:C10825,
+        ocs:C5659,
+        ocs:C8077 ;
+    skos:closeMatch <http://dbpedia.org/resource/Truth_function> ;
+    skos:prefLabel "Truth function" ;
+    skos:related ocs:C10825,
+        ocs:C11283,
+        ocs:C11635,
+        ocs:C13411,
+        ocs:C13855,
+        ocs:C15662,
+        ocs:C17884,
+        ocs:C22706,
+        ocs:C26482,
+        ocs:C30600,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C45525,
+        ocs:C45667,
+        ocs:C5714,
+        ocs:C8077 .
+

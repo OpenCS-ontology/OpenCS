@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37322 a skos:Concept ;
+    skos:broader ocs:C14985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basis_pursuit> ;
+    skos:prefLabel "Basis pursuit" ;
+    skos:related ocs:C11693,
+        ocs:C14985,
+        ocs:C15665,
+        ocs:C1794,
+        ocs:C34225,
+        ocs:C34842,
+        ocs:C38274,
+        ocs:C41428,
+        ocs:C6943,
+        ocs:C8435,
+        ocs:C8944 .
+

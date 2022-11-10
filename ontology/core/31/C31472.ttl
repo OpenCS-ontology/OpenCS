@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31472 a skos:Concept ;
+    skos:broader ocs:C25242 ;
+    skos:prefLabel "Clark's nutcracker" ;
+    skos:related ocs:C7,
+        ocs:C8706 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38902 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C35575,
+        ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_Process_simulation> ;
+    skos:prefLabel "Software Process simulation" ;
+    skos:related ocs:C10633,
+        ocs:C21979,
+        ocs:C226,
+        ocs:C23500,
+        ocs:C24,
+        ocs:C26009,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28296,
+        ocs:C29869,
+        ocs:C31320,
+        ocs:C3175,
+        ocs:C37174,
+        ocs:C42067,
+        ocs:C42516,
+        ocs:C43569,
+        ocs:C45374,
+        ocs:C4558,
+        ocs:C7256,
+        ocs:C854 .
+

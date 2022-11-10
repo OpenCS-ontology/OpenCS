@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13715 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Basic_object_system> ;
+    skos:prefLabel "Basic object system" ;
+    skos:related ocs:C10182,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C12584,
+        ocs:C1333,
+        ocs:C13628,
+        ocs:C22063,
+        ocs:C22971,
+        ocs:C2419,
+        ocs:C36327,
+        ocs:C3676,
+        ocs:C40870,
+        ocs:C43077,
+        ocs:C466,
+        ocs:C4877,
+        ocs:C8717 .
+

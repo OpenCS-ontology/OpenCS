@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30700 a skos:Concept ;
+    skos:broader ocs:C22968 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_parallelization_tool> ;
+    skos:prefLabel "Automatic parallelization tool" ;
+    skos:related ocs:C14253,
+        ocs:C15478,
+        ocs:C17626,
+        ocs:C19326,
+        ocs:C19876,
+        ocs:C22968,
+        ocs:C26812,
+        ocs:C27,
+        ocs:C38816,
+        ocs:C40088,
+        ocs:C40762,
+        ocs:C5766,
+        ocs:C6346,
+        ocs:C6714,
+        ocs:C6887,
+        ocs:C7735 .
+

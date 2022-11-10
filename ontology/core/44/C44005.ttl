@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44005 a skos:Concept ;
+    skos:broader ocs:C30951 ;
+    skos:closeMatch <http://dbpedia.org/resource/VOR/DME> ;
+    skos:prefLabel "VOR/DME" ;
+    skos:related ocs:C10587,
+        ocs:C11445,
+        ocs:C12648,
+        ocs:C16291,
+        ocs:C20572,
+        ocs:C281,
+        ocs:C29791,
+        ocs:C3062,
+        ocs:C30901,
+        ocs:C34496,
+        ocs:C35019,
+        ocs:C35428,
+        ocs:C40171,
+        ocs:C40906,
+        ocs:C42471,
+        ocs:C4328,
+        ocs:C45718,
+        ocs:C7005 .
+

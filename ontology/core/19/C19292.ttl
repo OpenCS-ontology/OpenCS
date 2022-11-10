@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19292 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cadmium_zinc_telluride> ;
+    skos:prefLabel "Cadmium zinc telluride" ;
+    skos:related ocs:C16020,
+        ocs:C18360,
+        ocs:C19382,
+        ocs:C22118,
+        ocs:C25787,
+        ocs:C37596 .
+

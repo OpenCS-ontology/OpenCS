@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28090 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/LandSerf> ;
+    skos:prefLabel "LandSerf" ;
+    skos:related ocs:C20862,
+        ocs:C22003,
+        ocs:C22279,
+        ocs:C24208,
+        ocs:C37642,
+        ocs:C42090 .
+

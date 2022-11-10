@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14358 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stream_power> ;
+    skos:prefLabel "Stream power" ;
+    skos:related ocs:C14117,
+        ocs:C27958,
+        ocs:C29936,
+        ocs:C32591 .
+

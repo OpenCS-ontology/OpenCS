@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41955 a skos:Concept ;
+    skos:broader ocs:C30004,
+        ocs:C30895 ;
+    skos:closeMatch <http://dbpedia.org/resource/Micro_stuttering> ;
+    skos:prefLabel "Micro stuttering" ;
+    skos:related ocs:C10989,
+        ocs:C13509,
+        ocs:C13679,
+        ocs:C15459,
+        ocs:C1904,
+        ocs:C19748,
+        ocs:C2046,
+        ocs:C20569,
+        ocs:C24235,
+        ocs:C26812,
+        ocs:C37333,
+        ocs:C38120,
+        ocs:C38834,
+        ocs:C39609,
+        ocs:C42978,
+        ocs:C5300,
+        ocs:C5514,
+        ocs:C6448 .
+

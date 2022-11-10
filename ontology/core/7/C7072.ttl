@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7072 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bit_bucket> ;
+    skos:prefLabel "Bit bucket" ;
+    skos:related ocs:C10320,
+        ocs:C10374,
+        ocs:C10400,
+        ocs:C10772,
+        ocs:C12815,
+        ocs:C13253,
+        ocs:C15673,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C23270,
+        ocs:C2534,
+        ocs:C43630,
+        ocs:C6536,
+        ocs:C6714,
+        ocs:C7512 .
+

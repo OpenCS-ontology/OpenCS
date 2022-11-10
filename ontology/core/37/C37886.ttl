@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37886 a skos:Concept ;
+    skos:broader ocs:C30001,
+        ocs:C31484,
+        ocs:C32049,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Burst_error-correcting_code> ;
+    skos:prefLabel "Burst error-correcting code" ;
+    skos:related ocs:C14926,
+        ocs:C15232,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C32049,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C37934,
+        ocs:C38057,
+        ocs:C38160,
+        ocs:C40052,
+        ocs:C40267,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C43048,
+        ocs:C44441,
+        ocs:C45024,
+        ocs:C5196 .
+

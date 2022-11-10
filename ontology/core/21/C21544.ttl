@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21544 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thue_number> ;
+    skos:prefLabel "Thue number" ;
+    skos:related ocs:C14894,
+        ocs:C15097,
+        ocs:C20875,
+        ocs:C25682,
+        ocs:C31629,
+        ocs:C32685,
+        ocs:C32801,
+        ocs:C34542,
+        ocs:C37036,
+        ocs:C38005,
+        ocs:C38853,
+        ocs:C39190,
+        ocs:C40314,
+        ocs:C40485,
+        ocs:C40560,
+        ocs:C40800,
+        ocs:C41767,
+        ocs:C44497,
+        ocs:C45361,
+        ocs:C45425 .
+

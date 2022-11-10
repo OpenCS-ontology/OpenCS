@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7501 a skos:Concept ;
+    skos:broader ocs:C32,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glottolog> ;
+    skos:prefLabel "Glottolog" ;
+    skos:related ocs:C12222,
+        ocs:C13210,
+        ocs:C15207,
+        ocs:C15647,
+        ocs:C172,
+        ocs:C2025,
+        ocs:C23243,
+        ocs:C2847,
+        ocs:C32159,
+        ocs:C4587,
+        ocs:C6046,
+        ocs:C6282 .
+

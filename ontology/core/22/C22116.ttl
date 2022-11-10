@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22116 a skos:Concept ;
+    skos:broader ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sentencing_guidelines> ;
+    skos:prefLabel "Sentencing guidelines" ;
+    skos:related ocs:C14661 .
+

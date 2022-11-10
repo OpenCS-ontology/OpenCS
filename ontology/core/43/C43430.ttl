@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43430 a skos:Concept ;
+    skos:broader ocs:C33315 ;
+    skos:closeMatch <http://dbpedia.org/resource/AP_Spanish> ;
+    skos:prefLabel "AP Spanish" ;
+    skos:related ocs:C12540,
+        ocs:C20748,
+        ocs:C9855 .
+

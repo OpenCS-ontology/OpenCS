@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1919 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hreflang> ;
+    skos:prefLabel "hreflang" ;
+    skos:related ocs:C10150,
+        ocs:C12555,
+        ocs:C13460,
+        ocs:C27119,
+        ocs:C28801,
+        ocs:C32413,
+        ocs:C37238,
+        ocs:C42434,
+        ocs:C428,
+        ocs:C44280,
+        ocs:C44855,
+        ocs:C7963 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18962 a skos:Concept ;
+    skos:broader ocs:C1338,
+        ocs:C7106,
+        ocs:C7166,
+        ocs:C8753,
+        ocs:C9047,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyber_foraging> ;
+    skos:prefLabel "Cyber foraging" .
+

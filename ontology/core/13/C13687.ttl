@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13687 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_system> ;
+    skos:prefLabel "Data system" ;
+    skos:related ocs:C13210,
+        ocs:C13744,
+        ocs:C1728,
+        ocs:C18791,
+        ocs:C197,
+        ocs:C21072,
+        ocs:C2414,
+        ocs:C2979,
+        ocs:C31035,
+        ocs:C3736,
+        ocs:C44765,
+        ocs:C524,
+        ocs:C5402,
+        ocs:C6,
+        ocs:C9488 .
+

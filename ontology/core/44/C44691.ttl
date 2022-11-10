@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44691 a skos:Concept ;
+    skos:broader ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unbounded_operator> ;
+    skos:prefLabel "Unbounded operator" ;
+    skos:related ocs:C19542,
+        ocs:C20124,
+        ocs:C23927,
+        ocs:C23966,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31450,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C36974,
+        ocs:C38236,
+        ocs:C39302,
+        ocs:C42318,
+        ocs:C43695,
+        ocs:C44602 .
+

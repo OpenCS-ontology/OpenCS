@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44014 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C32720,
+        ocs:C35109,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/WSMO> ;
+    skos:prefLabel "WSMO" ;
+    skos:related ocs:C18111,
+        ocs:C20372,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C32788,
+        ocs:C3396,
+        ocs:C35570,
+        ocs:C37883,
+        ocs:C3854,
+        ocs:C39278,
+        ocs:C39643,
+        ocs:C40004,
+        ocs:C40042,
+        ocs:C41158,
+        ocs:C41204,
+        ocs:C42885,
+        ocs:C43138,
+        ocs:C44161,
+        ocs:C45861,
+        ocs:C9836 .
+

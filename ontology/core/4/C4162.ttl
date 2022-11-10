@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4162 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Year_10,000_problem> ;
+    skos:prefLabel "Year 10,000 problem" ;
+    skos:related ocs:C10922,
+        ocs:C11991,
+        ocs:C16377,
+        ocs:C18258,
+        ocs:C20942,
+        ocs:C21496,
+        ocs:C21629,
+        ocs:C2176,
+        ocs:C28630,
+        ocs:C2981,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C39309,
+        ocs:C4321,
+        ocs:C43546,
+        ocs:C4454,
+        ocs:C5518,
+        ocs:C8581,
+        ocs:C8805,
+        ocs:C9223 .
+

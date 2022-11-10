@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33560 a skos:Concept ;
+    skos:broader ocs:C15405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lyapunov_time> ;
+    skos:prefLabel "Lyapunov time" ;
+    skos:related ocs:C14592,
+        ocs:C15405,
+        ocs:C25412,
+        ocs:C33199,
+        ocs:C597 .
+

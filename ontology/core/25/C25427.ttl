@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25427 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C4918,
+        ocs:C8614 ;
+    skos:prefLabel "HTML reference" ;
+    skos:related ocs:C1,
+        ocs:C31 .
+

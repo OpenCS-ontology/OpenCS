@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44123 a skos:Concept ;
+    skos:broader ocs:C36517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flash_memory_emulator> ;
+    skos:prefLabel "Flash memory emulator" ;
+    skos:related ocs:C11,
+        ocs:C18390,
+        ocs:C1843,
+        ocs:C24967,
+        ocs:C3160,
+        ocs:C3998,
+        ocs:C4259,
+        ocs:C6223,
+        ocs:C8783,
+        ocs:C8967 .
+

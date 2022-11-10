@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2779 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "FEWER DIGITS" ;
+    skos:related ocs:C16,
+        ocs:C26,
+        ocs:C3,
+        ocs:C5126,
+        ocs:C5196,
+        ocs:C6124 .
+

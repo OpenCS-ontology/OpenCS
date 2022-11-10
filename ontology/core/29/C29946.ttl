@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29946 a skos:Concept ;
+    skos:broader ocs:C20449 ;
+    skos:closeMatch <http://dbpedia.org/resource/Garden_path_sentence> ;
+    skos:prefLabel "Garden path sentence" ;
+    skos:related ocs:C1034,
+        ocs:C15475,
+        ocs:C15679,
+        ocs:C15808,
+        ocs:C16364,
+        ocs:C21670,
+        ocs:C2298,
+        ocs:C30478,
+        ocs:C32,
+        ocs:C34379,
+        ocs:C45001,
+        ocs:C8564,
+        ocs:C8725 .
+

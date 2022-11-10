@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40353 a skos:Concept ;
+    skos:broader ocs:C30004,
+        ocs:C30895,
+        ocs:C31517,
+        ocs:C32125,
+        ocs:C32876 ;
+    skos:closeMatch <http://dbpedia.org/resource/H.262/MPEG-2_Part_2> ;
+    skos:prefLabel "H.262/MPEG-2 Part 2" ;
+    skos:related ocs:C11214,
+        ocs:C11323,
+        ocs:C12544,
+        ocs:C15700,
+        ocs:C16860,
+        ocs:C19334,
+        ocs:C23318,
+        ocs:C23673,
+        ocs:C29048,
+        ocs:C31451,
+        ocs:C34624,
+        ocs:C38826,
+        ocs:C39584,
+        ocs:C40199,
+        ocs:C45687 .
+

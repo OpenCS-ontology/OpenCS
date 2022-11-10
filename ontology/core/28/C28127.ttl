@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28127 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_robot> ;
+    skos:prefLabel "Service robot" ;
+    skos:related ocs:C10396,
+        ocs:C14022,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C26400,
+        ocs:C29739,
+        ocs:C31036,
+        ocs:C33579,
+        ocs:C33991,
+        ocs:C34991,
+        ocs:C36290,
+        ocs:C36413,
+        ocs:C36567,
+        ocs:C36715,
+        ocs:C40324,
+        ocs:C43340,
+        ocs:C44350,
+        ocs:C8 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23196 a skos:Concept ;
+    skos:broader ocs:C1262,
+        ocs:C2975 ;
+    skos:closeMatch <http://dbpedia.org/resource/Low_Voltage_Directive> ;
+    skos:prefLabel "Low Voltage Directive" ;
+    skos:related ocs:C21590,
+        ocs:C33646,
+        ocs:C5878 .
+

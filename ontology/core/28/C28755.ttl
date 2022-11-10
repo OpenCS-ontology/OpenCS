@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28755 a skos:Concept ;
+    skos:broader ocs:C12029 ;
+    skos:closeMatch <http://dbpedia.org/resource/Generalised_cost> ;
+    skos:prefLabel "Generalised cost" ;
+    skos:related ocs:C12758,
+        ocs:C14215,
+        ocs:C1691,
+        ocs:C25914,
+        ocs:C28534,
+        ocs:C5633,
+        ocs:C6243 .
+

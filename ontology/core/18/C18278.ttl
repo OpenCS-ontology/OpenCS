@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18278 a skos:Concept ;
+    skos:broader ocs:C3057,
+        ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Professional_learning_community> ;
+    skos:prefLabel "Professional learning community" ;
+    skos:related ocs:C10057,
+        ocs:C10225,
+        ocs:C11097,
+        ocs:C15193,
+        ocs:C19319,
+        ocs:C21018,
+        ocs:C3613,
+        ocs:C37105,
+        ocs:C5863,
+        ocs:C7158 .
+

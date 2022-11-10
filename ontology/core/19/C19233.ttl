@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19233 a skos:Concept ;
+    skos:broader ocs:C5394,
+        ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Six-bar_linkage> ;
+    skos:prefLabel "Six-bar linkage" ;
+    skos:related ocs:C15416,
+        ocs:C15528,
+        ocs:C16342,
+        ocs:C19686,
+        ocs:C28400,
+        ocs:C2948,
+        ocs:C31633,
+        ocs:C41500,
+        ocs:C5394,
+        ocs:C7003,
+        ocs:C7848 .
+

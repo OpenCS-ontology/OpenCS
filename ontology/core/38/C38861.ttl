@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38861 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C32555,
+        ocs:C35370,
+        ocs:C36939 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_intrusion_prevention_system> ;
+    skos:prefLabel "Wireless intrusion prevention system" ;
+    skos:related ocs:C12429,
+        ocs:C13786,
+        ocs:C20243,
+        ocs:C25870,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C30769,
+        ocs:C32724,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C39655,
+        ocs:C41837,
+        ocs:C41893,
+        ocs:C44603,
+        ocs:C45140,
+        ocs:C45757,
+        ocs:C5343,
+        ocs:C8028,
+        ocs:C8612 .
+

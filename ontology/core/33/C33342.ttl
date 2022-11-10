@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33342 a skos:Concept ;
+    skos:broader ocs:C20648 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discrete_wavelet_transform> ;
+    skos:prefLabel "Discrete wavelet transform" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C11443,
+        ocs:C12046,
+        ocs:C1274,
+        ocs:C1449,
+        ocs:C20648,
+        ocs:C2937,
+        ocs:C30925,
+        ocs:C32508,
+        ocs:C40380,
+        ocs:C42915,
+        ocs:C44879,
+        ocs:C45045,
+        ocs:C4511,
+        ocs:C45112,
+        ocs:C45115 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29368 a skos:Concept ;
+    skos:broader ocs:C11699,
+        ocs:C5126 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenType> ;
+    skos:prefLabel "OpenType" ;
+    skos:related ocs:C11699,
+        ocs:C22103,
+        ocs:C22568,
+        ocs:C24871,
+        ocs:C25565,
+        ocs:C28881,
+        ocs:C2981,
+        ocs:C30436,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C35507,
+        ocs:C36572,
+        ocs:C5126,
+        ocs:C5477,
+        ocs:C8988,
+        ocs:C9606 .
+

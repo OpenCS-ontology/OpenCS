@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1642 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baseball_robot> ;
+    skos:prefLabel "Baseball robot" ;
+    skos:related ocs:C10396,
+        ocs:C1054,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C19182,
+        ocs:C19558,
+        ocs:C20576,
+        ocs:C29532,
+        ocs:C30080,
+        ocs:C30107,
+        ocs:C30279,
+        ocs:C31062,
+        ocs:C31846,
+        ocs:C36290,
+        ocs:C36715,
+        ocs:C39358,
+        ocs:C44167,
+        ocs:C44558 .
+

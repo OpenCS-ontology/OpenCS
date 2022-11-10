@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4022 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Work_Flow_Language> ;
+    skos:prefLabel "Work Flow Language" ;
+    skos:related ocs:C10284,
+        ocs:C1386,
+        ocs:C14271,
+        ocs:C15317,
+        ocs:C1639,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2587,
+        ocs:C28464,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C3576,
+        ocs:C37461,
+        ocs:C41659,
+        ocs:C4832,
+        ocs:C6714,
+        ocs:C9 .
+

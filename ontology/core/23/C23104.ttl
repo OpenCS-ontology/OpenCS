@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23104 a skos:Concept ;
+    skos:broader ocs:C4513,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Default_password> ;
+    skos:prefLabel "Default password" ;
+    skos:related ocs:C13123,
+        ocs:C13578,
+        ocs:C13786,
+        ocs:C16983,
+        ocs:C24915,
+        ocs:C27570,
+        ocs:C30579,
+        ocs:C32204,
+        ocs:C34793,
+        ocs:C39919,
+        ocs:C40476,
+        ocs:C40900,
+        ocs:C43814,
+        ocs:C4513,
+        ocs:C45848,
+        ocs:C490,
+        ocs:C5731,
+        ocs:C7857 .
+

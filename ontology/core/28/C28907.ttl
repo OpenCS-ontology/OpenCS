@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28907 a skos:Concept ;
+    skos:broader ocs:C11188,
+        ocs:C2878,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triple_modular_redundancy> ;
+    skos:prefLabel "Triple modular redundancy" ;
+    skos:related ocs:C10501,
+        ocs:C11188,
+        ocs:C13767,
+        ocs:C14144,
+        ocs:C15912,
+        ocs:C17668,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C2878,
+        ocs:C30001,
+        ocs:C34133,
+        ocs:C36861,
+        ocs:C39218,
+        ocs:C42033,
+        ocs:C42255,
+        ocs:C42731,
+        ocs:C5816,
+        ocs:C8613 .
+

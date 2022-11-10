@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12293 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pattern_language> ;
+    skos:prefLabel "Pattern language" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10720,
+        ocs:C10781,
+        ocs:C16530,
+        ocs:C19,
+        ocs:C2215,
+        ocs:C2298,
+        ocs:C24477,
+        ocs:C25978,
+        ocs:C28,
+        ocs:C30036,
+        ocs:C34078,
+        ocs:C43774,
+        ocs:C44634,
+        ocs:C7019 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45214 a skos:Concept ;
+    skos:broader ocs:C33033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sobolev_spaces_for_planar_domains> ;
+    skos:prefLabel "Sobolev spaces for planar domains" ;
+    skos:related ocs:C28787,
+        ocs:C35572,
+        ocs:C42875 .
+

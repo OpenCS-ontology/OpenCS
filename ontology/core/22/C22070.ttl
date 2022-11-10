@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22070 a skos:Concept ;
+    skos:broader ocs:C11646 ;
+    skos:closeMatch <http://dbpedia.org/resource/Group_concept_mapping> ;
+    skos:prefLabel "Group concept mapping" ;
+    skos:related ocs:C10382,
+        ocs:C10610,
+        ocs:C11646,
+        ocs:C13547,
+        ocs:C17594,
+        ocs:C29024,
+        ocs:C35082,
+        ocs:C38396,
+        ocs:C41863,
+        ocs:C6344,
+        ocs:C6656,
+        ocs:C7879,
+        ocs:C851 .
+

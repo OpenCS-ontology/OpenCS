@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2049 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bloom_filter> ;
+    skos:prefLabel "Bloom filter" ;
+    skos:related ocs:C14255,
+        ocs:C19398,
+        ocs:C20637,
+        ocs:C23443,
+        ocs:C2375,
+        ocs:C25365,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C31203,
+        ocs:C32077,
+        ocs:C36112,
+        ocs:C3936,
+        ocs:C41603,
+        ocs:C44766,
+        ocs:C5722,
+        ocs:C8022,
+        ocs:C8522 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7861 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lindström_quantifier> ;
+    skos:prefLabel "Lindström quantifier" ;
+    skos:related ocs:C10498,
+        ocs:C10671,
+        ocs:C12474,
+        ocs:C16796,
+        ocs:C17709,
+        ocs:C1849,
+        ocs:C21946,
+        ocs:C2418,
+        ocs:C27168,
+        ocs:C30651,
+        ocs:C38308,
+        ocs:C38678,
+        ocs:C38926,
+        ocs:C4517,
+        ocs:C8635,
+        ocs:C9440 .
+

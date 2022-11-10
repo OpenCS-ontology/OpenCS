@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3010 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:prefLabel "Labeling Problem" ;
+    skos:related ocs:C1092,
+        ocs:C11450,
+        ocs:C13208,
+        ocs:C16,
+        ocs:C22,
+        ocs:C30,
+        ocs:C30864,
+        ocs:C32111,
+        ocs:C3401,
+        ocs:C4257,
+        ocs:C5722,
+        ocs:C5778,
+        ocs:C8021,
+        ocs:C8330,
+        ocs:C8499,
+        ocs:C932 .
+

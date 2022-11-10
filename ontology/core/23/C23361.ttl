@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23361 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_graph> ;
+    skos:prefLabel "Process graph" ;
+    skos:related ocs:C19336,
+        ocs:C29708,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C36279,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C38220,
+        ocs:C38535,
+        ocs:C40694,
+        ocs:C40880,
+        ocs:C41435,
+        ocs:C41969,
+        ocs:C42098,
+        ocs:C43365,
+        ocs:C43567,
+        ocs:C45341,
+        ocs:C45746 .
+

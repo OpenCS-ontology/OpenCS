@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6125 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_prediction> ;
+    skos:prefLabel "Linear prediction" ;
+    skos:related ocs:C11253,
+        ocs:C123,
+        ocs:C14585,
+        ocs:C17433,
+        ocs:C25518,
+        ocs:C260,
+        ocs:C26880,
+        ocs:C27320,
+        ocs:C34690,
+        ocs:C36671,
+        ocs:C3987,
+        ocs:C5298,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C6110,
+        ocs:C836,
+        ocs:C9428 .
+

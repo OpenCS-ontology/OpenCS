@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21005 a skos:Concept ;
+    skos:broader ocs:C264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_retrieval_query_language> ;
+    skos:prefLabel "Information retrieval query language" ;
+    skos:related ocs:C11812,
+        ocs:C12185,
+        ocs:C13705,
+        ocs:C17103,
+        ocs:C18567,
+        ocs:C2024,
+        ocs:C23,
+        ocs:C23139,
+        ocs:C264,
+        ocs:C33052,
+        ocs:C33281,
+        ocs:C33916,
+        ocs:C36078,
+        ocs:C36924,
+        ocs:C45138,
+        ocs:C4781,
+        ocs:C6 .
+

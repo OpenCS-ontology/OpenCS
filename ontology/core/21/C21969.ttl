@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21969 a skos:Concept ;
+    skos:broader ocs:C1035,
+        ocs:C1253,
+        ocs:C3905,
+        ocs:C8786 ;
+    skos:prefLabel "Raise specification language" .
+

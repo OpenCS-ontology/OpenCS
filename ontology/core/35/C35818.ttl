@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35818 a skos:Concept ;
+    skos:broader ocs:C24477 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_modeling> ;
+    skos:prefLabel "Visual modeling" ;
+    skos:related ocs:C1024,
+        ocs:C11027,
+        ocs:C13722,
+        ocs:C14316,
+        ocs:C16952,
+        ocs:C20804,
+        ocs:C23291,
+        ocs:C23439,
+        ocs:C24477,
+        ocs:C30050,
+        ocs:C30528,
+        ocs:C31705,
+        ocs:C31890,
+        ocs:C37443,
+        ocs:C42495,
+        ocs:C45545,
+        ocs:C5335,
+        ocs:C8171,
+        ocs:C8172 .
+

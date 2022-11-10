@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11498 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Superellipsoid> ;
+    skos:prefLabel "Superellipsoid" ;
+    skos:related ocs:C13324,
+        ocs:C1519,
+        ocs:C18434,
+        ocs:C22,
+        ocs:C24169 .
+

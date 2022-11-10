@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20633 a skos:Concept ;
+    skos:broader ocs:C3390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cell_Transmission_Model> ;
+    skos:prefLabel "Cell Transmission Model" ;
+    skos:related ocs:C11691,
+        ocs:C14263,
+        ocs:C18362,
+        ocs:C23925,
+        ocs:C34071,
+        ocs:C37392,
+        ocs:C40577,
+        ocs:C4216,
+        ocs:C43400,
+        ocs:C45272,
+        ocs:C9051 .
+

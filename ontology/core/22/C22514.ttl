@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22514 a skos:Concept ;
+    skos:broader ocs:C10275,
+        ocs:C8499 ;
+    skos:prefLabel "Multispectral image processing" .
+

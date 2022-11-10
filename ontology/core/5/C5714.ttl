@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5714 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intuitionistic_logic> ;
+    skos:prefLabel "Intuitionistic logic" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C12474,
+        ocs:C13255,
+        ocs:C16614,
+        ocs:C17884,
+        ocs:C21328,
+        ocs:C2411,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C26635,
+        ocs:C32129,
+        ocs:C3894,
+        ocs:C4206,
+        ocs:C43271,
+        ocs:C5659,
+        ocs:C8077 .
+

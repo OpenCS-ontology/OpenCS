@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24198 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cephalotes> ;
+    skos:prefLabel "Cephalotes" ;
+    skos:related ocs:C15345,
+        ocs:C20240,
+        ocs:C24249,
+        ocs:C35777 .
+

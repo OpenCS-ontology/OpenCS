@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32124 a skos:Concept ;
+    skos:broader ocs:C23209 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monstrous_moonshine> ;
+    skos:prefLabel "Monstrous moonshine" ;
+    skos:related ocs:C23209,
+        ocs:C32392,
+        ocs:C35930,
+        ocs:C36651,
+        ocs:C39710,
+        ocs:C41507,
+        ocs:C42485 .
+

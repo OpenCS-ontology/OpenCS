@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C677 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Array_controller_based_encryption> ;
+    skos:prefLabel "Array controller based encryption" ;
+    skos:related ocs:C17091,
+        ocs:C17314,
+        ocs:C17484,
+        ocs:C17533,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C19219,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C29841,
+        ocs:C34451,
+        ocs:C34567,
+        ocs:C36434,
+        ocs:C37063,
+        ocs:C39140,
+        ocs:C41498,
+        ocs:C4751,
+        ocs:C7226,
+        ocs:C8298 .
+

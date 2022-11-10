@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36334 a skos:Concept ;
+    skos:broader ocs:C22682 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bilinear_program> ;
+    skos:prefLabel "Bilinear program" ;
+    skos:related ocs:C19181,
+        ocs:C20242,
+        ocs:C24605,
+        ocs:C25624,
+        ocs:C33604,
+        ocs:C34225,
+        ocs:C37322,
+        ocs:C38274,
+        ocs:C41428 .
+

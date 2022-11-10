@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45472 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C32506,
+        ocs:C34168 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Catalog> ;
+    skos:prefLabel "XML Catalog" ;
+    skos:related ocs:C10000,
+        ocs:C11927,
+        ocs:C16159,
+        ocs:C23027,
+        ocs:C23709,
+        ocs:C27115,
+        ocs:C31343,
+        ocs:C31929,
+        ocs:C33709,
+        ocs:C38812,
+        ocs:C38883,
+        ocs:C38964,
+        ocs:C39286,
+        ocs:C40147,
+        ocs:C40575,
+        ocs:C41537,
+        ocs:C41976,
+        ocs:C44193,
+        ocs:C5670 .
+

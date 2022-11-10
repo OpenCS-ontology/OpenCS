@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23257 a skos:Concept ;
+    skos:broader ocs:C11252,
+        ocs:C8664,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chaos_computing> ;
+    skos:prefLabel "Chaos computing" ;
+    skos:related ocs:C11252,
+        ocs:C12781,
+        ocs:C13992,
+        ocs:C14101,
+        ocs:C14592,
+        ocs:C18873,
+        ocs:C210,
+        ocs:C23148,
+        ocs:C25857,
+        ocs:C27823,
+        ocs:C35076,
+        ocs:C43052 .
+

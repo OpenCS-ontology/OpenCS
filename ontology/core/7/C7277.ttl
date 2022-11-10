@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7277 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Murphy's_law> ;
+    skos:prefLabel "Murphy's law" ;
+    skos:related ocs:C10551,
+        ocs:C1834,
+        ocs:C35954,
+        ocs:C597 .
+

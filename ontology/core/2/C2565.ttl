@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2565 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unexpected_hanging_paradox> ;
+    skos:prefLabel "Unexpected hanging paradox" ;
+    skos:related ocs:C10739,
+        ocs:C14276,
+        ocs:C20318,
+        ocs:C21730,
+        ocs:C28707,
+        ocs:C3137,
+        ocs:C3308,
+        ocs:C34615,
+        ocs:C5199,
+        ocs:C8041 .
+

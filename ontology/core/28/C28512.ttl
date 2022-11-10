@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28512 a skos:Concept ;
+    skos:broader ocs:C10923 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chernoff_face> ;
+    skos:prefLabel "Chernoff face" ;
+    skos:related ocs:C27130,
+        ocs:C32448,
+        ocs:C5281 .
+

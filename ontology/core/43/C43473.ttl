@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43473 a skos:Concept ;
+    skos:broader ocs:C29568,
+        ocs:C30500,
+        ocs:C31379,
+        ocs:C32582,
+        ocs:C37264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diameter_(protocol)> ;
+    skos:prefLabel "Diameter" ;
+    skos:related ocs:C11550,
+        ocs:C12932,
+        ocs:C14417,
+        ocs:C15174,
+        ocs:C15530,
+        ocs:C20314,
+        ocs:C23446,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C29359,
+        ocs:C29568,
+        ocs:C30500,
+        ocs:C36782,
+        ocs:C3933,
+        ocs:C39608,
+        ocs:C39947,
+        ocs:C44282,
+        ocs:C44603,
+        ocs:C8515 .
+

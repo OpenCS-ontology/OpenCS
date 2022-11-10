@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15517 a skos:Concept ;
+    skos:broader ocs:C3740 ;
+    skos:prefLabel "Transmission Tomography" ;
+    skos:related ocs:C22,
+        ocs:C2321,
+        ocs:C8499,
+        ocs:C932 .
+

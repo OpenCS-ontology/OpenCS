@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29004 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transitive_verb> ;
+    skos:prefLabel "Transitive verb" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C14349,
+        ocs:C1739,
+        ocs:C1952,
+        ocs:C21795,
+        ocs:C24499,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C31787,
+        ocs:C3261,
+        ocs:C6545,
+        ocs:C7501,
+        ocs:C9533 .
+

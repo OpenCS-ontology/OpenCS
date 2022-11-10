@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7458 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cashier's_check> ;
+    skos:prefLabel "Cashier's check" ;
+    skos:related ocs:C11486,
+        ocs:C12752,
+        ocs:C15464,
+        ocs:C16179,
+        ocs:C17051,
+        ocs:C17400,
+        ocs:C18100,
+        ocs:C21953,
+        ocs:C26112,
+        ocs:C26695,
+        ocs:C27523,
+        ocs:C33193,
+        ocs:C40399,
+        ocs:C4779 .
+

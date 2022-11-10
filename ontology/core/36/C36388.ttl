@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36388 a skos:Concept ;
+    skos:broader ocs:C15728 ;
+    skos:closeMatch <http://dbpedia.org/resource/MAC_filtering> ;
+    skos:prefLabel "MAC filtering" ;
+    skos:related ocs:C15512,
+        ocs:C17919,
+        ocs:C20125,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C29798,
+        ocs:C30342,
+        ocs:C30769,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C36678,
+        ocs:C36926,
+        ocs:C41893,
+        ocs:C44535,
+        ocs:C490,
+        ocs:C5343,
+        ocs:C6087,
+        ocs:C9267 .
+

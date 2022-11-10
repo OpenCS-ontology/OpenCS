@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3268 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secure_Communications_Interoperability_Protocol> ;
+    skos:prefLabel "Secure Communications Interoperability Protocol" ;
+    skos:related ocs:C11594,
+        ocs:C13110,
+        ocs:C14802,
+        ocs:C1506,
+        ocs:C17661,
+        ocs:C17856,
+        ocs:C18981,
+        ocs:C21417,
+        ocs:C22407,
+        ocs:C29363,
+        ocs:C31654,
+        ocs:C39402,
+        ocs:C400,
+        ocs:C4218,
+        ocs:C43076,
+        ocs:C4751,
+        ocs:C5692 .
+

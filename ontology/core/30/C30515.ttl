@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30515 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fagaceae> ;
+    skos:prefLabel "Family Fagaceae" ;
+    skos:related ocs:C23738,
+        ocs:C30581,
+        ocs:C30936 .
+

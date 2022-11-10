@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6203 a skos:Concept ;
+    skos:broader ocs:C20 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abstract_additive_Schwarz_method> ;
+    skos:prefLabel "Abstract additive Schwarz method" ;
+    skos:related ocs:C31948,
+        ocs:C32520,
+        ocs:C44942 .
+

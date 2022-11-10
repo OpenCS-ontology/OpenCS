@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25802 a skos:Concept ;
+    skos:broader ocs:C1647 ;
+    skos:closeMatch <http://dbpedia.org/resource/Football_strength> ;
+    skos:prefLabel "Football strength" ;
+    skos:related ocs:C31913,
+        ocs:C34206 .
+

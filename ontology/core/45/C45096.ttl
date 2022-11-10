@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45096 a skos:Concept ;
+    skos:broader ocs:C32111 ;
+    skos:closeMatch <http://dbpedia.org/resource/2-transitive_group> ;
+    skos:prefLabel "2-transitive group" ;
+    skos:related ocs:C28340,
+        ocs:C34715 .
+

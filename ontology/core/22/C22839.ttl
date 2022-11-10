@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22839 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Drop_shipping> ;
+    skos:prefLabel "Drop shipping" ;
+    skos:related ocs:C10764,
+        ocs:C15470,
+        ocs:C20461,
+        ocs:C24050,
+        ocs:C26014,
+        ocs:C28997,
+        ocs:C6659,
+        ocs:C8614 .
+

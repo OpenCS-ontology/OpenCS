@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1841 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-band_device> ;
+    skos:prefLabel "Multi-band device" ;
+    skos:related ocs:C12641,
+        ocs:C12853,
+        ocs:C15505,
+        ocs:C16693,
+        ocs:C17999,
+        ocs:C18799,
+        ocs:C21424,
+        ocs:C27704,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C35564,
+        ocs:C35692,
+        ocs:C36500,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C616,
+        ocs:C8021,
+        ocs:C9113,
+        ocs:C9154 .
+

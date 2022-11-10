@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15733 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C9426 ;
+    skos:closeMatch <http://dbpedia.org/resource/ESCON> ;
+    skos:prefLabel "ESCON" ;
+    skos:related ocs:C10501,
+        ocs:C11207,
+        ocs:C11960,
+        ocs:C12324,
+        ocs:C16416,
+        ocs:C17533,
+        ocs:C42662,
+        ocs:C7847,
+        ocs:C7865,
+        ocs:C8298,
+        ocs:C9035,
+        ocs:C9426,
+        ocs:C9850 .
+

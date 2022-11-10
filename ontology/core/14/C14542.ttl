@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14542 a skos:Concept ;
+    skos:broader ocs:C8514,
+        ocs:C8712 ;
+    skos:closeMatch <http://dbpedia.org/resource/C-K_theory> ;
+    skos:prefLabel "C-K theory" ;
+    skos:related ocs:C12293,
+        ocs:C12474,
+        ocs:C12847,
+        ocs:C24910,
+        ocs:C27083,
+        ocs:C2978,
+        ocs:C37584,
+        ocs:C4010,
+        ocs:C5251,
+        ocs:C5782,
+        ocs:C7223,
+        ocs:C7404,
+        ocs:C8,
+        ocs:C852 .
+

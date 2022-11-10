@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26092 a skos:Concept ;
+    skos:broader ocs:C3343,
+        ocs:C3738,
+        ocs:C5092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_behavior_and_human_resources> ;
+    skos:prefLabel "Organizational behavior and human resources" ;
+    skos:related ocs:C12824,
+        ocs:C18214,
+        ocs:C20101,
+        ocs:C22700,
+        ocs:C36816,
+        ocs:C39486,
+        ocs:C45556,
+        ocs:C642,
+        ocs:C9328 .
+

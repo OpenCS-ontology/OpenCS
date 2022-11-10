@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27329 a skos:Concept ;
+    skos:broader ocs:C1262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Waste_framework_directive> ;
+    skos:prefLabel "Waste framework directive" ;
+    skos:related ocs:C14540,
+        ocs:C18053 .
+

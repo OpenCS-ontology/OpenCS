@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38300 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C35697,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_geometry> ;
+    skos:prefLabel "Memory geometry" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C14144,
+        ocs:C14162,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C23270,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C25954,
+        ocs:C29183,
+        ocs:C30878,
+        ocs:C3160,
+        ocs:C33838,
+        ocs:C39061,
+        ocs:C39215,
+        ocs:C6798,
+        ocs:C9381 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11602 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual-ported_RAM> ;
+    skos:prefLabel "Dual-ported RAM" ;
+    skos:related ocs:C10320,
+        ocs:C13875,
+        ocs:C23270,
+        ocs:C25107,
+        ocs:C27610,
+        ocs:C28172,
+        ocs:C3118,
+        ocs:C3160,
+        ocs:C33838,
+        ocs:C35697,
+        ocs:C37538,
+        ocs:C38723,
+        ocs:C4259,
+        ocs:C4938,
+        ocs:C6798,
+        ocs:C9776 .
+

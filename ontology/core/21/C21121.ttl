@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21121 a skos:Concept ;
+    skos:broader ocs:C7334 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variety_(cybernetics)> ;
+    skos:prefLabel "Variety (cybernetics)" ;
+    skos:related ocs:C26759,
+        ocs:C2728,
+        ocs:C29,
+        ocs:C546,
+        ocs:C5496,
+        ocs:C5699,
+        ocs:C5816,
+        ocs:C5863,
+        ocs:C7334,
+        ocs:C9373 .
+

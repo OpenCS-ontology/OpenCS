@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22596 a skos:Concept ;
+    skos:broader ocs:C2298,
+        ocs:C5556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classical_Chinese_grammar> ;
+    skos:prefLabel "Classical Chinese grammar" ;
+    skos:related ocs:C15012,
+        ocs:C18978,
+        ocs:C20870,
+        ocs:C22054,
+        ocs:C23243,
+        ocs:C23681,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C27337,
+        ocs:C28817,
+        ocs:C32159 .
+

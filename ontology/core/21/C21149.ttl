@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21149 a skos:Concept ;
+    skos:broader ocs:C11705 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grandmother_cell> ;
+    skos:prefLabel "Grandmother cell" ;
+    skos:related ocs:C20847,
+        ocs:C24856,
+        ocs:C9854 .
+

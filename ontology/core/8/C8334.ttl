@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8334 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Queue_automaton> ;
+    skos:prefLabel "Queue automaton" ;
+    skos:related ocs:C1631,
+        ocs:C17566,
+        ocs:C19,
+        ocs:C21398,
+        ocs:C2170,
+        ocs:C21926,
+        ocs:C22100,
+        ocs:C22626,
+        ocs:C2583,
+        ocs:C26158,
+        ocs:C27087,
+        ocs:C30272,
+        ocs:C31124,
+        ocs:C37207,
+        ocs:C38067,
+        ocs:C38733,
+        ocs:C39944,
+        ocs:C41388,
+        ocs:C42091,
+        ocs:C5048 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19610 a skos:Concept ;
+    skos:broader ocs:C10382,
+        ocs:C1092,
+        ocs:C6692,
+        ocs:C6822 ;
+    skos:prefLabel "Variational learning" .
+

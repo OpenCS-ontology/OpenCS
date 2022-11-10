@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39964 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C31923,
+        ocs:C32552,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collinear_antenna_array> ;
+    skos:prefLabel "Collinear antenna array" ;
+    skos:related ocs:C1219,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C30337,
+        ocs:C31753,
+        ocs:C38796,
+        ocs:C40106,
+        ocs:C42056,
+        ocs:C42721,
+        ocs:C43628,
+        ocs:C44485,
+        ocs:C44637,
+        ocs:C7216,
+        ocs:C7909,
+        ocs:C9691 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13174 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Honeywell_6000_series> ;
+    skos:prefLabel "Honeywell 6000 series" ;
+    skos:related ocs:C10320,
+        ocs:C10749,
+        ocs:C11258,
+        ocs:C1130,
+        ocs:C1166,
+        ocs:C12262,
+        ocs:C12277,
+        ocs:C12851,
+        ocs:C13101,
+        ocs:C13325,
+        ocs:C14162,
+        ocs:C14271,
+        ocs:C16229,
+        ocs:C20669,
+        ocs:C39282,
+        ocs:C3946,
+        ocs:C6714,
+        ocs:C7576,
+        ocs:C9,
+        ocs:C9035 .
+

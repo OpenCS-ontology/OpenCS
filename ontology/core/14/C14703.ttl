@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14703 a skos:Concept ;
+    skos:broader ocs:C11862,
+        ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reverse_geocoding> ;
+    skos:prefLabel "Reverse geocoding" ;
+    skos:related ocs:C10217,
+        ocs:C10393,
+        ocs:C11862,
+        ocs:C12641,
+        ocs:C13187,
+        ocs:C13972,
+        ocs:C19324,
+        ocs:C20731,
+        ocs:C20845,
+        ocs:C30890,
+        ocs:C3446,
+        ocs:C44290,
+        ocs:C5088 .
+

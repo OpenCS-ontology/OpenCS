@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6227 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Affinity_diagram> ;
+    skos:prefLabel "Affinity diagram" ;
+    skos:related ocs:C3575,
+        ocs:C4094,
+        ocs:C4292,
+        ocs:C5500,
+        ocs:C697,
+        ocs:C7879,
+        ocs:C9700 .
+

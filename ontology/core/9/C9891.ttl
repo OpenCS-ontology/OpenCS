@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9891 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moscow_ML> ;
+    skos:prefLabel "Moscow ML" ;
+    skos:related ocs:C10384,
+        ocs:C10608,
+        ocs:C11062,
+        ocs:C11293,
+        ocs:C15335,
+        ocs:C2050,
+        ocs:C20907,
+        ocs:C22387,
+        ocs:C22394,
+        ocs:C2375,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C35904,
+        ocs:C41475,
+        ocs:C43003,
+        ocs:C5517,
+        ocs:C5722,
+        ocs:C6390,
+        ocs:C7017 .
+

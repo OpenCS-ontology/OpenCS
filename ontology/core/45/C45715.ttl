@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45715 a skos:Concept ;
+    skos:broader ocs:C32204,
+        ocs:C36898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Password-authenticated_key_agreement> ;
+    skos:prefLabel "Password-authenticated key agreement" ;
+    skos:related ocs:C16125,
+        ocs:C16983,
+        ocs:C20243,
+        ocs:C23855,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C2467,
+        ocs:C26581,
+        ocs:C30656,
+        ocs:C35146,
+        ocs:C35391,
+        ocs:C38359,
+        ocs:C38692,
+        ocs:C40044,
+        ocs:C40791,
+        ocs:C41012,
+        ocs:C41838,
+        ocs:C4218,
+        ocs:C43814,
+        ocs:C4513 .
+

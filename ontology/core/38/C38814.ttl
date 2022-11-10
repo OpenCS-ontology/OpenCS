@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38814 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_window_scale_option> ;
+    skos:prefLabel "TCP window scale option" ;
+    skos:related ocs:C18213,
+        ocs:C2117,
+        ocs:C24323,
+        ocs:C2699,
+        ocs:C34264,
+        ocs:C34356,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C38032,
+        ocs:C38125,
+        ocs:C38366,
+        ocs:C38817,
+        ocs:C38818,
+        ocs:C39551,
+        ocs:C3982,
+        ocs:C39947,
+        ocs:C40273,
+        ocs:C45619,
+        ocs:C45850,
+        ocs:C9 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5416 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Articulation_score> ;
+    skos:prefLabel "Articulation score" ;
+    skos:related ocs:C11408,
+        ocs:C11747,
+        ocs:C14053,
+        ocs:C16335,
+        ocs:C21471,
+        ocs:C21815,
+        ocs:C22654,
+        ocs:C27907,
+        ocs:C27966,
+        ocs:C28404,
+        ocs:C3,
+        ocs:C30667,
+        ocs:C33341,
+        ocs:C35081,
+        ocs:C37788,
+        ocs:C515,
+        ocs:C9222 .
+

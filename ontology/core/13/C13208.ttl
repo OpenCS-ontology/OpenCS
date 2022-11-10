@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13208 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulated_annealing> ;
+    skos:prefLabel "Simulated annealing" ;
+    skos:related ocs:C10390,
+        ocs:C11372,
+        ocs:C12530,
+        ocs:C14414,
+        ocs:C14921,
+        ocs:C23250,
+        ocs:C29055,
+        ocs:C31167,
+        ocs:C36442,
+        ocs:C3837,
+        ocs:C4216,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C597,
+        ocs:C7553,
+        ocs:C77,
+        ocs:C9022 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31463 a skos:Concept ;
+    skos:broader ocs:C22441 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zodarion_rubidum> ;
+    skos:prefLabel "Zodarion rubidum" ;
+    skos:related ocs:C22441,
+        ocs:C33111 .
+

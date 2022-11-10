@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38722 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_wire_antenna> ;
+    skos:prefLabel "Random wire antenna" ;
+    skos:related ocs:C10103,
+        ocs:C1219,
+        ocs:C17577,
+        ocs:C24807,
+        ocs:C25341,
+        ocs:C37939,
+        ocs:C39709,
+        ocs:C40585,
+        ocs:C40927,
+        ocs:C41367,
+        ocs:C4205,
+        ocs:C42721,
+        ocs:C43141,
+        ocs:C43628,
+        ocs:C44664,
+        ocs:C5397,
+        ocs:C9691 .
+

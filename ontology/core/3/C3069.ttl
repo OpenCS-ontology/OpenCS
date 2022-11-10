@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3069 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Motion_system> ;
+    skos:prefLabel "Motion system" ;
+    skos:related ocs:C18073,
+        ocs:C24186,
+        ocs:C25111,
+        ocs:C29807 .
+

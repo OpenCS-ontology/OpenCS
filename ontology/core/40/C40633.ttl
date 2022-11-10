@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40633 a skos:Concept ;
+    skos:broader ocs:C29732,
+        ocs:C30108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Message_Signaled_Interrupts> ;
+    skos:prefLabel "Message Signaled Interrupts" ;
+    skos:related ocs:C11583,
+        ocs:C13022,
+        ocs:C14470,
+        ocs:C14856,
+        ocs:C15661,
+        ocs:C31489,
+        ocs:C36337,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C40733,
+        ocs:C41110,
+        ocs:C9,
+        ocs:C9262 .
+

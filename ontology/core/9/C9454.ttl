@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9454 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rvachev_function> ;
+    skos:prefLabel "Rvachev function" ;
+    skos:related ocs:C15806,
+        ocs:C22,
+        ocs:C3174,
+        ocs:C31925,
+        ocs:C36166,
+        ocs:C4645,
+        ocs:C5714,
+        ocs:C7000,
+        ocs:C8 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35734 a skos:Concept ;
+    skos:broader ocs:C26066 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_routing> ;
+    skos:prefLabel "Static routing" ;
+    skos:related ocs:C10563,
+        ocs:C15396,
+        ocs:C20540,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C38451,
+        ocs:C38632,
+        ocs:C40965,
+        ocs:C41572,
+        ocs:C41930,
+        ocs:C42585,
+        ocs:C42853,
+        ocs:C42950,
+        ocs:C43015,
+        ocs:C44972,
+        ocs:C45399,
+        ocs:C45517,
+        ocs:C8517,
+        ocs:C8614 .
+

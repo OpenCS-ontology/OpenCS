@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44385 a skos:Concept ;
+    skos:broader ocs:C30593,
+        ocs:C31754,
+        ocs:C32222,
+        ocs:C33962 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bus_error> ;
+    skos:prefLabel "Bus error" .
+

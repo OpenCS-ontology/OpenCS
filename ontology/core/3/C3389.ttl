@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3389 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mahalanobis_distance> ;
+    skos:prefLabel "Mahalanobis distance" ;
+    skos:related ocs:C10138,
+        ocs:C10767,
+        ocs:C11425,
+        ocs:C1844,
+        ocs:C25862,
+        ocs:C4256,
+        ocs:C4752,
+        ocs:C4775,
+        ocs:C6116,
+        ocs:C662,
+        ocs:C6912 .
+

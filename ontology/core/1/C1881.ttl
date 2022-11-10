@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1881 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Industry_classification> ;
+    skos:prefLabel "Industry classification" ;
+    skos:related ocs:C26577,
+        ocs:C36634,
+        ocs:C7057 .
+

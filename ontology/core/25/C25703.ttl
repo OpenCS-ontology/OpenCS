@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25703 a skos:Concept ;
+    skos:broader ocs:C12741 ;
+    skos:closeMatch <http://dbpedia.org/resource/Corporate_transparency> ;
+    skos:prefLabel "Corporate transparency" ;
+    skos:related ocs:C15315,
+        ocs:C21763,
+        ocs:C23345,
+        ocs:C33198,
+        ocs:C4164 .
+

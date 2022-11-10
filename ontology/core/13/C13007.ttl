@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13007 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/MSCML> ;
+    skos:prefLabel "MSCML" ;
+    skos:related ocs:C11927,
+        ocs:C12001,
+        ocs:C13585,
+        ocs:C14590,
+        ocs:C14777,
+        ocs:C1726,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C22597,
+        ocs:C23058,
+        ocs:C29359,
+        ocs:C29645,
+        ocs:C35499,
+        ocs:C36511,
+        ocs:C37696,
+        ocs:C4165,
+        ocs:C4433,
+        ocs:C8515,
+        ocs:C8614 .
+

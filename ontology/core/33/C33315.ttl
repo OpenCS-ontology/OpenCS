@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33315 a skos:Concept ;
+    skos:broader ocs:C14410,
+        ocs:C16053 ;
+    skos:closeMatch <http://dbpedia.org/resource/Language_pedagogy> ;
+    skos:prefLabel "Language pedagogy" ;
+    skos:related ocs:C13920,
+        ocs:C14410,
+        ocs:C16053,
+        ocs:C2298,
+        ocs:C24354,
+        ocs:C30934,
+        ocs:C33078,
+        ocs:C3444,
+        ocs:C41308,
+        ocs:C43756,
+        ocs:C44138,
+        ocs:C7040,
+        ocs:C9065 .
+

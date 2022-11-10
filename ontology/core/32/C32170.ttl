@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32170 a skos:Concept ;
+    skos:broader ocs:C27115 ;
+    skos:closeMatch <http://dbpedia.org/resource/SXML> ;
+    skos:prefLabel "SXML" ;
+    skos:related ocs:C10268,
+        ocs:C11927,
+        ocs:C11990,
+        ocs:C13068,
+        ocs:C17170,
+        ocs:C18361,
+        ocs:C20208,
+        ocs:C23709,
+        ocs:C36924,
+        ocs:C38072,
+        ocs:C40575,
+        ocs:C42905,
+        ocs:C43819,
+        ocs:C43834,
+        ocs:C44193,
+        ocs:C45664,
+        ocs:C4921,
+        ocs:C6278 .
+

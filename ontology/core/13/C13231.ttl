@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13231 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C33 ;
+    skos:prefLabel "Diagnostic tree" ;
+    skos:related ocs:C1092,
+        ocs:C11724,
+        ocs:C2,
+        ocs:C21,
+        ocs:C25,
+        ocs:C29,
+        ocs:C33,
+        ocs:C6749 .
+

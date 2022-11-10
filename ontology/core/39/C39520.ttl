@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39520 a skos:Concept ;
+    skos:broader ocs:C34684 ;
+    skos:closeMatch <http://dbpedia.org/resource/Email_spoofing> ;
+    skos:prefLabel "Email spoofing" ;
+    skos:related ocs:C11371,
+        ocs:C12995,
+        ocs:C13302,
+        ocs:C14983,
+        ocs:C16362,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C18986,
+        ocs:C20205,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C25757,
+        ocs:C28603,
+        ocs:C31112,
+        ocs:C35631,
+        ocs:C39499,
+        ocs:C40986,
+        ocs:C42304 .
+

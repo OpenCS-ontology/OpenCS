@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36133 a skos:Concept ;
+    skos:broader ocs:C24313 ;
+    skos:closeMatch <http://dbpedia.org/resource/Particle_number_operator> ;
+    skos:prefLabel "Particle number operator" ;
+    skos:related ocs:C15588,
+        ocs:C23485,
+        ocs:C24313,
+        ocs:C24854,
+        ocs:C32025,
+        ocs:C33700,
+        ocs:C597 .
+

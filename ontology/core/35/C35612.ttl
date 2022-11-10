@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35612 a skos:Concept ;
+    skos:broader ocs:C19125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fredholm_operator> ;
+    skos:prefLabel "Fredholm operator" ;
+    skos:related ocs:C19125,
+        ocs:C19542,
+        ocs:C20124,
+        ocs:C20390,
+        ocs:C23927,
+        ocs:C25383,
+        ocs:C28787,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C34413,
+        ocs:C44846 .
+

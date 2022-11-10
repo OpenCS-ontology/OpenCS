@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40481 a skos:Concept ;
+    skos:broader ocs:C36540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Industrialization_of_services_business_model> ;
+    skos:prefLabel "Industrialization of services business model" ;
+    skos:related ocs:C12146,
+        ocs:C1332,
+        ocs:C1510,
+        ocs:C21881,
+        ocs:C22551,
+        ocs:C24449,
+        ocs:C32974,
+        ocs:C3836,
+        ocs:C6304 .
+

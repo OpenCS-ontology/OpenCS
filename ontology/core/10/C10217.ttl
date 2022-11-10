@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10217 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geotagged_photograph> ;
+    skos:prefLabel "Geotagged photograph" ;
+    skos:related ocs:C10637,
+        ocs:C11862,
+        ocs:C12641,
+        ocs:C13065,
+        ocs:C13187,
+        ocs:C20845,
+        ocs:C34177,
+        ocs:C3446,
+        ocs:C35370,
+        ocs:C5088,
+        ocs:C6504,
+        ocs:C8021,
+        ocs:C9113 .
+

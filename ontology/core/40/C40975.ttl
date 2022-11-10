@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40975 a skos:Concept ;
+    skos:broader ocs:C35138,
+        ocs:C36859 ;
+    skos:closeMatch <http://dbpedia.org/resource/Binary_Goppa_code> ;
+    skos:prefLabel "Binary Goppa code" ;
+    skos:related ocs:C15232,
+        ocs:C18626,
+        ocs:C34005,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C36859,
+        ocs:C38277,
+        ocs:C39340,
+        ocs:C40267,
+        ocs:C41653,
+        ocs:C4218,
+        ocs:C43745,
+        ocs:C43825,
+        ocs:C44108,
+        ocs:C44130,
+        ocs:C44441,
+        ocs:C5196 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4695 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telegraph_code> ;
+    skos:prefLabel "Telegraph code" ;
+    skos:related ocs:C11669,
+        ocs:C13253,
+        ocs:C14649,
+        ocs:C1523,
+        ocs:C16547,
+        ocs:C18456,
+        ocs:C2169,
+        ocs:C23560,
+        ocs:C2534,
+        ocs:C30952,
+        ocs:C33894,
+        ocs:C38862,
+        ocs:C5126,
+        ocs:C6034,
+        ocs:C6258,
+        ocs:C9162 .
+

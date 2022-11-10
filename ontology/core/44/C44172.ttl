@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44172 a skos:Concept ;
+    skos:broader ocs:C29848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Paroxysmal_extreme_pain_disorder> ;
+    skos:prefLabel "Paroxysmal extreme pain disorder" ;
+    skos:related ocs:C14264,
+        ocs:C38870 .
+

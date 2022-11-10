@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13626 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Route_assignment> ;
+    skos:prefLabel "Route assignment" ;
+    skos:related ocs:C12271,
+        ocs:C16921,
+        ocs:C17158,
+        ocs:C22762,
+        ocs:C3390,
+        ocs:C41578,
+        ocs:C4966,
+        ocs:C6243,
+        ocs:C9100 .
+

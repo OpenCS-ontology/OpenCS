@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43283 a skos:Concept ;
+    skos:broader ocs:C30218,
+        ocs:C37367 ;
+    skos:closeMatch <http://dbpedia.org/resource/Priority_inversion> ;
+    skos:prefLabel "Priority inversion" ;
+    skos:related ocs:C1,
+        ocs:C12984,
+        ocs:C1396,
+        ocs:C15595,
+        ocs:C2353,
+        ocs:C2750,
+        ocs:C33,
+        ocs:C37367,
+        ocs:C40272,
+        ocs:C42251,
+        ocs:C43065,
+        ocs:C5198,
+        ocs:C5912,
+        ocs:C6346,
+        ocs:C8204,
+        ocs:C8704,
+        ocs:C9 .
+

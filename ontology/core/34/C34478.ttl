@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34478 a skos:Concept ;
+    skos:broader ocs:C14022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Urban_search_and_rescue> ;
+    skos:prefLabel "Urban search and rescue" ;
+    skos:related ocs:C13455,
+        ocs:C21418 .
+

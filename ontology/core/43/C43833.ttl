@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43833 a skos:Concept ;
+    skos:broader ocs:C36897 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_overcommitment> ;
+    skos:prefLabel "Memory overcommitment" ;
+    skos:related ocs:C10400,
+        ocs:C1130,
+        ocs:C12323,
+        ocs:C13228,
+        ocs:C2353,
+        ocs:C25960,
+        ocs:C31267,
+        ocs:C36439,
+        ocs:C36897,
+        ocs:C38368,
+        ocs:C38819,
+        ocs:C39394,
+        ocs:C40325,
+        ocs:C42634,
+        ocs:C43492,
+        ocs:C44344,
+        ocs:C5698,
+        ocs:C8782,
+        ocs:C9 .
+

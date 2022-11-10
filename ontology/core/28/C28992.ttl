@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28992 a skos:Concept ;
+    skos:broader ocs:C1844 ;
+    skos:closeMatch <http://dbpedia.org/resource/Statistical_distance> ;
+    skos:prefLabel "Statistical distance" ;
+    skos:related ocs:C10767,
+        ocs:C17317,
+        ocs:C17590,
+        ocs:C1844,
+        ocs:C43061,
+        ocs:C8332,
+        ocs:C9326 .
+

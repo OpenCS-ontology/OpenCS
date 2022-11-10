@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14086 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software-defined_storage> ;
+    skos:prefLabel "Software-defined storage" ;
+    skos:related ocs:C10501,
+        ocs:C13783,
+        ocs:C15182,
+        ocs:C17533,
+        ocs:C2352,
+        ocs:C26687,
+        ocs:C29846,
+        ocs:C3231,
+        ocs:C32389,
+        ocs:C34921,
+        ocs:C39275,
+        ocs:C45269,
+        ocs:C7106,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9426 .
+

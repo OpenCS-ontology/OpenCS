@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16932 a skos:Concept ;
+    skos:broader ocs:C425 ;
+    skos:prefLabel "Additional documentation" ;
+    skos:related ocs:C10052,
+        ocs:C11128,
+        ocs:C12257,
+        ocs:C12810,
+        ocs:C20,
+        ocs:C6714 .
+

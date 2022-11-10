@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41507 a skos:Concept ;
+    skos:broader ocs:C35930 ;
+    skos:closeMatch <http://dbpedia.org/resource/Griess_algebra> ;
+    skos:prefLabel "Griess algebra" ;
+    skos:related ocs:C32124,
+        ocs:C35930,
+        ocs:C42485 .
+

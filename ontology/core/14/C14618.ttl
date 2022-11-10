@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14618 a skos:Concept ;
+    skos:broader ocs:C5201,
+        ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Local_convergence> ;
+    skos:prefLabel "Local convergence" ;
+    skos:related ocs:C15070,
+        ocs:C18362,
+        ocs:C19177,
+        ocs:C20242,
+        ocs:C21770,
+        ocs:C23783,
+        ocs:C24725,
+        ocs:C29411,
+        ocs:C29738,
+        ocs:C32053,
+        ocs:C432,
+        ocs:C43400,
+        ocs:C44992,
+        ocs:C5201 .
+

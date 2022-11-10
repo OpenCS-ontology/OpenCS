@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30768 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C17856,
+        ocs:C23230 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keystream> ;
+    skos:prefLabel "Keystream" ;
+    skos:related ocs:C14539,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C20993,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C28276,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C35391,
+        ocs:C35455,
+        ocs:C36248,
+        ocs:C40736,
+        ocs:C4218,
+        ocs:C42286,
+        ocs:C43963,
+        ocs:C4751,
+        ocs:C5072 .
+

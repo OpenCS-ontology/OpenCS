@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17674 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C12977,
+        ocs:C9106,
+        ocs:C928 ;
+    skos:closeMatch <http://dbpedia.org/resource/SNePS> ;
+    skos:prefLabel "SNePS" ;
+    skos:related ocs:C10622,
+        ocs:C11033,
+        ocs:C11060,
+        ocs:C12579,
+        ocs:C12813,
+        ocs:C12977,
+        ocs:C16356,
+        ocs:C17823,
+        ocs:C23265,
+        ocs:C28809,
+        ocs:C35570,
+        ocs:C39399,
+        ocs:C45887,
+        ocs:C5507,
+        ocs:C8,
+        ocs:C852,
+        ocs:C8894,
+        ocs:C928 .
+

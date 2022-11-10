@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6633 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:prefLabel "Temporal context" ;
+    skos:related ocs:C12077,
+        ocs:C16,
+        ocs:C17,
+        ocs:C17261,
+        ocs:C1938,
+        ocs:C4861,
+        ocs:C5404,
+        ocs:C5778 .
+

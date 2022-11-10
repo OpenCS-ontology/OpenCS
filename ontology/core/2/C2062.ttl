@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2062 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Domain_knowledge> ;
+    skos:prefLabel "Domain knowledge" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C11997,
+        ocs:C12,
+        ocs:C13153,
+        ocs:C14316,
+        ocs:C1443,
+        ocs:C2057,
+        ocs:C23183,
+        ocs:C25,
+        ocs:C25681,
+        ocs:C28,
+        ocs:C28117,
+        ocs:C35993,
+        ocs:C3844,
+        ocs:C41877,
+        ocs:C45202,
+        ocs:C5614,
+        ocs:C8 .
+

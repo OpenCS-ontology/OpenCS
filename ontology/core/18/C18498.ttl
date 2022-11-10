@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18498 a skos:Concept ;
+    skos:broader ocs:C10380 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_Efficiency_Image_File_Format> ;
+    skos:prefLabel "High Efficiency Image File Format" ;
+    skos:related ocs:C10380,
+        ocs:C16860,
+        ocs:C22714,
+        ocs:C29048,
+        ocs:C3522,
+        ocs:C36030,
+        ocs:C44774,
+        ocs:C44962,
+        ocs:C45687,
+        ocs:C4584,
+        ocs:C7296,
+        ocs:C9266 .
+

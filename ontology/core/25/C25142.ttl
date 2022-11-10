@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25142 a skos:Concept ;
+    skos:broader ocs:C2727 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peano_curve> ;
+    skos:prefLabel "Peano curve" ;
+    skos:related ocs:C11641,
+        ocs:C16538,
+        ocs:C2541,
+        ocs:C35569 .
+

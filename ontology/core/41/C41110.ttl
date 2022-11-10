@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41110 a skos:Concept ;
+    skos:broader ocs:C30593,
+        ocs:C31754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bus_(computing)> ;
+    skos:prefLabel "Bus" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11960,
+        ocs:C12918,
+        ocs:C2,
+        ocs:C26,
+        ocs:C3231,
+        ocs:C38463,
+        ocs:C8024,
+        ocs:C9,
+        ocs:C9262 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10617 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_modeling> ;
+    skos:prefLabel "Process modeling" ;
+    skos:related ocs:C10052,
+        ocs:C12427,
+        ocs:C13744,
+        ocs:C14316,
+        ocs:C18539,
+        ocs:C2414,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C29840,
+        ocs:C3395,
+        ocs:C35399,
+        ocs:C37174,
+        ocs:C37370,
+        ocs:C5636,
+        ocs:C5869 .
+

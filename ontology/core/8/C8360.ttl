@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8360 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Critical_mass_(software_engineering)> ;
+    skos:prefLabel "Critical mass (software engineering)" ;
+    skos:related ocs:C11591,
+        ocs:C13045,
+        ocs:C1386,
+        ocs:C2057,
+        ocs:C2265,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C32646,
+        ocs:C33413,
+        ocs:C33806,
+        ocs:C35202,
+        ocs:C35575,
+        ocs:C43108,
+        ocs:C43569,
+        ocs:C44528,
+        ocs:C45391,
+        ocs:C5237 .
+

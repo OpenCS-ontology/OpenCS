@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40238 a skos:Concept ;
+    skos:broader ocs:C29899 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_serial_number> ;
+    skos:prefLabel "Electronic serial number" ;
+    skos:related ocs:C1041,
+        ocs:C18799,
+        ocs:C23297,
+        ocs:C25712,
+        ocs:C29697,
+        ocs:C35725,
+        ocs:C37303,
+        ocs:C38022,
+        ocs:C39722,
+        ocs:C42449,
+        ocs:C44251,
+        ocs:C5917,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9332 .
+

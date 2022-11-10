@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6925 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/NP-intermediate> ;
+    skos:prefLabel "NP-intermediate" ;
+    skos:related ocs:C11250,
+        ocs:C20382,
+        ocs:C23904,
+        ocs:C2425,
+        ocs:C2807,
+        ocs:C33409,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C38867,
+        ocs:C39640,
+        ocs:C41116,
+        ocs:C42518,
+        ocs:C43383,
+        ocs:C44597,
+        ocs:C44665,
+        ocs:C44729,
+        ocs:C45245,
+        ocs:C9450 .
+

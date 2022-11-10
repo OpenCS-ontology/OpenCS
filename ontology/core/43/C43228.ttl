@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43228 a skos:Concept ;
+    skos:broader ocs:C30079,
+        ocs:C33220 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recurrence_period_density_entropy> ;
+    skos:prefLabel "Recurrence period density entropy" ;
+    skos:related ocs:C10509,
+        ocs:C14424,
+        ocs:C14592,
+        ocs:C23563,
+        ocs:C260,
+        ocs:C33141,
+        ocs:C34943,
+        ocs:C5505,
+        ocs:C9428 .
+

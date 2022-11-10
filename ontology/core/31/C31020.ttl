@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31020 a skos:Concept ;
+    skos:broader ocs:C17234 ;
+    skos:closeMatch <http://dbpedia.org/resource/China_brain> ;
+    skos:prefLabel "China brain" ;
+    skos:related ocs:C11874 .
+

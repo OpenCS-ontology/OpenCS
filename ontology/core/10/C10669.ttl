@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10669 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Informal_learning> ;
+    skos:prefLabel "Informal learning" ;
+    skos:related ocs:C10057,
+        ocs:C12214,
+        ocs:C15347,
+        ocs:C21674,
+        ocs:C24564,
+        ocs:C25037,
+        ocs:C3444 .
+

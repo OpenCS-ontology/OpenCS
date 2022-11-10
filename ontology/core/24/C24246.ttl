@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24246 a skos:Concept ;
+    skos:broader ocs:C3236,
+        ocs:C4099,
+        ocs:C4255,
+        ocs:C5369 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absolute_radio-frequency_channel_number> ;
+    skos:prefLabel "Absolute radio-frequency channel number" ;
+    skos:related ocs:C1210,
+        ocs:C13110,
+        ocs:C13316,
+        ocs:C20116,
+        ocs:C20661,
+        ocs:C27704,
+        ocs:C33410,
+        ocs:C35200,
+        ocs:C35964,
+        ocs:C37065,
+        ocs:C38413,
+        ocs:C39175,
+        ocs:C39659,
+        ocs:C42273,
+        ocs:C634,
+        ocs:C7877,
+        ocs:C796,
+        ocs:C9113,
+        ocs:C9154 .
+

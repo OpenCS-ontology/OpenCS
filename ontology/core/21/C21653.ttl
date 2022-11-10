@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21653 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weaver_ant> ;
+    skos:prefLabel "Weaver ant" ;
+    skos:related ocs:C19253,
+        ocs:C19311,
+        ocs:C26257,
+        ocs:C27032,
+        ocs:C30775,
+        ocs:C30805 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14171 a skos:Concept ;
+    skos:broader ocs:C8562 ;
+    skos:closeMatch <http://dbpedia.org/resource/Safety_life_cycle> ;
+    skos:prefLabel "Safety life cycle" ;
+    skos:related ocs:C1,
+        ocs:C11188,
+        ocs:C16709,
+        ocs:C17393,
+        ocs:C27885,
+        ocs:C28699,
+        ocs:C42151,
+        ocs:C43428,
+        ocs:C8562,
+        ocs:C9745 .
+

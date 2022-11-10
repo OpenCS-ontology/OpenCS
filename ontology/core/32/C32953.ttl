@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32953 a skos:Concept ;
+    skos:broader ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distance_modulus> ;
+    skos:prefLabel "Distance modulus" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C25918,
+        ocs:C29074,
+        ocs:C30109,
+        ocs:C32166,
+        ocs:C34069,
+        ocs:C597 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37672 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Function_point> ;
+    skos:prefLabel "Function point" ;
+    skos:related ocs:C2214,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29427,
+        ocs:C32978,
+        ocs:C3447,
+        ocs:C38478,
+        ocs:C39488,
+        ocs:C39588,
+        ocs:C398,
+        ocs:C41314,
+        ocs:C42395,
+        ocs:C42657,
+        ocs:C43715,
+        ocs:C45366,
+        ocs:C45378,
+        ocs:C6647,
+        ocs:C924 .
+

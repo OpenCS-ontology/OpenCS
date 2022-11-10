@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42976 a skos:Concept ;
+    skos:broader ocs:C32110,
+        ocs:C33964,
+        ocs:C37360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nested_transaction> ;
+    skos:prefLabel "Nested transaction" ;
+    skos:related ocs:C10577,
+        ocs:C13984,
+        ocs:C15481,
+        ocs:C15611,
+        ocs:C17673,
+        ocs:C22879,
+        ocs:C23753,
+        ocs:C36535,
+        ocs:C37360,
+        ocs:C38026,
+        ocs:C40323,
+        ocs:C40503,
+        ocs:C40792,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C45124,
+        ocs:C6754,
+        ocs:C8184,
+        ocs:C8702 .
+

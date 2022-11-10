@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23921 a skos:Concept ;
+    skos:broader ocs:C422 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gigapixel_image> ;
+    skos:prefLabel "Gigapixel image" ;
+    skos:related ocs:C1023,
+        ocs:C13065,
+        ocs:C13404,
+        ocs:C13970,
+        ocs:C14473,
+        ocs:C16151,
+        ocs:C27111,
+        ocs:C30745,
+        ocs:C33917,
+        ocs:C422,
+        ocs:C43198,
+        ocs:C5854,
+        ocs:C7735,
+        ocs:C8021,
+        ocs:C8746 .
+

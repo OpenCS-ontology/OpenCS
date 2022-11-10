@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17375 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unmanned_ground_vehicle> ;
+    skos:prefLabel "Unmanned ground vehicle" ;
+    skos:related ocs:C10396,
+        ocs:C11593,
+        ocs:C12641,
+        ocs:C14022,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17554,
+        ocs:C30596,
+        ocs:C3227,
+        ocs:C34058,
+        ocs:C34991,
+        ocs:C36715,
+        ocs:C5627,
+        ocs:C7625,
+        ocs:C8,
+        ocs:C8182 .
+

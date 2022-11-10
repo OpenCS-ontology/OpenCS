@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42256 a skos:Concept ;
+    skos:broader ocs:C36308 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ethernet_over_PDH> ;
+    skos:prefLabel "Ethernet over PDH" ;
+    skos:related ocs:C15589,
+        ocs:C20373,
+        ocs:C24335,
+        ocs:C25250,
+        ocs:C26208,
+        ocs:C26216,
+        ocs:C26809,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C31109,
+        ocs:C35346,
+        ocs:C36308,
+        ocs:C37722,
+        ocs:C42820,
+        ocs:C44317,
+        ocs:C44663,
+        ocs:C45690,
+        ocs:C5997,
+        ocs:C8567 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9657 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speed_limit> ;
+    skos:prefLabel "Speed limit" ;
+    skos:related ocs:C14828,
+        ocs:C17865,
+        ocs:C21285,
+        ocs:C21412,
+        ocs:C21601,
+        ocs:C435,
+        ocs:C5558,
+        ocs:C5633,
+        ocs:C6243,
+        ocs:C9100,
+        ocs:C9696 .
+

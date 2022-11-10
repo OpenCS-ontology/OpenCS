@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28845 a skos:Concept ;
+    skos:broader ocs:C6535,
+        ocs:C6760,
+        ocs:C6912,
+        ocs:C9538 ;
+    skos:prefLabel "Dimensionality estimation" .
+

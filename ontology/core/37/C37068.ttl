@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37068 a skos:Concept ;
+    skos:broader ocs:C19364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diatonic_scale> ;
+    skos:prefLabel "Diatonic scale" ;
+    skos:related ocs:C19364,
+        ocs:C35937,
+        ocs:C38381 .
+

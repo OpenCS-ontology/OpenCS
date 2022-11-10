@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13118 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crossing-based_interface> ;
+    skos:prefLabel "Crossing-based interface" ;
+    skos:related ocs:C11700,
+        ocs:C15633,
+        ocs:C18,
+        ocs:C19298,
+        ocs:C2116,
+        ocs:C2655,
+        ocs:C26634,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C34966,
+        ocs:C37013,
+        ocs:C5702,
+        ocs:C653,
+        ocs:C7736,
+        ocs:C8330,
+        ocs:C841 .
+

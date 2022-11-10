@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13652 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Large_format_(photography)> ;
+    skos:prefLabel "Large format" ;
+    skos:related ocs:C13065,
+        ocs:C1394,
+        ocs:C5728 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15527 a skos:Concept ;
+    skos:broader ocs:C4500 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_science_subsystem> ;
+    skos:prefLabel "Radio science subsystem" ;
+    skos:related ocs:C11863,
+        ocs:C1219,
+        ocs:C19614,
+        ocs:C21604,
+        ocs:C26101,
+        ocs:C28031,
+        ocs:C3,
+        ocs:C3044,
+        ocs:C44963 .
+

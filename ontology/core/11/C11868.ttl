@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11868 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Smart_camera> ;
+    skos:prefLabel "Smart camera" ;
+    skos:related ocs:C1042,
+        ocs:C11,
+        ocs:C12755,
+        ocs:C13065,
+        ocs:C14863,
+        ocs:C17828,
+        ocs:C27319,
+        ocs:C28071,
+        ocs:C3077,
+        ocs:C39,
+        ocs:C41390,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C8499 .
+

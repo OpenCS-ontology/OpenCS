@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7345 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance_tuning> ;
+    skos:prefLabel "Performance tuning" ;
+    skos:related ocs:C13616,
+        ocs:C17698,
+        ocs:C27,
+        ocs:C28073,
+        ocs:C30,
+        ocs:C3429,
+        ocs:C3569,
+        ocs:C40330,
+        ocs:C4155,
+        ocs:C44389,
+        ocs:C44902,
+        ocs:C6,
+        ocs:C6072,
+        ocs:C6312,
+        ocs:C7256 .
+

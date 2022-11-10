@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15803 a skos:Concept ;
+    skos:broader ocs:C13511,
+        ocs:C3678 ;
+    skos:closeMatch <http://dbpedia.org/resource/PCP_theorem> ;
+    skos:prefLabel "PCP theorem" ;
+    skos:related ocs:C11250,
+        ocs:C20382,
+        ocs:C20720,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C27922,
+        ocs:C29968,
+        ocs:C30401,
+        ocs:C31892,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C38867,
+        ocs:C41731,
+        ocs:C43638,
+        ocs:C5823,
+        ocs:C5864,
+        ocs:C6537,
+        ocs:C8660,
+        ocs:C9450 .
+

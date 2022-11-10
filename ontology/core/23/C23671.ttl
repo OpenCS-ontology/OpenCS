@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23671 a skos:Concept ;
+    skos:broader ocs:C6944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_management> ;
+    skos:prefLabel "Design management" ;
+    skos:related ocs:C1332,
+        ocs:C29840,
+        ocs:C6944,
+        ocs:C7904,
+        ocs:C8450 .
+

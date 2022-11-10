@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32137 a skos:Concept ;
+    skos:broader ocs:C19548,
+        ocs:C23958 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microwave_humidity_sounder> ;
+    skos:prefLabel "Microwave humidity sounder" ;
+    skos:related ocs:C12283,
+        ocs:C19548,
+        ocs:C26815,
+        ocs:C32452,
+        ocs:C34620 .
+

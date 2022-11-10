@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22060 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphical_system_design> ;
+    skos:prefLabel "Graphical system design" ;
+    skos:related ocs:C1024,
+        ocs:C1240,
+        ocs:C14967,
+        ocs:C20745,
+        ocs:C22712,
+        ocs:C22751,
+        ocs:C25378,
+        ocs:C26943,
+        ocs:C27,
+        ocs:C28021,
+        ocs:C3452,
+        ocs:C40343,
+        ocs:C4261,
+        ocs:C5336,
+        ocs:C7914 .
+

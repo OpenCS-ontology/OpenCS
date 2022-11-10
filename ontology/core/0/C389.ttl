@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C389 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unit_of_time> ;
+    skos:prefLabel "Unit of time" ;
+    skos:related ocs:C15442,
+        ocs:C19672,
+        ocs:C8560,
+        ocs:C9285 .
+

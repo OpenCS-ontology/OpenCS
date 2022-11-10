@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32433 a skos:Concept ;
+    skos:broader ocs:C28019 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hoarse_voice> ;
+    skos:prefLabel "Hoarse voice quality" ;
+    skos:related ocs:C1,
+        ocs:C12833,
+        ocs:C16,
+        ocs:C21,
+        ocs:C8,
+        ocs:C9884 .
+

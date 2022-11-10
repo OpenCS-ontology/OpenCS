@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25848 a skos:Concept ;
+    skos:broader ocs:C2005 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sequential_minimal_optimization> ;
+    skos:prefLabel "Sequential minimal optimization" ;
+    skos:related ocs:C11030,
+        ocs:C16153,
+        ocs:C17313,
+        ocs:C2005,
+        ocs:C20242,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C25196,
+        ocs:C25201,
+        ocs:C28523,
+        ocs:C32289,
+        ocs:C34750,
+        ocs:C35397,
+        ocs:C41275,
+        ocs:C45844,
+        ocs:C513,
+        ocs:C6287,
+        ocs:C8435 .
+

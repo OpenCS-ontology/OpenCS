@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39145 a skos:Concept ;
+    skos:broader ocs:C30272,
+        ocs:C31113,
+        ocs:C33603,
+        ocs:C37207 ;
+    skos:closeMatch <http://dbpedia.org/resource/Powerset_construction> ;
+    skos:prefLabel "Powerset construction" ;
+    skos:related ocs:C11885,
+        ocs:C17566,
+        ocs:C19560,
+        ocs:C2063,
+        ocs:C20923,
+        ocs:C21398,
+        ocs:C24721,
+        ocs:C27087,
+        ocs:C30272,
+        ocs:C31113,
+        ocs:C3398,
+        ocs:C39717,
+        ocs:C42914,
+        ocs:C43277,
+        ocs:C43681,
+        ocs:C43816,
+        ocs:C44517,
+        ocs:C45537,
+        ocs:C524,
+        ocs:C8791 .
+

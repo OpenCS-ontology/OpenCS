@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36011 a skos:Concept ;
+    skos:broader ocs:C14852,
+        ocs:C25862 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hotelling's_T-squared_distribution> ;
+    skos:prefLabel "Hotelling's T-squared distribution" ;
+    skos:related ocs:C11767,
+        ocs:C14852,
+        ocs:C25862,
+        ocs:C31579,
+        ocs:C32655,
+        ocs:C33009,
+        ocs:C39273,
+        ocs:C42795 .
+

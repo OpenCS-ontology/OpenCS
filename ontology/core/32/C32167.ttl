@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32167 a skos:Concept ;
+    skos:broader ocs:C28962 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perioperative_medicine> ;
+    skos:prefLabel "Perioperative medicine" ;
+    skos:related ocs:C28962,
+        ocs:C30472 .
+

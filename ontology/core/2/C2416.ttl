@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2416 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rear-projection_television> ;
+    skos:prefLabel "Rear-projection television" ;
+    skos:related ocs:C12544,
+        ocs:C13725,
+        ocs:C15787,
+        ocs:C17088,
+        ocs:C19957,
+        ocs:C23498,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C2722,
+        ocs:C653 .
+

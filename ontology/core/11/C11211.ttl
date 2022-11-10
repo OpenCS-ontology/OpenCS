@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11211 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/SYMPL> ;
+    skos:prefLabel "SYMPL" ;
+    skos:related ocs:C10341,
+        ocs:C11180,
+        ocs:C11501,
+        ocs:C12185,
+        ocs:C12846,
+        ocs:C13101,
+        ocs:C1333,
+        ocs:C22666,
+        ocs:C23909,
+        ocs:C3036,
+        ocs:C36972,
+        ocs:C39944,
+        ocs:C4321,
+        ocs:C5425,
+        ocs:C5515,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C7289,
+        ocs:C794 .
+

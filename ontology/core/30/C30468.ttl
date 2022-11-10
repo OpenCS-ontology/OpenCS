@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30468 a skos:Concept ;
+    skos:broader ocs:C25667 ;
+    skos:closeMatch <http://dbpedia.org/resource/CACNB4> ;
+    skos:prefLabel "CACNB4" ;
+    skos:related ocs:C25667,
+        ocs:C32191,
+        ocs:C36679,
+        ocs:C37490,
+        ocs:C39977,
+        ocs:C41272,
+        ocs:C45393 .
+

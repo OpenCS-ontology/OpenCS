@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32481 a skos:Concept ;
+    skos:broader ocs:C20749,
+        ocs:C24486 ;
+    skos:closeMatch <http://dbpedia.org/resource/OpenDocument> ;
+    skos:prefLabel "OpenDocument" ;
+    skos:related ocs:C11531,
+        ocs:C11927,
+        ocs:C13144,
+        ocs:C14627,
+        ocs:C22568,
+        ocs:C24871,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C2981,
+        ocs:C31489,
+        ocs:C33709,
+        ocs:C3679,
+        ocs:C37440,
+        ocs:C42905,
+        ocs:C4584,
+        ocs:C5126,
+        ocs:C6278,
+        ocs:C6605,
+        ocs:C8511,
+        ocs:C9 .
+

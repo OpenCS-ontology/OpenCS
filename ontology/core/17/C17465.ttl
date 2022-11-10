@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17465 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/W-algebra> ;
+    skos:prefLabel "W-algebra" ;
+    skos:related ocs:C18135,
+        ocs:C35930,
+        ocs:C38728,
+        ocs:C597 .
+

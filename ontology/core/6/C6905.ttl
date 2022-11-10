@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6905 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/BeeGFS> ;
+    skos:prefLabel "BeeGFS" ;
+    skos:related ocs:C15477,
+        ocs:C17533,
+        ocs:C20103,
+        ocs:C26030,
+        ocs:C27,
+        ocs:C2878,
+        ocs:C29846,
+        ocs:C31489,
+        ocs:C32389,
+        ocs:C39186,
+        ocs:C40330,
+        ocs:C42749,
+        ocs:C45269,
+        ocs:C5667,
+        ocs:C6312,
+        ocs:C7476,
+        ocs:C7735 .
+

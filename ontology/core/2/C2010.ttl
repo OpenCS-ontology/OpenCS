@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2010 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Belief_revision> ;
+    skos:prefLabel "Belief revision" ;
+    skos:related ocs:C10825,
+        ocs:C126,
+        ocs:C12813,
+        ocs:C12977,
+        ocs:C19908,
+        ocs:C20246,
+        ocs:C26635,
+        ocs:C3579,
+        ocs:C38602,
+        ocs:C38919,
+        ocs:C39073,
+        ocs:C45174,
+        ocs:C45548,
+        ocs:C5507,
+        ocs:C8 .
+

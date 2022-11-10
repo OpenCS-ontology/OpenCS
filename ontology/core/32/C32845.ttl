@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32845 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diplomystidae> ;
+    skos:prefLabel "Diplomystidae" ;
+    skos:related ocs:C24236,
+        ocs:C30248,
+        ocs:C32781,
+        ocs:C35372,
+        ocs:C36286,
+        ocs:C36328,
+        ocs:C37391,
+        ocs:C37403,
+        ocs:C39669,
+        ocs:C39733,
+        ocs:C39959,
+        ocs:C40967,
+        ocs:C45691 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5821 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/SCADA> ;
+    skos:prefLabel "SCADA" ;
+    skos:related ocs:C11,
+        ocs:C1302,
+        ocs:C14466,
+        ocs:C21935,
+        ocs:C26,
+        ocs:C35,
+        ocs:C4458,
+        ocs:C7736,
+        ocs:C8386,
+        ocs:C9718 .
+

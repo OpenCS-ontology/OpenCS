@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24134 a skos:Concept ;
+    skos:broader ocs:C10611,
+        ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_networking> ;
+    skos:prefLabel "Business networking" ;
+    skos:related ocs:C11026,
+        ocs:C14364,
+        ocs:C197,
+        ocs:C20157,
+        ocs:C22701,
+        ocs:C8614 .
+

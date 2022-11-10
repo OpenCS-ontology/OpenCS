@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4694 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_engineering_(transportation)> ;
+    skos:prefLabel "Traffic engineering" ;
+    skos:related ocs:C11869,
+        ocs:C1207,
+        ocs:C15115,
+        ocs:C17865,
+        ocs:C19038,
+        ocs:C21412,
+        ocs:C31393,
+        ocs:C3390,
+        ocs:C36448,
+        ocs:C39139,
+        ocs:C6243,
+        ocs:C9100 .
+

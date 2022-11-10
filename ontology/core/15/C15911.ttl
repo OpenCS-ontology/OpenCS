@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15911 a skos:Concept ;
+    skos:broader ocs:C10135 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ouachita_madtom> ;
+    skos:prefLabel "Ouachita madtom" ;
+    skos:related ocs:C24236,
+        ocs:C30779,
+        ocs:C33059,
+        ocs:C34324,
+        ocs:C39463,
+        ocs:C39930,
+        ocs:C39959 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7360 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_campus> ;
+    skos:prefLabel "Virtual campus" ;
+    skos:related ocs:C10067,
+        ocs:C10225,
+        ocs:C11050,
+        ocs:C17,
+        ocs:C17812,
+        ocs:C22540,
+        ocs:C26281,
+        ocs:C26533,
+        ocs:C26813,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C580,
+        ocs:C7062,
+        ocs:C8614 .
+

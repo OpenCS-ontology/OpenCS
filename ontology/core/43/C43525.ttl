@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43525 a skos:Concept ;
+    skos:broader ocs:C30643,
+        ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Backpressure_routing> ;
+    skos:prefLabel "Backpressure routing" ;
+    skos:related ocs:C12373,
+        ocs:C20087,
+        ocs:C20113,
+        ocs:C27599,
+        ocs:C27669,
+        ocs:C31015,
+        ocs:C34165,
+        ocs:C35234,
+        ocs:C35837,
+        ocs:C40289,
+        ocs:C41000,
+        ocs:C44253,
+        ocs:C44840,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45555,
+        ocs:C45748 .
+

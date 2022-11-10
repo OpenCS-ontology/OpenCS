@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19337 a skos:Concept ;
+    skos:broader ocs:C3337 ;
+    skos:closeMatch <http://dbpedia.org/resource/Referring_expression> ;
+    skos:prefLabel "Referring expression" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13056,
+        ocs:C13457,
+        ocs:C2298,
+        ocs:C2761,
+        ocs:C28097,
+        ocs:C35820,
+        ocs:C3590,
+        ocs:C5521,
+        ocs:C7467 .
+

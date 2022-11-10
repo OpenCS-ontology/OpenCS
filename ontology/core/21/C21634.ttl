@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21634 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hospital_information_system> ;
+    skos:prefLabel "Hospital information system" ;
+    skos:related ocs:C11087,
+        ocs:C197,
+        ocs:C28789,
+        ocs:C3032 .
+

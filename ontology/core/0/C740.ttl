@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C740 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gamma_correction> ;
+    skos:prefLabel "Gamma correction" ;
+    skos:related ocs:C16423,
+        ocs:C17520,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C20260,
+        ocs:C20871,
+        ocs:C24211,
+        ocs:C27086,
+        ocs:C31451,
+        ocs:C36633,
+        ocs:C6444,
+        ocs:C6942,
+        ocs:C7981,
+        ocs:C8021,
+        ocs:C8099 .
+

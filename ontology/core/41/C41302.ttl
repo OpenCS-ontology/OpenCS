@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41302 a skos:Concept ;
+    skos:broader ocs:C35393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Identity_column> ;
+    skos:prefLabel "Identity column" ;
+    skos:related ocs:C1031,
+        ocs:C10444,
+        ocs:C1060,
+        ocs:C10926,
+        ocs:C11039,
+        ocs:C11603,
+        ocs:C11860,
+        ocs:C12185,
+        ocs:C13591,
+        ocs:C14025,
+        ocs:C16901,
+        ocs:C224,
+        ocs:C26088,
+        ocs:C33457,
+        ocs:C3754,
+        ocs:C38452,
+        ocs:C3934,
+        ocs:C40981,
+        ocs:C6 .
+

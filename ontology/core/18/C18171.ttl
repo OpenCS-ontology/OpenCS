@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18171 a skos:Concept ;
+    skos:broader ocs:C13631 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seasickness> ;
+    skos:prefLabel "Seasickness" ;
+    skos:related ocs:C13631,
+        ocs:C2749 .
+

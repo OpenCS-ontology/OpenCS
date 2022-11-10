@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23854 a skos:Concept ;
+    skos:broader ocs:C4321 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loop_fusion> ;
+    skos:prefLabel "Loop fusion" ;
+    skos:related ocs:C17089,
+        ocs:C17698,
+        ocs:C19490,
+        ocs:C19732,
+        ocs:C20856,
+        ocs:C21201,
+        ocs:C22262,
+        ocs:C22968,
+        ocs:C25210,
+        ocs:C26124,
+        ocs:C30556,
+        ocs:C31844,
+        ocs:C32227,
+        ocs:C33100,
+        ocs:C37970,
+        ocs:C40371,
+        ocs:C4321,
+        ocs:C4778 .
+

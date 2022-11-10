@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38589 a skos:Concept ;
+    skos:broader ocs:C36308,
+        ocs:C36975,
+        ocs:C37722 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ethernet_Powerlink> ;
+    skos:prefLabel "Ethernet Powerlink" ;
+    skos:related ocs:C14858,
+        ocs:C173,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C25027,
+        ocs:C26,
+        ocs:C29904,
+        ocs:C31552,
+        ocs:C3362,
+        ocs:C40074,
+        ocs:C43830,
+        ocs:C4458,
+        ocs:C44663,
+        ocs:C490 .
+

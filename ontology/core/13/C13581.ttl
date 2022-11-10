@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13581 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keysight_VEE> ;
+    skos:prefLabel "Keysight VEE" ;
+    skos:related ocs:C10385,
+        ocs:C11487,
+        ocs:C14077,
+        ocs:C16482,
+        ocs:C16968,
+        ocs:C19,
+        ocs:C23249,
+        ocs:C34427,
+        ocs:C35468,
+        ocs:C35918,
+        ocs:C38157,
+        ocs:C38237,
+        ocs:C45490,
+        ocs:C7507,
+        ocs:C9488 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3247 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_Request_Block> ;
+    skos:prefLabel "Service Request Block" ;
+    skos:related ocs:C10496,
+        ocs:C12683,
+        ocs:C15860,
+        ocs:C23926,
+        ocs:C2410,
+        ocs:C24322,
+        ocs:C29413,
+        ocs:C35529,
+        ocs:C36897,
+        ocs:C38819,
+        ocs:C4046,
+        ocs:C42165,
+        ocs:C42309,
+        ocs:C8699,
+        ocs:C9 .
+

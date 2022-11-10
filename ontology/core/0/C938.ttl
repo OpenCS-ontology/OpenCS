@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C938 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/AF-heap> ;
+    skos:prefLabel "AF-heap" ;
+    skos:related ocs:C1082,
+        ocs:C28232,
+        ocs:C33378,
+        ocs:C37974,
+        ocs:C38755,
+        ocs:C38828,
+        ocs:C39664,
+        ocs:C40594,
+        ocs:C41512,
+        ocs:C43160,
+        ocs:C43585,
+        ocs:C43640,
+        ocs:C43738,
+        ocs:C45338,
+        ocs:C45372,
+        ocs:C45644,
+        ocs:C4966,
+        ocs:C7677,
+        ocs:C8610 .
+

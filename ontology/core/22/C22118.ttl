@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22118 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mercury_cadmium_telluride> ;
+    skos:prefLabel "Mercury cadmium telluride" ;
+    skos:related ocs:C19292,
+        ocs:C22283,
+        ocs:C29698,
+        ocs:C37596 .
+

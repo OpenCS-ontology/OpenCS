@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29663 a skos:Concept ;
+    skos:broader ocs:C21553,
+        ocs:C27987 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyber-collection> ;
+    skos:prefLabel "Cyber-collection" ;
+    skos:related ocs:C11146,
+        ocs:C13518,
+        ocs:C14466,
+        ocs:C16481,
+        ocs:C17046,
+        ocs:C18986,
+        ocs:C20295,
+        ocs:C20937,
+        ocs:C25856,
+        ocs:C2941,
+        ocs:C34428,
+        ocs:C35,
+        ocs:C3815,
+        ocs:C41643,
+        ocs:C4984,
+        ocs:C4994,
+        ocs:C7113,
+        ocs:C8025,
+        ocs:C8458 .
+

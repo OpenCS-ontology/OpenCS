@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C636 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sass_(stylesheet_language)> ;
+    skos:prefLabel "Sass" ;
+    skos:related ocs:C10182,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C11991,
+        ocs:C12477,
+        ocs:C15406,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C2419,
+        ocs:C2490,
+        ocs:C27131,
+        ocs:C28801,
+        ocs:C33108,
+        ocs:C355,
+        ocs:C4918,
+        ocs:C7797 .
+

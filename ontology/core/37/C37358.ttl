@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37358 a skos:Concept ;
+    skos:broader ocs:C19353 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynode> ;
+    skos:prefLabel "Dynode" ;
+    skos:related ocs:C10700,
+        ocs:C19353,
+        ocs:C21550,
+        ocs:C2400,
+        ocs:C28059,
+        ocs:C8123 .
+

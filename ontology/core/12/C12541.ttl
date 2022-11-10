@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12541 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vertical_interval_timecode> ;
+    skos:prefLabel "Vertical interval timecode" ;
+    skos:related ocs:C11344,
+        ocs:C12430,
+        ocs:C13466,
+        ocs:C15700,
+        ocs:C18701,
+        ocs:C2000,
+        ocs:C23672,
+        ocs:C31487,
+        ocs:C3522,
+        ocs:C36645,
+        ocs:C38826,
+        ocs:C5101,
+        ocs:C5706,
+        ocs:C7648,
+        ocs:C9045,
+        ocs:C9748 .
+

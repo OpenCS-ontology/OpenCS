@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_architecture> ;
+    skos:prefLabel "Computer architecture" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C11,
+        ocs:C1253,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C31489,
+        ocs:C37538,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C6172,
+        ocs:C7735,
+        ocs:C856,
+        ocs:C9 .
+

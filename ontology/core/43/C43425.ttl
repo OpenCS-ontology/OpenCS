@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43425 a skos:Concept ;
+    skos:broader ocs:C34507,
+        ocs:C36965 ;
+    skos:closeMatch <http://dbpedia.org/resource/Morse–Smale_system> ;
+    skos:prefLabel "Morse–Smale system" ;
+    skos:related ocs:C17860,
+        ocs:C37723,
+        ocs:C40909 .
+

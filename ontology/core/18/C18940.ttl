@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18940 a skos:Concept ;
+    skos:broader ocs:C11699 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rongorongo> ;
+    skos:prefLabel "Rongorongo" ;
+    skos:related ocs:C11699,
+        ocs:C172,
+        ocs:C20976,
+        ocs:C29275,
+        ocs:C33139,
+        ocs:C5126,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C6505 .
+

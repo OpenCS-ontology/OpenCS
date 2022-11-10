@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25964 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_occultation> ;
+    skos:prefLabel "Radio occultation" ;
+    skos:related ocs:C17254,
+        ocs:C34871,
+        ocs:C597 .
+

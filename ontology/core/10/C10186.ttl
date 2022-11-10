@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10186 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Detect_and_avoid> ;
+    skos:prefLabel "Detect and avoid" ;
+    skos:related ocs:C19350,
+        ocs:C19721,
+        ocs:C20400,
+        ocs:C21357,
+        ocs:C24558,
+        ocs:C25626,
+        ocs:C25712,
+        ocs:C29697,
+        ocs:C34471,
+        ocs:C35370,
+        ocs:C38097,
+        ocs:C41460,
+        ocs:C42103,
+        ocs:C42210,
+        ocs:C44538,
+        ocs:C45492,
+        ocs:C8431,
+        ocs:C8728 .
+

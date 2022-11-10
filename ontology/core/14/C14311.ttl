@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14311 a skos:Concept ;
+    skos:broader ocs:C3393,
+        ocs:C7527 ;
+    skos:closeMatch <http://dbpedia.org/resource/High_Bandwidth_Memory> ;
+    skos:prefLabel "High Bandwidth Memory" ;
+    skos:related ocs:C13162,
+        ocs:C13875,
+        ocs:C15167,
+        ocs:C16592,
+        ocs:C1904,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C29183,
+        ocs:C33838,
+        ocs:C37483,
+        ocs:C38300,
+        ocs:C40180,
+        ocs:C45186 .
+

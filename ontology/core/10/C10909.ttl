@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10909 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Const_(computer_programming)> ;
+    skos:prefLabel "const" ;
+    skos:related ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C14222,
+        ocs:C14990,
+        ocs:C19,
+        ocs:C24970,
+        ocs:C26466,
+        ocs:C31014,
+        ocs:C3637,
+        ocs:C39309,
+        ocs:C39715,
+        ocs:C7289,
+        ocs:C794 .
+

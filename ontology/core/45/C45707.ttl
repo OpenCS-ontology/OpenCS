@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45707 a skos:Concept ;
+    skos:broader ocs:C31577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Everhart-Thornley_detector> ;
+    skos:prefLabel "Everhart-Thornley detector" ;
+    skos:related ocs:C10700,
+        ocs:C19353,
+        ocs:C19382,
+        ocs:C19524,
+        ocs:C22012,
+        ocs:C25787,
+        ocs:C32838,
+        ocs:C34797,
+        ocs:C40374,
+        ocs:C597 .
+

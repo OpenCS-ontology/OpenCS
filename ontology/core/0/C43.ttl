@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collection_catalog> ;
+    skos:prefLabel "Collection catalog" ;
+    skos:related ocs:C10730,
+        ocs:C11751,
+        ocs:C12745,
+        ocs:C15831,
+        ocs:C15886,
+        ocs:C1602,
+        ocs:C2862,
+        ocs:C29180,
+        ocs:C39,
+        ocs:C6,
+        ocs:C7849,
+        ocs:C9892 .
+

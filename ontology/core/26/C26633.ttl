@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26633 a skos:Concept ;
+    skos:broader ocs:C13607,
+        ocs:C260,
+        ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nonlinear_autoregressive_exogenous_model> ;
+    skos:prefLabel "Nonlinear autoregressive exogenous model" ;
+    skos:related ocs:C13607,
+        ocs:C14424,
+        ocs:C16692,
+        ocs:C21153,
+        ocs:C21236,
+        ocs:C23563,
+        ocs:C25,
+        ocs:C260,
+        ocs:C26255,
+        ocs:C35266,
+        ocs:C38662,
+        ocs:C6116,
+        ocs:C836,
+        ocs:C9428,
+        ocs:C9874 .
+

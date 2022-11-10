@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24620 a skos:Concept ;
+    skos:broader ocs:C2197 ;
+    skos:prefLabel "Freshwater leech" ;
+    skos:related ocs:C21789,
+        ocs:C21962,
+        ocs:C28724,
+        ocs:C33195 .
+

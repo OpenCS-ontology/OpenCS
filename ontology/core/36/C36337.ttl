@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36337 a skos:Concept ;
+    skos:broader ocs:C28016 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inter-processor_interrupt> ;
+    skos:prefLabel "Inter-processor interrupt" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C12683,
+        ocs:C12764,
+        ocs:C14470,
+        ocs:C15661,
+        ocs:C19487,
+        ocs:C24590,
+        ocs:C28016,
+        ocs:C28515,
+        ocs:C39429,
+        ocs:C39896,
+        ocs:C40633,
+        ocs:C45375,
+        ocs:C4804,
+        ocs:C4863,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

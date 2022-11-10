@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32189 a skos:Concept ;
+    skos:broader ocs:C17557,
+        ocs:C22668,
+        ocs:C26528 ;
+    skos:closeMatch <http://dbpedia.org/resource/JSONP> ;
+    skos:prefLabel "JSONP" ;
+    skos:related ocs:C13068,
+        ocs:C16338,
+        ocs:C22597,
+        ocs:C22668,
+        ocs:C2464,
+        ocs:C25697,
+        ocs:C2599,
+        ocs:C26528,
+        ocs:C31,
+        ocs:C40346,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C42057,
+        ocs:C42899,
+        ocs:C44631,
+        ocs:C45494,
+        ocs:C4918,
+        ocs:C5,
+        ocs:C5203 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32002 a skos:Concept ;
+    skos:broader ocs:C14032 ;
+    skos:prefLabel "Pearly-gates" ;
+    skos:related ocs:C5,
+        ocs:C8614 .
+

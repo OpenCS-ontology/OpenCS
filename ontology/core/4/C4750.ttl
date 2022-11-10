@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4750 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/MM_algorithm> ;
+    skos:prefLabel "MM algorithm" ;
+    skos:related ocs:C10146,
+        ocs:C10390,
+        ocs:C14414,
+        ocs:C17565,
+        ocs:C21710,
+        ocs:C29738,
+        ocs:C30369,
+        ocs:C34313,
+        ocs:C3570,
+        ocs:C35866,
+        ocs:C43184,
+        ocs:C44532 .
+

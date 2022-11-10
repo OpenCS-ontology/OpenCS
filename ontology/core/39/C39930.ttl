@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39930 a skos:Concept ;
+    skos:broader ocs:C36950 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noturus_flavus> ;
+    skos:prefLabel "Noturus flavus" ;
+    skos:related ocs:C14451,
+        ocs:C15911,
+        ocs:C24236,
+        ocs:C33059,
+        ocs:C34324,
+        ocs:C39463,
+        ocs:C39959,
+        ocs:C43827 .
+

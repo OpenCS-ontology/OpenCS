@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19820 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Essential_spectrum> ;
+    skos:prefLabel "Essential spectrum" ;
+    skos:related ocs:C19125,
+        ocs:C20124,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C31450,
+        ocs:C33102,
+        ocs:C34336,
+        ocs:C34413,
+        ocs:C35612,
+        ocs:C36808,
+        ocs:C36974,
+        ocs:C39658,
+        ocs:C40662,
+        ocs:C44342,
+        ocs:C44602,
+        ocs:C44691,
+        ocs:C44846 .
+

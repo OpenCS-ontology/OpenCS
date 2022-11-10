@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29877 a skos:Concept ;
+    skos:broader ocs:C21934 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hörmander's_condition> ;
+    skos:prefLabel "Hörmander's condition" ;
+    skos:related ocs:C20390,
+        ocs:C23079,
+        ocs:C41157,
+        ocs:C45424 .
+

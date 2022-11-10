@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5472 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/TXT_record> ;
+    skos:prefLabel "TXT record" ;
+    skos:related ocs:C14983,
+        ocs:C17609,
+        ocs:C20205,
+        ocs:C24903,
+        ocs:C26114,
+        ocs:C35631,
+        ocs:C35801,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38556,
+        ocs:C39499,
+        ocs:C40832,
+        ocs:C40986,
+        ocs:C41967,
+        ocs:C42304,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C9683 .
+

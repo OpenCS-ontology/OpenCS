@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21652 a skos:Concept ;
+    skos:broader ocs:C4864 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_translation> ;
+    skos:prefLabel "Image translation" ;
+    skos:related ocs:C11129,
+        ocs:C1908,
+        ocs:C21320,
+        ocs:C24011,
+        ocs:C24901,
+        ocs:C3077,
+        ocs:C35137,
+        ocs:C5233,
+        ocs:C5262,
+        ocs:C5852,
+        ocs:C5927,
+        ocs:C8,
+        ocs:C8956,
+        ocs:C9113,
+        ocs:C9796 .
+

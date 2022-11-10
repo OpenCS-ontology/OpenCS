@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18683 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_community> ;
+    skos:prefLabel "Virtual community" ;
+    skos:related ocs:C11026,
+        ocs:C14032,
+        ocs:C16205,
+        ocs:C17658,
+        ocs:C17794,
+        ocs:C20100,
+        ocs:C22668,
+        ocs:C23866,
+        ocs:C24850,
+        ocs:C25411,
+        ocs:C25752,
+        ocs:C27498,
+        ocs:C31,
+        ocs:C35838,
+        ocs:C4712,
+        ocs:C8614 .
+

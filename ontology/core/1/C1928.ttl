@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1928 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34,
+        ocs:C6 ;
+    skos:prefLabel "Data engineer" .
+

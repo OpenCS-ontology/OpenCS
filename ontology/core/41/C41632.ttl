@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41632 a skos:Concept ;
+    skos:broader ocs:C30003,
+        ocs:C31777,
+        ocs:C33459,
+        ocs:C35455 ;
+    skos:closeMatch <http://dbpedia.org/resource/Keyword_cipher> ;
+    skos:prefLabel "Keyword cipher" ;
+    skos:related ocs:C1027,
+        ocs:C11204,
+        ocs:C11704,
+        ocs:C14651,
+        ocs:C30538,
+        ocs:C32021,
+        ocs:C35455,
+        ocs:C36291,
+        ocs:C38920,
+        ocs:C39582,
+        ocs:C40751,
+        ocs:C4218,
+        ocs:C43436,
+        ocs:C43963,
+        ocs:C44636,
+        ocs:C44803,
+        ocs:C45367,
+        ocs:C6724,
+        ocs:C7567,
+        ocs:C9491 .
+

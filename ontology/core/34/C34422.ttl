@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34422 a skos:Concept ;
+    skos:broader ocs:C21204,
+        ocs:C24264 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delay_spread> ;
+    skos:prefLabel "Delay spread" ;
+    skos:related ocs:C12942,
+        ocs:C16335,
+        ocs:C18520,
+        ocs:C19721,
+        ocs:C21204,
+        ocs:C21945,
+        ocs:C23423,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C24558,
+        ocs:C33681,
+        ocs:C35081,
+        ocs:C35333,
+        ocs:C35931,
+        ocs:C43426,
+        ocs:C45304,
+        ocs:C5853,
+        ocs:C8147 .
+

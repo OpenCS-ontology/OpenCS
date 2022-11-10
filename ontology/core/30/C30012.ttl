@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30012 a skos:Concept ;
+    skos:broader ocs:C16169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rice's_formula> ;
+    skos:prefLabel "Rice's formula" ;
+    skos:related ocs:C16169,
+        ocs:C18619,
+        ocs:C19703,
+        ocs:C20842,
+        ocs:C275,
+        ocs:C36984,
+        ocs:C38208,
+        ocs:C9246 .
+

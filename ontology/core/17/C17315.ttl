@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17315 a skos:Concept ;
+    skos:broader ocs:C9745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reliability_block_diagram> ;
+    skos:prefLabel "Reliability block diagram" ;
+    skos:related ocs:C11748,
+        ocs:C12348,
+        ocs:C14468,
+        ocs:C26266,
+        ocs:C36861,
+        ocs:C39238,
+        ocs:C40955,
+        ocs:C4817,
+        ocs:C9745 .
+

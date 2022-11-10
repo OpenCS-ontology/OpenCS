@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17534 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_broadcasting> ;
+    skos:prefLabel "International broadcasting" ;
+    skos:related ocs:C12757,
+        ocs:C12999,
+        ocs:C14260,
+        ocs:C15505,
+        ocs:C15511,
+        ocs:C15824,
+        ocs:C18001,
+        ocs:C19366,
+        ocs:C19903,
+        ocs:C32456,
+        ocs:C7159 .
+

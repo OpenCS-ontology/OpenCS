@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24550 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microservices> ;
+    skos:prefLabel "Microservices" ;
+    skos:related ocs:C12000,
+        ocs:C12830,
+        ocs:C13252,
+        ocs:C14271,
+        ocs:C15478,
+        ocs:C17238,
+        ocs:C2674,
+        ocs:C28275,
+        ocs:C28941,
+        ocs:C30,
+        ocs:C31667,
+        ocs:C39323,
+        ocs:C41498,
+        ocs:C43774,
+        ocs:C443,
+        ocs:C45228,
+        ocs:C6185,
+        ocs:C7106,
+        ocs:C7912 .
+

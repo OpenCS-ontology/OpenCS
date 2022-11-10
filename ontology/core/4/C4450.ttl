@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4450 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Search_box> ;
+    skos:prefLabel "Search box" ;
+    skos:related ocs:C10096,
+        ocs:C11888,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C17225,
+        ocs:C1787,
+        ocs:C19224,
+        ocs:C2365,
+        ocs:C2464,
+        ocs:C3472,
+        ocs:C39074,
+        ocs:C40049,
+        ocs:C40687,
+        ocs:C428,
+        ocs:C5305,
+        ocs:C5355,
+        ocs:C6860,
+        ocs:C7819 .
+

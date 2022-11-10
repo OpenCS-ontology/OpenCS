@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7670 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/End-of-Transmission_character> ;
+    skos:prefLabel "End-of-Transmission character" ;
+    skos:related ocs:C11149,
+        ocs:C12815,
+        ocs:C14271,
+        ocs:C3,
+        ocs:C30078,
+        ocs:C37442,
+        ocs:C40228,
+        ocs:C6185,
+        ocs:C6258,
+        ocs:C6903,
+        ocs:C8899,
+        ocs:C9,
+        ocs:C9035,
+        ocs:C9162 .
+

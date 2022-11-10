@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39291 a skos:Concept ;
+    skos:broader ocs:C30058 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galactic_year> ;
+    skos:prefLabel "Galactic year" ;
+    skos:related ocs:C17246,
+        ocs:C34265,
+        ocs:C34515,
+        ocs:C45914 .
+

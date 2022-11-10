@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34601 a skos:Concept ;
+    skos:broader ocs:C22180 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_29119> ;
+    skos:prefLabel "ISO/IEC 29119" ;
+    skos:related ocs:C1165,
+        ocs:C18415,
+        ocs:C19404,
+        ocs:C20063,
+        ocs:C25956,
+        ocs:C27605,
+        ocs:C29422,
+        ocs:C35575,
+        ocs:C38493,
+        ocs:C39614,
+        ocs:C41342,
+        ocs:C41788,
+        ocs:C41989,
+        ocs:C42333,
+        ocs:C42762,
+        ocs:C44040,
+        ocs:C45208,
+        ocs:C45809,
+        ocs:C6297,
+        ocs:C7053 .
+

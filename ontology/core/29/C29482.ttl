@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29482 a skos:Concept ;
+    skos:broader ocs:C2005 ;
+    skos:closeMatch <http://dbpedia.org/resource/Method_of_support> ;
+    skos:prefLabel "Method of support" ;
+    skos:related ocs:C10222,
+        ocs:C13685,
+        ocs:C13877,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C21710,
+        ocs:C22785,
+        ocs:C30859,
+        ocs:C34894,
+        ocs:C41344,
+        ocs:C41656,
+        ocs:C41975,
+        ocs:C45027 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37585 a skos:Concept ;
+    skos:broader ocs:C29219 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_scattering_transform> ;
+    skos:prefLabel "Inverse scattering transform" ;
+    skos:related ocs:C20699,
+        ocs:C29219 .
+

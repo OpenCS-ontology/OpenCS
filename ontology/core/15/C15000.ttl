@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15000 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structural_holes> ;
+    skos:prefLabel "Structural holes" ;
+    skos:related ocs:C11026,
+        ocs:C11866,
+        ocs:C15047,
+        ocs:C18683,
+        ocs:C18864,
+        ocs:C20170,
+        ocs:C22115,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C25141,
+        ocs:C26462,
+        ocs:C28521,
+        ocs:C36667,
+        ocs:C36858 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7224 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Buddy_memory_allocation> ;
+    skos:prefLabel "Buddy memory allocation" ;
+    skos:related ocs:C20800,
+        ocs:C22688,
+        ocs:C25960,
+        ocs:C27129,
+        ocs:C28030,
+        ocs:C2885,
+        ocs:C29978,
+        ocs:C31422,
+        ocs:C31433,
+        ocs:C32676,
+        ocs:C37964,
+        ocs:C38368,
+        ocs:C38819,
+        ocs:C41603,
+        ocs:C44662,
+        ocs:C45013,
+        ocs:C6693,
+        ocs:C8782 .
+

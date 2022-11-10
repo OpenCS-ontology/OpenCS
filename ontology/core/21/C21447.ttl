@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21447 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/RoboMind> ;
+    skos:prefLabel "RoboMind" ;
+    skos:related ocs:C10396,
+        ocs:C10720,
+        ocs:C17236,
+        ocs:C19,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C36022,
+        ocs:C36385,
+        ocs:C4321,
+        ocs:C44787,
+        ocs:C4918,
+        ocs:C4937,
+        ocs:C5280,
+        ocs:C5961,
+        ocs:C6670,
+        ocs:C9033 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9368 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barbershop_paradox> ;
+    skos:prefLabel "Barbershop paradox" ;
+    skos:related ocs:C11635,
+        ocs:C19818,
+        ocs:C22749,
+        ocs:C26482,
+        ocs:C26635,
+        ocs:C3137,
+        ocs:C36868,
+        ocs:C38596,
+        ocs:C39399,
+        ocs:C43008,
+        ocs:C44362,
+        ocs:C45548 .
+

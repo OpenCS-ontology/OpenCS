@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5302 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Value_restriction> ;
+    skos:prefLabel "Value restriction" ;
+    skos:related ocs:C10608,
+        ocs:C11062,
+        ocs:C11409,
+        ocs:C15051,
+        ocs:C16537,
+        ocs:C20000,
+        ocs:C27185,
+        ocs:C28944,
+        ocs:C34136,
+        ocs:C37655,
+        ocs:C3797,
+        ocs:C38070,
+        ocs:C5517,
+        ocs:C6918,
+        ocs:C6941 .
+

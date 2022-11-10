@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42958 a skos:Concept ;
+    skos:broader ocs:C36286 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cetopsidae> ;
+    skos:prefLabel "Cetopsidae" ;
+    skos:related ocs:C24236,
+        ocs:C31573,
+        ocs:C33166,
+        ocs:C40967,
+        ocs:C42152,
+        ocs:C42290,
+        ocs:C42916,
+        ocs:C44472,
+        ocs:C44495,
+        ocs:C45751 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27649 a skos:Concept ;
+    skos:broader ocs:C1832,
+        ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Noise_shaping> ;
+    skos:prefLabel "Noise shaping" ;
+    skos:related ocs:C10778,
+        ocs:C11747,
+        ocs:C1449,
+        ocs:C1832,
+        ocs:C22096,
+        ocs:C30637,
+        ocs:C30691,
+        ocs:C33862,
+        ocs:C37917,
+        ocs:C42272,
+        ocs:C42625,
+        ocs:C44628,
+        ocs:C6113 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25296 a skos:Concept ;
+    skos:broader ocs:C7912,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTTP_Strict_Transport_Security> ;
+    skos:prefLabel "HTTP Strict Transport Security" ;
+    skos:related ocs:C14360,
+        ocs:C16338,
+        ocs:C20205,
+        ocs:C20243,
+        ocs:C22597,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C24704,
+        ocs:C31,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C34259,
+        ocs:C38118,
+        ocs:C39663,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C45747,
+        ocs:C8355,
+        ocs:C8577,
+        ocs:C8614 .
+

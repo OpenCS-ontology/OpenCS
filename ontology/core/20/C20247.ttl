@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20247 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interstellar_comet> ;
+    skos:prefLabel "Interstellar comet" ;
+    skos:related ocs:C14224,
+        ocs:C14270,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C25918,
+        ocs:C26524,
+        ocs:C36049,
+        ocs:C36203,
+        ocs:C38586,
+        ocs:C597 .
+

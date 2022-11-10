@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3492 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:prefLabel "Real time model" ;
+    skos:related ocs:C10917,
+        ocs:C12099,
+        ocs:C14404,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C30,
+        ocs:C33,
+        ocs:C5336,
+        ocs:C5818,
+        ocs:C8704 .
+

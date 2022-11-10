@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14173 a skos:Concept ;
+    skos:broader ocs:C3042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ishikawa_diagram> ;
+    skos:prefLabel "Ishikawa diagram" ;
+    skos:related ocs:C18406,
+        ocs:C1938,
+        ocs:C22976,
+        ocs:C383,
+        ocs:C5500,
+        ocs:C9745 .
+

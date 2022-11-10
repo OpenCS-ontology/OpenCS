@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25027 a skos:Concept ;
+    skos:broader ocs:C490 ;
+    skos:closeMatch <http://dbpedia.org/resource/Industrial_Ethernet> ;
+    skos:prefLabel "Industrial Ethernet" ;
+    skos:related ocs:C11864,
+        ocs:C14858,
+        ocs:C15048,
+        ocs:C173,
+        ocs:C20519,
+        ocs:C23445,
+        ocs:C26,
+        ocs:C31552,
+        ocs:C42934,
+        ocs:C43830,
+        ocs:C4458,
+        ocs:C490,
+        ocs:C5821 .
+

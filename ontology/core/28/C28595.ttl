@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28595 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C7179,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/IP_aliasing> ;
+    skos:prefLabel "IP aliasing" ;
+    skos:related ocs:C17187,
+        ocs:C20205,
+        ocs:C21894,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C27138,
+        ocs:C28346,
+        ocs:C29359,
+        ocs:C36678,
+        ocs:C36926,
+        ocs:C38045,
+        ocs:C41222,
+        ocs:C42429,
+        ocs:C43015,
+        ocs:C4318,
+        ocs:C44972,
+        ocs:C45399,
+        ocs:C5343,
+        ocs:C9,
+        ocs:C9176 .
+

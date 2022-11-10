@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10137 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Engineering_change_order> ;
+    skos:prefLabel "Engineering change order" ;
+    skos:related ocs:C14650,
+        ocs:C19400,
+        ocs:C21126,
+        ocs:C254,
+        ocs:C27883,
+        ocs:C28039,
+        ocs:C30433,
+        ocs:C31773,
+        ocs:C34945,
+        ocs:C37773,
+        ocs:C4274,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C9450 .
+

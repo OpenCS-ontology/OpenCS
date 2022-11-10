@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40851 a skos:Concept ;
+    skos:broader ocs:C35298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Experimental_factor_ontology> ;
+    skos:prefLabel "Experimental factor ontology" ;
+    skos:related ocs:C32303,
+        ocs:C35993,
+        ocs:C44939,
+        ocs:C45213,
+        ocs:C45471 .
+

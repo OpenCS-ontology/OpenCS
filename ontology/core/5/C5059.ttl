@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5059 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schema_for_Object-Oriented_XML> ;
+    skos:prefLabel "Schema for Object-Oriented XML" ;
+    skos:related ocs:C11927,
+        ocs:C13717,
+        ocs:C23709,
+        ocs:C24486,
+        ocs:C26630,
+        ocs:C31929,
+        ocs:C3626,
+        ocs:C36924,
+        ocs:C37980,
+        ocs:C38584,
+        ocs:C38812,
+        ocs:C39253,
+        ocs:C40821,
+        ocs:C42402,
+        ocs:C44193,
+        ocs:C44843,
+        ocs:C45664,
+        ocs:C45693,
+        ocs:C9836 .
+

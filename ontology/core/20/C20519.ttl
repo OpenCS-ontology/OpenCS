@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20519 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/CODESYS> ;
+    skos:prefLabel "CODESYS" ;
+    skos:related ocs:C1042,
+        ocs:C11293,
+        ocs:C14858,
+        ocs:C15048,
+        ocs:C23445,
+        ocs:C25027,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C31771,
+        ocs:C34229,
+        ocs:C42348,
+        ocs:C4771,
+        ocs:C5396,
+        ocs:C9033 .
+

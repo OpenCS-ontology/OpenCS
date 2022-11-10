@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31169 a skos:Concept ;
+    skos:broader ocs:C18985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Display_advertising> ;
+    skos:prefLabel "Display advertising" ;
+    skos:related ocs:C11116,
+        ocs:C13681,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C29564,
+        ocs:C31,
+        ocs:C32220,
+        ocs:C33206,
+        ocs:C35013,
+        ocs:C35660,
+        ocs:C36469,
+        ocs:C43157,
+        ocs:C5926,
+        ocs:C8614 .
+

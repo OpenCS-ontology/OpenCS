@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44774 a skos:Concept ;
+    skos:broader ocs:C30690,
+        ocs:C36671,
+        ocs:C36912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_Lossless_Coding> ;
+    skos:prefLabel "Audio Lossless Coding" ;
+    skos:related ocs:C10881,
+        ocs:C11323,
+        ocs:C16860,
+        ocs:C22714,
+        ocs:C29048,
+        ocs:C2937,
+        ocs:C30758,
+        ocs:C31114,
+        ocs:C34697,
+        ocs:C36139,
+        ocs:C36671,
+        ocs:C37364,
+        ocs:C39055,
+        ocs:C44962,
+        ocs:C45687,
+        ocs:C6081 .
+

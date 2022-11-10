@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27563 a skos:Concept ;
+    skos:broader ocs:C7553 ;
+    skos:closeMatch <http://dbpedia.org/resource/Evolutionary_computation> ;
+    skos:prefLabel "Evolutionary computation" ;
+    skos:related ocs:C1,
+        ocs:C10390,
+        ocs:C11143,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C19750,
+        ocs:C25,
+        ocs:C25025,
+        ocs:C33012,
+        ocs:C34689,
+        ocs:C35139,
+        ocs:C36567,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C8,
+        ocs:C9022 .
+

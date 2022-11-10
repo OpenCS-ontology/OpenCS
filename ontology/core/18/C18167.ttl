@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18167 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C511,
+        ocs:C5706,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/TTEthernet> ;
+    skos:prefLabel "TTEthernet" ;
+    skos:related ocs:C14858,
+        ocs:C15804,
+        ocs:C19350,
+        ocs:C21314,
+        ocs:C23919,
+        ocs:C25172,
+        ocs:C26,
+        ocs:C27398,
+        ocs:C2935,
+        ocs:C29904,
+        ocs:C33,
+        ocs:C33387,
+        ocs:C38589,
+        ocs:C4197,
+        ocs:C44780,
+        ocs:C45502,
+        ocs:C490 .
+

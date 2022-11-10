@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12804 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C27,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nested_loop_join> ;
+    skos:prefLabel "Nested loop join" ;
+    skos:related ocs:C10,
+        ocs:C12185,
+        ocs:C14109,
+        ocs:C14950,
+        ocs:C16334,
+        ocs:C16912,
+        ocs:C1904,
+        ocs:C2747,
+        ocs:C30285,
+        ocs:C37036,
+        ocs:C40417,
+        ocs:C6,
+        ocs:C6917,
+        ocs:C8581 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19238 a skos:Concept ;
+    skos:broader ocs:C4697 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymptotic_homogenization> ;
+    skos:prefLabel "Asymptotic homogenization" ;
+    skos:related ocs:C13871,
+        ocs:C14860,
+        ocs:C20390 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43463 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Beam_tilt> ;
+    skos:prefLabel "Beam tilt" ;
+    skos:related ocs:C1219,
+        ocs:C24151,
+        ocs:C2465,
+        ocs:C3044,
+        ocs:C38309,
+        ocs:C42344,
+        ocs:C5397,
+        ocs:C7216,
+        ocs:C7874,
+        ocs:C7909 .
+

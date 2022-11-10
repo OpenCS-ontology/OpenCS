@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24178 a skos:Concept ;
+    skos:broader ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Periodic_sentence> ;
+    skos:prefLabel "Periodic sentence" ;
+    skos:related ocs:C13006,
+        ocs:C15506,
+        ocs:C19047,
+        ocs:C19696,
+        ocs:C23680,
+        ocs:C24393,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C28817,
+        ocs:C30451,
+        ocs:C33735,
+        ocs:C6545 .
+

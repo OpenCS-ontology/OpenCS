@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22485 a skos:Concept ;
+    skos:broader ocs:C2746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-armed_bandit> ;
+    skos:prefLabel "Multi-armed bandit" ;
+    skos:related ocs:C13610,
+        ocs:C1450,
+        ocs:C18279,
+        ocs:C1844,
+        ocs:C18442,
+        ocs:C25,
+        ocs:C25952,
+        ocs:C27053,
+        ocs:C28991,
+        ocs:C31561,
+        ocs:C31955,
+        ocs:C35392,
+        ocs:C42127,
+        ocs:C6909,
+        ocs:C9022 .
+

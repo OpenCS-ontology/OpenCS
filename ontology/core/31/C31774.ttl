@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31774 a skos:Concept ;
+    skos:broader ocs:C16125 ;
+    skos:closeMatch <http://dbpedia.org/resource/Key_size> ;
+    skos:prefLabel "Key size" ;
+    skos:related ocs:C14539,
+        ocs:C16125,
+        ocs:C16690,
+        ocs:C16983,
+        ocs:C17856,
+        ocs:C25340,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C31654,
+        ocs:C32484,
+        ocs:C34052,
+        ocs:C35391,
+        ocs:C37854,
+        ocs:C38359,
+        ocs:C38401,
+        ocs:C38685,
+        ocs:C4218,
+        ocs:C8076 .
+

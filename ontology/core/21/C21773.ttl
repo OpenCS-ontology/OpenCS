@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21773 a skos:Concept ;
+    skos:broader ocs:C12075,
+        ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Endurantism> ;
+    skos:prefLabel "Endurantism" ;
+    skos:related ocs:C1443,
+        ocs:C21596,
+        ocs:C24852,
+        ocs:C32467,
+        ocs:C34098,
+        ocs:C34630 .
+

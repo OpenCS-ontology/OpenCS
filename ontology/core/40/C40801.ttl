@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40801 a skos:Concept ;
+    skos:broader ocs:C37259 ;
+    skos:closeMatch <http://dbpedia.org/resource/GRAPES-3> ;
+    skos:prefLabel "GRAPES-3" ;
+    skos:related ocs:C20575,
+        ocs:C30282,
+        ocs:C33051,
+        ocs:C34642,
+        ocs:C43081,
+        ocs:C597 .
+

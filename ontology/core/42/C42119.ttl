@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42119 a skos:Concept ;
+    skos:broader ocs:C30857,
+        ocs:C30884,
+        ocs:C30923 ;
+    skos:prefLabel "Quadrature partial response" .
+

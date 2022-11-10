@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30900 a skos:Concept ;
+    skos:broader ocs:C29007 ;
+    skos:closeMatch <http://dbpedia.org/resource/C-QUAM> ;
+    skos:prefLabel "C-QUAM" ;
+    skos:related ocs:C10409,
+        ocs:C15451,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19721,
+        ocs:C19903,
+        ocs:C23488,
+        ocs:C25195,
+        ocs:C26768,
+        ocs:C29007,
+        ocs:C31899,
+        ocs:C36245,
+        ocs:C36707,
+        ocs:C38024,
+        ocs:C38310,
+        ocs:C7159,
+        ocs:C8388 .
+

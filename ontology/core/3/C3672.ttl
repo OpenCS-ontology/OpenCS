@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3672 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C2,
+        ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Progress_bar> ;
+    skos:prefLabel "Progress bar" ;
+    skos:related ocs:C10096,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C1336,
+        ocs:C13790,
+        ocs:C1787,
+        ocs:C19298,
+        ocs:C2365,
+        ocs:C25147,
+        ocs:C26700,
+        ocs:C3472,
+        ocs:C40687,
+        ocs:C4253,
+        ocs:C5305,
+        ocs:C5702,
+        ocs:C7059,
+        ocs:C7736,
+        ocs:C8129 .
+

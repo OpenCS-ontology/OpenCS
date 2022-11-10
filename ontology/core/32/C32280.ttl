@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32280 a skos:Concept ;
+    skos:broader ocs:C27187 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_personal_pronouns> ;
+    skos:prefLabel "English personal pronouns" ;
+    skos:related ocs:C10760,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C15644,
+        ocs:C19623,
+        ocs:C22054,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C27343,
+        ocs:C28817,
+        ocs:C32159,
+        ocs:C6545 .
+

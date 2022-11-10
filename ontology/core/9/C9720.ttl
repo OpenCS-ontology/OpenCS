@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9720 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Airspace_class> ;
+    skos:prefLabel "Airspace class" ;
+    skos:related ocs:C11445,
+        ocs:C14241,
+        ocs:C14265,
+        ocs:C18996,
+        ocs:C23477,
+        ocs:C26346,
+        ocs:C27838,
+        ocs:C33190,
+        ocs:C35629,
+        ocs:C35895,
+        ocs:C45176,
+        ocs:C45558,
+        ocs:C4597 .
+

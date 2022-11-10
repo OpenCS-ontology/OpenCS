@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C128 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_variable> ;
+    skos:prefLabel "Global variable" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C11284,
+        ocs:C11991,
+        ocs:C1333,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C20907,
+        ocs:C23909,
+        ocs:C34807,
+        ocs:C36972,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C6941,
+        ocs:C7470,
+        ocs:C9638 .
+

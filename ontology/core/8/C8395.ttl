@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8395 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Passive_monitoring> ;
+    skos:prefLabel "Passive monitoring" ;
+    skos:related ocs:C11415,
+        ocs:C11761,
+        ocs:C12810,
+        ocs:C14003,
+        ocs:C14983,
+        ocs:C16980,
+        ocs:C1901,
+        ocs:C21230,
+        ocs:C22597,
+        ocs:C24323,
+        ocs:C26523,
+        ocs:C26773,
+        ocs:C27097,
+        ocs:C27923,
+        ocs:C32642,
+        ocs:C3982,
+        ocs:C42101,
+        ocs:C4817,
+        ocs:C5705,
+        ocs:C6592 .
+

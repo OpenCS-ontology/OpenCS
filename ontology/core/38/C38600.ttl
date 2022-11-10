@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38600 a skos:Concept ;
+    skos:broader ocs:C29795,
+        ocs:C32349 ;
+    skos:closeMatch <http://dbpedia.org/resource/Baire_space_(set_theory)> ;
+    skos:prefLabel "Baire space (set theory)" ;
+    skos:related ocs:C29795,
+        ocs:C41795 .
+

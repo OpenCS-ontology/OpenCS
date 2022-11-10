@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45738 a skos:Concept ;
+    skos:broader ocs:C34542,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medial_graph> ;
+    skos:prefLabel "Medial graph" ;
+    skos:related ocs:C14693,
+        ocs:C17726,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C31629,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38545,
+        ocs:C39263,
+        ocs:C39583,
+        ocs:C41573,
+        ocs:C42281,
+        ocs:C42525,
+        ocs:C42848,
+        ocs:C43125 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12533 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/FLAGS_register> ;
+    skos:prefLabel "FLAGS register" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C1441,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C31346,
+        ocs:C33174,
+        ocs:C36894,
+        ocs:C37134,
+        ocs:C37847,
+        ocs:C5463,
+        ocs:C7009,
+        ocs:C7741,
+        ocs:C8434 .
+

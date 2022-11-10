@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19934 a skos:Concept ;
+    skos:broader ocs:C11070,
+        ocs:C3236,
+        ocs:C4099,
+        ocs:C6114 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call_set-up_time> ;
+    skos:prefLabel "Call set-up time" ;
+    skos:related ocs:C12844,
+        ocs:C138,
+        ocs:C19702,
+        ocs:C21891,
+        ocs:C26712,
+        ocs:C28334,
+        ocs:C3692,
+        ocs:C4343,
+        ocs:C5725,
+        ocs:C6117,
+        ocs:C7444 .
+

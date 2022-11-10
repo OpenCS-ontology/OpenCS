@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27985 a skos:Concept ;
+    skos:broader ocs:C12810,
+        ocs:C8577,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Server-sent_events> ;
+    skos:prefLabel "Server-sent events" ;
+    skos:related ocs:C12477,
+        ocs:C12810,
+        ocs:C17235,
+        ocs:C17401,
+        ocs:C18680,
+        ocs:C22597,
+        ocs:C25697,
+        ocs:C27839,
+        ocs:C28801,
+        ocs:C28999,
+        ocs:C35205,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C40510,
+        ocs:C40902,
+        ocs:C4231,
+        ocs:C4918,
+        ocs:C5203,
+        ocs:C6278,
+        ocs:C8577 .
+

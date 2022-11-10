@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26518 a skos:Concept ;
+    skos:broader ocs:C11143 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_chemistry> ;
+    skos:prefLabel "Artificial chemistry" ;
+    skos:related ocs:C10997,
+        ocs:C11143,
+        ocs:C122,
+        ocs:C13746,
+        ocs:C20846,
+        ocs:C34097,
+        ocs:C39944,
+        ocs:C45550,
+        ocs:C8887 .
+

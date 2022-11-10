@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15914 a skos:Concept ;
+    skos:broader ocs:C9605 ;
+    skos:prefLabel "PANEL.FUNCTION" ;
+    skos:related ocs:C21360,
+        ocs:C22,
+        ocs:C3401,
+        ocs:C5086,
+        ocs:C6069,
+        ocs:C8021 .
+

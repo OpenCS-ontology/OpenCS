@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4876 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thresholding_(image_processing)> ;
+    skos:prefLabel "Thresholding" ;
+    skos:related ocs:C12849,
+        ocs:C14863,
+        ocs:C1935,
+        ocs:C20117,
+        ocs:C24211,
+        ocs:C29175,
+        ocs:C30745,
+        ocs:C31013,
+        ocs:C32479,
+        ocs:C40134,
+        ocs:C41977,
+        ocs:C42678,
+        ocs:C44133,
+        ocs:C6942,
+        ocs:C966 .
+

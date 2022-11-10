@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38244 a skos:Concept ;
+    skos:broader ocs:C30859,
+        ocs:C34590,
+        ocs:C35658 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ratio_estimator> ;
+    skos:prefLabel "Ratio estimator" ;
+    skos:related ocs:C23554,
+        ocs:C30859,
+        ocs:C42748,
+        ocs:C6498,
+        ocs:C795 .
+

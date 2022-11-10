@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2698 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microcambeva> ;
+    skos:prefLabel "Microcambeva" ;
+    skos:related ocs:C31227,
+        ocs:C33650,
+        ocs:C38897,
+        ocs:C39150,
+        ocs:C41080,
+        ocs:C42790,
+        ocs:C43311,
+        ocs:C43660,
+        ocs:C43754,
+        ocs:C45663 .
+

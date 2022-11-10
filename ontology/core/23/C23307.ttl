@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23307 a skos:Concept ;
+    skos:broader ocs:C9596 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_signal_processing> ;
+    skos:prefLabel "Audio signal processing" ;
+    skos:related ocs:C10492,
+        ocs:C11254,
+        ocs:C123,
+        ocs:C1449,
+        ocs:C1704,
+        ocs:C21364,
+        ocs:C26575,
+        ocs:C38517,
+        ocs:C39249,
+        ocs:C40768,
+        ocs:C520,
+        ocs:C5298,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C7502,
+        ocs:C9596 .
+

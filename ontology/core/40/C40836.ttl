@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40836 a skos:Concept ;
+    skos:broader ocs:C31270 ;
+    skos:prefLabel "Hexacylloepus" ;
+    skos:related ocs:C31270,
+        ocs:C38390,
+        ocs:C43356 .
+

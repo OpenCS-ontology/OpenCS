@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33861 a skos:Concept ;
+    skos:broader ocs:C16352 ;
+    skos:closeMatch <http://dbpedia.org/resource/LN-3_Inertial_Navigation_System> ;
+    skos:prefLabel "LN-3 Inertial Navigation System" ;
+    skos:related ocs:C14324,
+        ocs:C16352,
+        ocs:C16959,
+        ocs:C21715,
+        ocs:C2256,
+        ocs:C28796,
+        ocs:C29908,
+        ocs:C34143,
+        ocs:C35497,
+        ocs:C40097,
+        ocs:C42201,
+        ocs:C7850,
+        ocs:C9066,
+        ocs:C9242 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14151 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cartesian_product> ;
+    skos:prefLabel "Cartesian product" ;
+    skos:related ocs:C10392,
+        ocs:C11771,
+        ocs:C13902,
+        ocs:C16538,
+        ocs:C5251 .
+

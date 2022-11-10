@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38061 a skos:Concept ;
+    skos:broader ocs:C31397,
+        ocs:C31724,
+        ocs:C32190,
+        ocs:C32649,
+        ocs:C36972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service-oriented_programming> ;
+    skos:prefLabel "Service-oriented programming" ;
+    skos:related ocs:C10720,
+        ocs:C10904,
+        ocs:C11612,
+        ocs:C11927,
+        ocs:C12690,
+        ocs:C13252,
+        ocs:C15406,
+        ocs:C17238,
+        ocs:C19374,
+        ocs:C22095,
+        ocs:C23181,
+        ocs:C29401,
+        ocs:C3037,
+        ocs:C31894,
+        ocs:C35701,
+        ocs:C38237,
+        ocs:C42936,
+        ocs:C42972,
+        ocs:C5722,
+        ocs:C6941 .
+

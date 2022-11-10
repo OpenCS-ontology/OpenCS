@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11255 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer-assisted_surgery> ;
+    skos:prefLabel "Computer-assisted surgery" ;
+    skos:related ocs:C12565,
+        ocs:C17816,
+        ocs:C22524,
+        ocs:C29070,
+        ocs:C31464,
+        ocs:C32424,
+        ocs:C34508,
+        ocs:C4748,
+        ocs:C7352 .
+

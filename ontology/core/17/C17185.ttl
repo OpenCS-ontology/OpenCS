@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17185 a skos:Concept ;
+    skos:broader ocs:C7854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed_penalty_notice> ;
+    skos:prefLabel "Fixed penalty notice" ;
+    skos:related ocs:C14661 .
+

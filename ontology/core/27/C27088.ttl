@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27088 a skos:Concept ;
+    skos:broader ocs:C12359,
+        ocs:C12377,
+        ocs:C5141 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hashed_array_tree> ;
+    skos:prefLabel "Hashed array tree" ;
+    skos:related ocs:C12377,
+        ocs:C1627,
+        ocs:C23443,
+        ocs:C2375,
+        ocs:C26456,
+        ocs:C28116,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C31203,
+        ocs:C34716,
+        ocs:C38666,
+        ocs:C38925,
+        ocs:C3913,
+        ocs:C5722,
+        ocs:C8022,
+        ocs:C8522,
+        ocs:C8893 .
+

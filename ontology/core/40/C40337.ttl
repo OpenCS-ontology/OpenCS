@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40337 a skos:Concept ;
+    skos:broader ocs:C35628,
+        ocs:C35995 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_security_policy> ;
+    skos:prefLabel "Computer security policy" ;
+    skos:related ocs:C1,
+        ocs:C10330,
+        ocs:C10565,
+        ocs:C11146,
+        ocs:C1399,
+        ocs:C16727,
+        ocs:C17669,
+        ocs:C19557,
+        ocs:C20443,
+        ocs:C21059,
+        ocs:C21232,
+        ocs:C29803,
+        ocs:C35,
+        ocs:C35995,
+        ocs:C4832,
+        ocs:C6458,
+        ocs:C7413,
+        ocs:C8711,
+        ocs:C9323 .
+

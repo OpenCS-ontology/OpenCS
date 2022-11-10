@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8398 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Peirce's_criterion> ;
+    skos:prefLabel "Peirce's criterion" ;
+    skos:related ocs:C14030,
+        ocs:C17650,
+        ocs:C25355,
+        ocs:C28013,
+        ocs:C28403,
+        ocs:C31694,
+        ocs:C35693,
+        ocs:C35924,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C662 .
+

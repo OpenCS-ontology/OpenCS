@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38767 a skos:Concept ;
+    skos:broader ocs:C32085,
+        ocs:C34986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Plutoid> ;
+    skos:prefLabel "Plutoid" ;
+    skos:related ocs:C38857,
+        ocs:C42001 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11720 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cable_router> ;
+    skos:prefLabel "Cable router" ;
+    skos:related ocs:C10974,
+        ocs:C13695,
+        ocs:C1595,
+        ocs:C24335,
+        ocs:C25292,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C26580,
+        ocs:C27570,
+        ocs:C2935,
+        ocs:C30432,
+        ocs:C32724,
+        ocs:C3901,
+        ocs:C44004,
+        ocs:C45399,
+        ocs:C45655,
+        ocs:C8239,
+        ocs:C9327 .
+

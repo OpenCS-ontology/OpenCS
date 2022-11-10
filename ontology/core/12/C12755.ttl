@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12755 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Barcode> ;
+    skos:prefLabel "Barcode" ;
+    skos:related ocs:C10270,
+        ocs:C10772,
+        ocs:C1253,
+        ocs:C12641,
+        ocs:C12698,
+        ocs:C16368,
+        ocs:C1882,
+        ocs:C2974,
+        ocs:C3077,
+        ocs:C4768,
+        ocs:C4917,
+        ocs:C8614,
+        ocs:C9113 .
+

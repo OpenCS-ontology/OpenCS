@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13064 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-native_speech_database> ;
+    skos:prefLabel "Non-native speech database" ;
+    skos:related ocs:C10394,
+        ocs:C11529,
+        ocs:C11722,
+        ocs:C11872,
+        ocs:C1444,
+        ocs:C16,
+        ocs:C18176,
+        ocs:C20511,
+        ocs:C21485,
+        ocs:C24901,
+        ocs:C25709,
+        ocs:C26520,
+        ocs:C26990,
+        ocs:C34703,
+        ocs:C39489,
+        ocs:C4397,
+        ocs:C45036,
+        ocs:C6464 .
+

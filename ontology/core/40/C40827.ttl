@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40827 a skos:Concept ;
+    skos:broader ocs:C30001,
+        ocs:C32049,
+        ocs:C35138,
+        ocs:C35925 ;
+    skos:closeMatch <http://dbpedia.org/resource/Locally_testable_code> ;
+    skos:prefLabel "Locally testable code" ;
+    skos:related ocs:C15049,
+        ocs:C1586,
+        ocs:C18626,
+        ocs:C19174,
+        ocs:C21929,
+        ocs:C24195,
+        ocs:C30001,
+        ocs:C3160,
+        ocs:C31892,
+        ocs:C34469,
+        ocs:C3678,
+        ocs:C36859,
+        ocs:C40052,
+        ocs:C40267,
+        ocs:C4099,
+        ocs:C41626,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C45024,
+        ocs:C6402 .
+

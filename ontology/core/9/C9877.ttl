@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9877 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Incremental_build_model> ;
+    skos:prefLabel "Incremental build model" ;
+    skos:related ocs:C21068,
+        ocs:C23437,
+        ocs:C24722,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29044,
+        ocs:C3175,
+        ocs:C35575,
+        ocs:C37174,
+        ocs:C41007,
+        ocs:C41038,
+        ocs:C42067,
+        ocs:C42276,
+        ocs:C42516,
+        ocs:C44802,
+        ocs:C4558,
+        ocs:C666,
+        ocs:C9771 .
+

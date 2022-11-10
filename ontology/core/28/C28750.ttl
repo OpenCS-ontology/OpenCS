@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28750 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effective_radius> ;
+    skos:prefLabel "Effective radius" ;
+    skos:related ocs:C17246,
+        ocs:C23077,
+        ocs:C25028,
+        ocs:C42301,
+        ocs:C597 .
+

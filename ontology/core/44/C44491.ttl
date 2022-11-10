@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44491 a skos:Concept ;
+    skos:broader ocs:C37588 ;
+    skos:closeMatch <http://dbpedia.org/resource/PKCS_12> ;
+    skos:prefLabel "PKCS #12" ;
+    skos:related ocs:C14647,
+        ocs:C17399,
+        ocs:C31147,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C35626,
+        ocs:C37588,
+        ocs:C39718,
+        ocs:C39967,
+        ocs:C40044,
+        ocs:C40789,
+        ocs:C41533,
+        ocs:C4218,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C45581,
+        ocs:C6187 .
+

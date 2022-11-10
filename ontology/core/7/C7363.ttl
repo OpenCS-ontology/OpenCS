@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7363 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/RocketSat> ;
+    skos:prefLabel "RocketSat" ;
+    skos:related ocs:C13386,
+        ocs:C13689,
+        ocs:C20009,
+        ocs:C21598,
+        ocs:C35309,
+        ocs:C3683,
+        ocs:C5136,
+        ocs:C6299 .
+

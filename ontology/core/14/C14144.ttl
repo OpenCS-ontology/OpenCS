@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14144 a skos:Concept ;
+    skos:broader ocs:C4644,
+        ocs:C5141 ;
+    skos:closeMatch <http://dbpedia.org/resource/ECC_memory> ;
+    skos:prefLabel "ECC memory" ;
+    skos:related ocs:C10320,
+        ocs:C10501,
+        ocs:C10684,
+        ocs:C13875,
+        ocs:C23432,
+        ocs:C25107,
+        ocs:C26602,
+        ocs:C27610,
+        ocs:C30001,
+        ocs:C3160,
+        ocs:C3231,
+        ocs:C33838,
+        ocs:C39218,
+        ocs:C39896,
+        ocs:C8613,
+        ocs:C9542 .
+

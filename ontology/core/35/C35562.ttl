@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35562 a skos:Concept ;
+    skos:broader ocs:C18565 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sum-of-squares_optimization> ;
+    skos:prefLabel "Sum-of-squares optimization" ;
+    skos:related ocs:C22089,
+        ocs:C27828,
+        ocs:C30214,
+        ocs:C31554,
+        ocs:C3840,
+        ocs:C44532,
+        ocs:C513,
+        ocs:C9243 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35393 a skos:Concept ;
+    skos:broader ocs:C15478,
+        ocs:C21442 ;
+    skos:closeMatch <http://dbpedia.org/resource/Log_shipping> ;
+    skos:prefLabel "Log shipping" ;
+    skos:related ocs:C10326,
+        ocs:C10577,
+        ocs:C1060,
+        ocs:C12164,
+        ocs:C12348,
+        ocs:C12812,
+        ocs:C16874,
+        ocs:C19725,
+        ocs:C22879,
+        ocs:C23753,
+        ocs:C33457,
+        ocs:C45343,
+        ocs:C45518,
+        ocs:C5414,
+        ocs:C6,
+        ocs:C6173,
+        ocs:C6650,
+        ocs:C8184,
+        ocs:C9056 .
+

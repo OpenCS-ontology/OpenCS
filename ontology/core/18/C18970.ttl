@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18970 a skos:Concept ;
+    skos:broader ocs:C1625,
+        ocs:C3514,
+        ocs:C3569,
+        ocs:C3990,
+        ocs:C6941 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elixir_(programming_language)> ;
+    skos:prefLabel "Elixir (programming language)" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C1625,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C2350,
+        ocs:C25382,
+        ocs:C28944,
+        ocs:C3514,
+        ocs:C35502,
+        ocs:C3639,
+        ocs:C40231,
+        ocs:C4918,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8441 .
+

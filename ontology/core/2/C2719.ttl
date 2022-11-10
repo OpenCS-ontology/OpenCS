@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2719 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exhibit_design> ;
+    skos:prefLabel "Exhibit design" ;
+    skos:related ocs:C10669,
+        ocs:C15886,
+        ocs:C20958,
+        ocs:C2135,
+        ocs:C9606 .
+

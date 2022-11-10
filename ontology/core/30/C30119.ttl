@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30119 a skos:Concept ;
+    skos:broader ocs:C19879,
+        ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open-source_software_development> ;
+    skos:prefLabel "Open-source software development" ;
+    skos:related ocs:C10284,
+        ocs:C1042,
+        ocs:C11128,
+        ocs:C12257,
+        ocs:C1253,
+        ocs:C2057,
+        ocs:C20800,
+        ocs:C23580,
+        ocs:C26386,
+        ocs:C28080,
+        ocs:C29525,
+        ocs:C31489,
+        ocs:C3463,
+        ocs:C37174,
+        ocs:C39522,
+        ocs:C41038,
+        ocs:C42619,
+        ocs:C4558 .
+

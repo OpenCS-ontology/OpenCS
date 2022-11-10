@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27094 a skos:Concept ;
+    skos:broader ocs:C11087 ;
+    skos:closeMatch <http://dbpedia.org/resource/Library_and_Information_Science_Abstracts> ;
+    skos:prefLabel "Library and Information Science Abstracts" ;
+    skos:related ocs:C10413,
+        ocs:C11087,
+        ocs:C11182,
+        ocs:C11446,
+        ocs:C12,
+        ocs:C14238,
+        ocs:C1680,
+        ocs:C24257,
+        ocs:C24639,
+        ocs:C4,
+        ocs:C406,
+        ocs:C4762,
+        ocs:C5150,
+        ocs:C5254,
+        ocs:C6690,
+        ocs:C8200,
+        ocs:C8990 .
+

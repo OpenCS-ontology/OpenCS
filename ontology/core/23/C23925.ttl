@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23925 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed-point_iteration> ;
+    skos:prefLabel "Fixed-point iteration" ;
+    skos:related ocs:C18362,
+        ocs:C19177,
+        ocs:C21770,
+        ocs:C24149,
+        ocs:C24265,
+        ocs:C28170,
+        ocs:C28584,
+        ocs:C37392,
+        ocs:C38965,
+        ocs:C43435,
+        ocs:C5867 .
+

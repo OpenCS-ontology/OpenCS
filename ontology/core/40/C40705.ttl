@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40705 a skos:Concept ;
+    skos:broader ocs:C30652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sensor_node> ;
+    skos:prefLabel "Sensor node" ;
+    skos:related ocs:C11,
+        ocs:C11027,
+        ocs:C13593,
+        ocs:C14931,
+        ocs:C15415,
+        ocs:C17653,
+        ocs:C23438,
+        ocs:C30652,
+        ocs:C3236,
+        ocs:C39371,
+        ocs:C45545,
+        ocs:C8169,
+        ocs:C8172 .
+

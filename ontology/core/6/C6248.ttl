@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6248 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hungarian_notation> ;
+    skos:prefLabel "Hungarian notation" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C1333,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C24176,
+        ocs:C24909,
+        ocs:C25460,
+        ocs:C39715,
+        ocs:C5515,
+        ocs:C6255,
+        ocs:C8442,
+        ocs:C8616,
+        ocs:C9247,
+        ocs:C9325 .
+

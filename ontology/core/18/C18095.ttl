@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18095 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C12582,
+        ocs:C3452 ;
+    skos:prefLabel "High level trigger" .
+

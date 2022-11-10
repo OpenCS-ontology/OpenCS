@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23295 a skos:Concept ;
+    skos:broader ocs:C1443 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_retrieval> ;
+    skos:prefLabel "Knowledge retrieval" ;
+    skos:related ocs:C1038,
+        ocs:C1092,
+        ocs:C12,
+        ocs:C12977,
+        ocs:C25,
+        ocs:C3579,
+        ocs:C852,
+        ocs:C9022 .
+

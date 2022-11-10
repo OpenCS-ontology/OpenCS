@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42682 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/K-medoids> ;
+    skos:prefLabel "k-medoids" ;
+    skos:related ocs:C10382,
+        ocs:C14252,
+        ocs:C16054,
+        ocs:C16370,
+        ocs:C18518,
+        ocs:C21714,
+        ocs:C26767,
+        ocs:C30082,
+        ocs:C33840,
+        ocs:C34382,
+        ocs:C38213,
+        ocs:C38914,
+        ocs:C40296,
+        ocs:C41863,
+        ocs:C42787,
+        ocs:C44201,
+        ocs:C45859,
+        ocs:C6608 .
+

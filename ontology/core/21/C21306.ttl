@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21306 a skos:Concept ;
+    skos:broader ocs:C490,
+        ocs:C9267 ;
+    skos:closeMatch <http://dbpedia.org/resource/ATA_over_Ethernet> ;
+    skos:prefLabel "ATA over Ethernet" ;
+    skos:related ocs:C10501,
+        ocs:C11960,
+        ocs:C17484,
+        ocs:C17533,
+        ocs:C22191,
+        ocs:C26,
+        ocs:C29846,
+        ocs:C32777,
+        ocs:C38032,
+        ocs:C39186,
+        ocs:C40587,
+        ocs:C42426,
+        ocs:C490,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9,
+        ocs:C9426 .
+

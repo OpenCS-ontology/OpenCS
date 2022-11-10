@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2075 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delegated_Path_Discovery> ;
+    skos:prefLabel "Delegated Path Discovery" ;
+    skos:related ocs:C2120,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C34723,
+        ocs:C37949,
+        ocs:C38524,
+        ocs:C39888,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C41533,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C4654,
+        ocs:C6296,
+        ocs:C7006 .
+

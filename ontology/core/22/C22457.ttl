@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22457 a skos:Concept ;
+    skos:broader ocs:C10492 ;
+    skos:closeMatch <http://dbpedia.org/resource/Start_signal> ;
+    skos:prefLabel "Start signal" ;
+    skos:related ocs:C10733,
+        ocs:C26734,
+        ocs:C26814,
+        ocs:C3283,
+        ocs:C37232,
+        ocs:C4007,
+        ocs:C515,
+        ocs:C8410,
+        ocs:C8436,
+        ocs:C8952,
+        ocs:C941 .
+

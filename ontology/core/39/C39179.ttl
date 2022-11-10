@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39179 a skos:Concept ;
+    skos:broader ocs:C32519,
+        ocs:C32578 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sallen–Key_topology> ;
+    skos:prefLabel "Sallen–Key topology" ;
+    skos:related ocs:C15194,
+        ocs:C18077,
+        ocs:C21364,
+        ocs:C23074,
+        ocs:C32519 .
+

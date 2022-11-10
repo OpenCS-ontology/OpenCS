@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9488 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_analysis> ;
+    skos:prefLabel "Data analysis" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10382,
+        ocs:C12238,
+        ocs:C12736,
+        ocs:C12811,
+        ocs:C13,
+        ocs:C1728,
+        ocs:C25,
+        ocs:C27130,
+        ocs:C6,
+        ocs:C6116,
+        ocs:C7161,
+        ocs:C9874 .
+

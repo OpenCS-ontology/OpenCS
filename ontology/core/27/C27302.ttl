@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27302 a skos:Concept ;
+    skos:broader ocs:C10052,
+        ocs:C10904,
+        ocs:C4534 ;
+    skos:prefLabel "Geoprocessing workflow" .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18183 a skos:Concept ;
+    skos:broader ocs:C1034 ;
+    skos:closeMatch <http://dbpedia.org/resource/Topic_marker> ;
+    skos:prefLabel "Topic marker" ;
+    skos:related ocs:C1034,
+        ocs:C15012,
+        ocs:C16364,
+        ocs:C16672,
+        ocs:C16964,
+        ocs:C1739,
+        ocs:C18051,
+        ocs:C18987,
+        ocs:C20433,
+        ocs:C23681,
+        ocs:C26467,
+        ocs:C29763,
+        ocs:C35148,
+        ocs:C385,
+        ocs:C6545,
+        ocs:C7446 .
+

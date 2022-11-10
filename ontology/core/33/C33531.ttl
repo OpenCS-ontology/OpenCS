@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33531 a skos:Concept ;
+    skos:broader ocs:C25512 ;
+    skos:closeMatch <http://dbpedia.org/resource/JACK_Intelligent_Agents> ;
+    skos:prefLabel "JACK Intelligent Agents" ;
+    skos:related ocs:C10997,
+        ocs:C1142,
+        ocs:C12304,
+        ocs:C12579,
+        ocs:C12977,
+        ocs:C14310,
+        ocs:C19458,
+        ocs:C21254,
+        ocs:C2579,
+        ocs:C33186,
+        ocs:C33429,
+        ocs:C353,
+        ocs:C37586,
+        ocs:C5702,
+        ocs:C5855,
+        ocs:C5933,
+        ocs:C8,
+        ocs:C852,
+        ocs:C9 .
+

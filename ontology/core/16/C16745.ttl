@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16745 a skos:Concept ;
+    skos:broader ocs:C1040,
+        ocs:C3736 ;
+    skos:closeMatch <http://dbpedia.org/resource/Text_graph> ;
+    skos:prefLabel "Text graph" ;
+    skos:related ocs:C1026,
+        ocs:C1040,
+        ocs:C1091,
+        ocs:C11722,
+        ocs:C13872,
+        ocs:C16741,
+        ocs:C20372,
+        ocs:C2468,
+        ocs:C3061,
+        ocs:C32,
+        ocs:C3612,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C38477,
+        ocs:C38887,
+        ocs:C5852,
+        ocs:C8710,
+        ocs:C9287,
+        ocs:C936 .
+

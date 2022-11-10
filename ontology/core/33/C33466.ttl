@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33466 a skos:Concept ;
+    skos:broader ocs:C24131 ;
+    skos:closeMatch <http://dbpedia.org/resource/Message_forgery> ;
+    skos:prefLabel "Message forgery" ;
+    skos:related ocs:C17567,
+        ocs:C17856,
+        ocs:C18803,
+        ocs:C20243,
+        ocs:C21383,
+        ocs:C31949,
+        ocs:C35631,
+        ocs:C37976,
+        ocs:C39064,
+        ocs:C39104,
+        ocs:C39180,
+        ocs:C41541,
+        ocs:C41988,
+        ocs:C43188,
+        ocs:C43934,
+        ocs:C44944,
+        ocs:C45116,
+        ocs:C4751,
+        ocs:C700 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20258 a skos:Concept ;
+    skos:broader ocs:C2409,
+        ocs:C5771,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/All_points_addressable> ;
+    skos:prefLabel "All points addressable" ;
+    skos:related ocs:C10002,
+        ocs:C12724,
+        ocs:C12815,
+        ocs:C13155,
+        ocs:C13586,
+        ocs:C22257,
+        ocs:C2241,
+        ocs:C24972,
+        ocs:C31249,
+        ocs:C31548,
+        ocs:C32920,
+        ocs:C44318,
+        ocs:C45499,
+        ocs:C4610,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9442 .
+

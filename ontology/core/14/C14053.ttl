@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14053 a skos:Concept ;
+    skos:broader ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Frequency_modulation> ;
+    skos:prefLabel "Frequency modulation" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19903,
+        ocs:C22326,
+        ocs:C28069,
+        ocs:C28744,
+        ocs:C3,
+        ocs:C31899,
+        ocs:C34890,
+        ocs:C36707,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7502 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C528 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncertainty_analysis> ;
+    skos:prefLabel "Uncertainty analysis" ;
+    skos:related ocs:C11811,
+        ocs:C13748,
+        ocs:C22686,
+        ocs:C38742,
+        ocs:C4198,
+        ocs:C6116,
+        ocs:C9326,
+        ocs:C9608 .
+

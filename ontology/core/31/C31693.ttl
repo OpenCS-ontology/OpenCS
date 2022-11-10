@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31693 a skos:Concept ;
+    skos:broader ocs:C22284,
+        ocs:C28944,
+        ocs:C29215 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_annotation> ;
+    skos:prefLabel "Java annotation" ;
+    skos:related ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C1142,
+        ocs:C11927,
+        ocs:C14627,
+        ocs:C15059,
+        ocs:C2303,
+        ocs:C2674,
+        ocs:C29401,
+        ocs:C37654,
+        ocs:C41633,
+        ocs:C42037,
+        ocs:C42633,
+        ocs:C44346,
+        ocs:C44447,
+        ocs:C44708,
+        ocs:C44845,
+        ocs:C5308 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7698 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-image> ;
+    skos:prefLabel "Multi-image" ;
+    skos:related ocs:C10002,
+        ocs:C12473,
+        ocs:C15341,
+        ocs:C17,
+        ocs:C21316,
+        ocs:C23498,
+        ocs:C2416,
+        ocs:C26733,
+        ocs:C42394,
+        ocs:C4528,
+        ocs:C5841,
+        ocs:C8746 .
+

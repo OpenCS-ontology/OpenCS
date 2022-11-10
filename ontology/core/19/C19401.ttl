@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19401 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phase_distortion> ;
+    skos:prefLabel "Phase distortion" ;
+    skos:related ocs:C12092,
+        ocs:C15505,
+        ocs:C16335,
+        ocs:C1727,
+        ocs:C17432,
+        ocs:C18001,
+        ocs:C30690,
+        ocs:C3843,
+        ocs:C44704,
+        ocs:C5506,
+        ocs:C6816 .
+

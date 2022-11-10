@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3934 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Table_(database)> ;
+    skos:prefLabel "Table (database)" ;
+    skos:related ocs:C10444,
+        ocs:C1060,
+        ocs:C12185,
+        ocs:C14025,
+        ocs:C16874,
+        ocs:C16901,
+        ocs:C17701,
+        ocs:C18405,
+        ocs:C18567,
+        ocs:C20517,
+        ocs:C224,
+        ocs:C26088,
+        ocs:C37009,
+        ocs:C3754,
+        ocs:C38130,
+        ocs:C4028,
+        ocs:C4860,
+        ocs:C5402,
+        ocs:C6 .
+

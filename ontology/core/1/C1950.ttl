@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1950 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Additive_synthesis> ;
+    skos:prefLabel "Additive synthesis" ;
+    skos:related ocs:C14053,
+        ocs:C4397,
+        ocs:C5492,
+        ocs:C6816,
+        ocs:C8718 .
+

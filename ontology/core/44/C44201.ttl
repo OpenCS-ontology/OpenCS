@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44201 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/SUBCLU> ;
+    skos:prefLabel "SUBCLU" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C15407,
+        ocs:C16054,
+        ocs:C16742,
+        ocs:C16947,
+        ocs:C26767,
+        ocs:C29024,
+        ocs:C29574,
+        ocs:C30082,
+        ocs:C32077,
+        ocs:C38914,
+        ocs:C39217,
+        ocs:C40348,
+        ocs:C41863,
+        ocs:C42682,
+        ocs:C45859,
+        ocs:C9594 .
+

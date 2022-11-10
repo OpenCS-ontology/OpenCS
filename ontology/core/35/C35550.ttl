@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35550 a skos:Concept ;
+    skos:broader ocs:C27130 ;
+    skos:closeMatch <http://dbpedia.org/resource/GGobi> ;
+    skos:prefLabel "GGobi" ;
+    skos:related ocs:C12811,
+        ocs:C2266,
+        ocs:C25,
+        ocs:C27130,
+        ocs:C27378,
+        ocs:C32448,
+        ocs:C3281,
+        ocs:C383,
+        ocs:C5700,
+        ocs:C6395,
+        ocs:C6912,
+        ocs:C9488 .
+

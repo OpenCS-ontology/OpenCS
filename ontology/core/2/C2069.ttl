@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2069 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Terms_of_service> ;
+    skos:prefLabel "Terms of service" ;
+    skos:related ocs:C13306,
+        ocs:C14105,
+        ocs:C17093,
+        ocs:C18764,
+        ocs:C24903,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31,
+        ocs:C32165,
+        ocs:C40049,
+        ocs:C8614 .
+

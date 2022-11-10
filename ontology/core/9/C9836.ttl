@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9836 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource_Description_Framework> ;
+    skos:prefLabel "RDF" ;
+    skos:related ocs:C11927,
+        ocs:C18435,
+        ocs:C22597,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C2931,
+        ocs:C31,
+        ocs:C32413,
+        ocs:C33916,
+        ocs:C35570,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C41158,
+        ocs:C42124,
+        ocs:C44816,
+        ocs:C4500,
+        ocs:C6553 .
+

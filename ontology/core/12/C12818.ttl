@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12818 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SQL/CLI> ;
+    skos:prefLabel "SQL/CLI" ;
+    skos:related ocs:C12185,
+        ocs:C12403,
+        ocs:C16901,
+        ocs:C17103,
+        ocs:C18383,
+        ocs:C23139,
+        ocs:C40466,
+        ocs:C5685,
+        ocs:C5789,
+        ocs:C6,
+        ocs:C7972,
+        ocs:C9773 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5124 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Informatization> ;
+    skos:prefLabel "Informatization" ;
+    skos:related ocs:C10070,
+        ocs:C11944,
+        ocs:C13380,
+        ocs:C15045,
+        ocs:C197,
+        ocs:C20400,
+        ocs:C22701,
+        ocs:C29488,
+        ocs:C3,
+        ocs:C6070,
+        ocs:C6529,
+        ocs:C7297,
+        ocs:C7634 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12979 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lifelog> ;
+    skos:prefLabel "Lifelog" ;
+    skos:related ocs:C12641,
+        ocs:C15986,
+        ocs:C17132,
+        ocs:C18580,
+        ocs:C19161,
+        ocs:C21017,
+        ocs:C22849,
+        ocs:C24448,
+        ocs:C29046,
+        ocs:C29061,
+        ocs:C31110,
+        ocs:C34177,
+        ocs:C34997,
+        ocs:C39979,
+        ocs:C7850,
+        ocs:C9601,
+        ocs:C9603 .
+

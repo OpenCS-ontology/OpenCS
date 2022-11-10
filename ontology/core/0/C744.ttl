@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C744 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hot_Chips> ;
+    skos:prefLabel "Hot Chips" ;
+    skos:related ocs:C12690,
+        ocs:C1721,
+        ocs:C22525,
+        ocs:C23432,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C31823,
+        ocs:C36673,
+        ocs:C7735,
+        ocs:C7977,
+        ocs:C856,
+        ocs:C9542 .
+

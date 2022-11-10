@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34550 a skos:Concept ;
+    skos:broader ocs:C19353,
+        ocs:C19524,
+        ocs:C22491 ;
+    skos:prefLabel "LSO crystal" ;
+    skos:related ocs:C17259,
+        ocs:C22491,
+        ocs:C30954,
+        ocs:C35441,
+        ocs:C4027,
+        ocs:C4099,
+        ocs:C5506 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14685 a skos:Concept ;
+    skos:broader ocs:C2352,
+        ocs:C3233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fat_tree> ;
+    skos:prefLabel "Fat tree" ;
+    skos:related ocs:C12690,
+        ocs:C13747,
+        ocs:C1449,
+        ocs:C1644,
+        ocs:C17434,
+        ocs:C23292,
+        ocs:C26,
+        ocs:C27,
+        ocs:C3233,
+        ocs:C34137,
+        ocs:C7735,
+        ocs:C8010,
+        ocs:C8018,
+        ocs:C9,
+        ocs:C9480 .
+

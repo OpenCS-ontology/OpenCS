@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16920 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Net_D> ;
+    skos:prefLabel "Net D" ;
+    skos:related ocs:C11697,
+        ocs:C16292,
+        ocs:C17051,
+        ocs:C20998,
+        ocs:C24050 .
+

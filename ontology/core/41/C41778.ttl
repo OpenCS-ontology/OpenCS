@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41778 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quasi-Monte_Carlo_method> ;
+    skos:prefLabel "Quasi-Monte Carlo method" ;
+    skos:related ocs:C2249,
+        ocs:C22686,
+        ocs:C23865,
+        ocs:C31167,
+        ocs:C35165,
+        ocs:C38763,
+        ocs:C40868,
+        ocs:C43676,
+        ocs:C44529,
+        ocs:C45071 .
+

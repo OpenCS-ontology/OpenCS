@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44363 a skos:Concept ;
+    skos:broader ocs:C35741,
+        ocs:C37718 ;
+    skos:closeMatch <http://dbpedia.org/resource/Code_bloat> ;
+    skos:prefLabel "Code bloat" ;
+    skos:related ocs:C10608,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C13366,
+        ocs:C17089,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C22630,
+        ocs:C31696,
+        ocs:C35741,
+        ocs:C43054,
+        ocs:C4321,
+        ocs:C4700,
+        ocs:C6072,
+        ocs:C794,
+        ocs:C9277 .
+

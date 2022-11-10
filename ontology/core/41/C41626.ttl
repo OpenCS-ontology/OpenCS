@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41626 a skos:Concept ;
+    skos:broader ocs:C31484,
+        ocs:C32049,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Locally_decodable_code> ;
+    skos:prefLabel "Locally decodable code" ;
+    skos:related ocs:C15232,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C22627,
+        ocs:C26265,
+        ocs:C27316,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C38057,
+        ocs:C39340,
+        ocs:C40052,
+        ocs:C40267,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C43599,
+        ocs:C45108,
+        ocs:C5196,
+        ocs:C6402 .
+

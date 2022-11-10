@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8088 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Polyphase_quadrature_filter> ;
+    skos:prefLabel "Polyphase quadrature filter" ;
+    skos:related ocs:C10554,
+        ocs:C11323,
+        ocs:C1274,
+        ocs:C18967,
+        ocs:C19334,
+        ocs:C29199,
+        ocs:C31114,
+        ocs:C32508,
+        ocs:C33342,
+        ocs:C44030,
+        ocs:C44628,
+        ocs:C44704,
+        ocs:C44962,
+        ocs:C4511,
+        ocs:C5042,
+        ocs:C6816 .
+

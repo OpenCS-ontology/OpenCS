@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16235 a skos:Concept ;
+    skos:broader ocs:C6529 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-governance> ;
+    skos:prefLabel "E-governance" ;
+    skos:related ocs:C10611,
+        ocs:C11944,
+        ocs:C15834,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C26,
+        ocs:C26014,
+        ocs:C29488,
+        ocs:C3,
+        ocs:C33198,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C6529,
+        ocs:C7297,
+        ocs:C8614 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4614 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_analysis> ;
+    skos:prefLabel "Security analysis" ;
+    skos:related ocs:C18368,
+        ocs:C19360,
+        ocs:C19515 .
+

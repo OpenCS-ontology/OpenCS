@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10749 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/GE-600_series> ;
+    skos:prefLabel "GE-600 series" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C1130,
+        ocs:C12851,
+        ocs:C13174,
+        ocs:C13325,
+        ocs:C13372,
+        ocs:C14162,
+        ocs:C14271,
+        ocs:C16229,
+        ocs:C19487,
+        ocs:C38819,
+        ocs:C3946,
+        ocs:C42662,
+        ocs:C6714,
+        ocs:C8787,
+        ocs:C9,
+        ocs:C9035 .
+

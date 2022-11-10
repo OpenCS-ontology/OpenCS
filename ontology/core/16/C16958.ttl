@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16958 a skos:Concept ;
+    skos:broader ocs:C11529,
+        ocs:C4397 ;
+    skos:closeMatch <http://dbpedia.org/resource/Speech_technology> ;
+    skos:prefLabel "Speech technology" ;
+    skos:related ocs:C1,
+        ocs:C11529,
+        ocs:C12696,
+        ocs:C15508,
+        ocs:C15768,
+        ocs:C16,
+        ocs:C2358,
+        ocs:C25709,
+        ocs:C308,
+        ocs:C32,
+        ocs:C34808,
+        ocs:C4397,
+        ocs:C5852,
+        ocs:C7736,
+        ocs:C792,
+        ocs:C9374 .
+

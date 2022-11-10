@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11999 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parking_lot> ;
+    skos:prefLabel "Parking lot" ;
+    skos:related ocs:C10550,
+        ocs:C10999,
+        ocs:C27534,
+        ocs:C6243 .
+

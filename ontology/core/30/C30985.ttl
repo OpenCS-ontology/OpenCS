@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30985 a skos:Concept ;
+    skos:broader ocs:C18436,
+        ocs:C28454 ;
+    skos:closeMatch <http://dbpedia.org/resource/Process_miniaturization> ;
+    skos:prefLabel "Process miniaturization" ;
+    skos:related ocs:C24352,
+        ocs:C31145,
+        ocs:C7106 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17521 a skos:Concept ;
+    skos:broader ocs:C10720,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object-oriented_modeling> ;
+    skos:prefLabel "Object-oriented modeling" ;
+    skos:related ocs:C10720,
+        ocs:C12257,
+        ocs:C24477,
+        ocs:C27386,
+        ocs:C29844,
+        ocs:C34078,
+        ocs:C39238,
+        ocs:C42786 .
+

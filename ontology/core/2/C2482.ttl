@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2482 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Discussion_group> ;
+    skos:prefLabel "Discussion group" ;
+    skos:related ocs:C10284,
+        ocs:C12787,
+        ocs:C16205,
+        ocs:C17658,
+        ocs:C17794,
+        ocs:C18456,
+        ocs:C18814,
+        ocs:C25135,
+        ocs:C27498,
+        ocs:C30113,
+        ocs:C31,
+        ocs:C31489,
+        ocs:C3444,
+        ocs:C403,
+        ocs:C4204,
+        ocs:C43222,
+        ocs:C7295,
+        ocs:C8578,
+        ocs:C8614 .
+

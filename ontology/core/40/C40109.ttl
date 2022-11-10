@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40109 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C31489,
+        ocs:C33138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inotify> ;
+    skos:prefLabel "inotify" ;
+    skos:related ocs:C12683,
+        ocs:C14271,
+        ocs:C19000,
+        ocs:C19523,
+        ocs:C20800,
+        ocs:C2674,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C3351,
+        ocs:C35926,
+        ocs:C37964,
+        ocs:C3799,
+        ocs:C38346,
+        ocs:C39053,
+        ocs:C39713,
+        ocs:C43104,
+        ocs:C44098,
+        ocs:C7476,
+        ocs:C9 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19995 a skos:Concept ;
+    skos:broader ocs:C9584 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intellectual_capital_management> ;
+    skos:prefLabel "Intellectual capital management" ;
+    skos:related ocs:C11657,
+        ocs:C12,
+        ocs:C25192,
+        ocs:C34300,
+        ocs:C9584 .
+

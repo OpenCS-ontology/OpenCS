@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16617 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digitized_Sky_Survey> ;
+    skos:prefLabel "Digitized Sky Survey" ;
+    skos:related ocs:C17174,
+        ocs:C17683,
+        ocs:C20309,
+        ocs:C22752,
+        ocs:C23849,
+        ocs:C23972,
+        ocs:C30663,
+        ocs:C36878,
+        ocs:C4916,
+        ocs:C597 .
+

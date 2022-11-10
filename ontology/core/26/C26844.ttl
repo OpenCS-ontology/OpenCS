@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26844 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bat_detector> ;
+    skos:prefLabel "Bat detector" ;
+    skos:related ocs:C10409,
+        ocs:C12582,
+        ocs:C16006,
+        ocs:C1668,
+        ocs:C18001,
+        ocs:C18366,
+        ocs:C19342,
+        ocs:C44628,
+        ocs:C6816 .
+

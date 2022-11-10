@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21879 a skos:Concept ;
+    skos:broader ocs:C10157,
+        ocs:C10445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Targeting_(warfare)> ;
+    skos:prefLabel "Targeting" ;
+    skos:related ocs:C16297,
+        ocs:C20991,
+        ocs:C6589 .
+

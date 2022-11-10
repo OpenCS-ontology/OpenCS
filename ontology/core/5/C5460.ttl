@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5460 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C17,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_performance_support_systems> ;
+    skos:prefLabel "Electronic performance support systems" ;
+    skos:related ocs:C12,
+        ocs:C1261,
+        ocs:C12976,
+        ocs:C16091,
+        ocs:C17,
+        ocs:C17658,
+        ocs:C18417,
+        ocs:C24,
+        ocs:C26281,
+        ocs:C26813,
+        ocs:C28632,
+        ocs:C30246,
+        ocs:C3444,
+        ocs:C43969,
+        ocs:C45554 .
+

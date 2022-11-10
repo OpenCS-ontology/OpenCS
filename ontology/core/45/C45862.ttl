@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45862 a skos:Concept ;
+    skos:broader ocs:C30304 ;
+    skos:closeMatch <http://dbpedia.org/resource/Monotone_class_theorem> ;
+    skos:prefLabel "Monotone class theorem" ;
+    skos:related ocs:C33860,
+        ocs:C41305,
+        ocs:C6909 .
+

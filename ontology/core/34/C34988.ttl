@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34988 a skos:Concept ;
+    skos:broader ocs:C22491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Greenwood_frequency> ;
+    skos:prefLabel "Greenwood frequency" ;
+    skos:related ocs:C10409,
+        ocs:C14237,
+        ocs:C16393,
+        ocs:C26152,
+        ocs:C28736,
+        ocs:C35504,
+        ocs:C597,
+        ocs:C7597,
+        ocs:C8561 .
+

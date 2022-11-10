@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9833 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/INTERCAL> ;
+    skos:prefLabel "INTERCAL" ;
+    skos:related ocs:C10284,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C24544,
+        ocs:C24909,
+        ocs:C3635,
+        ocs:C3640,
+        ocs:C36601,
+        ocs:C3685,
+        ocs:C44841,
+        ocs:C4918,
+        ocs:C6072,
+        ocs:C6411,
+        ocs:C6525,
+        ocs:C6531,
+        ocs:C6714,
+        ocs:C9162 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18186 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_valuation> ;
+    skos:prefLabel "Patent valuation" ;
+    skos:related ocs:C13306,
+        ocs:C23056,
+        ocs:C26363,
+        ocs:C27519 .
+

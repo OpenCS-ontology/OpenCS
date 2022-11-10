@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23601 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Middlebox> ;
+    skos:prefLabel "Middlebox" ;
+    skos:related ocs:C11871,
+        ocs:C13307,
+        ocs:C13786,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C24727,
+        ocs:C25610,
+        ocs:C26,
+        ocs:C37893,
+        ocs:C39946,
+        ocs:C41726,
+        ocs:C42429,
+        ocs:C43820,
+        ocs:C44004,
+        ocs:C45007,
+        ocs:C5975,
+        ocs:C8614 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1977 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/CMS_Pipelines> ;
+    skos:prefLabel "CMS Pipelines" ;
+    skos:related ocs:C12695,
+        ocs:C13101,
+        ocs:C13372,
+        ocs:C14271,
+        ocs:C16601,
+        ocs:C19,
+        ocs:C20446,
+        ocs:C21436,
+        ocs:C29279,
+        ocs:C30078,
+        ocs:C33079,
+        ocs:C35773,
+        ocs:C38237,
+        ocs:C4430,
+        ocs:C4877,
+        ocs:C6080,
+        ocs:C7167,
+        ocs:C7825,
+        ocs:C9433 .
+

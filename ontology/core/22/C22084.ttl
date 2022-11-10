@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22084 a skos:Concept ;
+    skos:broader ocs:C10965 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mead_&_Conway_revolution> ;
+    skos:prefLabel "Mead & Conway revolution" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C10965,
+        ocs:C254,
+        ocs:C42619 .
+

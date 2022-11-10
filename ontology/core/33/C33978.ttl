@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33978 a skos:Concept ;
+    skos:broader ocs:C20691,
+        ocs:C24323 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_Friendly_Rate_Control> ;
+    skos:prefLabel "TCP Friendly Rate Control" ;
+    skos:related ocs:C15065,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C3239,
+        ocs:C35493,
+        ocs:C38125,
+        ocs:C38698,
+        ocs:C38743,
+        ocs:C38814,
+        ocs:C38818,
+        ocs:C39315,
+        ocs:C3989,
+        ocs:C39947,
+        ocs:C40273,
+        ocs:C40301,
+        ocs:C42093,
+        ocs:C43407,
+        ocs:C45850 .
+

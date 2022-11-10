@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10925 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_simulation> ;
+    skos:prefLabel "Medical simulation" ;
+    skos:related ocs:C11668,
+        ocs:C21250,
+        ocs:C24,
+        ocs:C2523,
+        ocs:C28962,
+        ocs:C30472,
+        ocs:C384,
+        ocs:C660,
+        ocs:C6864,
+        ocs:C7256 .
+

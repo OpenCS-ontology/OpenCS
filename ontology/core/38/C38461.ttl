@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38461 a skos:Concept ;
+    skos:broader ocs:C30274,
+        ocs:C30430,
+        ocs:C31363,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C36439,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-uniform_memory_access> ;
+    skos:prefLabel "Non-uniform memory access" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C14627,
+        ocs:C19487,
+        ocs:C25171,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C30860,
+        ocs:C39272,
+        ocs:C42759,
+        ocs:C43877,
+        ocs:C4804,
+        ocs:C7735,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9486,
+        ocs:C9542 .
+

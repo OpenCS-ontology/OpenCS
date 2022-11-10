@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7390 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/GraphiCon> ;
+    skos:prefLabel "GraphiCon" ;
+    skos:related ocs:C10773,
+        ocs:C13750,
+        ocs:C15807,
+        ocs:C17,
+        ocs:C17469,
+        ocs:C21305,
+        ocs:C22,
+        ocs:C22975,
+        ocs:C25,
+        ocs:C29175,
+        ocs:C39953,
+        ocs:C41811,
+        ocs:C4646,
+        ocs:C6030,
+        ocs:C7,
+        ocs:C797,
+        ocs:C8499,
+        ocs:C9603 .
+

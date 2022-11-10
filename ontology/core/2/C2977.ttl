@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2977 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Method_of_successive_substitution> ;
+    skos:prefLabel "Method of successive substitution" ;
+    skos:related ocs:C11664,
+        ocs:C24353,
+        ocs:C29356,
+        ocs:C30437,
+        ocs:C32396,
+        ocs:C41652,
+        ocs:C8789 .
+

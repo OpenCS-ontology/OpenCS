@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38052 a skos:Concept ;
+    skos:broader ocs:C30269,
+        ocs:C35103 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coupling_(probability)> ;
+    skos:prefLabel "Coupling (probability)" ;
+    skos:related ocs:C10767,
+        ocs:C15797,
+        ocs:C1844,
+        ocs:C23431,
+        ocs:C25862,
+        ocs:C31579,
+        ocs:C32127,
+        ocs:C33093,
+        ocs:C38275,
+        ocs:C39273,
+        ocs:C44592,
+        ocs:C6909 .
+

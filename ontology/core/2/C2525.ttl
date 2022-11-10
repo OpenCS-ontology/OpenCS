@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2525 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/1%_rule_(Internet_culture)> ;
+    skos:prefLabel "1% rule" ;
+    skos:related ocs:C11943,
+        ocs:C12576,
+        ocs:C20064,
+        ocs:C22668,
+        ocs:C24594,
+        ocs:C24850,
+        ocs:C25411,
+        ocs:C39858,
+        ocs:C4712,
+        ocs:C5520,
+        ocs:C6757,
+        ocs:C931 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18644 a skos:Concept ;
+    skos:broader ocs:C11721,
+        ocs:C7008,
+        ocs:C8946 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bertholdia_trigona> ;
+    skos:prefLabel "Bertholdia trigona" ;
+    skos:related ocs:C16006 .
+

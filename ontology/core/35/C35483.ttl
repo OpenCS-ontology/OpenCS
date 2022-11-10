@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35483 a skos:Concept ;
+    skos:broader ocs:C29492 ;
+    skos:prefLabel "Proteocephalus pinguis" ;
+    skos:related ocs:C29492,
+        ocs:C3001 .
+

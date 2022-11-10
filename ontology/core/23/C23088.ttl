@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23088 a skos:Concept ;
+    skos:broader ocs:C11492,
+        ocs:C11927,
+        ocs:C3896,
+        ocs:C4349 ;
+    skos:closeMatch <http://dbpedia.org/resource/MARC_standards> ;
+    skos:prefLabel "MARC standards" ;
+    skos:related ocs:C10413,
+        ocs:C11492,
+        ocs:C11927,
+        ocs:C14421,
+        ocs:C15008,
+        ocs:C22687,
+        ocs:C24661,
+        ocs:C24891,
+        ocs:C26424,
+        ocs:C27607,
+        ocs:C37046,
+        ocs:C3896,
+        ocs:C45647,
+        ocs:C5126,
+        ocs:C5877,
+        ocs:C6,
+        ocs:C6023,
+        ocs:C6690,
+        ocs:C6790,
+        ocs:C7849 .
+

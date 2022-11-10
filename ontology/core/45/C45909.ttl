@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45909 a skos:Concept ;
+    skos:broader ocs:C35741,
+        ocs:C37718 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dead_code_elimination> ;
+    skos:prefLabel "Dead code elimination" ;
+    skos:related ocs:C12257,
+        ocs:C17204,
+        ocs:C18272,
+        ocs:C21201,
+        ocs:C23069,
+        ocs:C23863,
+        ocs:C27080,
+        ocs:C29056,
+        ocs:C30086,
+        ocs:C31513,
+        ocs:C32227,
+        ocs:C32422,
+        ocs:C35741,
+        ocs:C37718,
+        ocs:C37970,
+        ocs:C40088,
+        ocs:C40371,
+        ocs:C4321,
+        ocs:C7800 .
+

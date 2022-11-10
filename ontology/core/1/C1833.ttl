@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1833 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C23,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Self-organizing_list> ;
+    skos:prefLabel "Self-organizing list" ;
+    skos:related ocs:C12809,
+        ocs:C1454,
+        ocs:C14624,
+        ocs:C14747,
+        ocs:C18295,
+        ocs:C18860,
+        ocs:C23310,
+        ocs:C23443,
+        ocs:C26456,
+        ocs:C26753,
+        ocs:C28232,
+        ocs:C2885,
+        ocs:C36112,
+        ocs:C37685,
+        ocs:C38666,
+        ocs:C41002,
+        ocs:C8452,
+        ocs:C8565,
+        ocs:C8893 .
+

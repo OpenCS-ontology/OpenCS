@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40816 a skos:Concept ;
+    skos:broader ocs:C35699 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exchange_operator> ;
+    skos:prefLabel "Exchange operator" ;
+    skos:related ocs:C15588,
+        ocs:C17712,
+        ocs:C24313,
+        ocs:C24854,
+        ocs:C32025 .
+

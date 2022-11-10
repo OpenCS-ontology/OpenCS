@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17191 a skos:Concept ;
+    skos:broader ocs:C13265 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electrostatic_pickup> ;
+    skos:prefLabel "Electrostatic pickup" ;
+    skos:related ocs:C10368,
+        ocs:C28124,
+        ocs:C32554,
+        ocs:C5790 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1885 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_search> ;
+    skos:prefLabel "Random search" ;
+    skos:related ocs:C12105,
+        ocs:C12217,
+        ocs:C13208,
+        ocs:C23250,
+        ocs:C29055,
+        ocs:C31561,
+        ocs:C33012,
+        ocs:C37565,
+        ocs:C40201,
+        ocs:C41550,
+        ocs:C44532,
+        ocs:C44992,
+        ocs:C45700,
+        ocs:C5201,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C9780 .
+

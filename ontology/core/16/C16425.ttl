@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16425 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Accidental_gap> ;
+    skos:prefLabel "Accidental gap" ;
+    skos:related ocs:C1034,
+        ocs:C13096,
+        ocs:C13210,
+        ocs:C15833,
+        ocs:C2298,
+        ocs:C23243,
+        ocs:C23277,
+        ocs:C2761,
+        ocs:C35238,
+        ocs:C37038,
+        ocs:C4755,
+        ocs:C8283 .
+

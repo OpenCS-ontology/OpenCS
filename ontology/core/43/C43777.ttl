@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43777 a skos:Concept ;
+    skos:broader ocs:C33528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poynting–Robertson_effect> ;
+    skos:prefLabel "Poynting–Robertson effect" ;
+    skos:related ocs:C16417,
+        ocs:C24023,
+        ocs:C29867,
+        ocs:C597 .
+

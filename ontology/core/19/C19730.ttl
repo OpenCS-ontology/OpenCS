@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19730 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_delay> ;
+    skos:prefLabel "Network delay" ;
+    skos:related ocs:C12111,
+        ocs:C14210,
+        ocs:C15065,
+        ocs:C16243,
+        ocs:C16953,
+        ocs:C18971,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24563,
+        ocs:C26,
+        ocs:C30341,
+        ocs:C38231,
+        ocs:C390,
+        ocs:C41572,
+        ocs:C4197,
+        ocs:C44036,
+        ocs:C7340,
+        ocs:C7767,
+        ocs:C8614,
+        ocs:C9480 .
+

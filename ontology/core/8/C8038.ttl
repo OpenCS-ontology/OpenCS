@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8038 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Deci-> ;
+    skos:prefLabel "Deci-" ;
+    skos:related ocs:C10581,
+        ocs:C12875,
+        ocs:C21311,
+        ocs:C3470,
+        ocs:C4758,
+        ocs:C7783,
+        ocs:C8138,
+        ocs:C9212 .
+

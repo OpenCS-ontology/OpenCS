@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22745 a skos:Concept ;
+    skos:broader ocs:C8017 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alphabet_effect> ;
+    skos:prefLabel "Alphabet effect" ;
+    skos:related ocs:C11032,
+        ocs:C11699,
+        ocs:C25491,
+        ocs:C5862,
+        ocs:C8230 .
+

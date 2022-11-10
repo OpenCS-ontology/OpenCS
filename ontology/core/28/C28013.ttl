@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28013 a skos:Concept ;
+    skos:broader ocs:C4752 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grubbs'_test_for_outliers> ;
+    skos:prefLabel "Grubbs' test for outliers" ;
+    skos:related ocs:C11425,
+        ocs:C17650,
+        ocs:C31694,
+        ocs:C4752 .
+

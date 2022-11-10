@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39693 a skos:Concept ;
+    skos:broader ocs:C36322 ;
+    skos:closeMatch <http://dbpedia.org/resource/Standard_Business_Reporting> ;
+    skos:prefLabel "Standard Business Reporting" ;
+    skos:related ocs:C11927,
+        ocs:C21066,
+        ocs:C29845,
+        ocs:C30182,
+        ocs:C35566 .
+

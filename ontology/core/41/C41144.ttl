@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41144 a skos:Concept ;
+    skos:broader ocs:C36540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Business_process_orientation> ;
+    skos:prefLabel "Business process orientation" ;
+    skos:related ocs:C1332,
+        ocs:C3395 .
+

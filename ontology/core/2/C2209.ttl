@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2209 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Word_count> ;
+    skos:prefLabel "Word count" ;
+    skos:related ocs:C13872,
+        ocs:C19159,
+        ocs:C2171,
+        ocs:C23422,
+        ocs:C25515,
+        ocs:C26816,
+        ocs:C4918,
+        ocs:C5126,
+        ocs:C6416,
+        ocs:C8464,
+        ocs:C936,
+        ocs:C9606 .
+

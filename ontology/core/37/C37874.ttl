@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37874 a skos:Concept ;
+    skos:broader ocs:C31251 ;
+    skos:closeMatch <http://dbpedia.org/resource/Amplifier_figures_of_merit> ;
+    skos:prefLabel "Amplifier figures of merit" ;
+    skos:related ocs:C1219,
+        ocs:C1564,
+        ocs:C16773,
+        ocs:C17432,
+        ocs:C3843,
+        ocs:C5853 .
+

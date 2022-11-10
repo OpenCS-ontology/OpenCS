@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9159 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_service_unit> ;
+    skos:prefLabel "Data service unit" ;
+    skos:related ocs:C13695,
+        ocs:C17661,
+        ocs:C22331,
+        ocs:C22654,
+        ocs:C22933,
+        ocs:C24781,
+        ocs:C26216,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C31109,
+        ocs:C31843,
+        ocs:C40954,
+        ocs:C6731,
+        ocs:C8567,
+        ocs:C9327 .
+

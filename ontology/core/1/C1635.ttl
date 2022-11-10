@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1635 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Version_vector> ;
+    skos:prefLabel "Version vector" ;
+    skos:related ocs:C13206,
+        ocs:C15964,
+        ocs:C19153,
+        ocs:C24153,
+        ocs:C24711,
+        ocs:C30,
+        ocs:C34712,
+        ocs:C39235,
+        ocs:C43992,
+        ocs:C44650,
+        ocs:C6022,
+        ocs:C6173,
+        ocs:C6346 .
+

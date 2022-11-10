@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30043 a skos:Concept ;
+    skos:broader ocs:C26257,
+        ocs:C28720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temnothorax_rugatulus> ;
+    skos:prefLabel "Temnothorax rugatulus" ;
+    skos:related ocs:C24897,
+        ocs:C25692,
+        ocs:C27785,
+        ocs:C28720,
+        ocs:C32984,
+        ocs:C33775 .
+

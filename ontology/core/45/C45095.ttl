@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45095 a skos:Concept ;
+    skos:broader ocs:C37621 ;
+    skos:closeMatch <http://dbpedia.org/resource/Redtail_catfish> ;
+    skos:prefLabel "Redtail catfish" ;
+    skos:related ocs:C33166,
+        ocs:C36483,
+        ocs:C40967,
+        ocs:C43113,
+        ocs:C44058,
+        ocs:C44359,
+        ocs:C44495,
+        ocs:C44608,
+        ocs:C45344,
+        ocs:C45751 .
+

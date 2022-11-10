@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15406 a skos:Concept ;
+    skos:broader ocs:C10720 ;
+    skos:closeMatch <http://dbpedia.org/resource/Policy-based_design> ;
+    skos:prefLabel "Policy-based design" ;
+    skos:related ocs:C10182,
+        ocs:C10284,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C14222,
+        ocs:C15786,
+        ocs:C20150,
+        ocs:C25313,
+        ocs:C25570,
+        ocs:C26642,
+        ocs:C27131,
+        ocs:C43888,
+        ocs:C659,
+        ocs:C6941,
+        ocs:C9870 .
+

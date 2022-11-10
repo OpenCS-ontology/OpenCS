@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24149 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shanks_transformation> ;
+    skos:prefLabel "Shanks transformation" ;
+    skos:related ocs:C16905,
+        ocs:C21955,
+        ocs:C22506,
+        ocs:C23925,
+        ocs:C24265,
+        ocs:C28584,
+        ocs:C29411,
+        ocs:C38965,
+        ocs:C43400,
+        ocs:C43435 .
+

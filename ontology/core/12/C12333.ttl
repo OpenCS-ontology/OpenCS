@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12333 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bird_Technologies> ;
+    skos:prefLabel "Bird Technologies" ;
+    skos:related ocs:C14628,
+        ocs:C16773,
+        ocs:C16777,
+        ocs:C3059,
+        ocs:C3173,
+        ocs:C39135,
+        ocs:C43300,
+        ocs:C5369,
+        ocs:C6763,
+        ocs:C7159 .
+

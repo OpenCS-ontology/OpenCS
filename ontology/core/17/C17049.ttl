@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17049 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Band_rejection> ;
+    skos:prefLabel "Band rejection" ;
+    skos:related ocs:C1727,
+        ocs:C17432,
+        ocs:C21364,
+        ocs:C257,
+        ocs:C31885,
+        ocs:C32554,
+        ocs:C3393,
+        ocs:C41756,
+        ocs:C5769,
+        ocs:C6913 .
+

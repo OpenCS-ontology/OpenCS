@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23972 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schmidt_camera> ;
+    skos:prefLabel "Schmidt camera" ;
+    skos:related ocs:C33486,
+        ocs:C33557,
+        ocs:C597,
+        ocs:C7789,
+        ocs:C8085 .
+

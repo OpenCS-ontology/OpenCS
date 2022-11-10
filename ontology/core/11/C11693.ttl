@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11693 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sparse_approximation> ;
+    skos:prefLabel "Sparse approximation" ;
+    skos:related ocs:C14985,
+        ocs:C15070,
+        ocs:C20003,
+        ocs:C21714,
+        ocs:C21770,
+        ocs:C22483,
+        ocs:C34225,
+        ocs:C34390,
+        ocs:C37322,
+        ocs:C42610,
+        ocs:C6912,
+        ocs:C6943 .
+

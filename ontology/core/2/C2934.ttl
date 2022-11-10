@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2934 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_lighting> ;
+    skos:prefLabel "Security lighting" ;
+    skos:related ocs:C29321,
+        ocs:C35,
+        ocs:C4277,
+        ocs:C43428,
+        ocs:C699,
+        ocs:C8711 .
+

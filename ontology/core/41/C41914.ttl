@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41914 a skos:Concept ;
+    skos:broader ocs:C36863 ;
+    skos:closeMatch <http://dbpedia.org/resource/RSVP-TE> ;
+    skos:prefLabel "RSVP-TE" ;
+    skos:related ocs:C14160,
+        ocs:C16953,
+        ocs:C18213,
+        ocs:C20540,
+        ocs:C22493,
+        ocs:C23666,
+        ocs:C24563,
+        ocs:C27426,
+        ocs:C29359,
+        ocs:C33957,
+        ocs:C34235,
+        ocs:C36863,
+        ocs:C38451,
+        ocs:C39668,
+        ocs:C4197,
+        ocs:C42706,
+        ocs:C44327,
+        ocs:C7228,
+        ocs:C8614 .
+

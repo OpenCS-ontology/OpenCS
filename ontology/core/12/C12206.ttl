@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12206 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anomaly_detection> ;
+    skos:prefLabel "Anomaly detection" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C13307,
+        ocs:C14849,
+        ocs:C15407,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25520,
+        ocs:C26398,
+        ocs:C26767,
+        ocs:C38914,
+        ocs:C4752,
+        ocs:C5512,
+        ocs:C6912,
+        ocs:C9022,
+        ocs:C9428 .
+

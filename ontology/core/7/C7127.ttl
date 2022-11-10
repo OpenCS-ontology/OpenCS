@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7127 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_Integrated_Circuit_Card> ;
+    skos:prefLabel "Universal Integrated Circuit Card" ;
+    skos:related ocs:C1041,
+        ocs:C1894,
+        ocs:C34092,
+        ocs:C37065,
+        ocs:C37303,
+        ocs:C3933,
+        ocs:C39722,
+        ocs:C40140,
+        ocs:C44251,
+        ocs:C5917,
+        ocs:C634,
+        ocs:C9113,
+        ocs:C9154 .
+

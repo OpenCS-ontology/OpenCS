@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15098 a skos:Concept ;
+    skos:broader ocs:C12255,
+        ocs:C2304,
+        ocs:C6944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_information_management> ;
+    skos:prefLabel "Enterprise information management" ;
+    skos:related ocs:C10052,
+        ocs:C10070,
+        ocs:C10724,
+        ocs:C10801,
+        ocs:C11094,
+        ocs:C11657,
+        ocs:C12434,
+        ocs:C12736,
+        ocs:C14316,
+        ocs:C1728,
+        ocs:C2304,
+        ocs:C23103,
+        ocs:C26699,
+        ocs:C2979,
+        ocs:C31201,
+        ocs:C37709,
+        ocs:C9150,
+        ocs:C9488 .
+

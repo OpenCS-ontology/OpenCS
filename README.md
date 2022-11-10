@@ -8,7 +8,7 @@ The ontology is currently in its very early stages. It was built from a subset o
 - `/schema/schema.ttl` – OpenCS schema (upper ontology)
 - `/ontology` – OpenCS ontology
   - `header.ttl` – header with ontology metadata
-  - `core.ttl.gz` – core of the ontology
+  - `core` – core of the ontology, split into one Turtle file per concept. The files are grouped by 1000 into directories to help with potential filesystem or file browser issues.
   - `makg_extra.ttl.gz` – extra assertions carried over from MAKG
   - `opencs_to_makg.ttl.gz` – equivalence relations between OpenCS and MAKG
 

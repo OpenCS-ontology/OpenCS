@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29317 a skos:Concept ;
+    skos:broader ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/RailML> ;
+    skos:prefLabel "railML" ;
+    skos:related ocs:C11531,
+        ocs:C11927,
+        ocs:C12546,
+        ocs:C13229,
+        ocs:C14024,
+        ocs:C14846,
+        ocs:C16739,
+        ocs:C19052,
+        ocs:C27982,
+        ocs:C30182,
+        ocs:C31287,
+        ocs:C32481,
+        ocs:C33709,
+        ocs:C35992,
+        ocs:C37440,
+        ocs:C40725,
+        ocs:C42693,
+        ocs:C6278,
+        ocs:C8270 .
+

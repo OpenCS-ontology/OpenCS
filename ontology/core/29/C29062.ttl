@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29062 a skos:Concept ;
+    skos:broader ocs:C1130,
+        ocs:C13022 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_High_Availability_Cluster_Multiprocessing> ;
+    skos:prefLabel "IBM High Availability Cluster Multiprocessing" ;
+    skos:related ocs:C12874,
+        ocs:C14271,
+        ocs:C16874,
+        ocs:C17533,
+        ocs:C23785,
+        ocs:C26014,
+        ocs:C27259,
+        ocs:C28881,
+        ocs:C29476,
+        ocs:C30866,
+        ocs:C31489,
+        ocs:C36673,
+        ocs:C44419,
+        ocs:C45518,
+        ocs:C6173,
+        ocs:C6312,
+        ocs:C7332,
+        ocs:C7735,
+        ocs:C8467,
+        ocs:C9 .
+

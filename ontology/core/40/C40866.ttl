@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40866 a skos:Concept ;
+    skos:broader ocs:C31200 ;
+    skos:closeMatch <http://dbpedia.org/resource/Super_Wi-Fi> ;
+    skos:prefLabel "Super Wi-Fi" ;
+    skos:related ocs:C10409,
+        ocs:C19350,
+        ocs:C19721,
+        ocs:C20804,
+        ocs:C21424,
+        ocs:C28937,
+        ocs:C31200,
+        ocs:C33773,
+        ocs:C34513,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C35674,
+        ocs:C41301,
+        ocs:C43449,
+        ocs:C43573,
+        ocs:C7216,
+        ocs:C7857,
+        ocs:C8028,
+        ocs:C8784 .
+

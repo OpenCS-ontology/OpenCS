@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25744 a skos:Concept ;
+    skos:broader ocs:C2113 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_multimedia_access> ;
+    skos:prefLabel "Universal multimedia access" ;
+    skos:related ocs:C26,
+        ocs:C43465 .
+

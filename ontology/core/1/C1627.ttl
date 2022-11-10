@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1627 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_access> ;
+    skos:prefLabel "Random access" ;
+    skos:related ocs:C1,
+        ocs:C14162,
+        ocs:C16028,
+        ocs:C17698,
+        ocs:C17853,
+        ocs:C26456,
+        ocs:C28232,
+        ocs:C2882,
+        ocs:C2885,
+        ocs:C3120,
+        ocs:C3160,
+        ocs:C3678,
+        ocs:C38925,
+        ocs:C3896,
+        ocs:C4700,
+        ocs:C5722,
+        ocs:C7476,
+        ocs:C794,
+        ocs:C8864 .
+

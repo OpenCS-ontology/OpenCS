@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17830 a skos:Concept ;
+    skos:broader ocs:C1832 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stochastic_quantization> ;
+    skos:prefLabel "Stochastic quantization" ;
+    skos:related ocs:C44604,
+        ocs:C597,
+        ocs:C7787 .
+

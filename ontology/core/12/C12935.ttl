@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12935 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multiple_Registration_Protocol> ;
+    skos:prefLabel "Multiple Registration Protocol" ;
+    skos:related ocs:C11157,
+        ocs:C1197,
+        ocs:C12334,
+        ocs:C1307,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C1398,
+        ocs:C16730,
+        ocs:C26,
+        ocs:C27830,
+        ocs:C30342,
+        ocs:C3193,
+        ocs:C31983,
+        ocs:C35041,
+        ocs:C39009,
+        ocs:C4197,
+        ocs:C42234,
+        ocs:C44780,
+        ocs:C4720,
+        ocs:C490 .
+

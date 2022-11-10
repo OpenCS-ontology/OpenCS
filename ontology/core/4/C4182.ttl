@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4182 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microdot> ;
+    skos:prefLabel "Microdot" ;
+    skos:related ocs:C11699,
+        ocs:C13611,
+        ocs:C17344,
+        ocs:C22329,
+        ocs:C28967,
+        ocs:C32975,
+        ocs:C41186,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C7113,
+        ocs:C8498 .
+

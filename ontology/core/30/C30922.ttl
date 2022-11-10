@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30922 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C16690,
+        ocs:C22099,
+        ocs:C26817,
+        ocs:C28501 ;
+    skos:closeMatch <http://dbpedia.org/resource/56-bit_encryption> ;
+    skos:prefLabel "56-bit encryption" ;
+    skos:related ocs:C11716,
+        ocs:C12076,
+        ocs:C16125,
+        ocs:C16690,
+        ocs:C16983,
+        ocs:C18948,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C29704,
+        ocs:C31224,
+        ocs:C31654,
+        ocs:C31774,
+        ocs:C38245,
+        ocs:C38401,
+        ocs:C4218,
+        ocs:C45369,
+        ocs:C5052,
+        ocs:C7226 .
+

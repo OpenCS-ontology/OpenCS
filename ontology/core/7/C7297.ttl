@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7297 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_society> ;
+    skos:prefLabel "Information society" ;
+    skos:related ocs:C10070,
+        ocs:C13306,
+        ocs:C197,
+        ocs:C22701,
+        ocs:C2979,
+        ocs:C3,
+        ocs:C5124,
+        ocs:C6529,
+        ocs:C7634,
+        ocs:C8614 .
+

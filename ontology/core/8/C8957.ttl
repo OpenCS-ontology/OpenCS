@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8957 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTML5_File_API> ;
+    skos:prefLabel "HTML5 File API" ;
+    skos:related ocs:C12810,
+        ocs:C15593,
+        ocs:C17401,
+        ocs:C2303,
+        ocs:C25697,
+        ocs:C26528,
+        ocs:C27839,
+        ocs:C27985,
+        ocs:C28542,
+        ocs:C28801,
+        ocs:C28999,
+        ocs:C32880,
+        ocs:C355,
+        ocs:C36276,
+        ocs:C39177,
+        ocs:C40346,
+        ocs:C40902,
+        ocs:C4918,
+        ocs:C8614 .
+

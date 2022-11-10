@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32525 a skos:Concept ;
+    skos:broader ocs:C23932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_government> ;
+    skos:prefLabel "Open government" ;
+    skos:related ocs:C23932,
+        ocs:C2970,
+        ocs:C33198,
+        ocs:C8614 .
+

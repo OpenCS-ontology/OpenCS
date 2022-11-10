@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2199 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Access_Week> ;
+    skos:prefLabel "Open Access Week" ;
+    skos:related ocs:C11456,
+        ocs:C11462,
+        ocs:C16878,
+        ocs:C21591,
+        ocs:C25430,
+        ocs:C34236,
+        ocs:C37598,
+        ocs:C4,
+        ocs:C4424,
+        ocs:C5312,
+        ocs:C7062 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18754 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semantic_domain> ;
+    skos:prefLabel "Semantic domain" ;
+    skos:related ocs:C12696,
+        ocs:C2298,
+        ocs:C2578,
+        ocs:C26019,
+        ocs:C26304,
+        ocs:C28385,
+        ocs:C28799,
+        ocs:C30766,
+        ocs:C31956,
+        ocs:C5628,
+        ocs:C6340 .
+

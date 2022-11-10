@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27535 a skos:Concept ;
+    skos:broader ocs:C260 ;
+    skos:prefLabel "Canadian lynx" ;
+    skos:related ocs:C7791,
+        ocs:C8664,
+        ocs:C9428 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36786 a skos:Concept ;
+    skos:broader ocs:C27491 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mitchell_order> ;
+    skos:prefLabel "Mitchell order" ;
+    skos:related ocs:C16069,
+        ocs:C27491,
+        ocs:C30417,
+        ocs:C31588,
+        ocs:C31927,
+        ocs:C33304,
+        ocs:C37584,
+        ocs:C41107,
+        ocs:C42231,
+        ocs:C43266,
+        ocs:C5251 .
+

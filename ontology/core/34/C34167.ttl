@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34167 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C21288,
+        ocs:C24353 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kochanski_multiplication> ;
+    skos:prefLabel "Kochanski multiplication" ;
+    skos:related ocs:C24353,
+        ocs:C31468,
+        ocs:C32396,
+        ocs:C38359,
+        ocs:C39331,
+        ocs:C39419,
+        ocs:C39645,
+        ocs:C4218,
+        ocs:C42494 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6637 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stock_management> ;
+    skos:prefLabel "Stock management" ;
+    skos:related ocs:C10270,
+        ocs:C10764,
+        ocs:C1253,
+        ocs:C13002,
+        ocs:C26014,
+        ocs:C3395,
+        ocs:C35701,
+        ocs:C4768,
+        ocs:C8614 .
+

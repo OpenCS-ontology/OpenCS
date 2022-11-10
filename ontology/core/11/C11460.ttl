@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11460 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Empty_domain> ;
+    skos:prefLabel "Empty domain" ;
+    skos:related ocs:C10825,
+        ocs:C11647,
+        ocs:C1681,
+        ocs:C21946,
+        ocs:C2418,
+        ocs:C30651,
+        ocs:C35496,
+        ocs:C43623,
+        ocs:C44339,
+        ocs:C4870,
+        ocs:C7232,
+        ocs:C8635,
+        ocs:C9000,
+        ocs:C9029,
+        ocs:C9698 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15646 a skos:Concept ;
+    skos:broader ocs:C6444,
+        ocs:C747 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cornsweet_illusion> ;
+    skos:prefLabel "Cornsweet illusion" ;
+    skos:related ocs:C21158,
+        ocs:C22261,
+        ocs:C31368,
+        ocs:C35664,
+        ocs:C5921 .
+

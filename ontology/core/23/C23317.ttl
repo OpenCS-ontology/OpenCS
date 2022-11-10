@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23317 a skos:Concept ;
+    skos:broader ocs:C10080,
+        ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Powered_exoskeleton> ;
+    skos:prefLabel "Powered exoskeleton" ;
+    skos:related ocs:C10396,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C28881,
+        ocs:C7334,
+        ocs:C7739,
+        ocs:C8,
+        ocs:C9108 .
+

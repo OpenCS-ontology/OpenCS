@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21816 a skos:Concept ;
+    skos:broader ocs:C4028 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rostral_scale> ;
+    skos:prefLabel "Rostral scale" ;
+    skos:related ocs:C14629,
+        ocs:C17409,
+        ocs:C18371 .
+

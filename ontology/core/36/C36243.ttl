@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36243 a skos:Concept ;
+    skos:broader ocs:C26694 ;
+    skos:closeMatch <http://dbpedia.org/resource/Abbott_Government> ;
+    skos:prefLabel "Abbott Government" ;
+    skos:related ocs:C29750,
+        ocs:C32052,
+        ocs:C32365 .
+

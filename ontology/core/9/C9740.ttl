@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9740 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Missing_data> ;
+    skos:prefLabel "Missing data" ;
+    skos:related ocs:C13,
+        ocs:C13685,
+        ocs:C16319,
+        ocs:C21368,
+        ocs:C21710,
+        ocs:C25,
+        ocs:C34095,
+        ocs:C4752,
+        ocs:C6116,
+        ocs:C662,
+        ocs:C9488 .
+

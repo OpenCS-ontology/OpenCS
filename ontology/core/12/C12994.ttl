@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12994 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_router> ;
+    skos:prefLabel "Video router" ;
+    skos:related ocs:C10111,
+        ocs:C13973,
+        ocs:C16856,
+        ocs:C1724,
+        ocs:C19050,
+        ocs:C24398,
+        ocs:C31323,
+        ocs:C37865,
+        ocs:C38813,
+        ocs:C38826,
+        ocs:C40089,
+        ocs:C4980,
+        ocs:C8256,
+        ocs:C9045,
+        ocs:C9605 .
+

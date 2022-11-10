@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6723 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C32,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/POP-11> ;
+    skos:prefLabel "POP-11" ;
+    skos:related ocs:C10219,
+        ocs:C10284,
+        ocs:C10384,
+        ocs:C10720,
+        ocs:C15335,
+        ocs:C17667,
+        ocs:C19,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C22245,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C33918,
+        ocs:C4321,
+        ocs:C5517,
+        ocs:C6531,
+        ocs:C7066,
+        ocs:C8,
+        ocs:C8441 .
+

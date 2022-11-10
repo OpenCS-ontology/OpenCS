@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32646 a skos:Concept ;
+    skos:broader ocs:C18973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_entropy> ;
+    skos:prefLabel "Software entropy" ;
+    skos:related ocs:C1253,
+        ocs:C1880,
+        ocs:C2057,
+        ocs:C21399,
+        ocs:C25854,
+        ocs:C25957,
+        ocs:C26009,
+        ocs:C32978,
+        ocs:C33806,
+        ocs:C35202,
+        ocs:C38385,
+        ocs:C38886,
+        ocs:C41184,
+        ocs:C41303,
+        ocs:C42607,
+        ocs:C43671,
+        ocs:C44528,
+        ocs:C4558,
+        ocs:C45585,
+        ocs:C8360 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43199 a skos:Concept ;
+    skos:broader ocs:C30340,
+        ocs:C31455,
+        ocs:C33416,
+        ocs:C33923,
+        ocs:C34584,
+        ocs:C35839,
+        ocs:C37209 ;
+    skos:closeMatch <http://dbpedia.org/resource/SWIFFT> ;
+    skos:prefLabel "SWIFFT" ;
+    skos:related ocs:C11443,
+        ocs:C1258,
+        ocs:C1511,
+        ocs:C23875,
+        ocs:C30340,
+        ocs:C33923,
+        ocs:C34749,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38318,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43750,
+        ocs:C6727 .
+

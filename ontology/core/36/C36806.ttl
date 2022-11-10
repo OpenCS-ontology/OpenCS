@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36806 a skos:Concept ;
+    skos:broader ocs:C15173,
+        ocs:C17519,
+        ocs:C21386,
+        ocs:C21942 ;
+    skos:closeMatch <http://dbpedia.org/resource/General_protection_fault> ;
+    skos:prefLabel "General protection fault" ;
+    skos:related ocs:C10983,
+        ocs:C12323,
+        ocs:C1251,
+        ocs:C12738,
+        ocs:C17213,
+        ocs:C19487,
+        ocs:C27025,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C38819,
+        ocs:C40322,
+        ocs:C41159,
+        ocs:C42695,
+        ocs:C44264,
+        ocs:C44361,
+        ocs:C7635,
+        ocs:C856,
+        ocs:C8782,
+        ocs:C9 .
+

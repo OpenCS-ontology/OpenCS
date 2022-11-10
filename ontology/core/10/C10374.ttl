@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10374 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Write_once_read_many> ;
+    skos:prefLabel "Write once read many" ;
+    skos:related ocs:C10400,
+        ocs:C11960,
+        ocs:C12872,
+        ocs:C13783,
+        ocs:C3231,
+        ocs:C3896,
+        ocs:C4259,
+        ocs:C4916,
+        ocs:C6536,
+        ocs:C7007,
+        ocs:C7255,
+        ocs:C7476,
+        ocs:C8034,
+        ocs:C9 .
+

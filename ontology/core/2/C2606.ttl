@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2606 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:prefLabel "Logical Function" ;
+    skos:related ocs:C11252,
+        ocs:C2,
+        ocs:C25,
+        ocs:C30,
+        ocs:C33,
+        ocs:C3401,
+        ocs:C4073,
+        ocs:C41587,
+        ocs:C5245,
+        ocs:C5336,
+        ocs:C932 .
+

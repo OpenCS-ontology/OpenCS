@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28211 a skos:Concept ;
+    skos:broader ocs:C11932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Persian_nouns> ;
+    skos:prefLabel "Persian nouns" ;
+    skos:related ocs:C10287,
+        ocs:C10516,
+        ocs:C14822,
+        ocs:C16723,
+        ocs:C16989,
+        ocs:C19665,
+        ocs:C22126,
+        ocs:C27343,
+        ocs:C28295,
+        ocs:C31787,
+        ocs:C34353,
+        ocs:C7793,
+        ocs:C9533 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12165 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Project_team> ;
+    skos:prefLabel "Project team" ;
+    skos:related ocs:C10057,
+        ocs:C20809,
+        ocs:C37174,
+        ocs:C4558,
+        ocs:C7509 .
+

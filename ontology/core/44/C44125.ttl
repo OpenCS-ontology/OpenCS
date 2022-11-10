@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44125 a skos:Concept ;
+    skos:broader ocs:C31755 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cell_Broadcast> ;
+    skos:prefLabel "Cell Broadcast" ;
+    skos:related ocs:C21976,
+        ocs:C24123,
+        ocs:C26262,
+        ocs:C27704,
+        ocs:C30763,
+        ocs:C31286,
+        ocs:C33162,
+        ocs:C34908,
+        ocs:C39289,
+        ocs:C44416,
+        ocs:C5917,
+        ocs:C6240,
+        ocs:C634,
+        ocs:C6821,
+        ocs:C7102,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9332 .
+

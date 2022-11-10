@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5055 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/HS/Link> ;
+    skos:prefLabel "HS/Link" ;
+    skos:related ocs:C11108,
+        ocs:C11649,
+        ocs:C12485,
+        ocs:C16205,
+        ocs:C16980,
+        ocs:C17903,
+        ocs:C21935,
+        ocs:C23263,
+        ocs:C24323,
+        ocs:C25384,
+        ocs:C30967,
+        ocs:C33935,
+        ocs:C34133,
+        ocs:C390,
+        ocs:C40157,
+        ocs:C4458,
+        ocs:C6874,
+        ocs:C9931 .
+

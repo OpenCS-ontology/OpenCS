@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25490 a skos:Concept ;
+    skos:broader ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metaserver> ;
+    skos:prefLabel "Metaserver" ;
+    skos:related ocs:C11612,
+        ocs:C1386,
+        ocs:C15478,
+        ocs:C17238,
+        ocs:C17267,
+        ocs:C19052,
+        ocs:C2,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C28941,
+        ocs:C31,
+        ocs:C32880,
+        ocs:C34992,
+        ocs:C38459,
+        ocs:C41105,
+        ocs:C535,
+        ocs:C8614,
+        ocs:C9540 .
+

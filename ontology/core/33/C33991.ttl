@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33991 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robot_software> ;
+    skos:prefLabel "Robot software" ;
+    skos:related ocs:C10,
+        ocs:C10396,
+        ocs:C1253,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C2057,
+        ocs:C32139,
+        ocs:C34709,
+        ocs:C357,
+        ocs:C36385,
+        ocs:C36715,
+        ocs:C40076,
+        ocs:C41622,
+        ocs:C44787,
+        ocs:C7334,
+        ocs:C8,
+        ocs:C856 .
+

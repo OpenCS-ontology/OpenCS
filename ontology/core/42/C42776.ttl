@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42776 a skos:Concept ;
+    skos:broader ocs:C35555 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tversky_index> ;
+    skos:prefLabel "Tversky index" ;
+    skos:related ocs:C10398,
+        ocs:C15891,
+        ocs:C19398,
+        ocs:C22275,
+        ocs:C24689,
+        ocs:C247,
+        ocs:C24845,
+        ocs:C3189,
+        ocs:C32077,
+        ocs:C43266,
+        ocs:C6402,
+        ocs:C7658,
+        ocs:C8332 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44209 a skos:Concept ;
+    skos:broader ocs:C30476 ;
+    skos:closeMatch <http://dbpedia.org/resource/WIPO_Performances_and_Phonograms_Treaty> ;
+    skos:prefLabel "WIPO Performances and Phonograms Treaty" ;
+    skos:related ocs:C15143,
+        ocs:C28912,
+        ocs:C30476,
+        ocs:C41273 .
+

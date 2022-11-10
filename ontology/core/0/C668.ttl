@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C668 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Layout_manager> ;
+    skos:prefLabel "Layout manager" ;
+    skos:related ocs:C11293,
+        ocs:C12477,
+        ocs:C14627,
+        ocs:C15059,
+        ocs:C16739,
+        ocs:C26700,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30772,
+        ocs:C31489,
+        ocs:C32547,
+        ocs:C36472,
+        ocs:C40210,
+        ocs:C41912,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C7395,
+        ocs:C7736,
+        ocs:C9 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17512 a skos:Concept ;
+    skos:broader ocs:C3393 ;
+    skos:closeMatch <http://dbpedia.org/resource/Equivalent_input> ;
+    skos:prefLabel "Equivalent input" ;
+    skos:related ocs:C10509,
+        ocs:C10763,
+        ocs:C1564,
+        ocs:C1624,
+        ocs:C16736,
+        ocs:C25042,
+        ocs:C26449,
+        ocs:C38517,
+        ocs:C39475,
+        ocs:C5505,
+        ocs:C5511,
+        ocs:C5829,
+        ocs:C8291 .
+

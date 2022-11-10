@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45767 a skos:Concept ;
+    skos:broader ocs:C31223,
+        ocs:C31956,
+        ocs:C36771 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_erasure> ;
+    skos:prefLabel "Type erasure" ;
+    skos:related ocs:C10608,
+        ocs:C17467,
+        ocs:C18578,
+        ocs:C19,
+        ocs:C2195,
+        ocs:C26642,
+        ocs:C36417,
+        ocs:C41633,
+        ocs:C5308,
+        ocs:C5517,
+        ocs:C6918,
+        ocs:C6941,
+        ocs:C7572 .
+

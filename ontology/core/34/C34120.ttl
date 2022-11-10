@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34120 a skos:Concept ;
+    skos:broader ocs:C28340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computational_group_theory> ;
+    skos:prefLabel "Computational group theory" ;
+    skos:related ocs:C10,
+        ocs:C28340,
+        ocs:C28353,
+        ocs:C29978,
+        ocs:C36813 .
+

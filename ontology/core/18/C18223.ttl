@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18223 a skos:Concept ;
+    skos:broader ocs:C8664 ;
+    skos:closeMatch <http://dbpedia.org/resource/Period-doubling_bifurcation> ;
+    skos:prefLabel "Period-doubling bifurcation" ;
+    skos:related ocs:C13992,
+        ocs:C14592,
+        ocs:C16165,
+        ocs:C16955,
+        ocs:C18113,
+        ocs:C42397 .
+

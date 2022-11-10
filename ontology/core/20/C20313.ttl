@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20313 a skos:Concept ;
+    skos:broader ocs:C13068,
+        ocs:C5619,
+        ocs:C5692,
+        ocs:C7006,
+        ocs:C816,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/JSON_Web_Token> ;
+    skos:prefLabel "JSON Web Token" ;
+    skos:related ocs:C10384,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C16338,
+        ocs:C17656,
+        ocs:C19156,
+        ocs:C22246,
+        ocs:C22450,
+        ocs:C29951,
+        ocs:C31315,
+        ocs:C33015,
+        ocs:C33584,
+        ocs:C34607,
+        ocs:C39074,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C4918,
+        ocs:C5418,
+        ocs:C8022 .
+

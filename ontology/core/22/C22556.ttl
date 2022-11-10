@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22556 a skos:Concept ;
+    skos:broader ocs:C12638 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bubble_chart> ;
+    skos:prefLabel "Bubble chart" ;
+    skos:related ocs:C11094,
+        ocs:C13808,
+        ocs:C1938,
+        ocs:C19998,
+        ocs:C37827,
+        ocs:C383,
+        ocs:C6494 .
+

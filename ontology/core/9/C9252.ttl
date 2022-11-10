@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9252 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nondeterministic_algorithm> ;
+    skos:prefLabel "Nondeterministic algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11885,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C2425,
+        ocs:C29,
+        ocs:C33982,
+        ocs:C34666,
+        ocs:C3678,
+        ocs:C5823,
+        ocs:C611,
+        ocs:C6537,
+        ocs:C7214,
+        ocs:C8204,
+        ocs:C8660,
+        ocs:C9450 .
+

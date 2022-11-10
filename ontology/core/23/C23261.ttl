@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23261 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745 ;
+    skos:closeMatch <http://dbpedia.org/resource/Product-form_solution> ;
+    skos:prefLabel "Product-form solution" ;
+    skos:related ocs:C12373,
+        ocs:C19703,
+        ocs:C20113,
+        ocs:C25438,
+        ocs:C27599,
+        ocs:C31015,
+        ocs:C31158,
+        ocs:C34165,
+        ocs:C34568,
+        ocs:C35234,
+        ocs:C35837,
+        ocs:C39751,
+        ocs:C40920,
+        ocs:C41000,
+        ocs:C41644,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45748 .
+

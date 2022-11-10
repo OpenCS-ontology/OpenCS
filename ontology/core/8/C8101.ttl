@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8101 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Filter_transition_region> ;
+    skos:prefLabel "Filter transition region" ;
+    skos:related ocs:C15194,
+        ocs:C1727,
+        ocs:C25026,
+        ocs:C31885,
+        ocs:C32519,
+        ocs:C3393,
+        ocs:C39179,
+        ocs:C42625,
+        ocs:C44671,
+        ocs:C45235,
+        ocs:C45857,
+        ocs:C5042 .
+

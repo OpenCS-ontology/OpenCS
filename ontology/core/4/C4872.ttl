@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4872 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Experiential_knowledge> ;
+    skos:prefLabel "Experiential knowledge" ;
+    skos:related ocs:C33222,
+        ocs:C3835 .
+

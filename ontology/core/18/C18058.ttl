@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18058 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:prefLabel "Channel analysis" ;
+    skos:related ocs:C16,
+        ocs:C19721,
+        ocs:C2,
+        ocs:C23973,
+        ocs:C33,
+        ocs:C8700 .
+

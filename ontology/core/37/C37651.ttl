@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37651 a skos:Concept ;
+    skos:broader ocs:C28122 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11_RTS/CTS> ;
+    skos:prefLabel "IEEE 802.11 RTS/CTS" ;
+    skos:related ocs:C1398,
+        ocs:C15728,
+        ocs:C16022,
+        ocs:C21760,
+        ocs:C26,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C36169,
+        ocs:C36375,
+        ocs:C38184,
+        ocs:C39130,
+        ocs:C39494,
+        ocs:C41247,
+        ocs:C41995,
+        ocs:C43093,
+        ocs:C45222,
+        ocs:C45396,
+        ocs:C6446 .
+

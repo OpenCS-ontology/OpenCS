@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20232 a skos:Concept ;
+    skos:broader ocs:C428 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_indexing> ;
+    skos:prefLabel "Automatic indexing" ;
+    skos:related ocs:C11763,
+        ocs:C27199,
+        ocs:C33238,
+        ocs:C3896,
+        ocs:C40049,
+        ocs:C428,
+        ocs:C44855,
+        ocs:C597,
+        ocs:C6646,
+        ocs:C6915,
+        ocs:C8710 .
+

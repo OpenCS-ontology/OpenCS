@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26787 a skos:Concept ;
+    skos:broader ocs:C12582,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pixel_geometry> ;
+    skos:prefLabel "Pixel geometry" ;
+    skos:related ocs:C1084,
+        ocs:C12815,
+        ocs:C13155,
+        ocs:C14411,
+        ocs:C20122,
+        ocs:C22,
+        ocs:C22257,
+        ocs:C24972,
+        ocs:C35507,
+        ocs:C35867,
+        ocs:C39878,
+        ocs:C5450,
+        ocs:C5577,
+        ocs:C5854,
+        ocs:C653,
+        ocs:C6942,
+        ocs:C8021 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21405 a skos:Concept ;
+    skos:broader ocs:C257,
+        ocs:C9287 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_spam> ;
+    skos:prefLabel "Image spam" ;
+    skos:related ocs:C13295,
+        ocs:C17205,
+        ocs:C17567,
+        ocs:C20937,
+        ocs:C24903,
+        ocs:C28603,
+        ocs:C3009,
+        ocs:C31112,
+        ocs:C31805,
+        ocs:C37829,
+        ocs:C39988,
+        ocs:C40173,
+        ocs:C40986,
+        ocs:C4338,
+        ocs:C44734,
+        ocs:C4641,
+        ocs:C5522,
+        ocs:C5960,
+        ocs:C6872 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C266 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/IEEE_802.1ag> ;
+    skos:prefLabel "IEEE 802.1ag" ;
+    skos:related ocs:C11157,
+        ocs:C12334,
+        ocs:C12935,
+        ocs:C1307,
+        ocs:C13857,
+        ocs:C17187,
+        ocs:C20373,
+        ocs:C26,
+        ocs:C27620,
+        ocs:C29014,
+        ocs:C31983,
+        ocs:C35673,
+        ocs:C36975,
+        ocs:C40508,
+        ocs:C42234,
+        ocs:C44282,
+        ocs:C44294,
+        ocs:C44780,
+        ocs:C4720,
+        ocs:C490 .
+

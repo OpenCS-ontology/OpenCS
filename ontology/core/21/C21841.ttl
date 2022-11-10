@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21841 a skos:Concept ;
+    skos:broader ocs:C4197,
+        ocs:C7424,
+        ocs:C8614,
+        ocs:C9161 ;
+    skos:prefLabel "Nsis signaling layer protocol" .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28901 a skos:Concept ;
+    skos:broader ocs:C11128 ;
+    skos:prefLabel "Rock python" ;
+    skos:related ocs:C29384,
+        ocs:C34210 .
+

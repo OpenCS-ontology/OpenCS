@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40721 a skos:Concept ;
+    skos:broader ocs:C30595 ;
+    skos:closeMatch <http://dbpedia.org/resource/PKI_Resource_Query_Protocol> ;
+    skos:prefLabel "PKI Resource Query Protocol" ;
+    skos:related ocs:C14417,
+        ocs:C15530,
+        ocs:C20205,
+        ocs:C21006,
+        ocs:C31756,
+        ocs:C32192,
+        ocs:C38524,
+        ocs:C38959,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C42909,
+        ocs:C43338,
+        ocs:C43651,
+        ocs:C44017,
+        ocs:C44289,
+        ocs:C44491 .
+

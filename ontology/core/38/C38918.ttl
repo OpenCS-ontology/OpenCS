@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38918 a skos:Concept ;
+    skos:broader ocs:C31890 ;
+    skos:closeMatch <http://dbpedia.org/resource/Market_requirements_document> ;
+    skos:prefLabel "Market requirements document" ;
+    skos:related ocs:C11992,
+        ocs:C2214,
+        ocs:C23314,
+        ocs:C23394,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C44988,
+        ocs:C5782,
+        ocs:C8469,
+        ocs:C924 .
+

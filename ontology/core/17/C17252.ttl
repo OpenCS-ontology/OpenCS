@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17252 a skos:Concept ;
+    skos:broader ocs:C8760 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gaussian_function> ;
+    skos:prefLabel "Gaussian function" ;
+    skos:related ocs:C11150,
+        ocs:C1844,
+        ocs:C20514,
+        ocs:C25862,
+        ocs:C26688,
+        ocs:C32517,
+        ocs:C37582,
+        ocs:C597,
+        ocs:C8499,
+        ocs:C9326 .
+

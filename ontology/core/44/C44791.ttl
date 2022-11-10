@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44791 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Poisson_wavelet> ;
+    skos:prefLabel "Poisson wavelet" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C20648,
+        ocs:C26827,
+        ocs:C33342,
+        ocs:C34362,
+        ocs:C35104,
+        ocs:C40802,
+        ocs:C41327,
+        ocs:C43666,
+        ocs:C43805,
+        ocs:C43908,
+        ocs:C45112,
+        ocs:C45115 .
+

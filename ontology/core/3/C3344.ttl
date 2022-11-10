@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3344 a skos:Concept ;
+    skos:broader ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Table_(information)> ;
+    skos:prefLabel "Table (information)" ;
+    skos:related ocs:C11094,
+        ocs:C12185,
+        ocs:C2050,
+        ocs:C27119,
+        ocs:C3042,
+        ocs:C37009,
+        ocs:C38130,
+        ocs:C3896,
+        ocs:C3934,
+        ocs:C4028,
+        ocs:C5467,
+        ocs:C5700,
+        ocs:C5722,
+        ocs:C6 .
+

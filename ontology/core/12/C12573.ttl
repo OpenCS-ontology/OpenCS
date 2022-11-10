@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12573 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/INT_(x86_instruction)> ;
+    skos:prefLabel "INT" ;
+    skos:related ocs:C12323,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21496,
+        ocs:C22085,
+        ocs:C22553,
+        ocs:C26451,
+        ocs:C3089,
+        ocs:C31346,
+        ocs:C39555,
+        ocs:C42283,
+        ocs:C44264,
+        ocs:C5147,
+        ocs:C6197,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

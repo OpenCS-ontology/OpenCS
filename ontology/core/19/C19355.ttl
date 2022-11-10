@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19355 a skos:Concept ;
+    skos:broader ocs:C3233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extension_topology> ;
+    skos:prefLabel "Extension topology" ;
+    skos:related ocs:C19847,
+        ocs:C33798,
+        ocs:C33893,
+        ocs:C38242,
+        ocs:C6221 .
+

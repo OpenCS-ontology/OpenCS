@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14847 a skos:Concept ;
+    skos:broader ocs:C9490 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geographic_Information_Science_and_Technology_Body_of_Knowledge> ;
+    skos:prefLabel "Geographic Information Science and Technology Body of Knowledge" ;
+    skos:related ocs:C11862,
+        ocs:C12641,
+        ocs:C13972,
+        ocs:C16349,
+        ocs:C16797,
+        ocs:C2115,
+        ocs:C22279,
+        ocs:C31518,
+        ocs:C6224,
+        ocs:C6636,
+        ocs:C9490 .
+

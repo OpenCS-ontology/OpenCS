@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40803 a skos:Concept ;
+    skos:broader ocs:C31528 ;
+    skos:closeMatch <http://dbpedia.org/resource/Citharinidae> ;
+    skos:prefLabel "Citharinidae" ;
+    skos:related ocs:C24236,
+        ocs:C44039 .
+

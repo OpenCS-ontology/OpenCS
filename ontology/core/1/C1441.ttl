@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1441 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Control_register> ;
+    skos:prefLabel "Control register" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C12323,
+        ocs:C12533,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C27610,
+        ocs:C33174,
+        ocs:C37134,
+        ocs:C37538,
+        ocs:C38819,
+        ocs:C39623,
+        ocs:C42499,
+        ocs:C45155,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

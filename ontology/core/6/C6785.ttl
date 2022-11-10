@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6785 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hybrid_image> ;
+    skos:prefLabel "Hybrid image" ;
+    skos:related ocs:C22261,
+        ocs:C35664,
+        ocs:C36940,
+        ocs:C5084 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45401 a skos:Concept ;
+    skos:broader ocs:C37174 ;
+    skos:closeMatch <http://dbpedia.org/resource/Capability_Maturity_Model_Integration> ;
+    skos:prefLabel "Capability Maturity Model Integration" ;
+    skos:related ocs:C197,
+        ocs:C20618,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C37174,
+        ocs:C38001,
+        ocs:C38570,
+        ocs:C38970,
+        ocs:C39023,
+        ocs:C39208,
+        ocs:C41038,
+        ocs:C41586,
+        ocs:C43969,
+        ocs:C44988,
+        ocs:C4558,
+        ocs:C666,
+        ocs:C9700 .
+

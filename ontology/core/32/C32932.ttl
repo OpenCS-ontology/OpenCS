@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32932 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:prefLabel "Neuroterus quercusbaccarum" ;
+    skos:related ocs:C15473,
+        ocs:C17070,
+        ocs:C18815,
+        ocs:C24959 .
+

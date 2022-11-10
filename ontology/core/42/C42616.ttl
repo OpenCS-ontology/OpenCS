@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42616 a skos:Concept ;
+    skos:broader ocs:C32111,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slope_number> ;
+    skos:prefLabel "Slope number" ;
+    skos:related ocs:C20376,
+        ocs:C26774,
+        ocs:C28291,
+        ocs:C36406,
+        ocs:C38339,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C39493,
+        ocs:C39885,
+        ocs:C40560,
+        ocs:C40783,
+        ocs:C41573,
+        ocs:C41980,
+        ocs:C42723,
+        ocs:C42822,
+        ocs:C44762,
+        ocs:C44857,
+        ocs:C45150 .
+

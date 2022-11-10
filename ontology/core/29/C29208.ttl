@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29208 a skos:Concept ;
+    skos:broader ocs:C3892 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earthquake_warning_system> ;
+    skos:prefLabel "Earthquake warning system" ;
+    skos:related ocs:C17532,
+        ocs:C31669 .
+

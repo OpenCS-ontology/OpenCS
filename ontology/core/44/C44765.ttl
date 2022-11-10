@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44765 a skos:Concept ;
+    skos:broader ocs:C30824,
+        ocs:C33136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Philosophy_of_artificial_intelligence> ;
+    skos:prefLabel "Philosophy of artificial intelligence" ;
+    skos:related ocs:C11381,
+        ocs:C11874,
+        ocs:C13328,
+        ocs:C27116,
+        ocs:C30824,
+        ocs:C3848,
+        ocs:C4269,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8701 .
+

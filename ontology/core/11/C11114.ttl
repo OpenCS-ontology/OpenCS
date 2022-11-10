@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11114 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simulation_noise> ;
+    skos:prefLabel "Simulation noise" ;
+    skos:related ocs:C13854,
+        ocs:C15903,
+        ocs:C16407,
+        ocs:C16736,
+        ocs:C22,
+        ocs:C23308,
+        ocs:C23564,
+        ocs:C23750,
+        ocs:C27649,
+        ocs:C30035,
+        ocs:C36509,
+        ocs:C36568,
+        ocs:C40233,
+        ocs:C43197,
+        ocs:C5505,
+        ocs:C8272,
+        ocs:C8637 .
+

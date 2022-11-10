@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41484 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Comparability_graph> ;
+    skos:prefLabel "Comparability graph" ;
+    skos:related ocs:C13880,
+        ocs:C14693,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C32333,
+        ocs:C37036,
+        ocs:C38404,
+        ocs:C38781,
+        ocs:C40398,
+        ocs:C41182,
+        ocs:C42392,
+        ocs:C42664,
+        ocs:C43189,
+        ocs:C43787,
+        ocs:C43906,
+        ocs:C44221,
+        ocs:C44630 .
+

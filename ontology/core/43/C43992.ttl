@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43992 a skos:Concept ;
+    skos:broader ocs:C30273,
+        ocs:C35932,
+        ocs:C37360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_serializability> ;
+    skos:prefLabel "Global serializability" ;
+    skos:related ocs:C17084,
+        ocs:C22879,
+        ocs:C24153,
+        ocs:C30273,
+        ocs:C35932,
+        ocs:C36408,
+        ocs:C37360,
+        ocs:C38458,
+        ocs:C39431,
+        ocs:C40503,
+        ocs:C40919,
+        ocs:C42517,
+        ocs:C43404,
+        ocs:C43644,
+        ocs:C44650,
+        ocs:C44853,
+        ocs:C45370,
+        ocs:C45754,
+        ocs:C6,
+        ocs:C6754 .
+

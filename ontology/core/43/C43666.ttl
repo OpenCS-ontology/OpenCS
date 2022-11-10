@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43666 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Meyer_wavelet> ;
+    skos:prefLabel "Meyer wavelet" ;
+    skos:related ocs:C10554,
+        ocs:C20648,
+        ocs:C26827,
+        ocs:C32612,
+        ocs:C33342,
+        ocs:C34362,
+        ocs:C35104,
+        ocs:C38465,
+        ocs:C41327,
+        ocs:C42094,
+        ocs:C43656,
+        ocs:C43805,
+        ocs:C43908,
+        ocs:C44791,
+        ocs:C44879,
+        ocs:C45112,
+        ocs:C45115 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21920 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphmatica> ;
+    skos:prefLabel "Graphmatica" ;
+    skos:related ocs:C15799,
+        ocs:C19904,
+        ocs:C28881,
+        ocs:C29186 .
+

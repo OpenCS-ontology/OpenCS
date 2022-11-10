@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37210 a skos:Concept ;
+    skos:broader ocs:C17522,
+        ocs:C21004,
+        ocs:C27372 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trichomyrmex_destructor> ;
+    skos:prefLabel "Monomorium destructor" ;
+    skos:related ocs:C13054,
+        ocs:C15126,
+        ocs:C17522,
+        ocs:C20240,
+        ocs:C24249,
+        ocs:C2760,
+        ocs:C28720,
+        ocs:C30349,
+        ocs:C30805 .
+

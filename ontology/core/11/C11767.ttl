@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11767 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analysis_of_variance> ;
+    skos:prefLabel "Analysis of variance" ;
+    skos:related ocs:C11986,
+        ocs:C15258,
+        ocs:C23554,
+        ocs:C27702,
+        ocs:C5087,
+        ocs:C6116 .
+

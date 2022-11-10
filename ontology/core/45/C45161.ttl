@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45161 a skos:Concept ;
+    skos:broader ocs:C30179,
+        ocs:C35076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Balanced_boolean_function> ;
+    skos:prefLabel "Balanced boolean function" ;
+    skos:related ocs:C13545,
+        ocs:C13686,
+        ocs:C13855,
+        ocs:C17856,
+        ocs:C23230,
+        ocs:C24146,
+        ocs:C24858,
+        ocs:C29363,
+        ocs:C30179,
+        ocs:C30314,
+        ocs:C32079,
+        ocs:C34387,
+        ocs:C3894,
+        ocs:C39104,
+        ocs:C40637,
+        ocs:C4218,
+        ocs:C42511,
+        ocs:C6497,
+        ocs:C9393 .
+

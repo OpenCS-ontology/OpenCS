@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33341 a skos:Concept ;
+    skos:broader ocs:C19721,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Water_filling_algorithm> ;
+    skos:prefLabel "Water filling algorithm" ;
+    skos:related ocs:C16335,
+        ocs:C21471,
+        ocs:C23429,
+        ocs:C24264,
+        ocs:C24312,
+        ocs:C24558,
+        ocs:C30728,
+        ocs:C32844,
+        ocs:C34748,
+        ocs:C35462,
+        ocs:C36688,
+        ocs:C36695,
+        ocs:C36733,
+        ocs:C43848,
+        ocs:C4665,
+        ocs:C5416,
+        ocs:C5816,
+        ocs:C6236 .
+

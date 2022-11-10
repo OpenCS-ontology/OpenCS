@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36737 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C22524,
+        ocs:C29390,
+        ocs:C29532 ;
+    skos:closeMatch <http://dbpedia.org/resource/ZEUS_robotic_surgical_system> ;
+    skos:prefLabel "ZEUS robotic surgical system" ;
+    skos:related ocs:C17816,
+        ocs:C22524,
+        ocs:C26586,
+        ocs:C32424 .
+

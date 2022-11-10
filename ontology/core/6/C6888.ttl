@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6888 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:prefLabel "Pursuit tracking" ;
+    skos:related ocs:C11609,
+        ocs:C16,
+        ocs:C525,
+        ocs:C9641 .
+

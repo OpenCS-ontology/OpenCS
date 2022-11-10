@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16949 a skos:Concept ;
+    skos:broader ocs:C3233,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_topology> ;
+    skos:prefLabel "Internet topology" ;
+    skos:related ocs:C14032,
+        ocs:C14685,
+        ocs:C15417,
+        ocs:C1644,
+        ocs:C16528,
+        ocs:C18802,
+        ocs:C20540,
+        ocs:C28636,
+        ocs:C28850,
+        ocs:C30593,
+        ocs:C30797,
+        ocs:C31983,
+        ocs:C3233,
+        ocs:C34137,
+        ocs:C37722,
+        ocs:C7532,
+        ocs:C8614 .
+

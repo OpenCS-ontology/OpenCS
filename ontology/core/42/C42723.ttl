@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42723 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/1-planar_graph> ;
+    skos:prefLabel "1-planar graph" ;
+    skos:related ocs:C14693,
+        ocs:C26774,
+        ocs:C30730,
+        ocs:C36279,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C38526,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C38962,
+        ocs:C39263,
+        ocs:C39545,
+        ocs:C39583,
+        ocs:C39781,
+        ocs:C42060,
+        ocs:C42281,
+        ocs:C42822,
+        ocs:C43374,
+        ocs:C43652,
+        ocs:C44460 .
+

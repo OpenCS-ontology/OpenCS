@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3792 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_code_optimizer> ;
+    skos:prefLabel "Object code optimizer" ;
+    skos:related ocs:C10,
+        ocs:C12312,
+        ocs:C15590,
+        ocs:C17089,
+        ocs:C21201,
+        ocs:C23863,
+        ocs:C28073,
+        ocs:C2824,
+        ocs:C3036,
+        ocs:C32352,
+        ocs:C38130,
+        ocs:C39149,
+        ocs:C40088,
+        ocs:C4027,
+        ocs:C4321,
+        ocs:C44363,
+        ocs:C6072 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42063 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C32808 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multitape_Turing_machine> ;
+    skos:prefLabel "Multitape Turing machine" ;
+    skos:related ocs:C10,
+        ocs:C1631,
+        ocs:C22100,
+        ocs:C31124,
+        ocs:C3678,
+        ocs:C38067,
+        ocs:C39775,
+        ocs:C39944,
+        ocs:C40137,
+        ocs:C40274,
+        ocs:C40419,
+        ocs:C40477,
+        ocs:C41388,
+        ocs:C41645,
+        ocs:C41940,
+        ocs:C4501,
+        ocs:C45460,
+        ocs:C6136,
+        ocs:C8334,
+        ocs:C8660 .
+

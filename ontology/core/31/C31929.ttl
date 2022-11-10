@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31929 a skos:Concept ;
+    skos:broader ocs:C15008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard> ;
+    skos:prefLabel "Metadata Encoding and Transmission Standard" ;
+    skos:related ocs:C11927,
+        ocs:C15008,
+        ocs:C17514,
+        ocs:C23088,
+        ocs:C28801,
+        ocs:C29129,
+        ocs:C30182,
+        ocs:C32112,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C38812,
+        ocs:C3896,
+        ocs:C40147,
+        ocs:C40725,
+        ocs:C41375,
+        ocs:C4335,
+        ocs:C44193,
+        ocs:C45647,
+        ocs:C9166,
+        ocs:C9836 .
+

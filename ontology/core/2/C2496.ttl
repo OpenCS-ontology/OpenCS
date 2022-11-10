@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2496 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Recovery record" ;
+    skos:related ocs:C10918,
+        ocs:C11,
+        ocs:C31,
+        ocs:C3231,
+        ocs:C9262,
+        ocs:C9543 .
+

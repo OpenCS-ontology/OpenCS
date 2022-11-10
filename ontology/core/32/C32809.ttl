@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32809 a skos:Concept ;
+    skos:broader ocs:C15633,
+        ocs:C27422 ;
+    skos:closeMatch <http://dbpedia.org/resource/Korea_Invisible_Mass_Search> ;
+    skos:prefLabel "Korea Invisible Mass Search" ;
+    skos:related ocs:C22454,
+        ocs:C23255,
+        ocs:C29552 .
+

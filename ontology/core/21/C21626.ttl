@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21626 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sociogram> ;
+    skos:prefLabel "Sociogram" ;
+    skos:related ocs:C11026,
+        ocs:C14693,
+        ocs:C15047,
+        ocs:C15490,
+        ocs:C20376,
+        ocs:C28283,
+        ocs:C28291,
+        ocs:C28521,
+        ocs:C29674,
+        ocs:C32056,
+        ocs:C39493,
+        ocs:C40783,
+        ocs:C40817,
+        ocs:C42616 .
+

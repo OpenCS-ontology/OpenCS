@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43089 a skos:Concept ;
+    skos:broader ocs:C30635,
+        ocs:C34890,
+        ocs:C35703,
+        ocs:C36807 ;
+    skos:closeMatch <http://dbpedia.org/resource/DigiCipher_2> ;
+    skos:prefLabel "DigiCipher 2" ;
+    skos:related ocs:C11323,
+        ocs:C12544,
+        ocs:C17661,
+        ocs:C18878,
+        ocs:C20140,
+        ocs:C21312,
+        ocs:C2581,
+        ocs:C27103,
+        ocs:C27572,
+        ocs:C30635,
+        ocs:C32350,
+        ocs:C33691,
+        ocs:C34364,
+        ocs:C3522,
+        ocs:C37869,
+        ocs:C40667,
+        ocs:C44963,
+        ocs:C9654 .
+

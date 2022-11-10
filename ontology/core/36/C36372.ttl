@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36372 a skos:Concept ;
+    skos:broader ocs:C26204 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inverse_distribution> ;
+    skos:prefLabel "Inverse distribution" ;
+    skos:related ocs:C1844,
+        ocs:C21356,
+        ocs:C31283,
+        ocs:C38209,
+        ocs:C40060,
+        ocs:C42729,
+        ocs:C9326 .
+

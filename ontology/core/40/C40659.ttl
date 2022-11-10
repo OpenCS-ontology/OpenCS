@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40659 a skos:Concept ;
+    skos:broader ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/System_Prevalence> ;
+    skos:prefLabel "System Prevalence" ;
+    skos:related ocs:C10447,
+        ocs:C12075,
+        ocs:C14747,
+        ocs:C16530,
+        ocs:C20127,
+        ocs:C23270,
+        ocs:C24909,
+        ocs:C27258,
+        ocs:C28234,
+        ocs:C28761,
+        ocs:C30561,
+        ocs:C3850,
+        ocs:C41867,
+        ocs:C5467,
+        ocs:C6 .
+

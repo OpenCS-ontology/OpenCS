@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C805 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shared_graphics_memory> ;
+    skos:prefLabel "Shared graphics memory" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11258,
+        ocs:C11493,
+        ocs:C13875,
+        ocs:C14162,
+        ocs:C1904,
+        ocs:C19481,
+        ocs:C21765,
+        ocs:C31754,
+        ocs:C32222,
+        ocs:C38463,
+        ocs:C45155,
+        ocs:C5463,
+        ocs:C5702,
+        ocs:C9,
+        ocs:C9486 .
+

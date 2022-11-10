@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12380 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Active_vision> ;
+    skos:prefLabel "Active vision" ;
+    skos:related ocs:C12972,
+        ocs:C17236,
+        ocs:C17469,
+        ocs:C24194,
+        ocs:C24784,
+        ocs:C25249,
+        ocs:C27770,
+        ocs:C30149,
+        ocs:C32156,
+        ocs:C37694,
+        ocs:C41132,
+        ocs:C44174,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C7732,
+        ocs:C7911,
+        ocs:C948,
+        ocs:C9603 .
+

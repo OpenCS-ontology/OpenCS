@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31120 a skos:Concept ;
+    skos:broader ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Red-giant_branch> ;
+    skos:prefLabel "Red-giant branch" ;
+    skos:related ocs:C19549,
+        ocs:C20206,
+        ocs:C21307,
+        ocs:C21884,
+        ocs:C22542,
+        ocs:C22649,
+        ocs:C24129,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C29212,
+        ocs:C30109,
+        ocs:C30948,
+        ocs:C31116,
+        ocs:C31399,
+        ocs:C31785,
+        ocs:C34819,
+        ocs:C597 .
+

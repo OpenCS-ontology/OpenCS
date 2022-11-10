@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20255 a skos:Concept ;
+    skos:broader ocs:C10569 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_television> ;
+    skos:prefLabel "Social television" ;
+    skos:related ocs:C10569,
+        ocs:C11026,
+        ocs:C17658,
+        ocs:C18697,
+        ocs:C18985,
+        ocs:C21919,
+        ocs:C22956,
+        ocs:C2674,
+        ocs:C35703,
+        ocs:C4433,
+        ocs:C5917,
+        ocs:C6757,
+        ocs:C8614,
+        ocs:C9113 .
+

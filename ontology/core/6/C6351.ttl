@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6351 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C31,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Online_research_community> ;
+    skos:prefLabel "Online research community" ;
+    skos:related ocs:C10057,
+        ocs:C11026,
+        ocs:C16586,
+        ocs:C18683,
+        ocs:C4712,
+        ocs:C5520,
+        ocs:C9774 .
+

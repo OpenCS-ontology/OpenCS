@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41792 a skos:Concept ;
+    skos:broader ocs:C36536 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_aggregation> ;
+    skos:prefLabel "Disk aggregation" ;
+    skos:related ocs:C10059,
+        ocs:C10501,
+        ocs:C11129,
+        ocs:C13423,
+        ocs:C14412,
+        ocs:C17846,
+        ocs:C18559,
+        ocs:C1858,
+        ocs:C27019,
+        ocs:C32389,
+        ocs:C39275,
+        ocs:C42252,
+        ocs:C43337,
+        ocs:C43541,
+        ocs:C7622,
+        ocs:C8326,
+        ocs:C8809 .
+

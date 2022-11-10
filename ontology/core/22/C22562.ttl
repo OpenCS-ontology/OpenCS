@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22562 a skos:Concept ;
+    skos:broader ocs:C1399 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_awareness> ;
+    skos:prefLabel "Security awareness" ;
+    skos:related ocs:C13368,
+        ocs:C1399,
+        ocs:C17567,
+        ocs:C2060,
+        ocs:C20937,
+        ocs:C22122,
+        ocs:C29210,
+        ocs:C2941,
+        ocs:C34793,
+        ocs:C35,
+        ocs:C35810,
+        ocs:C36171,
+        ocs:C39626,
+        ocs:C40111,
+        ocs:C4218,
+        ocs:C699,
+        ocs:C7804,
+        ocs:C8711 .
+

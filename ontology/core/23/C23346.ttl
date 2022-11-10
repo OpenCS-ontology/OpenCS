@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23346 a skos:Concept ;
+    skos:broader ocs:C6912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_variation> ;
+    skos:prefLabel "Total variation" ;
+    skos:related ocs:C11150,
+        ocs:C1844,
+        ocs:C30507,
+        ocs:C33860,
+        ocs:C39746,
+        ocs:C40662,
+        ocs:C45388 .
+

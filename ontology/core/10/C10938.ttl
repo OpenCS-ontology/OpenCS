@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10938 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/MMX_(instruction_set)> ;
+    skos:prefLabel "MMX" ;
+    skos:related ocs:C10320,
+        ocs:C11258,
+        ocs:C14856,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C2939,
+        ocs:C29728,
+        ocs:C38427,
+        ocs:C38463,
+        ocs:C39896,
+        ocs:C42142,
+        ocs:C44500,
+        ocs:C6410,
+        ocs:C856,
+        ocs:C9542,
+        ocs:C9897 .
+

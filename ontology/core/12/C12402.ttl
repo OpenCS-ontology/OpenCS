@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12402 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/TIPC> ;
+    skos:prefLabel "TIPC" ;
+    skos:related ocs:C11084,
+        ocs:C11550,
+        ocs:C12917,
+        ocs:C15589,
+        ocs:C16608,
+        ocs:C1806,
+        ocs:C18213,
+        ocs:C20125,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C24563,
+        ocs:C30500,
+        ocs:C32718,
+        ocs:C3391,
+        ocs:C37732,
+        ocs:C38032,
+        ocs:C38818,
+        ocs:C686,
+        ocs:C7167,
+        ocs:C9 .
+

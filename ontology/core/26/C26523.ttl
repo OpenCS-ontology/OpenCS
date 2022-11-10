@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26523 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C6473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Port_mirroring> ;
+    skos:prefLabel "Port mirroring" ;
+    skos:related ocs:C10774,
+        ocs:C11106,
+        ocs:C13307,
+        ocs:C13786,
+        ocs:C13857,
+        ocs:C14134,
+        ocs:C17919,
+        ocs:C25123,
+        ocs:C25361,
+        ocs:C26,
+        ocs:C27923,
+        ocs:C28520,
+        ocs:C2935,
+        ocs:C34593,
+        ocs:C40449,
+        ocs:C41338,
+        ocs:C42174,
+        ocs:C44711,
+        ocs:C490 .
+

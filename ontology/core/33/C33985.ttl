@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33985 a skos:Concept ;
+    skos:broader ocs:C25667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cav1.2> ;
+    skos:prefLabel "Cav1.2" ;
+    skos:related ocs:C25667,
+        ocs:C33530,
+        ocs:C34425,
+        ocs:C35611,
+        ocs:C37490,
+        ocs:C38379,
+        ocs:C41272,
+        ocs:C45393 .
+

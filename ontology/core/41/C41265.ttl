@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41265 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C32918,
+        ocs:C35806 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hilbert_R-tree> ;
+    skos:prefLabel "Hilbert R-tree" ;
+    skos:related ocs:C11641,
+        ocs:C13296,
+        ocs:C20046,
+        ocs:C20539,
+        ocs:C2541,
+        ocs:C25440,
+        ocs:C26515,
+        ocs:C26753,
+        ocs:C2720,
+        ocs:C29767,
+        ocs:C36311,
+        ocs:C37685,
+        ocs:C3788,
+        ocs:C40658,
+        ocs:C7401,
+        ocs:C8452,
+        ocs:C8893 .
+

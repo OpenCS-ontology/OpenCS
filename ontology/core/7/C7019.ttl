@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7019 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Design_paradigm> ;
+    skos:prefLabel "Design paradigm" ;
+    skos:related ocs:C1,
+        ocs:C10781,
+        ocs:C12293,
+        ocs:C1253,
+        ocs:C15478,
+        ocs:C16530,
+        ocs:C17238,
+        ocs:C2215,
+        ocs:C23709,
+        ocs:C42315,
+        ocs:C43774,
+        ocs:C44634,
+        ocs:C45883,
+        ocs:C7180 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42313 a skos:Concept ;
+    skos:broader ocs:C29732,
+        ocs:C30108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupts_in_65xx_processors> ;
+    skos:prefLabel "Interrupts in 65xx processors" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C24590,
+        ocs:C31346,
+        ocs:C35009,
+        ocs:C45375,
+        ocs:C6280,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

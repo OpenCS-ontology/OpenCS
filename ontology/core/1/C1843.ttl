@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1843 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nexus_(standard)> ;
+    skos:prefLabel "Nexus (standard)" ;
+    skos:related ocs:C11,
+        ocs:C22530,
+        ocs:C2649,
+        ocs:C28881,
+        ocs:C31771,
+        ocs:C44123,
+        ocs:C6172,
+        ocs:C74,
+        ocs:C8783,
+        ocs:C9442 .
+

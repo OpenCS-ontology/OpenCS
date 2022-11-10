@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23444 a skos:Concept ;
+    skos:broader ocs:C11445 ;
+    skos:closeMatch <http://dbpedia.org/resource/Precision_approach_radar> ;
+    skos:prefLabel "Precision approach radar" ;
+    skos:related ocs:C11445,
+        ocs:C11579,
+        ocs:C12648,
+        ocs:C14308,
+        ocs:C15050,
+        ocs:C15283,
+        ocs:C17981,
+        ocs:C20572,
+        ocs:C26346,
+        ocs:C30277,
+        ocs:C30470,
+        ocs:C41676,
+        ocs:C42471,
+        ocs:C4597,
+        ocs:C4979 .
+

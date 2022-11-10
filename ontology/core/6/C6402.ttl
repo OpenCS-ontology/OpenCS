@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6402 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hamming_distance> ;
+    skos:prefLabel "Hamming distance" ;
+    skos:related ocs:C13787,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C3189,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C37998,
+        ocs:C39452,
+        ocs:C40267,
+        ocs:C43079,
+        ocs:C44130,
+        ocs:C44265,
+        ocs:C44415,
+        ocs:C44441,
+        ocs:C5037,
+        ocs:C5816 .
+

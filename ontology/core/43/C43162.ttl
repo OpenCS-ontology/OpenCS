@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43162 a skos:Concept ;
+    skos:broader ocs:C35425 ;
+    skos:closeMatch <http://dbpedia.org/resource/Adaptive_traffic_control> ;
+    skos:prefLabel "Adaptive traffic control" ;
+    skos:related ocs:C11869,
+        ocs:C20874,
+        ocs:C24019,
+        ocs:C24884,
+        ocs:C29481,
+        ocs:C34503,
+        ocs:C35425,
+        ocs:C4917,
+        ocs:C6243,
+        ocs:C9100 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29621 a skos:Concept ;
+    skos:broader ocs:C24236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pangasianodon> ;
+    skos:prefLabel "Pangasianodon" ;
+    skos:related ocs:C29638,
+        ocs:C32617,
+        ocs:C36214,
+        ocs:C38348,
+        ocs:C40766,
+        ocs:C43000 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19628 a skos:Concept ;
+    skos:broader ocs:C6692,
+        ocs:C9781 ;
+    skos:closeMatch <http://dbpedia.org/resource/TrueSkill> ;
+    skos:prefLabel "TrueSkill" ;
+    skos:related ocs:C11608,
+        ocs:C14161,
+        ocs:C14620,
+        ocs:C16169,
+        ocs:C18293,
+        ocs:C23888,
+        ocs:C30115,
+        ocs:C31627,
+        ocs:C32133,
+        ocs:C36314,
+        ocs:C36372,
+        ocs:C3987,
+        ocs:C42748,
+        ocs:C9781 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20446 a skos:Concept ;
+    skos:broader ocs:C12694 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extract,_transform,_load> ;
+    skos:prefLabel "Extract, transform, load" ;
+    skos:related ocs:C10444,
+        ocs:C10979,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C14239,
+        ocs:C18025,
+        ocs:C23505,
+        ocs:C27200,
+        ocs:C33744,
+        ocs:C35459,
+        ocs:C36358,
+        ocs:C36510,
+        ocs:C3896,
+        ocs:C6,
+        ocs:C6225 .
+

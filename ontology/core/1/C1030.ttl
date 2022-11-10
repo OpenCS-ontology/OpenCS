@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1030 a skos:Concept ;
+    skos:broader ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Methods_of_production> ;
+    skos:prefLabel "Methods of production" ;
+    skos:related ocs:C13372,
+        ocs:C15611,
+        ocs:C8228 .
+

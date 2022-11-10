@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5519 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convenience_function> ;
+    skos:prefLabel "Convenience function" ;
+    skos:related ocs:C10243,
+        ocs:C13045,
+        ocs:C1333,
+        ocs:C14350,
+        ocs:C17204,
+        ocs:C19,
+        ocs:C2009,
+        ocs:C2057,
+        ocs:C23867,
+        ocs:C25549,
+        ocs:C39152,
+        ocs:C40193,
+        ocs:C41659,
+        ocs:C44346,
+        ocs:C44708,
+        ocs:C45210,
+        ocs:C45618,
+        ocs:C4937,
+        ocs:C5049 .
+

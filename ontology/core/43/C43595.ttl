@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43595 a skos:Concept ;
+    skos:broader ocs:C34593,
+        ocs:C36080,
+        ocs:C36135,
+        ocs:C36766 ;
+    skos:closeMatch <http://dbpedia.org/resource/AX.25> ;
+    skos:prefLabel "AX.25" ;
+    skos:related ocs:C1398,
+        ocs:C1455,
+        ocs:C15589,
+        ocs:C20314,
+        ocs:C20540,
+        ocs:C23155,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C29726,
+        ocs:C30342,
+        ocs:C3039,
+        ocs:C36766,
+        ocs:C39720,
+        ocs:C40505,
+        ocs:C42692,
+        ocs:C44663,
+        ocs:C45653,
+        ocs:C6861,
+        ocs:C8614 .
+

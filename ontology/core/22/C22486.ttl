@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22486 a skos:Concept ;
+    skos:broader ocs:C7502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modulation_(music)> ;
+    skos:prefLabel "Modulation (music)" ;
+    skos:related ocs:C15599,
+        ocs:C36629,
+        ocs:C38381 .
+

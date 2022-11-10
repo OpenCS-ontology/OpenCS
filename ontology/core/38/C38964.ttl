@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38964 a skos:Concept ;
+    skos:broader ocs:C31343,
+        ocs:C33709,
+        ocs:C35567 ;
+    skos:closeMatch <http://dbpedia.org/resource/PCDATA> ;
+    skos:prefLabel "PCDATA" ;
+    skos:related ocs:C11927,
+        ocs:C16159,
+        ocs:C20790,
+        ocs:C23027,
+        ocs:C24783,
+        ocs:C26656,
+        ocs:C28801,
+        ocs:C31343,
+        ocs:C33709,
+        ocs:C36380,
+        ocs:C39286,
+        ocs:C39420,
+        ocs:C40147,
+        ocs:C41537,
+        ocs:C42905,
+        ocs:C43819,
+        ocs:C44193,
+        ocs:C45472,
+        ocs:C5670 .
+

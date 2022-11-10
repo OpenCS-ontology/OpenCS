@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15956 a skos:Concept ;
+    skos:broader ocs:C1834 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hickam's_dictum> ;
+    skos:prefLabel "Hickam's dictum" ;
+    skos:related ocs:C1021,
+        ocs:C1834,
+        ocs:C23302,
+        ocs:C34894,
+        ocs:C36758,
+        ocs:C5093 .
+

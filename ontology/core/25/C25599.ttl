@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25599 a skos:Concept ;
+    skos:broader ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Depth_map> ;
+    skos:prefLabel "Depth map" ;
+    skos:related ocs:C13745,
+        ocs:C1381,
+        ocs:C1394,
+        ocs:C18519,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C25137,
+        ocs:C2703,
+        ocs:C2881,
+        ocs:C2883,
+        ocs:C29600,
+        ocs:C32394,
+        ocs:C36940,
+        ocs:C38430,
+        ocs:C41077,
+        ocs:C4646,
+        ocs:C6951,
+        ocs:C8021,
+        ocs:C9690 .
+

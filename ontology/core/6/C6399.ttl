@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6399 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lazy_loading> ;
+    skos:prefLabel "Lazy loading" ;
+    skos:related ocs:C10552,
+        ocs:C10720,
+        ocs:C12455,
+        ocs:C16530,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C25684,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C34129,
+        ocs:C3850,
+        ocs:C40401,
+        ocs:C42211,
+        ocs:C43722,
+        ocs:C44286,
+        ocs:C6,
+        ocs:C7870 .
+

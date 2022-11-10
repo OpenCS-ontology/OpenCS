@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9705 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/C-trie> ;
+    skos:prefLabel "C-trie" ;
+    skos:related ocs:C13296,
+        ocs:C13312,
+        ocs:C18220,
+        ocs:C19299,
+        ocs:C19305,
+        ocs:C29767,
+        ocs:C33701,
+        ocs:C34223,
+        ocs:C35996,
+        ocs:C3788,
+        ocs:C38546,
+        ocs:C38552,
+        ocs:C40144,
+        ocs:C40594,
+        ocs:C40658,
+        ocs:C42178,
+        ocs:C44893,
+        ocs:C45739,
+        ocs:C752,
+        ocs:C8522 .
+

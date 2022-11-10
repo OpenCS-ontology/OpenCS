@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13256 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mean_opinion_score> ;
+    skos:prefLabel "Mean opinion score" ;
+    skos:related ocs:C16043,
+        ocs:C17433,
+        ocs:C22407,
+        ocs:C22654,
+        ocs:C25891,
+        ocs:C26268,
+        ocs:C27611,
+        ocs:C28281,
+        ocs:C29174,
+        ocs:C29603,
+        ocs:C30760,
+        ocs:C31651,
+        ocs:C37498,
+        ocs:C39501,
+        ocs:C4095,
+        ocs:C4197,
+        ocs:C45044,
+        ocs:C45148,
+        ocs:C8306 .
+

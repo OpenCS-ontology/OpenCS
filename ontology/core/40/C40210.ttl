@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40210 a skos:Concept ;
+    skos:broader ocs:C31693,
+        ocs:C33252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Java_2D> ;
+    skos:prefLabel "Java 2D" ;
+    skos:related ocs:C1142,
+        ocs:C13155,
+        ocs:C14627,
+        ocs:C15059,
+        ocs:C15642,
+        ocs:C19229,
+        ocs:C20066,
+        ocs:C22,
+        ocs:C22284,
+        ocs:C24235,
+        ocs:C24871,
+        ocs:C26700,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C32547,
+        ocs:C39149,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C5702,
+        ocs:C9 .
+

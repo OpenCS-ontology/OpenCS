@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27051 a skos:Concept ;
+    skos:broader ocs:C6913 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stockbridge_damper> ;
+    skos:prefLabel "Stockbridge damper" ;
+    skos:related ocs:C13218,
+        ocs:C14154 .
+

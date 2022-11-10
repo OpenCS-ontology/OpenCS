@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35660 a skos:Concept ;
+    skos:broader ocs:C18985 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_banner> ;
+    skos:prefLabel "Web banner" ;
+    skos:related ocs:C11116,
+        ocs:C13681,
+        ocs:C16338,
+        ocs:C18985,
+        ocs:C19674,
+        ocs:C20461,
+        ocs:C2592,
+        ocs:C29564,
+        ocs:C31,
+        ocs:C31169,
+        ocs:C33206,
+        ocs:C36323,
+        ocs:C40049,
+        ocs:C42101,
+        ocs:C43157,
+        ocs:C43295,
+        ocs:C8614 .
+

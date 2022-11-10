@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37758 a skos:Concept ;
+    skos:broader ocs:C16257 ;
+    skos:prefLabel "Crouch gait" ;
+    skos:related ocs:C20806,
+        ocs:C33475 .
+

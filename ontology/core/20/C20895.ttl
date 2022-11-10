@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20895 a skos:Concept ;
+    skos:broader ocs:C8706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dirty_data> ;
+    skos:prefLabel "Dirty data" ;
+    skos:related ocs:C13,
+        ocs:C13767,
+        ocs:C14239,
+        ocs:C18383,
+        ocs:C23505,
+        ocs:C26351,
+        ocs:C26941,
+        ocs:C27019,
+        ocs:C3034,
+        ocs:C34481,
+        ocs:C36535,
+        ocs:C38026,
+        ocs:C41190,
+        ocs:C6,
+        ocs:C7161,
+        ocs:C7651 .
+

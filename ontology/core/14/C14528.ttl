@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14528 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_graph> ;
+    skos:prefLabel "Social graph" ;
+    skos:related ocs:C10691,
+        ocs:C11026,
+        ocs:C14693,
+        ocs:C14853,
+        ocs:C15047,
+        ocs:C17671,
+        ocs:C20170,
+        ocs:C21919,
+        ocs:C25141,
+        ocs:C25752,
+        ocs:C2674,
+        ocs:C28521,
+        ocs:C32056,
+        ocs:C4652 .
+

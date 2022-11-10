@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42137 a skos:Concept ;
+    skos:broader ocs:C35568 ;
+    skos:closeMatch <http://dbpedia.org/resource/Object_language> ;
+    skos:prefLabel "Object language" ;
+    skos:related ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C13749,
+        ocs:C19,
+        ocs:C2418,
+        ocs:C25442,
+        ocs:C28277,
+        ocs:C2978,
+        ocs:C39107,
+        ocs:C39481,
+        ocs:C45295,
+        ocs:C45525,
+        ocs:C4557,
+        ocs:C524,
+        ocs:C6047,
+        ocs:C8080,
+        ocs:C8635,
+        ocs:C8697 .
+

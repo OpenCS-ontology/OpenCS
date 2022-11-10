@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38538 a skos:Concept ;
+    skos:broader ocs:C33059,
+        ocs:C36950 ;
+    skos:prefLabel "Black bullhead" ;
+    skos:related ocs:C36189,
+        ocs:C40856 .
+

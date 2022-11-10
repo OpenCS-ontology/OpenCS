@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5107 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_ascent_parser> ;
+    skos:prefLabel "Recursive ascent parser" ;
+    skos:related ocs:C28579,
+        ocs:C30921,
+        ocs:C31160,
+        ocs:C31850,
+        ocs:C33609,
+        ocs:C37487,
+        ocs:C38591,
+        ocs:C39400,
+        ocs:C40293,
+        ocs:C40588,
+        ocs:C40875,
+        ocs:C40905,
+        ocs:C41257,
+        ocs:C41349,
+        ocs:C42877,
+        ocs:C43346,
+        ocs:C45431,
+        ocs:C45758,
+        ocs:C8313,
+        ocs:C8564 .
+

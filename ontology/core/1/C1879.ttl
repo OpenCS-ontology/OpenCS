@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1879 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Independent_component_analysis> ;
+    skos:prefLabel "Independent component analysis" ;
+    skos:related ocs:C14859,
+        ocs:C21710,
+        ocs:C22399,
+        ocs:C24605,
+        ocs:C25,
+        ocs:C25862,
+        ocs:C26767,
+        ocs:C31695,
+        ocs:C4256,
+        ocs:C5505,
+        ocs:C6591,
+        ocs:C6822,
+        ocs:C6912,
+        ocs:C795,
+        ocs:C9022 .
+

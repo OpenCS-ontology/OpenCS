@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38832 a skos:Concept ;
+    skos:broader ocs:C32085 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ocean_planet> ;
+    skos:prefLabel "Ocean planet" ;
+    skos:related ocs:C26524,
+        ocs:C29898,
+        ocs:C30006,
+        ocs:C32085,
+        ocs:C34570,
+        ocs:C38054,
+        ocs:C40516,
+        ocs:C42352,
+        ocs:C42491,
+        ocs:C42700,
+        ocs:C45206,
+        ocs:C597 .
+

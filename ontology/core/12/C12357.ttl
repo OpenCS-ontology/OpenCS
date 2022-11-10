@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12357 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C9 ;
+    skos:prefLabel "Test request" ;
+    skos:related ocs:C2,
+        ocs:C33,
+        ocs:C4099,
+        ocs:C4237,
+        ocs:C6999,
+        ocs:C8566 .
+

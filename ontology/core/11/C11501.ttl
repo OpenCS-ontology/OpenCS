@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11501 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/JOVIAL> ;
+    skos:prefLabel "JOVIAL" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C11775,
+        ocs:C13101,
+        ocs:C17204,
+        ocs:C18469,
+        ocs:C19,
+        ocs:C22666,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C5425,
+        ocs:C6024,
+        ocs:C659,
+        ocs:C6714,
+        ocs:C7289,
+        ocs:C9,
+        ocs:C9035 .
+

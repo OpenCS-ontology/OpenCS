@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32550 a skos:Concept ;
+    skos:broader ocs:C15802,
+        ocs:C16104,
+        ocs:C17272,
+        ocs:C23025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Broadcast_Service> ;
+    skos:prefLabel "Global Broadcast Service" ;
+    skos:related ocs:C10732,
+        ocs:C11201,
+        ocs:C12111,
+        ocs:C26814,
+        ocs:C27966,
+        ocs:C29419,
+        ocs:C3,
+        ocs:C37973,
+        ocs:C39574,
+        ocs:C40298,
+        ocs:C43823,
+        ocs:C44035,
+        ocs:C45627 .
+

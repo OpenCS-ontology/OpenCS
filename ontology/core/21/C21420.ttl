@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21420 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constraint_Grammar> ;
+    skos:prefLabel "Constraint Grammar" ;
+    skos:related ocs:C1034,
+        ocs:C12696,
+        ocs:C14181,
+        ocs:C15475,
+        ocs:C18082,
+        ocs:C20121,
+        ocs:C2298,
+        ocs:C23608,
+        ocs:C24499,
+        ocs:C24691,
+        ocs:C3145,
+        ocs:C34937,
+        ocs:C36437,
+        ocs:C43158,
+        ocs:C5311,
+        ocs:C5852,
+        ocs:C8454,
+        ocs:C8564,
+        ocs:C961 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6288 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Granularity> ;
+    skos:prefLabel "Granularity" ;
+    skos:related ocs:C10320,
+        ocs:C10720,
+        ocs:C11927,
+        ocs:C12736,
+        ocs:C1333,
+        ocs:C26155,
+        ocs:C27,
+        ocs:C2979,
+        ocs:C597,
+        ocs:C6,
+        ocs:C7735,
+        ocs:C8614,
+        ocs:C9 .
+

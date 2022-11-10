@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2589 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Simplexity> ;
+    skos:prefLabel "Simplexity" ;
+    skos:related ocs:C11866,
+        ocs:C14592,
+        ocs:C15024,
+        ocs:C20012,
+        ocs:C21018,
+        ocs:C2421,
+        ocs:C29,
+        ocs:C5496,
+        ocs:C5863,
+        ocs:C6118,
+        ocs:C6134,
+        ocs:C8127 .
+

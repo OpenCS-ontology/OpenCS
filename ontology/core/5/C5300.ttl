@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5300 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Physics_engine> ;
+    skos:prefLabel "Physics engine" ;
+    skos:related ocs:C17237,
+        ocs:C1904,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C223,
+        ocs:C24871,
+        ocs:C26812,
+        ocs:C28240,
+        ocs:C28881,
+        ocs:C29060,
+        ocs:C31489,
+        ocs:C41902,
+        ocs:C45682,
+        ocs:C5533,
+        ocs:C8,
+        ocs:C8399 .
+

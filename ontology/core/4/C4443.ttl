@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4443 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Title_page> ;
+    skos:prefLabel "Title page" ;
+    skos:related ocs:C10220,
+        ocs:C24661,
+        ocs:C3621,
+        ocs:C5746,
+        ocs:C8203 .
+

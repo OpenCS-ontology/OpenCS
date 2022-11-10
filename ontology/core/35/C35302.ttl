@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35302 a skos:Concept ;
+    skos:broader ocs:C18293,
+        ocs:C25711 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-sectional_regression> ;
+    skos:prefLabel "Cross-sectional regression" ;
+    skos:related ocs:C21236,
+        ocs:C26888,
+        ocs:C29661,
+        ocs:C3065,
+        ocs:C38453,
+        ocs:C38662,
+        ocs:C4873,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C9428 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41796 a skos:Concept ;
+    skos:broader ocs:C31283,
+        ocs:C37597 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normal-inverse_Gaussian_distribution> ;
+    skos:prefLabel "Normal-inverse Gaussian distribution" ;
+    skos:related ocs:C14100,
+        ocs:C16163,
+        ocs:C21356,
+        ocs:C25668,
+        ocs:C34746,
+        ocs:C39274,
+        ocs:C43609 .
+

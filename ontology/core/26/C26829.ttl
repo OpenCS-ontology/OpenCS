@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26829 a skos:Concept ;
+    skos:broader ocs:C12974,
+        ocs:C13366,
+        ocs:C8441 ;
+    skos:closeMatch <http://dbpedia.org/resource/TI_Explorer> ;
+    skos:prefLabel "TI Explorer" ;
+    skos:related ocs:C10616,
+        ocs:C11990,
+        ocs:C14317,
+        ocs:C16609,
+        ocs:C20942,
+        ocs:C2512,
+        ocs:C258,
+        ocs:C28761,
+        ocs:C28809,
+        ocs:C29292,
+        ocs:C3418,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C41368,
+        ocs:C4269,
+        ocs:C5409,
+        ocs:C8,
+        ocs:C8441 .
+

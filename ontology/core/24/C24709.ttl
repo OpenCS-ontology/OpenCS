@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24709 a skos:Concept ;
+    skos:broader ocs:C8710 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexical_database> ;
+    skos:prefLabel "Lexical database" ;
+    skos:related ocs:C11932,
+        ocs:C12672,
+        ocs:C12696,
+        ocs:C1451,
+        ocs:C16425,
+        ocs:C17796,
+        ocs:C1948,
+        ocs:C1952,
+        ocs:C23928,
+        ocs:C2761,
+        ocs:C28748,
+        ocs:C29567,
+        ocs:C32,
+        ocs:C45685,
+        ocs:C6,
+        ocs:C6018,
+        ocs:C8454,
+        ocs:C8710 .
+

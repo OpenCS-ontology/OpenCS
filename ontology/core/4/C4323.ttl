@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4323 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/JREAP> ;
+    skos:prefLabel "JREAP" ;
+    skos:related ocs:C12005,
+        ocs:C16536,
+        ocs:C21945,
+        ocs:C23155,
+        ocs:C26,
+        ocs:C28737,
+        ocs:C29872,
+        ocs:C30929,
+        ocs:C33931,
+        ocs:C35931,
+        ocs:C3968,
+        ocs:C6117,
+        ocs:C7617,
+        ocs:C9176,
+        ocs:C9224,
+        ocs:C9931 .
+

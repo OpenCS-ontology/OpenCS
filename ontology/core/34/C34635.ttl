@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34635 a skos:Concept ;
+    skos:broader ocs:C17717 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semigroupoid> ;
+    skos:prefLabel "Semigroupoid" ;
+    skos:related ocs:C23657,
+        ocs:C24248,
+        ocs:C31988 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22481 a skos:Concept ;
+    skos:broader ocs:C931 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ophelimity> ;
+    skos:prefLabel "Ophelimity" ;
+    skos:related ocs:C18406,
+        ocs:C19168,
+        ocs:C24842,
+        ocs:C931 .
+

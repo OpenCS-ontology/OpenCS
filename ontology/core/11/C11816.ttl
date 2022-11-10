@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11816 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Type_signature> ;
+    skos:prefLabel "Type signature" ;
+    skos:related ocs:C10384,
+        ocs:C10608,
+        ocs:C10720,
+        ocs:C1083,
+        ocs:C12108,
+        ocs:C1333,
+        ocs:C16569,
+        ocs:C19,
+        ocs:C25570,
+        ocs:C27131,
+        ocs:C28944,
+        ocs:C3087,
+        ocs:C5308,
+        ocs:C6255,
+        ocs:C6918,
+        ocs:C6941 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3634 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-text> ;
+    skos:prefLabel "E-text" ;
+    skos:related ocs:C10386,
+        ocs:C1051,
+        ocs:C11927,
+        ocs:C13608,
+        ocs:C1498,
+        ocs:C15008,
+        ocs:C22568,
+        ocs:C23162,
+        ocs:C24783,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C3077,
+        ocs:C31,
+        ocs:C4916,
+        ocs:C5113,
+        ocs:C5126,
+        ocs:C8614,
+        ocs:C9162 .
+

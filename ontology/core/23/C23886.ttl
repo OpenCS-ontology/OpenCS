@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23886 a skos:Concept ;
+    skos:broader ocs:C5621 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small-angle_approximation> ;
+    skos:prefLabel "Small-angle approximation" ;
+    skos:related ocs:C13541,
+        ocs:C18521,
+        ocs:C25918,
+        ocs:C38313,
+        ocs:C39778,
+        ocs:C40788 .
+

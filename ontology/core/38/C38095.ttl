@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38095 a skos:Concept ;
+    skos:broader ocs:C33154,
+        ocs:C35042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kidnapped_robot_problem> ;
+    skos:prefLabel "Kidnapped robot problem" ;
+    skos:related ocs:C10396,
+        ocs:C14326,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17396,
+        ocs:C23110,
+        ocs:C26400,
+        ocs:C28127,
+        ocs:C31485,
+        ocs:C33579,
+        ocs:C33737,
+        ocs:C34991,
+        ocs:C35042,
+        ocs:C36567,
+        ocs:C36944,
+        ocs:C44174,
+        ocs:C44350,
+        ocs:C44924 .
+

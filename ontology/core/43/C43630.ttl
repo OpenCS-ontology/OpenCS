@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43630 a skos:Concept ;
+    skos:broader ocs:C32222,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Write-only_memory_(joke)> ;
+    skos:prefLabel "Write-only memory (joke)" ;
+    skos:related ocs:C10106,
+        ocs:C12280,
+        ocs:C14162,
+        ocs:C38449,
+        ocs:C41999,
+        ocs:C4259,
+        ocs:C43497,
+        ocs:C45812,
+        ocs:C4703,
+        ocs:C5970,
+        ocs:C7007,
+        ocs:C7072,
+        ocs:C9908 .
+

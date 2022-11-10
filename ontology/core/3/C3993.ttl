@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3993 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PoweredUSB> ;
+    skos:prefLabel "PoweredUSB" ;
+    skos:related ocs:C10270,
+        ocs:C12755,
+        ocs:C16368,
+        ocs:C22559,
+        ocs:C6403,
+        ocs:C7234 .
+

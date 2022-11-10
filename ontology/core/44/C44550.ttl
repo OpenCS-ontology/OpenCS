@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44550 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C33916,
+        ocs:C36508 ;
+    skos:prefLabel "Resource description framework triple" .
+

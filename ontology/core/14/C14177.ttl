@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14177 a skos:Concept ;
+    skos:broader ocs:C12148,
+        ocs:C13047,
+        ocs:C3057,
+        ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rote_learning> ;
+    skos:prefLabel "Rote learning" ;
+    skos:related ocs:C13047,
+        ocs:C19943,
+        ocs:C25,
+        ocs:C3057,
+        ocs:C764,
+        ocs:C8 .
+

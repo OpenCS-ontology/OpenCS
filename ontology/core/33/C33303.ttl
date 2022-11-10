@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33303 a skos:Concept ;
+    skos:broader ocs:C20986 ;
+    skos:closeMatch <http://dbpedia.org/resource/Projection_keyboard> ;
+    skos:prefLabel "Projection keyboard" ;
+    skos:related ocs:C10368,
+        ocs:C1042,
+        ocs:C11700,
+        ocs:C13065,
+        ocs:C20986,
+        ocs:C21755,
+        ocs:C26790,
+        ocs:C27445,
+        ocs:C29012,
+        ocs:C3284,
+        ocs:C5063,
+        ocs:C5086,
+        ocs:C5702,
+        ocs:C6069 .
+

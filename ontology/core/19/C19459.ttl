@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19459 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shallow_parsing> ;
+    skos:prefLabel "Shallow parsing" ;
+    skos:related ocs:C1040,
+        ocs:C11030,
+        ocs:C12696,
+        ocs:C13872,
+        ocs:C14631,
+        ocs:C16,
+        ocs:C20679,
+        ocs:C20954,
+        ocs:C25,
+        ocs:C27805,
+        ocs:C3056,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C431,
+        ocs:C5852,
+        ocs:C6764,
+        ocs:C8564,
+        ocs:C8576 .
+

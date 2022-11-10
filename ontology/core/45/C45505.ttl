@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45505 a skos:Concept ;
+    skos:broader ocs:C36232 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computable_measure_theory> ;
+    skos:prefLabel "Computable measure theory" ;
+    skos:related ocs:C28804,
+        ocs:C32491,
+        ocs:C35365,
+        ocs:C36232,
+        ocs:C39746 .
+

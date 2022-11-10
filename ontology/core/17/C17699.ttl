@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17699 a skos:Concept ;
+    skos:broader ocs:C1399 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security_service_(telecommunication)> ;
+    skos:prefLabel "Security service" ;
+    skos:related ocs:C10565,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C21952,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C3039,
+        ocs:C35,
+        ocs:C38304,
+        ocs:C38530,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C39724,
+        ocs:C41865,
+        ocs:C41901,
+        ocs:C7804,
+        ocs:C9931 .
+

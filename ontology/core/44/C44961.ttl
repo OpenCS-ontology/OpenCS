@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44961 a skos:Concept ;
+    skos:broader ocs:C33953 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_game_packaging> ;
+    skos:prefLabel "Video game packaging" ;
+    skos:related ocs:C11262,
+        ocs:C12257,
+        ocs:C18764,
+        ocs:C19670,
+        ocs:C2135,
+        ocs:C24143,
+        ocs:C28881,
+        ocs:C33979,
+        ocs:C35621,
+        ocs:C4916,
+        ocs:C5533,
+        ocs:C6234,
+        ocs:C7255,
+        ocs:C8614 .
+

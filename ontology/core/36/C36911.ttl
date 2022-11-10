@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36911 a skos:Concept ;
+    skos:broader ocs:C15457,
+        ocs:C25821,
+        ocs:C29478 ;
+    skos:closeMatch <http://dbpedia.org/resource/XPDL> ;
+    skos:prefLabel "XPDL" ;
+    skos:related ocs:C10052,
+        ocs:C11927,
+        ocs:C24477,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C30649,
+        ocs:C32662,
+        ocs:C3395,
+        ocs:C34477,
+        ocs:C35299,
+        ocs:C37370,
+        ocs:C38285,
+        ocs:C41187,
+        ocs:C42373,
+        ocs:C44699,
+        ocs:C45047,
+        ocs:C5500,
+        ocs:C5869 .
+

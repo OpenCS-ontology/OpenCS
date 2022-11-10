@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8711 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Access_control> ;
+    skos:prefLabel "Access control" ;
+    skos:related ocs:C1399,
+        ocs:C17656,
+        ocs:C22450,
+        ocs:C26648,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C36171,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C4917,
+        ocs:C5692,
+        ocs:C6133,
+        ocs:C699,
+        ocs:C7006,
+        ocs:C8437,
+        ocs:C9,
+        ocs:C9489 .
+

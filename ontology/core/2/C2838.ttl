@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2838 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/E_language> ;
+    skos:prefLabel "E language" ;
+    skos:related ocs:C10570,
+        ocs:C11398,
+        ocs:C1304,
+        ocs:C17262,
+        ocs:C2025,
+        ocs:C25152,
+        ocs:C25538,
+        ocs:C37693,
+        ocs:C6505,
+        ocs:C7310 .
+

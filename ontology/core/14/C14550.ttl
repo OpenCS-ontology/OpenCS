@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14550 a skos:Concept ;
+    skos:broader ocs:C3356 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexical_diffusion> ;
+    skos:prefLabel "Lexical diffusion" ;
+    skos:related ocs:C13210,
+        ocs:C18698,
+        ocs:C2114,
+        ocs:C25166,
+        ocs:C25834,
+        ocs:C27881,
+        ocs:C29289,
+        ocs:C3356,
+        ocs:C5628,
+        ocs:C9777 .
+

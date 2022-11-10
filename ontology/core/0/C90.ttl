@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C90 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guess_value> ;
+    skos:prefLabel "Guess value" ;
+    skos:related ocs:C13633,
+        ocs:C14921,
+        ocs:C17733,
+        ocs:C20013,
+        ocs:C20325,
+        ocs:C24152,
+        ocs:C25,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C29424,
+        ocs:C31698,
+        ocs:C33143,
+        ocs:C42785,
+        ocs:C44532,
+        ocs:C7553,
+        ocs:C9428,
+        ocs:C9779 .
+

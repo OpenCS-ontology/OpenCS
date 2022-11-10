@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38765 a skos:Concept ;
+    skos:broader ocs:C32296,
+        ocs:C33729,
+        ocs:C35398 ;
+    skos:closeMatch <http://dbpedia.org/resource/Inode_pointer_structure> ;
+    skos:prefLabel "inode pointer structure" ;
+    skos:related ocs:C11531,
+        ocs:C13783,
+        ocs:C19902,
+        ocs:C20800,
+        ocs:C26754,
+        ocs:C37404,
+        ocs:C38346,
+        ocs:C40763,
+        ocs:C42619,
+        ocs:C43104,
+        ocs:C44098,
+        ocs:C45497,
+        ocs:C7476,
+        ocs:C8457 .
+

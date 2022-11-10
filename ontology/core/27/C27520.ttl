@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27520 a skos:Concept ;
+    skos:broader ocs:C11932,
+        ocs:C539 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agent_noun> ;
+    skos:prefLabel "Agent noun" ;
+    skos:related ocs:C11932,
+        ocs:C14834,
+        ocs:C18845,
+        ocs:C1952,
+        ocs:C20016,
+        ocs:C21988,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C25257,
+        ocs:C26884,
+        ocs:C30961,
+        ocs:C44227,
+        ocs:C4755,
+        ocs:C539,
+        ocs:C6545,
+        ocs:C8283 .
+

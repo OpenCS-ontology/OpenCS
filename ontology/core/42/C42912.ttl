@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42912 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Collection_Tree_Protocol> ;
+    skos:prefLabel "Collection Tree Protocol" ;
+    skos:related ocs:C10563,
+        ocs:C22819,
+        ocs:C26066,
+        ocs:C29052,
+        ocs:C34221,
+        ocs:C36109,
+        ocs:C38231,
+        ocs:C38451,
+        ocs:C38835,
+        ocs:C41259,
+        ocs:C41572,
+        ocs:C42792,
+        ocs:C43135,
+        ocs:C43513,
+        ocs:C43619,
+        ocs:C44229,
+        ocs:C44565,
+        ocs:C45498 .
+

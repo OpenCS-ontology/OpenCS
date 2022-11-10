@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43012 a skos:Concept ;
+    skos:broader ocs:C36109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Route_reflector> ;
+    skos:prefLabel "Route reflector" ;
+    skos:related ocs:C10563,
+        ocs:C14321,
+        ocs:C1741,
+        ocs:C21894,
+        ocs:C26066,
+        ocs:C35362,
+        ocs:C38451,
+        ocs:C38672,
+        ocs:C40397,
+        ocs:C41206,
+        ocs:C41259,
+        ocs:C42853,
+        ocs:C43513,
+        ocs:C44229,
+        ocs:C45517,
+        ocs:C45818,
+        ocs:C6961,
+        ocs:C8142,
+        ocs:C8197,
+        ocs:C8517 .
+

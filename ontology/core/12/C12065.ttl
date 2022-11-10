@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12065 a skos:Concept ;
+    skos:broader ocs:C28,
+        ocs:C29,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Feature_interaction_problem> ;
+    skos:prefLabel "Feature interaction problem" ;
+    skos:related ocs:C1,
+        ocs:C1035,
+        ocs:C14,
+        ocs:C1495,
+        ocs:C2214,
+        ocs:C28,
+        ocs:C28454,
+        ocs:C29460,
+        ocs:C34398,
+        ocs:C35202,
+        ocs:C35739,
+        ocs:C37174,
+        ocs:C37447,
+        ocs:C6027,
+        ocs:C6462,
+        ocs:C924,
+        ocs:C947 .
+

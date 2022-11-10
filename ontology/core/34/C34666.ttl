@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34666 a skos:Concept ;
+    skos:broader ocs:C24320,
+        ocs:C27399 ;
+    skos:closeMatch <http://dbpedia.org/resource/Asymptotic_computational_complexity> ;
+    skos:prefLabel "Asymptotic computational complexity" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C18221,
+        ocs:C2355,
+        ocs:C23562,
+        ocs:C24320,
+        ocs:C25338,
+        ocs:C28639,
+        ocs:C29,
+        ocs:C32771,
+        ocs:C3678,
+        ocs:C41388,
+        ocs:C42752,
+        ocs:C44312,
+        ocs:C5193,
+        ocs:C611,
+        ocs:C8660,
+        ocs:C9252 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2319 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge_building> ;
+    skos:prefLabel "Knowledge building" ;
+    skos:related ocs:C10070,
+        ocs:C11646,
+        ocs:C11657,
+        ocs:C17658,
+        ocs:C24564,
+        ocs:C26813,
+        ocs:C37105,
+        ocs:C3835,
+        ocs:C4174 .
+

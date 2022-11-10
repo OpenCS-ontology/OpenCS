@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41751 a skos:Concept ;
+    skos:broader ocs:C36280 ;
+    skos:closeMatch <http://dbpedia.org/resource/Military_Grid_Reference_System> ;
+    skos:prefLabel "Military grid reference system" ;
+    skos:related ocs:C16293,
+        ocs:C25689,
+        ocs:C32581,
+        ocs:C37444,
+        ocs:C7918,
+        ocs:C8708 .
+

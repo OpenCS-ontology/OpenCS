@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41987 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C36310,
+        ocs:C36628,
+        ocs:C36729 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_mapper_pattern> ;
+    skos:prefLabel "Data mapper pattern" ;
+    skos:related ocs:C12185,
+        ocs:C15786,
+        ocs:C16530,
+        ocs:C25508,
+        ocs:C27258,
+        ocs:C3004,
+        ocs:C30561,
+        ocs:C31841,
+        ocs:C3850,
+        ocs:C39143,
+        ocs:C40626,
+        ocs:C43774,
+        ocs:C44346,
+        ocs:C45736,
+        ocs:C7395 .
+

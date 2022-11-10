@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21766 a skos:Concept ;
+    skos:broader ocs:C5974 ;
+    skos:closeMatch <http://dbpedia.org/resource/Temporal_Process_Language> ;
+    skos:prefLabel "Temporal Process Language" ;
+    skos:related ocs:C1,
+        ocs:C12693,
+        ocs:C16910,
+        ocs:C17971,
+        ocs:C18357,
+        ocs:C24326,
+        ocs:C24649,
+        ocs:C25382,
+        ocs:C27,
+        ocs:C28502,
+        ocs:C32014,
+        ocs:C36771,
+        ocs:C37100,
+        ocs:C3990,
+        ocs:C5974 .
+

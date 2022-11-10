@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3522 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Video_Broadcasting> ;
+    skos:prefLabel "Digital Video Broadcasting" ;
+    skos:related ocs:C11323,
+        ocs:C12544,
+        ocs:C18697,
+        ocs:C18701,
+        ocs:C20140,
+        ocs:C22326,
+        ocs:C27081,
+        ocs:C27103,
+        ocs:C27572,
+        ocs:C30311,
+        ocs:C32488,
+        ocs:C33691,
+        ocs:C34890,
+        ocs:C35276,
+        ocs:C35819,
+        ocs:C36807,
+        ocs:C38826,
+        ocs:C4433 .
+

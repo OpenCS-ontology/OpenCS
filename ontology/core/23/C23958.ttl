@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23958 a skos:Concept ;
+    skos:broader ocs:C747 ;
+    skos:closeMatch <http://dbpedia.org/resource/Brightness_temperature> ;
+    skos:prefLabel "Brightness temperature" ;
+    skos:related ocs:C12484,
+        ocs:C19222,
+        ocs:C597 .
+

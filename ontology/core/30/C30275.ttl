@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30275 a skos:Concept ;
+    skos:broader ocs:C22028,
+        ocs:C22394 ;
+    skos:closeMatch <http://dbpedia.org/resource/IsaPlanner> ;
+    skos:prefLabel "IsaPlanner" ;
+    skos:related ocs:C12474,
+        ocs:C13511,
+        ocs:C22394,
+        ocs:C23846,
+        ocs:C2418,
+        ocs:C27091,
+        ocs:C28286,
+        ocs:C40165,
+        ocs:C41703,
+        ocs:C4756,
+        ocs:C6390,
+        ocs:C6941,
+        ocs:C7459,
+        ocs:C852 .
+

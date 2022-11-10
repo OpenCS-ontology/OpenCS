@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25871 a skos:Concept ;
+    skos:broader ocs:C4597,
+        ocs:C9720 ;
+    skos:closeMatch <http://dbpedia.org/resource/National_Airspace_System> ;
+    skos:prefLabel "National Airspace System" ;
+    skos:related ocs:C15050,
+        ocs:C18229,
+        ocs:C18996,
+        ocs:C22979,
+        ocs:C23477,
+        ocs:C25295,
+        ocs:C26346,
+        ocs:C28140,
+        ocs:C29896,
+        ocs:C31946,
+        ocs:C4220,
+        ocs:C4597,
+        ocs:C511,
+        ocs:C5357 .
+

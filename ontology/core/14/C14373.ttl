@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14373 a skos:Concept ;
+    skos:broader ocs:C10327,
+        ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Answer_set_programming> ;
+    skos:prefLabel "Answer set programming" ;
+    skos:related ocs:C10327,
+        ocs:C11812,
+        ocs:C12977,
+        ocs:C19908,
+        ocs:C21264,
+        ocs:C2418,
+        ocs:C2807,
+        ocs:C2872,
+        ocs:C31724,
+        ocs:C32228,
+        ocs:C34323,
+        ocs:C38602,
+        ocs:C39073,
+        ocs:C44864,
+        ocs:C45174,
+        ocs:C5561,
+        ocs:C6531,
+        ocs:C8,
+        ocs:C9450 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5307 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/C10k_problem> ;
+    skos:prefLabel "C10k problem" ;
+    skos:related ocs:C12812,
+        ocs:C17235,
+        ocs:C17609,
+        ocs:C22597,
+        ocs:C22903,
+        ocs:C24131,
+        ocs:C25917,
+        ocs:C27112,
+        ocs:C28341,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C34170,
+        ocs:C36777,
+        ocs:C39128,
+        ocs:C40132,
+        ocs:C8577 .
+

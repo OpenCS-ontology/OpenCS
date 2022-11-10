@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39141 a skos:Concept ;
+    skos:broader ocs:C30500 ;
+    skos:closeMatch <http://dbpedia.org/resource/UDP_flood_attack> ;
+    skos:prefLabel "UDP flood attack" ;
+    skos:related ocs:C10008,
+        ocs:C18502,
+        ocs:C18921,
+        ocs:C22407,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C29359,
+        ocs:C30500,
+        ocs:C31257,
+        ocs:C33034,
+        ocs:C41222,
+        ocs:C4129,
+        ocs:C41338,
+        ocs:C43272,
+        ocs:C44968,
+        ocs:C45254,
+        ocs:C6002,
+        ocs:C6473 .
+

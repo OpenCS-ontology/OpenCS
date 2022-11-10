@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44579 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_package_metrics> ;
+    skos:prefLabel "Software package metrics" ;
+    skos:related ocs:C14405,
+        ocs:C25139,
+        ocs:C26339,
+        ocs:C29427,
+        ocs:C31691,
+        ocs:C31751,
+        ocs:C34078,
+        ocs:C35676,
+        ocs:C37672,
+        ocs:C38960,
+        ocs:C39488,
+        ocs:C41532,
+        ocs:C42395,
+        ocs:C45366 .
+

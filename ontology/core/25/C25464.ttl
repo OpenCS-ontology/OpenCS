@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25464 a skos:Concept ;
+    skos:broader ocs:C2979 ;
+    skos:closeMatch <http://dbpedia.org/resource/Management_information_system> ;
+    skos:prefLabel "Management information systems" ;
+    skos:related ocs:C1,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C2529,
+        ocs:C28,
+        ocs:C2979,
+        ocs:C29870,
+        ocs:C4768,
+        ocs:C9328 .
+

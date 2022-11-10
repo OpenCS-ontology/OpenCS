@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20881 a skos:Concept ;
+    skos:broader ocs:C5336 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_Mezzanine_Card> ;
+    skos:prefLabel "Advanced Mezzanine Card" ;
+    skos:related ocs:C14691,
+        ocs:C2084,
+        ocs:C490,
+        ocs:C521,
+        ocs:C9642 .
+

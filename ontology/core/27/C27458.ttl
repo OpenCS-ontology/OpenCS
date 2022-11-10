@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27458 a skos:Concept ;
+    skos:broader ocs:C10389 ;
+    skos:closeMatch <http://dbpedia.org/resource/Term_logic> ;
+    skos:prefLabel "Term logic" ;
+    skos:related ocs:C10825,
+        ocs:C1092,
+        ocs:C11060,
+        ocs:C11088,
+        ocs:C12474,
+        ocs:C16440,
+        ocs:C2418,
+        ocs:C28014,
+        ocs:C2978,
+        ocs:C30651,
+        ocs:C4206,
+        ocs:C43307,
+        ocs:C9834 .
+

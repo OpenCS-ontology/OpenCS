@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39573 a skos:Concept ;
+    skos:broader ocs:C34715,
+        ocs:C34791,
+        ocs:C35163,
+        ocs:C35368,
+        ocs:C35865,
+        ocs:C36445,
+        ocs:C36814 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cycles_and_fixed_points> ;
+    skos:prefLabel "Cycles and fixed points" ;
+    skos:related ocs:C11282,
+        ocs:C11771,
+        ocs:C17052,
+        ocs:C18099,
+        ocs:C18804,
+        ocs:C25685,
+        ocs:C29280,
+        ocs:C36814,
+        ocs:C40487 .
+

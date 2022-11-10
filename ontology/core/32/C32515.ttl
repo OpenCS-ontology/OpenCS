@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32515 a skos:Concept ;
+    skos:broader ocs:C26066,
+        ocs:C28122 ;
+    skos:closeMatch <http://dbpedia.org/resource/Packet_drop_attack> ;
+    skos:prefLabel "Packet drop attack" ;
+    skos:related ocs:C15065,
+        ocs:C20330,
+        ocs:C20540,
+        ocs:C20691,
+        ocs:C23965,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26066,
+        ocs:C27557,
+        ocs:C28520,
+        ocs:C33034,
+        ocs:C34796,
+        ocs:C38632,
+        ocs:C41222,
+        ocs:C41338,
+        ocs:C42173,
+        ocs:C43272,
+        ocs:C43526,
+        ocs:C43538,
+        ocs:C45399 .
+

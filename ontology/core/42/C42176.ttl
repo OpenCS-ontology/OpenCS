@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42176 a skos:Concept ;
+    skos:broader ocs:C36328 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phenacobius_mirabilis> ;
+    skos:prefLabel "Phenacobius mirabilis" ;
+    skos:related ocs:C14451,
+        ocs:C22834 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34787 a skos:Concept ;
+    skos:broader ocs:C16802 ;
+    skos:closeMatch <http://dbpedia.org/resource/Relaxed_stability> ;
+    skos:prefLabel "Relaxed stability" ;
+    skos:related ocs:C16191,
+        ocs:C25150,
+        ocs:C36804,
+        ocs:C511 .
+

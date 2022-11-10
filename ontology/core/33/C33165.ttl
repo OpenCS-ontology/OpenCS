@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33165 a skos:Concept ;
+    skos:broader ocs:C28947 ;
+    skos:closeMatch <http://dbpedia.org/resource/English_subjunctive> ;
+    skos:prefLabel "English subjunctive" ;
+    skos:related ocs:C18046,
+        ocs:C20905,
+        ocs:C22749,
+        ocs:C2370,
+        ocs:C25015,
+        ocs:C25696,
+        ocs:C26467,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C36868 .
+

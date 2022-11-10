@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23916 a skos:Concept ;
+    skos:broader ocs:C4257 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hermite_constant> ;
+    skos:prefLabel "Hermite constant" ;
+    skos:related ocs:C36503,
+        ocs:C43605 .
+

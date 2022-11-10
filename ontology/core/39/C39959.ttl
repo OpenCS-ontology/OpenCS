@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39959 a skos:Concept ;
+    skos:broader ocs:C36950 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ictaluridae> ;
+    skos:prefLabel "Ictaluridae" ;
+    skos:related ocs:C24236,
+        ocs:C31573,
+        ocs:C33059,
+        ocs:C34324,
+        ocs:C36286,
+        ocs:C36328,
+        ocs:C36867,
+        ocs:C37403,
+        ocs:C39463,
+        ocs:C39792 .
+

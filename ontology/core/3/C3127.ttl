@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3127 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bélády's_anomaly> ;
+    skos:prefLabel "Bélády's anomaly" ;
+    skos:related ocs:C1242,
+        ocs:C17698,
+        ocs:C25960,
+        ocs:C30274,
+        ocs:C36439,
+        ocs:C38368,
+        ocs:C38819,
+        ocs:C39282,
+        ocs:C393,
+        ocs:C39456,
+        ocs:C39623,
+        ocs:C40313,
+        ocs:C41159,
+        ocs:C41277,
+        ocs:C42695,
+        ocs:C5337,
+        ocs:C8782,
+        ocs:C9,
+        ocs:C9600 .
+

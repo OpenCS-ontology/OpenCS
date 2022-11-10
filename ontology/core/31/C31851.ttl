@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31851 a skos:Concept ;
+    skos:broader ocs:C17734,
+        ocs:C20907 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Lisp_Object_System> ;
+    skos:prefLabel "Common Lisp Object System" ;
+    skos:related ocs:C10182,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C1142,
+        ocs:C12057,
+        ocs:C16290,
+        ocs:C16569,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C22063,
+        ocs:C22971,
+        ocs:C23181,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C29292,
+        ocs:C5308,
+        ocs:C8441 .
+

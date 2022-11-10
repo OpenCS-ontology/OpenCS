@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20431 a skos:Concept ;
+    skos:broader ocs:C11297,
+        ocs:C12759 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phonetic_algorithm> ;
+    skos:prefLabel "Phonetic algorithm" ;
+    skos:related ocs:C11213,
+        ocs:C11297,
+        ocs:C12486,
+        ocs:C12759,
+        ocs:C17677,
+        ocs:C19812,
+        ocs:C21251,
+        ocs:C2847,
+        ocs:C3614,
+        ocs:C3741,
+        ocs:C4397,
+        ocs:C4755,
+        ocs:C6237,
+        ocs:C6239,
+        ocs:C6449,
+        ocs:C6459,
+        ocs:C8020 .
+

@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20533 a skos:Concept ;
+    skos:broader ocs:C12974 ;
+    skos:prefLabel "Translator/interpreter" ;
+    skos:related ocs:C26108,
+        ocs:C32,
+        ocs:C8 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35429 a skos:Concept ;
+    skos:broader ocs:C21360 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_filter_array> ;
+    skos:prefLabel "Color filter array" ;
+    skos:related ocs:C12580,
+        ocs:C13065,
+        ocs:C20871,
+        ocs:C29365,
+        ocs:C38815,
+        ocs:C39878,
+        ocs:C44628,
+        ocs:C5854,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C8021 .
+

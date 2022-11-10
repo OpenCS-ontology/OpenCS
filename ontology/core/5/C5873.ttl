@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5873 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/X/Open_Transport_Interface> ;
+    skos:prefLabel "X/Open Transport Interface" ;
+    skos:related ocs:C10135,
+        ocs:C10992,
+        ocs:C16953,
+        ocs:C18862,
+        ocs:C24323,
+        ocs:C25938,
+        ocs:C29000,
+        ocs:C29359,
+        ocs:C29612,
+        ocs:C3039,
+        ocs:C32268,
+        ocs:C37732,
+        ocs:C3968,
+        ocs:C42619,
+        ocs:C443,
+        ocs:C686,
+        ocs:C6861,
+        ocs:C7865,
+        ocs:C9105 .
+

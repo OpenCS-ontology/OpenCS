@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35311 a skos:Concept ;
+    skos:broader ocs:C25509 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge-based_theory_of_the_firm> ;
+    skos:prefLabel "Knowledge-based theory of the firm" ;
+    skos:related ocs:C11021,
+        ocs:C11657,
+        ocs:C11762,
+        ocs:C11782,
+        ocs:C12,
+        ocs:C1332,
+        ocs:C28742,
+        ocs:C804 .
+

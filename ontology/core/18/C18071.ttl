@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18071 a skos:Concept ;
+    skos:broader ocs:C10965,
+        ocs:C2582,
+        ocs:C6797 ;
+    skos:closeMatch <http://dbpedia.org/resource/Repeater_insertion> ;
+    skos:prefLabel "Repeater insertion" ;
+    skos:related ocs:C2582,
+        ocs:C41756,
+        ocs:C8291 .
+

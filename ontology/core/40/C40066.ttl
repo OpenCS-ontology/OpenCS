@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40066 a skos:Concept ;
+    skos:broader ocs:C31198 ;
+    skos:closeMatch <http://dbpedia.org/resource/Freivalds'_algorithm> ;
+    skos:prefLabel "Freivalds' algorithm" ;
+    skos:related ocs:C10,
+        ocs:C28639,
+        ocs:C29978,
+        ocs:C34666,
+        ocs:C39123,
+        ocs:C43106,
+        ocs:C45821,
+        ocs:C6537,
+        ocs:C8660,
+        ocs:C9252 .
+

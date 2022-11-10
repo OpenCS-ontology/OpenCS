@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38158 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/IDEF5> ;
+    skos:prefLabel "IDEF5" ;
+    skos:related ocs:C1,
+        ocs:C13152,
+        ocs:C13744,
+        ocs:C14316,
+        ocs:C2414,
+        ocs:C24477,
+        ocs:C25681,
+        ocs:C28,
+        ocs:C3396,
+        ocs:C41350,
+        ocs:C41877,
+        ocs:C42440,
+        ocs:C43341,
+        ocs:C43378,
+        ocs:C45752,
+        ocs:C5552,
+        ocs:C5869,
+        ocs:C7500,
+        ocs:C8171 .
+

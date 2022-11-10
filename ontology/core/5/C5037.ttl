@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5037 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Gray_code> ;
+    skos:prefLabel "Gray code" ;
+    skos:related ocs:C16377,
+        ocs:C18626,
+        ocs:C19230,
+        ocs:C21929,
+        ocs:C25850,
+        ocs:C26814,
+        ocs:C27316,
+        ocs:C27882,
+        ocs:C30001,
+        ocs:C35138,
+        ocs:C39452,
+        ocs:C43079,
+        ocs:C44935,
+        ocs:C6402,
+        ocs:C7502,
+        ocs:C9162 .
+

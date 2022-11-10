@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10348 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unidirectional_network> ;
+    skos:prefLabel "Unidirectional network" ;
+    skos:related ocs:C11540,
+        ocs:C12052,
+        ocs:C1399,
+        ocs:C15478,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C20205,
+        ocs:C2060,
+        ocs:C22597,
+        ocs:C23855,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C29359,
+        ocs:C29434,
+        ocs:C3757,
+        ocs:C3968,
+        ocs:C8614,
+        ocs:C9105 .
+

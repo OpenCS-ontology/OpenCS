@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5233 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Literal_translation> ;
+    skos:prefLabel "Literal translation" ;
+    skos:related ocs:C16718,
+        ocs:C2298,
+        ocs:C2847,
+        ocs:C5852,
+        ocs:C6764,
+        ocs:C7531 .
+

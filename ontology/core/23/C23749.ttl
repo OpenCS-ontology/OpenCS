@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23749 a skos:Concept ;
+    skos:broader ocs:C12918 ;
+    skos:closeMatch <http://dbpedia.org/resource/Address_bus> ;
+    skos:prefLabel "Address bus" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C11,
+        ocs:C11047,
+        ocs:C11258,
+        ocs:C14162,
+        ocs:C15,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C3231,
+        ocs:C37538,
+        ocs:C41110,
+        ocs:C45812,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C856 .
+

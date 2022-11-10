@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3709 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:prefLabel "Literature citation" ;
+    skos:related ocs:C17,
+        ocs:C34,
+        ocs:C8614 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4039 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timation> ;
+    skos:prefLabel "Timation" ;
+    skos:related ocs:C12641,
+        ocs:C18988,
+        ocs:C19672,
+        ocs:C22220,
+        ocs:C22328,
+        ocs:C27698,
+        ocs:C30565,
+        ocs:C34811,
+        ocs:C36895,
+        ocs:C37214,
+        ocs:C41676,
+        ocs:C41939,
+        ocs:C6311,
+        ocs:C7648,
+        ocs:C8560 .
+

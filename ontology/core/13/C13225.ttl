@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13225 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_cryptography> ;
+    skos:prefLabel "Geometric cryptography" ;
+    skos:related ocs:C13541,
+        ocs:C14164,
+        ocs:C16125,
+        ocs:C17661,
+        ocs:C29363,
+        ocs:C29968,
+        ocs:C34451,
+        ocs:C35391,
+        ocs:C35807,
+        ocs:C38957,
+        ocs:C4218 .
+

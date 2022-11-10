@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14927 a skos:Concept ;
+    skos:broader ocs:C1631,
+        ocs:C3678,
+        ocs:C7766,
+        ocs:C8660,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Implicit_computational_complexity> ;
+    skos:prefLabel "Implicit computational complexity" .
+

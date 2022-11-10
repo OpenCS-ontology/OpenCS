@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13530 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:prefLabel "Alert priority" ;
+    skos:related ocs:C12999,
+        ocs:C26,
+        ocs:C3,
+        ocs:C35,
+        ocs:C3892,
+        ocs:C4099,
+        ocs:C515,
+        ocs:C5745 .
+

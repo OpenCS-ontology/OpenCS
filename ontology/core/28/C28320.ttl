@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28320 a skos:Concept ;
+    skos:broader ocs:C12098,
+        ocs:C12427,
+        ocs:C5610 ;
+    skos:prefLabel "Partial order methods" .
+

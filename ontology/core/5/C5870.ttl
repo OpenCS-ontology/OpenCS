@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5870 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dash> ;
+    skos:prefLabel "Dash" ;
+    skos:related ocs:C11288,
+        ocs:C12983,
+        ocs:C13253,
+        ocs:C1805,
+        ocs:C1860,
+        ocs:C2023,
+        ocs:C26353,
+        ocs:C5126,
+        ocs:C6293,
+        ocs:C6416,
+        ocs:C7064,
+        ocs:C7131,
+        ocs:C9162,
+        ocs:C9606 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20747 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Artificial_Intelligence_System> ;
+    skos:prefLabel "Artificial Intelligence System" ;
+    skos:related ocs:C12475,
+        ocs:C12585,
+        ocs:C12760,
+        ocs:C17234,
+        ocs:C3848,
+        ocs:C3932,
+        ocs:C6996,
+        ocs:C8,
+        ocs:C9022,
+        ocs:C9091 .
+

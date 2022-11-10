@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21622 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypernova> ;
+    skos:prefLabel "Hypernova" ;
+    skos:related ocs:C15342,
+        ocs:C17246,
+        ocs:C22542,
+        ocs:C23535,
+        ocs:C29045,
+        ocs:C29212,
+        ocs:C30862,
+        ocs:C31023,
+        ocs:C34819,
+        ocs:C42345,
+        ocs:C597 .
+

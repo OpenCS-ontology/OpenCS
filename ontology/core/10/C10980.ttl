@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10980 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_module> ;
+    skos:prefLabel "Computer module" ;
+    skos:related ocs:C10965,
+        ocs:C11252,
+        ocs:C12659,
+        ocs:C12781,
+        ocs:C5127,
+        ocs:C8787 .
+

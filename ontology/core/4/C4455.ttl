@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4455 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fact_sheet> ;
+    skos:prefLabel "Fact sheet" ;
+    skos:related ocs:C1090,
+        ocs:C28117,
+        ocs:C31165,
+        ocs:C3231,
+        ocs:C3896,
+        ocs:C425,
+        ocs:C5554,
+        ocs:C6915 .
+

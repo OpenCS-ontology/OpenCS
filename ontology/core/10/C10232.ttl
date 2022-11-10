@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10232 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/DE-9IM> ;
+    skos:prefLabel "DE-9IM" ;
+    skos:related ocs:C12048,
+        ocs:C14626,
+        ocs:C1651,
+        ocs:C2115,
+        ocs:C24208,
+        ocs:C40725,
+        ocs:C44135 .
+

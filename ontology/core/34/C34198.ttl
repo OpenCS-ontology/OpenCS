@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34198 a skos:Concept ;
+    skos:broader ocs:C15462,
+        ocs:C17246,
+        ocs:C23244,
+        ocs:C28402 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galactic_quadrant> ;
+    skos:prefLabel "Galactic quadrant" ;
+    skos:related ocs:C10556,
+        ocs:C17246,
+        ocs:C18299,
+        ocs:C23244,
+        ocs:C25918,
+        ocs:C31953,
+        ocs:C32528,
+        ocs:C35620 .
+

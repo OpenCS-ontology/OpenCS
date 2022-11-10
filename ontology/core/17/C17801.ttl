@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17801 a skos:Concept ;
+    skos:broader ocs:C2197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glossiphoniidae> ;
+    skos:prefLabel "Glossiphoniidae" ;
+    skos:related ocs:C21962,
+        ocs:C23493,
+        ocs:C24128,
+        ocs:C35110,
+        ocs:C35126 .
+

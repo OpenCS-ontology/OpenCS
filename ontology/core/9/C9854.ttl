@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9854 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neural_coding> ;
+    skos:prefLabel "Neural coding" ;
+    skos:related ocs:C20126,
+        ocs:C20847,
+        ocs:C24856,
+        ocs:C34626,
+        ocs:C3932,
+        ocs:C9022 .
+

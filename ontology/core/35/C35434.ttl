@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35434 a skos:Concept ;
+    skos:broader ocs:C16352 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transfer_alignment> ;
+    skos:prefLabel "Transfer alignment" ;
+    skos:related ocs:C16352,
+        ocs:C16720,
+        ocs:C16959,
+        ocs:C21767,
+        ocs:C28796,
+        ocs:C29908,
+        ocs:C34496,
+        ocs:C34932,
+        ocs:C35497,
+        ocs:C40097,
+        ocs:C42201,
+        ocs:C9066,
+        ocs:C9431 .
+

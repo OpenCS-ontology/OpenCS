@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11486 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wire_transfer> ;
+    skos:prefLabel "Wire transfer" ;
+    skos:related ocs:C12752,
+        ocs:C14011,
+        ocs:C15464,
+        ocs:C22753,
+        ocs:C26014,
+        ocs:C26112,
+        ocs:C26695,
+        ocs:C26811,
+        ocs:C26838,
+        ocs:C27327,
+        ocs:C27523,
+        ocs:C30501,
+        ocs:C33193,
+        ocs:C34589,
+        ocs:C7458 .
+

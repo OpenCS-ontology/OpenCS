@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16520 a skos:Concept ;
+    skos:broader ocs:C7995 ;
+    skos:prefLabel "Road traffic vehicle" ;
+    skos:related ocs:C18080,
+        ocs:C24,
+        ocs:C34503,
+        ocs:C5633,
+        ocs:C7,
+        ocs:C8 .
+

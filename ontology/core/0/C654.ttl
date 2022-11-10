@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C654 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Misinformation> ;
+    skos:prefLabel "Misinformation" ;
+    skos:related ocs:C1,
+        ocs:C12845,
+        ocs:C15118,
+        ocs:C18945,
+        ocs:C35,
+        ocs:C5746,
+        ocs:C8068,
+        ocs:C8614,
+        ocs:C9057 .
+

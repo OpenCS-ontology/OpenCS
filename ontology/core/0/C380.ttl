@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C380 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Teletex> ;
+    skos:prefLabel "Teletex" ;
+    skos:related ocs:C11091,
+        ocs:C11347,
+        ocs:C12583,
+        ocs:C13130,
+        ocs:C13718,
+        ocs:C14417,
+        ocs:C2534,
+        ocs:C2917,
+        ocs:C35197,
+        ocs:C40789,
+        ocs:C43509,
+        ocs:C5126,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C9162 .
+

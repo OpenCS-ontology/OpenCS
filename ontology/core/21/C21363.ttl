@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21363 a skos:Concept ;
+    skos:broader ocs:C525 ;
+    skos:closeMatch <http://dbpedia.org/resource/Double_tracking> ;
+    skos:prefLabel "Double tracking" ;
+    skos:related ocs:C11254,
+        ocs:C24238,
+        ocs:C25195,
+        ocs:C39249,
+        ocs:C42394,
+        ocs:C520,
+        ocs:C5790,
+        ocs:C5819,
+        ocs:C6417 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23742 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pretopological_space> ;
+    skos:prefLabel "Pretopological space" ;
+    skos:related ocs:C20317,
+        ocs:C27650,
+        ocs:C41795,
+        ocs:C41900,
+        ocs:C43523,
+        ocs:C44682 .
+

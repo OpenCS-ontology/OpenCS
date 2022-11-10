@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37102 a skos:Concept ;
+    skos:broader ocs:C15473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_coccifera> ;
+    skos:prefLabel "Quercus coccifera" ;
+    skos:related ocs:C15400,
+        ocs:C16945,
+        ocs:C17606,
+        ocs:C18815,
+        ocs:C23738,
+        ocs:C28294,
+        ocs:C28888,
+        ocs:C31901,
+        ocs:C37213,
+        ocs:C37450 .
+

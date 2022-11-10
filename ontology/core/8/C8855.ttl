@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8855 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Simple variant" ;
+    skos:related ocs:C11765,
+        ocs:C29,
+        ocs:C30,
+        ocs:C3401,
+        ocs:C4257,
+        ocs:C611,
+        ocs:C8517 .
+

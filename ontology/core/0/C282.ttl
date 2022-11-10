@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C282 a skos:Concept ;
+    skos:broader ocs:C18,
+        ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_artifact> ;
+    skos:prefLabel "Virtual artifact" ;
+    skos:related ocs:C11927,
+        ocs:C13320,
+        ocs:C14032,
+        ocs:C14701,
+        ocs:C1676,
+        ocs:C2061,
+        ocs:C25786,
+        ocs:C26,
+        ocs:C28803,
+        ocs:C8,
+        ocs:C8614,
+        ocs:C8797,
+        ocs:C9603 .
+

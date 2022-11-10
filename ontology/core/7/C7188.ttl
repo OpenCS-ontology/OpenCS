@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7188 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Automatic_waste_container> ;
+    skos:prefLabel "Automatic waste container" ;
+    skos:related ocs:C10396,
+        ocs:C12696,
+        ocs:C17913,
+        ocs:C19558,
+        ocs:C28127,
+        ocs:C32726,
+        ocs:C34991,
+        ocs:C36316,
+        ocs:C41263,
+        ocs:C45473,
+        ocs:C7,
+        ocs:C7334,
+        ocs:C9265 .
+

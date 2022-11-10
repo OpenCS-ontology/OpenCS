@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C312 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C25,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Latent_semantic_analysis> ;
+    skos:prefLabel "Latent semantic analysis" ;
+    skos:related ocs:C1812,
+        ocs:C23,
+        ocs:C23070,
+        ocs:C25,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C38887,
+        ocs:C39451,
+        ocs:C42910,
+        ocs:C5144,
+        ocs:C5940,
+        ocs:C6912,
+        ocs:C8953,
+        ocs:C9022,
+        ocs:C9287,
+        ocs:C972 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43908 a skos:Concept ;
+    skos:broader ocs:C30925,
+        ocs:C33342 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spline_wavelet> ;
+    skos:prefLabel "Spline wavelet" ;
+    skos:related ocs:C10554,
+        ocs:C11150,
+        ocs:C15775,
+        ocs:C26827,
+        ocs:C28787,
+        ocs:C29473,
+        ocs:C31512,
+        ocs:C39056,
+        ocs:C40380,
+        ocs:C42094,
+        ocs:C43001,
+        ocs:C45115,
+        ocs:C45272,
+        ocs:C8781 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35306 a skos:Concept ;
+    skos:broader ocs:C20121,
+        ocs:C25479,
+        ocs:C27573 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lexical_chain> ;
+    skos:prefLabel "Lexical chain" ;
+    skos:related ocs:C11932,
+        ocs:C12486,
+        ocs:C12759,
+        ocs:C1451,
+        ocs:C15899,
+        ocs:C19232,
+        ocs:C22683,
+        ocs:C4531,
+        ocs:C6283,
+        ocs:C8283,
+        ocs:C83 .
+

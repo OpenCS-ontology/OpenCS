@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19823 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/Broadcast_quality> ;
+    skos:prefLabel "Broadcast quality" ;
+    skos:related ocs:C12430,
+        ocs:C12498,
+        ocs:C12544,
+        ocs:C13973,
+        ocs:C1724,
+        ocs:C19050,
+        ocs:C20316,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C32488,
+        ocs:C38813,
+        ocs:C40628,
+        ocs:C4980,
+        ocs:C520,
+        ocs:C6942,
+        ocs:C8256 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3838 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specifier> ;
+    skos:prefLabel "Specifier" ;
+    skos:related ocs:C1034,
+        ocs:C12270,
+        ocs:C15012,
+        ocs:C15202,
+        ocs:C18082,
+        ocs:C19642,
+        ocs:C20004,
+        ocs:C21988,
+        ocs:C25169,
+        ocs:C26816,
+        ocs:C26896,
+        ocs:C30776,
+        ocs:C3261,
+        ocs:C33168,
+        ocs:C5556,
+        ocs:C6764 .
+

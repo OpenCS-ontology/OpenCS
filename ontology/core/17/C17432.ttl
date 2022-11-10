@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17432 a skos:Concept ;
+    skos:broader ocs:C3843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intermodulation> ;
+    skos:prefLabel "Intermodulation" ;
+    skos:related ocs:C11747,
+        ocs:C14053,
+        ocs:C1564,
+        ocs:C1727,
+        ocs:C18001,
+        ocs:C20333,
+        ocs:C3843,
+        ocs:C4427 .
+

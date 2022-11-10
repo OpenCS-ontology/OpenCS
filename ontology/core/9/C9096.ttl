@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9096 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Preprint> ;
+    skos:prefLabel "Preprint" ;
+    skos:related ocs:C10673,
+        ocs:C11446,
+        ocs:C11462,
+        ocs:C11595,
+        ocs:C13280,
+        ocs:C13698,
+        ocs:C15008,
+        ocs:C1622,
+        ocs:C16778,
+        ocs:C23568,
+        ocs:C406,
+        ocs:C41375,
+        ocs:C5746,
+        ocs:C597,
+        ocs:C8614 .
+

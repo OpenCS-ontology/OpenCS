@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16899 a skos:Concept ;
+    skos:broader ocs:C13210 ;
+    skos:closeMatch <http://dbpedia.org/resource/Japanese_phonology> ;
+    skos:prefLabel "Japanese phonology" ;
+    skos:related ocs:C10570,
+        ocs:C13096,
+        ocs:C13253,
+        ocs:C17105,
+        ocs:C19812,
+        ocs:C23276,
+        ocs:C27886,
+        ocs:C37693,
+        ocs:C41763 .
+

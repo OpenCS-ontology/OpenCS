@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37406 a skos:Concept ;
+    skos:broader ocs:C21421 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_variational_inequality> ;
+    skos:prefLabel "Differential variational inequality" ;
+    skos:related ocs:C16955,
+        ocs:C21421,
+        ocs:C35572,
+        ocs:C3980,
+        ocs:C8754 .
+

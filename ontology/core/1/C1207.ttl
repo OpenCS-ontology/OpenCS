@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1207 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsimulation> ;
+    skos:prefLabel "Microsimulation" ;
+    skos:related ocs:C10997,
+        ocs:C11869,
+        ocs:C20874,
+        ocs:C22762,
+        ocs:C24,
+        ocs:C24019,
+        ocs:C24319,
+        ocs:C28361,
+        ocs:C3390,
+        ocs:C36448,
+        ocs:C37341,
+        ocs:C4694,
+        ocs:C7256,
+        ocs:C9100 .
+

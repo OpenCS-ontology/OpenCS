@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24805 a skos:Concept ;
+    skos:broader ocs:C6473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computer_port_(hardware)> ;
+    skos:prefLabel "Computer port" ;
+    skos:related ocs:C12640,
+        ocs:C2,
+        ocs:C26,
+        ocs:C32920,
+        ocs:C6403,
+        ocs:C7691,
+        ocs:C8718,
+        ocs:C9267 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8442 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Foobar> ;
+    skos:prefLabel "Foobar" ;
+    skos:related ocs:C10284,
+        ocs:C11128,
+        ocs:C15051,
+        ocs:C19,
+        ocs:C23204,
+        ocs:C23909,
+        ocs:C30078,
+        ocs:C35431,
+        ocs:C4342,
+        ocs:C5515,
+        ocs:C5972,
+        ocs:C6248,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C9247 .
+

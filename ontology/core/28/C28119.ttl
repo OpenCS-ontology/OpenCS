@@ -1,0 +1,35 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28119 a skos:Concept ;
+    skos:broader ocs:C1038,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C1443,
+        ocs:C2062,
+        ocs:C5614,
+        ocs:C6749,
+        ocs:C9490 ;
+    skos:closeMatch <http://dbpedia.org/resource/Commonsense_knowledge_(artificial_intelligence)> ;
+    skos:prefLabel "Commonsense knowledge" ;
+    skos:related ocs:C10616,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C136,
+        ocs:C16092,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C25681,
+        ocs:C28117,
+        ocs:C28809,
+        ocs:C32,
+        ocs:C35993,
+        ocs:C3848,
+        ocs:C43845,
+        ocs:C44162,
+        ocs:C5852,
+        ocs:C685,
+        ocs:C8,
+        ocs:C8710,
+        ocs:C928 .
+

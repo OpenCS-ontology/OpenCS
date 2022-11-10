@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5217 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C3 ;
+    skos:prefLabel "Phase Code" ;
+    skos:related ocs:C11443,
+        ocs:C16,
+        ocs:C19230,
+        ocs:C2,
+        ocs:C25,
+        ocs:C28069,
+        ocs:C3,
+        ocs:C3231,
+        ocs:C33,
+        ocs:C4099 .
+

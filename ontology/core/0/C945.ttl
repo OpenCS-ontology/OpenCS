@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C945 a skos:Concept ;
+    skos:broader ocs:C16 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thai_numerals> ;
+    skos:prefLabel "Thai numerals" ;
+    skos:related ocs:C18079,
+        ocs:C18607,
+        ocs:C25038,
+        ocs:C25559,
+        ocs:C3786,
+        ocs:C4048 .
+

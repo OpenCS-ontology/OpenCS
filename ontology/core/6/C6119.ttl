@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6119 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_class> ;
+    skos:prefLabel "Virtual class" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C1142,
+        ocs:C14222,
+        ocs:C15896,
+        ocs:C24970,
+        ocs:C3282,
+        ocs:C36327,
+        ocs:C38027,
+        ocs:C38593,
+        ocs:C40193,
+        ocs:C44346,
+        ocs:C659,
+        ocs:C9046 .
+

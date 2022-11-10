@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24872 a skos:Concept ;
+    skos:broader ocs:C660 ;
+    skos:closeMatch <http://dbpedia.org/resource/Aircraft_ground_handling> ;
+    skos:prefLabel "Aircraft ground handling" ;
+    skos:related ocs:C11445,
+        ocs:C14012,
+        ocs:C20572,
+        ocs:C22758,
+        ocs:C23917,
+        ocs:C4597,
+        ocs:C9437 .
+

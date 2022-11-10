@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2425 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/P_versus_NP_problem> ;
+    skos:prefLabel "P versus NP problem" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C11372,
+        ocs:C20382,
+        ocs:C21625,
+        ocs:C22100,
+        ocs:C2420,
+        ocs:C25360,
+        ocs:C29,
+        ocs:C33982,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C38867,
+        ocs:C41731,
+        ocs:C41758,
+        ocs:C5823,
+        ocs:C619,
+        ocs:C8660,
+        ocs:C9450 .
+

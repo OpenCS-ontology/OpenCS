@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13649 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leibniz_wheel> ;
+    skos:prefLabel "Leibniz wheel" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C16733,
+        ocs:C17802,
+        ocs:C3730,
+        ocs:C44695,
+        ocs:C4703 .
+

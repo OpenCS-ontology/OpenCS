@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3642 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C31,
+        ocs:C6 ;
+    skos:prefLabel "Proposal (document)" ;
+    skos:related ocs:C12,
+        ocs:C17,
+        ocs:C22708,
+        ocs:C23,
+        ocs:C28,
+        ocs:C31 .
+

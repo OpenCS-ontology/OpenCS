@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4966 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dijkstra's_algorithm> ;
+    skos:prefLabel "Dijkstra's algorithm" ;
+    skos:related ocs:C14406,
+        ocs:C16033,
+        ocs:C17158,
+        ocs:C18798,
+        ocs:C19540,
+        ocs:C24885,
+        ocs:C26989,
+        ocs:C27260,
+        ocs:C28232,
+        ocs:C29108,
+        ocs:C32048,
+        ocs:C3339,
+        ocs:C36109,
+        ocs:C38755,
+        ocs:C40680,
+        ocs:C41938,
+        ocs:C43640,
+        ocs:C43738,
+        ocs:C44959,
+        ocs:C6335 .
+

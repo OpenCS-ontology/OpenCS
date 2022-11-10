@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8540 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:prefLabel "Classifieds" ;
+    skos:related ocs:C10444,
+        ocs:C12146,
+        ocs:C15834,
+        ocs:C17,
+        ocs:C21,
+        ocs:C3,
+        ocs:C5,
+        ocs:C8614 .
+

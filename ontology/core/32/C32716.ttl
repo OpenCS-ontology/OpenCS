@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32716 a skos:Concept ;
+    skos:broader ocs:C15250 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sphere_mapping> ;
+    skos:prefLabel "Sphere mapping" ;
+    skos:related ocs:C13854,
+        ocs:C15250,
+        ocs:C18519,
+        ocs:C2118,
+        ocs:C21892,
+        ocs:C22,
+        ocs:C28061,
+        ocs:C29221,
+        ocs:C31166,
+        ocs:C32898,
+        ocs:C331,
+        ocs:C37867,
+        ocs:C39182,
+        ocs:C39953,
+        ocs:C40693 .
+

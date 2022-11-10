@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12597 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Exact_algorithm> ;
+    skos:prefLabel "Exact algorithm" ;
+    skos:related ocs:C11372,
+        ocs:C12530,
+        ocs:C15253,
+        ocs:C18302,
+        ocs:C20720,
+        ocs:C21625,
+        ocs:C2425,
+        ocs:C30401,
+        ocs:C32771,
+        ocs:C3678,
+        ocs:C3837,
+        ocs:C39855,
+        ocs:C41731,
+        ocs:C44250,
+        ocs:C5823,
+        ocs:C8660,
+        ocs:C8944 .
+

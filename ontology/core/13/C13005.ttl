@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13005 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Anisochronous> ;
+    skos:prefLabel "Anisochronous" ;
+    skos:related ocs:C10733,
+        ocs:C15589,
+        ocs:C26734,
+        ocs:C26814,
+        ocs:C27316,
+        ocs:C3,
+        ocs:C3283,
+        ocs:C37232,
+        ocs:C40350,
+        ocs:C7502 .
+

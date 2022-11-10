@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41389 a skos:Concept ;
+    skos:broader ocs:C29902 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normally_distributed_and_uncorrelated_does_not_imply_independent> ;
+    skos:prefLabel "Normally distributed and uncorrelated does not imply independent" ;
+    skos:related ocs:C1844,
+        ocs:C25862,
+        ocs:C29902,
+        ocs:C38568,
+        ocs:C8332,
+        ocs:C9326 .
+

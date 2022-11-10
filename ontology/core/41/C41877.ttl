@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41877 a skos:Concept ;
+    skos:broader ocs:C34321,
+        ocs:C35298,
+        ocs:C35993 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ontology_engineering> ;
+    skos:prefLabel "Ontology engineering" ;
+    skos:related ocs:C1,
+        ocs:C12977,
+        ocs:C1443,
+        ocs:C16356,
+        ocs:C2418,
+        ocs:C25681,
+        ocs:C28,
+        ocs:C28117,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C38158,
+        ocs:C39137,
+        ocs:C39278,
+        ocs:C41158,
+        ocs:C41504,
+        ocs:C45752,
+        ocs:C6553,
+        ocs:C8,
+        ocs:C9836 .
+

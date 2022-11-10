@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29545 a skos:Concept ;
+    skos:broader ocs:C22463 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pool_(computer_science)> ;
+    skos:prefLabel "Pool" ;
+    skos:related ocs:C10720,
+        ocs:C12584,
+        ocs:C14055,
+        ocs:C15786,
+        ocs:C259,
+        ocs:C33621,
+        ocs:C38271,
+        ocs:C39279,
+        ocs:C39485,
+        ocs:C40193,
+        ocs:C43716,
+        ocs:C43822,
+        ocs:C6650,
+        ocs:C9540 .
+

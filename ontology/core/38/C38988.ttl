@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38988 a skos:Concept ;
+    skos:broader ocs:C32293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_technology_consulting> ;
+    skos:prefLabel "Information technology consulting" ;
+    skos:related ocs:C1253,
+        ocs:C13205,
+        ocs:C1332,
+        ocs:C197,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C35701,
+        ocs:C4768,
+        ocs:C7106,
+        ocs:C8614 .
+

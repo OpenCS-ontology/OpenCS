@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3159 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Visual_approach> ;
+    skos:prefLabel "Visual approach" ;
+    skos:related ocs:C11445,
+        ocs:C14697,
+        ocs:C15666,
+        ocs:C16585,
+        ocs:C17981,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C23444,
+        ocs:C23477,
+        ocs:C26346,
+        ocs:C27838,
+        ocs:C33190,
+        ocs:C35629,
+        ocs:C4597 .
+

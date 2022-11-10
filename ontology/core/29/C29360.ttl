@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29360 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4599 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computerized_system_validation> ;
+    skos:prefLabel "Computerized system validation" ;
+    skos:related ocs:C38528,
+        ocs:C45854 .
+

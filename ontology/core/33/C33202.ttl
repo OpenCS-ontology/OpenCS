@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33202 a skos:Concept ;
+    skos:broader ocs:C26380 ;
+    skos:closeMatch <http://dbpedia.org/resource/PRISM_model_checker> ;
+    skos:prefLabel "PRISM model checker" ;
+    skos:related ocs:C12098,
+        ocs:C13408,
+        ocs:C14081,
+        ocs:C17916,
+        ocs:C22974,
+        ocs:C23140,
+        ocs:C29173,
+        ocs:C31892,
+        ocs:C35744,
+        ocs:C36984,
+        ocs:C39751,
+        ocs:C43302,
+        ocs:C44231,
+        ocs:C4756,
+        ocs:C6183,
+        ocs:C7689,
+        ocs:C7903 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36232 a skos:Concept ;
+    skos:broader ocs:C24483 ;
+    skos:closeMatch <http://dbpedia.org/resource/Computable_analysis> ;
+    skos:prefLabel "Computable analysis" ;
+    skos:related ocs:C10,
+        ocs:C24265,
+        ocs:C28635,
+        ocs:C39884,
+        ocs:C40182 .
+

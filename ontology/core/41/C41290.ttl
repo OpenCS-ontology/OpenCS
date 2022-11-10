@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41290 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C32129,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Second-order_propositional_logic> ;
+    skos:prefLabel "Second-order propositional logic" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C13855,
+        ocs:C17807,
+        ocs:C17884,
+        ocs:C21946,
+        ocs:C2418,
+        ocs:C24858,
+        ocs:C29013,
+        ocs:C30014,
+        ocs:C32129,
+        ocs:C3360,
+        ocs:C40719,
+        ocs:C41782,
+        ocs:C45548,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

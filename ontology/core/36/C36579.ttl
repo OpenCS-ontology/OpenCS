@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36579 a skos:Concept ;
+    skos:broader ocs:C19876 ;
+    skos:closeMatch <http://dbpedia.org/resource/LAM/MPI> ;
+    skos:prefLabel "LAM/MPI" ;
+    skos:related ocs:C12690,
+        ocs:C14627,
+        ocs:C15477,
+        ocs:C15884,
+        ocs:C19544,
+        ocs:C19876,
+        ocs:C19936,
+        ocs:C26030,
+        ocs:C26345,
+        ocs:C27,
+        ocs:C34193,
+        ocs:C36502,
+        ocs:C40330,
+        ocs:C5766,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8032 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3689 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Site_Multihoming_by_IPv6_Intermediation> ;
+    skos:prefLabel "Site Multihoming by IPv6 Intermediation" ;
+    skos:related ocs:C11550,
+        ocs:C18213,
+        ocs:C19227,
+        ocs:C20540,
+        ocs:C28911,
+        ocs:C29359,
+        ocs:C33957,
+        ocs:C34174,
+        ocs:C35177,
+        ocs:C35362,
+        ocs:C36475,
+        ocs:C36863,
+        ocs:C37995,
+        ocs:C38451,
+        ocs:C38783,
+        ocs:C39941,
+        ocs:C42815,
+        ocs:C42853,
+        ocs:C443,
+        ocs:C45698 .
+

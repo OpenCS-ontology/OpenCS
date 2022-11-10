@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14991 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heawood_number> ;
+    skos:prefLabel "Heawood number" ;
+    skos:related ocs:C14693,
+        ocs:C16406,
+        ocs:C24988,
+        ocs:C26774,
+        ocs:C36406,
+        ocs:C37036,
+        ocs:C39100,
+        ocs:C39334,
+        ocs:C40165,
+        ocs:C40560,
+        ocs:C41797,
+        ocs:C43652,
+        ocs:C45513 .
+

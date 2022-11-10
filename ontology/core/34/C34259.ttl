@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34259 a skos:Concept ;
+    skos:broader ocs:C14159,
+        ocs:C19949 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_Draft> ;
+    skos:prefLabel "Internet Draft" ;
+    skos:related ocs:C11927,
+        ocs:C13252,
+        ocs:C14952,
+        ocs:C14983,
+        ocs:C16980,
+        ocs:C18213,
+        ocs:C19949,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C23851,
+        ocs:C24131,
+        ocs:C24285,
+        ocs:C24323,
+        ocs:C25296,
+        ocs:C26,
+        ocs:C5975,
+        ocs:C8614,
+        ocs:C9931 .
+

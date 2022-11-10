@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36854 a skos:Concept ;
+    skos:broader ocs:C22370 ;
+    skos:closeMatch <http://dbpedia.org/resource/Copyright_misuse> ;
+    skos:prefLabel "Copyright misuse" ;
+    skos:related ocs:C13306,
+        ocs:C18764,
+        ocs:C24730,
+        ocs:C30696,
+        ocs:C32165,
+        ocs:C32306,
+        ocs:C33117 .
+

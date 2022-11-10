@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6531 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C29,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prolog> ;
+    skos:prefLabel "Prolog" ;
+    skos:related ocs:C1,
+        ocs:C10284,
+        ocs:C10327,
+        ocs:C10720,
+        ocs:C11812,
+        ocs:C17372,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C24909,
+        ocs:C31724,
+        ocs:C4321,
+        ocs:C4756,
+        ocs:C6400,
+        ocs:C6708,
+        ocs:C6714,
+        ocs:C6941,
+        ocs:C8,
+        ocs:C8441,
+        ocs:C8751 .
+

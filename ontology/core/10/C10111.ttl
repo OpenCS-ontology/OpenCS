@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10111 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/D-1_(Sony)> ;
+    skos:prefLabel "D-1" ;
+    skos:related ocs:C12544,
+        ocs:C13691,
+        ocs:C14482,
+        ocs:C1724,
+        ocs:C27086,
+        ocs:C31011,
+        ocs:C31451,
+        ocs:C31514,
+        ocs:C37407,
+        ocs:C38232,
+        ocs:C38532,
+        ocs:C38826,
+        ocs:C40199,
+        ocs:C4461,
+        ocs:C7255 .
+

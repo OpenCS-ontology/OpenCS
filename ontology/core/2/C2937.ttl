@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2937 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lossy_compression> ;
+    skos:prefLabel "Lossy compression" ;
+    skos:related ocs:C10778,
+        ocs:C10881,
+        ocs:C11323,
+        ocs:C12152,
+        ocs:C2113,
+        ocs:C26268,
+        ocs:C31114,
+        ocs:C3896,
+        ocs:C4584,
+        ocs:C6942,
+        ocs:C7255 .
+

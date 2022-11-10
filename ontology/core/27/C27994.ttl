@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27994 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C6545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Null-subject_language> ;
+    skos:prefLabel "Null-subject language" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C15647,
+        ocs:C20016,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C26884,
+        ocs:C31817,
+        ocs:C32159,
+        ocs:C3474,
+        ocs:C35238,
+        ocs:C44227,
+        ocs:C6545 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36860 a skos:Concept ;
+    skos:broader ocs:C19365,
+        ocs:C22065,
+        ocs:C22570 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_service_manager> ;
+    skos:prefLabel "Trusted service manager" ;
+    skos:related ocs:C10270,
+        ocs:C12698,
+        ocs:C18523,
+        ocs:C27633,
+        ocs:C28176,
+        ocs:C29023,
+        ocs:C31628,
+        ocs:C32300,
+        ocs:C33410,
+        ocs:C43951,
+        ocs:C452,
+        ocs:C6114,
+        ocs:C6660,
+        ocs:C816,
+        ocs:C8690,
+        ocs:C9113,
+        ocs:C9154 .
+

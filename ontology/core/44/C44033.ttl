@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44033 a skos:Concept ;
+    skos:broader ocs:C35731,
+        ocs:C36671,
+        ocs:C37364 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-Band_Excitation> ;
+    skos:prefLabel "Multi-Band Excitation" ;
+    skos:related ocs:C13110,
+        ocs:C1455,
+        ocs:C1506,
+        ocs:C17433,
+        ocs:C20746,
+        ocs:C21413,
+        ocs:C25496,
+        ocs:C29814,
+        ocs:C32609,
+        ocs:C37276,
+        ocs:C39055,
+        ocs:C39402,
+        ocs:C40872,
+        ocs:C41971,
+        ocs:C42341,
+        ocs:C43076,
+        ocs:C6763,
+        ocs:C6883,
+        ocs:C9154 .
+

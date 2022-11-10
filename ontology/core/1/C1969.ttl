@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1969 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:prefLabel "Learning Recognition" ;
+    skos:related ocs:C10669,
+        ocs:C10673,
+        ocs:C12077,
+        ocs:C122,
+        ocs:C1566,
+        ocs:C17,
+        ocs:C21,
+        ocs:C25,
+        ocs:C29,
+        ocs:C33603,
+        ocs:C34,
+        ocs:C7,
+        ocs:C8499 .
+

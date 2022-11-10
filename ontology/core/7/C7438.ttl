@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7438 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effects-based_operations> ;
+    skos:prefLabel "Effects-based operations" ;
+    skos:related ocs:C10191,
+        ocs:C1502,
+        ocs:C16536,
+        ocs:C31034,
+        ocs:C5252,
+        ocs:C8458,
+        ocs:C9224 .
+

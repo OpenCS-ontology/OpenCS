@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19825 a skos:Concept ;
+    skos:broader ocs:C969 ;
+    skos:prefLabel "Maximum Voxel" ;
+    skos:related ocs:C10321,
+        ocs:C11887,
+        ocs:C21,
+        ocs:C3740,
+        ocs:C7,
+        ocs:C8,
+        ocs:C9827 .
+

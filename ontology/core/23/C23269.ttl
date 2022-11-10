@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23269 a skos:Concept ;
+    skos:broader ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_dictionary> ;
+    skos:prefLabel "Data dictionary" ;
+    skos:related ocs:C10444,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C12694,
+        ocs:C13744,
+        ocs:C13767,
+        ocs:C16901,
+        ocs:C17701,
+        ocs:C17905,
+        ocs:C18791,
+        ocs:C2414,
+        ocs:C27386,
+        ocs:C28739,
+        ocs:C35637,
+        ocs:C3896,
+        ocs:C44676,
+        ocs:C45073,
+        ocs:C5822,
+        ocs:C6 .
+

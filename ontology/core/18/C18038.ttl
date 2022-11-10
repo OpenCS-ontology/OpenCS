@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18038 a skos:Concept ;
+    skos:broader ocs:C9022 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurochip> ;
+    skos:prefLabel "Neurochip" ;
+    skos:related ocs:C2407,
+        ocs:C27121,
+        ocs:C9022 .
+

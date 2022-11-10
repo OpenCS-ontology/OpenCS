@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10935 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Out-of-home_advertising> ;
+    skos:prefLabel "Out-of-home advertising" ;
+    skos:related ocs:C10270,
+        ocs:C12328,
+        ocs:C18985,
+        ocs:C6219,
+        ocs:C9113 .
+

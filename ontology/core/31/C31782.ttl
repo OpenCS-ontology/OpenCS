@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31782 a skos:Concept ;
+    skos:broader ocs:C16545 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cherenkov_Telescope_Array> ;
+    skos:prefLabel "Cherenkov Telescope Array" ;
+    skos:related ocs:C16186,
+        ocs:C16545,
+        ocs:C30541,
+        ocs:C33470,
+        ocs:C34642 .
+

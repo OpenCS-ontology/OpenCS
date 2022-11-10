@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22400 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Heisenberg_picture> ;
+    skos:prefLabel "Heisenberg picture" ;
+    skos:related ocs:C23485,
+        ocs:C28787,
+        ocs:C29059,
+        ocs:C33115,
+        ocs:C33700 .
+

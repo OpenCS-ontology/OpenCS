@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8370 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Concurrent_user> ;
+    skos:prefLabel "Concurrent user" ;
+    skos:related ocs:C1130,
+        ocs:C11540,
+        ocs:C14271,
+        ocs:C15478,
+        ocs:C17343,
+        ocs:C22879,
+        ocs:C2353,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C3036,
+        ocs:C31489,
+        ocs:C328,
+        ocs:C33,
+        ocs:C3514,
+        ocs:C35701,
+        ocs:C5034,
+        ocs:C6,
+        ocs:C8893,
+        ocs:C9 .
+

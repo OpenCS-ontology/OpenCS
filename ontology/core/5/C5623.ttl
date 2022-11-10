@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5623 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_network> ;
+    skos:prefLabel "Global network" ;
+    skos:related ocs:C12942,
+        ocs:C1563,
+        ocs:C16547,
+        ocs:C19350,
+        ocs:C21424,
+        ocs:C22407,
+        ocs:C26,
+        ocs:C28758,
+        ocs:C2935,
+        ocs:C3,
+        ocs:C35370,
+        ocs:C5917,
+        ocs:C6027,
+        ocs:C6114,
+        ocs:C8614,
+        ocs:C9105,
+        ocs:C9113 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15777 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pioneer_plaque> ;
+    skos:prefLabel "Pioneer plaque" ;
+    skos:related ocs:C28031,
+        ocs:C28456,
+        ocs:C3952,
+        ocs:C597 .
+

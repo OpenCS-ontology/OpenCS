@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33872 a skos:Concept ;
+    skos:broader ocs:C17726 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_lattice> ;
+    skos:prefLabel "Geometric lattice" ;
+    skos:related ocs:C17726,
+        ocs:C20268,
+        ocs:C30729,
+        ocs:C32881,
+        ocs:C33149,
+        ocs:C36649,
+        ocs:C39097,
+        ocs:C42162,
+        ocs:C42789,
+        ocs:C43508,
+        ocs:C43604,
+        ocs:C44021,
+        ocs:C45712 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3791 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_extraction> ;
+    skos:prefLabel "Information extraction" ;
+    skos:related ocs:C1,
+        ocs:C1038,
+        ocs:C1040,
+        ocs:C11927,
+        ocs:C12696,
+        ocs:C20372,
+        ocs:C21072,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C28117,
+        ocs:C31,
+        ocs:C32,
+        ocs:C36447,
+        ocs:C3736,
+        ocs:C5852,
+        ocs:C8,
+        ocs:C8564,
+        ocs:C8576,
+        ocs:C8710 .
+

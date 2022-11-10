@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11409 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/MacroML> ;
+    skos:prefLabel "MacroML" ;
+    skos:related ocs:C10608,
+        ocs:C13366,
+        ocs:C17204,
+        ocs:C17467,
+        ocs:C1781,
+        ocs:C1790,
+        ocs:C19,
+        ocs:C20907,
+        ocs:C23439,
+        ocs:C2484,
+        ocs:C28944,
+        ocs:C327,
+        ocs:C4032,
+        ocs:C5517,
+        ocs:C8335,
+        ocs:C8441 .
+

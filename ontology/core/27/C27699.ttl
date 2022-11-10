@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27699 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Perfect_set_property> ;
+    skos:prefLabel "Perfect set property" ;
+    skos:related ocs:C16190,
+        ocs:C31588,
+        ocs:C33304,
+        ocs:C44291,
+        ocs:C5251 .
+

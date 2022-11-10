@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29526 a skos:Concept ;
+    skos:broader ocs:C6760,
+        ocs:C8021 ;
+    skos:closeMatch <http://dbpedia.org/resource/Endmember> ;
+    skos:prefLabel "Endmember" .
+

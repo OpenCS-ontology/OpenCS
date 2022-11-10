@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6958 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Absorptive_capacity> ;
+    skos:prefLabel "Absorptive capacity" ;
+    skos:related ocs:C11782,
+        ocs:C12,
+        ocs:C12146,
+        ocs:C21018,
+        ocs:C315,
+        ocs:C3343,
+        ocs:C35311,
+        ocs:C925 .
+

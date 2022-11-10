@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29327 a skos:Concept ;
+    skos:broader ocs:C6420,
+        ocs:C9122 ;
+    skos:prefLabel "Color vision examination" ;
+    skos:related ocs:C1,
+        ocs:C19586,
+        ocs:C25893,
+        ocs:C6444 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12121 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Effective_height> ;
+    skos:prefLabel "Effective height" ;
+    skos:related ocs:C21204,
+        ocs:C3148,
+        ocs:C32960,
+        ocs:C36443,
+        ocs:C38796,
+        ocs:C39709,
+        ocs:C39964,
+        ocs:C43545,
+        ocs:C44109,
+        ocs:C44120,
+        ocs:C45915,
+        ocs:C5397 .
+

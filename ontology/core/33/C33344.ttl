@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33344 a skos:Concept ;
+    skos:broader ocs:C15652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hermite_normal_form> ;
+    skos:prefLabel "Hermite normal form" ;
+    skos:related ocs:C30403,
+        ocs:C32644 .
+

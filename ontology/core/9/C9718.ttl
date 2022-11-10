@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9718 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electric_power_transmission> ;
+    skos:prefLabel "Electric power transmission" ;
+    skos:related ocs:C14154,
+        ocs:C8388 .
+

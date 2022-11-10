@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24356 a skos:Concept ;
+    skos:broader ocs:C8324 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_design_of_roads> ;
+    skos:prefLabel "Geometric design of roads" ;
+    skos:related ocs:C11349,
+        ocs:C16896,
+        ocs:C17865,
+        ocs:C26675,
+        ocs:C34119,
+        ocs:C35149,
+        ocs:C43680,
+        ocs:C5558,
+        ocs:C9657 .
+

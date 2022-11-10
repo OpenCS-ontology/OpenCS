@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45226 a skos:Concept ;
+    skos:broader ocs:C30439 ;
+    skos:closeMatch <http://dbpedia.org/resource/Variable_structure_system> ;
+    skos:prefLabel "Variable structure system" ;
+    skos:related ocs:C18430,
+        ocs:C22096,
+        ocs:C28698,
+        ocs:C30439,
+        ocs:C42272,
+        ocs:C8754 .
+

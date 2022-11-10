@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20004 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C5556 ;
+    skos:closeMatch <http://dbpedia.org/resource/X-bar_theory> ;
+    skos:prefLabel "X-bar theory" ;
+    skos:related ocs:C1034,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C15463,
+        ocs:C18082,
+        ocs:C20679,
+        ocs:C24691,
+        ocs:C26816,
+        ocs:C28029,
+        ocs:C33168,
+        ocs:C34287,
+        ocs:C34937,
+        ocs:C3838,
+        ocs:C42812,
+        ocs:C5556,
+        ocs:C6764 .
+

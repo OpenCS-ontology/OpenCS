@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37592 a skos:Concept ;
+    skos:broader ocs:C27506 ;
+    skos:closeMatch <http://dbpedia.org/resource/Thylacinus> ;
+    skos:prefLabel "Thylacinus" ;
+    skos:related ocs:C27506,
+        ocs:C42040 .
+

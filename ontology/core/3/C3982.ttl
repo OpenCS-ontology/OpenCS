@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3982 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Round-trip_delay_time> ;
+    skos:prefLabel "Round-trip delay time" ;
+    skos:related ocs:C12111,
+        ocs:C15065,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C27557,
+        ocs:C3,
+        ocs:C30500,
+        ocs:C31489,
+        ocs:C34356,
+        ocs:C35493,
+        ocs:C38814,
+        ocs:C38817,
+        ocs:C40273,
+        ocs:C42093,
+        ocs:C45850,
+        ocs:C8614,
+        ocs:C9931 .
+

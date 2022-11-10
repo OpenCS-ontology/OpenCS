@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10556 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constellation> ;
+    skos:prefLabel "Constellation" ;
+    skos:related ocs:C13745,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C19222,
+        ocs:C19225,
+        ocs:C19549,
+        ocs:C21656,
+        ocs:C22649,
+        ocs:C22752,
+        ocs:C23210,
+        ocs:C25028,
+        ocs:C26348,
+        ocs:C26524,
+        ocs:C27654,
+        ocs:C28477,
+        ocs:C597 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14263 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Screw_theory> ;
+    skos:prefLabel "Screw theory" ;
+    skos:related ocs:C16671,
+        ocs:C22877,
+        ocs:C7217,
+        ocs:C7848 .
+

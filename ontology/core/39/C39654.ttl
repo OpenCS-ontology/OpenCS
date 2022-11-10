@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39654 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C31489,
+        ocs:C33138,
+        ocs:C35926 ;
+    skos:closeMatch <http://dbpedia.org/resource/Futex> ;
+    skos:prefLabel "Futex" ;
+    skos:related ocs:C12683,
+        ocs:C13315,
+        ocs:C14271,
+        ocs:C20245,
+        ocs:C20800,
+        ocs:C27276,
+        ocs:C31489,
+        ocs:C32786,
+        ocs:C37964,
+        ocs:C39713,
+        ocs:C41970,
+        ocs:C43822,
+        ocs:C4882,
+        ocs:C6667,
+        ocs:C8704,
+        ocs:C9 .
+

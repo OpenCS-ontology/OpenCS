@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45898 a skos:Concept ;
+    skos:broader ocs:C29925,
+        ocs:C31256,
+        ocs:C31724,
+        ocs:C32649 ;
+    skos:prefLabel "Constraint functional logic programming" .
+

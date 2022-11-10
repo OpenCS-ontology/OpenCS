@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34147 a skos:Concept ;
+    skos:broader ocs:C23536,
+        ocs:C24542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Misuse_detection> ;
+    skos:prefLabel "Misuse detection" ;
+    skos:related ocs:C10565,
+        ocs:C12206,
+        ocs:C12240,
+        ocs:C13307,
+        ocs:C1399,
+        ocs:C17266,
+        ocs:C17699,
+        ocs:C19173,
+        ocs:C2767,
+        ocs:C32229,
+        ocs:C35,
+        ocs:C38304,
+        ocs:C38530,
+        ocs:C39016,
+        ocs:C39425,
+        ocs:C41003,
+        ocs:C41901,
+        ocs:C42213,
+        ocs:C8294 .
+

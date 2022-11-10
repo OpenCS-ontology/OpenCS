@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15232 a skos:Concept ;
+    skos:broader ocs:C5196 ;
+    skos:closeMatch <http://dbpedia.org/resource/BCH_code> ;
+    skos:prefLabel "BCH code" ;
+    skos:related ocs:C10750,
+        ocs:C12485,
+        ocs:C18626,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C30001,
+        ocs:C34469,
+        ocs:C35138,
+        ocs:C37886,
+        ocs:C38057,
+        ocs:C39131,
+        ocs:C40267,
+        ocs:C41653,
+        ocs:C42003,
+        ocs:C42688,
+        ocs:C43048,
+        ocs:C43599,
+        ocs:C44119,
+        ocs:C44441 .
+

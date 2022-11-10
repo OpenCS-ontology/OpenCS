@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C181 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pattern-of-life_analysis> ;
+    skos:prefLabel "Pattern-of-life analysis" ;
+    skos:related ocs:C10070,
+        ocs:C15046,
+        ocs:C15047,
+        ocs:C1961,
+        ocs:C24208,
+        ocs:C2979,
+        ocs:C3059,
+        ocs:C3538,
+        ocs:C38891,
+        ocs:C3896,
+        ocs:C4344,
+        ocs:C44189,
+        ocs:C44203,
+        ocs:C4984,
+        ocs:C7510 .
+

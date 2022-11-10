@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43034 a skos:Concept ;
+    skos:broader ocs:C37301 ;
+    skos:closeMatch <http://dbpedia.org/resource/Alpher–Bethe–Gamow_paper> ;
+    skos:prefLabel "Alpher–Bethe–Gamow paper" ;
+    skos:related ocs:C20206,
+        ocs:C22014,
+        ocs:C31506,
+        ocs:C37301,
+        ocs:C37677,
+        ocs:C597 .
+

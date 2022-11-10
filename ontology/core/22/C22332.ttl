@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22332 a skos:Concept ;
+    skos:broader ocs:C1290 ;
+    skos:closeMatch <http://dbpedia.org/resource/Read-write_memory> ;
+    skos:prefLabel "Read-write memory" ;
+    skos:related ocs:C10320,
+        ocs:C10696,
+        ocs:C23270,
+        ocs:C25960,
+        ocs:C30878,
+        ocs:C35697,
+        ocs:C40077,
+        ocs:C4259,
+        ocs:C43462,
+        ocs:C43497,
+        ocs:C4863,
+        ocs:C5141,
+        ocs:C7007,
+        ocs:C8024,
+        ocs:C9381,
+        ocs:C940 .
+

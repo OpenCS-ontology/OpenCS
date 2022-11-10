@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3750 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_world_language_learning> ;
+    skos:prefLabel "Virtual world language learning" ;
+    skos:related ocs:C13320,
+        ocs:C18417,
+        ocs:C18683,
+        ocs:C20377,
+        ocs:C20960,
+        ocs:C22407,
+        ocs:C25752,
+        ocs:C26217,
+        ocs:C33315,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C35800,
+        ocs:C37105,
+        ocs:C45529,
+        ocs:C6757,
+        ocs:C8614,
+        ocs:C9603 .
+

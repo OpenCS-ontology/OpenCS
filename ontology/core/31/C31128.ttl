@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31128 a skos:Concept ;
+    skos:broader ocs:C19524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cadmium_tungstate> ;
+    skos:prefLabel "Cadmium tungstate" ;
+    skos:related ocs:C16020,
+        ocs:C19292,
+        ocs:C19524,
+        ocs:C25787,
+        ocs:C32838,
+        ocs:C33083,
+        ocs:C35735,
+        ocs:C36181 .
+

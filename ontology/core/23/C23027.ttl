@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23027 a skos:Concept ;
+    skos:broader ocs:C11927 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_validation> ;
+    skos:prefLabel "XML validation" ;
+    skos:related ocs:C11927,
+        ocs:C16159,
+        ocs:C18361,
+        ocs:C21066,
+        ocs:C23709,
+        ocs:C26630,
+        ocs:C28801,
+        ocs:C31343,
+        ocs:C33052,
+        ocs:C38812,
+        ocs:C39253,
+        ocs:C39286,
+        ocs:C40145,
+        ocs:C40354,
+        ocs:C40575,
+        ocs:C43819,
+        ocs:C44049,
+        ocs:C44193,
+        ocs:C44843,
+        ocs:C45472 .
+

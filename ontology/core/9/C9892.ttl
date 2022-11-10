@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9892 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Finding_aid> ;
+    skos:prefLabel "Finding aid" ;
+    skos:related ocs:C1090,
+        ocs:C11492,
+        ocs:C11751,
+        ocs:C11927,
+        ocs:C17514,
+        ocs:C23088,
+        ocs:C2862,
+        ocs:C35537,
+        ocs:C3896,
+        ocs:C3997,
+        ocs:C4,
+        ocs:C4335,
+        ocs:C5031,
+        ocs:C6646,
+        ocs:C6915 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16923 a skos:Concept ;
+    skos:broader ocs:C5659 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ball_and_beam> ;
+    skos:prefLabel "Ball and beam" ;
+    skos:related ocs:C10449,
+        ocs:C18077,
+        ocs:C25627 .
+

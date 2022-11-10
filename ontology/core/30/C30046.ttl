@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30046 a skos:Concept ;
+    skos:broader ocs:C25858 ;
+    skos:closeMatch <http://dbpedia.org/resource/Joint_spectral_radius> ;
+    skos:prefLabel "Joint spectral radius" ;
+    skos:related ocs:C1447,
+        ocs:C15405,
+        ocs:C18170,
+        ocs:C25858,
+        ocs:C28698,
+        ocs:C35562,
+        ocs:C36808,
+        ocs:C39136,
+        ocs:C8754,
+        ocs:C9243 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21442 a skos:Concept ;
+    skos:broader ocs:C2303,
+        ocs:C7006,
+        ocs:C9540 ;
+    skos:closeMatch <http://dbpedia.org/resource/Internet_Authentication_Service> ;
+    skos:prefLabel "Internet Authentication Service" ;
+    skos:related ocs:C1410,
+        ocs:C1435,
+        ocs:C14586,
+        ocs:C17530,
+        ocs:C25516,
+        ocs:C28881,
+        ocs:C29568,
+        ocs:C30769,
+        ocs:C3085,
+        ocs:C30860,
+        ocs:C31950,
+        ocs:C36631,
+        ocs:C37552,
+        ocs:C38032,
+        ocs:C38959,
+        ocs:C39947,
+        ocs:C44282,
+        ocs:C44603,
+        ocs:C9797 .
+

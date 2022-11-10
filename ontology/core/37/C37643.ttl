@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37643 a skos:Concept ;
+    skos:broader ocs:C24212 ;
+    skos:closeMatch <http://dbpedia.org/resource/Global_Workspace_Theory> ;
+    skos:prefLabel "Global Workspace Theory" ;
+    skos:related ocs:C8 .
+

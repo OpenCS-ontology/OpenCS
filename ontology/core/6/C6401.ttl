@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6401 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medial_axis> ;
+    skos:prefLabel "Medial axis" ;
+    skos:related ocs:C10239,
+        ocs:C16532,
+        ocs:C19844,
+        ocs:C32381,
+        ocs:C33963,
+        ocs:C34134,
+        ocs:C8271 .
+

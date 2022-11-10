@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38249 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Medical_software> ;
+    skos:prefLabel "Medical software" ;
+    skos:related ocs:C1,
+        ocs:C11,
+        ocs:C1253,
+        ocs:C197,
+        ocs:C21634,
+        ocs:C28,
+        ocs:C3032,
+        ocs:C37174,
+        ocs:C45031,
+        ocs:C5702,
+        ocs:C6223,
+        ocs:C9 .
+

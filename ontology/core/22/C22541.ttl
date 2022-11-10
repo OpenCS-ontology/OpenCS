@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22541 a skos:Concept ;
+    skos:broader ocs:C10400 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_booting> ;
+    skos:prefLabel "Network booting" ;
+    skos:related ocs:C10400,
+        ocs:C10568,
+        ocs:C1670,
+        ocs:C19481,
+        ocs:C20125,
+        ocs:C20557,
+        ocs:C22742,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C31489,
+        ocs:C34946,
+        ocs:C39579,
+        ocs:C44872,
+        ocs:C45856,
+        ocs:C6223,
+        ocs:C6768,
+        ocs:C8298,
+        ocs:C9 .
+

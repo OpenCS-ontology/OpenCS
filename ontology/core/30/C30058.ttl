@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30058 a skos:Concept ;
+    skos:broader ocs:C17246,
+        ocs:C23077,
+        ocs:C23244 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galactic_corona> ;
+    skos:prefLabel "Galactic corona" ;
+    skos:related ocs:C17246,
+        ocs:C23077,
+        ocs:C28402,
+        ocs:C29074,
+        ocs:C31953,
+        ocs:C34069,
+        ocs:C41648,
+        ocs:C42436 .
+

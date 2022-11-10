@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31033 a skos:Concept ;
+    skos:broader ocs:C20013,
+        ocs:C21547,
+        ocs:C27194,
+        ocs:C27320 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-linear_iterative_partial_least_squares> ;
+    skos:prefLabel "Non-linear iterative partial least squares" .
+

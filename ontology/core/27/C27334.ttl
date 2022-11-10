@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27334 a skos:Concept ;
+    skos:broader ocs:C2579,
+        ocs:C8751 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agent-oriented_programming> ;
+    skos:prefLabel "Agent-oriented programming" ;
+    skos:related ocs:C10720,
+        ocs:C12003,
+        ocs:C12304,
+        ocs:C12389,
+        ocs:C15406,
+        ocs:C16968,
+        ocs:C23181,
+        ocs:C23909,
+        ocs:C2579,
+        ocs:C2674,
+        ocs:C31724,
+        ocs:C33311,
+        ocs:C36972,
+        ocs:C3706,
+        ocs:C38237,
+        ocs:C41770,
+        ocs:C43575,
+        ocs:C43888,
+        ocs:C45142,
+        ocs:C5933 .
+

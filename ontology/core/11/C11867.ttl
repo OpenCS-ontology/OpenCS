@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11867 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blackhole_server> ;
+    skos:prefLabel "Blackhole server" ;
+    skos:related ocs:C14321,
+        ocs:C18213,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C24727,
+        ocs:C34235,
+        ocs:C34662,
+        ocs:C36678,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38966,
+        ocs:C41298,
+        ocs:C41442,
+        ocs:C43015,
+        ocs:C43297,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C45007,
+        ocs:C8614 .
+

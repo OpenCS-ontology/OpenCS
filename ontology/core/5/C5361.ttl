@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5361 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reflowable_document> ;
+    skos:prefLabel "Reflowable document" ;
+    skos:related ocs:C11927,
+        ocs:C12477,
+        ocs:C13577,
+        ocs:C15642,
+        ocs:C2135,
+        ocs:C22059,
+        ocs:C22103,
+        ocs:C22144,
+        ocs:C2464,
+        ocs:C27339,
+        ocs:C28801,
+        ocs:C355,
+        ocs:C5477,
+        ocs:C9218,
+        ocs:C9244,
+        ocs:C9646 .
+

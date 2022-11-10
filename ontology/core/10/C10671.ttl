@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10671 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_quantification> ;
+    skos:prefLabel "Universal quantification" ;
+    skos:related ocs:C10825,
+        ocs:C11635,
+        ocs:C12474,
+        ocs:C17884,
+        ocs:C2418,
+        ocs:C26482,
+        ocs:C2978,
+        ocs:C30651,
+        ocs:C4073,
+        ocs:C45525,
+        ocs:C5251,
+        ocs:C8077,
+        ocs:C8635 .
+

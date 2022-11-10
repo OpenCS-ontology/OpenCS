@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4983 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Centrex> ;
+    skos:prefLabel "Centrex" ;
+    skos:related ocs:C11465,
+        ocs:C13514,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C2423,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C4562,
+        ocs:C6546 .
+

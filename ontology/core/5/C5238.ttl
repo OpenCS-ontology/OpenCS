@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5238 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distributed_data_store> ;
+    skos:prefLabel "Distributed data store" ;
+    skos:related ocs:C10911,
+        ocs:C11540,
+        ocs:C12238,
+        ocs:C14223,
+        ocs:C16369,
+        ocs:C16666,
+        ocs:C22879,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C28963,
+        ocs:C30,
+        ocs:C33417,
+        ocs:C3569,
+        ocs:C39186,
+        ocs:C44121,
+        ocs:C6,
+        ocs:C6312,
+        ocs:C8327 .
+

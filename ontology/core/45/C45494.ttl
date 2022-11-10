@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45494 a skos:Concept ;
+    skos:broader ocs:C30405 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-site_scripting> ;
+    skos:prefLabel "Cross-site scripting" ;
+    skos:related ocs:C10214,
+        ocs:C12810,
+        ocs:C13068,
+        ocs:C16338,
+        ocs:C17266,
+        ocs:C19358,
+        ocs:C20937,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C28801,
+        ocs:C2941,
+        ocs:C30926,
+        ocs:C31,
+        ocs:C32189,
+        ocs:C39663,
+        ocs:C41498,
+        ocs:C42057,
+        ocs:C44631,
+        ocs:C4918 .
+

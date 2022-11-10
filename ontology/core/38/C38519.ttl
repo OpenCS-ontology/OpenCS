@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38519 a skos:Concept ;
+    skos:broader ocs:C32582,
+        ocs:C36898 ;
+    skos:closeMatch <http://dbpedia.org/resource/Challenge-Handshake_Authentication_Protocol> ;
+    skos:prefLabel "CHAP protocol" ;
+    skos:related ocs:C1,
+        ocs:C23567,
+        ocs:C26,
+        ocs:C32582,
+        ocs:C35 .
+

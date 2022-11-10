@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27498 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chat_room> ;
+    skos:prefLabel "Chat room" ;
+    skos:related ocs:C11540,
+        ocs:C13725,
+        ocs:C16205,
+        ocs:C17794,
+        ocs:C18683,
+        ocs:C19903,
+        ocs:C20100,
+        ocs:C26580,
+        ocs:C28881,
+        ocs:C28885,
+        ocs:C31,
+        ocs:C34235,
+        ocs:C8614,
+        ocs:C9113 .
+

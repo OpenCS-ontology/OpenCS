@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45815 a skos:Concept ;
+    skos:broader ocs:C29576,
+        ocs:C31195,
+        ocs:C33187,
+        ocs:C35699 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ornstein–Uhlenbeck_operator> ;
+    skos:prefLabel "Ornstein–Uhlenbeck operator" ;
+    skos:related ocs:C16744,
+        ocs:C20902,
+        ocs:C23927,
+        ocs:C25153,
+        ocs:C28787,
+        ocs:C36808,
+        ocs:C36974,
+        ocs:C39302,
+        ocs:C45668 .
+

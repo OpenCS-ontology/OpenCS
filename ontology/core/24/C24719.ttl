@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24719 a skos:Concept ;
+    skos:broader ocs:C4917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chipless_RFID> ;
+    skos:prefLabel "Chipless RFID" ;
+    skos:related ocs:C13747,
+        ocs:C17383,
+        ocs:C17532,
+        ocs:C1882,
+        ocs:C27613,
+        ocs:C28078,
+        ocs:C4917 .
+

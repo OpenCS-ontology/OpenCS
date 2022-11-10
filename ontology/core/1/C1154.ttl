@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1154 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signaling_protocol> ;
+    skos:prefLabel "Signaling protocol" ;
+    skos:related ocs:C15410,
+        ocs:C22407,
+        ocs:C23553,
+        ocs:C24323,
+        ocs:C24335,
+        ocs:C2665,
+        ocs:C27398,
+        ocs:C28949,
+        ocs:C2917,
+        ocs:C29359,
+        ocs:C34719,
+        ocs:C45692,
+        ocs:C6027,
+        ocs:C8087,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C9117,
+        ocs:C9225,
+        ocs:C9931 .
+

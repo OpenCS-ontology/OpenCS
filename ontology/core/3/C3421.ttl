@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3421 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C6 ;
+    skos:prefLabel "Role Privilege" ;
+    skos:related ocs:C16295,
+        ocs:C19557,
+        ocs:C29115 .
+

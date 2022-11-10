@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30570 a skos:Concept ;
+    skos:broader ocs:C23296 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pulsar_wind_nebula> ;
+    skos:prefLabel "Pulsar wind nebula" ;
+    skos:related ocs:C22542,
+        ocs:C23296,
+        ocs:C29045,
+        ocs:C34642,
+        ocs:C597 .
+

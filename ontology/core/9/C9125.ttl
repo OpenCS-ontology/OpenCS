@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9125 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/SAP_HANA> ;
+    skos:prefLabel "SAP HANA" ;
+    skos:related ocs:C10444,
+        ocs:C12185,
+        ocs:C12238,
+        ocs:C12694,
+        ocs:C14209,
+        ocs:C15478,
+        ocs:C16874,
+        ocs:C2304,
+        ocs:C24143,
+        ocs:C28963,
+        ocs:C35640,
+        ocs:C3569,
+        ocs:C35701,
+        ocs:C3812,
+        ocs:C4768,
+        ocs:C6,
+        ocs:C6581,
+        ocs:C7106,
+        ocs:C9540 .
+

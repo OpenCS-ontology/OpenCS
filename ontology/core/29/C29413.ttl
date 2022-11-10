@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29413 a skos:Concept ;
+    skos:broader ocs:C10496,
+        ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/IBM_mainframe_utility_programs> ;
+    skos:prefLabel "IBM mainframe utility programs" ;
+    skos:related ocs:C10496,
+        ocs:C13101,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C18414,
+        ocs:C3036,
+        ocs:C35529,
+        ocs:C37138,
+        ocs:C4046,
+        ocs:C42165,
+        ocs:C42309,
+        ocs:C45123,
+        ocs:C4877,
+        ocs:C6926,
+        ocs:C7105,
+        ocs:C8699,
+        ocs:C9 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13003 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_overload> ;
+    skos:prefLabel "Information overload" ;
+    skos:related ocs:C11499,
+        ocs:C1212,
+        ocs:C12692,
+        ocs:C13380,
+        ocs:C1393,
+        ocs:C31,
+        ocs:C34391,
+        ocs:C40049,
+        ocs:C6762,
+        ocs:C7297,
+        ocs:C7736,
+        ocs:C8614 .
+

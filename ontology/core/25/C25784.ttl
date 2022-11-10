@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25784 a skos:Concept ;
+    skos:broader ocs:C1142,
+        ocs:C9543 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watershed_Central> ;
+    skos:prefLabel "Watershed Central" ;
+    skos:related ocs:C22652 .
+

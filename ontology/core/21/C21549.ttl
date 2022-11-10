@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21549 a skos:Concept ;
+    skos:broader ocs:C545,
+        ocs:C9049 ;
+    skos:closeMatch <http://dbpedia.org/resource/MQTT> ;
+    skos:prefLabel "MQTT" ;
+    skos:related ocs:C10694,
+        ocs:C11084,
+        ocs:C13252,
+        ocs:C16218,
+        ocs:C19052,
+        ocs:C21166,
+        ocs:C22597,
+        ocs:C23503,
+        ocs:C24131,
+        ocs:C24252,
+        ocs:C26,
+        ocs:C26260,
+        ocs:C2771,
+        ocs:C27982,
+        ocs:C29359,
+        ocs:C3968,
+        ocs:C39955,
+        ocs:C686,
+        ocs:C8614,
+        ocs:C9049 .
+

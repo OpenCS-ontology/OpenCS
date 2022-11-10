@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3392 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vector_projection> ;
+    skos:prefLabel "Vector projection" ;
+    skos:related ocs:C1385,
+        ocs:C14325,
+        ocs:C1884,
+        ocs:C5969,
+        ocs:C6863,
+        ocs:C8749 .
+

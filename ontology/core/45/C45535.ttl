@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45535 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proofs_of_trigonometric_identities> ;
+    skos:prefLabel "Proofs of trigonometric identities" ;
+    skos:related ocs:C13541,
+        ocs:C14919,
+        ocs:C37969,
+        ocs:C39809,
+        ocs:C40788,
+        ocs:C43876 .
+

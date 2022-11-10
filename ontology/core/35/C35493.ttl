@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35493 a skos:Concept ;
+    skos:broader ocs:C20691,
+        ocs:C24323 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_tuning> ;
+    skos:prefLabel "TCP tuning" ;
+    skos:related ocs:C15065,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C33978,
+        ocs:C35571,
+        ocs:C37577,
+        ocs:C38125,
+        ocs:C38698,
+        ocs:C38814,
+        ocs:C38817,
+        ocs:C38818,
+        ocs:C3982,
+        ocs:C3989,
+        ocs:C39947,
+        ocs:C40273,
+        ocs:C40301,
+        ocs:C42093,
+        ocs:C45850 .
+

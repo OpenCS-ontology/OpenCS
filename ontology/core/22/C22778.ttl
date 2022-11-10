@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22778 a skos:Concept ;
+    skos:broader ocs:C6912 ;
+    skos:closeMatch <http://dbpedia.org/resource/Congruence_coefficient> ;
+    skos:prefLabel "Congruence coefficient" ;
+    skos:related ocs:C10923,
+        ocs:C14571,
+        ocs:C20244,
+        ocs:C40043 .
+

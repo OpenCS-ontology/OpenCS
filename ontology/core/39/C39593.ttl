@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39593 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_testability> ;
+    skos:prefLabel "Software testability" ;
+    skos:related ocs:C12587,
+        ocs:C14372,
+        ocs:C21979,
+        ocs:C27087,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C30215,
+        ocs:C32613,
+        ocs:C32978,
+        ocs:C37174,
+        ocs:C37207,
+        ocs:C37672,
+        ocs:C40918,
+        ocs:C44902,
+        ocs:C45629,
+        ocs:C7903,
+        ocs:C8791,
+        ocs:C924,
+        ocs:C9607 .
+

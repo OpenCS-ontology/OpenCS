@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33454 a skos:Concept ;
+    skos:broader ocs:C24843 ;
+    skos:closeMatch <http://dbpedia.org/resource/Galois_extension> ;
+    skos:prefLabel "Galois extension" ;
+    skos:related ocs:C31107,
+        ocs:C32266,
+        ocs:C41535,
+        ocs:C45516 .
+

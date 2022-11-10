@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8372 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Punch-down_block> ;
+    skos:prefLabel "Punch-down block" ;
+    skos:related ocs:C11769,
+        ocs:C2305,
+        ocs:C26,
+        ocs:C691,
+        ocs:C7612 .
+

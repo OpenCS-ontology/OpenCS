@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6817 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/Least_significant_bit> ;
+    skos:prefLabel "Least significant bit" ;
+    skos:related ocs:C10696,
+        ocs:C14162,
+        ocs:C16377,
+        ocs:C18276,
+        ocs:C21496,
+        ocs:C27882,
+        ocs:C3931,
+        ocs:C6026,
+        ocs:C9162 .
+

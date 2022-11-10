@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38533 a skos:Concept ;
+    skos:broader ocs:C32107,
+        ocs:C32129,
+        ocs:C35496 ;
+    skos:closeMatch <http://dbpedia.org/resource/Łukasiewicz_logic> ;
+    skos:prefLabel "Łukasiewicz logic" ;
+    skos:related ocs:C10825,
+        ocs:C12474,
+        ocs:C14579,
+        ocs:C17884,
+        ocs:C29495,
+        ocs:C32129,
+        ocs:C3375,
+        ocs:C37146,
+        ocs:C3894,
+        ocs:C40719,
+        ocs:C43099,
+        ocs:C43271,
+        ocs:C43335,
+        ocs:C44736,
+        ocs:C45295,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C8077 .
+

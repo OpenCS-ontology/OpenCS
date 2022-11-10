@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12594 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tolerant_sequence> ;
+    skos:prefLabel "Tolerant sequence" ;
+    skos:related ocs:C12474,
+        ocs:C13697,
+        ocs:C16365,
+        ocs:C23931,
+        ocs:C25442,
+        ocs:C2727,
+        ocs:C28286,
+        ocs:C429,
+        ocs:C4517,
+        ocs:C5981,
+        ocs:C7901,
+        ocs:C810,
+        ocs:C8635,
+        ocs:C8672 .
+

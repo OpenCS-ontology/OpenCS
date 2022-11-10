@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9496 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/PLANC> ;
+    skos:prefLabel "PLANC" ;
+    skos:related ocs:C1028,
+        ocs:C12117,
+        ocs:C12851,
+        ocs:C13045,
+        ocs:C19,
+        ocs:C25252,
+        ocs:C25460,
+        ocs:C29292,
+        ocs:C5280,
+        ocs:C6024,
+        ocs:C6714,
+        ocs:C7289,
+        ocs:C7797,
+        ocs:C794,
+        ocs:C8026,
+        ocs:C9,
+        ocs:C9277,
+        ocs:C9898 .
+

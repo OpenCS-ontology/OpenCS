@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40822 a skos:Concept ;
+    skos:broader ocs:C30082,
+        ocs:C35693 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hierarchical_clustering_of_networks> ;
+    skos:prefLabel "Hierarchical clustering of networks" ;
+    skos:related ocs:C10382,
+        ocs:C25175,
+        ocs:C29024,
+        ocs:C29574,
+        ocs:C30082,
+        ocs:C30633,
+        ocs:C38396,
+        ocs:C38397,
+        ocs:C39217,
+        ocs:C40335,
+        ocs:C41039,
+        ocs:C41863,
+        ocs:C45745,
+        ocs:C45859,
+        ocs:C4966 .
+

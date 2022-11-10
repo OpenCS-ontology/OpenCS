@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5871 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mohawk_language> ;
+    skos:prefLabel "Mohawk" ;
+    skos:related ocs:C12486,
+        ocs:C12689,
+        ocs:C32450,
+        ocs:C34803 .
+

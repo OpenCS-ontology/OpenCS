@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13851 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kilobyte> ;
+    skos:prefLabel "Kilobyte" ;
+    skos:related ocs:C10053,
+        ocs:C10213,
+        ocs:C10320,
+        ocs:C10409,
+        ocs:C10696,
+        ocs:C11445,
+        ocs:C27610,
+        ocs:C28881,
+        ocs:C3984,
+        ocs:C41094,
+        ocs:C4259,
+        ocs:C43161,
+        ocs:C613,
+        ocs:C8434,
+        ocs:C9 .
+

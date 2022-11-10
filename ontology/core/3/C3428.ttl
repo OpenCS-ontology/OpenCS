@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3428 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dell_PowerConnect> ;
+    skos:prefLabel "Dell PowerConnect" ;
+    skos:related ocs:C13786,
+        ocs:C14165,
+        ocs:C1637,
+        ocs:C18745,
+        ocs:C22191,
+        ocs:C22559,
+        ocs:C24592,
+        ocs:C26,
+        ocs:C32460,
+        ocs:C40784,
+        ocs:C4159,
+        ocs:C42239,
+        ocs:C44801,
+        ocs:C490,
+        ocs:C5840,
+        ocs:C8298,
+        ocs:C9267,
+        ocs:C9426 .
+

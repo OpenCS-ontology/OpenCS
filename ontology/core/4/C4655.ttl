@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4655 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_conversion> ;
+    skos:prefLabel "Image conversion" ;
+    skos:related ocs:C10380,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C13970,
+        ocs:C19196,
+        ocs:C20961,
+        ocs:C2937,
+        ocs:C36633,
+        ocs:C38815,
+        ocs:C39878,
+        ocs:C4584,
+        ocs:C5854,
+        ocs:C6942,
+        ocs:C797,
+        ocs:C8021 .
+

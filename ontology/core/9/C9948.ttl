@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9948 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_classification_(business_intelligence)> ;
+    skos:prefLabel "Data classification" ;
+    skos:related ocs:C12238,
+        ocs:C14252,
+        ocs:C15051,
+        ocs:C27712,
+        ocs:C3199,
+        ocs:C35961,
+        ocs:C3797,
+        ocs:C38644,
+        ocs:C40348,
+        ocs:C5874,
+        ocs:C6248,
+        ocs:C8170,
+        ocs:C9325 .
+

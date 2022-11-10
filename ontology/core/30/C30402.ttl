@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30402 a skos:Concept ;
+    skos:broader ocs:C22067,
+        ocs:C26161,
+        ocs:C26523 ;
+    skos:closeMatch <http://dbpedia.org/resource/NPIV> ;
+    skos:prefLabel "NPIV" ;
+    skos:related ocs:C13786,
+        ocs:C14537,
+        ocs:C17533,
+        ocs:C17704,
+        ocs:C22191,
+        ocs:C22957,
+        ocs:C27710,
+        ocs:C27921,
+        ocs:C30122,
+        ocs:C30953,
+        ocs:C31164,
+        ocs:C32777,
+        ocs:C36600,
+        ocs:C39186,
+        ocs:C41992,
+        ocs:C42426,
+        ocs:C4384,
+        ocs:C8298,
+        ocs:C9426 .
+

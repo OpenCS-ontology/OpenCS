@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10139 a skos:Concept ;
+    skos:broader ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_dynamics> ;
+    skos:prefLabel "Network dynamics" ;
+    skos:related ocs:C1,
+        ocs:C12305,
+        ocs:C15476,
+        ocs:C17311,
+        ocs:C20012,
+        ocs:C28035,
+        ocs:C28521,
+        ocs:C35153,
+        ocs:C5496,
+        ocs:C938 .
+

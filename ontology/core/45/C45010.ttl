@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45010 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_Signal_Processor> ;
+    skos:prefLabel "Audio Signal Processor" ;
+    skos:related ocs:C10759,
+        ocs:C11385,
+        ocs:C11814,
+        ocs:C1449,
+        ocs:C17435,
+        ocs:C18077,
+        ocs:C1832,
+        ocs:C25853,
+        ocs:C25973,
+        ocs:C31889,
+        ocs:C32508,
+        ocs:C3363,
+        ocs:C40628,
+        ocs:C7518,
+        ocs:C9990 .
+

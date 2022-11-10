@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23344 a skos:Concept ;
+    skos:broader ocs:C2252,
+        ocs:C4090,
+        ocs:C4718 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astronauta> ;
+    skos:prefLabel "Astronauta" .
+

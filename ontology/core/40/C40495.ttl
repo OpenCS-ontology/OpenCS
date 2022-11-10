@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40495 a skos:Concept ;
+    skos:broader ocs:C30595,
+        ocs:C30922,
+        ocs:C32518,
+        ocs:C33549,
+        ocs:C34684,
+        ocs:C34749 ;
+    skos:closeMatch <http://dbpedia.org/resource/Certificate-based_encryption> ;
+    skos:prefLabel "Certificate-based encryption" ;
+    skos:related ocs:C16125,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C30656,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C38305,
+        ocs:C39017,
+        ocs:C39437,
+        ocs:C39928,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41533,
+        ocs:C41706,
+        ocs:C42288,
+        ocs:C43651,
+        ocs:C44289,
+        ocs:C45747,
+        ocs:C522,
+        ocs:C7006 .
+

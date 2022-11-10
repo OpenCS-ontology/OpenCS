@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15650 a skos:Concept ;
+    skos:broader ocs:C983 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cadence_SKILL> ;
+    skos:prefLabel "Cadence SKILL" ;
+    skos:related ocs:C10284,
+        ocs:C11990,
+        ocs:C12108,
+        ocs:C12974,
+        ocs:C13527,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C25779,
+        ocs:C29907,
+        ocs:C31851,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C35802,
+        ocs:C4465,
+        ocs:C5612,
+        ocs:C7797,
+        ocs:C8441 .
+

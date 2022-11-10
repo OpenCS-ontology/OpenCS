@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10905 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Communication_design> ;
+    skos:prefLabel "Communication design" ;
+    skos:related ocs:C10982,
+        ocs:C11094,
+        ocs:C13413,
+        ocs:C17,
+        ocs:C2135,
+        ocs:C22683,
+        ocs:C28503,
+        ocs:C28533,
+        ocs:C306,
+        ocs:C5477,
+        ocs:C5746,
+        ocs:C9606 .
+

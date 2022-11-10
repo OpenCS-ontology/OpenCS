@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3741 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Homophone> ;
+    skos:prefLabel "Homophone" ;
+    skos:related ocs:C11398,
+        ocs:C12388,
+        ocs:C12486,
+        ocs:C13096,
+        ocs:C13102,
+        ocs:C13210,
+        ocs:C17395,
+        ocs:C2025,
+        ocs:C2847,
+        ocs:C6361,
+        ocs:C6449,
+        ocs:C6505,
+        ocs:C7131,
+        ocs:C8020 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12556 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/EPIA> ;
+    skos:prefLabel "EPIA" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11,
+        ocs:C11035,
+        ocs:C11052,
+        ocs:C12499,
+        ocs:C1810,
+        ocs:C1904,
+        ocs:C23251,
+        ocs:C31489,
+        ocs:C38463 .
+

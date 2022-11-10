@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36577 a skos:Concept ;
+    skos:broader ocs:C26649 ;
+    skos:closeMatch <http://dbpedia.org/resource/Acrochordidae> ;
+    skos:prefLabel "Acrochordidae" ;
+    skos:related ocs:C26649,
+        ocs:C30202,
+        ocs:C32523 .
+

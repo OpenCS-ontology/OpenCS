@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41132 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_normalization> ;
+    skos:prefLabel "Color normalization" ;
+    skos:related ocs:C11598,
+        ocs:C14695,
+        ocs:C1573,
+        ocs:C16674,
+        ocs:C19697,
+        ocs:C2198,
+        ocs:C23853,
+        ocs:C24194,
+        ocs:C24784,
+        ocs:C29175,
+        ocs:C31013,
+        ocs:C37720,
+        ocs:C40681,
+        ocs:C4435,
+        ocs:C6420,
+        ocs:C7732,
+        ocs:C7826,
+        ocs:C8969,
+        ocs:C9594 .
+

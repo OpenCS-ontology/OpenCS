@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24896 a skos:Concept ;
+    skos:broader ocs:C11383,
+        ocs:C12099,
+        ocs:C386,
+        ocs:C5722,
+        ocs:C9556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Factor_oracle> ;
+    skos:prefLabel "Factor oracle" ;
+    skos:related ocs:C14248,
+        ocs:C14958,
+        ocs:C17065,
+        ocs:C19305,
+        ocs:C22974,
+        ocs:C25081,
+        ocs:C25543,
+        ocs:C26036,
+        ocs:C30059,
+        ocs:C37169,
+        ocs:C37890,
+        ocs:C42945,
+        ocs:C44192,
+        ocs:C44387,
+        ocs:C749,
+        ocs:C7979,
+        ocs:C8522,
+        ocs:C9556 .
+

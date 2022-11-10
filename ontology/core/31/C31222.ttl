@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31222 a skos:Concept ;
+    skos:broader ocs:C15478,
+        ocs:C20205,
+        ocs:C21442 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nsupdate> ;
+    skos:prefLabel "nsupdate" ;
+    skos:related ocs:C14321,
+        ocs:C20205,
+        ocs:C30638,
+        ocs:C34662,
+        ocs:C35631,
+        ocs:C35801,
+        ocs:C37824,
+        ocs:C38211,
+        ocs:C38408,
+        ocs:C41056,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C42747,
+        ocs:C43236,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C8137,
+        ocs:C9683 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2620 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_size> ;
+    skos:prefLabel "File size" ;
+    skos:related ocs:C10213,
+        ocs:C10696,
+        ocs:C13851,
+        ocs:C14162,
+        ocs:C2436,
+        ocs:C3231,
+        ocs:C328,
+        ocs:C3470,
+        ocs:C3984,
+        ocs:C41094,
+        ocs:C43161,
+        ocs:C613,
+        ocs:C7476,
+        ocs:C7512,
+        ocs:C9430,
+        ocs:C9609 .
+

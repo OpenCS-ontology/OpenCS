@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2724 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shadeop> ;
+    skos:prefLabel "Shadeop" ;
+    skos:related ocs:C14570,
+        ocs:C19229,
+        ocs:C24235,
+        ocs:C26458,
+        ocs:C2674,
+        ocs:C27489,
+        ocs:C30362,
+        ocs:C31152,
+        ocs:C31649,
+        ocs:C33277,
+        ocs:C34266,
+        ocs:C36168,
+        ocs:C39285,
+        ocs:C39550,
+        ocs:C42489,
+        ocs:C42716,
+        ocs:C44381,
+        ocs:C5447,
+        ocs:C8670 .
+

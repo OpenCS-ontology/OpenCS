@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40141 a skos:Concept ;
+    skos:broader ocs:C36635 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surface_brightness_fluctuation> ;
+    skos:prefLabel "Surface brightness fluctuation" ;
+    skos:related ocs:C15251,
+        ocs:C17246,
+        ocs:C21056,
+        ocs:C23210,
+        ocs:C23430,
+        ocs:C25586,
+        ocs:C28402,
+        ocs:C29074,
+        ocs:C597 .
+

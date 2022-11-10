@@ -1,0 +1,8 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44978 a skos:Concept ;
+    skos:broader ocs:C30856 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leave-one-out_error> ;
+    skos:prefLabel "Leave-one-out error" .
+

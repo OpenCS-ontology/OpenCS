@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14365 a skos:Concept ;
+    skos:broader ocs:C8744 ;
+    skos:closeMatch <http://dbpedia.org/resource/Handwriting_movement_analysis> ;
+    skos:prefLabel "Handwriting movement analysis" ;
+    skos:related ocs:C1,
+        ocs:C26343,
+        ocs:C26416,
+        ocs:C27653,
+        ocs:C3077,
+        ocs:C3284,
+        ocs:C6069,
+        ocs:C7621,
+        ocs:C8,
+        ocs:C8744 .
+

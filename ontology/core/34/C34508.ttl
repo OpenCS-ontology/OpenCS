@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34508 a skos:Concept ;
+    skos:broader ocs:C17236,
+        ocs:C18301,
+        ocs:C29390 ;
+    skos:closeMatch <http://dbpedia.org/resource/NeuroArm> ;
+    skos:prefLabel "NeuroArm" ;
+    skos:related ocs:C11255,
+        ocs:C12565,
+        ocs:C17816,
+        ocs:C18287,
+        ocs:C18301,
+        ocs:C22524,
+        ocs:C31464,
+        ocs:C32424,
+        ocs:C42136 .
+

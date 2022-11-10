@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44930 a skos:Concept ;
+    skos:broader ocs:C36761 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reinhardt_cardinal> ;
+    skos:prefLabel "Reinhardt cardinal" ;
+    skos:related ocs:C12474,
+        ocs:C16069,
+        ocs:C16190,
+        ocs:C27491,
+        ocs:C30417,
+        ocs:C33304,
+        ocs:C38982,
+        ocs:C42231,
+        ocs:C42656,
+        ocs:C44591,
+        ocs:C5251 .
+

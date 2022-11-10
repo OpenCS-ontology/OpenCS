@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21296 a skos:Concept ;
+    skos:broader ocs:C1038,
+        ocs:C264,
+        ocs:C3791,
+        ocs:C5512,
+        ocs:C885 ;
+    skos:prefLabel "Inductive database" .
+

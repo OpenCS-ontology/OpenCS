@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10092 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Privileged_Identity_Management> ;
+    skos:prefLabel "Privileged identity management" ;
+    skos:related ocs:C10064,
+        ocs:C1399,
+        ocs:C15834,
+        ocs:C15846,
+        ocs:C16295,
+        ocs:C17656,
+        ocs:C18084,
+        ocs:C20650,
+        ocs:C22450,
+        ocs:C25176,
+        ocs:C28881,
+        ocs:C31315,
+        ocs:C42306,
+        ocs:C4513,
+        ocs:C45140,
+        ocs:C5418,
+        ocs:C5731,
+        ocs:C7006,
+        ocs:C9700 .
+

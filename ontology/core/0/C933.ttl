@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C933 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prime_Directive> ;
+    skos:prefLabel "Prime Directive" ;
+    skos:related ocs:C10499,
+        ocs:C17246,
+        ocs:C2585,
+        ocs:C7353,
+        ocs:C8696 .
+

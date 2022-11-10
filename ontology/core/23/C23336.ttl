@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23336 a skos:Concept ;
+    skos:broader ocs:C12146 ;
+    skos:closeMatch <http://dbpedia.org/resource/Social_business_model> ;
+    skos:prefLabel "Social business model" ;
+    skos:related ocs:C11026,
+        ocs:C12146,
+        ocs:C14122,
+        ocs:C15047,
+        ocs:C22551,
+        ocs:C24449,
+        ocs:C40481,
+        ocs:C43203,
+        ocs:C45772,
+        ocs:C6757,
+        ocs:C8905 .
+

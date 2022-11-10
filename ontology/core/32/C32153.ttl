@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32153 a skos:Concept ;
+    skos:broader ocs:C14921,
+        ocs:C22243,
+        ocs:C29098 ;
+    skos:prefLabel "Function optimization problems" .
+

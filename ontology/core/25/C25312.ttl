@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25312 a skos:Concept ;
+    skos:broader ocs:C8748 ;
+    skos:closeMatch <http://dbpedia.org/resource/Imperative_logic> ;
+    skos:prefLabel "Imperative logic" ;
+    skos:related ocs:C10825,
+        ocs:C11088,
+        ocs:C11635,
+        ocs:C126,
+        ocs:C17884,
+        ocs:C21382,
+        ocs:C23668,
+        ocs:C44362,
+        ocs:C4557,
+        ocs:C5421,
+        ocs:C8748,
+        ocs:C9834 .
+

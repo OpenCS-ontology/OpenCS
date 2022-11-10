@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2264 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_Architecture_Framework> ;
+    skos:prefLabel "Integrated Architecture Framework" ;
+    skos:related ocs:C11087,
+        ocs:C18168,
+        ocs:C29840,
+        ocs:C31201,
+        ocs:C34421,
+        ocs:C38363,
+        ocs:C38885,
+        ocs:C40085,
+        ocs:C40270,
+        ocs:C40895,
+        ocs:C42495,
+        ocs:C43469,
+        ocs:C44353,
+        ocs:C44839,
+        ocs:C44909,
+        ocs:C45082,
+        ocs:C45114,
+        ocs:C45437 .
+

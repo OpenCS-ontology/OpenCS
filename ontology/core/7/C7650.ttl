@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7650 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Machine-readable_dictionary> ;
+    skos:prefLabel "Machine-readable dictionary" ;
+    skos:related ocs:C10522,
+        ocs:C1451,
+        ocs:C16,
+        ocs:C16092,
+        ocs:C17796,
+        ocs:C23928,
+        ocs:C25681,
+        ocs:C2761,
+        ocs:C28591,
+        ocs:C32,
+        ocs:C3736,
+        ocs:C38727,
+        ocs:C39137,
+        ocs:C5038,
+        ocs:C5852,
+        ocs:C8710,
+        ocs:C9119,
+        ocs:C928 .
+

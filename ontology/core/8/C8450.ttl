@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8450 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Strategic_design> ;
+    skos:prefLabel "Strategic design" ;
+    skos:related ocs:C11831,
+        ocs:C1332,
+        ocs:C23671,
+        ocs:C306,
+        ocs:C4292,
+        ocs:C7904,
+        ocs:C9018,
+        ocs:C9089,
+        ocs:C9606 .
+

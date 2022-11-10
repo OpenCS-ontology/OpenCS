@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29548 a skos:Concept ;
+    skos:broader ocs:C29255 ;
+    skos:closeMatch <http://dbpedia.org/resource/Test_functions_for_optimization> ;
+    skos:prefLabel "Test functions for optimization" ;
+    skos:related ocs:C10,
+        ocs:C10146,
+        ocs:C14353,
+        ocs:C25025,
+        ocs:C27563,
+        ocs:C30369,
+        ocs:C33143,
+        ocs:C36567,
+        ocs:C41431,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553 .
+

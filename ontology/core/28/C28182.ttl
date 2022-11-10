@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28182 a skos:Concept ;
+    skos:broader ocs:C2192 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tree_topping> ;
+    skos:prefLabel "Tree topping" ;
+    skos:related ocs:C15793,
+        ocs:C20253,
+        ocs:C2192 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20748 a skos:Concept ;
+    skos:broader ocs:C11645,
+        ocs:C9178,
+        ocs:C9546 ;
+    skos:closeMatch <http://dbpedia.org/resource/AP_Computer_Science> ;
+    skos:prefLabel "AP Computer Science" ;
+    skos:related ocs:C34173,
+        ocs:C43430,
+        ocs:C9855 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37524 a skos:Concept ;
+    skos:broader ocs:C15334 ;
+    skos:prefLabel "Spontaneous Otoacoustic Emissions" ;
+    skos:related ocs:C1027,
+        ocs:C16,
+        ocs:C17432,
+        ocs:C2300,
+        ocs:C37384,
+        ocs:C5706 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42781 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109 ;
+    skos:closeMatch <http://dbpedia.org/resource/Loose_Source_Routing> ;
+    skos:prefLabel "Loose Source Routing" ;
+    skos:related ocs:C18213,
+        ocs:C19227,
+        ocs:C20540,
+        ocs:C22819,
+        ocs:C22851,
+        ocs:C23666,
+        ocs:C29359,
+        ocs:C30630,
+        ocs:C34796,
+        ocs:C35923,
+        ocs:C38632,
+        ocs:C41222,
+        ocs:C41298,
+        ocs:C42585,
+        ocs:C43015,
+        ocs:C43595,
+        ocs:C44823,
+        ocs:C44968,
+        ocs:C45399 .
+

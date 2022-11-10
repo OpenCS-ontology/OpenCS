@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40654 a skos:Concept ;
+    skos:broader ocs:C36281 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dual_impedance> ;
+    skos:prefLabel "Dual impedance" ;
+    skos:related ocs:C15194,
+        ocs:C23074,
+        ocs:C25026,
+        ocs:C26183,
+        ocs:C2716,
+        ocs:C32519,
+        ocs:C38695,
+        ocs:C40590,
+        ocs:C6913 .
+

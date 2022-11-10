@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11264 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Transfer aid" ;
+    skos:related ocs:C10999,
+        ocs:C17236,
+        ocs:C18,
+        ocs:C24,
+        ocs:C4435,
+        ocs:C7 .
+

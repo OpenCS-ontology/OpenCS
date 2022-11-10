@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4453 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/File_viewer> ;
+    skos:prefLabel "File viewer" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C11531,
+        ocs:C11719,
+        ocs:C12815,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C38032,
+        ocs:C39975,
+        ocs:C43198,
+        ocs:C4333,
+        ocs:C44971,
+        ocs:C7476,
+        ocs:C7603,
+        ocs:C7736,
+        ocs:C8511,
+        ocs:C9,
+        ocs:C9993 .
+

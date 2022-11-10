@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C927 a skos:Concept ;
+    skos:broader ocs:C22 ;
+    skos:closeMatch <http://dbpedia.org/resource/Box_modeling> ;
+    skos:prefLabel "Box modeling" ;
+    skos:related ocs:C10426,
+        ocs:C10924,
+        ocs:C11689,
+        ocs:C18519,
+        ocs:C19559,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C33277,
+        ocs:C35225,
+        ocs:C3573,
+        ocs:C36542,
+        ocs:C39182,
+        ocs:C39921,
+        ocs:C45434,
+        ocs:C8399 .
+

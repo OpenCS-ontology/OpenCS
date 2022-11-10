@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32717 a skos:Concept ;
+    skos:broader ocs:C22598 ;
+    skos:closeMatch <http://dbpedia.org/resource/Probability_interpretations> ;
+    skos:prefLabel "Probability interpretations" ;
+    skos:related ocs:C14620,
+        ocs:C23670,
+        ocs:C246,
+        ocs:C33349,
+        ocs:C42482,
+        ocs:C43064,
+        ocs:C45027,
+        ocs:C6291,
+        ocs:C6692 .
+

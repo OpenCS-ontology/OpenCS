@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37502 a skos:Concept ;
+    skos:broader ocs:C14921,
+        ocs:C16908 ;
+    skos:closeMatch <http://dbpedia.org/resource/HyperNEAT> ;
+    skos:prefLabel "HyperNEAT" ;
+    skos:related ocs:C13633,
+        ocs:C16170,
+        ocs:C16908,
+        ocs:C18982,
+        ocs:C22194,
+        ocs:C25349,
+        ocs:C26206,
+        ocs:C30089,
+        ocs:C34002,
+        ocs:C34814,
+        ocs:C36567,
+        ocs:C37099,
+        ocs:C37267,
+        ocs:C37981,
+        ocs:C41798,
+        ocs:C43755,
+        ocs:C44292,
+        ocs:C9022 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7921 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pseudo_bit_error_ratio> ;
+    skos:prefLabel "Pseudo bit error ratio" ;
+    skos:related ocs:C11822,
+        ocs:C1316,
+        ocs:C14320,
+        ocs:C18799,
+        ocs:C21929,
+        ocs:C24469,
+        ocs:C43515,
+        ocs:C43783,
+        ocs:C44702,
+        ocs:C45368,
+        ocs:C45789,
+        ocs:C7856 .
+

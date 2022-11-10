@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31408 a skos:Concept ;
+    skos:broader ocs:C21471,
+        ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Water-pouring_algorithm> ;
+    skos:prefLabel "Water-pouring algorithm" ;
+    skos:related ocs:C11606,
+        ocs:C16105,
+        ocs:C19721,
+        ocs:C21471,
+        ocs:C24264,
+        ocs:C25458,
+        ocs:C25850,
+        ocs:C29366,
+        ocs:C3,
+        ocs:C33778,
+        ocs:C35894,
+        ocs:C36670,
+        ocs:C36688,
+        ocs:C44927,
+        ocs:C45789,
+        ocs:C5033,
+        ocs:C5506,
+        ocs:C5769 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34388 a skos:Concept ;
+    skos:broader ocs:C19674 ;
+    skos:closeMatch <http://dbpedia.org/resource/Riskware> ;
+    skos:prefLabel "Riskware" ;
+    skos:related ocs:C19674,
+        ocs:C27497,
+        ocs:C31767,
+        ocs:C37880,
+        ocs:C41068,
+        ocs:C7408 .
+

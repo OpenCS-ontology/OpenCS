@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9387 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fixed_Dialing_Number> ;
+    skos:prefLabel "Fixed Dialing Number" ;
+    skos:related ocs:C1041,
+        ocs:C13582,
+        ocs:C1894,
+        ocs:C26262,
+        ocs:C30890,
+        ocs:C31755,
+        ocs:C34092,
+        ocs:C39722,
+        ocs:C44290,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C7127,
+        ocs:C796,
+        ocs:C9154 .
+

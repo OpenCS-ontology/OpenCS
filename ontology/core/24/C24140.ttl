@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24140 a skos:Concept ;
+    skos:broader ocs:C4099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wetted_perimeter> ;
+    skos:prefLabel "Wetted perimeter" ;
+    skos:related ocs:C13207,
+        ocs:C27192,
+        ocs:C28577,
+        ocs:C29010 .
+

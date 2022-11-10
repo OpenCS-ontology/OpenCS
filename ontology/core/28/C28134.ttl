@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28134 a skos:Concept ;
+    skos:broader ocs:C10557,
+        ocs:C6114 ;
+    skos:closeMatch <http://dbpedia.org/resource/Average_revenue_per_user> ;
+    skos:prefLabel "Average revenue per user" ;
+    skos:related ocs:C10084,
+        ocs:C14578,
+        ocs:C21595,
+        ocs:C22407,
+        ocs:C26580,
+        ocs:C27704,
+        ocs:C3,
+        ocs:C4433,
+        ocs:C5917,
+        ocs:C8470,
+        ocs:C9113,
+        ocs:C9154 .
+

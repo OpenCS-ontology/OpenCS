@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37017 a skos:Concept ;
+    skos:broader ocs:C15774,
+        ocs:C16106,
+        ocs:C19721,
+        ocs:C21749 ;
+    skos:closeMatch <http://dbpedia.org/resource/China_Multimedia_Mobile_Broadcasting> ;
+    skos:prefLabel "China Multimedia Mobile Broadcasting" ;
+    skos:related ocs:C15774,
+        ocs:C20140,
+        ocs:C21749,
+        ocs:C22326,
+        ocs:C23025,
+        ocs:C25114,
+        ocs:C25712,
+        ocs:C26172,
+        ocs:C27572,
+        ocs:C30311,
+        ocs:C32456,
+        ocs:C33691,
+        ocs:C34148,
+        ocs:C3522,
+        ocs:C36240,
+        ocs:C40703,
+        ocs:C44584,
+        ocs:C7216,
+        ocs:C863 .
+

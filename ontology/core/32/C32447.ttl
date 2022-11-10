@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32447 a skos:Concept ;
+    skos:broader ocs:C25956 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mock_object> ;
+    skos:prefLabel "Mock object" ;
+    skos:related ocs:C10182,
+        ocs:C10552,
+        ocs:C10720,
+        ocs:C1333,
+        ocs:C14684,
+        ocs:C15786,
+        ocs:C19404,
+        ocs:C25956,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C29869,
+        ocs:C30756,
+        ocs:C35575,
+        ocs:C40193,
+        ocs:C41038,
+        ocs:C44785,
+        ocs:C5308,
+        ocs:C9870 .
+

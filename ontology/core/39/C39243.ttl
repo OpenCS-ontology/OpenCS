@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39243 a skos:Concept ;
+    skos:broader ocs:C30430,
+        ocs:C31027,
+        ocs:C32222,
+        ocs:C33886,
+        ocs:C37234 ;
+    skos:closeMatch <http://dbpedia.org/resource/Memory_barrier> ;
+    skos:prefLabel "Memory barrier" ;
+    skos:related ocs:C10320,
+        ocs:C16747,
+        ocs:C17204,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C20245,
+        ocs:C21551,
+        ocs:C21718,
+        ocs:C27,
+        ocs:C2750,
+        ocs:C28515,
+        ocs:C32786,
+        ocs:C40685,
+        ocs:C42690,
+        ocs:C43851,
+        ocs:C5551,
+        ocs:C8204,
+        ocs:C856,
+        ocs:C9776 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13418 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/BHDL> ;
+    skos:prefLabel "BHDL" ;
+    skos:related ocs:C1035,
+        ocs:C14655,
+        ocs:C18606,
+        ocs:C19351,
+        ocs:C19809,
+        ocs:C26090,
+        ocs:C28039,
+        ocs:C28423,
+        ocs:C29290,
+        ocs:C35739,
+        ocs:C37174,
+        ocs:C37681,
+        ocs:C41270,
+        ocs:C43302,
+        ocs:C4451,
+        ocs:C45279,
+        ocs:C45777,
+        ocs:C8786 .
+

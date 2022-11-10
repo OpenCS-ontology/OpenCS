@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35237 a skos:Concept ;
+    skos:broader ocs:C23307 ;
+    skos:closeMatch <http://dbpedia.org/resource/3D_audio_effect> ;
+    skos:prefLabel "3D audio effect" ;
+    skos:related ocs:C13320,
+        ocs:C1340,
+        ocs:C1449,
+        ocs:C15341,
+        ocs:C17927,
+        ocs:C21609,
+        ocs:C25195,
+        ocs:C2674,
+        ocs:C28881,
+        ocs:C36627,
+        ocs:C39249,
+        ocs:C5843,
+        ocs:C6417 .
+

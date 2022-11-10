@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26256 a skos:Concept ;
+    skos:broader ocs:C1057,
+        ocs:C8710 ;
+    skos:closeMatch <http://dbpedia.org/resource/Normalized_Google_distance> ;
+    skos:prefLabel "Normalized Google distance" ;
+    skos:related ocs:C10102,
+        ocs:C1057,
+        ocs:C13719,
+        ocs:C14004,
+        ocs:C17796,
+        ocs:C1812,
+        ocs:C22100,
+        ocs:C25459,
+        ocs:C25681,
+        ocs:C25937,
+        ocs:C29118,
+        ocs:C31,
+        ocs:C36447,
+        ocs:C40049,
+        ocs:C6880,
+        ocs:C8710 .
+

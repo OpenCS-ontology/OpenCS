@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14525 a skos:Concept ;
+    skos:broader ocs:C13252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_fatty_matter> ;
+    skos:prefLabel "Total fatty matter" ;
+    skos:related ocs:C36216 .
+

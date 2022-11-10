@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27184 a skos:Concept ;
+    skos:broader ocs:C3778 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_design> ;
+    skos:prefLabel "Service design" ;
+    skos:related ocs:C13413,
+        ocs:C19909,
+        ocs:C2135,
+        ocs:C22811,
+        ocs:C23671,
+        ocs:C31201,
+        ocs:C32974,
+        ocs:C3778,
+        ocs:C3836,
+        ocs:C4292,
+        ocs:C7904,
+        ocs:C8269 .
+

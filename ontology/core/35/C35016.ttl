@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35016 a skos:Concept ;
+    skos:broader ocs:C18419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chaos_communications> ;
+    skos:prefLabel "Chaos communications" ;
+    skos:related ocs:C14592,
+        ocs:C15405,
+        ocs:C18419,
+        ocs:C18420,
+        ocs:C24717,
+        ocs:C29662,
+        ocs:C33346,
+        ocs:C34416,
+        ocs:C37144 .
+

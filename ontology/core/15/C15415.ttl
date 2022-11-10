@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15415 a skos:Concept ;
+    skos:broader ocs:C8172 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sun_SPOT> ;
+    skos:prefLabel "Sun SPOT" ;
+    skos:related ocs:C11,
+        ocs:C1142,
+        ocs:C13593,
+        ocs:C14627,
+        ocs:C20483,
+        ocs:C23438,
+        ocs:C28850,
+        ocs:C30652,
+        ocs:C31489,
+        ocs:C31749,
+        ocs:C38833,
+        ocs:C39689,
+        ocs:C40705,
+        ocs:C42065,
+        ocs:C45545,
+        ocs:C6447,
+        ocs:C8136,
+        ocs:C8172 .
+

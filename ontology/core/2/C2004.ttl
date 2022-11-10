@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2004 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C13,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_pre-processing> ;
+    skos:prefLabel "Data pre-processing" ;
+    skos:related ocs:C10382,
+        ocs:C1040,
+        ocs:C11030,
+        ocs:C13,
+        ocs:C14239,
+        ocs:C15879,
+        ocs:C21,
+        ocs:C21157,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C25520,
+        ocs:C26398,
+        ocs:C3034,
+        ocs:C36403,
+        ocs:C5401,
+        ocs:C8367,
+        ocs:C9538,
+        ocs:C9874 .
+

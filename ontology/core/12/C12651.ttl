@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12651 a skos:Concept ;
+    skos:broader ocs:C7,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Care-Providing_Robot_FRIEND> ;
+    skos:prefLabel "Care-Providing Robot FRIEND" ;
+    skos:related ocs:C10396,
+        ocs:C15308,
+        ocs:C17236,
+        ocs:C19558,
+        ocs:C3852,
+        ocs:C5083,
+        ocs:C7,
+        ocs:C8089 .
+

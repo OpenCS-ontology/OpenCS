@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23267 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Astronomical_spectroscopy> ;
+    skos:prefLabel "Astronomical spectroscopy" ;
+    skos:related ocs:C17246,
+        ocs:C18085,
+        ocs:C22752,
+        ocs:C23296,
+        ocs:C26348,
+        ocs:C597 .
+

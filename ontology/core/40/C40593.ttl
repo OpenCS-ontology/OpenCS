@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40593 a skos:Concept ;
+    skos:broader ocs:C29902,
+        ocs:C30269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bennett's_inequality> ;
+    skos:prefLabel "Bennett's inequality" ;
+    skos:related ocs:C12109,
+        ocs:C17795,
+        ocs:C22092,
+        ocs:C37373 .
+

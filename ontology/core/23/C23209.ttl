@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23209 a skos:Concept ;
+    skos:broader ocs:C5818 ;
+    skos:closeMatch <http://dbpedia.org/resource/Modular_form> ;
+    skos:prefLabel "Modular form" ;
+    skos:related ocs:C23040,
+        ocs:C32124,
+        ocs:C32392,
+        ocs:C32877,
+        ocs:C35040,
+        ocs:C39587,
+        ocs:C39710,
+        ocs:C45135 .
+

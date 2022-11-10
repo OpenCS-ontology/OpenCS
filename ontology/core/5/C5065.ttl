@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5065 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Skype_security> ;
+    skos:prefLabel "Skype security" ;
+    skos:related ocs:C11540,
+        ocs:C16125,
+        ocs:C16152,
+        ocs:C18948,
+        ocs:C20993,
+        ocs:C22407,
+        ocs:C23230,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C27571,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C32526,
+        ocs:C37175,
+        ocs:C4218,
+        ocs:C44625,
+        ocs:C4751,
+        ocs:C7130,
+        ocs:C8614 .
+

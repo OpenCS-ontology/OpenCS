@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36689 a skos:Concept ;
+    skos:broader ocs:C16107 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_estimation_and_prediction_system> ;
+    skos:prefLabel "Traffic estimation and prediction system" ;
+    skos:related ocs:C12758,
+        ocs:C14215,
+        ocs:C15115,
+        ocs:C16107,
+        ocs:C25914,
+        ocs:C29481,
+        ocs:C33707,
+        ocs:C37334,
+        ocs:C37753,
+        ocs:C38665,
+        ocs:C9100 .
+

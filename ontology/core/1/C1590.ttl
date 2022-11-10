@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1590 a skos:Concept ;
+    skos:broader ocs:C27,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_Science_Grid_Consortium> ;
+    skos:prefLabel "Open Science Grid Consortium" ;
+    skos:related ocs:C13264,
+        ocs:C18924,
+        ocs:C26,
+        ocs:C26030,
+        ocs:C30,
+        ocs:C3486,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C8032,
+        ocs:C8614 .
+

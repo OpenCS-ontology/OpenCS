@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40911 a skos:Concept ;
+    skos:broader ocs:C31573 ;
+    skos:prefLabel "Wertheimeria" ;
+    skos:related ocs:C30248,
+        ocs:C40805 .
+

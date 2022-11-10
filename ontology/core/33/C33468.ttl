@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33468 a skos:Concept ;
+    skos:broader ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Von_Neumann's_inequality> ;
+    skos:prefLabel "Von Neumann's inequality" ;
+    skos:related ocs:C14029,
+        ocs:C17651,
+        ocs:C18076,
+        ocs:C23786,
+        ocs:C25801,
+        ocs:C28787,
+        ocs:C32558,
+        ocs:C40167,
+        ocs:C40536,
+        ocs:C40662,
+        ocs:C44342,
+        ocs:C44691,
+        ocs:C45576,
+        ocs:C45844 .
+

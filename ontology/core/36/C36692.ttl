@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36692 a skos:Concept ;
+    skos:broader ocs:C19524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wavelength_shifter> ;
+    skos:prefLabel "Wavelength shifter" ;
+    skos:related ocs:C19524,
+        ocs:C20168,
+        ocs:C31128,
+        ocs:C36181,
+        ocs:C36872 .
+

@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35805 a skos:Concept ;
+    skos:broader ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neurorobotics> ;
+    skos:prefLabel "Neurorobotics" ;
+    skos:related ocs:C10396,
+        ocs:C11329,
+        ocs:C17236,
+        ocs:C27121,
+        ocs:C29666,
+        ocs:C3694,
+        ocs:C3932,
+        ocs:C5922,
+        ocs:C8 .
+

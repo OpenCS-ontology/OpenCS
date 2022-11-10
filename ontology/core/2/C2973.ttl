@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2973 a skos:Concept ;
+    skos:broader ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_Physiological_Human> ;
+    skos:prefLabel "Virtual Physiological Human" ;
+    skos:related ocs:C1379,
+        ocs:C19126,
+        ocs:C23060,
+        ocs:C24205,
+        ocs:C45620,
+        ocs:C5295,
+        ocs:C7256,
+        ocs:C8399,
+        ocs:C8891 .
+

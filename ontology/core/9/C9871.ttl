@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9871 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectrogram> ;
+    skos:prefLabel "Spectrogram" ;
+    skos:related ocs:C10509,
+        ocs:C10554,
+        ocs:C10985,
+        ocs:C13046,
+        ocs:C1449,
+        ocs:C20648,
+        ocs:C28095,
+        ocs:C308,
+        ocs:C3173,
+        ocs:C4397,
+        ocs:C597 .
+

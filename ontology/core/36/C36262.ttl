@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36262 a skos:Concept ;
+    skos:broader ocs:C18764 ;
+    skos:closeMatch <http://dbpedia.org/resource/Secondary_liability> ;
+    skos:prefLabel "Secondary liability" ;
+    skos:related ocs:C11540,
+        ocs:C13306,
+        ocs:C15208,
+        ocs:C18764,
+        ocs:C26483,
+        ocs:C27675,
+        ocs:C32165,
+        ocs:C32306,
+        ocs:C33316,
+        ocs:C36013,
+        ocs:C40984,
+        ocs:C8614 .
+

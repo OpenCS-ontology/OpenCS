@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43826 a skos:Concept ;
+    skos:broader ocs:C33187 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hyponormal_operator> ;
+    skos:prefLabel "Hyponormal operator" ;
+    skos:related ocs:C28787,
+        ocs:C29576,
+        ocs:C31450,
+        ocs:C33102,
+        ocs:C34818,
+        ocs:C36974,
+        ocs:C38758 .
+

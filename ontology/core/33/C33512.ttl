@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33512 a skos:Concept ;
+    skos:broader ocs:C16370,
+        ocs:C19972 ;
+    skos:closeMatch <http://dbpedia.org/resource/Voronoi_deformation_density> ;
+    skos:prefLabel "Voronoi deformation density" ;
+    skos:related ocs:C34382,
+        ocs:C4422,
+        ocs:C8271 .
+

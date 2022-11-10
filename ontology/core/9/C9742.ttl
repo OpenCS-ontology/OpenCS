@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9742 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bad_sector> ;
+    skos:prefLabel "Bad sector" ;
+    skos:related ocs:C10269,
+        ocs:C10400,
+        ocs:C10501,
+        ocs:C10568,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C14707,
+        ocs:C21211,
+        ocs:C22957,
+        ocs:C25031,
+        ocs:C3160,
+        ocs:C36517,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C754,
+        ocs:C9 .
+

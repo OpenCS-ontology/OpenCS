@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34297 a skos:Concept ;
+    skos:broader ocs:C20206 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lynx_Arc> ;
+    skos:prefLabel "Lynx Arc" ;
+    skos:related ocs:C16731,
+        ocs:C17246,
+        ocs:C25136,
+        ocs:C34547 .
+

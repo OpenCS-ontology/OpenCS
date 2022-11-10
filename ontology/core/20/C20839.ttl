@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20839 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_manufacturing> ;
+    skos:prefLabel "Cloud manufacturing" ;
+    skos:related ocs:C12238,
+        ocs:C17238,
+        ocs:C19627,
+        ocs:C26161,
+        ocs:C30,
+        ocs:C35,
+        ocs:C35701,
+        ocs:C533,
+        ocs:C5715,
+        ocs:C6312,
+        ocs:C7106,
+        ocs:C7735,
+        ocs:C8173,
+        ocs:C9047 .
+

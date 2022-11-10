@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10269 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/S.M.A.R.T.> ;
+    skos:prefLabel "S.M.A.R.T." ;
+    skos:related ocs:C10501,
+        ocs:C10785,
+        ocs:C11960,
+        ocs:C12211,
+        ocs:C13783,
+        ocs:C22904,
+        ocs:C28881,
+        ocs:C6397,
+        ocs:C6536,
+        ocs:C7476,
+        ocs:C754,
+        ocs:C8326,
+        ocs:C9,
+        ocs:C9742 .
+

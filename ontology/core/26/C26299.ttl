@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26299 a skos:Concept ;
+    skos:broader ocs:C13309 ;
+    skos:prefLabel "Reading printed material" ;
+    skos:related ocs:C1051,
+        ocs:C27031,
+        ocs:C31,
+        ocs:C7,
+        ocs:C7917,
+        ocs:C8,
+        ocs:C9704 .
+

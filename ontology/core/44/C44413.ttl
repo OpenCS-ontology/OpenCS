@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44413 a skos:Concept ;
+    skos:broader ocs:C32962,
+        ocs:C33826,
+        ocs:C34475,
+        ocs:C36470 ;
+    skos:closeMatch <http://dbpedia.org/resource/Human_action_cycle> ;
+    skos:prefLabel "Human action cycle" ;
+    skos:related ocs:C11483,
+        ocs:C12581,
+        ocs:C13413,
+        ocs:C14148,
+        ocs:C16613,
+        ocs:C16801,
+        ocs:C18,
+        ocs:C2116,
+        ocs:C2136,
+        ocs:C23020,
+        ocs:C26634,
+        ocs:C34564,
+        ocs:C4292,
+        ocs:C5232,
+        ocs:C7736,
+        ocs:C7937,
+        ocs:C8269,
+        ocs:C9607 .
+

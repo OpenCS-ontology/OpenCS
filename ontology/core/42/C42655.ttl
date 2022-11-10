@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42655 a skos:Concept ;
+    skos:broader ocs:C30140,
+        ocs:C30920,
+        ocs:C33978,
+        ocs:C35493,
+        ocs:C35571,
+        ocs:C36873 ;
+    skos:closeMatch <http://dbpedia.org/resource/TCP_pacing> ;
+    skos:prefLabel "TCP pacing" ;
+    skos:related ocs:C11455,
+        ocs:C15065,
+        ocs:C17625,
+        ocs:C18173,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C24870,
+        ocs:C26,
+        ocs:C34271,
+        ocs:C34789,
+        ocs:C37577,
+        ocs:C38698,
+        ocs:C38818,
+        ocs:C39948,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C42173,
+        ocs:C43185,
+        ocs:C44036,
+        ocs:C4502 .
+

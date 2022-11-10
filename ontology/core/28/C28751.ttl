@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28751 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coded_aperture> ;
+    skos:prefLabel "Coded aperture" ;
+    skos:related ocs:C16186,
+        ocs:C32805,
+        ocs:C5710,
+        ocs:C5978,
+        ocs:C6943 .
+

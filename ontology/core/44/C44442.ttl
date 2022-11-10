@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44442 a skos:Concept ;
+    skos:broader ocs:C30729,
+        ocs:C36406,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Branch-decomposition> ;
+    skos:prefLabel "Branch-decomposition" ;
+    skos:related ocs:C26989,
+        ocs:C30729,
+        ocs:C32806,
+        ocs:C33699,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C39316,
+        ocs:C40694,
+        ocs:C42060,
+        ocs:C42244,
+        ocs:C42822,
+        ocs:C43232,
+        ocs:C43374,
+        ocs:C43502,
+        ocs:C43912,
+        ocs:C44295,
+        ocs:C45225,
+        ocs:C45271,
+        ocs:C45712 .
+

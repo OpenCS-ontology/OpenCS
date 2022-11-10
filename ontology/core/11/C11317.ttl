@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11317 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Katz's_back-off_model> ;
+    skos:prefLabel "Katz's back-off model" ;
+    skos:related ocs:C11722,
+        ocs:C14030,
+        ocs:C15663,
+        ocs:C16,
+        ocs:C1842,
+        ocs:C1844,
+        ocs:C20001,
+        ocs:C22075,
+        ocs:C22390,
+        ocs:C24383,
+        ocs:C2702,
+        ocs:C2884,
+        ocs:C39236,
+        ocs:C40655,
+        ocs:C44351,
+        ocs:C5856,
+        ocs:C6068,
+        ocs:C7807,
+        ocs:C9287 .
+

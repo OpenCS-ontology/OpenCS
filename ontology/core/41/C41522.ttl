@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41522 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C31013,
+        ocs:C33766,
+        ocs:C37748 ;
+    skos:prefLabel "Color image retrieval" .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42002 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C35166,
+        ocs:C35429,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_co-site_sampling> ;
+    skos:prefLabel "Color co-site sampling" ;
+    skos:related ocs:C10402,
+        ocs:C11318,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C20122,
+        ocs:C20961,
+        ocs:C29365,
+        ocs:C35429,
+        ocs:C38815,
+        ocs:C39878,
+        ocs:C42391,
+        ocs:C6586,
+        ocs:C6942,
+        ocs:C7789,
+        ocs:C8021 .
+

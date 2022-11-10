@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11656 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Traffic_reporting> ;
+    skos:prefLabel "Traffic reporting" ;
+    skos:related ocs:C12641,
+        ocs:C12758,
+        ocs:C12999,
+        ocs:C14828,
+        ocs:C15115,
+        ocs:C15505,
+        ocs:C16971,
+        ocs:C23009,
+        ocs:C28716,
+        ocs:C31899,
+        ocs:C3390,
+        ocs:C34119,
+        ocs:C38216,
+        ocs:C39139,
+        ocs:C6243,
+        ocs:C9100 .
+

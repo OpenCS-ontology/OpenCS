@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23304 a skos:Concept ;
+    skos:broader ocs:C4879 ;
+    skos:closeMatch <http://dbpedia.org/resource/Target_hardening> ;
+    skos:prefLabel "Target hardening" ;
+    skos:related ocs:C11879,
+        ocs:C17046,
+        ocs:C20994,
+        ocs:C29321,
+        ocs:C2934,
+        ocs:C34993 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35315 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:closeMatch <http://dbpedia.org/resource/Iberiotoxin> ;
+    skos:prefLabel "Iberiotoxin" ;
+    skos:related ocs:C18138,
+        ocs:C31045,
+        ocs:C32084,
+        ocs:C32749,
+        ocs:C33053,
+        ocs:C34294,
+        ocs:C38074,
+        ocs:C41081,
+        ocs:C41326,
+        ocs:C41774,
+        ocs:C42913,
+        ocs:C44461,
+        ocs:C45220 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23102 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ordered_exponential> ;
+    skos:prefLabel "Ordered exponential" ;
+    skos:related ocs:C16744,
+        ocs:C23485,
+        ocs:C24834 .
+

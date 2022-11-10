@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2533 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Prototype_pattern> ;
+    skos:prefLabel "Prototype pattern" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C12455,
+        ocs:C15786,
+        ocs:C17734,
+        ocs:C25508,
+        ocs:C30157,
+        ocs:C31483,
+        ocs:C32078,
+        ocs:C33616,
+        ocs:C33621,
+        ocs:C34129,
+        ocs:C36614,
+        ocs:C40193,
+        ocs:C42211,
+        ocs:C44286 .
+

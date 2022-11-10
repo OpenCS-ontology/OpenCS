@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15596 a skos:Concept ;
+    skos:broader ocs:C12029 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ocean_acoustic_tomography> ;
+    skos:prefLabel "Ocean acoustic tomography" ;
+    skos:related ocs:C12641,
+        ocs:C18752,
+        ocs:C18810,
+        ocs:C20234,
+        ocs:C45278,
+        ocs:C597,
+        ocs:C7008 .
+

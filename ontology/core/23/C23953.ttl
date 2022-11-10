@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23953 a skos:Concept ;
+    skos:broader ocs:C12942 ;
+    skos:prefLabel "Multiplexed array" ;
+    skos:related ocs:C1,
+        ocs:C12582,
+        ocs:C2,
+        ocs:C2699,
+        ocs:C8475 .
+

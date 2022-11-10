@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25151 a skos:Concept ;
+    skos:broader ocs:C11128,
+        ocs:C6941,
+        ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/List_comprehension> ;
+    skos:prefLabel "List comprehension" ;
+    skos:related ocs:C10284,
+        ocs:C10720,
+        ocs:C10862,
+        ocs:C11128,
+        ocs:C11293,
+        ocs:C11547,
+        ocs:C15969,
+        ocs:C18086,
+        ocs:C19,
+        ocs:C23909,
+        ocs:C25684,
+        ocs:C27380,
+        ocs:C386,
+        ocs:C6941,
+        ocs:C7825,
+        ocs:C8022,
+        ocs:C8751,
+        ocs:C8864 .
+

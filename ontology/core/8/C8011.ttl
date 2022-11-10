@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8011 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Publication> ;
+    skos:prefLabel "Publication" ;
+    skos:related ocs:C13306,
+        ocs:C30476,
+        ocs:C5746,
+        ocs:C6916,
+        ocs:C8614 .
+

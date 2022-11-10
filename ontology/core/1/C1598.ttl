@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1598 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Proof_by_exhaustion> ;
+    skos:prefLabel "Proof by exhaustion" ;
+    skos:related ocs:C12474,
+        ocs:C13511,
+        ocs:C14693,
+        ocs:C16614,
+        ocs:C21497,
+        ocs:C23846,
+        ocs:C25442,
+        ocs:C386,
+        ocs:C38898,
+        ocs:C40395,
+        ocs:C43008,
+        ocs:C4756 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23692 a skos:Concept ;
+    skos:broader ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Russian_grammar> ;
+    skos:prefLabel "Russian grammar" ;
+    skos:related ocs:C10287,
+        ocs:C14180,
+        ocs:C15012,
+        ocs:C18232,
+        ocs:C20870,
+        ocs:C25015,
+        ocs:C25169,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C28817,
+        ocs:C33735,
+        ocs:C35238,
+        ocs:C37038,
+        ocs:C6545 .
+

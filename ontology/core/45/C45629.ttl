@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45629 a skos:Concept ;
+    skos:broader ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_verification_and_validation> ;
+    skos:prefLabel "Software verification and validation" ;
+    skos:related ocs:C1035,
+        ocs:C1253,
+        ocs:C18415,
+        ocs:C2044,
+        ocs:C25956,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C29790,
+        ocs:C32978,
+        ocs:C37174,
+        ocs:C38528,
+        ocs:C38570,
+        ocs:C41342,
+        ocs:C41989,
+        ocs:C43653,
+        ocs:C44389,
+        ocs:C45178,
+        ocs:C4558,
+        ocs:C7903 .
+

@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7344 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Virtual_team> ;
+    skos:prefLabel "Virtual team" ;
+    skos:related ocs:C10225,
+        ocs:C10397,
+        ocs:C10861,
+        ocs:C11026,
+        ocs:C11657,
+        ocs:C12599,
+        ocs:C2187,
+        ocs:C22668,
+        ocs:C26654,
+        ocs:C3,
+        ocs:C37505,
+        ocs:C672,
+        ocs:C8614,
+        ocs:C8869 .
+

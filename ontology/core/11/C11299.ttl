@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11299 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-inhomogeneous_hidden_Bernoulli_model> ;
+    skos:prefLabel "Time-inhomogeneous hidden Bernoulli model" ;
+    skos:related ocs:C16,
+        ocs:C17882,
+        ocs:C19174,
+        ocs:C20327,
+        ocs:C27053,
+        ocs:C28638,
+        ocs:C34692,
+        ocs:C37734,
+        ocs:C38431,
+        ocs:C39236,
+        ocs:C39489,
+        ocs:C39680,
+        ocs:C41291,
+        ocs:C5856,
+        ocs:C7689 .
+

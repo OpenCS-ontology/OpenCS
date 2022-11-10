@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45538 a skos:Concept ;
+    skos:broader ocs:C33274 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goodman_and_Kruskal's_gamma> ;
+    skos:prefLabel "Goodman and Kruskal's gamma" ;
+    skos:related ocs:C26527,
+        ocs:C26643,
+        ocs:C3065,
+        ocs:C36163,
+        ocs:C4479,
+        ocs:C45684,
+        ocs:C5637,
+        ocs:C8385 .
+

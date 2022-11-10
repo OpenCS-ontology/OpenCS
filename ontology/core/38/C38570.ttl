@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38570 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C33104,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_quality_assurance> ;
+    skos:prefLabel "Software quality assurance" ;
+    skos:related ocs:C1253,
+        ocs:C18415,
+        ocs:C2057,
+        ocs:C25956,
+        ocs:C28,
+        ocs:C28080,
+        ocs:C32978,
+        ocs:C35202,
+        ocs:C35575,
+        ocs:C37174,
+        ocs:C38547,
+        ocs:C41038,
+        ocs:C42487,
+        ocs:C44006,
+        ocs:C44389,
+        ocs:C45401,
+        ocs:C4558,
+        ocs:C45629 .
+

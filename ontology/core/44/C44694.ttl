@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44694 a skos:Concept ;
+    skos:broader ocs:C34414 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hessian_automatic_differentiation> ;
+    skos:prefLabel "Hessian automatic differentiation" ;
+    skos:related ocs:C11285,
+        ocs:C20399 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26116 a skos:Concept ;
+    skos:broader ocs:C10587,
+        ocs:C4255 ;
+    skos:closeMatch <http://dbpedia.org/resource/OTDOA> ;
+    skos:prefLabel "OTDOA" ;
+    skos:related ocs:C10587,
+        ocs:C18811,
+        ocs:C21976,
+        ocs:C24558,
+        ocs:C30890,
+        ocs:C31469,
+        ocs:C32715,
+        ocs:C32846,
+        ocs:C35692,
+        ocs:C35897,
+        ocs:C4104,
+        ocs:C42210,
+        ocs:C42273,
+        ocs:C44290,
+        ocs:C6240,
+        ocs:C9113,
+        ocs:C9154 .
+

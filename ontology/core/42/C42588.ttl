@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42588 a skos:Concept ;
+    skos:broader ocs:C31458,
+        ocs:C31842,
+        ocs:C32503,
+        ocs:C33242 ;
+    skos:closeMatch <http://dbpedia.org/resource/Diffusion_Monte_Carlo> ;
+    skos:prefLabel "Diffusion Monte Carlo" ;
+    skos:related ocs:C14319,
+        ocs:C30603,
+        ocs:C8516 .
+

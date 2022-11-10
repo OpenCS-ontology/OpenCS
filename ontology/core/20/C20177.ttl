@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20177 a skos:Concept ;
+    skos:broader ocs:C12849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Natural_Color_System> ;
+    skos:prefLabel "Natural Color System" ;
+    skos:related ocs:C12849,
+        ocs:C13544,
+        ocs:C15310,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C23675,
+        ocs:C24598,
+        ocs:C32992,
+        ocs:C37103,
+        ocs:C42852,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C966 .
+

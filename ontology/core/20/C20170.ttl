@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20170 a skos:Concept ;
+    skos:broader ocs:C11026,
+        ocs:C4652 ;
+    skos:closeMatch <http://dbpedia.org/resource/Small-world_experiment> ;
+    skos:prefLabel "Small-world experiment" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C17671,
+        ocs:C18569,
+        ocs:C19399,
+        ocs:C19675,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C25141,
+        ocs:C28521,
+        ocs:C28991,
+        ocs:C36516,
+        ocs:C36858,
+        ocs:C44043,
+        ocs:C4652,
+        ocs:C7460 .
+

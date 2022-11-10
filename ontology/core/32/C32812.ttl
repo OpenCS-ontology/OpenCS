@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32812 a skos:Concept ;
+    skos:broader ocs:C16917 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nephanalysis> ;
+    skos:prefLabel "Nephanalysis" ;
+    skos:related ocs:C20908,
+        ocs:C26939,
+        ocs:C33190,
+        ocs:C34996,
+        ocs:C39714,
+        ocs:C42337 .
+

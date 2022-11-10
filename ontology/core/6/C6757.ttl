@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6757 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/New_media> ;
+    skos:prefLabel "New media" ;
+    skos:related ocs:C1,
+        ocs:C12999,
+        ocs:C13153,
+        ocs:C17,
+        ocs:C22668,
+        ocs:C3444,
+        ocs:C4712,
+        ocs:C5926,
+        ocs:C6219,
+        ocs:C8614 .
+

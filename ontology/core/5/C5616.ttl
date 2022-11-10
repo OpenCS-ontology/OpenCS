@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5616 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Latency_(engineering)> ;
+    skos:prefLabel "Latency (engineering)" ;
+    skos:related ocs:C12111,
+        ocs:C14210,
+        ocs:C15065,
+        ocs:C16243,
+        ocs:C16953,
+        ocs:C20691,
+        ocs:C22407,
+        ocs:C24323,
+        ocs:C24590,
+        ocs:C26,
+        ocs:C3,
+        ocs:C31954,
+        ocs:C39948,
+        ocs:C4197,
+        ocs:C42093,
+        ocs:C45651,
+        ocs:C5506,
+        ocs:C9 .
+

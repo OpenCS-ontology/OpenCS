@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1705 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/SafetyBUS_p> ;
+    skos:prefLabel "SafetyBUS p" ;
+    skos:related ocs:C14858,
+        ocs:C173,
+        ocs:C20519,
+        ocs:C3039,
+        ocs:C3362,
+        ocs:C38589,
+        ocs:C40074,
+        ocs:C490,
+        ocs:C7794,
+        ocs:C8562 .
+

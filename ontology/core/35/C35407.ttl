@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35407 a skos:Concept ;
+    skos:broader ocs:C21421 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signorini_problem> ;
+    skos:prefLabel "Signorini problem" ;
+    skos:related ocs:C1884,
+        ocs:C21421,
+        ocs:C35572,
+        ocs:C39746,
+        ocs:C9238 .
+

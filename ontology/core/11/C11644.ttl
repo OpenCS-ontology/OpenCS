@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11644 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/Enterprise_planning_system> ;
+    skos:prefLabel "Enterprise planning system" ;
+    skos:related ocs:C10764,
+        ocs:C12736,
+        ocs:C1332,
+        ocs:C20812,
+        ocs:C2304,
+        ocs:C28632,
+        ocs:C4768,
+        ocs:C7559 .
+

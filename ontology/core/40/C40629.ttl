@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40629 a skos:Concept ;
+    skos:broader ocs:C31512 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hermite_spline> ;
+    skos:prefLabel "Hermite spline" ;
+    skos:related ocs:C15652,
+        ocs:C15775,
+        ocs:C29473,
+        ocs:C31512,
+        ocs:C36952,
+        ocs:C39314,
+        ocs:C40577,
+        ocs:C43001,
+        ocs:C43673,
+        ocs:C43908,
+        ocs:C45272,
+        ocs:C8781 .
+

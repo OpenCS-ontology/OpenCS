@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34886 a skos:Concept ;
+    skos:broader ocs:C22753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Payment_order> ;
+    skos:prefLabel "Payment order" ;
+    skos:related ocs:C12752,
+        ocs:C14135,
+        ocs:C15464,
+        ocs:C19078,
+        ocs:C24659,
+        ocs:C26838,
+        ocs:C27327,
+        ocs:C27523,
+        ocs:C34589 .
+

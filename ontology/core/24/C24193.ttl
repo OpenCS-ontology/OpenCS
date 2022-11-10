@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24193 a skos:Concept ;
+    skos:broader ocs:C1938,
+        ocs:C2801,
+        ocs:C5462,
+        ocs:C8559 ;
+    skos:prefLabel "Local feature descriptor" .
+

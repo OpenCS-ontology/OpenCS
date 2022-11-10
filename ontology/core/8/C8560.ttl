@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8560 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leap_second> ;
+    skos:prefLabel "Leap second" ;
+    skos:related ocs:C12641,
+        ocs:C18988,
+        ocs:C1941,
+        ocs:C19672,
+        ocs:C22220,
+        ocs:C43546,
+        ocs:C9026 .
+

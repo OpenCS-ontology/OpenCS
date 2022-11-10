@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35116 a skos:Concept ;
+    skos:broader ocs:C16201,
+        ocs:C24825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pakistan_Sign_Language> ;
+    skos:prefLabel "Pakistan sign language" ;
+    skos:related ocs:C16,
+        ocs:C20933,
+        ocs:C24825,
+        ocs:C32,
+        ocs:C8 .
+

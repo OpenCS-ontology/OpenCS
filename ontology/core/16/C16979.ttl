@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16979 a skos:Concept ;
+    skos:broader ocs:C3851 ;
+    skos:closeMatch <http://dbpedia.org/resource/French_curve> ;
+    skos:prefLabel "French curve" ;
+    skos:related ocs:C45002,
+        ocs:C7914 .
+

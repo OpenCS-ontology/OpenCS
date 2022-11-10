@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7658 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Similarity_measure> ;
+    skos:prefLabel "Similarity measure" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C13547,
+        ocs:C14469,
+        ocs:C19398,
+        ocs:C20003,
+        ocs:C25,
+        ocs:C25040,
+        ocs:C26541,
+        ocs:C29024,
+        ocs:C29574,
+        ocs:C32289 .
+

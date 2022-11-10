@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42312 a skos:Concept ;
+    skos:broader ocs:C29660,
+        ocs:C34223 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vantage-point_tree> ;
+    skos:prefLabel "Vantage-point tree" ;
+    skos:related ocs:C11325,
+        ocs:C20046,
+        ocs:C25440,
+        ocs:C26515,
+        ocs:C33701,
+        ocs:C34223,
+        ocs:C3532,
+        ocs:C36234,
+        ocs:C38550,
+        ocs:C42030,
+        ocs:C43779,
+        ocs:C45739,
+        ocs:C6693,
+        ocs:C8452,
+        ocs:C8519,
+        ocs:C8522 .
+

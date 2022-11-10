@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14531 a skos:Concept ;
+    skos:broader ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Roentgen_stereophotogrammetry> ;
+    skos:prefLabel "Roentgen stereophotogrammetry" ;
+    skos:related ocs:C10051,
+        ocs:C14306,
+        ocs:C2703 .
+

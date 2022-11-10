@@ -1,0 +1,33 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15344 a skos:Concept ;
+    skos:broader ocs:C5823,
+        ocs:C619,
+        ocs:C6402,
+        ocs:C749,
+        ocs:C8660,
+        ocs:C9556 ;
+    skos:closeMatch <http://dbpedia.org/resource/Closest_string> ;
+    skos:prefLabel "Closest string" ;
+    skos:related ocs:C11372,
+        ocs:C14953,
+        ocs:C30401,
+        ocs:C31148,
+        ocs:C32806,
+        ocs:C38590,
+        ocs:C39136,
+        ocs:C40819,
+        ocs:C41596,
+        ocs:C41731,
+        ocs:C43638,
+        ocs:C44250,
+        ocs:C44464,
+        ocs:C44465,
+        ocs:C5823,
+        ocs:C619,
+        ocs:C6402,
+        ocs:C7988,
+        ocs:C8660,
+        ocs:C9090 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C630 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reis_telephone> ;
+    skos:prefLabel "Reis telephone" ;
+    skos:related ocs:C10928,
+        ocs:C1523,
+        ocs:C16547,
+        ocs:C18032,
+        ocs:C21441,
+        ocs:C2567,
+        ocs:C30952,
+        ocs:C37673,
+        ocs:C5843,
+        ocs:C8291,
+        ocs:C9113 .
+

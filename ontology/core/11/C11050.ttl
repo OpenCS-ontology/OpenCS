@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11050 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Massive_open_online_course> ;
+    skos:prefLabel "Massive open online course" ;
+    skos:related ocs:C1,
+        ocs:C11058,
+        ocs:C17812,
+        ocs:C21674,
+        ocs:C24564,
+        ocs:C26813,
+        ocs:C2762,
+        ocs:C33164,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C4866,
+        ocs:C5532,
+        ocs:C5680,
+        ocs:C8614 .
+

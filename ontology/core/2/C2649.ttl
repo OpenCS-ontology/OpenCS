@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2649 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tracing_(software)> ;
+    skos:prefLabel "Tracing" ;
+    skos:related ocs:C12257,
+        ocs:C1253,
+        ocs:C1665,
+        ocs:C1843,
+        ocs:C19699,
+        ocs:C2057,
+        ocs:C23181,
+        ocs:C24349,
+        ocs:C35575,
+        ocs:C37447,
+        ocs:C3858,
+        ocs:C40564,
+        ocs:C4226,
+        ocs:C9 .
+

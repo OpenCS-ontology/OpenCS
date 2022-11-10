@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2197 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Leech_(computing)> ;
+    skos:prefLabel "Leech" ;
+    skos:related ocs:C11540,
+        ocs:C14223,
+        ocs:C16205,
+        ocs:C16369,
+        ocs:C17794,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26239,
+        ocs:C27557,
+        ocs:C34271,
+        ocs:C34356,
+        ocs:C4129,
+        ocs:C5520,
+        ocs:C6818,
+        ocs:C8614,
+        ocs:C9540 .
+

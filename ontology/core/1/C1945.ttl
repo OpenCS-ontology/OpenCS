@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1945 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/J_Sharp> ;
+    skos:prefLabel "J Sharp" ;
+    skos:related ocs:C11293,
+        ocs:C1142,
+        ocs:C11661,
+        ocs:C13464,
+        ocs:C14627,
+        ocs:C14632,
+        ocs:C22284,
+        ocs:C24646,
+        ocs:C26102,
+        ocs:C2674,
+        ocs:C28944,
+        ocs:C31404,
+        ocs:C3176,
+        ocs:C44708,
+        ocs:C45618,
+        ocs:C4918,
+        ocs:C5709,
+        ocs:C5961,
+        ocs:C9033 .
+

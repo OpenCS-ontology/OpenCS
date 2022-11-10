@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36283 a skos:Concept ;
+    skos:broader ocs:C22812 ;
+    skos:closeMatch <http://dbpedia.org/resource/Present_value_of_costs> ;
+    skos:prefLabel "Present value of costs" ;
+    skos:related ocs:C36241 .
+

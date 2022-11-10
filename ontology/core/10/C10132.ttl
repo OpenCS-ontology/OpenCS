@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10132 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ven_(currency)> ;
+    skos:prefLabel "Ven" ;
+    skos:related ocs:C14011,
+        ocs:C23245,
+        ocs:C26452,
+        ocs:C32299,
+        ocs:C35771,
+        ocs:C37228,
+        ocs:C37590 .
+

@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45117 a skos:Concept ;
+    skos:broader ocs:C31283,
+        ocs:C34142,
+        ocs:C34746,
+        ocs:C35392 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chi_distribution> ;
+    skos:prefLabel "Chi distribution" ;
+    skos:related ocs:C16163,
+        ocs:C21356,
+        ocs:C25862,
+        ocs:C37721,
+        ocs:C39014,
+        ocs:C39273,
+        ocs:C40060,
+        ocs:C9326 .
+

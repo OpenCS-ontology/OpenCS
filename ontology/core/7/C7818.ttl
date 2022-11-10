@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7818 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-centered_instruction> ;
+    skos:prefLabel "Model-centered instruction" ;
+    skos:related ocs:C16053,
+        ocs:C18417,
+        ocs:C2367,
+        ocs:C25305,
+        ocs:C3444,
+        ocs:C37105 .
+

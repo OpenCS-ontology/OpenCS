@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34398 a skos:Concept ;
+    skos:broader ocs:C23181 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-cutting_concern> ;
+    skos:prefLabel "Cross-cutting concern" ;
+    skos:related ocs:C10508,
+        ocs:C10720,
+        ocs:C12257,
+        ocs:C15611,
+        ocs:C19,
+        ocs:C19374,
+        ocs:C2172,
+        ocs:C22095,
+        ocs:C23181,
+        ocs:C25957,
+        ocs:C28,
+        ocs:C29905,
+        ocs:C31321,
+        ocs:C33311,
+        ocs:C36972,
+        ocs:C37447,
+        ocs:C37654,
+        ocs:C6072,
+        ocs:C8751 .
+

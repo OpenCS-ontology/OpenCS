@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1886 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/BMW_Assist> ;
+    skos:prefLabel "BMW Assist" ;
+    skos:related ocs:C12641,
+        ocs:C1302,
+        ocs:C19226,
+        ocs:C21424,
+        ocs:C27532,
+        ocs:C3,
+        ocs:C31452,
+        ocs:C35725,
+        ocs:C4428,
+        ocs:C6029,
+        ocs:C6862,
+        ocs:C7002,
+        ocs:C7466,
+        ocs:C7561,
+        ocs:C7792,
+        ocs:C7850,
+        ocs:C9113,
+        ocs:C9666 .
+

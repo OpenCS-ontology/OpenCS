@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43691 a skos:Concept ;
+    skos:broader ocs:C32978,
+        ocs:C35202,
+        ocs:C35575 ;
+    skos:prefLabel "Software evolvability" .
+

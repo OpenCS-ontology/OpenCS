@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30657 a skos:Concept ;
+    skos:broader ocs:C18753,
+        ocs:C23748,
+        ocs:C24973,
+        ocs:C27705,
+        ocs:C27825 ;
+    skos:closeMatch <http://dbpedia.org/resource/Differential_entropy> ;
+    skos:prefLabel "Differential entropy" ;
+    skos:related ocs:C10767,
+        ocs:C12737,
+        ocs:C16163,
+        ocs:C1844,
+        ocs:C23748,
+        ocs:C25862,
+        ocs:C31632,
+        ocs:C39427,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C795,
+        ocs:C8332,
+        ocs:C9268,
+        ocs:C9326 .
+

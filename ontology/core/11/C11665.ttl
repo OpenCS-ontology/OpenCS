@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11665 a skos:Concept ;
+    skos:broader ocs:C14,
+        ocs:C28 ;
+    skos:prefLabel "Computer Software Engineering" ;
+    skos:related ocs:C11448,
+        ocs:C1253,
+        ocs:C17,
+        ocs:C18973,
+        ocs:C28454,
+        ocs:C40112,
+        ocs:C41897,
+        ocs:C8 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26464 a skos:Concept ;
+    skos:broader ocs:C8581 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arithmetic_circuit_complexity> ;
+    skos:prefLabel "Arithmetic circuit complexity" ;
+    skos:related ocs:C23148,
+        ocs:C25360,
+        ocs:C32808,
+        ocs:C3840,
+        ocs:C40818,
+        ocs:C41530,
+        ocs:C8660 .
+

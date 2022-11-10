@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41226 a skos:Concept ;
+    skos:broader ocs:C31338,
+        ocs:C31489 ;
+    skos:closeMatch <http://dbpedia.org/resource/Security-evaluated_operating_system> ;
+    skos:prefLabel "Security-evaluated operating system" ;
+    skos:related ocs:C10994,
+        ocs:C12052,
+        ocs:C12600,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C17669,
+        ocs:C17878,
+        ocs:C20800,
+        ocs:C2545,
+        ocs:C27336,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C42619,
+        ocs:C43345,
+        ocs:C4832,
+        ocs:C9 .
+

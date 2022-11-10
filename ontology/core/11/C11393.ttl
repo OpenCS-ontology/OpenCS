@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11393 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_data_processing> ;
+    skos:prefLabel "Electronic data processing" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C10320,
+        ocs:C10400,
+        ocs:C10772,
+        ocs:C1253,
+        ocs:C13101,
+        ocs:C197,
+        ocs:C2057,
+        ocs:C2193,
+        ocs:C222,
+        ocs:C3036,
+        ocs:C3231,
+        ocs:C6072,
+        ocs:C6714,
+        ocs:C8614,
+        ocs:C9,
+        ocs:C9035 .
+

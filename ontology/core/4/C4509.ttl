@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4509 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/V-Model> ;
+    skos:prefLabel "V-Model" ;
+    skos:related ocs:C23437,
+        ocs:C25956,
+        ocs:C28080,
+        ocs:C3674,
+        ocs:C37174,
+        ocs:C38970,
+        ocs:C41038,
+        ocs:C42516,
+        ocs:C43994,
+        ocs:C44988,
+        ocs:C4558,
+        ocs:C6595,
+        ocs:C8387 .
+

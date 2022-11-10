@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C694 a skos:Concept ;
+    skos:broader ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Storage_efficiency> ;
+    skos:prefLabel "Storage efficiency" ;
+    skos:related ocs:C10447,
+        ocs:C10501,
+        ocs:C11986,
+        ocs:C13412,
+        ocs:C15477,
+        ocs:C22104,
+        ocs:C24942,
+        ocs:C25012,
+        ocs:C26161,
+        ocs:C26687,
+        ocs:C27259,
+        ocs:C29116,
+        ocs:C30114,
+        ocs:C32389,
+        ocs:C7847,
+        ocs:C8298,
+        ocs:C8750 .
+

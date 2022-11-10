@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30601 a skos:Concept ;
+    skos:broader ocs:C21885,
+        ocs:C23482 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-sequential_study> ;
+    skos:prefLabel "Cross-sequential study" ;
+    skos:related ocs:C35302 .
+

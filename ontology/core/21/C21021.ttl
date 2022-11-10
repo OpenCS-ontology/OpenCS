@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21021 a skos:Concept ;
+    skos:broader ocs:C123 ;
+    skos:closeMatch <http://dbpedia.org/resource/Infinite_impulse_response> ;
+    skos:prefLabel "Infinite impulse response" ;
+    skos:related ocs:C11150,
+        ocs:C123,
+        ocs:C1449,
+        ocs:C18077,
+        ocs:C23968,
+        ocs:C32519,
+        ocs:C44671,
+        ocs:C44704,
+        ocs:C5042,
+        ocs:C5298 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31402 a skos:Concept ;
+    skos:broader ocs:C24558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-input_single-output_system> ;
+    skos:prefLabel "Single-input single-output system" ;
+    skos:related ocs:C13046,
+        ocs:C1447,
+        ocs:C19721,
+        ocs:C24558,
+        ocs:C36695,
+        ocs:C40095,
+        ocs:C7159 .
+

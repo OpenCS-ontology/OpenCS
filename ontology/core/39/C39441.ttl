@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39441 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C34537,
+        ocs:C34684,
+        ocs:C34753,
+        ocs:C37292 ;
+    skos:prefLabel "Cryptography cloud computing" .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45180 a skos:Concept ;
+    skos:broader ocs:C31395,
+        ocs:C33103,
+        ocs:C35534 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schema_(genetic_algorithms)> ;
+    skos:prefLabel "Schema (genetic algorithms)" ;
+    skos:related ocs:C13633,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C27563,
+        ocs:C29723,
+        ocs:C32353,
+        ocs:C40760,
+        ocs:C4462,
+        ocs:C6221,
+        ocs:C7553,
+        ocs:C8516 .
+

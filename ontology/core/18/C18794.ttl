@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18794 a skos:Concept ;
+    skos:broader ocs:C13047,
+        ocs:C3057,
+        ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Error-driven_learning> ;
+    skos:prefLabel "Error-driven learning" ;
+    skos:related ocs:C21546,
+        ocs:C42754 .
+

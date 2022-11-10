@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26272 a skos:Concept ;
+    skos:broader ocs:C11986,
+        ocs:C3065 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antecedent_variable> ;
+    skos:prefLabel "Antecedent variable" ;
+    skos:related ocs:C11986,
+        ocs:C1241,
+        ocs:C1725,
+        ocs:C23554,
+        ocs:C26888,
+        ocs:C3065,
+        ocs:C32059,
+        ocs:C32677,
+        ocs:C39533,
+        ocs:C42437,
+        ocs:C45118,
+        ocs:C4643,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C6415 .
+

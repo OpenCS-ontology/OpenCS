@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43853 a skos:Concept ;
+    skos:broader ocs:C30731,
+        ocs:C31123,
+        ocs:C35366 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unordered_associative_containers_(C++)> ;
+    skos:prefLabel "Unordered associative containers" .
+

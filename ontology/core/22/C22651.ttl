@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22651 a skos:Concept ;
+    skos:broader ocs:C11046,
+        ocs:C3444 ;
+    skos:closeMatch <http://dbpedia.org/resource/Universal_design_for_instruction> ;
+    skos:prefLabel "Universal design for instruction" ;
+    skos:related ocs:C11046,
+        ocs:C1261,
+        ocs:C15045,
+        ocs:C1565,
+        ocs:C21674,
+        ocs:C25892,
+        ocs:C27502,
+        ocs:C3057,
+        ocs:C3521,
+        ocs:C5502,
+        ocs:C640,
+        ocs:C7714 .
+

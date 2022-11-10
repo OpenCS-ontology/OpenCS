@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45121 a skos:Concept ;
+    skos:broader ocs:C33318,
+        ocs:C35269 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resistor–transistor_logic> ;
+    skos:prefLabel "Resistor–transistor logic" ;
+    skos:related ocs:C11252,
+        ocs:C35269,
+        ocs:C38944,
+        ocs:C40172,
+        ocs:C40416,
+        ocs:C42796,
+        ocs:C43052,
+        ocs:C45328 .
+

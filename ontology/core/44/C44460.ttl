@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44460 a skos:Concept ;
+    skos:broader ocs:C32333,
+        ocs:C36406 ;
+    skos:closeMatch <http://dbpedia.org/resource/Apollonian_network> ;
+    skos:prefLabel "Apollonian network" ;
+    skos:related ocs:C30730,
+        ocs:C36406,
+        ocs:C38706,
+        ocs:C38781,
+        ocs:C38853,
+        ocs:C38962,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C41573,
+        ocs:C42060,
+        ocs:C42822,
+        ocs:C42848,
+        ocs:C43055,
+        ocs:C43374,
+        ocs:C43502,
+        ocs:C43652,
+        ocs:C43912,
+        ocs:C45225 .
+

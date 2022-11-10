@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30969 a skos:Concept ;
+    skos:broader ocs:C24489 ;
+    skos:closeMatch <http://dbpedia.org/resource/Agrilus_biguttatus> ;
+    skos:prefLabel "Agrilus biguttatus" ;
+    skos:related ocs:C14359,
+        ocs:C15400,
+        ocs:C18815,
+        ocs:C28294,
+        ocs:C31901 .
+

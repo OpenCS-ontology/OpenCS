@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17380 a skos:Concept ;
+    skos:broader ocs:C1857 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contract_cheating> ;
+    skos:prefLabel "Contract cheating" ;
+    skos:related ocs:C13306,
+        ocs:C18353,
+        ocs:C1857,
+        ocs:C18764,
+        ocs:C19005,
+        ocs:C5746,
+        ocs:C7575,
+        ocs:C8614 .
+

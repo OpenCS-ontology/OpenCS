@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30608 a skos:Concept ;
+    skos:broader ocs:C23958 ;
+    skos:closeMatch <http://dbpedia.org/resource/Community_Radiative_Transfer_Model> ;
+    skos:prefLabel "Community Radiative Transfer Model" ;
+    skos:related ocs:C19548,
+        ocs:C23958,
+        ocs:C26939,
+        ocs:C32452,
+        ocs:C34820,
+        ocs:C36319,
+        ocs:C40579 .
+

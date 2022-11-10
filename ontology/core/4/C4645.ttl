@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4645 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Geometric_modeling> ;
+    skos:prefLabel "Geometric modeling" ;
+    skos:related ocs:C10,
+        ocs:C10391,
+        ocs:C11689,
+        ocs:C14833,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C23146,
+        ocs:C41932,
+        ocs:C6279,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8324 .
+

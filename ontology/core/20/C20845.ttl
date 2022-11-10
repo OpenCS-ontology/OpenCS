@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20845 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Assisted_GPS> ;
+    skos:prefLabel "Assisted GPS" ;
+    skos:related ocs:C10368,
+        ocs:C12641,
+        ocs:C15505,
+        ocs:C17999,
+        ocs:C18799,
+        ocs:C21424,
+        ocs:C27704,
+        ocs:C30890,
+        ocs:C35370,
+        ocs:C35692,
+        ocs:C39726,
+        ocs:C44290,
+        ocs:C5088,
+        ocs:C7850,
+        ocs:C8021,
+        ocs:C9,
+        ocs:C9113,
+        ocs:C9154 .
+

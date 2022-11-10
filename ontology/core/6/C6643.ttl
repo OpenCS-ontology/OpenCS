@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6643 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Magnetic_Tower_of_Hanoi> ;
+    skos:prefLabel "Magnetic Tower of Hanoi" ;
+    skos:related ocs:C10917,
+        ocs:C16963,
+        ocs:C17261,
+        ocs:C24482,
+        ocs:C2747,
+        ocs:C5037,
+        ocs:C5242 .
+

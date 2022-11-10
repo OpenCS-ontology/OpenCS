@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32050 a skos:Concept ;
+    skos:broader ocs:C22279,
+        ocs:C25251 ;
+    skos:closeMatch <http://dbpedia.org/resource/GIS_Day> ;
+    skos:prefLabel "GIS Day" ;
+    skos:related ocs:C10987,
+        ocs:C13713,
+        ocs:C15046,
+        ocs:C22279,
+        ocs:C24208,
+        ocs:C25186,
+        ocs:C25251,
+        ocs:C31518,
+        ocs:C38891,
+        ocs:C44189,
+        ocs:C44203 .
+

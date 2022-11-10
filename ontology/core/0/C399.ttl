@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C399 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Video_email> ;
+    skos:prefLabel "Video email" ;
+    skos:related ocs:C10316,
+        ocs:C12810,
+        ocs:C13800,
+        ocs:C1672,
+        ocs:C16860,
+        ocs:C17235,
+        ocs:C20671,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C26337,
+        ocs:C28801,
+        ocs:C31,
+        ocs:C37868,
+        ocs:C39887,
+        ocs:C4666,
+        ocs:C4710,
+        ocs:C6872,
+        ocs:C7858,
+        ocs:C7938,
+        ocs:C8614 .
+

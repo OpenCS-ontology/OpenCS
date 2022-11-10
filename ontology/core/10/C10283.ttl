@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10283 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vessel_traffic_service> ;
+    skos:prefLabel "Vessel traffic service" ;
+    skos:related ocs:C12641,
+        ocs:C12652,
+        ocs:C16340,
+        ocs:C20391,
+        ocs:C21418,
+        ocs:C3068,
+        ocs:C4284,
+        ocs:C4597,
+        ocs:C7008,
+        ocs:C863 .
+

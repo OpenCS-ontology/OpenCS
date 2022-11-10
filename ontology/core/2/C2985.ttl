@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2985 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Tarski's_undefinability_theorem> ;
+    skos:prefLabel "Tarski's undefinability theorem" ;
+    skos:related ocs:C10558,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C23662,
+        ocs:C2418,
+        ocs:C24201,
+        ocs:C25442,
+        ocs:C26402,
+        ocs:C2727,
+        ocs:C28277,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C2978,
+        ocs:C3137,
+        ocs:C42139,
+        ocs:C5251,
+        ocs:C8635 .
+

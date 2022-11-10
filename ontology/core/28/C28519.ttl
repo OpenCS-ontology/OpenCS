@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28519 a skos:Concept ;
+    skos:broader ocs:C12147 ;
+    skos:closeMatch <http://dbpedia.org/resource/Weighted_geometric_mean> ;
+    skos:prefLabel "Weighted geometric mean" ;
+    skos:related ocs:C12147,
+        ocs:C27442,
+        ocs:C27701,
+        ocs:C33192,
+        ocs:C6947 .
+

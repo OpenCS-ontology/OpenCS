@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33901 a skos:Concept ;
+    skos:broader ocs:C18791,
+        ocs:C28739 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ecological_Metadata_Language> ;
+    skos:prefLabel "Ecological Metadata Language" ;
+    skos:related ocs:C10979,
+        ocs:C20647,
+        ocs:C23088,
+        ocs:C25617,
+        ocs:C28739,
+        ocs:C29567,
+        ocs:C32112,
+        ocs:C32413,
+        ocs:C35637,
+        ocs:C3896,
+        ocs:C44189,
+        ocs:C44676,
+        ocs:C5088,
+        ocs:C6744,
+        ocs:C9836 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20614 a skos:Concept ;
+    skos:broader ocs:C3173 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_analyzer> ;
+    skos:prefLabel "Signal analyzer" ;
+    skos:related ocs:C10778,
+        ocs:C1449,
+        ocs:C19566,
+        ocs:C22096,
+        ocs:C26908,
+        ocs:C30853,
+        ocs:C31457,
+        ocs:C3173,
+        ocs:C34890,
+        ocs:C42272,
+        ocs:C6816,
+        ocs:C7502 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34329 a skos:Concept ;
+    skos:broader ocs:C23430 ;
+    skos:closeMatch <http://dbpedia.org/resource/Flocculent_spiral_galaxy> ;
+    skos:prefLabel "Flocculent spiral galaxy" ;
+    skos:related ocs:C10556,
+        ocs:C23430,
+        ocs:C28402,
+        ocs:C34069,
+        ocs:C40444,
+        ocs:C41727,
+        ocs:C42436,
+        ocs:C44731,
+        ocs:C45227,
+        ocs:C597 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22220 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/United_States_Naval_Observatory> ;
+    skos:prefLabel "United States Naval Observatory" ;
+    skos:related ocs:C10556,
+        ocs:C12641,
+        ocs:C13745,
+        ocs:C18085,
+        ocs:C18137,
+        ocs:C19672,
+        ocs:C21656,
+        ocs:C22752,
+        ocs:C23849,
+        ocs:C26348,
+        ocs:C28956,
+        ocs:C597 .
+

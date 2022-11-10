@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2726 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sample_space> ;
+    skos:prefLabel "Sample space" ;
+    skos:related ocs:C10803,
+        ocs:C11771,
+        ocs:C15797,
+        ocs:C1844,
+        ocs:C246,
+        ocs:C6291,
+        ocs:C6909,
+        ocs:C9246 .
+

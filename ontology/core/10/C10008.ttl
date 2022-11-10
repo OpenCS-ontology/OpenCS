@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10008 a skos:Concept ;
+    skos:broader ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_port> ;
+    skos:prefLabel "Open port" ;
+    skos:related ocs:C10231,
+        ocs:C16900,
+        ocs:C18502,
+        ocs:C19227,
+        ocs:C24323,
+        ocs:C25291,
+        ocs:C26,
+        ocs:C27557,
+        ocs:C28592,
+        ocs:C29359,
+        ocs:C35,
+        ocs:C37011,
+        ocs:C38272,
+        ocs:C39141,
+        ocs:C40409,
+        ocs:C42429,
+        ocs:C43179,
+        ocs:C6473 .
+

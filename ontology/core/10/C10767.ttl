@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10767 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kullback–Leibler_divergence> ;
+    skos:prefLabel "Kullback–Leibler divergence" ;
+    skos:related ocs:C14620,
+        ocs:C14622,
+        ocs:C17590,
+        ocs:C1844,
+        ocs:C2119,
+        ocs:C25862,
+        ocs:C30657,
+        ocs:C546,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9268 .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34529 a skos:Concept ;
+    skos:broader ocs:C16674,
+        ocs:C28588 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neugebauer_equations> ;
+    skos:prefLabel "Neugebauer equations" ;
+    skos:related ocs:C10047,
+        ocs:C12053,
+        ocs:C16423,
+        ocs:C20984,
+        ocs:C2198,
+        ocs:C24211,
+        ocs:C32992,
+        ocs:C34257,
+        ocs:C5291,
+        ocs:C6586,
+        ocs:C7981,
+        ocs:C8622 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40072 a skos:Concept ;
+    skos:broader ocs:C34483 ;
+    skos:prefLabel "Labidus praedator" ;
+    skos:related ocs:C21150,
+        ocs:C44206 .
+

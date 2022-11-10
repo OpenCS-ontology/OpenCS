@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32320 a skos:Concept ;
+    skos:broader ocs:C15806,
+        ocs:C25851 ;
+    skos:closeMatch <http://dbpedia.org/resource/Marching_tetrahedra> ;
+    skos:prefLabel "Marching tetrahedra" ;
+    skos:related ocs:C11450,
+        ocs:C12258,
+        ocs:C12454,
+        ocs:C15806,
+        ocs:C17403,
+        ocs:C22,
+        ocs:C25851,
+        ocs:C28061,
+        ocs:C28233,
+        ocs:C28280,
+        ocs:C3174,
+        ocs:C33348,
+        ocs:C34704,
+        ocs:C39310,
+        ocs:C40203,
+        ocs:C44381,
+        ocs:C969 .
+

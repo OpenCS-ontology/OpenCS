@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2459 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C30,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_Computing_System> ;
+    skos:prefLabel "Network Computing System" ;
+    skos:related ocs:C10573,
+        ocs:C11152,
+        ocs:C14251,
+        ocs:C21419,
+        ocs:C25795,
+        ocs:C26338,
+        ocs:C30,
+        ocs:C3004,
+        ocs:C30660,
+        ocs:C32648,
+        ocs:C32954,
+        ocs:C35263,
+        ocs:C39337,
+        ocs:C41164,
+        ocs:C42749,
+        ocs:C44697,
+        ocs:C45269,
+        ocs:C5236,
+        ocs:C9 .
+

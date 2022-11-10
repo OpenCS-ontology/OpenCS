@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C787 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Softmodem> ;
+    skos:prefLabel "Softmodem" ;
+    skos:related ocs:C10093,
+        ocs:C10400,
+        ocs:C11,
+        ocs:C11814,
+        ocs:C13022,
+        ocs:C17653,
+        ocs:C20800,
+        ocs:C28881,
+        ocs:C29012,
+        ocs:C36766,
+        ocs:C4040,
+        ocs:C44,
+        ocs:C9,
+        ocs:C9327 .
+

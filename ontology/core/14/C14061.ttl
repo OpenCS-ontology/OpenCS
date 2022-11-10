@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14061 a skos:Concept ;
+    skos:broader ocs:C11927,
+        ocs:C8515,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/XML_Configuration_Access_Protocol> ;
+    skos:prefLabel "XML Configuration Access Protocol" ;
+    skos:related ocs:C10249,
+        ocs:C11927,
+        ocs:C13068,
+        ocs:C13252,
+        ocs:C13706,
+        ocs:C14810,
+        ocs:C15850,
+        ocs:C16980,
+        ocs:C18083,
+        ocs:C22493,
+        ocs:C22597,
+        ocs:C22981,
+        ocs:C23995,
+        ocs:C24131,
+        ocs:C26239,
+        ocs:C29645,
+        ocs:C34358,
+        ocs:C7016,
+        ocs:C8515 .
+

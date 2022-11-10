@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5265 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Neuroheuristics> ;
+    skos:prefLabel "Neuroheuristics" ;
+    skos:related ocs:C1134,
+        ocs:C16803,
+        ocs:C7334,
+        ocs:C8 .
+

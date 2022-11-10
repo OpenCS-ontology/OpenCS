@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29725 a skos:Concept ;
+    skos:broader ocs:C14327 ;
+    skos:closeMatch <http://dbpedia.org/resource/SP-DEVS> ;
+    skos:prefLabel "SP-DEVS" ;
+    skos:related ocs:C10392,
+        ocs:C12427,
+        ocs:C14156,
+        ocs:C14235,
+        ocs:C14327,
+        ocs:C15414,
+        ocs:C17700,
+        ocs:C21398,
+        ocs:C26158,
+        ocs:C34708,
+        ocs:C35670,
+        ocs:C37221,
+        ocs:C39983,
+        ocs:C41251,
+        ocs:C41261,
+        ocs:C43816,
+        ocs:C45005,
+        ocs:C7689 .
+

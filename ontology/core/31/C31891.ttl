@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31891 a skos:Concept ;
+    skos:broader ocs:C25030 ;
+    skos:closeMatch <http://dbpedia.org/resource/Footmouse> ;
+    skos:prefLabel "Footmouse" ;
+    skos:related ocs:C1042,
+        ocs:C11700,
+        ocs:C12453,
+        ocs:C13993,
+        ocs:C15214,
+        ocs:C20986,
+        ocs:C24825,
+        ocs:C26343,
+        ocs:C2655,
+        ocs:C3284,
+        ocs:C4221,
+        ocs:C44100,
+        ocs:C5086,
+        ocs:C5702,
+        ocs:C6069,
+        ocs:C74,
+        ocs:C7621 .
+

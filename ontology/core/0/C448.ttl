@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C448 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C18 ;
+    skos:closeMatch <http://dbpedia.org/resource/Master_of_Information_Management> ;
+    skos:prefLabel "Master of Information Management" ;
+    skos:related ocs:C1,
+        ocs:C11087,
+        ocs:C11094,
+        ocs:C12,
+        ocs:C13014,
+        ocs:C13673,
+        ocs:C17608,
+        ocs:C21437,
+        ocs:C22811,
+        ocs:C2979,
+        ocs:C306,
+        ocs:C31201,
+        ocs:C31285,
+        ocs:C35576,
+        ocs:C35871,
+        ocs:C4,
+        ocs:C6944,
+        ocs:C9585 .
+

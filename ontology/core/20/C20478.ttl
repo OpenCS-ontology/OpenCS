@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20478 a skos:Concept ;
+    skos:broader ocs:C13306 ;
+    skos:prefLabel "Legal patent" ;
+    skos:related ocs:C1,
+        ocs:C12,
+        ocs:C13,
+        ocs:C13306,
+        ocs:C23,
+        ocs:C4032,
+        ocs:C6396 .
+

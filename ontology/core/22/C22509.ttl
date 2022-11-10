@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22509 a skos:Concept ;
+    skos:broader ocs:C10321,
+        ocs:C5854 ;
+    skos:closeMatch <http://dbpedia.org/resource/Contrast_resolution> ;
+    skos:prefLabel "Contrast resolution" ;
+    skos:related ocs:C11747,
+        ocs:C11887,
+        ocs:C19482,
+        ocs:C28789,
+        ocs:C3032,
+        ocs:C33447,
+        ocs:C34605 .
+

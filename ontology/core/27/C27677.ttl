@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27677 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/NA48_experiment> ;
+    skos:prefLabel "NA48 experiment" ;
+    skos:related ocs:C29906,
+        ocs:C32279,
+        ocs:C35999,
+        ocs:C597 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23073 a skos:Concept ;
+    skos:broader ocs:C13511,
+        ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero-knowledge_proof> ;
+    skos:prefLabel "Zero-knowledge proof" ;
+    skos:related ocs:C14164,
+        ocs:C16125,
+        ocs:C18621,
+        ocs:C21324,
+        ocs:C21625,
+        ocs:C22263,
+        ocs:C23855,
+        ocs:C28212,
+        ocs:C29968,
+        ocs:C32288,
+        ocs:C34888,
+        ocs:C3678,
+        ocs:C37228,
+        ocs:C38359,
+        ocs:C38692,
+        ocs:C39042,
+        ocs:C39619,
+        ocs:C412,
+        ocs:C4218,
+        ocs:C43409 .
+

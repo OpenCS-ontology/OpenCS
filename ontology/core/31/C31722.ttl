@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31722 a skos:Concept ;
+    skos:broader ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Vienna_Development_Method> ;
+    skos:prefLabel "Vienna Development Method" ;
+    skos:related ocs:C1035,
+        ocs:C10720,
+        ocs:C13101,
+        ocs:C18469,
+        ocs:C18606,
+        ocs:C19,
+        ocs:C2050,
+        ocs:C21434,
+        ocs:C24649,
+        ocs:C25382,
+        ocs:C31028,
+        ocs:C31850,
+        ocs:C32014,
+        ocs:C36771,
+        ocs:C3905,
+        ocs:C4321,
+        ocs:C7903,
+        ocs:C794,
+        ocs:C8786 .
+

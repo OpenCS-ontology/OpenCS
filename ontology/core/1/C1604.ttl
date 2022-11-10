@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1604 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Craig's_theorem> ;
+    skos:prefLabel "Craig's theorem" ;
+    skos:related ocs:C10273,
+        ocs:C10622,
+        ocs:C1205,
+        ocs:C12474,
+        ocs:C24201,
+        ocs:C25869,
+        ocs:C28286,
+        ocs:C28635,
+        ocs:C29879,
+        ocs:C41497,
+        ocs:C43312,
+        ocs:C45525,
+        ocs:C4756,
+        ocs:C4925,
+        ocs:C6668,
+        ocs:C7370,
+        ocs:C9313 .
+

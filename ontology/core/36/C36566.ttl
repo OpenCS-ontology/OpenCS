@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36566 a skos:Concept ;
+    skos:broader ocs:C15406,
+        ocs:C16379,
+        ocs:C17703,
+        ocs:C26642,
+        ocs:C27052 ;
+    skos:closeMatch <http://dbpedia.org/resource/Typename> ;
+    skos:prefLabel "typename" ;
+    skos:related ocs:C10608,
+        ocs:C10909,
+        ocs:C13369,
+        ocs:C174,
+        ocs:C17703,
+        ocs:C18469,
+        ocs:C24970,
+        ocs:C26466,
+        ocs:C3036,
+        ocs:C31123,
+        ocs:C42622,
+        ocs:C44845,
+        ocs:C45188,
+        ocs:C5308,
+        ocs:C5630,
+        ocs:C930 .
+

@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18245 a skos:Concept ;
+    skos:broader ocs:C390 ;
+    skos:closeMatch <http://dbpedia.org/resource/D2-MAC> ;
+    skos:prefLabel "D2-MAC" ;
+    skos:related ocs:C11592,
+        ocs:C12544,
+        ocs:C15700,
+        ocs:C16580,
+        ocs:C18701,
+        ocs:C18878,
+        ocs:C26605,
+        ocs:C27572,
+        ocs:C33691,
+        ocs:C3522,
+        ocs:C37869,
+        ocs:C38826,
+        ocs:C40667,
+        ocs:C4268,
+        ocs:C43007,
+        ocs:C4448 .
+

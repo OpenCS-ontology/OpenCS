@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39169 a skos:Concept ;
+    skos:broader ocs:C35734,
+        ocs:C35923,
+        ocs:C36109,
+        ocs:C36706,
+        ocs:C37073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Location-based_routing> ;
+    skos:prefLabel "Location-based routing" ;
+    skos:related ocs:C18995,
+        ocs:C23421,
+        ocs:C25293,
+        ocs:C27114,
+        ocs:C2917,
+        ocs:C31557,
+        ocs:C31755,
+        ocs:C45713,
+        ocs:C5148,
+        ocs:C6027,
+        ocs:C6350,
+        ocs:C7661,
+        ocs:C9113 .
+

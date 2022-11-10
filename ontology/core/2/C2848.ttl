@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2848 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:prefLabel "Image Series" ;
+    skos:related ocs:C10318,
+        ocs:C1938,
+        ocs:C21,
+        ocs:C22,
+        ocs:C22623,
+        ocs:C28789,
+        ocs:C37720,
+        ocs:C669,
+        ocs:C6943,
+        ocs:C8021,
+        ocs:C8499,
+        ocs:C9428 .
+

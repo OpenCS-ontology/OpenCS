@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16799 a skos:Concept ;
+    skos:broader ocs:C10616,
+        ocs:C1092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uncertain_inference> ;
+    skos:prefLabel "Uncertain inference" ;
+    skos:related ocs:C1812,
+        ocs:C20246,
+        ocs:C21157,
+        ocs:C23,
+        ocs:C23271,
+        ocs:C23782,
+        ocs:C2469,
+        ocs:C2874,
+        ocs:C2884,
+        ocs:C31312,
+        ocs:C3565,
+        ocs:C39578,
+        ocs:C39641,
+        ocs:C39815,
+        ocs:C45174,
+        ocs:C5659,
+        ocs:C6947 .
+

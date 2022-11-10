@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42444 a skos:Concept ;
+    skos:broader ocs:C29704,
+        ocs:C32299,
+        ocs:C33346,
+        ocs:C37588 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptography_standards> ;
+    skos:prefLabel "Cryptography standards" ;
+    skos:related ocs:C1027,
+        ocs:C11186,
+        ocs:C25340,
+        ocs:C27126,
+        ocs:C29704,
+        ocs:C31037,
+        ocs:C32109,
+        ocs:C33346,
+        ocs:C36161,
+        ocs:C38920,
+        ocs:C39105,
+        ocs:C39180,
+        ocs:C41568,
+        ocs:C4218,
+        ocs:C43516,
+        ocs:C45116,
+        ocs:C6928,
+        ocs:C7006 .
+

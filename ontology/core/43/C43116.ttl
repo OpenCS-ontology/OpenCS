@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43116 a skos:Concept ;
+    skos:broader ocs:C32805 ;
+    skos:closeMatch <http://dbpedia.org/resource/GRB_050509B> ;
+    skos:prefLabel "GRB 050509B" ;
+    skos:related ocs:C21622,
+        ocs:C29045,
+        ocs:C32164,
+        ocs:C33284,
+        ocs:C33678,
+        ocs:C35510,
+        ocs:C36773,
+        ocs:C39502,
+        ocs:C45163 .
+

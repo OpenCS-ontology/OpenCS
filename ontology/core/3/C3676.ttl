@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3676 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delegate_(CLI)> ;
+    skos:prefLabel "Delegate" ;
+    skos:related ocs:C10182,
+        ocs:C10720,
+        ocs:C11022,
+        ocs:C11117,
+        ocs:C1142,
+        ocs:C12108,
+        ocs:C12584,
+        ocs:C12848,
+        ocs:C2257,
+        ocs:C25570,
+        ocs:C30334,
+        ocs:C3282,
+        ocs:C35141,
+        ocs:C38593,
+        ocs:C45618,
+        ocs:C5308,
+        ocs:C8864 .
+

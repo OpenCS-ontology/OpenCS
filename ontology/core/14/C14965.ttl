@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14965 a skos:Concept ;
+    skos:broader ocs:C159,
+        ocs:C5706 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time_Stamp_Counter> ;
+    skos:prefLabel "Time Stamp Counter" ;
+    skos:related ocs:C10320,
+        ocs:C10824,
+        ocs:C12533,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C22508,
+        ocs:C27610,
+        ocs:C28515,
+        ocs:C31346,
+        ocs:C36894,
+        ocs:C38797,
+        ocs:C39429,
+        ocs:C45155,
+        ocs:C6172,
+        ocs:C8275,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9542 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16917 a skos:Concept ;
+    skos:broader ocs:C7106 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cloud_cover> ;
+    skos:prefLabel "Cloud cover" ;
+    skos:related ocs:C23887,
+        ocs:C28180,
+        ocs:C39714,
+        ocs:C597 .
+

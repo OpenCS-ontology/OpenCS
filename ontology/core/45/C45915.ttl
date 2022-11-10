@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45915 a skos:Concept ;
+    skos:broader ocs:C30002,
+        ocs:C30337,
+        ocs:C31923,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antenna_blind_cone> ;
+    skos:prefLabel "Antenna blind cone" ;
+    skos:related ocs:C12121,
+        ocs:C12574,
+        ocs:C2465,
+        ocs:C30002,
+        ocs:C31753,
+        ocs:C38796,
+        ocs:C39964,
+        ocs:C42056,
+        ocs:C44120,
+        ocs:C44664,
+        ocs:C7909,
+        ocs:C9691 .
+

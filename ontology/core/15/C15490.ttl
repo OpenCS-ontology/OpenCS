@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15490 a skos:Concept ;
+    skos:broader ocs:C3401 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectral_layout> ;
+    skos:prefLabel "Spectral layout" ;
+    skos:related ocs:C14127,
+        ocs:C27903,
+        ocs:C28283,
+        ocs:C28291,
+        ocs:C39493,
+        ocs:C39885,
+        ocs:C40783,
+        ocs:C40786,
+        ocs:C41980,
+        ocs:C42616,
+        ocs:C42751,
+        ocs:C42822,
+        ocs:C45737 .
+

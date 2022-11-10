@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18941 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Riesz_space> ;
+    skos:prefLabel "Riesz space" ;
+    skos:related ocs:C20268,
+        ocs:C23927,
+        ocs:C25167,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C44934 .
+

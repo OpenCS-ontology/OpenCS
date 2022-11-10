@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18522 a skos:Concept ;
+    skos:broader ocs:C13595 ;
+    skos:closeMatch <http://dbpedia.org/resource/Item_tree_analysis> ;
+    skos:prefLabel "Item tree analysis" ;
+    skos:related ocs:C10676,
+        ocs:C12238,
+        ocs:C12811,
+        ocs:C13,
+        ocs:C34714,
+        ocs:C4752,
+        ocs:C608,
+        ocs:C6590,
+        ocs:C9378,
+        ocs:C9488 .
+

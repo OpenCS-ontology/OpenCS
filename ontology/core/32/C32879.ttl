@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32879 a skos:Concept ;
+    skos:broader ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antiunitary_operator> ;
+    skos:prefLabel "Antiunitary operator" ;
+    skos:related ocs:C20124,
+        ocs:C28787,
+        ocs:C29576,
+        ocs:C30373,
+        ocs:C33700,
+        ocs:C39302 .
+

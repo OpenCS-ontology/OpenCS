@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2274 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Variance Criterion" ;
+    skos:related ocs:C10222,
+        ocs:C11701,
+        ocs:C21,
+        ocs:C7282,
+        ocs:C7689,
+        ocs:C8517,
+        ocs:C932 .
+

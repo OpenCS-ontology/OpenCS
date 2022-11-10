@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20609 a skos:Concept ;
+    skos:broader ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spacecraft_design> ;
+    skos:prefLabel "Spacecraft design" ;
+    skos:related ocs:C15180,
+        ocs:C1628,
+        ocs:C16902,
+        ocs:C17254,
+        ocs:C18244,
+        ocs:C2252,
+        ocs:C23481,
+        ocs:C25126,
+        ocs:C37273,
+        ocs:C5293,
+        ocs:C5918,
+        ocs:C81 .
+

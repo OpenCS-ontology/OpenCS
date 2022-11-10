@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35640 a skos:Concept ;
+    skos:broader ocs:C28963 ;
+    skos:closeMatch <http://dbpedia.org/resource/NewSQL> ;
+    skos:prefLabel "NewSQL" ;
+    skos:related ocs:C10444,
+        ocs:C12185,
+        ocs:C16874,
+        ocs:C17701,
+        ocs:C18567,
+        ocs:C20148,
+        ocs:C22879,
+        ocs:C23753,
+        ocs:C28963,
+        ocs:C3812,
+        ocs:C43655,
+        ocs:C6,
+        ocs:C6552,
+        ocs:C6754,
+        ocs:C6917,
+        ocs:C8327 .
+

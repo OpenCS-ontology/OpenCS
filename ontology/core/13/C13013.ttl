@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13013 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rendezvous_(Plan_9)> ;
+    skos:prefLabel "Rendezvous" ;
+    skos:related ocs:C10379,
+        ocs:C10693,
+        ocs:C12306,
+        ocs:C12683,
+        ocs:C1442,
+        ocs:C25917,
+        ocs:C27,
+        ocs:C27721,
+        ocs:C31433,
+        ocs:C32786,
+        ocs:C35773,
+        ocs:C37964,
+        ocs:C41159,
+        ocs:C41970,
+        ocs:C43101,
+        ocs:C5198,
+        ocs:C8901 .
+

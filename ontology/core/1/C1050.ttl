@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1050 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/Time-tracking_software> ;
+    skos:prefLabel "Time-tracking software" ;
+    skos:related ocs:C12810,
+        ocs:C24050,
+        ocs:C2598,
+        ocs:C2674,
+        ocs:C29485,
+        ocs:C32615,
+        ocs:C35701,
+        ocs:C4768,
+        ocs:C5861,
+        ocs:C7056,
+        ocs:C7106 .
+

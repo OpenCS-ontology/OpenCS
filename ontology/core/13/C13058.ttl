@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13058 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Radio_equipment> ;
+    skos:prefLabel "Radio equipment" ;
+    skos:related ocs:C17926,
+        ocs:C21441,
+        ocs:C3,
+        ocs:C31753,
+        ocs:C32554,
+        ocs:C35931,
+        ocs:C515,
+        ocs:C6114,
+        ocs:C7159,
+        ocs:C9113 .
+

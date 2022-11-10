@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36010 a skos:Concept ;
+    skos:broader ocs:C21769,
+        ocs:C24870 ;
+    skos:closeMatch <http://dbpedia.org/resource/Network_traffic_simulation> ;
+    skos:prefLabel "Network traffic simulation" ;
+    skos:related ocs:C10921,
+        ocs:C11328,
+        ocs:C12373,
+        ocs:C1684,
+        ocs:C21769,
+        ocs:C23291,
+        ocs:C24,
+        ocs:C26,
+        ocs:C28021,
+        ocs:C35659,
+        ocs:C3739,
+        ocs:C38619,
+        ocs:C390,
+        ocs:C4099,
+        ocs:C43139,
+        ocs:C5399,
+        ocs:C85,
+        ocs:C9931 .
+

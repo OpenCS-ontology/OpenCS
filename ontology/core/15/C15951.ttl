@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15951 a skos:Concept ;
+    skos:broader ocs:C10211,
+        ocs:C3896,
+        ocs:C8781 ;
+    skos:closeMatch <http://dbpedia.org/resource/SeaDataNet> ;
+    skos:prefLabel "SeaDataNet" ;
+    skos:related ocs:C27269 .
+

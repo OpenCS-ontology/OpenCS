@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39290 a skos:Concept ;
+    skos:broader ocs:C32351,
+        ocs:C34060,
+        ocs:C36502 ;
+    skos:closeMatch <http://dbpedia.org/resource/Delayed_binding> ;
+    skos:prefLabel "Delayed binding" ;
+    skos:related ocs:C11540,
+        ocs:C1442,
+        ocs:C23965,
+        ocs:C24323,
+        ocs:C25123,
+        ocs:C26,
+        ocs:C26354,
+        ocs:C27557,
+        ocs:C29002,
+        ocs:C31257,
+        ocs:C31954,
+        ocs:C33034,
+        ocs:C38272,
+        ocs:C42346,
+        ocs:C42419,
+        ocs:C42814,
+        ocs:C43272,
+        ocs:C5837,
+        ocs:C6286,
+        ocs:C7408 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9228 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Fitting Problems" ;
+    skos:related ocs:C19177,
+        ocs:C2321,
+        ocs:C4645,
+        ocs:C7553,
+        ocs:C8517,
+        ocs:C8753 .
+

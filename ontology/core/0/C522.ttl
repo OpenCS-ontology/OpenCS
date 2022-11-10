@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C522 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/Trusted_third_party> ;
+    skos:prefLabel "Trusted third party" ;
+    skos:related ocs:C14647,
+        ocs:C16125,
+        ocs:C17314,
+        ocs:C20243,
+        ocs:C21324,
+        ocs:C23204,
+        ocs:C23875,
+        ocs:C24131,
+        ocs:C27571,
+        ocs:C30595,
+        ocs:C30656,
+        ocs:C32192,
+        ocs:C33191,
+        ocs:C38359,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C4218,
+        ocs:C44289,
+        ocs:C7006 .
+

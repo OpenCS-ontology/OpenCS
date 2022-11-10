@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10098 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:prefLabel "Covering eye" ;
+    skos:related ocs:C1,
+        ocs:C11705,
+        ocs:C11887,
+        ocs:C26641,
+        ocs:C7,
+        ocs:C78,
+        ocs:C8 .
+

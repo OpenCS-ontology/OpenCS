@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40111 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_security_management> ;
+    skos:prefLabel "Information security management" ;
+    skos:related ocs:C12507,
+        ocs:C1399,
+        ocs:C15729,
+        ocs:C25176,
+        ocs:C29181,
+        ocs:C31261,
+        ocs:C35,
+        ocs:C37747,
+        ocs:C38304,
+        ocs:C39016,
+        ocs:C40243,
+        ocs:C41865,
+        ocs:C41901,
+        ocs:C45582,
+        ocs:C45654,
+        ocs:C7804,
+        ocs:C9700 .
+

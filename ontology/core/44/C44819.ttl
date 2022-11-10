@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44819 a skos:Concept ;
+    skos:broader ocs:C33703 ;
+    skos:prefLabel "Calcium-dependent potassium channels" ;
+    skos:related ocs:C25667,
+        ocs:C32084,
+        ocs:C32749,
+        ocs:C33703,
+        ocs:C37782 .
+

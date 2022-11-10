@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17925 a skos:Concept ;
+    skos:broader ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Possible_world> ;
+    skos:prefLabel "Possible world" ;
+    skos:related ocs:C126,
+        ocs:C1443,
+        ocs:C21127,
+        ocs:C32467,
+        ocs:C36725,
+        ocs:C41223,
+        ocs:C7467,
+        ocs:C8077 .
+

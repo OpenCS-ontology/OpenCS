@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10239 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grassfire_transform> ;
+    skos:prefLabel "Grassfire transform" ;
+    skos:related ocs:C11150,
+        ocs:C14863,
+        ocs:C16532,
+        ocs:C17412,
+        ocs:C22623,
+        ocs:C26688,
+        ocs:C28701,
+        ocs:C32381,
+        ocs:C32479,
+        ocs:C34134,
+        ocs:C37582,
+        ocs:C6401,
+        ocs:C7,
+        ocs:C8271,
+        ocs:C8499 .
+

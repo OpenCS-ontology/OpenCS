@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3444 a skos:Concept ;
+    skos:broader ocs:C17 ;
+    skos:closeMatch <http://dbpedia.org/resource/Educational_technology> ;
+    skos:prefLabel "Educational technology" ;
+    skos:related ocs:C1,
+        ocs:C11050,
+        ocs:C17,
+        ocs:C17812,
+        ocs:C197,
+        ocs:C22540,
+        ocs:C26281,
+        ocs:C26813,
+        ocs:C31,
+        ocs:C33164,
+        ocs:C3521,
+        ocs:C6529,
+        ocs:C8614,
+        ocs:C934 .
+

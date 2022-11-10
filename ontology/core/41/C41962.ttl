@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41962 a skos:Concept ;
+    skos:broader ocs:C30378 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cylinder-head-sector> ;
+    skos:prefLabel "Cylinder-head-sector" ;
+    skos:related ocs:C10568,
+        ocs:C10785,
+        ocs:C13783,
+        ocs:C14552,
+        ocs:C15529,
+        ocs:C20557,
+        ocs:C3231,
+        ocs:C33255,
+        ocs:C36536,
+        ocs:C41094,
+        ocs:C41705,
+        ocs:C5695,
+        ocs:C6588,
+        ocs:C7476 .
+

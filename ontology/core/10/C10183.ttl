@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10183 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_Aging_Research_Portfolio> ;
+    skos:prefLabel "International Aging Research Portfolio" ;
+    skos:related ocs:C13,
+        ocs:C17322,
+        ocs:C17884,
+        ocs:C18298,
+        ocs:C19537,
+        ocs:C2005,
+        ocs:C20377,
+        ocs:C25201,
+        ocs:C28056,
+        ocs:C31543,
+        ocs:C32289,
+        ocs:C41275,
+        ocs:C5401 .
+

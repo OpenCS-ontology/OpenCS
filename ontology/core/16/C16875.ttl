@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16875 a skos:Concept ;
+    skos:broader ocs:C8710 ;
+    skos:closeMatch <http://dbpedia.org/resource/EXtended_WordNet> ;
+    skos:prefLabel "eXtended WordNet" ;
+    skos:related ocs:C10102,
+        ocs:C11075,
+        ocs:C11932,
+        ocs:C15506,
+        ocs:C17796,
+        ocs:C18700,
+        ocs:C1952,
+        ocs:C21988,
+        ocs:C26599,
+        ocs:C26816,
+        ocs:C3261,
+        ocs:C44162,
+        ocs:C45685,
+        ocs:C8454,
+        ocs:C8710,
+        ocs:C928 .
+

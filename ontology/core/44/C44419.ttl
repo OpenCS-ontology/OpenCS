@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44419 a skos:Concept ;
+    skos:broader ocs:C31222,
+        ocs:C34662,
+        ocs:C35801 ;
+    skos:closeMatch <http://dbpedia.org/resource/Split-brain_(computing)> ;
+    skos:prefLabel "Split-brain (computing)" ;
+    skos:related ocs:C14983,
+        ocs:C19725,
+        ocs:C20205,
+        ocs:C26114,
+        ocs:C27259,
+        ocs:C30638,
+        ocs:C34662,
+        ocs:C35631,
+        ocs:C38211,
+        ocs:C38408,
+        ocs:C39662,
+        ocs:C40509,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C45518,
+        ocs:C6,
+        ocs:C6312,
+        ocs:C7332,
+        ocs:C8467 .
+

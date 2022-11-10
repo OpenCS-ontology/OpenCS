@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10735 a skos:Concept ;
+    skos:broader ocs:C12 ;
+    skos:closeMatch <http://dbpedia.org/resource/EUCIP> ;
+    skos:prefLabel "EUCIP" ;
+    skos:related ocs:C1253,
+        ocs:C12542,
+        ocs:C197 .
+

@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16172 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C4321,
+        ocs:C7330,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Extended_Backus–Naur_form> ;
+    skos:prefLabel "Extended Backus–Naur Form" ;
+    skos:related ocs:C1,
+        ocs:C13749,
+        ocs:C16188,
+        ocs:C19,
+        ocs:C21627,
+        ocs:C22624,
+        ocs:C25202,
+        ocs:C26158,
+        ocs:C29634,
+        ocs:C30930,
+        ocs:C31670,
+        ocs:C31850,
+        ocs:C3398,
+        ocs:C38591,
+        ocs:C38601,
+        ocs:C41354,
+        ocs:C42257,
+        ocs:C4321,
+        ocs:C45758,
+        ocs:C8564 .
+

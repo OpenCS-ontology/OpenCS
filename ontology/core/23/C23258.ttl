@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23258 a skos:Concept ;
+    skos:broader ocs:C3236 ;
+    skos:closeMatch <http://dbpedia.org/resource/WREL_(technology)> ;
+    skos:prefLabel "WREL" ;
+    skos:related ocs:C17383,
+        ocs:C29012 .
+

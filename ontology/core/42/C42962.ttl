@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42962 a skos:Concept ;
+    skos:broader ocs:C32511,
+        ocs:C33043 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transiogram> ;
+    skos:prefLabel "Transiogram" ;
+    skos:related ocs:C14922,
+        ocs:C20860,
+        ocs:C22686,
+        ocs:C23865,
+        ocs:C29727,
+        ocs:C32511,
+        ocs:C37861,
+        ocs:C39922,
+        ocs:C42523,
+        ocs:C42940,
+        ocs:C706,
+        ocs:C7689 .
+

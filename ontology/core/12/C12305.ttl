@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12305 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C26,
+        ocs:C30 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dynamic_network_analysis> ;
+    skos:prefLabel "Dynamic network analysis" ;
+    skos:related ocs:C10997,
+        ocs:C11026,
+        ocs:C11866,
+        ocs:C15047,
+        ocs:C19399,
+        ocs:C19727,
+        ocs:C20012,
+        ocs:C23873,
+        ocs:C28521,
+        ocs:C739,
+        ocs:C7460,
+        ocs:C925,
+        ocs:C9373 .
+

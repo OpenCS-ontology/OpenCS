@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40457 a skos:Concept ;
+    skos:broader ocs:C34303 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_arizonica> ;
+    skos:prefLabel "Quercus arizonica" ;
+    skos:related ocs:C26107,
+        ocs:C26660,
+        ocs:C28536,
+        ocs:C34303,
+        ocs:C36480 .
+

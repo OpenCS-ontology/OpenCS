@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3839 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_mapping> ;
+    skos:prefLabel "Space mapping" ;
+    skos:related ocs:C1,
+        ocs:C1453,
+        ocs:C14921,
+        ocs:C17559,
+        ocs:C2005,
+        ocs:C22986,
+        ocs:C4209,
+        ocs:C6287,
+        ocs:C7553,
+        ocs:C7914,
+        ocs:C8756,
+        ocs:C9088 .
+

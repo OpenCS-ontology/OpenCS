@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19288 a skos:Concept ;
+    skos:broader ocs:C8790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Unique_Ingredient_Identifier> ;
+    skos:prefLabel "Substance Identifier" ;
+    skos:related ocs:C23,
+        ocs:C4,
+        ocs:C7132,
+        ocs:C8790 .
+

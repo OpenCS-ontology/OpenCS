@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23421 a skos:Concept ;
+    skos:broader ocs:C13316,
+        ocs:C3393,
+        ocs:C4099,
+        ocs:C4197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call_blocking> ;
+    skos:prefLabel "Call blocking" ;
+    skos:related ocs:C10927,
+        ocs:C13514,
+        ocs:C15185,
+        ocs:C18995,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C29012,
+        ocs:C34623,
+        ocs:C39169,
+        ocs:C4983,
+        ocs:C6027,
+        ocs:C6462,
+        ocs:C7661,
+        ocs:C9113 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15340 a skos:Concept ;
+    skos:broader ocs:C6124 ;
+    skos:closeMatch <http://dbpedia.org/resource/No_symbol> ;
+    skos:prefLabel "No symbol" ;
+    skos:related ocs:C13303,
+        ocs:C1632,
+        ocs:C18233,
+        ocs:C24871,
+        ocs:C32462,
+        ocs:C33390,
+        ocs:C43235,
+        ocs:C5126,
+        ocs:C6189,
+        ocs:C6732,
+        ocs:C855,
+        ocs:C988 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4761 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/GGH_signature_scheme> ;
+    skos:prefLabel "GGH signature scheme" ;
+    skos:related ocs:C1511,
+        ocs:C16125,
+        ocs:C19573,
+        ocs:C21324,
+        ocs:C28075,
+        ocs:C30403,
+        ocs:C32051,
+        ocs:C33428,
+        ocs:C35807,
+        ocs:C37228,
+        ocs:C38277,
+        ocs:C38377,
+        ocs:C38681,
+        ocs:C39034,
+        ocs:C41786,
+        ocs:C43187,
+        ocs:C43305,
+        ocs:C45656,
+        ocs:C6727 .
+

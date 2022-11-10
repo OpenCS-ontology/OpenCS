@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7433 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shure_SM58> ;
+    skos:prefLabel "Shure SM58" ;
+    skos:related ocs:C1340,
+        ocs:C17896,
+        ocs:C23996,
+        ocs:C32291,
+        ocs:C34942,
+        ocs:C37306,
+        ocs:C37673,
+        ocs:C38517,
+        ocs:C5139,
+        ocs:C520,
+        ocs:C7070,
+        ocs:C8291,
+        ocs:C9596 .
+

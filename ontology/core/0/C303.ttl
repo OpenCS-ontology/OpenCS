@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C303 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Yet_another> ;
+    skos:prefLabel "Yet another" ;
+    skos:related ocs:C10284,
+        ocs:C12257,
+        ocs:C12821,
+        ocs:C15902,
+        ocs:C16188,
+        ocs:C19,
+        ocs:C22624,
+        ocs:C26572,
+        ocs:C29634,
+        ocs:C30921,
+        ocs:C31850,
+        ocs:C33609,
+        ocs:C39400,
+        ocs:C428,
+        ocs:C4321,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C8564,
+        ocs:C9 .
+

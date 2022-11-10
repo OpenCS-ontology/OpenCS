@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5800 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uninitialized_variable> ;
+    skos:prefLabel "Uninitialized variable" ;
+    skos:related ocs:C10214,
+        ocs:C1083,
+        ocs:C2009,
+        ocs:C2057,
+        ocs:C23580,
+        ocs:C26632,
+        ocs:C2767,
+        ocs:C29314,
+        ocs:C33702,
+        ocs:C37168,
+        ocs:C40322,
+        ocs:C4091,
+        ocs:C4321,
+        ocs:C44845,
+        ocs:C4651,
+        ocs:C7470,
+        ocs:C9638 .
+

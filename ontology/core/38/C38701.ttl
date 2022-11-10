@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38701 a skos:Concept ;
+    skos:broader ocs:C35931 ;
+    skos:closeMatch <http://dbpedia.org/resource/Earth–Moon–Earth_communication> ;
+    skos:prefLabel "Earth-Moon-Earth communication" ;
+    skos:related ocs:C1219,
+        ocs:C17560,
+        ocs:C21204,
+        ocs:C24807,
+        ocs:C3044,
+        ocs:C3690,
+        ocs:C42274,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C9653 .
+

@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1621 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Content_strategy> ;
+    skos:prefLabel "Content strategy" ;
+    skos:related ocs:C10905,
+        ocs:C11094,
+        ocs:C13014,
+        ocs:C13413,
+        ocs:C13673,
+        ocs:C20513,
+        ocs:C22811,
+        ocs:C28503,
+        ocs:C28533,
+        ocs:C28988,
+        ocs:C29256,
+        ocs:C306,
+        ocs:C31201,
+        ocs:C8269 .
+

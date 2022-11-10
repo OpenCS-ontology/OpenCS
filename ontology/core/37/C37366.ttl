@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37366 a skos:Concept ;
+    skos:broader ocs:C19687 ;
+    skos:closeMatch <http://dbpedia.org/resource/Signal_averaging> ;
+    skos:prefLabel "Signal averaging" ;
+    skos:related ocs:C11747,
+        ocs:C123,
+        ocs:C1449,
+        ocs:C19687,
+        ocs:C20514,
+        ocs:C25436,
+        ocs:C31688,
+        ocs:C34943,
+        ocs:C44628,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C5829,
+        ocs:C6943,
+        ocs:C7052,
+        ocs:C836 .
+

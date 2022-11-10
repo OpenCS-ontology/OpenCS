@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26462 a skos:Concept ;
+    skos:broader ocs:C11026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triadic_closure> ;
+    skos:prefLabel "Triadic closure" ;
+    skos:related ocs:C11026,
+        ocs:C15000,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C17671,
+        ocs:C19101,
+        ocs:C19675,
+        ocs:C20170,
+        ocs:C22417,
+        ocs:C23873,
+        ocs:C25141,
+        ocs:C28521,
+        ocs:C33437,
+        ocs:C36858,
+        ocs:C7460 .
+

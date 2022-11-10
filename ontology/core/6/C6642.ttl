@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6642 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/URL_shortening> ;
+    skos:prefLabel "URL shortening" ;
+    skos:related ocs:C12810,
+        ocs:C17225,
+        ocs:C20205,
+        ocs:C22597,
+        ocs:C2464,
+        ocs:C28801,
+        ocs:C29731,
+        ocs:C31,
+        ocs:C38459,
+        ocs:C39074,
+        ocs:C40049,
+        ocs:C40290,
+        ocs:C42434,
+        ocs:C44855,
+        ocs:C4918,
+        ocs:C6968,
+        ocs:C7147,
+        ocs:C8614 .
+

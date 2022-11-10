@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16462 a skos:Concept ;
+    skos:broader ocs:C5746 ;
+    skos:prefLabel "Bookselling" ;
+    skos:related ocs:C10220,
+        ocs:C12146,
+        ocs:C12967,
+        ocs:C8614,
+        ocs:C9606 .
+

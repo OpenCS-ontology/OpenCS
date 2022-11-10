@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13552 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Microsoft_Binary_Format> ;
+    skos:prefLabel "Microsoft Binary Format" ;
+    skos:related ocs:C12262,
+        ocs:C16377,
+        ocs:C19487,
+        ocs:C21384,
+        ocs:C23874,
+        ocs:C24189,
+        ocs:C28063,
+        ocs:C31030,
+        ocs:C31284,
+        ocs:C31341,
+        ocs:C32509,
+        ocs:C35045,
+        ocs:C37239,
+        ocs:C37518,
+        ocs:C39774,
+        ocs:C40691,
+        ocs:C43784,
+        ocs:C45395,
+        ocs:C7602 .
+

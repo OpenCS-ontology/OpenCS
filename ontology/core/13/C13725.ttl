@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13725 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_set> ;
+    skos:prefLabel "Television set" ;
+    skos:related ocs:C12544,
+        ocs:C15787,
+        ocs:C17088,
+        ocs:C19903,
+        ocs:C27572,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C653,
+        ocs:C9605 .
+

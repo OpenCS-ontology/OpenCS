@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20002 a skos:Concept ;
+    skos:broader ocs:C6473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distances_Between_Ports> ;
+    skos:prefLabel "Distances Between Ports" ;
+    skos:related ocs:C6096 .
+

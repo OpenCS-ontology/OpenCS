@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38650 a skos:Concept ;
+    skos:broader ocs:C30704,
+        ocs:C33766,
+        ocs:C36633 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-primary_color_display> ;
+    skos:prefLabel "Multi-primary color display" ;
+    skos:related ocs:C13544,
+        ocs:C20177,
+        ocs:C20260,
+        ocs:C32992,
+        ocs:C34920,
+        ocs:C35867,
+        ocs:C36633,
+        ocs:C39103,
+        ocs:C42852,
+        ocs:C45119,
+        ocs:C6942,
+        ocs:C966 .
+

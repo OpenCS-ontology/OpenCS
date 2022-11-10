@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10863 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/SKATS> ;
+    skos:prefLabel "SKATS" ;
+    skos:related ocs:C11669,
+        ocs:C14649,
+        ocs:C18700,
+        ocs:C32875,
+        ocs:C33463,
+        ocs:C40139,
+        ocs:C5862,
+        ocs:C6282,
+        ocs:C6505,
+        ocs:C7131 .
+

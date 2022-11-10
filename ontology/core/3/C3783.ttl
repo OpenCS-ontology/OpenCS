@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3783 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mixing_patterns> ;
+    skos:prefLabel "Mixing patterns" ;
+    skos:related ocs:C11026,
+        ocs:C15047,
+        ocs:C15476,
+        ocs:C18569,
+        ocs:C18864,
+        ocs:C19101,
+        ocs:C21477,
+        ocs:C22115,
+        ocs:C23873,
+        ocs:C28521,
+        ocs:C34224,
+        ocs:C36858,
+        ocs:C41039,
+        ocs:C7460 .
+

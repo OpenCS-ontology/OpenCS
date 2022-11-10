@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39847 a skos:Concept ;
+    skos:broader ocs:C34142,
+        ocs:C35392,
+        ocs:C36008 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arcsine_distribution> ;
+    skos:prefLabel "Arcsine distribution" ;
+    skos:related ocs:C16163,
+        ocs:C17317,
+        ocs:C22557,
+        ocs:C40060,
+        ocs:C42127,
+        ocs:C42765 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31062 a skos:Concept ;
+    skos:broader ocs:C17117,
+        ocs:C19558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Android_(robot)> ;
+    skos:prefLabel "Android (robot)" ;
+    skos:related ocs:C10396,
+        ocs:C11619,
+        ocs:C12099,
+        ocs:C17236,
+        ocs:C17913,
+        ocs:C19558,
+        ocs:C23845,
+        ocs:C36316,
+        ocs:C43340,
+        ocs:C622,
+        ocs:C8 .
+

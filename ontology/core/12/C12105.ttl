@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12105 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pattern_search_(optimization)> ;
+    skos:prefLabel "Pattern search" ;
+    skos:related ocs:C13208,
+        ocs:C14414,
+        ocs:C1885,
+        ocs:C20242,
+        ocs:C20325,
+        ocs:C24725,
+        ocs:C25774,
+        ocs:C32053,
+        ocs:C34411,
+        ocs:C37565,
+        ocs:C44992,
+        ocs:C45700,
+        ocs:C5197,
+        ocs:C5201,
+        ocs:C5704,
+        ocs:C9780 .
+

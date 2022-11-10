@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45620 a skos:Concept ;
+    skos:broader ocs:C37128 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interactive_skeleton-driven_simulation> ;
+    skos:prefLabel "Interactive skeleton-driven simulation" ;
+    skos:related ocs:C1239,
+        ocs:C12976,
+        ocs:C16728,
+        ocs:C17236,
+        ocs:C21609,
+        ocs:C23564,
+        ocs:C38850,
+        ocs:C5300,
+        ocs:C534,
+        ocs:C7256 .
+

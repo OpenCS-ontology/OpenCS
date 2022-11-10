@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16527 a skos:Concept ;
+    skos:broader ocs:C10396,
+        ocs:C7848 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rectilinear_locomotion> ;
+    skos:prefLabel "Rectilinear locomotion" ;
+    skos:related ocs:C10144,
+        ocs:C18371,
+        ocs:C20380,
+        ocs:C26649,
+        ocs:C29177,
+        ocs:C32523,
+        ocs:C41903 .
+

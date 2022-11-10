@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35265 a skos:Concept ;
+    skos:broader ocs:C25340 ;
+    skos:closeMatch <http://dbpedia.org/resource/AES_implementations> ;
+    skos:prefLabel "AES implementations" ;
+    skos:related ocs:C12814,
+        ocs:C18091,
+        ocs:C20993,
+        ocs:C24871,
+        ocs:C25340,
+        ocs:C28881,
+        ocs:C29363,
+        ocs:C29982,
+        ocs:C33622,
+        ocs:C34895,
+        ocs:C35371,
+        ocs:C38401,
+        ocs:C40478,
+        ocs:C41514,
+        ocs:C41810,
+        ocs:C42142,
+        ocs:C44003,
+        ocs:C44870,
+        ocs:C4751 .
+

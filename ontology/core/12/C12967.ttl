@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12967 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_market> ;
+    skos:prefLabel "Information market" ;
+    skos:related ocs:C10263,
+        ocs:C10611,
+        ocs:C10801,
+        ocs:C11098,
+        ocs:C12146,
+        ocs:C13306,
+        ocs:C22551,
+        ocs:C26014,
+        ocs:C31,
+        ocs:C34300,
+        ocs:C45114,
+        ocs:C4768,
+        ocs:C5410,
+        ocs:C7297,
+        ocs:C7634 .
+

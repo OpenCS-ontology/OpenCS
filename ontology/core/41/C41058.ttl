@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41058 a skos:Concept ;
+    skos:broader ocs:C30337,
+        ocs:C36115 ;
+    skos:closeMatch <http://dbpedia.org/resource/Antenna_amplifier> ;
+    skos:prefLabel "Antenna amplifier" ;
+    skos:related ocs:C11554,
+        ocs:C1219,
+        ocs:C17926,
+        ocs:C19234,
+        ocs:C22526,
+        ocs:C2582,
+        ocs:C26123,
+        ocs:C4205,
+        ocs:C44141,
+        ocs:C44664,
+        ocs:C9691 .
+

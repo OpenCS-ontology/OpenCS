@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13544 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Primary_color> ;
+    skos:prefLabel "Primary color" ;
+    skos:related ocs:C15175,
+        ocs:C15310,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C20177,
+        ocs:C20871,
+        ocs:C32992,
+        ocs:C39103,
+        ocs:C42852,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522,
+        ocs:C8099,
+        ocs:C966 .
+

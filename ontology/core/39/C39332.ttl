@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39332 a skos:Concept ;
+    skos:broader ocs:C30336 ;
+    skos:closeMatch <http://dbpedia.org/resource/EAST-ADL> ;
+    skos:prefLabel "EAST-ADL" ;
+    skos:related ocs:C1024,
+        ocs:C11539,
+        ocs:C14329,
+        ocs:C24477,
+        ocs:C25184,
+        ocs:C30336,
+        ocs:C30528,
+        ocs:C31705,
+        ocs:C39178,
+        ocs:C39293,
+        ocs:C40490,
+        ocs:C40961,
+        ocs:C41719,
+        ocs:C4209,
+        ocs:C4451,
+        ocs:C44773,
+        ocs:C44859 .
+

@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4235 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Demand_factor> ;
+    skos:prefLabel "Demand factor" ;
+    skos:related ocs:C3,
+        ocs:C8386,
+        ocs:C8388,
+        ocs:C9718 .
+

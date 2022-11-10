@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29007 a skos:Concept ;
+    skos:broader ocs:C12999 ;
+    skos:closeMatch <http://dbpedia.org/resource/AM_stereo> ;
+    skos:prefLabel "AM stereo" ;
+    skos:related ocs:C10409,
+        ocs:C12999,
+        ocs:C14053,
+        ocs:C15505,
+        ocs:C18001,
+        ocs:C19903,
+        ocs:C23488,
+        ocs:C25195,
+        ocs:C26768,
+        ocs:C30900,
+        ocs:C31899,
+        ocs:C36245,
+        ocs:C38310,
+        ocs:C44707,
+        ocs:C7159,
+        ocs:C8388 .
+

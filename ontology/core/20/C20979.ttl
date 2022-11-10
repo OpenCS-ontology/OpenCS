@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20979 a skos:Concept ;
+    skos:broader ocs:C11767,
+        ocs:C12376 ;
+    skos:closeMatch <http://dbpedia.org/resource/Levene's_test> ;
+    skos:prefLabel "Levene's test" ;
+    skos:related ocs:C11767,
+        ocs:C15258,
+        ocs:C18968,
+        ocs:C37039,
+        ocs:C37937,
+        ocs:C7908 .
+

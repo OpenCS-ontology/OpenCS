@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2349 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Capstone_(cryptography)> ;
+    skos:prefLabel "Capstone" ;
+    skos:related ocs:C1511,
+        ocs:C16125,
+        ocs:C18858,
+        ocs:C25749,
+        ocs:C27571,
+        ocs:C31774,
+        ocs:C34625,
+        ocs:C37133,
+        ocs:C38245,
+        ocs:C38359,
+        ocs:C400,
+        ocs:C40061,
+        ocs:C4218,
+        ocs:C43967,
+        ocs:C44709,
+        ocs:C6582 .
+

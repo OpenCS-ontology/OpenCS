@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28353 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coset_enumeration> ;
+    skos:prefLabel "Coset enumeration" ;
+    skos:related ocs:C16573,
+        ocs:C30242,
+        ocs:C32647,
+        ocs:C34120,
+        ocs:C36813,
+        ocs:C41928 .
+

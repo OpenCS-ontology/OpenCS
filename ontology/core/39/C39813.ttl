@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39813 a skos:Concept ;
+    skos:broader ocs:C33074,
+        ocs:C37067 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ventra> ;
+    skos:prefLabel "Ventra" ;
+    skos:related ocs:C10797,
+        ocs:C27912,
+        ocs:C28781,
+        ocs:C30984,
+        ocs:C32504,
+        ocs:C3410,
+        ocs:C45561,
+        ocs:C4917,
+        ocs:C8437,
+        ocs:C9113 .
+

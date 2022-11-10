@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1528 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Report priority" ;
+    skos:related ocs:C1,
+        ocs:C21976,
+        ocs:C26,
+        ocs:C27263,
+        ocs:C3,
+        ocs:C3236 .
+

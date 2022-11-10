@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4725 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ultra_Density_Optical> ;
+    skos:prefLabel "Ultra Density Optical" ;
+    skos:related ocs:C12544,
+        ocs:C29301,
+        ocs:C30698,
+        ocs:C3231,
+        ocs:C38922,
+        ocs:C4880,
+        ocs:C4916,
+        ocs:C5883,
+        ocs:C7255,
+        ocs:C7476 .
+

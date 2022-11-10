@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15466 a skos:Concept ;
+    skos:broader ocs:C1628 ;
+    skos:closeMatch <http://dbpedia.org/resource/Drop_tank> ;
+    skos:prefLabel "Drop tank" ;
+    skos:related ocs:C21767,
+        ocs:C25124,
+        ocs:C511 .
+

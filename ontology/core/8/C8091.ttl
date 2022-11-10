@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8091 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_container> ;
+    skos:prefLabel "Web container" ;
+    skos:related ocs:C1142,
+        ocs:C11927,
+        ocs:C12810,
+        ocs:C14627,
+        ocs:C15059,
+        ocs:C16336,
+        ocs:C17183,
+        ocs:C17235,
+        ocs:C17556,
+        ocs:C22597,
+        ocs:C2303,
+        ocs:C24252,
+        ocs:C2674,
+        ocs:C28801,
+        ocs:C29401,
+        ocs:C34170,
+        ocs:C40290,
+        ocs:C42985,
+        ocs:C5424,
+        ocs:C8577 .
+

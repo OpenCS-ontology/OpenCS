@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5209 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Upper_and_lower_probabilities> ;
+    skos:prefLabel "Upper and lower probabilities" ;
+    skos:related ocs:C10143,
+        ocs:C1844,
+        ocs:C22598,
+        ocs:C246,
+        ocs:C2469,
+        ocs:C33734,
+        ocs:C3753,
+        ocs:C39174,
+        ocs:C39812,
+        ocs:C42482,
+        ocs:C43598,
+        ocs:C44764,
+        ocs:C45427,
+        ocs:C6291,
+        ocs:C6692 .
+

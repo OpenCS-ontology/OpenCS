@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13402 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C2,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Home_energy_monitor> ;
+    skos:prefLabel "Home energy monitor" ;
+    skos:related ocs:C11153,
+        ocs:C1626,
+        ocs:C21317,
+        ocs:C24065,
+        ocs:C24892,
+        ocs:C7740,
+        ocs:C8386 .
+

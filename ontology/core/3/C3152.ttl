@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3152 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33 ;
+    skos:prefLabel "Device Monitor" ;
+    skos:related ocs:C12150,
+        ocs:C12431,
+        ocs:C17,
+        ocs:C17235,
+        ocs:C1940,
+        ocs:C22,
+        ocs:C33,
+        ocs:C35,
+        ocs:C3901,
+        ocs:C6999 .
+

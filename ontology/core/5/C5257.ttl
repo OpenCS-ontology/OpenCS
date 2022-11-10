@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5257 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reed_receiver> ;
+    skos:prefLabel "Reed receiver" ;
+    skos:related ocs:C14053,
+        ocs:C15194,
+        ocs:C18001,
+        ocs:C28404,
+        ocs:C30984,
+        ocs:C32554,
+        ocs:C4427,
+        ocs:C5627,
+        ocs:C7659,
+        ocs:C8556 .
+

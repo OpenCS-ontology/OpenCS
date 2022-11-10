@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13998 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lasius_fuliginosus> ;
+    skos:prefLabel "Lasius fuliginosus" ;
+    skos:related ocs:C14496,
+        ocs:C14756,
+        ocs:C19235,
+        ocs:C22675,
+        ocs:C28251,
+        ocs:C28812,
+        ocs:C29538,
+        ocs:C29582,
+        ocs:C33999,
+        ocs:C34293,
+        ocs:C34823 .
+

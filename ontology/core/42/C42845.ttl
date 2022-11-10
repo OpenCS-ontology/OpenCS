@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42845 a skos:Concept ;
+    skos:broader ocs:C36770,
+        ocs:C37036 ;
+    skos:closeMatch <http://dbpedia.org/resource/Moser_spindle> ;
+    skos:prefLabel "Moser spindle" ;
+    skos:related ocs:C15097,
+        ocs:C17043,
+        ocs:C32564,
+        ocs:C37036,
+        ocs:C38560,
+        ocs:C38853,
+        ocs:C39477,
+        ocs:C40184,
+        ocs:C40560,
+        ocs:C41731,
+        ocs:C41797,
+        ocs:C42431,
+        ocs:C42470,
+        ocs:C42955,
+        ocs:C43125,
+        ocs:C43652,
+        ocs:C43912,
+        ocs:C44460,
+        ocs:C45361 .
+

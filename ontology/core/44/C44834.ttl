@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44834 a skos:Concept ;
+    skos:broader ocs:C30079 ;
+    skos:closeMatch <http://dbpedia.org/resource/Entropy_and_life> ;
+    skos:prefLabel "Entropy and life" ;
+    skos:related ocs:C22399,
+        ocs:C39363 .
+

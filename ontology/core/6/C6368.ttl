@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6368 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Sport utility vehicle" ;
+    skos:related ocs:C1240,
+        ocs:C13265,
+        ocs:C26749,
+        ocs:C35 .
+

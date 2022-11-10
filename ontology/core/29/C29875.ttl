@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29875 a skos:Concept ;
+    skos:broader ocs:C28698 ;
+    skos:closeMatch <http://dbpedia.org/resource/Terminal_sliding_mode> ;
+    skos:prefLabel "Terminal sliding mode" ;
+    skos:related ocs:C1447,
+        ocs:C18430,
+        ocs:C25627,
+        ocs:C28698,
+        ocs:C30046,
+        ocs:C30439,
+        ocs:C34269,
+        ocs:C35657,
+        ocs:C36949 .
+

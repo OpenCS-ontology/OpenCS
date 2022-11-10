@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32663 a skos:Concept ;
+    skos:broader ocs:C28460,
+        ocs:C28579 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chart_parser> ;
+    skos:prefLabel "Chart parser" ;
+    skos:related ocs:C1,
+        ocs:C1086,
+        ocs:C17732,
+        ocs:C22624,
+        ocs:C28460,
+        ocs:C28579,
+        ocs:C30921,
+        ocs:C35625,
+        ocs:C38591,
+        ocs:C39527,
+        ocs:C40293,
+        ocs:C40588,
+        ocs:C40905,
+        ocs:C41257,
+        ocs:C41349,
+        ocs:C43346,
+        ocs:C43547,
+        ocs:C45758,
+        ocs:C77,
+        ocs:C8564 .
+

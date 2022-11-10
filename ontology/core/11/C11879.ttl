@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11879 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Crime_mapping> ;
+    skos:prefLabel "Crime mapping" ;
+    skos:related ocs:C11862,
+        ocs:C20994,
+        ocs:C22003,
+        ocs:C27612,
+        ocs:C34588,
+        ocs:C37171,
+        ocs:C43529,
+        ocs:C5155,
+        ocs:C5304 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39719 a skos:Concept ;
+    skos:broader ocs:C30245,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Seidel_adjacency_matrix> ;
+    skos:prefLabel "Seidel adjacency matrix" ;
+    skos:related ocs:C14693,
+        ocs:C15255,
+        ocs:C15460,
+        ocs:C16376,
+        ocs:C30245,
+        ocs:C33437,
+        ocs:C36770,
+        ocs:C38121,
+        ocs:C38434,
+        ocs:C39019,
+        ocs:C40653,
+        ocs:C41114,
+        ocs:C41182,
+        ocs:C41628,
+        ocs:C42581,
+        ocs:C42751,
+        ocs:C45746 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C618 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Laster_Technologies> ;
+    skos:prefLabel "Laster Technologies" ;
+    skos:related ocs:C10562,
+        ocs:C13856,
+        ocs:C15986,
+        ocs:C16,
+        ocs:C16572,
+        ocs:C2166,
+        ocs:C25022,
+        ocs:C28893,
+        ocs:C28966,
+        ocs:C31110,
+        ocs:C32263,
+        ocs:C33489,
+        ocs:C39979,
+        ocs:C7736,
+        ocs:C78,
+        ocs:C9399,
+        ocs:C9603 .
+

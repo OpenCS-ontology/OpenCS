@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29743 a skos:Concept ;
+    skos:broader ocs:C27460 ;
+    skos:prefLabel "CreditCard" ;
+    skos:related ocs:C1,
+        ocs:C11389,
+        ocs:C27327,
+        ocs:C6754,
+        ocs:C8,
+        ocs:C9 .
+

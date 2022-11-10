@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5579 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solver> ;
+    skos:prefLabel "Solver" ;
+    skos:related ocs:C11128,
+        ocs:C23010,
+        ocs:C24394,
+        ocs:C34940,
+        ocs:C4216,
+        ocs:C6072,
+        ocs:C7256,
+        ocs:C8086,
+        ocs:C8435,
+        ocs:C8660,
+        ocs:C8944,
+        ocs:C9,
+        ocs:C9450 .
+

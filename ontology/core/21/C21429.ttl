@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21429 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C12270 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sloppy_identity> ;
+    skos:prefLabel "Sloppy identity" ;
+    skos:related ocs:C12270,
+        ocs:C13001,
+        ocs:C15202,
+        ocs:C16635,
+        ocs:C20577,
+        ocs:C25761,
+        ocs:C26816,
+        ocs:C27696,
+        ocs:C30451,
+        ocs:C32138,
+        ocs:C33168,
+        ocs:C3590,
+        ocs:C36007,
+        ocs:C6764,
+        ocs:C8013 .
+

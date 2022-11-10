@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3353 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/USIM_Application_Toolkit> ;
+    skos:prefLabel "USIM Application Toolkit" ;
+    skos:related ocs:C17999,
+        ocs:C1894,
+        ocs:C27704,
+        ocs:C29697,
+        ocs:C30278,
+        ocs:C34908,
+        ocs:C35200,
+        ocs:C35692,
+        ocs:C35776,
+        ocs:C37303,
+        ocs:C3933,
+        ocs:C5917,
+        ocs:C6821,
+        ocs:C9154 .
+

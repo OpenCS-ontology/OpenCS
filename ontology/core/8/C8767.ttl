@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8767 a skos:Concept ;
+    skos:broader ocs:C6,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cooperative_storage_cloud> ;
+    skos:prefLabel "Cooperative storage cloud" ;
+    skos:related ocs:C10501,
+        ocs:C11540,
+        ocs:C14223,
+        ocs:C15182,
+        ocs:C23054,
+        ocs:C26,
+        ocs:C27316,
+        ocs:C29,
+        ocs:C3231,
+        ocs:C33416,
+        ocs:C3948,
+        ocs:C40267,
+        ocs:C4129,
+        ocs:C7106,
+        ocs:C7476,
+        ocs:C8327,
+        ocs:C8614,
+        ocs:C8706 .
+

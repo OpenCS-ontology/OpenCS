@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23252 a skos:Concept ;
+    skos:broader ocs:C10449,
+        ocs:C2878,
+        ocs:C4644,
+        ocs:C5706,
+        ocs:C8184 ;
+    skos:prefLabel "Error confinement" .
+

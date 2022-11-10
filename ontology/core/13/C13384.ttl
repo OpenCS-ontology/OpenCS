@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13384 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/DNS_Certification_Authority_Authorization> ;
+    skos:prefLabel "DNS Certification Authority Authorization" ;
+    skos:related ocs:C10282,
+        ocs:C17399,
+        ocs:C20205,
+        ocs:C21006,
+        ocs:C24131,
+        ocs:C32192,
+        ocs:C36896,
+        ocs:C37824,
+        ocs:C38524,
+        ocs:C41498,
+        ocs:C42086,
+        ocs:C42100,
+        ocs:C42747,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C45747,
+        ocs:C5471,
+        ocs:C9683 .
+

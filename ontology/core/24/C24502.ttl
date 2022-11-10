@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24502 a skos:Concept ;
+    skos:broader ocs:C6714 ;
+    skos:closeMatch <http://dbpedia.org/resource/MEX_file> ;
+    skos:prefLabel "MEX file" ;
+    skos:related ocs:C10822,
+        ocs:C14990,
+        ocs:C15848,
+        ocs:C19,
+        ocs:C21023,
+        ocs:C21621,
+        ocs:C25793,
+        ocs:C2674,
+        ocs:C30078,
+        ocs:C39303,
+        ocs:C6178,
+        ocs:C6714 .
+

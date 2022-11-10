@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28294 a skos:Concept ;
+    skos:broader ocs:C1142 ;
+    skos:closeMatch <http://dbpedia.org/resource/Quercus_petraea> ;
+    skos:prefLabel "Quercus petraea" ;
+    skos:related ocs:C14359,
+        ocs:C15400,
+        ocs:C17606,
+        ocs:C18815,
+        ocs:C23738,
+        ocs:C27082,
+        ocs:C27095,
+        ocs:C28254,
+        ocs:C28888,
+        ocs:C29185,
+        ocs:C31901 .
+

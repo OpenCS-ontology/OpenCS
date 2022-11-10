@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7432 a skos:Concept ;
+    skos:broader ocs:C31,
+        ocs:C5 ;
+    skos:closeMatch <http://dbpedia.org/resource/XRDS> ;
+    skos:prefLabel "XRDS" ;
+    skos:related ocs:C1746,
+        ocs:C20937,
+        ocs:C22246,
+        ocs:C22597,
+        ocs:C25752,
+        ocs:C28941,
+        ocs:C30237,
+        ocs:C30771,
+        ocs:C31,
+        ocs:C33040,
+        ocs:C37042,
+        ocs:C38459,
+        ocs:C40902,
+        ocs:C41498,
+        ocs:C535,
+        ocs:C6553,
+        ocs:C8614,
+        ocs:C9344,
+        ocs:C9836 .
+

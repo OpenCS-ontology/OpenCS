@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20981 a skos:Concept ;
+    skos:broader ocs:C4861,
+        ocs:C5293 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ballistic_capture> ;
+    skos:prefLabel "Ballistic capture" ;
+    skos:related ocs:C19614,
+        ocs:C19948,
+        ocs:C23609,
+        ocs:C27429,
+        ocs:C28072,
+        ocs:C34065,
+        ocs:C38002,
+        ocs:C38278,
+        ocs:C44515,
+        ocs:C45459,
+        ocs:C5096 .
+

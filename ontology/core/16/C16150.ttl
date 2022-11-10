@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16150 a skos:Concept ;
+    skos:broader ocs:C5145 ;
+    skos:closeMatch <http://dbpedia.org/resource/Longest_increasing_subsequence> ;
+    skos:prefLabel "Longest increasing subsequence" ;
+    skos:related ocs:C1,
+        ocs:C11282,
+        ocs:C13880,
+        ocs:C14079,
+        ocs:C14255,
+        ocs:C23311,
+        ocs:C2820,
+        ocs:C40398,
+        ocs:C41731,
+        ocs:C43933,
+        ocs:C5145,
+        ocs:C77,
+        ocs:C8660 .
+

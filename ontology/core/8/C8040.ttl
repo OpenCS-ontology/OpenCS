@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8040 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/TransducerML> ;
+    skos:prefLabel "TransducerML" ;
+    skos:related ocs:C1037,
+        ocs:C10822,
+        ocs:C11927,
+        ocs:C1651,
+        ocs:C19460,
+        ocs:C23889,
+        ocs:C26778,
+        ocs:C27492,
+        ocs:C29974,
+        ocs:C38078,
+        ocs:C38189,
+        ocs:C3896,
+        ocs:C40725,
+        ocs:C42402,
+        ocs:C43712,
+        ocs:C44135,
+        ocs:C44892,
+        ocs:C45779 .
+

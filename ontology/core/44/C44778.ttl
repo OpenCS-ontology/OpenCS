@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44778 a skos:Concept ;
+    skos:broader ocs:C33564,
+        ocs:C35169 ;
+    skos:closeMatch <http://dbpedia.org/resource/Single-carrier_FDMA> ;
+    skos:prefLabel "Single-carrier FDMA" ;
+    skos:related ocs:C16022,
+        ocs:C16953,
+        ocs:C18799,
+        ocs:C19721,
+        ocs:C21613,
+        ocs:C21929,
+        ocs:C24558,
+        ocs:C25712,
+        ocs:C29419,
+        ocs:C29697,
+        ocs:C32302,
+        ocs:C32715,
+        ocs:C35897,
+        ocs:C37303,
+        ocs:C41460,
+        ocs:C4197,
+        ocs:C42210,
+        ocs:C7502,
+        ocs:C8704,
+        ocs:C9154 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29406 a skos:Concept ;
+    skos:broader ocs:C6124 ;
+    skos:closeMatch <http://dbpedia.org/resource/Map_symbolization> ;
+    skos:prefLabel "Map symbolization" ;
+    skos:related ocs:C11809,
+        ocs:C16797,
+        ocs:C18410,
+        ocs:C21305,
+        ocs:C23914 .
+

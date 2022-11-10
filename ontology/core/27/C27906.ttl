@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27906 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_engine> ;
+    skos:prefLabel "Software engine" ;
+    skos:related ocs:C11373,
+        ocs:C1142,
+        ocs:C1253,
+        ocs:C12736,
+        ocs:C1333,
+        ocs:C15008,
+        ocs:C15444,
+        ocs:C22246,
+        ocs:C22971,
+        ocs:C23269,
+        ocs:C2674,
+        ocs:C3398,
+        ocs:C36614,
+        ocs:C5579,
+        ocs:C6072,
+        ocs:C6255 .
+

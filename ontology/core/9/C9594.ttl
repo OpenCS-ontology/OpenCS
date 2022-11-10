@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9594 a skos:Concept ;
+    skos:broader ocs:C21,
+        ocs:C25,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mean_shift> ;
+    skos:prefLabel "Mean-shift" ;
+    skos:related ocs:C10382,
+        ocs:C14863,
+        ocs:C1573,
+        ocs:C21710,
+        ocs:C22413,
+        ocs:C24784,
+        ocs:C26688,
+        ocs:C26767,
+        ocs:C27660,
+        ocs:C28285,
+        ocs:C33427,
+        ocs:C3512,
+        ocs:C36165,
+        ocs:C39217,
+        ocs:C43444,
+        ocs:C45859,
+        ocs:C7052,
+        ocs:C7528,
+        ocs:C9022 .
+

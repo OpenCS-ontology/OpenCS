@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1799 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:closeMatch <http://dbpedia.org/resource/NSMB_(mathematics)> ;
+    skos:prefLabel "NSMB" ;
+    skos:related ocs:C12482,
+        ocs:C15474,
+        ocs:C23783,
+        ocs:C40762 .
+

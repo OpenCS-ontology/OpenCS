@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44833 a skos:Concept ;
+    skos:broader ocs:C33349,
+        ocs:C34619 ;
+    skos:closeMatch <http://dbpedia.org/resource/Predictive_inference> ;
+    skos:prefLabel "Predictive inference" ;
+    skos:related ocs:C10551,
+        ocs:C11030,
+        ocs:C13685,
+        ocs:C14030,
+        ocs:C14620,
+        ocs:C25,
+        ocs:C26398,
+        ocs:C32717,
+        ocs:C33349,
+        ocs:C41574,
+        ocs:C42694,
+        ocs:C43995,
+        ocs:C6116 .
+

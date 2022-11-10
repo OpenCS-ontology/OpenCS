@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1796 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_tour> ;
+    skos:prefLabel "Audio tour" ;
+    skos:related ocs:C11783,
+        ocs:C12641,
+        ocs:C1338,
+        ocs:C17,
+        ocs:C19131,
+        ocs:C22956,
+        ocs:C31149,
+        ocs:C39810,
+        ocs:C42394,
+        ocs:C4397,
+        ocs:C6114,
+        ocs:C8614,
+        ocs:C9113 .
+

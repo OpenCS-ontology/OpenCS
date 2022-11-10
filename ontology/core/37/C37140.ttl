@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37140 a skos:Concept ;
+    skos:broader ocs:C22542 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nova_remnant> ;
+    skos:prefLabel "Nova remnant" ;
+    skos:related ocs:C18085,
+        ocs:C22542,
+        ocs:C23296,
+        ocs:C25949,
+        ocs:C29212,
+        ocs:C30570,
+        ocs:C33575,
+        ocs:C34110,
+        ocs:C34547,
+        ocs:C39651,
+        ocs:C41439,
+        ocs:C42448 .
+

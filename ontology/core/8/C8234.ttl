@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8234 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C23,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Timed_text> ;
+    skos:prefLabel "Timed text" ;
+    skos:related ocs:C11927,
+        ocs:C12186,
+        ocs:C12439,
+        ocs:C12477,
+        ocs:C14777,
+        ocs:C18680,
+        ocs:C22714,
+        ocs:C23850,
+        ocs:C28801,
+        ocs:C3335,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C39183,
+        ocs:C4584,
+        ocs:C4918,
+        ocs:C5126,
+        ocs:C5262,
+        ocs:C7120,
+        ocs:C9045,
+        ocs:C9266 .
+

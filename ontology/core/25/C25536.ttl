@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25536 a skos:Concept ;
+    skos:broader ocs:C13006 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sentence_word> ;
+    skos:prefLabel "Sentence word" ;
+    skos:related ocs:C1034,
+        ocs:C124,
+        ocs:C13006,
+        ocs:C1451,
+        ocs:C20956,
+        ocs:C21988,
+        ocs:C2298,
+        ocs:C25746,
+        ocs:C26816,
+        ocs:C2761,
+        ocs:C27676,
+        ocs:C30776,
+        ocs:C3261,
+        ocs:C6764,
+        ocs:C8325,
+        ocs:C8454 .
+

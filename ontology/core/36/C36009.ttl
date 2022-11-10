@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36009 a skos:Concept ;
+    skos:broader ocs:C23927 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schauder_basis> ;
+    skos:prefLabel "Schauder basis" ;
+    skos:related ocs:C1220,
+        ocs:C14325,
+        ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C36507,
+        ocs:C39124,
+        ocs:C40380,
+        ocs:C44450,
+        ocs:C5969 .
+

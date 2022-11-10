@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7623 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multi-channel_length> ;
+    skos:prefLabel "Multi-channel length" ;
+    skos:related ocs:C10377,
+        ocs:C15664,
+        ocs:C17574,
+        ocs:C17834,
+        ocs:C23610,
+        ocs:C35540,
+        ocs:C40479 .
+

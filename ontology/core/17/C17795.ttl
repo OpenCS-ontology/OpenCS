@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17795 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kolmogorov's_inequality> ;
+    skos:prefLabel "Kolmogorov's inequality" ;
+    skos:related ocs:C38568,
+        ocs:C40593,
+        ocs:C6909 .
+

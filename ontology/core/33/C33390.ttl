@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33390 a skos:Concept ;
+    skos:broader ocs:C14011 ;
+    skos:closeMatch <http://dbpedia.org/resource/Electronic_symbol> ;
+    skos:prefLabel "Electronic symbol" ;
+    skos:related ocs:C10666,
+        ocs:C1219,
+        ocs:C8291 .
+

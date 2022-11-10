@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26030 a skos:Concept ;
+    skos:broader ocs:C7735 ;
+    skos:closeMatch <http://dbpedia.org/resource/TOP500> ;
+    skos:prefLabel "TOP500" ;
+    skos:related ocs:C10320,
+        ocs:C12690,
+        ocs:C14627,
+        ocs:C21883,
+        ocs:C22554,
+        ocs:C2478,
+        ocs:C24846,
+        ocs:C31489,
+        ocs:C33704,
+        ocs:C40330,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9 .
+

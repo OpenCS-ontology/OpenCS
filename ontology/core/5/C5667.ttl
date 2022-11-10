@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5667 a skos:Concept ;
+    skos:broader ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/OCFS2> ;
+    skos:prefLabel "OCFS2" ;
+    skos:related ocs:C10911,
+        ocs:C14271,
+        ocs:C15477,
+        ocs:C17533,
+        ocs:C20103,
+        ocs:C20800,
+        ocs:C29476,
+        ocs:C30860,
+        ocs:C31489,
+        ocs:C37404,
+        ocs:C39186,
+        ocs:C43345,
+        ocs:C44617,
+        ocs:C45269,
+        ocs:C6312,
+        ocs:C6905,
+        ocs:C7476,
+        ocs:C9,
+        ocs:C9938 .
+

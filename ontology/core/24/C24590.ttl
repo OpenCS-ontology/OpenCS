@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24590 a skos:Concept ;
+    skos:broader ocs:C3902,
+        ocs:C9262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Interrupt_latency> ;
+    skos:prefLabel "Interrupt latency" ;
+    skos:related ocs:C10320,
+        ocs:C11,
+        ocs:C12111,
+        ocs:C12764,
+        ocs:C14470,
+        ocs:C15661,
+        ocs:C17204,
+        ocs:C28016,
+        ocs:C29732,
+        ocs:C33,
+        ocs:C36337,
+        ocs:C39429,
+        ocs:C42313,
+        ocs:C45375,
+        ocs:C5912,
+        ocs:C856,
+        ocs:C9,
+        ocs:C9262 .
+

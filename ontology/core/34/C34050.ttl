@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34050 a skos:Concept ;
+    skos:broader ocs:C17235 ;
+    skos:closeMatch <http://dbpedia.org/resource/Recursive_acronym> ;
+    skos:prefLabel "Recursive acronym" ;
+    skos:related ocs:C10284,
+        ocs:C10320,
+        ocs:C10720,
+        ocs:C10917,
+        ocs:C11927,
+        ocs:C14271,
+        ocs:C15902,
+        ocs:C16980,
+        ocs:C1803,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C29292,
+        ocs:C30078,
+        ocs:C31489,
+        ocs:C4321,
+        ocs:C5126,
+        ocs:C9 .
+

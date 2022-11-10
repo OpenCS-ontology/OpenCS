@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14135 a skos:Concept ;
+    skos:broader ocs:C6754 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sweep_account> ;
+    skos:prefLabel "Sweep account" ;
+    skos:related ocs:C12752,
+        ocs:C14059,
+        ocs:C15597,
+        ocs:C16179,
+        ocs:C16740,
+        ocs:C27523 .
+

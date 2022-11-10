@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26702 a skos:Concept ;
+    skos:broader ocs:C4397,
+        ocs:C4531,
+        ocs:C9686 ;
+    skos:closeMatch <http://dbpedia.org/resource/Articulatory_synthesis> ;
+    skos:prefLabel "Articulatory synthesis" ;
+    skos:related ocs:C1093,
+        ocs:C13210,
+        ocs:C14646,
+        ocs:C2071,
+        ocs:C22617,
+        ocs:C28535,
+        ocs:C308,
+        ocs:C40412,
+        ocs:C4397,
+        ocs:C4531,
+        ocs:C597,
+        ocs:C8631,
+        ocs:C8732,
+        ocs:C9686 .
+

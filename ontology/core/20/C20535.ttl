@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20535 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Solid_angle> ;
+    skos:prefLabel "Solid angle" ;
+    skos:related ocs:C10051,
+        ocs:C1884,
+        ocs:C25918,
+        ocs:C26089,
+        ocs:C597,
+        ocs:C6444 .
+

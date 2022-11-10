@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14810 a skos:Concept ;
+    skos:broader ocs:C390,
+        ocs:C9161 ;
+    skos:closeMatch <http://dbpedia.org/resource/HTTP_tunnel> ;
+    skos:prefLabel "HTTP tunnel" ;
+    skos:related ocs:C13252,
+        ocs:C19227,
+        ocs:C22597,
+        ocs:C23666,
+        ocs:C24131,
+        ocs:C24323,
+        ocs:C26239,
+        ocs:C29000,
+        ocs:C29359,
+        ocs:C29803,
+        ocs:C34194,
+        ocs:C41498,
+        ocs:C43478,
+        ocs:C4663,
+        ocs:C6002,
+        ocs:C8515,
+        ocs:C8577,
+        ocs:C8771 .
+

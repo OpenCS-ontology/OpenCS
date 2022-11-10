@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29222 a skos:Concept ;
+    skos:broader ocs:C1023,
+        ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_geometry> ;
+    skos:prefLabel "Digital geometry" ;
+    skos:related ocs:C1023,
+        ocs:C13155,
+        ocs:C16042,
+        ocs:C22,
+        ocs:C24689,
+        ocs:C32162,
+        ocs:C37007,
+        ocs:C37203,
+        ocs:C39,
+        ocs:C6279 .
+

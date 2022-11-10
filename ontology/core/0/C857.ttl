@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C857 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/HP-IL> ;
+    skos:prefLabel "HP-IL" ;
+    skos:related ocs:C13012,
+        ocs:C13022,
+        ocs:C14063,
+        ocs:C16733,
+        ocs:C23239,
+        ocs:C24085,
+        ocs:C25041,
+        ocs:C32592,
+        ocs:C41110,
+        ocs:C490,
+        ocs:C74,
+        ocs:C7750,
+        ocs:C8188,
+        ocs:C8345 .
+

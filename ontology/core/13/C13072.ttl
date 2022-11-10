@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13072 a skos:Concept ;
+    skos:broader ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/App_store_optimization> ;
+    skos:prefLabel "App store optimization" ;
+    skos:related ocs:C10947,
+        ocs:C12555,
+        ocs:C14004,
+        ocs:C18985,
+        ocs:C23393,
+        ocs:C28136,
+        ocs:C28988,
+        ocs:C38459,
+        ocs:C40507,
+        ocs:C41105,
+        ocs:C44855,
+        ocs:C4803,
+        ocs:C5427,
+        ocs:C5839 .
+

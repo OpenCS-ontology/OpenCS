@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31035 a skos:Concept ;
+    skos:broader ocs:C18083,
+        ocs:C28963 ;
+    skos:closeMatch <http://dbpedia.org/resource/Elasticity_(data_store)> ;
+    skos:prefLabel "Elasticity (data store)" ;
+    skos:related ocs:C1038,
+        ocs:C13744,
+        ocs:C1406,
+        ocs:C17905,
+        ocs:C18405,
+        ocs:C23694,
+        ocs:C2414,
+        ocs:C24857,
+        ocs:C25187,
+        ocs:C27098,
+        ocs:C28349,
+        ocs:C28963,
+        ocs:C30,
+        ocs:C36084,
+        ocs:C42613,
+        ocs:C44420,
+        ocs:C45518,
+        ocs:C5402,
+        ocs:C6 .
+

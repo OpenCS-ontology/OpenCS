@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2087 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linguistic_distance> ;
+    skos:prefLabel "Linguistic distance" ;
+    skos:related ocs:C13210,
+        ocs:C15207,
+        ocs:C16053,
+        ocs:C2114,
+        ocs:C23243,
+        ocs:C2761,
+        ocs:C32426,
+        ocs:C36131,
+        ocs:C6634,
+        ocs:C815,
+        ocs:C9777 .
+

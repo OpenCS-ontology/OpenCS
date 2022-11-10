@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26169 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C11932,
+        ocs:C4025 ;
+    skos:closeMatch <http://dbpedia.org/resource/Possessive_determiner> ;
+    skos:prefLabel "Possessive determiner" ;
+    skos:related ocs:C10760,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C13868,
+        ocs:C15202,
+        ocs:C15644,
+        ocs:C1952,
+        ocs:C19642,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C26816,
+        ocs:C27343,
+        ocs:C31787,
+        ocs:C32159,
+        ocs:C4025 .
+

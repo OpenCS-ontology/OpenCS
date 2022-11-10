@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26105 a skos:Concept ;
+    skos:broader ocs:C2468 ;
+    skos:closeMatch <http://dbpedia.org/resource/Document-based_question> ;
+    skos:prefLabel "Document-based question" ;
+    skos:related ocs:C34173,
+        ocs:C3835,
+        ocs:C44860,
+        ocs:C5031,
+        ocs:C9855 .
+

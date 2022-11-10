@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7113 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Espionage> ;
+    skos:prefLabel "Espionage" ;
+    skos:related ocs:C1331,
+        ocs:C1845,
+        ocs:C2060,
+        ocs:C3059,
+        ocs:C4218 .
+

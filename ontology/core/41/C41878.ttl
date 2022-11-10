@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41878 a skos:Concept ;
+    skos:broader ocs:C32877 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mock_modular_form> ;
+    skos:prefLabel "Mock modular form" ;
+    skos:related ocs:C23040,
+        ocs:C23209,
+        ocs:C32124,
+        ocs:C32463,
+        ocs:C32877,
+        ocs:C35040,
+        ocs:C36651,
+        ocs:C39587,
+        ocs:C39710,
+        ocs:C44789,
+        ocs:C45135,
+        ocs:C45445 .
+

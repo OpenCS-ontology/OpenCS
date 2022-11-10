@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42245 a skos:Concept ;
+    skos:broader ocs:C32349,
+        ocs:C32356,
+        ocs:C33893,
+        ocs:C36144 ;
+    skos:closeMatch <http://dbpedia.org/resource/Subbase> ;
+    skos:prefLabel "Subbase" ;
+    skos:related ocs:C38631,
+        ocs:C43282 .
+

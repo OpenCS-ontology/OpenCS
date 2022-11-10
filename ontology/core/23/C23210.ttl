@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23210 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/Open_cluster> ;
+    skos:prefLabel "Open cluster" ;
+    skos:related ocs:C10556,
+        ocs:C15251,
+        ocs:C17246,
+        ocs:C18085,
+        ocs:C20309,
+        ocs:C22752,
+        ocs:C23296,
+        ocs:C23430,
+        ocs:C25949,
+        ocs:C26348,
+        ocs:C27654,
+        ocs:C29212,
+        ocs:C34547,
+        ocs:C37041,
+        ocs:C597 .
+

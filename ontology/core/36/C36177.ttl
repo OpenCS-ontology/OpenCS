@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36177 a skos:Concept ;
+    skos:broader ocs:C25412 ;
+    skos:closeMatch <http://dbpedia.org/resource/Phase_dispersion_minimization> ;
+    skos:prefLabel "Phase dispersion minimization" ;
+    skos:related ocs:C10509,
+        ocs:C13046,
+        ocs:C25412,
+        ocs:C4515,
+        ocs:C7052,
+        ocs:C9428 .
+

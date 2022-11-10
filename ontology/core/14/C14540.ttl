@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14540 a skos:Concept ;
+    skos:broader ocs:C1262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Waste_Electrical_and_Electronic_Equipment_Directive> ;
+    skos:prefLabel "Waste Electrical and Electronic Equipment Directive" ;
+    skos:related ocs:C18053,
+        ocs:C26517,
+        ocs:C27329 .
+

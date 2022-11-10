@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35264 a skos:Concept ;
+    skos:broader ocs:C22980,
+        ocs:C27708 ;
+    skos:closeMatch <http://dbpedia.org/resource/Jupiter_(rocket_family)> ;
+    skos:prefLabel "Jupiter (rocket family)" ;
+    skos:related ocs:C15835,
+        ocs:C1628,
+        ocs:C18244,
+        ocs:C2252,
+        ocs:C22980,
+        ocs:C23481,
+        ocs:C28425,
+        ocs:C31635,
+        ocs:C32140,
+        ocs:C3290,
+        ocs:C35010,
+        ocs:C7201,
+        ocs:C81 .
+

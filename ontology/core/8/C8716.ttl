@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8716 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grant_writing> ;
+    skos:prefLabel "Grant writing" ;
+    skos:related ocs:C10225,
+        ocs:C12740,
+        ocs:C13,
+        ocs:C7106,
+        ocs:C8614 .
+

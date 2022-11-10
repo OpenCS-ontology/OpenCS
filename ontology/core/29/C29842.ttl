@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29842 a skos:Concept ;
+    skos:broader ocs:C29524 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_algebra> ;
+    skos:prefLabel "Information algebra" ;
+    skos:related ocs:C13874,
+        ocs:C21471,
+        ocs:C31632,
+        ocs:C35894,
+        ocs:C37934,
+        ocs:C39427,
+        ocs:C40999,
+        ocs:C41938,
+        ocs:C6335 .
+

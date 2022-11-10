@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45442 a skos:Concept ;
+    skos:broader ocs:C32419 ;
+    skos:closeMatch <http://dbpedia.org/resource/Transactions_demand> ;
+    skos:prefLabel "Transactions demand" ;
+    skos:related ocs:C32419 .
+

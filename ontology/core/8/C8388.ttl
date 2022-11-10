@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8388 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Watt> ;
+    skos:prefLabel "Watt" ;
+    skos:related ocs:C10409,
+        ocs:C15505,
+        ocs:C7159 .
+

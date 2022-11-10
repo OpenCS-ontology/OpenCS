@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6091 a skos:Concept ;
+    skos:broader ocs:C24 ;
+    skos:prefLabel "Highway environment" ;
+    skos:related ocs:C1581,
+        ocs:C29410,
+        ocs:C30,
+        ocs:C33,
+        ocs:C3390,
+        ocs:C35,
+        ocs:C4861,
+        ocs:C8614 .
+

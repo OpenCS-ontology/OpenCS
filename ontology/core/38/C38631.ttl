@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38631 a skos:Concept ;
+    skos:broader ocs:C29795,
+        ocs:C30725,
+        ocs:C33033 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kolmogorov_space> ;
+    skos:prefLabel "Kolmogorov space" ;
+    skos:related ocs:C27558 .
+

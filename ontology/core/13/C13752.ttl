@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13752 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bounce_rate> ;
+    skos:prefLabel "Bounce rate" ;
+    skos:related ocs:C1155,
+        ocs:C13673,
+        ocs:C13681,
+        ocs:C16800,
+        ocs:C18985,
+        ocs:C21129,
+        ocs:C2203,
+        ocs:C27097,
+        ocs:C33206,
+        ocs:C35660,
+        ocs:C38991,
+        ocs:C39478,
+        ocs:C41624,
+        ocs:C42101,
+        ocs:C43157,
+        ocs:C5427,
+        ocs:C897 .
+

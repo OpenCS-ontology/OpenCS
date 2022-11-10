@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26365 a skos:Concept ;
+    skos:broader ocs:C1940 ;
+    skos:closeMatch <http://dbpedia.org/resource/Stimulus_filtering> ;
+    skos:prefLabel "Stimulus filtering" ;
+    skos:related ocs:C387,
+        ocs:C9854 .
+

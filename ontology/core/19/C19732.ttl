@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19732 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C12695,
+        ocs:C4321,
+        ocs:C8704 ;
+    skos:closeMatch <http://dbpedia.org/resource/Software_pipelining> ;
+    skos:prefLabel "Software pipelining" ;
+    skos:related ocs:C10320,
+        ocs:C15,
+        ocs:C17089,
+        ocs:C17204,
+        ocs:C1721,
+        ocs:C19487,
+        ocs:C19490,
+        ocs:C27,
+        ocs:C27610,
+        ocs:C37538,
+        ocs:C40036,
+        ocs:C40105,
+        ocs:C41469,
+        ocs:C43544,
+        ocs:C856,
+        ocs:C9487 .
+

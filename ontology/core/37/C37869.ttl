@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37869 a skos:Concept ;
+    skos:broader ocs:C34890,
+        ocs:C35703,
+        ocs:C36807 ;
+    skos:closeMatch <http://dbpedia.org/resource/Television_receive-only> ;
+    skos:prefLabel "Television receive-only" ;
+    skos:related ocs:C12544,
+        ocs:C12999,
+        ocs:C18878,
+        ocs:C24807,
+        ocs:C2581,
+        ocs:C27572,
+        ocs:C28716,
+        ocs:C34890,
+        ocs:C36807,
+        ocs:C37973,
+        ocs:C40667,
+        ocs:C43089,
+        ocs:C44963,
+        ocs:C9654 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38211 a skos:Concept ;
+    skos:broader ocs:C31222,
+        ocs:C34662 ;
+    skos:closeMatch <http://dbpedia.org/resource/Root_name_server> ;
+    skos:prefLabel "Root name server" ;
+    skos:related ocs:C11867,
+        ocs:C14321,
+        ocs:C18213,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C24727,
+        ocs:C26114,
+        ocs:C29731,
+        ocs:C34235,
+        ocs:C34662,
+        ocs:C37824,
+        ocs:C40509,
+        ocs:C40832,
+        ocs:C41442,
+        ocs:C42100,
+        ocs:C43392,
+        ocs:C44017,
+        ocs:C8614,
+        ocs:C9683 .
+

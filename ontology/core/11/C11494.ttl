@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11494 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/TWIRL> ;
+    skos:prefLabel "TWIRL" ;
+    skos:related ocs:C16983,
+        ocs:C21383,
+        ocs:C2596,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C36231,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C38359,
+        ocs:C40515,
+        ocs:C41988,
+        ocs:C4218,
+        ocs:C6475 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37408 a skos:Concept ;
+    skos:broader ocs:C16038 ;
+    skos:prefLabel "Visual field restriction" ;
+    skos:related ocs:C1,
+        ocs:C14415,
+        ocs:C21618,
+        ocs:C24,
+        ocs:C7,
+        ocs:C8 .
+

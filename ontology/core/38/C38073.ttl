@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38073 a skos:Concept ;
+    skos:broader ocs:C35389 ;
+    skos:closeMatch <http://dbpedia.org/resource/CubeHash> ;
+    skos:prefLabel "CubeHash" ;
+    skos:related ocs:C15591,
+        ocs:C25174,
+        ocs:C29808,
+        ocs:C34994,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C39849,
+        ocs:C40519,
+        ocs:C42307,
+        ocs:C43191,
+        ocs:C43883,
+        ocs:C44224,
+        ocs:C44462,
+        ocs:C45340,
+        ocs:C5930,
+        ocs:C8946 .
+

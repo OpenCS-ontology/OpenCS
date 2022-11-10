@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16700 a skos:Concept ;
+    skos:broader ocs:C123 ;
+    skos:closeMatch <http://dbpedia.org/resource/First-order_hold> ;
+    skos:prefLabel "First-order hold" ;
+    skos:related ocs:C123,
+        ocs:C1449,
+        ocs:C21021,
+        ocs:C23968,
+        ocs:C35102,
+        ocs:C42625 .
+

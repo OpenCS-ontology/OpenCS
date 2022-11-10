@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41687 a skos:Concept ;
+    skos:broader ocs:C30602 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lebesgue_differentiation_theorem> ;
+    skos:prefLabel "Lebesgue differentiation theorem" ;
+    skos:related ocs:C26263,
+        ocs:C30507,
+        ocs:C31021,
+        ocs:C40292,
+        ocs:C40562,
+        ocs:C42875,
+        ocs:C44945,
+        ocs:C45151 .
+

@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40241 a skos:Concept ;
+    skos:broader ocs:C37205 ;
+    skos:closeMatch <http://dbpedia.org/resource/AKS_primality_test> ;
+    skos:prefLabel "AKS primality test" ;
+    skos:related ocs:C11443,
+        ocs:C2258,
+        ocs:C2309,
+        ocs:C34794,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C5730,
+        ocs:C8660 .
+

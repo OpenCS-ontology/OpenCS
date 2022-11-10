@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14032 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cyberspace> ;
+    skos:prefLabel "Cyberspace" ;
+    skos:related ocs:C1253,
+        ocs:C13320,
+        ocs:C17873,
+        ocs:C18683,
+        ocs:C197,
+        ocs:C19724,
+        ocs:C24850,
+        ocs:C26,
+        ocs:C31,
+        ocs:C35,
+        ocs:C6757,
+        ocs:C7334,
+        ocs:C8,
+        ocs:C8458,
+        ocs:C8614 .
+

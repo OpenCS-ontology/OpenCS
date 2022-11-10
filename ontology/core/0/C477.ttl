@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C477 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C26 ;
+    skos:closeMatch <http://dbpedia.org/resource/SMPTE_2071> ;
+    skos:prefLabel "SMPTE ST 2071" ;
+    skos:related ocs:C10182,
+        ocs:C132,
+        ocs:C16290,
+        ocs:C16777,
+        ocs:C17238,
+        ocs:C21419,
+        ocs:C2306,
+        ocs:C27982,
+        ocs:C28737,
+        ocs:C36614,
+        ocs:C38460,
+        ocs:C38824,
+        ocs:C5975,
+        ocs:C661,
+        ocs:C6790 .
+

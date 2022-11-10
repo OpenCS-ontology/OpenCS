@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45773 a skos:Concept ;
+    skos:broader ocs:C31783 ;
+    skos:closeMatch <http://dbpedia.org/resource/Protocol_spoofing> ;
+    skos:prefLabel "Protocol spoofing" ;
+    skos:related ocs:C12111,
+        ocs:C16205,
+        ocs:C20314,
+        ocs:C20691,
+        ocs:C24323,
+        ocs:C25757,
+        ocs:C26,
+        ocs:C2699,
+        ocs:C29359,
+        ocs:C35493,
+        ocs:C38485,
+        ocs:C39551,
+        ocs:C40204,
+        ocs:C4040,
+        ocs:C42093,
+        ocs:C42692,
+        ocs:C6874,
+        ocs:C787 .
+

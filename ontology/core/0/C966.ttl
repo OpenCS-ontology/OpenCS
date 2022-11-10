@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C966 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Complementary_colors> ;
+    skos:prefLabel "Complementary colors" ;
+    skos:related ocs:C12053,
+        ocs:C12849,
+        ocs:C13544,
+        ocs:C15310,
+        ocs:C16674,
+        ocs:C1935,
+        ocs:C23675,
+        ocs:C32992,
+        ocs:C39103,
+        ocs:C41483,
+        ocs:C42852,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7522 .
+

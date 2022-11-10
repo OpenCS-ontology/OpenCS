@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25629 a skos:Concept ;
+    skos:broader ocs:C10922 ;
+    skos:closeMatch <http://dbpedia.org/resource/Shortlex_order> ;
+    skos:prefLabel "Shortlex order" ;
+    skos:related ocs:C10922,
+        ocs:C11282,
+        ocs:C13406,
+        ocs:C16028,
+        ocs:C24201,
+        ocs:C25682,
+        ocs:C30333,
+        ocs:C524 .
+

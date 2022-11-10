@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45697 a skos:Concept ;
+    skos:broader ocs:C32650 ;
+    skos:closeMatch <http://dbpedia.org/resource/Information_privacy_law> ;
+    skos:prefLabel "Information privacy law" ;
+    skos:related ocs:C12378,
+        ocs:C12434,
+        ocs:C14105,
+        ocs:C17575,
+        ocs:C26011,
+        ocs:C26514,
+        ocs:C28076,
+        ocs:C28085,
+        ocs:C2970,
+        ocs:C36925,
+        ocs:C37237,
+        ocs:C394,
+        ocs:C41140,
+        ocs:C5,
+        ocs:C7510,
+        ocs:C8390,
+        ocs:C8582 .
+

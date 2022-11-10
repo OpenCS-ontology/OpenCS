@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36816 a skos:Concept ;
+    skos:broader ocs:C22489,
+        ocs:C26092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_behavior_management> ;
+    skos:prefLabel "Organizational behavior management" ;
+    skos:related ocs:C10134,
+        ocs:C2058,
+        ocs:C44701,
+        ocs:C5863 .
+

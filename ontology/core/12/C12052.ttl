@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12052 a skos:Concept ;
+    skos:broader ocs:C35,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Common_Criteria> ;
+    skos:prefLabel "Common Criteria" ;
+    skos:related ocs:C17669,
+        ocs:C17878,
+        ocs:C22122,
+        ocs:C27336,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C33147,
+        ocs:C33988,
+        ocs:C35,
+        ocs:C41226,
+        ocs:C41901,
+        ocs:C44040,
+        ocs:C45654,
+        ocs:C7006,
+        ocs:C7181,
+        ocs:C9,
+        ocs:C9349 .
+

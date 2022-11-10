@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32727 a skos:Concept ;
+    skos:broader ocs:C14471,
+        ocs:C15480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hirsch_conjecture> ;
+    skos:prefLabel "Hirsch conjecture" ;
+    skos:related ocs:C15480,
+        ocs:C35890,
+        ocs:C35958,
+        ocs:C36768,
+        ocs:C36820,
+        ocs:C37751,
+        ocs:C38789,
+        ocs:C45150,
+        ocs:C8944 .
+

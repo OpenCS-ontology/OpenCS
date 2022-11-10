@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32 a skos:Concept ;
+    skos:broader ocs:C1 ;
+    skos:closeMatch <http://dbpedia.org/resource/Natural_language_processing> ;
+    skos:prefLabel "Natural language processing" ;
+    skos:related ocs:C1,
+        ocs:C12696,
+        ocs:C12977,
+        ocs:C13,
+        ocs:C16,
+        ocs:C23,
+        ocs:C2468,
+        ocs:C25,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C4397,
+        ocs:C5852,
+        ocs:C685,
+        ocs:C7,
+        ocs:C8,
+        ocs:C8564,
+        ocs:C9022,
+        ocs:C9106,
+        ocs:C961 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30904 a skos:Concept ;
+    skos:broader ocs:C22614 ;
+    skos:prefLabel "Spiral Cone-Beam CT" ;
+    skos:related ocs:C12582,
+        ocs:C257,
+        ocs:C3589,
+        ocs:C7256 .
+

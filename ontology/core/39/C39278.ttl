@@ -1,0 +1,32 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39278 a skos:Concept ;
+    skos:broader ocs:C30659,
+        ocs:C34321,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C35993,
+        ocs:C36508 ;
+    skos:closeMatch <http://dbpedia.org/resource/F-logic> ;
+    skos:prefLabel "F-logic" ;
+    skos:related ocs:C10327,
+        ocs:C12977,
+        ocs:C16356,
+        ocs:C2418,
+        ocs:C25681,
+        ocs:C26168,
+        ocs:C28117,
+        ocs:C28259,
+        ocs:C28809,
+        ocs:C33952,
+        ocs:C34977,
+        ocs:C35570,
+        ocs:C3565,
+        ocs:C39137,
+        ocs:C40821,
+        ocs:C41158,
+        ocs:C41877,
+        ocs:C6531,
+        ocs:C9836 .
+

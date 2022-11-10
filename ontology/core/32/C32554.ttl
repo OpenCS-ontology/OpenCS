@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32554 a skos:Concept ;
+    skos:broader ocs:C25026 ;
+    skos:closeMatch <http://dbpedia.org/resource/Waveguide_filter> ;
+    skos:prefLabel "Waveguide filter" ;
+    skos:related ocs:C1219,
+        ocs:C15194,
+        ocs:C32519,
+        ocs:C38695,
+        ocs:C41756,
+        ocs:C6913 .
+

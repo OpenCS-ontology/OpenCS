@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C39201 a skos:Concept ;
+    skos:broader ocs:C30725 ;
+    skos:closeMatch <http://dbpedia.org/resource/K-frame> ;
+    skos:prefLabel "k-frame" ;
+    skos:related ocs:C10378,
+        ocs:C1220,
+        ocs:C14325,
+        ocs:C19348,
+        ocs:C28787,
+        ocs:C36009,
+        ocs:C4598,
+        ocs:C5332,
+        ocs:C5969 .
+

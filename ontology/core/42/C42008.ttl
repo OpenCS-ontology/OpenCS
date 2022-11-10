@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42008 a skos:Concept ;
+    skos:broader ocs:C32392,
+        ocs:C32877 ;
+    skos:closeMatch <http://dbpedia.org/resource/Eisenstein_ideal> ;
+    skos:prefLabel "Eisenstein ideal" ;
+    skos:related ocs:C23042,
+        ocs:C32392,
+        ocs:C32877,
+        ocs:C35040,
+        ocs:C38958,
+        ocs:C39587,
+        ocs:C42979 .
+

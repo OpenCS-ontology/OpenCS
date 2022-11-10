@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6224 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_Earth> ;
+    skos:prefLabel "Digital Earth" ;
+    skos:related ocs:C11862,
+        ocs:C13972,
+        ocs:C16797,
+        ocs:C19046,
+        ocs:C19733,
+        ocs:C23889,
+        ocs:C23901,
+        ocs:C25353,
+        ocs:C27492,
+        ocs:C31518,
+        ocs:C36978,
+        ocs:C38891,
+        ocs:C9618 .
+

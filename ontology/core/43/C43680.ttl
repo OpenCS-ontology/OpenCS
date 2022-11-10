@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43680 a skos:Concept ;
+    skos:broader ocs:C35379 ;
+    skos:closeMatch <http://dbpedia.org/resource/Run-off-road_collision> ;
+    skos:prefLabel "Run-off-road collision" ;
+    skos:related ocs:C16896,
+        ocs:C17865,
+        ocs:C20456,
+        ocs:C24356,
+        ocs:C24715,
+        ocs:C28746,
+        ocs:C6758,
+        ocs:C9657 .
+

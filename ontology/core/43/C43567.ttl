@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43567 a skos:Concept ;
+    skos:broader ocs:C30533,
+        ocs:C32111,
+        ocs:C35233,
+        ocs:C36770 ;
+    skos:closeMatch <http://dbpedia.org/resource/Biconnected_graph> ;
+    skos:prefLabel "Biconnected graph" ;
+    skos:related ocs:C14693,
+        ocs:C17717,
+        ocs:C19336,
+        ocs:C30730,
+        ocs:C31884,
+        ocs:C35233,
+        ocs:C36406,
+        ocs:C36770,
+        ocs:C37036,
+        ocs:C38091,
+        ocs:C38523,
+        ocs:C38962,
+        ocs:C39263,
+        ocs:C40663,
+        ocs:C41628,
+        ocs:C41759,
+        ocs:C42281 .
+

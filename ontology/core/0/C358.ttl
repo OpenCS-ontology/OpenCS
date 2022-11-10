@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C358 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Call-tracking_software> ;
+    skos:prefLabel "Call-tracking software" ;
+    skos:related ocs:C11116,
+        ocs:C12857,
+        ocs:C15185,
+        ocs:C18985,
+        ocs:C20461,
+        ocs:C22407,
+        ocs:C27114,
+        ocs:C29564,
+        ocs:C35660,
+        ocs:C36167,
+        ocs:C42101,
+        ocs:C45886,
+        ocs:C5427,
+        ocs:C7288,
+        ocs:C7661,
+        ocs:C9113 .
+

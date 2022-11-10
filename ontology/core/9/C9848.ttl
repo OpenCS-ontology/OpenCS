@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9848 a skos:Concept ;
+    skos:broader ocs:C23,
+        ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sememe> ;
+    skos:prefLabel "Sememe" ;
+    skos:related ocs:C12486,
+        ocs:C1451,
+        ocs:C2298,
+        ocs:C24316,
+        ocs:C2578,
+        ocs:C28596,
+        ocs:C37545,
+        ocs:C6018,
+        ocs:C6124,
+        ocs:C6308,
+        ocs:C916 .
+

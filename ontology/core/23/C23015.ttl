@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23015 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cardiocondyla> ;
+    skos:prefLabel "Cardiocondyla" ;
+    skos:related ocs:C24385,
+        ocs:C24897,
+        ocs:C28720 .
+

@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7691 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Y-cable> ;
+    skos:prefLabel "Y-cable" ;
+    skos:related ocs:C10087,
+        ocs:C12640,
+        ocs:C1490,
+        ocs:C1724,
+        ocs:C24805,
+        ocs:C3780,
+        ocs:C8718 .
+

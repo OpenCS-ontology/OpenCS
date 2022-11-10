@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33731 a skos:Concept ;
+    skos:broader ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dixmier_trace> ;
+    skos:prefLabel "Dixmier trace" ;
+    skos:related ocs:C27666,
+        ocs:C28787,
+        ocs:C44813 .
+

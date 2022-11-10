@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35924 a skos:Concept ;
+    skos:broader ocs:C18565,
+        ocs:C18625,
+        ocs:C20013,
+        ocs:C21547,
+        ocs:C24152,
+        ocs:C26880,
+        ocs:C27194,
+        ocs:C27320 ;
+    skos:closeMatch <http://dbpedia.org/resource/Least_trimmed_squares> ;
+    skos:prefLabel "Least trimmed squares" ;
+    skos:related ocs:C13789,
+        ocs:C13877,
+        ocs:C16304,
+        ocs:C25222,
+        ocs:C25355,
+        ocs:C26697,
+        ocs:C28403,
+        ocs:C30858,
+        ocs:C36672,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C6116,
+        ocs:C662,
+        ocs:C7471,
+        ocs:C8398 .
+

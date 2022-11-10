@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4775 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bhattacharyya_distance> ;
+    skos:prefLabel "Bhattacharyya distance" ;
+    skos:related ocs:C10767,
+        ocs:C11030,
+        ocs:C17590,
+        ocs:C1844,
+        ocs:C25862,
+        ocs:C28992,
+        ocs:C31486,
+        ocs:C3389,
+        ocs:C4256 .
+

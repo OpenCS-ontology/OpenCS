@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C11809 a skos:Concept ;
+    skos:broader ocs:C13 ;
+    skos:closeMatch <http://dbpedia.org/resource/Choropleth_map> ;
+    skos:prefLabel "Choropleth map" ;
+    skos:related ocs:C12322,
+        ocs:C12849,
+        ocs:C18410,
+        ocs:C19998,
+        ocs:C2115,
+        ocs:C29406,
+        ocs:C33958,
+        ocs:C388,
+        ocs:C6420 .
+

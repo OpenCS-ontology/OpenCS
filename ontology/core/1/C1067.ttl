@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1067 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C26,
+        ocs:C33 ;
+    skos:prefLabel "Communication trigger" ;
+    skos:related ocs:C11,
+        ocs:C2,
+        ocs:C23666,
+        ocs:C27571,
+        ocs:C3901,
+        ocs:C4099,
+        ocs:C515,
+        ocs:C6114,
+        ocs:C7649,
+        ocs:C8790 .
+

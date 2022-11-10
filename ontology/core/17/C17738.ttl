@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17738 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Random_logic> ;
+    skos:prefLabel "Random logic" ;
+    skos:related ocs:C10320,
+        ocs:C10683,
+        ocs:C12117,
+        ocs:C13747,
+        ocs:C14694,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C30705,
+        ocs:C31284,
+        ocs:C44695,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C8434,
+        ocs:C856 .
+

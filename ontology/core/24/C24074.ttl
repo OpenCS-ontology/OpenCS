@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24074 a skos:Concept ;
+    skos:broader ocs:C610,
+        ocs:C7021,
+        ocs:C7652,
+        ocs:C7803 ;
+    skos:prefLabel "Rotation forest" .
+

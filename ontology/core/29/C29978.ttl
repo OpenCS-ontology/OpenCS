@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29978 a skos:Concept ;
+    skos:broader ocs:C28340 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schreier–Sims_algorithm> ;
+    skos:prefLabel "Schreier–Sims algorithm" ;
+    skos:related ocs:C10,
+        ocs:C16573,
+        ocs:C2309,
+        ocs:C24468,
+        ocs:C28340,
+        ocs:C28353,
+        ocs:C34120,
+        ocs:C34791,
+        ocs:C36813,
+        ocs:C39552,
+        ocs:C40066,
+        ocs:C6537 .
+

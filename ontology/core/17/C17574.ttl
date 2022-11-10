@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17574 a skos:Concept ;
+    skos:broader ocs:C6233 ;
+    skos:closeMatch <http://dbpedia.org/resource/Glitch_removal> ;
+    skos:prefLabel "Glitch removal" ;
+    skos:related ocs:C11252,
+        ocs:C21765,
+        ocs:C25678,
+        ocs:C3195,
+        ocs:C37233,
+        ocs:C4651,
+        ocs:C5037,
+        ocs:C6233,
+        ocs:C6534 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43061 a skos:Concept ;
+    skos:broader ocs:C35103,
+        ocs:C36407,
+        ocs:C37236 ;
+    skos:closeMatch <http://dbpedia.org/resource/Total_variation_distance_of_probability_measures> ;
+    skos:prefLabel "Total variation distance of probability measures" ;
+    skos:related ocs:C10767,
+        ocs:C16726,
+        ocs:C17590,
+        ocs:C1844,
+        ocs:C23346,
+        ocs:C25862,
+        ocs:C26690,
+        ocs:C28992,
+        ocs:C31632,
+        ocs:C39971 .
+

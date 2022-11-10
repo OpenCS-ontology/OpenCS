@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10981 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Advanced_driver_assistance_systems> ;
+    skos:prefLabel "Advanced driver assistance systems" ;
+    skos:related ocs:C1346,
+        ocs:C16679,
+        ocs:C17865,
+        ocs:C22960,
+        ocs:C23009,
+        ocs:C27671,
+        ocs:C4377,
+        ocs:C4428,
+        ocs:C5973,
+        ocs:C9100,
+        ocs:C9846 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27883 a skos:Concept ;
+    skos:broader ocs:C11252 ;
+    skos:closeMatch <http://dbpedia.org/resource/Logic_synthesis> ;
+    skos:prefLabel "Logic synthesis" ;
+    skos:related ocs:C10965,
+        ocs:C1097,
+        ocs:C11252,
+        ocs:C11690,
+        ocs:C13747,
+        ocs:C19400,
+        ocs:C20745,
+        ocs:C23473,
+        ocs:C254,
+        ocs:C26090,
+        ocs:C28039,
+        ocs:C29412,
+        ocs:C33318,
+        ocs:C37773,
+        ocs:C37887,
+        ocs:C5336,
+        ocs:C8460 .
+

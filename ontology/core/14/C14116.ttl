@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14116 a skos:Concept ;
+    skos:broader ocs:C9113 ;
+    skos:closeMatch <http://dbpedia.org/resource/Nomophobia> ;
+    skos:prefLabel "Nomophobia" ;
+    skos:related ocs:C24397,
+        ocs:C34517 .
+

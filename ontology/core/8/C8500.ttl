@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8500 a skos:Concept ;
+    skos:broader ocs:C13,
+        ocs:C34,
+        ocs:C6 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disparate_system> ;
+    skos:prefLabel "Disparate system" ;
+    skos:related ocs:C10609,
+        ocs:C10979,
+        ocs:C11886,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13205,
+        ocs:C197,
+        ocs:C21399,
+        ocs:C23051,
+        ocs:C26,
+        ocs:C29695,
+        ocs:C30335,
+        ocs:C3395,
+        ocs:C35267,
+        ocs:C38873,
+        ocs:C40270,
+        ocs:C45470 .
+

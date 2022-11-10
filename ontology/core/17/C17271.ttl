@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17271 a skos:Concept ;
+    skos:broader ocs:C11701 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bilevel_optimization> ;
+    skos:prefLabel "Bilevel optimization" ;
+    skos:related ocs:C12314,
+        ocs:C14414,
+        ocs:C14554,
+        ocs:C22089,
+        ocs:C27828,
+        ocs:C28077,
+        ocs:C43184 .
+

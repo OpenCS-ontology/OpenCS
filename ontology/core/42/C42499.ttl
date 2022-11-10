@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42499 a skos:Concept ;
+    skos:broader ocs:C36897,
+        ocs:C37134 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-specific_register> ;
+    skos:prefLabel "Model-specific register" ;
+    skos:related ocs:C10320,
+        ocs:C12738,
+        ocs:C1441,
+        ocs:C16094,
+        ocs:C19487,
+        ocs:C25252,
+        ocs:C31346,
+        ocs:C37134,
+        ocs:C38797,
+        ocs:C39621,
+        ocs:C43368,
+        ocs:C45155,
+        ocs:C6038,
+        ocs:C6172,
+        ocs:C856,
+        ocs:C9262 .
+

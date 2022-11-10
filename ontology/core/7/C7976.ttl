@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7976 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/GADDAG> ;
+    skos:prefLabel "GADDAG" ;
+    skos:related ocs:C18220,
+        ocs:C19305,
+        ocs:C2049,
+        ocs:C21370,
+        ocs:C26036,
+        ocs:C26456,
+        ocs:C31925,
+        ocs:C35531,
+        ocs:C38114,
+        ocs:C42467,
+        ocs:C42945,
+        ocs:C44192,
+        ocs:C44893,
+        ocs:C5417,
+        ocs:C749,
+        ocs:C752,
+        ocs:C8522,
+        ocs:C9393 .
+

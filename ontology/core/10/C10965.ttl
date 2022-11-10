@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10965 a skos:Concept ;
+    skos:broader ocs:C11 ;
+    skos:closeMatch <http://dbpedia.org/resource/Very-large-scale_integration> ;
+    skos:prefLabel "Very-large-scale integration" ;
+    skos:related ocs:C1,
+        ocs:C10320,
+        ocs:C11,
+        ocs:C11252,
+        ocs:C13747,
+        ocs:C254,
+        ocs:C27,
+        ocs:C5336 .
+

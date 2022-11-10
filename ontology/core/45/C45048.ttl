@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45048 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C33033,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Besov_space> ;
+    skos:prefLabel "Besov space" ;
+    skos:related ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C30507,
+        ocs:C30725,
+        ocs:C33033,
+        ocs:C36507,
+        ocs:C40375,
+        ocs:C41233,
+        ocs:C42981,
+        ocs:C43695 .
+

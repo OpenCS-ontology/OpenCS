@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37560 a skos:Concept ;
+    skos:broader ocs:C17506 ;
+    skos:closeMatch <http://dbpedia.org/resource/SMAWK_algorithm> ;
+    skos:prefLabel "SMAWK algorithm" ;
+    skos:related ocs:C10,
+        ocs:C12261,
+        ocs:C1446,
+        ocs:C25515,
+        ocs:C27399,
+        ocs:C29,
+        ocs:C32644,
+        ocs:C38729,
+        ocs:C4275,
+        ocs:C43279,
+        ocs:C43751,
+        ocs:C6416,
+        ocs:C6712,
+        ocs:C7129,
+        ocs:C8464 .
+

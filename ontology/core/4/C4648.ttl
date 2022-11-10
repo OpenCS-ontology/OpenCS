@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4648 a skos:Concept ;
+    skos:broader ocs:C24,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Castling> ;
+    skos:prefLabel "Castling" ;
+    skos:related ocs:C1142,
+        ocs:C18256,
+        ocs:C33246,
+        ocs:C33463,
+        ocs:C34062,
+        ocs:C34786,
+        ocs:C43815,
+        ocs:C5242,
+        ocs:C6748,
+        ocs:C7717,
+        ocs:C8276,
+        ocs:C8749 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21716 a skos:Concept ;
+    skos:broader ocs:C10396 ;
+    skos:closeMatch <http://dbpedia.org/resource/Envelope_(motion)> ;
+    skos:prefLabel "Envelope (motion)" ;
+    skos:related ocs:C15308,
+        ocs:C6758,
+        ocs:C8615 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29604 a skos:Concept ;
+    skos:broader ocs:C14412,
+        ocs:C14625 ;
+    skos:closeMatch <http://dbpedia.org/resource/Disk_operating_system> ;
+    skos:prefLabel "Disk operating system" ;
+    skos:related ocs:C10053,
+        ocs:C10320,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C10785,
+        ocs:C12851,
+        ocs:C13579,
+        ocs:C19481,
+        ocs:C30078,
+        ocs:C38922,
+        ocs:C4259,
+        ocs:C44,
+        ocs:C45812,
+        ocs:C6536,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C8787,
+        ocs:C9 .
+

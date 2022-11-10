@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26898 a skos:Concept ;
+    skos:broader ocs:C13750 ;
+    skos:closeMatch <http://dbpedia.org/resource/AURIGA> ;
+    skos:prefLabel "AURIGA" ;
+    skos:related ocs:C15852,
+        ocs:C17386,
+        ocs:C27188,
+        ocs:C29724,
+        ocs:C30525,
+        ocs:C34151,
+        ocs:C34618,
+        ocs:C34632,
+        ocs:C34885,
+        ocs:C37145,
+        ocs:C37557 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20679 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C8564 ;
+    skos:closeMatch <http://dbpedia.org/resource/Parse_tree> ;
+    skos:prefLabel "Parse tree" ;
+    skos:related ocs:C1,
+        ocs:C1034,
+        ocs:C15463,
+        ocs:C19,
+        ocs:C20004,
+        ocs:C21627,
+        ocs:C22624,
+        ocs:C24691,
+        ocs:C26158,
+        ocs:C30921,
+        ocs:C34287,
+        ocs:C34937,
+        ocs:C4321,
+        ocs:C43937,
+        ocs:C524,
+        ocs:C5556,
+        ocs:C6764,
+        ocs:C8452,
+        ocs:C8564 .
+

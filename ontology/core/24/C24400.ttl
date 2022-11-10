@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24400 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298,
+        ocs:C5852,
+        ocs:C6764,
+        ocs:C7330,
+        ocs:C8564 ;
+    skos:prefLabel "Inversion transduction grammars" .
+

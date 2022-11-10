@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2257 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C33,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dispatch_table> ;
+    skos:prefLabel "Dispatch table" ;
+    skos:related ocs:C10720,
+        ocs:C1333,
+        ocs:C14222,
+        ocs:C16569,
+        ocs:C19,
+        ocs:C2057,
+        ocs:C21130,
+        ocs:C25570,
+        ocs:C27131,
+        ocs:C28524,
+        ocs:C3282,
+        ocs:C329,
+        ocs:C3676,
+        ocs:C38481,
+        ocs:C38593,
+        ocs:C41659,
+        ocs:C4321,
+        ocs:C5308,
+        ocs:C5722,
+        ocs:C9947 .
+

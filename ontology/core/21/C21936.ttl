@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21936 a skos:Concept ;
+    skos:broader ocs:C7790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Multistage_rocket> ;
+    skos:prefLabel "Multistage rocket" ;
+    skos:related ocs:C1628,
+        ocs:C21630,
+        ocs:C27708,
+        ocs:C34065 .
+

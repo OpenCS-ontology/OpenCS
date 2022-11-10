@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17130 a skos:Concept ;
+    skos:broader ocs:C1647 ;
+    skos:closeMatch <http://dbpedia.org/resource/Salary_cap> ;
+    skos:prefLabel "Salary cap" ;
+    skos:related ocs:C12603,
+        ocs:C16311,
+        ocs:C19130,
+        ocs:C3467,
+        ocs:C6340 .
+

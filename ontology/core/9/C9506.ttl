@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9506 a skos:Concept ;
+    skos:broader ocs:C4 ;
+    skos:closeMatch <http://dbpedia.org/resource/AIP_Conference_Proceedings> ;
+    skos:prefLabel "AIP Conference Proceedings" ;
+    skos:related ocs:C597 .
+

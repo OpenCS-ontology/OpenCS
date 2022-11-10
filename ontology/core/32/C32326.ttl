@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32326 a skos:Concept ;
+    skos:broader ocs:C18989 ;
+    skos:closeMatch <http://dbpedia.org/resource/International_X-ray_Observatory> ;
+    skos:prefLabel "International X-ray Observatory" ;
+    skos:related ocs:C17174,
+        ocs:C23267 .
+

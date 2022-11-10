@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6535 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Curse_of_dimensionality> ;
+    skos:prefLabel "Curse of dimensionality" ;
+    skos:related ocs:C10382,
+        ocs:C11030,
+        ocs:C1844,
+        ocs:C20003,
+        ocs:C2005,
+        ocs:C21,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C26398,
+        ocs:C33141,
+        ocs:C3512,
+        ocs:C6116,
+        ocs:C6693,
+        ocs:C6912,
+        ocs:C9022,
+        ocs:C9428,
+        ocs:C9538 .
+

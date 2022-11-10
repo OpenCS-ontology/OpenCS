@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2529 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C13,
+        ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Decision_support_system> ;
+    skos:prefLabel "Decision support system" ;
+    skos:related ocs:C10616,
+        ocs:C12,
+        ocs:C12694,
+        ocs:C12736,
+        ocs:C13,
+        ocs:C14954,
+        ocs:C197,
+        ocs:C25464,
+        ocs:C2580,
+        ocs:C2979,
+        ocs:C29870,
+        ocs:C31111,
+        ocs:C3753,
+        ocs:C4768,
+        ocs:C6,
+        ocs:C8 .
+

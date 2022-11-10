@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36608 a skos:Concept ;
+    skos:broader ocs:C26764 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wireless_Medical_Telemetry_Service> ;
+    skos:prefLabel "Wireless Medical Telemetry Service" ;
+    skos:related ocs:C13593,
+        ocs:C15897,
+        ocs:C21424,
+        ocs:C26764,
+        ocs:C28292,
+        ocs:C32171,
+        ocs:C33357,
+        ocs:C33773,
+        ocs:C35370,
+        ocs:C37037,
+        ocs:C37313,
+        ocs:C44700,
+        ocs:C4665,
+        ocs:C7216,
+        ocs:C8612 .
+

@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2605 a skos:Concept ;
+    skos:broader ocs:C17,
+        ocs:C18,
+        ocs:C31 ;
+    skos:closeMatch <http://dbpedia.org/resource/Context_awareness> ;
+    skos:prefLabel "Context awareness" ;
+    skos:related ocs:C10770,
+        ocs:C11,
+        ocs:C11153,
+        ocs:C11555,
+        ocs:C12644,
+        ocs:C1338,
+        ocs:C14901,
+        ocs:C18,
+        ocs:C21424,
+        ocs:C24139,
+        ocs:C31131,
+        ocs:C35,
+        ocs:C36815,
+        ocs:C4094,
+        ocs:C7166,
+        ocs:C8191,
+        ocs:C9047,
+        ocs:C9603,
+        ocs:C9607 .
+

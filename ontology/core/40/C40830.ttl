@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40830 a skos:Concept ;
+    skos:broader ocs:C32349,
+        ocs:C32356,
+        ocs:C33893,
+        ocs:C36144 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ultraweak_topology> ;
+    skos:prefLabel "Ultraweak topology" ;
+    skos:related ocs:C17651,
+        ocs:C19125,
+        ocs:C23927,
+        ocs:C28787,
+        ocs:C31849,
+        ocs:C33102,
+        ocs:C33187,
+        ocs:C34332,
+        ocs:C34336,
+        ocs:C36144,
+        ocs:C38682,
+        ocs:C41063,
+        ocs:C42981,
+        ocs:C44342 .
+

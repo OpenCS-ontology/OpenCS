@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44704 a skos:Concept ;
+    skos:broader ocs:C36973 ;
+    skos:closeMatch <http://dbpedia.org/resource/Audio_crossover> ;
+    skos:prefLabel "Audio crossover" ;
+    skos:related ocs:C12447,
+        ocs:C1449,
+        ocs:C15194,
+        ocs:C21364,
+        ocs:C23968,
+        ocs:C38517,
+        ocs:C41790,
+        ocs:C44671 .
+

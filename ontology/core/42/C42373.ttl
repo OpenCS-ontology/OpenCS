@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42373 a skos:Concept ;
+    skos:broader ocs:C31661,
+        ocs:C36911 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wf-XML> ;
+    skos:prefLabel "Wf-XML" ;
+    skos:related ocs:C10052,
+        ocs:C10904,
+        ocs:C11927,
+        ocs:C13252,
+        ocs:C17238,
+        ocs:C22668,
+        ocs:C22847,
+        ocs:C28526,
+        ocs:C28632,
+        ocs:C30649,
+        ocs:C36911,
+        ocs:C37370,
+        ocs:C38285,
+        ocs:C38484,
+        ocs:C39643,
+        ocs:C4035,
+        ocs:C41187,
+        ocs:C449,
+        ocs:C8347,
+        ocs:C8795 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5244 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C21,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blossom_algorithm> ;
+    skos:prefLabel "Blossom algorithm" ;
+    skos:related ocs:C19336,
+        ocs:C30245,
+        ocs:C30401,
+        ocs:C31884,
+        ocs:C32806,
+        ocs:C34051,
+        ocs:C36126,
+        ocs:C37941,
+        ocs:C38929,
+        ocs:C39541,
+        ocs:C40560,
+        ocs:C40694,
+        ocs:C43037,
+        ocs:C43576,
+        ocs:C44862,
+        ocs:C45741,
+        ocs:C45746,
+        ocs:C6335 .
+

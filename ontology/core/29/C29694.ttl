@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29694 a skos:Concept ;
+    skos:broader ocs:C24689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Structuring_element> ;
+    skos:prefLabel "Structuring element" ;
+    skos:related ocs:C11771,
+        ocs:C17171,
+        ocs:C24211,
+        ocs:C24689,
+        ocs:C27111,
+        ocs:C31456,
+        ocs:C32381,
+        ocs:C34134,
+        ocs:C35732,
+        ocs:C36966,
+        ocs:C38859,
+        ocs:C39661,
+        ocs:C8021,
+        ocs:C8499 .
+

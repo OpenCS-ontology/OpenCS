@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31113 a skos:Concept ;
+    skos:broader ocs:C24721 ;
+    skos:closeMatch <http://dbpedia.org/resource/Büchi_automaton> ;
+    skos:prefLabel "Büchi automaton" ;
+    skos:related ocs:C12098,
+        ocs:C17566,
+        ocs:C19560,
+        ocs:C2063,
+        ocs:C20923,
+        ocs:C21398,
+        ocs:C22974,
+        ocs:C27087,
+        ocs:C30272,
+        ocs:C32865,
+        ocs:C34302,
+        ocs:C35744,
+        ocs:C37890,
+        ocs:C39145,
+        ocs:C39717,
+        ocs:C42914,
+        ocs:C43277,
+        ocs:C43816,
+        ocs:C44517,
+        ocs:C8791 .
+

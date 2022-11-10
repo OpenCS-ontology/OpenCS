@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8913 a skos:Concept ;
+    skos:broader ocs:C11,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_timing_diagram> ;
+    skos:prefLabel "Digital timing diagram" ;
+    skos:related ocs:C10320,
+        ocs:C10568,
+        ocs:C11613,
+        ocs:C13386,
+        ocs:C15669,
+        ocs:C15962,
+        ocs:C22530,
+        ocs:C490,
+        ocs:C5336,
+        ocs:C543,
+        ocs:C6306 .
+

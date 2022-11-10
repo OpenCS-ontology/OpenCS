@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15769 a skos:Concept ;
+    skos:broader ocs:C3343 ;
+    skos:closeMatch <http://dbpedia.org/resource/Organizational_memory> ;
+    skos:prefLabel "Organizational memory" ;
+    skos:related ocs:C11021,
+        ocs:C11657,
+        ocs:C11762,
+        ocs:C11997,
+        ocs:C12,
+        ocs:C13078,
+        ocs:C15562,
+        ocs:C25192,
+        ocs:C3343,
+        ocs:C5092,
+        ocs:C6551 .
+

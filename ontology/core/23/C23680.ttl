@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23680 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C5211 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hypotaxis> ;
+    skos:prefLabel "Hypotaxis" ;
+    skos:related ocs:C1034,
+        ocs:C15506,
+        ocs:C19047,
+        ocs:C21988,
+        ocs:C24178,
+        ocs:C24691,
+        ocs:C25746,
+        ocs:C28817,
+        ocs:C32557,
+        ocs:C5211,
+        ocs:C6545,
+        ocs:C6764 .
+

@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23453 a skos:Concept ;
+    skos:broader ocs:C4699,
+        ocs:C5825,
+        ocs:C7736 ;
+    skos:prefLabel "Human machine interface design" .
+

@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9992 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C33,
+        ocs:C6 ;
+    skos:prefLabel "Record status" ;
+    skos:related ocs:C13468,
+        ocs:C18,
+        ocs:C23,
+        ocs:C25464,
+        ocs:C26,
+        ocs:C3,
+        ocs:C31,
+        ocs:C33,
+        ocs:C3896,
+        ocs:C6,
+        ocs:C8539,
+        ocs:C9 .
+

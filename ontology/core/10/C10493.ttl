@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10493 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_point> ;
+    skos:prefLabel "Data point" ;
+    skos:related ocs:C10382,
+        ocs:C13,
+        ocs:C4030,
+        ocs:C42748,
+        ocs:C4752,
+        ocs:C5700,
+        ocs:C6822,
+        ocs:C7161 .
+

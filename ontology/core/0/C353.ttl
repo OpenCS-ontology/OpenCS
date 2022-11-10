@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C353 a skos:Concept ;
+    skos:broader ocs:C8 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rational_agent> ;
+    skos:prefLabel "Rational agent" ;
+    skos:related ocs:C12579,
+        ocs:C29173,
+        ocs:C3753,
+        ocs:C8 .
+

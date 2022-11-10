@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35399 a skos:Concept ;
+    skos:broader ocs:C24477,
+        ocs:C28080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Model-driven_architecture> ;
+    skos:prefLabel "Model-driven architecture" ;
+    skos:related ocs:C11618,
+        ocs:C17238,
+        ocs:C22894,
+        ocs:C23439,
+        ocs:C24477,
+        ocs:C28,
+        ocs:C30215,
+        ocs:C30528,
+        ocs:C31705,
+        ocs:C32723,
+        ocs:C35609,
+        ocs:C35641,
+        ocs:C38382,
+        ocs:C39366,
+        ocs:C40056,
+        ocs:C41719,
+        ocs:C41766,
+        ocs:C4209,
+        ocs:C44278,
+        ocs:C45334 .
+

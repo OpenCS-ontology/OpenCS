@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16076 a skos:Concept ;
+    skos:broader ocs:C1253 ;
+    skos:prefLabel "Application program software" ;
+    skos:related ocs:C10329,
+        ocs:C12806,
+        ocs:C2,
+        ocs:C27555,
+        ocs:C29604 .
+

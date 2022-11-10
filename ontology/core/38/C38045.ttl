@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38045 a skos:Concept ;
+    skos:broader ocs:C31690,
+        ocs:C31783,
+        ocs:C33962,
+        ocs:C36678 ;
+    skos:closeMatch <http://dbpedia.org/resource/Classful_network> ;
+    skos:prefLabel "Classful network" ;
+    skos:related ocs:C14160,
+        ocs:C14321,
+        ocs:C16526,
+        ocs:C18213,
+        ocs:C20125,
+        ocs:C20205,
+        ocs:C20540,
+        ocs:C21724,
+        ocs:C24727,
+        ocs:C26,
+        ocs:C26419,
+        ocs:C30247,
+        ocs:C34235,
+        ocs:C36678,
+        ocs:C41442,
+        ocs:C42609,
+        ocs:C43015,
+        ocs:C43820,
+        ocs:C5207,
+        ocs:C8614 .
+

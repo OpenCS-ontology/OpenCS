@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19907 a skos:Concept ;
+    skos:broader ocs:C13511,
+        ocs:C1451 ;
+    skos:closeMatch <http://dbpedia.org/resource/Coinduction> ;
+    skos:prefLabel "Coinduction" ;
+    skos:related ocs:C1,
+        ocs:C10498,
+        ocs:C10917,
+        ocs:C14836,
+        ocs:C22978,
+        ocs:C24482,
+        ocs:C25057,
+        ocs:C25684,
+        ocs:C25747,
+        ocs:C36450,
+        ocs:C37966,
+        ocs:C44891,
+        ocs:C5722,
+        ocs:C6531,
+        ocs:C6941 .
+

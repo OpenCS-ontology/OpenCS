@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35138 a skos:Concept ;
+    skos:broader ocs:C18626 ;
+    skos:closeMatch <http://dbpedia.org/resource/Linear_code> ;
+    skos:prefLabel "Linear code" ;
+    skos:related ocs:C18626,
+        ocs:C19877,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C29577,
+        ocs:C30001,
+        ocs:C32510,
+        ocs:C34469,
+        ocs:C40267,
+        ocs:C42003,
+        ocs:C42778,
+        ocs:C43079,
+        ocs:C44130,
+        ocs:C44265,
+        ocs:C44441,
+        ocs:C5037,
+        ocs:C5196,
+        ocs:C6402 .
+

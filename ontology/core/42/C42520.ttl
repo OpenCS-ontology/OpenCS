@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42520 a skos:Concept ;
+    skos:broader ocs:C35628 ;
+    skos:closeMatch <http://dbpedia.org/resource/NIST_Special_Publication_800-53> ;
+    skos:prefLabel "NIST Special Publication 800-53" ;
+    skos:related ocs:C12637,
+        ocs:C1399,
+        ocs:C23848,
+        ocs:C2414,
+        ocs:C25340,
+        ocs:C25612,
+        ocs:C2979,
+        ocs:C31037,
+        ocs:C34355,
+        ocs:C35,
+        ocs:C35389,
+        ocs:C37133,
+        ocs:C38401,
+        ocs:C42213,
+        ocs:C43739,
+        ocs:C7804,
+        ocs:C8171 .
+

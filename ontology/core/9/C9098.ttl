@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9098 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Telematics_for_Libraries_Program> ;
+    skos:prefLabel "Telematics for Libraries Program" ;
+    skos:related ocs:C1,
+        ocs:C11499,
+        ocs:C1253,
+        ocs:C1346,
+        ocs:C14053,
+        ocs:C15008,
+        ocs:C15165,
+        ocs:C15831,
+        ocs:C16775,
+        ocs:C197,
+        ocs:C32753,
+        ocs:C37709,
+        ocs:C3997,
+        ocs:C4428,
+        ocs:C6944,
+        ocs:C8068,
+        ocs:C8797,
+        ocs:C9785 .
+

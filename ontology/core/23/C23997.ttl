@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23997 a skos:Concept ;
+    skos:broader ocs:C1253,
+        ocs:C4558 ;
+    skos:closeMatch <http://dbpedia.org/resource/Specification_by_example> ;
+    skos:prefLabel "Specification by example" ;
+    skos:related ocs:C17877,
+        ocs:C18415,
+        ocs:C20241,
+        ocs:C2214,
+        ocs:C23394,
+        ocs:C25957,
+        ocs:C28080,
+        ocs:C28275,
+        ocs:C29790,
+        ocs:C31890,
+        ocs:C31920,
+        ocs:C3844,
+        ocs:C3991,
+        ocs:C40310,
+        ocs:C41038,
+        ocs:C41437,
+        ocs:C4558,
+        ocs:C666,
+        ocs:C8895 .
+

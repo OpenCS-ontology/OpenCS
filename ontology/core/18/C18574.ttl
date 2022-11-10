@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18574 a skos:Concept ;
+    skos:broader ocs:C12309,
+        ocs:C2703 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_orthophoto_quadrangle> ;
+    skos:prefLabel "Digital orthophoto quadrangle" ;
+    skos:related ocs:C11862,
+        ocs:C12309,
+        ocs:C24390,
+        ocs:C2703,
+        ocs:C27128,
+        ocs:C30827,
+        ocs:C3185 .
+

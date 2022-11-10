@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9117 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/R2_signalling> ;
+    skos:prefLabel "R2 signalling" ;
+    skos:related ocs:C10699,
+        ocs:C1154,
+        ocs:C14615,
+        ocs:C25250,
+        ocs:C25293,
+        ocs:C25485,
+        ocs:C2665,
+        ocs:C27446,
+        ocs:C28758,
+        ocs:C2917,
+        ocs:C3,
+        ocs:C6027,
+        ocs:C6039,
+        ocs:C6645 .
+

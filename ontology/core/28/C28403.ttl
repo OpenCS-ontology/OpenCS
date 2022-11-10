@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28403 a skos:Concept ;
+    skos:broader ocs:C4752,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7471 ;
+    skos:closeMatch <http://dbpedia.org/resource/Robust_regression> ;
+    skos:prefLabel "Robust regression" ;
+    skos:related ocs:C10138,
+        ocs:C13877,
+        ocs:C16304,
+        ocs:C18625,
+        ocs:C23554,
+        ocs:C25222,
+        ocs:C25355,
+        ocs:C26697,
+        ocs:C26880,
+        ocs:C35924,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C662,
+        ocs:C7278,
+        ocs:C7471 .
+

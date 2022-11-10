@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13586 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Graphics_display_resolution> ;
+    skos:prefLabel "Graphics display resolution" ;
+    skos:related ocs:C10368,
+        ocs:C16911,
+        ocs:C21424,
+        ocs:C22257,
+        ocs:C2722,
+        ocs:C27829,
+        ocs:C31249,
+        ocs:C32920,
+        ocs:C35370,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C8900,
+        ocs:C9113 .
+

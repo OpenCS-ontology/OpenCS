@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C260 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Autoregressive_model> ;
+    skos:prefLabel "Autoregressive model" ;
+    skos:related ocs:C10509,
+        ocs:C11096,
+        ocs:C13607,
+        ocs:C14424,
+        ocs:C23563,
+        ocs:C25668,
+        ocs:C5505,
+        ocs:C6116,
+        ocs:C6909,
+        ocs:C836,
+        ocs:C9428 .
+

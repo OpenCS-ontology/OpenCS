@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5297 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Blend_modes> ;
+    skos:prefLabel "Blend modes" ;
+    skos:related ocs:C13155,
+        ocs:C16914,
+        ocs:C17520,
+        ocs:C21158,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C30704,
+        ocs:C40512,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C43198,
+        ocs:C4584,
+        ocs:C6942,
+        ocs:C740,
+        ocs:C797,
+        ocs:C8622 .
+

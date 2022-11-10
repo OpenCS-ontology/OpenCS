@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36674 a skos:Concept ;
+    skos:broader ocs:C26160 ;
+    skos:closeMatch <http://dbpedia.org/resource/Partial_concurrent_thinking_aloud> ;
+    skos:prefLabel "Partial concurrent thinking aloud" ;
+    skos:related ocs:C11719,
+        ocs:C12847,
+        ocs:C16613,
+        ocs:C29407,
+        ocs:C35565,
+        ocs:C37641,
+        ocs:C39787,
+        ocs:C41728,
+        ocs:C4292,
+        ocs:C9607,
+        ocs:C9873 .
+

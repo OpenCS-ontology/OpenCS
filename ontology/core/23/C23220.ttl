@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23220 a skos:Concept ;
+    skos:broader ocs:C4099,
+        ocs:C5196,
+        ocs:C6124 ;
+    skos:prefLabel "Symbol decoding" .
+

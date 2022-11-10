@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42938 a skos:Concept ;
+    skos:broader ocs:C29899,
+        ocs:C31149,
+        ocs:C31755,
+        ocs:C32451,
+        ocs:C36473 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mobile_deep_linking> ;
+    skos:prefLabel "Mobile deep linking" ;
+    skos:related ocs:C22597,
+        ocs:C24143,
+        ocs:C2464,
+        ocs:C28480,
+        ocs:C2931,
+        ocs:C30237,
+        ocs:C31,
+        ocs:C31149,
+        ocs:C32451,
+        ocs:C34117,
+        ocs:C34262,
+        ocs:C37042,
+        ocs:C38059,
+        ocs:C39887,
+        ocs:C43255,
+        ocs:C4431,
+        ocs:C6553,
+        ocs:C7533,
+        ocs:C8995 .
+

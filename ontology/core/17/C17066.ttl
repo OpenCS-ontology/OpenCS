@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17066 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C2298 ;
+    skos:closeMatch <http://dbpedia.org/resource/Grammaticality> ;
+    skos:prefLabel "Grammaticality" ;
+    skos:related ocs:C1034,
+        ocs:C13210,
+        ocs:C1451,
+        ocs:C20121,
+        ocs:C2298,
+        ocs:C28029,
+        ocs:C30478,
+        ocs:C34149,
+        ocs:C34287,
+        ocs:C39066,
+        ocs:C5556,
+        ocs:C6764 .
+

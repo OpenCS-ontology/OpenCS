@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C35158 a skos:Concept ;
+    skos:broader ocs:C23865 ;
+    skos:closeMatch <http://dbpedia.org/resource/Slice_sampling> ;
+    skos:prefLabel "Slice sampling" ;
+    skos:related ocs:C17131,
+        ocs:C1844,
+        ocs:C23865,
+        ocs:C23888,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C31167,
+        ocs:C40553,
+        ocs:C41074,
+        ocs:C41148,
+        ocs:C41470,
+        ocs:C7689,
+        ocs:C8516 .
+

@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34940 a skos:Concept ;
+    skos:broader ocs:C15480 ;
+    skos:closeMatch <http://dbpedia.org/resource/Netlib> ;
+    skos:prefLabel "Netlib" ;
+    skos:related ocs:C12262,
+        ocs:C1253,
+        ocs:C14271,
+        ocs:C19876,
+        ocs:C21023,
+        ocs:C24394,
+        ocs:C25793,
+        ocs:C27,
+        ocs:C5579,
+        ocs:C6714,
+        ocs:C7735,
+        ocs:C8614 .
+

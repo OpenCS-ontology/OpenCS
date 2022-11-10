@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14928 a skos:Concept ;
+    skos:broader ocs:C1092,
+        ocs:C2874,
+        ocs:C6692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Credal_network> ;
+    skos:prefLabel "Credal network" ;
+    skos:related ocs:C12748,
+        ocs:C14161,
+        ocs:C14620,
+        ocs:C19174,
+        ocs:C20977,
+        ocs:C21378,
+        ocs:C22002,
+        ocs:C22598,
+        ocs:C23070,
+        ocs:C23734,
+        ocs:C28074,
+        ocs:C2874,
+        ocs:C30115,
+        ocs:C30746,
+        ocs:C38829,
+        ocs:C39174,
+        ocs:C41348,
+        ocs:C43626,
+        ocs:C44191,
+        ocs:C6822 .
+

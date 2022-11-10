@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29171 a skos:Concept ;
+    skos:broader ocs:C10492 ;
+    skos:closeMatch <http://dbpedia.org/resource/Analog_multiplier> ;
+    skos:prefLabel "Analog multiplier" ;
+    skos:related ocs:C12582,
+        ocs:C20333,
+        ocs:C38689,
+        ocs:C7502 .
+

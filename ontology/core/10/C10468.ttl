@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10468 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Intermittent_fault> ;
+    skos:prefLabel "Intermittent fault" ;
+    skos:related ocs:C10803,
+        ocs:C12747,
+        ocs:C4817,
+        ocs:C8783 .
+

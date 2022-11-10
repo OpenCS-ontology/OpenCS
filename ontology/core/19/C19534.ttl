@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19534 a skos:Concept ;
+    skos:broader ocs:C10923,
+        ocs:C12206,
+        ocs:C3389,
+        ocs:C4752 ;
+    skos:prefLabel "Multivariate outlier detection" .
+

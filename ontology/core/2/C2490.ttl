@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2490 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dart_(programming_language)> ;
+    skos:prefLabel "Dart" ;
+    skos:related ocs:C10284,
+        ocs:C1042,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C11333,
+        ocs:C1142,
+        ocs:C19,
+        ocs:C24909,
+        ocs:C28944,
+        ocs:C29192,
+        ocs:C3036,
+        ocs:C327,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C7572 .
+

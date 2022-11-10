@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C768 a skos:Concept ;
+    skos:broader ocs:C22,
+        ocs:C7 ;
+    skos:prefLabel "Multiple visual images" ;
+    skos:related ocs:C1,
+        ocs:C7,
+        ocs:C8 .
+

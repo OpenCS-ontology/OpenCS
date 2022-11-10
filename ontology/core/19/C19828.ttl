@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19828 a skos:Concept ;
+    skos:broader ocs:C1034,
+        ocs:C5990 ;
+    skos:closeMatch <http://dbpedia.org/resource/Northern_subject_rule> ;
+    skos:prefLabel "Northern subject rule" ;
+    skos:related ocs:C25169,
+        ocs:C34204,
+        ocs:C35238,
+        ocs:C35405,
+        ocs:C6545 .
+

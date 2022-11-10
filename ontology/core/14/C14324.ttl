@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C14324 a skos:Concept ;
+    skos:broader ocs:C12641 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dead_reckoning> ;
+    skos:prefLabel "Dead reckoning" ;
+    skos:related ocs:C12641,
+        ocs:C16291,
+        ocs:C16352,
+        ocs:C1793,
+        ocs:C18521,
+        ocs:C23009,
+        ocs:C27698,
+        ocs:C3230,
+        ocs:C38466,
+        ocs:C7850,
+        ocs:C9242 .
+

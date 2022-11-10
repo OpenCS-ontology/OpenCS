@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36859 a skos:Concept ;
+    skos:broader ocs:C16125,
+        ocs:C21288 ;
+    skos:closeMatch <http://dbpedia.org/resource/McEliece_cryptosystem> ;
+    skos:prefLabel "McEliece cryptosystem" ;
+    skos:related ocs:C16125,
+        ocs:C32288,
+        ocs:C32484,
+        ocs:C33428,
+        ocs:C34469,
+        ocs:C36434,
+        ocs:C37205,
+        ocs:C38277,
+        ocs:C38359,
+        ocs:C40267,
+        ocs:C40300,
+        ocs:C40975,
+        ocs:C41653,
+        ocs:C41786,
+        ocs:C4218,
+        ocs:C43825,
+        ocs:C45024 .
+

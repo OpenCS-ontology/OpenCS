@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38278 a skos:Concept ;
+    skos:broader ocs:C34426 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bi-elliptic_transfer> ;
+    skos:prefLabel "Bi-elliptic transfer" ;
+    skos:related ocs:C15452,
+        ocs:C19614,
+        ocs:C2252,
+        ocs:C27429,
+        ocs:C28072,
+        ocs:C34065,
+        ocs:C45459 .
+

@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C8638 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_micromirror_device> ;
+    skos:prefLabel "Digital micromirror device" ;
+    skos:related ocs:C13586,
+        ocs:C13725,
+        ocs:C15787,
+        ocs:C19957,
+        ocs:C2416,
+        ocs:C26733,
+        ocs:C26790,
+        ocs:C2722,
+        ocs:C29011,
+        ocs:C3118 .
+

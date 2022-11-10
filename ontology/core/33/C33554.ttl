@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33554 a skos:Concept ;
+    skos:broader ocs:C23927,
+        ocs:C28787 ;
+    skos:closeMatch <http://dbpedia.org/resource/Uniformly_bounded_representation> ;
+    skos:prefLabel "Uniformly bounded representation" ;
+    skos:related ocs:C14758,
+        ocs:C17651,
+        ocs:C33102,
+        ocs:C39658,
+        ocs:C41141,
+        ocs:C41480,
+        ocs:C44342,
+        ocs:C45503,
+        ocs:C45576 .
+

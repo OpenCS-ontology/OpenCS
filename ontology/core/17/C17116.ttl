@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17116 a skos:Concept ;
+    skos:broader ocs:C123,
+        ocs:C2168,
+        ocs:C5042 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kaiser_window> ;
+    skos:prefLabel "Kaiser window" ;
+    skos:related ocs:C17252,
+        ocs:C19048,
+        ocs:C20514,
+        ocs:C2168,
+        ocs:C251,
+        ocs:C31114,
+        ocs:C42625,
+        ocs:C44030 .
+

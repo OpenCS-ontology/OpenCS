@@ -1,0 +1,9 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21467 a skos:Concept ;
+    skos:broader ocs:C5584 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_reaction_time> ;
+    skos:prefLabel "Serial reaction time" ;
+    skos:related ocs:C5584 .
+

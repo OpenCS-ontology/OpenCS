@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5167 a skos:Concept ;
+    skos:broader ocs:C26,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wide_area_file_services> ;
+    skos:prefLabel "Wide area file services" ;
+    skos:related ocs:C13242,
+        ocs:C16350,
+        ocs:C22819,
+        ocs:C25133,
+        ocs:C26776,
+        ocs:C26809,
+        ocs:C27426,
+        ocs:C27570,
+        ocs:C29002,
+        ocs:C29274,
+        ocs:C2935,
+        ocs:C30342,
+        ocs:C30880,
+        ocs:C37577,
+        ocs:C38032,
+        ocs:C3809,
+        ocs:C41461,
+        ocs:C42426,
+        ocs:C44317 .
+

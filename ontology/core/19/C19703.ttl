@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19703 a skos:Concept ;
+    skos:broader ocs:C12373,
+        ocs:C5745,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689 ;
+    skos:closeMatch <http://dbpedia.org/resource/Reversed_compound_agent_theorem> ;
+    skos:prefLabel "Reversed compound agent theorem" ;
+    skos:related ocs:C12373,
+        ocs:C12693,
+        ocs:C18619,
+        ocs:C23261,
+        ocs:C31015,
+        ocs:C32480,
+        ocs:C34568,
+        ocs:C35234,
+        ocs:C39751,
+        ocs:C44861,
+        ocs:C45179,
+        ocs:C45748 .
+

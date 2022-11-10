@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34591 a skos:Concept ;
+    skos:broader ocs:C22623 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sub-pixel_resolution> ;
+    skos:prefLabel "Sub-pixel resolution" ;
+    skos:related ocs:C1023,
+        ocs:C13428,
+        ocs:C1347,
+        ocs:C14473,
+        ocs:C18031,
+        ocs:C20122,
+        ocs:C21158,
+        ocs:C21609,
+        ocs:C2196,
+        ocs:C22,
+        ocs:C251,
+        ocs:C35507,
+        ocs:C41662,
+        ocs:C41932,
+        ocs:C42232,
+        ocs:C6448,
+        ocs:C8021 .
+

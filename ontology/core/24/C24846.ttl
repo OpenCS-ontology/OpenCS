@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24846 a skos:Concept ;
+    skos:broader ocs:C3569,
+        ocs:C4155,
+        ocs:C7735 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sunway_TaihuLight> ;
+    skos:prefLabel "Sunway TaihuLight" ;
+    skos:related ocs:C16231,
+        ocs:C19936,
+        ocs:C20267,
+        ocs:C20959,
+        ocs:C21883,
+        ocs:C23292,
+        ocs:C23974,
+        ocs:C24207,
+        ocs:C26030,
+        ocs:C33048,
+        ocs:C40330,
+        ocs:C750,
+        ocs:C7631,
+        ocs:C7735 .
+

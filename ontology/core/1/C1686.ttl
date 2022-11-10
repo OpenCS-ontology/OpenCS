@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1686 a skos:Concept ;
+    skos:broader ocs:C3 ;
+    skos:closeMatch <http://dbpedia.org/resource/Propagation_path_obstruction> ;
+    skos:prefLabel "Propagation path obstruction" ;
+    skos:related ocs:C10462,
+        ocs:C12426,
+        ocs:C21204,
+        ocs:C21945,
+        ocs:C22200,
+        ocs:C23423,
+        ocs:C35931,
+        ocs:C36668,
+        ocs:C37679,
+        ocs:C38701,
+        ocs:C40420,
+        ocs:C45368,
+        ocs:C6198,
+        ocs:C9263 .
+

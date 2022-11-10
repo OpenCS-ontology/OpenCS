@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40052 a skos:Concept ;
+    skos:broader ocs:C31484,
+        ocs:C32049,
+        ocs:C35138 ;
+    skos:closeMatch <http://dbpedia.org/resource/AN_codes> ;
+    skos:prefLabel "AN codes" ;
+    skos:related ocs:C15232,
+        ocs:C16978,
+        ocs:C18626,
+        ocs:C19174,
+        ocs:C19877,
+        ocs:C26265,
+        ocs:C34469,
+        ocs:C37886,
+        ocs:C37934,
+        ocs:C38057,
+        ocs:C40267,
+        ocs:C41626,
+        ocs:C41653,
+        ocs:C42003,
+        ocs:C42255,
+        ocs:C43599,
+        ocs:C44441,
+        ocs:C45108,
+        ocs:C7856 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5978 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pinhole_camera> ;
+    skos:prefLabel "Pinhole camera" ;
+    skos:related ocs:C11391,
+        ocs:C13065,
+        ocs:C1394,
+        ocs:C2904,
+        ocs:C4528 .
+

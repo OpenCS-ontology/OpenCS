@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21108 a skos:Concept ;
+    skos:broader ocs:C1566,
+        ocs:C248,
+        ocs:C2801,
+        ocs:C3840,
+        ocs:C4256,
+        ocs:C6221,
+        ocs:C7161,
+        ocs:C7911,
+        ocs:C8440,
+        ocs:C9538 ;
+    skos:prefLabel "Adaptive discriminant analysis" .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36239 a skos:Concept ;
+    skos:broader ocs:C20332,
+        ocs:C21004 ;
+    skos:closeMatch <http://dbpedia.org/resource/Technomyrmex_albipes> ;
+    skos:prefLabel "Technomyrmex albipes" ;
+    skos:related ocs:C16962,
+        ocs:C22105,
+        ocs:C27032,
+        ocs:C35777,
+        ocs:C37210 .
+

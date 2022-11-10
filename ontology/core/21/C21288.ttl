@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21288 a skos:Concept ;
+    skos:broader ocs:C4218,
+        ocs:C5692 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cryptosystem> ;
+    skos:prefLabel "Cryptosystem" ;
+    skos:related ocs:C14539,
+        ocs:C16125,
+        ocs:C16983,
+        ocs:C17091,
+        ocs:C17856,
+        ocs:C17900,
+        ocs:C21324,
+        ocs:C27571,
+        ocs:C28967,
+        ocs:C29363,
+        ocs:C31774,
+        ocs:C32288,
+        ocs:C32482,
+        ocs:C35391,
+        ocs:C38359,
+        ocs:C4218,
+        ocs:C44466,
+        ocs:C5692 .
+

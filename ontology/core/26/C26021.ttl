@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26021 a skos:Concept ;
+    skos:broader ocs:C7201,
+        ocs:C81 ;
+    skos:closeMatch <http://dbpedia.org/resource/Space_colonization> ;
+    skos:prefLabel "Space colonization" ;
+    skos:related ocs:C2252,
+        ocs:C28425,
+        ocs:C7201,
+        ocs:C81 .
+

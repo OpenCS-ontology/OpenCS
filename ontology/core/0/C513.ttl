@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C513 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Constrained_optimization> ;
+    skos:prefLabel "Constrained optimization" ;
+    skos:related ocs:C11556,
+        ocs:C11701,
+        ocs:C12314,
+        ocs:C13724,
+        ocs:C14414,
+        ocs:C15665,
+        ocs:C27828,
+        ocs:C3570,
+        ocs:C6287,
+        ocs:C6400,
+        ocs:C8435,
+        ocs:C8944,
+        ocs:C9243 .
+

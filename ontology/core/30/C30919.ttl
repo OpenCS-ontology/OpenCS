@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30919 a skos:Concept ;
+    skos:broader ocs:C17921 ;
+    skos:closeMatch <http://dbpedia.org/resource/Isotropic_quadratic_form> ;
+    skos:prefLabel "Isotropic quadratic form" ;
+    skos:related ocs:C37261,
+        ocs:C37678 .
+

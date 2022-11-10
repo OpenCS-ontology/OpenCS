@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36643 a skos:Concept ;
+    skos:broader ocs:C18138 ;
+    skos:prefLabel "KCNQ2 Potassium Channel" ;
+    skos:related ocs:C23973,
+        ocs:C30803,
+        ocs:C32329,
+        ocs:C33955,
+        ocs:C36482 .
+

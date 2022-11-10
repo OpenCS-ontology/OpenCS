@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20096 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hausdorff_moment_problem> ;
+    skos:prefLabel "Hausdorff moment problem" ;
+    skos:related ocs:C11150,
+        ocs:C13262,
+        ocs:C15256,
+        ocs:C29727,
+        ocs:C40823 .
+

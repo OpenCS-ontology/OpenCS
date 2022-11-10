@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44332 a skos:Concept ;
+    skos:broader ocs:C31577 ;
+    skos:closeMatch <http://dbpedia.org/resource/Detection_of_internally_reflected_Cherenkov_light> ;
+    skos:prefLabel "Detection of internally reflected Cherenkov light" ;
+    skos:related ocs:C16545,
+        ocs:C16724,
+        ocs:C19524,
+        ocs:C22996,
+        ocs:C29543,
+        ocs:C31299,
+        ocs:C31577,
+        ocs:C45219,
+        ocs:C597 .
+

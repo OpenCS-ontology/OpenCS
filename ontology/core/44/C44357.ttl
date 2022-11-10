@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C44357 a skos:Concept ;
+    skos:broader ocs:C33667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Micromechanical_Flying_Insect> ;
+    skos:prefLabel "Micromechanical Flying Insect" ;
+    skos:related ocs:C12432,
+        ocs:C16902,
+        ocs:C19750,
+        ocs:C21418,
+        ocs:C36715,
+        ocs:C8,
+        ocs:C9265 .
+

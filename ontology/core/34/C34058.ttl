@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34058 a skos:Concept ;
+    skos:broader ocs:C14022,
+        ocs:C17236 ;
+    skos:closeMatch <http://dbpedia.org/resource/DARPA_LAGR_Program> ;
+    skos:prefLabel "DARPA LAGR Program" ;
+    skos:related ocs:C11158,
+        ocs:C11593,
+        ocs:C1253,
+        ocs:C12641,
+        ocs:C14022,
+        ocs:C14538,
+        ocs:C15963,
+        ocs:C17236,
+        ocs:C17375,
+        ocs:C19558,
+        ocs:C30596,
+        ocs:C31648,
+        ocs:C32579,
+        ocs:C34991,
+        ocs:C36715,
+        ocs:C8,
+        ocs:C8759,
+        ocs:C9603 .
+

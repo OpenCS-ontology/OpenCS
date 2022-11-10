@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36813 a skos:Concept ;
+    skos:broader ocs:C20526,
+        ocs:C24197 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knuth–Bendix_completion_algorithm> ;
+    skos:prefLabel "Knuth–Bendix completion algorithm" ;
+    skos:related ocs:C10922,
+        ocs:C13751,
+        ocs:C24197,
+        ocs:C28353,
+        ocs:C28955,
+        ocs:C29978,
+        ocs:C32647,
+        ocs:C33287,
+        ocs:C3484,
+        ocs:C36132,
+        ocs:C44999,
+        ocs:C465,
+        ocs:C4834 .
+

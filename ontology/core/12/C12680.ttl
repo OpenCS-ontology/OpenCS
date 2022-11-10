@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12680 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C24,
+        ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/2_1/2D> ;
+    skos:prefLabel "2 1/2D" ;
+    skos:related ocs:C10051 .
+

@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C275 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rice_distribution> ;
+    skos:prefLabel "Rice distribution" ;
+    skos:related ocs:C16163,
+        ocs:C25862,
+        ocs:C36630,
+        ocs:C39273,
+        ocs:C40060,
+        ocs:C45117 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4465 a skos:Concept ;
+    skos:broader ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISLISP> ;
+    skos:prefLabel "ISLISP" ;
+    skos:related ocs:C10268,
+        ocs:C11990,
+        ocs:C13366,
+        ocs:C14317,
+        ocs:C15650,
+        ocs:C16609,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C25779,
+        ocs:C27131,
+        ocs:C29292,
+        ocs:C29907,
+        ocs:C31851,
+        ocs:C35209,
+        ocs:C35502,
+        ocs:C4032,
+        ocs:C41692,
+        ocs:C6657,
+        ocs:C8441 .
+

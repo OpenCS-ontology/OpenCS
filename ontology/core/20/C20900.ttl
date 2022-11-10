@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C20900 a skos:Concept ;
+    skos:broader ocs:C12976,
+        ocs:C13320 ;
+    skos:closeMatch <http://dbpedia.org/resource/Surgery_simulator> ;
+    skos:prefLabel "Surgery simulator" ;
+    skos:related ocs:C10396,
+        ocs:C12976,
+        ocs:C17,
+        ocs:C17816,
+        ocs:C18417,
+        ocs:C21609,
+        ocs:C22524,
+        ocs:C24,
+        ocs:C32424,
+        ocs:C36737,
+        ocs:C3967 .
+

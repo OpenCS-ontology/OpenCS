@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6115 a skos:Concept ;
+    skos:broader ocs:C33 ;
+    skos:closeMatch <http://dbpedia.org/resource/Residual_time> ;
+    skos:prefLabel "Residual time" ;
+    skos:related ocs:C25862,
+        ocs:C26204,
+        ocs:C33038,
+        ocs:C43902 .
+

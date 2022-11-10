@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41768 a skos:Concept ;
+    skos:broader ocs:C34648 ;
+    skos:closeMatch <http://dbpedia.org/resource/Kharitonov_region> ;
+    skos:prefLabel "Kharitonov region" ;
+    skos:related ocs:C17473,
+        ocs:C22415 .
+

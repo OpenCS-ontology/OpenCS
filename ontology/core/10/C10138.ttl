@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C10138 a skos:Concept ;
+    skos:broader ocs:C25 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ordinary_least_squares> ;
+    skos:prefLabel "Ordinary least squares" ;
+    skos:related ocs:C11986,
+        ocs:C13685,
+        ocs:C13789,
+        ocs:C14553,
+        ocs:C18625,
+        ocs:C22854,
+        ocs:C23554,
+        ocs:C25862,
+        ocs:C26880,
+        ocs:C27194,
+        ocs:C30859,
+        ocs:C5087,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C9428 .
+

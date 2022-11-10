@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32408 a skos:Concept ;
+    skos:broader ocs:C20240 ;
+    skos:prefLabel "Pheidole dentata" ;
+    skos:related ocs:C17522,
+        ocs:C19253,
+        ocs:C27032 .
+

@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C37203 a skos:Concept ;
+    skos:broader ocs:C16954,
+        ocs:C24607,
+        ocs:C27111 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pixel_connectivity> ;
+    skos:prefLabel "Pixel connectivity" ;
+    skos:related ocs:C14465,
+        ocs:C14863,
+        ocs:C22,
+        ocs:C24607,
+        ocs:C24784,
+        ocs:C26688,
+        ocs:C29207,
+        ocs:C29222,
+        ocs:C30877,
+        ocs:C32156,
+        ocs:C32162,
+        ocs:C37582,
+        ocs:C40681,
+        ocs:C7,
+        ocs:C7528,
+        ocs:C8021,
+        ocs:C9594 .
+

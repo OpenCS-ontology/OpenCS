@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41511 a skos:Concept ;
+    skos:broader ocs:C34746 ;
+    skos:closeMatch <http://dbpedia.org/resource/Landau_distribution> ;
+    skos:prefLabel "Landau distribution" ;
+    skos:related ocs:C13262,
+        ocs:C16163,
+        ocs:C21356,
+        ocs:C40060,
+        ocs:C42463 .
+

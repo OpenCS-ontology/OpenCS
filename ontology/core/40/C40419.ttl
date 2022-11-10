@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40419 a skos:Concept ;
+    skos:broader ocs:C31124,
+        ocs:C34319 ;
+    skos:closeMatch <http://dbpedia.org/resource/Busy_beaver> ;
+    skos:prefLabel "Busy beaver" ;
+    skos:related ocs:C10,
+        ocs:C11885,
+        ocs:C14986,
+        ocs:C1631,
+        ocs:C2170,
+        ocs:C22100,
+        ocs:C24483,
+        ocs:C28635,
+        ocs:C32379,
+        ocs:C32546,
+        ocs:C34319,
+        ocs:C3678,
+        ocs:C38116,
+        ocs:C38733,
+        ocs:C41780,
+        ocs:C45460,
+        ocs:C5914,
+        ocs:C6880 .
+

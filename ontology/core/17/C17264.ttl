@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17264 a skos:Concept ;
+    skos:broader ocs:C6448 ;
+    skos:closeMatch <http://dbpedia.org/resource/Distance_fog> ;
+    skos:prefLabel "Distance fog" ;
+    skos:related ocs:C12590,
+        ocs:C13509,
+        ocs:C15632,
+        ocs:C18519,
+        ocs:C19229,
+        ocs:C21609,
+        ocs:C22,
+        ocs:C22256,
+        ocs:C24235,
+        ocs:C28061,
+        ocs:C28881,
+        ocs:C35621,
+        ocs:C41077,
+        ocs:C41932,
+        ocs:C44165,
+        ocs:C44283,
+        ocs:C8399 .
+

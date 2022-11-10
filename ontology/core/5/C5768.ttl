@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C5768 a skos:Concept ;
+    skos:broader ocs:C35 ;
+    skos:closeMatch <http://dbpedia.org/resource/Hardening_(computing)> ;
+    skos:prefLabel "Hardening (computing)" ;
+    skos:related ocs:C1156,
+        ocs:C13307,
+        ocs:C13578,
+        ocs:C14271,
+        ocs:C16481,
+        ocs:C22970,
+        ocs:C24915,
+        ocs:C25292,
+        ocs:C2545,
+        ocs:C27557,
+        ocs:C2941,
+        ocs:C31489,
+        ocs:C35995,
+        ocs:C41901,
+        ocs:C43514,
+        ocs:C45655,
+        ocs:C5779,
+        ocs:C8349 .
+

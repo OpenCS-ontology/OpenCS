@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C26347 a skos:Concept ;
+    skos:broader ocs:C8517 ;
+    skos:closeMatch <http://dbpedia.org/resource/Homotopy_analysis_method> ;
+    skos:prefLabel "Homotopy analysis method" ;
+    skos:related ocs:C14120,
+        ocs:C30110,
+        ocs:C597 .
+

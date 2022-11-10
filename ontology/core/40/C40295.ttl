@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40295 a skos:Concept ;
+    skos:broader ocs:C30507,
+        ocs:C31362,
+        ocs:C33033,
+        ocs:C33187,
+        ocs:C36507 ;
+    skos:closeMatch <http://dbpedia.org/resource/Opial_property> ;
+    skos:prefLabel "Opial property" ;
+    skos:related ocs:C19125,
+        ocs:C24780,
+        ocs:C28787,
+        ocs:C31362,
+        ocs:C33679,
+        ocs:C36009,
+        ocs:C36110,
+        ocs:C38414,
+        ocs:C39925,
+        ocs:C40236,
+        ocs:C40731,
+        ocs:C41640,
+        ocs:C42981,
+        ocs:C44450,
+        ocs:C45362 .
+

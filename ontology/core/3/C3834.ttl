@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C3834 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C16,
+        ocs:C21 ;
+    skos:closeMatch <http://dbpedia.org/resource/Zero-crossing_rate> ;
+    skos:prefLabel "Zero-crossing rate" ;
+    skos:related ocs:C11529,
+        ocs:C11747,
+        ocs:C1444,
+        ocs:C1449,
+        ocs:C15346,
+        ocs:C16,
+        ocs:C16189,
+        ocs:C16301,
+        ocs:C26099,
+        ocs:C27608,
+        ocs:C27611,
+        ocs:C32612,
+        ocs:C3530,
+        ocs:C8130,
+        ocs:C8499 .
+

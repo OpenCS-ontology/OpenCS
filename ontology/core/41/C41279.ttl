@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41279 a skos:Concept ;
+    skos:broader ocs:C33460,
+        ocs:C37262 ;
+    skos:closeMatch <http://dbpedia.org/resource/Second_declension> ;
+    skos:prefLabel "Second declension" ;
+    skos:related ocs:C13868,
+        ocs:C15856,
+        ocs:C22126,
+        ocs:C23243,
+        ocs:C24499,
+        ocs:C27343,
+        ocs:C29667,
+        ocs:C32159,
+        ocs:C32280,
+        ocs:C33460,
+        ocs:C37262,
+        ocs:C9533 .
+

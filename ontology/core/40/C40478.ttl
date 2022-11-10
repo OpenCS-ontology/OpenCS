@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40478 a skos:Concept ;
+    skos:broader ocs:C30922,
+        ocs:C33857,
+        ocs:C34537,
+        ocs:C35265 ;
+    skos:closeMatch <http://dbpedia.org/resource/FileVault> ;
+    skos:prefLabel "FileVault" ;
+    skos:related ocs:C21545,
+        ocs:C24871,
+        ocs:C25340,
+        ocs:C26817,
+        ocs:C27285,
+        ocs:C29363,
+        ocs:C31338,
+        ocs:C31654,
+        ocs:C33857,
+        ocs:C38723,
+        ocs:C39657,
+        ocs:C40765,
+        ocs:C41697,
+        ocs:C43718,
+        ocs:C44003,
+        ocs:C4751,
+        ocs:C7476,
+        ocs:C9 .
+

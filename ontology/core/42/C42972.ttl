@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C42972 a skos:Concept ;
+    skos:broader ocs:C30036,
+        ocs:C31894,
+        ocs:C35575 ;
+    skos:closeMatch <http://dbpedia.org/resource/Resource-oriented_architecture> ;
+    skos:prefLabel "Resource-oriented architecture" ;
+    skos:related ocs:C10720,
+        ocs:C14329,
+        ocs:C16530,
+        ocs:C17238,
+        ocs:C22597,
+        ocs:C2674,
+        ocs:C28941,
+        ocs:C31894,
+        ocs:C34992,
+        ocs:C38363,
+        ocs:C39323,
+        ocs:C42516,
+        ocs:C42543,
+        ocs:C43434,
+        ocs:C43774,
+        ocs:C45202,
+        ocs:C5869,
+        ocs:C688 .
+

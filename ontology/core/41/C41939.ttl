@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41939 a skos:Concept ;
+    skos:broader ocs:C30057 ;
+    skos:closeMatch <http://dbpedia.org/resource/European_Geostationary_Navigation_Overlay_Service> ;
+    skos:prefLabel "European Geostationary Navigation Overlay Service" ;
+    skos:related ocs:C11579,
+        ocs:C12641,
+        ocs:C20572,
+        ocs:C20845,
+        ocs:C22328,
+        ocs:C26346,
+        ocs:C27698,
+        ocs:C28779,
+        ocs:C30057,
+        ocs:C30562,
+        ocs:C30565,
+        ocs:C34196,
+        ocs:C34811,
+        ocs:C36895,
+        ocs:C37214,
+        ocs:C41676,
+        ocs:C42549,
+        ocs:C43594 .
+

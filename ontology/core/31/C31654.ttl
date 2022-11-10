@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C31654 a skos:Concept ;
+    skos:broader ocs:C14539,
+        ocs:C23230,
+        ocs:C29363 ;
+    skos:closeMatch <http://dbpedia.org/resource/Triple_DES> ;
+    skos:prefLabel "Triple DES" ;
+    skos:related ocs:C11716,
+        ocs:C16125,
+        ocs:C18091,
+        ocs:C20993,
+        ocs:C24131,
+        ocs:C25340,
+        ocs:C29363,
+        ocs:C30083,
+        ocs:C30612,
+        ocs:C31224,
+        ocs:C31774,
+        ocs:C35391,
+        ocs:C37133,
+        ocs:C37209,
+        ocs:C38401,
+        ocs:C4218,
+        ocs:C44933,
+        ocs:C4751,
+        ocs:C5052,
+        ocs:C5692 .
+

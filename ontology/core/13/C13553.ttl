@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C13553 a skos:Concept ;
+    skos:broader ocs:C16,
+        ocs:C32 ;
+    skos:prefLabel "Translation language" ;
+    skos:related ocs:C11812,
+        ocs:C1566,
+        ocs:C16,
+        ocs:C17,
+        ocs:C7733,
+        ocs:C8614,
+        ocs:C936 .
+

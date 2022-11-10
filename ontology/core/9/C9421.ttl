@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9421 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C27 ;
+    skos:closeMatch <http://dbpedia.org/resource/Szymański's_algorithm> ;
+    skos:prefLabel "Szymański's algorithm" ;
+    skos:related ocs:C1,
+        ocs:C10,
+        ocs:C12475,
+        ocs:C13206,
+        ocs:C13315,
+        ocs:C14950,
+        ocs:C21551,
+        ocs:C2315,
+        ocs:C27,
+        ocs:C27084,
+        ocs:C2750,
+        ocs:C30688,
+        ocs:C31979,
+        ocs:C3245,
+        ocs:C3514,
+        ocs:C37783,
+        ocs:C5198,
+        ocs:C8204,
+        ocs:C9776 .
+

@@ -1,0 +1,13 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1164 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wu's_method_of_characteristic_set> ;
+    skos:prefLabel "Wu's method of characteristic set" ;
+    skos:related ocs:C1864,
+        ocs:C28955,
+        ocs:C31019,
+        ocs:C36132,
+        ocs:C5865 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32227 a skos:Concept ;
+    skos:broader ocs:C21201,
+        ocs:C21366,
+        ocs:C28073 ;
+    skos:closeMatch <http://dbpedia.org/resource/Profile-guided_optimization> ;
+    skos:prefLabel "Profile-guided optimization" ;
+    skos:related ocs:C12257,
+        ocs:C12974,
+        ocs:C17089,
+        ocs:C1866,
+        ocs:C21201,
+        ocs:C22968,
+        ocs:C23863,
+        ocs:C28073,
+        ocs:C31489,
+        ocs:C31513,
+        ocs:C34501,
+        ocs:C35849,
+        ocs:C39149,
+        ocs:C40088,
+        ocs:C40371,
+        ocs:C4321,
+        ocs:C45909,
+        ocs:C5698,
+        ocs:C6714,
+        ocs:C7800 .
+

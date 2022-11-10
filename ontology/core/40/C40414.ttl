@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C40414 a skos:Concept ;
+    skos:broader ocs:C31223,
+        ocs:C31397,
+        ocs:C31956,
+        ocs:C33185,
+        ocs:C36771 ;
+    skos:closeMatch <http://dbpedia.org/resource/Rank_(computer_programming)> ;
+    skos:prefLabel "Rank (computer programming)" ;
+    skos:related ocs:C19,
+        ocs:C39303 .
+

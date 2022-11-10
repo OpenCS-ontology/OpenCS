@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1954 a skos:Concept ;
+    skos:broader ocs:C3,
+        ocs:C9 ;
+    skos:closeMatch <http://dbpedia.org/resource/Videophile> ;
+    skos:prefLabel "Videophile" ;
+    skos:related ocs:C12430,
+        ocs:C12544,
+        ocs:C13509,
+        ocs:C19334,
+        ocs:C19823,
+        ocs:C22705,
+        ocs:C25356,
+        ocs:C26268,
+        ocs:C26575,
+        ocs:C38532,
+        ocs:C4448,
+        ocs:C5854,
+        ocs:C7255,
+        ocs:C8027,
+        ocs:C9045,
+        ocs:C9481 .
+

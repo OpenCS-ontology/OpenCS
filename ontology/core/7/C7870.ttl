@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7870 a skos:Concept ;
+    skos:broader ocs:C19,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Guarded_suspension> ;
+    skos:prefLabel "Guarded suspension" ;
+    skos:related ocs:C11279,
+        ocs:C12455,
+        ocs:C12584,
+        ocs:C13315,
+        ocs:C2533,
+        ocs:C25508,
+        ocs:C28341,
+        ocs:C28759,
+        ocs:C36729,
+        ocs:C40401,
+        ocs:C41733,
+        ocs:C43786,
+        ocs:C44286,
+        ocs:C5248,
+        ocs:C6399,
+        ocs:C8704 .
+

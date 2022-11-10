@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21625 a skos:Concept ;
+    skos:broader ocs:C4218 ;
+    skos:closeMatch <http://dbpedia.org/resource/One-way_function> ;
+    skos:prefLabel "One-way function" ;
+    skos:related ocs:C10,
+        ocs:C16125,
+        ocs:C23073,
+        ocs:C23562,
+        ocs:C23875,
+        ocs:C2425,
+        ocs:C24353,
+        ocs:C28335,
+        ocs:C29363,
+        ocs:C33982,
+        ocs:C34794,
+        ocs:C36205,
+        ocs:C3678,
+        ocs:C37205,
+        ocs:C3936,
+        ocs:C4218,
+        ocs:C42551,
+        ocs:C5072,
+        ocs:C8660 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15825 a skos:Concept ;
+    skos:broader ocs:C8753 ;
+    skos:closeMatch <http://dbpedia.org/resource/Chisanbop> ;
+    skos:prefLabel "Chisanbop" ;
+    skos:related ocs:C4048,
+        ocs:C44296,
+        ocs:C4703 .
+

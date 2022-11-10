@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36407 a skos:Concept ;
+    skos:broader ocs:C15797,
+        ocs:C22075,
+        ocs:C22092 ;
+    skos:closeMatch <http://dbpedia.org/resource/Convolution_of_probability_distributions> ;
+    skos:prefLabel "Convolution of probability distributions" ;
+    skos:related ocs:C15797,
+        ocs:C16163,
+        ocs:C1844,
+        ocs:C22092,
+        ocs:C36941,
+        ocs:C45652,
+        ocs:C9326 .
+

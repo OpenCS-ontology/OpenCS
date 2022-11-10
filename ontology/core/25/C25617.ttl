@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25617 a skos:Concept ;
+    skos:broader ocs:C3896 ;
+    skos:closeMatch <http://dbpedia.org/resource/E-GMS> ;
+    skos:prefLabel "e-GMS" ;
+    skos:related ocs:C10582,
+        ocs:C11492,
+        ocs:C11531,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C12822,
+        ocs:C15906,
+        ocs:C17188,
+        ocs:C1746,
+        ocs:C32112,
+        ocs:C33901,
+        ocs:C37046,
+        ocs:C37598,
+        ocs:C3896,
+        ocs:C44676,
+        ocs:C4500,
+        ocs:C5791,
+        ocs:C6915,
+        ocs:C9836 .
+

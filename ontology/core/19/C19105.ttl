@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19105 a skos:Concept ;
+    skos:broader ocs:C1832,
+        ocs:C1844 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cantor_distribution> ;
+    skos:prefLabel "Cantor distribution" ;
+    skos:related ocs:C13262,
+        ocs:C17317,
+        ocs:C1844,
+        ocs:C20805,
+        ocs:C9326 .
+

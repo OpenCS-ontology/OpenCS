@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C6457 a skos:Concept ;
+    skos:broader ocs:C2 ;
+    skos:closeMatch <http://dbpedia.org/resource/CCID_(protocol)> ;
+    skos:prefLabel "CCID" ;
+    skos:related ocs:C25566,
+        ocs:C29611,
+        ocs:C33857,
+        ocs:C3410,
+        ocs:C36171,
+        ocs:C37067,
+        ocs:C39193,
+        ocs:C39810,
+        ocs:C40099,
+        ocs:C41228,
+        ocs:C44003,
+        ocs:C816,
+        ocs:C8437 .
+

@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C1021 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Algorithmic_probability> ;
+    skos:prefLabel "Algorithmic probability" ;
+    skos:related ocs:C1,
+        ocs:C10551,
+        ocs:C10803,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C1834,
+        ocs:C1844,
+        ocs:C20374,
+        ocs:C23302,
+        ocs:C31124,
+        ocs:C33736,
+        ocs:C34695,
+        ocs:C36758,
+        ocs:C41780,
+        ocs:C5093,
+        ocs:C5816,
+        ocs:C6291,
+        ocs:C6880,
+        ocs:C8 .
+

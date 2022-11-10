@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43880 a skos:Concept ;
+    skos:broader ocs:C30656,
+        ocs:C34752,
+        ocs:C35008,
+        ocs:C35391,
+        ocs:C36136 ;
+    skos:closeMatch <http://dbpedia.org/resource/Static_key> ;
+    skos:prefLabel "Static key" ;
+    skos:related ocs:C4218,
+        ocs:C45106,
+        ocs:C4909 .
+

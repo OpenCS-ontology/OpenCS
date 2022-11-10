@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C24855 a skos:Concept ;
+    skos:broader ocs:C11767 ;
+    skos:closeMatch <http://dbpedia.org/resource/Duncan's_new_multiple_range_test> ;
+    skos:prefLabel "Duncan's new multiple range test" ;
+    skos:related ocs:C11767,
+        ocs:C15258,
+        ocs:C19752,
+        ocs:C20615,
+        ocs:C20979,
+        ocs:C22401,
+        ocs:C23847,
+        ocs:C25754,
+        ocs:C27702,
+        ocs:C30081,
+        ocs:C8202 .
+

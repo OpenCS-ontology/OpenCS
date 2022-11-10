@@ -1,0 +1,21 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C30859 a skos:Concept ;
+    skos:broader ocs:C27667 ;
+    skos:closeMatch <http://dbpedia.org/resource/Bias_of_an_estimator> ;
+    skos:prefLabel "Bias of an estimator" ;
+    skos:related ocs:C10138,
+        ocs:C10222,
+        ocs:C13685,
+        ocs:C1844,
+        ocs:C23554,
+        ocs:C27667,
+        ocs:C29461,
+        ocs:C33312,
+        ocs:C35658,
+        ocs:C42748,
+        ocs:C4752,
+        ocs:C6116,
+        ocs:C662 .
+

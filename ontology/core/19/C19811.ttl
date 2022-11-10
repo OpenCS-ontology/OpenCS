@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19811 a skos:Concept ;
+    skos:broader ocs:C8458,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/Netwar> ;
+    skos:prefLabel "Netwar" ;
+    skos:related ocs:C10191,
+        ocs:C11026,
+        ocs:C11540,
+        ocs:C1502,
+        ocs:C16953,
+        ocs:C18683,
+        ocs:C197,
+        ocs:C30412,
+        ocs:C35838,
+        ocs:C8458,
+        ocs:C9224 .
+

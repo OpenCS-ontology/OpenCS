@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43000 a skos:Concept ;
+    skos:broader ocs:C29621 ;
+    skos:closeMatch <http://dbpedia.org/resource/Mekong_giant_catfish> ;
+    skos:prefLabel "Mekong giant catfish" ;
+    skos:related ocs:C24236,
+        ocs:C29621,
+        ocs:C29638,
+        ocs:C36214,
+        ocs:C38348,
+        ocs:C40766 .
+

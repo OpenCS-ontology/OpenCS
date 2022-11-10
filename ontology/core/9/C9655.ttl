@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9655 a skos:Concept ;
+    skos:broader ocs:C32 ;
+    skos:closeMatch <http://dbpedia.org/resource/TeLQAS> ;
+    skos:prefLabel "TeLQAS" ;
+    skos:related ocs:C12696,
+        ocs:C16027,
+        ocs:C16741,
+        ocs:C2468,
+        ocs:C2884,
+        ocs:C30113,
+        ocs:C32,
+        ocs:C36437,
+        ocs:C4043,
+        ocs:C428,
+        ocs:C4397,
+        ocs:C4601,
+        ocs:C4602,
+        ocs:C7558,
+        ocs:C8564,
+        ocs:C8576,
+        ocs:C8710,
+        ocs:C961 .
+

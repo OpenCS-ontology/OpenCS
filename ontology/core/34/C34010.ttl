@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34010 a skos:Concept ;
+    skos:broader ocs:C16570 ;
+    skos:closeMatch <http://dbpedia.org/resource/Joint_source_and_channel_coding> ;
+    skos:prefLabel "Joint source and channel coding" ;
+    skos:related ocs:C14926,
+        ocs:C16106,
+        ocs:C16333,
+        ocs:C16978,
+        ocs:C1704,
+        ocs:C21471,
+        ocs:C21929,
+        ocs:C27316,
+        ocs:C32049,
+        ocs:C32772,
+        ocs:C36688,
+        ocs:C37934,
+        ocs:C43672,
+        ocs:C5093,
+        ocs:C5196,
+        ocs:C5816 .
+

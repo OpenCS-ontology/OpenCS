@@ -1,0 +1,23 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16686 a skos:Concept ;
+    skos:broader ocs:C2413,
+        ocs:C8944 ;
+    skos:closeMatch <http://dbpedia.org/resource/Dantzig–Wolfe_decomposition> ;
+    skos:prefLabel "Dantzig–Wolfe decomposition" ;
+    skos:related ocs:C15480,
+        ocs:C15675,
+        ocs:C19181,
+        ocs:C25481,
+        ocs:C26453,
+        ocs:C28344,
+        ocs:C32727,
+        ocs:C34053,
+        ocs:C35890,
+        ocs:C36768,
+        ocs:C40100,
+        ocs:C6287,
+        ocs:C8660,
+        ocs:C8944 .
+

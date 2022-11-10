@@ -1,0 +1,19 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4970 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:closeMatch <http://dbpedia.org/resource/Fitch's_paradox_of_knowability> ;
+    skos:prefLabel "Fitch's paradox of knowability" ;
+    skos:related ocs:C10739,
+        ocs:C10825,
+        ocs:C21730,
+        ocs:C25442,
+        ocs:C28286,
+        ocs:C30395,
+        ocs:C34795,
+        ocs:C38919,
+        ocs:C40441,
+        ocs:C44623,
+        ocs:C7503 .
+

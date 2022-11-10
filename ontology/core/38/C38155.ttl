@@ -1,0 +1,20 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38155 a skos:Concept ;
+    skos:broader ocs:C30080 ;
+    skos:closeMatch <http://dbpedia.org/resource/Performance-based_navigation> ;
+    skos:prefLabel "Performance-based navigation" ;
+    skos:related ocs:C1094,
+        ocs:C11301,
+        ocs:C11579,
+        ocs:C12641,
+        ocs:C16352,
+        ocs:C18996,
+        ocs:C20572,
+        ocs:C26346,
+        ocs:C40906,
+        ocs:C41676,
+        ocs:C42471,
+        ocs:C4597 .
+

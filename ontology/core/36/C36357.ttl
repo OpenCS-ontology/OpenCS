@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36357 a skos:Concept ;
+    skos:broader ocs:C28117 ;
+    skos:closeMatch <http://dbpedia.org/resource/Schema.org> ;
+    skos:prefLabel "Schema.org" ;
+    skos:related ocs:C18435,
+        ocs:C26459,
+        ocs:C28117,
+        ocs:C28801,
+        ocs:C2931,
+        ocs:C32413,
+        ocs:C32686,
+        ocs:C32788,
+        ocs:C33709,
+        ocs:C36276,
+        ocs:C37046,
+        ocs:C38072,
+        ocs:C3896,
+        ocs:C38987,
+        ocs:C43138,
+        ocs:C6915,
+        ocs:C9836 .
+

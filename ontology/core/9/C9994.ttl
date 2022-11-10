@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9994 a skos:Concept ;
+    skos:broader ocs:C12,
+        ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Knowledge-based_configuration> ;
+    skos:prefLabel "Knowledge-based configuration" ;
+    skos:related ocs:C10327,
+        ocs:C11556,
+        ocs:C14280,
+        ocs:C25977,
+        ocs:C2807,
+        ocs:C3527,
+        ocs:C4269,
+        ocs:C4768,
+        ocs:C5561,
+        ocs:C5712,
+        ocs:C5822,
+        ocs:C6494,
+        ocs:C7914,
+        ocs:C8,
+        ocs:C9450 .
+

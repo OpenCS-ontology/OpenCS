@@ -1,0 +1,24 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4670 a skos:Concept ;
+    skos:broader ocs:C28 ;
+    skos:closeMatch <http://dbpedia.org/resource/Change_advisory_board> ;
+    skos:prefLabel "Change advisory board" ;
+    skos:related ocs:C12149,
+        ocs:C15197,
+        ocs:C19315,
+        ocs:C27261,
+        ocs:C29181,
+        ocs:C31261,
+        ocs:C31430,
+        ocs:C32293,
+        ocs:C3674,
+        ocs:C38285,
+        ocs:C45493,
+        ocs:C45768,
+        ocs:C45814,
+        ocs:C6354,
+        ocs:C7509,
+        ocs:C9700 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C43810 a skos:Concept ;
+    skos:broader ocs:C30080,
+        ocs:C33887 ;
+    skos:closeMatch <http://dbpedia.org/resource/Arm_solution> ;
+    skos:prefLabel "Arm solution" ;
+    skos:related ocs:C10396,
+        ocs:C1493,
+        ocs:C15308,
+        ocs:C17396,
+        ocs:C19538,
+        ocs:C23110,
+        ocs:C25273,
+        ocs:C28740,
+        ocs:C30080,
+        ocs:C34535,
+        ocs:C36944,
+        ocs:C39311,
+        ocs:C40076,
+        ocs:C41082,
+        ocs:C44167,
+        ocs:C979 .
+

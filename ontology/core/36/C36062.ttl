@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C36062 a skos:Concept ;
+    skos:broader ocs:C27184 ;
+    skos:closeMatch <http://dbpedia.org/resource/Service_blueprint> ;
+    skos:prefLabel "Service blueprint" ;
+    skos:related ocs:C27184,
+        ocs:C3836 .
+

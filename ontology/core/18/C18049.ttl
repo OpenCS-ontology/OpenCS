@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C18049 a skos:Concept ;
+    skos:broader ocs:C13593 ;
+    skos:closeMatch <http://dbpedia.org/resource/Camponotus_vagus> ;
+    skos:prefLabel "Camponotus vagus" ;
+    skos:related ocs:C12553,
+        ocs:C15126,
+        ocs:C17062,
+        ocs:C20649,
+        ocs:C2760,
+        ocs:C28812,
+        ocs:C30775,
+        ocs:C30958 .
+

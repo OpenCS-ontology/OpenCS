@@ -1,0 +1,16 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16154 a skos:Concept ;
+    skos:broader ocs:C12582 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wire_chamber> ;
+    skos:prefLabel "Wire chamber" ;
+    skos:related ocs:C14078,
+        ocs:C18360,
+        ocs:C19524,
+        ocs:C21331,
+        ocs:C23268,
+        ocs:C26747,
+        ocs:C27193,
+        ocs:C597 .
+

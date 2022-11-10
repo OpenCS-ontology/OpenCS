@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C32108 a skos:Concept ;
+    skos:broader ocs:C13876,
+        ocs:C14093,
+        ocs:C18359 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ruppert's_algorithm> ;
+    skos:prefLabel "Ruppert's algorithm" ;
+    skos:related ocs:C10,
+        ocs:C13876,
+        ocs:C14093,
+        ocs:C18359,
+        ocs:C24726,
+        ocs:C32131,
+        ocs:C32922,
+        ocs:C38214,
+        ocs:C42354,
+        ocs:C45645,
+        ocs:C4867,
+        ocs:C8271 .
+

@@ -1,0 +1,25 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45375 a skos:Concept ;
+    skos:broader ocs:C29732,
+        ocs:C30108 ;
+    skos:closeMatch <http://dbpedia.org/resource/Non-maskable_interrupt> ;
+    skos:prefLabel "Non-maskable interrupt" ;
+    skos:related ocs:C10320,
+        ocs:C10400,
+        ocs:C10568,
+        ocs:C11,
+        ocs:C13022,
+        ocs:C14470,
+        ocs:C15661,
+        ocs:C19481,
+        ocs:C19487,
+        ocs:C22553,
+        ocs:C24590,
+        ocs:C28016,
+        ocs:C39429,
+        ocs:C4259,
+        ocs:C9,
+        ocs:C9262 .
+

@@ -1,0 +1,30 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C34720 a skos:Concept ;
+    skos:broader ocs:C19450,
+        ocs:C21587,
+        ocs:C23269,
+        ocs:C23932 ;
+    skos:closeMatch <http://dbpedia.org/resource/Data_steward> ;
+    skos:prefLabel "Data steward" ;
+    skos:related ocs:C12154,
+        ocs:C15209,
+        ocs:C15906,
+        ocs:C18791,
+        ocs:C20153,
+        ocs:C20667,
+        ocs:C23269,
+        ocs:C24688,
+        ocs:C27200,
+        ocs:C2836,
+        ocs:C28739,
+        ocs:C3034,
+        ocs:C35637,
+        ocs:C3896,
+        ocs:C39393,
+        ocs:C44676,
+        ocs:C45073,
+        ocs:C45685,
+        ocs:C9084 .
+

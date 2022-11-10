@@ -1,0 +1,10 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C23935 a skos:Concept ;
+    skos:broader ocs:C12427,
+        ocs:C1451,
+        ocs:C3567,
+        ocs:C3990 ;
+    skos:prefLabel "Interleaving semantics" .
+

@@ -1,0 +1,31 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C33103 a skos:Concept ;
+    skos:broader ocs:C16159,
+        ocs:C17905,
+        ocs:C18405,
+        ocs:C18567 ;
+    skos:closeMatch <http://dbpedia.org/resource/Semi-structured_model> ;
+    skos:prefLabel "Semi-structured model" ;
+    skos:related ocs:C10444,
+        ocs:C11927,
+        ocs:C12185,
+        ocs:C13744,
+        ocs:C17701,
+        ocs:C17905,
+        ocs:C18405,
+        ocs:C197,
+        ocs:C2414,
+        ocs:C24811,
+        ocs:C24857,
+        ocs:C26088,
+        ocs:C28963,
+        ocs:C30561,
+        ocs:C34066,
+        ocs:C36084,
+        ocs:C3896,
+        ocs:C43443,
+        ocs:C6,
+        ocs:C617 .
+

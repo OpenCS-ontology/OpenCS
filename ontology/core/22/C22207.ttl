@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22207 a skos:Concept ;
+    skos:broader ocs:C1849 ;
+    skos:closeMatch <http://dbpedia.org/resource/Cross-examination> ;
+    skos:prefLabel "Cross-examination" ;
+    skos:related ocs:C14661,
+        ocs:C32732,
+        ocs:C35635 .
+

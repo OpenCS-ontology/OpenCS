@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C27381 a skos:Concept ;
+    skos:broader ocs:C4861 ;
+    skos:closeMatch <http://dbpedia.org/resource/Ballistic_coefficient> ;
+    skos:prefLabel "Ballistic coefficient" ;
+    skos:related ocs:C11280,
+        ocs:C15840,
+        ocs:C16103,
+        ocs:C4861 .
+

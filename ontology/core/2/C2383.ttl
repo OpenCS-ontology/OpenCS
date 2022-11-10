@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2383 a skos:Concept ;
+    skos:broader ocs:C10 ;
+    skos:prefLabel "Filling Problem" ;
+    skos:related ocs:C21,
+        ocs:C22,
+        ocs:C25,
+        ocs:C4257,
+        ocs:C7553,
+        ocs:C8021,
+        ocs:C8517,
+        ocs:C8704 .
+

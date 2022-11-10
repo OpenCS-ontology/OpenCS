@@ -1,0 +1,15 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C41309 a skos:Concept ;
+    skos:broader ocs:C33980,
+        ocs:C34570 ;
+    skos:closeMatch <http://dbpedia.org/resource/Pebble_accretion> ;
+    skos:prefLabel "Pebble accretion" ;
+    skos:related ocs:C16417,
+        ocs:C24023,
+        ocs:C30091,
+        ocs:C37220,
+        ocs:C38234,
+        ocs:C597 .
+

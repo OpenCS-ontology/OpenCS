@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C12660 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Lenslet> ;
+    skos:prefLabel "Lenslet" ;
+    skos:related ocs:C26152,
+        ocs:C28736,
+        ocs:C35504,
+        ocs:C8561 .
+

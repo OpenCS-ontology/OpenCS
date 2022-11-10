@@ -1,0 +1,28 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C21006 a skos:Concept ;
+    skos:broader ocs:C7006,
+        ocs:C8614 ;
+    skos:closeMatch <http://dbpedia.org/resource/DNS-based_Authentication_of_Named_Entities> ;
+    skos:prefLabel "DNS-based Authentication of Named Entities" ;
+    skos:related ocs:C13384,
+        ocs:C14417,
+        ocs:C14983,
+        ocs:C16125,
+        ocs:C20205,
+        ocs:C24131,
+        ocs:C30595,
+        ocs:C32192,
+        ocs:C32642,
+        ocs:C33191,
+        ocs:C38524,
+        ocs:C39967,
+        ocs:C40789,
+        ocs:C41498,
+        ocs:C41967,
+        ocs:C42433,
+        ocs:C42747,
+        ocs:C44017,
+        ocs:C44289 .
+

@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C38870 a skos:Concept ;
+    skos:broader ocs:C29848 ;
+    skos:closeMatch <http://dbpedia.org/resource/PF-05089771> ;
+    skos:prefLabel "PF-05089771" ;
+    skos:related ocs:C14264,
+        ocs:C19362,
+        ocs:C44172 .
+

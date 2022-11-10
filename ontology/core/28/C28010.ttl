@@ -1,0 +1,22 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C28010 a skos:Concept ;
+    skos:broader ocs:C12099 ;
+    skos:closeMatch <http://dbpedia.org/resource/Learning_automata> ;
+    skos:prefLabel "Learning automata" ;
+    skos:related ocs:C13610,
+        ocs:C14849,
+        ocs:C18430,
+        ocs:C21157,
+        ocs:C25,
+        ocs:C25196,
+        ocs:C27053,
+        ocs:C33737,
+        ocs:C36567,
+        ocs:C44532,
+        ocs:C7689,
+        ocs:C8,
+        ocs:C8759,
+        ocs:C9022 .
+

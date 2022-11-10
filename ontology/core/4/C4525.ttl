@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C4525 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C29 ;
+    skos:closeMatch <http://dbpedia.org/resource/Goal_node_(computer_science)> ;
+    skos:prefLabel "Goal node" ;
+    skos:related ocs:C1,
+        ocs:C13317,
+        ocs:C14406,
+        ocs:C18302,
+        ocs:C19540,
+        ocs:C23309,
+        ocs:C25299,
+        ocs:C32048,
+        ocs:C3339,
+        ocs:C33647,
+        ocs:C3531,
+        ocs:C39188,
+        ocs:C40081,
+        ocs:C41731,
+        ocs:C42302,
+        ocs:C43808,
+        ocs:C44668,
+        ocs:C4966,
+        ocs:C6335,
+        ocs:C7397 .
+

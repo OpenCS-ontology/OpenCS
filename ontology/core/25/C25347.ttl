@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C25347 a skos:Concept ;
+    skos:broader ocs:C9154 ;
+    skos:closeMatch <http://dbpedia.org/resource/GSM-R> ;
+    skos:prefLabel "GSM-R" ;
+    skos:related ocs:C1210,
+        ocs:C16693,
+        ocs:C25712,
+        ocs:C27704,
+        ocs:C35964,
+        ocs:C37065,
+        ocs:C39175,
+        ocs:C9113,
+        ocs:C9154 .
+

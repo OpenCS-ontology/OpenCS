@@ -1,0 +1,12 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C2400 a skos:Concept ;
+    skos:broader ocs:C7 ;
+    skos:closeMatch <http://dbpedia.org/resource/Image_intensifier> ;
+    skos:prefLabel "Image intensifier" ;
+    skos:related ocs:C19353,
+        ocs:C21550,
+        ocs:C37358,
+        ocs:C7789 .
+

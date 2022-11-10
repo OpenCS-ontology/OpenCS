@@ -1,0 +1,11 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C19249 a skos:Concept ;
+    skos:broader ocs:C8614 ;
+    skos:prefLabel "Webcasts as Topic" ;
+    skos:related ocs:C11048,
+        ocs:C1689,
+        ocs:C17,
+        ocs:C31 .
+

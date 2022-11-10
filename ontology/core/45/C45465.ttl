@@ -1,0 +1,29 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45465 a skos:Concept ;
+    skos:broader ocs:C30652,
+        ocs:C30982 ;
+    skos:closeMatch <http://dbpedia.org/resource/Wi-Fi_Protected_Setup> ;
+    skos:prefLabel "Wi-Fi Protected Setup" ;
+    skos:related ocs:C15832,
+        ocs:C16983,
+        ocs:C21054,
+        ocs:C21424,
+        ocs:C26,
+        ocs:C29568,
+        ocs:C30769,
+        ocs:C33773,
+        ocs:C34874,
+        ocs:C35370,
+        ocs:C37967,
+        ocs:C39947,
+        ocs:C40288,
+        ocs:C40409,
+        ocs:C41425,
+        ocs:C41893,
+        ocs:C45757,
+        ocs:C4665,
+        ocs:C5343,
+        ocs:C8614 .
+

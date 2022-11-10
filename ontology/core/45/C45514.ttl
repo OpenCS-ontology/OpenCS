@@ -1,0 +1,14 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C45514 a skos:Concept ;
+    skos:broader ocs:C36407 ;
+    skos:closeMatch <http://dbpedia.org/resource/Sample_maximum_and_minimum> ;
+    skos:prefLabel "Sample maximum and minimum" ;
+    skos:related ocs:C25294,
+        ocs:C27667,
+        ocs:C39575,
+        ocs:C43372,
+        ocs:C4752,
+        ocs:C795 .
+

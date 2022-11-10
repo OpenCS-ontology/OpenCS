@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C7242 a skos:Concept ;
+    skos:broader ocs:C2,
+        ocs:C7 ;
+    skos:prefLabel "Acquisition apparatus" ;
+    skos:related ocs:C12580,
+        ocs:C13265,
+        ocs:C16,
+        ocs:C17,
+        ocs:C2,
+        ocs:C22,
+        ocs:C33,
+        ocs:C6999,
+        ocs:C7604,
+        ocs:C8021 .
+

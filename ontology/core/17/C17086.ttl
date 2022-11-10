@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C17086 a skos:Concept ;
+    skos:broader ocs:C12317,
+        ocs:C13510,
+        ocs:C8790 ;
+    skos:closeMatch <http://dbpedia.org/resource/Serial_Item_and_Contribution_Identifier> ;
+    skos:prefLabel "Serial Item and Contribution Identifier" ;
+    skos:related ocs:C10408,
+        ocs:C11651,
+        ocs:C17870,
+        ocs:C20957,
+        ocs:C2211,
+        ocs:C23851,
+        ocs:C2976,
+        ocs:C31,
+        ocs:C36637,
+        ocs:C36678,
+        ocs:C3896,
+        ocs:C39128,
+        ocs:C43255,
+        ocs:C5126,
+        ocs:C7849,
+        ocs:C8790,
+        ocs:C922 .
+

@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C22714 a skos:Concept ;
+    skos:broader ocs:C11531 ;
+    skos:closeMatch <http://dbpedia.org/resource/ISO_base_media_file_format> ;
+    skos:prefLabel "ISO base media file format" ;
+    skos:related ocs:C10380,
+        ocs:C11323,
+        ocs:C11933,
+        ocs:C1507,
+        ocs:C16860,
+        ocs:C17,
+        ocs:C18498,
+        ocs:C26268,
+        ocs:C27081,
+        ocs:C29048,
+        ocs:C31114,
+        ocs:C34624,
+        ocs:C36030,
+        ocs:C42693,
+        ocs:C42949,
+        ocs:C44962,
+        ocs:C45687,
+        ocs:C7296 .
+

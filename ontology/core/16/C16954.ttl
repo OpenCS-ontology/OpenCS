@@ -1,0 +1,27 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C16954 a skos:Concept ;
+    skos:broader ocs:C8499 ;
+    skos:closeMatch <http://dbpedia.org/resource/Color_image> ;
+    skos:prefLabel "Color image" ;
+    skos:related ocs:C1023,
+        ocs:C10380,
+        ocs:C10973,
+        ocs:C13155,
+        ocs:C18385,
+        ocs:C1935,
+        ocs:C22,
+        ocs:C22257,
+        ocs:C24211,
+        ocs:C27111,
+        ocs:C30745,
+        ocs:C33766,
+        ocs:C35429,
+        ocs:C36633,
+        ocs:C41932,
+        ocs:C41977,
+        ocs:C5854,
+        ocs:C6942,
+        ocs:C8021 .
+

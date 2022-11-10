@@ -1,0 +1,17 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C15859 a skos:Concept ;
+    skos:broader ocs:C10557 ;
+    skos:closeMatch <http://dbpedia.org/resource/Oscillatory_integral> ;
+    skos:prefLabel "Oscillatory integral" ;
+    skos:related ocs:C14997,
+        ocs:C16744,
+        ocs:C20853,
+        ocs:C29794,
+        ocs:C31018,
+        ocs:C33011,
+        ocs:C35934,
+        ocs:C39613,
+        ocs:C41157 .
+

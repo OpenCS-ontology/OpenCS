@@ -1,0 +1,26 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C9999 a skos:Concept ;
+    skos:broader ocs:C10,
+        ocs:C19 ;
+    skos:closeMatch <http://dbpedia.org/resource/Spectrum_of_a_sentence> ;
+    skos:prefLabel "Spectrum of a sentence" ;
+    skos:related ocs:C10273,
+        ocs:C12346,
+        ocs:C12474,
+        ocs:C17709,
+        ocs:C20382,
+        ocs:C21946,
+        ocs:C21947,
+        ocs:C23662,
+        ocs:C2418,
+        ocs:C26756,
+        ocs:C29417,
+        ocs:C32380,
+        ocs:C32839,
+        ocs:C42320,
+        ocs:C4517,
+        ocs:C8635,
+        ocs:C9698 .
+

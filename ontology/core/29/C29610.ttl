@@ -1,0 +1,18 @@
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ocs:C29610 a skos:Concept ;
+    skos:broader ocs:C19619,
+        ocs:C24730,
+        ocs:C27076 ;
+    skos:closeMatch <http://dbpedia.org/resource/Patent_Act> ;
+    skos:prefLabel "Patent Act" ;
+    skos:related ocs:C14403,
+        ocs:C16575,
+        ocs:C23056,
+        ocs:C23684,
+        ocs:C24730,
+        ocs:C27519,
+        ocs:C30899,
+        ocs:C32561 .
+
