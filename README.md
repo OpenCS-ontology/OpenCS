@@ -3,6 +3,8 @@ Main OpenCS ontology repository.
 
 The ontology is currently in its very early stages. It was built from a subset of the [Microsoft Academic Knowledge Graph](https://makg.org/) by Michael Färber. You can find the scripts used for making OpenCS from MAKG in [this repository](https://github.com/OpenCS-ontology/makg-to-opencs).
 
+See also **[the documentation](https://github.com/OpenCS-ontology/OpenCS/wiki/)** where you will find more information about the schema and ontology modules.
+
 ## Contents
 
 - `/schema/schema.ttl` – OpenCS schema (upper ontology)
