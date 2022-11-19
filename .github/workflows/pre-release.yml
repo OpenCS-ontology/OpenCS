@@ -1,0 +1,29 @@
+name: "pre-release"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  pre-release:
+    name: "Pre-release"
+    runs-on: "ubuntu-latest"
+    container: ghcr.io/opencs-ontology/ci-worker:main
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          path: opencs
+
+      - name: "Package ontology"
+        run: python /app/package.py opencs package dev
+
+      - uses: "marvinpinto/action-automatic-releases@v1.2.1"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "dev"
+          prerelease: true
+          title: "Development build"
+          files: package/*
