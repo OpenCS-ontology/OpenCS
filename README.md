@@ -15,6 +15,21 @@ See also **[the documentation](https://github.com/OpenCS-ontology/OpenCS/wiki/)*
   - `makg_extra.ttl.gz` – extra assertions carried over from MAKG
   - `opencs_to_makg.ttl.gz` – equivalence relations between OpenCS and MAKG
 
+## Releases
+The `dev` release tag corresponds to the main branch in the repository and is updated automatically.
+
+Tagged (versioned) releases are created manually and follow the [Semantic Versioning](https://semver.org/) scheme.
+
+To create a new tagged release (example for version 1.2.3):
+```sh
+$ git checkout main
+$ git pull
+$ git tag v1.2.3
+$ git push origin v1.2.3
+```
+
+The rest (packaging and release creation) will be handled automatically by the CI.
+
 ## License
 
 The OpenCS ontology and all other contents of this repository are licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
