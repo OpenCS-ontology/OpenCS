@@ -9,6 +9,7 @@ jobs:
   tagged-release:
     name: "Tagged release"
     runs-on: "ubuntu-latest"
+    container: ghcr.io/opencs-ontology/ci-worker:main
 
     steps:
       - name: Checkout repository
