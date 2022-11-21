@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5962 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Self-hosting> ;
     skos:prefLabel "Self-hosting" ;
-    skos:related ocs:C10284,
-        ocs:C10720,
-        ocs:C1083,
-        ocs:C12257,
-        ocs:C12974,
-        ocs:C1333,
-        ocs:C14271,
-        ocs:C17204,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C22322,
-        ocs:C28881,
-        ocs:C31489,
-        ocs:C41692,
+        ocs:C1083,
+        ocs:C1333,
         ocs:C4321,
         ocs:C5698,
         ocs:C6714,
         ocs:C6941,
-        ocs:C9 .
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C22322,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C41692 .
 

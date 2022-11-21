@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1274 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Decimation_(signal_processing)> ;
     skos:prefLabel "Decimation" ;
     skos:related ocs:C1449,
-        ocs:C21021,
-        ocs:C33342,
-        ocs:C44628,
         ocs:C4511,
         ocs:C5035,
         ocs:C5042,
         ocs:C5298,
-        ocs:C6816 .
+        ocs:C6816,
+        ocs:C21021,
+        ocs:C33342,
+        ocs:C44628 .
 

@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6754 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Database_transaction> ;
     skos:prefLabel "Database transaction" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C2674,
+        ocs:C4504,
+        ocs:C5551,
+        ocs:C8327,
+        ocs:C10444,
         ocs:C12185,
         ocs:C13767,
         ocs:C15611,
@@ -15,16 +21,10 @@ ocs:C6754 a skos:Concept ;
         ocs:C22879,
         ocs:C23694,
         ocs:C23753,
-        ocs:C2674,
         ocs:C28881,
         ocs:C28963,
         ocs:C37360,
         ocs:C44650,
         ocs:C44853,
-        ocs:C4504,
-        ocs:C45370,
-        ocs:C5551,
-        ocs:C6,
-        ocs:C8327,
-        ocs:C9 .
+        ocs:C45370 .
 

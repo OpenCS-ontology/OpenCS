@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19703 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C5745,
+    skos:broader ocs:C5745,
         ocs:C6594,
         ocs:C6909,
-        ocs:C7689 ;
+        ocs:C7689,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Reversed_compound_agent_theorem> ;
     skos:prefLabel "Reversed compound agent theorem" ;
     skos:related ocs:C12373,

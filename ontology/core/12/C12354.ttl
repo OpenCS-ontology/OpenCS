@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12354 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/English_honorifics> ;
     skos:prefLabel "Name title" ;
     skos:related ocs:C1,
-        ocs:C23,
-        ocs:C5 .
+        ocs:C5,
+        ocs:C23 .
 

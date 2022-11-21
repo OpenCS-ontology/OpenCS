@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13821 a skos:Concept ;
-    skos:broader ocs:C15,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C15 ;
     skos:closeMatch <http://dbpedia.org/resource/HP_3000> ;
     skos:prefLabel "HP 3000" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C283,
+        ocs:C856,
+        ocs:C2587,
+        ocs:C3036,
+        ocs:C4863,
+        ocs:C8434,
+        ocs:C9035,
+        ocs:C10320,
         ocs:C12851,
         ocs:C14063,
         ocs:C14271,
         ocs:C14917,
         ocs:C16229,
-        ocs:C19487,
-        ocs:C2587,
-        ocs:C283,
-        ocs:C3036,
-        ocs:C4863,
-        ocs:C8434,
-        ocs:C856,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C19487 .
 

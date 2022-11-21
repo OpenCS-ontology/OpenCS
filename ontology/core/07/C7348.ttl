@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7348 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Blocks_world> ;
     skos:prefLabel "Blocks world" ;
-    skos:related ocs:C12977,
+    skos:related ocs:C8,
         ocs:C13,
+        ocs:C25,
+        ocs:C32,
+        ocs:C353,
+        ocs:C685,
+        ocs:C4269,
+        ocs:C6531,
+        ocs:C8086,
+        ocs:C9552,
+        ocs:C12977,
         ocs:C16092,
         ocs:C16381,
         ocs:C17345,
         ocs:C18187,
         ocs:C23063,
-        ocs:C25,
         ocs:C29173,
-        ocs:C32,
-        ocs:C353,
         ocs:C38410,
-        ocs:C4269,
-        ocs:C43845,
-        ocs:C6531,
-        ocs:C685,
-        ocs:C8,
-        ocs:C8086,
-        ocs:C9552 .
+        ocs:C43845 .
 

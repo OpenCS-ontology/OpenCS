@@ -5,7 +5,9 @@ ocs:C28243 a skos:Concept ;
     skos:broader ocs:C4752 ;
     skos:closeMatch <http://dbpedia.org/resource/Winsorizing> ;
     skos:prefLabel "Winsorizing" ;
-    skos:related ocs:C13685,
+    skos:related ocs:C662,
+        ocs:C4752,
+        ocs:C13685,
         ocs:C22455,
         ocs:C25294,
         ocs:C25320,
@@ -14,7 +16,5 @@ ocs:C28243 a skos:Concept ;
         ocs:C30859,
         ocs:C39575,
         ocs:C43372,
-        ocs:C45514,
-        ocs:C4752,
-        ocs:C662 .
+        ocs:C45514 .
 

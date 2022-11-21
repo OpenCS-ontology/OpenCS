@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24227 a skos:Concept ;
-    skos:broader ocs:C12759,
-        ocs:C197 ;
+    skos:broader ocs:C197,
+        ocs:C12759 ;
     skos:closeMatch <http://dbpedia.org/resource/Initial_Teaching_Alphabet> ;
     skos:prefLabel "Initial Teaching Alphabet" ;
-    skos:related ocs:C12759,
+    skos:related ocs:C2025,
+        ocs:C6282,
+        ocs:C12759,
         ocs:C14527,
         ocs:C15020,
         ocs:C17677,
         ocs:C19812,
-        ocs:C2025,
         ocs:C22147,
         ocs:C25565,
         ocs:C27533,
         ocs:C27886,
         ocs:C28710,
-        ocs:C36864,
-        ocs:C6282 .
+        ocs:C36864 .
 

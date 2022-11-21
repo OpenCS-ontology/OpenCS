@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11482 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Toy_problem> ;
     skos:prefLabel "Toy problem" ;
-    skos:related ocs:C23508,
-        ocs:C39776,
+    skos:related ocs:C8,
         ocs:C4840,
         ocs:C6705,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C23508,
+        ocs:C39776 .
 

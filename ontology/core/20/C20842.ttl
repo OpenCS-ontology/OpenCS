@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20842 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C5745 ;
+    skos:broader ocs:C5745,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Fluid_limit> ;
     skos:prefLabel "Fluid limit" ;
     skos:related ocs:C16883,

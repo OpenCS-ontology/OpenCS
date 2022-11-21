@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26811 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C6754 ;
+    skos:broader ocs:C6754,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/Automated_Clearing_House> ;
     skos:prefLabel "Automated Clearing House" ;
     skos:related ocs:C10270,

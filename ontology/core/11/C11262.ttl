@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11262 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Porting> ;
     skos:prefLabel "Porting" ;
-    skos:related ocs:C10320,
-        ocs:C12257,
-        ocs:C14271,
-        ocs:C17204,
+    skos:related ocs:C8,
+        ocs:C9,
         ocs:C19,
-        ocs:C19481,
-        ocs:C21545,
-        ocs:C21609,
-        ocs:C24871,
-        ocs:C2674,
-        ocs:C28881,
-        ocs:C31489,
-        ocs:C4321,
         ocs:C44,
+        ocs:C2674,
+        ocs:C4321,
         ocs:C5034,
         ocs:C5698,
         ocs:C5702,
         ocs:C6072,
-        ocs:C8,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C12257,
+        ocs:C14271,
+        ocs:C17204,
+        ocs:C19481,
+        ocs:C21545,
+        ocs:C21609,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31489 .
 

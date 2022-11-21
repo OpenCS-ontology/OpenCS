@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18341 a skos:Concept ;
-    skos:broader ocs:C10923,
+    skos:broader ocs:C1879,
+        ocs:C6591,
+        ocs:C10923,
         ocs:C11282,
-        ocs:C13046,
-        ocs:C1879,
-        ocs:C6591 ;
+        ocs:C13046 ;
     skos:prefLabel "Independent vector analysis" .
 

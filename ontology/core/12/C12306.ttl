@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12306 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Zombie_process> ;
     skos:prefLabel "Zombie process" ;
-    skos:related ocs:C10423,
-        ocs:C12683,
-        ocs:C13060,
-        ocs:C14271,
-        ocs:C1442,
-        ocs:C19000,
+    skos:related ocs:C1442,
         ocs:C2014,
         ocs:C2130,
-        ocs:C22569,
         ocs:C2322,
-        ocs:C23926,
-        ocs:C41970,
-        ocs:C42619,
         ocs:C4345,
-        ocs:C43822,
         ocs:C4882,
         ocs:C6140,
         ocs:C8030,
-        ocs:C8349 .
+        ocs:C8349,
+        ocs:C10423,
+        ocs:C12683,
+        ocs:C13060,
+        ocs:C14271,
+        ocs:C19000,
+        ocs:C22569,
+        ocs:C23926,
+        ocs:C41970,
+        ocs:C42619,
+        ocs:C43822 .
 

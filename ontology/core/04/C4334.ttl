@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4334 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/New_Classification_Scheme_for_Chinese_Libraries> ;
     skos:prefLabel "New Classification Scheme for Chinese Libraries" ;
-    skos:related ocs:C15072,
+    skos:related ocs:C4,
         ocs:C1578,
+        ocs:C6023,
+        ocs:C6639,
+        ocs:C6916,
+        ocs:C15072,
         ocs:C16401,
         ocs:C16879,
         ocs:C21155,
-        ocs:C23756,
-        ocs:C4,
-        ocs:C6023,
-        ocs:C6639,
-        ocs:C6916 .
+        ocs:C23756 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11548 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Match_moving> ;
     skos:prefLabel "Match moving" ;
-    skos:related ocs:C1239,
-        ocs:C13095,
-        ocs:C201,
-        ocs:C21609,
+    skos:related ocs:C7,
         ocs:C22,
+        ocs:C201,
+        ocs:C622,
+        ocs:C1239,
+        ocs:C2703,
+        ocs:C3341,
+        ocs:C5404,
+        ocs:C5462,
+        ocs:C8399,
+        ocs:C9114,
+        ocs:C13095,
+        ocs:C21609,
         ocs:C22755,
         ocs:C23564,
         ocs:C24205,
-        ocs:C2703,
-        ocs:C3341,
-        ocs:C35225,
-        ocs:C5404,
-        ocs:C5462,
-        ocs:C622,
-        ocs:C7,
-        ocs:C8399,
-        ocs:C9114 .
+        ocs:C35225 .
 

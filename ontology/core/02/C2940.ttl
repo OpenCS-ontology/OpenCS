@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2940 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Retention_period> ;
     skos:prefLabel "Retention period" ;
-    skos:related ocs:C10888,
+    skos:related ocs:C6,
+        ocs:C3077,
+        ocs:C3896,
+        ocs:C3912,
+        ocs:C4335,
+        ocs:C5554,
+        ocs:C6944,
+        ocs:C8498,
+        ocs:C9150,
+        ocs:C10888,
         ocs:C13010,
         ocs:C15769,
         ocs:C23103,
         ocs:C24311,
         ocs:C28632,
-        ocs:C3077,
-        ocs:C37747,
-        ocs:C3896,
-        ocs:C3912,
-        ocs:C4335,
-        ocs:C5554,
-        ocs:C6,
-        ocs:C6944,
-        ocs:C8498,
-        ocs:C9150 .
+        ocs:C37747 .
 

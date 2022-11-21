@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11088 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Deductive_reasoning> ;
     skos:prefLabel "Deductive reasoning" ;
-    skos:related ocs:C10551,
-        ocs:C10825,
+    skos:related ocs:C126,
         ocs:C1092,
-        ocs:C126,
-        ocs:C13511,
-        ocs:C26760,
         ocs:C2978,
         ocs:C3579,
         ocs:C4557,
-        ocs:C9834 .
+        ocs:C9834,
+        ocs:C10551,
+        ocs:C10825,
+        ocs:C13511,
+        ocs:C26760 .
 

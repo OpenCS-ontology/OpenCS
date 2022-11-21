@@ -2,14 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1862 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:prefLabel "Telecommunications Device" ;
-    skos:related ocs:C15728,
+    skos:related ocs:C2,
         ocs:C16,
         ocs:C17,
-        ocs:C2,
-        ocs:C22457,
         ocs:C33,
         ocs:C5160,
         ocs:C5565,
@@ -19,5 +17,7 @@ ocs:C1862 a skos:Concept ;
         ocs:C8291,
         ocs:C8614,
         ocs:C9113,
-        ocs:C9596 .
+        ocs:C9596,
+        ocs:C15728,
+        ocs:C22457 .
 

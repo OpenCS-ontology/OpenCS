@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1599 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Idempotency_of_entailment> ;
     skos:prefLabel "Idempotency of entailment" ;
-    skos:related ocs:C10558,
+    skos:related ocs:C4049,
+        ocs:C4557,
+        ocs:C5421,
+        ocs:C7766,
+        ocs:C8510,
+        ocs:C10558,
         ocs:C10825,
         ocs:C13255,
         ocs:C13278,
@@ -16,12 +21,7 @@ ocs:C1599 a skos:Concept ;
         ocs:C26760,
         ocs:C38890,
         ocs:C39399,
-        ocs:C4049,
         ocs:C42827,
         ocs:C42944,
-        ocs:C45548,
-        ocs:C4557,
-        ocs:C5421,
-        ocs:C7766,
-        ocs:C8510 .
+        ocs:C45548 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10477 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/VT1.5> ;
     skos:prefLabel "VT1.5" ;
-    skos:related ocs:C10765,
+    skos:related ocs:C2842,
+        ocs:C3581,
+        ocs:C8567,
+        ocs:C10765,
         ocs:C15589,
         ocs:C20934,
         ocs:C25250,
         ocs:C26208,
         ocs:C27274,
-        ocs:C2842,
         ocs:C31109,
         ocs:C35346,
-        ocs:C3581,
         ocs:C36308,
         ocs:C38402,
         ocs:C40954,
-        ocs:C42820,
-        ocs:C8567 .
+        ocs:C42820 .
 

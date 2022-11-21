@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12819 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Semantic_mapper> ;
     skos:prefLabel "Semantic mapper" ;
-    skos:related ocs:C10979,
+    skos:related ocs:C404,
+        ocs:C2646,
+        ocs:C3037,
+        ocs:C3896,
+        ocs:C9836,
+        ocs:C10979,
         ocs:C12154,
         ocs:C13744,
         ocs:C15209,
         ocs:C17369,
         ocs:C20446,
-        ocs:C2646,
         ocs:C28117,
-        ocs:C3037,
         ocs:C38812,
-        ocs:C3896,
         ocs:C39393,
         ocs:C40042,
         ocs:C40051,
-        ocs:C404,
         ocs:C42947,
-        ocs:C44676,
-        ocs:C9836 .
+        ocs:C44676 .
 

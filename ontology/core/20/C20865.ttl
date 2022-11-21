@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20865 a skos:Concept ;
-    skos:broader ocs:C11557,
-        ocs:C11654,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C11557,
+        ocs:C11654 ;
     skos:closeMatch <http://dbpedia.org/resource/Synchronous_programming_language> ;
     skos:prefLabel "Synchronous programming language" ;
     skos:related ocs:C11,
+        ocs:C19,
+        ocs:C27,
+        ocs:C33,
+        ocs:C1386,
+        ocs:C3514,
+        ocs:C3998,
+        ocs:C4321,
+        ocs:C8751,
         ocs:C11654,
         ocs:C13045,
-        ocs:C1386,
         ocs:C16482,
         ocs:C16968,
-        ocs:C19,
         ocs:C21812,
         ocs:C23249,
         ocs:C23439,
         ocs:C23909,
-        ocs:C27,
-        ocs:C29868,
-        ocs:C33,
-        ocs:C3514,
-        ocs:C3998,
-        ocs:C4321,
-        ocs:C8751 .
+        ocs:C29868 .
 

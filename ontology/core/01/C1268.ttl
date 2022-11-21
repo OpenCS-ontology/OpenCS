@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1268 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C25 ;
     skos:prefLabel "Vision problem" ;
-    skos:related ocs:C14863,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C22,
         ocs:C25,
-        ocs:C26692,
         ocs:C29,
         ocs:C5498,
         ocs:C8499,
-        ocs:C8725 .
+        ocs:C8725,
+        ocs:C14863,
+        ocs:C26692 .
 

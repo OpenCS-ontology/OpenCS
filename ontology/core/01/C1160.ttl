@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1160 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/VisualSim_Architect> ;
     skos:prefLabel "VisualSim Architect" ;
-    skos:related ocs:C1024,
-        ocs:C10320,
-        ocs:C1097,
+    skos:related ocs:C9,
         ocs:C11,
-        ocs:C19400,
-        ocs:C2523,
         ocs:C27,
-        ocs:C29183,
-        ocs:C29412,
-        ocs:C33533,
+        ocs:C1024,
+        ocs:C1097,
+        ocs:C2523,
         ocs:C5336,
         ocs:C5869,
         ocs:C6172,
         ocs:C7165,
-        ocs:C9,
-        ocs:C9379 .
+        ocs:C9379,
+        ocs:C10320,
+        ocs:C19400,
+        ocs:C29183,
+        ocs:C29412,
+        ocs:C33533 .
 

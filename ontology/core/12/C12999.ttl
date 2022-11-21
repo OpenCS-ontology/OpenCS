@@ -3,11 +3,16 @@
 
 ocs:C12999 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C3 ;
+        ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Broadcasting> ;
     skos:prefLabel "Broadcasting" ;
-    skos:related ocs:C10409,
+    skos:related ocs:C3,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C10409,
         ocs:C15505,
         ocs:C18001,
         ocs:C19366,
@@ -15,11 +20,6 @@ ocs:C12999 a skos:Concept ;
         ocs:C26020,
         ocs:C27572,
         ocs:C28716,
-        ocs:C3,
         ocs:C31899,
-        ocs:C36807,
-        ocs:C7159,
-        ocs:C7216,
-        ocs:C8614,
-        ocs:C9113 .
+        ocs:C36807 .
 

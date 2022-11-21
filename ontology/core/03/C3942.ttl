@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3942 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Relaxed_code-excited_linear_prediction> ;
     skos:prefLabel "Relaxed code-excited linear prediction" ;
-    skos:related ocs:C11969,
-        ocs:C1506,
+    skos:related ocs:C1506,
+        ocs:C4767,
+        ocs:C11969,
         ocs:C17433,
         ocs:C20746,
         ocs:C25496,
@@ -24,6 +25,5 @@ ocs:C3942 a skos:Concept ;
         ocs:C42949,
         ocs:C43254,
         ocs:C43887,
-        ocs:C44033,
-        ocs:C4767 .
+        ocs:C44033 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1128 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/C-One> ;
     skos:prefLabel "C-One" ;
-    skos:related ocs:C10053,
-        ocs:C10320,
-        ocs:C1253,
-        ocs:C19481,
-        ocs:C2022,
-        ocs:C22525,
-        ocs:C24015,
-        ocs:C29604,
-        ocs:C4259,
+    skos:related ocs:C9,
         ocs:C44,
+        ocs:C1253,
+        ocs:C2022,
+        ocs:C4259,
         ocs:C5336,
         ocs:C6172,
         ocs:C8787,
-        ocs:C9 .
+        ocs:C10053,
+        ocs:C10320,
+        ocs:C19481,
+        ocs:C22525,
+        ocs:C24015,
+        ocs:C29604 .
 

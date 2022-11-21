@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26544 a skos:Concept ;
-    skos:broader ocs:C12262,
-        ocs:C6255 ;
+    skos:broader ocs:C6255,
+        ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/Integer_%28computer_science%29> ;
     skos:prefLabel "Integer Data Type" ;
-    skos:related ocs:C14632,
+    skos:related ocs:C9,
         ocs:C19,
         ocs:C29,
-        ocs:C9 .
+        ocs:C14632 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25150 a skos:Concept ;
-    skos:broader ocs:C13414,
-        ocs:C5293 ;
+    skos:broader ocs:C5293,
+        ocs:C13414 ;
     skos:closeMatch <http://dbpedia.org/resource/Aircraft_flight_control_system> ;
     skos:prefLabel "Aircraft flight control system" ;
     skos:related ocs:C13414,

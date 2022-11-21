@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3955 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:prefLabel "Image reference" ;
-    skos:related ocs:C17,
-        ocs:C2,
+    skos:related ocs:C2,
+        ocs:C17,
         ocs:C22,
-        ocs:C22623,
-        ocs:C24859,
         ocs:C33,
-        ocs:C33766,
-        ocs:C37748,
         ocs:C4703,
         ocs:C6999,
         ocs:C7006,
-        ocs:C8021 .
+        ocs:C8021,
+        ocs:C22623,
+        ocs:C24859,
+        ocs:C33766,
+        ocs:C37748 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4035 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Directory_Services_Markup_Language> ;
     skos:prefLabel "Directory Services Markup Language" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C1634,
+        ocs:C3475,
+        ocs:C11927,
         ocs:C13252,
         ocs:C14417,
         ocs:C14627,
         ocs:C15411,
         ocs:C16159,
-        ocs:C1634,
         ocs:C25069,
         ocs:C29951,
         ocs:C32481,
         ocs:C33040,
         ocs:C33169,
-        ocs:C3475,
         ocs:C35197,
         ocs:C36401,
         ocs:C37914,

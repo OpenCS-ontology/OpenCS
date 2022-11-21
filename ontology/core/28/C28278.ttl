@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28278 a skos:Concept ;
-    skos:broader ocs:C12098,
+    skos:broader ocs:C1451,
+        ocs:C12098,
         ocs:C12099,
-        ocs:C13408,
-        ocs:C1451 ;
+        ocs:C13408 ;
     skos:closeMatch <http://dbpedia.org/resource/Duration_calculus> ;
     skos:prefLabel "Duration calculus" ;
     skos:related ocs:C1,
+        ocs:C33,
         ocs:C1035,
+        ocs:C2044,
         ocs:C10720,
         ocs:C10825,
         ocs:C13408,
         ocs:C14329,
         ocs:C19351,
-        ocs:C2044,
         ocs:C28080,
         ocs:C31890,
-        ocs:C33,
         ocs:C37447,
         ocs:C38128,
         ocs:C40062,

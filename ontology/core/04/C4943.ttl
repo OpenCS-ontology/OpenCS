@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4943 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:prefLabel "Policy Source" ;
-    skos:related ocs:C10988,
-        ocs:C1338,
-        ocs:C26,
+    skos:related ocs:C26,
         ocs:C35,
-        ocs:C9540 .
+        ocs:C1338,
+        ocs:C9540,
+        ocs:C10988 .
 

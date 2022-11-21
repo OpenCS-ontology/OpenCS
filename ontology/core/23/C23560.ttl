@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23560 a skos:Concept ;
-    skos:broader ocs:C13253,
-        ocs:C5126,
+    skos:broader ocs:C5126,
         ocs:C5692,
-        ocs:C9162 ;
+        ocs:C9162,
+        ocs:C13253 ;
     skos:closeMatch <http://dbpedia.org/resource/Extended_ASCII> ;
     skos:prefLabel "Extended ASCII" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C5126,
+        ocs:C7966,
+        ocs:C9162,
+        ocs:C10696,
         ocs:C11927,
         ocs:C13253,
         ocs:C13704,
@@ -18,8 +21,5 @@ ocs:C23560 a skos:Concept ;
         ocs:C24544,
         ocs:C28881,
         ocs:C33894,
-        ocs:C40665,
-        ocs:C5126,
-        ocs:C7966,
-        ocs:C9162 .
+        ocs:C40665 .
 

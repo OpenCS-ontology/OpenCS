@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6052 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/999_(emergency_telephone_number)> ;
     skos:prefLabel "Emergency Number" ;
-    skos:related ocs:C12641,
-        ocs:C15728,
+    skos:related ocs:C2,
+        ocs:C3,
         ocs:C16,
         ocs:C17,
-        ocs:C2,
+        ocs:C33,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C12641,
+        ocs:C15728,
         ocs:C24727,
         ocs:C26502,
-        ocs:C3,
-        ocs:C33,
-        ocs:C45886,
-        ocs:C8614,
-        ocs:C9113 .
+        ocs:C45886 .
 

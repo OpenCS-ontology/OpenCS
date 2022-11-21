@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13956 a skos:Concept ;
-    skos:broader ocs:C13744,
+    skos:broader ocs:C264,
         ocs:C2414,
-        ocs:C264,
-        ocs:C5402 ;
+        ocs:C5402,
+        ocs:C13744 ;
     skos:prefLabel "Functional data model" .
 

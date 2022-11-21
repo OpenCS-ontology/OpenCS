@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8965 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Chatterbot> ;
     skos:prefLabel "Chatbot" ;
     skos:related ocs:C1,
-        ocs:C12579,
-        ocs:C12696,
+        ocs:C8,
         ocs:C16,
-        ocs:C16092,
-        ocs:C21882,
-        ocs:C22254,
-        ocs:C2468,
         ocs:C25,
-        ocs:C29058,
         ocs:C32,
+        ocs:C685,
+        ocs:C2468,
         ocs:C4397,
-        ocs:C44765,
         ocs:C5852,
         ocs:C6072,
         ocs:C6531,
-        ocs:C685,
-        ocs:C8,
         ocs:C8614,
-        ocs:C9996 .
+        ocs:C9996,
+        ocs:C12579,
+        ocs:C12696,
+        ocs:C16092,
+        ocs:C21882,
+        ocs:C22254,
+        ocs:C29058,
+        ocs:C44765 .
 

@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9448 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Solid-state_storage> ;
     skos:prefLabel "Solid-state storage" ;
     skos:related ocs:C11,
-        ocs:C13222,
-        ocs:C13783,
-        ocs:C21211,
-        ocs:C29012,
         ocs:C3160,
         ocs:C3231,
         ocs:C4259,
         ocs:C4519,
         ocs:C5136,
-        ocs:C7007 .
+        ocs:C7007,
+        ocs:C13222,
+        ocs:C13783,
+        ocs:C21211,
+        ocs:C29012 .
 

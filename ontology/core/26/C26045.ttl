@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26045 a skos:Concept ;
-    skos:broader ocs:C12849,
-        ocs:C6420 ;
+    skos:broader ocs:C6420,
+        ocs:C12849 ;
     skos:prefLabel "Hue discrimination" ;
-    skos:related ocs:C10740,
+    skos:related ocs:C5469,
+        ocs:C9122,
+        ocs:C10740,
         ocs:C37103,
-        ocs:C41483,
-        ocs:C5469,
-        ocs:C9122 .
+        ocs:C41483 .
 

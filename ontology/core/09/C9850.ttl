@@ -5,7 +5,12 @@ ocs:C9850 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/Z/Architecture> ;
     skos:prefLabel "z/Architecture" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C856,
+        ocs:C6172,
+        ocs:C9035,
+        ocs:C9952,
+        ocs:C10320,
         ocs:C11207,
         ocs:C11258,
         ocs:C17204,
@@ -15,10 +20,5 @@ ocs:C9850 a skos:Concept ;
         ocs:C27610,
         ocs:C31489,
         ocs:C38819,
-        ocs:C42662,
-        ocs:C6172,
-        ocs:C856,
-        ocs:C9,
-        ocs:C9035,
-        ocs:C9952 .
+        ocs:C42662 .
 

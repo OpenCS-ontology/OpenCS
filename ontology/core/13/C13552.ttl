@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13552 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Microsoft_Binary_Format> ;
     skos:prefLabel "Microsoft Binary Format" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C7602,
+        ocs:C12262,
         ocs:C16377,
         ocs:C19487,
         ocs:C21384,
@@ -23,6 +24,5 @@ ocs:C13552 a skos:Concept ;
         ocs:C39774,
         ocs:C40691,
         ocs:C43784,
-        ocs:C45395,
-        ocs:C7602 .
+        ocs:C45395 .
 

@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C112 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Reconfigurability> ;
     skos:prefLabel "Reconfigurability" ;
-    skos:related ocs:C10449,
+    skos:related ocs:C3236,
+        ocs:C5336,
+        ocs:C8612,
+        ocs:C10449,
         ocs:C11027,
         ocs:C15410,
         ocs:C17653,
@@ -16,11 +19,8 @@ ocs:C112 a skos:Concept ;
         ocs:C24312,
         ocs:C26155,
         ocs:C30728,
-        ocs:C3236,
         ocs:C32548,
         ocs:C33745,
         ocs:C38163,
-        ocs:C43300,
-        ocs:C5336,
-        ocs:C8612 .
+        ocs:C43300 .
 

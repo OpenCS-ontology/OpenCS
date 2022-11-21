@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25238 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C5823,
+    skos:broader ocs:C5823,
         ocs:C6116,
         ocs:C6537,
         ocs:C7471,
-        ocs:C9272 ;
+        ocs:C9272,
+        ocs:C13685 ;
     skos:prefLabel "Least median of squares regression" .
 

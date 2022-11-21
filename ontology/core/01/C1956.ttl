@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1956 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Remote_backup_service> ;
     skos:prefLabel "Remote backup service" ;
-    skos:related ocs:C10911,
+    skos:related ocs:C5692,
+        ocs:C7106,
+        ocs:C8750,
+        ocs:C10911,
         ocs:C12211,
         ocs:C13412,
         ocs:C15182,
@@ -18,8 +21,5 @@ ocs:C1956 a skos:Concept ;
         ocs:C31489,
         ocs:C34753,
         ocs:C35701,
-        ocs:C39235,
-        ocs:C5692,
-        ocs:C7106,
-        ocs:C8750 .
+        ocs:C39235 .
 

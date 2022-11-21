@@ -5,7 +5,9 @@ ocs:C4220 a skos:Concept ;
     skos:broader ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/NOTAM> ;
     skos:prefLabel "NOTAM" ;
-    skos:related ocs:C11445,
+    skos:related ocs:C4597,
+        ocs:C8868,
+        ocs:C11445,
         ocs:C12641,
         ocs:C14809,
         ocs:C15050,
@@ -16,7 +18,5 @@ ocs:C4220 a skos:Concept ;
         ocs:C33217,
         ocs:C39784,
         ocs:C42130,
-        ocs:C42471,
-        ocs:C4597,
-        ocs:C8868 .
+        ocs:C42471 .
 

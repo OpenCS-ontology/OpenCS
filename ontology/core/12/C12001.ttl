@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12001 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Session_border_controller> ;
     skos:prefLabel "Session border controller" ;
-    skos:related ocs:C11871,
-        ocs:C125,
+    skos:related ocs:C125,
+        ocs:C3933,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C11871,
         ocs:C17207,
         ocs:C19227,
         ocs:C22407,
@@ -21,8 +24,5 @@ ocs:C12001 a skos:Concept ;
         ocs:C32983,
         ocs:C36980,
         ocs:C37893,
-        ocs:C3933,
-        ocs:C44004,
-        ocs:C8515,
-        ocs:C8614 .
+        ocs:C44004 .
 

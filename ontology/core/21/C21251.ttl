@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21251 a skos:Concept ;
-    skos:broader ocs:C11213,
-        ocs:C8020 ;
+    skos:broader ocs:C8020,
+        ocs:C11213 ;
     skos:closeMatch <http://dbpedia.org/resource/Orthoepy> ;
     skos:prefLabel "Orthoepy" ;
-    skos:related ocs:C11213,
+    skos:related ocs:C6237,
+        ocs:C8020,
+        ocs:C11213,
         ocs:C11398,
         ocs:C17395,
         ocs:C19169,
         ocs:C19812,
-        ocs:C20431,
-        ocs:C6237,
-        ocs:C8020 .
+        ocs:C20431 .
 

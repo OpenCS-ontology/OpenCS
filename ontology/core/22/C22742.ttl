@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22742 a skos:Concept ;
-    skos:broader ocs:C10568,
-        ocs:C6223 ;
+    skos:broader ocs:C6223,
+        ocs:C10568 ;
     skos:closeMatch <http://dbpedia.org/resource/Unified_Extensible_Firmware_Interface> ;
     skos:prefLabel "Unified Extensible Firmware Interface" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C3893,
+        ocs:C6223,
+        ocs:C10320,
         ocs:C10400,
         ocs:C10568,
         ocs:C15529,
@@ -20,8 +23,5 @@ ocs:C22742 a skos:Concept ;
         ocs:C31965,
         ocs:C33255,
         ocs:C34356,
-        ocs:C3893,
-        ocs:C44872,
-        ocs:C6223,
-        ocs:C9 .
+        ocs:C44872 .
 

@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27194 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C7471 ;
+    skos:broader ocs:C7471,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Generalized_least_squares> ;
     skos:prefLabel "Generalized least squares" ;
-    skos:related ocs:C10138,
+    skos:related ocs:C5087,
+        ocs:C5510,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C10138,
         ocs:C14553,
         ocs:C21547,
         ocs:C22854,
@@ -14,9 +18,5 @@ ocs:C27194 a skos:Concept ;
         ocs:C25711,
         ocs:C26880,
         ocs:C26888,
-        ocs:C27703,
-        ocs:C5087,
-        ocs:C5510,
-        ocs:C6116,
-        ocs:C7471 .
+        ocs:C27703 .
 

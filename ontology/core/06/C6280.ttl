@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6280 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Opcode> ;
     skos:prefLabel "Opcode" ;
-    skos:related ocs:C10320,
-        ocs:C12257,
+    skos:related ocs:C9,
         ocs:C15,
-        ocs:C17204,
         ocs:C19,
-        ocs:C19487,
+        ocs:C856,
         ocs:C2009,
+        ocs:C4321,
+        ocs:C4863,
+        ocs:C6172,
+        ocs:C10320,
+        ocs:C12257,
+        ocs:C17204,
+        ocs:C19487,
         ocs:C21718,
         ocs:C22322,
         ocs:C35009,
         ocs:C37538,
         ocs:C39214,
-        ocs:C4321,
-        ocs:C45210,
-        ocs:C4863,
-        ocs:C6172,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C45210 .
 

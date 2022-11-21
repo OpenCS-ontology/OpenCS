@@ -2,12 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12111 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Throughput> ;
     skos:prefLabel "Throughput" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C3,
+        ocs:C9,
+        ocs:C26,
+        ocs:C27,
+        ocs:C390,
+        ocs:C490,
+        ocs:C3429,
+        ocs:C4197,
+        ocs:C8614,
+        ocs:C10320,
         ocs:C13786,
         ocs:C15065,
         ocs:C16953,
@@ -15,16 +24,7 @@ ocs:C12111 a skos:Concept ;
         ocs:C21769,
         ocs:C23433,
         ocs:C24323,
-        ocs:C26,
-        ocs:C27,
         ocs:C29419,
-        ocs:C3,
         ocs:C33773,
-        ocs:C3429,
-        ocs:C390,
-        ocs:C4197,
-        ocs:C44104,
-        ocs:C490,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C44104 .
 

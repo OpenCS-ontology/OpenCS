@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2669 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Retargeting> ;
     skos:prefLabel "Retargeting" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C856,
+        ocs:C4321,
+        ocs:C5962,
+        ocs:C6714,
+        ocs:C7800,
+        ocs:C10320,
         ocs:C11262,
         ocs:C13025,
         ocs:C14271,
         ocs:C15309,
         ocs:C17204,
-        ocs:C19,
         ocs:C21718,
         ocs:C22322,
         ocs:C31489,
         ocs:C40371,
-        ocs:C4321,
         ocs:C44993,
-        ocs:C45210,
-        ocs:C5962,
-        ocs:C6714,
-        ocs:C7800,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C45210 .
 

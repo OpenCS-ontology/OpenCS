@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22377 a skos:Concept ;
-    skos:broader ocs:C13092,
-        ocs:C3341,
-        ocs:C8753 ;
+    skos:broader ocs:C3341,
+        ocs:C8753,
+        ocs:C13092 ;
     skos:prefLabel "Optical flow computation" .
 

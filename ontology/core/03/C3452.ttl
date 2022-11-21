@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3452 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_acquisition> ;
     skos:prefLabel "Data acquisition" ;
-    skos:related ocs:C11,
-        ocs:C1302,
+    skos:related ocs:C6,
+        ocs:C11,
         ocs:C19,
-        ocs:C2172,
-        ocs:C28881,
-        ocs:C31489,
         ocs:C490,
+        ocs:C1302,
+        ocs:C2172,
         ocs:C5821,
-        ocs:C6,
         ocs:C6714,
-        ocs:C9093 .
+        ocs:C9093,
+        ocs:C28881,
+        ocs:C31489 .
 

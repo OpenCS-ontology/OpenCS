@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4325 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/PCI/104-Express> ;
     skos:prefLabel "PCI/104-Express" ;
     skos:related ocs:C11,
-        ocs:C13022,
+        ocs:C735,
         ocs:C2084,
-        ocs:C24007,
         ocs:C2430,
         ocs:C6826,
-        ocs:C735 .
+        ocs:C13022,
+        ocs:C24007 .
 

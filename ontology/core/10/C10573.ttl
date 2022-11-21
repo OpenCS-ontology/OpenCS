@@ -3,18 +3,22 @@
 
 ocs:C10573 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Universally_unique_identifier> ;
     skos:prefLabel "Universally unique identifier" ;
-    skos:related ocs:C13743,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C2459,
+        ocs:C5236,
+        ocs:C5343,
+        ocs:C7476,
+        ocs:C13743,
         ocs:C15591,
         ocs:C20957,
         ocs:C23087,
-        ocs:C2459,
         ocs:C24871,
         ocs:C25795,
-        ocs:C26,
         ocs:C31489,
         ocs:C32648,
         ocs:C37133,
@@ -22,9 +26,5 @@ ocs:C10573 a skos:Concept ;
         ocs:C38452,
         ocs:C40789,
         ocs:C43718,
-        ocs:C45269,
-        ocs:C5236,
-        ocs:C5343,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C45269 .
 

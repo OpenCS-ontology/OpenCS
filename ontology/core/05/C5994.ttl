@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5994 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Abort_(computing)> ;
     skos:prefLabel "Abort" ;
-    skos:related ocs:C11032,
-        ocs:C1253,
-        ocs:C14271,
-        ocs:C17213,
+    skos:related ocs:C2,
+        ocs:C9,
         ocs:C19,
-        ocs:C2,
-        ocs:C20961,
-        ocs:C24143,
+        ocs:C1253,
         ocs:C2863,
         ocs:C3231,
-        ocs:C37232,
         ocs:C4345,
-        ocs:C9,
-        ocs:C9425 .
+        ocs:C9425,
+        ocs:C11032,
+        ocs:C14271,
+        ocs:C17213,
+        ocs:C20961,
+        ocs:C24143,
+        ocs:C37232 .
 

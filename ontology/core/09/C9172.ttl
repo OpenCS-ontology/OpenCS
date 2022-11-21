@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9172 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Third-party_source> ;
     skos:prefLabel "Third-party source" ;
-    skos:related ocs:C14584,
+    skos:related ocs:C3312,
+        ocs:C4280,
+        ocs:C14584,
         ocs:C16292,
         ocs:C16768,
         ocs:C25013,
         ocs:C31890,
-        ocs:C3312,
-        ocs:C4280,
         ocs:C45554 .
 

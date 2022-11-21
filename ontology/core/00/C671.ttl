@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C671 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Connection_string> ;
     skos:prefLabel "Connection string" ;
-    skos:related ocs:C10988,
+    skos:related ocs:C6,
+        ocs:C3050,
+        ocs:C3398,
+        ocs:C6650,
+        ocs:C7651,
+        ocs:C9056,
+        ocs:C9477,
+        ocs:C10988,
         ocs:C12185,
         ocs:C12978,
         ocs:C18567,
         ocs:C23051,
-        ocs:C3050,
         ocs:C30828,
         ocs:C33457,
-        ocs:C3398,
         ocs:C39526,
-        ocs:C40323,
-        ocs:C6,
-        ocs:C6650,
-        ocs:C7651,
-        ocs:C9056,
-        ocs:C9477 .
+        ocs:C40323 .
 

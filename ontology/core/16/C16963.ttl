@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16963 a skos:Concept ;
-    skos:broader ocs:C3236,
-        ocs:C836,
+    skos:broader ocs:C836,
+        ocs:C3236,
         ocs:C9409 ;
     skos:closeMatch <http://dbpedia.org/resource/Golomb_sequence> ;
     skos:prefLabel "Golomb sequence" ;

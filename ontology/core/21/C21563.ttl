@@ -5,16 +5,18 @@ ocs:C21563 a skos:Concept ;
     skos:broader ocs:C1491 ;
     skos:closeMatch <http://dbpedia.org/resource/Sequential_consistency> ;
     skos:prefLabel "Sequential consistency" ;
-    skos:related ocs:C1491,
+    skos:related ocs:C27,
+        ocs:C30,
+        ocs:C1491,
+        ocs:C2750,
+        ocs:C3514,
+        ocs:C5551,
+        ocs:C8204,
         ocs:C15043,
         ocs:C24153,
-        ocs:C27,
-        ocs:C2750,
         ocs:C27610,
-        ocs:C30,
         ocs:C33921,
         ocs:C35107,
-        ocs:C3514,
         ocs:C37786,
         ocs:C37951,
         ocs:C39243,
@@ -22,7 +24,5 @@ ocs:C21563 a skos:Concept ;
         ocs:C41961,
         ocs:C42759,
         ocs:C43877,
-        ocs:C44650,
-        ocs:C5551,
-        ocs:C8204 .
+        ocs:C44650 .
 

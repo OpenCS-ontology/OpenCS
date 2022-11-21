@@ -2,15 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1506 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/FS-1015> ;
     skos:prefLabel "FS-1015" ;
-    skos:related ocs:C17433,
+    skos:related ocs:C3268,
+        ocs:C9154,
+        ocs:C17433,
         ocs:C18981,
         ocs:C20746,
         ocs:C32609,
-        ocs:C3268,
         ocs:C33335,
         ocs:C35731,
         ocs:C36671,
@@ -22,6 +23,5 @@ ocs:C1506 a skos:Concept ;
         ocs:C41971,
         ocs:C42341,
         ocs:C43076,
-        ocs:C44033,
-        ocs:C9154 .
+        ocs:C44033 .
 

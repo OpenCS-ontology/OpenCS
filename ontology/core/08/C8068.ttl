@@ -2,17 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8068 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_content> ;
     skos:prefLabel "Digital content" ;
-    skos:related ocs:C1253,
-        ocs:C13978,
-        ocs:C17,
-        ocs:C1704,
-        ocs:C24143,
+    skos:related ocs:C17,
         ocs:C31,
+        ocs:C941,
+        ocs:C1253,
+        ocs:C1704,
         ocs:C4034,
         ocs:C5554,
         ocs:C5746,
@@ -21,5 +20,6 @@ ocs:C8068 a skos:Concept ;
         ocs:C8617,
         ocs:C9057,
         ocs:C9244,
-        ocs:C941 .
+        ocs:C13978,
+        ocs:C24143 .
 

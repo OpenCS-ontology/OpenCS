@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26156 a skos:Concept ;
-    skos:broader ocs:C13750,
-        ocs:C3042 ;
+    skos:broader ocs:C3042,
+        ocs:C13750 ;
     skos:closeMatch <http://dbpedia.org/resource/Color–color_diagram> ;
     skos:prefLabel "Color–color diagram" ;
-    skos:related ocs:C22542,
+    skos:related ocs:C597,
+        ocs:C22542,
         ocs:C22752,
         ocs:C23267,
         ocs:C23430,
@@ -15,6 +16,5 @@ ocs:C26156 a skos:Concept ;
         ocs:C27654,
         ocs:C29212,
         ocs:C30109,
-        ocs:C33488,
-        ocs:C597 .
+        ocs:C33488 .
 

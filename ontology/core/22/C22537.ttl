@@ -5,7 +5,9 @@ ocs:C22537 a skos:Concept ;
     skos:broader ocs:C3393 ;
     skos:closeMatch <http://dbpedia.org/resource/High_memory> ;
     skos:prefLabel "High memory" ;
-    skos:related ocs:C10994,
+    skos:related ocs:C9,
+        ocs:C7557,
+        ocs:C10994,
         ocs:C12683,
         ocs:C15860,
         ocs:C20800,
@@ -20,7 +22,5 @@ ocs:C22537 a skos:Concept ;
         ocs:C41696,
         ocs:C42619,
         ocs:C42695,
-        ocs:C45251,
-        ocs:C7557,
-        ocs:C9 .
+        ocs:C45251 .
 

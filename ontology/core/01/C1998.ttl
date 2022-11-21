@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1998 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Create,_read,_update_and_delete> ;
     skos:prefLabel "Create, read, update and delete" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C2674,
+        ocs:C3850,
+        ocs:C3896,
+        ocs:C5497,
+        ocs:C7395,
+        ocs:C10444,
         ocs:C11927,
         ocs:C12075,
         ocs:C12185,
@@ -15,15 +21,9 @@ ocs:C1998 a skos:Concept ;
         ocs:C18405,
         ocs:C20446,
         ocs:C22597,
-        ocs:C2674,
         ocs:C28941,
         ocs:C28963,
         ocs:C30561,
         ocs:C32327,
-        ocs:C38130,
-        ocs:C3850,
-        ocs:C3896,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C7395 .
+        ocs:C38130 .
 

@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20924 a skos:Concept ;
-    skos:broader ocs:C10134,
-        ocs:C2378 ;
+    skos:broader ocs:C2378,
+        ocs:C10134 ;
     skos:closeMatch <http://dbpedia.org/resource/Team_performance_management> ;
     skos:prefLabel "Team performance management" ;
-    skos:related ocs:C22489,
-        ocs:C2378,
+    skos:related ocs:C2378,
         ocs:C2947,
         ocs:C4509,
-        ocs:C9741 .
+        ocs:C9741,
+        ocs:C22489 .
 

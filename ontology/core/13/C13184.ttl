@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13184 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_network_diagram> ;
     skos:prefLabel "Computer network diagram" ;
-    skos:related ocs:C11144,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C2935,
+        ocs:C3042,
+        ocs:C3233,
+        ocs:C8614,
+        ocs:C11144,
         ocs:C13381,
         ocs:C13786,
         ocs:C14134,
         ocs:C15484,
         ocs:C16666,
         ocs:C25133,
-        ocs:C26,
         ocs:C27570,
         ocs:C28850,
-        ocs:C2935,
-        ocs:C3042,
         ocs:C30797,
-        ocs:C3233,
         ocs:C35370,
         ocs:C38824,
-        ocs:C44972,
-        ocs:C490,
-        ocs:C8614 .
+        ocs:C44972 .
 

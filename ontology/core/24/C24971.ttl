@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24971 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C84 ;
+    skos:broader ocs:C84,
+        ocs:C12638 ;
     skos:closeMatch <http://dbpedia.org/resource/Treemapping> ;
     skos:prefLabel "Treemapping" ;
     skos:related ocs:C10,
+        ocs:C383,
+        ocs:C935,
+        ocs:C9876,
         ocs:C10382,
         ocs:C11094,
         ocs:C12322,
@@ -18,8 +21,5 @@ ocs:C24971 a skos:Concept ;
         ocs:C26009,
         ocs:C27130,
         ocs:C36835,
-        ocs:C383,
-        ocs:C40923,
-        ocs:C935,
-        ocs:C9876 .
+        ocs:C40923 .
 

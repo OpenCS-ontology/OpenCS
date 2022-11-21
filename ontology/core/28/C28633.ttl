@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28633 a skos:Concept ;
-    skos:broader ocs:C10973,
-        ocs:C12694,
-        ocs:C428 ;
+    skos:broader ocs:C428,
+        ocs:C10973,
+        ocs:C12694 ;
     skos:closeMatch <http://dbpedia.org/resource/Bitmap_index> ;
     skos:prefLabel "Bitmap index" ;
-    skos:related ocs:C10973,
+    skos:related ocs:C6,
+        ocs:C2375,
+        ocs:C3040,
+        ocs:C8893,
+        ocs:C9269,
+        ocs:C10973,
         ocs:C12185,
         ocs:C14025,
         ocs:C15482,
@@ -15,13 +20,8 @@ ocs:C28633 a skos:Concept ;
         ocs:C18405,
         ocs:C18567,
         ocs:C20446,
-        ocs:C2375,
         ocs:C27882,
-        ocs:C3040,
         ocs:C33457,
         ocs:C36358,
-        ocs:C36510,
-        ocs:C6,
-        ocs:C8893,
-        ocs:C9269 .
+        ocs:C36510 .
 

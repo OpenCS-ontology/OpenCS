@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3248 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Edge_Side_Includes> ;
     skos:prefLabel "Edge Side Includes" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C2464,
+        ocs:C5939,
+        ocs:C7530,
+        ocs:C11927,
         ocs:C13800,
         ocs:C14418,
         ocs:C16336,
@@ -15,7 +18,6 @@ ocs:C3248 a skos:Concept ;
         ocs:C17556,
         ocs:C18811,
         ocs:C22597,
-        ocs:C2464,
         ocs:C26354,
         ocs:C26528,
         ocs:C28801,
@@ -23,7 +25,5 @@ ocs:C3248 a skos:Concept ;
         ocs:C39727,
         ocs:C39880,
         ocs:C40132,
-        ocs:C45402,
-        ocs:C5939,
-        ocs:C7530 .
+        ocs:C45402 .
 

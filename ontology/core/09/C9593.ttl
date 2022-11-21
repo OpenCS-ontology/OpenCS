@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9593 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Kernel_Normal_Form> ;
     skos:prefLabel "Kernel Normal Form" ;
-    skos:related ocs:C14271,
+    skos:related ocs:C9,
+        ocs:C755,
+        ocs:C4937,
+        ocs:C14271,
         ocs:C14990,
         ocs:C15504,
         ocs:C18991,
@@ -19,8 +22,5 @@ ocs:C9593 a skos:Concept ;
         ocs:C42619,
         ocs:C44815,
         ocs:C45069,
-        ocs:C45497,
-        ocs:C4937,
-        ocs:C755,
-        ocs:C9 .
+        ocs:C45497 .
 

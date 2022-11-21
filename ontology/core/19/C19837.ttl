@@ -5,7 +5,9 @@ ocs:C19837 a skos:Concept ;
     skos:broader ocs:C5912 ;
     skos:closeMatch <http://dbpedia.org/resource/OSEK> ;
     skos:prefLabel "OSEK" ;
-    skos:related ocs:C11,
+    skos:related ocs:C9,
+        ocs:C11,
+        ocs:C5912,
         ocs:C14350,
         ocs:C18228,
         ocs:C20800,
@@ -18,7 +20,5 @@ ocs:C19837 a skos:Concept ;
         ocs:C34229,
         ocs:C37367,
         ocs:C42251,
-        ocs:C45363,
-        ocs:C5912,
-        ocs:C9 .
+        ocs:C45363 .
 

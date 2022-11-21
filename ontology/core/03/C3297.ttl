@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3297 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Logical_harmony> ;
     skos:prefLabel "Logical harmony" ;
-    skos:related ocs:C10558,
+    skos:related ocs:C2418,
+        ocs:C4557,
+        ocs:C4870,
+        ocs:C5714,
+        ocs:C8080,
+        ocs:C10558,
         ocs:C10825,
         ocs:C11060,
         ocs:C12474,
         ocs:C13255,
         ocs:C13976,
-        ocs:C2418,
         ocs:C25442,
         ocs:C26635,
         ocs:C26651,
         ocs:C28277,
         ocs:C36547,
         ocs:C39399,
-        ocs:C42827,
-        ocs:C4557,
-        ocs:C4870,
-        ocs:C5714,
-        ocs:C8080 .
+        ocs:C42827 .
 

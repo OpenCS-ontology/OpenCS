@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15902 a skos:Concept ;
-    skos:broader ocs:C11927,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/YAML> ;
     skos:prefLabel "YAML" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C2067,
+        ocs:C3398,
+        ocs:C4918,
+        ocs:C5308,
+        ocs:C9162,
+        ocs:C10284,
         ocs:C11927,
         ocs:C12185,
         ocs:C12477,
         ocs:C13068,
         ocs:C18361,
-        ocs:C19,
-        ocs:C2067,
         ocs:C24783,
         ocs:C28801,
         ocs:C29192,
         ocs:C33709,
-        ocs:C3398,
         ocs:C37480,
-        ocs:C39526,
-        ocs:C4918,
-        ocs:C5308,
-        ocs:C9162 .
+        ocs:C39526 .
 

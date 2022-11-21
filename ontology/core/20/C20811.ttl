@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20811 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C5659 ;
+    skos:broader ocs:C5659,
+        ocs:C10382 ;
     skos:closeMatch <http://dbpedia.org/resource/Fuzzy_clustering> ;
     skos:prefLabel "Fuzzy clustering" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C25,
+        ocs:C6608,
+        ocs:C9022,
+        ocs:C10382,
         ocs:C19499,
         ocs:C21710,
-        ocs:C25,
         ocs:C26767,
         ocs:C29024,
         ocs:C29175,
@@ -22,7 +24,5 @@ ocs:C20811 a skos:Concept ;
         ocs:C42682,
         ocs:C42787,
         ocs:C44201,
-        ocs:C45859,
-        ocs:C6608,
-        ocs:C9022 .
+        ocs:C45859 .
 

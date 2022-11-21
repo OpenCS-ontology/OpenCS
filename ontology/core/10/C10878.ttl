@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10878 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Internationalization_Tag_Set> ;
     skos:prefLabel "Internationalization Tag Set" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C9166,
+        ocs:C11927,
         ocs:C13068,
         ocs:C17170,
         ocs:C18361,
@@ -25,6 +26,5 @@ ocs:C10878 a skos:Concept ;
         ocs:C40360,
         ocs:C40546,
         ocs:C43819,
-        ocs:C43834,
-        ocs:C9166 .
+        ocs:C43834 .
 

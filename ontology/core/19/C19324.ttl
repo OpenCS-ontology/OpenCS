@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19324 a skos:Concept ;
-    skos:broader ocs:C13517,
-        ocs:C3896 ;
+    skos:broader ocs:C3896,
+        ocs:C13517 ;
     skos:closeMatch <http://dbpedia.org/resource/Extensible_Metadata_Platform> ;
     skos:prefLabel "Extensible Metadata Platform" ;
-    skos:related ocs:C10380,
+    skos:related ocs:C2937,
+        ocs:C3679,
+        ocs:C3896,
+        ocs:C4584,
+        ocs:C5088,
+        ocs:C9836,
+        ocs:C10380,
         ocs:C11531,
         ocs:C11927,
         ocs:C13065,
         ocs:C13155,
         ocs:C28801,
-        ocs:C28881,
-        ocs:C2937,
-        ocs:C3679,
-        ocs:C3896,
-        ocs:C4584,
-        ocs:C5088,
-        ocs:C9836 .
+        ocs:C28881 .
 

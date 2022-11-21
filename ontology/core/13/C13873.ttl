@@ -2,17 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13873 a skos:Concept ;
-    skos:broader ocs:C3236,
-        ocs:C390,
+    skos:broader ocs:C390,
+        ocs:C3236,
         ocs:C6751 ;
     skos:closeMatch <http://dbpedia.org/resource/Robust_Header_Compression> ;
     skos:prefLabel "Robust Header Compression" ;
-    skos:related ocs:C11550,
+    skos:related ocs:C2181,
+        ocs:C6129,
+        ocs:C11550,
         ocs:C14160,
         ocs:C18213,
         ocs:C19227,
         ocs:C20540,
-        ocs:C2181,
         ocs:C22407,
         ocs:C23965,
         ocs:C24323,
@@ -24,6 +25,5 @@ ocs:C13873 a skos:Concept ;
         ocs:C42756,
         ocs:C43015,
         ocs:C43209,
-        ocs:C45399,
-        ocs:C6129 .
+        ocs:C45399 .
 

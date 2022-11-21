@@ -2,14 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3624 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Phyz> ;
     skos:prefLabel "Phyz" ;
-    skos:related ocs:C13260,
-        ocs:C17237,
+    skos:related ocs:C22,
         ocs:C1904,
-        ocs:C22,
+        ocs:C5072,
+        ocs:C5300,
+        ocs:C5514,
+        ocs:C6953,
+        ocs:C7256,
+        ocs:C13260,
+        ocs:C17237,
         ocs:C22205,
         ocs:C26812,
         ocs:C29060,
@@ -17,10 +22,5 @@ ocs:C3624 a skos:Concept ;
         ocs:C31152,
         ocs:C36820,
         ocs:C41220,
-        ocs:C45682,
-        ocs:C5072,
-        ocs:C5300,
-        ocs:C5514,
-        ocs:C6953,
-        ocs:C7256 .
+        ocs:C45682 .
 

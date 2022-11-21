@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15910 a skos:Concept ;
-    skos:broader ocs:C13210,
-        ocs:C9777 ;
+    skos:broader ocs:C9777,
+        ocs:C13210 ;
     skos:closeMatch <http://dbpedia.org/resource/Great_Vowel_Shift> ;
     skos:prefLabel "Great Vowel Shift" ;
-    skos:related ocs:C12167,
+    skos:related ocs:C2025,
+        ocs:C2847,
+        ocs:C12167,
         ocs:C12388,
         ocs:C13096,
         ocs:C14527,
         ocs:C17395,
-        ocs:C2025,
         ocs:C21819,
         ocs:C22147,
         ocs:C27326,
-        ocs:C27886,
-        ocs:C2847 .
+        ocs:C27886 .
 

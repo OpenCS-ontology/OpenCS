@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C197 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_technology> ;
     skos:prefLabel "Information technology" ;
     skos:related ocs:C1,
-        ocs:C1253,
-        ocs:C14,
-        ocs:C2979,
         ocs:C3,
         ocs:C6,
+        ocs:C14,
+        ocs:C1253,
+        ocs:C2979,
         ocs:C7106,
         ocs:C8614 .
 

@@ -6,7 +6,11 @@ ocs:C26451 a skos:Concept ;
         ocs:C10568 ;
     skos:closeMatch <http://dbpedia.org/resource/BIOS_interrupt_call> ;
     skos:prefLabel "BIOS interrupt call" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C5147,
+        ocs:C9425,
+        ocs:C9433,
+        ocs:C10400,
         ocs:C10568,
         ocs:C12323,
         ocs:C13022,
@@ -17,9 +21,5 @@ ocs:C26451 a skos:Concept ;
         ocs:C22742,
         ocs:C28881,
         ocs:C31489,
-        ocs:C44667,
-        ocs:C5147,
-        ocs:C9,
-        ocs:C9425,
-        ocs:C9433 .
+        ocs:C44667 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23338 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C11637,
-        ocs:C7558 ;
+    skos:broader ocs:C7558,
+        ocs:C10382,
+        ocs:C11637 ;
     skos:closeMatch <http://dbpedia.org/resource/Word-sense_induction> ;
     skos:prefLabel "Word-sense induction" ;
-    skos:related ocs:C1132,
-        ocs:C11722,
+    skos:related ocs:C23,
+        ocs:C32,
+        ocs:C928,
+        ocs:C961,
+        ocs:C1132,
         ocs:C1253,
-        ocs:C14849,
-        ocs:C18694,
-        ocs:C20963,
-        ocs:C23,
         ocs:C2884,
         ocs:C2902,
-        ocs:C31956,
-        ocs:C32,
         ocs:C4601,
         ocs:C5852,
         ocs:C7558,
         ocs:C7862,
         ocs:C8564,
         ocs:C8710,
-        ocs:C928,
-        ocs:C961 .
+        ocs:C11722,
+        ocs:C14849,
+        ocs:C18694,
+        ocs:C20963,
+        ocs:C31956 .
 

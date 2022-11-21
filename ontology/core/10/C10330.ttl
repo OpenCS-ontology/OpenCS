@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10330 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Security_policy> ;
     skos:prefLabel "Security policy" ;
     skos:related ocs:C1,
-        ocs:C10565,
+        ocs:C6,
+        ocs:C9,
+        ocs:C26,
+        ocs:C35,
+        ocs:C699,
         ocs:C1253,
         ocs:C1399,
-        ocs:C20443,
-        ocs:C26,
-        ocs:C28881,
         ocs:C2941,
         ocs:C2979,
-        ocs:C35,
-        ocs:C35995,
-        ocs:C40337,
-        ocs:C43428,
         ocs:C4513,
         ocs:C5692,
-        ocs:C6,
-        ocs:C699,
         ocs:C7006,
         ocs:C8711,
-        ocs:C9 .
+        ocs:C10565,
+        ocs:C20443,
+        ocs:C28881,
+        ocs:C35995,
+        ocs:C40337,
+        ocs:C43428 .
 

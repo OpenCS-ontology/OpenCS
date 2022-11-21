@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23874 a skos:Concept ;
-    skos:broader ocs:C12262,
-        ocs:C8753 ;
+    skos:broader ocs:C8753,
+        ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/Double-precision_floating-point_format> ;
     skos:prefLabel "Double-precision floating-point format" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C6714,
+        ocs:C7735,
+        ocs:C10320,
         ocs:C12262,
         ocs:C19487,
         ocs:C21384,
@@ -20,7 +22,5 @@ ocs:C23874 a skos:Concept ;
         ocs:C37518,
         ocs:C42983,
         ocs:C43784,
-        ocs:C45395,
-        ocs:C6714,
-        ocs:C7735 .
+        ocs:C45395 .
 

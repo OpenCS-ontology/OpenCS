@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1863 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:prefLabel "Security enhancement" ;
-    skos:related ocs:C1399,
-        ocs:C16125,
-        ocs:C2,
-        ocs:C23855,
-        ocs:C28122,
-        ocs:C29363,
+    skos:related ocs:C2,
         ocs:C3,
         ocs:C30,
         ocs:C33,
-        ocs:C4434,
         ocs:C545,
+        ocs:C1399,
+        ocs:C4434,
         ocs:C7006,
         ocs:C8172,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C16125,
+        ocs:C23855,
+        ocs:C28122,
+        ocs:C29363 .
 

@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3674 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Configuration_management> ;
     skos:prefLabel "Configuration management" ;
-    skos:related ocs:C12257,
-        ocs:C1253,
+    skos:related ocs:C28,
         ocs:C197,
-        ocs:C28,
+        ocs:C1253,
+        ocs:C7509,
+        ocs:C9700,
+        ocs:C12257,
         ocs:C28080,
         ocs:C28275,
         ocs:C28881,
@@ -17,7 +19,5 @@ ocs:C3674 a skos:Concept ;
         ocs:C31489,
         ocs:C37174,
         ocs:C42487,
-        ocs:C45228,
-        ocs:C7509,
-        ocs:C9700 .
+        ocs:C45228 .
 

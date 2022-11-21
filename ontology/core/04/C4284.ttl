@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4284 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/E-Navigation> ;
     skos:prefLabel "e-Navigation" ;
-    skos:related ocs:C10006,
+    skos:related ocs:C4996,
+        ocs:C6096,
+        ocs:C9169,
+        ocs:C9497,
+        ocs:C10006,
         ocs:C10283,
         ocs:C12652,
         ocs:C16340,
-        ocs:C27318,
-        ocs:C4996,
-        ocs:C6096,
-        ocs:C9169,
-        ocs:C9497 .
+        ocs:C27318 .
 

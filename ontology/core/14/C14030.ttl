@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14030 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C2250 ;
+    skos:broader ocs:C2250,
+        ocs:C10222 ;
     skos:closeMatch <http://dbpedia.org/resource/Likelihood_function> ;
     skos:prefLabel "Likelihood function" ;
-    skos:related ocs:C10222,
-        ocs:C14620,
-        ocs:C14622,
-        ocs:C1844,
-        ocs:C22075,
+    skos:related ocs:C1844,
         ocs:C6291,
         ocs:C6395,
         ocs:C7908,
-        ocs:C9326 .
+        ocs:C9326,
+        ocs:C10222,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C22075 .
 

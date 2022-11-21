@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22326 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_audio_broadcasting> ;
     skos:prefLabel "Digital audio broadcasting" ;
-    skos:related ocs:C10409,
+    skos:related ocs:C3522,
+        ocs:C7216,
+        ocs:C10409,
         ocs:C12942,
         ocs:C12999,
         ocs:C14053,
@@ -21,7 +23,5 @@ ocs:C22326 a skos:Concept ;
         ocs:C31899,
         ocs:C32456,
         ocs:C33691,
-        ocs:C3522,
-        ocs:C36245,
-        ocs:C7216 .
+        ocs:C36245 .
 

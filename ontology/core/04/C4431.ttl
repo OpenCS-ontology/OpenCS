@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4431 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Webcal> ;
     skos:prefLabel "Webcal" ;
-    skos:related ocs:C14418,
+    skos:related ocs:C31,
         ocs:C1746,
         ocs:C2211,
+        ocs:C4500,
+        ocs:C6553,
+        ocs:C6872,
+        ocs:C8995,
+        ocs:C14418,
         ocs:C22597,
         ocs:C25316,
         ocs:C30237,
-        ocs:C31,
         ocs:C31061,
         ocs:C33863,
         ocs:C34117,
         ocs:C37042,
         ocs:C41498,
-        ocs:C43255,
-        ocs:C4500,
-        ocs:C6553,
-        ocs:C6872,
-        ocs:C8995 .
+        ocs:C43255 .
 

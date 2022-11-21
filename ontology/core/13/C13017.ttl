@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13017 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/RSA_SecurID> ;
     skos:prefLabel "RSA SecurID" ;
-    skos:related ocs:C1184,
+    skos:related ocs:C35,
+        ocs:C816,
+        ocs:C1184,
+        ocs:C4513,
+        ocs:C8437,
+        ocs:C9716,
         ocs:C12331,
         ocs:C14354,
         ocs:C17656,
@@ -18,13 +23,8 @@ ocs:C13017 a skos:Concept ;
         ocs:C27509,
         ocs:C31489,
         ocs:C34793,
-        ocs:C35,
         ocs:C36171,
         ocs:C41498,
         ocs:C42423,
-        ocs:C42478,
-        ocs:C4513,
-        ocs:C816,
-        ocs:C8437,
-        ocs:C9716 .
+        ocs:C42478 .
 

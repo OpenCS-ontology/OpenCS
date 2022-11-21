@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1695 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Software-defined_memory> ;
     skos:prefLabel "Software-defined memory" ;
-    skos:related ocs:C10683,
+    skos:related ocs:C15,
+        ocs:C856,
+        ocs:C3160,
+        ocs:C3584,
+        ocs:C10683,
         ocs:C11258,
         ocs:C13783,
-        ocs:C15,
         ocs:C18983,
         ocs:C21765,
         ocs:C22508,
         ocs:C23270,
         ocs:C26155,
         ocs:C26602,
-        ocs:C3160,
         ocs:C35698,
-        ocs:C3584,
         ocs:C41110,
         ocs:C41159,
         ocs:C41469,
-        ocs:C43124,
-        ocs:C856 .
+        ocs:C43124 .
 

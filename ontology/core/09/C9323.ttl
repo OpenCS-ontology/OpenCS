@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9323 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_security_model> ;
     skos:prefLabel "Computer security model" ;
     skos:related ocs:C1,
+        ocs:C9,
+        ocs:C30,
+        ocs:C35,
+        ocs:C1399,
+        ocs:C6458,
+        ocs:C8711,
         ocs:C10330,
         ocs:C13767,
-        ocs:C1399,
         ocs:C16727,
         ocs:C20443,
         ocs:C21059,
         ocs:C21232,
         ocs:C22970,
-        ocs:C30,
         ocs:C33988,
-        ocs:C35,
         ocs:C35047,
         ocs:C38399,
         ocs:C40337,
-        ocs:C45563,
-        ocs:C6458,
-        ocs:C8711,
-        ocs:C9 .
+        ocs:C45563 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C632 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/XCore_XS1-G4> ;
     skos:prefLabel "XCore XS1-G4" ;
-    skos:related ocs:C10683,
-        ocs:C12690,
+    skos:related ocs:C27,
+        ocs:C856,
         ocs:C1668,
+        ocs:C9542,
+        ocs:C9651,
+        ocs:C10683,
+        ocs:C12690,
         ocs:C24190,
         ocs:C25546,
-        ocs:C27,
         ocs:C27610,
         ocs:C28515,
         ocs:C31823,
         ocs:C36894,
-        ocs:C43124,
-        ocs:C856,
-        ocs:C9542,
-        ocs:C9651 .
+        ocs:C43124 .
 

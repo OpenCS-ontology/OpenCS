@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2813 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Unified_Information_Access> ;
     skos:prefLabel "Unified Information Access" ;
-    skos:related ocs:C10724,
+    skos:related ocs:C6,
+        ocs:C379,
+        ocs:C3398,
+        ocs:C4781,
+        ocs:C4968,
+        ocs:C10724,
         ocs:C12238,
         ocs:C12694,
         ocs:C12736,
@@ -17,11 +22,6 @@ ocs:C2813 a skos:Concept ;
         ocs:C23103,
         ocs:C29846,
         ocs:C32389,
-        ocs:C3398,
         ocs:C37135,
-        ocs:C379,
-        ocs:C45303,
-        ocs:C4781,
-        ocs:C4968,
-        ocs:C6 .
+        ocs:C45303 .
 

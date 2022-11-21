@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10870 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C13,
         ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_Applied> ;
     skos:prefLabel "Data Applied" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C13,
+        ocs:C25,
+        ocs:C34,
+        ocs:C4752,
+        ocs:C9488,
+        ocs:C9874,
+        ocs:C10382,
         ocs:C10937,
         ocs:C11875,
         ocs:C12206,
         ocs:C12238,
         ocs:C12736,
         ocs:C12811,
-        ocs:C13,
         ocs:C17893,
         ocs:C18025,
-        ocs:C25,
         ocs:C27130,
-        ocs:C34,
         ocs:C37135,
         ocs:C45659,
-        ocs:C45823,
-        ocs:C4752,
-        ocs:C9488,
-        ocs:C9874 .
+        ocs:C45823 .
 

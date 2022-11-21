@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C434 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Optophone> ;
     skos:prefLabel "Optophone" ;
     skos:related ocs:C1255,
+        ocs:C3077,
+        ocs:C3397,
+        ocs:C4397,
+        ocs:C5202,
+        ocs:C8130,
+        ocs:C9596,
         ocs:C13521,
         ocs:C18870,
         ocs:C21199,
         ocs:C29866,
         ocs:C30312,
-        ocs:C3077,
-        ocs:C33862,
-        ocs:C3397,
-        ocs:C4397,
-        ocs:C5202,
-        ocs:C8130,
-        ocs:C9596 .
+        ocs:C33862 .
 

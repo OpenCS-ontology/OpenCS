@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24599 a skos:Concept ;
-    skos:broader ocs:C13511,
-        ocs:C4756,
-        ocs:C6390 ;
+    skos:broader ocs:C4756,
+        ocs:C6390,
+        ocs:C13511 ;
     skos:closeMatch <http://dbpedia.org/resource/Theorem_Proving_System> ;
     skos:prefLabel "Theorem Proving System" ;
-    skos:related ocs:C17696,
+    skos:related ocs:C2418,
+        ocs:C4149,
+        ocs:C4756,
+        ocs:C5348,
+        ocs:C6492,
+        ocs:C6531,
+        ocs:C8534,
+        ocs:C17696,
         ocs:C17709,
         ocs:C18691,
         ocs:C21946,
         ocs:C23992,
-        ocs:C2418,
         ocs:C24395,
         ocs:C26635,
         ocs:C27837,
         ocs:C28895,
         ocs:C35496,
         ocs:C41289,
-        ocs:C4149,
-        ocs:C45817,
-        ocs:C4756,
-        ocs:C5348,
-        ocs:C6492,
-        ocs:C6531,
-        ocs:C8534 .
+        ocs:C45817 .
 

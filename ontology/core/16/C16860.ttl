@@ -2,17 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16860 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C5196 ;
+    skos:broader ocs:C5196,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_coding_format> ;
     skos:prefLabel "Video coding format" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C523,
+        ocs:C2937,
+        ocs:C11323,
         ocs:C12046,
         ocs:C19334,
         ocs:C23673,
         ocs:C26268,
         ocs:C29048,
-        ocs:C2937,
         ocs:C31114,
         ocs:C34702,
         ocs:C35808,
@@ -20,6 +21,5 @@ ocs:C16860 a skos:Concept ;
         ocs:C40311,
         ocs:C40353,
         ocs:C42514,
-        ocs:C45687,
-        ocs:C523 .
+        ocs:C45687 .
 

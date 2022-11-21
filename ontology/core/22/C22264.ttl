@@ -5,8 +5,11 @@ ocs:C22264 a skos:Concept ;
     skos:broader ocs:C7652 ;
     skos:closeMatch <http://dbpedia.org/resource/CHAID> ;
     skos:prefLabel "CHAID" ;
-    skos:related ocs:C11544,
-        ocs:C13,
+    skos:related ocs:C13,
+        ocs:C7652,
+        ocs:C7803,
+        ocs:C8443,
+        ocs:C11544,
         ocs:C16990,
         ocs:C24136,
         ocs:C25462,
@@ -17,8 +20,5 @@ ocs:C22264 a skos:Concept ;
         ocs:C39283,
         ocs:C41777,
         ocs:C41937,
-        ocs:C45455,
-        ocs:C7652,
-        ocs:C7803,
-        ocs:C8443 .
+        ocs:C45455 .
 

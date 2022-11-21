@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22626 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C8791 ;
+    skos:broader ocs:C8791,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Pushdown_automaton> ;
     skos:prefLabel "Pushdown automaton" ;
     skos:related ocs:C1,
-        ocs:C11885,
         ocs:C156,
+        ocs:C524,
+        ocs:C3398,
+        ocs:C8791,
+        ocs:C11885,
         ocs:C17566,
         ocs:C17732,
         ocs:C19560,
@@ -17,13 +20,10 @@ ocs:C22626 a skos:Concept ;
         ocs:C26158,
         ocs:C30921,
         ocs:C33441,
-        ocs:C3398,
         ocs:C37890,
         ocs:C38591,
         ocs:C39098,
         ocs:C39527,
         ocs:C40873,
-        ocs:C42922,
-        ocs:C524,
-        ocs:C8791 .
+        ocs:C42922 .
 

@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17280 a skos:Concept ;
-    skos:broader ocs:C13096,
-        ocs:C1444,
+    skos:broader ocs:C1444,
         ocs:C5856,
         ocs:C7040,
-        ocs:C7310 ;
+        ocs:C7310,
+        ocs:C13096 ;
     skos:prefLabel "Mandarin speech recognition" .
 

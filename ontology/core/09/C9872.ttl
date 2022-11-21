@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9872 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C29,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_parallelism> ;
     skos:prefLabel "Data parallelism" ;
     skos:related ocs:C10,
-        ocs:C10320,
-        ocs:C12690,
-        ocs:C17434,
         ocs:C19,
+        ocs:C27,
         ocs:C1904,
-        ocs:C19229,
-        ocs:C21933,
         ocs:C2478,
         ocs:C2674,
-        ocs:C27,
-        ocs:C28515,
         ocs:C3981,
         ocs:C4804,
         ocs:C5766,
         ocs:C6714,
-        ocs:C7735 .
+        ocs:C7735,
+        ocs:C10320,
+        ocs:C12690,
+        ocs:C17434,
+        ocs:C19229,
+        ocs:C21933,
+        ocs:C28515 .
 

@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28842 a skos:Concept ;
-    skos:broader ocs:C12920,
-        ocs:C3236,
+    skos:broader ocs:C3236,
         ocs:C4500,
-        ocs:C8172 ;
+        ocs:C8172,
+        ocs:C12920 ;
     skos:prefLabel "Device free localization" .
 

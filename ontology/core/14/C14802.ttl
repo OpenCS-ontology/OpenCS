@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14802 a skos:Concept ;
-    skos:broader ocs:C11769,
-        ocs:C6027,
-        ocs:C8614 ;
+    skos:broader ocs:C6027,
+        ocs:C8614,
+        ocs:C11769 ;
     skos:closeMatch <http://dbpedia.org/resource/Secure_telephone> ;
     skos:prefLabel "Secure telephone" ;
-    skos:related ocs:C11594,
+    skos:related ocs:C400,
         ocs:C1305,
+        ocs:C3268,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C8444,
+        ocs:C11594,
         ocs:C17661,
         ocs:C18981,
         ocs:C20243,
@@ -16,12 +21,7 @@ ocs:C14802 a skos:Concept ;
         ocs:C28501,
         ocs:C31365,
         ocs:C32642,
-        ocs:C3268,
         ocs:C33414,
         ocs:C38245,
-        ocs:C400,
-        ocs:C4218,
-        ocs:C42490,
-        ocs:C5692,
-        ocs:C8444 .
+        ocs:C42490 .
 

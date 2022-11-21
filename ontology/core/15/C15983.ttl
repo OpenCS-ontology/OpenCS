@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15983 a skos:Concept ;
-    skos:broader ocs:C11027,
-        ocs:C7106 ;
+    skos:broader ocs:C7106,
+        ocs:C11027 ;
     skos:closeMatch <http://dbpedia.org/resource/Dynamic_infrastructure> ;
     skos:prefLabel "Dynamic infrastructure" ;
-    skos:related ocs:C12812,
+    skos:related ocs:C9,
+        ocs:C197,
+        ocs:C1634,
+        ocs:C2352,
+        ocs:C7106,
+        ocs:C12812,
         ocs:C12988,
         ocs:C13412,
         ocs:C13550,
         ocs:C14627,
         ocs:C15123,
-        ocs:C1634,
-        ocs:C197,
-        ocs:C2352,
         ocs:C26161,
         ocs:C26354,
         ocs:C27259,
         ocs:C34979,
         ocs:C36502,
         ocs:C41997,
-        ocs:C43642,
-        ocs:C7106,
-        ocs:C9 .
+        ocs:C43642 .
 

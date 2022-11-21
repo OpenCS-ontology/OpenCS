@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C40 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Voice_interface_card> ;
     skos:prefLabel "Voice interface card" ;
-    skos:related ocs:C10503,
+    skos:related ocs:C6711,
+        ocs:C10503,
         ocs:C13786,
         ocs:C21357,
         ocs:C21598,
@@ -17,6 +18,5 @@ ocs:C40 a skos:Concept ;
         ocs:C40955,
         ocs:C41542,
         ocs:C42093,
-        ocs:C42173,
-        ocs:C6711 .
+        ocs:C42173 .
 

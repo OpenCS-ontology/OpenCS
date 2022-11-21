@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4267 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Macintosh_Toolbox> ;
     skos:prefLabel "Macintosh Toolbox" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C44,
+        ocs:C4259,
+        ocs:C7476,
+        ocs:C10400,
         ocs:C10568,
         ocs:C12683,
         ocs:C13303,
@@ -22,9 +26,5 @@ ocs:C4267 a skos:Concept ;
         ocs:C24871,
         ocs:C25252,
         ocs:C31965,
-        ocs:C41604,
-        ocs:C4259,
-        ocs:C44,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C41604 .
 

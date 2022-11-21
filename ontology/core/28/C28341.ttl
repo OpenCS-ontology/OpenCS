@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28341 a skos:Concept ;
-    skos:broader ocs:C11016,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C11016 ;
     skos:closeMatch <http://dbpedia.org/resource/Reactor_pattern> ;
     skos:prefLabel "Reactor pattern" ;
-    skos:related ocs:C11016,
+    skos:related ocs:C3514,
+        ocs:C5307,
+        ocs:C7870,
+        ocs:C9262,
+        ocs:C11016,
         ocs:C11279,
         ocs:C22903,
         ocs:C25917,
         ocs:C28759,
         ocs:C31658,
-        ocs:C3514,
         ocs:C36729,
         ocs:C40401,
         ocs:C41970,
         ocs:C43786,
         ocs:C44286,
-        ocs:C45142,
-        ocs:C5307,
-        ocs:C7870,
-        ocs:C9262 .
+        ocs:C45142 .
 

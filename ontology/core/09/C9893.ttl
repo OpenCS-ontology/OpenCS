@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9893 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/IMS_VDEX> ;
     skos:prefLabel "IMS VDEX" ;
-    skos:related ocs:C10582,
+    skos:related ocs:C404,
+        ocs:C1349,
+        ocs:C1561,
+        ocs:C3896,
+        ocs:C6646,
+        ocs:C6690,
+        ocs:C6915,
+        ocs:C9836,
+        ocs:C10582,
         ocs:C11128,
         ocs:C11205,
         ocs:C11927,
-        ocs:C1349,
-        ocs:C1561,
         ocs:C17188,
         ocs:C25617,
         ocs:C25681,
         ocs:C27199,
         ocs:C28801,
         ocs:C37046,
-        ocs:C3896,
-        ocs:C404,
-        ocs:C42124,
-        ocs:C6646,
-        ocs:C6690,
-        ocs:C6915,
-        ocs:C9836 .
+        ocs:C42124 .
 

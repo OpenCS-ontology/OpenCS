@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9162 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/ASCII> ;
     skos:prefLabel "ASCII" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C9,
+        ocs:C2534,
+        ocs:C5126,
+        ocs:C10696,
         ocs:C11531,
         ocs:C11927,
         ocs:C13253,
@@ -14,12 +17,9 @@ ocs:C9162 a skos:Concept ;
         ocs:C18456,
         ocs:C23560,
         ocs:C24544,
-        ocs:C2534,
         ocs:C28801,
         ocs:C28881,
         ocs:C30078,
         ocs:C31489,
-        ocs:C40665,
-        ocs:C5126,
-        ocs:C9 .
+        ocs:C40665 .
 

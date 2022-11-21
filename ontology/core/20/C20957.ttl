@@ -5,7 +5,11 @@ ocs:C20957 a skos:Concept ;
     skos:broader ocs:C8790 ;
     skos:closeMatch <http://dbpedia.org/resource/Unique_identifier> ;
     skos:prefLabel "Unique identifier" ;
-    skos:related ocs:C1031,
+    skos:related ocs:C6,
+        ocs:C1031,
+        ocs:C3896,
+        ocs:C5343,
+        ocs:C8790,
         ocs:C10408,
         ocs:C10573,
         ocs:C11651,
@@ -15,9 +19,5 @@ ocs:C20957 a skos:Concept ;
         ocs:C23851,
         ocs:C25795,
         ocs:C30090,
-        ocs:C31345,
-        ocs:C3896,
-        ocs:C5343,
-        ocs:C6,
-        ocs:C8790 .
+        ocs:C31345 .
 

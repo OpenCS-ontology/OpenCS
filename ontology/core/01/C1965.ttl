@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1965 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/E-puck_mobile_robot> ;
     skos:prefLabel "E-puck mobile robot" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C6538,
+        ocs:C7850,
+        ocs:C10396,
         ocs:C14022,
         ocs:C15963,
         ocs:C16890,
@@ -21,7 +23,5 @@ ocs:C1965 a skos:Concept ;
         ocs:C36259,
         ocs:C36567,
         ocs:C44139,
-        ocs:C44941,
-        ocs:C6538,
-        ocs:C7850 .
+        ocs:C44941 .
 

@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C48 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C18 ;
     skos:prefLabel "Tactile Senses" ;
     skos:related ocs:C16,
         ocs:C17,
         ocs:C21,
         ocs:C22,
-        ocs:C22204,
         ocs:C3491,
         ocs:C5374,
-        ocs:C8291 .
+        ocs:C8291,
+        ocs:C22204 .
 

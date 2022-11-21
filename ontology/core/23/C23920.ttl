@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23920 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C490 ;
+    skos:broader ocs:C490,
+        ocs:C1253 ;
     skos:closeMatch <http://dbpedia.org/resource/Cat_communication> ;
     skos:prefLabel "Cat communication" .
 

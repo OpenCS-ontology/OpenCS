@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27205 a skos:Concept ;
-    skos:broader ocs:C11282,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C11282 ;
     skos:closeMatch <http://dbpedia.org/resource/Containment_order> ;
     skos:prefLabel "Containment order" ;
-    skos:related ocs:C11771,
+    skos:related ocs:C4257,
+        ocs:C11771,
         ocs:C13647,
         ocs:C18800,
         ocs:C38303,
-        ocs:C4257,
         ocs:C43648 .
 

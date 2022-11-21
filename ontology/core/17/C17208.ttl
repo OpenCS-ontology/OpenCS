@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17208 a skos:Concept ;
-    skos:broader ocs:C12694,
-        ocs:C2414 ;
+    skos:broader ocs:C2414,
+        ocs:C12694 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_Vault_Modeling> ;
     skos:prefLabel "Data vault modeling" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C1392,
+        ocs:C3395,
+        ocs:C3896,
+        ocs:C10444,
         ocs:C12694,
         ocs:C12736,
-        ocs:C1392,
         ocs:C17701,
         ocs:C18567,
         ocs:C20446,
@@ -20,8 +22,6 @@ ocs:C17208 a skos:Concept ;
         ocs:C27200,
         ocs:C33281,
         ocs:C33744,
-        ocs:C3395,
         ocs:C35534,
-        ocs:C36358,
-        ocs:C3896 .
+        ocs:C36358 .
 

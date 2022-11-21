@@ -2,19 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3406 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C17,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Personal_organizer> ;
     skos:prefLabel "Personal organizer" ;
-    skos:related ocs:C17132,
-        ocs:C21424,
-        ocs:C26343,
-        ocs:C29012,
+    skos:related ocs:C9,
         ocs:C2980,
-        ocs:C31489,
-        ocs:C34391,
-        ocs:C41776,
         ocs:C4703,
         ocs:C5138,
         ocs:C5518,
@@ -22,6 +16,12 @@ ocs:C3406 a skos:Concept ;
         ocs:C7166,
         ocs:C7656,
         ocs:C8614,
-        ocs:C9,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C17132,
+        ocs:C21424,
+        ocs:C26343,
+        ocs:C29012,
+        ocs:C31489,
+        ocs:C34391,
+        ocs:C41776 .
 

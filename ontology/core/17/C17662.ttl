@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17662 a skos:Concept ;
-    skos:broader ocs:C12580,
+    skos:broader ocs:C967,
         ocs:C8021,
-        ocs:C967 ;
+        ocs:C12580 ;
     skos:closeMatch <http://dbpedia.org/resource/Angle–sensitive_pixel> ;
     skos:prefLabel "Angle–sensitive pixel" ;
-    skos:related ocs:C12580,
-        ocs:C15842,
-        ocs:C29365,
-        ocs:C33388,
+    skos:related ocs:C967,
         ocs:C6586,
         ocs:C6816,
         ocs:C7789,
-        ocs:C967 .
+        ocs:C12580,
+        ocs:C15842,
+        ocs:C29365,
+        ocs:C33388 .
 

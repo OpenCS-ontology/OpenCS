@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19280 a skos:Concept ;
-    skos:broader ocs:C10449,
-        ocs:C11616,
-        ocs:C2878 ;
+    skos:broader ocs:C2878,
+        ocs:C10449,
+        ocs:C11616 ;
     skos:prefLabel "Controller reconfiguration" .
 

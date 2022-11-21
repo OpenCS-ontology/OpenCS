@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3846 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Transfer_of_learning> ;
     skos:prefLabel "Transfer of learning" ;
-    skos:related ocs:C13078,
+    skos:related ocs:C2367,
+        ocs:C7813,
+        ocs:C13078,
         ocs:C18169,
-        ocs:C2367,
-        ocs:C29527,
-        ocs:C7813 .
+        ocs:C29527 .
 

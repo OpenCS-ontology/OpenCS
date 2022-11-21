@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7929 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/TI_MSP432> ;
     skos:prefLabel "TI MSP432" ;
-    skos:related ocs:C13689,
+    skos:related ocs:C3450,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C7983,
+        ocs:C13689,
         ocs:C15336,
         ocs:C19487,
         ocs:C19556,
         ocs:C24189,
         ocs:C26207,
         ocs:C29530,
-        ocs:C31889,
-        ocs:C3450,
-        ocs:C6172,
-        ocs:C7165,
-        ocs:C7983 .
+        ocs:C31889 .
 

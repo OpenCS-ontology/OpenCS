@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24317 a skos:Concept ;
-    skos:broader ocs:C2419,
-        ocs:C257 ;
+    skos:broader ocs:C257,
+        ocs:C2419 ;
     skos:closeMatch <http://dbpedia.org/resource/Limiting_similarity> ;
     skos:prefLabel "Limiting similarity" .
 

@@ -2,16 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10932 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Process_isolation> ;
     skos:prefLabel "Process isolation" ;
-    skos:related ocs:C12477,
+    skos:related ocs:C9,
+        ocs:C443,
+        ocs:C1641,
+        ocs:C4918,
+        ocs:C8901,
+        ocs:C12477,
         ocs:C14271,
         ocs:C15860,
         ocs:C16338,
-        ocs:C1641,
         ocs:C17401,
         ocs:C24871,
         ocs:C28881,
@@ -20,9 +24,5 @@ ocs:C10932 a skos:Concept ;
         ocs:C35738,
         ocs:C36498,
         ocs:C38819,
-        ocs:C42695,
-        ocs:C443,
-        ocs:C4918,
-        ocs:C8901,
-        ocs:C9 .
+        ocs:C42695 .
 

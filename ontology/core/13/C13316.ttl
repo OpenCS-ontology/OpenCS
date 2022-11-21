@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13316 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Handover> ;
     skos:prefLabel "Handover" ;
-    skos:related ocs:C12853,
+    skos:related ocs:C634,
+        ocs:C4197,
+        ocs:C4255,
+        ocs:C6987,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12853,
         ocs:C18799,
         ocs:C20116,
         ocs:C20859,
@@ -18,13 +25,6 @@ ocs:C13316 a skos:Concept ;
         ocs:C37303,
         ocs:C37543,
         ocs:C39949,
-        ocs:C4197,
         ocs:C42007,
-        ocs:C4255,
-        ocs:C45515,
-        ocs:C634,
-        ocs:C6987,
-        ocs:C7877,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C45515 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7770 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_Security_Group> ;
     skos:prefLabel "Information Security Group" ;
-    skos:related ocs:C12058,
-        ocs:C12238,
-        ocs:C12698,
+    skos:related ocs:C9,
+        ocs:C35,
+        ocs:C533,
+        ocs:C816,
         ocs:C1338,
         ocs:C1399,
+        ocs:C4917,
+        ocs:C5715,
+        ocs:C8437,
+        ocs:C12058,
+        ocs:C12238,
+        ocs:C12698,
         ocs:C16125,
         ocs:C22776,
         ocs:C27494,
         ocs:C28354,
-        ocs:C35,
-        ocs:C38530,
-        ocs:C4917,
-        ocs:C533,
-        ocs:C5715,
-        ocs:C816,
-        ocs:C8437,
-        ocs:C9 .
+        ocs:C38530 .
 

@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2198 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Color_constancy> ;
     skos:prefLabel "Color constancy" ;
-    skos:related ocs:C13544,
+    skos:related ocs:C2531,
+        ocs:C5585,
+        ocs:C6420,
+        ocs:C13544,
         ocs:C15175,
         ocs:C20871,
         ocs:C23675,
-        ocs:C2531,
         ocs:C30704,
-        ocs:C32487,
-        ocs:C5585,
-        ocs:C6420 .
+        ocs:C32487 .
 

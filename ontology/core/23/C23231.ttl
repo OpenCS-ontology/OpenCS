@@ -5,7 +5,9 @@ ocs:C23231 a skos:Concept ;
     skos:broader ocs:C1026 ;
     skos:closeMatch <http://dbpedia.org/resource/Weak_entity> ;
     skos:prefLabel "Weak entity" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C3747,
+        ocs:C10444,
         ocs:C11763,
         ocs:C12750,
         ocs:C16432,
@@ -20,7 +22,5 @@ ocs:C23231 a skos:Concept ;
         ocs:C36510,
         ocs:C36811,
         ocs:C37308,
-        ocs:C3747,
-        ocs:C42440,
-        ocs:C6 .
+        ocs:C42440 .
 

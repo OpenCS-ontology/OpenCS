@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4980 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_server> ;
     skos:prefLabel "Video server" ;
-    skos:related ocs:C12994,
+    skos:related ocs:C155,
+        ocs:C4820,
+        ocs:C7369,
+        ocs:C8256,
+        ocs:C9748,
+        ocs:C12994,
         ocs:C12999,
         ocs:C13095,
-        ocs:C155,
         ocs:C19567,
         ocs:C19823,
         ocs:C25356,
         ocs:C26268,
         ocs:C28716,
         ocs:C40628,
-        ocs:C44034,
-        ocs:C4820,
-        ocs:C7369,
-        ocs:C8256,
-        ocs:C9748 .
+        ocs:C44034 .
 

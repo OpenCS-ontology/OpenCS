@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4024 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/POST_card> ;
     skos:prefLabel "POST card" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C44,
+        ocs:C258,
+        ocs:C521,
+        ocs:C8404,
+        ocs:C10400,
         ocs:C10568,
         ocs:C12918,
         ocs:C13022,
         ocs:C19481,
         ocs:C20065,
-        ocs:C24085,
-        ocs:C258,
-        ocs:C44,
-        ocs:C521,
-        ocs:C8404 .
+        ocs:C24085 .
 

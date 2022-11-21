@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2654 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Screen_hotspot> ;
     skos:prefLabel "Screen hotspot" ;
-    skos:related ocs:C11700,
+    skos:related ocs:C9,
+        ocs:C841,
+        ocs:C3568,
+        ocs:C4223,
+        ocs:C5095,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C8330,
+        ocs:C11700,
         ocs:C11989,
         ocs:C13790,
         ocs:C21545,
@@ -15,14 +23,6 @@ ocs:C2654 a skos:Concept ;
         ocs:C27515,
         ocs:C28881,
         ocs:C34356,
-        ocs:C3568,
-        ocs:C4223,
         ocs:C42897,
-        ocs:C45560,
-        ocs:C5095,
-        ocs:C5702,
-        ocs:C7293,
-        ocs:C8330,
-        ocs:C841,
-        ocs:C9 .
+        ocs:C45560 .
 

@@ -5,7 +5,9 @@ ocs:C16183 a skos:Concept ;
     skos:broader ocs:C5336 ;
     skos:closeMatch <http://dbpedia.org/resource/Stratix> ;
     skos:prefLabel "Stratix" ;
-    skos:related ocs:C12820,
+    skos:related ocs:C5336,
+        ocs:C9908,
+        ocs:C12820,
         ocs:C13747,
         ocs:C16067,
         ocs:C17790,
@@ -21,7 +23,5 @@ ocs:C16183 a skos:Concept ;
         ocs:C31853,
         ocs:C33533,
         ocs:C36420,
-        ocs:C37773,
-        ocs:C5336,
-        ocs:C9908 .
+        ocs:C37773 .
 

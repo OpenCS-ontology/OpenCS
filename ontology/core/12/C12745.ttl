@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12745 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Collections_management_(museum)> ;
     skos:prefLabel "Collections management" ;
-    skos:related ocs:C10730,
-        ocs:C15008,
-        ocs:C15831,
-        ocs:C15886,
+    skos:related ocs:C43,
         ocs:C1676,
-        ocs:C16861,
         ocs:C2018,
         ocs:C2862,
         ocs:C3896,
-        ocs:C43,
         ocs:C4335,
         ocs:C5061,
-        ocs:C8797 .
+        ocs:C8797,
+        ocs:C10730,
+        ocs:C15008,
+        ocs:C15831,
+        ocs:C15886,
+        ocs:C16861 .
 

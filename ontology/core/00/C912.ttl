@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C912 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Group_decision-making> ;
     skos:prefLabel "Group decision-making" ;
-    skos:related ocs:C22673,
+    skos:related ocs:C2529,
+        ocs:C22673,
         ocs:C24505,
-        ocs:C2529,
         ocs:C25463,
         ocs:C26584 .
 

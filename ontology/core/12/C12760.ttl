@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12760 a skos:Concept ;
-    skos:broader ocs:C30,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Docking@Home> ;
     skos:prefLabel "Docking@Home" ;
-    skos:related ocs:C10410,
+    skos:related ocs:C30,
+        ocs:C6996,
+        ocs:C9091,
+        ocs:C10410,
         ocs:C10916,
         ocs:C12475,
         ocs:C12585,
         ocs:C20747,
         ocs:C25618,
-        ocs:C30,
         ocs:C30525,
-        ocs:C44397,
-        ocs:C6996,
-        ocs:C9091 .
+        ocs:C44397 .
 

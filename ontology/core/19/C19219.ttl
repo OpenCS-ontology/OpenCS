@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19219 a skos:Concept ;
-    skos:broader ocs:C12510,
-        ocs:C7006 ;
+    skos:broader ocs:C7006,
+        ocs:C12510 ;
     skos:closeMatch <http://dbpedia.org/resource/Forward_anonymity> ;
     skos:prefLabel "Forward anonymity" ;
-    skos:related ocs:C14539,
+    skos:related ocs:C4218,
+        ocs:C5692,
+        ocs:C14539,
         ocs:C16125,
         ocs:C17091,
         ocs:C17856,
@@ -23,7 +25,5 @@ ocs:C19219 a skos:Concept ;
         ocs:C39582,
         ocs:C41498,
         ocs:C41598,
-        ocs:C4218,
-        ocs:C45628,
-        ocs:C5692 .
+        ocs:C45628 .
 

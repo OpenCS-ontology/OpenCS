@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25632 a skos:Concept ;
-    skos:broader ocs:C10496,
-        ocs:C1130,
+    skos:broader ocs:C1130,
+        ocs:C10496,
         ocs:C13025 ;
     skos:closeMatch <http://dbpedia.org/resource/Queued_Telecommunications_Access_Method> ;
     skos:prefLabel "Queued Telecommunications Access Method" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C4046,
+        ocs:C4093,
+        ocs:C7105,
+        ocs:C8699,
+        ocs:C9035,
+        ocs:C10496,
         ocs:C13101,
         ocs:C13853,
         ocs:C17204,
         ocs:C24712,
         ocs:C35529,
         ocs:C38773,
-        ocs:C4046,
-        ocs:C4093,
         ocs:C41725,
         ocs:C41812,
         ocs:C42165,
-        ocs:C42309,
-        ocs:C7105,
-        ocs:C8699,
-        ocs:C9035 .
+        ocs:C42309 .
 

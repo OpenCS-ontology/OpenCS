@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7649 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Portable_data_terminal> ;
     skos:prefLabel "Portable data terminal" ;
-    skos:related ocs:C12640,
-        ocs:C12755,
-        ocs:C12815,
+    skos:related ocs:C6,
         ocs:C1338,
-        ocs:C16368,
         ocs:C1670,
-        ocs:C17679,
         ocs:C1882,
-        ocs:C20852,
-        ocs:C24143,
         ocs:C4320,
         ocs:C4703,
         ocs:C4917,
-        ocs:C6,
         ocs:C7166,
-        ocs:C9035 .
+        ocs:C9035,
+        ocs:C12640,
+        ocs:C12755,
+        ocs:C12815,
+        ocs:C16368,
+        ocs:C17679,
+        ocs:C20852,
+        ocs:C24143 .
 

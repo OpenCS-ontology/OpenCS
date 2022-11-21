@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11487 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C17,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Pure_Data> ;
     skos:prefLabel "Pure Data" ;
-    skos:related ocs:C11042,
+    skos:related ocs:C17,
+        ocs:C19,
+        ocs:C1253,
+        ocs:C1449,
+        ocs:C2674,
+        ocs:C3405,
+        ocs:C8718,
+        ocs:C11042,
         ocs:C11254,
         ocs:C11814,
-        ocs:C1253,
         ocs:C13635,
-        ocs:C1449,
         ocs:C16968,
-        ocs:C17,
-        ocs:C19,
         ocs:C23249,
         ocs:C24871,
-        ocs:C2674,
         ocs:C28881,
         ocs:C31489,
-        ocs:C3405,
-        ocs:C35918,
-        ocs:C8718 .
+        ocs:C35918 .
 

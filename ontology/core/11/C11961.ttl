@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11961 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Harvard_Mark_II> ;
     skos:prefLabel "Harvard Mark II" ;
-    skos:related ocs:C10320,
-        ocs:C1253,
-        ocs:C15,
-        ocs:C17204,
+    skos:related ocs:C15,
         ocs:C19,
-        ocs:C21718,
-        ocs:C22100,
-        ocs:C23580,
+        ocs:C856,
+        ocs:C1253,
         ocs:C6072,
         ocs:C8328,
-        ocs:C856 .
+        ocs:C10320,
+        ocs:C17204,
+        ocs:C21718,
+        ocs:C22100,
+        ocs:C23580 .
 

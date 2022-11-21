@@ -2,17 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8812 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Special_collections> ;
     skos:prefLabel "Special collections" ;
-    skos:related ocs:C10220,
+    skos:related ocs:C4,
+        ocs:C39,
         ocs:C1090,
-        ocs:C22536,
         ocs:C2862,
         ocs:C3214,
-        ocs:C39,
-        ocs:C4,
         ocs:C5031,
         ocs:C5832,
         ocs:C6023,
@@ -20,5 +18,7 @@ ocs:C8812 a skos:Concept ;
         ocs:C8498,
         ocs:C8770,
         ocs:C8797,
-        ocs:C9692 .
+        ocs:C9692,
+        ocs:C10220,
+        ocs:C22536 .
 

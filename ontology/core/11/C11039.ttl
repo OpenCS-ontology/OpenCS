@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11039 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Partial_index> ;
     skos:prefLabel "Partial index" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C224,
         ocs:C1060,
+        ocs:C3754,
+        ocs:C3934,
+        ocs:C10444,
         ocs:C12185,
         ocs:C13984,
         ocs:C14025,
@@ -16,13 +20,9 @@ ocs:C11039 a skos:Concept ;
         ocs:C16901,
         ocs:C18567,
         ocs:C20517,
-        ocs:C224,
         ocs:C28633,
         ocs:C33457,
         ocs:C37009,
-        ocs:C3754,
-        ocs:C3934,
         ocs:C41302,
-        ocs:C45343,
-        ocs:C6 .
+        ocs:C45343 .
 

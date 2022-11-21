@@ -2,15 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12351 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Rg_chromaticity> ;
     skos:prefLabel "rg chromaticity" ;
-    skos:related ocs:C16674,
+    skos:related ocs:C1935,
+        ocs:C4716,
+        ocs:C5469,
+        ocs:C6942,
+        ocs:C8099,
+        ocs:C9475,
+        ocs:C16674,
         ocs:C17520,
         ocs:C18385,
-        ocs:C1935,
         ocs:C20260,
         ocs:C20871,
         ocs:C22083,
@@ -18,10 +23,5 @@ ocs:C12351 a skos:Concept ;
         ocs:C33766,
         ocs:C44943,
         ocs:C45008,
-        ocs:C45041,
-        ocs:C4716,
-        ocs:C5469,
-        ocs:C6942,
-        ocs:C8099,
-        ocs:C9475 .
+        ocs:C45041 .
 

@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18073 a skos:Concept ;
-    skos:broader ocs:C10492,
-        ocs:C4152 ;
+    skos:broader ocs:C4152,
+        ocs:C10492 ;
     skos:closeMatch <http://dbpedia.org/resource/Analog_device> ;
     skos:prefLabel "Analog device" ;
-    skos:related ocs:C10492,
-        ocs:C10778,
+    skos:related ocs:C941,
         ocs:C1704,
+        ocs:C5862,
+        ocs:C10492,
+        ocs:C10778,
         ocs:C26575,
         ocs:C34890,
-        ocs:C37673,
-        ocs:C5862,
-        ocs:C941 .
+        ocs:C37673 .
 

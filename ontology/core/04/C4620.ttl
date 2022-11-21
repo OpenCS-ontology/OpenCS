@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4620 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Communications_survivability> ;
     skos:prefLabel "Communications survivability" ;
-    skos:related ocs:C11408,
+    skos:related ocs:C3,
         ocs:C1259,
+        ocs:C4805,
+        ocs:C9739,
+        ocs:C11408,
         ocs:C17601,
         ocs:C19845,
         ocs:C21815,
         ocs:C25307,
         ocs:C25514,
         ocs:C26810,
-        ocs:C3,
-        ocs:C43945,
-        ocs:C4805,
-        ocs:C9739 .
+        ocs:C43945 .
 

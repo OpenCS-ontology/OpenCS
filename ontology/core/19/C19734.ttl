@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19734 a skos:Concept ;
-    skos:broader ocs:C13769,
-        ocs:C3896,
-        ocs:C5554 ;
+    skos:broader ocs:C3896,
+        ocs:C5554,
+        ocs:C13769 ;
     skos:closeMatch <http://dbpedia.org/resource/Component_content_management_system> ;
     skos:prefLabel "Component content management system" ;
-    skos:related ocs:C10878,
+    skos:related ocs:C4035,
+        ocs:C5554,
+        ocs:C8196,
+        ocs:C10878,
         ocs:C11927,
         ocs:C16091,
         ocs:C17557,
@@ -22,8 +25,5 @@ ocs:C19734 a skos:Concept ;
         ocs:C35505,
         ocs:C35567,
         ocs:C35701,
-        ocs:C4035,
-        ocs:C42905,
-        ocs:C5554,
-        ocs:C8196 .
+        ocs:C42905 .
 

@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8309 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Quality documents" ;
-    skos:related ocs:C11991,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C17,
         ocs:C34,
         ocs:C428,
-        ocs:C9150 .
+        ocs:C9150,
+        ocs:C11991 .
 

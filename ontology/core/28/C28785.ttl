@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28785 a skos:Concept ;
-    skos:broader ocs:C11815,
-        ocs:C3519 ;
+    skos:broader ocs:C3519,
+        ocs:C11815 ;
     skos:prefLabel "Voice break" ;
-    skos:related ocs:C10768,
+    skos:related ocs:C2408,
+        ocs:C3519,
+        ocs:C10768,
         ocs:C13461,
         ocs:C18630,
         ocs:C22711,
-        ocs:C2408,
         ocs:C32925,
-        ocs:C3519,
         ocs:C35281,
         ocs:C37143 .
 

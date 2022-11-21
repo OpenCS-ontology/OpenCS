@@ -3,11 +3,13 @@
 
 ocs:C9211 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C7 ;
+        ocs:C7,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Navigation_function> ;
     skos:prefLabel "Navigation function" ;
-    skos:related ocs:C12162,
+    skos:related ocs:C77,
+        ocs:C9022,
+        ocs:C12162,
         ocs:C13610,
         ocs:C16157,
         ocs:C17598,
@@ -18,7 +20,5 @@ ocs:C9211 a skos:Concept ;
         ocs:C34535,
         ocs:C35866,
         ocs:C41082,
-        ocs:C43184,
-        ocs:C77,
-        ocs:C9022 .
+        ocs:C43184 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11928 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Stovepipe_system> ;
     skos:prefLabel "Stovepipe system" ;
-    skos:related ocs:C10781,
+    skos:related ocs:C197,
         ocs:C1253,
+        ocs:C1880,
+        ocs:C2878,
+        ocs:C4651,
+        ocs:C5039,
+        ocs:C8997,
+        ocs:C10781,
         ocs:C12694,
         ocs:C13205,
         ocs:C18415,
-        ocs:C1880,
-        ocs:C197,
         ocs:C20854,
         ocs:C21399,
-        ocs:C2878,
         ocs:C34057,
         ocs:C39631,
         ocs:C41184,
         ocs:C41303,
         ocs:C43596,
         ocs:C44877,
-        ocs:C45120,
-        ocs:C4651,
-        ocs:C5039,
-        ocs:C8997 .
+        ocs:C45120 .
 

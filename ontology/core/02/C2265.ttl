@@ -2,15 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2265 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Maintenance_release> ;
     skos:prefLabel "Maintenance release" ;
-    skos:related ocs:C11591,
-        ocs:C11785,
+    skos:related ocs:C9,
         ocs:C1253,
         ocs:C1736,
+        ocs:C8360,
+        ocs:C9347,
+        ocs:C11591,
+        ocs:C11785,
         ocs:C18258,
         ocs:C18415,
         ocs:C20800,
@@ -23,8 +26,5 @@ ocs:C2265 a skos:Concept ;
         ocs:C39522,
         ocs:C41788,
         ocs:C45228,
-        ocs:C45468,
-        ocs:C8360,
-        ocs:C9,
-        ocs:C9347 .
+        ocs:C45468 .
 

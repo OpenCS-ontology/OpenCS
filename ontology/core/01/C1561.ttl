@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1561 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Index_term> ;
     skos:prefLabel "Index term" ;
-    skos:related ocs:C10413,
-        ocs:C11205,
-        ocs:C11492,
+    skos:related ocs:C6,
         ocs:C23,
-        ocs:C26629,
-        ocs:C27199,
-        ocs:C28801,
         ocs:C31,
-        ocs:C3896,
-        ocs:C40049,
-        ocs:C42124,
         ocs:C428,
-        ocs:C6,
+        ocs:C3896,
         ocs:C6690,
         ocs:C6915,
         ocs:C7849,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10413,
+        ocs:C11205,
+        ocs:C11492,
+        ocs:C26629,
+        ocs:C27199,
+        ocs:C28801,
+        ocs:C40049,
+        ocs:C42124 .
 

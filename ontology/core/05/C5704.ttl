@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5704 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Differential_evolution> ;
     skos:prefLabel "Differential evolution" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C4216,
+        ocs:C5197,
+        ocs:C7553,
+        ocs:C10390,
         ocs:C12530,
         ocs:C13208,
         ocs:C14921,
@@ -20,8 +23,5 @@ ocs:C5704 a skos:Concept ;
         ocs:C33012,
         ocs:C37565,
         ocs:C40201,
-        ocs:C4216,
-        ocs:C44532,
-        ocs:C5197,
-        ocs:C7553 .
+        ocs:C44532 .
 

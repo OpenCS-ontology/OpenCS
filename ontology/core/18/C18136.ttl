@@ -2,30 +2,30 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18136 a skos:Concept ;
-    skos:broader ocs:C2464,
-        ocs:C328,
+    skos:broader ocs:C328,
+        ocs:C2464,
         ocs:C4641,
         ocs:C8614 ;
     skos:closeMatch <http://dbpedia.org/resource/MHTML> ;
     skos:prefLabel "MHTML" ;
-    skos:related ocs:C12477,
-        ocs:C16338,
-        ocs:C17401,
-        ocs:C2464,
-        ocs:C28801,
-        ocs:C28999,
-        ocs:C33709,
+    skos:related ocs:C2464,
         ocs:C3679,
-        ocs:C37868,
-        ocs:C37962,
-        ocs:C40404,
-        ocs:C40687,
-        ocs:C40902,
-        ocs:C42399,
         ocs:C4584,
         ocs:C4641,
         ocs:C4918,
         ocs:C6278,
         ocs:C8614,
-        ocs:C9276 .
+        ocs:C9276,
+        ocs:C12477,
+        ocs:C16338,
+        ocs:C17401,
+        ocs:C28801,
+        ocs:C28999,
+        ocs:C33709,
+        ocs:C37868,
+        ocs:C37962,
+        ocs:C40404,
+        ocs:C40687,
+        ocs:C40902,
+        ocs:C42399 .
 

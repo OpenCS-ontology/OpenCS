@@ -3,13 +3,16 @@
 
 ocs:C14631 a skos:Concept ;
     skos:broader ocs:C1034,
-        ocs:C13006,
         ocs:C2298,
         ocs:C7330,
-        ocs:C8564 ;
+        ocs:C8564,
+        ocs:C13006 ;
     skos:closeMatch <http://dbpedia.org/resource/Recursive_transition_network> ;
     skos:prefLabel "Recursive transition network" ;
-    skos:related ocs:C1034,
+    skos:related ocs:C524,
+        ocs:C1034,
+        ocs:C8564,
+        ocs:C9106,
         ocs:C12696,
         ocs:C13903,
         ocs:C16172,
@@ -24,8 +27,5 @@ ocs:C14631 a skos:Concept ;
         ocs:C34937,
         ocs:C35461,
         ocs:C38622,
-        ocs:C41463,
-        ocs:C524,
-        ocs:C8564,
-        ocs:C9106 .
+        ocs:C41463 .
 

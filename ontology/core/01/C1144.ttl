@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1144 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/AUSTPAC> ;
     skos:prefLabel "AUSTPAC" ;
-    skos:related ocs:C10049,
-        ocs:C11655,
+    skos:related ocs:C978,
         ocs:C1204,
-        ocs:C13130,
-        ocs:C13629,
-        ocs:C16953,
         ocs:C2066,
         ocs:C2435,
-        ocs:C26809,
-        ocs:C30303,
-        ocs:C32115,
-        ocs:C36766,
-        ocs:C40505,
         ocs:C6766,
         ocs:C6861,
         ocs:C8614,
         ocs:C9443,
-        ocs:C978 .
+        ocs:C10049,
+        ocs:C11655,
+        ocs:C13130,
+        ocs:C13629,
+        ocs:C16953,
+        ocs:C26809,
+        ocs:C30303,
+        ocs:C32115,
+        ocs:C36766,
+        ocs:C40505 .
 

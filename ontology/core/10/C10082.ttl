@@ -2,15 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10082 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Delegated_administration> ;
     skos:prefLabel "Delegated administration" ;
-    skos:related ocs:C10225,
+    skos:related ocs:C35,
+        ocs:C1634,
+        ocs:C8105,
+        ocs:C8711,
+        ocs:C10225,
         ocs:C11396,
         ocs:C14417,
-        ocs:C1634,
         ocs:C17656,
         ocs:C19557,
         ocs:C21951,
@@ -20,9 +23,6 @@ ocs:C10082 a skos:Concept ;
         ocs:C28881,
         ocs:C31042,
         ocs:C32400,
-        ocs:C35,
         ocs:C37914,
-        ocs:C42428,
-        ocs:C8105,
-        ocs:C8711 .
+        ocs:C42428 .
 

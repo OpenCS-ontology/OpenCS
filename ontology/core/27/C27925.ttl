@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27925 a skos:Concept ;
-    skos:broader ocs:C10616,
-        ocs:C651,
-        ocs:C6749 ;
+    skos:broader ocs:C651,
+        ocs:C6749,
+        ocs:C10616 ;
     skos:prefLabel "Knowledge acquisition method" ;
-    skos:related ocs:C11144,
-        ocs:C1134,
-        ocs:C11724,
-        ocs:C1443,
-        ocs:C21,
-        ocs:C2523,
-        ocs:C2529,
-        ocs:C28503,
+    skos:related ocs:C21,
         ocs:C30,
         ocs:C34,
+        ocs:C1134,
+        ocs:C1443,
+        ocs:C2523,
+        ocs:C2529,
         ocs:C4201,
         ocs:C5064,
         ocs:C5614,
-        ocs:C6749 .
+        ocs:C6749,
+        ocs:C11144,
+        ocs:C11724,
+        ocs:C28503 .
 

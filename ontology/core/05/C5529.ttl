@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5529 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Harbour_(software)> ;
     skos:prefLabel "Harbour" ;
-    skos:related ocs:C10284,
-        ocs:C10720,
-        ocs:C11333,
-        ocs:C11991,
-        ocs:C12338,
-        ocs:C13101,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C20150,
-        ocs:C28944,
         ocs:C3036,
         ocs:C4877,
         ocs:C4918,
         ocs:C5308,
         ocs:C7017,
         ocs:C7797,
-        ocs:C9,
-        ocs:C9277 .
+        ocs:C9277,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11333,
+        ocs:C11991,
+        ocs:C12338,
+        ocs:C13101,
+        ocs:C20150,
+        ocs:C28944 .
 

@@ -5,7 +5,11 @@ ocs:C29061 a skos:Concept ;
     skos:broader ocs:C9601 ;
     skos:closeMatch <http://dbpedia.org/resource/Quantified_Self> ;
     skos:prefLabel "Quantified Self" ;
-    skos:related ocs:C12238,
+    skos:related ocs:C35,
+        ocs:C7106,
+        ocs:C9489,
+        ocs:C9601,
+        ocs:C12238,
         ocs:C12979,
         ocs:C17132,
         ocs:C19161,
@@ -13,9 +17,5 @@ ocs:C29061 a skos:Concept ;
         ocs:C22076,
         ocs:C24448,
         ocs:C29046,
-        ocs:C31110,
-        ocs:C35,
-        ocs:C7106,
-        ocs:C9489,
-        ocs:C9601 .
+        ocs:C31110 .
 

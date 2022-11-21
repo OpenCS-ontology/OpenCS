@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15223 a skos:Concept ;
-    skos:broader ocs:C11682,
-        ocs:C672,
+    skos:broader ocs:C672,
         ocs:C8514,
-        ocs:C9459 ;
+        ocs:C9459,
+        ocs:C11682 ;
     skos:prefLabel "Computer supported collaborative design" .
 

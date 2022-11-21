@@ -2,14 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17255 a skos:Concept ;
-    skos:broader ocs:C5702,
-        ocs:C813 ;
+    skos:broader ocs:C813,
+        ocs:C5702 ;
     skos:closeMatch <http://dbpedia.org/resource/Theme_(computing)> ;
     skos:prefLabel "Theme (computing)" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C9,
+        ocs:C813,
+        ocs:C1787,
+        ocs:C3472,
+        ocs:C4584,
+        ocs:C5702,
+        ocs:C6476,
+        ocs:C7293,
+        ocs:C11927,
         ocs:C12477,
         ocs:C13790,
-        ocs:C1787,
         ocs:C24871,
         ocs:C26700,
         ocs:C28503,
@@ -17,12 +24,5 @@ ocs:C17255 a skos:Concept ;
         ocs:C29670,
         ocs:C31489,
         ocs:C32547,
-        ocs:C3472,
-        ocs:C42198,
-        ocs:C4584,
-        ocs:C5702,
-        ocs:C6476,
-        ocs:C7293,
-        ocs:C813,
-        ocs:C9 .
+        ocs:C42198 .
 

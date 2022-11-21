@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15783 a skos:Concept ;
-    skos:broader ocs:C10157,
-        ocs:C1502,
-        ocs:C5252 ;
+    skos:broader ocs:C1502,
+        ocs:C5252,
+        ocs:C10157 ;
     skos:closeMatch <http://dbpedia.org/resource/Tactical_operations_center> ;
     skos:prefLabel "Tactical operations center" ;
-    skos:related ocs:C11998,
-        ocs:C1253,
+    skos:related ocs:C1253,
         ocs:C1502,
-        ocs:C16536,
-        ocs:C16898,
         ocs:C2012,
         ocs:C3232,
         ocs:C4754,
-        ocs:C6665 .
+        ocs:C6665,
+        ocs:C11998,
+        ocs:C16536,
+        ocs:C16898 .
 

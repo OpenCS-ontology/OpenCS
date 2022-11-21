@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4854 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Newsqueak> ;
     skos:prefLabel "Newsqueak" ;
     skos:related ocs:C1142,
         ocs:C1318,
         ocs:C1625,
+        ocs:C2195,
+        ocs:C2804,
+        ocs:C3514,
+        ocs:C5702,
+        ocs:C6188,
+        ocs:C8024,
         ocs:C17626,
         ocs:C17971,
         ocs:C18231,
-        ocs:C2195,
         ocs:C25382,
         ocs:C27954,
-        ocs:C2804,
         ocs:C32014,
         ocs:C34431,
-        ocs:C3514,
         ocs:C35502,
-        ocs:C40231,
-        ocs:C5702,
-        ocs:C6188,
-        ocs:C8024 .
+        ocs:C40231 .
 

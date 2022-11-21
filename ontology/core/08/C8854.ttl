@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8854 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:prefLabel "Temporal entity" ;
-    skos:related ocs:C10,
-        ocs:C13767,
+    skos:related ocs:C6,
+        ocs:C10,
+        ocs:C31,
+        ocs:C32,
+        ocs:C34,
+        ocs:C914,
         ocs:C1443,
+        ocs:C3337,
+        ocs:C4028,
+        ocs:C5283,
+        ocs:C7161,
+        ocs:C13767,
         ocs:C18082,
         ocs:C18258,
         ocs:C27386,
         ocs:C28120,
-        ocs:C30800,
-        ocs:C31,
-        ocs:C32,
-        ocs:C3337,
-        ocs:C34,
-        ocs:C4028,
-        ocs:C5283,
-        ocs:C6,
-        ocs:C7161,
-        ocs:C914 .
+        ocs:C30800 .
 

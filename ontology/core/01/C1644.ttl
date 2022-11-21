@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1644 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Switched_fabric> ;
     skos:prefLabel "Switched fabric" ;
-    skos:related ocs:C11157,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C3233,
+        ocs:C5343,
+        ocs:C7532,
+        ocs:C9426,
+        ocs:C11157,
         ocs:C13786,
         ocs:C14685,
         ocs:C15589,
@@ -15,13 +21,7 @@ ocs:C1644 a skos:Concept ;
         ocs:C17533,
         ocs:C17704,
         ocs:C25293,
-        ocs:C26,
         ocs:C27921,
         ocs:C28850,
-        ocs:C3233,
-        ocs:C36600,
-        ocs:C490,
-        ocs:C5343,
-        ocs:C7532,
-        ocs:C9426 .
+        ocs:C36600 .
 

@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10719 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Logical_shift> ;
     skos:prefLabel "Logical shift" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C19,
+        ocs:C3894,
+        ocs:C4622,
+        ocs:C4811,
+        ocs:C6911,
+        ocs:C12262,
         ocs:C16377,
-        ocs:C19,
         ocs:C19487,
         ocs:C21384,
         ocs:C26024,
@@ -16,11 +20,7 @@ ocs:C10719 a skos:Concept ;
         ocs:C31014,
         ocs:C31235,
         ocs:C37006,
-        ocs:C3894,
         ocs:C40443,
         ocs:C42032,
-        ocs:C42660,
-        ocs:C4622,
-        ocs:C4811,
-        ocs:C6911 .
+        ocs:C42660 .
 

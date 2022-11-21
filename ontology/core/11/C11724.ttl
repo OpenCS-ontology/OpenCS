@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11724 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge-based_systems> ;
     skos:prefLabel "Knowledge-based systems" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
         ocs:C12,
+        ocs:C25,
+        ocs:C651,
+        ocs:C852,
+        ocs:C1722,
+        ocs:C5614,
+        ocs:C6531,
+        ocs:C6749,
+        ocs:C9022,
+        ocs:C10616,
         ocs:C12977,
         ocs:C15444,
-        ocs:C1722,
         ocs:C21269,
         ocs:C23248,
-        ocs:C25,
         ocs:C25681,
         ocs:C27665,
         ocs:C28117,
-        ocs:C28809,
-        ocs:C5614,
-        ocs:C651,
-        ocs:C6531,
-        ocs:C6749,
-        ocs:C8,
-        ocs:C852,
-        ocs:C9022 .
+        ocs:C28809 .
 

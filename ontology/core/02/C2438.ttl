@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2438 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/WXXM_(data_model)> ;
     skos:prefLabel "WXXM" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C633,
+        ocs:C3430,
+        ocs:C4835,
+        ocs:C11927,
         ocs:C14846,
         ocs:C15050,
         ocs:C24477,
         ocs:C29317,
         ocs:C29896,
         ocs:C33190,
-        ocs:C3430,
         ocs:C40725,
-        ocs:C45231,
-        ocs:C4835,
-        ocs:C633 .
+        ocs:C45231 .
 

@@ -5,7 +5,9 @@ ocs:C23682 a skos:Concept ;
     skos:broader ocs:C7858 ;
     skos:closeMatch <http://dbpedia.org/resource/Deaf_culture> ;
     skos:prefLabel "Deaf culture" ;
-    skos:related ocs:C15973,
+    skos:related ocs:C7501,
+        ocs:C7858,
+        ocs:C15973,
         ocs:C16631,
         ocs:C19175,
         ocs:C20933,
@@ -14,7 +16,5 @@ ocs:C23682 a skos:Concept ;
         ocs:C26953,
         ocs:C27530,
         ocs:C30694,
-        ocs:C34292,
-        ocs:C7501,
-        ocs:C7858 .
+        ocs:C34292 .
 

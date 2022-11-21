@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11037 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Organizationally_unique_identifier> ;
     skos:prefLabel "Organizationally unique identifier" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C3863,
+        ocs:C5343,
+        ocs:C6026,
+        ocs:C9426,
+        ocs:C10696,
         ocs:C11960,
         ocs:C12324,
         ocs:C15417,
         ocs:C23613,
         ocs:C25172,
         ocs:C25795,
-        ocs:C26,
         ocs:C26419,
         ocs:C27398,
         ocs:C30122,
         ocs:C30247,
         ocs:C33773,
-        ocs:C3863,
-        ocs:C39009,
-        ocs:C490,
-        ocs:C5343,
-        ocs:C6026,
-        ocs:C9426 .
+        ocs:C39009 .
 

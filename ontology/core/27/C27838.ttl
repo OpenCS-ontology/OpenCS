@@ -6,7 +6,9 @@ ocs:C27838 a skos:Concept ;
         ocs:C9720 ;
     skos:closeMatch <http://dbpedia.org/resource/Uncontrolled_airspace> ;
     skos:prefLabel "Uncontrolled airspace" ;
-    skos:related ocs:C13785,
+    skos:related ocs:C4597,
+        ocs:C9720,
+        ocs:C13785,
         ocs:C14241,
         ocs:C16585,
         ocs:C18229,
@@ -19,7 +21,5 @@ ocs:C27838 a skos:Concept ;
         ocs:C35629,
         ocs:C42092,
         ocs:C45176,
-        ocs:C45558,
-        ocs:C4597,
-        ocs:C9720 .
+        ocs:C45558 .
 

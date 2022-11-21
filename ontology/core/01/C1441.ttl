@@ -3,11 +3,14 @@
 
 ocs:C1441 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Control_register> ;
     skos:prefLabel "Control register" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C856,
+        ocs:C9262,
+        ocs:C10320,
         ocs:C11258,
         ocs:C12323,
         ocs:C12533,
@@ -21,8 +24,5 @@ ocs:C1441 a skos:Concept ;
         ocs:C38819,
         ocs:C39623,
         ocs:C42499,
-        ocs:C45155,
-        ocs:C856,
-        ocs:C9,
-        ocs:C9262 .
+        ocs:C45155 .
 

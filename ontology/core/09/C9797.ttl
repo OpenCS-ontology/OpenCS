@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9797 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Remote_Desktop_Protocol> ;
     skos:prefLabel "Remote Desktop Protocol" ;
-    skos:related ocs:C1670,
+    skos:related ocs:C9,
+        ocs:C1670,
+        ocs:C4223,
+        ocs:C5514,
+        ocs:C5702,
+        ocs:C9115,
         ocs:C17530,
         ocs:C22144,
         ocs:C24131,
@@ -21,10 +26,5 @@ ocs:C9797 a skos:Concept ;
         ocs:C36631,
         ocs:C38032,
         ocs:C38488,
-        ocs:C4223,
-        ocs:C44693,
-        ocs:C5514,
-        ocs:C5702,
-        ocs:C9,
-        ocs:C9115 .
+        ocs:C44693 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9542 a skos:Concept ;
-    skos:broader ocs:C20,
-        ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C20,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Xeon> ;
     skos:prefLabel "Xeon" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C1904,
+        ocs:C2939,
+        ocs:C7735,
+        ocs:C10320,
         ocs:C10824,
         ocs:C11261,
         ocs:C12690,
-        ocs:C1904,
         ocs:C19487,
         ocs:C25171,
         ocs:C27610,
         ocs:C28515,
-        ocs:C2939,
         ocs:C38463,
-        ocs:C39896,
-        ocs:C7735 .
+        ocs:C39896 .
 

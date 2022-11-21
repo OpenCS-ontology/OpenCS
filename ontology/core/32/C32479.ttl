@@ -5,10 +5,12 @@ ocs:C32479 a skos:Concept ;
     skos:broader ocs:C14863 ;
     skos:closeMatch <http://dbpedia.org/resource/Ridge_detection> ;
     skos:prefLabel "Ridge detection" ;
-    skos:related ocs:C13142,
+    skos:related ocs:C7,
+        ocs:C1501,
+        ocs:C5462,
+        ocs:C13142,
         ocs:C13684,
         ocs:C14863,
-        ocs:C1501,
         ocs:C24607,
         ocs:C26688,
         ocs:C29175,
@@ -17,7 +19,5 @@ ocs:C32479 a skos:Concept ;
         ocs:C34290,
         ocs:C34906,
         ocs:C35330,
-        ocs:C38864,
-        ocs:C5462,
-        ocs:C7 .
+        ocs:C38864 .
 

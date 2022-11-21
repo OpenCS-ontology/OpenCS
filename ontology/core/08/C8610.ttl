@@ -5,7 +5,9 @@ ocs:C8610 a skos:Concept ;
     skos:broader ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Pagoda_(data_structure)> ;
     skos:prefLabel "Pagoda" ;
-    skos:related ocs:C1082,
+    skos:related ocs:C938,
+        ocs:C1082,
+        ocs:C8565,
         ocs:C26753,
         ocs:C28232,
         ocs:C31203,
@@ -21,7 +23,5 @@ ocs:C8610 a skos:Concept ;
         ocs:C43640,
         ocs:C43779,
         ocs:C45211,
-        ocs:C45338,
-        ocs:C8565,
-        ocs:C938 .
+        ocs:C45338 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5115 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Electronic_document> ;
     skos:prefLabel "Digital document" ;
-    skos:related ocs:C10052,
-        ocs:C13024,
-        ocs:C159,
+    skos:related ocs:C2,
         ocs:C16,
-        ocs:C16125,
         ocs:C17,
-        ocs:C2,
         ocs:C22,
+        ocs:C159,
         ocs:C3077,
         ocs:C4475,
         ocs:C4561,
         ocs:C5160,
         ocs:C7006,
         ocs:C8021,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10052,
+        ocs:C13024,
+        ocs:C16125 .
 

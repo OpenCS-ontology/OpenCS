@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25250 a skos:Concept ;
-    skos:broader ocs:C13305,
-        ocs:C7340 ;
+    skos:broader ocs:C7340,
+        ocs:C13305 ;
     skos:closeMatch <http://dbpedia.org/resource/E-carrier> ;
     skos:prefLabel "E-carrier" ;
-    skos:related ocs:C10778,
+    skos:related ocs:C3,
+        ocs:C490,
+        ocs:C2917,
+        ocs:C8567,
+        ocs:C9327,
+        ocs:C10778,
         ocs:C12942,
         ocs:C14615,
         ocs:C15589,
         ocs:C24781,
         ocs:C25293,
         ocs:C28758,
-        ocs:C2917,
         ocs:C29217,
-        ocs:C3,
         ocs:C30568,
         ocs:C31109,
         ocs:C35928,
-        ocs:C40954,
-        ocs:C490,
-        ocs:C8567,
-        ocs:C9327 .
+        ocs:C40954 .
 

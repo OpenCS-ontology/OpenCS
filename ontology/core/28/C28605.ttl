@@ -2,11 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28605 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C9113 ;
+    skos:broader ocs:C9113,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_phone_operator> ;
     skos:prefLabel "Mobile phone operator" ;
-    skos:related ocs:C12767,
+    skos:related ocs:C3,
+        ocs:C634,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C6821,
+        ocs:C6987,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12767,
         ocs:C12853,
         ocs:C17999,
         ocs:C19350,
@@ -14,14 +23,5 @@ ocs:C28605 a skos:Concept ;
         ocs:C24480,
         ocs:C27704,
         ocs:C28758,
-        ocs:C3,
-        ocs:C31755,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C634,
-        ocs:C6821,
-        ocs:C6987,
-        ocs:C8614,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C31755 .
 

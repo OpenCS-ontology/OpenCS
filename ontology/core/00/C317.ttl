@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C317 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Space_Network> ;
     skos:prefLabel "Space Network" ;
-    skos:related ocs:C15835,
+    skos:related ocs:C863,
         ocs:C1628,
-        ocs:C17174,
         ocs:C2252,
-        ocs:C28445,
         ocs:C3952,
         ocs:C7201,
-        ocs:C863,
-        ocs:C9385 .
+        ocs:C9385,
+        ocs:C15835,
+        ocs:C17174,
+        ocs:C28445 .
 

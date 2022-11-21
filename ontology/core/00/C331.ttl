@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C331 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Normal_mapping> ;
     skos:prefLabel "Normal mapping" ;
-    skos:related ocs:C10426,
+    skos:related ocs:C22,
+        ocs:C1904,
+        ocs:C2927,
+        ocs:C5514,
+        ocs:C8399,
+        ocs:C10426,
         ocs:C17710,
         ocs:C18519,
-        ocs:C1904,
         ocs:C19229,
         ocs:C21609,
-        ocs:C22,
         ocs:C23667,
         ocs:C24235,
         ocs:C28061,
         ocs:C28881,
-        ocs:C2927,
         ocs:C33277,
         ocs:C39285,
-        ocs:C42817,
-        ocs:C5514,
-        ocs:C8399 .
+        ocs:C42817 .
 

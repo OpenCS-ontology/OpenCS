@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1318 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/KVM_switch> ;
     skos:prefLabel "KVM switch" ;
-    skos:related ocs:C10271,
+    skos:related ocs:C653,
+        ocs:C3525,
+        ocs:C8024,
+        ocs:C8345,
+        ocs:C9217,
+        ocs:C9540,
+        ocs:C10271,
         ocs:C12640,
         ocs:C23507,
         ocs:C29012,
         ocs:C31489,
         ocs:C32920,
-        ocs:C34195,
-        ocs:C3525,
-        ocs:C653,
-        ocs:C8024,
-        ocs:C8345,
-        ocs:C9217,
-        ocs:C9540 .
+        ocs:C34195 .
 

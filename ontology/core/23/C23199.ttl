@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23199 a skos:Concept ;
-    skos:broader ocs:C1399,
-        ocs:C8614,
-        ocs:C991 ;
+    skos:broader ocs:C991,
+        ocs:C1399,
+        ocs:C8614 ;
     skos:closeMatch <http://dbpedia.org/resource/CERT_Coordination_Center> ;
     skos:prefLabel "CERT Coordination Center" ;
-    skos:related ocs:C13307,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C35,
         ocs:C1399,
+        ocs:C2941,
+        ocs:C4513,
+        ocs:C8614,
+        ocs:C13307,
         ocs:C14271,
         ocs:C18986,
         ocs:C20618,
         ocs:C20937,
         ocs:C25619,
-        ocs:C26,
         ocs:C27557,
-        ocs:C2941,
-        ocs:C35,
         ocs:C37880,
         ocs:C41901,
-        ocs:C4513,
-        ocs:C45654,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C45654 .
 

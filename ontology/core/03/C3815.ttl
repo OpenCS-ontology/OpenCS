@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3815 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Cyber_spying> ;
     skos:prefLabel "Cyber spying" ;
-    skos:related ocs:C11146,
+    skos:related ocs:C35,
+        ocs:C2941,
+        ocs:C4984,
+        ocs:C4994,
+        ocs:C7113,
+        ocs:C8025,
+        ocs:C8458,
+        ocs:C8614,
+        ocs:C11146,
         ocs:C13518,
         ocs:C14811,
         ocs:C16481,
@@ -15,14 +23,6 @@ ocs:C3815 a skos:Concept ;
         ocs:C20295,
         ocs:C20937,
         ocs:C27557,
-        ocs:C2941,
         ocs:C29663,
-        ocs:C30412,
-        ocs:C35,
-        ocs:C4984,
-        ocs:C4994,
-        ocs:C7113,
-        ocs:C8025,
-        ocs:C8458,
-        ocs:C8614 .
+        ocs:C30412 .
 

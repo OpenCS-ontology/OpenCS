@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3077 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Optical_character_recognition> ;
     skos:prefLabel "Optical character recognition" ;
-    skos:related ocs:C10,
-        ocs:C12755,
+    skos:related ocs:C7,
+        ocs:C8,
+        ocs:C10,
         ocs:C16,
         ocs:C21,
         ocs:C25,
+        ocs:C4397,
+        ocs:C9022,
+        ocs:C12755,
         ocs:C26343,
         ocs:C27653,
         ocs:C28881,
-        ocs:C31489,
-        ocs:C4397,
-        ocs:C7,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C31489 .
 

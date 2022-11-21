@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11121 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C24,
-        ocs:C7 ;
-    skos:prefLabel "Three dimensional vision" ;
-    skos:related ocs:C10105,
-        ocs:C21,
+    skos:broader ocs:C7,
         ocs:C22,
-        ocs:C22524,
-        ocs:C28240,
+        ocs:C24 ;
+    skos:prefLabel "Three dimensional vision" ;
+    skos:related ocs:C21,
+        ocs:C22,
         ocs:C4099,
         ocs:C4435,
         ocs:C8021,
         ocs:C8499,
         ocs:C9664,
-        ocs:C9744 .
+        ocs:C9744,
+        ocs:C10105,
+        ocs:C22524,
+        ocs:C28240 .
 

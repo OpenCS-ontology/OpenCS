@@ -5,13 +5,15 @@ ocs:C33137 a skos:Concept ;
     skos:broader ocs:C15589 ;
     skos:closeMatch <http://dbpedia.org/resource/ATM_adaptation_layer> ;
     skos:prefLabel "ATM adaptation layer" ;
-    skos:related ocs:C15589,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C6861,
+        ocs:C8567,
+        ocs:C15589,
         ocs:C20540,
         ocs:C23155,
         ocs:C24563,
-        ocs:C26,
         ocs:C26809,
-        ocs:C3,
         ocs:C30342,
         ocs:C31109,
         ocs:C32718,
@@ -21,7 +23,5 @@ ocs:C33137 a skos:Concept ;
         ocs:C40459,
         ocs:C42169,
         ocs:C43127,
-        ocs:C44104,
-        ocs:C6861,
-        ocs:C8567 .
+        ocs:C44104 .
 

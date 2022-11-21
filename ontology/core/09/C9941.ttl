@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9941 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Object_REXX> ;
     skos:prefLabel "Object REXX" ;
-    skos:related ocs:C10284,
-        ocs:C10496,
-        ocs:C10720,
+    skos:related ocs:C19,
+        ocs:C944,
         ocs:C1142,
-        ocs:C13101,
         ocs:C1386,
-        ocs:C19,
-        ocs:C24909,
-        ocs:C27131,
-        ocs:C28881,
-        ocs:C33249,
-        ocs:C34227,
         ocs:C4877,
         ocs:C5308,
         ocs:C7114,
         ocs:C9235,
         ocs:C9433,
-        ocs:C944 .
+        ocs:C10284,
+        ocs:C10496,
+        ocs:C10720,
+        ocs:C13101,
+        ocs:C24909,
+        ocs:C27131,
+        ocs:C28881,
+        ocs:C33249,
+        ocs:C34227 .
 

@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9743 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Loss_of_significance> ;
     skos:prefLabel "Loss of significance" ;
     skos:related ocs:C10,
+        ocs:C4816,
+        ocs:C5566,
+        ocs:C9051,
         ocs:C12262,
         ocs:C12315,
         ocs:C13541,
@@ -14,8 +17,5 @@ ocs:C9743 a skos:Concept ;
         ocs:C21384,
         ocs:C23841,
         ocs:C29107,
-        ocs:C34400,
-        ocs:C4816,
-        ocs:C5566,
-        ocs:C9051 .
+        ocs:C34400 .
 

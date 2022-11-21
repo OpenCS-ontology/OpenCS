@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19518 a skos:Concept ;
-    skos:broader ocs:C11927,
-        ocs:C949 ;
+    skos:broader ocs:C949,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/XAdES> ;
     skos:prefLabel "XAdES" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C949,
+        ocs:C11927,
         ocs:C13252,
         ocs:C16125,
         ocs:C21324,
@@ -24,6 +25,5 @@ ocs:C19518 a skos:Concept ;
         ocs:C41053,
         ocs:C41443,
         ocs:C41803,
-        ocs:C44536,
-        ocs:C949 .
+        ocs:C44536 .
 

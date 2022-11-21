@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21013 a skos:Concept ;
-    skos:broader ocs:C11026,
-        ocs:C8614 ;
+    skos:broader ocs:C8614,
+        ocs:C11026 ;
     skos:closeMatch <http://dbpedia.org/resource/Smart_mob> ;
     skos:prefLabel "Smart mob" ;
-    skos:related ocs:C12787,
+    skos:related ocs:C3236,
+        ocs:C5140,
+        ocs:C5917,
+        ocs:C6145,
+        ocs:C6757,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C12787,
         ocs:C15834,
         ocs:C17658,
         ocs:C17794,
         ocs:C18683,
         ocs:C22668,
         ocs:C22701,
-        ocs:C27771,
-        ocs:C3236,
-        ocs:C5140,
-        ocs:C5917,
-        ocs:C6145,
-        ocs:C6757,
-        ocs:C8614,
-        ocs:C9113 .
+        ocs:C27771 .
 

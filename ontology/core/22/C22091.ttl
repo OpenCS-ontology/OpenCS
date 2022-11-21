@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22091 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C12373,
-        ocs:C390,
+    skos:broader ocs:C390,
         ocs:C5745,
-        ocs:C6390 ;
+        ocs:C6390,
+        ocs:C12111,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Head-of-line_blocking> ;
     skos:prefLabel "Head-of-line blocking" ;
-    skos:related ocs:C11455,
+    skos:related ocs:C26,
+        ocs:C390,
+        ocs:C686,
+        ocs:C11455,
         ocs:C11550,
         ocs:C12942,
         ocs:C13786,
@@ -19,12 +22,9 @@ ocs:C22091 a skos:Concept ;
         ocs:C20691,
         ocs:C23155,
         ocs:C24323,
-        ocs:C26,
         ocs:C36896,
         ocs:C37011,
-        ocs:C390,
         ocs:C39948,
         ocs:C42093,
-        ocs:C44036,
-        ocs:C686 .
+        ocs:C44036 .
 

@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11774 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Stereo_camera> ;
     skos:prefLabel "Stereo camera" ;
-    skos:related ocs:C13065,
+    skos:related ocs:C7,
+        ocs:C244,
+        ocs:C2883,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C13065,
         ocs:C13549,
         ocs:C14023,
         ocs:C14925,
         ocs:C15842,
         ocs:C20207,
         ocs:C23153,
-        ocs:C244,
-        ocs:C2883,
-        ocs:C36940,
-        ocs:C7,
-        ocs:C7789,
-        ocs:C8021 .
+        ocs:C36940 .
 

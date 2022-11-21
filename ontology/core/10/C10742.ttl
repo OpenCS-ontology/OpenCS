@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10742 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/ISBL> ;
     skos:prefLabel "ISBL" ;
-    skos:related ocs:C10392,
+    skos:related ocs:C6,
+        ocs:C264,
+        ocs:C10392,
         ocs:C10444,
         ocs:C12185,
         ocs:C16334,
@@ -14,7 +16,6 @@ ocs:C10742 a skos:Concept ;
         ocs:C17593,
         ocs:C17701,
         ocs:C18405,
-        ocs:C264,
         ocs:C35394,
         ocs:C41073,
         ocs:C42248,
@@ -23,6 +24,5 @@ ocs:C10742 a skos:Concept ;
         ocs:C42859,
         ocs:C43655,
         ocs:C44420,
-        ocs:C45138,
-        ocs:C6 .
+        ocs:C45138 .
 

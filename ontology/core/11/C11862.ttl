@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11862 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Geocoding> ;
     skos:prefLabel "Geocoding" ;
-    skos:related ocs:C10217,
+    skos:related ocs:C3446,
+        ocs:C3896,
+        ocs:C5088,
+        ocs:C8708,
+        ocs:C10217,
         ocs:C10393,
         ocs:C12641,
         ocs:C13972,
         ocs:C14703,
         ocs:C20731,
-        ocs:C3446,
         ocs:C37913,
-        ocs:C3896,
-        ocs:C43529,
-        ocs:C5088,
-        ocs:C8708 .
+        ocs:C43529 .
 

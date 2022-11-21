@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14907 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C3740 ;
+    skos:broader ocs:C3740,
+        ocs:C12582 ;
     skos:prefLabel "Helical Cone-Beam CT" ;
     skos:related ocs:C1,
-        ocs:C10321,
         ocs:C257,
+        ocs:C695,
         ocs:C4861,
         ocs:C6584,
-        ocs:C695,
         ocs:C8499,
-        ocs:C9664 .
+        ocs:C9664,
+        ocs:C10321 .
 

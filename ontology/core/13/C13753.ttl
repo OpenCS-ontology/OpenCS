@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13753 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Real_image> ;
     skos:prefLabel "Real image" ;
-    skos:related ocs:C23498,
+    skos:related ocs:C848,
         ocs:C7160,
-        ocs:C848 .
+        ocs:C23498 .
 

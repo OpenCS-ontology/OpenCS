@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20208 a skos:Concept ;
-    skos:broader ocs:C12974,
-        ocs:C13366,
-        ocs:C8441 ;
+    skos:broader ocs:C8441,
+        ocs:C12974,
+        ocs:C13366 ;
     skos:closeMatch <http://dbpedia.org/resource/Scheme_(programming_language)> ;
     skos:prefLabel "Scheme (programming language)" ;
-    skos:related ocs:C10219,
+    skos:related ocs:C19,
+        ocs:C1142,
+        ocs:C3639,
+        ocs:C4321,
+        ocs:C4918,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C10219,
         ocs:C10284,
         ocs:C11128,
-        ocs:C1142,
         ocs:C12108,
-        ocs:C19,
         ocs:C20907,
         ocs:C24148,
         ocs:C24909,
         ocs:C28783,
         ocs:C28944,
         ocs:C29907,
-        ocs:C35502,
-        ocs:C3639,
-        ocs:C4321,
-        ocs:C4918,
-        ocs:C6531,
-        ocs:C6941,
-        ocs:C8441 .
+        ocs:C35502 .
 

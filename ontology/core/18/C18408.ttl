@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18408 a skos:Concept ;
-    skos:broader ocs:C10917,
-        ocs:C6692 ;
+    skos:broader ocs:C6692,
+        ocs:C10917 ;
     skos:closeMatch <http://dbpedia.org/resource/Recursive_Bayesian_estimation> ;
     skos:prefLabel "Recursive Bayesian estimation" ;
-    skos:related ocs:C14030,
+    skos:related ocs:C1844,
+        ocs:C3987,
+        ocs:C5856,
+        ocs:C6291,
+        ocs:C8516,
+        ocs:C9326,
+        ocs:C14030,
         ocs:C14620,
-        ocs:C1844,
         ocs:C20327,
         ocs:C21710,
         ocs:C22075,
@@ -16,10 +21,5 @@ ocs:C18408 a skos:Concept ;
         ocs:C35042,
         ocs:C36314,
         ocs:C38829,
-        ocs:C3987,
-        ocs:C45643,
-        ocs:C5856,
-        ocs:C6291,
-        ocs:C8516,
-        ocs:C9326 .
+        ocs:C45643 .
 

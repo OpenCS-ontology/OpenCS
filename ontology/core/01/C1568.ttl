@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1568 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Variable_bitrate> ;
     skos:prefLabel "Variable bitrate" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C2937,
+        ocs:C6081,
+        ocs:C11323,
         ocs:C11933,
         ocs:C12152,
         ocs:C12439,
@@ -16,11 +18,9 @@ ocs:C1568 a skos:Concept ;
         ocs:C26268,
         ocs:C28578,
         ocs:C29048,
-        ocs:C2937,
         ocs:C31114,
         ocs:C33614,
         ocs:C34697,
         ocs:C36139,
-        ocs:C40311,
-        ocs:C6081 .
+        ocs:C40311 .
 

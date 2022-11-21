@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16927 a skos:Concept ;
-    skos:broader ocs:C12942,
-        ocs:C4099,
-        ocs:C8475 ;
+    skos:broader ocs:C4099,
+        ocs:C8475,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/Inverse_multiplexer> ;
     skos:prefLabel "Inverse multiplexer" ;
-    skos:related ocs:C12942,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C2917,
+        ocs:C6117,
+        ocs:C8475,
+        ocs:C8567,
+        ocs:C9327,
+        ocs:C12942,
         ocs:C17187,
         ocs:C17505,
         ocs:C18797,
         ocs:C19350,
         ocs:C19721,
         ocs:C24781,
-        ocs:C26,
         ocs:C26208,
         ocs:C27568,
-        ocs:C2917,
         ocs:C35301,
-        ocs:C35347,
-        ocs:C490,
-        ocs:C6117,
-        ocs:C8475,
-        ocs:C8567,
-        ocs:C9327 .
+        ocs:C35347 .
 

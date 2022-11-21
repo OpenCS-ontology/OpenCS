@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28213 a skos:Concept ;
-    skos:broader ocs:C13046,
-        ocs:C1727 ;
+    skos:broader ocs:C1727,
+        ocs:C13046 ;
     skos:closeMatch <http://dbpedia.org/resource/Spectral_edge_frequency> ;
     skos:prefLabel "Spectral edge frequency" ;
-    skos:related ocs:C10509,
+    skos:related ocs:C123,
+        ocs:C260,
+        ocs:C836,
+        ocs:C5505,
+        ocs:C9427,
+        ocs:C9428,
+        ocs:C9871,
+        ocs:C10509,
         ocs:C10554,
-        ocs:C123,
         ocs:C13046,
         ocs:C14053,
         ocs:C19681,
-        ocs:C260,
-        ocs:C26657,
-        ocs:C5505,
-        ocs:C836,
-        ocs:C9427,
-        ocs:C9428,
-        ocs:C9871 .
+        ocs:C26657 .
 

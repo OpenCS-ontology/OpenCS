@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29314 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C4321,
-        ocs:C794 ;
+    skos:broader ocs:C794,
+        ocs:C1253,
+        ocs:C4321 ;
     skos:closeMatch <http://dbpedia.org/resource/Memory_safety> ;
     skos:prefLabel "Memory safety" ;
-    skos:related ocs:C10214,
-        ocs:C10720,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C23580,
-        ocs:C25960,
+        ocs:C794,
         ocs:C2766,
         ocs:C2767,
+        ocs:C10214,
+        ocs:C10720,
+        ocs:C23580,
+        ocs:C25960,
         ocs:C31068,
         ocs:C33702,
         ocs:C42432,
         ocs:C43003,
-        ocs:C45212,
-        ocs:C794,
-        ocs:C9 .
+        ocs:C45212 .
 

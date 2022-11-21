@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7982 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/One-to-many_(data_model)> ;
     skos:prefLabel "One-to-many" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C609,
+        ocs:C3142,
+        ocs:C3899,
+        ocs:C3934,
+        ocs:C7426,
+        ocs:C7802,
+        ocs:C9029,
+        ocs:C10444,
         ocs:C12750,
         ocs:C13744,
         ocs:C20517,
         ocs:C26088,
         ocs:C27386,
         ocs:C28352,
-        ocs:C3142,
         ocs:C37009,
         ocs:C37308,
-        ocs:C3899,
-        ocs:C3934,
-        ocs:C42859,
-        ocs:C609,
-        ocs:C7426,
-        ocs:C7802,
-        ocs:C9029 .
+        ocs:C42859 .
 

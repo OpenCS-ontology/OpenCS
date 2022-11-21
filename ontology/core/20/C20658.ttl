@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20658 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Staring_array> ;
     skos:prefLabel "Staring array" ;
-    skos:related ocs:C12580,
+    skos:related ocs:C5336,
+        ocs:C7789,
+        ocs:C12580,
         ocs:C12636,
         ocs:C21767,
         ocs:C22021,
         ocs:C22118,
         ocs:C22283,
         ocs:C29365,
-        ocs:C29698,
-        ocs:C5336,
-        ocs:C7789 .
+        ocs:C29698 .
 

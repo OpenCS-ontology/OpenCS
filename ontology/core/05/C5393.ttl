@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5393 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_security> ;
     skos:prefLabel "Digital security" ;
-    skos:related ocs:C1061,
-        ocs:C10797,
+    skos:related ocs:C31,
+        ocs:C1061,
         ocs:C1338,
         ocs:C1399,
         ocs:C2941,
+        ocs:C4917,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C8711,
+        ocs:C10797,
         ocs:C29611,
-        ocs:C31,
         ocs:C32504,
         ocs:C33193,
         ocs:C35370,
         ocs:C41033,
-        ocs:C41228,
-        ocs:C4917,
-        ocs:C8437,
-        ocs:C8614,
-        ocs:C8711 .
+        ocs:C41228 .
 

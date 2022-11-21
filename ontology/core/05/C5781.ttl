@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5781 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Media_space> ;
     skos:prefLabel "Media space" ;
-    skos:related ocs:C1110,
+    skos:related ocs:C420,
+        ocs:C1110,
+        ocs:C4710,
+        ocs:C8614,
+        ocs:C9603,
+        ocs:C9605,
         ocs:C11559,
         ocs:C19406,
         ocs:C24909,
         ocs:C26615,
         ocs:C29603,
         ocs:C36944,
-        ocs:C40504,
-        ocs:C420,
-        ocs:C4710,
-        ocs:C8614,
-        ocs:C9603,
-        ocs:C9605 .
+        ocs:C40504 .
 

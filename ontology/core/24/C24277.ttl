@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24277 a skos:Concept ;
-    skos:broader ocs:C11542,
-        ocs:C3401,
-        ocs:C8660 ;
+    skos:broader ocs:C3401,
+        ocs:C8660,
+        ocs:C11542 ;
     skos:prefLabel "Submodular function minimization" .
 

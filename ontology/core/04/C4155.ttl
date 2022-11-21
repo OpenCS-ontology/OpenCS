@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4155 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Speedup> ;
     skos:prefLabel "Speedup" ;
-    skos:related ocs:C10320,
-        ocs:C12690,
-        ocs:C12780,
-        ocs:C15,
-        ocs:C18983,
-        ocs:C20685,
-        ocs:C21933,
+    skos:related ocs:C15,
         ocs:C27,
-        ocs:C27610,
         ocs:C30,
         ocs:C3482,
         ocs:C3569,
-        ocs:C36763,
-        ocs:C37849,
         ocs:C3981,
         ocs:C4804,
         ocs:C6312,
         ocs:C7735,
-        ocs:C9872 .
+        ocs:C9872,
+        ocs:C10320,
+        ocs:C12690,
+        ocs:C12780,
+        ocs:C18983,
+        ocs:C20685,
+        ocs:C21933,
+        ocs:C27610,
+        ocs:C36763,
+        ocs:C37849 .
 

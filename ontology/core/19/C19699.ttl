@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19699 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C856,
+    skos:broader ocs:C856,
+        ocs:C1253,
         ocs:C9379 ;
     skos:closeMatch <http://dbpedia.org/resource/Instruction_set_simulator> ;
     skos:prefLabel "Instruction set simulator" ;
-    skos:related ocs:C17204,
-        ocs:C19487,
-        ocs:C21718,
-        ocs:C24349,
-        ocs:C31771,
-        ocs:C37538,
+    skos:related ocs:C9,
+        ocs:C856,
         ocs:C4321,
         ocs:C5041,
         ocs:C6072,
         ocs:C7431,
         ocs:C7529,
-        ocs:C856,
         ocs:C8783,
-        ocs:C9,
-        ocs:C9379 .
+        ocs:C9379,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C24349,
+        ocs:C31771,
+        ocs:C37538 .
 

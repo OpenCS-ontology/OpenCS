@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5333 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6,
-        ocs:C7 ;
+    skos:broader ocs:C6,
+        ocs:C7,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Object_model> ;
     skos:prefLabel "Object model" ;
-    skos:related ocs:C10720,
-        ocs:C11927,
-        ocs:C12257,
-        ocs:C1253,
-        ocs:C13744,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C24871,
-        ocs:C2674,
-        ocs:C27386,
         ocs:C28,
-        ocs:C28801,
-        ocs:C28881,
-        ocs:C31894,
-        ocs:C34078,
+        ocs:C1253,
+        ocs:C2674,
         ocs:C3896,
         ocs:C4918,
         ocs:C5702,
         ocs:C7736,
-        ocs:C9,
-        ocs:C9033 .
+        ocs:C9033,
+        ocs:C10720,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C13744,
+        ocs:C24871,
+        ocs:C27386,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31894,
+        ocs:C34078 .
 

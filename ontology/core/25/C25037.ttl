@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25037 a skos:Concept ;
-    skos:broader ocs:C11765,
-        ocs:C3444 ;
+    skos:broader ocs:C3444,
+        ocs:C11765 ;
     skos:closeMatch <http://dbpedia.org/resource/Social_learning_tools> ;
     skos:prefLabel "Social learning tools" ;
-    skos:related ocs:C10057,
+    skos:related ocs:C3343,
+        ocs:C3444,
+        ocs:C10057,
         ocs:C10669,
         ocs:C10783,
         ocs:C11765,
@@ -14,7 +16,5 @@ ocs:C25037 a skos:Concept ;
         ocs:C13566,
         ocs:C15347,
         ocs:C26639,
-        ocs:C3343,
-        ocs:C3444,
         ocs:C40112 .
 

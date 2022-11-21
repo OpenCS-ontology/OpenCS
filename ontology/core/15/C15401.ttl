@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15401 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C5620 ;
+    skos:broader ocs:C5620,
+        ocs:C10382 ;
     skos:closeMatch <http://dbpedia.org/resource/Spike_sorting> ;
     skos:prefLabel "Spike sorting" ;
     skos:related ocs:C6912,

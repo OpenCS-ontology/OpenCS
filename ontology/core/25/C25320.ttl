@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25320 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C4752 ;
+    skos:broader ocs:C4752,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Winsorized_mean> ;
     skos:prefLabel "Winsorized mean" ;
-    skos:related ocs:C13685,
+    skos:related ocs:C662,
+        ocs:C4752,
+        ocs:C13685,
         ocs:C22455,
         ocs:C24728,
         ocs:C25294,
@@ -16,7 +18,5 @@ ocs:C25320 a skos:Concept ;
         ocs:C39575,
         ocs:C42729,
         ocs:C43372,
-        ocs:C43726,
-        ocs:C4752,
-        ocs:C662 .
+        ocs:C43726 .
 

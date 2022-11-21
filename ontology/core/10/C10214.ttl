@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10214 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Buffer_overflow> ;
     skos:prefLabel "Buffer overflow" ;
-    skos:related ocs:C10320,
-        ocs:C1083,
-        ocs:C12257,
+    skos:related ocs:C9,
         ocs:C19,
+        ocs:C35,
+        ocs:C794,
+        ocs:C1083,
+        ocs:C2009,
+        ocs:C2767,
+        ocs:C2941,
+        ocs:C5470,
+        ocs:C10320,
+        ocs:C12257,
         ocs:C19173,
         ocs:C19349,
         ocs:C19487,
-        ocs:C2009,
         ocs:C23580,
-        ocs:C2767,
-        ocs:C2941,
         ocs:C31489,
-        ocs:C35,
         ocs:C35465,
-        ocs:C40322,
-        ocs:C5470,
-        ocs:C794,
-        ocs:C9 .
+        ocs:C40322 .
 

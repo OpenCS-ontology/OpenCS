@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1967 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:prefLabel "Data Standard" ;
-    skos:related ocs:C10211,
+    skos:related ocs:C2,
+        ocs:C33,
+        ocs:C35,
+        ocs:C2414,
+        ocs:C5722,
+        ocs:C8614,
+        ocs:C10211,
         ocs:C12317,
         ocs:C12694,
         ocs:C13744,
-        ocs:C2,
         ocs:C23932,
-        ocs:C2414,
         ocs:C24688,
-        ocs:C25464,
-        ocs:C33,
-        ocs:C35,
-        ocs:C5722,
-        ocs:C8614 .
+        ocs:C25464 .
 

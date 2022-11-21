@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24005 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C260 ;
+    skos:broader ocs:C260,
+        ocs:C13685 ;
     skos:prefLabel "Heteroscedastic model" .
 

@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5597 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:prefLabel "True projection" ;
     skos:related ocs:C1,
-        ocs:C10,
-        ocs:C12582,
-        ocs:C21,
         ocs:C7,
+        ocs:C8,
+        ocs:C10,
+        ocs:C21,
         ocs:C751,
-        ocs:C8 .
+        ocs:C12582 .
 

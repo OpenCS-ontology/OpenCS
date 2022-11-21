@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10869 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Cloud_Infrastructure_Management_Interface> ;
     skos:prefLabel "Cloud Infrastructure Management Interface" ;
-    skos:related ocs:C10632,
+    skos:related ocs:C450,
+        ocs:C2109,
+        ocs:C2674,
+        ocs:C4181,
+        ocs:C7106,
+        ocs:C8665,
+        ocs:C10632,
         ocs:C11927,
         ocs:C13068,
         ocs:C13144,
         ocs:C19460,
-        ocs:C2109,
         ocs:C22246,
-        ocs:C2674,
         ocs:C28941,
         ocs:C34261,
         ocs:C34267,
         ocs:C38554,
         ocs:C39341,
-        ocs:C4181,
         ocs:C43753,
-        ocs:C43890,
-        ocs:C450,
-        ocs:C7106,
-        ocs:C8665 .
+        ocs:C43890 .
 

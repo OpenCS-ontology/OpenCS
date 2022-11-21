@@ -6,7 +6,9 @@ ocs:C18626 a skos:Concept ;
         ocs:C5196 ;
     skos:closeMatch <http://dbpedia.org/resource/Block_code> ;
     skos:prefLabel "Block code" ;
-    skos:related ocs:C10750,
+    skos:related ocs:C5196,
+        ocs:C6402,
+        ocs:C10750,
         ocs:C15232,
         ocs:C16978,
         ocs:C19877,
@@ -23,7 +25,5 @@ ocs:C18626 a skos:Concept ;
         ocs:C42003,
         ocs:C44130,
         ocs:C44265,
-        ocs:C44441,
-        ocs:C5196,
-        ocs:C6402 .
+        ocs:C44441 .
 

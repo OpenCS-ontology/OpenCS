@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4445 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_hub> ;
     skos:prefLabel "Data hub" ;
-    skos:related ocs:C10211,
+    skos:related ocs:C3034,
+        ocs:C3896,
+        ocs:C4857,
+        ocs:C7218,
+        ocs:C10211,
         ocs:C10979,
         ocs:C11537,
         ocs:C12238,
@@ -18,11 +22,7 @@ ocs:C4445 a skos:Concept ;
         ocs:C18405,
         ocs:C18567,
         ocs:C25430,
-        ocs:C3034,
         ocs:C33457,
         ocs:C33744,
-        ocs:C37135,
-        ocs:C3896,
-        ocs:C4857,
-        ocs:C7218 .
+        ocs:C37135 .
 

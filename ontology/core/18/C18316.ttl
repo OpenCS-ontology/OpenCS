@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18316 a skos:Concept ;
-    skos:broader ocs:C11529,
-        ocs:C669,
-        ocs:C8130 ;
+    skos:broader ocs:C669,
+        ocs:C8130,
+        ocs:C11529 ;
     skos:prefLabel "Speech enhancement algorithm" .
 

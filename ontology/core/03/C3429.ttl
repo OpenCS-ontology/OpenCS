@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3429 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_performance> ;
     skos:prefLabel "Computer performance" ;
     skos:related ocs:C1,
+        ocs:C6,
+        ocs:C9,
         ocs:C10,
-        ocs:C10320,
-        ocs:C12111,
-        ocs:C1253,
-        ocs:C12690,
         ocs:C15,
         ocs:C27,
-        ocs:C28073,
-        ocs:C31489,
         ocs:C33,
-        ocs:C3569,
-        ocs:C6,
-        ocs:C6072,
         ocs:C856,
-        ocs:C9 .
+        ocs:C1253,
+        ocs:C3569,
+        ocs:C6072,
+        ocs:C10320,
+        ocs:C12111,
+        ocs:C12690,
+        ocs:C28073,
+        ocs:C31489 .
 

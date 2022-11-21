@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22369 a skos:Concept ;
-    skos:broader ocs:C10921,
-        ocs:C11328,
-        ocs:C3569,
-        ocs:C8614 ;
+    skos:broader ocs:C3569,
+        ocs:C8614,
+        ocs:C10921,
+        ocs:C11328 ;
     skos:prefLabel "Scalable network simulation" .
 

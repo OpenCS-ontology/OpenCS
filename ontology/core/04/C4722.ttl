@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4722 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_access_layer> ;
     skos:prefLabel "Data access layer" ;
-    skos:related ocs:C10508,
+    skos:related ocs:C6,
+        ocs:C1998,
+        ocs:C3850,
+        ocs:C4860,
+        ocs:C7161,
+        ocs:C7218,
+        ocs:C10508,
         ocs:C10720,
         ocs:C10988,
         ocs:C12075,
@@ -15,16 +21,10 @@ ocs:C4722 a skos:Concept ;
         ocs:C17183,
         ocs:C18405,
         ocs:C18567,
-        ocs:C1998,
         ocs:C20927,
         ocs:C23269,
         ocs:C28739,
         ocs:C30561,
         ocs:C32657,
-        ocs:C3850,
-        ocs:C41867,
-        ocs:C4860,
-        ocs:C6,
-        ocs:C7161,
-        ocs:C7218 .
+        ocs:C41867 .
 

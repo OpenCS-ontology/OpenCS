@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19345 a skos:Concept ;
-    skos:broader ocs:C10917,
-        ocs:C6255,
-        ocs:C6918 ;
+    skos:broader ocs:C6255,
+        ocs:C6918,
+        ocs:C10917 ;
     skos:closeMatch <http://dbpedia.org/resource/Recursive_data_type> ;
     skos:prefLabel "Recursive data type" ;
     skos:related ocs:C1,
+        ocs:C19,
+        ocs:C794,
+        ocs:C3797,
+        ocs:C6255,
+        ocs:C6941,
+        ocs:C8452,
+        ocs:C9985,
         ocs:C15051,
         ocs:C16537,
-        ocs:C19,
         ocs:C20000,
         ocs:C22266,
         ocs:C37487,
-        ocs:C3797,
-        ocs:C40372,
-        ocs:C6255,
-        ocs:C6941,
-        ocs:C794,
-        ocs:C8452,
-        ocs:C9985 .
+        ocs:C40372 .
 

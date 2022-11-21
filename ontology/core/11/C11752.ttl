@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11752 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Key_frame> ;
     skos:prefLabel "Key frame" ;
-    skos:related ocs:C1239,
+    skos:related ocs:C22,
+        ocs:C622,
+        ocs:C742,
+        ocs:C1239,
+        ocs:C3374,
+        ocs:C6032,
         ocs:C12492,
         ocs:C13509,
         ocs:C21609,
-        ocs:C22,
         ocs:C23564,
         ocs:C24205,
         ocs:C27256,
-        ocs:C3374,
         ocs:C37128,
         ocs:C38850,
         ocs:C40628,
-        ocs:C42458,
-        ocs:C6032,
-        ocs:C622,
-        ocs:C742 .
+        ocs:C42458 .
 

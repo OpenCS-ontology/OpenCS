@@ -5,11 +5,15 @@ ocs:C2815 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/O(1)_scheduler> ;
     skos:prefLabel "O(1) scheduler" ;
-    skos:related ocs:C10423,
+    skos:related ocs:C9,
+        ocs:C2014,
+        ocs:C8349,
+        ocs:C8660,
+        ocs:C8704,
+        ocs:C10423,
         ocs:C12683,
         ocs:C12984,
         ocs:C15595,
-        ocs:C2014,
         ocs:C20800,
         ocs:C23926,
         ocs:C28016,
@@ -18,9 +22,5 @@ ocs:C2815 a skos:Concept ;
         ocs:C38680,
         ocs:C39654,
         ocs:C40322,
-        ocs:C41966,
-        ocs:C8349,
-        ocs:C8660,
-        ocs:C8704,
-        ocs:C9 .
+        ocs:C41966 .
 

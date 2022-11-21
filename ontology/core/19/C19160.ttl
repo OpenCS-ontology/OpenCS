@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19160 a skos:Concept ;
-    skos:broader ocs:C12148,
-        ocs:C13047,
-        ocs:C3057,
-        ocs:C3444 ;
+    skos:broader ocs:C3057,
+        ocs:C3444,
+        ocs:C12148,
+        ocs:C13047 ;
     skos:closeMatch <http://dbpedia.org/resource/Action_learning> ;
     skos:prefLabel "Action learning" ;
-    skos:related ocs:C10057,
-        ocs:C11021,
-        ocs:C21674,
+    skos:related ocs:C763,
         ocs:C3057,
         ocs:C3343,
         ocs:C3444,
         ocs:C3738,
         ocs:C3910,
-        ocs:C763 .
+        ocs:C10057,
+        ocs:C11021,
+        ocs:C21674 .
 

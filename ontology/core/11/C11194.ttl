@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11194 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/P-code_machine> ;
     skos:prefLabel "p-code machine" ;
-    skos:related ocs:C10320,
-        ocs:C11293,
-        ocs:C12257,
-        ocs:C12974,
-        ocs:C1333,
+    skos:related ocs:C9,
         ocs:C15,
-        ocs:C17204,
-        ocs:C17472,
         ocs:C19,
-        ocs:C21718,
-        ocs:C22322,
-        ocs:C23863,
         ocs:C283,
-        ocs:C41659,
+        ocs:C856,
+        ocs:C1333,
         ocs:C4321,
         ocs:C5698,
         ocs:C6072,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C17204,
+        ocs:C17472,
+        ocs:C21718,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C41659 .
 

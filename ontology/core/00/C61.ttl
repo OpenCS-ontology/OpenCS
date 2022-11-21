@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C61 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Communications_management> ;
     skos:prefLabel "Communications management" ;
-    skos:related ocs:C10191,
+    skos:related ocs:C7509,
+        ocs:C10191,
         ocs:C23103,
         ocs:C23671,
         ocs:C35838,
-        ocs:C41299,
-        ocs:C7509 .
+        ocs:C41299 .
 

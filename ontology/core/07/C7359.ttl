@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7359 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Cornell_box> ;
     skos:prefLabel "Cornell box" ;
-    skos:related ocs:C12454,
+    skos:related ocs:C22,
+        ocs:C4607,
+        ocs:C6030,
+        ocs:C8399,
+        ocs:C12454,
         ocs:C13382,
         ocs:C14087,
-        ocs:C22,
         ocs:C23564,
         ocs:C24235,
         ocs:C25073,
         ocs:C30435,
         ocs:C39285,
-        ocs:C42719,
-        ocs:C4607,
-        ocs:C6030,
-        ocs:C8399 .
+        ocs:C42719 .
 

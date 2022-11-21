@@ -2,32 +2,32 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16310 a skos:Concept ;
-    skos:broader ocs:C12111,
+    skos:broader ocs:C390,
+        ocs:C490,
         ocs:C3236,
-        ocs:C390,
         ocs:C4026,
         ocs:C4099,
-        ocs:C490 ;
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Collision_domain> ;
     skos:prefLabel "Collision domain" ;
-    skos:related ocs:C10331,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C1398,
+        ocs:C3039,
+        ocs:C3901,
+        ocs:C5343,
+        ocs:C8185,
+        ocs:C10331,
         ocs:C13786,
         ocs:C13857,
-        ocs:C1398,
         ocs:C15802,
         ocs:C15962,
         ocs:C20394,
         ocs:C24592,
-        ocs:C26,
         ocs:C27348,
         ocs:C29125,
         ocs:C30342,
-        ocs:C3039,
         ocs:C34874,
         ocs:C35041,
-        ocs:C35370,
-        ocs:C3901,
-        ocs:C490,
-        ocs:C5343,
-        ocs:C8185 .
+        ocs:C35370 .
 

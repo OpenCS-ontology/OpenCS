@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5373 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21,
+        ocs:C25 ;
     skos:prefLabel "Pattern presentation" ;
-    skos:related ocs:C10965,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C21,
         ocs:C25,
         ocs:C32,
-        ocs:C9781 .
+        ocs:C9781,
+        ocs:C10965 .
 

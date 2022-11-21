@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28959 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Ghost-canceling_reference> ;
     skos:prefLabel "Ghost-canceling reference" ;
-    skos:related ocs:C12942,
+    skos:related ocs:C1724,
+        ocs:C7502,
+        ocs:C9045,
+        ocs:C9338,
+        ocs:C12942,
         ocs:C14053,
-        ocs:C1724,
         ocs:C18001,
         ocs:C18701,
         ocs:C21204,
@@ -18,8 +21,5 @@ ocs:C28959 a skos:Concept ;
         ocs:C34890,
         ocs:C36645,
         ocs:C36807,
-        ocs:C39777,
-        ocs:C7502,
-        ocs:C9045,
-        ocs:C9338 .
+        ocs:C39777 .
 

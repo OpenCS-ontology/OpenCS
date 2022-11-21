@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12923 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Projection_mapping> ;
     skos:prefLabel "Projection mapping" ;
-    skos:related ocs:C11548,
-        ocs:C15836,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C18,
-        ocs:C18519,
-        ocs:C2080,
         ocs:C22,
-        ocs:C23564,
+        ocs:C622,
+        ocs:C2080,
         ocs:C2409,
+        ocs:C7698,
+        ocs:C9603,
+        ocs:C11548,
+        ocs:C15836,
+        ocs:C18519,
+        ocs:C23564,
         ocs:C26790,
         ocs:C26965,
         ocs:C27206,
-        ocs:C27256,
-        ocs:C622,
-        ocs:C7698,
-        ocs:C9603 .
+        ocs:C27256 .
 

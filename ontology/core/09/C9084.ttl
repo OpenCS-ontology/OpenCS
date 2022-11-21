@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9084 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_custodian> ;
     skos:prefLabel "Data custodian" ;
-    skos:related ocs:C12154,
-        ocs:C1349,
+    skos:related ocs:C1349,
+        ocs:C3034,
+        ocs:C3896,
+        ocs:C9375,
+        ocs:C9893,
+        ocs:C12154,
         ocs:C17188,
         ocs:C17369,
         ocs:C18791,
@@ -16,12 +20,8 @@ ocs:C9084 a skos:Concept ;
         ocs:C23269,
         ocs:C24688,
         ocs:C27200,
-        ocs:C3034,
         ocs:C31201,
         ocs:C34720,
         ocs:C35637,
-        ocs:C3896,
-        ocs:C45073,
-        ocs:C9375,
-        ocs:C9893 .
+        ocs:C45073 .
 

@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3034 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_quality> ;
     skos:prefLabel "Data quality" ;
-    skos:related ocs:C10764,
+    skos:related ocs:C13,
+        ocs:C3896,
+        ocs:C6225,
+        ocs:C9488,
+        ocs:C10764,
         ocs:C10827,
         ocs:C10979,
         ocs:C12694,
         ocs:C12736,
-        ocs:C13,
         ocs:C13767,
         ocs:C14239,
         ocs:C20446,
@@ -20,8 +23,5 @@ ocs:C3034 a skos:Concept ;
         ocs:C24688,
         ocs:C27200,
         ocs:C29524,
-        ocs:C34720,
-        ocs:C3896,
-        ocs:C6225,
-        ocs:C9488 .
+        ocs:C34720 .
 

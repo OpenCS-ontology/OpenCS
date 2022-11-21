@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13274 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Real_Programmers_Don't_Use_Pascal> ;
     skos:prefLabel "Real Programmers Don't Use Pascal" ;
-    skos:related ocs:C12846,
-        ocs:C13045,
+    skos:related ocs:C19,
+        ocs:C794,
         ocs:C1333,
-        ocs:C15500,
-        ocs:C17204,
-        ocs:C18098,
-        ocs:C19,
         ocs:C2057,
-        ocs:C23909,
         ocs:C3036,
-        ocs:C39996,
-        ocs:C42680,
-        ocs:C45210,
         ocs:C5049,
         ocs:C6255,
         ocs:C6714,
-        ocs:C794,
         ocs:C8751,
-        ocs:C9537 .
+        ocs:C9537,
+        ocs:C12846,
+        ocs:C13045,
+        ocs:C15500,
+        ocs:C17204,
+        ocs:C18098,
+        ocs:C23909,
+        ocs:C39996,
+        ocs:C42680,
+        ocs:C45210 .
 

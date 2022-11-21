@@ -2,16 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27203 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C8704 ;
+    skos:broader ocs:C8704,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/Ravenscar_profile> ;
     skos:prefLabel "Ravenscar profile" ;
     skos:related ocs:C1,
-        ocs:C10608,
         ocs:C11,
-        ocs:C11341,
+        ocs:C33,
         ocs:C1262,
         ocs:C1323,
+        ocs:C2878,
+        ocs:C2894,
+        ocs:C4932,
+        ocs:C5912,
+        ocs:C10608,
+        ocs:C11341,
         ocs:C16709,
         ocs:C18469,
         ocs:C20865,
@@ -19,11 +24,6 @@ ocs:C27203 a skos:Concept ;
         ocs:C26090,
         ocs:C26769,
         ocs:C27982,
-        ocs:C2878,
-        ocs:C2894,
         ocs:C29215,
-        ocs:C33,
-        ocs:C42251,
-        ocs:C4932,
-        ocs:C5912 .
+        ocs:C42251 .
 

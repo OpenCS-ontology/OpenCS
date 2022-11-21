@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19727 a skos:Concept ;
-    skos:broader ocs:C12579,
-        ocs:C2579 ;
+    skos:broader ocs:C2579,
+        ocs:C12579 ;
     skos:closeMatch <http://dbpedia.org/resource/Agent-based_social_simulation> ;
     skos:prefLabel "Agent-based social simulation" ;
     skos:related ocs:C1,
+        ocs:C24,
+        ocs:C2579,
+        ocs:C2650,
+        ocs:C3046,
+        ocs:C7256,
+        ocs:C9383,
         ocs:C10997,
         ocs:C11143,
         ocs:C11866,
         ocs:C12305,
         ocs:C12579,
         ocs:C20012,
-        ocs:C24,
-        ocs:C2579,
-        ocs:C26213,
-        ocs:C2650,
-        ocs:C3046,
-        ocs:C7256,
-        ocs:C9383 .
+        ocs:C26213 .
 

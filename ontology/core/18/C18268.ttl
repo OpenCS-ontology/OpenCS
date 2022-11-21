@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18268 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C390 ;
+    skos:broader ocs:C390,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Offered_load> ;
     skos:prefLabel "Offered load" ;
     skos:related ocs:C20045,

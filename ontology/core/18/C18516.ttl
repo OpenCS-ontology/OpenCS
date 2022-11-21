@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18516 a skos:Concept ;
-    skos:broader ocs:C10330,
-        ocs:C12099,
-        ocs:C9323 ;
+    skos:broader ocs:C9323,
+        ocs:C10330,
+        ocs:C12099 ;
     skos:prefLabel "Security automata" .
 

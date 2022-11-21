@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16467 a skos:Concept ;
-    skos:broader ocs:C11508,
+    skos:broader ocs:C431,
         ocs:C2005,
-        ocs:C431 ;
+        ocs:C11508 ;
     skos:closeMatch <http://dbpedia.org/resource/Margin_Infused_Relaxed_Algorithm> ;
     skos:prefLabel "Margin Infused Relaxed Algorithm" ;
-    skos:related ocs:C11030,
-        ocs:C13,
+    skos:related ocs:C13,
+        ocs:C1829,
+        ocs:C2005,
+        ocs:C5401,
+        ocs:C6021,
+        ocs:C8435,
+        ocs:C8758,
+        ocs:C9022,
+        ocs:C11030,
         ocs:C13429,
         ocs:C16153,
         ocs:C17322,
-        ocs:C1829,
-        ocs:C2005,
         ocs:C22432,
         ocs:C22643,
         ocs:C22982,
         ocs:C23929,
         ocs:C25201,
         ocs:C28056,
-        ocs:C36198,
-        ocs:C5401,
-        ocs:C6021,
-        ocs:C8435,
-        ocs:C8758,
-        ocs:C9022 .
+        ocs:C36198 .
 

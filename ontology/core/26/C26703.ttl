@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26703 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C13046,
-        ocs:C260,
+    skos:broader ocs:C260,
         ocs:C2801,
         ocs:C6125,
-        ocs:C8951 ;
+        ocs:C8951,
+        ocs:C11705,
+        ocs:C13046 ;
     skos:prefLabel "Frequency domain linear prediction" .
 

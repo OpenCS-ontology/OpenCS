@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15214 a skos:Concept ;
-    skos:broader ocs:C11700,
-        ocs:C5771 ;
+    skos:broader ocs:C5771,
+        ocs:C11700 ;
     skos:closeMatch <http://dbpedia.org/resource/Pointing_stick> ;
     skos:prefLabel "Pointing stick" ;
-    skos:related ocs:C10368,
-        ocs:C11700,
-        ocs:C13783,
-        ocs:C20986,
-        ocs:C2417,
+    skos:related ocs:C2417,
         ocs:C2655,
-        ocs:C29012,
-        ocs:C31489,
         ocs:C3284,
-        ocs:C35370,
-        ocs:C44595,
         ocs:C5086,
         ocs:C5702,
         ocs:C6069,
-        ocs:C8345 .
+        ocs:C8345,
+        ocs:C10368,
+        ocs:C11700,
+        ocs:C13783,
+        ocs:C20986,
+        ocs:C29012,
+        ocs:C31489,
+        ocs:C35370,
+        ocs:C44595 .
 

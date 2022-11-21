@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12399 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7,
-        ocs:C9 ;
+    skos:broader ocs:C7,
+        ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Universal_3D> ;
     skos:prefLabel "Universal 3D" ;
-    skos:related ocs:C11531,
+    skos:related ocs:C3679,
+        ocs:C4916,
+        ocs:C4918,
+        ocs:C6605,
+        ocs:C11531,
         ocs:C11927,
         ocs:C14024,
         ocs:C20066,
@@ -18,9 +22,5 @@ ocs:C12399 a skos:Concept ;
         ocs:C28881,
         ocs:C29048,
         ocs:C30698,
-        ocs:C35992,
-        ocs:C3679,
-        ocs:C4916,
-        ocs:C4918,
-        ocs:C6605 .
+        ocs:C35992 .
 

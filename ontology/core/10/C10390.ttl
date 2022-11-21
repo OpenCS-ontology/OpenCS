@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10390 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Metaheuristic> ;
     skos:prefLabel "Metaheuristic" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C25,
+        ocs:C3837,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C8944,
         ocs:C10502,
         ocs:C11372,
         ocs:C12530,
@@ -14,15 +21,8 @@ ocs:C10390 a skos:Concept ;
         ocs:C14921,
         ocs:C19750,
         ocs:C23250,
-        ocs:C25,
         ocs:C27563,
         ocs:C28802,
         ocs:C29055,
-        ocs:C3837,
-        ocs:C41363,
-        ocs:C5197,
-        ocs:C5704,
-        ocs:C7553,
-        ocs:C8,
-        ocs:C8944 .
+        ocs:C41363 .
 

@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22063 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C1386 ;
+    skos:broader ocs:C1386,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/XOTcl> ;
     skos:prefLabel "XOTcl" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C466,
+        ocs:C2419,
+        ocs:C10182,
         ocs:C10284,
         ocs:C10720,
         ocs:C11128,
@@ -16,11 +18,9 @@ ocs:C22063 a skos:Concept ;
         ocs:C16290,
         ocs:C20907,
         ocs:C22971,
-        ocs:C2419,
         ocs:C24909,
         ocs:C27131,
         ocs:C28944,
         ocs:C31851,
-        ocs:C35578,
-        ocs:C466 .
+        ocs:C35578 .
 

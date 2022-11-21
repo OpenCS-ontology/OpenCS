@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13856 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Head-up_display> ;
     skos:prefLabel "Head-up display" ;
-    skos:related ocs:C12636,
+    skos:related ocs:C511,
+        ocs:C5913,
+        ocs:C12636,
         ocs:C12641,
         ocs:C16191,
         ocs:C16352,
         ocs:C21767,
-        ocs:C36804,
-        ocs:C511,
-        ocs:C5913 .
+        ocs:C36804 .
 

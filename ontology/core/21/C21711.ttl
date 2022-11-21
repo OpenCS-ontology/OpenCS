@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21711 a skos:Concept ;
-    skos:broader ocs:C12979,
-        ocs:C9601 ;
+    skos:broader ocs:C9601,
+        ocs:C12979 ;
     skos:closeMatch <http://dbpedia.org/resource/Narrative_Clip> ;
     skos:prefLabel "Narrative clip" .
 

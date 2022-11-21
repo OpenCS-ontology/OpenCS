@@ -5,7 +5,12 @@ ocs:C26006 a skos:Concept ;
     skos:broader ocs:C4218 ;
     skos:closeMatch <http://dbpedia.org/resource/Hardware_security_module> ;
     skos:prefLabel "Hardware security module" ;
-    skos:related ocs:C1184,
+    skos:related ocs:C35,
+        ocs:C816,
+        ocs:C1184,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C8437,
         ocs:C16125,
         ocs:C17314,
         ocs:C21324,
@@ -16,12 +21,7 @@ ocs:C26006 a skos:Concept ;
         ocs:C32192,
         ocs:C32484,
         ocs:C33191,
-        ocs:C35,
         ocs:C40789,
-        ocs:C4218,
         ocs:C44017,
-        ocs:C45581,
-        ocs:C5692,
-        ocs:C816,
-        ocs:C8437 .
+        ocs:C45581 .
 

@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23803 a skos:Concept ;
-    skos:broader ocs:C11927,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/ATML> ;
     skos:prefLabel "ATML" ;
-    skos:related ocs:C10637,
+    skos:related ocs:C942,
+        ocs:C6278,
+        ocs:C10637,
         ocs:C11927,
         ocs:C16159,
         ocs:C19693,
@@ -20,7 +22,5 @@ ocs:C23803 a skos:Concept ;
         ocs:C44049,
         ocs:C44193,
         ocs:C45276,
-        ocs:C45693,
-        ocs:C6278,
-        ocs:C942 .
+        ocs:C45693 .
 

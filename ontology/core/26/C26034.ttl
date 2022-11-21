@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26034 a skos:Concept ;
-    skos:broader ocs:C11988,
-        ocs:C4597 ;
+    skos:broader ocs:C4597,
+        ocs:C11988 ;
     skos:closeMatch <http://dbpedia.org/resource/Air_traffic_management> ;
     skos:prefLabel "Air traffic management" ;
-    skos:related ocs:C15050,
+    skos:related ocs:C4597,
+        ocs:C8868,
+        ocs:C15050,
         ocs:C18229,
         ocs:C18521,
         ocs:C18996,
@@ -19,7 +21,5 @@ ocs:C26034 a skos:Concept ;
         ocs:C33217,
         ocs:C34476,
         ocs:C35629,
-        ocs:C42092,
-        ocs:C4597,
-        ocs:C8868 .
+        ocs:C42092 .
 

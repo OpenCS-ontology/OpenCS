@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4864 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Adversarial_system> ;
     skos:prefLabel "Adversarial system" ;
     skos:related ocs:C22782 .

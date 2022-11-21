@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13689 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/NXP_LPC> ;
     skos:prefLabel "NXP LPC" ;
     skos:related ocs:C11,
-        ocs:C13386,
-        ocs:C26207,
         ocs:C3160,
         ocs:C5136,
         ocs:C6172,
         ocs:C6299,
         ocs:C6447,
-        ocs:C7983 .
+        ocs:C7983,
+        ocs:C13386,
+        ocs:C26207 .
 

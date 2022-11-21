@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13381 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Near-me_area_network> ;
     skos:prefLabel "Near-me area network" ;
-    skos:related ocs:C11144,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C2935,
+        ocs:C3809,
+        ocs:C8614,
+        ocs:C9105,
+        ocs:C11144,
         ocs:C12853,
         ocs:C13184,
         ocs:C15728,
@@ -14,16 +20,10 @@ ocs:C13381 a skos:Concept ;
         ocs:C20373,
         ocs:C21424,
         ocs:C25133,
-        ocs:C26,
         ocs:C27570,
         ocs:C28022,
         ocs:C29274,
-        ocs:C2935,
         ocs:C29964,
-        ocs:C3,
         ocs:C31746,
-        ocs:C35370,
-        ocs:C3809,
-        ocs:C8614,
-        ocs:C9105 .
+        ocs:C35370 .
 

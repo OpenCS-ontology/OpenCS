@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10093 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/V.92> ;
     skos:prefLabel "V.92" ;
-    skos:related ocs:C10778,
-        ocs:C11652,
-        ocs:C19350,
-        ocs:C21357,
+    skos:related ocs:C787,
         ocs:C2263,
-        ocs:C22654,
-        ocs:C26580,
         ocs:C2917,
         ocs:C4040,
         ocs:C6775,
         ocs:C7502,
-        ocs:C787,
         ocs:C8902,
         ocs:C8952,
-        ocs:C9327 .
+        ocs:C9327,
+        ocs:C10778,
+        ocs:C11652,
+        ocs:C19350,
+        ocs:C21357,
+        ocs:C22654,
+        ocs:C26580 .
 

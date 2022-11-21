@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23187 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C11886 ;
     skos:closeMatch <http://dbpedia.org/resource/Industry_Foundation_Classes> ;
     skos:prefLabel "Industry Foundation Classes" ;
-    skos:related ocs:C11886,
-        ocs:C11927,
-        ocs:C13744,
+    skos:related ocs:C6,
         ocs:C2523,
-        ocs:C27972,
         ocs:C3256,
         ocs:C3896,
         ocs:C5552,
-        ocs:C6,
         ocs:C7914,
         ocs:C8399,
-        ocs:C9836 .
+        ocs:C9836,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C13744,
+        ocs:C27972 .
 

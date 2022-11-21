@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12119 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/International_Conference_on_Pattern_Recognition_and_Image_Analysis> ;
     skos:prefLabel "International Conference on Pattern Recognition and Image Analysis" ;
-    skos:related ocs:C10382,
-        ocs:C11598,
-        ocs:C14465,
-        ocs:C1501,
-        ocs:C1573,
+    skos:related ocs:C7,
+        ocs:C8,
         ocs:C21,
         ocs:C25,
-        ocs:C28626,
+        ocs:C1501,
+        ocs:C1573,
         ocs:C3077,
-        ocs:C34290,
         ocs:C3675,
-        ocs:C37007,
-        ocs:C45823,
         ocs:C5073,
-        ocs:C7,
         ocs:C7911,
-        ocs:C8 .
+        ocs:C10382,
+        ocs:C11598,
+        ocs:C14465,
+        ocs:C28626,
+        ocs:C34290,
+        ocs:C37007,
+        ocs:C45823 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7015 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Simple_Bus_Architecture> ;
     skos:prefLabel "Simple Bus Architecture" ;
-    skos:related ocs:C10053,
+    skos:related ocs:C87,
+        ocs:C1317,
+        ocs:C2991,
+        ocs:C5698,
+        ocs:C7123,
+        ocs:C7186,
+        ocs:C8791,
+        ocs:C10053,
         ocs:C11258,
         ocs:C12918,
-        ocs:C1317,
         ocs:C20178,
         ocs:C22530,
         ocs:C26103,
         ocs:C29077,
-        ocs:C2991,
         ocs:C41110,
-        ocs:C41469,
-        ocs:C5698,
-        ocs:C7123,
-        ocs:C7186,
-        ocs:C87,
-        ocs:C8791 .
+        ocs:C41469 .
 

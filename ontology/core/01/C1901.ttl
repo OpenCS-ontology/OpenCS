@@ -2,14 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1901 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_service_management> ;
     skos:prefLabel "Application service management" ;
-    skos:related ocs:C10134,
+    skos:related ocs:C197,
+        ocs:C5112,
+        ocs:C5698,
+        ocs:C6592,
+        ocs:C7106,
+        ocs:C9700,
+        ocs:C10134,
         ocs:C11415,
         ocs:C11761,
-        ocs:C197,
         ocs:C20691,
         ocs:C21230,
         ocs:C26523,
@@ -18,10 +23,5 @@ ocs:C1901 a skos:Concept ;
         ocs:C39341,
         ocs:C40280,
         ocs:C43992,
-        ocs:C44344,
-        ocs:C5112,
-        ocs:C5698,
-        ocs:C6592,
-        ocs:C7106,
-        ocs:C9700 .
+        ocs:C44344 .
 

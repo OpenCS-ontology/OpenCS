@@ -2,19 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18992 a skos:Concept ;
-    skos:broader ocs:C5722,
+    skos:broader ocs:C969,
+        ocs:C5722,
         ocs:C6448,
-        ocs:C8519,
-        ocs:C969 ;
+        ocs:C8519 ;
     skos:closeMatch <http://dbpedia.org/resource/Sparse_voxel_octree> ;
     skos:prefLabel "Sparse voxel octree" ;
-    skos:related ocs:C12454,
+    skos:related ocs:C22,
+        ocs:C969,
+        ocs:C4698,
+        ocs:C7000,
+        ocs:C8519,
+        ocs:C12454,
         ocs:C15632,
         ocs:C18519,
         ocs:C19041,
         ocs:C19299,
         ocs:C21609,
-        ocs:C22,
         ocs:C28233,
         ocs:C29600,
         ocs:C29796,
@@ -22,9 +26,5 @@ ocs:C18992 a skos:Concept ;
         ocs:C41399,
         ocs:C42371,
         ocs:C42716,
-        ocs:C44223,
-        ocs:C4698,
-        ocs:C7000,
-        ocs:C8519,
-        ocs:C969 .
+        ocs:C44223 .
 

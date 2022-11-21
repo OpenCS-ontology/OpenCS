@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11415 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_performance_management> ;
     skos:prefLabel "Application performance management" ;
-    skos:related ocs:C11761,
-        ocs:C1253,
-        ocs:C14003,
-        ocs:C17238,
-        ocs:C1901,
+    skos:related ocs:C26,
         ocs:C197,
-        ocs:C21230,
+        ocs:C1253,
+        ocs:C1901,
         ocs:C2352,
-        ocs:C26,
-        ocs:C26773,
-        ocs:C27500,
-        ocs:C29181,
         ocs:C3394,
-        ocs:C35701,
-        ocs:C40280,
         ocs:C6592,
         ocs:C7106,
         ocs:C8395,
-        ocs:C9700 .
+        ocs:C9700,
+        ocs:C11761,
+        ocs:C14003,
+        ocs:C17238,
+        ocs:C21230,
+        ocs:C26773,
+        ocs:C27500,
+        ocs:C29181,
+        ocs:C35701,
+        ocs:C40280 .
 

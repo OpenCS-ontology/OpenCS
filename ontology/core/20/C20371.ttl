@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20371 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C7447 ;
+    skos:broader ocs:C7447,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/International_Terrestrial_Reference_System> ;
     skos:prefLabel "International Terrestrial Reference System" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C9690,
+        ocs:C12641,
         ocs:C16293,
         ocs:C18568,
         ocs:C27277,
@@ -14,6 +15,5 @@ ocs:C20371 a skos:Concept ;
         ocs:C30565,
         ocs:C30827,
         ocs:C33865,
-        ocs:C37979,
-        ocs:C9690 .
+        ocs:C37979 .
 

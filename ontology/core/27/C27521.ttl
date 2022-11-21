@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27521 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C3337 ;
+    skos:broader ocs:C3337,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Increment_and_decrement_operators> ;
     skos:prefLabel "Increment and decrement operators" ;
-    skos:related ocs:C10557,
-        ocs:C10720,
-        ocs:C13411,
-        ocs:C19,
-        ocs:C25460,
-        ocs:C26024,
-        ocs:C26461,
+    skos:related ocs:C19,
+        ocs:C794,
         ocs:C3036,
-        ocs:C31014,
         ocs:C3785,
-        ocs:C43956,
         ocs:C5308,
         ocs:C5515,
         ocs:C6714,
         ocs:C7289,
-        ocs:C794 .
+        ocs:C10557,
+        ocs:C10720,
+        ocs:C13411,
+        ocs:C25460,
+        ocs:C26024,
+        ocs:C26461,
+        ocs:C31014,
+        ocs:C43956 .
 

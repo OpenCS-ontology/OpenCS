@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18920 a skos:Concept ;
-    skos:broader ocs:C7736,
-        ocs:C78 ;
+    skos:broader ocs:C78,
+        ocs:C7736 ;
     skos:closeMatch <http://dbpedia.org/resource/Attentive_user_interface> ;
     skos:prefLabel "Attentive user interface" ;
-    skos:related ocs:C1212,
+    skos:related ocs:C18,
+        ocs:C263,
+        ocs:C1212,
+        ocs:C2655,
+        ocs:C7736,
+        ocs:C8330,
         ocs:C12810,
         ocs:C13003,
         ocs:C14368,
         ocs:C15131,
         ocs:C15483,
         ocs:C15633,
-        ocs:C18,
         ocs:C20671,
         ocs:C24825,
-        ocs:C263,
-        ocs:C2655,
         ocs:C27206,
         ocs:C28468,
         ocs:C28700,
         ocs:C30078,
-        ocs:C44483,
-        ocs:C7736,
-        ocs:C8330 .
+        ocs:C44483 .
 

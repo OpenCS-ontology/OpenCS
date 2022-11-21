@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8568 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Color_code> ;
     skos:prefLabel "Color code" ;
-    skos:related ocs:C16674,
+    skos:related ocs:C3,
         ocs:C2135,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C7714,
+        ocs:C16674,
         ocs:C21412,
         ocs:C23675,
-        ocs:C3,
         ocs:C32487,
         ocs:C36317,
         ocs:C41483,
-        ocs:C44320,
-        ocs:C6420,
-        ocs:C6942,
-        ocs:C7714 .
+        ocs:C44320 .
 

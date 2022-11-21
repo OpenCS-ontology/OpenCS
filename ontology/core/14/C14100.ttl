@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14100 a skos:Concept ;
-    skos:broader ocs:C10923,
-        ocs:C795 ;
+    skos:broader ocs:C795,
+        ocs:C10923 ;
     skos:closeMatch <http://dbpedia.org/resource/Generalised_hyperbolic_distribution> ;
     skos:prefLabel "Generalised hyperbolic distribution" ;
-    skos:related ocs:C14852,
+    skos:related ocs:C795,
         ocs:C1844,
+        ocs:C14852,
         ocs:C34746,
         ocs:C36008,
         ocs:C39274,
         ocs:C41796,
-        ocs:C43609,
-        ocs:C795 .
+        ocs:C43609 .
 

@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C735 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/CoreExpress> ;
     skos:prefLabel "CoreExpress" ;
     skos:related ocs:C11,
-        ocs:C11052,
-        ocs:C12499,
+        ocs:C74,
         ocs:C1810,
         ocs:C2084,
-        ocs:C38463,
         ocs:C4325,
         ocs:C4519,
         ocs:C6826,
-        ocs:C74,
-        ocs:C9542 .
+        ocs:C9542,
+        ocs:C11052,
+        ocs:C12499,
+        ocs:C38463 .
 

@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8992 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Event_Driven_Executive> ;
     skos:prefLabel "Event Driven Executive" ;
-    skos:related ocs:C1130,
+    skos:related ocs:C9,
+        ocs:C1130,
+        ocs:C5698,
+        ocs:C6299,
+        ocs:C6906,
+        ocs:C7431,
+        ocs:C9433,
         ocs:C12683,
         ocs:C12851,
         ocs:C13101,
@@ -18,11 +24,5 @@ ocs:C8992 a skos:Concept ;
         ocs:C26161,
         ocs:C28464,
         ocs:C38819,
-        ocs:C41159,
-        ocs:C5698,
-        ocs:C6299,
-        ocs:C6906,
-        ocs:C7431,
-        ocs:C9,
-        ocs:C9433 .
+        ocs:C41159 .
 

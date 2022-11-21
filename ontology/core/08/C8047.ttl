@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8047 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25,
+        ocs:C32 ;
     skos:prefLabel "Acquiring concepts" ;
-    skos:related ocs:C1092,
-        ocs:C13757,
-        ocs:C1443,
-        ocs:C18,
+    skos:related ocs:C18,
         ocs:C21,
         ocs:C23,
-        ocs:C25681,
-        ocs:C26934,
         ocs:C32,
         ocs:C651,
-        ocs:C934 .
+        ocs:C934,
+        ocs:C1092,
+        ocs:C1443,
+        ocs:C13757,
+        ocs:C25681,
+        ocs:C26934 .
 

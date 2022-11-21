@@ -5,8 +5,13 @@ ocs:C24123 a skos:Concept ;
     skos:broader ocs:C5672 ;
     skos:closeMatch <http://dbpedia.org/resource/MMS_Architecture> ;
     skos:prefLabel "MMS Architecture" ;
-    skos:related ocs:C13252,
-        ocs:C1464,
+    skos:related ocs:C1464,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6240,
+        ocs:C6987,
+        ocs:C9154,
+        ocs:C13252,
         ocs:C21976,
         ocs:C26262,
         ocs:C27704,
@@ -19,10 +24,5 @@ ocs:C24123 a skos:Concept ;
         ocs:C44416,
         ocs:C44506,
         ocs:C44880,
-        ocs:C45602,
-        ocs:C5672,
-        ocs:C5917,
-        ocs:C6240,
-        ocs:C6987,
-        ocs:C9154 .
+        ocs:C45602 .
 

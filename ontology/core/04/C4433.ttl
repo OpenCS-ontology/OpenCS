@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4433 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C17,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/IPTV> ;
     skos:prefLabel "IPTV" ;
-    skos:related ocs:C10569,
+    skos:related ocs:C3,
+        ocs:C2188,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9327,
+        ocs:C10569,
         ocs:C12544,
         ocs:C18697,
         ocs:C18878,
         ocs:C19350,
-        ocs:C2188,
         ocs:C22407,
         ocs:C26580,
         ocs:C27572,
-        ocs:C3,
         ocs:C30635,
         ocs:C32488,
         ocs:C33691,
         ocs:C35370,
         ocs:C35703,
-        ocs:C36807,
-        ocs:C8614,
-        ocs:C9113,
-        ocs:C9327 .
+        ocs:C36807 .
 

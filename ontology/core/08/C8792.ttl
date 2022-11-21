@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8792 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Mmap> ;
     skos:prefLabel "mmap" ;
-    skos:related ocs:C1165,
+    skos:related ocs:C9,
+        ocs:C1165,
+        ocs:C8782,
+        ocs:C9938,
         ocs:C12683,
         ocs:C14271,
         ocs:C14990,
@@ -22,8 +25,5 @@ ocs:C8792 a skos:Concept ;
         ocs:C41970,
         ocs:C42619,
         ocs:C43102,
-        ocs:C43104,
-        ocs:C8782,
-        ocs:C9,
-        ocs:C9938 .
+        ocs:C43104 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1852 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Direct_mode> ;
     skos:prefLabel "Direct mode" ;
-    skos:related ocs:C10053,
-        ocs:C11262,
-        ocs:C12815,
-        ocs:C1386,
-        ocs:C14162,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C19481,
+        ocs:C1386,
         ocs:C2022,
-        ocs:C21718,
-        ocs:C30078,
-        ocs:C34227,
-        ocs:C41368,
         ocs:C4259,
         ocs:C7478,
         ocs:C8787,
-        ocs:C9,
-        ocs:C9235 .
+        ocs:C9235,
+        ocs:C10053,
+        ocs:C11262,
+        ocs:C12815,
+        ocs:C14162,
+        ocs:C19481,
+        ocs:C21718,
+        ocs:C30078,
+        ocs:C34227,
+        ocs:C41368 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16358 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C1253,
-        ocs:C7903 ;
+    skos:broader ocs:C1253,
+        ocs:C7903,
+        ocs:C12098 ;
     skos:prefLabel "Bounded model checker" .
 

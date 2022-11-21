@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8241 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Learning_commons> ;
     skos:prefLabel "Learning commons" ;
-    skos:related ocs:C10070,
+    skos:related ocs:C4,
+        ocs:C3119,
+        ocs:C4934,
+        ocs:C8614,
+        ocs:C9057,
+        ocs:C10070,
         ocs:C11087,
         ocs:C15008,
         ocs:C22668,
         ocs:C22701,
         ocs:C25892,
-        ocs:C3119,
         ocs:C31730,
-        ocs:C37477,
-        ocs:C4,
-        ocs:C4934,
-        ocs:C8614,
-        ocs:C9057 .
+        ocs:C37477 .
 

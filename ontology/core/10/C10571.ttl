@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10571 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C6,
-        ocs:C7 ;
+    skos:broader ocs:C6,
+        ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Forms_processing> ;
     skos:prefLabel "Forms processing" ;
-    skos:related ocs:C10052,
-        ocs:C12488,
+    skos:related ocs:C6,
+        ocs:C25,
         ocs:C1253,
+        ocs:C1882,
+        ocs:C3077,
+        ocs:C5928,
+        ocs:C7218,
+        ocs:C9150,
+        ocs:C10052,
+        ocs:C12488,
         ocs:C12755,
         ocs:C13257,
-        ocs:C1882,
         ocs:C23103,
-        ocs:C25,
         ocs:C26343,
         ocs:C27653,
         ocs:C28117,
-        ocs:C3077,
         ocs:C30983,
-        ocs:C42042,
-        ocs:C5928,
-        ocs:C6,
-        ocs:C7218,
-        ocs:C9150 .
+        ocs:C42042 .
 

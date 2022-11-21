@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28035 a skos:Concept ;
-    skos:broader ocs:C5496,
-        ocs:C925 ;
+    skos:broader ocs:C925,
+        ocs:C5496 ;
     skos:closeMatch <http://dbpedia.org/resource/Dual-phase_evolution> ;
     skos:prefLabel "Dual-phase evolution" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C7460,
+        ocs:C7553,
+        ocs:C9022,
+        ocs:C9373,
+        ocs:C10390,
         ocs:C12530,
         ocs:C13208,
         ocs:C15476,
@@ -19,9 +23,5 @@ ocs:C28035 a skos:Concept ;
         ocs:C33768,
         ocs:C36516,
         ocs:C36858,
-        ocs:C44043,
-        ocs:C7460,
-        ocs:C7553,
-        ocs:C9022,
-        ocs:C9373 .
+        ocs:C44043 .
 

@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11699 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Glyph> ;
     skos:prefLabel "Glyph" ;
-    skos:related ocs:C13253,
-        ocs:C25565,
-        ocs:C28881,
-        ocs:C29368,
-        ocs:C5126,
+    skos:related ocs:C5126,
         ocs:C5862,
         ocs:C6282,
         ocs:C6505,
         ocs:C7131,
         ocs:C8020,
         ocs:C9162,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C13253,
+        ocs:C25565,
+        ocs:C28881,
+        ocs:C29368 .
 

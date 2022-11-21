@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29123 a skos:Concept ;
-    skos:broader ocs:C3401,
+    skos:broader ocs:C968,
+        ocs:C3401,
         ocs:C8325,
-        ocs:C8753,
-        ocs:C968 ;
+        ocs:C8753 ;
     skos:closeMatch <http://dbpedia.org/resource/Population_protocol> ;
     skos:prefLabel "Population protocol" ;
-    skos:related ocs:C1491,
+    skos:related ocs:C29,
+        ocs:C30,
+        ocs:C1491,
+        ocs:C3004,
+        ocs:C7735,
+        ocs:C8617,
         ocs:C17626,
         ocs:C23663,
         ocs:C24961,
         ocs:C27105,
-        ocs:C29,
-        ocs:C30,
-        ocs:C3004,
         ocs:C34694,
         ocs:C41733,
         ocs:C41980,
         ocs:C43586,
         ocs:C43845,
         ocs:C44173,
-        ocs:C44697,
-        ocs:C7735,
-        ocs:C8617 .
+        ocs:C44697 .
 

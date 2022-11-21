@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21073 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C9698 ;
+    skos:broader ocs:C9698,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/Uninterpreted_function> ;
     skos:prefLabel "Uninterpreted function" ;
-    skos:related ocs:C10273,
-        ocs:C10622,
-        ocs:C10825,
-        ocs:C12474,
+    skos:related ocs:C524,
         ocs:C2418,
-        ocs:C30367,
         ocs:C3484,
         ocs:C3894,
-        ocs:C42320,
-        ocs:C44728,
         ocs:C4517,
-        ocs:C524,
         ocs:C5561,
         ocs:C5828,
         ocs:C8635,
         ocs:C9450,
-        ocs:C9698 .
+        ocs:C9698,
+        ocs:C10273,
+        ocs:C10622,
+        ocs:C10825,
+        ocs:C12474,
+        ocs:C30367,
+        ocs:C42320,
+        ocs:C44728 .
 

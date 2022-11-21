@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15283 a skos:Concept ;
-    skos:broader ocs:C11445,
-        ocs:C4597 ;
+    skos:broader ocs:C4597,
+        ocs:C11445 ;
     skos:closeMatch <http://dbpedia.org/resource/ASDE-X> ;
     skos:prefLabel "ASDE-X" ;
-    skos:related ocs:C10587,
+    skos:related ocs:C4597,
+        ocs:C10587,
         ocs:C11301,
         ocs:C11445,
         ocs:C14308,
@@ -20,6 +21,5 @@ ocs:C15283 a skos:Concept ;
         ocs:C25928,
         ocs:C28020,
         ocs:C30105,
-        ocs:C37243,
-        ocs:C4597 .
+        ocs:C37243 .
 

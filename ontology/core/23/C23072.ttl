@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23072 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Common_Intermediate_Format> ;
     skos:prefLabel "Common Intermediate Format" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C8021,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12544,
         ocs:C13586,
         ocs:C14482,
         ocs:C15505,
@@ -16,8 +19,5 @@ ocs:C23072 a skos:Concept ;
         ocs:C27704,
         ocs:C29048,
         ocs:C40199,
-        ocs:C40353,
-        ocs:C8021,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C40353 .
 

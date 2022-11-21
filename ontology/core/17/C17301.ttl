@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17301 a skos:Concept ;
-    skos:broader ocs:C10445,
-        ocs:C13307,
-        ocs:C4864,
+    skos:broader ocs:C4864,
         ocs:C7021,
-        ocs:C8559 ;
+        ocs:C8559,
+        ocs:C10445,
+        ocs:C13307 ;
     skos:prefLabel "Evasion attack" .
 

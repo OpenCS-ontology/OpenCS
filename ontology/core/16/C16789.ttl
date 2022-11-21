@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16789 a skos:Concept ;
-    skos:broader ocs:C12580,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12580 ;
     skos:closeMatch <http://dbpedia.org/resource/Optical_format> ;
     skos:prefLabel "Optical format" ;
-    skos:related ocs:C10318,
+    skos:related ocs:C7789,
+        ocs:C10318,
         ocs:C10700,
         ocs:C12580,
         ocs:C13065,
         ocs:C19353,
         ocs:C29365,
         ocs:C37358,
-        ocs:C43094,
-        ocs:C7789 .
+        ocs:C43094 .
 

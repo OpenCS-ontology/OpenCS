@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9442 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Linux_console> ;
     skos:prefLabel "Linux console" ;
-    skos:related ocs:C10002,
+    skos:related ocs:C9,
+        ocs:C653,
+        ocs:C5126,
+        ocs:C8349,
+        ocs:C10002,
         ocs:C10271,
         ocs:C12724,
         ocs:C12815,
@@ -20,9 +24,5 @@ ocs:C9442 a skos:Concept ;
         ocs:C34475,
         ocs:C37894,
         ocs:C44100,
-        ocs:C45499,
-        ocs:C5126,
-        ocs:C653,
-        ocs:C8349,
-        ocs:C9 .
+        ocs:C45499 .
 

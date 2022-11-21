@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11773 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C29,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Bio-inspired_computing> ;
     skos:prefLabel "Bio-inspired computing" ;
-    skos:related ocs:C11143,
+    skos:related ocs:C8,
         ocs:C13,
+        ocs:C25,
+        ocs:C3932,
+        ocs:C5140,
+        ocs:C7553,
+        ocs:C9022,
+        ocs:C11143,
         ocs:C14921,
         ocs:C19750,
         ocs:C20846,
         ocs:C21268,
-        ocs:C25,
         ocs:C27563,
-        ocs:C31543,
-        ocs:C3932,
-        ocs:C5140,
-        ocs:C7553,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C31543 .
 

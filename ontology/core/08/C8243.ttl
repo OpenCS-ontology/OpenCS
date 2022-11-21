@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8243 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Object-Oriented_Turing> ;
     skos:prefLabel "Object-Oriented Turing" ;
-    skos:related ocs:C10720,
-        ocs:C11128,
-        ocs:C11293,
-        ocs:C1142,
-        ocs:C13101,
-        ocs:C18469,
-        ocs:C19,
-        ocs:C20942,
+    skos:related ocs:C19,
         ocs:C259,
-        ocs:C27954,
+        ocs:C687,
+        ocs:C1142,
         ocs:C3036,
-        ocs:C31404,
-        ocs:C37653,
         ocs:C4180,
         ocs:C6714,
-        ocs:C687,
-        ocs:C7289 .
+        ocs:C7289,
+        ocs:C10720,
+        ocs:C11128,
+        ocs:C11293,
+        ocs:C13101,
+        ocs:C18469,
+        ocs:C20942,
+        ocs:C27954,
+        ocs:C31404,
+        ocs:C37653 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1758 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_in_use> ;
     skos:prefLabel "Data in use" ;
-    skos:related ocs:C13875,
+    skos:related ocs:C197,
+        ocs:C283,
+        ocs:C4218,
+        ocs:C7009,
+        ocs:C7123,
+        ocs:C8026,
+        ocs:C13875,
         ocs:C14186,
-        ocs:C197,
         ocs:C22065,
         ocs:C22508,
         ocs:C23270,
         ocs:C24190,
         ocs:C27610,
-        ocs:C283,
         ocs:C32088,
-        ocs:C38723,
-        ocs:C4218,
-        ocs:C7009,
-        ocs:C7123,
-        ocs:C8026 .
+        ocs:C38723 .
 

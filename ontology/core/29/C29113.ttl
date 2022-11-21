@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29113 a skos:Concept ;
-    skos:broader ocs:C13750,
-        ocs:C8561 ;
+    skos:broader ocs:C8561,
+        ocs:C13750 ;
     skos:closeMatch <http://dbpedia.org/resource/Lucky_imaging> ;
     skos:prefLabel "Lucky imaging" ;
-    skos:related ocs:C14268,
+    skos:related ocs:C597,
+        ocs:C7789,
+        ocs:C8561,
+        ocs:C14268,
         ocs:C16393,
         ocs:C23522,
         ocs:C24698,
         ocs:C32423,
-        ocs:C33488,
-        ocs:C597,
-        ocs:C7789,
-        ocs:C8561 .
+        ocs:C33488 .
 

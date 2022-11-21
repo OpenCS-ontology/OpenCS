@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20600 a skos:Concept ;
-    skos:broader ocs:C10321,
-        ocs:C12582,
-        ocs:C2369,
-        ocs:C5854 ;
+    skos:broader ocs:C2369,
+        ocs:C5854,
+        ocs:C10321,
+        ocs:C12582 ;
     skos:prefLabel "Scatter fraction" .
 

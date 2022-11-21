@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4856 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Display_motion_blur> ;
     skos:prefLabel "Display motion blur" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C2000,
+        ocs:C12544,
         ocs:C13679,
         ocs:C13725,
         ocs:C15700,
         ocs:C17088,
-        ocs:C2000,
         ocs:C21097,
         ocs:C22257,
         ocs:C45841 .

@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22430 a skos:Concept ;
-    skos:broader ocs:C12262,
-        ocs:C8581 ;
+    skos:broader ocs:C8581,
+        ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/Binary_scaling> ;
     skos:prefLabel "Binary scaling" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C3450,
+        ocs:C4816,
+        ocs:C5566,
+        ocs:C6255,
+        ocs:C7602,
+        ocs:C8581,
+        ocs:C12262,
         ocs:C16377,
         ocs:C17435,
         ocs:C17721,
@@ -15,14 +21,8 @@ ocs:C22430 a skos:Concept ;
         ocs:C27882,
         ocs:C28063,
         ocs:C31030,
-        ocs:C3450,
         ocs:C35045,
         ocs:C36704,
         ocs:C39774,
-        ocs:C45395,
-        ocs:C4816,
-        ocs:C5566,
-        ocs:C6255,
-        ocs:C7602,
-        ocs:C8581 .
+        ocs:C45395 .
 

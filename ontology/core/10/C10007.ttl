@@ -5,7 +5,10 @@ ocs:C10007 a skos:Concept ;
     skos:broader ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Driving_simulator> ;
     skos:prefLabel "Driving simulator" ;
-    skos:related ocs:C10513,
+    skos:related ocs:C24,
+        ocs:C660,
+        ocs:C6881,
+        ocs:C10513,
         ocs:C12976,
         ocs:C13631,
         ocs:C14113,
@@ -15,8 +18,5 @@ ocs:C10007 a skos:Concept ;
         ocs:C17865,
         ocs:C19481,
         ocs:C19849,
-        ocs:C24,
-        ocs:C28881,
-        ocs:C660,
-        ocs:C6881 .
+        ocs:C28881 .
 

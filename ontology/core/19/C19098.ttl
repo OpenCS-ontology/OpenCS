@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19098 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C8367 ;
+    skos:broader ocs:C8367,
+        ocs:C10135 ;
     skos:closeMatch <http://dbpedia.org/resource/Reservoir_sampling> ;
     skos:prefLabel "Reservoir sampling" ;
     skos:related ocs:C10,
+        ocs:C2704,
+        ocs:C3231,
+        ocs:C6537,
+        ocs:C8660,
         ocs:C13312,
         ocs:C13318,
         ocs:C16028,
         ocs:C20343,
         ocs:C25024,
-        ocs:C2704,
         ocs:C28335,
         ocs:C31106,
         ocs:C31892,
-        ocs:C3231,
         ocs:C36120,
         ocs:C38030,
         ocs:C38367,
-        ocs:C41424,
-        ocs:C6537,
-        ocs:C8660 .
+        ocs:C41424 .
 

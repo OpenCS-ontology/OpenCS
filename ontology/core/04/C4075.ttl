@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4075 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Zip_bomb> ;
     skos:prefLabel "Zip bomb" ;
-    skos:related ocs:C10682,
+    skos:related ocs:C1442,
+        ocs:C2941,
+        ocs:C3984,
+        ocs:C5467,
+        ocs:C6605,
+        ocs:C10682,
         ocs:C10917,
-        ocs:C1442,
         ocs:C16481,
         ocs:C19487,
         ocs:C22094,
         ocs:C27557,
         ocs:C29301,
-        ocs:C2941,
         ocs:C29734,
-        ocs:C3984,
         ocs:C41003,
         ocs:C41873,
         ocs:C42140,
-        ocs:C42346,
-        ocs:C5467,
-        ocs:C6605 .
+        ocs:C42346 .
 

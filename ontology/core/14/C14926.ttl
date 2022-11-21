@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14926 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Code_rate> ;
     skos:prefLabel "Code rate" ;
-    skos:related ocs:C15410,
+    skos:related ocs:C4099,
+        ocs:C5816,
+        ocs:C15410,
         ocs:C16106,
         ocs:C16978,
         ocs:C18626,
@@ -22,7 +24,5 @@ ocs:C14926 a skos:Concept ;
         ocs:C37934,
         ocs:C40267,
         ocs:C40903,
-        ocs:C4099,
-        ocs:C42255,
-        ocs:C5816 .
+        ocs:C42255 .
 

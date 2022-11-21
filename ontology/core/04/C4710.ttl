@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4710 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C2,
-        ocs:C3 ;
-    skos:prefLabel "Videophone" ;
-    skos:related ocs:C14869,
-        ocs:C17649,
-        ocs:C19175,
-        ocs:C19350,
-        ocs:C19406,
-        ocs:C2129,
-        ocs:C22407,
-        ocs:C2917,
-        ocs:C29603,
+    skos:broader ocs:C2,
         ocs:C3,
+        ocs:C17 ;
+    skos:prefLabel "Videophone" ;
+    skos:related ocs:C3,
         ocs:C420,
+        ocs:C2129,
+        ocs:C2917,
         ocs:C5996,
         ocs:C7858,
         ocs:C8515,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C14869,
+        ocs:C17649,
+        ocs:C19175,
+        ocs:C19350,
+        ocs:C19406,
+        ocs:C22407,
+        ocs:C29603 .
 

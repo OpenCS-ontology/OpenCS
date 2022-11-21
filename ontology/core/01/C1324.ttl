@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1324 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:prefLabel "Union Lists" ;
-    skos:related ocs:C10220,
-        ocs:C10911,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C23,
         ocs:C2979,
         ocs:C3413,
         ocs:C5832,
         ocs:C6637,
-        ocs:C8498 .
+        ocs:C8498,
+        ocs:C10220,
+        ocs:C10911 .
 

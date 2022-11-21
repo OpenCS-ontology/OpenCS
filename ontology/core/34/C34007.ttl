@@ -5,7 +5,11 @@ ocs:C34007 a skos:Concept ;
     skos:broader ocs:C27832 ;
     skos:closeMatch <http://dbpedia.org/resource/SyncML> ;
     skos:prefLabel "SyncML" ;
-    skos:related ocs:C11305,
+    skos:related ocs:C672,
+        ocs:C5672,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C11305,
         ocs:C11927,
         ocs:C13144,
         ocs:C21424,
@@ -19,9 +23,5 @@ ocs:C34007 a skos:Concept ;
         ocs:C33863,
         ocs:C34429,
         ocs:C36500,
-        ocs:C41776,
-        ocs:C5672,
-        ocs:C672,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C41776 .
 

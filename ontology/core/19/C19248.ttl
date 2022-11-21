@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19248 a skos:Concept ;
-    skos:broader ocs:C13767,
-        ocs:C6753,
-        ocs:C7006 ;
+    skos:broader ocs:C6753,
+        ocs:C7006,
+        ocs:C13767 ;
     skos:prefLabel "Data Origin" ;
-    skos:related ocs:C12093,
-        ocs:C13767,
+    skos:related ocs:C7,
         ocs:C22,
-        ocs:C222,
         ocs:C26,
-        ocs:C3231,
         ocs:C33,
         ocs:C34,
         ocs:C35,
+        ocs:C222,
+        ocs:C3231,
         ocs:C6255,
         ocs:C6753,
-        ocs:C7,
-        ocs:C7006 .
+        ocs:C7006,
+        ocs:C12093,
+        ocs:C13767 .
 

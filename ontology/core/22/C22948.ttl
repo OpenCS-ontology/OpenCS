@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22948 a skos:Concept ;
-    skos:broader ocs:C5659,
-        ocs:C912 ;
+    skos:broader ocs:C912,
+        ocs:C5659 ;
     skos:closeMatch <http://dbpedia.org/resource/Consensus-based_assessment> ;
     skos:prefLabel "Consensus-based assessment" ;
     skos:related ocs:C4825,

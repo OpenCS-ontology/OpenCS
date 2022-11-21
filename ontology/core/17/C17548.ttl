@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17548 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C4099,
+    skos:broader ocs:C4099,
         ocs:C4644,
-        ocs:C5196 ;
+        ocs:C5196,
+        ocs:C11705 ;
     skos:prefLabel "Error control coding" .
 

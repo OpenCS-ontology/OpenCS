@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25304 a skos:Concept ;
-    skos:broader ocs:C6756,
-        ocs:C935 ;
+    skos:broader ocs:C935,
+        ocs:C6756 ;
     skos:prefLabel "Anatomical tree" ;
-    skos:related ocs:C13787,
-        ocs:C22,
-        ocs:C25338,
+    skos:related ocs:C22,
         ocs:C6756,
-        ocs:C9664 .
+        ocs:C9664,
+        ocs:C13787,
+        ocs:C25338 .
 

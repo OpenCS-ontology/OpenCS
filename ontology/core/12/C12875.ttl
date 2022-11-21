@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12875 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Yocto-> ;
     skos:prefLabel "Yocto-" ;
-    skos:related ocs:C10581,
-        ocs:C21311,
+    skos:related ocs:C676,
         ocs:C3470,
         ocs:C4758,
-        ocs:C676,
         ocs:C7783,
         ocs:C8038,
         ocs:C8138,
-        ocs:C9212 .
+        ocs:C9212,
+        ocs:C10581,
+        ocs:C21311 .
 

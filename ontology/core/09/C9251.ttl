@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9251 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Online_search> ;
     skos:prefLabel "Online search" ;
-    skos:related ocs:C12599,
+    skos:related ocs:C428,
+        ocs:C811,
         ocs:C3587,
+        ocs:C4211,
+        ocs:C4968,
+        ocs:C9041,
+        ocs:C9876,
+        ocs:C12599,
         ocs:C36209,
         ocs:C38799,
         ocs:C39074,
         ocs:C40049,
-        ocs:C4211,
-        ocs:C428,
-        ocs:C43593,
-        ocs:C4968,
-        ocs:C811,
-        ocs:C9041,
-        ocs:C9876 .
+        ocs:C43593 .
 

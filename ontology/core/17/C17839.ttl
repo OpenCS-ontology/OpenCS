@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17839 a skos:Concept ;
-    skos:broader ocs:C12454,
-        ocs:C3044,
+    skos:broader ocs:C3044,
         ocs:C3236,
-        ocs:C4099 ;
+        ocs:C4099,
+        ocs:C12454 ;
     skos:prefLabel "Ray launching" .
 

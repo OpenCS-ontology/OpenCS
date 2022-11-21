@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3005 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Industrial_USB> ;
     skos:prefLabel "Industrial USB" ;
-    skos:related ocs:C12698,
+    skos:related ocs:C533,
+        ocs:C2054,
+        ocs:C2205,
+        ocs:C3452,
+        ocs:C4458,
+        ocs:C12698,
         ocs:C14077,
         ocs:C14211,
         ocs:C14938,
         ocs:C15417,
         ocs:C16971,
-        ocs:C2054,
         ocs:C21935,
-        ocs:C2205,
-        ocs:C3452,
-        ocs:C35692,
-        ocs:C4458,
-        ocs:C533 .
+        ocs:C35692 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17804 a skos:Concept ;
-    skos:broader ocs:C1498,
-        ocs:C176 ;
+    skos:broader ocs:C176,
+        ocs:C1498 ;
     skos:closeMatch <http://dbpedia.org/resource/Transclusion> ;
     skos:prefLabel "Transclusion" ;
-    skos:related ocs:C10284,
-        ocs:C11927,
+    skos:related ocs:C31,
+        ocs:C176,
         ocs:C1333,
         ocs:C1498,
+        ocs:C2464,
+        ocs:C5939,
+        ocs:C8614,
+        ocs:C10284,
+        ocs:C11927,
         ocs:C16336,
-        ocs:C176,
         ocs:C22597,
         ocs:C22849,
-        ocs:C2464,
         ocs:C26337,
         ocs:C28801,
         ocs:C30237,
-        ocs:C31,
         ocs:C35567,
-        ocs:C42101,
-        ocs:C5939,
-        ocs:C8614 .
+        ocs:C42101 .
 

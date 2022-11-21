@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18737 a skos:Concept ;
-    skos:broader ocs:C12238,
-        ocs:C5555 ;
+    skos:broader ocs:C5555,
+        ocs:C12238 ;
     skos:closeMatch <http://dbpedia.org/resource/Predictive_policing> ;
     skos:prefLabel "Predictive policing" ;
-    skos:related ocs:C11879,
-        ocs:C15834,
-        ocs:C20994,
-        ocs:C4879,
+    skos:related ocs:C4879,
         ocs:C5155,
-        ocs:C5555 .
+        ocs:C5555,
+        ocs:C11879,
+        ocs:C15834,
+        ocs:C20994 .
 

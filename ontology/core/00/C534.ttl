@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C534 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Morph_target_animation> ;
     skos:prefLabel "Morph target animation" ;
-    skos:related ocs:C11689,
+    skos:related ocs:C622,
+        ocs:C742,
+        ocs:C1904,
+        ocs:C8399,
+        ocs:C11689,
         ocs:C11752,
         ocs:C12257,
         ocs:C17403,
         ocs:C18519,
-        ocs:C1904,
         ocs:C19229,
         ocs:C21609,
         ocs:C23564,
@@ -21,8 +24,5 @@ ocs:C534 a skos:Concept ;
         ocs:C28881,
         ocs:C37128,
         ocs:C38850,
-        ocs:C45620,
-        ocs:C622,
-        ocs:C742,
-        ocs:C8399 .
+        ocs:C45620 .
 

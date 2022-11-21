@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21325 a skos:Concept ;
-    skos:broader ocs:C11413,
-        ocs:C4321 ;
+    skos:broader ocs:C4321,
+        ocs:C11413 ;
     skos:closeMatch <http://dbpedia.org/resource/Oberon-2> ;
     skos:prefLabel "Oberon-2" .
 

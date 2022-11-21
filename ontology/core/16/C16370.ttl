@@ -5,10 +5,12 @@ ocs:C16370 a skos:Concept ;
     skos:broader ocs:C8271 ;
     skos:closeMatch <http://dbpedia.org/resource/Centroidal_Voronoi_tessellation> ;
     skos:prefLabel "Centroidal Voronoi tessellation" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C1832,
+        ocs:C8271,
+        ocs:C9372,
+        ocs:C10382,
         ocs:C14252,
         ocs:C14576,
-        ocs:C1832,
         ocs:C18518,
         ocs:C19972,
         ocs:C26767,
@@ -20,7 +22,5 @@ ocs:C16370 a skos:Concept ;
         ocs:C38213,
         ocs:C40296,
         ocs:C42682,
-        ocs:C45859,
-        ocs:C8271,
-        ocs:C9372 .
+        ocs:C45859 .
 

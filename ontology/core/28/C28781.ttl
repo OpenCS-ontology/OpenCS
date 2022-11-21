@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28781 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C6754 ;
+    skos:broader ocs:C6754,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/ATM_card> ;
     skos:prefLabel "Payment card" ;
-    skos:related ocs:C10270,
+    skos:related ocs:C3410,
+        ocs:C8437,
+        ocs:C10270,
         ocs:C12752,
         ocs:C14011,
         ocs:C16740,
@@ -17,10 +19,8 @@ ocs:C28781 a skos:Concept ;
         ocs:C32504,
         ocs:C33074,
         ocs:C33193,
-        ocs:C3410,
         ocs:C37095,
         ocs:C41037,
         ocs:C44448,
-        ocs:C45140,
-        ocs:C8437 .
+        ocs:C45140 .
 

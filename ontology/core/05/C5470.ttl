@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5470 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Return-to-libc_attack> ;
     skos:prefLabel "Return-to-libc attack" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C9,
+        ocs:C35,
         ocs:C1156,
+        ocs:C2009,
+        ocs:C2545,
+        ocs:C2939,
+        ocs:C10214,
         ocs:C11777,
         ocs:C12605,
         ocs:C14162,
@@ -17,12 +22,7 @@ ocs:C5470 a skos:Concept ;
         ocs:C19349,
         ocs:C19487,
         ocs:C19620,
-        ocs:C2009,
-        ocs:C2545,
         ocs:C28788,
-        ocs:C2939,
         ocs:C33483,
-        ocs:C35,
-        ocs:C35465,
-        ocs:C9 .
+        ocs:C35465 .
 

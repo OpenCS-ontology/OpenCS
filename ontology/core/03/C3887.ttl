@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3887 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Looxcie> ;
     skos:prefLabel "Looxcie" ;
-    skos:related ocs:C10525,
+    skos:related ocs:C16,
+        ocs:C2047,
+        ocs:C2166,
+        ocs:C8614,
+        ocs:C9611,
+        ocs:C10525,
         ocs:C12430,
         ocs:C12979,
-        ocs:C16,
-        ocs:C2047,
         ocs:C21424,
-        ocs:C2166,
         ocs:C24503,
         ocs:C28893,
         ocs:C31110,
         ocs:C32263,
         ocs:C35370,
         ocs:C39979,
-        ocs:C44621,
-        ocs:C8614,
-        ocs:C9611 .
+        ocs:C44621 .
 

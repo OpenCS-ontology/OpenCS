@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28578 a skos:Concept ;
-    skos:broader ocs:C11842,
-        ocs:C1568 ;
+    skos:broader ocs:C1568,
+        ocs:C11842 ;
     skos:closeMatch <http://dbpedia.org/resource/Constant_bitrate> ;
     skos:prefLabel "Constant bitrate" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C3,
+        ocs:C1568,
+        ocs:C2937,
+        ocs:C3636,
+        ocs:C11323,
         ocs:C12152,
         ocs:C12439,
         ocs:C15589,
-        ocs:C1568,
         ocs:C19334,
         ocs:C19484,
         ocs:C20512,
         ocs:C26268,
         ocs:C27081,
         ocs:C27568,
-        ocs:C2937,
-        ocs:C3,
         ocs:C31114,
         ocs:C33614,
-        ocs:C34697,
-        ocs:C3636 .
+        ocs:C34697 .
 

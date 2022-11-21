@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26477 a skos:Concept ;
-    skos:broader ocs:C11433,
-        ocs:C12638,
-        ocs:C4754 ;
+    skos:broader ocs:C4754,
+        ocs:C11433,
+        ocs:C12638 ;
     skos:closeMatch <http://dbpedia.org/resource/UDOP> ;
     skos:prefLabel "UDOP" ;
-    skos:related ocs:C20391,
-        ocs:C4427,
-        ocs:C44487,
-        ocs:C7909 .
+    skos:related ocs:C4427,
+        ocs:C7909,
+        ocs:C20391,
+        ocs:C44487 .
 

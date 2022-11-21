@@ -2,13 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21403 a skos:Concept ;
-    skos:broader ocs:C11932,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C11932 ;
     skos:closeMatch <http://dbpedia.org/resource/Mass_noun> ;
     skos:prefLabel "Mass noun" ;
-    skos:related ocs:C11932,
+    skos:related ocs:C1952,
+        ocs:C7021,
+        ocs:C11932,
         ocs:C14558,
-        ocs:C1952,
         ocs:C20272,
         ocs:C21061,
         ocs:C22126,
@@ -19,6 +20,5 @@ ocs:C21403 a skos:Concept ;
         ocs:C27343,
         ocs:C29296,
         ocs:C31787,
-        ocs:C32159,
-        ocs:C7021 .
+        ocs:C32159 .
 

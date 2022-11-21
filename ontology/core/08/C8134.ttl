@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8134 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Automated_tiered_storage> ;
     skos:prefLabel "Automated tiered storage" ;
-    skos:related ocs:C10501,
+    skos:related ocs:C3160,
+        ocs:C3231,
+        ocs:C3896,
+        ocs:C7622,
+        ocs:C8298,
+        ocs:C9426,
+        ocs:C10501,
         ocs:C13412,
         ocs:C13783,
         ocs:C13875,
@@ -16,12 +22,6 @@ ocs:C8134 a skos:Concept ;
         ocs:C20685,
         ocs:C23599,
         ocs:C29116,
-        ocs:C3160,
-        ocs:C3231,
-        ocs:C3896,
         ocs:C39275,
-        ocs:C43395,
-        ocs:C7622,
-        ocs:C8298,
-        ocs:C9426 .
+        ocs:C43395 .
 

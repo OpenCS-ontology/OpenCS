@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15164 a skos:Concept ;
-    skos:broader ocs:C11095,
-        ocs:C11556,
-        ocs:C13317,
-        ocs:C2807,
+    skos:broader ocs:C2807,
         ocs:C3283,
-        ocs:C8753 ;
+        ocs:C8753,
+        ocs:C11095,
+        ocs:C11556,
+        ocs:C13317 ;
     skos:prefLabel "Asynchronous weak commitment" .
 

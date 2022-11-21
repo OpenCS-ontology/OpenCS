@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3675 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Activity_recognition> ;
     skos:prefLabel "Activity recognition" ;
-    skos:related ocs:C12748,
+    skos:related ocs:C8,
         ocs:C13,
         ocs:C16,
-        ocs:C20327,
         ocs:C21,
-        ocs:C21710,
         ocs:C25,
         ocs:C29,
-        ocs:C29046,
         ocs:C32,
         ocs:C431,
         ocs:C5856,
         ocs:C6822,
-        ocs:C8,
         ocs:C9047,
         ocs:C9428,
-        ocs:C9601 .
+        ocs:C9601,
+        ocs:C12748,
+        ocs:C20327,
+        ocs:C21710,
+        ocs:C29046 .
 

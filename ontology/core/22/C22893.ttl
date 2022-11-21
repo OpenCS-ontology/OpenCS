@@ -3,18 +3,21 @@
 
 ocs:C22893 a skos:Concept ;
     skos:broader ocs:C1142,
-        ocs:C11927,
         ocs:C4218,
-        ocs:C5692 ;
+        ocs:C5692,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/Java_Cryptography_Extension> ;
     skos:prefLabel "Java Cryptography Extension" ;
-    skos:related ocs:C12269,
+    skos:related ocs:C2674,
+        ocs:C4076,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C12269,
         ocs:C12814,
         ocs:C14647,
         ocs:C18803,
         ocs:C18946,
         ocs:C20993,
-        ocs:C2674,
         ocs:C27571,
         ocs:C29363,
         ocs:C29572,
@@ -23,9 +26,6 @@ ocs:C22893 a skos:Concept ;
         ocs:C34625,
         ocs:C36136,
         ocs:C39718,
-        ocs:C4076,
         ocs:C41598,
-        ocs:C4218,
-        ocs:C44122,
-        ocs:C5692 .
+        ocs:C44122 .
 

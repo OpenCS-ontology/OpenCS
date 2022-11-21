@@ -5,7 +5,12 @@ ocs:C33255 a skos:Concept ;
     skos:broader ocs:C15529 ;
     skos:closeMatch <http://dbpedia.org/resource/GUID_Partition_Table> ;
     skos:prefLabel "GUID Partition Table" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C600,
+        ocs:C5695,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C10400,
         ocs:C10568,
         ocs:C13783,
         ocs:C15529,
@@ -16,10 +21,5 @@ ocs:C33255 a skos:Concept ;
         ocs:C28881,
         ocs:C32640,
         ocs:C36536,
-        ocs:C41962,
-        ocs:C5695,
-        ocs:C600,
-        ocs:C6588,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C41962 .
 

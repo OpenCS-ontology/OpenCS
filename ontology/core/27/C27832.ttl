@@ -5,10 +5,14 @@ ocs:C27832 a skos:Concept ;
     skos:broader ocs:C5706 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_synchronization> ;
     skos:prefLabel "Data synchronization" ;
-    skos:related ocs:C10911,
+    skos:related ocs:C9,
+        ocs:C1338,
+        ocs:C6173,
+        ocs:C6225,
+        ocs:C7106,
+        ocs:C10911,
         ocs:C10979,
         ocs:C13144,
-        ocs:C1338,
         ocs:C13719,
         ocs:C24711,
         ocs:C31489,
@@ -16,9 +20,5 @@ ocs:C27832 a skos:Concept ;
         ocs:C34007,
         ocs:C34356,
         ocs:C39186,
-        ocs:C39235,
-        ocs:C6173,
-        ocs:C6225,
-        ocs:C7106,
-        ocs:C9 .
+        ocs:C39235 .
 

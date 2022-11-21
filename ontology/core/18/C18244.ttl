@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18244 a skos:Concept ;
-    skos:broader ocs:C4718,
-        ocs:C81 ;
+    skos:broader ocs:C81,
+        ocs:C4718 ;
     skos:closeMatch <http://dbpedia.org/resource/Vision_for_Space_Exploration> ;
     skos:prefLabel "Vision for Space Exploration" ;
-    skos:related ocs:C15835,
+    skos:related ocs:C81,
         ocs:C1628,
-        ocs:C17254,
         ocs:C2252,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C15835,
+        ocs:C17254,
         ocs:C22980,
         ocs:C23481,
         ocs:C25759,
         ocs:C26021,
         ocs:C28425,
         ocs:C32140,
-        ocs:C35264,
-        ocs:C5293,
-        ocs:C7201,
-        ocs:C81 .
+        ocs:C35264 .
 

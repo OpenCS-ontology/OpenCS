@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8518 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Complex_programmable_logic_device> ;
     skos:prefLabel "Complex programmable logic device" ;
-    skos:related ocs:C11252,
+    skos:related ocs:C4259,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C9908,
+        ocs:C11252,
         ocs:C13747,
         ocs:C14694,
         ocs:C19400,
@@ -18,11 +22,7 @@ ocs:C8518 a skos:Concept ;
         ocs:C31853,
         ocs:C38360,
         ocs:C42028,
-        ocs:C4259,
         ocs:C42760,
         ocs:C43781,
-        ocs:C4464,
-        ocs:C44969,
-        ocs:C5336,
-        ocs:C9908 .
+        ocs:C44969 .
 

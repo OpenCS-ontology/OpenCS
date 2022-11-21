@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1495 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Call_control> ;
     skos:prefLabel "Call control" ;
-    skos:related ocs:C13514,
-        ocs:C13714,
-        ocs:C22407,
-        ocs:C25293,
-        ocs:C28758,
-        ocs:C29460,
-        ocs:C3,
+    skos:related ocs:C3,
         ocs:C3178,
-        ocs:C45886,
         ocs:C6027,
         ocs:C6462,
         ocs:C6821,
         ocs:C8515,
         ocs:C9113,
-        ocs:C9480 .
+        ocs:C9480,
+        ocs:C13514,
+        ocs:C13714,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C29460,
+        ocs:C45886 .
 

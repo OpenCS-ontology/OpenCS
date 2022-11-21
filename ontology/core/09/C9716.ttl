@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9716 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/OTPW> ;
     skos:prefLabel "OTPW" ;
-    skos:related ocs:C13017,
+    skos:related ocs:C9,
+        ocs:C816,
+        ocs:C4513,
+        ocs:C4565,
+        ocs:C13017,
         ocs:C14271,
         ocs:C14354,
         ocs:C19151,
@@ -21,9 +25,5 @@ ocs:C9716 a skos:Concept ;
         ocs:C39193,
         ocs:C41498,
         ocs:C41784,
-        ocs:C43814,
-        ocs:C4513,
-        ocs:C4565,
-        ocs:C816,
-        ocs:C9 .
+        ocs:C43814 .
 

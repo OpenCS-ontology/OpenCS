@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1267 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:prefLabel "Thumb nail" ;
-    skos:related ocs:C10211,
+    skos:related ocs:C2,
+        ocs:C17,
+        ocs:C3231,
+        ocs:C4561,
+        ocs:C8499,
+        ocs:C9993,
+        ocs:C10211,
         ocs:C10973,
         ocs:C11700,
         ocs:C12431,
         ocs:C13065,
-        ocs:C17,
-        ocs:C2,
-        ocs:C22623,
-        ocs:C3231,
-        ocs:C4561,
-        ocs:C8499,
-        ocs:C9993 .
+        ocs:C22623 .
 

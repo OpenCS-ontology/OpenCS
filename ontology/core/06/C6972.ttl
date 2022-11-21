@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6972 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Personal_mobility> ;
     skos:prefLabel "Personal mobility" ;
-    skos:related ocs:C1022,
+    skos:related ocs:C26,
+        ocs:C1022,
+        ocs:C3692,
+        ocs:C4166,
+        ocs:C9107,
         ocs:C12307,
         ocs:C12308,
         ocs:C13709,
@@ -14,14 +18,10 @@ ocs:C6972 a skos:Concept ;
         ocs:C16233,
         ocs:C19702,
         ocs:C25674,
-        ocs:C26,
         ocs:C30078,
         ocs:C30667,
-        ocs:C3692,
         ocs:C38402,
         ocs:C38459,
         ocs:C41578,
-        ocs:C4166,
-        ocs:C43515,
-        ocs:C9107 .
+        ocs:C43515 .
 

@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19873 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12582 ;
     skos:prefLabel "Ring Artifact" ;
-    skos:related ocs:C10318,
-        ocs:C10321,
-        ocs:C11443,
-        ocs:C1879,
-        ocs:C22,
+    skos:related ocs:C22,
         ocs:C695,
+        ocs:C1879,
         ocs:C8021,
-        ocs:C8499 .
+        ocs:C8499,
+        ocs:C10318,
+        ocs:C10321,
+        ocs:C11443 .
 

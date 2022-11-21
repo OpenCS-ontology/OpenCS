@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2183 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/CORC> ;
     skos:prefLabel "CORC" ;
-    skos:related ocs:C10400,
-        ocs:C1130,
-        ocs:C12974,
-        ocs:C13101,
-        ocs:C1333,
-        ocs:C19,
+    skos:related ocs:C19,
         ocs:C220,
-        ocs:C23439,
+        ocs:C659,
+        ocs:C1130,
+        ocs:C1333,
         ocs:C2587,
-        ocs:C28464,
         ocs:C3036,
         ocs:C3818,
         ocs:C4321,
         ocs:C4778,
         ocs:C4937,
         ocs:C6072,
-        ocs:C659,
         ocs:C6714,
         ocs:C9035,
-        ocs:C9168 .
+        ocs:C9168,
+        ocs:C10400,
+        ocs:C12974,
+        ocs:C13101,
+        ocs:C23439,
+        ocs:C28464 .
 

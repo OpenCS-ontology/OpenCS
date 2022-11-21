@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6795 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Valid_time> ;
     skos:prefLabel "Valid time" ;
-    skos:related ocs:C12185,
+    skos:related ocs:C6,
+        ocs:C264,
+        ocs:C4257,
+        ocs:C9773,
+        ocs:C12185,
         ocs:C20927,
         ocs:C23139,
         ocs:C23753,
         ocs:C24811,
         ocs:C25855,
         ocs:C26088,
-        ocs:C264,
         ocs:C28120,
         ocs:C38452,
-        ocs:C4257,
-        ocs:C44596,
-        ocs:C6,
-        ocs:C9773 .
+        ocs:C44596 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7369 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_editing> ;
     skos:prefLabel "Video editing" ;
-    skos:related ocs:C12430,
-        ocs:C12544,
-        ocs:C13095,
+    skos:related ocs:C520,
+        ocs:C622,
         ocs:C2000,
-        ocs:C25356,
-        ocs:C26268,
-        ocs:C40628,
         ocs:C4820,
         ocs:C4980,
-        ocs:C520,
-        ocs:C622,
         ocs:C8256,
         ocs:C8950,
-        ocs:C9748 .
+        ocs:C9748,
+        ocs:C12430,
+        ocs:C12544,
+        ocs:C13095,
+        ocs:C25356,
+        ocs:C26268,
+        ocs:C40628 .
 

@@ -5,10 +5,12 @@ ocs:C41247 a skos:Concept ;
     skos:broader ocs:C33773 ;
     skos:closeMatch <http://dbpedia.org/resource/Network_allocation_vector> ;
     skos:prefLabel "Network allocation vector" ;
-    skos:related ocs:C1398,
+    skos:related ocs:C26,
+        ocs:C1398,
+        ocs:C4720,
+        ocs:C6446,
         ocs:C16022,
         ocs:C21760,
-        ocs:C26,
         ocs:C32171,
         ocs:C33773,
         ocs:C36169,
@@ -21,7 +23,5 @@ ocs:C41247 a skos:Concept ;
         ocs:C42991,
         ocs:C43093,
         ocs:C45396,
-        ocs:C45510,
-        ocs:C4720,
-        ocs:C6446 .
+        ocs:C45510 .
 

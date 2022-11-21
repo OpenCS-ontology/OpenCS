@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10394 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Enon_(robot)> ;
     skos:prefLabel "Enon" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C16,
+        ocs:C4397,
+        ocs:C6464,
+        ocs:C10396,
         ocs:C11529,
         ocs:C13064,
-        ocs:C16,
         ocs:C17816,
         ocs:C19558,
         ocs:C23845,
@@ -20,7 +22,5 @@ ocs:C10394 a skos:Concept ;
         ocs:C37901,
         ocs:C39373,
         ocs:C42061,
-        ocs:C4397,
-        ocs:C44790,
-        ocs:C6464 .
+        ocs:C44790 .
 

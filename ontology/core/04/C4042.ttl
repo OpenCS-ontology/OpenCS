@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4042 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Gezel> ;
     skos:prefLabel "Gezel" ;
     skos:related ocs:C1097,
+        ocs:C2991,
+        ocs:C7015,
+        ocs:C9064,
         ocs:C17790,
         ocs:C19400,
         ocs:C23468,
@@ -15,14 +18,11 @@ ocs:C4042 a skos:Concept ;
         ocs:C26090,
         ocs:C26103,
         ocs:C27883,
-        ocs:C2991,
         ocs:C31853,
         ocs:C33533,
         ocs:C33984,
         ocs:C35746,
         ocs:C36287,
         ocs:C36420,
-        ocs:C37773,
-        ocs:C7015,
-        ocs:C9064 .
+        ocs:C37773 .
 

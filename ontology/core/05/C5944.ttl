@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5944 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C29,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/String_(computer_science)> ;
     skos:prefLabel "String Data." ;
-    skos:related ocs:C10211,
-        ocs:C10444,
-        ocs:C11759,
-        ocs:C12431,
+    skos:related ocs:C2,
         ocs:C16,
-        ocs:C1938,
-        ocs:C2,
         ocs:C22,
         ocs:C25,
+        ocs:C1938,
         ocs:C4032,
         ocs:C5620,
         ocs:C5722,
         ocs:C8021,
-        ocs:C8522 .
+        ocs:C8522,
+        ocs:C10211,
+        ocs:C10444,
+        ocs:C11759,
+        ocs:C12431 .
 

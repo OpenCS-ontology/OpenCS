@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12850 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C10,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Time_of_arrival> ;
     skos:prefLabel "Time of arrival" ;
-    skos:related ocs:C10587,
-        ocs:C12641,
-        ocs:C15882,
-        ocs:C16291,
+    skos:related ocs:C838,
         ocs:C1793,
-        ocs:C27698,
         ocs:C3446,
-        ocs:C35931,
         ocs:C4398,
-        ocs:C44290,
         ocs:C6632,
         ocs:C7159,
         ocs:C7398,
-        ocs:C838 .
+        ocs:C10587,
+        ocs:C12641,
+        ocs:C15882,
+        ocs:C16291,
+        ocs:C27698,
+        ocs:C35931,
+        ocs:C44290 .
 

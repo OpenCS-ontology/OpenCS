@@ -5,10 +5,13 @@ ocs:C1743 a skos:Concept ;
     skos:broader ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/DataDetective> ;
     skos:prefLabel "DataDetective" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C13,
+        ocs:C5155,
+        ocs:C5874,
+        ocs:C9874,
+        ocs:C10382,
         ocs:C10870,
         ocs:C12206,
-        ocs:C13,
         ocs:C16990,
         ocs:C17893,
         ocs:C25520,
@@ -19,8 +22,5 @@ ocs:C1743 a skos:Concept ;
         ocs:C38984,
         ocs:C40296,
         ocs:C40348,
-        ocs:C45455,
-        ocs:C5155,
-        ocs:C5874,
-        ocs:C9874 .
+        ocs:C45455 .
 

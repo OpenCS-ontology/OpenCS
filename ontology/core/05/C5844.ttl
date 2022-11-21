@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5844 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C29,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C29 ;
     skos:prefLabel "Running - confidence" ;
     skos:related ocs:C1 .
 

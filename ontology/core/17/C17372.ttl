@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17372 a skos:Concept ;
-    skos:broader ocs:C10327,
-        ocs:C6531 ;
+    skos:broader ocs:C6531,
+        ocs:C10327 ;
     skos:closeMatch <http://dbpedia.org/resource/Horn_clause> ;
     skos:prefLabel "Horn clause" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C2418,
+        ocs:C3894,
+        ocs:C4149,
+        ocs:C4263,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C7596,
+        ocs:C8077,
+        ocs:C10327,
         ocs:C10825,
         ocs:C11812,
         ocs:C12474,
-        ocs:C2418,
         ocs:C25442,
         ocs:C27884,
         ocs:C28386,
         ocs:C29762,
-        ocs:C3894,
         ocs:C39073,
         ocs:C41138,
-        ocs:C4149,
-        ocs:C4263,
         ocs:C44339,
-        ocs:C44864,
-        ocs:C4756,
-        ocs:C6531,
-        ocs:C7596,
-        ocs:C8077 .
+        ocs:C44864 .
 

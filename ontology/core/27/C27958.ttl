@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27958 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C10135 ;
     skos:closeMatch <http://dbpedia.org/resource/Stream_restoration> ;
     skos:prefLabel "Stream restoration" ;
     skos:related ocs:C14117,

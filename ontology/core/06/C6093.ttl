@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6093 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Anemic_domain_model> ;
     skos:prefLabel "Anemic domain model" ;
-    skos:related ocs:C10508,
+    skos:related ocs:C2303,
+        ocs:C2304,
+        ocs:C3487,
+        ocs:C3729,
+        ocs:C3850,
+        ocs:C4260,
+        ocs:C10508,
         ocs:C10781,
         ocs:C11293,
         ocs:C16160,
         ocs:C22144,
-        ocs:C2303,
-        ocs:C2304,
         ocs:C23181,
         ocs:C27258,
         ocs:C28734,
         ocs:C29401,
         ocs:C31841,
-        ocs:C3487,
-        ocs:C3729,
-        ocs:C3850,
         ocs:C40411,
-        ocs:C4260,
         ocs:C43596 .
 

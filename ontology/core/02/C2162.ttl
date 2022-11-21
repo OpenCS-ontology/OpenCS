@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2162 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
-        ocs:C4 ;
+    skos:broader ocs:C3,
+        ocs:C4,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/G.704> ;
     skos:prefLabel "G.704" ;
-    skos:related ocs:C10093,
+    skos:related ocs:C895,
+        ocs:C7672,
+        ocs:C8902,
+        ocs:C10093,
         ocs:C12273,
         ocs:C12485,
         ocs:C12583,
@@ -21,8 +24,5 @@ ocs:C2162 a skos:Concept ;
         ocs:C37688,
         ocs:C39501,
         ocs:C40353,
-        ocs:C45044,
-        ocs:C7672,
-        ocs:C8902,
-        ocs:C895 .
+        ocs:C45044 .
 

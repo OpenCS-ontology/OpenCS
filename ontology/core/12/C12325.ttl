@@ -2,21 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12325 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Inspector_window> ;
     skos:prefLabel "Inspector window" ;
-    skos:related ocs:C10096,
-        ocs:C12478,
-        ocs:C13790,
-        ocs:C14632,
-        ocs:C15131,
-        ocs:C1787,
-        ocs:C19298,
-        ocs:C22971,
+    skos:related ocs:C1787,
         ocs:C2365,
-        ocs:C26700,
         ocs:C3672,
         ocs:C4253,
         ocs:C4450,
@@ -24,5 +16,13 @@ ocs:C12325 a skos:Concept ;
         ocs:C6860,
         ocs:C7059,
         ocs:C8129,
-        ocs:C9441 .
+        ocs:C9441,
+        ocs:C10096,
+        ocs:C12478,
+        ocs:C13790,
+        ocs:C14632,
+        ocs:C15131,
+        ocs:C19298,
+        ocs:C22971,
+        ocs:C26700 .
 

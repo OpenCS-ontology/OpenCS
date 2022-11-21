@@ -5,10 +5,12 @@ ocs:C12066 a skos:Concept ;
     skos:broader ocs:C8 ;
     skos:closeMatch <http://dbpedia.org/resource/Sigma_knowledge_engineering_environment> ;
     skos:prefLabel "Sigma knowledge engineering environment" ;
-    skos:related ocs:C12856,
+    skos:related ocs:C8,
+        ocs:C3396,
+        ocs:C7500,
+        ocs:C12856,
         ocs:C25681,
         ocs:C32303,
-        ocs:C3396,
         ocs:C34321,
         ocs:C34977,
         ocs:C35993,
@@ -22,7 +24,5 @@ ocs:C12066 a skos:Concept ;
         ocs:C44161,
         ocs:C44162,
         ocs:C45248,
-        ocs:C45752,
-        ocs:C7500,
-        ocs:C8 .
+        ocs:C45752 .
 

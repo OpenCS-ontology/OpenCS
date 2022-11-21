@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18236 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C783 ;
+    skos:broader ocs:C783,
+        ocs:C1253 ;
     skos:closeMatch <http://dbpedia.org/resource/RTAI> ;
     skos:prefLabel "RTAI" ;
-    skos:related ocs:C1042,
+    skos:related ocs:C9,
+        ocs:C33,
+        ocs:C1042,
+        ocs:C2253,
+        ocs:C2314,
+        ocs:C5912,
         ocs:C12984,
         ocs:C20800,
-        ocs:C2253,
         ocs:C22742,
-        ocs:C2314,
         ocs:C24007,
         ocs:C26769,
         ocs:C28515,
@@ -19,11 +22,8 @@ ocs:C18236 a skos:Concept ;
         ocs:C30860,
         ocs:C31267,
         ocs:C31489,
-        ocs:C33,
         ocs:C36897,
         ocs:C39654,
         ocs:C39713,
-        ocs:C45553,
-        ocs:C5912,
-        ocs:C9 .
+        ocs:C45553 .
 

@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24704 a skos:Concept ;
-    skos:broader ocs:C10325,
-        ocs:C7006,
-        ocs:C8614 ;
+    skos:broader ocs:C7006,
+        ocs:C8614,
+        ocs:C10325 ;
     skos:closeMatch <http://dbpedia.org/resource/Session_hijacking> ;
     skos:prefLabel "Session hijacking" ;
-    skos:related ocs:C10325,
+    skos:related ocs:C31,
+        ocs:C2941,
+        ocs:C3645,
+        ocs:C7006,
+        ocs:C10325,
         ocs:C16338,
         ocs:C19156,
         ocs:C20243,
@@ -17,13 +21,9 @@ ocs:C24704 a skos:Concept ;
         ocs:C25296,
         ocs:C27923,
         ocs:C28881,
-        ocs:C2941,
-        ocs:C31,
         ocs:C31767,
-        ocs:C3645,
         ocs:C41498,
         ocs:C42057,
         ocs:C42100,
-        ocs:C45494,
-        ocs:C7006 .
+        ocs:C45494 .
 

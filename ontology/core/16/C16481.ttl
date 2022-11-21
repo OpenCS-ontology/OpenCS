@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16481 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C2941 ;
+    skos:broader ocs:C2941,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/Rootkit> ;
     skos:prefLabel "Rootkit" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C35,
+        ocs:C2941,
+        ocs:C4031,
+        ocs:C10400,
         ocs:C10568,
         ocs:C14466,
         ocs:C15529,
@@ -16,11 +20,7 @@ ocs:C16481 a skos:Concept ;
         ocs:C24871,
         ocs:C27557,
         ocs:C28881,
-        ocs:C2941,
         ocs:C31489,
         ocs:C34356,
-        ocs:C35,
-        ocs:C36897,
-        ocs:C4031,
-        ocs:C9 .
+        ocs:C36897 .
 

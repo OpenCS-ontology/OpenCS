@@ -5,15 +5,16 @@ ocs:C5408 a skos:Concept ;
     skos:broader ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_security_operations_center> ;
     skos:prefLabel "Information security operations center" ;
-    skos:related ocs:C10565,
+    skos:related ocs:C35,
+        ocs:C1399,
+        ocs:C2352,
+        ocs:C5509,
+        ocs:C10565,
         ocs:C11447,
         ocs:C13307,
-        ocs:C1399,
         ocs:C15729,
-        ocs:C2352,
         ocs:C25176,
         ocs:C25619,
-        ocs:C35,
         ocs:C35628,
         ocs:C38530,
         ocs:C39016,
@@ -22,6 +23,5 @@ ocs:C5408 a skos:Concept ;
         ocs:C41708,
         ocs:C41901,
         ocs:C45582,
-        ocs:C45587,
-        ocs:C5509 .
+        ocs:C45587 .
 

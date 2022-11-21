@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25869 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C8781 ;
+    skos:broader ocs:C8781,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/Craig_interpolation> ;
     skos:prefLabel "Craig interpolation" ;
-    skos:related ocs:C10622,
+    skos:related ocs:C1604,
+        ocs:C2418,
+        ocs:C2727,
+        ocs:C4517,
+        ocs:C4756,
+        ocs:C5714,
+        ocs:C8635,
+        ocs:C10622,
         ocs:C10825,
         ocs:C12346,
         ocs:C12474,
-        ocs:C1604,
         ocs:C23931,
-        ocs:C2418,
         ocs:C25442,
         ocs:C26635,
-        ocs:C2727,
-        ocs:C4517,
         ocs:C45525,
-        ocs:C45817,
-        ocs:C4756,
-        ocs:C5714,
-        ocs:C8635 .
+        ocs:C45817 .
 

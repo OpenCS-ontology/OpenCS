@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17266 a skos:Concept ;
-    skos:broader ocs:C12810,
-        ocs:C2464 ;
+    skos:broader ocs:C2464,
+        ocs:C12810 ;
     skos:closeMatch <http://dbpedia.org/resource/Clickjacking> ;
     skos:prefLabel "Clickjacking" ;
-    skos:related ocs:C16338,
-        ocs:C20937,
-        ocs:C22284,
+    skos:related ocs:C31,
+        ocs:C35,
         ocs:C2464,
         ocs:C2592,
         ocs:C2941,
+        ocs:C4918,
+        ocs:C16338,
+        ocs:C20937,
+        ocs:C22284,
         ocs:C29803,
         ocs:C30365,
         ocs:C30926,
-        ocs:C31,
-        ocs:C35,
         ocs:C39074,
         ocs:C39663,
         ocs:C41498,
         ocs:C41936,
         ocs:C42057,
         ocs:C45402,
-        ocs:C45494,
-        ocs:C4918 .
+        ocs:C45494 .
 

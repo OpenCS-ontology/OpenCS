@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6923 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Integration_platform> ;
     skos:prefLabel "Integration platform" ;
-    skos:related ocs:C10609,
+    skos:related ocs:C9,
+        ocs:C1253,
+        ocs:C2304,
+        ocs:C6503,
+        ocs:C10609,
         ocs:C10904,
         ocs:C10979,
         ocs:C11886,
         ocs:C11927,
-        ocs:C1253,
         ocs:C13068,
         ocs:C13205,
         ocs:C13525,
         ocs:C17238,
-        ocs:C2304,
         ocs:C26837,
         ocs:C28632,
         ocs:C31667,
-        ocs:C39686,
-        ocs:C6503,
-        ocs:C9 .
+        ocs:C39686 .
 

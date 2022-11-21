@@ -5,7 +5,10 @@ ocs:C21961 a skos:Concept ;
     skos:broader ocs:C8614 ;
     skos:closeMatch <http://dbpedia.org/resource/Internet_pornography> ;
     skos:prefLabel "Internet pornography" ;
-    skos:related ocs:C11540,
+    skos:related ocs:C31,
+        ocs:C2941,
+        ocs:C8614,
+        ocs:C11540,
         ocs:C16181,
         ocs:C16205,
         ocs:C16369,
@@ -17,8 +20,5 @@ ocs:C21961 a skos:Concept ;
         ocs:C25346,
         ocs:C27557,
         ocs:C28885,
-        ocs:C2941,
-        ocs:C31,
-        ocs:C40049,
-        ocs:C8614 .
+        ocs:C40049 .
 

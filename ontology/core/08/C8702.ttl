@@ -5,7 +5,10 @@ ocs:C8702 a skos:Concept ;
     skos:broader ocs:C6 ;
     skos:closeMatch <http://dbpedia.org/resource/Durability_(database_systems)> ;
     skos:prefLabel "Durability" ;
-    skos:related ocs:C22879,
+    skos:related ocs:C6,
+        ocs:C6754,
+        ocs:C8184,
+        ocs:C22879,
         ocs:C23694,
         ocs:C23753,
         ocs:C30273,
@@ -21,8 +24,5 @@ ocs:C8702 a skos:Concept ;
         ocs:C44650,
         ocs:C45000,
         ocs:C45370,
-        ocs:C45466,
-        ocs:C6,
-        ocs:C6754,
-        ocs:C8184 .
+        ocs:C45466 .
 

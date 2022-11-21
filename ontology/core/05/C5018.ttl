@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5018 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Human_video> ;
     skos:prefLabel "Human video" ;
-    skos:related ocs:C15966,
-        ocs:C2480,
-        ocs:C27055,
-        ocs:C7858 .
+    skos:related ocs:C2480,
+        ocs:C7858,
+        ocs:C15966,
+        ocs:C27055 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10507 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Memory_institution> ;
     skos:prefLabel "Memory institution" ;
-    skos:related ocs:C11087,
+    skos:related ocs:C4,
+        ocs:C12,
+        ocs:C178,
+        ocs:C5351,
+        ocs:C7607,
+        ocs:C8990,
+        ocs:C9546,
+        ocs:C11087,
         ocs:C11578,
         ocs:C11914,
-        ocs:C12,
         ocs:C12491,
         ocs:C14238,
         ocs:C15008,
         ocs:C17608,
-        ocs:C178,
         ocs:C22849,
         ocs:C23629,
         ocs:C25681,
-        ocs:C4,
-        ocs:C41877,
-        ocs:C5351,
-        ocs:C7607,
-        ocs:C8990,
-        ocs:C9546 .
+        ocs:C41877 .
 

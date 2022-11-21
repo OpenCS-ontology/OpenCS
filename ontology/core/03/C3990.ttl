@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3990 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C30,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Concurrency_(computer_science)> ;
     skos:prefLabel "Concurrency" ;
     skos:related ocs:C1,
+        ocs:C9,
+        ocs:C27,
+        ocs:C30,
+        ocs:C3514,
+        ocs:C5279,
+        ocs:C5974,
+        ocs:C6346,
+        ocs:C7903,
+        ocs:C8204,
         ocs:C12098,
         ocs:C12427,
         ocs:C12690,
         ocs:C13408,
         ocs:C17626,
         ocs:C25382,
-        ocs:C27,
-        ocs:C30,
         ocs:C32014,
-        ocs:C3514,
-        ocs:C36771,
-        ocs:C5279,
-        ocs:C5974,
-        ocs:C6346,
-        ocs:C7903,
-        ocs:C8204,
-        ocs:C9 .
+        ocs:C36771 .
 

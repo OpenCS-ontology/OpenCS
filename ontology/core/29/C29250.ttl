@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29250 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C11927,
-        ocs:C1253,
-        ocs:C7170 ;
+    skos:broader ocs:C1253,
+        ocs:C7170,
+        ocs:C11886,
+        ocs:C11927 ;
     skos:prefLabel "Standard exchange format" .
 

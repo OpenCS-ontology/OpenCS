@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8579 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/TMS320C8x> ;
     skos:prefLabel "TMS320C8x" ;
-    skos:related ocs:C11326,
+    skos:related ocs:C6172,
+        ocs:C6447,
+        ocs:C7012,
+        ocs:C11326,
         ocs:C15336,
         ocs:C19487,
         ocs:C19556,
@@ -17,8 +20,5 @@ ocs:C8579 a skos:Concept ;
         ocs:C36673,
         ocs:C42977,
         ocs:C43505,
-        ocs:C43964,
-        ocs:C6172,
-        ocs:C6447,
-        ocs:C7012 .
+        ocs:C43964 .
 

@@ -5,7 +5,10 @@ ocs:C5157 a skos:Concept ;
     skos:broader ocs:C8 ;
     skos:closeMatch <http://dbpedia.org/resource/Boustrophedon_cell_decomposition> ;
     skos:prefLabel "Boustrophedon cell decomposition" ;
-    skos:related ocs:C11033,
+    skos:related ocs:C8,
+        ocs:C979,
+        ocs:C7732,
+        ocs:C11033,
         ocs:C14326,
         ocs:C17117,
         ocs:C17236,
@@ -20,8 +23,5 @@ ocs:C5157 a skos:Concept ;
         ocs:C36944,
         ocs:C41082,
         ocs:C44174,
-        ocs:C45365,
-        ocs:C7732,
-        ocs:C8,
-        ocs:C979 .
+        ocs:C45365 .
 

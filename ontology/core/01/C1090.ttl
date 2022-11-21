@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1090 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Archival_science> ;
     skos:prefLabel "Archival science" ;
-    skos:related ocs:C11087,
-        ocs:C11492,
-        ocs:C11751,
-        ocs:C15008,
-        ocs:C17514,
+    skos:related ocs:C4,
         ocs:C2862,
         ocs:C3896,
         ocs:C3997,
-        ocs:C4,
         ocs:C4335,
         ocs:C5031,
         ocs:C7255,
         ocs:C8639,
-        ocs:C9892 .
+        ocs:C9892,
+        ocs:C11087,
+        ocs:C11492,
+        ocs:C11751,
+        ocs:C15008,
+        ocs:C17514 .
 

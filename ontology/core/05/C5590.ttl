@@ -5,10 +5,16 @@ ocs:C5590 a skos:Concept ;
     skos:broader ocs:C6 ;
     skos:closeMatch <http://dbpedia.org/resource/Pick_operating_system> ;
     skos:prefLabel "Pick operating system" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C1253,
+        ocs:C3896,
+        ocs:C8022,
+        ocs:C8787,
+        ocs:C9035,
+        ocs:C10320,
         ocs:C10444,
         ocs:C12185,
-        ocs:C1253,
         ocs:C12815,
         ocs:C12851,
         ocs:C13101,
@@ -17,11 +23,5 @@ ocs:C5590 a skos:Concept ;
         ocs:C28881,
         ocs:C28963,
         ocs:C30078,
-        ocs:C31489,
-        ocs:C3896,
-        ocs:C6,
-        ocs:C8022,
-        ocs:C8787,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C31489 .
 

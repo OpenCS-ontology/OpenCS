@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8473 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Qualitative_reasoning> ;
     skos:prefLabel "Qualitative reasoning" ;
-    skos:related ocs:C10479,
-        ocs:C11781,
+    skos:related ocs:C8,
         ocs:C2798,
-        ocs:C29110,
         ocs:C5660,
         ocs:C7163,
-        ocs:C8 .
+        ocs:C10479,
+        ocs:C11781,
+        ocs:C29110 .
 

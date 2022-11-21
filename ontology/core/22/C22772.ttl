@@ -5,7 +5,10 @@ ocs:C22772 a skos:Concept ;
     skos:broader ocs:C7553 ;
     skos:closeMatch <http://dbpedia.org/resource/Selection_(genetic_algorithm)> ;
     skos:prefLabel "Selection (genetic algorithm)" ;
-    skos:related ocs:C13610,
+    skos:related ocs:C4462,
+        ocs:C7553,
+        ocs:C9484,
+        ocs:C13610,
         ocs:C13633,
         ocs:C14353,
         ocs:C17599,
@@ -19,8 +22,5 @@ ocs:C22772 a skos:Concept ;
         ocs:C38437,
         ocs:C38697,
         ocs:C40767,
-        ocs:C4462,
-        ocs:C45180,
-        ocs:C7553,
-        ocs:C9484 .
+        ocs:C45180 .
 

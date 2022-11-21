@@ -2,18 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25157 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C6754 ;
+    skos:broader ocs:C6754,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/T-code> ;
     skos:prefLabel "Transaction Code" ;
-    skos:related ocs:C10270,
-        ocs:C11991,
-        ocs:C15728,
-        ocs:C2,
-        ocs:C25306,
+    skos:related ocs:C2,
         ocs:C3,
         ocs:C30,
-        ocs:C33458,
         ocs:C5160,
         ocs:C6069,
         ocs:C6999,
@@ -21,5 +16,10 @@ ocs:C25157 a skos:Concept ;
         ocs:C7733,
         ocs:C8566,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C10270,
+        ocs:C11991,
+        ocs:C15728,
+        ocs:C25306,
+        ocs:C33458 .
 

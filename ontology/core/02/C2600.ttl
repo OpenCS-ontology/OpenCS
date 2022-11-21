@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2600 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Parallel_slowdown> ;
     skos:prefLabel "Parallel slowdown" ;
-    skos:related ocs:C12690,
+    skos:related ocs:C27,
+        ocs:C30,
+        ocs:C1904,
+        ocs:C3699,
+        ocs:C4155,
+        ocs:C6312,
+        ocs:C7735,
+        ocs:C9872,
+        ocs:C12690,
         ocs:C12780,
         ocs:C17626,
-        ocs:C1904,
         ocs:C19525,
         ocs:C21933,
         ocs:C23262,
         ocs:C23783,
         ocs:C26582,
-        ocs:C27,
-        ocs:C30,
         ocs:C31371,
         ocs:C33348,
         ocs:C36763,
-        ocs:C3699,
-        ocs:C37849,
-        ocs:C4155,
-        ocs:C6312,
-        ocs:C7735,
-        ocs:C9872 .
+        ocs:C37849 .
 

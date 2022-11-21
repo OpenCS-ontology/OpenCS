@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10385 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Standard_Commands_for_Programmable_Instruments> ;
     skos:prefLabel "Standard Commands for Programmable Instruments" ;
-    skos:related ocs:C13012,
+    skos:related ocs:C19,
+        ocs:C490,
+        ocs:C857,
+        ocs:C2674,
+        ocs:C5624,
+        ocs:C8024,
+        ocs:C9162,
+        ocs:C13012,
         ocs:C13581,
         ocs:C14077,
         ocs:C18495,
-        ocs:C19,
-        ocs:C2674,
         ocs:C34427,
         ocs:C35468,
-        ocs:C38157,
-        ocs:C490,
-        ocs:C5624,
-        ocs:C8024,
-        ocs:C857,
-        ocs:C9162 .
+        ocs:C38157 .
 

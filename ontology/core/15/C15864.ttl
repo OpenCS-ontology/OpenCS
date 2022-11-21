@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15864 a skos:Concept ;
-    skos:broader ocs:C13317,
-        ocs:C4155 ;
+    skos:broader ocs:C4155,
+        ocs:C13317 ;
     skos:closeMatch <http://dbpedia.org/resource/Distributed_tree_search> ;
     skos:prefLabel "Distributed tree search" ;
-    skos:related ocs:C13317,
+    skos:related ocs:C27,
+        ocs:C6697,
+        ocs:C7397,
+        ocs:C8022,
+        ocs:C13317,
         ocs:C25057,
         ocs:C26753,
-        ocs:C27,
         ocs:C32362,
         ocs:C36074,
         ocs:C36112,
@@ -18,8 +21,5 @@ ocs:C15864 a skos:Concept ;
         ocs:C39981,
         ocs:C41601,
         ocs:C43106,
-        ocs:C45739,
-        ocs:C6697,
-        ocs:C7397,
-        ocs:C8022 .
+        ocs:C45739 .
 

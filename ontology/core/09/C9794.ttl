@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9794 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Stick_figure> ;
     skos:prefLabel "Stick figure" ;
-    skos:related ocs:C11752,
-        ocs:C12492,
-        ocs:C23564,
+    skos:related ocs:C622,
         ocs:C4388,
-        ocs:C622 .
+        ocs:C11752,
+        ocs:C12492,
+        ocs:C23564 .
 

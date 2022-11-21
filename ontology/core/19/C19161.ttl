@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19161 a skos:Concept ;
-    skos:broader ocs:C12979,
-        ocs:C9601 ;
+    skos:broader ocs:C9601,
+        ocs:C12979 ;
     skos:closeMatch <http://dbpedia.org/resource/Autographer> ;
     skos:prefLabel "Autographer" ;
     skos:related ocs:C1042,
+        ocs:C6019,
+        ocs:C7850,
+        ocs:C8021,
+        ocs:C8746,
+        ocs:C9601,
         ocs:C12979,
         ocs:C13065,
         ocs:C17132,
@@ -17,10 +22,5 @@ ocs:C19161 a skos:Concept ;
         ocs:C29061,
         ocs:C30745,
         ocs:C31110,
-        ocs:C35075,
-        ocs:C6019,
-        ocs:C7850,
-        ocs:C8021,
-        ocs:C8746,
-        ocs:C9601 .
+        ocs:C35075 .
 

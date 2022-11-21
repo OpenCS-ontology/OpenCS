@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4527 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Confirmation_dialog_box> ;
     skos:prefLabel "Confirmation dialog box" ;
-    skos:related ocs:C12325,
-        ocs:C1253,
+    skos:related ocs:C1253,
         ocs:C1787,
-        ocs:C26696,
-        ocs:C27331,
         ocs:C2878,
-        ocs:C28881,
         ocs:C2930,
         ocs:C2941,
-        ocs:C29670,
         ocs:C3679,
-        ocs:C39917,
-        ocs:C44483,
         ocs:C6459,
         ocs:C8129,
         ocs:C9220,
         ocs:C9441,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C12325,
+        ocs:C26696,
+        ocs:C27331,
+        ocs:C28881,
+        ocs:C29670,
+        ocs:C39917,
+        ocs:C44483 .
 

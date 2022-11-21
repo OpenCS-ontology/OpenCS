@@ -2,15 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C616 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/UMTS_frequency_bands> ;
     skos:prefLabel "UMTS frequency bands" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C1841,
+        ocs:C8021,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12641,
         ocs:C12853,
         ocs:C16693,
         ocs:C17999,
-        ocs:C1841,
         ocs:C21424,
         ocs:C27704,
         ocs:C31200,
@@ -21,8 +24,5 @@ ocs:C616 a skos:Concept ;
         ocs:C37303,
         ocs:C40435,
         ocs:C41460,
-        ocs:C43300,
-        ocs:C8021,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C43300 .
 

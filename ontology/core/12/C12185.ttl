@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12185 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/SQL> ;
     skos:prefLabel "SQL" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C6,
+        ocs:C19,
+        ocs:C264,
+        ocs:C2674,
+        ocs:C3036,
+        ocs:C4918,
+        ocs:C10284,
         ocs:C10444,
         ocs:C10720,
         ocs:C11927,
@@ -15,14 +21,8 @@ ocs:C12185 a skos:Concept ;
         ocs:C16874,
         ocs:C16901,
         ocs:C17701,
-        ocs:C19,
-        ocs:C264,
-        ocs:C2674,
         ocs:C28881,
         ocs:C28963,
-        ocs:C3036,
         ocs:C30561,
-        ocs:C31489,
-        ocs:C4918,
-        ocs:C6 .
+        ocs:C31489 .
 

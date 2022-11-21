@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9603 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C18,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Augmented_reality> ;
     skos:prefLabel "Augmented reality" ;
-    skos:related ocs:C1239,
-        ocs:C12641,
-        ocs:C13320,
-        ocs:C1338,
-        ocs:C15986,
-        ocs:C17236,
+    skos:related ocs:C7,
+        ocs:C8,
         ocs:C18,
         ocs:C22,
-        ocs:C24825,
-        ocs:C25022,
+        ocs:C1239,
+        ocs:C1338,
         ocs:C2883,
-        ocs:C28881,
-        ocs:C31110,
-        ocs:C34997,
-        ocs:C7,
         ocs:C7850,
-        ocs:C8,
         ocs:C8614,
         ocs:C9047,
-        ocs:C9601 .
+        ocs:C9601,
+        ocs:C12641,
+        ocs:C13320,
+        ocs:C15986,
+        ocs:C17236,
+        ocs:C24825,
+        ocs:C25022,
+        ocs:C28881,
+        ocs:C31110,
+        ocs:C34997 .
 

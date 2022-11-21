@@ -3,12 +3,16 @@
 
 ocs:C10983 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Global_Descriptor_Table> ;
     skos:prefLabel "Global Descriptor Table" ;
-    skos:related ocs:C12323,
+    skos:related ocs:C9,
         ocs:C1251,
+        ocs:C5147,
+        ocs:C6542,
+        ocs:C7635,
+        ocs:C12323,
         ocs:C19487,
         ocs:C27025,
         ocs:C28881,
@@ -20,9 +24,5 @@ ocs:C10983 a skos:Concept ;
         ocs:C37847,
         ocs:C38819,
         ocs:C39555,
-        ocs:C41159,
-        ocs:C5147,
-        ocs:C6542,
-        ocs:C7635,
-        ocs:C9 .
+        ocs:C41159 .
 

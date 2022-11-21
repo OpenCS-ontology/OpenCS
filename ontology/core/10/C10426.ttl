@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10426 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/UV_mapping> ;
     skos:prefLabel "UV mapping" ;
-    skos:related ocs:C11689,
+    skos:related ocs:C22,
+        ocs:C331,
+        ocs:C6448,
+        ocs:C7682,
+        ocs:C8399,
+        ocs:C11689,
         ocs:C12577,
         ocs:C12832,
         ocs:C18519,
         ocs:C19229,
         ocs:C19559,
         ocs:C21609,
-        ocs:C22,
-        ocs:C331,
         ocs:C33277,
         ocs:C35225,
         ocs:C36542,
-        ocs:C38850,
-        ocs:C6448,
-        ocs:C7682,
-        ocs:C8399 .
+        ocs:C38850 .
 

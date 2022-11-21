@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5507 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Defeasible_reasoning> ;
     skos:prefLabel "Defeasible reasoning" ;
-    skos:related ocs:C10479,
+    skos:related ocs:C8,
+        ocs:C852,
+        ocs:C1092,
+        ocs:C2010,
+        ocs:C3579,
+        ocs:C7467,
+        ocs:C10479,
         ocs:C10551,
         ocs:C10825,
-        ocs:C1092,
         ocs:C11088,
         ocs:C12474,
-        ocs:C2010,
         ocs:C20246,
-        ocs:C3579,
-        ocs:C43307,
-        ocs:C7467,
-        ocs:C8,
-        ocs:C852 .
+        ocs:C43307 .
 

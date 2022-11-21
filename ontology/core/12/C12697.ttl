@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12697 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C28,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Inferential_programming> ;
     skos:prefLabel "Inferential programming" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C25,
+        ocs:C7553,
+        ocs:C8887,
         ocs:C11143,
         ocs:C13633,
         ocs:C14353,
         ocs:C14921,
         ocs:C17236,
         ocs:C17733,
-        ocs:C25,
         ocs:C25025,
         ocs:C27563,
         ocs:C32353,
         ocs:C33012,
         ocs:C33143,
         ocs:C36567,
-        ocs:C41431,
-        ocs:C7553,
-        ocs:C8,
-        ocs:C8887 .
+        ocs:C41431 .
 

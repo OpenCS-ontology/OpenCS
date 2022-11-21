@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13952 a skos:Concept ;
-    skos:broader ocs:C11529,
-        ocs:C12919,
-        ocs:C1444,
+    skos:broader ocs:C1444,
         ocs:C5856,
-        ocs:C9686 ;
+        ocs:C9686,
+        ocs:C11529,
+        ocs:C12919 ;
     skos:prefLabel "Vocal tract normalization" .
 

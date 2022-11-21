@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16293 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C9690 ;
+    skos:broader ocs:C9690,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/World_Geodetic_System> ;
     skos:prefLabel "World Geodetic System" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C8708,
+        ocs:C12641,
         ocs:C14652,
         ocs:C18568,
         ocs:C24604,
-        ocs:C30827,
-        ocs:C8708 .
+        ocs:C30827 .
 

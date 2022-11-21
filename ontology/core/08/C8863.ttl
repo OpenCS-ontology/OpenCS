@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8863 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Relocation_(computing)> ;
     skos:prefLabel "Relocation" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C9,
+        ocs:C3071,
+        ocs:C4321,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C10214,
         ocs:C11777,
         ocs:C14162,
         ocs:C17204,
@@ -14,13 +19,8 @@ ocs:C8863 a skos:Concept ;
         ocs:C22453,
         ocs:C25185,
         ocs:C26607,
-        ocs:C3071,
         ocs:C38819,
         ocs:C39214,
         ocs:C39282,
-        ocs:C4321,
-        ocs:C45909,
-        ocs:C7800,
-        ocs:C8242,
-        ocs:C9 .
+        ocs:C45909 .
 

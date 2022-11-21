@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12494 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Ntropy> ;
     skos:prefLabel "Ntropy" ;
     skos:related ocs:C10,
-        ocs:C13296,
+        ocs:C27,
         ocs:C1831,
+        ocs:C3486,
+        ocs:C4518,
+        ocs:C5766,
+        ocs:C7735,
+        ocs:C8452,
+        ocs:C8519,
+        ocs:C8565,
+        ocs:C13296,
         ocs:C19326,
         ocs:C20539,
         ocs:C20607,
         ocs:C24943,
         ocs:C26515,
-        ocs:C27,
-        ocs:C3486,
         ocs:C40330,
         ocs:C40658,
         ocs:C44223,
-        ocs:C4518,
-        ocs:C45739,
-        ocs:C5766,
-        ocs:C7735,
-        ocs:C8452,
-        ocs:C8519,
-        ocs:C8565 .
+        ocs:C45739 .
 

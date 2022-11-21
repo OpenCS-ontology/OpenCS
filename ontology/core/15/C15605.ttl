@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15605 a skos:Concept ;
-    skos:broader ocs:C10619,
-        ocs:C12780,
-        ocs:C4804,
-        ocs:C5279 ;
+    skos:broader ocs:C4804,
+        ocs:C5279,
+        ocs:C10619,
+        ocs:C12780 ;
     skos:prefLabel "Message passing multiprocessor" .
 

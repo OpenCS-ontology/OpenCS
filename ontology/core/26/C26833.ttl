@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26833 a skos:Concept ;
-    skos:broader ocs:C10396,
-        ocs:C1496 ;
+    skos:broader ocs:C1496,
+        ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/RT_middleware> ;
     skos:prefLabel "RT middleware" ;
-    skos:related ocs:C10396,
-        ocs:C11293,
+    skos:related ocs:C357,
+        ocs:C661,
         ocs:C1496,
+        ocs:C10396,
+        ocs:C11293,
         ocs:C21419,
         ocs:C24871,
         ocs:C28881,
         ocs:C31489,
         ocs:C32723,
         ocs:C33991,
-        ocs:C357,
         ocs:C35870,
         ocs:C37379,
-        ocs:C41622,
-        ocs:C661 .
+        ocs:C41622 .
 

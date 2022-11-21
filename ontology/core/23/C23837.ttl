@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23837 a skos:Concept ;
-    skos:broader ocs:C12689,
-        ocs:C1386,
+    skos:broader ocs:C1386,
         ocs:C3077,
-        ocs:C5319 ;
+        ocs:C5319,
+        ocs:C12689 ;
     skos:prefLabel "Indian scripts" .
 

@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3850 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Active_record_pattern> ;
     skos:prefLabel "Active record pattern" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C6,
+        ocs:C5939,
+        ocs:C7395,
+        ocs:C7530,
+        ocs:C10182,
         ocs:C10444,
         ocs:C10720,
         ocs:C12185,
@@ -19,9 +23,5 @@ ocs:C3850 a skos:Concept ;
         ocs:C34066,
         ocs:C38364,
         ocs:C39752,
-        ocs:C41987,
-        ocs:C5939,
-        ocs:C6,
-        ocs:C7395,
-        ocs:C7530 .
+        ocs:C41987 .
 

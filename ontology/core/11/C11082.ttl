@@ -2,20 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11082 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/C11_(C_standard_revision)> ;
     skos:prefLabel "C11" ;
-    skos:related ocs:C1083,
+    skos:related ocs:C174,
+        ocs:C1083,
         ocs:C1165,
-        ocs:C14990,
-        ocs:C17316,
-        ocs:C174,
-        ocs:C18228,
-        ocs:C18991,
-        ocs:C25570,
-        ocs:C28582,
-        ocs:C31341,
         ocs:C3398,
         ocs:C4321,
         ocs:C5126,
@@ -23,5 +16,12 @@ ocs:C11082 a skos:Concept ;
         ocs:C5468,
         ocs:C8204,
         ocs:C8323,
-        ocs:C9160 .
+        ocs:C9160,
+        ocs:C14990,
+        ocs:C17316,
+        ocs:C18228,
+        ocs:C18991,
+        ocs:C25570,
+        ocs:C28582,
+        ocs:C31341 .
 

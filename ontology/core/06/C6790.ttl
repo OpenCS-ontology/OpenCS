@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6790 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Z39.50> ;
     skos:prefLabel "Z39.50" ;
-    skos:related ocs:C10413,
+    skos:related ocs:C6,
+        ocs:C31,
+        ocs:C922,
+        ocs:C3896,
+        ocs:C3968,
+        ocs:C4781,
+        ocs:C5877,
+        ocs:C7016,
+        ocs:C8614,
+        ocs:C9041,
+        ocs:C10413,
         ocs:C11927,
         ocs:C15478,
         ocs:C16980,
         ocs:C22597,
         ocs:C23088,
         ocs:C29359,
-        ocs:C31,
-        ocs:C3896,
-        ocs:C3968,
         ocs:C40049,
-        ocs:C41375,
-        ocs:C4781,
-        ocs:C5877,
-        ocs:C6,
-        ocs:C7016,
-        ocs:C8614,
-        ocs:C9041,
-        ocs:C922 .
+        ocs:C41375 .
 

@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4805 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:prefLabel "Network engineering" ;
     skos:related ocs:C1,
-        ocs:C10733,
         ocs:C14,
-        ocs:C1563,
-        ocs:C197,
-        ocs:C25514,
         ocs:C26,
-        ocs:C26810,
-        ocs:C43945,
+        ocs:C197,
+        ocs:C1563,
         ocs:C4620,
-        ocs:C9739 .
+        ocs:C9739,
+        ocs:C10733,
+        ocs:C25514,
+        ocs:C26810,
+        ocs:C43945 .
 

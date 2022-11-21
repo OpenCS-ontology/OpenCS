@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27501 a skos:Concept ;
-    skos:broader ocs:C10822,
+    skos:broader ocs:C3896,
+        ocs:C7651,
+        ocs:C10822,
         ocs:C10904,
-        ocs:C11886,
-        ocs:C3896,
-        ocs:C7651 ;
+        ocs:C11886 ;
     skos:closeMatch <http://dbpedia.org/resource/OPeNDAP> ;
     skos:prefLabel "OPeNDAP" ;
-    skos:related ocs:C10822,
+    skos:related ocs:C1909,
+        ocs:C2846,
+        ocs:C3896,
+        ocs:C8661,
+        ocs:C9618,
+        ocs:C10822,
         ocs:C10904,
         ocs:C11190,
         ocs:C12725,
         ocs:C13252,
-        ocs:C1909,
         ocs:C20876,
         ocs:C22597,
         ocs:C24017,
         ocs:C27955,
-        ocs:C2846,
         ocs:C33465,
         ocs:C34358,
-        ocs:C38189,
-        ocs:C3896,
-        ocs:C8661,
-        ocs:C9618 .
+        ocs:C38189 .
 

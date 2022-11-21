@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24914 a skos:Concept ;
-    skos:broader ocs:C5613,
-        ocs:C661 ;
+    skos:broader ocs:C661,
+        ocs:C5613 ;
     skos:closeMatch <http://dbpedia.org/resource/Interoperable_Object_Reference> ;
     skos:prefLabel "Interoperable Object Reference" ;
-    skos:related ocs:C10249,
-        ocs:C132,
+    skos:related ocs:C132,
+        ocs:C661,
+        ocs:C5613,
+        ocs:C10249,
         ocs:C13252,
         ocs:C14251,
         ocs:C16980,
@@ -21,7 +23,5 @@ ocs:C24914 a skos:Concept ;
         ocs:C37844,
         ocs:C38311,
         ocs:C39337,
-        ocs:C44697,
-        ocs:C5613,
-        ocs:C661 .
+        ocs:C44697 .
 

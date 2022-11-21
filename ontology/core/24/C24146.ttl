@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24146 a skos:Concept ;
-    skos:broader ocs:C13686,
-        ocs:C4218 ;
+    skos:broader ocs:C4218,
+        ocs:C13686 ;
     skos:closeMatch <http://dbpedia.org/resource/Bent_function> ;
     skos:prefLabel "Bent function" ;
-    skos:related ocs:C29363,
+    skos:related ocs:C4218,
+        ocs:C8076,
+        ocs:C29363,
         ocs:C30314,
         ocs:C30612,
         ocs:C30924,
@@ -20,7 +22,5 @@ ocs:C24146 a skos:Concept ;
         ocs:C40268,
         ocs:C41541,
         ocs:C41639,
-        ocs:C4218,
-        ocs:C45161,
-        ocs:C8076 .
+        ocs:C45161 .
 

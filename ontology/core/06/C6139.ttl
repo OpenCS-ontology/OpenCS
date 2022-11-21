@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6139 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/GJXDM> ;
     skos:prefLabel "GJXDM" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C3896,
+        ocs:C6579,
+        ocs:C11927,
         ocs:C12154,
         ocs:C13068,
         ocs:C18791,
@@ -18,11 +20,9 @@ ocs:C6139 a skos:Concept ;
         ocs:C28739,
         ocs:C33040,
         ocs:C35637,
-        ocs:C3896,
         ocs:C39253,
         ocs:C43142,
         ocs:C44193,
         ocs:C44676,
-        ocs:C45073,
-        ocs:C6579 .
+        ocs:C45073 .
 

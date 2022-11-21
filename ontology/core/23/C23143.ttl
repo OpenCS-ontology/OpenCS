@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23143 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C386,
-        ocs:C9556 ;
+    skos:broader ocs:C386,
+        ocs:C9556,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Aho–Corasick_algorithm> ;
     skos:prefLabel "Aho–Corasick string matching algorithm" .
 

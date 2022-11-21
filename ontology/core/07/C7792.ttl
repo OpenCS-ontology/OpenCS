@@ -2,16 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7792 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Lexus_Link> ;
     skos:prefLabel "Lexus Link" ;
-    skos:related ocs:C12641,
-        ocs:C1346,
+    skos:related ocs:C1346,
         ocs:C1886,
-        ocs:C19226,
-        ocs:C27671,
-        ocs:C31452,
         ocs:C4428,
         ocs:C5973,
         ocs:C6029,
@@ -19,5 +15,9 @@ ocs:C7792 a skos:Concept ;
         ocs:C7002,
         ocs:C7466,
         ocs:C7561,
-        ocs:C9666 .
+        ocs:C9666,
+        ocs:C12641,
+        ocs:C19226,
+        ocs:C27671,
+        ocs:C31452 .
 

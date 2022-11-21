@@ -2,12 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11426 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
-        ocs:C9 ;
+    skos:broader ocs:C3,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Closed_User_Group> ;
     skos:prefLabel "Closed User Group" ;
-    skos:related ocs:C1210,
+    skos:related ocs:C634,
+        ocs:C1210,
+        ocs:C3746,
+        ocs:C5917,
+        ocs:C6821,
+        ocs:C6987,
+        ocs:C7102,
+        ocs:C9113,
+        ocs:C9154,
         ocs:C16693,
         ocs:C22546,
         ocs:C26262,
@@ -15,15 +23,7 @@ ocs:C11426 a skos:Concept ;
         ocs:C31286,
         ocs:C31755,
         ocs:C37065,
-        ocs:C3746,
         ocs:C44125,
         ocs:C44290,
-        ocs:C44416,
-        ocs:C5917,
-        ocs:C634,
-        ocs:C6821,
-        ocs:C6987,
-        ocs:C7102,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C44416 .
 

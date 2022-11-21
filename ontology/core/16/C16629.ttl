@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16629 a skos:Concept ;
-    skos:broader ocs:C10157,
+    skos:broader ocs:C1395,
+        ocs:C1502,
+        ocs:C10157,
         ocs:C11668,
-        ocs:C11886,
-        ocs:C1395,
-        ocs:C1502 ;
+        ocs:C11886 ;
     skos:closeMatch <http://dbpedia.org/resource/Battle_management_language> ;
     skos:prefLabel "Battle management language" ;
-    skos:related ocs:C11668,
-        ocs:C14316,
+    skos:related ocs:C226,
         ocs:C1502,
         ocs:C1684,
-        ocs:C21250,
-        ocs:C226 .
+        ocs:C11668,
+        ocs:C14316,
+        ocs:C21250 .
 

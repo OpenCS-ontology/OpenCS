@@ -6,7 +6,9 @@ ocs:C18388 a skos:Concept ;
         ocs:C9066 ;
     skos:closeMatch <http://dbpedia.org/resource/Pursuit_guidance> ;
     skos:prefLabel "Pursuit guidance" ;
-    skos:related ocs:C12931,
+    skos:related ocs:C9066,
+        ocs:C9431,
+        ocs:C12931,
         ocs:C16103,
         ocs:C16352,
         ocs:C16785,
@@ -17,7 +19,5 @@ ocs:C18388 a skos:Concept ;
         ocs:C22021,
         ocs:C25124,
         ocs:C28796,
-        ocs:C34932,
-        ocs:C9066,
-        ocs:C9431 .
+        ocs:C34932 .
 

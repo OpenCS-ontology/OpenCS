@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18917 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C159,
+    skos:broader ocs:C159,
         ocs:C390,
-        ocs:C5196 ;
+        ocs:C5196,
+        ocs:C10135 ;
     skos:closeMatch <http://dbpedia.org/resource/Presentation_timestamp> ;
     skos:prefLabel "Presentation timestamp" ;
-    skos:related ocs:C12942,
-        ocs:C159,
+    skos:related ocs:C159,
+        ocs:C390,
+        ocs:C3522,
+        ocs:C5088,
+        ocs:C12942,
         ocs:C18031,
         ocs:C19334,
         ocs:C20448,
@@ -22,9 +25,6 @@ ocs:C18917 a skos:Concept ;
         ocs:C31954,
         ocs:C32488,
         ocs:C34624,
-        ocs:C3522,
         ocs:C36332,
-        ocs:C390,
-        ocs:C41876,
-        ocs:C5088 .
+        ocs:C41876 .
 

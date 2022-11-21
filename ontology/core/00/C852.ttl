@@ -2,16 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C852 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Reasoning_system> ;
     skos:prefLabel "Reasoning system" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C8,
+        ocs:C1092,
+        ocs:C3579,
+        ocs:C4756,
+        ocs:C5507,
+        ocs:C6400,
+        ocs:C6531,
+        ocs:C10327,
         ocs:C10479,
         ocs:C10551,
         ocs:C10616,
-        ocs:C1092,
         ocs:C11088,
         ocs:C11556,
         ocs:C11724,
@@ -19,11 +25,5 @@ ocs:C852 a skos:Concept ;
         ocs:C15444,
         ocs:C23248,
         ocs:C27665,
-        ocs:C28809,
-        ocs:C3579,
-        ocs:C4756,
-        ocs:C5507,
-        ocs:C6400,
-        ocs:C6531,
-        ocs:C8 .
+        ocs:C28809 .
 

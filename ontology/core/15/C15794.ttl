@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15794 a skos:Concept ;
-    skos:broader ocs:C10390,
-        ocs:C10502,
-        ocs:C1134 ;
+    skos:broader ocs:C1134,
+        ocs:C10390,
+        ocs:C10502 ;
     skos:closeMatch <http://dbpedia.org/resource/Variable_neighborhood_search> ;
     skos:prefLabel "Variable neighborhood search" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C3570,
+        ocs:C3837,
+        ocs:C5197,
+        ocs:C5401,
+        ocs:C7553,
+        ocs:C8435,
+        ocs:C8944,
+        ocs:C10390,
         ocs:C11372,
         ocs:C12530,
         ocs:C13208,
@@ -15,12 +22,5 @@ ocs:C15794 a skos:Concept ;
         ocs:C27563,
         ocs:C29055,
         ocs:C29940,
-        ocs:C3570,
-        ocs:C3837,
-        ocs:C38436,
-        ocs:C5197,
-        ocs:C5401,
-        ocs:C7553,
-        ocs:C8435,
-        ocs:C8944 .
+        ocs:C38436 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24823 a skos:Concept ;
-    skos:broader ocs:C13857,
-        ocs:C390 ;
+    skos:broader ocs:C390,
+        ocs:C13857 ;
     skos:closeMatch <http://dbpedia.org/resource/Split_multi-link_trunking> ;
     skos:prefLabel "Split multi-link trunking" .
 

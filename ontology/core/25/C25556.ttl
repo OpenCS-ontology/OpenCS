@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25556 a skos:Concept ;
-    skos:broader ocs:C12810,
-        ocs:C2464 ;
+    skos:broader ocs:C2464,
+        ocs:C12810 ;
     skos:closeMatch <http://dbpedia.org/resource/Cross-browser> ;
     skos:prefLabel "Cross-browser" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C355,
+        ocs:C437,
+        ocs:C2464,
+        ocs:C4918,
+        ocs:C9647,
+        ocs:C11927,
         ocs:C12477,
         ocs:C12810,
         ocs:C13068,
@@ -15,15 +20,10 @@ ocs:C25556 a skos:Concept ;
         ocs:C17401,
         ocs:C22597,
         ocs:C23836,
-        ocs:C2464,
         ocs:C26528,
         ocs:C28542,
         ocs:C28801,
         ocs:C31658,
         ocs:C33709,
-        ocs:C34536,
-        ocs:C355,
-        ocs:C437,
-        ocs:C4918,
-        ocs:C9647 .
+        ocs:C34536 .
 

@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21759 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C3896 ;
+    skos:broader ocs:C3896,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/TV-Anytime> ;
     skos:prefLabel "TV-Anytime" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C3522,
+        ocs:C11323,
         ocs:C15774,
         ocs:C18697,
         ocs:C18701,
@@ -18,7 +19,6 @@ ocs:C21759 a skos:Concept ;
         ocs:C32350,
         ocs:C32456,
         ocs:C33691,
-        ocs:C3522,
         ocs:C35276,
         ocs:C35819,
         ocs:C36139,

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8103 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C24,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Mantrap_(access_control)> ;
     skos:prefLabel "Mantrap" ;
-    skos:related ocs:C21054,
-        ocs:C21232,
-        ocs:C21592,
-        ocs:C25358,
+    skos:related ocs:C35,
+        ocs:C699,
         ocs:C2934,
-        ocs:C34951,
-        ocs:C35,
-        ocs:C36171,
         ocs:C4513,
         ocs:C6133,
-        ocs:C699,
         ocs:C7006,
         ocs:C7604,
         ocs:C7738,
         ocs:C8437,
         ocs:C8711,
-        ocs:C9489 .
+        ocs:C9489,
+        ocs:C21054,
+        ocs:C21232,
+        ocs:C21592,
+        ocs:C25358,
+        ocs:C34951,
+        ocs:C36171 .
 

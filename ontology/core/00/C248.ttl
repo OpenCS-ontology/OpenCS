@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C248 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Facial_recognition_system> ;
     skos:prefLabel "Facial recognition system" ;
-    skos:related ocs:C10,
-        ocs:C13065,
+    skos:related ocs:C6,
+        ocs:C7,
+        ocs:C8,
+        ocs:C10,
         ocs:C16,
+        ocs:C21,
+        ocs:C25,
+        ocs:C3077,
+        ocs:C7604,
+        ocs:C8021,
+        ocs:C9489,
+        ocs:C13065,
         ocs:C16355,
         ocs:C16378,
-        ocs:C21,
         ocs:C24825,
-        ocs:C25,
         ocs:C26641,
         ocs:C27695,
         ocs:C27953,
-        ocs:C3077,
-        ocs:C43013,
-        ocs:C6,
-        ocs:C7,
-        ocs:C7604,
-        ocs:C8,
-        ocs:C8021,
-        ocs:C9489 .
+        ocs:C43013 .
 

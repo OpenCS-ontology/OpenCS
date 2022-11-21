@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25488 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C390,
+    skos:broader ocs:C390,
+        ocs:C1253,
         ocs:C5336 ;
     skos:closeMatch <http://dbpedia.org/resource/NetFPGA> ;
     skos:prefLabel "NetFPGA" ;
-    skos:related ocs:C10213,
-        ocs:C30085,
-        ocs:C3118,
-        ocs:C37894,
-        ocs:C42619,
+    skos:related ocs:C3118,
         ocs:C5336,
-        ocs:C9267 .
+        ocs:C9267,
+        ocs:C10213,
+        ocs:C30085,
+        ocs:C37894,
+        ocs:C42619 .
 

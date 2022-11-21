@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1392 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Dimensional_modeling> ;
     skos:prefLabel "Dimensional modeling" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C3896,
+        ocs:C10444,
         ocs:C12185,
         ocs:C12694,
         ocs:C12736,
@@ -22,7 +24,5 @@ ocs:C1392 a skos:Concept ;
         ocs:C35534,
         ocs:C36358,
         ocs:C36510,
-        ocs:C38006,
-        ocs:C3896,
-        ocs:C6 .
+        ocs:C38006 .
 

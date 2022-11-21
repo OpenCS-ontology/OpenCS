@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1497 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Analog_sequencer> ;
     skos:prefLabel "Analog sequencer" ;
-    skos:related ocs:C11254,
+    skos:related ocs:C5790,
+        ocs:C8718,
+        ocs:C11254,
         ocs:C14262,
         ocs:C29220,
-        ocs:C32578,
-        ocs:C5790,
-        ocs:C8718 .
+        ocs:C32578 .
 

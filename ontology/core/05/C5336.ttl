@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5336 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Field-programmable_gate_array> ;
     skos:prefLabel "Field-programmable gate array" ;
-    skos:related ocs:C10320,
-        ocs:C11,
+    skos:related ocs:C11,
+        ocs:C254,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C8518,
+        ocs:C9908,
+        ocs:C10320,
         ocs:C11814,
         ocs:C12690,
         ocs:C13747,
         ocs:C19400,
         ocs:C23473,
-        ocs:C254,
         ocs:C26090,
         ocs:C26155,
         ocs:C29006,
-        ocs:C37773,
-        ocs:C6172,
-        ocs:C7165,
-        ocs:C8518,
-        ocs:C9908 .
+        ocs:C37773 .
 

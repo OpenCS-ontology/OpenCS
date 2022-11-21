@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9601 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Wearable_computer> ;
     skos:prefLabel "Wearable computer" ;
-    skos:related ocs:C1338,
+    skos:related ocs:C9,
+        ocs:C1338,
+        ocs:C7166,
+        ocs:C7736,
+        ocs:C7850,
+        ocs:C9047,
+        ocs:C9603,
         ocs:C15986,
         ocs:C17132,
         ocs:C21017,
@@ -19,11 +25,5 @@ ocs:C9601 a skos:Concept ;
         ocs:C29061,
         ocs:C31110,
         ocs:C35370,
-        ocs:C39979,
-        ocs:C7166,
-        ocs:C7736,
-        ocs:C7850,
-        ocs:C9,
-        ocs:C9047,
-        ocs:C9603 .
+        ocs:C39979 .
 

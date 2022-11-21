@@ -2,10 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27453 a skos:Concept ;
-    skos:broader ocs:C13750,
-        ocs:C3344 ;
+    skos:broader ocs:C3344,
+        ocs:C13750 ;
     skos:prefLabel "Late-type star" ;
-    skos:related ocs:C13930,
+    skos:related ocs:C597,
+        ocs:C13930,
         ocs:C17920,
         ocs:C18085,
         ocs:C20206,
@@ -21,6 +22,5 @@ ocs:C27453 a skos:Concept ;
         ocs:C30411,
         ocs:C31589,
         ocs:C32748,
-        ocs:C44585,
-        ocs:C597 .
+        ocs:C44585 .
 

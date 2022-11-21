@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11190 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Hierarchical_Data_Format> ;
     skos:prefLabel "Hierarchical Data Format" ;
-    skos:related ocs:C10822,
+    skos:related ocs:C20,
+        ocs:C2070,
+        ocs:C2674,
+        ocs:C2846,
+        ocs:C3896,
+        ocs:C6714,
+        ocs:C9618,
+        ocs:C10822,
         ocs:C11927,
         ocs:C14271,
-        ocs:C20,
-        ocs:C2070,
         ocs:C21305,
         ocs:C21621,
         ocs:C24871,
         ocs:C25793,
-        ocs:C2674,
         ocs:C27501,
-        ocs:C2846,
         ocs:C28881,
-        ocs:C31489,
-        ocs:C3896,
-        ocs:C6714,
-        ocs:C9618 .
+        ocs:C31489 .
 

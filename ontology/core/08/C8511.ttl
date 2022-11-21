@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8511 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Comma-separated_values> ;
     skos:prefLabel "Comma-Separated Values" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C6,
+        ocs:C3280,
+        ocs:C5126,
+        ocs:C5702,
+        ocs:C7069,
+        ocs:C9162,
+        ocs:C11927,
         ocs:C12185,
         ocs:C13068,
         ocs:C28801,
         ocs:C28881,
-        ocs:C3280,
         ocs:C38130,
-        ocs:C44261,
-        ocs:C5126,
-        ocs:C5702,
-        ocs:C6,
-        ocs:C7069,
-        ocs:C9162 .
+        ocs:C44261 .
 

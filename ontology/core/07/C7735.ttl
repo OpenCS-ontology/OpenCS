@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7735 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C30,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Supercomputer> ;
     skos:prefLabel "Supercomputer" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C27,
         ocs:C1253,
-        ocs:C12690,
-        ocs:C14271,
-        ocs:C14627,
         ocs:C1904,
         ocs:C2478,
-        ocs:C26030,
-        ocs:C27,
-        ocs:C31489,
-        ocs:C40330,
         ocs:C5181,
         ocs:C6312,
         ocs:C6714,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C12690,
+        ocs:C14271,
+        ocs:C14627,
+        ocs:C26030,
+        ocs:C31489,
+        ocs:C40330 .
 

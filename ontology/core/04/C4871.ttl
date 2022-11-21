@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4871 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Communication_Arts_(magazine)> ;
     skos:prefLabel "Communication Arts" ;
-    skos:related ocs:C10905,
-        ocs:C10982,
-        ocs:C13147,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C197,
         ocs:C2135,
         ocs:C2173,
         ocs:C4153,
         ocs:C6032,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C10905,
+        ocs:C10982,
+        ocs:C13147 .
 

@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17106 a skos:Concept ;
-    skos:broader ocs:C12029,
-        ocs:C4998 ;
+    skos:broader ocs:C4998,
+        ocs:C12029 ;
     skos:closeMatch <http://dbpedia.org/resource/Bus_bunching> ;
     skos:prefLabel "Bus bunching" ;
-    skos:related ocs:C10340,
-        ocs:C12758,
-        ocs:C16175,
-        ocs:C1691,
-        ocs:C25798,
-        ocs:C34482,
+    skos:related ocs:C1691,
         ocs:C4998,
         ocs:C5108,
         ocs:C6243,
-        ocs:C6311 .
+        ocs:C6311,
+        ocs:C10340,
+        ocs:C12758,
+        ocs:C16175,
+        ocs:C25798,
+        ocs:C34482 .
 

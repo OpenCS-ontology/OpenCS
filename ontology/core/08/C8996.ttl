@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8996 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6,
-        ocs:C8 ;
+    skos:broader ocs:C6,
+        ocs:C8,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Explanation_module> ;
     skos:prefLabel "Explanation module" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
+        ocs:C852,
+        ocs:C3058,
+        ocs:C10616,
         ocs:C11937,
         ocs:C13116,
         ocs:C14156,
@@ -20,9 +23,6 @@ ocs:C8996 a skos:Concept ;
         ocs:C27665,
         ocs:C28723,
         ocs:C28762,
-        ocs:C3058,
         ocs:C30824,
-        ocs:C32783,
-        ocs:C8,
-        ocs:C852 .
+        ocs:C32783 .
 

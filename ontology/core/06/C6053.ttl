@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6053 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:prefLabel "Cataloging (activity)" ;
     skos:related ocs:C1,
-        ocs:C11492,
+        ocs:C4,
         ocs:C31,
-        ocs:C4 .
+        ocs:C11492 .
 

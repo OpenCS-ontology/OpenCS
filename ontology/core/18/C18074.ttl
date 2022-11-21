@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18074 a skos:Concept ;
-    skos:broader ocs:C10324,
-        ocs:C6912,
-        ocs:C8084 ;
+    skos:broader ocs:C6912,
+        ocs:C8084,
+        ocs:C10324 ;
     skos:closeMatch <http://dbpedia.org/resource/Relationship_square> ;
     skos:prefLabel "Relationship square" ;
-    skos:related ocs:C10324,
-        ocs:C1306,
+    skos:related ocs:C1306,
+        ocs:C5073,
+        ocs:C6912,
+        ocs:C8084,
+        ocs:C9538,
+        ocs:C10324,
         ocs:C18859,
         ocs:C20003,
         ocs:C20383,
@@ -16,9 +20,5 @@ ocs:C18074 a skos:Concept ;
         ocs:C23970,
         ocs:C27712,
         ocs:C31310,
-        ocs:C31554,
-        ocs:C5073,
-        ocs:C6912,
-        ocs:C8084,
-        ocs:C9538 .
+        ocs:C31554 .
 

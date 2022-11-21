@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24267 a skos:Concept ;
-    skos:broader ocs:C13100,
+    skos:broader ocs:C747,
         ocs:C6444,
-        ocs:C747 ;
+        ocs:C13100 ;
     skos:closeMatch <http://dbpedia.org/resource/Relative_luminance> ;
     skos:prefLabel "Relative luminance" ;
-    skos:related ocs:C16674,
+    skos:related ocs:C740,
+        ocs:C747,
+        ocs:C1935,
+        ocs:C3743,
+        ocs:C5469,
+        ocs:C6942,
+        ocs:C8099,
+        ocs:C16674,
         ocs:C17520,
         ocs:C18385,
-        ocs:C1935,
         ocs:C20260,
         ocs:C20871,
         ocs:C22083,
         ocs:C24211,
         ocs:C27086,
         ocs:C27504,
-        ocs:C3743,
-        ocs:C38432,
-        ocs:C5469,
-        ocs:C6942,
-        ocs:C740,
-        ocs:C747,
-        ocs:C8099 .
+        ocs:C38432 .
 

@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9019 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Teaching_dimension> ;
     skos:prefLabel "Teaching dimension" ;
-    skos:related ocs:C10278,
+    skos:related ocs:C25,
+        ocs:C3007,
+        ocs:C5799,
+        ocs:C9210,
+        ocs:C9211,
+        ocs:C10278,
         ocs:C11599,
         ocs:C11937,
         ocs:C24337,
-        ocs:C25,
-        ocs:C3007,
         ocs:C31543,
         ocs:C32775,
         ocs:C36680,
@@ -20,8 +23,5 @@ ocs:C9019 a skos:Concept ;
         ocs:C40655,
         ocs:C41772,
         ocs:C43231,
-        ocs:C43904,
-        ocs:C5799,
-        ocs:C9210,
-        ocs:C9211 .
+        ocs:C43904 .
 

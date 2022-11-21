@@ -2,19 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29318 a skos:Concept ;
-    skos:broader ocs:C10322,
-        ocs:C156,
+    skos:broader ocs:C156,
         ocs:C4321,
         ocs:C6332,
         ocs:C6941,
-        ocs:C8385 ;
+        ocs:C8385,
+        ocs:C10322 ;
     skos:closeMatch <http://dbpedia.org/resource/Categorical_abstract_machine> ;
     skos:prefLabel "Categorical abstract machine" ;
-    skos:related ocs:C10322,
+    skos:related ocs:C1631,
+        ocs:C3845,
+        ocs:C4978,
+        ocs:C6332,
+        ocs:C6941,
+        ocs:C9560,
+        ocs:C10322,
         ocs:C10917,
         ocs:C11885,
         ocs:C12108,
-        ocs:C1631,
         ocs:C16614,
         ocs:C18086,
         ocs:C20172,
@@ -24,10 +29,5 @@ ocs:C29318 a skos:Concept ;
         ocs:C34827,
         ocs:C35431,
         ocs:C36417,
-        ocs:C3845,
-        ocs:C40372,
-        ocs:C4978,
-        ocs:C6332,
-        ocs:C6941,
-        ocs:C9560 .
+        ocs:C40372 .
 

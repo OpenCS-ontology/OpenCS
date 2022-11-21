@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18262 a skos:Concept ;
-    skos:broader ocs:C12780,
-        ocs:C8660 ;
+    skos:broader ocs:C8660,
+        ocs:C12780 ;
     skos:closeMatch <http://dbpedia.org/resource/Maximum_subarray_problem> ;
     skos:prefLabel "Maximum subarray problem" ;
-    skos:related ocs:C14079,
-        ocs:C16150,
+    skos:related ocs:C77,
         ocs:C2122,
         ocs:C2930,
         ocs:C3189,
+        ocs:C4027,
+        ocs:C5145,
+        ocs:C8660,
+        ocs:C14079,
+        ocs:C16150,
         ocs:C36120,
         ocs:C37998,
-        ocs:C4027,
         ocs:C41349,
-        ocs:C41938,
-        ocs:C5145,
-        ocs:C77,
-        ocs:C8660 .
+        ocs:C41938 .
 

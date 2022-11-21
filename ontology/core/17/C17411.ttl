@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17411 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C2188 ;
+    skos:broader ocs:C2188,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Local-loop_unbundling> ;
     skos:prefLabel "Local-loop unbundling" ;
-    skos:related ocs:C12308,
+    skos:related ocs:C3,
+        ocs:C2188,
+        ocs:C2988,
+        ocs:C4433,
+        ocs:C9327,
+        ocs:C9784,
+        ocs:C12308,
         ocs:C17867,
         ocs:C18217,
         ocs:C19350,
         ocs:C21610,
-        ocs:C2188,
         ocs:C22407,
         ocs:C25293,
         ocs:C26580,
-        ocs:C2988,
-        ocs:C3,
-        ocs:C34141,
-        ocs:C4433,
-        ocs:C9327,
-        ocs:C9784 .
+        ocs:C34141 .
 

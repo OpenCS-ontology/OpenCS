@@ -2,18 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19371 a skos:Concept ;
-    skos:broader ocs:C11932,
-        ocs:C13006,
-        ocs:C1952,
+    skos:broader ocs:C1952,
         ocs:C6545,
-        ocs:C8325 ;
+        ocs:C8325,
+        ocs:C11932,
+        ocs:C13006 ;
     skos:closeMatch <http://dbpedia.org/resource/Linking_verb> ;
     skos:prefLabel "Linking verb" ;
-    skos:related ocs:C11932,
+    skos:related ocs:C1952,
+        ocs:C6545,
+        ocs:C8325,
+        ocs:C11932,
         ocs:C12270,
         ocs:C13868,
         ocs:C18082,
-        ocs:C1952,
         ocs:C20209,
         ocs:C21988,
         ocs:C25169,
@@ -21,7 +23,5 @@ ocs:C19371 a skos:Concept ;
         ocs:C32280,
         ocs:C37038,
         ocs:C37448,
-        ocs:C39461,
-        ocs:C6545,
-        ocs:C8325 .
+        ocs:C39461 .
 

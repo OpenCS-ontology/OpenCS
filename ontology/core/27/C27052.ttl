@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27052 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C10909,
+    skos:broader ocs:C794,
         ocs:C3517,
         ocs:C4321,
-        ocs:C794 ;
+        ocs:C10720,
+        ocs:C10909 ;
     skos:closeMatch <http://dbpedia.org/resource/C++_Standard_Library> ;
     skos:prefLabel "C++ Standard Library" .
 

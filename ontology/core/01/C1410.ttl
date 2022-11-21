@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1410 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Domain_controller> ;
     skos:prefLabel "Domain controller" ;
-    skos:related ocs:C10911,
+    skos:related ocs:C9,
+        ocs:C379,
+        ocs:C9797,
+        ocs:C10911,
         ocs:C17530,
         ocs:C19725,
         ocs:C20125,
@@ -19,10 +22,7 @@ ocs:C1410 a skos:Concept ;
         ocs:C34356,
         ocs:C36631,
         ocs:C37552,
-        ocs:C379,
         ocs:C38032,
         ocs:C39947,
-        ocs:C45688,
-        ocs:C9,
-        ocs:C9797 .
+        ocs:C45688 .
 

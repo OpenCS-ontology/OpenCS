@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11507 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Human_dynamics> ;
     skos:prefLabel "Human dynamics" ;
-    skos:related ocs:C10997,
-        ocs:C11866,
-        ocs:C13204,
-        ocs:C14592,
-        ocs:C20012,
-        ocs:C21018,
+    skos:related ocs:C597,
         ocs:C2421,
         ocs:C2589,
         ocs:C4023,
         ocs:C5496,
-        ocs:C597,
-        ocs:C7111 .
+        ocs:C7111,
+        ocs:C10997,
+        ocs:C11866,
+        ocs:C13204,
+        ocs:C14592,
+        ocs:C20012,
+        ocs:C21018 .
 

@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13296 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Quadtree> ;
     skos:prefLabel "Quadtree" ;
-    skos:related ocs:C11325,
+    skos:related ocs:C6697,
+        ocs:C8452,
+        ocs:C8519,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C8893,
+        ocs:C11325,
         ocs:C14416,
         ocs:C14626,
         ocs:C19299,
@@ -20,11 +26,5 @@ ocs:C13296 a skos:Concept ;
         ocs:C43467,
         ocs:C44223,
         ocs:C45211,
-        ocs:C45739,
-        ocs:C6697,
-        ocs:C8452,
-        ocs:C8519,
-        ocs:C8522,
-        ocs:C8565,
-        ocs:C8893 .
+        ocs:C45739 .
 

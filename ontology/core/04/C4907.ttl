@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4907 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/BitTorrent_tracker> ;
     skos:prefLabel "BitTorrent tracker" ;
-    skos:related ocs:C11540,
+    skos:related ocs:C4129,
+        ocs:C6234,
+        ocs:C8614,
+        ocs:C11540,
         ocs:C14223,
         ocs:C15478,
         ocs:C16369,
@@ -19,8 +22,5 @@ ocs:C4907 a skos:Concept ;
         ocs:C26239,
         ocs:C27557,
         ocs:C37175,
-        ocs:C4129,
-        ocs:C44121,
-        ocs:C6234,
-        ocs:C8614 .
+        ocs:C44121 .
 

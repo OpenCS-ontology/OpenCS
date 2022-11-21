@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24945 a skos:Concept ;
-    skos:broader ocs:C10921,
+    skos:broader ocs:C390,
         ocs:C3236,
-        ocs:C390,
-        ocs:C4197 ;
+        ocs:C4197,
+        ocs:C10921 ;
     skos:prefLabel "Network simulator ns 2" .
 

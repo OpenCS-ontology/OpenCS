@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18745 a skos:Concept ;
-    skos:broader ocs:C2935,
-        ocs:C490 ;
+    skos:broader ocs:C490,
+        ocs:C2935 ;
     skos:closeMatch <http://dbpedia.org/resource/10_Gigabit_Ethernet> ;
     skos:prefLabel "10 Gigabit Ethernet" ;
-    skos:related ocs:C13786,
-        ocs:C16673,
-        ocs:C23919,
-        ocs:C24592,
-        ocs:C26,
-        ocs:C29125,
-        ocs:C33551,
-        ocs:C34034,
-        ocs:C45502,
+    skos:related ocs:C26,
         ocs:C490,
         ocs:C8567,
         ocs:C9267,
-        ocs:C9426 .
+        ocs:C9426,
+        ocs:C13786,
+        ocs:C16673,
+        ocs:C23919,
+        ocs:C24592,
+        ocs:C29125,
+        ocs:C33551,
+        ocs:C34034,
+        ocs:C45502 .
 

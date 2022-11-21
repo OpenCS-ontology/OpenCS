@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6130 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Handwritten_biometric_recognition> ;
     skos:prefLabel "Handwritten biometric recognition" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C248,
+        ocs:C1882,
+        ocs:C3077,
+        ocs:C3284,
+        ocs:C7621,
+        ocs:C8524,
+        ocs:C9489,
+        ocs:C10368,
         ocs:C14365,
         ocs:C18273,
-        ocs:C1882,
         ocs:C23848,
-        ocs:C248,
         ocs:C26343,
         ocs:C26641,
         ocs:C27953,
         ocs:C28037,
-        ocs:C3077,
-        ocs:C3284,
         ocs:C39818,
-        ocs:C43850,
-        ocs:C7621,
-        ocs:C8524,
-        ocs:C9489 .
+        ocs:C43850 .
 

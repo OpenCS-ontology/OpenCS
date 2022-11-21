@@ -5,7 +5,9 @@ ocs:C16926 a skos:Concept ;
     skos:broader ocs:C11445 ;
     skos:closeMatch <http://dbpedia.org/resource/Course_deviation_indicator> ;
     skos:prefLabel "Course deviation indicator" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C511,
+        ocs:C5030,
+        ocs:C12641,
         ocs:C12648,
         ocs:C13683,
         ocs:C13856,
@@ -20,7 +22,5 @@ ocs:C16926 a skos:Concept ;
         ocs:C31202,
         ocs:C36804,
         ocs:C42471,
-        ocs:C43975,
-        ocs:C5030,
-        ocs:C511 .
+        ocs:C43975 .
 

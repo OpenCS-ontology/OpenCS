@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12766 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Biological_illustration> ;
     skos:prefLabel "Biological illustration" ;
-    skos:related ocs:C13259,
+    skos:related ocs:C667,
         ocs:C2135,
         ocs:C5916,
-        ocs:C667 .
+        ocs:C13259 .
 

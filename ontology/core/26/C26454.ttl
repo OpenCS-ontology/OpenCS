@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26454 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C1631,
+    skos:broader ocs:C1631,
         ocs:C6332,
-        ocs:C6941 ;
+        ocs:C6941,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/J_operator> ;
     skos:prefLabel "J operator" ;
     skos:related ocs:C1,
+        ocs:C19,
+        ocs:C1631,
+        ocs:C3537,
+        ocs:C4214,
+        ocs:C4937,
+        ocs:C6332,
+        ocs:C6941,
         ocs:C10219,
         ocs:C11128,
         ocs:C11638,
         ocs:C12108,
         ocs:C15969,
-        ocs:C1631,
         ocs:C18086,
-        ocs:C19,
         ocs:C20208,
         ocs:C24148,
         ocs:C26258,
         ocs:C28783,
-        ocs:C3537,
-        ocs:C36771,
-        ocs:C4214,
-        ocs:C4937,
-        ocs:C6332,
-        ocs:C6941 .
+        ocs:C36771 .
 

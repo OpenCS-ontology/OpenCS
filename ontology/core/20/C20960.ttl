@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20960 a skos:Concept ;
-    skos:broader ocs:C13320,
-        ocs:C8614 ;
+    skos:broader ocs:C8614,
+        ocs:C13320 ;
     skos:closeMatch <http://dbpedia.org/resource/VRML> ;
     skos:prefLabel "VRML" ;
-    skos:related ocs:C11531,
+    skos:related ocs:C31,
+        ocs:C3679,
+        ocs:C4918,
+        ocs:C8399,
+        ocs:C8614,
+        ocs:C11531,
         ocs:C11927,
         ocs:C12399,
         ocs:C13320,
@@ -16,10 +21,5 @@ ocs:C20960 a skos:Concept ;
         ocs:C21609,
         ocs:C24235,
         ocs:C28801,
-        ocs:C28881,
-        ocs:C31,
-        ocs:C3679,
-        ocs:C4918,
-        ocs:C8399,
-        ocs:C8614 .
+        ocs:C28881 .
 

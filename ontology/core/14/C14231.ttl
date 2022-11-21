@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14231 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C2409 ;
+    skos:broader ocs:C2409,
+        ocs:C12638 ;
     skos:prefLabel "Graphics Visualization" ;
-    skos:related ocs:C17,
+    skos:related ocs:C7,
+        ocs:C17,
         ocs:C18,
-        ocs:C2193,
-        ocs:C24603,
         ocs:C29,
+        ocs:C2193,
         ocs:C4026,
         ocs:C4199,
-        ocs:C7,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C24603 .
 

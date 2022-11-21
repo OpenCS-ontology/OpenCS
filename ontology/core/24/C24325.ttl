@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24325 a skos:Concept ;
-    skos:broader ocs:C12544,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12544 ;
     skos:closeMatch <http://dbpedia.org/resource/8K_resolution> ;
     skos:prefLabel "8K resolution" ;
-    skos:related ocs:C11237,
+    skos:related ocs:C2000,
+        ocs:C2722,
+        ocs:C4448,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C8900,
+        ocs:C11237,
         ocs:C12544,
         ocs:C13509,
         ocs:C13586,
         ocs:C14411,
         ocs:C15700,
-        ocs:C2000,
         ocs:C21207,
         ocs:C22257,
-        ocs:C2722,
-        ocs:C31514,
-        ocs:C4448,
-        ocs:C6942,
-        ocs:C8021,
-        ocs:C8900 .
+        ocs:C31514 .
 

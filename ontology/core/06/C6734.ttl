@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6734 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17 ;
     skos:prefLabel "Audiovisual Material" ;
-    skos:related ocs:C16,
+    skos:related ocs:C5,
+        ocs:C16,
         ocs:C3119,
         ocs:C3444,
-        ocs:C5,
         ocs:C8614 .
 

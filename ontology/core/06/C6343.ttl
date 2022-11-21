@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6343 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C17,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Adaptive_learning> ;
     skos:prefLabel "Adaptive learning" ;
-    skos:related ocs:C11050,
+    skos:related ocs:C24,
+        ocs:C263,
+        ocs:C580,
+        ocs:C934,
         ocs:C1145,
+        ocs:C2367,
+        ocs:C2762,
+        ocs:C3444,
+        ocs:C3521,
+        ocs:C5775,
+        ocs:C11050,
         ocs:C17812,
         ocs:C18169,
         ocs:C18417,
         ocs:C20671,
         ocs:C22540,
-        ocs:C2367,
-        ocs:C24,
-        ocs:C263,
         ocs:C26813,
-        ocs:C2762,
-        ocs:C3444,
-        ocs:C34751,
-        ocs:C3521,
-        ocs:C5775,
-        ocs:C580,
-        ocs:C934 .
+        ocs:C34751 .
 

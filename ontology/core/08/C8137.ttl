@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8137 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/DNS_blocking> ;
     skos:prefLabel "DNS blocking" ;
-    skos:related ocs:C15373,
+    skos:related ocs:C5985,
+        ocs:C15373,
         ocs:C17205,
         ocs:C20205,
         ocs:C25123,
@@ -23,6 +24,5 @@ ocs:C8137 a skos:Concept ;
         ocs:C42100,
         ocs:C43015,
         ocs:C43236,
-        ocs:C43392,
-        ocs:C5985 .
+        ocs:C43392 .
 

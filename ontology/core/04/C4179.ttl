@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4179 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Collaborative_network> ;
     skos:prefLabel "Collaborative network" ;
-    skos:related ocs:C11026,
-        ocs:C14364,
-        ocs:C5140 .
+    skos:related ocs:C5140,
+        ocs:C11026,
+        ocs:C14364 .
 

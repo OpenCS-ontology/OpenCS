@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27331 a skos:Concept ;
-    skos:broader ocs:C13792,
-        ocs:C2878,
-        ocs:C4644 ;
+    skos:broader ocs:C2878,
+        ocs:C4644,
+        ocs:C13792 ;
     skos:closeMatch <http://dbpedia.org/resource/Error-tolerant_design> ;
     skos:prefLabel "Error-tolerant design" ;
-    skos:related ocs:C11297,
-        ocs:C1253,
-        ocs:C15912,
-        ocs:C26696,
-        ocs:C26752,
+    skos:related ocs:C1253,
         ocs:C2878,
-        ocs:C28907,
         ocs:C4230,
-        ocs:C42731,
         ocs:C4292,
         ocs:C4527,
         ocs:C6037,
         ocs:C6173,
-        ocs:C6459 .
+        ocs:C6459,
+        ocs:C11297,
+        ocs:C15912,
+        ocs:C26696,
+        ocs:C26752,
+        ocs:C28907,
+        ocs:C42731 .
 

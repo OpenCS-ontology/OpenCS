@@ -2,18 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26036 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C386,
+    skos:broader ocs:C386,
         ocs:C539,
         ocs:C8017,
-        ocs:C9556 ;
+        ocs:C9556,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Suffix_automaton> ;
     skos:prefLabel "Suffix automaton" ;
-    skos:related ocs:C16676,
+    skos:related ocs:C524,
+        ocs:C749,
+        ocs:C2930,
+        ocs:C7976,
+        ocs:C8522,
+        ocs:C9556,
+        ocs:C16676,
         ocs:C19305,
         ocs:C24896,
         ocs:C25543,
-        ocs:C2930,
         ocs:C30059,
         ocs:C33287,
         ocs:C37359,
@@ -23,10 +28,5 @@ ocs:C26036 a skos:Concept ;
         ocs:C41636,
         ocs:C42467,
         ocs:C43627,
-        ocs:C44192,
-        ocs:C524,
-        ocs:C749,
-        ocs:C7976,
-        ocs:C8522,
-        ocs:C9556 .
+        ocs:C44192 .
 

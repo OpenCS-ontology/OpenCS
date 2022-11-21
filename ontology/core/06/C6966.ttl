@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6966 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Concurrent_mark_sweep_collector> ;
     skos:prefLabel "Concurrent mark sweep collector" ;
-    skos:related ocs:C10336,
+    skos:related ocs:C812,
         ocs:C1142,
+        ocs:C5698,
+        ocs:C10336,
         ocs:C14548,
         ocs:C22284,
         ocs:C23863,
@@ -20,7 +22,5 @@ ocs:C6966 a skos:Concept ;
         ocs:C39149,
         ocs:C42633,
         ocs:C43036,
-        ocs:C44708,
-        ocs:C5698,
-        ocs:C812 .
+        ocs:C44708 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10579 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/IBM_System/360_Model_50> ;
     skos:prefLabel "IBM System/360 Model 50" ;
-    skos:related ocs:C10320,
-        ocs:C11207,
+    skos:related ocs:C9,
         ocs:C1130,
-        ocs:C13101,
-        ocs:C13372,
-        ocs:C17204,
         ocs:C3036,
         ocs:C3231,
-        ocs:C37538,
         ocs:C4259,
         ocs:C4863,
         ocs:C6714,
-        ocs:C9,
         ocs:C9035,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C10320,
+        ocs:C11207,
+        ocs:C13101,
+        ocs:C13372,
+        ocs:C17204,
+        ocs:C37538 .
 

@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24171 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C2352,
+    skos:broader ocs:C2352,
         ocs:C3233,
         ocs:C3393,
         ocs:C3569,
-        ocs:C5616 ;
+        ocs:C5616,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Bisection_bandwidth> ;
     skos:prefLabel "Bisection bandwidth" .
 

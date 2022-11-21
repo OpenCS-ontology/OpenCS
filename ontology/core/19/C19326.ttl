@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19326 a skos:Concept ;
-    skos:broader ocs:C12812,
-        ocs:C8704,
-        ocs:C8753 ;
+    skos:broader ocs:C8704,
+        ocs:C8753,
+        ocs:C12812 ;
     skos:closeMatch <http://dbpedia.org/resource/Work_stealing> ;
     skos:prefLabel "Work stealing" ;
-    skos:related ocs:C12690,
-        ocs:C1308,
-        ocs:C17626,
-        ocs:C2353,
+    skos:related ocs:C9,
         ocs:C27,
+        ocs:C1308,
+        ocs:C2353,
+        ocs:C3948,
+        ocs:C3981,
+        ocs:C6244,
+        ocs:C6887,
+        ocs:C12690,
+        ocs:C17626,
         ocs:C29066,
         ocs:C36373,
         ocs:C39342,
-        ocs:C3948,
-        ocs:C3981,
         ocs:C40231,
-        ocs:C40762,
-        ocs:C6244,
-        ocs:C6887,
-        ocs:C9 .
+        ocs:C40762 .
 

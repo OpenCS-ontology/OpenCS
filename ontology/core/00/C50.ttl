@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C50 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:prefLabel "Hallucinate" ;
     skos:related ocs:C25,
-        ocs:C26692,
         ocs:C6221,
         ocs:C8021,
-        ocs:C8499 .
+        ocs:C8499,
+        ocs:C26692 .
 

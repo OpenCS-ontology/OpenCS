@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27502 a skos:Concept ;
-    skos:broader ocs:C11645,
-        ocs:C8614 ;
+    skos:broader ocs:C8614,
+        ocs:C11645 ;
     skos:closeMatch <http://dbpedia.org/resource/Minimally_invasive_education> ;
     skos:prefLabel "Minimally invasive education" ;
-    skos:related ocs:C10523,
+    skos:related ocs:C1261,
+        ocs:C3057,
+        ocs:C3444,
+        ocs:C10523,
         ocs:C10559,
-        ocs:C1261,
         ocs:C20042,
         ocs:C22651,
-        ocs:C28055,
-        ocs:C3057,
-        ocs:C3444 .
+        ocs:C28055 .
 

@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21486 a skos:Concept ;
-    skos:broader ocs:C10330,
-        ocs:C8711 ;
+    skos:broader ocs:C8711,
+        ocs:C10330 ;
     skos:closeMatch <http://dbpedia.org/resource/Chinese_wall> ;
     skos:prefLabel "Chinese wall" ;
     skos:related ocs:C1,
+        ocs:C9,
+        ocs:C35,
+        ocs:C7170,
         ocs:C13767,
         ocs:C20443,
         ocs:C20800,
-        ocs:C21059,
-        ocs:C35,
-        ocs:C7170,
-        ocs:C9 .
+        ocs:C21059 .
 

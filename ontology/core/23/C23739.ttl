@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23739 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C8725 ;
+    skos:broader ocs:C8725,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/Ambiguity_resolution> ;
     skos:prefLabel "Ambiguity resolution" ;
-    skos:related ocs:C11443,
-        ocs:C2168,
+    skos:related ocs:C2168,
         ocs:C2196,
-        ocs:C34826,
-        ocs:C6816 .
+        ocs:C6816,
+        ocs:C11443,
+        ocs:C34826 .
 

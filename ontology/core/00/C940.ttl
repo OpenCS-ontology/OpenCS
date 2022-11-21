@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C940 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Memory_module> ;
     skos:prefLabel "Memory module" ;
-    skos:related ocs:C13875,
+    skos:related ocs:C6798,
+        ocs:C13875,
         ocs:C14162,
         ocs:C16592,
         ocs:C23432,
@@ -16,6 +17,5 @@ ocs:C940 a skos:Concept ;
         ocs:C33838,
         ocs:C35309,
         ocs:C35697,
-        ocs:C45186,
-        ocs:C6798 .
+        ocs:C45186 .
 

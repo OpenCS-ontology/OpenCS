@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11597 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Electrologica_X1> ;
     skos:prefLabel "Electrologica X1" ;
-    skos:related ocs:C10320,
-        ocs:C10341,
-        ocs:C10749,
+    skos:related ocs:C9,
         ocs:C11,
-        ocs:C17204,
         ocs:C19,
-        ocs:C27882,
-        ocs:C28410,
-        ocs:C28464,
+        ocs:C856,
         ocs:C3561,
-        ocs:C37538,
-        ocs:C43544,
         ocs:C5198,
         ocs:C6172,
         ocs:C8441,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C10341,
+        ocs:C10749,
+        ocs:C17204,
+        ocs:C27882,
+        ocs:C28410,
+        ocs:C28464,
+        ocs:C37538,
+        ocs:C43544 .
 

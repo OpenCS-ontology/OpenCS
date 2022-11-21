@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16810 a skos:Concept ;
-    skos:broader ocs:C10566,
-        ocs:C2019,
+    skos:broader ocs:C2019,
         ocs:C4169,
-        ocs:C7736 ;
+        ocs:C7736,
+        ocs:C10566 ;
     skos:prefLabel "Affective user interface" .
 

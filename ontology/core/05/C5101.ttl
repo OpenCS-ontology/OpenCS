@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5101 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Vertical_blank_interrupt> ;
     skos:prefLabel "Vertical blank interrupt" ;
-    skos:related ocs:C10053,
+    skos:related ocs:C9,
+        ocs:C44,
+        ocs:C653,
+        ocs:C3244,
+        ocs:C4938,
+        ocs:C10053,
         ocs:C12724,
         ocs:C13725,
         ocs:C15817,
@@ -14,12 +19,7 @@ ocs:C5101 a skos:Concept ;
         ocs:C20331,
         ocs:C21949,
         ocs:C28172,
-        ocs:C3244,
         ocs:C34890,
-        ocs:C44,
         ocs:C45375,
-        ocs:C45812,
-        ocs:C4938,
-        ocs:C653,
-        ocs:C9 .
+        ocs:C45812 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4464 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C28,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Programmer_(hardware)> ;
     skos:prefLabel "Programmer" ;
-    skos:related ocs:C19400,
-        ocs:C19582,
-        ocs:C21411,
-        ocs:C27883,
-        ocs:C2936,
-        ocs:C30085,
+    skos:related ocs:C2936,
         ocs:C3160,
-        ocs:C40202,
         ocs:C4259,
-        ocs:C42760,
-        ocs:C43781,
         ocs:C5136,
         ocs:C5336,
         ocs:C7007,
         ocs:C8518,
-        ocs:C9908 .
+        ocs:C9908,
+        ocs:C19400,
+        ocs:C19582,
+        ocs:C21411,
+        ocs:C27883,
+        ocs:C30085,
+        ocs:C40202,
+        ocs:C42760,
+        ocs:C43781 .
 

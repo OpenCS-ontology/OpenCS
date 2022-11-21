@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8969 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Color_mapping> ;
     skos:prefLabel "Color mapping" ;
-    skos:related ocs:C13065,
+    skos:related ocs:C7,
+        ocs:C5310,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C13065,
         ocs:C13142,
         ocs:C14695,
         ocs:C14863,
@@ -20,9 +24,5 @@ ocs:C8969 a skos:Concept ;
         ocs:C34424,
         ocs:C38432,
         ocs:C41132,
-        ocs:C41977,
-        ocs:C5310,
-        ocs:C6942,
-        ocs:C7,
-        ocs:C8021 .
+        ocs:C41977 .
 

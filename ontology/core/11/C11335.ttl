@@ -2,14 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11335 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligent_document> ;
     skos:prefLabel "Intelligent document" ;
-    skos:related ocs:C10316,
-        ocs:C11927,
+    skos:related ocs:C405,
         ocs:C1253,
+        ocs:C3679,
+        ocs:C8614,
+        ocs:C9166,
+        ocs:C9993,
+        ocs:C10316,
+        ocs:C11927,
         ocs:C26528,
         ocs:C28117,
         ocs:C28801,
@@ -17,11 +22,6 @@ ocs:C11335 a skos:Concept ;
         ocs:C33052,
         ocs:C35567,
         ocs:C35992,
-        ocs:C3679,
         ocs:C39074,
-        ocs:C405,
-        ocs:C42496,
-        ocs:C8614,
-        ocs:C9166,
-        ocs:C9993 .
+        ocs:C42496 .
 

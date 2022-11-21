@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2492 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Cisco_12000> ;
     skos:prefLabel "Cisco 12000" ;
-    skos:related ocs:C13786,
+    skos:related ocs:C1595,
+        ocs:C5629,
+        ocs:C6703,
+        ocs:C8148,
+        ocs:C9165,
+        ocs:C13786,
         ocs:C14165,
-        ocs:C1595,
         ocs:C20540,
         ocs:C20800,
         ocs:C22407,
@@ -20,9 +24,5 @@ ocs:C2492 a skos:Concept ;
         ocs:C41222,
         ocs:C41542,
         ocs:C42235,
-        ocs:C42429,
-        ocs:C5629,
-        ocs:C6703,
-        ocs:C8148,
-        ocs:C9165 .
+        ocs:C42429 .
 

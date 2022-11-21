@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21724 a skos:Concept ;
-    skos:broader ocs:C12999,
+    skos:broader ocs:C390,
         ocs:C3391,
-        ocs:C390 ;
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Unicast> ;
     skos:prefLabel "Unicast" ;
-    skos:related ocs:C14160,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C3391,
+        ocs:C4197,
+        ocs:C4433,
+        ocs:C5343,
+        ocs:C8614,
+        ocs:C14160,
         ocs:C14321,
         ocs:C18213,
         ocs:C19544,
         ocs:C20125,
         ocs:C20540,
         ocs:C24323,
-        ocs:C26,
         ocs:C26067,
         ocs:C30247,
         ocs:C30342,
         ocs:C30500,
-        ocs:C3391,
         ocs:C34235,
-        ocs:C36678,
-        ocs:C4197,
-        ocs:C4433,
-        ocs:C490,
-        ocs:C5343,
-        ocs:C8614 .
+        ocs:C36678 .
 

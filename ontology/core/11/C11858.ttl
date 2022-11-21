@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11858 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Public_safety_network> ;
     skos:prefLabel "Public safety network" ;
-    skos:related ocs:C12308,
+    skos:related ocs:C3,
+        ocs:C3236,
+        ocs:C4171,
+        ocs:C4255,
+        ocs:C7166,
+        ocs:C8437,
+        ocs:C9113,
+        ocs:C12308,
         ocs:C13110,
         ocs:C15728,
         ocs:C15834,
         ocs:C17679,
         ocs:C21357,
         ocs:C27633,
-        ocs:C3,
-        ocs:C3236,
         ocs:C34938,
         ocs:C35370,
         ocs:C38402,
-        ocs:C41301,
-        ocs:C4171,
-        ocs:C4255,
-        ocs:C7166,
-        ocs:C8437,
-        ocs:C9113 .
+        ocs:C41301 .
 

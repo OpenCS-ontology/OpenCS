@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5349 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C34,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31,
+        ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Altmetrics> ;
     skos:prefLabel "Altmetrics" ;
-    skos:related ocs:C11446,
+    skos:related ocs:C406,
+        ocs:C5150,
+        ocs:C7607,
+        ocs:C11446,
         ocs:C13698,
         ocs:C14004,
         ocs:C17068,
         ocs:C23479,
         ocs:C27711,
-        ocs:C32616,
-        ocs:C406,
-        ocs:C5150,
-        ocs:C7607 .
+        ocs:C32616 .
 

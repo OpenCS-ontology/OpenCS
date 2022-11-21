@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3465 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Case_sensitivity> ;
     skos:prefLabel "Case sensitivity" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C19,
+        ocs:C2674,
+        ocs:C3896,
+        ocs:C5126,
+        ocs:C5702,
+        ocs:C7476,
+        ocs:C9162,
+        ocs:C10720,
         ocs:C11531,
         ocs:C11927,
         ocs:C13004,
         ocs:C14271,
-        ocs:C19,
         ocs:C21545,
         ocs:C24871,
-        ocs:C2674,
         ocs:C28881,
         ocs:C30078,
-        ocs:C31489,
-        ocs:C3896,
-        ocs:C5126,
-        ocs:C5702,
-        ocs:C6,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9162 .
+        ocs:C31489 .
 

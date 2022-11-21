@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10411 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Value_object> ;
     skos:prefLabel "Value object" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C3637,
+        ocs:C3845,
+        ocs:C8945,
+        ocs:C10182,
         ocs:C10720,
         ocs:C10909,
         ocs:C12004,
@@ -17,9 +20,6 @@ ocs:C10411 a skos:Concept ;
         ocs:C22971,
         ocs:C28944,
         ocs:C35141,
-        ocs:C3637,
-        ocs:C3845,
         ocs:C41762,
-        ocs:C45775,
-        ocs:C8945 .
+        ocs:C45775 .
 

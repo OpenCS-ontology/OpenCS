@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6663 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Property_(programming)> ;
     skos:prefLabel "Property (programming)" ;
-    skos:related ocs:C10384,
+    skos:related ocs:C79,
+        ocs:C963,
+        ocs:C3242,
+        ocs:C5422,
+        ocs:C6941,
+        ocs:C8629,
+        ocs:C8864,
+        ocs:C10384,
         ocs:C10720,
         ocs:C10862,
         ocs:C11991,
@@ -16,12 +23,5 @@ ocs:C6663 a skos:Concept ;
         ocs:C17734,
         ocs:C27131,
         ocs:C31014,
-        ocs:C3242,
-        ocs:C44447,
-        ocs:C5422,
-        ocs:C6941,
-        ocs:C79,
-        ocs:C8629,
-        ocs:C8864,
-        ocs:C963 .
+        ocs:C44447 .
 

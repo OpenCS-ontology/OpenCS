@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16510 a skos:Concept ;
-    skos:broader ocs:C10917,
+    skos:broader ocs:C8753,
+        ocs:C10917,
         ocs:C11812,
-        ocs:C13751,
-        ocs:C8753 ;
+        ocs:C13751 ;
     skos:prefLabel "Magic sets" .
 

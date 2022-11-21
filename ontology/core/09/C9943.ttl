@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9943 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C24,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Automatic_Digital_Network> ;
     skos:prefLabel "Automatic Digital Network" ;
-    skos:related ocs:C10772,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C2169,
+        ocs:C2534,
+        ocs:C8614,
+        ocs:C9035,
+        ocs:C9162,
+        ocs:C10772,
         ocs:C14538,
         ocs:C16547,
         ocs:C18180,
-        ocs:C2169,
         ocs:C25293,
-        ocs:C2534,
-        ocs:C26,
         ocs:C28738,
         ocs:C29359,
-        ocs:C3,
-        ocs:C37192,
-        ocs:C8614,
-        ocs:C9035,
-        ocs:C9162 .
+        ocs:C37192 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C327 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Strongtalk> ;
     skos:prefLabel "Strongtalk" ;
-    skos:related ocs:C10720,
-        ocs:C1142,
-        ocs:C14627,
-        ocs:C17467,
-        ocs:C19,
+    skos:related ocs:C19,
         ocs:C207,
-        ocs:C23863,
+        ocs:C1142,
         ocs:C2490,
-        ocs:C24909,
         ocs:C2830,
-        ocs:C41254,
         ocs:C4180,
         ocs:C4918,
         ocs:C5308,
         ocs:C5698,
-        ocs:C7697 .
+        ocs:C7697,
+        ocs:C10720,
+        ocs:C14627,
+        ocs:C17467,
+        ocs:C23863,
+        ocs:C24909,
+        ocs:C41254 .
 

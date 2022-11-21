@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12749 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Opt-in_email> ;
     skos:prefLabel "Opt-in email" ;
-    skos:related ocs:C13302,
+    skos:related ocs:C4621,
+        ocs:C7295,
+        ocs:C8614,
+        ocs:C13302,
         ocs:C17205,
         ocs:C17567,
         ocs:C23041,
@@ -20,8 +23,5 @@ ocs:C12749 a skos:Concept ;
         ocs:C37946,
         ocs:C39520,
         ocs:C40986,
-        ocs:C44734,
-        ocs:C4621,
-        ocs:C7295,
-        ocs:C8614 .
+        ocs:C44734 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8903 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Global_Information_Network_Architecture> ;
     skos:prefLabel "Global Information Network Architecture" ;
-    skos:related ocs:C11293,
-        ocs:C11886,
+    skos:related ocs:C19,
+        ocs:C197,
         ocs:C1253,
+        ocs:C1502,
+        ocs:C3896,
+        ocs:C7559,
+        ocs:C8751,
+        ocs:C9224,
+        ocs:C11293,
+        ocs:C11886,
         ocs:C12694,
         ocs:C13152,
         ocs:C13744,
-        ocs:C1502,
         ocs:C17669,
-        ocs:C19,
-        ocs:C197,
         ocs:C22144,
         ocs:C29950,
         ocs:C34421,
-        ocs:C3896,
-        ocs:C41641,
-        ocs:C7559,
-        ocs:C8751,
-        ocs:C9224 .
+        ocs:C41641 .
 

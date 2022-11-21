@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26197 a skos:Concept ;
-    skos:broader ocs:C12972,
+    skos:broader ocs:C78,
         ocs:C5404,
-        ocs:C78,
         ocs:C8516,
-        ocs:C8559 ;
+        ocs:C8559,
+        ocs:C12972 ;
     skos:prefLabel "Adaptive appearance model" .
 

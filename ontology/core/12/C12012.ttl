@@ -2,17 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12012 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Nicholl–Lee–Nicholl> ;
     skos:prefLabel "Nicholl–Lee–Nicholl" ;
-    skos:related ocs:C10060,
+    skos:related ocs:C22,
+        ocs:C1381,
+        ocs:C7699,
+        ocs:C9314,
+        ocs:C10060,
         ocs:C11234,
         ocs:C12122,
-        ocs:C1381,
         ocs:C15632,
         ocs:C19700,
-        ocs:C22,
         ocs:C23723,
         ocs:C27264,
         ocs:C28240,
@@ -21,7 +23,5 @@ ocs:C12012 a skos:Concept ;
         ocs:C30190,
         ocs:C38430,
         ocs:C39310,
-        ocs:C42716,
-        ocs:C7699,
-        ocs:C9314 .
+        ocs:C42716 .
 

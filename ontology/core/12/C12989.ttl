@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12989 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Direct_navigation> ;
     skos:prefLabel "Direct navigation" ;
-    skos:related ocs:C11338,
+    skos:related ocs:C31,
+        ocs:C2464,
+        ocs:C8614,
+        ocs:C11338,
         ocs:C14112,
         ocs:C17045,
         ocs:C17225,
         ocs:C22597,
-        ocs:C2464,
         ocs:C28136,
         ocs:C28401,
         ocs:C28801,
-        ocs:C31,
         ocs:C38459,
         ocs:C39074,
         ocs:C39128,
         ocs:C39887,
         ocs:C40049,
         ocs:C40687,
-        ocs:C41498,
-        ocs:C8614 .
+        ocs:C41498 .
 

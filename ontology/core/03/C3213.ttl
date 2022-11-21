@@ -5,7 +5,10 @@ ocs:C3213 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/Unicode_compatibility_characters> ;
     skos:prefLabel "Unicode compatibility characters" ;
-    skos:related ocs:C12547,
+    skos:related ocs:C988,
+        ocs:C5126,
+        ocs:C7131,
+        ocs:C12547,
         ocs:C12983,
         ocs:C13253,
         ocs:C13704,
@@ -13,8 +16,5 @@ ocs:C3213 a skos:Concept ;
         ocs:C27886,
         ocs:C29368,
         ocs:C36380,
-        ocs:C36572,
-        ocs:C5126,
-        ocs:C7131,
-        ocs:C988 .
+        ocs:C36572 .
 

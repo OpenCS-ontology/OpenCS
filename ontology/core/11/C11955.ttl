@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11955 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Reference_table> ;
     skos:prefLabel "Reference table" ;
-    skos:related ocs:C10220,
+    skos:related ocs:C6,
+        ocs:C922,
         ocs:C1031,
+        ocs:C2414,
+        ocs:C2528,
+        ocs:C2836,
+        ocs:C3344,
+        ocs:C5402,
+        ocs:C10220,
         ocs:C10444,
         ocs:C13744,
         ocs:C17701,
         ocs:C18567,
         ocs:C20517,
-        ocs:C2414,
-        ocs:C2528,
         ocs:C26542,
         ocs:C27200,
-        ocs:C2836,
-        ocs:C3344,
-        ocs:C41925,
-        ocs:C5402,
-        ocs:C6,
-        ocs:C922 .
+        ocs:C41925 .
 

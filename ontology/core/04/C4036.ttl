@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4036 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Multiple_single-level> ;
     skos:prefLabel "Multiple single-level" ;
-    skos:related ocs:C12052,
+    skos:related ocs:C9,
+        ocs:C2935,
+        ocs:C3757,
+        ocs:C5698,
+        ocs:C12052,
         ocs:C16481,
         ocs:C16727,
         ocs:C17669,
@@ -15,13 +19,9 @@ ocs:C4036 a skos:Concept ;
         ocs:C24908,
         ocs:C26097,
         ocs:C26161,
-        ocs:C2935,
         ocs:C29434,
         ocs:C33988,
         ocs:C35388,
         ocs:C36897,
-        ocs:C3757,
-        ocs:C38399,
-        ocs:C5698,
-        ocs:C9 .
+        ocs:C38399 .
 

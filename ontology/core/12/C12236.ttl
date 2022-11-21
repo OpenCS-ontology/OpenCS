@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12236 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:prefLabel "Skin Colors" ;
-    skos:related ocs:C12849,
-        ocs:C16,
-        ocs:C16674,
-        ocs:C1938,
+    skos:related ocs:C16,
         ocs:C22,
+        ocs:C1938,
+        ocs:C3743,
+        ocs:C8021,
+        ocs:C12849,
+        ocs:C16674,
         ocs:C24825,
         ocs:C30704,
-        ocs:C33766,
-        ocs:C3743,
-        ocs:C8021 .
+        ocs:C33766 .
 

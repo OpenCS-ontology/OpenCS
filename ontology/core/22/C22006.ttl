@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22006 a skos:Concept ;
-    skos:broader ocs:C13316,
-        ocs:C3236,
-        ocs:C8614 ;
+    skos:broader ocs:C3236,
+        ocs:C8614,
+        ocs:C13316 ;
     skos:closeMatch <http://dbpedia.org/resource/Seamoby> ;
     skos:prefLabel "Seamoby" ;
-    skos:related ocs:C14134,
+    skos:related ocs:C4316,
+        ocs:C5975,
+        ocs:C8148,
+        ocs:C14134,
         ocs:C15396,
         ocs:C18213,
         ocs:C20540,
@@ -20,10 +23,7 @@ ocs:C22006 a skos:Concept ;
         ocs:C41462,
         ocs:C42235,
         ocs:C42429,
-        ocs:C4316,
         ocs:C43370,
         ocs:C44254,
-        ocs:C44801,
-        ocs:C5975,
-        ocs:C8148 .
+        ocs:C44801 .
 

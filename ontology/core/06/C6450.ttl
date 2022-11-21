@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6450 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/TCO_Certification> ;
     skos:prefLabel "TCO Certification" ;
-    skos:related ocs:C10634,
+    skos:related ocs:C653,
+        ocs:C3195,
+        ocs:C9234,
+        ocs:C10634,
         ocs:C12724,
         ocs:C13586,
         ocs:C18053,
@@ -16,9 +19,6 @@ ocs:C6450 a skos:Concept ;
         ocs:C26526,
         ocs:C29012,
         ocs:C31249,
-        ocs:C3195,
         ocs:C32920,
-        ocs:C36598,
-        ocs:C653,
-        ocs:C9234 .
+        ocs:C36598 .
 

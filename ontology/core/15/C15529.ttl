@@ -5,7 +5,11 @@ ocs:C15529 a skos:Concept ;
     skos:broader ocs:C10400 ;
     skos:closeMatch <http://dbpedia.org/resource/Master_boot_record> ;
     skos:prefLabel "Master boot record" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C3523,
+        ocs:C5695,
+        ocs:C7476,
+        ocs:C10400,
         ocs:C10568,
         ocs:C13783,
         ocs:C16481,
@@ -16,9 +20,5 @@ ocs:C15529 a skos:Concept ;
         ocs:C31489,
         ocs:C32640,
         ocs:C33255,
-        ocs:C3523,
-        ocs:C41962,
-        ocs:C5695,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C41962 .
 

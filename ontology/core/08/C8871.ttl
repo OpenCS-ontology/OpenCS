@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8871 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/OpenAIR> ;
     skos:prefLabel "OpenAIR" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
+        ocs:C25,
+        ocs:C661,
+        ocs:C3900,
+        ocs:C4269,
+        ocs:C5776,
+        ocs:C7311,
+        ocs:C10616,
         ocs:C12579,
         ocs:C12977,
         ocs:C13580,
@@ -14,14 +21,7 @@ ocs:C8871 a skos:Concept ;
         ocs:C16381,
         ocs:C22254,
         ocs:C23248,
-        ocs:C25,
         ocs:C30824,
-        ocs:C3900,
         ocs:C39002,
-        ocs:C40194,
-        ocs:C4269,
-        ocs:C5776,
-        ocs:C661,
-        ocs:C7311,
-        ocs:C8 .
+        ocs:C40194 .
 

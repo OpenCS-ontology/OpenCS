@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7080 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16,
+        ocs:C21 ;
     skos:prefLabel "Single character" ;
-    skos:related ocs:C16,
+    skos:related ocs:C2,
+        ocs:C16,
         ocs:C17,
-        ocs:C2,
         ocs:C21,
         ocs:C22,
         ocs:C2543,

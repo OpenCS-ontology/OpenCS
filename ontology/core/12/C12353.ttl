@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12353 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:prefLabel "Context values" ;
-    skos:related ocs:C16,
+    skos:related ocs:C2,
+        ocs:C16,
         ocs:C17,
-        ocs:C2,
         ocs:C21,
         ocs:C22,
         ocs:C29,

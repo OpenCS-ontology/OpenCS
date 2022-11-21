@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C137 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Oracle_BI_server> ;
     skos:prefLabel "Oracle BI server" ;
-    skos:related ocs:C12185,
+    skos:related ocs:C6,
+        ocs:C21,
+        ocs:C3645,
+        ocs:C3896,
+        ocs:C5529,
+        ocs:C8661,
+        ocs:C9426,
+        ocs:C12185,
         ocs:C12312,
         ocs:C14417,
         ocs:C15411,
         ocs:C18025,
         ocs:C18405,
         ocs:C20205,
-        ocs:C21,
         ocs:C24323,
-        ocs:C34662,
-        ocs:C3645,
-        ocs:C3896,
-        ocs:C5529,
-        ocs:C6,
-        ocs:C8661,
-        ocs:C9426 .
+        ocs:C34662 .
 

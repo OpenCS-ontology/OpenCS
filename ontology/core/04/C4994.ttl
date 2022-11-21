@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4994 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Proactive_cyber_defence> ;
     skos:prefLabel "Proactive cyber defence" ;
-    skos:related ocs:C11146,
-        ocs:C14032,
-        ocs:C16637,
-        ocs:C26,
-        ocs:C2941,
-        ocs:C29663,
-        ocs:C34428,
+    skos:related ocs:C26,
         ocs:C35,
-        ocs:C35889,
-        ocs:C37851,
+        ocs:C2941,
         ocs:C3815,
-        ocs:C41300,
-        ocs:C43428,
         ocs:C4984,
         ocs:C7113,
         ocs:C8458,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C11146,
+        ocs:C14032,
+        ocs:C16637,
+        ocs:C29663,
+        ocs:C34428,
+        ocs:C35889,
+        ocs:C37851,
+        ocs:C41300,
+        ocs:C43428 .
 

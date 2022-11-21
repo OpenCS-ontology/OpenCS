@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5105 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Total_cost_of_ownership> ;
     skos:prefLabel "Total cost of ownership" ;
-    skos:related ocs:C1253,
-        ocs:C14271,
-        ocs:C1670,
+    skos:related ocs:C9,
         ocs:C197,
+        ocs:C1253,
+        ocs:C1670,
         ocs:C2352,
-        ocs:C28881,
-        ocs:C31489,
-        ocs:C35701,
         ocs:C4768,
         ocs:C7106,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C9035,
+        ocs:C14271,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C35701 .
 

@@ -5,7 +5,13 @@ ocs:C4011 a skos:Concept ;
     skos:broader ocs:C8 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_Collection_from_Volunteer_Contributors> ;
     skos:prefLabel "Knowledge Collection from Volunteer Contributors" ;
-    skos:related ocs:C10479,
+    skos:related ocs:C8,
+        ocs:C852,
+        ocs:C928,
+        ocs:C3848,
+        ocs:C4756,
+        ocs:C5614,
+        ocs:C10479,
         ocs:C10616,
         ocs:C12977,
         ocs:C21268,
@@ -15,11 +21,5 @@ ocs:C4011 a skos:Concept ;
         ocs:C25681,
         ocs:C28809,
         ocs:C35993,
-        ocs:C3848,
-        ocs:C41607,
-        ocs:C4756,
-        ocs:C5614,
-        ocs:C8,
-        ocs:C852,
-        ocs:C928 .
+        ocs:C41607 .
 

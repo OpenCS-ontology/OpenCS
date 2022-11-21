@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C971 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Cookie_stuffing> ;
     skos:prefLabel "Cookie stuffing" ;
-    skos:related ocs:C16338,
+    skos:related ocs:C31,
+        ocs:C4918,
+        ocs:C9646,
+        ocs:C16338,
         ocs:C18985,
         ocs:C19156,
         ocs:C20461,
@@ -16,13 +19,10 @@ ocs:C971 a skos:Concept ;
         ocs:C27119,
         ocs:C28801,
         ocs:C29564,
-        ocs:C31,
         ocs:C39074,
         ocs:C40049,
         ocs:C40290,
         ocs:C42057,
         ocs:C44855,
-        ocs:C45494,
-        ocs:C4918,
-        ocs:C9646 .
+        ocs:C45494 .
 

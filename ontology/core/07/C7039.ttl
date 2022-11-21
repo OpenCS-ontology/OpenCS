@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7039 a skos:Concept ;
-    skos:broader ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligent_computer-assisted_language_instruction> ;
     skos:prefLabel "Intelligent computer-assisted language instruction" ;
-    skos:related ocs:C1132,
+    skos:related ocs:C8,
         ocs:C16,
+        ocs:C32,
+        ocs:C928,
+        ocs:C1132,
+        ocs:C2468,
+        ocs:C2884,
+        ocs:C3063,
+        ocs:C7807,
         ocs:C17261,
         ocs:C17674,
         ocs:C18805,
         ocs:C20377,
         ocs:C23422,
-        ocs:C2468,
         ocs:C28119,
-        ocs:C2884,
         ocs:C30113,
-        ocs:C3063,
         ocs:C31956,
-        ocs:C32,
         ocs:C36165,
         ocs:C39236,
-        ocs:C45887,
-        ocs:C7807,
-        ocs:C8,
-        ocs:C928 .
+        ocs:C45887 .
 

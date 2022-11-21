@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13383 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Target–action> ;
     skos:prefLabel "Target–action" ;
-    skos:related ocs:C10182,
-        ocs:C10720,
+    skos:related ocs:C329,
         ocs:C1083,
+        ocs:C3904,
+        ocs:C5308,
+        ocs:C10182,
+        ocs:C10720,
         ocs:C12848,
         ocs:C17467,
         ocs:C23580,
         ocs:C24871,
         ocs:C26700,
         ocs:C31894,
-        ocs:C329,
         ocs:C36327,
         ocs:C38027,
-        ocs:C3904,
-        ocs:C44447,
-        ocs:C5308 .
+        ocs:C44447 .
 

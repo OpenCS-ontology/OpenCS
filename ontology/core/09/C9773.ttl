@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9773 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Temporal_database> ;
     skos:prefLabel "Temporal database" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C5402,
+        ocs:C6795,
+        ocs:C10444,
         ocs:C12185,
         ocs:C15510,
         ocs:C16901,
@@ -20,8 +23,5 @@ ocs:C9773 a skos:Concept ;
         ocs:C36084,
         ocs:C38452,
         ocs:C41310,
-        ocs:C44596,
-        ocs:C5402,
-        ocs:C6,
-        ocs:C6795 .
+        ocs:C44596 .
 

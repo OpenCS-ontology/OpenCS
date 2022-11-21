@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10077 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_bridge> ;
     skos:prefLabel "Computer bridge" ;
-    skos:related ocs:C11414,
+    skos:related ocs:C8,
         ocs:C1400,
+        ocs:C4594,
+        ocs:C6945,
+        ocs:C11414,
         ocs:C18256,
         ocs:C21370,
         ocs:C33435,
         ocs:C34786,
         ocs:C38763,
-        ocs:C44226,
-        ocs:C4594,
-        ocs:C6945,
-        ocs:C8 .
+        ocs:C44226 .
 

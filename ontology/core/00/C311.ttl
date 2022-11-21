@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C311 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/CAPTCHA> ;
     skos:prefLabel "CAPTCHA" ;
-    skos:related ocs:C17567,
-        ocs:C20937,
-        ocs:C2464,
-        ocs:C24903,
+    skos:related ocs:C8,
         ocs:C25,
+        ocs:C31,
+        ocs:C685,
+        ocs:C2464,
+        ocs:C3077,
+        ocs:C4866,
+        ocs:C4918,
+        ocs:C8614,
+        ocs:C17567,
+        ocs:C20937,
+        ocs:C24903,
         ocs:C26337,
         ocs:C27557,
         ocs:C28801,
-        ocs:C3077,
-        ocs:C31,
         ocs:C36898,
         ocs:C40049,
-        ocs:C40173,
-        ocs:C4866,
-        ocs:C4918,
-        ocs:C685,
-        ocs:C8,
-        ocs:C8614 .
+        ocs:C40173 .
 

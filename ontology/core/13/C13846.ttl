@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13846 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C18,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16,
+        ocs:C18 ;
     skos:prefLabel "Human machine communication" .
 

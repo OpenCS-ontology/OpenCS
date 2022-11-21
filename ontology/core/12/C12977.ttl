@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12977 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_representation_and_reasoning> ;
     skos:prefLabel "Knowledge representation and reasoning" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C25,
+        ocs:C32,
+        ocs:C852,
+        ocs:C928,
+        ocs:C1092,
+        ocs:C1451,
+        ocs:C2418,
+        ocs:C6531,
+        ocs:C9836,
         ocs:C10479,
         ocs:C10616,
-        ocs:C1092,
         ocs:C11724,
-        ocs:C1451,
         ocs:C16356,
-        ocs:C2418,
-        ocs:C25,
         ocs:C25681,
         ocs:C28117,
         ocs:C28809,
-        ocs:C32,
-        ocs:C35570,
-        ocs:C6531,
-        ocs:C8,
-        ocs:C852,
-        ocs:C928,
-        ocs:C9836 .
+        ocs:C35570 .
 

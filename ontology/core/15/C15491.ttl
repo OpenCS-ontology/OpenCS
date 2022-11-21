@@ -2,17 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15491 a skos:Concept ;
-    skos:broader ocs:C12222,
-        ocs:C13096,
-        ocs:C2025 ;
+    skos:broader ocs:C2025,
+        ocs:C12222,
+        ocs:C13096 ;
     skos:closeMatch <http://dbpedia.org/resource/Tautosyllabic> ;
     skos:prefLabel "Tautosyllabic" ;
-    skos:related ocs:C12222,
+    skos:related ocs:C2025,
+        ocs:C6361,
+        ocs:C6416,
+        ocs:C6449,
+        ocs:C9884,
+        ocs:C12222,
         ocs:C13096,
         ocs:C16185,
         ocs:C18579,
         ocs:C19159,
-        ocs:C2025,
         ocs:C20621,
         ocs:C23569,
         ocs:C24565,
@@ -21,9 +25,5 @@ ocs:C15491 a skos:Concept ;
         ocs:C26770,
         ocs:C27886,
         ocs:C29810,
-        ocs:C35471,
-        ocs:C6361,
-        ocs:C6416,
-        ocs:C6449,
-        ocs:C9884 .
+        ocs:C35471 .
 

@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9453 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Polarizing_organic_photovoltaics> ;
     skos:prefLabel "Polarizing organic photovoltaics" ;
-    skos:related ocs:C1084,
+    skos:related ocs:C653,
+        ocs:C1084,
+        ocs:C5577,
+        ocs:C6969,
+        ocs:C9605,
         ocs:C13725,
         ocs:C24972,
         ocs:C26526,
-        ocs:C29012,
-        ocs:C5577,
-        ocs:C653,
-        ocs:C6969,
-        ocs:C9605 .
+        ocs:C29012 .
 

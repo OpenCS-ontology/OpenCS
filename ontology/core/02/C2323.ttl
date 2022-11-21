@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2323 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Visual_artifact> ;
     skos:prefLabel "Visual artifact" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C245,
+        ocs:C256,
+        ocs:C3244,
+        ocs:C6113,
+        ocs:C6586,
+        ocs:C8021,
+        ocs:C10696,
         ocs:C13679,
         ocs:C15787,
         ocs:C18036,
         ocs:C18519,
         ocs:C20122,
-        ocs:C245,
-        ocs:C256,
-        ocs:C29011,
-        ocs:C3244,
-        ocs:C6113,
-        ocs:C6586,
-        ocs:C8021 .
+        ocs:C29011 .
 

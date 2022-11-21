@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5564 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Feature_recognition> ;
     skos:prefLabel "Feature recognition" ;
-    skos:related ocs:C10391,
+    skos:related ocs:C7000,
+        ocs:C7914,
+        ocs:C8324,
+        ocs:C10391,
         ocs:C23146,
         ocs:C27972,
-        ocs:C45109,
-        ocs:C7000,
-        ocs:C7914,
-        ocs:C8324 .
+        ocs:C45109 .
 

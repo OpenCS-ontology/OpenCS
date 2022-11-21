@@ -3,13 +3,19 @@
 
 ocs:C27258 a skos:Concept ;
     skos:broader ocs:C1253,
-        ocs:C12810,
         ocs:C2215,
         ocs:C7736,
-        ocs:C9607 ;
+        ocs:C9607,
+        ocs:C12810 ;
     skos:closeMatch <http://dbpedia.org/resource/Model–view–presenter> ;
     skos:prefLabel "Model–view–presenter" ;
-    skos:related ocs:C10508,
+    skos:related ocs:C3850,
+        ocs:C4278,
+        ocs:C5702,
+        ocs:C7395,
+        ocs:C7530,
+        ocs:C7736,
+        ocs:C10508,
         ocs:C11293,
         ocs:C12810,
         ocs:C13878,
@@ -18,15 +24,9 @@ ocs:C27258 a skos:Concept ;
         ocs:C22095,
         ocs:C28941,
         ocs:C36729,
-        ocs:C3850,
         ocs:C39143,
         ocs:C40626,
         ocs:C41867,
-        ocs:C4278,
         ocs:C43774,
-        ocs:C45736,
-        ocs:C5702,
-        ocs:C7395,
-        ocs:C7530,
-        ocs:C7736 .
+        ocs:C45736 .
 

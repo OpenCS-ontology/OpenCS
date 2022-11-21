@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7466 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Hyundai_Blue_Link> ;
     skos:prefLabel "Hyundai Blue Link" ;
-    skos:related ocs:C10368,
-        ocs:C16149,
-        ocs:C18080,
+    skos:related ocs:C3,
         ocs:C1886,
-        ocs:C19226,
-        ocs:C21424,
-        ocs:C3,
         ocs:C3022,
-        ocs:C37303,
         ocs:C4428,
         ocs:C6862,
         ocs:C7002,
         ocs:C7561,
         ocs:C7792,
         ocs:C9113,
-        ocs:C9666 .
+        ocs:C9666,
+        ocs:C10368,
+        ocs:C16149,
+        ocs:C18080,
+        ocs:C19226,
+        ocs:C21424,
+        ocs:C37303 .
 

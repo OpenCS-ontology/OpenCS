@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4661 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Zero_game> ;
     skos:prefLabel "Zero game" ;
-    skos:related ocs:C11414,
-        ocs:C13171,
+    skos:related ocs:C272,
         ocs:C2672,
-        ocs:C272,
         ocs:C3583,
+        ocs:C11414,
+        ocs:C13171,
         ocs:C37008,
         ocs:C41474 .
 

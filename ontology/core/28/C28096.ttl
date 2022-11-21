@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28096 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C7903 ;
+    skos:broader ocs:C7903,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/Uclid> ;
     skos:prefLabel "Uclid" ;
-    skos:related ocs:C10825,
-        ocs:C12098,
-        ocs:C12474,
-        ocs:C17845,
-        ocs:C2138,
+    skos:related ocs:C2138,
         ocs:C2418,
         ocs:C2420,
-        ocs:C36468,
         ocs:C3894,
         ocs:C4149,
-        ocs:C43302,
         ocs:C4756,
         ocs:C5561,
         ocs:C7903,
         ocs:C8534,
         ocs:C9450,
-        ocs:C9698 .
+        ocs:C9698,
+        ocs:C10825,
+        ocs:C12098,
+        ocs:C12474,
+        ocs:C17845,
+        ocs:C36468,
+        ocs:C43302 .
 

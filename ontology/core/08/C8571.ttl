@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8571 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Essynth> ;
     skos:prefLabel "Essynth" ;
     skos:related ocs:C1740,
+        ocs:C4462,
+        ocs:C7553,
         ocs:C20226,
         ocs:C22243,
         ocs:C29723,
@@ -19,7 +21,5 @@ ocs:C8571 a skos:Concept ;
         ocs:C37775,
         ocs:C38697,
         ocs:C39426,
-        ocs:C4462,
-        ocs:C45377,
-        ocs:C7553 .
+        ocs:C45377 .
 

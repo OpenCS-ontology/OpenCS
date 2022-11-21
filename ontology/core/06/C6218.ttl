@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6218 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_audition> ;
     skos:prefLabel "Computer audition" ;
-    skos:related ocs:C10554,
-        ocs:C20377,
+    skos:related ocs:C7,
+        ocs:C8,
         ocs:C21,
-        ocs:C22496,
         ocs:C25,
         ocs:C29,
         ocs:C520,
         ocs:C685,
-        ocs:C7,
-        ocs:C8,
         ocs:C8499,
         ocs:C8718,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C10554,
+        ocs:C20377,
+        ocs:C22496 .
 

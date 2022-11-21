@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5791 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/EU_Open_Data_Portal> ;
     skos:prefLabel "EU Open Data Portal" ;
-    skos:related ocs:C11492,
-        ocs:C23932,
-        ocs:C25617,
-        ocs:C28117,
-        ocs:C2931,
-        ocs:C33916,
-        ocs:C37046,
-        ocs:C38059,
-        ocs:C38072,
+    skos:related ocs:C2931,
         ocs:C3896,
-        ocs:C39973,
         ocs:C4164,
-        ocs:C42124,
         ocs:C4500,
         ocs:C6553,
         ocs:C6690,
         ocs:C6915,
-        ocs:C9836 .
+        ocs:C9836,
+        ocs:C11492,
+        ocs:C23932,
+        ocs:C25617,
+        ocs:C28117,
+        ocs:C33916,
+        ocs:C37046,
+        ocs:C38059,
+        ocs:C38072,
+        ocs:C39973,
+        ocs:C42124 .
 

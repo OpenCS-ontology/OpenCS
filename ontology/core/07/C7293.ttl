@@ -3,11 +3,15 @@
 
 ocs:C7293 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Window_manager> ;
     skos:prefLabel "Window manager" ;
-    skos:related ocs:C13790,
+    skos:related ocs:C9,
+        ocs:C813,
+        ocs:C4223,
+        ocs:C5702,
+        ocs:C13790,
         ocs:C14271,
         ocs:C21545,
         ocs:C24143,
@@ -22,9 +26,5 @@ ocs:C7293 a skos:Concept ;
         ocs:C34475,
         ocs:C34966,
         ocs:C37013,
-        ocs:C4223,
-        ocs:C45560,
-        ocs:C5702,
-        ocs:C813,
-        ocs:C9 .
+        ocs:C45560 .
 

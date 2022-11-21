@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9487 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Branch_predictor> ;
     skos:prefLabel "Branch predictor" ;
-    skos:related ocs:C10320,
-        ocs:C11047,
+    skos:related ocs:C856,
         ocs:C1721,
+        ocs:C5463,
+        ocs:C8180,
+        ocs:C8275,
+        ocs:C10320,
+        ocs:C11047,
         ocs:C19487,
         ocs:C22525,
         ocs:C27610,
         ocs:C37538,
-        ocs:C43544,
-        ocs:C5463,
-        ocs:C8180,
-        ocs:C8275,
-        ocs:C856 .
+        ocs:C43544 .
 

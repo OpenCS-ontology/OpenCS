@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18697 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Electronic_program_guide> ;
     skos:prefLabel "Electronic program guide" ;
-    skos:related ocs:C10569,
+    skos:related ocs:C3522,
+        ocs:C4433,
+        ocs:C9045,
+        ocs:C10569,
         ocs:C11323,
         ocs:C12544,
         ocs:C12999,
@@ -20,9 +23,6 @@ ocs:C18697 a skos:Concept ;
         ocs:C32753,
         ocs:C33691,
         ocs:C34890,
-        ocs:C3522,
         ocs:C36807,
-        ocs:C40199,
-        ocs:C4433,
-        ocs:C9045 .
+        ocs:C40199 .
 

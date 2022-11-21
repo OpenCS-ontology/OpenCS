@@ -2,13 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13329 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Simple_Sloppy_Semantic_Database> ;
     skos:prefLabel "Simple Sloppy Semantic Database" ;
-    skos:related ocs:C11886,
+    skos:related ocs:C2674,
+        ocs:C4692,
+        ocs:C9836,
+        ocs:C11886,
         ocs:C22668,
-        ocs:C2674,
         ocs:C28117,
         ocs:C30659,
         ocs:C33916,
@@ -23,7 +25,5 @@ ocs:C13329 a skos:Concept ;
         ocs:C43831,
         ocs:C44135,
         ocs:C44816,
-        ocs:C45750,
-        ocs:C4692,
-        ocs:C9836 .
+        ocs:C45750 .
 

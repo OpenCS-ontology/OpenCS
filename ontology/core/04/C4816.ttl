@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4816 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Rounding> ;
     skos:prefLabel "Rounding" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C4048,
+        ocs:C8581,
+        ocs:C12262,
         ocs:C12315,
         ocs:C16377,
         ocs:C21384,
         ocs:C22452,
         ocs:C24189,
         ocs:C34400,
-        ocs:C39774,
-        ocs:C4048,
-        ocs:C8581 .
+        ocs:C39774 .
 

@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17376 a skos:Concept ;
-    skos:broader ocs:C10331,
-        ocs:C4697 ;
+    skos:broader ocs:C4697,
+        ocs:C10331 ;
     skos:closeMatch <http://dbpedia.org/resource/Bridging_model> ;
     skos:prefLabel "Bridging model" ;
-    skos:related ocs:C10,
+    skos:related ocs:C2,
+        ocs:C9,
+        ocs:C10,
+        ocs:C22,
+        ocs:C27,
+        ocs:C29,
         ocs:C1035,
         ocs:C1253,
+        ocs:C3514,
+        ocs:C6072,
+        ocs:C6941,
         ocs:C13057,
         ocs:C14131,
         ocs:C17626,
         ocs:C19425,
-        ocs:C2,
-        ocs:C22,
         ocs:C22554,
-        ocs:C27,
-        ocs:C29,
         ocs:C35047,
-        ocs:C3514,
         ocs:C39422,
-        ocs:C40762,
-        ocs:C6072,
-        ocs:C6941,
-        ocs:C9 .
+        ocs:C40762 .
 

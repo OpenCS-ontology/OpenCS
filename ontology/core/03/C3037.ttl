@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3037 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_mapping> ;
     skos:prefLabel "Data mapping" ;
-    skos:related ocs:C10979,
+    skos:related ocs:C1451,
+        ocs:C2646,
+        ocs:C3896,
+        ocs:C8270,
+        ocs:C10979,
         ocs:C11861,
         ocs:C11927,
         ocs:C12154,
         ocs:C12694,
         ocs:C12819,
-        ocs:C1451,
         ocs:C17369,
         ocs:C18361,
         ocs:C18791,
-        ocs:C2646,
         ocs:C28117,
         ocs:C35459,
         ocs:C35637,
-        ocs:C3896,
         ocs:C40051,
         ocs:C42623,
-        ocs:C45685,
-        ocs:C8270 .
+        ocs:C45685 .
 

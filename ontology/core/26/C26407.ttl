@@ -2,17 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26407 a skos:Concept ;
-    skos:broader ocs:C11372,
-        ocs:C3837,
-        ocs:C7553 ;
+    skos:broader ocs:C3837,
+        ocs:C7553,
+        ocs:C11372 ;
     skos:closeMatch <http://dbpedia.org/resource/2-opt> ;
     skos:prefLabel "2-opt" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C1885,
+        ocs:C3837,
+        ocs:C5106,
+        ocs:C9264,
+        ocs:C9780,
+        ocs:C10390,
         ocs:C10502,
         ocs:C11372,
         ocs:C16606,
         ocs:C18302,
-        ocs:C1885,
         ocs:C23250,
         ocs:C24647,
         ocs:C29055,
@@ -22,9 +26,5 @@ ocs:C26407 a skos:Concept ;
         ocs:C31656,
         ocs:C33271,
         ocs:C36442,
-        ocs:C3837,
-        ocs:C44992,
-        ocs:C5106,
-        ocs:C9264,
-        ocs:C9780 .
+        ocs:C44992 .
 

@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2700 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Enhanced_service> ;
     skos:prefLabel "Enhanced service" ;
-    skos:related ocs:C13217,
-        ocs:C13695,
+    skos:related ocs:C3,
+        ocs:C941,
         ocs:C2602,
+        ocs:C7340,
+        ocs:C8410,
+        ocs:C9785,
+        ocs:C13217,
+        ocs:C13695,
         ocs:C29471,
-        ocs:C3,
         ocs:C30146,
         ocs:C34952,
         ocs:C41099,
-        ocs:C45847,
-        ocs:C7340,
-        ocs:C8410,
-        ocs:C941,
-        ocs:C9785 .
+        ocs:C45847 .
 

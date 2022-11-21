@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16774 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C6594 ;
+    skos:broader ocs:C6594,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Feller_process> ;
     skos:prefLabel "Feller process" ;
-    skos:related ocs:C15256,
+    skos:related ocs:C6594,
+        ocs:C6909,
+        ocs:C7689,
+        ocs:C15256,
         ocs:C28991,
         ocs:C33043,
         ocs:C37437,
-        ocs:C45725,
-        ocs:C6594,
-        ocs:C6909,
-        ocs:C7689 .
+        ocs:C45725 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1213 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Genigraphics> ;
     skos:prefLabel "Genigraphics" ;
-    skos:related ocs:C12473,
+    skos:related ocs:C22,
+        ocs:C742,
+        ocs:C2409,
+        ocs:C5350,
+        ocs:C7393,
+        ocs:C9451,
+        ocs:C9604,
+        ocs:C12473,
         ocs:C13173,
         ocs:C21305,
         ocs:C21316,
-        ocs:C22,
         ocs:C23498,
-        ocs:C2409,
         ocs:C24503,
-        ocs:C26790,
-        ocs:C5350,
-        ocs:C7393,
-        ocs:C742,
-        ocs:C9451,
-        ocs:C9604 .
+        ocs:C26790 .
 

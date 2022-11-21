@@ -5,7 +5,9 @@ ocs:C8609 a skos:Concept ;
     skos:broader ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Grossberg_network> ;
     skos:prefLabel "Grossberg network" ;
-    skos:related ocs:C1358,
+    skos:related ocs:C8,
+        ocs:C1358,
+        ocs:C9373,
         ocs:C22194,
         ocs:C23496,
         ocs:C23970,
@@ -19,7 +21,5 @@ ocs:C8609 a skos:Concept ;
         ocs:C37267,
         ocs:C37502,
         ocs:C39364,
-        ocs:C43755,
-        ocs:C8,
-        ocs:C9373 .
+        ocs:C43755 .
 

@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11927 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/XML> ;
     skos:prefLabel "XML" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C2674,
+        ocs:C3896,
+        ocs:C4918,
+        ocs:C5126,
+        ocs:C10284,
         ocs:C10904,
         ocs:C11293,
         ocs:C12185,
@@ -17,14 +21,10 @@ ocs:C11927 a skos:Concept ;
         ocs:C18361,
         ocs:C22597,
         ocs:C24783,
-        ocs:C2674,
         ocs:C28801,
         ocs:C28881,
         ocs:C31343,
         ocs:C31489,
         ocs:C33709,
-        ocs:C35567,
-        ocs:C3896,
-        ocs:C4918,
-        ocs:C5126 .
+        ocs:C35567 .
 

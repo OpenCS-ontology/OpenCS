@@ -4,7 +4,9 @@
 ocs:C17214 a skos:Concept ;
     skos:broader ocs:C4558 ;
     skos:prefLabel "Agile management" ;
-    skos:related ocs:C10623,
+    skos:related ocs:C666,
+        ocs:C4558,
+        ocs:C10623,
         ocs:C33354,
         ocs:C37174,
         ocs:C39202,
@@ -14,7 +16,5 @@ ocs:C17214 a skos:Concept ;
         ocs:C41437,
         ocs:C41673,
         ocs:C43994,
-        ocs:C44988,
-        ocs:C4558,
-        ocs:C666 .
+        ocs:C44988 .
 

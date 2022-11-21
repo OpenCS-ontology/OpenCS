@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29140 a skos:Concept ;
-    skos:broader ocs:C10668,
-        ocs:C78 ;
+    skos:broader ocs:C78,
+        ocs:C10668 ;
     skos:closeMatch <http://dbpedia.org/resource/Eye_tracking_on_the_ISS> ;
     skos:prefLabel "Eye tracking on the ISS" ;
-    skos:related ocs:C13065,
-        ocs:C14473,
-        ocs:C16977,
+    skos:related ocs:C78,
         ocs:C7201,
-        ocs:C78 .
+        ocs:C13065,
+        ocs:C14473,
+        ocs:C16977 .
 

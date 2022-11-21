@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24841 a skos:Concept ;
-    skos:broader ocs:C13509,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C13509 ;
     skos:closeMatch <http://dbpedia.org/resource/Frame_rate_control> ;
     skos:prefLabel "Frame rate control" ;
-    skos:related ocs:C13155,
+    skos:related ocs:C653,
+        ocs:C1935,
+        ocs:C6113,
+        ocs:C6942,
+        ocs:C9475,
+        ocs:C13155,
         ocs:C13679,
         ocs:C18385,
-        ocs:C1935,
         ocs:C28172,
         ocs:C31451,
         ocs:C36633,
         ocs:C45008,
-        ocs:C45306,
-        ocs:C6113,
-        ocs:C653,
-        ocs:C6942,
-        ocs:C9475 .
+        ocs:C45306 .
 

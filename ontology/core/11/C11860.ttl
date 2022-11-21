@@ -5,7 +5,12 @@ ocs:C11860 a skos:Concept ;
     skos:broader ocs:C6 ;
     skos:closeMatch <http://dbpedia.org/resource/AutoNumber> ;
     skos:prefLabel "AutoNumber" ;
-    skos:related ocs:C1060,
+    skos:related ocs:C6,
+        ocs:C1060,
+        ocs:C3934,
+        ocs:C4028,
+        ocs:C5402,
+        ocs:C7017,
         ocs:C12185,
         ocs:C14025,
         ocs:C16901,
@@ -16,10 +21,5 @@ ocs:C11860 a skos:Concept ;
         ocs:C36084,
         ocs:C37009,
         ocs:C38452,
-        ocs:C3934,
-        ocs:C4028,
-        ocs:C41302,
-        ocs:C5402,
-        ocs:C6,
-        ocs:C7017 .
+        ocs:C41302 .
 

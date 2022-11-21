@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11390 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Exploratory_engineering> ;
     skos:prefLabel "Exploratory engineering" ;
-    skos:related ocs:C13272,
-        ocs:C18218,
-        ocs:C24 .
+    skos:related ocs:C24,
+        ocs:C13272,
+        ocs:C18218 .
 

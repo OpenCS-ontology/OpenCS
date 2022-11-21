@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8997 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Reinventing_the_wheel> ;
     skos:prefLabel "Reinventing the wheel" ;
-    skos:related ocs:C10243,
-        ocs:C10781,
-        ocs:C1142,
-        ocs:C11928,
-        ocs:C12257,
+    skos:related ocs:C1142,
         ocs:C1253,
-        ocs:C13754,
         ocs:C1393,
         ocs:C2057,
+        ocs:C4918,
+        ocs:C5039,
+        ocs:C7511,
+        ocs:C10243,
+        ocs:C10781,
+        ocs:C11928,
+        ocs:C12257,
+        ocs:C13754,
         ocs:C24453,
         ocs:C27996,
         ocs:C28881,
         ocs:C31489,
         ocs:C36354,
         ocs:C44127,
-        ocs:C45120,
-        ocs:C4918,
-        ocs:C5039,
-        ocs:C7511 .
+        ocs:C45120 .
 

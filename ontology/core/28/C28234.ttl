@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28234 a skos:Concept ;
-    skos:broader ocs:C10496,
-        ocs:C1142,
-        ocs:C2303 ;
+    skos:broader ocs:C1142,
+        ocs:C2303,
+        ocs:C10496 ;
     skos:closeMatch <http://dbpedia.org/resource/Service_Data_Objects> ;
     skos:prefLabel "Service Data Objects" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C2674,
+        ocs:C8452,
+        ocs:C10720,
         ocs:C10779,
         ocs:C11293,
         ocs:C11927,
@@ -16,12 +18,10 @@ ocs:C28234 a skos:Concept ;
         ocs:C17238,
         ocs:C17576,
         ocs:C24252,
-        ocs:C2674,
         ocs:C29401,
         ocs:C30649,
         ocs:C36422,
         ocs:C38383,
         ocs:C40411,
-        ocs:C41310,
-        ocs:C8452 .
+        ocs:C41310 .
 

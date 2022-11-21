@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19704 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C9221 ;
+    skos:broader ocs:C9221,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Linear_Heat_Detection> ;
     skos:prefLabel "Linear Heat Detection" ;
     skos:related ocs:C9221,

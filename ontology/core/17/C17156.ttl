@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17156 a skos:Concept ;
-    skos:broader ocs:C10212,
-        ocs:C8273 ;
+    skos:broader ocs:C8273,
+        ocs:C10212 ;
     skos:closeMatch <http://dbpedia.org/resource/Machine_olfaction> ;
     skos:prefLabel "Machine olfaction" ;
-    skos:related ocs:C10212,
-        ocs:C12397,
-        ocs:C21 .
+    skos:related ocs:C21,
+        ocs:C10212,
+        ocs:C12397 .
 

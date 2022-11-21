@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8030 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Daemon_(computing)> ;
     skos:prefLabel "Daemon" ;
-    skos:related ocs:C12683,
+    skos:related ocs:C9,
+        ocs:C2130,
+        ocs:C2322,
+        ocs:C2353,
+        ocs:C4882,
+        ocs:C5702,
+        ocs:C6072,
+        ocs:C8349,
+        ocs:C9540,
+        ocs:C12683,
         ocs:C14271,
         ocs:C15595,
         ocs:C16601,
-        ocs:C2130,
         ocs:C21545,
-        ocs:C2322,
-        ocs:C2353,
         ocs:C24871,
         ocs:C28881,
         ocs:C30078,
         ocs:C30860,
         ocs:C31489,
-        ocs:C42619,
-        ocs:C4882,
-        ocs:C5702,
-        ocs:C6072,
-        ocs:C8349,
-        ocs:C9,
-        ocs:C9540 .
+        ocs:C42619 .
 

@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16885 a skos:Concept ;
-    skos:broader ocs:C13687,
-        ocs:C13706,
-        ocs:C5293 ;
+    skos:broader ocs:C5293,
+        ocs:C13687,
+        ocs:C13706 ;
     skos:closeMatch <http://dbpedia.org/resource/CCSDS_File_Delivery_Protocol> ;
     skos:prefLabel "CCSDS File Delivery Protocol" .
 

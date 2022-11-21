@@ -5,7 +5,9 @@ ocs:C16959 a skos:Concept ;
     skos:broader ocs:C9066 ;
     skos:closeMatch <http://dbpedia.org/resource/Missile_guidance> ;
     skos:prefLabel "Missile guidance" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C6589,
+        ocs:C9066,
+        ocs:C12641,
         ocs:C12931,
         ocs:C16352,
         ocs:C16720,
@@ -15,7 +17,5 @@ ocs:C16959 a skos:Concept ;
         ocs:C28796,
         ocs:C30747,
         ocs:C34143,
-        ocs:C34932,
-        ocs:C6589,
-        ocs:C9066 .
+        ocs:C34932 .
 

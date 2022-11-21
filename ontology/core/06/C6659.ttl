@@ -5,7 +5,11 @@ ocs:C6659 a skos:Concept ;
     skos:broader ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Brick_and_mortar> ;
     skos:prefLabel "Brick and mortar" ;
-    skos:related ocs:C10270,
+    skos:related ocs:C31,
+        ocs:C7255,
+        ocs:C8614,
+        ocs:C9886,
+        ocs:C10270,
         ocs:C10611,
         ocs:C11696,
         ocs:C12146,
@@ -13,9 +17,5 @@ ocs:C6659 a skos:Concept ;
         ocs:C24449,
         ocs:C26014,
         ocs:C30829,
-        ocs:C31,
-        ocs:C33193,
-        ocs:C7255,
-        ocs:C8614,
-        ocs:C9886 .
+        ocs:C33193 .
 

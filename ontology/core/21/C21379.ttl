@@ -5,7 +5,9 @@ ocs:C21379 a skos:Concept ;
     skos:broader ocs:C9066 ;
     skos:closeMatch <http://dbpedia.org/resource/Surface-to-surface_missile> ;
     skos:prefLabel "Surface-to-surface missile" ;
-    skos:related ocs:C14318,
+    skos:related ocs:C5247,
+        ocs:C9066,
+        ocs:C14318,
         ocs:C16352,
         ocs:C16720,
         ocs:C21767,
@@ -13,7 +15,5 @@ ocs:C21379 a skos:Concept ;
         ocs:C28174,
         ocs:C28796,
         ocs:C34143,
-        ocs:C37488,
-        ocs:C5247,
-        ocs:C9066 .
+        ocs:C37488 .
 

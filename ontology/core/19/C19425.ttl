@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19425 a skos:Concept ;
-    skos:broader ocs:C12780,
-        ocs:C8753 ;
+    skos:broader ocs:C8753,
+        ocs:C12780 ;
     skos:closeMatch <http://dbpedia.org/resource/Bulk_synchronous_parallel> ;
     skos:prefLabel "Bulk synchronous parallel" ;
     skos:related ocs:C1,
+        ocs:C6,
+        ocs:C27,
+        ocs:C30,
+        ocs:C3082,
+        ocs:C3514,
+        ocs:C3990,
+        ocs:C6346,
+        ocs:C8660,
         ocs:C14131,
         ocs:C17376,
         ocs:C17626,
@@ -14,16 +22,8 @@ ocs:C19425 a skos:Concept ;
         ocs:C19876,
         ocs:C23783,
         ocs:C24700,
-        ocs:C27,
         ocs:C28249,
-        ocs:C30,
-        ocs:C3082,
         ocs:C31371,
         ocs:C31566,
-        ocs:C3514,
-        ocs:C36120,
-        ocs:C3990,
-        ocs:C6,
-        ocs:C6346,
-        ocs:C8660 .
+        ocs:C36120 .
 

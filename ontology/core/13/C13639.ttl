@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13639 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C35 ;
     skos:prefLabel "Pseudonymized" ;
-    skos:related ocs:C10135,
-        ocs:C12206,
-        ocs:C16125,
-        ocs:C26011,
+    skos:related ocs:C5,
         ocs:C34,
         ocs:C4561,
-        ocs:C5,
         ocs:C6753,
         ocs:C7239,
         ocs:C7510,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10135,
+        ocs:C12206,
+        ocs:C16125,
+        ocs:C26011 .
 

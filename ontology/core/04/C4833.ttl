@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4833 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Library_card> ;
     skos:prefLabel "Library card" ;
-    skos:related ocs:C22551,
-        ocs:C22701,
-        ocs:C29012,
+    skos:related ocs:C6,
         ocs:C3214,
-        ocs:C33193,
         ocs:C3410,
         ocs:C4917,
         ocs:C5369,
         ocs:C5832,
-        ocs:C6,
         ocs:C6726,
         ocs:C7849,
         ocs:C8614,
         ocs:C8770,
-        ocs:C8812 .
+        ocs:C8812,
+        ocs:C22551,
+        ocs:C22701,
+        ocs:C29012,
+        ocs:C33193 .
 

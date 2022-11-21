@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C856 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Instruction_set_architecture> ;
     skos:prefLabel "Instruction set" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C4321,
+        ocs:C4863,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C10320,
         ocs:C11047,
         ocs:C11258,
         ocs:C14917,
@@ -17,10 +22,5 @@ ocs:C856 a skos:Concept ;
         ocs:C25252,
         ocs:C27610,
         ocs:C35009,
-        ocs:C37538,
-        ocs:C4321,
-        ocs:C4863,
-        ocs:C5463,
-        ocs:C6172,
-        ocs:C9 .
+        ocs:C37538 .
 

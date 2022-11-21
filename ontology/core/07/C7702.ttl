@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7702 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Supply_chain_attack> ;
     skos:prefLabel "Supply chain attack" ;
-    skos:related ocs:C14466,
-        ocs:C16481,
-        ocs:C18986,
-        ocs:C20295,
-        ocs:C21054,
-        ocs:C22836,
-        ocs:C25856,
+    skos:related ocs:C35,
         ocs:C2941,
-        ocs:C30563,
-        ocs:C32264,
-        ocs:C35,
-        ocs:C44734,
         ocs:C5777,
         ocs:C5821,
         ocs:C6342,
         ocs:C8025,
         ocs:C8437,
         ocs:C8458,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C14466,
+        ocs:C16481,
+        ocs:C18986,
+        ocs:C20295,
+        ocs:C21054,
+        ocs:C22836,
+        ocs:C25856,
+        ocs:C30563,
+        ocs:C32264,
+        ocs:C44734 .
 

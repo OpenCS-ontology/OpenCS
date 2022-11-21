@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C78 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C18,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Eye_tracking> ;
     skos:prefLabel "Eye tracking" ;
-    skos:related ocs:C10740,
+    skos:related ocs:C18,
+        ocs:C10740,
         ocs:C14473,
-        ocs:C18,
         ocs:C21618,
         ocs:C29140,
         ocs:C34379 .

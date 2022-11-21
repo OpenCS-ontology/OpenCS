@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4541 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C17,
         ocs:C24 ;
     skos:prefLabel "Video equipment" .
 

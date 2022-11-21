@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9782 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_differencing> ;
     skos:prefLabel "Data differencing" ;
     skos:related ocs:C10,
+        ocs:C546,
+        ocs:C4760,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C9268,
         ocs:C10767,
         ocs:C27316,
         ocs:C31632,
         ocs:C31992,
         ocs:C39457,
-        ocs:C43672,
-        ocs:C4760,
-        ocs:C546,
-        ocs:C5816,
-        ocs:C8332,
-        ocs:C9268 .
+        ocs:C43672 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7338 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:prefLabel "Vision aid" ;
-    skos:related ocs:C12077,
+    skos:related ocs:C2,
         ocs:C16,
-        ocs:C16352,
         ocs:C17,
-        ocs:C2,
         ocs:C22,
-        ocs:C22623,
-        ocs:C28240,
-        ocs:C29365,
-        ocs:C6420,
         ocs:C695,
+        ocs:C6420,
         ocs:C8021,
         ocs:C9113,
         ocs:C9611,
-        ocs:C9664 .
+        ocs:C9664,
+        ocs:C12077,
+        ocs:C16352,
+        ocs:C22623,
+        ocs:C28240,
+        ocs:C29365 .
 

@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3695 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C31,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Image_Share> ;
     skos:prefLabel "Image Share" ;
     skos:related ocs:C1855,
+        ocs:C3933,
+        ocs:C5285,
+        ocs:C5672,
+        ocs:C6660,
+        ocs:C6721,
+        ocs:C8515,
+        ocs:C9154,
         ocs:C21981,
         ocs:C27633,
         ocs:C27704,
@@ -17,13 +24,6 @@ ocs:C3695 a skos:Concept ;
         ocs:C31996,
         ocs:C33285,
         ocs:C35776,
-        ocs:C3933,
         ocs:C41460,
-        ocs:C42546,
-        ocs:C5285,
-        ocs:C5672,
-        ocs:C6660,
-        ocs:C6721,
-        ocs:C8515,
-        ocs:C9154 .
+        ocs:C42546 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10105 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Motion_detection> ;
     skos:prefLabel "Motion detection" ;
-    skos:related ocs:C10,
-        ocs:C10368,
+    skos:related ocs:C7,
+        ocs:C10,
+        ocs:C699,
         ocs:C1239,
+        ocs:C3341,
+        ocs:C7789,
+        ocs:C10368,
         ocs:C12580,
         ocs:C12976,
         ocs:C21424,
         ocs:C28881,
-        ocs:C3341,
         ocs:C34004,
-        ocs:C44595,
-        ocs:C699,
-        ocs:C7,
-        ocs:C7789 .
+        ocs:C44595 .
 

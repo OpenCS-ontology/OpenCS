@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16171 a skos:Concept ;
-    skos:broader ocs:C11701,
-        ocs:C8435 ;
+    skos:broader ocs:C8435,
+        ocs:C11701 ;
     skos:closeMatch <http://dbpedia.org/resource/Quadratic_unconstrained_binary_optimization> ;
     skos:prefLabel "Quadratic unconstrained binary optimization" ;
-    skos:related ocs:C10278,
+    skos:related ocs:C25,
+        ocs:C2132,
+        ocs:C2321,
+        ocs:C5498,
+        ocs:C7018,
+        ocs:C10278,
         ocs:C10382,
         ocs:C11542,
-        ocs:C2132,
         ocs:C22653,
-        ocs:C2321,
-        ocs:C25,
         ocs:C31630,
         ocs:C32775,
         ocs:C35079,
         ocs:C36272,
         ocs:C41650,
-        ocs:C45051,
-        ocs:C5498,
-        ocs:C7018 .
+        ocs:C45051 .
 

@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12617 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/WS-MetadataExchange> ;
     skos:prefLabel "WS-MetadataExchange" ;
-    skos:related ocs:C10904,
+    skos:related ocs:C6442,
+        ocs:C10904,
         ocs:C13252,
         ocs:C20239,
         ocs:C20734,
@@ -24,6 +25,5 @@ ocs:C12617 a skos:Concept ;
         ocs:C44171,
         ocs:C44429,
         ocs:C44609,
-        ocs:C45846,
-        ocs:C6442 .
+        ocs:C45846 .
 

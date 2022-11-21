@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3307 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Record_Management_Services> ;
     skos:prefLabel "Record Management Services" ;
-    skos:related ocs:C10992,
+    skos:related ocs:C9,
+        ocs:C3036,
+        ocs:C4046,
+        ocs:C6605,
+        ocs:C6714,
+        ocs:C7476,
+        ocs:C9035,
+        ocs:C10992,
         ocs:C12851,
         ocs:C12980,
         ocs:C14271,
@@ -15,15 +22,8 @@ ocs:C3307 a skos:Concept ;
         ocs:C29413,
         ocs:C29604,
         ocs:C30078,
-        ocs:C3036,
         ocs:C31489,
         ocs:C36441,
         ocs:C39675,
-        ocs:C4046,
-        ocs:C45123,
-        ocs:C6605,
-        ocs:C6714,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C45123 .
 

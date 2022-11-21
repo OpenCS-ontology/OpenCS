@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14960 a skos:Concept ;
-    skos:broader ocs:C2058,
+    skos:broader ocs:C390,
+        ocs:C2058,
         ocs:C3896,
-        ocs:C390,
         ocs:C6751,
         ocs:C8614 ;
     skos:prefLabel "Network service header" .

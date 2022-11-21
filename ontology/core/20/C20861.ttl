@@ -6,7 +6,9 @@ ocs:C20861 a skos:Concept ;
         ocs:C7858 ;
     skos:closeMatch <http://dbpedia.org/resource/Portuguese_Sign_Language> ;
     skos:prefLabel "Portuguese Sign Language" ;
-    skos:related ocs:C14125,
+    skos:related ocs:C7501,
+        ocs:C7858,
+        ocs:C14125,
         ocs:C16631,
         ocs:C20561,
         ocs:C23816,
@@ -20,7 +22,5 @@ ocs:C20861 a skos:Concept ;
         ocs:C33438,
         ocs:C34292,
         ocs:C37561,
-        ocs:C44007,
-        ocs:C7501,
-        ocs:C7858 .
+        ocs:C44007 .
 

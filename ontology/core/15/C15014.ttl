@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15014 a skos:Concept ;
-    skos:broader ocs:C12257,
-        ocs:C1253,
-        ocs:C4321 ;
+    skos:broader ocs:C1253,
+        ocs:C4321,
+        ocs:C12257 ;
     skos:closeMatch <http://dbpedia.org/resource/Makefile> ;
     skos:prefLabel "Makefile" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C9,
+        ocs:C4321,
+        ocs:C4813,
+        ocs:C5034,
+        ocs:C5308,
+        ocs:C9235,
+        ocs:C10284,
         ocs:C11128,
         ocs:C12257,
         ocs:C14271,
@@ -19,11 +25,5 @@ ocs:C15014 a skos:Concept ;
         ocs:C30078,
         ocs:C30650,
         ocs:C31489,
-        ocs:C34227,
-        ocs:C4321,
-        ocs:C4813,
-        ocs:C5034,
-        ocs:C5308,
-        ocs:C9,
-        ocs:C9235 .
+        ocs:C34227 .
 

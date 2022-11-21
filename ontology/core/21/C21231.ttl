@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21231 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C8386 ;
+    skos:broader ocs:C8386,
+        ocs:C11886 ;
     skos:closeMatch <http://dbpedia.org/resource/IEEE_2030> ;
     skos:prefLabel "IEEE 2030" ;
-    skos:related ocs:C17244,
+    skos:related ocs:C625,
+        ocs:C4131,
+        ocs:C7740,
+        ocs:C8386,
+        ocs:C17244,
         ocs:C20483,
         ocs:C25575,
         ocs:C33773,
         ocs:C34513,
         ocs:C35778,
-        ocs:C4131,
         ocs:C42888,
-        ocs:C43573,
-        ocs:C625,
-        ocs:C7740,
-        ocs:C8386 .
+        ocs:C43573 .
 

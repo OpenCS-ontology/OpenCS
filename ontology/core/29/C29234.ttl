@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29234 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C2761,
+    skos:broader ocs:C2761,
         ocs:C2931,
         ocs:C5746,
         ocs:C7106,
-        ocs:C9836 ;
+        ocs:C9836,
+        ocs:C11886 ;
     skos:prefLabel "Linguistic linked open data" .
 

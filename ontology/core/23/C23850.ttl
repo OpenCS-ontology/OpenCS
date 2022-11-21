@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23850 a skos:Concept ;
-    skos:broader ocs:C3679,
-        ocs:C622 ;
+    skos:broader ocs:C622,
+        ocs:C3679 ;
     skos:closeMatch <http://dbpedia.org/resource/SVG_animation> ;
     skos:prefLabel "SVG animation" ;
-    skos:related ocs:C1023,
+    skos:related ocs:C355,
+        ocs:C622,
+        ocs:C1023,
+        ocs:C3679,
+        ocs:C4584,
+        ocs:C4918,
+        ocs:C9646,
         ocs:C10380,
         ocs:C11927,
         ocs:C12477,
@@ -15,15 +21,9 @@ ocs:C23850 a skos:Concept ;
         ocs:C33188,
         ocs:C33709,
         ocs:C35078,
-        ocs:C355,
         ocs:C35992,
-        ocs:C3679,
         ocs:C37962,
         ocs:C39183,
         ocs:C41912,
-        ocs:C45145,
-        ocs:C4584,
-        ocs:C4918,
-        ocs:C622,
-        ocs:C9646 .
+        ocs:C45145 .
 

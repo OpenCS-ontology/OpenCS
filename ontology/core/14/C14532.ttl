@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14532 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C8753 ;
+    skos:broader ocs:C8753,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Ore_algebra> ;
     skos:prefLabel "Ore algebra" ;
-    skos:related ocs:C20399,
+    skos:related ocs:C5865,
+        ocs:C20399,
         ocs:C28955,
         ocs:C31019,
         ocs:C36132,
         ocs:C36275,
-        ocs:C42681,
-        ocs:C5865 .
+        ocs:C42681 .
 

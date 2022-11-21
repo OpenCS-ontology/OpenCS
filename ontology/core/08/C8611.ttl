@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8611 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Continuous_tone> ;
     skos:prefLabel "Continuous tone" ;
-    skos:related ocs:C10047,
-        ocs:C1397,
+    skos:related ocs:C1397,
+        ocs:C6113,
+        ocs:C8021,
+        ocs:C8099,
+        ocs:C8747,
+        ocs:C10047,
         ocs:C18796,
         ocs:C28588,
         ocs:C32992,
         ocs:C34257,
         ocs:C36730,
-        ocs:C37471,
-        ocs:C6113,
-        ocs:C8021,
-        ocs:C8099,
-        ocs:C8747 .
+        ocs:C37471 .
 

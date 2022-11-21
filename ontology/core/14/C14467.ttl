@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14467 a skos:Concept ;
-    skos:broader ocs:C4321,
-        ocs:C6857,
-        ocs:C794 ;
+    skos:broader ocs:C794,
+        ocs:C4321,
+        ocs:C6857 ;
     skos:closeMatch <http://dbpedia.org/resource/Alias_analysis> ;
     skos:prefLabel "Alias analysis" ;
-    skos:related ocs:C15465,
+    skos:related ocs:C2009,
+        ocs:C4321,
+        ocs:C5085,
+        ocs:C6072,
+        ocs:C8131,
+        ocs:C15465,
         ocs:C18617,
-        ocs:C2009,
         ocs:C20693,
         ocs:C21201,
         ocs:C22262,
@@ -21,10 +25,6 @@ ocs:C14467 a skos:Concept ;
         ocs:C33100,
         ocs:C39744,
         ocs:C40582,
-        ocs:C4321,
         ocs:C45212,
-        ocs:C45909,
-        ocs:C5085,
-        ocs:C6072,
-        ocs:C8131 .
+        ocs:C45909 .
 

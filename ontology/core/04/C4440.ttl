@@ -5,7 +5,11 @@ ocs:C4440 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/WebNFS> ;
     skos:prefLabel "WebNFS" ;
-    skos:related ocs:C12060,
+    skos:related ocs:C9,
+        ocs:C7476,
+        ocs:C9273,
+        ocs:C9938,
+        ocs:C12060,
         ocs:C14271,
         ocs:C14627,
         ocs:C22970,
@@ -19,9 +23,5 @@ ocs:C4440 a skos:Concept ;
         ocs:C41079,
         ocs:C42749,
         ocs:C44098,
-        ocs:C45269,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9273,
-        ocs:C9938 .
+        ocs:C45269 .
 

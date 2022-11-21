@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6666 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Rotating_line_camera> ;
     skos:prefLabel "Rotating line camera" ;
-    skos:related ocs:C12580,
-        ocs:C13065,
-        ocs:C29365,
-        ocs:C39878,
-        ocs:C422,
+    skos:related ocs:C422,
         ocs:C6942,
         ocs:C7789,
         ocs:C8021,
-        ocs:C8746 .
+        ocs:C8746,
+        ocs:C12580,
+        ocs:C13065,
+        ocs:C29365,
+        ocs:C39878 .
 

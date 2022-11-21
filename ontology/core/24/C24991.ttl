@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24991 a skos:Concept ;
-    skos:broader ocs:C13210,
-        ocs:C2025 ;
+    skos:broader ocs:C2025,
+        ocs:C13210 ;
     skos:closeMatch <http://dbpedia.org/resource/Obstruent> ;
     skos:prefLabel "Obstruent" ;
-    skos:related ocs:C10768,
+    skos:related ocs:C2025,
+        ocs:C4522,
+        ocs:C7501,
+        ocs:C10768,
         ocs:C11145,
         ocs:C12222,
         ocs:C13096,
@@ -14,14 +17,11 @@ ocs:C24991 a skos:Concept ;
         ocs:C18818,
         ocs:C18819,
         ocs:C19817,
-        ocs:C2025,
         ocs:C20620,
         ocs:C21409,
         ocs:C21925,
         ocs:C27881,
         ocs:C27886,
         ocs:C34296,
-        ocs:C36116,
-        ocs:C4522,
-        ocs:C7501 .
+        ocs:C36116 .
 

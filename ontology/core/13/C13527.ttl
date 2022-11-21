@@ -2,17 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13527 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/NewLISP> ;
     skos:prefLabel "newLISP" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C4877,
+        ocs:C4918,
+        ocs:C5529,
+        ocs:C8441,
+        ocs:C10284,
         ocs:C11128,
         ocs:C11990,
         ocs:C12108,
         ocs:C15650,
         ocs:C16609,
-        ocs:C19,
         ocs:C20208,
         ocs:C20907,
         ocs:C25779,
@@ -20,9 +24,5 @@ ocs:C13527 a skos:Concept ;
         ocs:C29907,
         ocs:C31489,
         ocs:C34227,
-        ocs:C35502,
-        ocs:C4877,
-        ocs:C4918,
-        ocs:C5529,
-        ocs:C8441 .
+        ocs:C35502 .
 

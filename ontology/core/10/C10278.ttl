@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10278 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Evolving_classification_function> ;
     skos:prefLabel "Evolving classification function" ;
-    skos:related ocs:C11030,
+    skos:related ocs:C8,
+        ocs:C13,
+        ocs:C25,
+        ocs:C685,
+        ocs:C1725,
+        ocs:C5776,
+        ocs:C8367,
+        ocs:C9022,
+        ocs:C11030,
         ocs:C11773,
         ocs:C12579,
-        ocs:C13,
         ocs:C16711,
-        ocs:C1725,
         ocs:C22653,
-        ocs:C25,
         ocs:C31418,
         ocs:C31543,
         ocs:C31626,
-        ocs:C36272,
-        ocs:C5776,
-        ocs:C685,
-        ocs:C8,
-        ocs:C8367,
-        ocs:C9022 .
+        ocs:C36272 .
 

@@ -2,20 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19460 a skos:Concept ;
-    skos:broader ocs:C10904,
-        ocs:C11927,
-        ocs:C1253,
-        ocs:C2979 ;
+    skos:broader ocs:C1253,
+        ocs:C2979,
+        ocs:C10904,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/WaterML> ;
     skos:prefLabel "WaterML" ;
     skos:related ocs:C1037,
+        ocs:C1651,
+        ocs:C3430,
+        ocs:C7918,
+        ocs:C8040,
         ocs:C10822,
         ocs:C11927,
-        ocs:C1651,
         ocs:C23889,
         ocs:C27492,
         ocs:C31518,
-        ocs:C3430,
         ocs:C38078,
         ocs:C38189,
         ocs:C39292,
@@ -25,7 +27,5 @@ ocs:C19460 a skos:Concept ;
         ocs:C43208,
         ocs:C43712,
         ocs:C44135,
-        ocs:C45779,
-        ocs:C7918,
-        ocs:C8040 .
+        ocs:C45779 .
 

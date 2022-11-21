@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5632 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/High-Performance_Addressing> ;
     skos:prefLabel "High-Performance Addressing" ;
     skos:related ocs:C1084,
+        ocs:C2241,
+        ocs:C5523,
         ocs:C11488,
         ocs:C15501,
         ocs:C17088,
         ocs:C20863,
-        ocs:C2241,
         ocs:C22528,
         ocs:C26733,
-        ocs:C26787,
-        ocs:C5523 .
+        ocs:C26787 .
 

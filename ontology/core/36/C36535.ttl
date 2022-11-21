@@ -5,7 +5,10 @@ ocs:C36535 a skos:Concept ;
     skos:broader ocs:C14025 ;
     skos:closeMatch <http://dbpedia.org/resource/Index_locking> ;
     skos:prefLabel "Index locking" ;
-    skos:related ocs:C14025,
+    skos:related ocs:C6,
+        ocs:C8702,
+        ocs:C8893,
+        ocs:C14025,
         ocs:C22361,
         ocs:C22879,
         ocs:C30273,
@@ -19,8 +22,5 @@ ocs:C36535 a skos:Concept ;
         ocs:C43992,
         ocs:C44650,
         ocs:C44853,
-        ocs:C45370,
-        ocs:C6,
-        ocs:C8702,
-        ocs:C8893 .
+        ocs:C45370 .
 

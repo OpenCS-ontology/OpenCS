@@ -2,20 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7059 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C18,
         ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Radio_button> ;
     skos:prefLabel "Radio button" ;
-    skos:related ocs:C10096,
-        ocs:C11951,
-        ocs:C12325,
-        ocs:C12478,
-        ocs:C13790,
-        ocs:C1787,
-        ocs:C19298,
+    skos:related ocs:C1787,
         ocs:C2365,
-        ocs:C26700,
         ocs:C3568,
         ocs:C3672,
         ocs:C4253,
@@ -25,5 +18,12 @@ ocs:C7059 a skos:Concept ;
         ocs:C6860,
         ocs:C7530,
         ocs:C7736,
-        ocs:C8129 .
+        ocs:C8129,
+        ocs:C10096,
+        ocs:C11951,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C13790,
+        ocs:C19298,
+        ocs:C26700 .
 

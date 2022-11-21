@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7746 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Bandplan> ;
     skos:prefLabel "Bandplan" ;
-    skos:related ocs:C10409,
+    skos:related ocs:C5369,
+        ocs:C5511,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7502,
+        ocs:C8612,
+        ocs:C10409,
         ocs:C11718,
         ocs:C12999,
         ocs:C15505,
@@ -17,11 +23,5 @@ ocs:C7746 a skos:Concept ;
         ocs:C27572,
         ocs:C27912,
         ocs:C28716,
-        ocs:C34890,
-        ocs:C5369,
-        ocs:C5511,
-        ocs:C7159,
-        ocs:C7216,
-        ocs:C7502,
-        ocs:C8612 .
+        ocs:C34890 .
 

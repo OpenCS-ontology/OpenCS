@@ -3,11 +3,15 @@
 
 ocs:C8698 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C27,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Microsequencer> ;
     skos:prefLabel "Microsequencer" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C856,
+        ocs:C4863,
+        ocs:C5463,
+        ocs:C8434,
+        ocs:C10320,
         ocs:C11047,
         ocs:C11553,
         ocs:C12431,
@@ -19,9 +23,5 @@ ocs:C8698 a skos:Concept ;
         ocs:C26755,
         ocs:C27555,
         ocs:C35886,
-        ocs:C37538,
-        ocs:C4863,
-        ocs:C5463,
-        ocs:C8434,
-        ocs:C856 .
+        ocs:C37538 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25529 a skos:Concept ;
-    skos:broader ocs:C11637,
-        ocs:C4757,
+    skos:broader ocs:C4757,
         ocs:C5852,
-        ocs:C8710 ;
+        ocs:C8710,
+        ocs:C11637 ;
     skos:closeMatch <http://dbpedia.org/resource/IndoWordNet> ;
     skos:prefLabel "IndoWordNet" ;
-    skos:related ocs:C10102,
+    skos:related ocs:C32,
+        ocs:C928,
+        ocs:C3736,
+        ocs:C3791,
+        ocs:C5852,
+        ocs:C7650,
+        ocs:C8710,
+        ocs:C10102,
         ocs:C14004,
         ocs:C17796,
         ocs:C23928,
         ocs:C24316,
         ocs:C25681,
         ocs:C29118,
-        ocs:C32,
-        ocs:C3736,
-        ocs:C3791,
         ocs:C38477,
         ocs:C38727,
         ocs:C44162,
-        ocs:C45685,
-        ocs:C5852,
-        ocs:C7650,
-        ocs:C8710,
-        ocs:C928 .
+        ocs:C45685 .
 

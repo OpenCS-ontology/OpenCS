@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27383 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C5610 ;
+    skos:broader ocs:C5610,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/Partial_order_reduction> ;
     skos:prefLabel "Partial order reduction" ;
     skos:related ocs:C10,
-        ocs:C12098,
-        ocs:C17916,
-        ocs:C21264,
         ocs:C2721,
-        ocs:C31032,
-        ocs:C31113,
-        ocs:C32014,
-        ocs:C35744,
         ocs:C3990,
-        ocs:C42583,
-        ocs:C44231,
         ocs:C5459,
         ocs:C6183,
         ocs:C6346,
         ocs:C7903,
         ocs:C9252,
-        ocs:C9450 .
+        ocs:C9450,
+        ocs:C12098,
+        ocs:C17916,
+        ocs:C21264,
+        ocs:C31032,
+        ocs:C31113,
+        ocs:C32014,
+        ocs:C35744,
+        ocs:C42583,
+        ocs:C44231 .
 

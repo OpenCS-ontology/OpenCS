@@ -5,11 +5,14 @@ ocs:C7147 a skos:Concept ;
     skos:broader ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/HTTP_301> ;
     skos:prefLabel "HTTP 301" ;
-    skos:related ocs:C12860,
+    skos:related ocs:C31,
+        ocs:C6642,
+        ocs:C6689,
+        ocs:C7533,
+        ocs:C12860,
         ocs:C17235,
         ocs:C22597,
         ocs:C23016,
-        ocs:C31,
         ocs:C39074,
         ocs:C39128,
         ocs:C39920,
@@ -17,8 +20,5 @@ ocs:C7147 a skos:Concept ;
         ocs:C40290,
         ocs:C42434,
         ocs:C42880,
-        ocs:C44855,
-        ocs:C6642,
-        ocs:C6689,
-        ocs:C7533 .
+        ocs:C44855 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25710 a skos:Concept ;
-    skos:broader ocs:C10904,
-        ocs:C2464,
-        ocs:C8614 ;
+    skos:broader ocs:C2464,
+        ocs:C8614,
+        ocs:C10904 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_modeling> ;
     skos:prefLabel "Web modeling" ;
-    skos:related ocs:C1006,
-        ocs:C12477,
-        ocs:C12810,
+    skos:related ocs:C31,
+        ocs:C1006,
         ocs:C2173,
         ocs:C2464,
+        ocs:C7106,
+        ocs:C12477,
+        ocs:C12810,
         ocs:C26903,
         ocs:C28117,
         ocs:C28533,
         ocs:C29407,
-        ocs:C31,
         ocs:C34668,
-        ocs:C44849,
-        ocs:C7106 .
+        ocs:C44849 .
 

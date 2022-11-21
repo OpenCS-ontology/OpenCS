@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23844 a skos:Concept ;
-    skos:broader ocs:C11311,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C11311 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_Multiplex_System> ;
     skos:prefLabel "Digital Multiplex System" ;
-    skos:related ocs:C10638,
-        ocs:C1601,
+    skos:related ocs:C1601,
+        ocs:C2917,
+        ocs:C4928,
+        ocs:C6027,
+        ocs:C8010,
+        ocs:C10638,
         ocs:C21725,
         ocs:C25293,
         ocs:C28758,
-        ocs:C2917,
         ocs:C29460,
-        ocs:C42167,
-        ocs:C4928,
-        ocs:C6027,
-        ocs:C8010 .
+        ocs:C42167 .
 

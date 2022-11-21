@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9111 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Supercomputer_Education_Research_Centre> ;
     skos:prefLabel "Supercomputer Education Research Centre" ;
     skos:related ocs:C7735 .

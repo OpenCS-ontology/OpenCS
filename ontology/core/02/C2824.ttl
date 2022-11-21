@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2824 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Executable_compression> ;
     skos:prefLabel "Executable compression" ;
-    skos:related ocs:C11531,
-        ocs:C12257,
-        ocs:C25596,
-        ocs:C28881,
+    skos:related ocs:C9,
         ocs:C2941,
-        ocs:C29426,
-        ocs:C41873,
         ocs:C4321,
         ocs:C4918,
         ocs:C6605,
         ocs:C6880,
         ocs:C7800,
         ocs:C8242,
-        ocs:C9 .
+        ocs:C11531,
+        ocs:C12257,
+        ocs:C25596,
+        ocs:C28881,
+        ocs:C29426,
+        ocs:C41873 .
 

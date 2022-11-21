@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3520 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Client-side> ;
     skos:prefLabel "Client-side" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C31,
+        ocs:C75,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C4918,
+        ocs:C11927,
         ocs:C12810,
         ocs:C13068,
         ocs:C16336,
@@ -17,14 +24,7 @@ ocs:C3520 a skos:Concept ;
         ocs:C22597,
         ocs:C24131,
         ocs:C24143,
-        ocs:C2464,
-        ocs:C26,
         ocs:C26528,
-        ocs:C2674,
         ocs:C28881,
-        ocs:C31,
-        ocs:C34170,
-        ocs:C4918,
-        ocs:C75,
-        ocs:C9 .
+        ocs:C34170 .
 

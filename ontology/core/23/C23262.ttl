@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23262 a skos:Concept ;
-    skos:broader ocs:C10619,
-        ocs:C12780,
-        ocs:C3699,
-        ocs:C8753 ;
+    skos:broader ocs:C3699,
+        ocs:C8753,
+        ocs:C10619,
+        ocs:C12780 ;
     skos:prefLabel "Analysis of parallel algorithms" ;
-    skos:related ocs:C12780,
+    skos:related ocs:C27,
+        ocs:C611,
+        ocs:C2600,
+        ocs:C4155,
+        ocs:C6715,
+        ocs:C8660,
+        ocs:C9486,
+        ocs:C12780,
         ocs:C17853,
         ocs:C19305,
         ocs:C24700,
-        ocs:C2600,
-        ocs:C27,
         ocs:C31371,
         ocs:C34666,
         ocs:C36120,
         ocs:C36763,
         ocs:C37849,
-        ocs:C41388,
-        ocs:C4155,
-        ocs:C611,
-        ocs:C6715,
-        ocs:C8660,
-        ocs:C9486 .
+        ocs:C41388 .
 

@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10727 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/PeopleCode> ;
     skos:prefLabel "PeopleCode" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C794,
+        ocs:C3036,
+        ocs:C5308,
+        ocs:C9023,
+        ocs:C10182,
         ocs:C10720,
         ocs:C11816,
         ocs:C14548,
@@ -14,11 +18,7 @@ ocs:C10727 a skos:Concept ;
         ocs:C16569,
         ocs:C24909,
         ocs:C25570,
-        ocs:C3036,
         ocs:C32782,
         ocs:C36084,
-        ocs:C39526,
-        ocs:C5308,
-        ocs:C794,
-        ocs:C9023 .
+        ocs:C39526 .
 

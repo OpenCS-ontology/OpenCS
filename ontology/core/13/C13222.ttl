@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13222 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/CompactFlash> ;
     skos:prefLabel "CompactFlash" ;
-    skos:related ocs:C10213,
+    skos:related ocs:C9,
+        ocs:C3160,
+        ocs:C6223,
+        ocs:C8021,
+        ocs:C10213,
         ocs:C13065,
         ocs:C13783,
         ocs:C21211,
         ocs:C21424,
-        ocs:C3160,
         ocs:C35370,
-        ocs:C36517,
-        ocs:C6223,
-        ocs:C8021,
-        ocs:C9 .
+        ocs:C36517 .
 

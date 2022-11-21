@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12764 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Interrupt_storm> ;
     skos:prefLabel "Interrupt storm" ;
-    skos:related ocs:C11,
+    skos:related ocs:C9,
+        ocs:C11,
+        ocs:C33,
+        ocs:C3089,
+        ocs:C3902,
+        ocs:C8704,
+        ocs:C9262,
         ocs:C14470,
         ocs:C24590,
         ocs:C28016,
-        ocs:C3089,
         ocs:C31489,
-        ocs:C33,
         ocs:C36337,
-        ocs:C3902,
         ocs:C40633,
         ocs:C42313,
         ocs:C42442,
         ocs:C42695,
         ocs:C43600,
         ocs:C45251,
-        ocs:C45375,
-        ocs:C8704,
-        ocs:C9,
-        ocs:C9262 .
+        ocs:C45375 .
 

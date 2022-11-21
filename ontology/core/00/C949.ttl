@@ -2,12 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C949 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Electronic_signature> ;
     skos:prefLabel "Electronic signature" ;
     skos:related ocs:C1399,
+        ocs:C4218,
+        ocs:C4917,
+        ocs:C5692,
+        ocs:C7006,
+        ocs:C7106,
+        ocs:C8437,
+        ocs:C8614,
+        ocs:C9489,
         ocs:C14309,
         ocs:C14647,
         ocs:C16125,
@@ -18,13 +26,5 @@ ocs:C949 a skos:Concept ;
         ocs:C26573,
         ocs:C30595,
         ocs:C33191,
-        ocs:C35701,
-        ocs:C4218,
-        ocs:C4917,
-        ocs:C5692,
-        ocs:C7006,
-        ocs:C7106,
-        ocs:C8437,
-        ocs:C8614,
-        ocs:C9489 .
+        ocs:C35701 .
 

@@ -5,7 +5,9 @@ ocs:C17042 a skos:Concept ;
     skos:broader ocs:C13306 ;
     skos:closeMatch <http://dbpedia.org/resource/Related_rights> ;
     skos:prefLabel "Related rights" ;
-    skos:related ocs:C13306,
+    skos:related ocs:C767,
+        ocs:C6234,
+        ocs:C13306,
         ocs:C18764,
         ocs:C24497,
         ocs:C30476,
@@ -16,7 +18,5 @@ ocs:C17042 a skos:Concept ;
         ocs:C37277,
         ocs:C41273,
         ocs:C41874,
-        ocs:C44209,
-        ocs:C6234,
-        ocs:C767 .
+        ocs:C44209 .
 

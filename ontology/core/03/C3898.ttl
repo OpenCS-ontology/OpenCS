@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3898 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Point_distribution_model> ;
     skos:prefLabel "Point distribution model" ;
-    skos:related ocs:C12972,
+    skos:related ocs:C7,
+        ocs:C3389,
+        ocs:C6912,
+        ocs:C12972,
         ocs:C16355,
         ocs:C19844,
         ocs:C20460,
@@ -19,8 +22,5 @@ ocs:C3898 a skos:Concept ;
         ocs:C31695,
         ocs:C32479,
         ocs:C33427,
-        ocs:C3389,
-        ocs:C37720,
-        ocs:C6912,
-        ocs:C7 .
+        ocs:C37720 .
 

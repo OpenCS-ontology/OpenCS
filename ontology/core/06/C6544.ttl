@@ -2,15 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6544 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Active_message> ;
     skos:prefLabel "Active message" ;
-    skos:related ocs:C10135,
+    skos:related ocs:C27,
+        ocs:C30,
+        ocs:C1188,
+        ocs:C3948,
+        ocs:C3981,
+        ocs:C5279,
+        ocs:C5766,
+        ocs:C7167,
+        ocs:C9872,
+        ocs:C10135,
         ocs:C10320,
         ocs:C11084,
-        ocs:C1188,
         ocs:C12402,
         ocs:C17413,
         ocs:C17626,
@@ -18,13 +26,5 @@ ocs:C6544 a skos:Concept ;
         ocs:C21166,
         ocs:C21713,
         ocs:C26097,
-        ocs:C26124,
-        ocs:C27,
-        ocs:C30,
-        ocs:C3948,
-        ocs:C3981,
-        ocs:C5279,
-        ocs:C5766,
-        ocs:C7167,
-        ocs:C9872 .
+        ocs:C26124 .
 

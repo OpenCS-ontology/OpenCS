@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22528 a skos:Concept ;
-    skos:broader ocs:C12942,
-        ocs:C9605 ;
+    skos:broader ocs:C9605,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/Multiplexed_display> ;
     skos:prefLabel "Multiplexed display" ;
     skos:related ocs:C1084,
-        ocs:C12942,
-        ocs:C20850,
-        ocs:C22265,
         ocs:C2241,
         ocs:C4703,
         ocs:C6044,
         ocs:C6969,
         ocs:C8021,
-        ocs:C9605 .
+        ocs:C9605,
+        ocs:C12942,
+        ocs:C20850,
+        ocs:C22265 .
 

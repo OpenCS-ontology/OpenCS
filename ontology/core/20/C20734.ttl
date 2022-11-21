@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20734 a skos:Concept ;
-    skos:broader ocs:C10904,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C10904 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_Services_Semantics> ;
     skos:prefLabel "Web Services Semantics" ;
-    skos:related ocs:C10904,
+    skos:related ocs:C6442,
+        ocs:C10904,
         ocs:C12617,
         ocs:C13252,
         ocs:C20239,
@@ -22,6 +23,5 @@ ocs:C20734 a skos:Concept ;
         ocs:C43607,
         ocs:C43812,
         ocs:C43890,
-        ocs:C44609,
-        ocs:C6442 .
+        ocs:C44609 .
 

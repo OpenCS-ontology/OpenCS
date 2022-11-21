@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C530 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Supervisor_Mode_Access_Prevention> ;
     skos:prefLabel "Supervisor Mode Access Prevention" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
         ocs:C1251,
+        ocs:C2767,
+        ocs:C8704,
+        ocs:C10320,
         ocs:C14466,
         ocs:C15595,
         ocs:C15860,
@@ -15,11 +18,8 @@ ocs:C530 a skos:Concept ;
         ocs:C22508,
         ocs:C22537,
         ocs:C27610,
-        ocs:C2767,
         ocs:C31038,
         ocs:C31433,
         ocs:C36897,
-        ocs:C45553,
-        ocs:C8704,
-        ocs:C9 .
+        ocs:C45553 .
 

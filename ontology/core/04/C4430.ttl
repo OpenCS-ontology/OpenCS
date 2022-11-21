@@ -2,13 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4430 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Anonymous_pipe> ;
     skos:prefLabel "Anonymous pipe" ;
-    skos:related ocs:C10135,
+    skos:related ocs:C9,
+        ocs:C443,
         ocs:C1165,
+        ocs:C7167,
+        ocs:C8024,
+        ocs:C8901,
+        ocs:C9697,
+        ocs:C10135,
         ocs:C12683,
         ocs:C14271,
         ocs:C16601,
@@ -19,11 +25,5 @@ ocs:C4430 a skos:Concept ;
         ocs:C39279,
         ocs:C41970,
         ocs:C43822,
-        ocs:C443,
-        ocs:C45497,
-        ocs:C7167,
-        ocs:C8024,
-        ocs:C8901,
-        ocs:C9,
-        ocs:C9697 .
+        ocs:C45497 .
 

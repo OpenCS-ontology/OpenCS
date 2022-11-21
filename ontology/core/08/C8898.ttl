@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8898 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Machine-readable_data> ;
     skos:prefLabel "Machine-readable data" ;
-    skos:related ocs:C11927,
-        ocs:C12257,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C31,
+        ocs:C32,
         ocs:C1253,
+        ocs:C3696,
+        ocs:C3896,
+        ocs:C4500,
+        ocs:C6072,
+        ocs:C8614,
+        ocs:C9162,
+        ocs:C9836,
+        ocs:C11927,
+        ocs:C12257,
         ocs:C23162,
         ocs:C24783,
         ocs:C28117,
         ocs:C28801,
-        ocs:C31,
-        ocs:C32,
-        ocs:C33709,
-        ocs:C3696,
-        ocs:C3896,
-        ocs:C4500,
-        ocs:C6,
-        ocs:C6072,
-        ocs:C8614,
-        ocs:C9,
-        ocs:C9162,
-        ocs:C9836 .
+        ocs:C33709 .
 

@@ -5,7 +5,11 @@ ocs:C42695 a skos:Concept ;
     skos:broader ocs:C37234 ;
     skos:closeMatch <http://dbpedia.org/resource/Page_fault> ;
     skos:prefLabel "Page fault" ;
-    skos:related ocs:C1242,
+    skos:related ocs:C9,
+        ocs:C1242,
+        ocs:C3231,
+        ocs:C8782,
+        ocs:C9262,
         ocs:C14271,
         ocs:C19487,
         ocs:C23864,
@@ -13,7 +17,6 @@ ocs:C42695 a skos:Concept ;
         ocs:C27610,
         ocs:C28881,
         ocs:C31489,
-        ocs:C3231,
         ocs:C38368,
         ocs:C38819,
         ocs:C39623,
@@ -21,8 +24,5 @@ ocs:C42695 a skos:Concept ;
         ocs:C40529,
         ocs:C41159,
         ocs:C41696,
-        ocs:C43102,
-        ocs:C8782,
-        ocs:C9,
-        ocs:C9262 .
+        ocs:C43102 .
 

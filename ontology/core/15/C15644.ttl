@@ -5,9 +5,11 @@ ocs:C15644 a skos:Concept ;
     skos:broader ocs:C4025 ;
     skos:closeMatch <http://dbpedia.org/resource/English_possessive> ;
     skos:prefLabel "English possessive" ;
-    skos:related ocs:C11932,
+    skos:related ocs:C1952,
+        ocs:C3261,
+        ocs:C4025,
+        ocs:C11932,
         ocs:C12270,
-        ocs:C1952,
         ocs:C19642,
         ocs:C20870,
         ocs:C22126,
@@ -18,7 +20,5 @@ ocs:C15644 a skos:Concept ;
         ocs:C27343,
         ocs:C28646,
         ocs:C32159,
-        ocs:C32280,
-        ocs:C3261,
-        ocs:C4025 .
+        ocs:C32280 .
 

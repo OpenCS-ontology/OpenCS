@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4452 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Structured_content> ;
     skos:prefLabel "Structured content" ;
-    skos:related ocs:C10582,
+    skos:related ocs:C1488,
+        ocs:C3896,
+        ocs:C4616,
+        ocs:C7396,
+        ocs:C9836,
+        ocs:C10582,
         ocs:C11927,
-        ocs:C1488,
         ocs:C15906,
         ocs:C18791,
         ocs:C20647,
@@ -21,10 +25,6 @@ ocs:C4452 a skos:Concept ;
         ocs:C33106,
         ocs:C34006,
         ocs:C34913,
-        ocs:C3896,
         ocs:C45073,
-        ocs:C45685,
-        ocs:C4616,
-        ocs:C7396,
-        ocs:C9836 .
+        ocs:C45685 .
 

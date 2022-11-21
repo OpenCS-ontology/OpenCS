@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2009 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Call_stack> ;
     skos:prefLabel "Call stack" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C1083,
+        ocs:C1333,
+        ocs:C4321,
+        ocs:C5049,
+        ocs:C6072,
+        ocs:C10214,
         ocs:C10219,
         ocs:C10320,
-        ocs:C1083,
         ocs:C11547,
-        ocs:C1333,
         ocs:C17204,
-        ocs:C19,
         ocs:C19487,
         ocs:C21718,
         ocs:C25960,
         ocs:C28783,
         ocs:C28788,
-        ocs:C37538,
-        ocs:C4321,
-        ocs:C5049,
-        ocs:C6072,
-        ocs:C9 .
+        ocs:C37538 .
 

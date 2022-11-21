@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11391 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Bokeh> ;
     skos:prefLabel "Bokeh" ;
-    skos:related ocs:C11324,
+    skos:related ocs:C1394,
+        ocs:C11324,
         ocs:C11935,
-        ocs:C1394,
         ocs:C19180 .
 

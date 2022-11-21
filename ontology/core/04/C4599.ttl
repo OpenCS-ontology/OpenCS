@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4599 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C19 ;
     skos:prefLabel "Validation rule" ;
     skos:related ocs:C1,
+        ocs:C3398,
         ocs:C13767,
         ocs:C14239,
         ocs:C22648,
         ocs:C23269,
         ocs:C26088,
         ocs:C27772,
-        ocs:C30800,
-        ocs:C3398 .
+        ocs:C30800 .
 

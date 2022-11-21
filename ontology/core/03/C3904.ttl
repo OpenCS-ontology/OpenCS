@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3904 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Data,_context_and_interaction> ;
     skos:prefLabel "Data, context and interaction" ;
-    skos:related ocs:C10182,
-        ocs:C10720,
+    skos:related ocs:C19,
         ocs:C1083,
-        ocs:C12848,
-        ocs:C19,
         ocs:C2214,
+        ocs:C2706,
+        ocs:C3850,
+        ocs:C7395,
+        ocs:C8864,
+        ocs:C10182,
+        ocs:C10720,
+        ocs:C12848,
         ocs:C23181,
         ocs:C23909,
         ocs:C24909,
-        ocs:C2706,
         ocs:C27131,
         ocs:C29905,
         ocs:C32225,
         ocs:C34129,
-        ocs:C38027,
-        ocs:C3850,
-        ocs:C7395,
-        ocs:C8864 .
+        ocs:C38027 .
 

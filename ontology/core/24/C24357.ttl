@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24357 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C9323 ;
+    skos:broader ocs:C9323,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/Security_kernel> ;
     skos:prefLabel "Security kernel" .
 

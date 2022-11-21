@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13745 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Parallax> ;
     skos:prefLabel "Parallax" ;
-    skos:related ocs:C10556,
+    skos:related ocs:C597,
+        ocs:C10556,
         ocs:C18085,
         ocs:C18175,
         ocs:C19222,
@@ -19,6 +20,5 @@ ocs:C13745 a skos:Concept ;
         ocs:C26348,
         ocs:C27562,
         ocs:C27654,
-        ocs:C29212,
-        ocs:C597 .
+        ocs:C29212 .
 

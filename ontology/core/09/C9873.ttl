@@ -5,9 +5,13 @@ ocs:C9873 a skos:Concept ;
     skos:broader ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Think_aloud_protocol> ;
     skos:prefLabel "Think aloud protocol" ;
-    skos:related ocs:C14148,
+    skos:related ocs:C18,
+        ocs:C78,
+        ocs:C4292,
+        ocs:C7736,
+        ocs:C9607,
+        ocs:C14148,
         ocs:C16613,
-        ocs:C18,
         ocs:C18494,
         ocs:C26160,
         ocs:C28503,
@@ -15,9 +19,5 @@ ocs:C9873 a skos:Concept ;
         ocs:C35565,
         ocs:C36674,
         ocs:C37641,
-        ocs:C39787,
-        ocs:C4292,
-        ocs:C7736,
-        ocs:C78,
-        ocs:C9607 .
+        ocs:C39787 .
 

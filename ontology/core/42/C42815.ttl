@@ -5,7 +5,11 @@ ocs:C42815 a skos:Concept ;
     skos:broader ocs:C36308 ;
     skos:closeMatch <http://dbpedia.org/resource/RDMA_over_Converged_Ethernet> ;
     skos:prefLabel "RDMA over Converged Ethernet" ;
-    skos:related ocs:C11387,
+    skos:related ocs:C443,
+        ocs:C490,
+        ocs:C3862,
+        ocs:C9640,
+        ocs:C11387,
         ocs:C11960,
         ocs:C15477,
         ocs:C20540,
@@ -18,9 +22,5 @@ ocs:C42815 a skos:Concept ;
         ocs:C33957,
         ocs:C37732,
         ocs:C38451,
-        ocs:C3862,
-        ocs:C39941,
-        ocs:C443,
-        ocs:C490,
-        ocs:C9640 .
+        ocs:C39941 .
 

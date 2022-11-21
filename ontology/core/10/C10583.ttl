@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10583 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/TI_Advanced_Scientific_Computer> ;
     skos:prefLabel "TI Advanced Scientific Computer" ;
-    skos:related ocs:C10320,
-        ocs:C12690,
+    skos:related ocs:C27,
         ocs:C157,
-        ocs:C19487,
+        ocs:C856,
         ocs:C2478,
-        ocs:C27,
-        ocs:C27610,
-        ocs:C36673,
-        ocs:C40330,
-        ocs:C42662,
-        ocs:C43505,
         ocs:C4863,
         ocs:C6172,
         ocs:C6714,
         ocs:C7735,
-        ocs:C856 .
+        ocs:C10320,
+        ocs:C12690,
+        ocs:C19487,
+        ocs:C27610,
+        ocs:C36673,
+        ocs:C40330,
+        ocs:C42662,
+        ocs:C43505 .
 

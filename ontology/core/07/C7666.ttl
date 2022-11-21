@@ -3,11 +3,16 @@
 
 ocs:C7666 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C22,
-        ocs:C7 ;
+        ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Picture-in-picture> ;
     skos:prefLabel "Picture-in-picture" ;
-    skos:related ocs:C10087,
+    skos:related ocs:C4433,
+        ocs:C8021,
+        ocs:C8935,
+        ocs:C8959,
+        ocs:C9045,
+        ocs:C10087,
         ocs:C11040,
         ocs:C12430,
         ocs:C12544,
@@ -18,10 +23,5 @@ ocs:C7666 a skos:Concept ;
         ocs:C24871,
         ocs:C28172,
         ocs:C28881,
-        ocs:C34890,
-        ocs:C4433,
-        ocs:C8021,
-        ocs:C8935,
-        ocs:C8959,
-        ocs:C9045 .
+        ocs:C34890 .
 

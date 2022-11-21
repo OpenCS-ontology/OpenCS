@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12273 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/H.241> ;
     skos:prefLabel "H.241" ;
-    skos:related ocs:C11655,
+    skos:related ocs:C895,
+        ocs:C2917,
+        ocs:C4166,
+        ocs:C4530,
+        ocs:C4710,
+        ocs:C7112,
+        ocs:C7672,
+        ocs:C9225,
+        ocs:C11655,
         ocs:C12583,
         ocs:C13718,
         ocs:C13944,
         ocs:C27546,
         ocs:C28949,
-        ocs:C2917,
         ocs:C29603,
         ocs:C31517,
-        ocs:C4166,
-        ocs:C45044,
-        ocs:C4530,
-        ocs:C4710,
-        ocs:C7112,
-        ocs:C7672,
-        ocs:C895,
-        ocs:C9225 .
+        ocs:C45044 .
 

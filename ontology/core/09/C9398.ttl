@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9398 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Filter_Forge> ;
     skos:prefLabel "Filter Forge" ;
     skos:related ocs:C10,
+        ocs:C22,
+        ocs:C1904,
+        ocs:C1935,
+        ocs:C9215,
         ocs:C10466,
         ocs:C12741,
         ocs:C13653,
         ocs:C16407,
         ocs:C18519,
-        ocs:C1904,
         ocs:C19229,
-        ocs:C1935,
-        ocs:C22,
         ocs:C23750,
         ocs:C26016,
         ocs:C30748,
         ocs:C35167,
         ocs:C41662,
         ocs:C43197,
-        ocs:C44381,
-        ocs:C9215 .
+        ocs:C44381 .
 

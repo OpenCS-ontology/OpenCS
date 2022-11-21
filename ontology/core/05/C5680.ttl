@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5680 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Open_educational_resources> ;
     skos:prefLabel "Open educational resources" ;
-    skos:related ocs:C10067,
+    skos:related ocs:C3444,
+        ocs:C3521,
+        ocs:C4164,
+        ocs:C5532,
+        ocs:C8614,
+        ocs:C10067,
         ocs:C11050,
         ocs:C11058,
         ocs:C13306,
@@ -15,10 +20,5 @@ ocs:C5680 a skos:Concept ;
         ocs:C21438,
         ocs:C23932,
         ocs:C24564,
-        ocs:C29969,
-        ocs:C3444,
-        ocs:C3521,
-        ocs:C4164,
-        ocs:C5532,
-        ocs:C8614 .
+        ocs:C29969 .
 

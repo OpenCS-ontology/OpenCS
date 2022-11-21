@@ -2,17 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C992 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Microsoft_Talisman> ;
     skos:prefLabel "Microsoft Talisman" ;
-    skos:related ocs:C11884,
+    skos:related ocs:C22,
+        ocs:C1904,
+        ocs:C2662,
+        ocs:C5514,
+        ocs:C11884,
         ocs:C15632,
         ocs:C18519,
-        ocs:C1904,
-        ocs:C22,
         ocs:C24235,
-        ocs:C2662,
         ocs:C26812,
         ocs:C28172,
         ocs:C31152,
@@ -23,6 +24,5 @@ ocs:C992 a skos:Concept ;
         ocs:C40764,
         ocs:C42489,
         ocs:C43204,
-        ocs:C44283,
-        ocs:C5514 .
+        ocs:C44283 .
 

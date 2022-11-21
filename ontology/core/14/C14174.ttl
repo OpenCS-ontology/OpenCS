@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14174 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C8456 ;
+    skos:broader ocs:C8456,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Minimum_distance_estimation> ;
     skos:prefLabel "Minimum distance estimation" ;
-    skos:related ocs:C13685,
+    skos:related ocs:C6395,
+        ocs:C8456,
+        ocs:C13685,
         ocs:C13877,
         ocs:C19565,
         ocs:C26986,
         ocs:C33038,
-        ocs:C41656,
-        ocs:C6395,
-        ocs:C8456 .
+        ocs:C41656 .
 

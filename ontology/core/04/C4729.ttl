@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4729 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:prefLabel "Facial region" ;
     skos:related ocs:C16,
-        ocs:C16954,
-        ocs:C1938,
         ocs:C21,
         ocs:C22,
-        ocs:C22432,
-        ocs:C32977,
         ocs:C78,
+        ocs:C1938,
         ocs:C8021,
-        ocs:C8499 .
+        ocs:C8499,
+        ocs:C16954,
+        ocs:C22432,
+        ocs:C32977 .
 

@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2748 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C24,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C17,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/LAN_party> ;
     skos:prefLabel "LAN party" ;
-    skos:related ocs:C11052,
+    skos:related ocs:C26,
+        ocs:C44,
+        ocs:C490,
+        ocs:C2352,
+        ocs:C2935,
+        ocs:C5533,
+        ocs:C6095,
+        ocs:C8614,
+        ocs:C11052,
         ocs:C12492,
         ocs:C13786,
         ocs:C15484,
         ocs:C17794,
         ocs:C19350,
-        ocs:C2352,
-        ocs:C26,
-        ocs:C2935,
         ocs:C31489,
         ocs:C34356,
         ocs:C35370,
-        ocs:C44,
-        ocs:C45529,
-        ocs:C490,
-        ocs:C5533,
-        ocs:C6095,
-        ocs:C8614 .
+        ocs:C45529 .
 

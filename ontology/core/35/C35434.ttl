@@ -5,7 +5,9 @@ ocs:C35434 a skos:Concept ;
     skos:broader ocs:C16352 ;
     skos:closeMatch <http://dbpedia.org/resource/Transfer_alignment> ;
     skos:prefLabel "Transfer alignment" ;
-    skos:related ocs:C16352,
+    skos:related ocs:C9066,
+        ocs:C9431,
+        ocs:C16352,
         ocs:C16720,
         ocs:C16959,
         ocs:C21767,
@@ -15,7 +17,5 @@ ocs:C35434 a skos:Concept ;
         ocs:C34932,
         ocs:C35497,
         ocs:C40097,
-        ocs:C42201,
-        ocs:C9066,
-        ocs:C9431 .
+        ocs:C42201 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16925 a skos:Concept ;
-    skos:broader ocs:C13148,
-        ocs:C7159 ;
+    skos:broader ocs:C7159,
+        ocs:C13148 ;
     skos:closeMatch <http://dbpedia.org/resource/Spurious_emission> ;
     skos:prefLabel "Spurious emission" ;
-    skos:related ocs:C1219,
+    skos:related ocs:C3,
+        ocs:C1219,
         ocs:C1727,
+        ocs:C3173,
+        ocs:C3843,
+        ocs:C4585,
+        ocs:C6913,
+        ocs:C7159,
+        ocs:C7502,
+        ocs:C7746,
+        ocs:C7795,
         ocs:C17432,
         ocs:C17926,
         ocs:C18001,
         ocs:C23488,
         ocs:C27912,
         ocs:C28404,
-        ocs:C3,
-        ocs:C3173,
-        ocs:C3843,
-        ocs:C44707,
-        ocs:C4585,
-        ocs:C6913,
-        ocs:C7159,
-        ocs:C7502,
-        ocs:C7746,
-        ocs:C7795 .
+        ocs:C44707 .
 

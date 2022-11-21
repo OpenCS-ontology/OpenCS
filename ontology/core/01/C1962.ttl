@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1962 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C34,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Automated_mining> ;
     skos:prefLabel "Automated mining" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C1597,
+        ocs:C2213,
+        ocs:C10396,
         ocs:C11593,
         ocs:C13576,
         ocs:C14022,
         ocs:C14858,
         ocs:C15963,
-        ocs:C1597,
         ocs:C17236,
         ocs:C17375,
-        ocs:C2213,
         ocs:C27671,
         ocs:C36944 .
 

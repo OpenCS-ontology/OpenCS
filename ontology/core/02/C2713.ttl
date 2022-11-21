@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2713 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/User_information> ;
     skos:prefLabel "User information" ;
-    skos:related ocs:C10680,
+    skos:related ocs:C3,
         ocs:C1146,
-        ocs:C14598,
-        ocs:C15165,
-        ocs:C25930,
-        ocs:C26814,
-        ocs:C3,
-        ocs:C33617,
         ocs:C4099,
         ocs:C6171,
         ocs:C6472,
         ocs:C8410,
-        ocs:C9931 .
+        ocs:C9931,
+        ocs:C10680,
+        ocs:C14598,
+        ocs:C15165,
+        ocs:C25930,
+        ocs:C26814,
+        ocs:C33617 .
 

@@ -5,14 +5,16 @@ ocs:C19156 a skos:Concept ;
     skos:broader ocs:C10325 ;
     skos:closeMatch <http://dbpedia.org/resource/Session_fixation> ;
     skos:prefLabel "Session fixation" ;
-    skos:related ocs:C10325,
+    skos:related ocs:C31,
+        ocs:C6658,
+        ocs:C9059,
+        ocs:C10325,
         ocs:C16338,
         ocs:C20313,
         ocs:C22597,
         ocs:C22929,
         ocs:C24131,
         ocs:C24704,
-        ocs:C31,
         ocs:C31541,
         ocs:C34262,
         ocs:C39074,
@@ -22,7 +24,5 @@ ocs:C19156 a skos:Concept ;
         ocs:C42100,
         ocs:C44631,
         ocs:C45494,
-        ocs:C45536,
-        ocs:C6658,
-        ocs:C9059 .
+        ocs:C45536 .
 

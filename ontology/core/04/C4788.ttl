@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4788 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Maze_generation_algorithm> ;
     skos:prefLabel "Maze generation algorithm" ;
     skos:related ocs:C10,
-        ocs:C11095,
         ocs:C122,
+        ocs:C11095,
         ocs:C13317,
         ocs:C14406,
         ocs:C15307,

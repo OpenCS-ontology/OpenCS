@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13994 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C4119 ;
+    skos:broader ocs:C4119,
+        ocs:C10135 ;
     skos:closeMatch <http://dbpedia.org/resource/Cable_television_headend> ;
     skos:prefLabel "Cable television headend" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C3,
+        ocs:C2188,
+        ocs:C4433,
+        ocs:C7502,
+        ocs:C7857,
+        ocs:C12544,
         ocs:C14535,
         ocs:C18878,
-        ocs:C2188,
         ocs:C27572,
         ocs:C28716,
-        ocs:C3,
         ocs:C30635,
         ocs:C30923,
         ocs:C34364,
         ocs:C34890,
-        ocs:C36807,
-        ocs:C4433,
-        ocs:C7502,
-        ocs:C7857 .
+        ocs:C36807 .
 

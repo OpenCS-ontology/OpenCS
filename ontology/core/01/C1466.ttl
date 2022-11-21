@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1466 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Never-Ending_Language_Learning> ;
     skos:prefLabel "Never-Ending Language Learning" ;
-    skos:related ocs:C1040,
-        ocs:C1253,
+    skos:related ocs:C8,
         ocs:C19,
-        ocs:C20377,
-        ocs:C2085,
         ocs:C25,
-        ocs:C26676,
-        ocs:C27098,
-        ocs:C27338,
-        ocs:C2773,
-        ocs:C28801,
-        ocs:C29418,
         ocs:C482,
+        ocs:C1040,
+        ocs:C1253,
+        ocs:C2085,
+        ocs:C2773,
         ocs:C4929,
         ocs:C6312,
         ocs:C6455,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C20377,
+        ocs:C26676,
+        ocs:C27098,
+        ocs:C27338,
+        ocs:C28801,
+        ocs:C29418 .
 

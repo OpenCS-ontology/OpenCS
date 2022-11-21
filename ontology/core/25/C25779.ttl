@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25779 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C8441 ;
+    skos:broader ocs:C8441,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/EuLisp> ;
     skos:prefLabel "EuLisp" ;
-    skos:related ocs:C10268,
+    skos:related ocs:C4465,
+        ocs:C6657,
+        ocs:C8441,
+        ocs:C10268,
         ocs:C10720,
         ocs:C11990,
         ocs:C13527,
@@ -20,8 +23,5 @@ ocs:C25779 a skos:Concept ;
         ocs:C29066,
         ocs:C29907,
         ocs:C31851,
-        ocs:C35502,
-        ocs:C4465,
-        ocs:C6657,
-        ocs:C8441 .
+        ocs:C35502 .
 

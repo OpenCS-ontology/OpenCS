@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21256 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C1253,
-        ocs:C8889 ;
+    skos:broader ocs:C1253,
+        ocs:C8889,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/PALcode> ;
     skos:prefLabel "PALcode" ;
-    skos:related ocs:C10568,
+    skos:related ocs:C9,
+        ocs:C856,
+        ocs:C3893,
+        ocs:C4863,
+        ocs:C6072,
+        ocs:C6223,
+        ocs:C10568,
         ocs:C12683,
         ocs:C12851,
         ocs:C17793,
@@ -17,12 +23,6 @@ ocs:C21256 a skos:Concept ;
         ocs:C30860,
         ocs:C31489,
         ocs:C36498,
-        ocs:C3893,
         ocs:C39394,
-        ocs:C42619,
-        ocs:C4863,
-        ocs:C6072,
-        ocs:C6223,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C42619 .
 

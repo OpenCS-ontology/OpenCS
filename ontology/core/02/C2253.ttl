@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2253 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Operating_System_Embedded> ;
     skos:prefLabel "Operating System Embedded" ;
-    skos:related ocs:C11,
-        ocs:C18236,
+    skos:related ocs:C9,
+        ocs:C11,
         ocs:C2014,
+        ocs:C5912,
+        ocs:C6172,
+        ocs:C6932,
+        ocs:C18236,
         ocs:C20261,
         ocs:C24517,
         ocs:C24860,
@@ -20,9 +24,5 @@ ocs:C2253 a skos:Concept ;
         ocs:C30860,
         ocs:C31489,
         ocs:C34229,
-        ocs:C36897,
-        ocs:C5912,
-        ocs:C6172,
-        ocs:C6932,
-        ocs:C9 .
+        ocs:C36897 .
 

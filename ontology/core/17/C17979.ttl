@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17979 a skos:Concept ;
-    skos:broader ocs:C12075,
-        ocs:C1443 ;
+    skos:broader ocs:C1443,
+        ocs:C12075 ;
     skos:closeMatch <http://dbpedia.org/resource/Genidentity> ;
     skos:prefLabel "Genidentity" ;
     skos:related ocs:C32467 .

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4046 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_Storage_Access_Method> ;
     skos:prefLabel "Virtual Storage Access Method" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C3036,
+        ocs:C7105,
+        ocs:C8699,
+        ocs:C9035,
+        ocs:C10496,
         ocs:C13372,
         ocs:C18414,
         ocs:C18559,
         ocs:C24712,
         ocs:C29413,
-        ocs:C3036,
         ocs:C35529,
         ocs:C36441,
         ocs:C42165,
         ocs:C42309,
-        ocs:C45123,
-        ocs:C6,
-        ocs:C7105,
-        ocs:C8699,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C45123 .
 

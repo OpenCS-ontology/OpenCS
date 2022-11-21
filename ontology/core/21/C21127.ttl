@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21127 a skos:Concept ;
-    skos:broader ocs:C13457,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C13457 ;
     skos:closeMatch <http://dbpedia.org/resource/Rigid_designator> ;
     skos:prefLabel "Rigid designator" ;
-    skos:related ocs:C13457,
+    skos:related ocs:C2995,
+        ocs:C7467,
+        ocs:C13457,
         ocs:C16079,
         ocs:C16238,
         ocs:C17925,
         ocs:C21672,
         ocs:C26476,
         ocs:C29358,
-        ocs:C2995,
         ocs:C32467,
-        ocs:C37730,
-        ocs:C7467 .
+        ocs:C37730 .
 

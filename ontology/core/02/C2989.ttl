@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2989 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Lateral_computing> ;
     skos:prefLabel "Lateral computing" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C8,
+        ocs:C29,
         ocs:C1086,
+        ocs:C5336,
+        ocs:C5659,
+        ocs:C9022,
+        ocs:C10390,
         ocs:C11372,
         ocs:C12530,
         ocs:C13208,
@@ -17,10 +22,5 @@ ocs:C2989 a skos:Concept ;
         ocs:C20846,
         ocs:C22431,
         ocs:C27563,
-        ocs:C29,
-        ocs:C33238,
-        ocs:C5336,
-        ocs:C5659,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C33238 .
 

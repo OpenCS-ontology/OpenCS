@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10392 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Tuple> ;
     skos:prefLabel "Tuple" ;
     skos:related ocs:C1,
+        ocs:C19,
+        ocs:C524,
+        ocs:C5251,
         ocs:C10444,
         ocs:C11282,
         ocs:C11771,
-        ocs:C14151,
-        ocs:C19,
-        ocs:C524,
-        ocs:C5251 .
+        ocs:C14151 .
 

@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25228 a skos:Concept ;
-    skos:broader ocs:C11701,
-        ocs:C513 ;
+    skos:broader ocs:C513,
+        ocs:C11701 ;
     skos:prefLabel "Constraint optimization problem" .
 

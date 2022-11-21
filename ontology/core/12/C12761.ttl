@@ -2,16 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12761 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C24,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Operational_system> ;
     skos:prefLabel "Operational system" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C6,
+        ocs:C1392,
+        ocs:C3896,
+        ocs:C10496,
         ocs:C12694,
         ocs:C12736,
         ocs:C13372,
-        ocs:C1392,
         ocs:C14239,
         ocs:C20148,
         ocs:C20446,
@@ -24,7 +26,5 @@ ocs:C12761 a skos:Concept ;
         ocs:C35640,
         ocs:C36510,
         ocs:C36535,
-        ocs:C37135,
-        ocs:C3896,
-        ocs:C6 .
+        ocs:C37135 .
 

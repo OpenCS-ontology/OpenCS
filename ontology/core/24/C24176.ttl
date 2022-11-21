@@ -2,17 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24176 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Coding_conventions> ;
     skos:prefLabel "Coding conventions" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C755,
+        ocs:C932,
+        ocs:C2057,
+        ocs:C4321,
+        ocs:C10284,
         ocs:C11638,
         ocs:C12257,
         ocs:C14405,
         ocs:C18228,
-        ocs:C19,
-        ocs:C2057,
         ocs:C23437,
         ocs:C23580,
         ocs:C25956,
@@ -20,9 +23,6 @@ ocs:C24176 a skos:Concept ;
         ocs:C28080,
         ocs:C39522,
         ocs:C41038,
-        ocs:C4321,
         ocs:C45212,
-        ocs:C45524,
-        ocs:C755,
-        ocs:C932 .
+        ocs:C45524 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C490 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Ethernet> ;
     skos:prefLabel "Ethernet" ;
-    skos:related ocs:C13786,
+    skos:related ocs:C3,
+        ocs:C9,
+        ocs:C26,
         ocs:C1398,
+        ocs:C2935,
+        ocs:C8614,
+        ocs:C9267,
+        ocs:C13786,
         ocs:C15417,
         ocs:C15589,
         ocs:C20540,
         ocs:C23919,
         ocs:C24592,
-        ocs:C26,
         ocs:C29125,
-        ocs:C2935,
         ocs:C29359,
-        ocs:C3,
         ocs:C30342,
         ocs:C31489,
         ocs:C33773,
-        ocs:C35370,
-        ocs:C8614,
-        ocs:C9,
-        ocs:C9267 .
+        ocs:C35370 .
 

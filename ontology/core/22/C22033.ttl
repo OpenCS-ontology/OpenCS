@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22033 a skos:Concept ;
-    skos:broader ocs:C11252,
-        ocs:C5007 ;
+    skos:broader ocs:C5007,
+        ocs:C11252 ;
     skos:closeMatch <http://dbpedia.org/resource/Current-mode_logic> ;
     skos:prefLabel "Current-mode logic" ;
-    skos:related ocs:C10377,
+    skos:related ocs:C3627,
+        ocs:C5511,
+        ocs:C10377,
         ocs:C12002,
         ocs:C24015,
         ocs:C32920,
         ocs:C34150,
         ocs:C35269,
-        ocs:C3627,
         ocs:C38944,
         ocs:C40172,
-        ocs:C45121,
-        ocs:C5511 .
+        ocs:C45121 .
 

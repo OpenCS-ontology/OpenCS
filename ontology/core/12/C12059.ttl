@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12059 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Emergency_radio> ;
     skos:prefLabel "Emergency radio" ;
-    skos:related ocs:C10103,
+    skos:related ocs:C2369,
+        ocs:C8169,
+        ocs:C8358,
+        ocs:C10103,
         ocs:C10975,
         ocs:C13690,
         ocs:C15505,
         ocs:C21604,
         ocs:C22451,
         ocs:C23488,
-        ocs:C2369,
         ocs:C38024,
         ocs:C40917,
-        ocs:C45143,
-        ocs:C8169,
-        ocs:C8358 .
+        ocs:C45143 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2325 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C33 ;
     skos:prefLabel "Pending - status" ;
-    skos:related ocs:C10,
-        ocs:C12690,
-        ocs:C13605,
-        ocs:C19713,
-        ocs:C2,
-        ocs:C26502,
-        ocs:C27263,
+    skos:related ocs:C2,
+        ocs:C10,
         ocs:C31,
         ocs:C35,
         ocs:C6171,
         ocs:C7340,
         ocs:C7424,
         ocs:C7736,
-        ocs:C8704 .
+        ocs:C8704,
+        ocs:C12690,
+        ocs:C13605,
+        ocs:C19713,
+        ocs:C26502,
+        ocs:C27263 .
 

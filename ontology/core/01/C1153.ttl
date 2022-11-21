@@ -2,18 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1153 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Open_API> ;
     skos:prefLabel "Open API" ;
-    skos:related ocs:C11646,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C946,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C4918,
+        ocs:C7106,
+        ocs:C11646,
         ocs:C11886,
         ocs:C11927,
         ocs:C12810,
         ocs:C17557,
-        ocs:C2464,
-        ocs:C2674,
         ocs:C28881,
         ocs:C28941,
         ocs:C31489,
@@ -21,10 +26,5 @@ ocs:C1153 a skos:Concept ;
         ocs:C35701,
         ocs:C39177,
         ocs:C40346,
-        ocs:C45203,
-        ocs:C4918,
-        ocs:C6,
-        ocs:C7106,
-        ocs:C9,
-        ocs:C946 .
+        ocs:C45203 .
 

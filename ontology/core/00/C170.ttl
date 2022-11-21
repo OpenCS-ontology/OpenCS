@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C170 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/RS-449> ;
     skos:prefLabel "RS-449" ;
     skos:related ocs:C2917,
-        ocs:C32395,
         ocs:C4711,
         ocs:C6866,
-        ocs:C8718 .
+        ocs:C8718,
+        ocs:C32395 .
 

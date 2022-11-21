@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12583 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Telecommunications_Management_Network> ;
     skos:prefLabel "Telecommunications Management Network" ;
-    skos:related ocs:C12835,
+    skos:related ocs:C2917,
+        ocs:C4166,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C8896,
+        ocs:C12835,
         ocs:C13718,
         ocs:C13944,
         ocs:C15589,
         ocs:C17699,
         ocs:C17918,
         ocs:C25938,
-        ocs:C2917,
         ocs:C29603,
         ocs:C35197,
         ocs:C35367,
-        ocs:C4166,
         ocs:C41944,
         ocs:C44412,
         ocs:C45575,
-        ocs:C45641,
-        ocs:C6821,
-        ocs:C6861,
-        ocs:C8896 .
+        ocs:C45641 .
 

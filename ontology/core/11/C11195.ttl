@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11195 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Multi-Point_Interface> ;
     skos:prefLabel "Multi-Point Interface" ;
-    skos:related ocs:C10066,
+    skos:related ocs:C4458,
+        ocs:C10066,
         ocs:C22074,
         ocs:C27350,
         ocs:C31552,
         ocs:C42348,
         ocs:C42651,
-        ocs:C43772,
-        ocs:C4458 .
+        ocs:C43772 .
 

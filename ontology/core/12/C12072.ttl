@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12072 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C24 ;
     skos:prefLabel "Body joints" ;
-    skos:related ocs:C1239,
-        ocs:C16,
+    skos:related ocs:C16,
+        ocs:C21,
+        ocs:C22,
+        ocs:C1239,
+        ocs:C4861,
+        ocs:C8021,
+        ocs:C8702,
         ocs:C17117,
         ocs:C17261,
         ocs:C20806,
-        ocs:C21,
-        ocs:C22,
-        ocs:C24825,
-        ocs:C4861,
-        ocs:C8021,
-        ocs:C8702 .
+        ocs:C24825 .
 

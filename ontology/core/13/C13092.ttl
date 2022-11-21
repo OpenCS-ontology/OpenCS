@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13092 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Motion_estimation> ;
     skos:prefLabel "Motion estimation" ;
-    skos:related ocs:C13142,
+    skos:related ocs:C7,
+        ocs:C948,
+        ocs:C3341,
+        ocs:C8021,
+        ocs:C13142,
         ocs:C13509,
         ocs:C14863,
         ocs:C23318,
@@ -17,11 +21,7 @@ ocs:C13092 a skos:Concept ;
         ocs:C25687,
         ocs:C26688,
         ocs:C30004,
-        ocs:C3341,
         ocs:C35808,
         ocs:C41256,
-        ocs:C45662,
-        ocs:C7,
-        ocs:C8021,
-        ocs:C948 .
+        ocs:C45662 .
 

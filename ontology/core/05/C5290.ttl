@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5290 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Octal> ;
     skos:prefLabel "Octal" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C2241,
+        ocs:C3450,
+        ocs:C4048,
+        ocs:C9162,
+        ocs:C10696,
         ocs:C12262,
         ocs:C16377,
         ocs:C18079,
         ocs:C21496,
-        ocs:C2241,
         ocs:C25038,
-        ocs:C31507,
-        ocs:C3450,
-        ocs:C4048,
-        ocs:C9162 .
+        ocs:C31507 .
 

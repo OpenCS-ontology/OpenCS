@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11128 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Python_(programming_language)> ;
     skos:prefLabel "Python (programming language)" ;
-    skos:related ocs:C10284,
-        ocs:C10720,
-        ocs:C11293,
+    skos:related ocs:C19,
         ocs:C1142,
-        ocs:C11927,
-        ocs:C14271,
-        ocs:C18469,
-        ocs:C19,
-        ocs:C20907,
-        ocs:C24909,
         ocs:C2674,
-        ocs:C28881,
-        ocs:C28944,
-        ocs:C31489,
         ocs:C3639,
         ocs:C4918,
         ocs:C5308,
         ocs:C6714,
-        ocs:C8441 .
+        ocs:C8441,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C11927,
+        ocs:C14271,
+        ocs:C18469,
+        ocs:C20907,
+        ocs:C24909,
+        ocs:C28881,
+        ocs:C28944,
+        ocs:C31489 .
 

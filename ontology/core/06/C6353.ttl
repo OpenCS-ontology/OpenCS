@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6353 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973> ;
     skos:prefLabel "Section 508 Amendment to the Rehabilitation Act of 1973" ;
-    skos:related ocs:C11046,
+    skos:related ocs:C31,
+        ocs:C197,
+        ocs:C3444,
+        ocs:C4918,
+        ocs:C7714,
+        ocs:C8614,
+        ocs:C11046,
         ocs:C12477,
         ocs:C13800,
         ocs:C15045,
-        ocs:C197,
         ocs:C22597,
         ocs:C28559,
         ocs:C28801,
         ocs:C28881,
-        ocs:C31,
-        ocs:C3444,
         ocs:C34668,
         ocs:C39498,
-        ocs:C41053,
-        ocs:C4918,
-        ocs:C7714,
-        ocs:C8614 .
+        ocs:C41053 .
 

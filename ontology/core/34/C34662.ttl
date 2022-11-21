@@ -5,7 +5,9 @@ ocs:C34662 a skos:Concept ;
     skos:broader ocs:C20205 ;
     skos:closeMatch <http://dbpedia.org/resource/Name_server> ;
     skos:prefLabel "Name server" ;
-    skos:related ocs:C14271,
+    skos:related ocs:C9,
+        ocs:C8614,
+        ocs:C14271,
         ocs:C18213,
         ocs:C20125,
         ocs:C20205,
@@ -20,7 +22,5 @@ ocs:C34662 a skos:Concept ;
         ocs:C42086,
         ocs:C42100,
         ocs:C43392,
-        ocs:C44017,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C44017 .
 

@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1387 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C18,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligence_amplification> ;
     skos:prefLabel "Intelligence amplification" ;
-    skos:related ocs:C14538,
+    skos:related ocs:C8,
         ocs:C16,
-        ocs:C17092,
-        ocs:C26759,
         ocs:C4375,
         ocs:C5140,
         ocs:C7334,
-        ocs:C8,
         ocs:C8228,
         ocs:C9373,
-        ocs:C9603 .
+        ocs:C9603,
+        ocs:C14538,
+        ocs:C17092,
+        ocs:C26759 .
 

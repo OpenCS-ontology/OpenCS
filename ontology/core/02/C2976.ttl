@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2976 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Query_string> ;
     skos:prefLabel "Query string" ;
-    skos:related ocs:C16336,
+    skos:related ocs:C31,
+        ocs:C2464,
+        ocs:C4918,
+        ocs:C7530,
+        ocs:C16336,
         ocs:C16338,
         ocs:C17183,
         ocs:C17235,
         ocs:C22597,
-        ocs:C2464,
         ocs:C26337,
         ocs:C26528,
         ocs:C28801,
-        ocs:C31,
         ocs:C34170,
         ocs:C38459,
         ocs:C39074,
         ocs:C39128,
         ocs:C39880,
         ocs:C40902,
-        ocs:C43255,
-        ocs:C4918,
-        ocs:C7530 .
+        ocs:C43255 .
 

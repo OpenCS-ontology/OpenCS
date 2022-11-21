@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11325 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C29,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Binary_space_partitioning> ;
     skos:prefLabel "Binary space partitioning" ;
-    skos:related ocs:C13296,
+    skos:related ocs:C3443,
+        ocs:C6693,
+        ocs:C6697,
+        ocs:C8399,
+        ocs:C8452,
+        ocs:C8519,
+        ocs:C13296,
         ocs:C14416,
         ocs:C15632,
         ocs:C18519,
@@ -16,15 +22,9 @@ ocs:C11325 a skos:Concept ;
         ocs:C26515,
         ocs:C28240,
         ocs:C30271,
-        ocs:C3443,
         ocs:C38430,
         ocs:C41077,
         ocs:C42312,
         ocs:C43204,
-        ocs:C44223,
-        ocs:C6693,
-        ocs:C6697,
-        ocs:C8399,
-        ocs:C8452,
-        ocs:C8519 .
+        ocs:C44223 .
 

@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16596 a skos:Concept ;
-    skos:broader ocs:C10557,
+    skos:broader ocs:C1451,
+        ocs:C5459,
+        ocs:C10557,
         ocs:C12098,
-        ocs:C13408,
-        ocs:C1451,
-        ocs:C5459 ;
+        ocs:C13408 ;
     skos:closeMatch <http://dbpedia.org/resource/Alternating-time_Temporal_Logic> ;
     skos:prefLabel "Alternating-time Temporal Logic" ;
-    skos:related ocs:C10140,
+    skos:related ocs:C5459,
+        ocs:C7903,
+        ocs:C10140,
         ocs:C12098,
         ocs:C13408,
         ocs:C24482,
         ocs:C37100,
         ocs:C38919,
-        ocs:C42583,
-        ocs:C5459,
-        ocs:C7903 .
+        ocs:C42583 .
 

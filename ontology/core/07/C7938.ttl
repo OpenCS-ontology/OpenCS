@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7938 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Email_attachment> ;
     skos:prefLabel "Email attachment" ;
-    skos:related ocs:C11371,
+    skos:related ocs:C9,
+        ocs:C2941,
+        ocs:C4641,
+        ocs:C6605,
+        ocs:C6965,
+        ocs:C8614,
+        ocs:C11371,
         ocs:C13718,
         ocs:C14983,
         ocs:C18986,
         ocs:C24903,
         ocs:C28603,
         ocs:C28881,
-        ocs:C2941,
         ocs:C29803,
         ocs:C30249,
         ocs:C30474,
-        ocs:C37868,
-        ocs:C4641,
-        ocs:C6605,
-        ocs:C6965,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C37868 .
 

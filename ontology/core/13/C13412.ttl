@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13412 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Disaster_recovery> ;
     skos:prefLabel "Disaster recovery" ;
-    skos:related ocs:C10501,
+    skos:related ocs:C9,
+        ocs:C35,
+        ocs:C197,
+        ocs:C1399,
+        ocs:C2352,
+        ocs:C3231,
+        ocs:C7106,
+        ocs:C9035,
+        ocs:C10501,
         ocs:C12988,
         ocs:C13550,
-        ocs:C1399,
         ocs:C15587,
-        ocs:C197,
         ocs:C22104,
-        ocs:C2352,
         ocs:C25012,
         ocs:C30114,
         ocs:C31489,
-        ocs:C3231,
-        ocs:C35,
-        ocs:C44344,
-        ocs:C7106,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C44344 .
 

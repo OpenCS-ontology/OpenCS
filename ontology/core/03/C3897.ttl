@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3897 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C18,
         ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Human_interface_device> ;
     skos:prefLabel "Human interface device" ;
-    skos:related ocs:C10368,
-        ocs:C10630,
-        ocs:C11700,
-        ocs:C12640,
+    skos:related ocs:C2,
+        ocs:C9,
         ocs:C18,
-        ocs:C2,
-        ocs:C21424,
         ocs:C2417,
         ocs:C2674,
-        ocs:C28881,
-        ocs:C31489,
         ocs:C5702,
         ocs:C6069,
         ocs:C6223,
         ocs:C8718,
-        ocs:C9,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C10368,
+        ocs:C10630,
+        ocs:C11700,
+        ocs:C12640,
+        ocs:C21424,
+        ocs:C28881,
+        ocs:C31489 .
 

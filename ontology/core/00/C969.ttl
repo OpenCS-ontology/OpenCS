@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C969 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Voxel> ;
     skos:prefLabel "Voxel" ;
-    skos:related ocs:C10051,
+    skos:related ocs:C22,
+        ocs:C1904,
+        ocs:C8021,
+        ocs:C8399,
+        ocs:C10051,
         ocs:C11689,
         ocs:C13155,
         ocs:C15806,
         ocs:C18519,
-        ocs:C1904,
         ocs:C21305,
         ocs:C21609,
-        ocs:C22,
         ocs:C25851,
         ocs:C28233,
         ocs:C29600,
-        ocs:C29796,
-        ocs:C8021,
-        ocs:C8399 .
+        ocs:C29796 .
 

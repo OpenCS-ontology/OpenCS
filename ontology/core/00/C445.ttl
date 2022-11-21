@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C445 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Material_Design> ;
     skos:prefLabel "Material Design" ;
     skos:related ocs:C1042,
+        ocs:C2674,
+        ocs:C2981,
+        ocs:C4500,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C7736,
         ocs:C12531,
         ocs:C12810,
         ocs:C17132,
         ocs:C22076,
         ocs:C23907,
         ocs:C24131,
-        ocs:C2674,
         ocs:C29670,
-        ocs:C2981,
         ocs:C31489,
         ocs:C41788,
-        ocs:C42304,
-        ocs:C4500,
-        ocs:C4918,
-        ocs:C5702,
-        ocs:C7736 .
+        ocs:C42304 .
 

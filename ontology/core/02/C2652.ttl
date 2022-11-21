@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2652 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Freddy_II> ;
     skos:prefLabel "Freddy II" ;
-    skos:related ocs:C114,
-        ocs:C15335,
+    skos:related ocs:C8,
+        ocs:C114,
         ocs:C1936,
         ocs:C2048,
+        ocs:C4269,
+        ocs:C7066,
+        ocs:C9552,
+        ocs:C15335,
         ocs:C20576,
         ocs:C28740,
         ocs:C30191,
@@ -19,9 +23,5 @@ ocs:C2652 a skos:Concept ;
         ocs:C37010,
         ocs:C37695,
         ocs:C40194,
-        ocs:C42136,
-        ocs:C4269,
-        ocs:C7066,
-        ocs:C8,
-        ocs:C9552 .
+        ocs:C42136 .
 

@@ -5,9 +5,11 @@ ocs:C22442 a skos:Concept ;
     skos:broader ocs:C3401 ;
     skos:closeMatch <http://dbpedia.org/resource/Graph-tool> ;
     skos:prefLabel "Graph-tool" ;
-    skos:related ocs:C11026,
+    skos:related ocs:C13,
+        ocs:C6335,
+        ocs:C7460,
+        ocs:C11026,
         ocs:C11128,
-        ocs:C13,
         ocs:C15476,
         ocs:C17717,
         ocs:C19876,
@@ -16,7 +18,5 @@ ocs:C22442 a skos:Concept ;
         ocs:C26642,
         ocs:C28521,
         ocs:C28991,
-        ocs:C36858,
-        ocs:C6335,
-        ocs:C7460 .
+        ocs:C36858 .
 

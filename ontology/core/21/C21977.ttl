@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21977 a skos:Concept ;
-    skos:broader ocs:C13316,
-        ocs:C4255 ;
+    skos:broader ocs:C4255,
+        ocs:C13316 ;
     skos:closeMatch <http://dbpedia.org/resource/Hand-off> ;
     skos:prefLabel "Hand-off" ;
     skos:related ocs:C3467 .

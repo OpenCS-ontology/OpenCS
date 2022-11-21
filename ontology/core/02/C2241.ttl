@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2241 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Seven-segment_display> ;
     skos:prefLabel "Seven-segment display" ;
-    skos:related ocs:C16377,
-        ocs:C22265,
-        ocs:C4048,
+    skos:related ocs:C4048,
         ocs:C4703,
         ocs:C5290,
         ocs:C6969,
         ocs:C7525,
         ocs:C7771,
-        ocs:C9605 .
+        ocs:C9605,
+        ocs:C16377,
+        ocs:C22265 .
 

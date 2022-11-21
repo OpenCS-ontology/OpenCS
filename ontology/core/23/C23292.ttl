@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23292 a skos:Concept ;
-    skos:broader ocs:C12690,
-        ocs:C162,
+    skos:broader ocs:C162,
         ocs:C3569,
-        ocs:C7735 ;
+        ocs:C7735,
+        ocs:C12690 ;
     skos:closeMatch <http://dbpedia.org/resource/Cray_XT5> ;
     skos:prefLabel "Cray XT5" ;
-    skos:related ocs:C10320,
-        ocs:C12690,
+    skos:related ocs:C27,
         ocs:C162,
+        ocs:C750,
+        ocs:C2478,
+        ocs:C7735,
+        ocs:C10320,
+        ocs:C12690,
         ocs:C21883,
         ocs:C24207,
-        ocs:C2478,
         ocs:C24785,
         ocs:C24846,
         ocs:C26030,
         ocs:C26342,
-        ocs:C27,
         ocs:C31489,
-        ocs:C40330,
-        ocs:C750,
-        ocs:C7735 .
+        ocs:C40330 .
 

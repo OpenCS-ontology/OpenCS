@@ -2,14 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9231 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C17,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C16,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Voice_engine> ;
     skos:prefLabel "Voice engine" ;
     skos:related ocs:C11,
-        ocs:C11814,
+        ocs:C420,
+        ocs:C515,
         ocs:C1449,
+        ocs:C6027,
+        ocs:C8515,
+        ocs:C9113,
+        ocs:C11814,
         ocs:C17433,
         ocs:C17653,
         ocs:C22407,
@@ -19,10 +24,5 @@ ocs:C9231 a skos:Concept ;
         ocs:C28808,
         ocs:C34631,
         ocs:C34719,
-        ocs:C36124,
-        ocs:C420,
-        ocs:C515,
-        ocs:C6027,
-        ocs:C8515,
-        ocs:C9113 .
+        ocs:C36124 .
 

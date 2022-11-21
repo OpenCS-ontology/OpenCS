@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27667 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C9641 ;
+    skos:broader ocs:C9641,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Minimum-variance_unbiased_estimator> ;
     skos:prefLabel "Minimum-variance unbiased estimator" ;
     skos:related ocs:C10222,

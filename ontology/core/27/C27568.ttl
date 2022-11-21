@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27568 a skos:Concept ;
-    skos:broader ocs:C12942,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/Statistical_time_division_multiplexing> ;
     skos:prefLabel "Statistical time division multiplexing" ;
-    skos:related ocs:C12942,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C390,
+        ocs:C3039,
+        ocs:C4197,
+        ocs:C6861,
+        ocs:C8704,
+        ocs:C9480,
+        ocs:C12942,
         ocs:C15589,
         ocs:C16022,
         ocs:C16953,
@@ -15,15 +23,7 @@ ocs:C27568 a skos:Concept ;
         ocs:C24133,
         ocs:C24323,
         ocs:C24781,
-        ocs:C26,
         ocs:C26809,
         ocs:C28952,
-        ocs:C3,
-        ocs:C3039,
-        ocs:C390,
-        ocs:C4197,
-        ocs:C45252,
-        ocs:C6861,
-        ocs:C8704,
-        ocs:C9480 .
+        ocs:C45252 .
 

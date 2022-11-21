@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6917 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Query_optimization> ;
     skos:prefLabel "Query optimization" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C264,
+        ocs:C5497,
+        ocs:C6857,
+        ocs:C8661,
+        ocs:C10444,
         ocs:C12185,
         ocs:C12694,
         ocs:C14025,
@@ -17,11 +22,6 @@ ocs:C6917 a skos:Concept ;
         ocs:C17701,
         ocs:C18567,
         ocs:C23269,
-        ocs:C264,
         ocs:C28963,
-        ocs:C35640,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C6857,
-        ocs:C8661 .
+        ocs:C35640 .
 

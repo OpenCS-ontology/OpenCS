@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17981 a skos:Concept ;
-    skos:broader ocs:C11445,
-        ocs:C4597 ;
+    skos:broader ocs:C4597,
+        ocs:C11445 ;
     skos:closeMatch <http://dbpedia.org/resource/Missed_approach> ;
     skos:prefLabel "Missed approach" ;
-    skos:related ocs:C11445,
+    skos:related ocs:C3159,
+        ocs:C4597,
+        ocs:C4979,
+        ocs:C5030,
+        ocs:C11445,
         ocs:C18996,
         ocs:C20572,
         ocs:C23444,
         ocs:C23477,
         ocs:C26346,
         ocs:C30470,
-        ocs:C3159,
         ocs:C33190,
         ocs:C33889,
-        ocs:C42471,
-        ocs:C4597,
-        ocs:C4979,
-        ocs:C5030 .
+        ocs:C42471 .
 

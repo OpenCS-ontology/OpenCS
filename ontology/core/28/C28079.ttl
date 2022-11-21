@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28079 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C836 ;
+    skos:broader ocs:C836,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Prais–Winsten_estimation> ;
     skos:prefLabel "Prais–Winsten estimation" ;
-    skos:related ocs:C10138,
-        ocs:C14553,
-        ocs:C15614,
-        ocs:C24319,
-        ocs:C260,
-        ocs:C27194,
-        ocs:C32677,
-        ocs:C38662,
+    skos:related ocs:C260,
+        ocs:C836,
         ocs:C5505,
         ocs:C6116,
         ocs:C7471,
-        ocs:C836 .
+        ocs:C10138,
+        ocs:C14553,
+        ocs:C15614,
+        ocs:C24319,
+        ocs:C27194,
+        ocs:C32677,
+        ocs:C38662 .
 

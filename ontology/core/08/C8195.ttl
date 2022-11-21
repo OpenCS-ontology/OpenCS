@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8195 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Register_transfer_language> ;
     skos:prefLabel "Register transfer language" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C856,
+        ocs:C2669,
+        ocs:C4321,
+        ocs:C5962,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C10284,
         ocs:C11262,
         ocs:C12257,
         ocs:C17204,
@@ -17,14 +23,8 @@ ocs:C8195 a skos:Concept ;
         ocs:C21627,
         ocs:C21718,
         ocs:C23473,
-        ocs:C2669,
         ocs:C29056,
         ocs:C39339,
         ocs:C41661,
-        ocs:C4321,
-        ocs:C45210,
-        ocs:C5962,
-        ocs:C6941,
-        ocs:C8441,
-        ocs:C856 .
+        ocs:C45210 .
 

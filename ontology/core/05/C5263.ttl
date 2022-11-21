@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5263 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Remote_diagnostics> ;
     skos:prefLabel "Remote diagnostics" ;
-    skos:related ocs:C1253,
+    skos:related ocs:C3,
+        ocs:C420,
+        ocs:C1253,
+        ocs:C4428,
+        ocs:C4710,
+        ocs:C8302,
+        ocs:C8614,
+        ocs:C9113,
         ocs:C12641,
         ocs:C19226,
         ocs:C21424,
         ocs:C22121,
         ocs:C27532,
-        ocs:C3,
-        ocs:C41460,
-        ocs:C420,
-        ocs:C4428,
-        ocs:C4710,
-        ocs:C8302,
-        ocs:C8614,
-        ocs:C9113 .
+        ocs:C41460 .
 

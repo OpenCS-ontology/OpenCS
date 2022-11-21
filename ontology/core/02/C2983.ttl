@@ -2,17 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2983 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/SwingWorker> ;
     skos:prefLabel "SwingWorker" ;
-    skos:related ocs:C11293,
-        ocs:C1142,
+    skos:related ocs:C1142,
+        ocs:C2674,
+        ocs:C5702,
+        ocs:C7439,
+        ocs:C11293,
         ocs:C14627,
         ocs:C17123,
         ocs:C22284,
         ocs:C26700,
-        ocs:C2674,
         ocs:C28187,
         ocs:C28944,
         ocs:C31693,
@@ -22,7 +24,5 @@ ocs:C2983 a skos:Concept ;
         ocs:C39149,
         ocs:C40210,
         ocs:C44845,
-        ocs:C45142,
-        ocs:C5702,
-        ocs:C7439 .
+        ocs:C45142 .
 

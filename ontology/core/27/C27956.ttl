@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27956 a skos:Concept ;
-    skos:broader ocs:C13571,
+    skos:broader ocs:C515,
         ocs:C3236,
-        ocs:C515 ;
+        ocs:C13571 ;
     skos:closeMatch <http://dbpedia.org/resource/Specialized_Mobile_Radio> ;
     skos:prefLabel "Specialized Mobile Radio" ;
-    skos:related ocs:C12767,
+    skos:related ocs:C599,
+        ocs:C4255,
+        ocs:C5285,
+        ocs:C6598,
+        ocs:C6763,
+        ocs:C8612,
+        ocs:C9793,
+        ocs:C12767,
         ocs:C13110,
         ocs:C13571,
         ocs:C15962,
@@ -15,12 +22,5 @@ ocs:C27956 a skos:Concept ;
         ocs:C29184,
         ocs:C33607,
         ocs:C37139,
-        ocs:C4255,
-        ocs:C43408,
-        ocs:C5285,
-        ocs:C599,
-        ocs:C6598,
-        ocs:C6763,
-        ocs:C8612,
-        ocs:C9793 .
+        ocs:C43408 .
 

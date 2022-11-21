@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14636 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C3282 ;
+    skos:broader ocs:C3282,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_inheritance> ;
     skos:prefLabel "Virtual inheritance" ;
-    skos:related ocs:C10608,
+    skos:related ocs:C19,
+        ocs:C329,
+        ocs:C2201,
+        ocs:C3282,
+        ocs:C4321,
+        ocs:C10608,
         ocs:C10720,
         ocs:C10909,
         ocs:C14222,
-        ocs:C19,
         ocs:C21122,
-        ocs:C2201,
         ocs:C24970,
         ocs:C26642,
         ocs:C27131,
         ocs:C31014,
         ocs:C32225,
-        ocs:C3282,
-        ocs:C329,
         ocs:C35141,
-        ocs:C38027,
-        ocs:C4321 .
+        ocs:C38027 .
 

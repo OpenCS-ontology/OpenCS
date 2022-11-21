@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3468 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Business_support_system> ;
     skos:prefLabel "Business support system" ;
-    skos:related ocs:C10764,
+    skos:related ocs:C3,
+        ocs:C1634,
+        ocs:C2837,
+        ocs:C3778,
+        ocs:C4433,
+        ocs:C7569,
+        ocs:C8896,
+        ocs:C9176,
+        ocs:C10764,
         ocs:C12307,
         ocs:C12736,
         ocs:C14535,
-        ocs:C1634,
         ocs:C17238,
         ocs:C17661,
         ocs:C18761,
         ocs:C20143,
         ocs:C23462,
-        ocs:C2837,
-        ocs:C3,
         ocs:C32052,
-        ocs:C34533,
-        ocs:C3778,
-        ocs:C4433,
-        ocs:C7569,
-        ocs:C8896,
-        ocs:C9176 .
+        ocs:C34533 .
 

@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20267 a skos:Concept ;
-    skos:broader ocs:C10619,
-        ocs:C1253,
+    skos:broader ocs:C1253,
         ocs:C5181,
-        ocs:C5336 ;
+        ocs:C5336,
+        ocs:C10619 ;
     skos:closeMatch <http://dbpedia.org/resource/Massively_parallel_processor_array> ;
     skos:prefLabel "Massively parallel processor array" ;
-    skos:related ocs:C10320,
-        ocs:C10683,
-        ocs:C11,
-        ocs:C11814,
-        ocs:C12690,
-        ocs:C1904,
-        ocs:C19936,
-        ocs:C24846,
-        ocs:C25519,
+    skos:related ocs:C11,
         ocs:C27,
-        ocs:C31886,
-        ocs:C33048,
-        ocs:C40330,
+        ocs:C1904,
         ocs:C4804,
         ocs:C5181,
         ocs:C5336,
-        ocs:C7735 .
+        ocs:C7735,
+        ocs:C10320,
+        ocs:C10683,
+        ocs:C11814,
+        ocs:C12690,
+        ocs:C19936,
+        ocs:C24846,
+        ocs:C25519,
+        ocs:C31886,
+        ocs:C33048,
+        ocs:C40330 .
 

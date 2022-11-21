@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5785 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Aiming_point> ;
     skos:prefLabel "Aiming point" ;
-    skos:related ocs:C17256,
-        ocs:C23075,
-        ocs:C25124,
-        ocs:C3031,
+    skos:related ocs:C3031,
         ocs:C3232,
         ocs:C5247,
-        ocs:C6589 .
+        ocs:C6589,
+        ocs:C17256,
+        ocs:C23075,
+        ocs:C25124 .
 

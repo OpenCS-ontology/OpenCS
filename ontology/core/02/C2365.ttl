@@ -2,19 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2365 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Tree_view> ;
     skos:prefLabel "Tree view" ;
-    skos:related ocs:C11951,
-        ocs:C12325,
-        ocs:C12478,
-        ocs:C13790,
-        ocs:C1787,
-        ocs:C19298,
-        ocs:C24143,
-        ocs:C26700,
+    skos:related ocs:C1787,
         ocs:C3672,
         ocs:C4253,
         ocs:C4450,
@@ -22,5 +15,12 @@ ocs:C2365 a skos:Concept ;
         ocs:C5702,
         ocs:C6860,
         ocs:C7059,
-        ocs:C8129 .
+        ocs:C8129,
+        ocs:C11951,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C13790,
+        ocs:C19298,
+        ocs:C24143,
+        ocs:C26700 .
 

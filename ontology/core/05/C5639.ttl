@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5639 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Carputer> ;
     skos:prefLabel "Carputer" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C9,
         ocs:C11,
+        ocs:C3246,
+        ocs:C4428,
+        ocs:C6538,
+        ocs:C7166,
+        ocs:C9545,
+        ocs:C10368,
         ocs:C12641,
         ocs:C18380,
         ocs:C18535,
         ocs:C23009,
-        ocs:C3246,
         ocs:C34229,
-        ocs:C41543,
-        ocs:C4428,
-        ocs:C6538,
-        ocs:C7166,
-        ocs:C9,
-        ocs:C9545 .
+        ocs:C41543 .
 

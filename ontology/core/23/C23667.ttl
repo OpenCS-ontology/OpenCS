@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23667 a skos:Concept ;
-    skos:broader ocs:C12590,
-        ocs:C2409,
+    skos:broader ocs:C2409,
         ocs:C4199,
         ocs:C6448,
-        ocs:C8781 ;
+        ocs:C8781,
+        ocs:C12590 ;
     skos:closeMatch <http://dbpedia.org/resource/Phong_shading> ;
     skos:prefLabel "Phong shading" ;
-    skos:related ocs:C12454,
+    skos:related ocs:C22,
+        ocs:C331,
+        ocs:C6448,
+        ocs:C12454,
         ocs:C12590,
         ocs:C17403,
         ocs:C18519,
         ocs:C19229,
         ocs:C21609,
-        ocs:C22,
         ocs:C22983,
         ocs:C26458,
         ocs:C28061,
         ocs:C28466,
         ocs:C29600,
         ocs:C32898,
-        ocs:C331,
         ocs:C42817,
         ocs:C43204,
-        ocs:C43530,
-        ocs:C6448 .
+        ocs:C43530 .
 

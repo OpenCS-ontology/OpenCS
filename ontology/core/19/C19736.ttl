@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19736 a skos:Concept ;
-    skos:broader ocs:C10396,
-        ocs:C8182 ;
+    skos:broader ocs:C8182,
+        ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/OpenROV> ;
     skos:prefLabel "OpenROV" ;
-    skos:related ocs:C10286,
+    skos:related ocs:C6172,
+        ocs:C7625,
+        ocs:C8182,
+        ocs:C10286,
         ocs:C15308,
         ocs:C17254,
         ocs:C17554,
@@ -16,8 +19,5 @@ ocs:C19736 a skos:Concept ;
         ocs:C29012,
         ocs:C29969,
         ocs:C35870,
-        ocs:C36944,
-        ocs:C6172,
-        ocs:C7625,
-        ocs:C8182 .
+        ocs:C36944 .
 

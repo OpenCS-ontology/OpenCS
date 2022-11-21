@@ -5,7 +5,12 @@ ocs:C5566 a skos:Concept ;
     skos:broader ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Machine_epsilon> ;
     skos:prefLabel "Machine epsilon" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C765,
+        ocs:C4816,
+        ocs:C8581,
+        ocs:C9051,
+        ocs:C9743,
+        ocs:C12262,
         ocs:C12315,
         ocs:C23841,
         ocs:C24189,
@@ -14,10 +19,5 @@ ocs:C5566 a skos:Concept ;
         ocs:C29107,
         ocs:C31030,
         ocs:C34400,
-        ocs:C45395,
-        ocs:C4816,
-        ocs:C765,
-        ocs:C8581,
-        ocs:C9051,
-        ocs:C9743 .
+        ocs:C45395 .
 

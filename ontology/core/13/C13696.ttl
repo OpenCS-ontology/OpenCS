@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13696 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Winmor> ;
     skos:prefLabel "Winmor" ;
-    skos:related ocs:C10409,
+    skos:related ocs:C1455,
+        ocs:C6034,
+        ocs:C8147,
+        ocs:C9881,
+        ocs:C10409,
         ocs:C10826,
         ocs:C10975,
         ocs:C11669,
         ocs:C13690,
-        ocs:C1455,
         ocs:C22451,
         ocs:C23488,
         ocs:C26814,
@@ -21,8 +24,5 @@ ocs:C13696 a skos:Concept ;
         ocs:C43595,
         ocs:C43783,
         ocs:C44702,
-        ocs:C44707,
-        ocs:C6034,
-        ocs:C8147,
-        ocs:C9881 .
+        ocs:C44707 .
 

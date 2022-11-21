@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6816 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Aliasing> ;
     skos:prefLabel "Aliasing" ;
     skos:related ocs:C123,
         ocs:C1274,
         ocs:C1449,
+        ocs:C5042,
+        ocs:C5298,
         ocs:C37610,
         ocs:C41662,
-        ocs:C44628,
-        ocs:C5042,
-        ocs:C5298 .
+        ocs:C44628 .
 

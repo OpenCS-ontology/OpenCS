@@ -3,11 +3,18 @@
 
 ocs:C12724 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C22,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Text_mode> ;
     skos:prefLabel "Text mode" ;
-    skos:related ocs:C12815,
+    skos:related ocs:C9,
+        ocs:C653,
+        ocs:C5126,
+        ocs:C5702,
+        ocs:C8021,
+        ocs:C9162,
+        ocs:C9442,
+        ocs:C12815,
         ocs:C13155,
         ocs:C13253,
         ocs:C18456,
@@ -17,12 +24,5 @@ ocs:C12724 a skos:Concept ;
         ocs:C28881,
         ocs:C30078,
         ocs:C37894,
-        ocs:C44318,
-        ocs:C5126,
-        ocs:C5702,
-        ocs:C653,
-        ocs:C8021,
-        ocs:C9,
-        ocs:C9162,
-        ocs:C9442 .
+        ocs:C44318 .
 

@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8244 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Etherloop> ;
     skos:prefLabel "Etherloop" ;
-    skos:related ocs:C13786,
-        ocs:C16400,
+    skos:related ocs:C490,
         ocs:C1733,
+        ocs:C3354,
+        ocs:C7290,
+        ocs:C9327,
+        ocs:C13786,
+        ocs:C16400,
         ocs:C18188,
         ocs:C18270,
         ocs:C19350,
@@ -19,11 +23,7 @@ ocs:C8244 a skos:Concept ;
         ocs:C27570,
         ocs:C29125,
         ocs:C30432,
-        ocs:C3354,
         ocs:C39976,
         ocs:C40684,
-        ocs:C45690,
-        ocs:C490,
-        ocs:C7290,
-        ocs:C9327 .
+        ocs:C45690 .
 

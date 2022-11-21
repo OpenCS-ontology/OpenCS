@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9347 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Point_release> ;
     skos:prefLabel "Point release" ;
-    skos:related ocs:C10284,
-        ocs:C12257,
-        ocs:C1253,
-        ocs:C16627,
+    skos:related ocs:C1253,
         ocs:C1736,
+        ocs:C2265,
+        ocs:C2981,
+        ocs:C7106,
+        ocs:C9033,
+        ocs:C10284,
+        ocs:C12257,
+        ocs:C16627,
         ocs:C18258,
         ocs:C18415,
         ocs:C19674,
-        ocs:C2265,
         ocs:C23580,
         ocs:C28080,
         ocs:C28881,
-        ocs:C2981,
         ocs:C33413,
         ocs:C38916,
         ocs:C41162,
         ocs:C41788,
-        ocs:C45468,
-        ocs:C7106,
-        ocs:C9033 .
+        ocs:C45468 .
 

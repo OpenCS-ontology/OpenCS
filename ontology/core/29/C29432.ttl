@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29432 a skos:Concept ;
-    skos:broader ocs:C11213,
-        ocs:C6545,
-        ocs:C7650 ;
+    skos:broader ocs:C6545,
+        ocs:C7650,
+        ocs:C11213 ;
     skos:closeMatch <http://dbpedia.org/resource/English_irregular_verbs> ;
     skos:prefLabel "English irregular verbs" ;
-    skos:related ocs:C16420,
+    skos:related ocs:C6545,
+        ocs:C16420,
         ocs:C18397,
         ocs:C20254,
         ocs:C20453,
@@ -20,6 +21,5 @@ ocs:C29432 a skos:Concept ;
         ocs:C35238,
         ocs:C35405,
         ocs:C36746,
-        ocs:C36868,
-        ocs:C6545 .
+        ocs:C36868 .
 

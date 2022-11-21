@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8668 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/DSL_Rings> ;
     skos:prefLabel "DSL Rings" ;
-    skos:related ocs:C11769,
+    skos:related ocs:C2188,
+        ocs:C2917,
+        ocs:C2988,
+        ocs:C9327,
+        ocs:C11769,
         ocs:C15589,
         ocs:C16400,
         ocs:C18264,
         ocs:C18797,
         ocs:C19350,
         ocs:C19721,
-        ocs:C2188,
         ocs:C24563,
         ocs:C25293,
         ocs:C26580,
         ocs:C28758,
-        ocs:C2917,
         ocs:C29601,
-        ocs:C2988,
         ocs:C34141,
         ocs:C39976,
-        ocs:C40684,
-        ocs:C9327 .
+        ocs:C40684 .
 

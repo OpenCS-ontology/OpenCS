@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26731 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C11635,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C10557,
+        ocs:C11635 ;
     skos:closeMatch <http://dbpedia.org/resource/Downward_entailing> ;
     skos:prefLabel "Downward entailing" ;
-    skos:related ocs:C12970,
-        ocs:C1451,
+    skos:related ocs:C1451,
+        ocs:C2298,
+        ocs:C2418,
+        ocs:C2995,
+        ocs:C9848,
+        ocs:C12970,
         ocs:C15202,
         ocs:C18503,
         ocs:C22456,
-        ocs:C2298,
-        ocs:C2418,
         ocs:C27168,
-        ocs:C2995,
         ocs:C31956,
         ocs:C32232,
-        ocs:C41096,
-        ocs:C9848 .
+        ocs:C41096 .
 

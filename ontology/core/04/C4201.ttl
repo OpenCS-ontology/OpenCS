@@ -2,18 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4201 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Rough_set> ;
     skos:prefLabel "Rough set" ;
-    skos:related ocs:C13,
+    skos:related ocs:C8,
+        ocs:C13,
+        ocs:C21,
+        ocs:C25,
+        ocs:C5659,
+        ocs:C8725,
+        ocs:C9022,
         ocs:C14579,
         ocs:C15879,
         ocs:C17414,
-        ocs:C21,
         ocs:C22431,
-        ocs:C25,
         ocs:C29204,
         ocs:C32619,
         ocs:C32948,
@@ -22,9 +26,5 @@ ocs:C4201 a skos:Concept ;
         ocs:C38759,
         ocs:C39076,
         ocs:C41937,
-        ocs:C45427,
-        ocs:C5659,
-        ocs:C8,
-        ocs:C8725,
-        ocs:C9022 .
+        ocs:C45427 .
 

@@ -5,7 +5,9 @@ ocs:C3613 a skos:Concept ;
     skos:broader ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Learning_community> ;
     skos:prefLabel "Learning community" ;
-    skos:related ocs:C10057,
+    skos:related ocs:C3057,
+        ocs:C3444,
+        ocs:C10057,
         ocs:C10225,
         ocs:C11026,
         ocs:C12148,
@@ -17,7 +19,5 @@ ocs:C3613 a skos:Concept ;
         ocs:C21011,
         ocs:C21674,
         ocs:C26654,
-        ocs:C29527,
-        ocs:C3057,
-        ocs:C3444 .
+        ocs:C29527 .
 

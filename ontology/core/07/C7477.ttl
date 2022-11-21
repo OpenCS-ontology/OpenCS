@@ -2,16 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7477 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Carna_botnet> ;
     skos:prefLabel "Carna botnet" ;
-    skos:related ocs:C17205,
+    skos:related ocs:C26,
+        ocs:C6286,
+        ocs:C8614,
+        ocs:C17205,
         ocs:C18213,
         ocs:C20205,
         ocs:C20540,
-        ocs:C26,
         ocs:C27557,
         ocs:C28346,
         ocs:C29798,
@@ -23,7 +25,5 @@ ocs:C7477 a skos:Concept ;
         ocs:C42706,
         ocs:C43015,
         ocs:C44554,
-        ocs:C44571,
-        ocs:C6286,
-        ocs:C8614 .
+        ocs:C44571 .
 

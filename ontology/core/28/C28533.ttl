@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28533 a skos:Concept ;
-    skos:broader ocs:C10904,
-        ocs:C2464,
-        ocs:C8614 ;
+    skos:broader ocs:C2464,
+        ocs:C8614,
+        ocs:C10904 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_design> ;
     skos:prefLabel "Web design" ;
-    skos:related ocs:C1006,
+    skos:related ocs:C31,
+        ocs:C622,
+        ocs:C1006,
+        ocs:C2057,
+        ocs:C2135,
+        ocs:C2464,
+        ocs:C4918,
+        ocs:C5477,
+        ocs:C8614,
+        ocs:C9607,
         ocs:C12477,
         ocs:C13413,
         ocs:C17557,
-        ocs:C2057,
-        ocs:C2135,
         ocs:C22668,
-        ocs:C2464,
         ocs:C28503,
         ocs:C28801,
-        ocs:C31,
-        ocs:C31201,
-        ocs:C4918,
-        ocs:C5477,
-        ocs:C622,
-        ocs:C8614,
-        ocs:C9607 .
+        ocs:C31201 .
 

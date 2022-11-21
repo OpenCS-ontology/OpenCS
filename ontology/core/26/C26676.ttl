@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26676 a skos:Concept ;
-    skos:broader ocs:C10136,
-        ocs:C7021 ;
+    skos:broader ocs:C7021,
+        ocs:C10136 ;
     skos:closeMatch <http://dbpedia.org/resource/Co-training> ;
     skos:prefLabel "Co-training" ;
-    skos:related ocs:C10136,
-        ocs:C1040,
-        ocs:C11030,
-        ocs:C1466,
-        ocs:C18298,
-        ocs:C19354,
-        ocs:C2005,
-        ocs:C21,
-        ocs:C21157,
-        ocs:C22432,
-        ocs:C22653,
+    skos:related ocs:C21,
         ocs:C25,
-        ocs:C25196,
-        ocs:C39922,
+        ocs:C1040,
+        ocs:C1466,
+        ocs:C2005,
         ocs:C4929,
         ocs:C5498,
         ocs:C6021,
-        ocs:C8576 .
+        ocs:C8576,
+        ocs:C10136,
+        ocs:C11030,
+        ocs:C18298,
+        ocs:C19354,
+        ocs:C21157,
+        ocs:C22432,
+        ocs:C22653,
+        ocs:C25196,
+        ocs:C39922 .
 

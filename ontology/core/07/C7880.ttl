@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7880 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Subnetwork_connection_protection> ;
     skos:prefLabel "Subnetwork connection protection" ;
-    skos:related ocs:C16673,
-        ocs:C20934,
-        ocs:C24563,
-        ocs:C26,
+    skos:related ocs:C26,
         ocs:C2880,
-        ocs:C32718,
-        ocs:C38402,
-        ocs:C44776,
         ocs:C7469,
         ocs:C8567,
-        ocs:C9652 .
+        ocs:C9652,
+        ocs:C16673,
+        ocs:C20934,
+        ocs:C24563,
+        ocs:C32718,
+        ocs:C38402,
+        ocs:C44776 .
 

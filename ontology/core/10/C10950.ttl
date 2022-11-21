@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10950 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C33,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24,
+        ocs:C33 ;
     skos:prefLabel "Route recognition" ;
-    skos:related ocs:C14863,
+    skos:related ocs:C2,
         ocs:C16,
         ocs:C18,
-        ocs:C2,
         ocs:C22,
-        ocs:C2469,
         ocs:C25,
         ocs:C26,
-        ocs:C29365,
         ocs:C33,
+        ocs:C2469,
         ocs:C4861,
         ocs:C7789,
-        ocs:C8021 .
+        ocs:C8021,
+        ocs:C14863,
+        ocs:C29365 .
 

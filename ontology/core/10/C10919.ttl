@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10919 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Aircraft_Communications_Addressing_and_Reporting_System> ;
     skos:prefLabel "Aircraft Communications Addressing and Reporting System" ;
-    skos:related ocs:C12828,
+    skos:related ocs:C511,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C6117,
+        ocs:C12828,
         ocs:C15050,
         ocs:C15796,
         ocs:C16352,
@@ -18,9 +22,5 @@ ocs:C10919 a skos:Concept ;
         ocs:C30901,
         ocs:C36670,
         ocs:C42471,
-        ocs:C45154,
-        ocs:C4597,
-        ocs:C5030,
-        ocs:C511,
-        ocs:C6117 .
+        ocs:C45154 .
 

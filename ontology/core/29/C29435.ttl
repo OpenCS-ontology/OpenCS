@@ -5,10 +5,11 @@ ocs:C29435 a skos:Concept ;
     skos:broader ocs:C1253 ;
     skos:closeMatch <http://dbpedia.org/resource/Hardware_performance_counter> ;
     skos:prefLabel "Hardware performance counter" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C15,
+        ocs:C5041,
+        ocs:C10320,
         ocs:C10824,
         ocs:C14965,
-        ocs:C15,
         ocs:C17204,
         ocs:C19487,
         ocs:C19699,
@@ -18,6 +19,5 @@ ocs:C29435 a skos:Concept ;
         ocs:C25171,
         ocs:C27610,
         ocs:C31489,
-        ocs:C36673,
-        ocs:C5041 .
+        ocs:C36673 .
 

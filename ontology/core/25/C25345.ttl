@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25345 a skos:Concept ;
-    skos:broader ocs:C10052,
-        ocs:C1561,
-        ocs:C2409 ;
+    skos:broader ocs:C1561,
+        ocs:C2409,
+        ocs:C10052 ;
     skos:closeMatch <http://dbpedia.org/resource/Gang_run_printing> ;
     skos:prefLabel "Gang run printing" ;
     skos:related ocs:C1397,
-        ocs:C34920,
-        ocs:C38588,
         ocs:C8747,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C34920,
+        ocs:C38588 .
 

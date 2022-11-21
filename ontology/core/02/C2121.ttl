@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2121 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Integral_imaging> ;
     skos:prefLabel "Integral imaging" ;
-    skos:related ocs:C13549,
+    skos:related ocs:C244,
+        ocs:C967,
+        ocs:C969,
+        ocs:C2883,
+        ocs:C6783,
+        ocs:C13549,
         ocs:C14023,
         ocs:C14925,
         ocs:C15842,
         ocs:C19228,
         ocs:C20850,
-        ocs:C244,
-        ocs:C2883,
-        ocs:C36940,
-        ocs:C6783,
-        ocs:C967,
-        ocs:C969 .
+        ocs:C36940 .
 

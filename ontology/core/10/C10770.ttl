@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10770 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Location_awareness> ;
     skos:prefLabel "Location awareness" ;
-    skos:related ocs:C10587,
-        ocs:C12641,
+    skos:related ocs:C525,
         ocs:C1338,
         ocs:C1793,
+        ocs:C2605,
+        ocs:C3446,
+        ocs:C4398,
+        ocs:C4917,
+        ocs:C9047,
+        ocs:C9113,
+        ocs:C9601,
+        ocs:C10587,
+        ocs:C12641,
         ocs:C19494,
         ocs:C21424,
         ocs:C24139,
         ocs:C25712,
-        ocs:C2605,
-        ocs:C3446,
-        ocs:C4398,
-        ocs:C44290,
-        ocs:C4917,
-        ocs:C525,
-        ocs:C9047,
-        ocs:C9113,
-        ocs:C9601 .
+        ocs:C44290 .
 

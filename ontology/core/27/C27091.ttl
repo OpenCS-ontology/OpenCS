@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27091 a skos:Concept ;
-    skos:broader ocs:C10498,
-        ocs:C13511,
-        ocs:C4756 ;
+    skos:broader ocs:C4756,
+        ocs:C10498,
+        ocs:C13511 ;
     skos:closeMatch <http://dbpedia.org/resource/Nuprl> ;
     skos:prefLabel "Nuprl" ;
-    skos:related ocs:C10003,
+    skos:related ocs:C4726,
+        ocs:C4756,
+        ocs:C5714,
+        ocs:C6390,
+        ocs:C6941,
+        ocs:C7980,
+        ocs:C10003,
         ocs:C10498,
         ocs:C12474,
         ocs:C16537,
@@ -19,11 +25,5 @@ ocs:C27091 a skos:Concept ;
         ocs:C28007,
         ocs:C28895,
         ocs:C30275,
-        ocs:C39487,
-        ocs:C4726,
-        ocs:C4756,
-        ocs:C5714,
-        ocs:C6390,
-        ocs:C6941,
-        ocs:C7980 .
+        ocs:C39487 .
 

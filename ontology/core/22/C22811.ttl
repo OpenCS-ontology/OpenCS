@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22811 a skos:Concept ;
-    skos:broader ocs:C13413,
-        ocs:C8181 ;
+    skos:broader ocs:C8181,
+        ocs:C13413 ;
     skos:closeMatch <http://dbpedia.org/resource/Experience_design> ;
     skos:prefLabel "Experience design" ;
-    skos:related ocs:C11046,
-        ocs:C12924,
-        ocs:C13413,
+    skos:related ocs:C306,
         ocs:C2135,
-        ocs:C27184,
-        ocs:C28503,
-        ocs:C306,
-        ocs:C31201,
-        ocs:C34564,
-        ocs:C37478,
         ocs:C5051,
         ocs:C5876,
         ocs:C8181,
         ocs:C8269,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C11046,
+        ocs:C12924,
+        ocs:C13413,
+        ocs:C27184,
+        ocs:C28503,
+        ocs:C31201,
+        ocs:C34564,
+        ocs:C37478 .
 

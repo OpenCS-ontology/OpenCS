@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10694 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Distributed_Data_Protocol> ;
     skos:prefLabel "Distributed Data Protocol" ;
-    skos:related ocs:C11152,
+    skos:related ocs:C2771,
+        ocs:C6790,
+        ocs:C7016,
+        ocs:C8515,
+        ocs:C8577,
+        ocs:C9540,
+        ocs:C11152,
         ocs:C12810,
         ocs:C16980,
         ocs:C17794,
@@ -16,14 +22,8 @@ ocs:C10694 a skos:Concept ;
         ocs:C22597,
         ocs:C22981,
         ocs:C26260,
-        ocs:C2771,
         ocs:C28542,
         ocs:C28637,
         ocs:C44603,
-        ocs:C44872,
-        ocs:C6790,
-        ocs:C7016,
-        ocs:C8515,
-        ocs:C8577,
-        ocs:C9540 .
+        ocs:C44872 .
 

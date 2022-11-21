@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14806 a skos:Concept ;
-    skos:broader ocs:C10171,
-        ocs:C3888 ;
+    skos:broader ocs:C3888,
+        ocs:C10171 ;
     skos:closeMatch <http://dbpedia.org/resource/Wasei-eigo> ;
     skos:prefLabel "Wasei-eigo" ;
-    skos:related ocs:C12486,
-        ocs:C18051,
-        ocs:C2847,
-        ocs:C3888 .
+    skos:related ocs:C2847,
+        ocs:C3888,
+        ocs:C12486,
+        ocs:C18051 .
 

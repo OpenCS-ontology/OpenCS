@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8520 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Visual_inspection> ;
     skos:prefLabel "Visual inspection" ;
     skos:related ocs:C10,
-        ocs:C12433,
         ocs:C248,
+        ocs:C663,
+        ocs:C3077,
+        ocs:C9489,
+        ocs:C12433,
         ocs:C26641,
         ocs:C27953,
-        ocs:C28516,
-        ocs:C3077,
-        ocs:C663,
-        ocs:C9489 .
+        ocs:C28516 .
 

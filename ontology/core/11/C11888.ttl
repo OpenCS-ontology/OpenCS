@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11888 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Usage_data> ;
     skos:prefLabel "Usage data" ;
-    skos:related ocs:C26540,
+    skos:related ocs:C428,
+        ocs:C4450,
+        ocs:C5355,
+        ocs:C5675,
+        ocs:C9876,
+        ocs:C26540,
         ocs:C27097,
         ocs:C28801,
         ocs:C29637,
         ocs:C34208,
         ocs:C40049,
-        ocs:C428,
-        ocs:C43004,
-        ocs:C4450,
-        ocs:C5355,
-        ocs:C5675,
-        ocs:C9876 .
+        ocs:C43004 .
 

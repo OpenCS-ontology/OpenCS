@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7552 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Composite_Capability/Preference_Profiles> ;
     skos:prefLabel "Composite Capability/Preference Profiles" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C437,
+        ocs:C4747,
+        ocs:C7429,
+        ocs:C9836,
+        ocs:C11927,
         ocs:C28117,
         ocs:C28801,
         ocs:C29375,
@@ -19,9 +23,5 @@ ocs:C7552 a skos:Concept ;
         ocs:C41053,
         ocs:C41158,
         ocs:C42124,
-        ocs:C437,
-        ocs:C44163,
-        ocs:C4747,
-        ocs:C7429,
-        ocs:C9836 .
+        ocs:C44163 .
 

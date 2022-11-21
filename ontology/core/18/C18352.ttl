@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18352 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C8614 ;
+    skos:broader ocs:C8614,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Bill_and_keep> ;
     skos:prefLabel "Bill and keep" ;
-    skos:related ocs:C12307,
+    skos:related ocs:C26,
+        ocs:C5623,
+        ocs:C8470,
+        ocs:C9480,
+        ocs:C12307,
         ocs:C12308,
         ocs:C12853,
         ocs:C13709,
@@ -14,12 +18,8 @@ ocs:C18352 a skos:Concept ;
         ocs:C17867,
         ocs:C18995,
         ocs:C22407,
-        ocs:C26,
         ocs:C28758,
         ocs:C31392,
         ocs:C35538,
-        ocs:C39574,
-        ocs:C5623,
-        ocs:C8470,
-        ocs:C9480 .
+        ocs:C39574 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22598 a skos:Concept ;
-    skos:broader ocs:C1844,
-        ocs:C246 ;
+    skos:broader ocs:C246,
+        ocs:C1844 ;
     skos:closeMatch <http://dbpedia.org/resource/Imprecise_probability> ;
     skos:prefLabel "Imprecise probability" ;
-    skos:related ocs:C10143,
-        ocs:C14620,
-        ocs:C246,
+    skos:related ocs:C246,
         ocs:C2469,
-        ocs:C31563,
-        ocs:C32717,
-        ocs:C33734,
         ocs:C3753,
-        ocs:C39812,
-        ocs:C42482,
-        ocs:C43598,
-        ocs:C44764,
         ocs:C5209,
         ocs:C5659,
         ocs:C6291,
-        ocs:C6692 .
+        ocs:C6692,
+        ocs:C10143,
+        ocs:C14620,
+        ocs:C31563,
+        ocs:C32717,
+        ocs:C33734,
+        ocs:C39812,
+        ocs:C42482,
+        ocs:C43598,
+        ocs:C44764 .
 

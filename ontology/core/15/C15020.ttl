@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15020 a skos:Concept ;
-    skos:broader ocs:C12759,
-        ocs:C8020 ;
+    skos:broader ocs:C8020,
+        ocs:C12759 ;
     skos:closeMatch <http://dbpedia.org/resource/Phonemic_orthography> ;
     skos:prefLabel "Phonemic orthography" ;
-    skos:related ocs:C12759,
+    skos:related ocs:C2025,
+        ocs:C2847,
+        ocs:C6282,
+        ocs:C7131,
+        ocs:C8020,
+        ocs:C12759,
         ocs:C13096,
         ocs:C13210,
         ocs:C14527,
         ocs:C17395,
         ocs:C17677,
-        ocs:C2025,
         ocs:C25565,
         ocs:C27886,
         ocs:C28082,
-        ocs:C2847,
         ocs:C29128,
-        ocs:C36864,
-        ocs:C6282,
-        ocs:C7131,
-        ocs:C8020 .
+        ocs:C36864 .
 

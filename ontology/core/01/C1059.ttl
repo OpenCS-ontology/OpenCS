@@ -2,17 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1059 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Website_spoofing> ;
     skos:prefLabel "Website spoofing" ;
-    skos:related ocs:C14983,
+    skos:related ocs:C31,
+        ocs:C6642,
+        ocs:C7147,
+        ocs:C14983,
         ocs:C19156,
         ocs:C20937,
         ocs:C23016,
         ocs:C25757,
-        ocs:C31,
         ocs:C37868,
         ocs:C38459,
         ocs:C39074,
@@ -23,7 +25,5 @@ ocs:C1059 a skos:Concept ;
         ocs:C42434,
         ocs:C42880,
         ocs:C44855,
-        ocs:C45050,
-        ocs:C6642,
-        ocs:C7147 .
+        ocs:C45050 .
 

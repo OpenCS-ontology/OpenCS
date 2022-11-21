@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12432 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Bionics> ;
     skos:prefLabel "Bionics" ;
-    skos:related ocs:C10396,
-        ocs:C17236,
-        ocs:C27563,
+    skos:related ocs:C8,
         ocs:C7334,
-        ocs:C8,
         ocs:C9022,
-        ocs:C9265 .
+        ocs:C9265,
+        ocs:C10396,
+        ocs:C17236,
+        ocs:C27563 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18413 a skos:Concept ;
-    skos:broader ocs:C13255,
-        ocs:C2872,
+    skos:broader ocs:C2872,
         ocs:C5974,
-        ocs:C8510 ;
+        ocs:C8510,
+        ocs:C13255 ;
     skos:closeMatch <http://dbpedia.org/resource/Fluent_calculus> ;
     skos:prefLabel "Fluent calculus" ;
-    skos:related ocs:C10825,
+    skos:related ocs:C8,
+        ocs:C1936,
+        ocs:C2418,
+        ocs:C2872,
+        ocs:C3445,
+        ocs:C4925,
+        ocs:C10825,
         ocs:C12977,
         ocs:C13697,
         ocs:C16924,
-        ocs:C1936,
         ocs:C21946,
-        ocs:C2418,
         ocs:C26635,
         ocs:C28062,
-        ocs:C2872,
         ocs:C29948,
-        ocs:C3445,
         ocs:C38596,
-        ocs:C38602,
-        ocs:C4925,
-        ocs:C8 .
+        ocs:C38602 .
 

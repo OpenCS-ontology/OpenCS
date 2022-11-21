@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19082 a skos:Concept ;
-    skos:broader ocs:C11386,
-        ocs:C11508,
-        ocs:C1444,
+    skos:broader ocs:C1444,
         ocs:C2250,
         ocs:C2801,
         ocs:C4256,
-        ocs:C5856 ;
+        ocs:C5856,
+        ocs:C11386,
+        ocs:C11508 ;
     skos:prefLabel "Heteroscedastic linear discriminant analysis" .
 

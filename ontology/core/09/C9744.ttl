@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9744 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Monocular> ;
     skos:prefLabel "Monocular" ;
-    skos:related ocs:C19568,
-        ocs:C2422,
+    skos:related ocs:C2422,
         ocs:C2883,
         ocs:C8085,
-        ocs:C8858 .
+        ocs:C8858,
+        ocs:C19568 .
 

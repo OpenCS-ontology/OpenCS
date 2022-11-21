@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C806 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Dynaset> ;
     skos:prefLabel "Dynaset" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C197,
+        ocs:C1638,
+        ocs:C3747,
+        ocs:C6754,
+        ocs:C8860,
+        ocs:C10444,
         ocs:C10988,
         ocs:C11603,
         ocs:C12185,
-        ocs:C1638,
         ocs:C16874,
         ocs:C18414,
-        ocs:C197,
         ocs:C22879,
         ocs:C28120,
         ocs:C31430,
-        ocs:C3747,
         ocs:C41073,
         ocs:C41302,
         ocs:C43443,
         ocs:C43655,
-        ocs:C44420,
-        ocs:C6,
-        ocs:C6754,
-        ocs:C8860 .
+        ocs:C44420 .
 

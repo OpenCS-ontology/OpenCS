@@ -2,22 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24456 a skos:Concept ;
-    skos:broader ocs:C12257,
-        ocs:C1253,
-        ocs:C13366,
-        ocs:C4032 ;
+    skos:broader ocs:C1253,
+        ocs:C4032,
+        ocs:C12257,
+        ocs:C13366 ;
     skos:closeMatch <http://dbpedia.org/resource/Conditional_compilation> ;
     skos:prefLabel "Conditional compilation" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C9,
+        ocs:C19,
         ocs:C1083,
-        ocs:C12257,
         ocs:C1253,
         ocs:C1262,
         ocs:C1333,
-        ocs:C13366,
-        ocs:C17204,
-        ocs:C19,
-        ocs:C22630,
         ocs:C2674,
         ocs:C4321,
         ocs:C4918,
@@ -25,5 +21,9 @@ ocs:C24456 a skos:Concept ;
         ocs:C6072,
         ocs:C6714,
         ocs:C7800,
-        ocs:C9 .
+        ocs:C10284,
+        ocs:C12257,
+        ocs:C13366,
+        ocs:C17204,
+        ocs:C22630 .
 

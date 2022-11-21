@@ -2,17 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22956 a skos:Concept ;
-    skos:broader ocs:C11026,
-        ocs:C7166 ;
+    skos:broader ocs:C7166,
+        ocs:C11026 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_social_network> ;
     skos:prefLabel "Mobile social network" ;
     skos:related ocs:C1650,
-        ocs:C18683,
-        ocs:C22668,
-        ocs:C25752,
-        ocs:C31149,
-        ocs:C32451,
-        ocs:C36500,
         ocs:C4712,
         ocs:C5672,
         ocs:C5917,
@@ -20,5 +14,11 @@ ocs:C22956 a skos:Concept ;
         ocs:C6504,
         ocs:C7166,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C18683,
+        ocs:C22668,
+        ocs:C25752,
+        ocs:C31149,
+        ocs:C32451,
+        ocs:C36500 .
 

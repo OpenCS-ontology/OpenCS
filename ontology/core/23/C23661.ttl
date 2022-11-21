@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23661 a skos:Concept ;
-    skos:broader ocs:C12238,
-        ocs:C3569,
-        ocs:C7106 ;
+    skos:broader ocs:C3569,
+        ocs:C7106,
+        ocs:C12238 ;
     skos:closeMatch <http://dbpedia.org/resource/COLA_(software_architecture)> ;
     skos:prefLabel "COLA (software architecture)" ;
-    skos:related ocs:C10720,
-        ocs:C11826,
-        ocs:C15120,
-        ocs:C19,
-        ocs:C22259,
-        ocs:C24909,
-        ocs:C28944,
+    skos:related ocs:C19,
         ocs:C329,
-        ocs:C36614,
-        ocs:C38027,
         ocs:C3811,
-        ocs:C40588,
         ocs:C4918,
         ocs:C5308,
         ocs:C5409,
         ocs:C8441,
-        ocs:C8751 .
+        ocs:C8751,
+        ocs:C10720,
+        ocs:C11826,
+        ocs:C15120,
+        ocs:C22259,
+        ocs:C24909,
+        ocs:C28944,
+        ocs:C36614,
+        ocs:C38027,
+        ocs:C40588 .
 

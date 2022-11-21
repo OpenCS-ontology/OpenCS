@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16535 a skos:Concept ;
-    skos:broader ocs:C13047,
-        ocs:C3057 ;
+    skos:broader ocs:C3057,
+        ocs:C13047 ;
     skos:closeMatch <http://dbpedia.org/resource/Auditory_learning> ;
     skos:prefLabel "Auditory learning" ;
-    skos:related ocs:C14177,
-        ocs:C3057,
+    skos:related ocs:C3057,
         ocs:C3910,
-        ocs:C8107 .
+        ocs:C8107,
+        ocs:C14177 .
 

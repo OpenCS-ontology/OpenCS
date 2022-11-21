@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14652 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C9690 ;
+    skos:broader ocs:C9690,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/Bessel_ellipsoid> ;
     skos:prefLabel "Bessel ellipsoid of 1841" ;
-    skos:related ocs:C16293,
+    skos:related ocs:C3185,
+        ocs:C16293,
         ocs:C18568,
         ocs:C24604,
         ocs:C27631,
         ocs:C30827,
-        ocs:C3185,
         ocs:C34255,
         ocs:C40075 .
 

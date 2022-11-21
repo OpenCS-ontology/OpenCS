@@ -7,7 +7,9 @@ ocs:C41056 a skos:Concept ;
         ocs:C35801 ;
     skos:closeMatch <http://dbpedia.org/resource/DNS_zone_transfer> ;
     skos:prefLabel "DNS zone transfer" ;
-    skos:related ocs:C12995,
+    skos:related ocs:C6,
+        ocs:C9683,
+        ocs:C12995,
         ocs:C14417,
         ocs:C14983,
         ocs:C20125,
@@ -23,7 +25,5 @@ ocs:C41056 a skos:Concept ;
         ocs:C40832,
         ocs:C42100,
         ocs:C43392,
-        ocs:C44017,
-        ocs:C6,
-        ocs:C9683 .
+        ocs:C44017 .
 

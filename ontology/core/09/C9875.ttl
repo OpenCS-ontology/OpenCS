@@ -2,18 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9875 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Managed_object> ;
     skos:prefLabel "Managed object" ;
-    skos:related ocs:C11184,
+    skos:related ocs:C3,
+        ocs:C3160,
+        ocs:C5161,
+        ocs:C6972,
+        ocs:C8896,
+        ocs:C11184,
         ocs:C12583,
         ocs:C12835,
         ocs:C15983,
         ocs:C17918,
-        ocs:C3,
-        ocs:C3160,
         ocs:C31746,
         ocs:C34898,
         ocs:C40698,
@@ -21,8 +24,5 @@ ocs:C9875 a skos:Concept ;
         ocs:C41944,
         ocs:C43515,
         ocs:C45575,
-        ocs:C45641,
-        ocs:C5161,
-        ocs:C6972,
-        ocs:C8896 .
+        ocs:C45641 .
 

@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10745 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/OpenDocument> ;
     skos:prefLabel "Application Document" ;
-    skos:related ocs:C13024,
+    skos:related ocs:C2,
         ocs:C17,
-        ocs:C2,
         ocs:C2543,
-        ocs:C31343,
         ocs:C4513,
         ocs:C5160,
         ocs:C7006,
         ocs:C8566,
         ocs:C8614,
-        ocs:C8702 .
+        ocs:C8702,
+        ocs:C13024,
+        ocs:C31343 .
 

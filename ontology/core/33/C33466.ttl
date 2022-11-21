@@ -5,7 +5,9 @@ ocs:C33466 a skos:Concept ;
     skos:broader ocs:C24131 ;
     skos:closeMatch <http://dbpedia.org/resource/Message_forgery> ;
     skos:prefLabel "Message forgery" ;
-    skos:related ocs:C17567,
+    skos:related ocs:C700,
+        ocs:C4751,
+        ocs:C17567,
         ocs:C17856,
         ocs:C18803,
         ocs:C20243,
@@ -21,7 +23,5 @@ ocs:C33466 a skos:Concept ;
         ocs:C43188,
         ocs:C43934,
         ocs:C44944,
-        ocs:C45116,
-        ocs:C4751,
-        ocs:C700 .
+        ocs:C45116 .
 

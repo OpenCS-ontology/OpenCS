@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13746 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C34,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25,
+        ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_organism> ;
     skos:prefLabel "Digital organism" ;
-    skos:related ocs:C11143,
+    skos:related ocs:C25,
         ocs:C122,
+        ocs:C7256,
+        ocs:C7553,
+        ocs:C11143,
         ocs:C13633,
         ocs:C14353,
         ocs:C14921,
         ocs:C16908,
         ocs:C20846,
-        ocs:C25,
         ocs:C27563,
-        ocs:C44071,
-        ocs:C7256,
-        ocs:C7553 .
+        ocs:C44071 .
 

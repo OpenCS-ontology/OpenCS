@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1975 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Autocorrection> ;
     skos:prefLabel "Autocorrection" ;
-    skos:related ocs:C12022,
-        ocs:C19,
-        ocs:C20986,
-        ocs:C24143,
-        ocs:C25515,
-        ocs:C27099,
+    skos:related ocs:C19,
         ocs:C2930,
         ocs:C2981,
         ocs:C3398,
-        ocs:C41392,
         ocs:C4230,
-        ocs:C44483,
         ocs:C5138,
         ocs:C5477,
         ocs:C5702,
         ocs:C5870,
         ocs:C6852,
         ocs:C7736,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C12022,
+        ocs:C20986,
+        ocs:C24143,
+        ocs:C25515,
+        ocs:C27099,
+        ocs:C41392,
+        ocs:C44483 .
 

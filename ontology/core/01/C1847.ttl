@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1847 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/IBM_WebSphere_ESB> ;
     skos:prefLabel "IBM WebSphere ESB" ;
-    skos:related ocs:C10904,
+    skos:related ocs:C1496,
+        ocs:C9049,
+        ocs:C9164,
+        ocs:C10904,
         ocs:C12185,
         ocs:C13252,
-        ocs:C1496,
         ocs:C17238,
         ocs:C18361,
         ocs:C22597,
@@ -22,7 +24,5 @@ ocs:C1847 a skos:Concept ;
         ocs:C42500,
         ocs:C44843,
         ocs:C45768,
-        ocs:C45883,
-        ocs:C9049,
-        ocs:C9164 .
+        ocs:C45883 .
 

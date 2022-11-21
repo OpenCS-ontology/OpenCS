@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8326 a skos:Concept ;
-    skos:broader ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Predictive_failure_analysis> ;
     skos:prefLabel "Predictive failure analysis" ;
-    skos:related ocs:C10269,
+    skos:related ocs:C754,
+        ocs:C6397,
+        ocs:C7622,
+        ocs:C8173,
+        ocs:C8613,
+        ocs:C9742,
+        ocs:C10269,
         ocs:C12211,
         ocs:C13783,
         ocs:C14625,
@@ -17,11 +23,5 @@ ocs:C8326 a skos:Concept ;
         ocs:C31489,
         ocs:C38915,
         ocs:C39218,
-        ocs:C41962,
-        ocs:C6397,
-        ocs:C754,
-        ocs:C7622,
-        ocs:C8173,
-        ocs:C8613,
-        ocs:C9742 .
+        ocs:C41962 .
 

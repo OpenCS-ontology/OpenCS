@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7987 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Detection_theory> ;
     skos:prefLabel "Detection theory" ;
-    skos:related ocs:C10222,
-        ocs:C11747,
+    skos:related ocs:C757,
         ocs:C2526,
-        ocs:C25436,
-        ocs:C28516,
         ocs:C5033,
         ocs:C5298,
         ocs:C5769,
         ocs:C5816,
         ocs:C6909,
         ocs:C7502,
-        ocs:C757,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C10222,
+        ocs:C11747,
+        ocs:C25436,
+        ocs:C28516 .
 

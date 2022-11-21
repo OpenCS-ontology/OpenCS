@@ -2,13 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22946 a skos:Concept ;
-    skos:broader ocs:C13686,
-        ocs:C3894 ;
+    skos:broader ocs:C3894,
+        ocs:C13686 ;
     skos:closeMatch <http://dbpedia.org/resource/Maximum_satisfiability_problem> ;
     skos:prefLabel "Maximum satisfiability problem" ;
-    skos:related ocs:C11372,
+    skos:related ocs:C2420,
+        ocs:C4149,
+        ocs:C4203,
+        ocs:C5823,
+        ocs:C7988,
+        ocs:C8660,
+        ocs:C9450,
+        ocs:C11372,
         ocs:C19295,
-        ocs:C2420,
         ocs:C29837,
         ocs:C30308,
         ocs:C30401,
@@ -16,12 +22,6 @@ ocs:C22946 a skos:Concept ;
         ocs:C38030,
         ocs:C39136,
         ocs:C40828,
-        ocs:C4149,
         ocs:C41731,
-        ocs:C4203,
-        ocs:C43638,
-        ocs:C5823,
-        ocs:C7988,
-        ocs:C8660,
-        ocs:C9450 .
+        ocs:C43638 .
 

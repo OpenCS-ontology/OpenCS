@@ -5,7 +5,10 @@ ocs:C10405 a skos:Concept ;
     skos:broader ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/OpenEV> ;
     skos:prefLabel "OpenEV" ;
-    skos:related ocs:C1023,
+    skos:related ocs:C22,
+        ocs:C1023,
+        ocs:C6224,
+        ocs:C9646,
         ocs:C12725,
         ocs:C13155,
         ocs:C15046,
@@ -13,9 +16,6 @@ ocs:C10405 a skos:Concept ;
         ocs:C19046,
         ocs:C20066,
         ocs:C21609,
-        ocs:C22,
         ocs:C24235,
-        ocs:C27492,
-        ocs:C6224,
-        ocs:C9646 .
+        ocs:C27492 .
 

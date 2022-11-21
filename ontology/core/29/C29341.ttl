@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29341 a skos:Concept ;
-    skos:broader ocs:C12313,
-        ocs:C13412,
-        ocs:C390,
+    skos:broader ocs:C390,
         ocs:C6751,
-        ocs:C7159 ;
+        ocs:C7159,
+        ocs:C12313,
+        ocs:C13412 ;
     skos:closeMatch <http://dbpedia.org/resource/Prefix_header> ;
     skos:prefLabel "Prefix header" ;
-    skos:related ocs:C12257,
-        ocs:C1262,
+    skos:related ocs:C1262,
+        ocs:C2057,
+        ocs:C3036,
+        ocs:C4321,
+        ocs:C5308,
+        ocs:C12257,
         ocs:C14990,
         ocs:C20008,
-        ocs:C2057,
         ocs:C22630,
         ocs:C24871,
         ocs:C25185,
-        ocs:C3036,
         ocs:C30749,
         ocs:C37996,
         ocs:C39339,
-        ocs:C39497,
-        ocs:C4321,
-        ocs:C5308 .
+        ocs:C39497 .
 

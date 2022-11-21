@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26221 a skos:Concept ;
-    skos:broader ocs:C11932,
-        ocs:C6545 ;
+    skos:broader ocs:C6545,
+        ocs:C11932 ;
     skos:closeMatch <http://dbpedia.org/resource/Verbnoun> ;
     skos:prefLabel "Verbnoun" ;
     skos:related ocs:C10570,

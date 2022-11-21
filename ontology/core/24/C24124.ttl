@@ -2,19 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24124 a skos:Concept ;
-    skos:broader ocs:C11213,
-        ocs:C12222,
-        ocs:C2025 ;
+    skos:broader ocs:C2025,
+        ocs:C11213,
+        ocs:C12222 ;
     skos:closeMatch <http://dbpedia.org/resource/Bilabial_consonant> ;
     skos:prefLabel "Bilabial consonant" ;
-    skos:related ocs:C10768,
+    skos:related ocs:C2025,
+        ocs:C6361,
+        ocs:C7501,
+        ocs:C10768,
         ocs:C11145,
         ocs:C12222,
         ocs:C15608,
         ocs:C15821,
         ocs:C18818,
         ocs:C19817,
-        ocs:C2025,
         ocs:C21409,
         ocs:C21833,
         ocs:C21925,
@@ -23,7 +25,5 @@ ocs:C24124 a skos:Concept ;
         ocs:C27886,
         ocs:C29494,
         ocs:C34296,
-        ocs:C35601,
-        ocs:C6361,
-        ocs:C7501 .
+        ocs:C35601 .
 

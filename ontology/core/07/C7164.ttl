@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7164 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Aerial_perspective> ;
     skos:prefLabel "Aerial perspective" ;
-    skos:related ocs:C11768,
-        ocs:C2246,
+    skos:related ocs:C2246,
         ocs:C4160,
-        ocs:C7522 .
+        ocs:C7522,
+        ocs:C11768 .
 

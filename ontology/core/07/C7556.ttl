@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7556 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Features_of_Skype> ;
     skos:prefLabel "Features of Skype" ;
-    skos:related ocs:C17567,
+    skos:related ocs:C855,
+        ocs:C4226,
+        ocs:C6189,
+        ocs:C8614,
+        ocs:C17567,
         ocs:C17794,
         ocs:C18995,
         ocs:C20100,
@@ -17,9 +21,5 @@ ocs:C7556 a skos:Concept ;
         ocs:C30890,
         ocs:C31489,
         ocs:C31755,
-        ocs:C32526,
-        ocs:C4226,
-        ocs:C6189,
-        ocs:C855,
-        ocs:C8614 .
+        ocs:C32526 .
 

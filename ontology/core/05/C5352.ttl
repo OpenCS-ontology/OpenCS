@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5352 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Decision-making_paradox> ;
     skos:prefLabel "Decision-making paradox" ;
-    skos:related ocs:C17168,
+    skos:related ocs:C8124,
+        ocs:C9608,
+        ocs:C17168,
         ocs:C17414,
         ocs:C22628,
         ocs:C22673,
@@ -14,7 +16,5 @@ ocs:C5352 a skos:Concept ;
         ocs:C33161,
         ocs:C36383,
         ocs:C38630,
-        ocs:C38996,
-        ocs:C8124,
-        ocs:C9608 .
+        ocs:C38996 .
 

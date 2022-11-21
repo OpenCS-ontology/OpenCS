@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C703 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Medical_library> ;
     skos:prefLabel "Medical library" ;
-    skos:related ocs:C13350,
-        ocs:C15008,
+    skos:related ocs:C4,
         ocs:C2128,
-        ocs:C4,
         ocs:C4934,
-        ocs:C9585 .
+        ocs:C9585,
+        ocs:C13350,
+        ocs:C15008 .
 

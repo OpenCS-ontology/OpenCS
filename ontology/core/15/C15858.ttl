@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15858 a skos:Concept ;
-    skos:broader ocs:C12918,
-        ocs:C511 ;
+    skos:broader ocs:C511,
+        ocs:C12918 ;
     skos:closeMatch <http://dbpedia.org/resource/MIL-STD-1553> ;
     skos:prefLabel "MIL-STD-1553" ;
-    skos:related ocs:C12636,
+    skos:related ocs:C511,
+        ocs:C3357,
+        ocs:C9717,
+        ocs:C12636,
         ocs:C12641,
         ocs:C13386,
         ocs:C13850,
         ocs:C13856,
         ocs:C16191,
-        ocs:C27554,
-        ocs:C3357,
-        ocs:C511,
-        ocs:C9717 .
+        ocs:C27554 .
 

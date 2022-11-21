@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25999 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C4151,
+    skos:broader ocs:C4151,
         ocs:C5087,
-        ocs:C7791 ;
+        ocs:C7791,
+        ocs:C13685 ;
     skos:prefLabel "Functional linear regression" .
 

@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16607 a skos:Concept ;
-    skos:broader ocs:C11767,
-        ocs:C4697 ;
+    skos:broader ocs:C4697,
+        ocs:C11767 ;
     skos:closeMatch <http://dbpedia.org/resource/Universal_testing_machine> ;
     skos:prefLabel "Universal testing machine" ;
-    skos:related ocs:C11781,
-        ocs:C6702 .
+    skos:related ocs:C6702,
+        ocs:C11781 .
 

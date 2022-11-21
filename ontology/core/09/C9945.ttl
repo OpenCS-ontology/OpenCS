@@ -2,17 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9945 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_device> ;
     skos:prefLabel "Virtual device" ;
-    skos:related ocs:C1165,
+    skos:related ocs:C9,
+        ocs:C1165,
+        ocs:C2863,
+        ocs:C4337,
+        ocs:C7476,
+        ocs:C8457,
         ocs:C12683,
         ocs:C14271,
         ocs:C22569,
         ocs:C24871,
-        ocs:C2863,
         ocs:C28881,
         ocs:C30866,
         ocs:C31489,
@@ -20,9 +24,5 @@ ocs:C9945 a skos:Concept ;
         ocs:C36439,
         ocs:C37964,
         ocs:C41870,
-        ocs:C4337,
-        ocs:C44098,
-        ocs:C7476,
-        ocs:C8457,
-        ocs:C9 .
+        ocs:C44098 .
 

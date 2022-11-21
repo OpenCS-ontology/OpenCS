@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14883 a skos:Concept ;
-    skos:broader ocs:C12988,
-        ocs:C13412,
-        ocs:C3395,
-        ocs:C5660 ;
+    skos:broader ocs:C3395,
+        ocs:C5660,
+        ocs:C12988,
+        ocs:C13412 ;
     skos:prefLabel "Business impact analysis" .
 

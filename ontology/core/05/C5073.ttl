@@ -2,15 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5073 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Geometric_data_analysis> ;
     skos:prefLabel "Geometric data analysis" ;
-    skos:related ocs:C10324,
+    skos:related ocs:C25,
+        ocs:C6912,
+        ocs:C8084,
+        ocs:C10324,
         ocs:C10382,
         ocs:C18074,
         ocs:C19844,
-        ocs:C25,
         ocs:C26886,
         ocs:C27124,
         ocs:C27712,
@@ -19,7 +21,5 @@ ocs:C5073 a skos:Concept ;
         ocs:C31721,
         ocs:C32381,
         ocs:C37793,
-        ocs:C45823,
-        ocs:C6912,
-        ocs:C8084 .
+        ocs:C45823 .
 

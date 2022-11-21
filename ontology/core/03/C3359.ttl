@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3359 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/M-Labs> ;
     skos:prefLabel "M-Labs" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C44,
+        ocs:C4824,
+        ocs:C5336,
+        ocs:C6172,
+        ocs:C7165,
+        ocs:C10320,
         ocs:C12690,
         ocs:C12820,
         ocs:C18114,
@@ -19,10 +24,5 @@ ocs:C3359 a skos:Concept ;
         ocs:C29183,
         ocs:C29530,
         ocs:C29969,
-        ocs:C31489,
-        ocs:C44,
-        ocs:C4824,
-        ocs:C5336,
-        ocs:C6172,
-        ocs:C7165 .
+        ocs:C31489 .
 

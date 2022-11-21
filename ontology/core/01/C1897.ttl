@@ -5,16 +5,8 @@ ocs:C1897 a skos:Concept ;
     skos:broader ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_edition> ;
     skos:prefLabel "Digital edition" ;
-    skos:related ocs:C1084,
-        ocs:C13608,
-        ocs:C13679,
-        ocs:C18985,
-        ocs:C22849,
-        ocs:C23568,
-        ocs:C24639,
-        ocs:C26337,
-        ocs:C31,
-        ocs:C34117,
+    skos:related ocs:C31,
+        ocs:C1084,
         ocs:C4500,
         ocs:C5746,
         ocs:C6757,
@@ -22,5 +14,13 @@ ocs:C1897 a skos:Concept ;
         ocs:C6916,
         ocs:C8498,
         ocs:C8614,
-        ocs:C8797 .
+        ocs:C8797,
+        ocs:C13608,
+        ocs:C13679,
+        ocs:C18985,
+        ocs:C22849,
+        ocs:C23568,
+        ocs:C24639,
+        ocs:C26337,
+        ocs:C34117 .
 

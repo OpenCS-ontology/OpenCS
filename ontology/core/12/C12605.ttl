@@ -2,16 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12605 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/OpenBSD_security_features> ;
     skos:prefLabel "OpenBSD security features" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C9,
         ocs:C1156,
-        ocs:C23666,
-        ocs:C23875,
         ocs:C2545,
         ocs:C2766,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C5470,
+        ocs:C10214,
+        ocs:C23666,
+        ocs:C23875,
         ocs:C28637,
         ocs:C29363,
         ocs:C31489,
@@ -20,9 +24,5 @@ ocs:C12605 a skos:Concept ;
         ocs:C38959,
         ocs:C39252,
         ocs:C40900,
-        ocs:C41159,
-        ocs:C4218,
-        ocs:C4513,
-        ocs:C5470,
-        ocs:C9 .
+        ocs:C41159 .
 

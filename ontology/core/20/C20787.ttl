@@ -5,7 +5,9 @@ ocs:C20787 a skos:Concept ;
     skos:broader ocs:C6545 ;
     skos:closeMatch <http://dbpedia.org/resource/Arabic_verbs> ;
     skos:prefLabel "Arabic verbs" ;
-    skos:related ocs:C10570,
+    skos:related ocs:C4822,
+        ocs:C6545,
+        ocs:C10570,
         ocs:C18232,
         ocs:C20344,
         ocs:C22743,
@@ -14,7 +16,5 @@ ocs:C20787 a skos:Concept ;
         ocs:C26895,
         ocs:C31989,
         ocs:C34204,
-        ocs:C35238,
-        ocs:C4822,
-        ocs:C6545 .
+        ocs:C35238 .
 

@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13655 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:prefLabel "Movement measurement" ;
     skos:related ocs:C2,
         ocs:C22,
         ocs:C33,
+        ocs:C525,
         ocs:C4435,
-        ocs:C4861,
-        ocs:C525 .
+        ocs:C4861 .
 

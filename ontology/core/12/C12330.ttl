@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12330 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/The_Map_Library> ;
     skos:prefLabel "The Map Library" ;
-    skos:related ocs:C10072,
-        ocs:C1023,
+    skos:related ocs:C1023,
+        ocs:C10072,
         ocs:C10380,
         ocs:C10987,
         ocs:C15046,

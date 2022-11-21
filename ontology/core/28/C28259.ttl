@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28259 a skos:Concept ;
-    skos:broader ocs:C10327,
-        ocs:C1034,
-        ocs:C12977,
+    skos:broader ocs:C1034,
         ocs:C1451,
-        ocs:C6531 ;
+        ocs:C6531,
+        ocs:C10327,
+        ocs:C12977 ;
     skos:closeMatch <http://dbpedia.org/resource/HiLog> ;
     skos:prefLabel "HiLog" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C2089,
+        ocs:C2418,
+        ocs:C3484,
+        ocs:C6531,
+        ocs:C10327,
         ocs:C11812,
         ocs:C12977,
         ocs:C14249,
         ocs:C17372,
-        ocs:C2089,
         ocs:C23014,
-        ocs:C2418,
         ocs:C26168,
-        ocs:C3484,
         ocs:C35496,
         ocs:C35570,
         ocs:C36877,
         ocs:C39278,
         ocs:C40312,
         ocs:C40821,
-        ocs:C44891,
-        ocs:C6531 .
+        ocs:C44891 .
 

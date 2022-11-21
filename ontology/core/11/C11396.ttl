@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11396 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Ambient_authority> ;
     skos:prefLabel "Ambient authority" ;
-    skos:related ocs:C1399,
+    skos:related ocs:C35,
+        ocs:C1399,
+        ocs:C2306,
+        ocs:C8711,
         ocs:C14363,
         ocs:C16295,
         ocs:C17266,
@@ -16,13 +19,10 @@ ocs:C11396 a skos:Concept ;
         ocs:C21592,
         ocs:C21951,
         ocs:C22970,
-        ocs:C2306,
         ocs:C30365,
-        ocs:C35,
         ocs:C35388,
         ocs:C42057,
         ocs:C43822,
         ocs:C45494,
-        ocs:C45563,
-        ocs:C8711 .
+        ocs:C45563 .
 

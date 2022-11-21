@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10681 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Field-programmable_object_array> ;
     skos:prefLabel "Field-programmable object array" ;
-    skos:related ocs:C13747,
+    skos:related ocs:C866,
         ocs:C1457,
+        ocs:C4464,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C13747,
         ocs:C14694,
         ocs:C16067,
         ocs:C19713,
@@ -18,9 +22,5 @@ ocs:C10681 a skos:Concept ;
         ocs:C30085,
         ocs:C30433,
         ocs:C37773,
-        ocs:C42760,
-        ocs:C4464,
-        ocs:C5336,
-        ocs:C6797,
-        ocs:C866 .
+        ocs:C42760 .
 

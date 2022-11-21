@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24852 a skos:Concept ;
-    skos:broader ocs:C12075,
-        ocs:C1443 ;
+    skos:broader ocs:C1443,
+        ocs:C12075 ;
     skos:closeMatch <http://dbpedia.org/resource/Perdurantism> ;
     skos:prefLabel "Perdurantism" ;
     skos:related ocs:C1443,

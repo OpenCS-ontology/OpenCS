@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27445 a skos:Concept ;
-    skos:broader ocs:C13320,
-        ocs:C2480 ;
+    skos:broader ocs:C2480,
+        ocs:C13320 ;
     skos:closeMatch <http://dbpedia.org/resource/Wired_glove> ;
     skos:prefLabel "Wired glove" ;
     skos:related ocs:C1,
-        ocs:C10368,
-        ocs:C1239,
-        ocs:C12976,
-        ocs:C13320,
         ocs:C22,
-        ocs:C23978,
-        ocs:C24825,
-        ocs:C31489,
+        ocs:C78,
+        ocs:C792,
+        ocs:C1239,
         ocs:C3284,
-        ocs:C33303,
-        ocs:C42202,
         ocs:C5086,
         ocs:C5702,
         ocs:C6069,
         ocs:C7736,
-        ocs:C78,
-        ocs:C792,
-        ocs:C9603 .
+        ocs:C9603,
+        ocs:C10368,
+        ocs:C12976,
+        ocs:C13320,
+        ocs:C23978,
+        ocs:C24825,
+        ocs:C31489,
+        ocs:C33303,
+        ocs:C42202 .
 

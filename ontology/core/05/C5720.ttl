@@ -2,12 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5720 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C29,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_independence> ;
     skos:prefLabel "Data independence" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C26,
+        ocs:C264,
+        ocs:C617,
+        ocs:C2414,
+        ocs:C6552,
+        ocs:C7309,
+        ocs:C7651,
+        ocs:C8327,
+        ocs:C10444,
         ocs:C10720,
         ocs:C13744,
         ocs:C13767,
@@ -15,16 +24,7 @@ ocs:C5720 a skos:Concept ;
         ocs:C16877,
         ocs:C17701,
         ocs:C18405,
-        ocs:C2414,
-        ocs:C26,
-        ocs:C264,
         ocs:C27386,
         ocs:C34481,
-        ocs:C43655,
-        ocs:C6,
-        ocs:C617,
-        ocs:C6552,
-        ocs:C7309,
-        ocs:C7651,
-        ocs:C8327 .
+        ocs:C43655 .
 

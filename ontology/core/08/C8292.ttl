@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8292 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Second-system_effect> ;
     skos:prefLabel "Second-system effect" ;
-    skos:related ocs:C10781,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C28,
         ocs:C1253,
+        ocs:C2897,
+        ocs:C5039,
+        ocs:C7476,
+        ocs:C9035,
+        ocs:C10781,
         ocs:C13101,
         ocs:C17204,
         ocs:C19418,
-        ocs:C28,
         ocs:C28515,
-        ocs:C2897,
         ocs:C31696,
         ocs:C32090,
         ocs:C34356,
-        ocs:C44815,
-        ocs:C5039,
-        ocs:C6,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C44815 .
 

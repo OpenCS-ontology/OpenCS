@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13181 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Protocol_for_Web_Description_Resources> ;
     skos:prefLabel "Protocol for Web Description Resources" ;
-    skos:related ocs:C28117,
-        ocs:C2931,
+    skos:related ocs:C2931,
+        ocs:C6553,
+        ocs:C9836,
+        ocs:C28117,
         ocs:C29375,
         ocs:C31429,
         ocs:C31903,
@@ -21,7 +23,5 @@ ocs:C13181 a skos:Concept ;
         ocs:C41212,
         ocs:C41781,
         ocs:C42124,
-        ocs:C43831,
-        ocs:C6553,
-        ocs:C9836 .
+        ocs:C43831 .
 

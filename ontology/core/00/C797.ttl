@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C797 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Image_editing> ;
     skos:prefLabel "Image editing" ;
-    skos:related ocs:C1023,
-        ocs:C10380,
-        ocs:C10973,
-        ocs:C13065,
-        ocs:C13155,
-        ocs:C16914,
-        ocs:C22,
-        ocs:C22256,
-        ocs:C28881,
-        ocs:C41932,
+    skos:related ocs:C22,
+        ocs:C1023,
         ocs:C4584,
         ocs:C5297,
         ocs:C5854,
         ocs:C6942,
         ocs:C8021,
-        ocs:C8499 .
+        ocs:C8499,
+        ocs:C10380,
+        ocs:C10973,
+        ocs:C13065,
+        ocs:C13155,
+        ocs:C16914,
+        ocs:C22256,
+        ocs:C28881,
+        ocs:C41932 .
 

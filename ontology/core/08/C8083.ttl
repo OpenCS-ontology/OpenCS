@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8083 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Thermally_Advantaged_Chassis> ;
     skos:prefLabel "Thermally Advantaged Chassis" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9542,
+        ocs:C10320,
         ocs:C11052,
         ocs:C21617,
         ocs:C24662,
         ocs:C29012,
         ocs:C33922,
-        ocs:C39621,
-        ocs:C9542 .
+        ocs:C39621 .
 

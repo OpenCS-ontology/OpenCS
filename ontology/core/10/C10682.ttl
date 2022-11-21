@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10682 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Archive_file> ;
     skos:prefLabel "Archive file" ;
-    skos:related ocs:C11531,
-        ocs:C12485,
-        ocs:C1507,
-        ocs:C17903,
-        ocs:C24871,
-        ocs:C28881,
-        ocs:C31489,
+    skos:related ocs:C9,
         ocs:C328,
+        ocs:C1507,
         ocs:C3896,
-        ocs:C42140,
         ocs:C4584,
         ocs:C6605,
         ocs:C7476,
         ocs:C7628,
-        ocs:C9 .
+        ocs:C11531,
+        ocs:C12485,
+        ocs:C17903,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C42140 .
 

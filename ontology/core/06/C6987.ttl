@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6987 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
-        ocs:C9 ;
+    skos:broader ocs:C3,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Network_switching_subsystem> ;
     skos:prefLabel "Network switching subsystem" ;
-    skos:related ocs:C1210,
+    skos:related ocs:C634,
+        ocs:C1210,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C6821,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154,
         ocs:C12853,
         ocs:C27704,
         ocs:C28758,
@@ -18,12 +25,5 @@ ocs:C6987 a skos:Concept ;
         ocs:C37543,
         ocs:C43763,
         ocs:C44251,
-        ocs:C45602,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C634,
-        ocs:C6821,
-        ocs:C7877,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C45602 .
 

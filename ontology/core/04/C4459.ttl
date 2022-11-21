@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4459 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Differential_space–time_code> ;
     skos:prefLabel "Differential space–time code" ;
-    skos:related ocs:C18626,
+    skos:related ocs:C796,
+        ocs:C3236,
+        ocs:C7517,
+        ocs:C18626,
         ocs:C19877,
         ocs:C20804,
         ocs:C24264,
@@ -14,7 +17,6 @@ ocs:C4459 a skos:Concept ;
         ocs:C29410,
         ocs:C31025,
         ocs:C32290,
-        ocs:C3236,
         ocs:C35081,
         ocs:C35462,
         ocs:C36733,
@@ -22,7 +24,5 @@ ocs:C4459 a skos:Concept ;
         ocs:C43806,
         ocs:C43848,
         ocs:C44130,
-        ocs:C45136,
-        ocs:C7517,
-        ocs:C796 .
+        ocs:C45136 .
 

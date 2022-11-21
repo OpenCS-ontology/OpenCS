@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2991 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/IEEE_1164> ;
     skos:prefLabel "IEEE 1164" ;
-    skos:related ocs:C1097,
+    skos:related ocs:C210,
+        ocs:C1097,
+        ocs:C5245,
+        ocs:C6306,
+        ocs:C9908,
         ocs:C11252,
         ocs:C19400,
-        ocs:C210,
         ocs:C23473,
         ocs:C24204,
         ocs:C26090,
@@ -20,8 +23,5 @@ ocs:C2991 a skos:Concept ;
         ocs:C36420,
         ocs:C37773,
         ocs:C39723,
-        ocs:C42888,
-        ocs:C5245,
-        ocs:C6306,
-        ocs:C9908 .
+        ocs:C42888 .
 

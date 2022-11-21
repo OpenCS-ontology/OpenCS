@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12069 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Constraint_optimization> ;
     skos:prefLabel "Unconstrained method" ;
-    skos:related ocs:C21,
-        ocs:C513,
-        ocs:C7,
-        ocs:C8 .
+    skos:related ocs:C7,
+        ocs:C8,
+        ocs:C21,
+        ocs:C513 .
 

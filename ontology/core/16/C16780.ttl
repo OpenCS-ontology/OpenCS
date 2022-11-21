@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16780 a skos:Concept ;
-    skos:broader ocs:C12077,
-        ocs:C248,
+    skos:broader ocs:C248,
         ocs:C5750,
-        ocs:C9022 ;
+        ocs:C9022,
+        ocs:C12077 ;
     skos:closeMatch <http://dbpedia.org/resource/Dynamic_link_matching> ;
     skos:prefLabel "Dynamic link matching" ;
-    skos:related ocs:C16355,
-        ocs:C248,
+    skos:related ocs:C248,
+        ocs:C16355,
         ocs:C26827,
         ocs:C30653,
         ocs:C30925,

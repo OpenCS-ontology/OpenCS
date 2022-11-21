@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12271 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Transport_network> ;
     skos:prefLabel "Transport network" ;
-    skos:related ocs:C11026,
+    skos:related ocs:C3390,
+        ocs:C6243,
+        ocs:C8614,
+        ocs:C11026,
         ocs:C11304,
         ocs:C14853,
-        ocs:C3390,
         ocs:C37235,
-        ocs:C43367,
-        ocs:C6243,
-        ocs:C8614 .
+        ocs:C43367 .
 

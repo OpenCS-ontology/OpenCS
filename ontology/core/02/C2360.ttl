@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2360 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Transaction_Application_Language> ;
     skos:prefLabel "Transaction Application Language" ;
-    skos:related ocs:C10683,
-        ocs:C11194,
+    skos:related ocs:C9,
+        ocs:C283,
+        ocs:C576,
         ocs:C1333,
-        ocs:C13821,
-        ocs:C14917,
-        ocs:C17472,
         ocs:C2009,
         ocs:C2587,
-        ocs:C283,
-        ocs:C29679,
         ocs:C3036,
         ocs:C3680,
         ocs:C4863,
-        ocs:C576,
         ocs:C6024,
-        ocs:C9 .
+        ocs:C10683,
+        ocs:C11194,
+        ocs:C13821,
+        ocs:C14917,
+        ocs:C17472,
+        ocs:C29679 .
 

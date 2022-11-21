@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19101 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C3233,
-        ocs:C7460 ;
+    skos:broader ocs:C3233,
+        ocs:C7460,
+        ocs:C10382 ;
     skos:closeMatch <http://dbpedia.org/resource/Hierarchical_network_model> ;
     skos:prefLabel "Hierarchical network model" ;
-    skos:related ocs:C11026,
+    skos:related ocs:C597,
+        ocs:C7460,
+        ocs:C11026,
         ocs:C11350,
         ocs:C15476,
         ocs:C18569,
@@ -18,7 +20,5 @@ ocs:C19101 a skos:Concept ;
         ocs:C28236,
         ocs:C28521,
         ocs:C36516,
-        ocs:C36858,
-        ocs:C597,
-        ocs:C7460 .
+        ocs:C36858 .
 

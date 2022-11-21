@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2749 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Spatial_disorientation> ;
     skos:prefLabel "Spatial disorientation" ;
-    skos:related ocs:C13631,
+    skos:related ocs:C4597,
+        ocs:C5030,
+        ocs:C13631,
         ocs:C13683,
         ocs:C16352,
         ocs:C18996,
@@ -14,7 +16,5 @@ ocs:C2749 a skos:Concept ;
         ocs:C20572,
         ocs:C23477,
         ocs:C33190,
-        ocs:C35895,
-        ocs:C4597,
-        ocs:C5030 .
+        ocs:C35895 .
 

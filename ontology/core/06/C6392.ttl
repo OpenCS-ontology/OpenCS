@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6392 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:prefLabel "Partner Communications" ;
-    skos:related ocs:C26,
-        ocs:C3 .
+    skos:related ocs:C3,
+        ocs:C26 .
 

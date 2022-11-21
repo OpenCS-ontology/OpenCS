@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25398 a skos:Concept ;
-    skos:broader ocs:C11706,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C11706 ;
     skos:closeMatch <http://dbpedia.org/resource/Noncommutative_signal-flow_graph> ;
     skos:prefLabel "Noncommutative signal-flow graph" ;
-    skos:related ocs:C11706,
+    skos:related ocs:C524,
+        ocs:C3398,
+        ocs:C8791,
+        ocs:C11706,
         ocs:C11885,
         ocs:C12986,
         ocs:C15002,
@@ -17,9 +20,6 @@ ocs:C25398 a skos:Concept ;
         ocs:C22977,
         ocs:C30272,
         ocs:C33287,
-        ocs:C3398,
         ocs:C40502,
-        ocs:C43816,
-        ocs:C524,
-        ocs:C8791 .
+        ocs:C43816 .
 

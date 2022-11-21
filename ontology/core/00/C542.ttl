@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C542 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Mill_CPU_Architecture> ;
     skos:prefLabel "Mill architecture" ;
-    skos:related ocs:C10320,
-        ocs:C17204,
+    skos:related ocs:C283,
+        ocs:C856,
         ocs:C1721,
-        ocs:C19487,
-        ocs:C21718,
-        ocs:C25966,
-        ocs:C27610,
-        ocs:C283,
-        ocs:C37538,
-        ocs:C41469,
         ocs:C4321,
         ocs:C4863,
         ocs:C6172,
         ocs:C6280,
-        ocs:C856 .
+        ocs:C10320,
+        ocs:C17204,
+        ocs:C19487,
+        ocs:C21718,
+        ocs:C25966,
+        ocs:C27610,
+        ocs:C37538,
+        ocs:C41469 .
 

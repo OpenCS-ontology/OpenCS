@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3288 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/MUMPS_syntax> ;
     skos:prefLabel "MUMPS syntax" ;
-    skos:related ocs:C1028,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C1028,
+        ocs:C3706,
+        ocs:C4937,
+        ocs:C5049,
+        ocs:C5515,
+        ocs:C5822,
+        ocs:C6714,
         ocs:C12846,
         ocs:C17701,
         ocs:C18405,
         ocs:C25180,
         ocs:C28963,
         ocs:C36972,
-        ocs:C3706,
         ocs:C39526,
         ocs:C42680,
-        ocs:C43596,
-        ocs:C4937,
-        ocs:C5049,
-        ocs:C5515,
-        ocs:C5822,
-        ocs:C6,
-        ocs:C6714,
-        ocs:C9 .
+        ocs:C43596 .
 

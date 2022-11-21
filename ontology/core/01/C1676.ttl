@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1676 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_artifactual_value> ;
     skos:prefLabel "Digital artifactual value" ;
-    skos:related ocs:C10492,
+    skos:related ocs:C39,
+        ocs:C282,
         ocs:C1090,
+        ocs:C1704,
+        ocs:C2862,
+        ocs:C3896,
+        ocs:C3997,
+        ocs:C4335,
+        ocs:C8797,
+        ocs:C9057,
+        ocs:C10492,
         ocs:C11751,
         ocs:C12745,
         ocs:C15008,
         ocs:C15831,
-        ocs:C1704,
-        ocs:C24891,
-        ocs:C282,
-        ocs:C2862,
-        ocs:C3896,
-        ocs:C39,
-        ocs:C3997,
-        ocs:C4335,
-        ocs:C8797,
-        ocs:C9057 .
+        ocs:C24891 .
 

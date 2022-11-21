@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13869 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C1844 ;
+    skos:broader ocs:C1844,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Location_parameter> ;
     skos:prefLabel "Location parameter" ;
-    skos:related ocs:C13685,
-        ocs:C1844,
-        ocs:C36008,
-        ocs:C662,
+    skos:related ocs:C662,
         ocs:C795,
-        ocs:C9326 .
+        ocs:C1844,
+        ocs:C9326,
+        ocs:C13685,
+        ocs:C36008 .
 

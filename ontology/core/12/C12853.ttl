@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12853 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Roaming> ;
     skos:prefLabel "Roaming" ;
-    skos:related ocs:C13316,
+    skos:related ocs:C3,
+        ocs:C634,
+        ocs:C3933,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C7877,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C13316,
         ocs:C16693,
         ocs:C18799,
         ocs:C21595,
         ocs:C25712,
         ocs:C27704,
-        ocs:C3,
         ocs:C31755,
-        ocs:C35370,
-        ocs:C3933,
-        ocs:C5672,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C634,
-        ocs:C6987,
-        ocs:C7877,
-        ocs:C8614,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C35370 .
 

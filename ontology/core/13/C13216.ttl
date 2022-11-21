@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13216 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Anti-computer_forensics> ;
     skos:prefLabel "Anti-computer forensics" ;
-    skos:related ocs:C12382,
+    skos:related ocs:C9,
+        ocs:C35,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C12382,
         ocs:C23875,
         ocs:C26817,
         ocs:C29841,
         ocs:C32204,
         ocs:C33857,
-        ocs:C35,
         ocs:C39810,
-        ocs:C4218,
-        ocs:C43741,
-        ocs:C5692,
-        ocs:C9 .
+        ocs:C43741 .
 

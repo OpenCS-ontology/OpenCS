@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3948 a skos:Concept ;
-    skos:broader ocs:C30,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C30,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Distributed_operating_system> ;
     skos:prefLabel "Distributed operating system" ;
-    skos:related ocs:C10320,
-        ocs:C12690,
-        ocs:C14271,
-        ocs:C19346,
-        ocs:C22879,
-        ocs:C2353,
+    skos:related ocs:C9,
         ocs:C26,
-        ocs:C26097,
         ocs:C27,
         ocs:C29,
         ocs:C30,
-        ocs:C31489,
+        ocs:C2353,
         ocs:C3514,
         ocs:C6312,
         ocs:C6346,
         ocs:C7735,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C12690,
+        ocs:C14271,
+        ocs:C19346,
+        ocs:C22879,
+        ocs:C26097,
+        ocs:C31489 .
 
