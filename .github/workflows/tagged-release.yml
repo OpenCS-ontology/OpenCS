@@ -1,0 +1,26 @@
+name: "tagged-release"
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  tagged-release:
+    name: "Tagged release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          path: opencs
+
+      - name: "Package ontology"
+        run: python /app/package.py opencs package "$GITHUB_REF_NAME"
+
+      - uses: "marvinpinto/action-automatic-releases@v1.2.1"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: package/*
