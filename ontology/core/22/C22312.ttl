@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22312 a skos:Concept ;
-    skos:broader ocs:C12427,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C12427 ;
     skos:closeMatch <http://dbpedia.org/resource/Marked_graph> ;
     skos:prefLabel "Marked graph" ;
-    skos:related ocs:C12427,
+    skos:related ocs:C4938,
+        ocs:C12427,
         ocs:C17831,
         ocs:C26029,
-        ocs:C35848,
-        ocs:C4938 .
+        ocs:C35848 .
 

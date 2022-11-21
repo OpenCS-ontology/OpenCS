@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1435 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/MS-CHAP> ;
     skos:prefLabel "MS-CHAP" ;
-    skos:related ocs:C20314,
+    skos:related ocs:C5514,
+        ocs:C20314,
         ocs:C21442,
         ocs:C23666,
         ocs:C24131,
@@ -24,6 +25,5 @@ ocs:C1435 a skos:Concept ;
         ocs:C44103,
         ocs:C44282,
         ocs:C44603,
-        ocs:C45688,
-        ocs:C5514 .
+        ocs:C45688 .
 

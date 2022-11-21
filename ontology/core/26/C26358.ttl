@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26358 a skos:Concept ;
-    skos:broader ocs:C12942,
-        ocs:C8475,
-        ocs:C9914 ;
+    skos:broader ocs:C8475,
+        ocs:C9914,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/AN/UCC-4> ;
     skos:prefLabel "AN/UCC-4" ;
-    skos:related ocs:C10409,
-        ocs:C11824,
+    skos:related ocs:C330,
         ocs:C1727,
         ocs:C2582,
+        ocs:C7464,
+        ocs:C10409,
+        ocs:C11824,
         ocs:C30432,
         ocs:C30503,
-        ocs:C330,
         ocs:C35301,
         ocs:C41370,
-        ocs:C44707,
-        ocs:C7464 .
+        ocs:C44707 .
 

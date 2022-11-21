@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13349 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C12,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_behavior> ;
     skos:prefLabel "Information behavior" ;
-    skos:related ocs:C11087,
+    skos:related ocs:C12,
+        ocs:C178,
+        ocs:C1961,
+        ocs:C2979,
+        ocs:C7355,
+        ocs:C7607,
+        ocs:C9704,
+        ocs:C11087,
         ocs:C11914,
-        ocs:C12,
         ocs:C12491,
         ocs:C13153,
         ocs:C13309,
         ocs:C14238,
         ocs:C17608,
-        ocs:C178,
-        ocs:C1961,
         ocs:C22927,
         ocs:C25121,
         ocs:C27031,
-        ocs:C2979,
         ocs:C31201,
-        ocs:C41877,
-        ocs:C7355,
-        ocs:C7607,
-        ocs:C9704 .
+        ocs:C41877 .
 

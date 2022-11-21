@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12438 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C2,
-        ocs:C6 ;
+    skos:broader ocs:C2,
+        ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_field> ;
     skos:prefLabel "Data field" ;
-    skos:related ocs:C13078,
+    skos:related ocs:C6,
+        ocs:C7161,
+        ocs:C7218,
+        ocs:C13078,
         ocs:C13767,
         ocs:C17701,
-        ocs:C24143,
-        ocs:C6,
-        ocs:C7161,
-        ocs:C7218 .
+        ocs:C24143 .
 

@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16001 a skos:Concept ;
-    skos:broader ocs:C12111,
+    skos:broader ocs:C390,
         ocs:C3391,
         ocs:C3393,
         ocs:C3569,
-        ocs:C390,
         ocs:C4197,
         ocs:C7179,
-        ocs:C8614 ;
+        ocs:C8614,
+        ocs:C12111 ;
     skos:prefLabel "Application oriented networking" .
 

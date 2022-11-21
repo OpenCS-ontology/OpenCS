@@ -5,10 +5,12 @@ ocs:C38040 a skos:Concept ;
     skos:broader ocs:C36498 ;
     skos:closeMatch <http://dbpedia.org/resource/Single_address_space_operating_system> ;
     skos:prefLabel "Single address space operating system" ;
-    skos:related ocs:C12683,
+    skos:related ocs:C9,
+        ocs:C2353,
+        ocs:C8901,
+        ocs:C12683,
         ocs:C15595,
         ocs:C15860,
-        ocs:C2353,
         ocs:C23924,
         ocs:C25960,
         ocs:C26097,
@@ -20,7 +22,5 @@ ocs:C38040 a skos:Concept ;
         ocs:C40322,
         ocs:C41159,
         ocs:C41696,
-        ocs:C42695,
-        ocs:C8901,
-        ocs:C9 .
+        ocs:C42695 .
 

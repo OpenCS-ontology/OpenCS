@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10046 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C18,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Kansei_engineering> ;
     skos:prefLabel "Kansei engineering" ;
     skos:related ocs:C9607 .

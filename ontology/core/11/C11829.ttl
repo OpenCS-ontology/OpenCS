@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11829 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Base4> ;
     skos:prefLabel "Base4" ;
-    skos:related ocs:C11293,
+    skos:related ocs:C1496,
+        ocs:C2303,
+        ocs:C2674,
+        ocs:C2929,
+        ocs:C7130,
+        ocs:C9033,
+        ocs:C11293,
         ocs:C11927,
         ocs:C12185,
         ocs:C12810,
-        ocs:C1496,
         ocs:C15478,
         ocs:C16093,
         ocs:C20942,
-        ocs:C2303,
         ocs:C23051,
         ocs:C26102,
-        ocs:C2674,
-        ocs:C2929,
         ocs:C34356,
         ocs:C39679,
-        ocs:C40352,
-        ocs:C7130,
-        ocs:C9033 .
+        ocs:C40352 .
 

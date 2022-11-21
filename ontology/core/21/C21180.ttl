@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21180 a skos:Concept ;
-    skos:broader ocs:C11767,
-        ocs:C2203 ;
+    skos:broader ocs:C2203,
+        ocs:C11767 ;
     skos:prefLabel "Permadyne garant" ;
     skos:related ocs:C2203,
         ocs:C2800 .

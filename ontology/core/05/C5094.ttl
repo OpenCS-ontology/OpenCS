@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5094 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Drill_down> ;
     skos:prefLabel "Drill down" ;
-    skos:related ocs:C11094,
-        ocs:C11410,
-        ocs:C11499,
-        ocs:C12656,
-        ocs:C13,
-        ocs:C197,
+    skos:related ocs:C13,
         ocs:C21,
-        ocs:C22203,
         ocs:C25,
-        ocs:C27130,
-        ocs:C32753,
+        ocs:C197,
+        ocs:C941,
         ocs:C3538,
         ocs:C3696,
         ocs:C3736,
         ocs:C3896,
         ocs:C8410,
         ocs:C8566,
-        ocs:C941,
-        ocs:C9488 .
+        ocs:C9488,
+        ocs:C11094,
+        ocs:C11410,
+        ocs:C11499,
+        ocs:C12656,
+        ocs:C22203,
+        ocs:C27130,
+        ocs:C32753 .
 

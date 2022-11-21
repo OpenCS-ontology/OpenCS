@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11337 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Dataveillance> ;
     skos:prefLabel "Dataveillance" .
 

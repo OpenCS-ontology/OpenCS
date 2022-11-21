@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23609 a skos:Concept ;
-    skos:broader ocs:C13013,
-        ocs:C5293 ;
+    skos:broader ocs:C5293,
+        ocs:C13013 ;
     skos:closeMatch <http://dbpedia.org/resource/Space_rendezvous> ;
     skos:prefLabel "Space rendezvous" ;
-    skos:related ocs:C1628,
-        ocs:C21630,
+    skos:related ocs:C81,
+        ocs:C1628,
         ocs:C2252,
+        ocs:C5293,
+        ocs:C7201,
+        ocs:C21630,
         ocs:C23481,
         ocs:C24462,
         ocs:C28072,
         ocs:C34065,
         ocs:C34426,
-        ocs:C43342,
-        ocs:C5293,
-        ocs:C7201,
-        ocs:C81 .
+        ocs:C43342 .
 

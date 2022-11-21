@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16739 a skos:Concept ;
-    skos:broader ocs:C11927,
-        ocs:C7736 ;
+    skos:broader ocs:C7736,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/XUL> ;
     skos:prefLabel "XUL" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C45,
+        ocs:C355,
+        ocs:C3679,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C5702,
+        ocs:C7736,
+        ocs:C11927,
         ocs:C12477,
         ocs:C17248,
         ocs:C17389,
@@ -18,12 +25,5 @@ ocs:C16739 a skos:Concept ;
         ocs:C30772,
         ocs:C31489,
         ocs:C33709,
-        ocs:C355,
-        ocs:C3679,
-        ocs:C41912,
-        ocs:C45,
-        ocs:C4918,
-        ocs:C5034,
-        ocs:C5702,
-        ocs:C7736 .
+        ocs:C41912 .
 

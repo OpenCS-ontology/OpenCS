@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16883 a skos:Concept ;
-    skos:broader ocs:C10917,
+    skos:broader ocs:C5745,
+        ocs:C7689,
+        ocs:C10917,
         ocs:C12111,
-        ocs:C12373,
-        ocs:C5745,
-        ocs:C7689 ;
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Lindley_equation> ;
     skos:prefLabel "Lindley equation" ;
     skos:related ocs:C12373,

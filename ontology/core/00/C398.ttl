@@ -2,17 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C398 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/CISQ> ;
     skos:prefLabel "CISQ" ;
-    skos:related ocs:C11784,
+    skos:related ocs:C28,
+        ocs:C924,
+        ocs:C3429,
+        ocs:C4768,
+        ocs:C7736,
+        ocs:C11784,
         ocs:C20618,
         ocs:C27500,
-        ocs:C28,
         ocs:C29427,
         ocs:C32978,
-        ocs:C3429,
         ocs:C35399,
         ocs:C37672,
         ocs:C38478,
@@ -21,8 +24,5 @@ ocs:C398 a skos:Concept ;
         ocs:C41314,
         ocs:C42395,
         ocs:C45366,
-        ocs:C45378,
-        ocs:C4768,
-        ocs:C7736,
-        ocs:C924 .
+        ocs:C45378 .
 

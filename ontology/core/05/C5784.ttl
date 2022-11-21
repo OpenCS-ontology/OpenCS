@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5784 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Row_data_gateway> ;
     skos:prefLabel "Row data gateway" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C2533,
+        ocs:C4722,
+        ocs:C5248,
+        ocs:C6399,
+        ocs:C7870,
+        ocs:C8146,
+        ocs:C10182,
         ocs:C10762,
         ocs:C12455,
         ocs:C12584,
-        ocs:C2533,
         ocs:C25508,
         ocs:C31483,
         ocs:C32078,
         ocs:C33621,
         ocs:C34686,
         ocs:C40401,
-        ocs:C44286,
-        ocs:C4722,
-        ocs:C5248,
-        ocs:C6399,
-        ocs:C7870,
-        ocs:C8146 .
+        ocs:C44286 .
 

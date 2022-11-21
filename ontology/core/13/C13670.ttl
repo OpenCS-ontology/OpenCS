@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13670 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C13,
+        ocs:C35 ;
     skos:prefLabel "Threat intelligence" .
 

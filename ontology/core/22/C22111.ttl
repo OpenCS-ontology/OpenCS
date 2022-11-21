@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22111 a skos:Concept ;
-    skos:broader ocs:C12690,
-        ocs:C8704 ;
+    skos:broader ocs:C8704,
+        ocs:C12690 ;
     skos:closeMatch <http://dbpedia.org/resource/Mixed_criticality> ;
     skos:prefLabel "Mixed criticality" ;
-    skos:related ocs:C16709,
+    skos:related ocs:C33,
+        ocs:C3362,
+        ocs:C5246,
+        ocs:C5912,
+        ocs:C9745,
+        ocs:C16709,
         ocs:C17393,
         ocs:C24844,
         ocs:C27664,
-        ocs:C33,
-        ocs:C3362,
         ocs:C37920,
         ocs:C38363,
-        ocs:C44988,
-        ocs:C5246,
-        ocs:C5912,
-        ocs:C9745 .
+        ocs:C44988 .
 

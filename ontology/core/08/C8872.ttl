@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8872 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C17,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/CAMEL_Application_Part> ;
     skos:prefLabel "CAMEL Application Part" ;
-    skos:related ocs:C21976,
+    skos:related ocs:C3933,
+        ocs:C5917,
+        ocs:C6821,
+        ocs:C6987,
+        ocs:C8087,
+        ocs:C9154,
+        ocs:C21976,
         ocs:C27704,
         ocs:C28470,
         ocs:C28758,
         ocs:C31755,
         ocs:C34908,
-        ocs:C3933,
         ocs:C41910,
         ocs:C44506,
-        ocs:C44880,
-        ocs:C5917,
-        ocs:C6821,
-        ocs:C6987,
-        ocs:C8087,
-        ocs:C9154 .
+        ocs:C44880 .
 

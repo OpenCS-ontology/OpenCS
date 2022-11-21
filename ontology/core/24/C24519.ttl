@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24519 a skos:Concept ;
-    skos:broader ocs:C2703,
-        ocs:C3452,
-        ocs:C425 ;
+    skos:broader ocs:C425,
+        ocs:C2703,
+        ocs:C3452 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_archaeology> ;
     skos:prefLabel "Virtual archaeology" .
 

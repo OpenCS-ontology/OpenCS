@@ -5,7 +5,10 @@ ocs:C30955 a skos:Concept ;
     skos:broader ocs:C14623 ;
     skos:closeMatch <http://dbpedia.org/resource/CPU_modes> ;
     skos:prefLabel "CPU modes" ;
-    skos:related ocs:C12323,
+    skos:related ocs:C9,
+        ocs:C5698,
+        ocs:C9433,
+        ocs:C12323,
         ocs:C12683,
         ocs:C14271,
         ocs:C15595,
@@ -19,8 +22,5 @@ ocs:C30955 a skos:Concept ;
         ocs:C31489,
         ocs:C36897,
         ocs:C38819,
-        ocs:C41159,
-        ocs:C5698,
-        ocs:C9,
-        ocs:C9433 .
+        ocs:C41159 .
 

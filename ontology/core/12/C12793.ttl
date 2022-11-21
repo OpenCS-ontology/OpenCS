@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12793 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:prefLabel "Partial match" .
 

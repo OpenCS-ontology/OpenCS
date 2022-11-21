@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6558 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C28,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C28 ;
     skos:prefLabel "Building agent" ;
-    skos:related ocs:C11668,
-        ocs:C12304,
-        ocs:C12579,
-        ocs:C1443,
-        ocs:C25,
+    skos:related ocs:C25,
         ocs:C30,
+        ocs:C1443,
         ocs:C4209,
-        ocs:C5855 .
+        ocs:C5855,
+        ocs:C11668,
+        ocs:C12304,
+        ocs:C12579 .
 

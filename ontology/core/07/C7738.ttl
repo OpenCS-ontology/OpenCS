@@ -2,12 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7738 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Login> ;
     skos:prefLabel "Login" ;
-    skos:related ocs:C1253,
+    skos:related ocs:C9,
+        ocs:C35,
+        ocs:C816,
+        ocs:C1253,
+        ocs:C4513,
+        ocs:C5112,
+        ocs:C7006,
+        ocs:C7736,
+        ocs:C8614,
+        ocs:C8711,
         ocs:C14271,
         ocs:C14731,
         ocs:C16338,
@@ -17,14 +26,5 @@ ocs:C7738 a skos:Concept ;
         ocs:C30078,
         ocs:C30860,
         ocs:C31489,
-        ocs:C35,
-        ocs:C36171,
-        ocs:C4513,
-        ocs:C5112,
-        ocs:C7006,
-        ocs:C7736,
-        ocs:C816,
-        ocs:C8614,
-        ocs:C8711,
-        ocs:C9 .
+        ocs:C36171 .
 

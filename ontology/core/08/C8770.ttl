@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8770 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Reference_desk> ;
     skos:prefLabel "Reference desk" ;
-    skos:related ocs:C10413,
-        ocs:C11492,
-        ocs:C25354,
-        ocs:C26424,
-        ocs:C26604,
-        ocs:C28715,
+    skos:related ocs:C4,
+        ocs:C6,
         ocs:C3119,
         ocs:C3214,
-        ocs:C4,
         ocs:C4765,
         ocs:C4934,
         ocs:C5832,
         ocs:C5877,
         ocs:C5984,
-        ocs:C6,
         ocs:C6726,
         ocs:C7849,
         ocs:C8812,
-        ocs:C9214 .
+        ocs:C9214,
+        ocs:C10413,
+        ocs:C11492,
+        ocs:C25354,
+        ocs:C26424,
+        ocs:C26604,
+        ocs:C28715 .
 

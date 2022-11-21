@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13942 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C260,
+    skos:broader ocs:C260,
         ocs:C5298,
-        ocs:C7471 ;
+        ocs:C7471,
+        ocs:C10222 ;
     skos:prefLabel "Autoregressive parameter estimation" .
 

@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2401 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Single_version_of_the_truth> ;
     skos:prefLabel "Single version of the truth" ;
-    skos:related ocs:C12694,
+    skos:related ocs:C3129,
+        ocs:C12694,
         ocs:C14153,
         ocs:C17905,
         ocs:C20927,
         ocs:C28349,
-        ocs:C3129,
         ocs:C35463,
         ocs:C38021,
         ocs:C38452,

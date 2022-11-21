@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25273 a skos:Concept ;
-    skos:broader ocs:C10396,
-        ocs:C7848 ;
+    skos:broader ocs:C7848,
+        ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/Inverse_kinematics> ;
     skos:prefLabel "Inverse kinematics" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C622,
+        ocs:C7848,
+        ocs:C10396,
         ocs:C15029,
         ocs:C15416,
         ocs:C17236,
@@ -20,7 +22,5 @@ ocs:C25273 a skos:Concept ;
         ocs:C38850,
         ocs:C41360,
         ocs:C44167,
-        ocs:C44424,
-        ocs:C622,
-        ocs:C7848 .
+        ocs:C44424 .
 

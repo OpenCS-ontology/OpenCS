@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C180 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Speedcoding> ;
     skos:prefLabel "Speedcoding" ;
-    skos:related ocs:C12003,
-        ocs:C12277,
-        ocs:C13045,
-        ocs:C13101,
-        ocs:C17204,
-        ocs:C19,
-        ocs:C19720,
-        ocs:C21718,
+    skos:related ocs:C19,
         ocs:C2207,
-        ocs:C23909,
-        ocs:C24200,
-        ocs:C31284,
-        ocs:C39214,
         ocs:C4321,
-        ocs:C45210,
         ocs:C5425,
         ocs:C6024,
         ocs:C6072,
         ocs:C6280,
-        ocs:C6714 .
+        ocs:C6714,
+        ocs:C12003,
+        ocs:C12277,
+        ocs:C13045,
+        ocs:C13101,
+        ocs:C17204,
+        ocs:C19720,
+        ocs:C21718,
+        ocs:C23909,
+        ocs:C24200,
+        ocs:C31284,
+        ocs:C39214,
+        ocs:C45210 .
 

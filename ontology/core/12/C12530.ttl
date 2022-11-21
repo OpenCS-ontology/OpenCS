@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12530 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Ant_colony_optimization_algorithms> ;
     skos:prefLabel "Ant colony optimization algorithms" ;
     skos:related ocs:C10,
+        ocs:C3837,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C5823,
+        ocs:C7553,
+        ocs:C9022,
         ocs:C10390,
         ocs:C11372,
         ocs:C13208,
@@ -17,11 +23,5 @@ ocs:C12530 a skos:Concept ;
         ocs:C27563,
         ocs:C29055,
         ocs:C36442,
-        ocs:C36684,
-        ocs:C3837,
-        ocs:C5197,
-        ocs:C5704,
-        ocs:C5823,
-        ocs:C7553,
-        ocs:C9022 .
+        ocs:C36684 .
 

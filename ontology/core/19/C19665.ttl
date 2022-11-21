@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19665 a skos:Concept ;
-    skos:broader ocs:C10516,
-        ocs:C2298 ;
+    skos:broader ocs:C2298,
+        ocs:C10516 ;
     skos:closeMatch <http://dbpedia.org/resource/Persian_grammar> ;
     skos:prefLabel "Persian grammar" ;
     skos:related ocs:C10516,

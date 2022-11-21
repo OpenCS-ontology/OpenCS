@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23291 a skos:Concept ;
-    skos:broader ocs:C10921,
-        ocs:C6777 ;
+    skos:broader ocs:C6777,
+        ocs:C10921 ;
     skos:closeMatch <http://dbpedia.org/resource/Network_emulation> ;
     skos:prefLabel "Network emulation" ;
-    skos:related ocs:C10921,
-        ocs:C11027,
-        ocs:C1253,
-        ocs:C13307,
+    skos:related ocs:C24,
+        ocs:C26,
         ocs:C139,
+        ocs:C1253,
+        ocs:C6667,
+        ocs:C8172,
+        ocs:C9480,
+        ocs:C10921,
+        ocs:C11027,
+        ocs:C13307,
         ocs:C21769,
-        ocs:C24,
         ocs:C24323,
         ocs:C24469,
         ocs:C24870,
         ocs:C25133,
-        ocs:C26,
         ocs:C28021,
         ocs:C35659,
         ocs:C36010,
         ocs:C43139,
-        ocs:C44104,
-        ocs:C6667,
-        ocs:C8172,
-        ocs:C9480 .
+        ocs:C44104 .
 

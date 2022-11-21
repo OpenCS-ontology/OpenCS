@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15613 a skos:Concept ;
-    skos:broader ocs:C10566,
-        ocs:C3337 ;
+    skos:broader ocs:C3337,
+        ocs:C10566 ;
     skos:closeMatch <http://dbpedia.org/resource/Facial_Action_Coding_System> ;
     skos:prefLabel "Facial Action Coding System" ;
     skos:related ocs:C10566,

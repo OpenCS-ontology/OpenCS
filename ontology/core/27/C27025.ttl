@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27025 a skos:Concept ;
-    skos:broader ocs:C12323,
-        ocs:C5147,
-        ocs:C9262 ;
+    skos:broader ocs:C5147,
+        ocs:C9262,
+        ocs:C12323 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_8086_mode> ;
     skos:prefLabel "Virtual 8086 mode" ;
-    skos:related ocs:C10568,
-        ocs:C12323,
+    skos:related ocs:C9,
         ocs:C1251,
+        ocs:C5147,
+        ocs:C6542,
+        ocs:C9433,
+        ocs:C10568,
+        ocs:C12323,
         ocs:C19481,
         ocs:C19487,
         ocs:C22508,
@@ -21,9 +25,5 @@ ocs:C27025 a skos:Concept ;
         ocs:C37847,
         ocs:C38819,
         ocs:C39896,
-        ocs:C44667,
-        ocs:C5147,
-        ocs:C6542,
-        ocs:C9,
-        ocs:C9433 .
+        ocs:C44667 .
 

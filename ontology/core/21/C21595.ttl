@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21595 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C7877 ;
+    skos:broader ocs:C7877,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_network_operator> ;
     skos:prefLabel "Mobile network operator" ;
-    skos:related ocs:C12853,
+    skos:related ocs:C3,
+        ocs:C3236,
+        ocs:C5672,
+        ocs:C5917,
+        ocs:C7877,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12853,
         ocs:C18799,
         ocs:C19350,
         ocs:C22407,
@@ -14,14 +22,6 @@ ocs:C21595 a skos:Concept ;
         ocs:C27633,
         ocs:C27704,
         ocs:C29023,
-        ocs:C3,
-        ocs:C3236,
         ocs:C35370,
-        ocs:C35692,
-        ocs:C5672,
-        ocs:C5917,
-        ocs:C7877,
-        ocs:C8614,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C35692 .
 

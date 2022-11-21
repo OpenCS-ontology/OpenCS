@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24659 a skos:Concept ;
-    skos:broader ocs:C10233,
-        ocs:C6316 ;
+    skos:broader ocs:C6316,
+        ocs:C10233 ;
     skos:closeMatch <http://dbpedia.org/resource/Bank_statement> ;
     skos:prefLabel "Bank statement" ;
     skos:related ocs:C12752,

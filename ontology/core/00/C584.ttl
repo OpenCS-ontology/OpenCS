@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C584 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Document URL" ;
-    skos:related ocs:C23,
-        ocs:C40290,
-        ocs:C6,
-        ocs:C8790 .
+    skos:related ocs:C6,
+        ocs:C23,
+        ocs:C8790,
+        ocs:C40290 .
 

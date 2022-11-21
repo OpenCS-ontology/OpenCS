@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28580 a skos:Concept ;
-    skos:broader ocs:C11813,
-        ocs:C5775 ;
+    skos:broader ocs:C5775,
+        ocs:C11813 ;
     skos:closeMatch <http://dbpedia.org/resource/Linear-on-the-fly_testing> ;
     skos:prefLabel "Linear-on-the-fly testing" ;
-    skos:related ocs:C14220,
+    skos:related ocs:C5775,
+        ocs:C14220,
         ocs:C15458,
-        ocs:C17153,
-        ocs:C5775 .
+        ocs:C17153 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9715 a skos:Concept ;
-    skos:broader ocs:C32,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/IGlue> ;
     skos:prefLabel "iGlue" ;
-    skos:related ocs:C22361,
+    skos:related ocs:C3736,
+        ocs:C3854,
+        ocs:C7568,
+        ocs:C22361,
         ocs:C26351,
         ocs:C27391,
         ocs:C33529,
         ocs:C35570,
         ocs:C36535,
         ocs:C37051,
-        ocs:C3736,
         ocs:C37838,
         ocs:C38026,
-        ocs:C3854,
         ocs:C40981,
         ocs:C41190,
         ocs:C41864,
-        ocs:C42976,
-        ocs:C7568 .
+        ocs:C42976 .
 

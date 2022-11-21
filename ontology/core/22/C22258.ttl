@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22258 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C6692 ;
+    skos:broader ocs:C6692,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Bayes_estimator> ;
     skos:prefLabel "Bayes estimator" ;
     skos:related ocs:C10222,

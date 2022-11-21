@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3998 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Bare_machine> ;
     skos:prefLabel "Bare machine" ;
-    skos:related ocs:C10320,
-        ocs:C10400,
-        ocs:C10568,
+    skos:related ocs:C9,
         ocs:C11,
         ocs:C1386,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C10320,
+        ocs:C10400,
+        ocs:C10568,
         ocs:C17204,
         ocs:C20800,
         ocs:C24967,
@@ -21,8 +24,5 @@ ocs:C3998 a skos:Concept ;
         ocs:C34195,
         ocs:C36897,
         ocs:C43492,
-        ocs:C44344,
-        ocs:C5698,
-        ocs:C6072,
-        ocs:C9 .
+        ocs:C44344 .
 

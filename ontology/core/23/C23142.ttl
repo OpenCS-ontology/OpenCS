@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23142 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C10135 ;
     skos:closeMatch <http://dbpedia.org/resource/Stream_gradient> ;
     skos:prefLabel "Stream gradient" ;
-    skos:related ocs:C14117,
+    skos:related ocs:C5708,
+        ocs:C14117,
         ocs:C19813,
         ocs:C20613,
         ocs:C22221,
-        ocs:C22625,
-        ocs:C5708 .
+        ocs:C22625 .
 

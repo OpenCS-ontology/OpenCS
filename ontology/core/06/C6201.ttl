@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6201 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/TV-out> ;
     skos:prefLabel "TV-out" ;
-    skos:related ocs:C13851,
-        ocs:C13973,
+    skos:related ocs:C521,
         ocs:C1724,
-        ocs:C21424,
-        ocs:C29048,
-        ocs:C34890,
         ocs:C4259,
-        ocs:C521,
         ocs:C6403,
         ocs:C8718,
-        ocs:C8959 .
+        ocs:C8959,
+        ocs:C13851,
+        ocs:C13973,
+        ocs:C21424,
+        ocs:C29048,
+        ocs:C34890 .
 

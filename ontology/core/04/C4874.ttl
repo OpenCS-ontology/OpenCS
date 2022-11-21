@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4874 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Tier_2_network> ;
     skos:prefLabel "Tier 2 network" ;
-    skos:related ocs:C10858,
+    skos:related ocs:C849,
+        ocs:C8614,
+        ocs:C10858,
         ocs:C16465,
         ocs:C17864,
         ocs:C18213,
@@ -22,7 +24,5 @@ ocs:C4874 a skos:Concept ;
         ocs:C41442,
         ocs:C42853,
         ocs:C44229,
-        ocs:C45851,
-        ocs:C849,
-        ocs:C8614 .
+        ocs:C45851 .
 

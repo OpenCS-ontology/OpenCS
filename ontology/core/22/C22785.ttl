@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22785 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C2250 ;
+    skos:broader ocs:C2250,
+        ocs:C10222 ;
     skos:closeMatch <http://dbpedia.org/resource/Restricted_maximum_likelihood> ;
     skos:prefLabel "Restricted maximum likelihood" ;
-    skos:related ocs:C14030,
+    skos:related ocs:C7908,
+        ocs:C8694,
+        ocs:C14030,
         ocs:C16913,
         ocs:C21710,
         ocs:C30859,
-        ocs:C31024,
-        ocs:C7908,
-        ocs:C8694 .
+        ocs:C31024 .
 

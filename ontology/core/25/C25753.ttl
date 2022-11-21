@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25753 a skos:Concept ;
-    skos:broader ocs:C12673,
-        ocs:C670,
-        ocs:C8888 ;
+    skos:broader ocs:C670,
+        ocs:C8888,
+        ocs:C12673 ;
     skos:closeMatch <http://dbpedia.org/resource/Airspeed_indicator> ;
     skos:prefLabel "Airspeed indicator" ;
-    skos:related ocs:C13683,
+    skos:related ocs:C8888,
+        ocs:C13683,
         ocs:C15071,
         ocs:C18521,
         ocs:C22629,
@@ -16,6 +17,5 @@ ocs:C25753 a skos:Concept ;
         ocs:C32744,
         ocs:C36804,
         ocs:C37071,
-        ocs:C41539,
-        ocs:C8888 .
+        ocs:C41539 .
 

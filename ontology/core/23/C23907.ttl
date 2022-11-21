@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23907 a skos:Concept ;
-    skos:broader ocs:C13320,
-        ocs:C2800 ;
+    skos:broader ocs:C2800,
+        ocs:C13320 ;
     skos:closeMatch <http://dbpedia.org/resource/Google_Cardboard> ;
     skos:prefLabel "Google Cardboard" ;
-    skos:related ocs:C1042,
+    skos:related ocs:C7,
+        ocs:C445,
+        ocs:C1042,
+        ocs:C2248,
+        ocs:C2883,
+        ocs:C4918,
+        ocs:C9603,
         ocs:C12698,
         ocs:C13320,
         ocs:C14701,
         ocs:C14925,
         ocs:C15986,
         ocs:C22076,
-        ocs:C2248,
-        ocs:C2883,
         ocs:C30149,
         ocs:C31811,
         ocs:C42202,
-        ocs:C445,
-        ocs:C44996,
-        ocs:C4918,
-        ocs:C7,
-        ocs:C9603 .
+        ocs:C44996 .
 

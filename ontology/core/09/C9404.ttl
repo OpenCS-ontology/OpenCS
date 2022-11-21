@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9404 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Full_text_search> ;
     skos:prefLabel "Text searching" ;
     skos:related ocs:C16,
-        ocs:C16676,
         ocs:C17,
         ocs:C21,
         ocs:C30,
-        ocs:C31280,
-        ocs:C318,
         ocs:C34,
+        ocs:C318,
         ocs:C4595,
         ocs:C6764,
         ocs:C6915,
         ocs:C8614,
-        ocs:C8753 .
+        ocs:C8753,
+        ocs:C16676,
+        ocs:C31280 .
 

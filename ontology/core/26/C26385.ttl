@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26385 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C7159 ;
+    skos:broader ocs:C7159,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Broadcast_transmitter> ;
     skos:prefLabel "Broadcast transmitter" ;
-    skos:related ocs:C1219,
+    skos:related ocs:C793,
+        ocs:C1219,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C7874,
+        ocs:C8388,
         ocs:C15505,
         ocs:C17926,
         ocs:C19810,
         ocs:C21441,
         ocs:C21604,
         ocs:C33374,
-        ocs:C37939,
-        ocs:C7159,
-        ocs:C7216,
-        ocs:C7874,
-        ocs:C793,
-        ocs:C8388 .
+        ocs:C37939 .
 

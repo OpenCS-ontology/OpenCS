@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22345 a skos:Concept ;
-    skos:broader ocs:C1444,
+    skos:broader ocs:C77,
+        ocs:C1444,
         ocs:C5856,
         ocs:C6174,
         ocs:C7040,
-        ocs:C77,
         ocs:C8366 ;
     skos:prefLabel "Connected word recognition" .
 

@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11772 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Pitch_correction> ;
     skos:prefLabel "Pitch correction" ;
-    skos:related ocs:C10728,
+    skos:related ocs:C520,
+        ocs:C5492,
+        ocs:C5790,
+        ocs:C6417,
+        ocs:C8718,
+        ocs:C10728,
         ocs:C11254,
         ocs:C21364,
         ocs:C23307,
         ocs:C39249,
-        ocs:C42394,
-        ocs:C520,
-        ocs:C5492,
-        ocs:C5790,
-        ocs:C6417,
-        ocs:C8718 .
+        ocs:C42394 .
 

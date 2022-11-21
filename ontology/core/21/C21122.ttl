@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21122 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C1142 ;
+    skos:broader ocs:C1142,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/Access_modifiers> ;
     skos:prefLabel "Access modifiers" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C2879,
+        ocs:C4321,
+        ocs:C4922,
+        ocs:C7116,
+        ocs:C8193,
+        ocs:C8616,
+        ocs:C10182,
         ocs:C10332,
         ocs:C10720,
         ocs:C13411,
@@ -14,15 +20,9 @@ ocs:C21122 a skos:Concept ;
         ocs:C17734,
         ocs:C22630,
         ocs:C23470,
-        ocs:C2879,
         ocs:C31014,
         ocs:C35141,
         ocs:C38027,
         ocs:C39497,
-        ocs:C42032,
-        ocs:C4321,
-        ocs:C4922,
-        ocs:C7116,
-        ocs:C8193,
-        ocs:C8616 .
+        ocs:C42032 .
 

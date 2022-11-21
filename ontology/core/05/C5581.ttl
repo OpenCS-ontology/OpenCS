@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5581 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/PL/Perl> ;
     skos:prefLabel "PL/Perl" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C3398,
+        ocs:C4472,
+        ocs:C6917,
+        ocs:C10284,
         ocs:C10444,
         ocs:C10577,
         ocs:C10720,
@@ -16,10 +19,7 @@ ocs:C5581 a skos:Concept ;
         ocs:C20378,
         ocs:C23909,
         ocs:C31724,
-        ocs:C3398,
         ocs:C34066,
         ocs:C36084,
-        ocs:C4472,
-        ocs:C45138,
-        ocs:C6917 .
+        ocs:C45138 .
 

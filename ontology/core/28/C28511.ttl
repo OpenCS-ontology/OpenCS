@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28511 a skos:Concept ;
-    skos:broader ocs:C12270,
-        ocs:C2298 ;
+    skos:broader ocs:C2298,
+        ocs:C12270 ;
     skos:closeMatch <http://dbpedia.org/resource/Lithuanian_grammar> ;
     skos:prefLabel "Lithuanian grammar" ;
     skos:related ocs:C10570,

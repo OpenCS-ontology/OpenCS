@@ -5,7 +5,9 @@ ocs:C6452 a skos:Concept ;
     skos:broader ocs:C3 ;
     skos:closeMatch <http://dbpedia.org/resource/Lexicographic_code> ;
     skos:prefLabel "Lexicographic code" ;
-    skos:related ocs:C15232,
+    skos:related ocs:C6402,
+        ocs:C7856,
+        ocs:C15232,
         ocs:C16106,
         ocs:C18626,
         ocs:C19877,
@@ -21,7 +23,5 @@ ocs:C6452 a skos:Concept ;
         ocs:C42033,
         ocs:C42255,
         ocs:C43745,
-        ocs:C44441,
-        ocs:C6402,
-        ocs:C7856 .
+        ocs:C44441 .
 

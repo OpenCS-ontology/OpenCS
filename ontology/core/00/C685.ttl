@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C685 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Turing_test> ;
     skos:prefLabel "Turing test" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C25,
+        ocs:C32,
+        ocs:C311,
+        ocs:C3848,
+        ocs:C8965,
+        ocs:C9996,
         ocs:C11381,
         ocs:C11874,
         ocs:C16092,
         ocs:C17236,
-        ocs:C25,
-        ocs:C311,
-        ocs:C32,
         ocs:C32620,
-        ocs:C3848,
         ocs:C43845,
-        ocs:C44765,
-        ocs:C8,
-        ocs:C8965,
-        ocs:C9996 .
+        ocs:C44765 .
 

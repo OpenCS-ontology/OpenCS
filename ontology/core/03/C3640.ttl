@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3640 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Whitespace_(programming_language)> ;
     skos:prefLabel "Whitespace" ;
-    skos:related ocs:C10284,
-        ocs:C11128,
-        ocs:C17204,
+    skos:related ocs:C19,
+        ocs:C932,
         ocs:C1860,
-        ocs:C19,
-        ocs:C30078,
-        ocs:C33918,
         ocs:C3635,
         ocs:C3685,
         ocs:C4918,
         ocs:C6411,
         ocs:C6525,
         ocs:C9162,
-        ocs:C932,
-        ocs:C9833 .
+        ocs:C9833,
+        ocs:C10284,
+        ocs:C11128,
+        ocs:C17204,
+        ocs:C30078,
+        ocs:C33918 .
 

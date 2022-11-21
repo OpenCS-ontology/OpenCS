@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14473 a skos:Concept ;
-    skos:broader ocs:C5854,
-        ocs:C695 ;
+    skos:broader ocs:C695,
+        ocs:C5854 ;
     skos:closeMatch <http://dbpedia.org/resource/Foveated_imaging> ;
     skos:prefLabel "Foveated imaging" ;
-    skos:related ocs:C1023,
+    skos:related ocs:C78,
+        ocs:C1023,
         ocs:C10740,
         ocs:C11402,
-        ocs:C21618,
-        ocs:C78 .
+        ocs:C21618 .
 

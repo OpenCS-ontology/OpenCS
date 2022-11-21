@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13705 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Facebook_Query_Language> ;
     skos:prefLabel "Facebook Query Language" ;
-    skos:related ocs:C14487,
-        ocs:C17103,
-        ocs:C2024,
-        ocs:C23139,
+    skos:related ocs:C6,
         ocs:C264,
+        ocs:C2024,
+        ocs:C4921,
+        ocs:C14487,
+        ocs:C17103,
+        ocs:C23139,
         ocs:C28963,
         ocs:C33281,
         ocs:C33916,
         ocs:C36924,
-        ocs:C45138,
-        ocs:C4921,
-        ocs:C6 .
+        ocs:C45138 .
 

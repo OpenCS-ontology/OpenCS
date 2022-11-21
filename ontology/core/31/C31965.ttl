@@ -5,7 +5,10 @@ ocs:C31965 a skos:Concept ;
     skos:broader ocs:C20999 ;
     skos:closeMatch <http://dbpedia.org/resource/Open_Firmware> ;
     skos:prefLabel "Open Firmware" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C6172,
+        ocs:C6223,
+        ocs:C10320,
         ocs:C10400,
         ocs:C10568,
         ocs:C14271,
@@ -17,8 +20,5 @@ ocs:C31965 a skos:Concept ;
         ocs:C22742,
         ocs:C24871,
         ocs:C25252,
-        ocs:C31489,
-        ocs:C6172,
-        ocs:C6223,
-        ocs:C9 .
+        ocs:C31489 .
 

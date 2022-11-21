@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C115 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Crt0> ;
     skos:prefLabel "crt0" ;
-    skos:related ocs:C11547,
+    skos:related ocs:C9,
+        ocs:C4321,
+        ocs:C5337,
+        ocs:C5962,
+        ocs:C6072,
+        ocs:C6887,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C11547,
         ocs:C11991,
         ocs:C14990,
         ocs:C15309,
@@ -15,13 +23,5 @@ ocs:C115 a skos:Concept ;
         ocs:C25185,
         ocs:C27898,
         ocs:C29426,
-        ocs:C39282,
-        ocs:C4321,
-        ocs:C5337,
-        ocs:C5962,
-        ocs:C6072,
-        ocs:C6887,
-        ocs:C7800,
-        ocs:C8242,
-        ocs:C9 .
+        ocs:C39282 .
 

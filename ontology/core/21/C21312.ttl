@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21312 a skos:Concept ;
-    skos:broader ocs:C11988,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C11988 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_channel> ;
     skos:prefLabel "Virtual channel" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C4772,
+        ocs:C7216,
+        ocs:C8388,
+        ocs:C8900,
+        ocs:C12544,
         ocs:C19366,
         ocs:C21604,
         ocs:C21749,
@@ -19,9 +23,5 @@ ocs:C21312 a skos:Concept ;
         ocs:C34890,
         ocs:C36807,
         ocs:C37687,
-        ocs:C40199,
-        ocs:C4772,
-        ocs:C7216,
-        ocs:C8388,
-        ocs:C8900 .
+        ocs:C40199 .
 

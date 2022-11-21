@@ -5,7 +5,10 @@ ocs:C23816 a skos:Concept ;
     skos:broader ocs:C7858 ;
     skos:closeMatch <http://dbpedia.org/resource/Auslan> ;
     skos:prefLabel "Australian Sign Language" ;
-    skos:related ocs:C15973,
+    skos:related ocs:C7501,
+        ocs:C7858,
+        ocs:C9106,
+        ocs:C15973,
         ocs:C16631,
         ocs:C19175,
         ocs:C20933,
@@ -15,8 +18,5 @@ ocs:C23816 a skos:Concept ;
         ocs:C27530,
         ocs:C30694,
         ocs:C34292,
-        ocs:C35636,
-        ocs:C7501,
-        ocs:C7858,
-        ocs:C9106 .
+        ocs:C35636 .
 

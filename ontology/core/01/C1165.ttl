@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1165 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/POSIX> ;
     skos:prefLabel "POSIX" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C9,
+        ocs:C2674,
+        ocs:C5702,
+        ocs:C6714,
+        ocs:C7476,
+        ocs:C10284,
         ocs:C12683,
         ocs:C14271,
         ocs:C14627,
@@ -15,16 +20,11 @@ ocs:C1165 a skos:Concept ;
         ocs:C16601,
         ocs:C20800,
         ocs:C24871,
-        ocs:C2674,
         ocs:C28881,
         ocs:C30078,
         ocs:C30860,
         ocs:C31489,
         ocs:C41115,
         ocs:C42619,
-        ocs:C43822,
-        ocs:C5702,
-        ocs:C6714,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C43822 .
 

@@ -5,7 +5,9 @@ ocs:C35801 a skos:Concept ;
     skos:broader ocs:C20205 ;
     skos:closeMatch <http://dbpedia.org/resource/Round-robin_DNS> ;
     skos:prefLabel "Round-robin DNS" ;
-    skos:related ocs:C12812,
+    skos:related ocs:C4663,
+        ocs:C8614,
+        ocs:C12812,
         ocs:C14321,
         ocs:C14586,
         ocs:C17609,
@@ -19,7 +21,5 @@ ocs:C35801 a skos:Concept ;
         ocs:C37824,
         ocs:C41967,
         ocs:C42086,
-        ocs:C42100,
-        ocs:C4663,
-        ocs:C8614 .
+        ocs:C42100 .
 

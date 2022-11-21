@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12280 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Halt_and_Catch_Fire> ;
     skos:prefLabel "Halt and Catch Fire" ;
-    skos:related ocs:C10053,
+    skos:related ocs:C9,
+        ocs:C4863,
+        ocs:C6280,
+        ocs:C7800,
+        ocs:C9262,
+        ocs:C10053,
         ocs:C10320,
         ocs:C14162,
         ocs:C17204,
@@ -16,10 +21,5 @@ ocs:C12280 a skos:Concept ;
         ocs:C35009,
         ocs:C37461,
         ocs:C37538,
-        ocs:C42690,
-        ocs:C4863,
-        ocs:C6280,
-        ocs:C7800,
-        ocs:C9,
-        ocs:C9262 .
+        ocs:C42690 .
 

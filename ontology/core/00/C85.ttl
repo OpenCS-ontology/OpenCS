@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C85 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobility_model> ;
     skos:prefLabel "Mobility model" ;
-    skos:related ocs:C10921,
+    skos:related ocs:C3,
+        ocs:C634,
+        ocs:C4099,
+        ocs:C6987,
+        ocs:C10921,
         ocs:C11027,
         ocs:C11328,
         ocs:C12373,
@@ -16,15 +20,11 @@ ocs:C85 a skos:Concept ;
         ocs:C21769,
         ocs:C23291,
         ocs:C26274,
-        ocs:C3,
         ocs:C30037,
         ocs:C31755,
         ocs:C33674,
         ocs:C34627,
         ocs:C36010,
         ocs:C40671,
-        ocs:C4099,
-        ocs:C43977,
-        ocs:C634,
-        ocs:C6987 .
+        ocs:C43977 .
 

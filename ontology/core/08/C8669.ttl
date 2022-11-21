@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8669 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Recordset> ;
     skos:prefLabel "Recordset" ;
-    skos:related ocs:C14025,
+    skos:related ocs:C6,
+        ocs:C3123,
+        ocs:C4028,
+        ocs:C7116,
+        ocs:C7215,
+        ocs:C7286,
+        ocs:C8170,
+        ocs:C14025,
         ocs:C14632,
         ocs:C15482,
         ocs:C16901,
@@ -15,15 +22,8 @@ ocs:C8669 a skos:Concept ;
         ocs:C20517,
         ocs:C27528,
         ocs:C30886,
-        ocs:C3123,
         ocs:C33457,
         ocs:C39247,
-        ocs:C4028,
         ocs:C41252,
-        ocs:C41302,
-        ocs:C6,
-        ocs:C7116,
-        ocs:C7215,
-        ocs:C7286,
-        ocs:C8170 .
+        ocs:C41302 .
 

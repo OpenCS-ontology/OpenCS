@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2127 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Orientation_sensing> ;
     skos:prefLabel "Orientation sensing" ;
     skos:related ocs:C1255,
-        ocs:C13320,
-        ocs:C15986,
-        ocs:C17927,
-        ocs:C27560,
-        ocs:C34513,
-        ocs:C35237,
-        ocs:C35370,
         ocs:C5137,
         ocs:C6069,
         ocs:C6942,
         ocs:C7106,
         ocs:C7850,
         ocs:C9242,
-        ocs:C9990 .
+        ocs:C9990,
+        ocs:C13320,
+        ocs:C15986,
+        ocs:C17927,
+        ocs:C27560,
+        ocs:C34513,
+        ocs:C35237,
+        ocs:C35370 .
 

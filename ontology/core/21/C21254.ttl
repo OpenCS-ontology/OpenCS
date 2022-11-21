@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21254 a skos:Concept ;
-    skos:broader ocs:C12579,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C12579 ;
     skos:closeMatch <http://dbpedia.org/resource/3APL> ;
     skos:prefLabel "3APL" ;
-    skos:related ocs:C11635,
-        ocs:C12304,
+    skos:related ocs:C19,
+        ocs:C852,
         ocs:C1253,
-        ocs:C17884,
-        ocs:C19,
-        ocs:C19458,
-        ocs:C25460,
         ocs:C3036,
-        ocs:C33186,
-        ocs:C33531,
-        ocs:C37586,
         ocs:C3894,
-        ocs:C41006,
         ocs:C5280,
         ocs:C5776,
         ocs:C5933,
         ocs:C6531,
-        ocs:C852 .
+        ocs:C11635,
+        ocs:C12304,
+        ocs:C17884,
+        ocs:C19458,
+        ocs:C25460,
+        ocs:C33186,
+        ocs:C33531,
+        ocs:C37586,
+        ocs:C41006 .
 

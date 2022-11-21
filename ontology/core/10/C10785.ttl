@@ -2,16 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10785 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Disk_storage> ;
     skos:prefLabel "Disk storage" ;
-    skos:related ocs:C10320,
-        ocs:C10501,
-        ocs:C11960,
-        ocs:C13783,
-        ocs:C28881,
+    skos:related ocs:C9,
         ocs:C3231,
         ocs:C3915,
         ocs:C4259,
@@ -20,5 +16,9 @@ ocs:C10785 a skos:Concept ;
         ocs:C6588,
         ocs:C7255,
         ocs:C7476,
-        ocs:C9 .
+        ocs:C10320,
+        ocs:C10501,
+        ocs:C11960,
+        ocs:C13783,
+        ocs:C28881 .
 

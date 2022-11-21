@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16487 a skos:Concept ;
-    skos:broader ocs:C11089,
-        ocs:C7040 ;
+    skos:broader ocs:C7040,
+        ocs:C11089 ;
     skos:closeMatch <http://dbpedia.org/resource/Vocabulary_mismatch> ;
     skos:prefLabel "Vocabulary mismatch" ;
-    skos:related ocs:C11089,
+    skos:related ocs:C23,
+        ocs:C312,
+        ocs:C428,
         ocs:C1132,
+        ocs:C2468,
+        ocs:C3983,
+        ocs:C11089,
         ocs:C16799,
         ocs:C19499,
         ocs:C21157,
-        ocs:C23,
-        ocs:C2468,
         ocs:C28245,
-        ocs:C312,
         ocs:C31312,
         ocs:C33651,
         ocs:C38887,
         ocs:C39451,
-        ocs:C3983,
-        ocs:C428,
         ocs:C42910 .
 

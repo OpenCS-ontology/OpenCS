@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28535 a skos:Concept ;
-    skos:broader ocs:C13210,
-        ocs:C2480 ;
+    skos:broader ocs:C2480,
+        ocs:C13210 ;
     skos:closeMatch <http://dbpedia.org/resource/Articulatory_phonology> ;
     skos:prefLabel "Articulatory phonology" ;
-    skos:related ocs:C12110,
+    skos:related ocs:C308,
+        ocs:C2025,
+        ocs:C2298,
+        ocs:C4397,
+        ocs:C8732,
+        ocs:C12110,
         ocs:C13210,
         ocs:C14704,
         ocs:C15900,
         ocs:C19146,
-        ocs:C2025,
         ocs:C21948,
-        ocs:C2298,
         ocs:C26702,
-        ocs:C308,
-        ocs:C34054,
-        ocs:C4397,
-        ocs:C8732 .
+        ocs:C34054 .
 

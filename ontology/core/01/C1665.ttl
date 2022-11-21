@@ -2,18 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1665 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Syslog> ;
     skos:prefLabel "syslog" ;
-    skos:related ocs:C11404,
+    skos:related ocs:C9,
+        ocs:C2172,
+        ocs:C4226,
+        ocs:C5702,
+        ocs:C11404,
         ocs:C14271,
         ocs:C14983,
         ocs:C16980,
         ocs:C17918,
         ocs:C20205,
-        ocs:C2172,
         ocs:C22597,
         ocs:C24131,
         ocs:C24323,
@@ -22,9 +25,6 @@ ocs:C1665 a skos:Concept ;
         ocs:C30500,
         ocs:C31489,
         ocs:C34358,
-        ocs:C4226,
         ocs:C44603,
-        ocs:C45269,
-        ocs:C5702,
-        ocs:C9 .
+        ocs:C45269 .
 

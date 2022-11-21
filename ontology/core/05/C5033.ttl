@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5033 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Constant_false_alarm_rate> ;
     skos:prefLabel "Constant false alarm rate" ;
-    skos:related ocs:C11747,
+    skos:related ocs:C757,
         ocs:C5769,
-        ocs:C757,
-        ocs:C7987 .
+        ocs:C7987,
+        ocs:C11747 .
 

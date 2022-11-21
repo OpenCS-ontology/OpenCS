@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15399 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C11041,
-        ocs:C8367 ;
+    skos:broader ocs:C8367,
+        ocs:C10135,
+        ocs:C11041 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_stream_management_system> ;
     skos:prefLabel "Data stream management system" ;
-    skos:related ocs:C10019,
+    skos:related ocs:C6,
+        ocs:C4389,
+        ocs:C6917,
+        ocs:C8661,
+        ocs:C10019,
         ocs:C10444,
         ocs:C12185,
         ocs:C15443,
@@ -18,9 +22,5 @@ ocs:C15399 a skos:Concept ;
         ocs:C28963,
         ocs:C31527,
         ocs:C35640,
-        ocs:C4389,
-        ocs:C44052,
-        ocs:C6,
-        ocs:C6917,
-        ocs:C8661 .
+        ocs:C44052 .
 

@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29023 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C7166 ;
+    skos:broader ocs:C7166,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_payment> ;
     skos:prefLabel "Mobile payment" ;
-    skos:related ocs:C10084,
+    skos:related ocs:C5672,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C8437,
+        ocs:C9113,
+        ocs:C10084,
         ocs:C10270,
         ocs:C11696,
         ocs:C12698,
@@ -17,10 +22,5 @@ ocs:C29023 a skos:Concept ;
         ocs:C26014,
         ocs:C26112,
         ocs:C33193,
-        ocs:C36500,
-        ocs:C5672,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C8437,
-        ocs:C9113 .
+        ocs:C36500 .
 

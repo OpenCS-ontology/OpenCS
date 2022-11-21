@@ -5,11 +5,13 @@ ocs:C25672 a skos:Concept ;
     skos:broader ocs:C4558 ;
     skos:closeMatch <http://dbpedia.org/resource/Agile_contracts> ;
     skos:prefLabel "Agile contracts" ;
-    skos:related ocs:C10623,
+    skos:related ocs:C3175,
+        ocs:C4558,
+        ocs:C7168,
+        ocs:C10623,
         ocs:C17214,
         ocs:C18274,
         ocs:C22004,
-        ocs:C3175,
         ocs:C31920,
         ocs:C33354,
         ocs:C36874,
@@ -21,7 +23,5 @@ ocs:C25672 a skos:Concept ;
         ocs:C41038,
         ocs:C41111,
         ocs:C41437,
-        ocs:C41673,
-        ocs:C4558,
-        ocs:C7168 .
+        ocs:C41673 .
 

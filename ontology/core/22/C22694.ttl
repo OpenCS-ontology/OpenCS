@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22694 a skos:Concept ;
-    skos:broader ocs:C10135,
-        ocs:C12942,
-        ocs:C390 ;
+    skos:broader ocs:C390,
+        ocs:C10135,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/Elementary_stream> ;
     skos:prefLabel "Elementary stream" ;
-    skos:related ocs:C11214,
+    skos:related ocs:C390,
+        ocs:C3522,
+        ocs:C9266,
+        ocs:C11214,
         ocs:C11323,
         ocs:C11933,
         ocs:C12942,
@@ -21,8 +24,5 @@ ocs:C22694 a skos:Concept ;
         ocs:C31114,
         ocs:C33996,
         ocs:C34624,
-        ocs:C3522,
-        ocs:C390,
-        ocs:C45687,
-        ocs:C9266 .
+        ocs:C45687 .
 

@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7218 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_scraping> ;
     skos:prefLabel "Data scraping" ;
-    skos:related ocs:C10,
-        ocs:C10284,
-        ocs:C10320,
-        ocs:C11927,
-        ocs:C12257,
-        ocs:C1253,
-        ocs:C12815,
-        ocs:C15478,
-        ocs:C2674,
+    skos:related ocs:C9,
+        ocs:C10,
         ocs:C29,
-        ocs:C30078,
+        ocs:C1253,
+        ocs:C2674,
         ocs:C3696,
         ocs:C3896,
         ocs:C5474,
         ocs:C6072,
         ocs:C6225,
         ocs:C8564,
-        ocs:C9 .
+        ocs:C10284,
+        ocs:C10320,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C12815,
+        ocs:C15478,
+        ocs:C30078 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27255 a skos:Concept ;
-    skos:broader ocs:C11026,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C11026 ;
     skos:closeMatch <http://dbpedia.org/resource/De-anonymization> ;
     skos:prefLabel "De-anonymization" ;
-    skos:related ocs:C11126,
+    skos:related ocs:C5,
+        ocs:C25,
+        ocs:C394,
+        ocs:C7215,
+        ocs:C7510,
+        ocs:C8582,
+        ocs:C8614,
+        ocs:C11126,
         ocs:C11875,
         ocs:C12378,
         ocs:C12510,
         ocs:C14105,
         ocs:C14831,
         ocs:C23108,
-        ocs:C25,
         ocs:C25527,
         ocs:C26012,
         ocs:C32650,
         ocs:C35814,
         ocs:C36117,
-        ocs:C394,
-        ocs:C40538,
-        ocs:C5,
-        ocs:C7215,
-        ocs:C7510,
-        ocs:C8582,
-        ocs:C8614 .
+        ocs:C40538 .
 

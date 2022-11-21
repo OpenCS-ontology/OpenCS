@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29488 a skos:Concept ;
-    skos:broader ocs:C10220,
-        ocs:C6529,
-        ocs:C8975 ;
+    skos:broader ocs:C6529,
+        ocs:C8975,
+        ocs:C10220 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_and_communication_technologies_for_development> ;
     skos:prefLabel "Information and communication technologies for development" ;
-    skos:related ocs:C11944,
-        ocs:C16235,
-        ocs:C17608,
-        ocs:C197,
-        ocs:C22701,
-        ocs:C26223,
+    skos:related ocs:C197,
         ocs:C3444,
-        ocs:C35838,
         ocs:C6529,
         ocs:C7297,
         ocs:C7634,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C11944,
+        ocs:C16235,
+        ocs:C17608,
+        ocs:C22701,
+        ocs:C26223,
+        ocs:C35838 .
 

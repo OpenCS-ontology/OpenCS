@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27090 a skos:Concept ;
-    skos:broader ocs:C11529,
-        ocs:C11931,
-        ocs:C5696,
-        ocs:C8130 ;
+    skos:broader ocs:C5696,
+        ocs:C8130,
+        ocs:C11529,
+        ocs:C11931 ;
     skos:closeMatch <http://dbpedia.org/resource/Listener_fatigue> ;
     skos:prefLabel "Listener fatigue" ;
-    skos:related ocs:C13048,
+    skos:related ocs:C5139,
+        ocs:C9170,
+        ocs:C13048,
         ocs:C14001,
-        ocs:C16548,
-        ocs:C5139,
-        ocs:C9170 .
+        ocs:C16548 .
 

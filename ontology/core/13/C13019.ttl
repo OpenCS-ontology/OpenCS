@@ -2,18 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13019 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_Mining_Extensions> ;
     skos:prefLabel "Data Mining Extensions" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C13,
+        ocs:C5497,
+        ocs:C10444,
         ocs:C11293,
         ocs:C11927,
         ocs:C12185,
         ocs:C12694,
         ocs:C12736,
-        ocs:C13,
         ocs:C18025,
         ocs:C31727,
         ocs:C33281,
@@ -21,7 +23,5 @@ ocs:C13019 a skos:Concept ;
         ocs:C34622,
         ocs:C36148,
         ocs:C36924,
-        ocs:C45138,
-        ocs:C5497,
-        ocs:C6 .
+        ocs:C45138 .
 

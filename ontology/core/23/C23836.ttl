@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23836 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C12810,
-        ocs:C4918 ;
+    skos:broader ocs:C4918,
+        ocs:C12638,
+        ocs:C12810 ;
     skos:closeMatch <http://dbpedia.org/resource/JavaScript_library> ;
     skos:prefLabel "JavaScript library" ;
-    skos:related ocs:C12477,
+    skos:related ocs:C355,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C4918,
+        ocs:C5034,
+        ocs:C12477,
         ocs:C12810,
         ocs:C13068,
         ocs:C13800,
@@ -15,16 +20,11 @@ ocs:C23836 a skos:Concept ;
         ocs:C17401,
         ocs:C17855,
         ocs:C22668,
-        ocs:C2464,
         ocs:C25556,
         ocs:C26528,
-        ocs:C2674,
         ocs:C28542,
         ocs:C28801,
         ocs:C34536,
-        ocs:C355,
         ocs:C35841,
-        ocs:C45402,
-        ocs:C4918,
-        ocs:C5034 .
+        ocs:C45402 .
 

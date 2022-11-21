@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22413 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C2005 ;
+    skos:broader ocs:C2005,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/Kernel_(statistics)> ;
     skos:prefLabel "Kernel (statistics)" ;
-    skos:related ocs:C10670,
-        ocs:C1844,
+    skos:related ocs:C1844,
+        ocs:C6116,
+        ocs:C9326,
+        ocs:C9428,
+        ocs:C10670,
         ocs:C21710,
         ocs:C23888,
         ocs:C27660,
         ocs:C39127,
         ocs:C43444,
-        ocs:C45643,
-        ocs:C6116,
-        ocs:C9326,
-        ocs:C9428 .
+        ocs:C45643 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1592 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31 ;
     skos:prefLabel "Personal details" ;
     skos:related ocs:C17,
         ocs:C35,

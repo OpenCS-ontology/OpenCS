@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24476 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C2216 ;
+    skos:broader ocs:C2216,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Additive_smoothing> ;
     skos:prefLabel "Additive smoothing" ;
-    skos:related ocs:C11722,
-        ocs:C14620,
-        ocs:C14622,
-        ocs:C20005,
-        ocs:C21,
-        ocs:C30859,
-        ocs:C39577,
+    skos:related ocs:C21,
         ocs:C5960,
         ocs:C6021,
         ocs:C6692,
-        ocs:C6822 .
+        ocs:C6822,
+        ocs:C11722,
+        ocs:C14620,
+        ocs:C14622,
+        ocs:C20005,
+        ocs:C30859,
+        ocs:C39577 .
 

@@ -5,7 +5,9 @@ ocs:C38094 a skos:Concept ;
     skos:broader ocs:C31783 ;
     skos:closeMatch <http://dbpedia.org/resource/Ipconfig> ;
     skos:prefLabel "ipconfig" ;
-    skos:related ocs:C14271,
+    skos:related ocs:C9,
+        ocs:C5343,
+        ocs:C14271,
         ocs:C20125,
         ocs:C20205,
         ocs:C20540,
@@ -22,7 +24,5 @@ ocs:C38094 a skos:Concept ;
         ocs:C38435,
         ocs:C38824,
         ocs:C39579,
-        ocs:C44872,
-        ocs:C5343,
-        ocs:C9 .
+        ocs:C44872 .
 

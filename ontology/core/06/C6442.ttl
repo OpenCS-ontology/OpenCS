@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6442 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/WS-Federation_Passive_Requestor_Profile> ;
     skos:prefLabel "WS-Federation Passive Requestor Profile" ;
-    skos:related ocs:C10904,
+    skos:related ocs:C7530,
+        ocs:C8347,
+        ocs:C8795,
+        ocs:C10904,
         ocs:C12617,
         ocs:C13252,
         ocs:C19052,
@@ -23,8 +26,5 @@ ocs:C6442 a skos:Concept ;
         ocs:C43890,
         ocs:C44171,
         ocs:C44609,
-        ocs:C45846,
-        ocs:C7530,
-        ocs:C8347,
-        ocs:C8795 .
+        ocs:C45846 .
 

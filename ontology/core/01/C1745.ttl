@@ -3,11 +3,16 @@
 
 ocs:C1745 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_terminal> ;
     skos:prefLabel "Virtual terminal" ;
-    skos:related ocs:C12583,
+    skos:related ocs:C9,
+        ocs:C3039,
+        ocs:C3968,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C12583,
         ocs:C12815,
         ocs:C13718,
         ocs:C14417,
@@ -15,15 +20,10 @@ ocs:C1745 a skos:Concept ;
         ocs:C26499,
         ocs:C28637,
         ocs:C29023,
-        ocs:C3039,
         ocs:C30829,
         ocs:C33074,
         ocs:C33193,
         ocs:C34358,
         ocs:C37095,
-        ocs:C38885,
-        ocs:C3968,
-        ocs:C6821,
-        ocs:C6861,
-        ocs:C9 .
+        ocs:C38885 .
 

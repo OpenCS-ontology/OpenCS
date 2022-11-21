@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27087 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C2469,
-        ocs:C8791 ;
+    skos:broader ocs:C2469,
+        ocs:C8791,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Probabilistic_automaton> ;
     skos:prefLabel "Probabilistic automaton" ;
-    skos:related ocs:C12870,
+    skos:related ocs:C524,
+        ocs:C7689,
+        ocs:C8791,
+        ocs:C12870,
         ocs:C12986,
         ocs:C15002,
         ocs:C17566,
@@ -16,8 +19,5 @@ ocs:C27087 a skos:Concept ;
         ocs:C30272,
         ocs:C37207,
         ocs:C39145,
-        ocs:C43816,
-        ocs:C524,
-        ocs:C7689,
-        ocs:C8791 .
+        ocs:C43816 .
 

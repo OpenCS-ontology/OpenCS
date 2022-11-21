@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2588 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Real-time_multimedia_over_ATM> ;
     skos:prefLabel "Real-time multimedia over ATM" ;
     skos:related ocs:C125,
+        ocs:C3259,
+        ocs:C4197,
         ocs:C13848,
         ocs:C15589,
         ocs:C16851,
@@ -16,13 +18,11 @@ ocs:C2588 a skos:Concept ;
         ocs:C27967,
         ocs:C29603,
         ocs:C30051,
-        ocs:C3259,
         ocs:C33895,
         ocs:C35494,
         ocs:C36923,
         ocs:C37752,
         ocs:C38888,
         ocs:C40329,
-        ocs:C4197,
         ocs:C44663 .
 

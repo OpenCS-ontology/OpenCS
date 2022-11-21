@@ -5,7 +5,9 @@ ocs:C15666 a skos:Concept ;
     skos:broader ocs:C4597 ;
     skos:closeMatch <http://dbpedia.org/resource/Free_flight_(air_traffic_control)> ;
     skos:prefLabel "Free flight" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C3159,
+        ocs:C4597,
+        ocs:C12641,
         ocs:C15050,
         ocs:C15283,
         ocs:C16585,
@@ -18,7 +20,5 @@ ocs:C15666 a skos:Concept ;
         ocs:C28020,
         ocs:C28140,
         ocs:C29896,
-        ocs:C3159,
-        ocs:C32563,
-        ocs:C4597 .
+        ocs:C32563 .
 

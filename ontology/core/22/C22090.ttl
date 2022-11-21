@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22090 a skos:Concept ;
-    skos:broader ocs:C12427,
-        ocs:C6346 ;
+    skos:broader ocs:C6346,
+        ocs:C12427 ;
     skos:closeMatch <http://dbpedia.org/resource/Deadlock_prevention_algorithms> ;
     skos:prefLabel "Deadlock prevention algorithms" ;
     skos:related ocs:C10,
-        ocs:C15481,
-        ocs:C19685,
-        ocs:C198,
-        ocs:C22879,
-        ocs:C2315,
-        ocs:C27084,
-        ocs:C2750,
         ocs:C30,
-        ocs:C30464,
-        ocs:C31032,
+        ocs:C198,
+        ocs:C2315,
+        ocs:C2750,
         ocs:C3514,
-        ocs:C36408,
-        ocs:C40231,
-        ocs:C43644,
         ocs:C5198,
         ocs:C6346,
-        ocs:C8204 .
+        ocs:C8204,
+        ocs:C15481,
+        ocs:C19685,
+        ocs:C22879,
+        ocs:C27084,
+        ocs:C30464,
+        ocs:C31032,
+        ocs:C36408,
+        ocs:C40231,
+        ocs:C43644 .
 

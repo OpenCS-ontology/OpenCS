@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10744 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:prefLabel "Book Reviews as Topic" ;
     skos:related ocs:C1458,
         ocs:C2218,

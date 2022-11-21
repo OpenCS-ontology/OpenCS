@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5659 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Fuzzy_logic> ;
     skos:prefLabel "Fuzzy logic" ;
     skos:related ocs:C1,
+        ocs:C8,
         ocs:C10,
+        ocs:C25,
+        ocs:C2418,
+        ocs:C3375,
+        ocs:C3894,
+        ocs:C5714,
+        ocs:C8077,
+        ocs:C9022,
         ocs:C10825,
         ocs:C11283,
         ocs:C12474,
         ocs:C14579,
         ocs:C16802,
-        ocs:C2418,
-        ocs:C25,
         ocs:C32129,
-        ocs:C3375,
         ocs:C38533,
-        ocs:C3894,
         ocs:C43099,
-        ocs:C43271,
-        ocs:C5714,
-        ocs:C8,
-        ocs:C8077,
-        ocs:C9022 .
+        ocs:C43271 .
 

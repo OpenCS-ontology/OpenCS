@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4288 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23 ;
     skos:prefLabel "Tracking Document" ;
-    skos:related ocs:C31,
-        ocs:C6,
+    skos:related ocs:C6,
+        ocs:C31,
         ocs:C9150 .
 

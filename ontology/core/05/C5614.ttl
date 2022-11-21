@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5614 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_engineering> ;
     skos:prefLabel "Knowledge engineering" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C12,
+        ocs:C13,
+        ocs:C28,
+        ocs:C197,
+        ocs:C651,
+        ocs:C2062,
+        ocs:C6749,
+        ocs:C7311,
         ocs:C10616,
         ocs:C11087,
         ocs:C11724,
-        ocs:C12,
         ocs:C12977,
-        ocs:C13,
         ocs:C15444,
-        ocs:C197,
-        ocs:C2062,
         ocs:C21269,
         ocs:C23183,
         ocs:C25681,
-        ocs:C28,
-        ocs:C28117,
-        ocs:C651,
-        ocs:C6749,
-        ocs:C7311,
-        ocs:C8 .
+        ocs:C28117 .
 

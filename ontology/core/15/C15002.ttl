@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15002 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C5659 ;
+    skos:broader ocs:C5659,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Semiautomaton> ;
     skos:prefLabel "Semiautomaton" ;
-    skos:related ocs:C17566,
+    skos:related ocs:C524,
+        ocs:C8791,
+        ocs:C17566,
         ocs:C19560,
         ocs:C21398,
         ocs:C23657,
         ocs:C27087,
         ocs:C30272,
         ocs:C33287,
-        ocs:C37207,
-        ocs:C524,
-        ocs:C8791 .
+        ocs:C37207 .
 

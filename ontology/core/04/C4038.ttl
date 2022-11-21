@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4038 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Extended_Industry_Standard_Architecture> ;
     skos:prefLabel "Extended Industry Standard Architecture" ;
-    skos:related ocs:C10568,
+    skos:related ocs:C258,
+        ocs:C7750,
+        ocs:C8345,
+        ocs:C8404,
+        ocs:C10568,
         ocs:C13022,
         ocs:C19481,
         ocs:C23239,
         ocs:C24085,
-        ocs:C258,
         ocs:C36894,
         ocs:C41110,
-        ocs:C41698,
-        ocs:C7750,
-        ocs:C8345,
-        ocs:C8404 .
+        ocs:C41698 .
 

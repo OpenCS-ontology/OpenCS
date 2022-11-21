@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14581 a skos:Concept ;
-    skos:broader ocs:C13751,
-        ocs:C7766 ;
+    skos:broader ocs:C7766,
+        ocs:C13751 ;
     skos:closeMatch <http://dbpedia.org/resource/Interaction_nets> ;
     skos:prefLabel "Interaction nets" ;
-    skos:related ocs:C10327,
-        ocs:C13255,
-        ocs:C1361,
-        ocs:C15375,
+    skos:related ocs:C1361,
         ocs:C1631,
+        ocs:C3845,
+        ocs:C7601,
+        ocs:C7766,
+        ocs:C10327,
+        ocs:C13255,
+        ocs:C15375,
         ocs:C16576,
         ocs:C16614,
         ocs:C18959,
         ocs:C25442,
         ocs:C36771,
-        ocs:C3845,
         ocs:C38594,
         ocs:C42944,
-        ocs:C44999,
-        ocs:C7601,
-        ocs:C7766 .
+        ocs:C44999 .
 

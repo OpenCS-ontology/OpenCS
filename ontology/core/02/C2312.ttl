@@ -2,16 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2312 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/F16C> ;
     skos:prefLabel "F16C" ;
-    skos:related ocs:C10938,
+    skos:related ocs:C2478,
+        ocs:C2939,
+        ocs:C6172,
+        ocs:C8189,
+        ocs:C10938,
         ocs:C16094,
         ocs:C19487,
-        ocs:C2478,
         ocs:C27610,
-        ocs:C2939,
         ocs:C29728,
         ocs:C31038,
         ocs:C31346,
@@ -20,7 +22,5 @@ ocs:C2312 a skos:Concept ;
         ocs:C39896,
         ocs:C42142,
         ocs:C44500,
-        ocs:C45553,
-        ocs:C6172,
-        ocs:C8189 .
+        ocs:C45553 .
 

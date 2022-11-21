@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7221 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Busy-hour_call_attempts> ;
     skos:prefLabel "Busy-hour call attempts" ;
-    skos:related ocs:C11526,
+    skos:related ocs:C3,
+        ocs:C452,
+        ocs:C2886,
+        ocs:C4197,
+        ocs:C5565,
+        ocs:C7661,
+        ocs:C9480,
+        ocs:C11526,
         ocs:C14210,
         ocs:C19152,
         ocs:C20045,
         ocs:C20691,
         ocs:C25293,
-        ocs:C2886,
-        ocs:C3,
         ocs:C30667,
         ocs:C35659,
-        ocs:C38619,
-        ocs:C4197,
-        ocs:C452,
-        ocs:C5565,
-        ocs:C7661,
-        ocs:C9480 .
+        ocs:C38619 .
 

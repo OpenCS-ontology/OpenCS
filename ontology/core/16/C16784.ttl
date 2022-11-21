@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16784 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8999 ;
+    skos:broader ocs:C8999,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/High_Luminosity_Large_Hadron_Collider> ;
     skos:prefLabel "High Luminosity Large Hadron Collider" ;
     skos:related ocs:C16098,

@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24437 a skos:Concept ;
-    skos:broader ocs:C10157,
+    skos:broader ocs:C1395,
+        ocs:C1502,
+        ocs:C2979,
+        ocs:C10157,
         ocs:C10211,
         ocs:C11886,
         ocs:C11927,
-        ocs:C13744,
-        ocs:C1395,
-        ocs:C1502,
-        ocs:C2979 ;
+        ocs:C13744 ;
     skos:prefLabel "Information exchange data model" .
 

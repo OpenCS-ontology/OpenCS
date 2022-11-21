@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8361 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C33,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C33 ;
     skos:prefLabel "Collection Object" ;
-    skos:related ocs:C10720,
-        ocs:C13744,
-        ocs:C17734,
+    skos:related ocs:C2,
+        ocs:C7,
         ocs:C18,
-        ocs:C1940,
-        ocs:C2,
         ocs:C22,
         ocs:C23,
-        ocs:C27180,
-        ocs:C3231,
         ocs:C33,
-        ocs:C40290,
+        ocs:C1940,
+        ocs:C3231,
         ocs:C6255,
-        ocs:C7 .
+        ocs:C10720,
+        ocs:C13744,
+        ocs:C17734,
+        ocs:C27180,
+        ocs:C40290 .
 

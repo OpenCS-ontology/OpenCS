@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19342 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Tuner_(radio)> ;
     skos:prefLabel "Tuner" ;
-    skos:related ocs:C10103,
+    skos:related ocs:C3,
         ocs:C1219,
+        ocs:C1724,
+        ocs:C3690,
+        ocs:C4427,
+        ocs:C7159,
+        ocs:C10103,
         ocs:C12582,
         ocs:C14053,
         ocs:C15505,
         ocs:C16856,
-        ocs:C1724,
         ocs:C18001,
         ocs:C19903,
         ocs:C27572,
-        ocs:C3,
         ocs:C34364,
         ocs:C34890,
-        ocs:C3690,
         ocs:C38826,
-        ocs:C4427,
-        ocs:C44707,
-        ocs:C7159 .
+        ocs:C44707 .
 

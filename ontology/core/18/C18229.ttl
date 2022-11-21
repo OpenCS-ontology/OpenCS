@@ -5,7 +5,9 @@ ocs:C18229 a skos:Concept ;
     skos:broader ocs:C4597 ;
     skos:closeMatch <http://dbpedia.org/resource/Area_Control_Center> ;
     skos:prefLabel "Area Control Center" ;
-    skos:related ocs:C15050,
+    skos:related ocs:C4597,
+        ocs:C8868,
+        ocs:C15050,
         ocs:C15796,
         ocs:C18996,
         ocs:C22979,
@@ -15,7 +17,5 @@ ocs:C18229 a skos:Concept ;
         ocs:C33217,
         ocs:C35629,
         ocs:C42092,
-        ocs:C42471,
-        ocs:C4597,
-        ocs:C8868 .
+        ocs:C42471 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12809 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C33,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Sentinel_value> ;
     skos:prefLabel "Sentinel value" ;
-    skos:related ocs:C10219,
-        ocs:C10552,
+    skos:related ocs:C19,
+        ocs:C794,
         ocs:C1083,
         ocs:C1333,
-        ocs:C15051,
-        ocs:C19,
         ocs:C2057,
-        ocs:C22266,
-        ocs:C26456,
         ocs:C2885,
-        ocs:C29467,
-        ocs:C34136,
         ocs:C6255,
         ocs:C6941,
-        ocs:C794,
-        ocs:C9023 .
+        ocs:C9023,
+        ocs:C10219,
+        ocs:C10552,
+        ocs:C15051,
+        ocs:C22266,
+        ocs:C26456,
+        ocs:C29467,
+        ocs:C34136 .
 

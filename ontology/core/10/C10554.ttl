@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10554 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Wavelet> ;
     skos:prefLabel "Wavelet" ;
-    skos:related ocs:C11150,
+    skos:related ocs:C251,
         ocs:C1449,
+        ocs:C4511,
+        ocs:C5298,
+        ocs:C8499,
+        ocs:C9427,
+        ocs:C11150,
         ocs:C20648,
-        ocs:C251,
         ocs:C26688,
         ocs:C33342,
         ocs:C40380,
         ocs:C44879,
-        ocs:C4511,
-        ocs:C45112,
-        ocs:C5298,
-        ocs:C8499,
-        ocs:C9427 .
+        ocs:C45112 .
 

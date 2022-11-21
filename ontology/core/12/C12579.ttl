@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12579 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligent_agent> ;
     skos:prefLabel "Intelligent agent" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C25,
+        ocs:C32,
+        ocs:C2579,
+        ocs:C5659,
+        ocs:C5776,
+        ocs:C9022,
         ocs:C10616,
         ocs:C10997,
         ocs:C12304,
         ocs:C12977,
         ocs:C13610,
         ocs:C22254,
-        ocs:C25,
-        ocs:C2579,
         ocs:C26519,
         ocs:C29173,
-        ocs:C32,
         ocs:C33186,
-        ocs:C37586,
-        ocs:C5659,
-        ocs:C5776,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C37586 .
 

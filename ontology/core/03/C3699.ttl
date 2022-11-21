@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3699 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Cost_efficiency> ;
     skos:prefLabel "Cost efficiency" ;
-    skos:related ocs:C11443,
+    skos:related ocs:C527,
+        ocs:C2600,
+        ocs:C4155,
+        ocs:C5766,
+        ocs:C6244,
+        ocs:C8660,
+        ocs:C11443,
         ocs:C12690,
         ocs:C17626,
         ocs:C23999,
-        ocs:C2600,
         ocs:C32161,
         ocs:C34666,
         ocs:C36763,
         ocs:C40330,
-        ocs:C4155,
-        ocs:C42777,
-        ocs:C527,
-        ocs:C5766,
-        ocs:C6244,
-        ocs:C8660 .
+        ocs:C42777 .
 

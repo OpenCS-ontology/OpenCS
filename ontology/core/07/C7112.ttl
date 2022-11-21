@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7112 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/H.323_Gatekeeper> ;
     skos:prefLabel "H.323 Gatekeeper" ;
-    skos:related ocs:C12171,
-        ocs:C12273,
+    skos:related ocs:C3,
         ocs:C125,
+        ocs:C8515,
+        ocs:C9207,
+        ocs:C9225,
+        ocs:C12171,
+        ocs:C12273,
         ocs:C13848,
         ocs:C15589,
         ocs:C19227,
@@ -18,12 +22,8 @@ ocs:C7112 a skos:Concept ;
         ocs:C28758,
         ocs:C28949,
         ocs:C29603,
-        ocs:C3,
         ocs:C30757,
         ocs:C34719,
         ocs:C36923,
-        ocs:C41620,
-        ocs:C8515,
-        ocs:C9207,
-        ocs:C9225 .
+        ocs:C41620 .
 

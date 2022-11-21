@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1573 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Point_set_registration> ;
     skos:prefLabel "Point set registration" ;
-    skos:related ocs:C11598,
+    skos:related ocs:C21,
+        ocs:C948,
+        ocs:C5462,
+        ocs:C6021,
+        ocs:C6822,
+        ocs:C9022,
+        ocs:C11598,
         ocs:C13142,
         ocs:C20377,
-        ocs:C21,
         ocs:C21710,
         ocs:C23853,
         ocs:C26986,
         ocs:C27660,
         ocs:C30115,
         ocs:C31747,
-        ocs:C40269,
-        ocs:C5462,
-        ocs:C6021,
-        ocs:C6822,
-        ocs:C9022,
-        ocs:C948 .
+        ocs:C40269 .
 

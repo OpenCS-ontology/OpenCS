@@ -5,7 +5,9 @@ ocs:C24068 a skos:Concept ;
     skos:broader ocs:C9022 ;
     skos:closeMatch <http://dbpedia.org/resource/Optical_neural_network> ;
     skos:prefLabel "Optical neural network" ;
-    skos:related ocs:C15117,
+    skos:related ocs:C9022,
+        ocs:C9557,
+        ocs:C15117,
         ocs:C17261,
         ocs:C17311,
         ocs:C20126,
@@ -18,7 +20,5 @@ ocs:C24068 a skos:Concept ;
         ocs:C32745,
         ocs:C33823,
         ocs:C38558,
-        ocs:C43401,
-        ocs:C9022,
-        ocs:C9557 .
+        ocs:C43401 .
 

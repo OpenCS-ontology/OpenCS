@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10982 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Visual_communication> ;
     skos:prefLabel "Visual communication" ;
-    skos:related ocs:C10905,
-        ocs:C13147,
-        ocs:C17,
-        ocs:C2135,
+    skos:related ocs:C17,
         ocs:C22,
-        ocs:C22683,
+        ocs:C622,
+        ocs:C2135,
         ocs:C2409,
-        ocs:C28533,
         ocs:C6124,
-        ocs:C622 .
+        ocs:C10905,
+        ocs:C13147,
+        ocs:C22683,
+        ocs:C28533 .
 

@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18101 a skos:Concept ;
-    skos:broader ocs:C13006,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C13006 ;
     skos:closeMatch <http://dbpedia.org/resource/Salva_veritate> ;
     skos:prefLabel "Salva veritate" ;
-    skos:related ocs:C10825,
+    skos:related ocs:C5714,
+        ocs:C5817,
+        ocs:C10825,
         ocs:C24858,
-        ocs:C35737,
-        ocs:C5714,
-        ocs:C5817 .
+        ocs:C35737 .
 

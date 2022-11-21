@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4622 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Arithmetic_shift> ;
     skos:prefLabel "Arithmetic shift" ;
-    skos:related ocs:C10719,
+    skos:related ocs:C3894,
+        ocs:C3931,
+        ocs:C10719,
         ocs:C16377,
         ocs:C18276,
         ocs:C19487,
         ocs:C27882,
         ocs:C37006,
-        ocs:C3894,
-        ocs:C3931,
         ocs:C40443,
         ocs:C42660 .
 

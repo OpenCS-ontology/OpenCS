@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13098 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Image_formation> ;
     skos:prefLabel "Image formation" ;
-    skos:related ocs:C10773,
-        ocs:C17469,
+    skos:related ocs:C7,
         ocs:C1842,
+        ocs:C2881,
+        ocs:C10773,
+        ocs:C17469,
         ocs:C19367,
         ocs:C21497,
         ocs:C22623,
         ocs:C22653,
         ocs:C23896,
         ocs:C27264,
-        ocs:C2881,
         ocs:C29806,
         ocs:C36921,
         ocs:C37007,
         ocs:C37394,
         ocs:C43996,
-        ocs:C44268,
-        ocs:C7 .
+        ocs:C44268 .
 

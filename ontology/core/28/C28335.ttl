@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28335 a skos:Concept ;
-    skos:broader ocs:C3678,
-        ocs:C619,
+    skos:broader ocs:C619,
+        ocs:C3678,
         ocs:C8660 ;
     skos:closeMatch <http://dbpedia.org/resource/Average-case_complexity> ;
     skos:prefLabel "Average-case complexity" ;
     skos:related ocs:C1,
         ocs:C10,
+        ocs:C611,
+        ocs:C2425,
+        ocs:C3678,
+        ocs:C4218,
+        ocs:C6537,
+        ocs:C8660,
         ocs:C20382,
         ocs:C21625,
         ocs:C22501,
-        ocs:C2425,
         ocs:C25360,
         ocs:C27399,
         ocs:C32771,
         ocs:C36638,
-        ocs:C3678,
         ocs:C37205,
         ocs:C38867,
-        ocs:C41116,
-        ocs:C4218,
-        ocs:C611,
-        ocs:C6537,
-        ocs:C8660 .
+        ocs:C41116 .
 

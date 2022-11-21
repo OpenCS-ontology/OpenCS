@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28709 a skos:Concept ;
-    skos:broader ocs:C11988,
-        ocs:C2917 ;
+    skos:broader ocs:C2917,
+        ocs:C11988 ;
     skos:closeMatch <http://dbpedia.org/resource/User–network_interface> ;
     skos:prefLabel "User–network interface" ;
-    skos:related ocs:C11987,
+    skos:related ocs:C3,
+        ocs:C490,
+        ocs:C2917,
+        ocs:C5506,
+        ocs:C6660,
+        ocs:C7612,
+        ocs:C11987,
         ocs:C13695,
         ocs:C15589,
         ocs:C17371,
@@ -16,13 +22,7 @@ ocs:C28709 a skos:Concept ;
         ocs:C22331,
         ocs:C22669,
         ocs:C24563,
-        ocs:C2917,
-        ocs:C3,
         ocs:C37577,
         ocs:C38312,
-        ocs:C40329,
-        ocs:C490,
-        ocs:C5506,
-        ocs:C6660,
-        ocs:C7612 .
+        ocs:C40329 .
 

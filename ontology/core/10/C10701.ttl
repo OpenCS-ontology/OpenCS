@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10701 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4,
-        ocs:C6 ;
+    skos:broader ocs:C4,
+        ocs:C6,
+        ocs:C31 ;
     skos:prefLabel "Publication types" ;
-    skos:related ocs:C10413,
-        ocs:C197,
-        ocs:C25,
+    skos:related ocs:C25,
         ocs:C34,
+        ocs:C197,
         ocs:C5150,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10413 .
 

@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23794 a skos:Concept ;
-    skos:broader ocs:C8366,
-        ocs:C936 ;
+    skos:broader ocs:C936,
+        ocs:C8366 ;
     skos:closeMatch <http://dbpedia.org/resource/Missing_letter_effect> ;
     skos:prefLabel "Missing letter effect" ;
-    skos:related ocs:C19318,
+    skos:related ocs:C8366,
+        ocs:C19318,
         ocs:C36573,
-        ocs:C39789,
-        ocs:C8366 .
+        ocs:C39789 .
 

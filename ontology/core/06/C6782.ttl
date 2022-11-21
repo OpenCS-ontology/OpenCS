@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6782 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Intel_Memory_Model> ;
     skos:prefLabel "Intel Memory Model" ;
-    skos:related ocs:C10994,
+    skos:related ocs:C1251,
+        ocs:C3320,
+        ocs:C5147,
+        ocs:C6073,
+        ocs:C6542,
+        ocs:C10994,
         ocs:C12323,
-        ocs:C1251,
         ocs:C14162,
         ocs:C19487,
         ocs:C22508,
         ocs:C31346,
         ocs:C32222,
         ocs:C33174,
-        ocs:C3320,
         ocs:C38819,
         ocs:C39282,
         ocs:C39623,
         ocs:C39896,
-        ocs:C40322,
-        ocs:C5147,
-        ocs:C6073,
-        ocs:C6542 .
+        ocs:C40322 .
 

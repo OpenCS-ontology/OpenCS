@@ -5,7 +5,9 @@ ocs:C18272 a skos:Concept ;
     skos:broader ocs:C4321 ;
     skos:closeMatch <http://dbpedia.org/resource/Register_allocation> ;
     skos:prefLabel "Register allocation" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C856,
+        ocs:C4321,
+        ocs:C10320,
         ocs:C11309,
         ocs:C17204,
         ocs:C19487,
@@ -21,7 +23,5 @@ ocs:C18272 a skos:Concept ;
         ocs:C40088,
         ocs:C40105,
         ocs:C42060,
-        ocs:C4321,
-        ocs:C45909,
-        ocs:C856 .
+        ocs:C45909 .
 

@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9434 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Texas_hold_'em> ;
     skos:prefLabel "Texas hold 'em" ;
-    skos:related ocs:C11414,
-        ocs:C17803,
+    skos:related ocs:C8,
         ocs:C2704,
-        ocs:C28881,
-        ocs:C36909,
         ocs:C6340,
-        ocs:C8,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C11414,
+        ocs:C17803,
+        ocs:C28881,
+        ocs:C36909 .
 

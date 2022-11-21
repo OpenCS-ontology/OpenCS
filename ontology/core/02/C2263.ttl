@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2263 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Bell_202_modem> ;
     skos:prefLabel "Bell 202 modem" ;
-    skos:related ocs:C10093,
+    skos:related ocs:C2169,
+        ocs:C2534,
+        ocs:C2917,
+        ocs:C3310,
+        ocs:C6861,
+        ocs:C7502,
+        ocs:C10093,
         ocs:C13130,
         ocs:C16205,
         ocs:C19350,
         ocs:C21610,
-        ocs:C2169,
         ocs:C22451,
-        ocs:C2534,
         ocs:C28758,
-        ocs:C2917,
-        ocs:C3310,
         ocs:C36766,
         ocs:C39720,
         ocs:C40505,
-        ocs:C43595,
-        ocs:C6861,
-        ocs:C7502 .
+        ocs:C43595 .
 

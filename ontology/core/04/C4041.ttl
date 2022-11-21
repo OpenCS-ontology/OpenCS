@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4041 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/XSIL> ;
     skos:prefLabel "XSIL" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C3896,
+        ocs:C4333,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C9938,
+        ocs:C10284,
         ocs:C10720,
         ocs:C11022,
         ocs:C11927,
@@ -14,13 +19,8 @@ ocs:C4041 a skos:Concept ;
         ocs:C12185,
         ocs:C16159,
         ocs:C33040,
-        ocs:C3896,
         ocs:C40411,
         ocs:C41719,
-        ocs:C4333,
         ocs:C43819,
-        ocs:C44193,
-        ocs:C6605,
-        ocs:C7476,
-        ocs:C9938 .
+        ocs:C44193 .
 

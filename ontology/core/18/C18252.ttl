@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18252 a skos:Concept ;
-    skos:broader ocs:C12206,
-        ocs:C4752,
+    skos:broader ocs:C4752,
         ocs:C6255,
-        ocs:C8172 ;
+        ocs:C8172,
+        ocs:C12206 ;
     skos:prefLabel "Outlier Type" ;
     skos:related ocs:C1,
         ocs:C13,

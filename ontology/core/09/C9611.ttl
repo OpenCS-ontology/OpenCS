@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9611 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_camera> ;
     skos:prefLabel "Video camera" ;
-    skos:related ocs:C10700,
-        ocs:C13065,
-        ocs:C13095,
-        ocs:C13382,
-        ocs:C13509,
-        ocs:C28881,
+    skos:related ocs:C7,
         ocs:C4448,
         ocs:C6942,
-        ocs:C7,
         ocs:C7789,
         ocs:C8021,
         ocs:C8614,
         ocs:C9113,
-        ocs:C9605 .
+        ocs:C9605,
+        ocs:C10700,
+        ocs:C13065,
+        ocs:C13095,
+        ocs:C13382,
+        ocs:C13509,
+        ocs:C28881 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15607 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C12752,
-        ocs:C7458 ;
+    skos:broader ocs:C7458,
+        ocs:C11389,
+        ocs:C12752 ;
     skos:closeMatch <http://dbpedia.org/resource/Substitute_check> ;
     skos:prefLabel "Substitute check" ;
-    skos:related ocs:C12752,
+    skos:related ocs:C2124,
+        ocs:C4001,
+        ocs:C4779,
+        ocs:C7458,
+        ocs:C12752,
         ocs:C12993,
         ocs:C16179,
         ocs:C17400,
-        ocs:C2124,
         ocs:C21953,
         ocs:C21954,
         ocs:C26811,
         ocs:C27327,
         ocs:C33193,
-        ocs:C4001,
-        ocs:C40399,
-        ocs:C4779,
-        ocs:C7458 .
+        ocs:C40399 .
 

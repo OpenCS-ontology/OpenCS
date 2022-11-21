@@ -3,11 +3,14 @@
 
 ocs:C8087 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C3 ;
+        ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/QSIG> ;
     skos:prefLabel "QSIG" ;
-    skos:related ocs:C12171,
+    skos:related ocs:C2917,
+        ocs:C8515,
+        ocs:C8872,
+        ocs:C12171,
         ocs:C12921,
         ocs:C13462,
         ocs:C14152,
@@ -18,10 +21,7 @@ ocs:C8087 a skos:Concept ;
         ocs:C24466,
         ocs:C25293,
         ocs:C28758,
-        ocs:C2917,
         ocs:C29603,
         ocs:C35928,
-        ocs:C45147,
-        ocs:C8515,
-        ocs:C8872 .
+        ocs:C45147 .
 

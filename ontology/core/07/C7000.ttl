@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7000 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Solid_modeling> ;
     skos:prefLabel "Solid modeling" ;
-    skos:related ocs:C10391,
-        ocs:C10924,
-        ocs:C22,
-        ocs:C23146,
-        ocs:C28233,
+    skos:related ocs:C22,
         ocs:C3345,
-        ocs:C38400,
-        ocs:C45109,
         ocs:C6279,
         ocs:C7914,
-        ocs:C8399 .
+        ocs:C8399,
+        ocs:C10391,
+        ocs:C10924,
+        ocs:C23146,
+        ocs:C28233,
+        ocs:C38400,
+        ocs:C45109 .
 

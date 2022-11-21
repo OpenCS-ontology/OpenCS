@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9704 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C23,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C12,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_seeking> ;
     skos:prefLabel "Information seeking" ;
-    skos:related ocs:C11087,
-        ocs:C11089,
+    skos:related ocs:C4,
         ocs:C12,
+        ocs:C23,
+        ocs:C2526,
+        ocs:C2979,
+        ocs:C7355,
+        ocs:C8990,
+        ocs:C9876,
+        ocs:C11087,
+        ocs:C11089,
         ocs:C12491,
         ocs:C13309,
         ocs:C13349,
         ocs:C13520,
         ocs:C14238,
-        ocs:C23,
         ocs:C23271,
         ocs:C25121,
-        ocs:C2526,
         ocs:C27031,
-        ocs:C2979,
-        ocs:C38799,
-        ocs:C4,
-        ocs:C7355,
-        ocs:C8990,
-        ocs:C9876 .
+        ocs:C38799 .
 

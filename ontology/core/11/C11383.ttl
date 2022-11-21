@@ -2,15 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11383 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Oracle_(software_testing)> ;
     skos:prefLabel "Oracle" ;
-    skos:related ocs:C13313,
+    skos:related ocs:C28,
+        ocs:C8895,
+        ocs:C13313,
         ocs:C19404,
         ocs:C25956,
-        ocs:C28,
         ocs:C29790,
         ocs:C30802,
         ocs:C32978,
@@ -24,6 +25,5 @@ ocs:C11383 a skos:Concept ;
         ocs:C42276,
         ocs:C42333,
         ocs:C44389,
-        ocs:C45629,
-        ocs:C8895 .
+        ocs:C45629 .
 

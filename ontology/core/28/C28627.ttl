@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28627 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C5510,
-        ocs:C6116 ;
+    skos:broader ocs:C5510,
+        ocs:C6116,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Berkson_error_model> ;
     skos:prefLabel "Berkson error model" ;
-    skos:related ocs:C11031,
+    skos:related ocs:C5510,
+        ocs:C6116,
+        ocs:C8456,
+        ocs:C9095,
+        ocs:C11031,
         ocs:C11425,
         ocs:C23554,
         ocs:C32677,
         ocs:C37791,
-        ocs:C41975,
-        ocs:C5510,
-        ocs:C6116,
-        ocs:C8456,
-        ocs:C9095 .
+        ocs:C41975 .
 

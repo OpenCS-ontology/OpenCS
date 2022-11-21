@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19623 a skos:Concept ;
-    skos:broader ocs:C12270,
-        ocs:C2298 ;
+    skos:broader ocs:C2298,
+        ocs:C12270 ;
     skos:closeMatch <http://dbpedia.org/resource/Singular_they> ;
     skos:prefLabel "Singular they" ;
-    skos:related ocs:C10760,
+    skos:related ocs:C4025,
+        ocs:C10760,
         ocs:C11099,
         ocs:C12270,
         ocs:C23243,
@@ -14,6 +15,5 @@ ocs:C19623 a skos:Concept ;
         ocs:C27343,
         ocs:C28646,
         ocs:C32159,
-        ocs:C32280,
-        ocs:C4025 .
+        ocs:C32280 .
 

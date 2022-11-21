@@ -5,7 +5,12 @@ ocs:C24544 a skos:Concept ;
     skos:broader ocs:C9162 ;
     skos:closeMatch <http://dbpedia.org/resource/EBCDIC> ;
     skos:prefLabel "EBCDIC" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C9,
+        ocs:C5126,
+        ocs:C6714,
+        ocs:C9035,
+        ocs:C9162,
+        ocs:C10496,
         ocs:C10696,
         ocs:C10772,
         ocs:C11207,
@@ -15,10 +20,5 @@ ocs:C24544 a skos:Concept ;
         ocs:C23162,
         ocs:C23560,
         ocs:C28881,
-        ocs:C31489,
-        ocs:C5126,
-        ocs:C6714,
-        ocs:C9,
-        ocs:C9035,
-        ocs:C9162 .
+        ocs:C31489 .
 

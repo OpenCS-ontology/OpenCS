@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18749 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C390,
-        ocs:C4099 ;
+    skos:broader ocs:C390,
+        ocs:C4099,
+        ocs:C12111 ;
     skos:prefLabel "Normalized throughput" .
 

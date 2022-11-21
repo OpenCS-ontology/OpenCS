@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8330 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Zooming_user_interface> ;
     skos:prefLabel "Zoom" ;
-    skos:related ocs:C15131,
+    skos:related ocs:C9,
+        ocs:C4223,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C7736,
+        ocs:C7914,
+        ocs:C15131,
         ocs:C15633,
         ocs:C24871,
         ocs:C24909,
@@ -17,12 +23,6 @@ ocs:C8330 a skos:Concept ;
         ocs:C31489,
         ocs:C33826,
         ocs:C37013,
-        ocs:C4223,
         ocs:C43749,
-        ocs:C45560,
-        ocs:C5702,
-        ocs:C7293,
-        ocs:C7736,
-        ocs:C7914,
-        ocs:C9 .
+        ocs:C45560 .
 

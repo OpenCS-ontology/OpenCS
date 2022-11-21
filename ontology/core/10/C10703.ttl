@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10703 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Bibliographic Reference" ;
-    skos:related ocs:C10220,
-        ocs:C10413,
-        ocs:C12317,
-        ocs:C17,
-        ocs:C26337,
+    skos:related ocs:C17,
         ocs:C3413,
         ocs:C4561,
         ocs:C4595,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10220,
+        ocs:C10413,
+        ocs:C12317,
+        ocs:C26337 .
 

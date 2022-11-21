@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9173 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Lighthill_report> ;
     skos:prefLabel "Lighthill report" ;
     skos:related ocs:C1,
-        ocs:C10616,
+        ocs:C8,
         ocs:C16,
+        ocs:C25,
+        ocs:C32,
+        ocs:C685,
+        ocs:C3848,
+        ocs:C4269,
+        ocs:C5852,
+        ocs:C8701,
+        ocs:C9552,
+        ocs:C10616,
         ocs:C17236,
         ocs:C19194,
-        ocs:C25,
         ocs:C27116,
         ocs:C27884,
         ocs:C29173,
         ocs:C30824,
-        ocs:C32,
-        ocs:C3848,
-        ocs:C4269,
-        ocs:C44765,
-        ocs:C5852,
-        ocs:C685,
-        ocs:C8,
-        ocs:C8701,
-        ocs:C9552 .
+        ocs:C44765 .
 

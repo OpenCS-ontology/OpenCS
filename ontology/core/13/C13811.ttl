@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13811 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C32,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C32 ;
     skos:prefLabel "Multi language" .
 

@@ -2,31 +2,31 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16760 a skos:Concept ;
-    skos:broader ocs:C2057,
+    skos:broader ocs:C696,
+        ocs:C2057,
         ocs:C3036,
         ocs:C4321,
-        ocs:C6714,
-        ocs:C696 ;
+        ocs:C6714 ;
     skos:closeMatch <http://dbpedia.org/resource/SPITBOL> ;
     skos:prefLabel "SPITBOL" ;
-    skos:related ocs:C10284,
-        ocs:C11207,
-        ocs:C17204,
-        ocs:C19,
-        ocs:C24544,
-        ocs:C28944,
+    skos:related ocs:C19,
+        ocs:C386,
+        ocs:C696,
         ocs:C3036,
         ocs:C3192,
-        ocs:C36601,
-        ocs:C386,
-        ocs:C39214,
         ocs:C4093,
         ocs:C4321,
         ocs:C5019,
         ocs:C5698,
         ocs:C6714,
-        ocs:C696,
         ocs:C7185,
         ocs:C9850,
-        ocs:C9952 .
+        ocs:C9952,
+        ocs:C10284,
+        ocs:C11207,
+        ocs:C17204,
+        ocs:C24544,
+        ocs:C28944,
+        ocs:C36601,
+        ocs:C39214 .
 

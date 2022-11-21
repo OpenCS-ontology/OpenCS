@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24916 a skos:Concept ;
-    skos:broader ocs:C3236,
+    skos:broader ocs:C515,
+        ocs:C3236,
         ocs:C4099,
-        ocs:C515,
         ocs:C5559 ;
     skos:closeMatch <http://dbpedia.org/resource/Optical_wireless> ;
     skos:prefLabel "Optical wireless" ;
-    skos:related ocs:C12308,
+    skos:related ocs:C5559,
+        ocs:C6365,
+        ocs:C12308,
         ocs:C14578,
         ocs:C15897,
         ocs:C17917,
         ocs:C22335,
         ocs:C34124,
         ocs:C44520,
-        ocs:C45690,
-        ocs:C5559,
-        ocs:C6365 .
+        ocs:C45690 .
 

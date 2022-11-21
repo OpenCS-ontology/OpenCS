@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1509 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_space> ;
     skos:prefLabel "Knowledge space" ;
-    skos:related ocs:C10553,
+    skos:related ocs:C6590,
+        ocs:C10553,
         ocs:C11771,
         ocs:C13701,
         ocs:C26579,
         ocs:C32881,
-        ocs:C42338,
-        ocs:C6590 .
+        ocs:C42338 .
 

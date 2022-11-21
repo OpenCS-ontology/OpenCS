@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19317 a skos:Concept ;
-    skos:broader ocs:C10511,
-        ocs:C11026,
-        ocs:C3035 ;
+    skos:broader ocs:C3035,
+        ocs:C10511,
+        ocs:C11026 ;
     skos:closeMatch <http://dbpedia.org/resource/Strategic_Network_Formation> ;
     skos:prefLabel "Strategic Network Formation" ;
     skos:related ocs:C18864,

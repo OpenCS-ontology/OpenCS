@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12449 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/MADI> ;
     skos:prefLabel "MADI" ;
-    skos:related ocs:C10778,
+    skos:related ocs:C490,
+        ocs:C6866,
+        ocs:C8237,
+        ocs:C8718,
+        ocs:C10778,
         ocs:C23613,
         ocs:C26575,
         ocs:C29073,
@@ -14,9 +18,5 @@ ocs:C12449 a skos:Concept ;
         ocs:C37917,
         ocs:C39294,
         ocs:C40722,
-        ocs:C44663,
-        ocs:C490,
-        ocs:C6866,
-        ocs:C8237,
-        ocs:C8718 .
+        ocs:C44663 .
 

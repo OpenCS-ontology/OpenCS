@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22860 a skos:Concept ;
-    skos:broader ocs:C10534,
+    skos:broader ocs:C1089,
+        ocs:C10534,
         ocs:C10670,
-        ocs:C1089,
         ocs:C13685 ;
     skos:prefLabel "Conditional density estimation" .
 

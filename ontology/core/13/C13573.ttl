@@ -2,15 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13573 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_projection> ;
     skos:prefLabel "Information projection" ;
-    skos:related ocs:C10767,
+    skos:related ocs:C2119,
+        ocs:C5816,
+        ocs:C10767,
         ocs:C12737,
         ocs:C16726,
-        ocs:C2119,
         ocs:C21931,
         ocs:C26690,
         ocs:C28992,
@@ -19,6 +20,5 @@ ocs:C13573 a skos:Concept ;
         ocs:C34661,
         ocs:C35956,
         ocs:C43061,
-        ocs:C44257,
-        ocs:C5816 .
+        ocs:C44257 .
 

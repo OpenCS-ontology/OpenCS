@@ -2,15 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17260 a skos:Concept ;
-    skos:broader ocs:C11932,
-        ocs:C6545 ;
+    skos:broader ocs:C6545,
+        ocs:C11932 ;
     skos:closeMatch <http://dbpedia.org/resource/Gerund> ;
     skos:prefLabel "Gerund" ;
-    skos:related ocs:C11932,
-        ocs:C12270,
-        ocs:C1739,
-        ocs:C18845,
+    skos:related ocs:C1739,
         ocs:C1952,
+        ocs:C6545,
+        ocs:C11932,
+        ocs:C12270,
+        ocs:C18845,
         ocs:C21988,
         ocs:C23243,
         ocs:C25015,
@@ -22,6 +23,5 @@ ocs:C17260 a skos:Concept ;
         ocs:C32275,
         ocs:C32584,
         ocs:C35238,
-        ocs:C44227,
-        ocs:C6545 .
+        ocs:C44227 .
 

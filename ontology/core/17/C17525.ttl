@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17525 a skos:Concept ;
-    skos:broader ocs:C1340,
-        ocs:C669 ;
+    skos:broader ocs:C669,
+        ocs:C1340 ;
     skos:prefLabel "Binaural hearing aids" ;
-    skos:related ocs:C1832,
-        ocs:C2,
-        ocs:C23996,
+    skos:related ocs:C2,
+        ocs:C669,
+        ocs:C1832,
         ocs:C3236,
         ocs:C4099,
         ocs:C5139,
         ocs:C5696,
         ocs:C5819,
-        ocs:C669,
         ocs:C8130,
-        ocs:C8291 .
+        ocs:C8291,
+        ocs:C23996 .
 

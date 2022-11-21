@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7115 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/System_Generation_(OS)> ;
     skos:prefLabel "System Generation" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C9,
+        ocs:C2410,
+        ocs:C4046,
+        ocs:C7105,
+        ocs:C10496,
         ocs:C12683,
         ocs:C13101,
         ocs:C13853,
         ocs:C17204,
-        ocs:C2410,
         ocs:C25549,
         ocs:C25632,
         ocs:C29413,
         ocs:C35529,
         ocs:C37138,
-        ocs:C4046,
         ocs:C41725,
-        ocs:C42309,
-        ocs:C7105,
-        ocs:C9 .
+        ocs:C42309 .
 

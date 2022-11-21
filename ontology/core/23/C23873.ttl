@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23873 a skos:Concept ;
-    skos:broader ocs:C11026,
-        ocs:C7460 ;
+    skos:broader ocs:C7460,
+        ocs:C11026 ;
     skos:closeMatch <http://dbpedia.org/resource/Evolving_networks> ;
     skos:prefLabel "Evolving networks" ;
-    skos:related ocs:C11026,
+    skos:related ocs:C3035,
+        ocs:C7460,
+        ocs:C11026,
         ocs:C15476,
         ocs:C18569,
         ocs:C19101,
@@ -17,8 +19,6 @@ ocs:C23873 a skos:Concept ;
         ocs:C28236,
         ocs:C28521,
         ocs:C28991,
-        ocs:C3035,
         ocs:C36516,
-        ocs:C36858,
-        ocs:C7460 .
+        ocs:C36858 .
 

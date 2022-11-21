@@ -2,30 +2,30 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23483 a skos:Concept ;
-    skos:broader ocs:C3393,
-        ocs:C390,
+    skos:broader ocs:C390,
         ocs:C490,
+        ocs:C3393,
         ocs:C8567 ;
     skos:closeMatch <http://dbpedia.org/resource/Resilient_Packet_Ring> ;
     skos:prefLabel "Resilient Packet Ring" ;
-    skos:related ocs:C11157,
-        ocs:C12394,
+    skos:related ocs:C490,
         ocs:C1398,
+        ocs:C2842,
+        ocs:C4720,
+        ocs:C8567,
+        ocs:C11157,
+        ocs:C12394,
         ocs:C15417,
         ocs:C15804,
         ocs:C18802,
         ocs:C20314,
         ocs:C20373,
         ocs:C23613,
-        ocs:C2842,
         ocs:C30535,
         ocs:C31983,
         ocs:C36308,
         ocs:C36412,
         ocs:C37722,
         ocs:C37752,
-        ocs:C42234,
-        ocs:C4720,
-        ocs:C490,
-        ocs:C8567 .
+        ocs:C42234 .
 

@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7332 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Red_Hat_cluster_suite> ;
     skos:prefLabel "Red Hat cluster suite" ;
-    skos:related ocs:C12874,
+    skos:related ocs:C9,
+        ocs:C6173,
+        ocs:C6312,
+        ocs:C7476,
+        ocs:C7735,
+        ocs:C8467,
+        ocs:C12874,
         ocs:C14223,
         ocs:C15477,
         ocs:C17533,
@@ -19,11 +25,5 @@ ocs:C7332 a skos:Concept ;
         ocs:C42235,
         ocs:C43345,
         ocs:C44419,
-        ocs:C45518,
-        ocs:C6173,
-        ocs:C6312,
-        ocs:C7476,
-        ocs:C7735,
-        ocs:C8467,
-        ocs:C9 .
+        ocs:C45518 .
 

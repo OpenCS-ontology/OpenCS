@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12263 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C28,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_network_programming> ;
     skos:prefLabel "Computer network programming" ;
-    skos:related ocs:C15478,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C26,
+        ocs:C31,
+        ocs:C443,
+        ocs:C686,
+        ocs:C2674,
+        ocs:C2935,
+        ocs:C3968,
+        ocs:C6072,
+        ocs:C6473,
+        ocs:C8901,
+        ocs:C9931,
+        ocs:C15478,
         ocs:C18219,
         ocs:C20540,
         ocs:C24323,
         ocs:C25917,
-        ocs:C26,
-        ocs:C2674,
         ocs:C27426,
-        ocs:C2935,
-        ocs:C30500,
-        ocs:C31,
-        ocs:C3968,
-        ocs:C443,
-        ocs:C6,
-        ocs:C6072,
-        ocs:C6473,
-        ocs:C686,
-        ocs:C8901,
-        ocs:C9,
-        ocs:C9931 .
+        ocs:C30500 .
 

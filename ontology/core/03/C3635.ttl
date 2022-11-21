@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3635 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Brainfuck> ;
     skos:prefLabel "Brainfuck" ;
-    skos:related ocs:C10284,
-        ocs:C12257,
-        ocs:C19,
+    skos:related ocs:C19,
         ocs:C3036,
-        ocs:C32926,
-        ocs:C34887,
         ocs:C3640,
         ocs:C3685,
-        ocs:C39944,
         ocs:C4321,
-        ocs:C45680,
         ocs:C4918,
         ocs:C6072,
         ocs:C6411,
         ocs:C6525,
         ocs:C6714,
         ocs:C6779,
-        ocs:C9833 .
+        ocs:C9833,
+        ocs:C10284,
+        ocs:C12257,
+        ocs:C32926,
+        ocs:C34887,
+        ocs:C39944,
+        ocs:C45680 .
 

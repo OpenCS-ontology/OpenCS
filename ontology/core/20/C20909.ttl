@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20909 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C5745 ;
+    skos:broader ocs:C5745,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Queue_management_system> ;
     skos:prefLabel "Queue management system" ;
-    skos:related ocs:C11696,
-        ocs:C12373,
+    skos:related ocs:C3,
         ocs:C1302,
-        ocs:C15185,
-        ocs:C19350,
-        ocs:C24899,
-        ocs:C3,
-        ocs:C31755,
-        ocs:C36171,
         ocs:C4917,
         ocs:C6199,
         ocs:C6408,
-        ocs:C8028 .
+        ocs:C8028,
+        ocs:C11696,
+        ocs:C12373,
+        ocs:C15185,
+        ocs:C19350,
+        ocs:C24899,
+        ocs:C31755,
+        ocs:C36171 .
 

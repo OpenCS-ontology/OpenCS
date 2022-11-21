@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25042 a skos:Concept ;
-    skos:broader ocs:C10763,
-        ocs:C1564 ;
+    skos:broader ocs:C1564,
+        ocs:C10763 ;
     skos:closeMatch <http://dbpedia.org/resource/Johnson–Nyquist_noise> ;
     skos:prefLabel "Johnson–Nyquist noise" ;
-    skos:related ocs:C10509,
+    skos:related ocs:C1564,
+        ocs:C5505,
+        ocs:C10509,
         ocs:C10763,
-        ocs:C11747,
-        ocs:C1564,
-        ocs:C5505 .
+        ocs:C11747 .
 

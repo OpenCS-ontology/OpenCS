@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7802 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Entity> ;
     skos:prefLabel "Entity" ;
     skos:related ocs:C1443,
         ocs:C1451,
-        ocs:C27386,
-        ocs:C6124 .
+        ocs:C6124,
+        ocs:C27386 .
 

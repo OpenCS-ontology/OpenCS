@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4629 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10 ;
     skos:prefLabel "Phase rotation" .
 

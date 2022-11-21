@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2801 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Feature_extraction> ;
     skos:prefLabel "Feature extraction" ;
-    skos:related ocs:C10382,
-        ocs:C11030,
+    skos:related ocs:C7,
         ocs:C13,
-        ocs:C13677,
-        ocs:C14465,
-        ocs:C14863,
-        ocs:C2005,
-        ocs:C20377,
         ocs:C21,
-        ocs:C24607,
         ocs:C25,
+        ocs:C2005,
         ocs:C3512,
-        ocs:C36403,
         ocs:C5401,
         ocs:C5498,
         ocs:C6912,
-        ocs:C7,
         ocs:C8499,
         ocs:C9022,
-        ocs:C9538 .
+        ocs:C9538,
+        ocs:C10382,
+        ocs:C11030,
+        ocs:C13677,
+        ocs:C14465,
+        ocs:C14863,
+        ocs:C20377,
+        ocs:C24607,
+        ocs:C36403 .
 

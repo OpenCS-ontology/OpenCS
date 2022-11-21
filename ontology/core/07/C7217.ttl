@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7217 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Rigid_transformation> ;
     skos:prefLabel "Rigid transformation" ;
-    skos:related ocs:C14263,
+    skos:related ocs:C7848,
+        ocs:C14263,
         ocs:C16671,
-        ocs:C41932,
-        ocs:C7848 .
+        ocs:C41932 .
 

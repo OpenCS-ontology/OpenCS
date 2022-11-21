@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21604 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C3236 ;
+    skos:broader ocs:C3236,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Broadcast_range> ;
     skos:prefLabel "Broadcast range" ;
-    skos:related ocs:C1219,
+    skos:related ocs:C155,
+        ocs:C1219,
+        ocs:C3044,
+        ocs:C7216,
+        ocs:C7874,
         ocs:C12544,
         ocs:C12999,
-        ocs:C155,
         ocs:C15505,
         ocs:C19903,
         ocs:C21312,
         ocs:C27572,
         ocs:C28716,
-        ocs:C3044,
         ocs:C30635,
         ocs:C31899,
         ocs:C32678,
         ocs:C34890,
         ocs:C36245,
         ocs:C36707,
-        ocs:C36807,
-        ocs:C7216,
-        ocs:C7874 .
+        ocs:C36807 .
 

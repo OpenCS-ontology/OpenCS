@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17140 a skos:Concept ;
-    skos:broader ocs:C12373,
+    skos:broader ocs:C390,
         ocs:C3236,
-        ocs:C390,
         ocs:C4099,
         ocs:C5745,
-        ocs:C8711 ;
+        ocs:C8711,
+        ocs:C12373 ;
     skos:prefLabel "Distributed queuing" .
 

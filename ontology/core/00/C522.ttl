@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C522 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Trusted_third_party> ;
     skos:prefLabel "Trusted third party" ;
-    skos:related ocs:C14647,
+    skos:related ocs:C4218,
+        ocs:C7006,
+        ocs:C14647,
         ocs:C16125,
         ocs:C17314,
         ocs:C20243,
@@ -23,7 +25,5 @@ ocs:C522 a skos:Concept ;
         ocs:C38359,
         ocs:C40789,
         ocs:C41498,
-        ocs:C4218,
-        ocs:C44289,
-        ocs:C7006 .
+        ocs:C44289 .
 

@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5461 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Worse_is_better> ;
     skos:prefLabel "Worse is better" ;
-    skos:related ocs:C14271,
+    skos:related ocs:C9,
+        ocs:C427,
+        ocs:C4269,
+        ocs:C5702,
+        ocs:C5962,
+        ocs:C6657,
+        ocs:C8441,
+        ocs:C14271,
         ocs:C14627,
         ocs:C15650,
         ocs:C20907,
@@ -16,12 +23,5 @@ ocs:C5461 a skos:Concept ;
         ocs:C31696,
         ocs:C32547,
         ocs:C39917,
-        ocs:C4269,
-        ocs:C427,
-        ocs:C44815,
-        ocs:C5702,
-        ocs:C5962,
-        ocs:C6657,
-        ocs:C8441,
-        ocs:C9 .
+        ocs:C44815 .
 

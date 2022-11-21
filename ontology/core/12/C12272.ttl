@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12272 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/TNSDL> ;
     skos:prefLabel "TNSDL" ;
-    skos:related ocs:C10621,
-        ocs:C11128,
-        ocs:C11144,
+    skos:related ocs:C27,
         ocs:C1625,
-        ocs:C25293,
-        ocs:C25382,
-        ocs:C27,
         ocs:C2892,
-        ocs:C29799,
         ocs:C3514,
-        ocs:C36972,
-        ocs:C37543,
         ocs:C4321,
         ocs:C4651,
         ocs:C5279,
         ocs:C6039,
-        ocs:C6987 .
+        ocs:C6987,
+        ocs:C10621,
+        ocs:C11128,
+        ocs:C11144,
+        ocs:C25293,
+        ocs:C25382,
+        ocs:C29799,
+        ocs:C36972,
+        ocs:C37543 .
 

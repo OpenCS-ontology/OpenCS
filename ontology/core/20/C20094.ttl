@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20094 a skos:Concept ;
-    skos:broader ocs:C12647,
-        ocs:C3337 ;
+    skos:broader ocs:C3337,
+        ocs:C12647 ;
     skos:closeMatch <http://dbpedia.org/resource/Comprehension_of_idioms> ;
     skos:prefLabel "Comprehension of idioms" .
 

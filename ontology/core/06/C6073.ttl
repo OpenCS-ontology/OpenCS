@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6073 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Far_pointer> ;
     skos:prefLabel "Far pointer" ;
-    skos:related ocs:C12323,
-        ocs:C1251,
+    skos:related ocs:C1251,
+        ocs:C5147,
+        ocs:C6782,
+        ocs:C8434,
+        ocs:C12323,
         ocs:C14162,
         ocs:C19487,
         ocs:C22508,
@@ -19,8 +22,5 @@ ocs:C6073 a skos:Concept ;
         ocs:C38819,
         ocs:C39282,
         ocs:C39623,
-        ocs:C45812,
-        ocs:C5147,
-        ocs:C6782,
-        ocs:C8434 .
+        ocs:C45812 .
 

@@ -3,11 +3,15 @@
 
 ocs:C5147 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Real_mode> ;
     skos:prefLabel "Real mode" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C7647,
+        ocs:C8434,
+        ocs:C9433,
+        ocs:C10320,
         ocs:C10568,
         ocs:C12323,
         ocs:C19481,
@@ -21,9 +25,5 @@ ocs:C5147 a skos:Concept ;
         ocs:C33174,
         ocs:C37847,
         ocs:C38819,
-        ocs:C43625,
-        ocs:C7647,
-        ocs:C8434,
-        ocs:C9,
-        ocs:C9433 .
+        ocs:C43625 .
 

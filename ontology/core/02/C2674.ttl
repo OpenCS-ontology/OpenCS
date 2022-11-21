@@ -2,18 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2674 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_programming_interface> ;
     skos:prefLabel "Application programming interface" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C1253,
+        ocs:C4918,
+        ocs:C5514,
+        ocs:C5702,
+        ocs:C10720,
         ocs:C11293,
         ocs:C11927,
-        ocs:C1253,
         ocs:C14271,
         ocs:C14627,
-        ocs:C19,
         ocs:C24143,
         ocs:C24235,
         ocs:C24871,
@@ -22,9 +26,5 @@ ocs:C2674 a skos:Concept ;
         ocs:C28941,
         ocs:C30860,
         ocs:C31489,
-        ocs:C34356,
-        ocs:C4918,
-        ocs:C5514,
-        ocs:C5702,
-        ocs:C9 .
+        ocs:C34356 .
 

@@ -5,7 +5,9 @@ ocs:C24189 a skos:Concept ;
     skos:broader ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/IEEE_754> ;
     skos:prefLabel "IEEE floating point" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C6714,
+        ocs:C7602,
+        ocs:C12262,
         ocs:C12315,
         ocs:C18434,
         ocs:C21384,
@@ -20,7 +22,5 @@ ocs:C24189 a skos:Concept ;
         ocs:C39774,
         ocs:C40691,
         ocs:C43784,
-        ocs:C45395,
-        ocs:C6714,
-        ocs:C7602 .
+        ocs:C45395 .
 

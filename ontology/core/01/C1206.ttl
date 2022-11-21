@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1206 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/LonWorks> ;
     skos:prefLabel "LonWorks" ;
-    skos:related ocs:C11153,
-        ocs:C14858,
+    skos:related ocs:C490,
         ocs:C1626,
-        ocs:C22449,
-        ocs:C22845,
         ocs:C4458,
-        ocs:C490,
         ocs:C7740,
         ocs:C8016,
-        ocs:C8733 .
+        ocs:C8733,
+        ocs:C11153,
+        ocs:C14858,
+        ocs:C22449,
+        ocs:C22845 .
 

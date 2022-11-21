@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12532 a skos:Concept ;
-    skos:broader ocs:C30,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Fallacies_of_distributed_computing> ;
     skos:prefLabel "Fallacies of distributed computing" ;
-    skos:related ocs:C1142,
+    skos:related ocs:C30,
+        ocs:C710,
+        ocs:C1142,
         ocs:C1253,
+        ocs:C1491,
+        ocs:C6346,
         ocs:C13206,
         ocs:C14627,
-        ocs:C1491,
         ocs:C17272,
         ocs:C17472,
         ocs:C19153,
         ocs:C24550,
         ocs:C26617,
         ocs:C28080,
-        ocs:C30,
         ocs:C34694,
         ocs:C35263,
-        ocs:C35932,
-        ocs:C6346,
-        ocs:C710 .
+        ocs:C35932 .
 

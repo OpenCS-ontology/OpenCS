@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23014 a skos:Concept ;
-    skos:broader ocs:C10327,
-        ocs:C5659 ;
+    skos:broader ocs:C5659,
+        ocs:C10327 ;
     skos:closeMatch <http://dbpedia.org/resource/Fril> ;
     skos:prefLabel "Fril" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C19,
+        ocs:C2311,
+        ocs:C6531,
+        ocs:C8037,
+        ocs:C8441,
+        ocs:C10327,
         ocs:C11812,
         ocs:C15335,
         ocs:C17701,
-        ocs:C19,
-        ocs:C2311,
         ocs:C26572,
         ocs:C28259,
         ocs:C28356,
@@ -21,8 +24,5 @@ ocs:C23014 a skos:Concept ;
         ocs:C39278,
         ocs:C43099,
         ocs:C44124,
-        ocs:C44891,
-        ocs:C6531,
-        ocs:C8037,
-        ocs:C8441 .
+        ocs:C44891 .
 

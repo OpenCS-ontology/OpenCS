@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9056 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Connection_pool> ;
     skos:prefLabel "Connection pool" ;
-    skos:related ocs:C12164,
+    skos:related ocs:C6,
+        ocs:C671,
+        ocs:C3050,
+        ocs:C5497,
+        ocs:C6650,
+        ocs:C12164,
         ocs:C12185,
         ocs:C13984,
         ocs:C16874,
         ocs:C18567,
-        ocs:C3050,
         ocs:C32657,
         ocs:C33457,
         ocs:C43716,
-        ocs:C45343,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C6650,
-        ocs:C671 .
+        ocs:C45343 .
 

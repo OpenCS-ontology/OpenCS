@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3615 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:prefLabel "Imaging order" ;
-    skos:related ocs:C12431,
-        ocs:C12582,
-        ocs:C14306,
-        ocs:C22,
+    skos:related ocs:C22,
         ocs:C2529,
         ocs:C3236,
         ocs:C7911,
-        ocs:C8704 .
+        ocs:C8704,
+        ocs:C12431,
+        ocs:C12582,
+        ocs:C14306 .
 

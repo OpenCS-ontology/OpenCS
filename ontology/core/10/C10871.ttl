@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10871 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Approx> ;
     skos:prefLabel "Approx" ;
-    skos:related ocs:C10689,
+    skos:related ocs:C4663,
+        ocs:C5674,
+        ocs:C8614,
+        ocs:C8714,
+        ocs:C10689,
         ocs:C14810,
         ocs:C16966,
         ocs:C17235,
@@ -19,9 +23,5 @@ ocs:C10871 a skos:Concept ;
         ocs:C40510,
         ocs:C40902,
         ocs:C42070,
-        ocs:C42429,
-        ocs:C4663,
-        ocs:C5674,
-        ocs:C8614,
-        ocs:C8714 .
+        ocs:C42429 .
 

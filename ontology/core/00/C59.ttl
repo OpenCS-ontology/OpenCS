@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C59 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C29,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Behavior_tree> ;
     skos:prefLabel "Behavior Trees" .
 

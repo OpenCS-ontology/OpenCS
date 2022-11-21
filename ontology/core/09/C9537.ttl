@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9537 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C24,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/User_Friendly> ;
     skos:prefLabel "User Friendly" ;
-    skos:related ocs:C1141,
+    skos:related ocs:C8,
+        ocs:C9,
+        ocs:C18,
+        ocs:C31,
+        ocs:C155,
+        ocs:C653,
+        ocs:C1141,
+        ocs:C3036,
+        ocs:C3070,
+        ocs:C8250,
         ocs:C12278,
         ocs:C12815,
         ocs:C13274,
         ocs:C13368,
-        ocs:C155,
         ocs:C17204,
-        ocs:C18,
-        ocs:C3036,
-        ocs:C3070,
-        ocs:C31,
         ocs:C31489,
-        ocs:C44483,
-        ocs:C653,
-        ocs:C8,
-        ocs:C8250,
-        ocs:C9 .
+        ocs:C44483 .
 

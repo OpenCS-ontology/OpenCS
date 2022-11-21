@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5682 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Language-independent_specification> ;
     skos:prefLabel "Language-independent specification" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C2674,
+        ocs:C3176,
+        ocs:C3905,
+        ocs:C4918,
+        ocs:C7236,
+        ocs:C10284,
         ocs:C11152,
         ocs:C11293,
         ocs:C11927,
         ocs:C13068,
         ocs:C17389,
-        ocs:C19,
         ocs:C22597,
         ocs:C23740,
         ocs:C23990,
         ocs:C24235,
-        ocs:C2674,
-        ocs:C3176,
-        ocs:C31894,
-        ocs:C3905,
-        ocs:C4918,
-        ocs:C7236 .
+        ocs:C31894 .
 

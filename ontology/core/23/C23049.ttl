@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23049 a skos:Concept ;
-    skos:broader ocs:C10768,
-        ocs:C2480 ;
+    skos:broader ocs:C2480,
+        ocs:C10768 ;
     skos:prefLabel "Laryngeal articulation" ;
-    skos:related ocs:C18818,
+    skos:related ocs:C308,
         ocs:C2480,
-        ocs:C27262,
-        ocs:C308,
-        ocs:C4522 .
+        ocs:C4522,
+        ocs:C18818,
+        ocs:C27262 .
 

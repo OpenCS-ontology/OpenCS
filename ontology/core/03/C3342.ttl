@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3342 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C33,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Change_request> ;
     skos:prefLabel "Change request" ;
-    skos:related ocs:C10137,
-        ocs:C1020,
+    skos:related ocs:C1020,
+        ocs:C3674,
+        ocs:C7509,
+        ocs:C9700,
+        ocs:C10137,
         ocs:C12746,
         ocs:C24257,
         ocs:C27261,
         ocs:C28080,
         ocs:C31773,
-        ocs:C3674,
-        ocs:C45228,
-        ocs:C7509,
-        ocs:C9700 .
+        ocs:C45228 .
 

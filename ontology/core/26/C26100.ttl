@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26100 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Pulse_height_analyzer> ;
     skos:prefLabel "Pulse height analyzer" ;
     skos:related ocs:C15499,

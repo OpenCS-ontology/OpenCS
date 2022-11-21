@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11991 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:prefLabel "Entry point" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C9,
+        ocs:C19,
         ocs:C1083,
-        ocs:C11293,
-        ocs:C12257,
-        ocs:C12974,
         ocs:C1333,
         ocs:C1386,
-        ocs:C17204,
-        ocs:C19,
         ocs:C2057,
-        ocs:C25185,
-        ocs:C30078,
-        ocs:C31489,
         ocs:C4321,
         ocs:C6072,
         ocs:C6887,
         ocs:C6941,
         ocs:C7800,
-        ocs:C9 .
+        ocs:C10284,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C17204,
+        ocs:C25185,
+        ocs:C30078,
+        ocs:C31489 .
 

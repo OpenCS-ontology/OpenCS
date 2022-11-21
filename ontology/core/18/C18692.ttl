@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18692 a skos:Concept ;
-    skos:broader ocs:C13306,
-        ocs:C5336 ;
+    skos:broader ocs:C5336,
+        ocs:C13306 ;
     skos:closeMatch <http://dbpedia.org/resource/Soft_IP> ;
     skos:prefLabel "Soft IP" ;
     skos:related ocs:C13306,

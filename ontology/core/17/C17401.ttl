@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17401 a skos:Concept ;
-    skos:broader ocs:C11927,
-        ocs:C2464 ;
+    skos:broader ocs:C2464,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/Document_Object_Model> ;
     skos:prefLabel "Document Object Model" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C355,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C3679,
+        ocs:C4918,
+        ocs:C11927,
         ocs:C12477,
         ocs:C12810,
         ocs:C13068,
         ocs:C16338,
         ocs:C18361,
         ocs:C22597,
-        ocs:C2464,
         ocs:C26528,
-        ocs:C2674,
         ocs:C27119,
         ocs:C28801,
         ocs:C33052,
         ocs:C33709,
         ocs:C34536,
-        ocs:C355,
-        ocs:C3679,
         ocs:C40575,
-        ocs:C40902,
-        ocs:C4918 .
+        ocs:C40902 .
 

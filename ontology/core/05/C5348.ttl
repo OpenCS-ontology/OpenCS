@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5348 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Gandalf_(theorem_prover)> ;
     skos:prefLabel "Gandalf" ;
-    skos:related ocs:C1092,
+    skos:related ocs:C852,
+        ocs:C1092,
+        ocs:C2418,
+        ocs:C4149,
+        ocs:C4756,
+        ocs:C6531,
+        ocs:C8534,
         ocs:C12474,
         ocs:C12977,
         ocs:C17709,
         ocs:C18691,
         ocs:C21497,
         ocs:C23992,
-        ocs:C2418,
         ocs:C24599,
         ocs:C27837,
         ocs:C30737,
         ocs:C38887,
-        ocs:C4149,
         ocs:C43210,
-        ocs:C45817,
-        ocs:C4756,
-        ocs:C6531,
-        ocs:C852,
-        ocs:C8534 .
+        ocs:C45817 .
 

@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21092 a skos:Concept ;
-    skos:broader ocs:C12313,
-        ocs:C6545 ;
+    skos:broader ocs:C6545,
+        ocs:C12313 ;
     skos:closeMatch <http://dbpedia.org/resource/Separable_verb> ;
     skos:prefLabel "Separable verb" ;
     skos:related ocs:C1034,
+        ocs:C3261,
+        ocs:C6545,
+        ocs:C6764,
         ocs:C11932,
         ocs:C12443,
         ocs:C20518,
@@ -19,8 +22,5 @@ ocs:C21092 a skos:Concept ;
         ocs:C26896,
         ocs:C32275,
         ocs:C32490,
-        ocs:C3261,
-        ocs:C33168,
-        ocs:C6545,
-        ocs:C6764 .
+        ocs:C33168 .
 

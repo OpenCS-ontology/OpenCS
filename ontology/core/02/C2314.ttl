@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2314 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Orchestra_Control_Engine> ;
     skos:prefLabel "Orchestra Control Engine" ;
-    skos:related ocs:C11502,
+    skos:related ocs:C33,
+        ocs:C7521,
+        ocs:C11502,
         ocs:C14623,
         ocs:C18236,
         ocs:C22751,
@@ -14,10 +16,8 @@ ocs:C2314 a skos:Concept ;
         ocs:C29215,
         ocs:C29868,
         ocs:C31489,
-        ocs:C33,
         ocs:C37333,
         ocs:C43065,
         ocs:C44925,
-        ocs:C45072,
-        ocs:C7521 .
+        ocs:C45072 .
 

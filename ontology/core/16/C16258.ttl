@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16258 a skos:Concept ;
-    skos:broader ocs:C13006,
-        ocs:C1566,
+    skos:broader ocs:C1566,
         ocs:C2298,
         ocs:C6028,
         ocs:C6764,
         ocs:C8090,
         ocs:C8564,
-        ocs:C9106 ;
+        ocs:C9106,
+        ocs:C13006 ;
     skos:prefLabel "Air travel information service" .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13646 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_Access_in_Real_Time> ;
     skos:prefLabel "Data Access in Real Time" ;
-    skos:related ocs:C11152,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C29,
+        ocs:C3039,
+        ocs:C3948,
+        ocs:C11152,
         ocs:C14271,
         ocs:C16953,
         ocs:C16980,
         ocs:C22597,
         ocs:C24323,
-        ocs:C26,
-        ocs:C29,
         ocs:C29359,
-        ocs:C3039,
         ocs:C30688,
         ocs:C37732,
         ocs:C38032,
         ocs:C38644,
-        ocs:C3948,
         ocs:C42612,
-        ocs:C45269,
-        ocs:C9 .
+        ocs:C45269 .
 

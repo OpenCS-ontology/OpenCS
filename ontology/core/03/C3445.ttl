@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3445 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Event_calculus> ;
     skos:prefLabel "Event calculus" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C8,
+        ocs:C1936,
+        ocs:C2418,
+        ocs:C2872,
+        ocs:C3579,
+        ocs:C6531,
+        ocs:C10327,
         ocs:C10825,
         ocs:C17372,
         ocs:C18413,
-        ocs:C1936,
         ocs:C19908,
-        ocs:C2418,
-        ocs:C2872,
         ocs:C29762,
         ocs:C32228,
-        ocs:C3579,
         ocs:C38602,
         ocs:C39073,
         ocs:C44864,
-        ocs:C45174,
-        ocs:C6531,
-        ocs:C8 .
+        ocs:C45174 .
 

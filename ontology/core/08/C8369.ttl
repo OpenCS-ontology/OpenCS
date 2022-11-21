@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8369 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C29,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/4D_vector> ;
     skos:prefLabel "4D vector" ;
-    skos:related ocs:C1381,
+    skos:related ocs:C856,
+        ocs:C1381,
         ocs:C1884,
         ocs:C1904,
-        ocs:C19487,
         ocs:C2478,
-        ocs:C29600,
-        ocs:C29766,
         ocs:C3355,
-        ocs:C36211,
-        ocs:C43267,
         ocs:C6172,
         ocs:C7507,
         ocs:C7571,
-        ocs:C856 .
+        ocs:C19487,
+        ocs:C29600,
+        ocs:C29766,
+        ocs:C36211,
+        ocs:C43267 .
 

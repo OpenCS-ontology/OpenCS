@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19182 a skos:Concept ;
-    skos:broader ocs:C10396,
-        ocs:C7513 ;
+    skos:broader ocs:C7513,
+        ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/Swarm_robotics> ;
     skos:prefLabel "Swarm robotics" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C8,
+        ocs:C2579,
+        ocs:C5140,
+        ocs:C6743,
+        ocs:C7513,
+        ocs:C9373,
+        ocs:C10396,
         ocs:C12530,
         ocs:C17236,
         ocs:C19558,
         ocs:C19750,
-        ocs:C2579,
         ocs:C28784,
         ocs:C31485,
         ocs:C31846,
         ocs:C36715,
-        ocs:C41263,
-        ocs:C5140,
-        ocs:C6743,
-        ocs:C7513,
-        ocs:C8,
-        ocs:C9373 .
+        ocs:C41263 .
 

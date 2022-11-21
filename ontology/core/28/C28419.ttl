@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28419 a skos:Concept ;
-    skos:broader ocs:C12077,
-        ocs:C2801,
-        ocs:C7911 ;
+    skos:broader ocs:C2801,
+        ocs:C7911,
+        ocs:C12077 ;
     skos:closeMatch <http://dbpedia.org/resource/Caltech_101> ;
     skos:prefLabel "Caltech 101" ;
-    skos:related ocs:C11598,
+    skos:related ocs:C7,
+        ocs:C25,
+        ocs:C989,
+        ocs:C2801,
+        ocs:C3063,
+        ocs:C8969,
+        ocs:C11598,
         ocs:C14082,
         ocs:C14465,
         ocs:C14863,
         ocs:C19697,
         ocs:C24607,
-        ocs:C25,
-        ocs:C2801,
         ocs:C29175,
-        ocs:C3063,
         ocs:C31308,
         ocs:C32055,
         ocs:C35663,
         ocs:C37748,
         ocs:C43031,
-        ocs:C45753,
-        ocs:C7,
-        ocs:C8969,
-        ocs:C989 .
+        ocs:C45753 .
 

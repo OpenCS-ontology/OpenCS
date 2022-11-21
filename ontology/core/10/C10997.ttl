@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10997 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Agent-based_model> ;
     skos:prefLabel "Agent-based model" ;
-    skos:related ocs:C11143,
-        ocs:C11866,
-        ocs:C122,
-        ocs:C19727,
-        ocs:C20012,
+    skos:related ocs:C8,
         ocs:C24,
+        ocs:C122,
+        ocs:C597,
+        ocs:C925,
         ocs:C2579,
-        ocs:C26213,
         ocs:C2650,
-        ocs:C29276,
         ocs:C3046,
         ocs:C5496,
-        ocs:C597,
         ocs:C7256,
-        ocs:C8,
-        ocs:C925,
-        ocs:C9383 .
+        ocs:C9383,
+        ocs:C11143,
+        ocs:C11866,
+        ocs:C19727,
+        ocs:C20012,
+        ocs:C26213,
+        ocs:C29276 .
 

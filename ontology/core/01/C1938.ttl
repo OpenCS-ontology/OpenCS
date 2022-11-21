@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1938 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Histogram> ;
     skos:prefLabel "Histogram" ;
-    skos:related ocs:C1089,
-        ocs:C18406,
-        ocs:C1844,
-        ocs:C27660,
-        ocs:C383,
-        ocs:C4752,
+    skos:related ocs:C383,
         ocs:C597,
-        ocs:C6116,
         ocs:C795,
-        ocs:C9326 .
+        ocs:C1089,
+        ocs:C1844,
+        ocs:C4752,
+        ocs:C6116,
+        ocs:C9326,
+        ocs:C18406,
+        ocs:C27660 .
 

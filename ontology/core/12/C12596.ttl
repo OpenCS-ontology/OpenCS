@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12596 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Network_administrator> ;
     skos:prefLabel "Network administrator" ;
     skos:related ocs:C1,
-        ocs:C1253,
-        ocs:C13307,
-        ocs:C197,
-        ocs:C20540,
-        ocs:C24323,
+        ocs:C9,
         ocs:C26,
-        ocs:C27557,
-        ocs:C28881,
-        ocs:C30078,
-        ocs:C30500,
-        ocs:C3394,
         ocs:C35,
-        ocs:C38632,
-        ocs:C40965,
+        ocs:C197,
+        ocs:C1253,
+        ocs:C3394,
         ocs:C5112,
         ocs:C5705,
         ocs:C6592,
         ocs:C8614,
-        ocs:C9 .
+        ocs:C13307,
+        ocs:C20540,
+        ocs:C24323,
+        ocs:C27557,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C30500,
+        ocs:C38632,
+        ocs:C40965 .
 

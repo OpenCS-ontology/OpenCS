@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3341 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Optical_flow> ;
     skos:prefLabel "Optical flow" ;
-    skos:related ocs:C11548,
+    skos:related ocs:C7,
         ocs:C1239,
+        ocs:C5164,
+        ocs:C5404,
+        ocs:C8021,
+        ocs:C9022,
+        ocs:C9603,
+        ocs:C11548,
         ocs:C13092,
         ocs:C13142,
         ocs:C18367,
         ocs:C23853,
         ocs:C24612,
-        ocs:C31648,
-        ocs:C5164,
-        ocs:C5404,
-        ocs:C7,
-        ocs:C8021,
-        ocs:C9022,
-        ocs:C9603 .
+        ocs:C31648 .
 

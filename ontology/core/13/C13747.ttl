@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13747 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Application-specific_integrated_circuit> ;
     skos:prefLabel "Application-specific integrated circuit" ;
-    skos:related ocs:C10320,
-        ocs:C11,
-        ocs:C11252,
-        ocs:C11814,
-        ocs:C14694,
-        ocs:C1904,
-        ocs:C23473,
+    skos:related ocs:C11,
         ocs:C254,
-        ocs:C26090,
-        ocs:C3160,
-        ocs:C37773,
         ocs:C490,
+        ocs:C1904,
+        ocs:C3160,
         ocs:C5336,
         ocs:C6172,
         ocs:C7165,
-        ocs:C9908 .
+        ocs:C9908,
+        ocs:C10320,
+        ocs:C11252,
+        ocs:C11814,
+        ocs:C14694,
+        ocs:C23473,
+        ocs:C26090,
+        ocs:C37773 .
 

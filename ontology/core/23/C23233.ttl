@@ -3,13 +3,15 @@
 
 ocs:C23233 a skos:Concept ;
     skos:broader ocs:C1035,
-        ocs:C10720,
         ocs:C3905,
-        ocs:C8786 ;
+        ocs:C8786,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/Object-Z> ;
     skos:prefLabel "Object-Z" ;
-    skos:related ocs:C10284,
-        ocs:C1035,
+    skos:related ocs:C1035,
+        ocs:C3905,
+        ocs:C8786,
+        ocs:C10284,
         ocs:C10720,
         ocs:C14655,
         ocs:C17734,
@@ -23,8 +25,6 @@ ocs:C23233 a skos:Concept ;
         ocs:C33275,
         ocs:C34066,
         ocs:C38027,
-        ocs:C3905,
         ocs:C39278,
-        ocs:C43659,
-        ocs:C8786 .
+        ocs:C43659 .
 

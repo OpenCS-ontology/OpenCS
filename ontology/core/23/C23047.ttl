@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23047 a skos:Concept ;
-    skos:broader ocs:C13265,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C13265 ;
     skos:prefLabel "Exposure Start Time" ;
     skos:related ocs:C1,
-        ocs:C12431,
         ocs:C2,
-        ocs:C22,
-        ocs:C2369,
-        ocs:C25591,
-        ocs:C33,
-        ocs:C4099,
         ocs:C7,
+        ocs:C22,
+        ocs:C33,
+        ocs:C2369,
+        ocs:C4099,
         ocs:C7789,
         ocs:C8499,
-        ocs:C9611 .
+        ocs:C9611,
+        ocs:C12431,
+        ocs:C25591 .
 

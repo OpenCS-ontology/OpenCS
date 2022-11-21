@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9116 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Aerial_video> ;
     skos:prefLabel "Aerial video" ;
-    skos:related ocs:C10683,
+    skos:related ocs:C622,
+        ocs:C2703,
+        ocs:C6219,
+        ocs:C8499,
+        ocs:C8755,
+        ocs:C10683,
         ocs:C12641,
         ocs:C12725,
         ocs:C16797,
         ocs:C22650,
-        ocs:C2703,
         ocs:C27569,
         ocs:C31518,
         ocs:C37333,
-        ocs:C45860,
-        ocs:C6219,
-        ocs:C622,
-        ocs:C8499,
-        ocs:C8755 .
+        ocs:C45860 .
 

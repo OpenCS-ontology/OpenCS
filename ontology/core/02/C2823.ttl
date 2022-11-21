@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2823 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Form_grabbing> ;
     skos:prefLabel "Form grabbing" ;
-    skos:related ocs:C13177,
+    skos:related ocs:C31,
+        ocs:C35,
+        ocs:C2941,
+        ocs:C4031,
+        ocs:C13177,
         ocs:C13518,
         ocs:C16481,
         ocs:C17126,
@@ -15,13 +19,9 @@ ocs:C2823 a skos:Concept ;
         ocs:C20937,
         ocs:C24479,
         ocs:C28881,
-        ocs:C2941,
         ocs:C29803,
         ocs:C30926,
-        ocs:C31,
-        ocs:C35,
         ocs:C35995,
-        ocs:C4031,
         ocs:C40404,
         ocs:C41498 .
 

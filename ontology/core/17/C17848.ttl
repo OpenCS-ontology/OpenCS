@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17848 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_broadcasting> ;
     skos:prefLabel "Digital broadcasting" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C3522,
+        ocs:C4433,
+        ocs:C7159,
+        ocs:C7216,
+        ocs:C12544,
         ocs:C12999,
         ocs:C15505,
         ocs:C20140,
@@ -20,9 +24,5 @@ ocs:C17848 a skos:Concept ;
         ocs:C33691,
         ocs:C34364,
         ocs:C34890,
-        ocs:C3522,
-        ocs:C36807,
-        ocs:C4433,
-        ocs:C7159,
-        ocs:C7216 .
+        ocs:C36807 .
 

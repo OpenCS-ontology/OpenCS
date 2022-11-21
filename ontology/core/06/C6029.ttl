@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6029 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/ECall> ;
     skos:prefLabel "eCall" ;
-    skos:related ocs:C12641,
-        ocs:C16218,
-        ocs:C19226,
-        ocs:C19372,
-        ocs:C30565,
-        ocs:C30890,
-        ocs:C31452,
-        ocs:C4428,
+    skos:related ocs:C4428,
         ocs:C5917,
         ocs:C7792,
         ocs:C9100,
         ocs:C9113,
         ocs:C9154,
-        ocs:C9846 .
+        ocs:C9846,
+        ocs:C12641,
+        ocs:C16218,
+        ocs:C19226,
+        ocs:C19372,
+        ocs:C30565,
+        ocs:C30890,
+        ocs:C31452 .
 

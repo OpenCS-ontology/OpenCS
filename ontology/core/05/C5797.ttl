@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5797 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:prefLabel "Image View" ;
-    skos:related ocs:C10510,
-        ocs:C12077,
+    skos:related ocs:C2,
         ocs:C17,
+        ocs:C695,
         ocs:C1938,
-        ocs:C2,
+        ocs:C3847,
+        ocs:C5702,
+        ocs:C8021,
+        ocs:C8330,
+        ocs:C8706,
+        ocs:C10510,
+        ocs:C12077,
         ocs:C22623,
         ocs:C23856,
         ocs:C25599,
-        ocs:C37748,
-        ocs:C3847,
-        ocs:C5702,
-        ocs:C695,
-        ocs:C8021,
-        ocs:C8330,
-        ocs:C8706 .
+        ocs:C37748 .
 

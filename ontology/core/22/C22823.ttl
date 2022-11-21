@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22823 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C390 ;
+    skos:broader ocs:C390,
+        ocs:C12999 ;
     skos:prefLabel "Broadcast packet" .
 

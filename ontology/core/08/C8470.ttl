@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8470 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_enablement> ;
     skos:prefLabel "Application enablement" ;
-    skos:related ocs:C10084,
+    skos:related ocs:C26,
+        ocs:C4197,
+        ocs:C10084,
         ocs:C12111,
         ocs:C12308,
         ocs:C12853,
@@ -16,13 +18,11 @@ ocs:C8470 a skos:Concept ;
         ocs:C19514,
         ocs:C22407,
         ocs:C25493,
-        ocs:C26,
         ocs:C26023,
         ocs:C28022,
         ocs:C28134,
         ocs:C29023,
         ocs:C33600,
         ocs:C39574,
-        ocs:C4197,
         ocs:C44266 .
 

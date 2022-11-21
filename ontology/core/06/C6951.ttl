@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6951 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Structured_light> ;
     skos:prefLabel "Structured light" ;
-    skos:related ocs:C11868,
+    skos:related ocs:C7,
+        ocs:C597,
+        ocs:C2703,
+        ocs:C2883,
+        ocs:C9879,
+        ocs:C11868,
         ocs:C12661,
         ocs:C13549,
         ocs:C18367,
         ocs:C18519,
         ocs:C24825,
         ocs:C25137,
-        ocs:C25599,
-        ocs:C2703,
-        ocs:C2883,
-        ocs:C597,
-        ocs:C7,
-        ocs:C9879 .
+        ocs:C25599 .
 

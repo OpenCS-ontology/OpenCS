@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5678 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Integrated_criminal_justice_information_system> ;
     skos:prefLabel "Integrated criminal justice information system" ;
-    skos:related ocs:C10979,
+    skos:related ocs:C12,
+        ocs:C197,
         ocs:C1100,
-        ocs:C12,
+        ocs:C2529,
+        ocs:C2979,
+        ocs:C3034,
+        ocs:C9400,
+        ocs:C10979,
         ocs:C14855,
         ocs:C19374,
-        ocs:C197,
         ocs:C21427,
-        ocs:C2529,
         ocs:C25464,
-        ocs:C2979,
         ocs:C29870,
         ocs:C29896,
-        ocs:C3034,
         ocs:C31650,
         ocs:C32110,
         ocs:C34588,
         ocs:C44052,
-        ocs:C45114,
-        ocs:C9400 .
+        ocs:C45114 .
 

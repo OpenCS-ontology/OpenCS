@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24148 a skos:Concept ;
-    skos:broader ocs:C10219,
-        ocs:C1451,
+    skos:broader ocs:C1451,
         ocs:C1631,
-        ocs:C6941 ;
+        ocs:C6941,
+        ocs:C10219 ;
     skos:closeMatch <http://dbpedia.org/resource/Continuation-passing_style> ;
     skos:prefLabel "Continuation-passing style" ;
-    skos:related ocs:C10219,
-        ocs:C12108,
+    skos:related ocs:C19,
         ocs:C1333,
         ocs:C1631,
-        ocs:C16614,
-        ocs:C19,
         ocs:C2009,
-        ocs:C20208,
-        ocs:C20907,
-        ocs:C25684,
         ocs:C2876,
-        ocs:C28783,
         ocs:C3537,
-        ocs:C36593,
         ocs:C4321,
         ocs:C4918,
         ocs:C4937,
         ocs:C6941,
-        ocs:C8441 .
+        ocs:C8441,
+        ocs:C10219,
+        ocs:C12108,
+        ocs:C16614,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C25684,
+        ocs:C28783,
+        ocs:C36593 .
 

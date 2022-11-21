@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10327 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C29,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Logic_programming> ;
     skos:prefLabel "Logic programming" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C19,
+        ocs:C1631,
+        ocs:C2418,
+        ocs:C4321,
+        ocs:C6400,
+        ocs:C6531,
+        ocs:C6941,
+        ocs:C8751,
         ocs:C10720,
         ocs:C11812,
-        ocs:C1631,
         ocs:C17372,
-        ocs:C19,
         ocs:C19031,
         ocs:C23909,
-        ocs:C2418,
         ocs:C29762,
         ocs:C31724,
         ocs:C36972,
         ocs:C39073,
-        ocs:C4321,
-        ocs:C44864,
-        ocs:C6400,
-        ocs:C6531,
-        ocs:C6941,
-        ocs:C8,
-        ocs:C8751 .
+        ocs:C44864 .
 

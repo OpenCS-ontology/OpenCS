@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26457 a skos:Concept ;
-    skos:broader ocs:C12942,
-        ocs:C4099,
-        ocs:C8475 ;
+    skos:broader ocs:C4099,
+        ocs:C8475,
+        ocs:C12942 ;
     skos:closeMatch <http://dbpedia.org/resource/Demultiplexer_(media_file)> ;
     skos:prefLabel "Demultiplexer" ;
-    skos:related ocs:C11531,
+    skos:related ocs:C9,
+        ocs:C333,
+        ocs:C390,
+        ocs:C1507,
+        ocs:C6143,
+        ocs:C8068,
+        ocs:C9266,
+        ocs:C11531,
         ocs:C11933,
         ocs:C12942,
-        ocs:C1507,
         ocs:C19334,
         ocs:C20448,
         ocs:C26268,
         ocs:C27081,
         ocs:C27568,
-        ocs:C333,
         ocs:C34624,
         ocs:C37689,
-        ocs:C390,
-        ocs:C42693,
-        ocs:C6143,
-        ocs:C8068,
-        ocs:C9,
-        ocs:C9266 .
+        ocs:C42693 .
 

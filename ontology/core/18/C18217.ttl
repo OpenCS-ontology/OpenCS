@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18217 a skos:Concept ;
-    skos:broader ocs:C13305,
-        ocs:C163 ;
+    skos:broader ocs:C163,
+        ocs:C13305 ;
     skos:closeMatch <http://dbpedia.org/resource/Competitive_local_exchange_carrier> ;
     skos:prefLabel "Competitive local exchange carrier" ;
-    skos:related ocs:C17411,
-        ocs:C17867,
-        ocs:C19350,
-        ocs:C21610,
+    skos:related ocs:C3,
         ocs:C2188,
-        ocs:C22407,
         ocs:C2352,
-        ocs:C25293,
-        ocs:C28758,
-        ocs:C3,
-        ocs:C31109,
         ocs:C6027,
         ocs:C8614,
         ocs:C9113,
-        ocs:C9327 .
+        ocs:C9327,
+        ocs:C17411,
+        ocs:C17867,
+        ocs:C19350,
+        ocs:C21610,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C28758,
+        ocs:C31109 .
 

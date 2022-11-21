@@ -6,7 +6,9 @@ ocs:C24497 a skos:Concept ;
         ocs:C13306 ;
     skos:closeMatch <http://dbpedia.org/resource/Database_Directive> ;
     skos:prefLabel "Database Directive" ;
-    skos:related ocs:C13,
+    skos:related ocs:C6,
+        ocs:C13,
+        ocs:C767,
         ocs:C13306,
         ocs:C17042,
         ocs:C30476,
@@ -15,7 +17,5 @@ ocs:C24497 a skos:Concept ;
         ocs:C33646,
         ocs:C37277,
         ocs:C41273,
-        ocs:C44209,
-        ocs:C6,
-        ocs:C767 .
+        ocs:C44209 .
 

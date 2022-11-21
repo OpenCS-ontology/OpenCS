@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1056 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Source_document> ;
     skos:prefLabel "Source document" ;
     skos:related ocs:C3267,

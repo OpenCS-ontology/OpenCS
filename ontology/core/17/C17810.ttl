@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17810 a skos:Concept ;
-    skos:broader ocs:C11213,
-        ocs:C6505 ;
+    skos:broader ocs:C6505,
+        ocs:C11213 ;
     skos:closeMatch <http://dbpedia.org/resource/Phonetic_complement> ;
     skos:prefLabel "Phonetic complement" ;
-    skos:related ocs:C16549,
-        ocs:C5862,
-        ocs:C6505 .
+    skos:related ocs:C5862,
+        ocs:C6505,
+        ocs:C16549 .
 

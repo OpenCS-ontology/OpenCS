@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1006 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_developer> ;
     skos:prefLabel "Web developer" ;
-    skos:related ocs:C12477,
+    skos:related ocs:C31,
+        ocs:C75,
+        ocs:C355,
+        ocs:C2464,
+        ocs:C2674,
+        ocs:C3520,
+        ocs:C4918,
+        ocs:C8614,
+        ocs:C12477,
         ocs:C12810,
         ocs:C16336,
         ocs:C16338,
         ocs:C17235,
         ocs:C17557,
         ocs:C22597,
-        ocs:C2464,
         ocs:C26528,
-        ocs:C2674,
         ocs:C28533,
         ocs:C28801,
-        ocs:C31,
-        ocs:C3520,
-        ocs:C355,
         ocs:C40049,
-        ocs:C40346,
-        ocs:C4918,
-        ocs:C75,
-        ocs:C8614 .
+        ocs:C40346 .
 

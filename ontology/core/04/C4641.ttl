@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4641 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/MIME> ;
     skos:prefLabel "MIME" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C31,
+        ocs:C5126,
+        ocs:C6965,
+        ocs:C7809,
+        ocs:C7938,
+        ocs:C8614,
+        ocs:C9162,
+        ocs:C11927,
         ocs:C12995,
         ocs:C14647,
         ocs:C14983,
@@ -15,13 +22,6 @@ ocs:C4641 a skos:Concept ;
         ocs:C24131,
         ocs:C28801,
         ocs:C28881,
-        ocs:C31,
         ocs:C41442,
-        ocs:C42304,
-        ocs:C5126,
-        ocs:C6965,
-        ocs:C7809,
-        ocs:C7938,
-        ocs:C8614,
-        ocs:C9162 .
+        ocs:C42304 .
 

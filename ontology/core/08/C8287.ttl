@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8287 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3,
-        ocs:C9 ;
+    skos:broader ocs:C3,
+        ocs:C9,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Long-term_prediction_(communications)> ;
     skos:prefLabel "Long-term prediction" ;
-    skos:related ocs:C1198,
+    skos:related ocs:C634,
+        ocs:C796,
+        ocs:C1198,
         ocs:C1210,
+        ocs:C5917,
+        ocs:C6987,
+        ocs:C9154,
         ocs:C21976,
         ocs:C26274,
         ocs:C27704,
@@ -18,10 +23,5 @@ ocs:C8287 a skos:Concept ;
         ocs:C39175,
         ocs:C39659,
         ocs:C44670,
-        ocs:C45602,
-        ocs:C5917,
-        ocs:C634,
-        ocs:C6987,
-        ocs:C796,
-        ocs:C9154 .
+        ocs:C45602 .
 

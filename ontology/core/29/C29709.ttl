@@ -5,7 +5,9 @@ ocs:C29709 a skos:Concept ;
     skos:broader ocs:C15463 ;
     skos:closeMatch <http://dbpedia.org/resource/Cross-serial_dependencies> ;
     skos:prefLabel "Cross-serial dependencies" ;
-    skos:related ocs:C16635,
+    skos:related ocs:C524,
+        ocs:C5048,
+        ocs:C16635,
         ocs:C17732,
         ocs:C22093,
         ocs:C22560,
@@ -21,7 +23,5 @@ ocs:C29709 a skos:Concept ;
         ocs:C42486,
         ocs:C42701,
         ocs:C43180,
-        ocs:C43958,
-        ocs:C5048,
-        ocs:C524 .
+        ocs:C43958 .
 

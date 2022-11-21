@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17590 a skos:Concept ;
-    skos:broader ocs:C10767,
-        ocs:C1844 ;
+    skos:broader ocs:C1844,
+        ocs:C10767 ;
     skos:closeMatch <http://dbpedia.org/resource/Jensen–Shannon_divergence> ;
     skos:prefLabel "Jensen–Shannon divergence" ;
-    skos:related ocs:C10767,
-        ocs:C2119,
+    skos:related ocs:C2119,
+        ocs:C5816,
+        ocs:C8332,
+        ocs:C10767,
         ocs:C21931,
         ocs:C24973,
         ocs:C25862,
         ocs:C28992,
         ocs:C31632,
-        ocs:C43061,
-        ocs:C5816,
-        ocs:C8332 .
+        ocs:C43061 .
 

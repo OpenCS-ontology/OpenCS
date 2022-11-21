@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24022 a skos:Concept ;
-    skos:broader ocs:C10157,
-        ocs:C1395,
+    skos:broader ocs:C1395,
         ocs:C2979,
-        ocs:C6944 ;
+        ocs:C6944,
+        ocs:C10157 ;
     skos:closeMatch <http://dbpedia.org/resource/Joint_Battlespace_Infosphere> ;
     skos:prefLabel "Joint Battlespace Infosphere" ;
-    skos:related ocs:C26560,
-        ocs:C9224 .
+    skos:related ocs:C9224,
+        ocs:C26560 .
 

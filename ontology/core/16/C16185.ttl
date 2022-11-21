@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16185 a skos:Concept ;
-    skos:broader ocs:C13096,
-        ocs:C2025 ;
+    skos:broader ocs:C2025,
+        ocs:C13096 ;
     skos:closeMatch <http://dbpedia.org/resource/Penult> ;
     skos:prefLabel "Penult" ;
-    skos:related ocs:C12486,
+    skos:related ocs:C2025,
+        ocs:C12486,
         ocs:C13096,
         ocs:C13210,
         ocs:C17395,
         ocs:C18579,
         ocs:C18690,
-        ocs:C2025,
         ocs:C22147,
         ocs:C24968,
         ocs:C25849,

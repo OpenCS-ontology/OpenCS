@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11113 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Artificial_intelligence_marketing> ;
     skos:prefLabel "Artificial intelligence marketing" ;
-    skos:related ocs:C12579,
+    skos:related ocs:C8,
+        ocs:C21,
+        ocs:C25,
+        ocs:C610,
+        ocs:C3056,
+        ocs:C9022,
+        ocs:C9874,
+        ocs:C12579,
         ocs:C12599,
         ocs:C14849,
         ocs:C20377,
-        ocs:C21,
-        ocs:C25,
         ocs:C30238,
-        ocs:C3056,
         ocs:C33206,
         ocs:C38447,
         ocs:C41629,
-        ocs:C44492,
-        ocs:C610,
-        ocs:C8,
-        ocs:C9022,
-        ocs:C9874 .
+        ocs:C44492 .
 

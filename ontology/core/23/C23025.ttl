@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23025 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C3391 ;
+    skos:broader ocs:C3391,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Multimedia_Broadcast_Multicast_Service> ;
     skos:prefLabel "Multimedia Broadcast Multicast Service" ;
-    skos:related ocs:C15774,
+    skos:related ocs:C3391,
+        ocs:C3933,
+        ocs:C9113,
+        ocs:C15774,
         ocs:C19721,
         ocs:C21613,
         ocs:C21749,
@@ -20,10 +23,7 @@ ocs:C23025 a skos:Concept ;
         ocs:C31996,
         ocs:C32456,
         ocs:C33691,
-        ocs:C3391,
         ocs:C35897,
-        ocs:C3933,
         ocs:C42186,
-        ocs:C44584,
-        ocs:C9113 .
+        ocs:C44584 .
 

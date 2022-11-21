@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1349 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Asset_Description_Metadata_Schema> ;
     skos:prefLabel "Asset Description Metadata Schema" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C2646,
+        ocs:C3896,
+        ocs:C4500,
+        ocs:C9836,
+        ocs:C11927,
         ocs:C13181,
         ocs:C15209,
         ocs:C19579,
         ocs:C22668,
-        ocs:C2646,
         ocs:C28117,
         ocs:C28739,
         ocs:C31429,
         ocs:C34720,
         ocs:C37046,
         ocs:C37598,
-        ocs:C3896,
         ocs:C42124,
         ocs:C43138,
-        ocs:C4500,
-        ocs:C45073,
-        ocs:C9836 .
+        ocs:C45073 .
 

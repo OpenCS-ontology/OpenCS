@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24485 a skos:Concept ;
-    skos:broader ocs:C12673,
-        ocs:C670,
-        ocs:C8888 ;
+    skos:broader ocs:C670,
+        ocs:C8888,
+        ocs:C12673 ;
     skos:closeMatch <http://dbpedia.org/resource/Air_data_computer> ;
     skos:prefLabel "Air data computer" ;
-    skos:related ocs:C13683,
+    skos:related ocs:C511,
+        ocs:C2256,
+        ocs:C8888,
+        ocs:C13683,
         ocs:C15071,
         ocs:C16352,
-        ocs:C2256,
         ocs:C22629,
         ocs:C22667,
         ocs:C25753,
         ocs:C31202,
         ocs:C32744,
         ocs:C36804,
-        ocs:C41539,
-        ocs:C511,
-        ocs:C8888 .
+        ocs:C41539 .
 

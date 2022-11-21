@@ -3,14 +3,15 @@
 
 ocs:C6143 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C7 ;
+        ocs:C7,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_optimization> ;
     skos:prefLabel "Video optimization" ;
-    skos:related ocs:C19334,
+    skos:related ocs:C2113,
+        ocs:C7106,
+        ocs:C19334,
         ocs:C19350,
         ocs:C20400,
-        ocs:C2113,
         ocs:C21410,
         ocs:C21595,
         ocs:C25712,
@@ -24,6 +25,5 @@ ocs:C6143 a skos:Concept ;
         ocs:C36030,
         ocs:C36741,
         ocs:C42442,
-        ocs:C45492,
-        ocs:C7106 .
+        ocs:C45492 .
 

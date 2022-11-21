@@ -2,18 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4199 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_graphics_(computer_science)> ;
     skos:prefLabel "Computer graphics" ;
     skos:related ocs:C1,
-        ocs:C18519,
+        ocs:C22,
         ocs:C1904,
+        ocs:C8399,
+        ocs:C8499,
+        ocs:C18519,
         ocs:C19559,
         ocs:C21305,
         ocs:C21609,
-        ocs:C22,
         ocs:C23564,
         ocs:C24205,
         ocs:C24235,
@@ -22,7 +24,5 @@ ocs:C4199 a skos:Concept ;
         ocs:C41077,
         ocs:C41932,
         ocs:C42614,
-        ocs:C44381,
-        ocs:C8399,
-        ocs:C8499 .
+        ocs:C44381 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4999 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Office_automation> ;
     skos:prefLabel "Office automation" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C35,
+        ocs:C197,
+        ocs:C2979,
+        ocs:C4768,
+        ocs:C8614,
+        ocs:C9162,
+        ocs:C10616,
         ocs:C10764,
         ocs:C12736,
         ocs:C12851,
         ocs:C14271,
         ocs:C17235,
-        ocs:C197,
         ocs:C23103,
         ocs:C25464,
-        ocs:C26,
-        ocs:C28881,
-        ocs:C2979,
-        ocs:C35,
-        ocs:C4768,
-        ocs:C8614,
-        ocs:C9,
-        ocs:C9162 .
+        ocs:C28881 .
 

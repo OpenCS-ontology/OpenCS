@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26832 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C2250,
-        ocs:C7021 ;
+    skos:broader ocs:C2250,
+        ocs:C7021,
+        ocs:C13685 ;
     skos:prefLabel "Gaussian maximum likelihood" .
 

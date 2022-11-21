@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17828 a skos:Concept ;
-    skos:broader ocs:C12431,
-        ocs:C9863 ;
+    skos:broader ocs:C9863,
+        ocs:C12431 ;
     skos:closeMatch <http://dbpedia.org/resource/Vision_processing_unit> ;
     skos:prefLabel "Vision processing unit" ;
-    skos:related ocs:C11,
+    skos:related ocs:C7,
+        ocs:C11,
+        ocs:C1904,
+        ocs:C3063,
+        ocs:C3341,
+        ocs:C5083,
+        ocs:C9603,
         ocs:C11814,
         ocs:C11868,
         ocs:C12690,
         ocs:C13065,
-        ocs:C1904,
         ocs:C19936,
         ocs:C20236,
         ocs:C26812,
         ocs:C27322,
         ocs:C29060,
-        ocs:C3063,
         ocs:C32529,
-        ocs:C3341,
-        ocs:C36576,
-        ocs:C5083,
-        ocs:C7,
-        ocs:C9603 .
+        ocs:C36576 .
 

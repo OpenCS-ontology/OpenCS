@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1023 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_image> ;
     skos:prefLabel "Digital image" ;
-    skos:related ocs:C10380,
+    skos:related ocs:C7,
+        ocs:C22,
+        ocs:C797,
+        ocs:C4584,
+        ocs:C5854,
+        ocs:C6942,
+        ocs:C8021,
+        ocs:C8499,
+        ocs:C10380,
         ocs:C10973,
         ocs:C13065,
         ocs:C13155,
         ocs:C20066,
-        ocs:C22,
         ocs:C22623,
         ocs:C28945,
-        ocs:C41932,
-        ocs:C4584,
-        ocs:C5854,
-        ocs:C6942,
-        ocs:C7,
-        ocs:C797,
-        ocs:C8021,
-        ocs:C8499 .
+        ocs:C41932 .
 

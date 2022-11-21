@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9321 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_domain> ;
     skos:prefLabel "Application domain" ;
-    skos:related ocs:C10284,
-        ocs:C10720,
-        ocs:C11293,
+    skos:related ocs:C19,
         ocs:C1142,
-        ocs:C11927,
-        ocs:C19,
-        ocs:C24143,
-        ocs:C24646,
         ocs:C2674,
-        ocs:C28080,
         ocs:C2929,
-        ocs:C30334,
-        ocs:C38819,
         ocs:C4321,
-        ocs:C45618,
         ocs:C5709,
         ocs:C6255,
-        ocs:C9033 .
+        ocs:C9033,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C11927,
+        ocs:C24143,
+        ocs:C24646,
+        ocs:C28080,
+        ocs:C30334,
+        ocs:C38819,
+        ocs:C45618 .
 

@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2974 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2,
-        ocs:C6 ;
+    skos:broader ocs:C2,
+        ocs:C6,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Universal_Product_Code> ;
     skos:prefLabel "Universal Product Code" ;
-    skos:related ocs:C10270,
-        ocs:C12755,
-        ocs:C16368,
-        ocs:C27613,
+    skos:related ocs:C6,
         ocs:C4917,
         ocs:C5465,
-        ocs:C6,
         ocs:C7255,
         ocs:C8614,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C10270,
+        ocs:C12755,
+        ocs:C16368,
+        ocs:C27613 .
 

@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2914 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Standard_Test_and_Programming_Language> ;
     skos:prefLabel "Standard Test and Programming Language" ;
-    skos:related ocs:C19400,
+    skos:related ocs:C4464,
+        ocs:C5336,
+        ocs:C8518,
+        ocs:C8791,
+        ocs:C9064,
+        ocs:C9908,
+        ocs:C19400,
         ocs:C21411,
         ocs:C31853,
         ocs:C40202,
         ocs:C42760,
         ocs:C43781,
-        ocs:C4464,
-        ocs:C44969,
-        ocs:C5336,
-        ocs:C8518,
-        ocs:C8791,
-        ocs:C9064,
-        ocs:C9908 .
+        ocs:C44969 .
 

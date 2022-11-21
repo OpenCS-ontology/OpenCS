@@ -2,18 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7500 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Protégé_(software)> ;
     skos:prefLabel "Protégé" ;
-    skos:related ocs:C12066,
+    skos:related ocs:C3396,
+        ocs:C9836,
+        ocs:C12066,
         ocs:C12977,
         ocs:C16356,
         ocs:C25681,
         ocs:C28117,
         ocs:C28809,
         ocs:C32303,
-        ocs:C3396,
         ocs:C35570,
         ocs:C38158,
         ocs:C38217,
@@ -24,6 +25,5 @@ ocs:C7500 a skos:Concept ;
         ocs:C41877,
         ocs:C42885,
         ocs:C45248,
-        ocs:C45752,
-        ocs:C9836 .
+        ocs:C45752 .
 

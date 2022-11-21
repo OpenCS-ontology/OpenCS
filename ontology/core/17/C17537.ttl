@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17537 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/Real-Time_Object-Oriented_Modeling> ;
     skos:prefLabel "Real-Time Object-Oriented Modeling" ;
-    skos:related ocs:C11539,
-        ocs:C12185,
+    skos:related ocs:C33,
         ocs:C1406,
+        ocs:C5246,
+        ocs:C9033,
+        ocs:C11539,
+        ocs:C12185,
         ocs:C14329,
         ocs:C23439,
         ocs:C24477,
         ocs:C29868,
         ocs:C30528,
         ocs:C31705,
-        ocs:C33,
         ocs:C33040,
         ocs:C35399,
         ocs:C39178,
         ocs:C39293,
         ocs:C39332,
         ocs:C39856,
-        ocs:C42495,
-        ocs:C5246,
-        ocs:C9033 .
+        ocs:C42495 .
 

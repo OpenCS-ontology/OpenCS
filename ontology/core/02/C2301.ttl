@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2301 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Assert.h> ;
     skos:prefLabel "assert.h" ;
-    skos:related ocs:C13366,
+    skos:related ocs:C6714,
+        ocs:C8323,
+        ocs:C9160,
+        ocs:C13366,
         ocs:C14163,
         ocs:C14990,
         ocs:C21019,
@@ -19,8 +22,5 @@ ocs:C2301 a skos:Concept ;
         ocs:C34815,
         ocs:C39339,
         ocs:C39715,
-        ocs:C43060,
-        ocs:C6714,
-        ocs:C8323,
-        ocs:C9160 .
+        ocs:C43060 .
 

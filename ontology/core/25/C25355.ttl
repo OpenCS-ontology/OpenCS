@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25355 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C4752,
-        ocs:C9641 ;
+    skos:broader ocs:C4752,
+        ocs:C9641,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Huber_loss> ;
     skos:prefLabel "Huber loss" ;
-    skos:related ocs:C13685,
+    skos:related ocs:C662,
+        ocs:C4752,
+        ocs:C13685,
         ocs:C13877,
         ocs:C17791,
         ocs:C25294,
@@ -20,7 +22,5 @@ ocs:C25355 a skos:Concept ;
         ocs:C39575,
         ocs:C40400,
         ocs:C42850,
-        ocs:C43372,
-        ocs:C4752,
-        ocs:C662 .
+        ocs:C43372 .
 

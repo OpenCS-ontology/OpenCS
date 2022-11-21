@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2412 a skos:Concept ;
-    skos:broader ocs:C29,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C29,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Obfuscation> ;
     skos:prefLabel "Obfuscation" ;
-    skos:related ocs:C24200,
-        ocs:C25123,
-        ocs:C4218,
+    skos:related ocs:C4218,
         ocs:C5692,
         ocs:C6234,
         ocs:C7170,
-        ocs:C8725 .
+        ocs:C8725,
+        ocs:C24200,
+        ocs:C25123 .
 

@@ -5,9 +5,11 @@ ocs:C30640 a skos:Concept ;
     skos:broader ocs:C24563 ;
     skos:closeMatch <http://dbpedia.org/resource/Fast_reroute> ;
     skos:prefLabel "Fast reroute" ;
-    skos:related ocs:C24563,
+    skos:related ocs:C3083,
+        ocs:C6703,
+        ocs:C9652,
+        ocs:C24563,
         ocs:C27960,
-        ocs:C3083,
         ocs:C34258,
         ocs:C34606,
         ocs:C35673,
@@ -20,7 +22,5 @@ ocs:C30640 a skos:Concept ;
         ocs:C44929,
         ocs:C44974,
         ocs:C45247,
-        ocs:C45892,
-        ocs:C6703,
-        ocs:C9652 .
+        ocs:C45892 .
 

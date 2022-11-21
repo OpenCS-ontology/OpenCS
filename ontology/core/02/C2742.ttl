@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2742 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21 ;
     skos:prefLabel "Relevant feature" .
 

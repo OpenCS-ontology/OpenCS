@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23793 a skos:Concept ;
-    skos:broader ocs:C11690,
-        ocs:C1253,
+    skos:broader ocs:C1253,
         ocs:C2469,
         ocs:C8706,
-        ocs:C9819 ;
+        ocs:C9819,
+        ocs:C11690 ;
     skos:prefLabel "Probabilistic timing analysis" .
 

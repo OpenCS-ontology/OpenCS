@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12786 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Attributional_calculus> ;
     skos:prefLabel "Attributional calculus" ;
-    skos:related ocs:C10622,
+    skos:related ocs:C2418,
+        ocs:C3308,
+        ocs:C3375,
+        ocs:C4557,
+        ocs:C5659,
+        ocs:C6532,
+        ocs:C10622,
         ocs:C10825,
         ocs:C11060,
         ocs:C11088,
         ocs:C14686,
         ocs:C22431,
-        ocs:C2418,
         ocs:C26760,
         ocs:C30692,
         ocs:C30824,
         ocs:C32129,
-        ocs:C3308,
-        ocs:C3375,
         ocs:C38533,
         ocs:C43307,
-        ocs:C45295,
-        ocs:C4557,
-        ocs:C5659,
-        ocs:C6532 .
+        ocs:C45295 .
 

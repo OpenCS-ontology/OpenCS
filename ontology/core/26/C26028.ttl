@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26028 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C13685,
-        ocs:C2250 ;
+    skos:broader ocs:C2250,
+        ocs:C10222,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Maximum_likelihood_sequence_estimation> ;
     skos:prefLabel "Maximum likelihood sequence estimation" ;
-    skos:related ocs:C10767,
+    skos:related ocs:C21,
+        ocs:C1564,
+        ocs:C10767,
         ocs:C13877,
         ocs:C14030,
         ocs:C14620,
-        ocs:C1564,
         ocs:C16106,
         ocs:C16297,
         ocs:C16335,
-        ocs:C21,
         ocs:C21710,
         ocs:C22258,
         ocs:C22854,

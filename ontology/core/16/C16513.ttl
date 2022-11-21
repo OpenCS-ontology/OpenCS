@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16513 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C12510,
-        ocs:C3563,
-        ocs:C6754 ;
+    skos:broader ocs:C3563,
+        ocs:C6754,
+        ocs:C11389,
+        ocs:C12510 ;
     skos:prefLabel "Double spending" .
 

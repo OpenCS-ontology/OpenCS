@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8808 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Ogg_page> ;
     skos:prefLabel "Ogg page" ;
-    skos:related ocs:C11933,
+    skos:related ocs:C390,
+        ocs:C3391,
+        ocs:C8763,
+        ocs:C11933,
         ocs:C12152,
         ocs:C12439,
         ocs:C12942,
@@ -16,9 +19,6 @@ ocs:C8808 a skos:Concept ;
         ocs:C26268,
         ocs:C30500,
         ocs:C32609,
-        ocs:C3391,
         ocs:C34702,
-        ocs:C37232,
-        ocs:C390,
-        ocs:C8763 .
+        ocs:C37232 .
 

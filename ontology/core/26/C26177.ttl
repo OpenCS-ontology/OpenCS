@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26177 a skos:Concept ;
-    skos:broader ocs:C11697,
-        ocs:C6204 ;
+    skos:broader ocs:C6204,
+        ocs:C11697 ;
     skos:closeMatch <http://dbpedia.org/resource/Cunningham_project> ;
     skos:prefLabel "Cunningham project" ;
-    skos:related ocs:C37205,
-        ocs:C6475 .
+    skos:related ocs:C6475,
+        ocs:C37205 .
 

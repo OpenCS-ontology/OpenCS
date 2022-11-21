@@ -3,11 +3,14 @@
 
 ocs:C8567 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C3 ;
+        ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Synchronous_optical_networking> ;
     skos:prefLabel "Synchronous optical networking" ;
-    skos:related ocs:C10765,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C490,
+        ocs:C10765,
         ocs:C15589,
         ocs:C18745,
         ocs:C20540,
@@ -15,11 +18,8 @@ ocs:C8567 a skos:Concept ;
         ocs:C24563,
         ocs:C24781,
         ocs:C25250,
-        ocs:C26,
         ocs:C26208,
         ocs:C28758,
-        ocs:C3,
         ocs:C31109,
-        ocs:C38402,
-        ocs:C490 .
+        ocs:C38402 .
 

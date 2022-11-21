@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29292 a skos:Concept ;
-    skos:broader ocs:C10616,
-        ocs:C8441 ;
+    skos:broader ocs:C8441,
+        ocs:C10616 ;
     skos:closeMatch <http://dbpedia.org/resource/Lisp_machine> ;
     skos:prefLabel "Lisp machine" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C8,
+        ocs:C9,
+        ocs:C19,
+        ocs:C258,
+        ocs:C2512,
+        ocs:C4269,
+        ocs:C5702,
+        ocs:C6714,
+        ocs:C8441,
+        ocs:C10720,
         ocs:C14271,
         ocs:C14627,
-        ocs:C19,
         ocs:C20907,
         ocs:C20942,
         ocs:C24909,
-        ocs:C2512,
-        ocs:C258,
         ocs:C26829,
         ocs:C28881,
         ocs:C31489,
-        ocs:C4269,
-        ocs:C45438,
-        ocs:C5702,
-        ocs:C6714,
-        ocs:C8,
-        ocs:C8441,
-        ocs:C9 .
+        ocs:C45438 .
 

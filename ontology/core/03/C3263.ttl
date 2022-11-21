@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3263 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/CaseMap> ;
     skos:prefLabel "CaseMap" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C224,
+        ocs:C4028,
+        ocs:C6127,
+        ocs:C8993,
+        ocs:C10444,
         ocs:C13591,
         ocs:C14025,
         ocs:C14209,
         ocs:C17701,
         ocs:C20517,
-        ocs:C224,
         ocs:C24857,
         ocs:C37009,
         ocs:C39810,
-        ocs:C4028,
-        ocs:C40981,
-        ocs:C6,
-        ocs:C6127,
-        ocs:C8993 .
+        ocs:C40981 .
 

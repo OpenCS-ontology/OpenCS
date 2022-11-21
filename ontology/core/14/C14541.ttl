@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14541 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C8178 ;
+    skos:broader ocs:C8178,
+        ocs:C10222 ;
     skos:closeMatch <http://dbpedia.org/resource/Identifiability_analysis> ;
     skos:prefLabel "Identifiability analysis" .
 

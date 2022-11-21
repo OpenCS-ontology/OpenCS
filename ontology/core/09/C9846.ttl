@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9846 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Map_database_management> ;
     skos:prefLabel "Map database management" ;
-    skos:related ocs:C10981,
+    skos:related ocs:C4428,
+        ocs:C4647,
+        ocs:C6029,
+        ocs:C9100,
+        ocs:C10981,
         ocs:C11158,
         ocs:C11783,
         ocs:C12641,
@@ -19,9 +23,5 @@ ocs:C9846 a skos:Concept ;
         ocs:C23009,
         ocs:C27698,
         ocs:C28169,
-        ocs:C33579,
-        ocs:C4428,
-        ocs:C4647,
-        ocs:C6029,
-        ocs:C9100 .
+        ocs:C33579 .
 

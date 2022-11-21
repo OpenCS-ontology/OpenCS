@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28582 a skos:Concept ;
-    skos:broader ocs:C12312,
-        ocs:C4321 ;
+    skos:broader ocs:C4321,
+        ocs:C12312 ;
     skos:closeMatch <http://dbpedia.org/resource/Inline_function> ;
     skos:prefLabel "Inline function" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C174,
+        ocs:C1262,
+        ocs:C3087,
+        ocs:C4321,
+        ocs:C9160,
+        ocs:C10284,
         ocs:C10909,
         ocs:C11082,
-        ocs:C1262,
         ocs:C14990,
         ocs:C17316,
-        ocs:C174,
-        ocs:C19,
         ocs:C21201,
         ocs:C22630,
         ocs:C26466,
         ocs:C26642,
-        ocs:C3087,
         ocs:C39339,
         ocs:C40088,
         ocs:C40371,
-        ocs:C4321,
-        ocs:C43851,
-        ocs:C9,
-        ocs:C9160 .
+        ocs:C43851 .
 

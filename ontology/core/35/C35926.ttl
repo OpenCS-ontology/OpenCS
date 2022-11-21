@@ -5,7 +5,11 @@ ocs:C35926 a skos:Concept ;
     skos:broader ocs:C20800 ;
     skos:closeMatch <http://dbpedia.org/resource/Sysfs> ;
     skos:prefLabel "sysfs" ;
-    skos:related ocs:C12683,
+    skos:related ocs:C9,
+        ocs:C7476,
+        ocs:C9442,
+        ocs:C9938,
+        ocs:C12683,
         ocs:C14271,
         ocs:C15860,
         ocs:C20800,
@@ -19,9 +23,5 @@ ocs:C35926 a skos:Concept ;
         ocs:C42619,
         ocs:C43202,
         ocs:C44098,
-        ocs:C44617,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9442,
-        ocs:C9938 .
+        ocs:C44617 .
 

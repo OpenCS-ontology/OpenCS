@@ -5,14 +5,16 @@ ocs:C16908 a skos:Concept ;
     skos:broader ocs:C9022 ;
     skos:closeMatch <http://dbpedia.org/resource/Neuroevolution> ;
     skos:prefLabel "Neuroevolution" ;
-    skos:related ocs:C13633,
+    skos:related ocs:C8,
+        ocs:C25,
+        ocs:C9022,
+        ocs:C13633,
         ocs:C13746,
         ocs:C14353,
         ocs:C14921,
         ocs:C17261,
         ocs:C20377,
         ocs:C20846,
-        ocs:C25,
         ocs:C25201,
         ocs:C27563,
         ocs:C30267,
@@ -22,7 +24,5 @@ ocs:C16908 a skos:Concept ;
         ocs:C36567,
         ocs:C37099,
         ocs:C37502,
-        ocs:C37981,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C37981 .
 

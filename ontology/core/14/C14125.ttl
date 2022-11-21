@@ -5,7 +5,9 @@ ocs:C14125 a skos:Concept ;
     skos:broader ocs:C7858 ;
     skos:closeMatch <http://dbpedia.org/resource/German_Sign_Language> ;
     skos:prefLabel "German Sign Language" ;
-    skos:related ocs:C13210,
+    skos:related ocs:C7501,
+        ocs:C7858,
+        ocs:C13210,
         ocs:C16631,
         ocs:C20933,
         ocs:C21988,
@@ -17,7 +19,5 @@ ocs:C14125 a skos:Concept ;
         ocs:C28817,
         ocs:C31406,
         ocs:C37561,
-        ocs:C44007,
-        ocs:C7501,
-        ocs:C7858 .
+        ocs:C44007 .
 

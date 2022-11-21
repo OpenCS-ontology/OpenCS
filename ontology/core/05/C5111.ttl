@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5111 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Paper_key> ;
     skos:prefLabel "Paper key" ;
-    skos:related ocs:C11129,
+    skos:related ocs:C3696,
+        ocs:C4218,
+        ocs:C4513,
+        ocs:C8946,
+        ocs:C11129,
         ocs:C12755,
         ocs:C16368,
         ocs:C24648,
@@ -14,13 +18,9 @@ ocs:C5111 a skos:Concept ;
         ocs:C27613,
         ocs:C33191,
         ocs:C35146,
-        ocs:C3696,
         ocs:C37133,
         ocs:C40267,
         ocs:C40332,
         ocs:C40476,
-        ocs:C41425,
-        ocs:C4218,
-        ocs:C4513,
-        ocs:C8946 .
+        ocs:C41425 .
 

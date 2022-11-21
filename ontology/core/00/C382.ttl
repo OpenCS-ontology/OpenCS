@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C382 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Advanced_Mobile_Telephone_System> ;
     skos:prefLabel "Advanced Mobile Telephone System" ;
-    skos:related ocs:C10910,
+    skos:related ocs:C796,
+        ocs:C5285,
+        ocs:C6967,
+        ocs:C7864,
+        ocs:C10910,
         ocs:C10975,
         ocs:C11650,
         ocs:C16040,
         ocs:C28733,
         ocs:C44538,
         ocs:C44664,
-        ocs:C45492,
-        ocs:C5285,
-        ocs:C6967,
-        ocs:C7864,
-        ocs:C796 .
+        ocs:C45492 .
 

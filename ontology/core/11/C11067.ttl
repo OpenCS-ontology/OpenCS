@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11067 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Document Status" ;
-    skos:related ocs:C10211,
-        ocs:C10368,
+    skos:related ocs:C7,
         ocs:C17,
         ocs:C18,
+        ocs:C29,
+        ocs:C35,
+        ocs:C525,
+        ocs:C672,
+        ocs:C4475,
+        ocs:C5401,
+        ocs:C10211,
+        ocs:C10368,
         ocs:C24783,
         ocs:C28080,
         ocs:C28503,
-        ocs:C29,
-        ocs:C34475,
-        ocs:C35,
-        ocs:C4475,
-        ocs:C525,
-        ocs:C5401,
-        ocs:C672,
-        ocs:C7 .
+        ocs:C34475 .
 

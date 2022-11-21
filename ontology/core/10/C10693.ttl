@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10693 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Producer–consumer_problem> ;
     skos:prefLabel "Producer–consumer problem" ;
-    skos:related ocs:C10147,
-        ocs:C10379,
-        ocs:C11084,
-        ocs:C13315,
-        ocs:C16571,
-        ocs:C21551,
-        ocs:C27,
+    skos:related ocs:C27,
         ocs:C2750,
-        ocs:C32786,
         ocs:C3514,
-        ocs:C40601,
         ocs:C4651,
         ocs:C5198,
         ocs:C5551,
         ocs:C5615,
         ocs:C6346,
-        ocs:C8204 .
+        ocs:C8204,
+        ocs:C10147,
+        ocs:C10379,
+        ocs:C11084,
+        ocs:C13315,
+        ocs:C16571,
+        ocs:C21551,
+        ocs:C32786,
+        ocs:C40601 .
 

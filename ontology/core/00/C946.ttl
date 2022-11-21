@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C946 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C18,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Multi-touch> ;
     skos:prefLabel "Multi-touch" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C9,
+        ocs:C5086,
+        ocs:C5702,
+        ocs:C6172,
+        ocs:C7736,
+        ocs:C7850,
+        ocs:C8021,
+        ocs:C10368,
         ocs:C21424,
         ocs:C24143,
         ocs:C24825,
@@ -16,12 +23,5 @@ ocs:C946 a skos:Concept ;
         ocs:C29012,
         ocs:C31489,
         ocs:C34356,
-        ocs:C35370,
-        ocs:C5086,
-        ocs:C5702,
-        ocs:C6172,
-        ocs:C7736,
-        ocs:C7850,
-        ocs:C8021,
-        ocs:C9 .
+        ocs:C35370 .
 

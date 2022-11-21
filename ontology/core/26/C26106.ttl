@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26106 a skos:Concept ;
-    skos:broader ocs:C1142,
-        ocs:C2303,
-        ocs:C661 ;
+    skos:broader ocs:C661,
+        ocs:C1142,
+        ocs:C2303 ;
     skos:closeMatch <http://dbpedia.org/resource/RMI-IIOP> ;
     skos:prefLabel "RMI-IIOP" ;
-    skos:related ocs:C11152,
-        ocs:C132,
+    skos:related ocs:C132,
+        ocs:C661,
+        ocs:C2674,
+        ocs:C5613,
+        ocs:C11152,
         ocs:C13252,
         ocs:C14251,
         ocs:C14627,
@@ -17,13 +20,10 @@ ocs:C26106 a skos:Concept ;
         ocs:C22597,
         ocs:C23138,
         ocs:C24914,
-        ocs:C2674,
         ocs:C29401,
         ocs:C31894,
         ocs:C33110,
         ocs:C38963,
         ocs:C39337,
-        ocs:C44697,
-        ocs:C5613,
-        ocs:C661 .
+        ocs:C44697 .
 

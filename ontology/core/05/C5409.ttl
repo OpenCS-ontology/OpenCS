@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5409 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Object_Lisp> ;
     skos:prefLabel "Object Lisp" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C19,
+        ocs:C2604,
+        ocs:C3682,
+        ocs:C4918,
+        ocs:C7349,
+        ocs:C8441,
+        ocs:C10720,
         ocs:C11826,
         ocs:C12057,
         ocs:C13527,
         ocs:C15120,
-        ocs:C19,
         ocs:C20907,
         ocs:C20942,
         ocs:C24909,
-        ocs:C2604,
         ocs:C26829,
         ocs:C29292,
         ocs:C31851,
         ocs:C35502,
-        ocs:C36614,
-        ocs:C3682,
-        ocs:C4918,
-        ocs:C7349,
-        ocs:C8441 .
+        ocs:C36614 .
 

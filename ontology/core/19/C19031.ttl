@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19031 a skos:Concept ;
-    skos:broader ocs:C11556,
-        ocs:C6400 ;
+    skos:broader ocs:C6400,
+        ocs:C11556 ;
     skos:closeMatch <http://dbpedia.org/resource/Constraint_logic_programming> ;
     skos:prefLabel "Constraint logic programming" ;
-    skos:related ocs:C10327,
-        ocs:C10917,
-        ocs:C11095,
-        ocs:C11556,
-        ocs:C16738,
-        ocs:C19,
+    skos:related ocs:C19,
+        ocs:C852,
         ocs:C2807,
-        ocs:C29762,
-        ocs:C31724,
-        ocs:C33490,
-        ocs:C43536,
-        ocs:C43792,
-        ocs:C45296,
         ocs:C5561,
         ocs:C6400,
         ocs:C6531,
         ocs:C6941,
         ocs:C7985,
-        ocs:C852,
-        ocs:C9450 .
+        ocs:C9450,
+        ocs:C10327,
+        ocs:C10917,
+        ocs:C11095,
+        ocs:C11556,
+        ocs:C16738,
+        ocs:C29762,
+        ocs:C31724,
+        ocs:C33490,
+        ocs:C43536,
+        ocs:C43792,
+        ocs:C45296 .
 

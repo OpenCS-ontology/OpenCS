@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15180 a skos:Concept ;
-    skos:broader ocs:C12971,
+    skos:broader ocs:C81,
         ocs:C1628,
         ocs:C5293,
-        ocs:C81 ;
+        ocs:C12971 ;
     skos:closeMatch <http://dbpedia.org/resource/Spacefaring> ;
     skos:prefLabel "Spacefaring" ;
-    skos:related ocs:C1628,
+    skos:related ocs:C81,
+        ocs:C1628,
         ocs:C2252,
-        ocs:C23481,
-        ocs:C24462,
         ocs:C2463,
-        ocs:C26021,
         ocs:C5293,
         ocs:C7201,
-        ocs:C81 .
+        ocs:C23481,
+        ocs:C24462,
+        ocs:C26021 .
 

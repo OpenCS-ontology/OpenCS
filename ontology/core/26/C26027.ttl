@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26027 a skos:Concept ;
-    skos:broader ocs:C10565,
+    skos:broader ocs:C8614,
+        ocs:C10565,
         ocs:C12240,
-        ocs:C13307,
-        ocs:C8614 ;
+        ocs:C13307 ;
     skos:closeMatch <http://dbpedia.org/resource/Pseudoserver> ;
     skos:prefLabel "Pseudoserver" .
 

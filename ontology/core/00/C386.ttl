@@ -2,20 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C386 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Pattern_matching> ;
     skos:prefLabel "Pattern matching" ;
     skos:related ocs:C1,
-        ocs:C10284,
-        ocs:C10720,
         ocs:C19,
-        ocs:C20000,
-        ocs:C23439,
-        ocs:C25151,
-        ocs:C25684,
-        ocs:C28944,
+        ocs:C696,
         ocs:C3398,
         ocs:C4097,
         ocs:C4321,
@@ -23,7 +17,13 @@ ocs:C386 a skos:Concept ;
         ocs:C5722,
         ocs:C6255,
         ocs:C6941,
-        ocs:C696,
         ocs:C7825,
-        ocs:C8564 .
+        ocs:C8564,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C20000,
+        ocs:C23439,
+        ocs:C25151,
+        ocs:C25684,
+        ocs:C28944 .
 

@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2531 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Chromatic_adaptation> ;
     skos:prefLabel "Chromatic adaptation" ;
-    skos:related ocs:C11670,
-        ocs:C1935,
+    skos:related ocs:C1935,
+        ocs:C2198,
+        ocs:C5469,
+        ocs:C6420,
+        ocs:C6942,
+        ocs:C8622,
+        ocs:C11670,
         ocs:C20260,
         ocs:C20871,
-        ocs:C2198,
         ocs:C22083,
         ocs:C28133,
         ocs:C30704,
         ocs:C38432,
-        ocs:C41646,
-        ocs:C5469,
-        ocs:C6420,
-        ocs:C6942,
-        ocs:C8622 .
+        ocs:C41646 .
 

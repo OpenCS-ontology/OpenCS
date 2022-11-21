@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7413 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Secure_state> ;
     skos:prefLabel "Secure state" ;
-    skos:related ocs:C10330,
+    skos:related ocs:C35,
+        ocs:C3757,
+        ocs:C8791,
+        ocs:C10330,
         ocs:C12240,
         ocs:C14175,
         ocs:C17669,
@@ -18,13 +21,10 @@ ocs:C7413 a skos:Concept ;
         ocs:C29434,
         ocs:C32400,
         ocs:C33988,
-        ocs:C35,
         ocs:C35047,
         ocs:C35388,
-        ocs:C3757,
         ocs:C38399,
         ocs:C40337,
         ocs:C40595,
-        ocs:C42213,
-        ocs:C8791 .
+        ocs:C42213 .
 

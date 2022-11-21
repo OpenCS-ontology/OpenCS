@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C568 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Light_Weight_Kernel_Threads> ;
     skos:prefLabel "Light Weight Kernel Threads" ;
-    skos:related ocs:C12683,
+    skos:related ocs:C44,
+        ocs:C2815,
+        ocs:C8204,
+        ocs:C8704,
+        ocs:C12683,
         ocs:C19523,
         ocs:C20245,
         ocs:C20800,
         ocs:C25917,
-        ocs:C2815,
         ocs:C32786,
         ocs:C41502,
         ocs:C42435,
         ocs:C43283,
-        ocs:C44,
-        ocs:C45251,
-        ocs:C8204,
-        ocs:C8704 .
+        ocs:C45251 .
 

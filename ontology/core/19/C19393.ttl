@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19393 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C5087,
+    skos:broader ocs:C5087,
         ocs:C6116,
-        ocs:C6756 ;
+        ocs:C6756,
+        ocs:C10382 ;
     skos:prefLabel "Clusterwise regression" .
 

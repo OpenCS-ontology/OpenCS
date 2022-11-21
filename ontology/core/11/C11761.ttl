@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11761 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Systems_management> ;
     skos:prefLabel "Systems management" ;
-    skos:related ocs:C11415,
-        ocs:C1253,
-        ocs:C17918,
-        ocs:C1901,
-        ocs:C197,
-        ocs:C2352,
+    skos:related ocs:C9,
         ocs:C26,
-        ocs:C28881,
-        ocs:C31489,
+        ocs:C197,
+        ocs:C1253,
+        ocs:C1901,
+        ocs:C2352,
         ocs:C3394,
         ocs:C3674,
-        ocs:C39341,
-        ocs:C41625,
-        ocs:C45575,
         ocs:C5112,
         ocs:C6592,
         ocs:C7106,
-        ocs:C9,
-        ocs:C9700 .
+        ocs:C9700,
+        ocs:C11415,
+        ocs:C17918,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C39341,
+        ocs:C41625,
+        ocs:C45575 .
 

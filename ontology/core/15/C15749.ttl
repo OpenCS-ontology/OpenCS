@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15749 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C8456 ;
+    skos:broader ocs:C8456,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Empirical_characteristic_function> ;
     skos:prefLabel "Empirical characteristic function" .
 

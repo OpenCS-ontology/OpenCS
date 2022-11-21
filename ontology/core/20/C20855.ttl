@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20855 a skos:Concept ;
-    skos:broader ocs:C11747,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C11747 ;
     skos:closeMatch <http://dbpedia.org/resource/Signal-to-noise_ratio_(imaging)> ;
     skos:prefLabel "Signal-to-noise ratio (imaging)" ;
-    skos:related ocs:C11747,
-        ocs:C13540,
-        ocs:C17970,
-        ocs:C1832,
-        ocs:C19687,
+    skos:related ocs:C1832,
         ocs:C2196,
-        ocs:C22707,
-        ocs:C43460,
-        ocs:C45152,
         ocs:C5853,
         ocs:C6257,
-        ocs:C8272 .
+        ocs:C8272,
+        ocs:C11747,
+        ocs:C13540,
+        ocs:C17970,
+        ocs:C19687,
+        ocs:C22707,
+        ocs:C43460,
+        ocs:C45152 .
 

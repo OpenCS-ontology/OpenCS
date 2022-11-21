@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12554 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Webmention> ;
     skos:prefLabel "Webmention" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C31,
+        ocs:C1672,
+        ocs:C2190,
+        ocs:C8577,
+        ocs:C9647,
+        ocs:C11927,
         ocs:C13252,
         ocs:C13800,
         ocs:C14418,
-        ocs:C1672,
         ocs:C17207,
         ocs:C17225,
-        ocs:C2190,
         ocs:C22597,
         ocs:C22709,
         ocs:C26337,
         ocs:C26830,
         ocs:C28117,
         ocs:C30182,
-        ocs:C31,
         ocs:C34262,
         ocs:C39887,
-        ocs:C40217,
-        ocs:C8577,
-        ocs:C9647 .
+        ocs:C40217 .
 

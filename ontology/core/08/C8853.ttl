@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8853 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C24,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Emergency_response_systems> ;
     skos:prefLabel "Emergency response systems" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C5917,
+        ocs:C6029,
+        ocs:C12641,
         ocs:C18799,
         ocs:C27704,
         ocs:C30565,
-        ocs:C35169,
-        ocs:C5917,
-        ocs:C6029 .
+        ocs:C35169 .
 

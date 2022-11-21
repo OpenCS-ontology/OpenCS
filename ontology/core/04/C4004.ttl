@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4004 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Multimedia_database> ;
     skos:prefLabel "Multimedia database" ;
-    skos:related ocs:C10182,
-        ocs:C11531,
-        ocs:C12638,
-        ocs:C14626,
+    skos:related ocs:C6,
         ocs:C17,
-        ocs:C22683,
         ocs:C23,
         ocs:C2409,
         ocs:C2814,
         ocs:C3199,
-        ocs:C33457,
-        ocs:C35141,
         ocs:C3896,
-        ocs:C44596,
         ocs:C5402,
         ocs:C5410,
-        ocs:C6,
-        ocs:C6255 .
+        ocs:C6255,
+        ocs:C10182,
+        ocs:C11531,
+        ocs:C12638,
+        ocs:C14626,
+        ocs:C22683,
+        ocs:C33457,
+        ocs:C35141,
+        ocs:C44596 .
 

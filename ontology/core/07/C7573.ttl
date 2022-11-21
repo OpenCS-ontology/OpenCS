@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7573 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/PubSubHubbub> ;
     skos:prefLabel "WebSub" ;
-    skos:related ocs:C10069,
+    skos:related ocs:C31,
+        ocs:C1650,
+        ocs:C4500,
+        ocs:C5203,
+        ocs:C6762,
+        ocs:C8614,
+        ocs:C8995,
+        ocs:C10069,
         ocs:C11927,
         ocs:C13068,
         ocs:C13144,
         ocs:C14418,
-        ocs:C1650,
         ocs:C20313,
         ocs:C21166,
         ocs:C22246,
         ocs:C26260,
         ocs:C27982,
-        ocs:C31,
         ocs:C34007,
-        ocs:C39177,
-        ocs:C4500,
-        ocs:C5203,
-        ocs:C6762,
-        ocs:C8614,
-        ocs:C8995 .
+        ocs:C39177 .
 

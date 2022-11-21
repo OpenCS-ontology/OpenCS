@@ -5,7 +5,9 @@ ocs:C16170 a skos:Concept ;
     skos:broader ocs:C9022 ;
     skos:closeMatch <http://dbpedia.org/resource/Winner-take-all_(computing)> ;
     skos:prefLabel "Winner-take-all" ;
-    skos:related ocs:C17261,
+    skos:related ocs:C8,
+        ocs:C9022,
+        ocs:C17261,
         ocs:C18982,
         ocs:C20126,
         ocs:C21723,
@@ -20,7 +22,5 @@ ocs:C16170 a skos:Concept ;
         ocs:C38558,
         ocs:C39450,
         ocs:C43401,
-        ocs:C44292,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C44292 .
 

@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10741 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C30,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/QuickRing> ;
     skos:prefLabel "QuickRing" ;
-    skos:related ocs:C12918,
+    skos:related ocs:C258,
+        ocs:C521,
+        ocs:C3627,
+        ocs:C9093,
+        ocs:C12918,
         ocs:C14856,
         ocs:C20315,
         ocs:C21253,
         ocs:C25567,
-        ocs:C258,
         ocs:C27319,
-        ocs:C3627,
         ocs:C38463,
-        ocs:C41110,
-        ocs:C521,
-        ocs:C9093 .
+        ocs:C41110 .
 

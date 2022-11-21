@@ -2,20 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5305 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Drop-down_list> ;
     skos:prefLabel "Drop-down list" ;
-    skos:related ocs:C10096,
-        ocs:C12325,
-        ocs:C12478,
-        ocs:C13790,
+    skos:related ocs:C841,
         ocs:C1787,
-        ocs:C19298,
-        ocs:C20329,
         ocs:C2365,
-        ocs:C26700,
         ocs:C3568,
         ocs:C4253,
         ocs:C4450,
@@ -24,5 +18,11 @@ ocs:C5305 a skos:Concept ;
         ocs:C7059,
         ocs:C7736,
         ocs:C8129,
-        ocs:C841 .
+        ocs:C10096,
+        ocs:C12325,
+        ocs:C12478,
+        ocs:C13790,
+        ocs:C19298,
+        ocs:C20329,
+        ocs:C26700 .
 

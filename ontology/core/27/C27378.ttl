@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27378 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C2409 ;
+    skos:broader ocs:C2409,
+        ocs:C12638 ;
     skos:closeMatch <http://dbpedia.org/resource/Ggplot2> ;
     skos:prefLabel "ggplot2" ;
-    skos:related ocs:C10802,
+    skos:related ocs:C1728,
+        ocs:C2266,
+        ocs:C10802,
         ocs:C12322,
         ocs:C12638,
         ocs:C13605,
-        ocs:C1728,
         ocs:C21305,
-        ocs:C2266,
         ocs:C24603,
         ocs:C27130,
         ocs:C32448,

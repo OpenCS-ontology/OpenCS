@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C813 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Window_decoration> ;
     skos:prefLabel "Title bar" ;
-    skos:related ocs:C13790,
+    skos:related ocs:C9,
+        ocs:C841,
+        ocs:C2655,
+        ocs:C4223,
+        ocs:C4253,
+        ocs:C5702,
+        ocs:C7293,
+        ocs:C13790,
         ocs:C17255,
         ocs:C21545,
         ocs:C24871,
         ocs:C26337,
-        ocs:C2655,
         ocs:C26700,
         ocs:C28881,
         ocs:C30078,
         ocs:C32547,
         ocs:C34966,
         ocs:C37013,
-        ocs:C4223,
-        ocs:C4253,
-        ocs:C42897,
-        ocs:C5702,
-        ocs:C7293,
-        ocs:C841,
-        ocs:C9 .
+        ocs:C42897 .
 

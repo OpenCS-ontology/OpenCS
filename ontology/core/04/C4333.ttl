@@ -2,20 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4333 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Hex_editor> ;
     skos:prefLabel "Hex editor" ;
-    skos:related ocs:C10696,
-        ocs:C11531,
-        ocs:C12257,
-        ocs:C16980,
-        ocs:C17204,
-        ocs:C28881,
+    skos:related ocs:C9,
         ocs:C328,
         ocs:C3523,
-        ocs:C36536,
         ocs:C5126,
         ocs:C5290,
         ocs:C6072,
@@ -23,6 +17,12 @@ ocs:C4333 a skos:Concept ;
         ocs:C7476,
         ocs:C7800,
         ocs:C8763,
-        ocs:C9,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C10696,
+        ocs:C11531,
+        ocs:C12257,
+        ocs:C16980,
+        ocs:C17204,
+        ocs:C28881,
+        ocs:C36536 .
 

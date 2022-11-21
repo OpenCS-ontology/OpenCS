@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C475 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Artificial_intelligence_for_video_surveillance> ;
     skos:prefLabel "Artificial intelligence for video surveillance" ;
-    skos:related ocs:C10,
-        ocs:C11868,
-        ocs:C1253,
-        ocs:C13065,
-        ocs:C1728,
+    skos:related ocs:C7,
+        ocs:C8,
+        ocs:C10,
         ocs:C21,
-        ocs:C248,
         ocs:C25,
-        ocs:C268,
         ocs:C32,
         ocs:C35,
+        ocs:C248,
+        ocs:C268,
+        ocs:C852,
+        ocs:C1253,
+        ocs:C1728,
         ocs:C6041,
         ocs:C6644,
-        ocs:C7,
-        ocs:C8,
-        ocs:C852,
         ocs:C9022,
-        ocs:C9874 .
+        ocs:C9874,
+        ocs:C11868,
+        ocs:C13065 .
 

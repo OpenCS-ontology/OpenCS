@@ -2,15 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8242 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Static_library> ;
     skos:prefLabel "Static library" ;
-    skos:related ocs:C11777,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C4321,
+        ocs:C7800,
+        ocs:C8863,
+        ocs:C11777,
         ocs:C12257,
         ocs:C14990,
-        ocs:C19,
         ocs:C22630,
         ocs:C25185,
         ocs:C27898,
@@ -18,9 +22,5 @@ ocs:C8242 a skos:Concept ;
         ocs:C29426,
         ocs:C31489,
         ocs:C39282,
-        ocs:C4321,
-        ocs:C44877,
-        ocs:C7800,
-        ocs:C8863,
-        ocs:C9 .
+        ocs:C44877 .
 

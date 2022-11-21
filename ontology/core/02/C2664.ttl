@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2664 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Warnier/Orr_diagram> ;
     skos:prefLabel "Warnier/Orr diagram" ;
-    skos:related ocs:C10720,
-        ocs:C12255,
-        ocs:C12846,
-        ocs:C13744,
+    skos:related ocs:C6,
         ocs:C1406,
-        ocs:C24477,
-        ocs:C27665,
         ocs:C2979,
         ocs:C3036,
         ocs:C3344,
         ocs:C3896,
         ocs:C3899,
-        ocs:C41897,
-        ocs:C44411,
         ocs:C5500,
         ocs:C5822,
         ocs:C5869,
-        ocs:C6,
-        ocs:C6494 .
+        ocs:C6494,
+        ocs:C10720,
+        ocs:C12255,
+        ocs:C12846,
+        ocs:C13744,
+        ocs:C24477,
+        ocs:C27665,
+        ocs:C41897,
+        ocs:C44411 .
 

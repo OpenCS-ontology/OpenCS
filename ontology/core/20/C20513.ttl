@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20513 a skos:Concept ;
-    skos:broader ocs:C13769,
-        ocs:C5554 ;
+    skos:broader ocs:C5554,
+        ocs:C13769 ;
     skos:closeMatch <http://dbpedia.org/resource/Content_inventory> ;
     skos:prefLabel "Content inventory" ;
-    skos:related ocs:C11705,
+    skos:related ocs:C1621,
+        ocs:C8201,
+        ocs:C11705,
         ocs:C13014,
         ocs:C13673,
         ocs:C15831,
-        ocs:C1621,
         ocs:C17225,
         ocs:C23103,
         ocs:C28533,
         ocs:C28801,
         ocs:C29256,
         ocs:C31201,
-        ocs:C34434,
-        ocs:C8201 .
+        ocs:C34434 .
 

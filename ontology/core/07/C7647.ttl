@@ -2,18 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7647 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Expanded_memory> ;
     skos:prefLabel "Expanded memory" ;
-    skos:related ocs:C10568,
+    skos:related ocs:C9,
+        ocs:C923,
+        ocs:C3089,
+        ocs:C5147,
+        ocs:C9433,
+        ocs:C10568,
         ocs:C12323,
         ocs:C19481,
         ocs:C19487,
         ocs:C28881,
         ocs:C30860,
-        ocs:C3089,
         ocs:C31027,
         ocs:C33174,
         ocs:C37847,
@@ -21,9 +25,5 @@ ocs:C7647 a skos:Concept ;
         ocs:C40632,
         ocs:C43625,
         ocs:C44667,
-        ocs:C45812,
-        ocs:C5147,
-        ocs:C9,
-        ocs:C923,
-        ocs:C9433 .
+        ocs:C45812 .
 

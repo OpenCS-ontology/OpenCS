@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22974 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C8754 ;
+    skos:broader ocs:C8754,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Hybrid_automaton> ;
     skos:prefLabel "Hybrid automaton" ;
-    skos:related ocs:C11885,
-        ocs:C122,
+    skos:related ocs:C122,
+        ocs:C156,
+        ocs:C2721,
+        ocs:C7903,
+        ocs:C8791,
+        ocs:C11885,
         ocs:C12427,
         ocs:C12587,
         ocs:C14248,
-        ocs:C156,
         ocs:C19560,
         ocs:C21398,
         ocs:C22626,
         ocs:C24721,
         ocs:C25081,
-        ocs:C2721,
         ocs:C30272,
         ocs:C31113,
         ocs:C37890,
-        ocs:C39717,
-        ocs:C7903,
-        ocs:C8791 .
+        ocs:C39717 .
 

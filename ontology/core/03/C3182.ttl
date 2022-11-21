@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3182 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Evolutionary_systems> ;
     skos:prefLabel "Evolutionary systems" ;
-    skos:related ocs:C14592,
-        ocs:C24,
+    skos:related ocs:C24,
+        ocs:C7334,
+        ocs:C14592,
         ocs:C31320,
-        ocs:C43932,
-        ocs:C7334 .
+        ocs:C43932 .
 

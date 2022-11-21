@@ -2,17 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2311 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Algebraic_Logic_Functional_programming_language> ;
     skos:prefLabel "Algebraic Logic Functional programming language" ;
-    skos:related ocs:C10241,
+    skos:related ocs:C19,
+        ocs:C2089,
+        ocs:C6531,
+        ocs:C8751,
+        ocs:C10241,
         ocs:C10327,
         ocs:C11812,
         ocs:C17372,
-        ocs:C19,
         ocs:C19031,
-        ocs:C2089,
         ocs:C23014,
         ocs:C26168,
         ocs:C28356,
@@ -22,7 +24,5 @@ ocs:C2311 a skos:Concept ;
         ocs:C36877,
         ocs:C39956,
         ocs:C43792,
-        ocs:C44891,
-        ocs:C6531,
-        ocs:C8751 .
+        ocs:C44891 .
 

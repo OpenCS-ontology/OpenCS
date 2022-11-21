@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5984 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_reference> ;
     skos:prefLabel "Digital reference" ;
-    skos:related ocs:C1321,
-        ocs:C13710,
-        ocs:C22536,
-        ocs:C24850,
-        ocs:C26217,
-        ocs:C26604,
-        ocs:C28715,
+    skos:related ocs:C4,
         ocs:C31,
+        ocs:C1321,
         ocs:C3214,
-        ocs:C4,
         ocs:C4765,
         ocs:C4934,
         ocs:C5832,
         ocs:C6023,
         ocs:C6726,
         ocs:C7849,
-        ocs:C8770 .
+        ocs:C8770,
+        ocs:C13710,
+        ocs:C22536,
+        ocs:C24850,
+        ocs:C26217,
+        ocs:C26604,
+        ocs:C28715 .
 

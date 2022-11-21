@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25695 a skos:Concept ;
-    skos:broader ocs:C12853,
-        ocs:C3236 ;
+    skos:broader ocs:C3236,
+        ocs:C12853 ;
     skos:closeMatch <http://dbpedia.org/resource/Preferred_Roaming_List> ;
     skos:prefLabel "Preferred Roaming List" ;
-    skos:related ocs:C12853,
+    skos:related ocs:C5917,
+        ocs:C6114,
+        ocs:C6987,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12853,
         ocs:C21367,
         ocs:C21595,
         ocs:C25493,
@@ -18,10 +23,5 @@ ocs:C25695 a skos:Concept ;
         ocs:C41460,
         ocs:C43300,
         ocs:C44251,
-        ocs:C44290,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C6987,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C44290 .
 

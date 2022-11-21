@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7516 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/File_attribute> ;
     skos:prefLabel "File attribute" ;
-    skos:related ocs:C14271,
+    skos:related ocs:C9,
+        ocs:C328,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C9433,
+        ocs:C9938,
+        ocs:C14271,
         ocs:C22970,
         ocs:C24871,
         ocs:C26754,
@@ -15,14 +21,8 @@ ocs:C7516 a skos:Concept ;
         ocs:C30078,
         ocs:C30860,
         ocs:C31489,
-        ocs:C328,
         ocs:C34356,
         ocs:C38346,
         ocs:C42619,
-        ocs:C43104,
-        ocs:C6605,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9433,
-        ocs:C9938 .
+        ocs:C43104 .
 

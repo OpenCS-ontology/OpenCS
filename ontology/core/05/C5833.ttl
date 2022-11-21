@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5833 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C29,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Gödel_machine> ;
     skos:prefLabel "Gödel machine" ;
-    skos:related ocs:C10479,
+    skos:related ocs:C8,
+        ocs:C25,
+        ocs:C2978,
+        ocs:C3848,
+        ocs:C6193,
+        ocs:C6880,
+        ocs:C10479,
         ocs:C11948,
         ocs:C12474,
         ocs:C14353,
@@ -16,13 +22,7 @@ ocs:C5833 a skos:Concept ;
         ocs:C22100,
         ocs:C23335,
         ocs:C24201,
-        ocs:C25,
         ocs:C25442,
         ocs:C28286,
-        ocs:C2978,
-        ocs:C36758,
-        ocs:C3848,
-        ocs:C6193,
-        ocs:C6880,
-        ocs:C8 .
+        ocs:C36758 .
 

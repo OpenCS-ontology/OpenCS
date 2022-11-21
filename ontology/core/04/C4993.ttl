@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4993 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Deterministic_memory> ;
     skos:prefLabel "Deterministic memory" ;
-    skos:related ocs:C10053,
+    skos:related ocs:C9,
         ocs:C11,
+        ocs:C33,
+        ocs:C3160,
+        ocs:C3985,
+        ocs:C3998,
+        ocs:C5912,
+        ocs:C9852,
+        ocs:C10053,
         ocs:C17204,
         ocs:C18469,
         ocs:C20800,
         ocs:C25960,
         ocs:C29868,
         ocs:C31027,
-        ocs:C3160,
-        ocs:C33,
         ocs:C33886,
         ocs:C35697,
-        ocs:C36576,
-        ocs:C3985,
-        ocs:C3998,
-        ocs:C5912,
-        ocs:C9,
-        ocs:C9852 .
+        ocs:C36576 .
 

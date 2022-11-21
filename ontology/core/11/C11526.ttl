@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11526 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Traffic_mix> ;
     skos:prefLabel "Traffic mix" ;
-    skos:related ocs:C19152,
+    skos:related ocs:C2423,
+        ocs:C2886,
+        ocs:C4197,
+        ocs:C7221,
+        ocs:C9480,
+        ocs:C19152,
         ocs:C20045,
         ocs:C21610,
-        ocs:C2423,
         ocs:C27263,
         ocs:C28758,
-        ocs:C2886,
         ocs:C30567,
         ocs:C35659,
         ocs:C37577,
         ocs:C38619,
-        ocs:C41914,
-        ocs:C4197,
-        ocs:C7221,
-        ocs:C9480 .
+        ocs:C41914 .
 

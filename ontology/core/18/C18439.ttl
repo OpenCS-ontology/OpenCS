@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18439 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C5745 ;
+    skos:broader ocs:C5745,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/M/G/1_queue> ;
     skos:prefLabel "M/G/1 queue" ;
-    skos:related ocs:C12373,
+    skos:related ocs:C7689,
+        ocs:C12373,
         ocs:C16039,
         ocs:C29900,
         ocs:C30610,
@@ -21,6 +22,5 @@ ocs:C18439 a skos:Concept ;
         ocs:C40289,
         ocs:C41000,
         ocs:C42591,
-        ocs:C43132,
-        ocs:C7689 .
+        ocs:C43132 .
 

@@ -5,13 +5,15 @@ ocs:C44528 a skos:Concept ;
     skos:broader ocs:C32978 ;
     skos:closeMatch <http://dbpedia.org/resource/Code_smell> ;
     skos:prefLabel "Code smell" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C688,
+        ocs:C1253,
+        ocs:C2057,
+        ocs:C4558,
+        ocs:C10720,
         ocs:C10781,
         ocs:C12257,
-        ocs:C1253,
         ocs:C14329,
         ocs:C14405,
-        ocs:C2057,
         ocs:C23580,
         ocs:C24176,
         ocs:C25956,
@@ -22,7 +24,5 @@ ocs:C44528 a skos:Concept ;
         ocs:C41038,
         ocs:C41303,
         ocs:C43671,
-        ocs:C43773,
-        ocs:C4558,
-        ocs:C688 .
+        ocs:C43773 .
 

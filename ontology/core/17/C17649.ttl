@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17649 a skos:Concept ;
-    skos:broader ocs:C12974,
-        ocs:C420,
-        ocs:C7858 ;
+    skos:broader ocs:C420,
+        ocs:C7858,
+        ocs:C12974 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_remote_interpreting> ;
     skos:prefLabel "Video remote interpreting" ;
-    skos:related ocs:C14869,
+    skos:related ocs:C420,
+        ocs:C2129,
+        ocs:C4710,
+        ocs:C7858,
+        ocs:C9106,
+        ocs:C14869,
         ocs:C16631,
         ocs:C19175,
         ocs:C19406,
-        ocs:C2129,
         ocs:C23682,
         ocs:C23816,
         ocs:C25188,
         ocs:C27530,
-        ocs:C34292,
-        ocs:C420,
-        ocs:C4710,
-        ocs:C7858,
-        ocs:C9106 .
+        ocs:C34292 .
 

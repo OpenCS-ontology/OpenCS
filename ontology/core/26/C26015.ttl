@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26015 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C425 ;
+    skos:broader ocs:C425,
+        ocs:C1253 ;
     skos:closeMatch <http://dbpedia.org/resource/User_analysis> ;
     skos:prefLabel "User analysis" ;
-    skos:related ocs:C12160,
-        ocs:C1253,
+    skos:related ocs:C1253,
+        ocs:C1908,
+        ocs:C3903,
+        ocs:C4292,
+        ocs:C9607,
+        ocs:C12160,
         ocs:C16091,
         ocs:C17837,
         ocs:C18288,
         ocs:C18587,
-        ocs:C1908,
         ocs:C19315,
         ocs:C23394,
         ocs:C28080,
-        ocs:C3903,
         ocs:C40700,
-        ocs:C4292,
-        ocs:C45554,
-        ocs:C9607 .
+        ocs:C45554 .
 

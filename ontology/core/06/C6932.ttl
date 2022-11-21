@@ -2,15 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6932 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Versatile_Real-Time_Executive> ;
     skos:prefLabel "Versatile Real-Time Executive" ;
-    skos:related ocs:C11,
+    skos:related ocs:C9,
+        ocs:C11,
+        ocs:C2253,
+        ocs:C5912,
+        ocs:C6172,
         ocs:C11084,
         ocs:C20261,
         ocs:C20800,
-        ocs:C2253,
         ocs:C22530,
         ocs:C24517,
         ocs:C25252,
@@ -18,8 +21,5 @@ ocs:C6932 a skos:Concept ;
         ocs:C28515,
         ocs:C28881,
         ocs:C29213,
-        ocs:C34229,
-        ocs:C5912,
-        ocs:C6172,
-        ocs:C9 .
+        ocs:C34229 .
 

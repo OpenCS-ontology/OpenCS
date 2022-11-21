@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11609 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Target_acquisition> ;
     skos:prefLabel "Target acquisition" ;
-    skos:related ocs:C1331,
+    skos:related ocs:C511,
+        ocs:C1331,
         ocs:C1502,
         ocs:C3232,
         ocs:C4754,
-        ocs:C511,
         ocs:C9224,
         ocs:C9944 .
 

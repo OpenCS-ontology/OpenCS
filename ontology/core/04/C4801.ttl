@@ -5,7 +5,11 @@ ocs:C4801 a skos:Concept ;
     skos:broader ocs:C6 ;
     skos:closeMatch <http://dbpedia.org/resource/Monotonic_query> ;
     skos:prefLabel "Monotonic query" ;
-    skos:related ocs:C18567,
+    skos:related ocs:C6,
+        ocs:C7286,
+        ocs:C7309,
+        ocs:C8227,
+        ocs:C18567,
         ocs:C20895,
         ocs:C21589,
         ocs:C22361,
@@ -15,9 +19,5 @@ ocs:C4801 a skos:Concept ;
         ocs:C35707,
         ocs:C36535,
         ocs:C38026,
-        ocs:C41190,
-        ocs:C6,
-        ocs:C7286,
-        ocs:C7309,
-        ocs:C8227 .
+        ocs:C41190 .
 

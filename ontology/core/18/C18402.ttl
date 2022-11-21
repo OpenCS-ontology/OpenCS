@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18402 a skos:Concept ;
-    skos:broader ocs:C11153,
-        ocs:C545 ;
+    skos:broader ocs:C545,
+        ocs:C11153 ;
     skos:prefLabel "Smart home automation" .
 

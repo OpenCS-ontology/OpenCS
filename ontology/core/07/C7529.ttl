@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7529 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Instruction_step> ;
     skos:prefLabel "Instruction step" ;
-    skos:related ocs:C12974,
+    skos:related ocs:C4321,
+        ocs:C4918,
+        ocs:C6072,
+        ocs:C8783,
+        ocs:C12974,
         ocs:C17204,
         ocs:C19699,
         ocs:C23473,
@@ -17,9 +21,5 @@ ocs:C7529 a skos:Concept ;
         ocs:C38997,
         ocs:C40564,
         ocs:C41964,
-        ocs:C4321,
-        ocs:C45336,
-        ocs:C4918,
-        ocs:C6072,
-        ocs:C8783 .
+        ocs:C45336 .
 

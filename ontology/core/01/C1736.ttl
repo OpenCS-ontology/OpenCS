@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1736 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Hotfix> ;
     skos:prefLabel "Hotfix" ;
-    skos:related ocs:C11293,
+    skos:related ocs:C9,
         ocs:C1253,
+        ocs:C5514,
+        ocs:C7053,
+        ocs:C7912,
+        ocs:C9347,
+        ocs:C11293,
         ocs:C16627,
         ocs:C18258,
         ocs:C18415,
@@ -18,10 +23,5 @@ ocs:C1736 a skos:Concept ;
         ocs:C31489,
         ocs:C34356,
         ocs:C41788,
-        ocs:C45468,
-        ocs:C5514,
-        ocs:C7053,
-        ocs:C7912,
-        ocs:C9,
-        ocs:C9347 .
+        ocs:C45468 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16179 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C6754 ;
+    skos:broader ocs:C6754,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/Transaction_account> ;
     skos:prefLabel "Transaction account" ;
     skos:related ocs:C12752,

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4027 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Lookup_table> ;
     skos:prefLabel "Lookup table" ;
     skos:related ocs:C1,
         ocs:C10,
+        ocs:C1333,
+        ocs:C5336,
+        ocs:C5722,
+        ocs:C6255,
+        ocs:C8660,
         ocs:C10320,
         ocs:C12262,
         ocs:C13149,
-        ocs:C1333,
         ocs:C13541,
         ocs:C14255,
         ocs:C17204,
         ocs:C26456,
         ocs:C35625,
-        ocs:C38481,
-        ocs:C5336,
-        ocs:C5722,
-        ocs:C6255,
-        ocs:C8660 .
+        ocs:C38481 .
 

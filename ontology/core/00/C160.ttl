@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C160 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Geometric_primitive> ;
     skos:prefLabel "Geometric primitive" ;
-    skos:related ocs:C10924,
+    skos:related ocs:C22,
+        ocs:C1904,
+        ocs:C7000,
+        ocs:C7914,
+        ocs:C8399,
+        ocs:C10924,
         ocs:C11325,
         ocs:C11689,
         ocs:C12454,
-        ocs:C1904,
         ocs:C19229,
         ocs:C21305,
         ocs:C21609,
-        ocs:C22,
         ocs:C24235,
         ocs:C28881,
         ocs:C29600,
         ocs:C29796,
         ocs:C41932,
-        ocs:C44616,
-        ocs:C7000,
-        ocs:C7914,
-        ocs:C8399 .
+        ocs:C44616 .
 

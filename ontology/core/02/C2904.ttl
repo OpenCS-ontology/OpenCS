@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2904 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Box_camera> ;
     skos:prefLabel "Box camera" ;
-    skos:related ocs:C13065,
-        ocs:C2047,
+    skos:related ocs:C2047,
         ocs:C5978,
         ocs:C8746,
-        ocs:C9451 .
+        ocs:C9451,
+        ocs:C13065 .
 

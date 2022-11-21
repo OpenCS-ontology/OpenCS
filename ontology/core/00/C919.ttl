@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C919 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/El_Farol_Bar_problem> ;
     skos:prefLabel "El Farol Bar problem" ;
-    skos:related ocs:C17803,
-        ocs:C4594 .
+    skos:related ocs:C4594,
+        ocs:C17803 .
 

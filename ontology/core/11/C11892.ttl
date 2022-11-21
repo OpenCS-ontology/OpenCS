@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11892 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:prefLabel "Association library" ;
     skos:related ocs:C10,
-        ocs:C15008,
         ocs:C17,
         ocs:C23,
-        ocs:C26350,
         ocs:C2979,
-        ocs:C40049,
-        ocs:C5512 .
+        ocs:C5512,
+        ocs:C15008,
+        ocs:C26350,
+        ocs:C40049 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16633 a skos:Concept ;
-    skos:broader ocs:C2464,
-        ocs:C318 ;
+    skos:broader ocs:C318,
+        ocs:C2464 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_annotation> ;
     skos:prefLabel "Web annotation" ;
-    skos:related ocs:C11205,
+    skos:related ocs:C31,
+        ocs:C318,
+        ocs:C2464,
+        ocs:C3896,
+        ocs:C4918,
+        ocs:C11205,
         ocs:C11338,
         ocs:C17658,
         ocs:C19319,
-        ocs:C2464,
         ocs:C25752,
         ocs:C28117,
         ocs:C28801,
-        ocs:C31,
         ocs:C31429,
-        ocs:C318,
         ocs:C37698,
-        ocs:C3896,
         ocs:C39727,
         ocs:C40049,
         ocs:C41105,
-        ocs:C44855,
-        ocs:C4918 .
+        ocs:C44855 .
 

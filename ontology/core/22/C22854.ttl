@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22854 a skos:Concept ;
-    skos:broader ocs:C13682,
-        ocs:C2321 ;
+    skos:broader ocs:C2321,
+        ocs:C13682 ;
     skos:closeMatch <http://dbpedia.org/resource/Tikhonov_regularization> ;
     skos:prefLabel "Tikhonov regularization" ;
-    skos:related ocs:C10138,
+    skos:related ocs:C2005,
+        ocs:C2321,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7471,
+        ocs:C10138,
         ocs:C13682,
         ocs:C14553,
         ocs:C14620,
         ocs:C15615,
-        ocs:C2005,
-        ocs:C2321,
         ocs:C26880,
         ocs:C27194,
         ocs:C27703,
         ocs:C31627,
-        ocs:C32918,
-        ocs:C5087,
-        ocs:C6116,
-        ocs:C7471 .
+        ocs:C32918 .
 

@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12068 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:prefLabel "Actual Arm" ;
     skos:related ocs:C1,
-        ocs:C10396,
+        ocs:C7,
         ocs:C24,
         ocs:C4861,
         ocs:C5818,
-        ocs:C7,
         ocs:C7850,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C10396 .
 

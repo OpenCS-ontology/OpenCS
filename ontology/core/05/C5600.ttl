@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5600 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21,
+        ocs:C25 ;
     skos:prefLabel "Prototype learning" .
 

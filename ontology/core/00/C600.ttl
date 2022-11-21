@@ -5,7 +5,13 @@ ocs:C600 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/Advanced_Format> ;
     skos:prefLabel "Advanced Format" ;
-    skos:related ocs:C10501,
+    skos:related ocs:C9,
+        ocs:C4916,
+        ocs:C5695,
+        ocs:C6588,
+        ocs:C7476,
+        ocs:C8133,
+        ocs:C10501,
         ocs:C13783,
         ocs:C15529,
         ocs:C28881,
@@ -13,11 +19,5 @@ ocs:C600 a skos:Concept ;
         ocs:C33255,
         ocs:C36536,
         ocs:C41705,
-        ocs:C41962,
-        ocs:C4916,
-        ocs:C5695,
-        ocs:C6588,
-        ocs:C7476,
-        ocs:C8133,
-        ocs:C9 .
+        ocs:C41962 .
 

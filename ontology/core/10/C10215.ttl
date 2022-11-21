@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10215 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Kismet_(robot)> ;
     skos:prefLabel "Kismet" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C8,
+        ocs:C5553,
+        ocs:C8012,
+        ocs:C9370,
+        ocs:C10396,
         ocs:C13542,
         ocs:C17236,
         ocs:C19558,
@@ -14,9 +18,5 @@ ocs:C10215 a skos:Concept ;
         ocs:C38703,
         ocs:C42415,
         ocs:C44350,
-        ocs:C45035,
-        ocs:C5553,
-        ocs:C8,
-        ocs:C8012,
-        ocs:C9370 .
+        ocs:C45035 .
 

@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12106 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/List_poisoning> ;
     skos:prefLabel "List poisoning" ;
-    skos:related ocs:C10247,
+    skos:related ocs:C5522,
+        ocs:C8614,
+        ocs:C10247,
         ocs:C12749,
         ocs:C13295,
         ocs:C13302,
@@ -22,7 +24,5 @@ ocs:C12106 a skos:Concept ;
         ocs:C37946,
         ocs:C39313,
         ocs:C39988,
-        ocs:C40986,
-        ocs:C5522,
-        ocs:C8614 .
+        ocs:C40986 .
 

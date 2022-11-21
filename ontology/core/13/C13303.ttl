@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13303 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Macintosh_startup> ;
     skos:prefLabel "Macintosh startup" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C44,
+        ocs:C4267,
+        ocs:C6223,
+        ocs:C10400,
         ocs:C10568,
         ocs:C18862,
         ocs:C19481,
@@ -18,9 +22,5 @@ ocs:C13303 a skos:Concept ;
         ocs:C25252,
         ocs:C28881,
         ocs:C31965,
-        ocs:C4267,
-        ocs:C44,
-        ocs:C45069,
-        ocs:C6223,
-        ocs:C9 .
+        ocs:C45069 .
 

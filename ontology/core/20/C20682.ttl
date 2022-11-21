@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20682 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C7689 ;
+    skos:broader ocs:C7689,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Normal_invariant> ;
     skos:prefLabel "Normal invariant" .
 

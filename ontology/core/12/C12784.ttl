@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12784 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Cranfield_experiments> ;
     skos:prefLabel "Cranfield experiments" ;
-    skos:related ocs:C11087,
-        ocs:C14238,
-        ocs:C20147,
-        ocs:C21157,
-        ocs:C21673,
-        ocs:C23,
-        ocs:C23271,
-        ocs:C24845,
-        ocs:C2526,
+    skos:related ocs:C23,
         ocs:C312,
-        ocs:C34003,
+        ocs:C2526,
         ocs:C5351,
         ocs:C6654,
         ocs:C6700,
         ocs:C6963,
-        ocs:C9876 .
+        ocs:C9876,
+        ocs:C11087,
+        ocs:C14238,
+        ocs:C20147,
+        ocs:C21157,
+        ocs:C21673,
+        ocs:C23271,
+        ocs:C24845,
+        ocs:C34003 .
 

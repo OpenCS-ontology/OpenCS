@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7513 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Swarm_behaviour> ;
     skos:prefLabel "Swarm behaviour" ;
-    skos:related ocs:C19182,
-        ocs:C19750,
-        ocs:C597,
-        ocs:C9373 .
+    skos:related ocs:C597,
+        ocs:C9373,
+        ocs:C19182,
+        ocs:C19750 .
 

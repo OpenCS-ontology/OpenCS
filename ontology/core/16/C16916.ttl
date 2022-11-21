@@ -5,7 +5,12 @@ ocs:C16916 a skos:Concept ;
     skos:broader ocs:C3987 ;
     skos:closeMatch <http://dbpedia.org/resource/Extended_Kalman_filter> ;
     skos:prefLabel "Extended Kalman filter" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C3987,
+        ocs:C5298,
+        ocs:C5856,
+        ocs:C6110,
+        ocs:C8516,
+        ocs:C12641,
         ocs:C21717,
         ocs:C25862,
         ocs:C28698,
@@ -14,10 +19,5 @@ ocs:C16916 a skos:Concept ;
         ocs:C31485,
         ocs:C32011,
         ocs:C36314,
-        ocs:C3987,
-        ocs:C43373,
-        ocs:C5298,
-        ocs:C5856,
-        ocs:C6110,
-        ocs:C8516 .
+        ocs:C43373 .
 

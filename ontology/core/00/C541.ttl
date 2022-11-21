@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C541 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/X-ray_vision> ;
     skos:prefLabel "X-ray vision" ;
     skos:related ocs:C201,
-        ocs:C31062,
         ocs:C4000,
         ocs:C5859,
-        ocs:C8696 .
+        ocs:C8696,
+        ocs:C31062 .
 

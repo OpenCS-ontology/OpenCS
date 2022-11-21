@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6943 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Compressed_sensing> ;
     skos:prefLabel "Compressed sensing" ;
-    skos:related ocs:C10554,
+    skos:related ocs:C1794,
+        ocs:C1864,
+        ocs:C7471,
+        ocs:C8499,
+        ocs:C10554,
         ocs:C11693,
         ocs:C14985,
         ocs:C15665,
-        ocs:C1794,
-        ocs:C1864,
         ocs:C20210,
         ocs:C21714,
         ocs:C22681,
         ocs:C23346,
         ocs:C30507,
         ocs:C34225,
-        ocs:C37322,
-        ocs:C7471,
-        ocs:C8499 .
+        ocs:C37322 .
 

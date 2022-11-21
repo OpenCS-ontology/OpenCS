@@ -2,16 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29008 a skos:Concept ;
-    skos:broader ocs:C11492,
-        ocs:C2523 ;
+    skos:broader ocs:C2523,
+        ocs:C11492 ;
     skos:closeMatch <http://dbpedia.org/resource/Functional_Requirements_for_Bibliographic_Records> ;
     skos:prefLabel "Functional Requirements for Bibliographic Records" ;
-    skos:related ocs:C10220,
+    skos:related ocs:C23,
+        ocs:C3896,
+        ocs:C5877,
+        ocs:C6690,
+        ocs:C7849,
+        ocs:C9836,
+        ocs:C10220,
         ocs:C11492,
         ocs:C13744,
         ocs:C14421,
         ocs:C22687,
-        ocs:C23,
         ocs:C23088,
         ocs:C24661,
         ocs:C27386,
@@ -19,10 +24,5 @@ ocs:C29008 a skos:Concept ;
         ocs:C28463,
         ocs:C31165,
         ocs:C36637,
-        ocs:C37709,
-        ocs:C3896,
-        ocs:C5877,
-        ocs:C6690,
-        ocs:C7849,
-        ocs:C9836 .
+        ocs:C37709 .
 

@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22627 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C4099,
-        ocs:C5196 ;
+    skos:broader ocs:C4099,
+        ocs:C5196,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Coding_gain> ;
     skos:prefLabel "Coding gain" ;
-    skos:related ocs:C10750,
+    skos:related ocs:C5196,
+        ocs:C10750,
         ocs:C18626,
         ocs:C19230,
         ocs:C21471,
@@ -25,6 +26,5 @@ ocs:C22627 a skos:Concept ;
         ocs:C44130,
         ocs:C44208,
         ocs:C44441,
-        ocs:C45789,
-        ocs:C5196 .
+        ocs:C45789 .
 

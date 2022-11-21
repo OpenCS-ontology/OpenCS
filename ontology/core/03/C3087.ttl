@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3087 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Function_prototype> ;
     skos:prefLabel "Function prototype" ;
-    skos:related ocs:C10284,
-        ocs:C10909,
-        ocs:C11816,
+    skos:related ocs:C19,
         ocs:C1333,
-        ocs:C14990,
-        ocs:C17316,
-        ocs:C19,
         ocs:C2057,
         ocs:C2195,
+        ocs:C5308,
+        ocs:C9160,
+        ocs:C9325,
+        ocs:C10284,
+        ocs:C10909,
+        ocs:C11816,
+        ocs:C14990,
+        ocs:C17316,
         ocs:C22630,
         ocs:C25570,
         ocs:C25688,
         ocs:C28582,
-        ocs:C28788,
-        ocs:C5308,
-        ocs:C9160,
-        ocs:C9325 .
+        ocs:C28788 .
 

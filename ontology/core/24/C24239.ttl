@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24239 a skos:Concept ;
-    skos:broader ocs:C13511,
-        ocs:C1451,
+    skos:broader ocs:C1451,
         ocs:C4756,
-        ocs:C7733 ;
+        ocs:C7733,
+        ocs:C13511 ;
     skos:closeMatch <http://dbpedia.org/resource/Verification_condition_generator> ;
     skos:prefLabel "Verification condition generator" .
 

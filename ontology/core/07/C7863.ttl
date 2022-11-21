@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7863 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Business_information> ;
     skos:prefLabel "Business information" ;
-    skos:related ocs:C1253,
+    skos:related ocs:C197,
+        ocs:C1253,
         ocs:C1332,
-        ocs:C197,
-        ocs:C23671,
-        ocs:C28632,
         ocs:C2979,
         ocs:C3395,
         ocs:C6944,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C23671,
+        ocs:C28632 .
 

@@ -5,7 +5,9 @@ ocs:C17723 a skos:Concept ;
     skos:broader ocs:C8704 ;
     skos:closeMatch <http://dbpedia.org/resource/Fair-share_scheduling> ;
     skos:prefLabel "Fair-share scheduling" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C8704,
+        ocs:C10320,
         ocs:C12683,
         ocs:C20800,
         ocs:C30218,
@@ -19,7 +21,5 @@ ocs:C17723 a skos:Concept ;
         ocs:C45252,
         ocs:C45363,
         ocs:C45527,
-        ocs:C45708,
-        ocs:C8704,
-        ocs:C9 .
+        ocs:C45708 .
 

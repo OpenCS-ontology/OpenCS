@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13226 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Via_Net_Loss> ;
     skos:prefLabel "Via Net Loss" ;
-    skos:related ocs:C21610,
-        ocs:C25293,
-        ocs:C26818,
-        ocs:C28758,
-        ocs:C2917,
+    skos:related ocs:C2917,
         ocs:C3105,
-        ocs:C36237,
         ocs:C4983,
         ocs:C6546,
         ocs:C6821,
         ocs:C6861,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C21610,
+        ocs:C25293,
+        ocs:C26818,
+        ocs:C28758,
+        ocs:C36237 .
 

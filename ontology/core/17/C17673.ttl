@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17673 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C3563,
+    skos:broader ocs:C3563,
         ocs:C3569,
-        ocs:C6754 ;
+        ocs:C6754,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Transactions_per_second> ;
     skos:prefLabel "Transactions per second" ;
-    skos:related ocs:C12185,
+    skos:related ocs:C6,
+        ocs:C5551,
+        ocs:C6552,
+        ocs:C6754,
+        ocs:C8184,
+        ocs:C12185,
         ocs:C13984,
         ocs:C15481,
         ocs:C17701,
@@ -22,10 +27,5 @@ ocs:C17673 a skos:Concept ;
         ocs:C42517,
         ocs:C43404,
         ocs:C44650,
-        ocs:C45000,
-        ocs:C5551,
-        ocs:C6,
-        ocs:C6552,
-        ocs:C6754,
-        ocs:C8184 .
+        ocs:C45000 .
 

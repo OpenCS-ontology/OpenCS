@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7623 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Multi-channel_length> ;
     skos:prefLabel "Multi-channel length" ;
     skos:related ocs:C10377,

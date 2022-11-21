@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12322 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Heat_map> ;
     skos:prefLabel "Heat map" ;
-    skos:related ocs:C11809,
+    skos:related ocs:C383,
+        ocs:C388,
+        ocs:C597,
+        ocs:C11809,
         ocs:C18406,
         ocs:C24603,
         ocs:C24971,
@@ -16,8 +19,5 @@ ocs:C12322 a skos:Concept ;
         ocs:C29024,
         ocs:C33958,
         ocs:C37642,
-        ocs:C383,
-        ocs:C388,
-        ocs:C42101,
-        ocs:C597 .
+        ocs:C42101 .
 

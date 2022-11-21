@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10508 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Business_logic> ;
     skos:prefLabel "Business logic" ;
-    skos:related ocs:C10720,
+    skos:related ocs:C6,
+        ocs:C1253,
+        ocs:C2303,
+        ocs:C2674,
+        ocs:C4260,
+        ocs:C5702,
+        ocs:C7395,
+        ocs:C7736,
+        ocs:C10720,
         ocs:C11293,
         ocs:C11927,
         ocs:C12185,
-        ocs:C1253,
         ocs:C12810,
         ocs:C22095,
-        ocs:C2303,
         ocs:C24143,
-        ocs:C2674,
         ocs:C28801,
         ocs:C31841,
-        ocs:C41867,
-        ocs:C4260,
-        ocs:C5702,
-        ocs:C6,
-        ocs:C7395,
-        ocs:C7736 .
+        ocs:C41867 .
 

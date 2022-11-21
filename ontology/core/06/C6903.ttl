@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6903 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Bell_character> ;
     skos:prefLabel "Bell character" ;
-    skos:related ocs:C12815,
-        ocs:C13253,
-        ocs:C14271,
-        ocs:C14649,
-        ocs:C2534,
-        ocs:C30078,
-        ocs:C40228,
+    skos:related ocs:C2534,
         ocs:C5126,
         ocs:C6034,
         ocs:C6242,
         ocs:C7670,
         ocs:C8899,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C12815,
+        ocs:C13253,
+        ocs:C14271,
+        ocs:C14649,
+        ocs:C30078,
+        ocs:C40228 .
 

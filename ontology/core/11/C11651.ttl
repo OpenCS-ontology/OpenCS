@@ -2,14 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11651 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C10,
         ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Serial_number> ;
     skos:prefLabel "Serial code" ;
-    skos:related ocs:C12755,
-        ocs:C18764,
-        ocs:C20957,
+    skos:related ocs:C9,
         ocs:C3180,
         ocs:C4597,
         ocs:C4779,
@@ -20,5 +18,7 @@ ocs:C11651 a skos:Concept ;
         ocs:C7201,
         ocs:C8614,
         ocs:C8790,
-        ocs:C9 .
+        ocs:C12755,
+        ocs:C18764,
+        ocs:C20957 .
 

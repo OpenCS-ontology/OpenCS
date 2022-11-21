@@ -10,7 +10,10 @@ ocs:C42478 a skos:Concept ;
         ocs:C37264 ;
     skos:closeMatch <http://dbpedia.org/resource/HMAC-based_One-time_Password_Algorithm> ;
     skos:prefLabel "HMAC-based One-time Password Algorithm" ;
-    skos:related ocs:C1042,
+    skos:related ocs:C816,
+        ocs:C1042,
+        ocs:C3936,
+        ocs:C5203,
         ocs:C12331,
         ocs:C13017,
         ocs:C13144,
@@ -25,8 +28,5 @@ ocs:C42478 a skos:Concept ;
         ocs:C36161,
         ocs:C37133,
         ocs:C39193,
-        ocs:C3936,
-        ocs:C45551,
-        ocs:C5203,
-        ocs:C816 .
+        ocs:C45551 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4608 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Jerkiness> ;
     skos:prefLabel "Jerkiness" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C2000,
+        ocs:C5084,
+        ocs:C6704,
+        ocs:C12544,
         ocs:C13466,
         ocs:C13509,
         ocs:C13679,
         ocs:C15700,
-        ocs:C2000,
         ocs:C21097,
         ocs:C34890,
         ocs:C38826,
         ocs:C39777,
         ocs:C40199,
-        ocs:C45841,
-        ocs:C5084,
-        ocs:C6704 .
+        ocs:C45841 .
 

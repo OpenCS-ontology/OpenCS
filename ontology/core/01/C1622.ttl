@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1622 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Grey_literature> ;
     skos:prefLabel "Grey literature" ;
     skos:related ocs:C1,
+        ocs:C406,
+        ocs:C3896,
+        ocs:C5031,
+        ocs:C9096,
         ocs:C10413,
         ocs:C10673,
         ocs:C11446,
@@ -14,9 +18,5 @@ ocs:C1622 a skos:Concept ;
         ocs:C11595,
         ocs:C13280,
         ocs:C15008,
-        ocs:C24257,
-        ocs:C3896,
-        ocs:C406,
-        ocs:C5031,
-        ocs:C9096 .
+        ocs:C24257 .
 

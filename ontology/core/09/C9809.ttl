@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9809 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C33 ;
     skos:prefLabel "Recovery memory" ;
-    skos:related ocs:C10329,
+    skos:related ocs:C2,
         ocs:C11,
+        ocs:C794,
         ocs:C1449,
-        ocs:C2,
-        ocs:C794 .
+        ocs:C10329 .
 

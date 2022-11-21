@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1903 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Theory_of_obligationes> ;
     skos:prefLabel "Theory of obligationes" ;
-    skos:related ocs:C10825,
-        ocs:C11635,
-        ocs:C126,
-        ocs:C16796,
+    skos:related ocs:C126,
         ocs:C1681,
         ocs:C1790,
+        ocs:C7766,
+        ocs:C8077,
+        ocs:C9834,
+        ocs:C10825,
+        ocs:C11635,
+        ocs:C16796,
         ocs:C18959,
         ocs:C35496,
         ocs:C36771,
@@ -19,8 +22,5 @@ ocs:C1903 a skos:Concept ;
         ocs:C38678,
         ocs:C38926,
         ocs:C43307,
-        ocs:C44410,
-        ocs:C7766,
-        ocs:C8077,
-        ocs:C9834 .
+        ocs:C44410 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3696 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Human-readable_medium> ;
     skos:prefLabel "Human-readable medium" ;
-    skos:related ocs:C11531,
+    skos:related ocs:C6,
+        ocs:C19,
+        ocs:C31,
+        ocs:C3896,
+        ocs:C5126,
+        ocs:C5692,
+        ocs:C8898,
+        ocs:C9162,
+        ocs:C11531,
         ocs:C11927,
         ocs:C12257,
         ocs:C12755,
         ocs:C13068,
         ocs:C14271,
         ocs:C15902,
-        ocs:C19,
         ocs:C23162,
-        ocs:C28801,
-        ocs:C31,
-        ocs:C3896,
-        ocs:C5126,
-        ocs:C5692,
-        ocs:C6,
-        ocs:C8898,
-        ocs:C9162 .
+        ocs:C28801 .
 

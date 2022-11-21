@@ -2,19 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1098 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Rename_(computing)> ;
     skos:prefLabel "Rename" ;
     skos:related ocs:C1165,
+        ocs:C2176,
+        ocs:C2674,
+        ocs:C4706,
+        ocs:C9938,
         ocs:C12683,
         ocs:C14990,
         ocs:C18742,
         ocs:C20800,
-        ocs:C2176,
         ocs:C22970,
         ocs:C25031,
-        ocs:C2674,
         ocs:C26754,
         ocs:C31489,
         ocs:C33278,
@@ -23,7 +25,5 @@ ocs:C1098 a skos:Concept ;
         ocs:C42140,
         ocs:C42252,
         ocs:C43104,
-        ocs:C44581,
-        ocs:C4706,
-        ocs:C9938 .
+        ocs:C44581 .
 

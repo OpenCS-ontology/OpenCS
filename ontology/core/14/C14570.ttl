@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14570 a skos:Concept ;
-    skos:broader ocs:C10534,
-        ocs:C8753 ;
+    skos:broader ocs:C8753,
+        ocs:C10534 ;
     skos:closeMatch <http://dbpedia.org/resource/Compute_kernel> ;
     skos:prefLabel "Compute kernel" ;
-    skos:related ocs:C10320,
-        ocs:C12690,
+    skos:related ocs:C27,
+        ocs:C856,
         ocs:C1904,
+        ocs:C2478,
+        ocs:C2674,
+        ocs:C5514,
+        ocs:C7507,
+        ocs:C10320,
+        ocs:C12690,
         ocs:C19229,
         ocs:C19936,
         ocs:C24235,
-        ocs:C2478,
-        ocs:C2674,
         ocs:C26812,
-        ocs:C27,
         ocs:C31649,
         ocs:C32556,
         ocs:C37215,
-        ocs:C38442,
-        ocs:C5514,
-        ocs:C7507,
-        ocs:C856 .
+        ocs:C38442 .
 

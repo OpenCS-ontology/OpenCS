@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3253 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Registered_user> ;
     skos:prefLabel "Registered user" ;
-    skos:related ocs:C12022,
+    skos:related ocs:C394,
+        ocs:C7738,
+        ocs:C8614,
+        ocs:C9219,
+        ocs:C12022,
         ocs:C14363,
         ocs:C16369,
         ocs:C18683,
@@ -19,9 +23,5 @@ ocs:C3253 a skos:Concept ;
         ocs:C27531,
         ocs:C28881,
         ocs:C31489,
-        ocs:C36171,
-        ocs:C394,
-        ocs:C7738,
-        ocs:C8614,
-        ocs:C9219 .
+        ocs:C36171 .
 

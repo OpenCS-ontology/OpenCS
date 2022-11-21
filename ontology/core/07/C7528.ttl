@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7528 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Orientation_(computer_vision)> ;
     skos:prefLabel "Orientation (computer vision)" ;
-    skos:related ocs:C14465,
-        ocs:C14863,
+    skos:related ocs:C7,
         ocs:C1503,
+        ocs:C4435,
+        ocs:C9594,
+        ocs:C14465,
+        ocs:C14863,
         ocs:C24607,
         ocs:C24784,
         ocs:C26688,
@@ -20,8 +23,5 @@ ocs:C7528 a skos:Concept ;
         ocs:C37203,
         ocs:C37582,
         ocs:C40344,
-        ocs:C40681,
-        ocs:C4435,
-        ocs:C7,
-        ocs:C9594 .
+        ocs:C40681 .
 

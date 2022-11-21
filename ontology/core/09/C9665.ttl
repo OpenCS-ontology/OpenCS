@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9665 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:prefLabel "Common Data Element" ;
-    skos:related ocs:C10211,
-        ocs:C11886,
-        ocs:C1443,
-        ocs:C18791,
-        ocs:C20103,
-        ocs:C23,
-        ocs:C2753,
+    skos:related ocs:C23,
         ocs:C34,
+        ocs:C1443,
+        ocs:C2753,
         ocs:C3799,
-        ocs:C5722 .
+        ocs:C5722,
+        ocs:C10211,
+        ocs:C11886,
+        ocs:C18791,
+        ocs:C20103 .
 

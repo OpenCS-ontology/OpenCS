@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1060 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Database_trigger> ;
     skos:prefLabel "Database trigger" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C3934,
+        ocs:C5497,
+        ocs:C6754,
+        ocs:C10444,
         ocs:C12185,
         ocs:C13767,
         ocs:C14025,
@@ -18,9 +22,5 @@ ocs:C1060 a skos:Concept ;
         ocs:C18567,
         ocs:C20517,
         ocs:C26088,
-        ocs:C33457,
-        ocs:C3934,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C6754 .
+        ocs:C33457 .
 

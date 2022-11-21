@@ -2,14 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12738 a skos:Concept ;
-    skos:broader ocs:C33,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C33,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Privilege_level> ;
     skos:prefLabel "Privilege level" ;
-    skos:related ocs:C10983,
-        ocs:C12323,
+    skos:related ocs:C9,
+        ocs:C856,
         ocs:C1251,
+        ocs:C5147,
+        ocs:C7635,
+        ocs:C9433,
+        ocs:C10983,
+        ocs:C12323,
         ocs:C19487,
         ocs:C27025,
         ocs:C28881,
@@ -20,10 +25,5 @@ ocs:C12738 a skos:Concept ;
         ocs:C39555,
         ocs:C39896,
         ocs:C41159,
-        ocs:C42499,
-        ocs:C5147,
-        ocs:C7635,
-        ocs:C856,
-        ocs:C9,
-        ocs:C9433 .
+        ocs:C42499 .
 

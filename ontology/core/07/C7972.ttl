@@ -5,7 +5,13 @@ ocs:C7972 a skos:Concept ;
     skos:broader ocs:C6 ;
     skos:closeMatch <http://dbpedia.org/resource/SQL/Schemata> ;
     skos:prefLabel "SQL/Schemata" ;
-    skos:related ocs:C12185,
+    skos:related ocs:C6,
+        ocs:C3754,
+        ocs:C3896,
+        ocs:C5685,
+        ocs:C5789,
+        ocs:C8184,
+        ocs:C12185,
         ocs:C12403,
         ocs:C12818,
         ocs:C16901,
@@ -13,11 +19,5 @@ ocs:C7972 a skos:Concept ;
         ocs:C17905,
         ocs:C18383,
         ocs:C23139,
-        ocs:C3754,
-        ocs:C3896,
-        ocs:C40466,
-        ocs:C5685,
-        ocs:C5789,
-        ocs:C6,
-        ocs:C8184 .
+        ocs:C40466 .
 

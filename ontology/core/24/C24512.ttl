@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24512 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C5867 ;
+    skos:broader ocs:C5867,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Diamond_operator> ;
     skos:prefLabel "Diamond operator" ;
     skos:related ocs:C23209,

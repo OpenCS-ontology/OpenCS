@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6299 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Parallax_Propeller> ;
     skos:prefLabel "Parallax Propeller" ;
-    skos:related ocs:C10320,
-        ocs:C10683,
+    skos:related ocs:C9,
         ocs:C11,
+        ocs:C27,
+        ocs:C856,
+        ocs:C6072,
+        ocs:C6172,
+        ocs:C10320,
+        ocs:C10683,
         ocs:C13386,
         ocs:C13689,
         ocs:C17204,
         ocs:C19487,
         ocs:C22322,
-        ocs:C27,
-        ocs:C43505,
-        ocs:C6072,
-        ocs:C6172,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C43505 .
 

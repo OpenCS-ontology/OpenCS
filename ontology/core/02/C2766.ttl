@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2766 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Memory_debugger> ;
     skos:prefLabel "Memory debugger" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C794,
+        ocs:C4651,
+        ocs:C9033,
+        ocs:C10214,
         ocs:C10284,
         ocs:C12605,
         ocs:C23580,
@@ -17,8 +20,5 @@ ocs:C2766 a skos:Concept ;
         ocs:C33702,
         ocs:C37844,
         ocs:C43003,
-        ocs:C45212,
-        ocs:C4651,
-        ocs:C794,
-        ocs:C9033 .
+        ocs:C45212 .
 

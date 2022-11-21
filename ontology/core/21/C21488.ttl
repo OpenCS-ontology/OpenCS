@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21488 a skos:Concept ;
-    skos:broader ocs:C4528,
-        ocs:C747 ;
+    skos:broader ocs:C747,
+        ocs:C4528 ;
     skos:closeMatch <http://dbpedia.org/resource/3LCD> ;
     skos:prefLabel "3LCD" ;
-    skos:related ocs:C15787,
+    skos:related ocs:C2416,
+        ocs:C4528,
+        ocs:C5841,
+        ocs:C15787,
         ocs:C19957,
         ocs:C21755,
         ocs:C23498,
-        ocs:C2416,
         ocs:C26733,
         ocs:C26790,
         ocs:C27657,
         ocs:C27780,
-        ocs:C29011,
-        ocs:C4528,
-        ocs:C5841 .
+        ocs:C29011 .
 

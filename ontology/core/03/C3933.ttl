@@ -2,13 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3933 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
-        ocs:C9 ;
+    skos:broader ocs:C3,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/IP_Multimedia_Subsystem> ;
     skos:prefLabel "IP Multimedia Subsystem" ;
-    skos:related ocs:C12001,
-        ocs:C125,
+    skos:related ocs:C125,
+        ocs:C5917,
+        ocs:C6821,
+        ocs:C6987,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12001,
         ocs:C12853,
         ocs:C20540,
         ocs:C21981,
@@ -17,12 +24,5 @@ ocs:C3933 a skos:Concept ;
         ocs:C28758,
         ocs:C31996,
         ocs:C33285,
-        ocs:C34719,
-        ocs:C5917,
-        ocs:C6821,
-        ocs:C6987,
-        ocs:C8515,
-        ocs:C8614,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C34719 .
 

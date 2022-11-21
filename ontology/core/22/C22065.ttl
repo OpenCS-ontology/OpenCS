@@ -5,7 +5,13 @@ ocs:C22065 a skos:Concept ;
     skos:broader ocs:C7006 ;
     skos:closeMatch <http://dbpedia.org/resource/Trusted_Platform_Module> ;
     skos:prefLabel "Trusted Platform Module" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C4218,
+        ocs:C5692,
+        ocs:C6031,
+        ocs:C6234,
+        ocs:C8437,
+        ocs:C10320,
         ocs:C10400,
         ocs:C10568,
         ocs:C16481,
@@ -18,11 +24,5 @@ ocs:C22065 a skos:Concept ;
         ocs:C38723,
         ocs:C40352,
         ocs:C41011,
-        ocs:C4218,
-        ocs:C44003,
-        ocs:C5692,
-        ocs:C6031,
-        ocs:C6234,
-        ocs:C8437,
-        ocs:C9 .
+        ocs:C44003 .
 

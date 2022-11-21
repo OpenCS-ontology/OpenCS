@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24478 a skos:Concept ;
-    skos:broader ocs:C13858,
-        ocs:C3900 ;
+    skos:broader ocs:C3900,
+        ocs:C13858 ;
     skos:closeMatch <http://dbpedia.org/resource/Progress_in_artificial_intelligence> ;
     skos:prefLabel "Progress in artificial intelligence" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
+        ocs:C16,
+        ocs:C32,
+        ocs:C685,
+        ocs:C1388,
+        ocs:C3077,
+        ocs:C3848,
+        ocs:C3900,
+        ocs:C7409,
+        ocs:C8086,
+        ocs:C10616,
         ocs:C11033,
         ocs:C11381,
         ocs:C12579,
         ocs:C12977,
-        ocs:C1388,
-        ocs:C16,
-        ocs:C3077,
         ocs:C30824,
         ocs:C31036,
-        ocs:C32,
-        ocs:C3848,
-        ocs:C3900,
         ocs:C39311,
-        ocs:C44765,
-        ocs:C685,
-        ocs:C7409,
-        ocs:C8,
-        ocs:C8086 .
+        ocs:C44765 .
 

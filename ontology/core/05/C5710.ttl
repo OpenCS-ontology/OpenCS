@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5710 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Computational_photography> ;
     skos:prefLabel "Computational photography" ;
-    skos:related ocs:C11253,
-        ocs:C13065,
+    skos:related ocs:C7,
+        ocs:C22,
+        ocs:C967,
         ocs:C1394,
+        ocs:C2883,
+        ocs:C4339,
+        ocs:C6943,
+        ocs:C11253,
+        ocs:C13065,
         ocs:C15842,
         ocs:C18263,
         ocs:C19697,
         ocs:C20961,
-        ocs:C22,
         ocs:C28751,
-        ocs:C2883,
-        ocs:C29811,
-        ocs:C4339,
-        ocs:C6943,
-        ocs:C7,
-        ocs:C967 .
+        ocs:C29811 .
 

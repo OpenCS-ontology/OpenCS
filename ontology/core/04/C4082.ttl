@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4082 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C10,
         ocs:C29 ;
     skos:prefLabel "Number generator" .
 

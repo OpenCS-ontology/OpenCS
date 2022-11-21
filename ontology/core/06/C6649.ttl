@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6649 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/PC133> ;
     skos:prefLabel "PC133" ;
-    skos:related ocs:C13875,
+    skos:related ocs:C6798,
+        ocs:C13875,
         ocs:C15167,
         ocs:C16592,
         ocs:C25107,
@@ -20,6 +21,5 @@ ocs:C6649 a skos:Concept ;
         ocs:C38463,
         ocs:C39061,
         ocs:C44598,
-        ocs:C45186,
-        ocs:C6798 .
+        ocs:C45186 .
 

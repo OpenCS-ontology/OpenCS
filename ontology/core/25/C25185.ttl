@@ -5,7 +5,12 @@ ocs:C25185 a skos:Concept ;
     skos:broader ocs:C4321 ;
     skos:closeMatch <http://dbpedia.org/resource/Dynamic_linker> ;
     skos:prefLabel "Dynamic linker" ;
-    skos:related ocs:C11777,
+    skos:related ocs:C9,
+        ocs:C4321,
+        ocs:C6072,
+        ocs:C7800,
+        ocs:C8242,
+        ocs:C11777,
         ocs:C11991,
         ocs:C12257,
         ocs:C12683,
@@ -14,10 +19,5 @@ ocs:C25185 a skos:Concept ;
         ocs:C24871,
         ocs:C28881,
         ocs:C29426,
-        ocs:C31489,
-        ocs:C4321,
-        ocs:C6072,
-        ocs:C7800,
-        ocs:C8242,
-        ocs:C9 .
+        ocs:C31489 .
 

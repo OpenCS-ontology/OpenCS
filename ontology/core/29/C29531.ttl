@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29531 a skos:Concept ;
-    skos:broader ocs:C12580,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12580 ;
     skos:closeMatch <http://dbpedia.org/resource/Correlated_double_sampling> ;
     skos:prefLabel "Correlated double sampling" ;
-    skos:related ocs:C25042,
-        ocs:C35959,
-        ocs:C7789 .
+    skos:related ocs:C7789,
+        ocs:C25042,
+        ocs:C35959 .
 

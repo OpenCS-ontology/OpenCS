@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2725 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Push-to-type_operation> ;
     skos:prefLabel "Push-to-type operation" ;
-    skos:related ocs:C15962,
+    skos:related ocs:C3,
         ocs:C2188,
-        ocs:C24469,
-        ocs:C3,
-        ocs:C31746,
-        ocs:C32816,
-        ocs:C37232,
-        ocs:C43515,
         ocs:C5285,
         ocs:C6171,
         ocs:C6182,
         ocs:C6763,
-        ocs:C8190 .
+        ocs:C8190,
+        ocs:C15962,
+        ocs:C24469,
+        ocs:C31746,
+        ocs:C32816,
+        ocs:C37232,
+        ocs:C43515 .
 

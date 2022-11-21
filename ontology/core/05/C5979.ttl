@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5979 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Demining> ;
     skos:prefLabel "Demining" ;
     skos:related ocs:C5247 .

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12694 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C34,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_warehouse> ;
     skos:prefLabel "Data warehouse" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C13,
+        ocs:C197,
+        ocs:C1392,
+        ocs:C3896,
+        ocs:C10444,
         ocs:C10979,
         ocs:C12185,
         ocs:C12238,
         ocs:C12736,
-        ocs:C13,
-        ocs:C1392,
         ocs:C16874,
         ocs:C17701,
         ocs:C18025,
-        ocs:C197,
         ocs:C20446,
         ocs:C23505,
         ocs:C25950,
         ocs:C27200,
         ocs:C35534,
-        ocs:C38006,
-        ocs:C3896,
-        ocs:C6 .
+        ocs:C38006 .
 

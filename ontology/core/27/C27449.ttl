@@ -5,7 +5,10 @@ ocs:C27449 a skos:Concept ;
     skos:broader ocs:C8706 ;
     skos:closeMatch <http://dbpedia.org/resource/Device_mapper> ;
     skos:prefLabel "Device mapper" ;
-    skos:related ocs:C10135,
+    skos:related ocs:C9,
+        ocs:C7476,
+        ocs:C8782,
+        ocs:C10135,
         ocs:C10501,
         ocs:C11960,
         ocs:C13783,
@@ -20,8 +23,5 @@ ocs:C27449 a skos:Concept ;
         ocs:C38117,
         ocs:C40765,
         ocs:C43718,
-        ocs:C43761,
-        ocs:C7476,
-        ocs:C8782,
-        ocs:C9 .
+        ocs:C43761 .
 

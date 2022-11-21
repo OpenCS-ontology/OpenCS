@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9214 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Pathfinder_(library_science)> ;
     skos:prefLabel "Pathfinder" ;
-    skos:related ocs:C10220,
-        ocs:C10413,
-        ocs:C1561,
-        ocs:C25354,
-        ocs:C26542,
+    skos:related ocs:C4,
         ocs:C31,
+        ocs:C1561,
         ocs:C3119,
-        ocs:C31900,
         ocs:C3214,
         ocs:C3444,
-        ocs:C4,
-        ocs:C40049,
         ocs:C4781,
         ocs:C6688,
         ocs:C7062,
-        ocs:C8770 .
+        ocs:C8770,
+        ocs:C10220,
+        ocs:C10413,
+        ocs:C25354,
+        ocs:C26542,
+        ocs:C31900,
+        ocs:C40049 .
 

@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5053 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_Language_Interface> ;
     skos:prefLabel "Data Language Interface" ;
-    skos:related ocs:C10496,
+    skos:related ocs:C6,
+        ocs:C2587,
+        ocs:C3036,
+        ocs:C4046,
+        ocs:C4877,
+        ocs:C6714,
+        ocs:C7105,
+        ocs:C9035,
+        ocs:C10496,
         ocs:C13101,
         ocs:C13372,
         ocs:C15611,
@@ -14,15 +22,7 @@ ocs:C5053 a skos:Concept ;
         ocs:C17701,
         ocs:C18414,
         ocs:C20446,
-        ocs:C2587,
         ocs:C27030,
-        ocs:C3036,
         ocs:C38773,
-        ocs:C4046,
-        ocs:C41812,
-        ocs:C4877,
-        ocs:C6,
-        ocs:C6714,
-        ocs:C7105,
-        ocs:C9035 .
+        ocs:C41812 .
 

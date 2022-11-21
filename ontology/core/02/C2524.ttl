@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2524 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Complex_data_type> ;
     skos:prefLabel "Complex data type" ;
-    skos:related ocs:C10909,
-        ocs:C12262,
-        ocs:C19,
-        ocs:C25570,
+    skos:related ocs:C19,
+        ocs:C794,
         ocs:C2879,
-        ocs:C39309,
-        ocs:C42032,
-        ocs:C44259,
-        ocs:C45496,
         ocs:C5280,
         ocs:C6255,
         ocs:C6661,
         ocs:C6714,
-        ocs:C794,
         ocs:C8170,
-        ocs:C9277 .
+        ocs:C9277,
+        ocs:C10909,
+        ocs:C12262,
+        ocs:C25570,
+        ocs:C39309,
+        ocs:C42032,
+        ocs:C44259,
+        ocs:C45496 .
 

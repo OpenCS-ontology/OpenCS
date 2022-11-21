@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15691 a skos:Concept ;
-    skos:broader ocs:C12427,
-        ocs:C6346,
+    skos:broader ocs:C6346,
         ocs:C7056,
-        ocs:C9741 ;
+        ocs:C9741,
+        ocs:C12427 ;
     skos:prefLabel "Resource allocation systems" .
 

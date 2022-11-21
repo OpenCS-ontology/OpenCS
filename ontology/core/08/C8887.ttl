@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8887 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Artificial_creation> ;
     skos:prefLabel "Artificial creation" ;
-    skos:related ocs:C11143,
+    skos:related ocs:C90,
+        ocs:C3046,
+        ocs:C7334,
+        ocs:C7553,
+        ocs:C9373,
+        ocs:C11143,
         ocs:C13746,
         ocs:C14921,
         ocs:C20846,
         ocs:C25025,
         ocs:C27563,
         ocs:C29276,
-        ocs:C3046,
         ocs:C34870,
-        ocs:C36567,
-        ocs:C7334,
-        ocs:C7553,
-        ocs:C90,
-        ocs:C9373 .
+        ocs:C36567 .
 

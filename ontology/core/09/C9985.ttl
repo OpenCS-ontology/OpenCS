@@ -5,7 +5,12 @@ ocs:C9985 a skos:Concept ;
     skos:broader ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Product_type> ;
     skos:prefLabel "Product type" ;
-    skos:related ocs:C10392,
+    skos:related ocs:C386,
+        ocs:C6661,
+        ocs:C6941,
+        ocs:C8170,
+        ocs:C8174,
+        ocs:C10392,
         ocs:C10498,
         ocs:C11327,
         ocs:C14151,
@@ -15,10 +20,5 @@ ocs:C9985 a skos:Concept ;
         ocs:C22266,
         ocs:C27380,
         ocs:C31218,
-        ocs:C34136,
-        ocs:C386,
-        ocs:C6661,
-        ocs:C6941,
-        ocs:C8170,
-        ocs:C8174 .
+        ocs:C34136 .
 

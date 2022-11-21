@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5798 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Scrambling_(linguistics)> ;
     skos:prefLabel "Scrambling" ;
-    skos:related ocs:C16424,
+    skos:related ocs:C5347,
+        ocs:C16424,
         ocs:C18744,
         ocs:C19753,
         ocs:C20577,
@@ -19,6 +20,5 @@ ocs:C5798 a skos:Concept ;
         ocs:C26884,
         ocs:C29705,
         ocs:C30451,
-        ocs:C33735,
-        ocs:C5347 .
+        ocs:C33735 .
 

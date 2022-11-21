@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10085 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Structure_editor> ;
     skos:prefLabel "Structure editor" ;
-    skos:related ocs:C10725,
+    skos:related ocs:C19,
+        ocs:C1694,
+        ocs:C3398,
+        ocs:C4321,
+        ocs:C7430,
+        ocs:C8564,
+        ocs:C9033,
+        ocs:C10725,
         ocs:C12257,
         ocs:C14557,
-        ocs:C1694,
-        ocs:C19,
         ocs:C20840,
         ocs:C21627,
         ocs:C22624,
         ocs:C23439,
         ocs:C27892,
         ocs:C28801,
-        ocs:C3398,
         ocs:C35691,
         ocs:C42905,
-        ocs:C4321,
-        ocs:C43888,
-        ocs:C7430,
-        ocs:C8564,
-        ocs:C9033 .
+        ocs:C43888 .
 

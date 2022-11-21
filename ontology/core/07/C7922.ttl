@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7922 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_news> ;
     skos:prefLabel "Mobile news" ;
-    skos:related ocs:C10368,
-        ocs:C11696,
-        ocs:C12698,
-        ocs:C1338,
-        ocs:C21749,
-        ocs:C29023,
-        ocs:C31755,
-        ocs:C32451,
-        ocs:C36500,
+    skos:related ocs:C1338,
         ocs:C4819,
         ocs:C5917,
         ocs:C6114,
         ocs:C7166,
         ocs:C7877,
         ocs:C8614,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C10368,
+        ocs:C11696,
+        ocs:C12698,
+        ocs:C21749,
+        ocs:C29023,
+        ocs:C31755,
+        ocs:C32451,
+        ocs:C36500 .
 

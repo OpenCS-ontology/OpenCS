@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25222 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C7471 ;
+    skos:broader ocs:C7471,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Least_absolute_deviations> ;
     skos:prefLabel "Least absolute deviations" ;
-    skos:related ocs:C10138,
+    skos:related ocs:C4752,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C7278,
+        ocs:C7471,
+        ocs:C10138,
         ocs:C13877,
         ocs:C18625,
         ocs:C20013,
@@ -15,10 +20,5 @@ ocs:C25222 a skos:Concept ;
         ocs:C26880,
         ocs:C28403,
         ocs:C32418,
-        ocs:C37170,
-        ocs:C4752,
-        ocs:C5087,
-        ocs:C6116,
-        ocs:C7278,
-        ocs:C7471 .
+        ocs:C37170 .
 

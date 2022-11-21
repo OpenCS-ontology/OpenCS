@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20119 a skos:Concept ;
-    skos:broader ocs:C11540,
-        ocs:C2684,
-        ocs:C8614 ;
+    skos:broader ocs:C2684,
+        ocs:C8614,
+        ocs:C11540 ;
     skos:closeMatch <http://dbpedia.org/resource/Dead_Peer_Detection> ;
     skos:prefLabel "Dead Peer Detection" ;
     skos:related ocs:C20205,

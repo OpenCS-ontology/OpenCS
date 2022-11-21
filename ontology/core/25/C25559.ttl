@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25559 a skos:Concept ;
-    skos:broader ocs:C11932,
-        ocs:C7021 ;
+    skos:broader ocs:C7021,
+        ocs:C11932 ;
     skos:closeMatch <http://dbpedia.org/resource/Chinese_classifier> ;
     skos:prefLabel "Chinese classifier" ;
-    skos:related ocs:C11932,
+    skos:related ocs:C1952,
+        ocs:C3261,
+        ocs:C7021,
+        ocs:C7310,
+        ocs:C8454,
+        ocs:C11932,
         ocs:C12270,
         ocs:C15012,
         ocs:C16424,
-        ocs:C1952,
         ocs:C21403,
         ocs:C21988,
         ocs:C23243,
         ocs:C25257,
         ocs:C26816,
         ocs:C29296,
-        ocs:C32159,
-        ocs:C3261,
-        ocs:C7021,
-        ocs:C7310,
-        ocs:C8454 .
+        ocs:C32159 .
 

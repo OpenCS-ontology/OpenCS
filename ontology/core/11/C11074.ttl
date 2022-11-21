@@ -3,11 +3,18 @@
 
 ocs:C11074 a skos:Concept ;
     skos:broader ocs:C3,
-        ocs:C35,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Home_Gateway_Initiative> ;
     skos:prefLabel "Home Gateway Initiative" ;
-    skos:related ocs:C10226,
+    skos:related ocs:C3966,
+        ocs:C4197,
+        ocs:C4433,
+        ocs:C6821,
+        ocs:C7165,
+        ocs:C8896,
+        ocs:C9113,
+        ocs:C10226,
         ocs:C13695,
         ocs:C15589,
         ocs:C16227,
@@ -19,12 +26,5 @@ ocs:C11074 a skos:Concept ;
         ocs:C31060,
         ocs:C35370,
         ocs:C35778,
-        ocs:C3966,
-        ocs:C4197,
-        ocs:C4433,
-        ocs:C45825,
-        ocs:C6821,
-        ocs:C7165,
-        ocs:C8896,
-        ocs:C9113 .
+        ocs:C45825 .
 

@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7162 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/BaseBean> ;
     skos:prefLabel "BaseBean" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C5308,
+        ocs:C7731,
+        ocs:C8023,
+        ocs:C9650,
+        ocs:C10182,
         ocs:C10720,
         ocs:C10781,
         ocs:C25956,
@@ -16,9 +20,5 @@ ocs:C7162 a skos:Concept ;
         ocs:C39851,
         ocs:C40193,
         ocs:C42211,
-        ocs:C43771,
-        ocs:C5308,
-        ocs:C7731,
-        ocs:C8023,
-        ocs:C9650 .
+        ocs:C43771 .
 

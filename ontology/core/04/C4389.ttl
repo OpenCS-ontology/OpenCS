@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4389 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/StreamSQL> ;
     skos:prefLabel "StreamSQL" ;
-    skos:related ocs:C10019,
+    skos:related ocs:C6,
+        ocs:C3934,
+        ocs:C5615,
+        ocs:C10019,
         ocs:C10444,
         ocs:C11282,
         ocs:C12185,
@@ -19,10 +22,7 @@ ocs:C4389 a skos:Concept ;
         ocs:C27923,
         ocs:C31527,
         ocs:C35395,
-        ocs:C3934,
         ocs:C44052,
         ocs:C44420,
-        ocs:C45138,
-        ocs:C5615,
-        ocs:C6 .
+        ocs:C45138 .
 

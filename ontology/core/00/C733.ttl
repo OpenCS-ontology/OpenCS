@@ -2,16 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C733 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/KiXtart> ;
     skos:prefLabel "KiXtart" ;
-    skos:related ocs:C10284,
-        ocs:C11128,
+    skos:related ocs:C19,
         ocs:C1386,
+        ocs:C4877,
+        ocs:C4918,
+        ocs:C5702,
+        ocs:C9235,
+        ocs:C9941,
+        ocs:C10284,
+        ocs:C11128,
         ocs:C14557,
         ocs:C14632,
-        ocs:C19,
         ocs:C25313,
         ocs:C28881,
         ocs:C32486,
@@ -19,10 +24,5 @@ ocs:C733 a skos:Concept ;
         ocs:C34227,
         ocs:C36631,
         ocs:C40418,
-        ocs:C43507,
-        ocs:C4877,
-        ocs:C4918,
-        ocs:C5702,
-        ocs:C9235,
-        ocs:C9941 .
+        ocs:C43507 .
 

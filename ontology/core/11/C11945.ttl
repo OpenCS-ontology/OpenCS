@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11945 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Program_Segment_Prefix> ;
     skos:prefLabel "Program Segment Prefix" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C3089,
+        ocs:C5396,
+        ocs:C5463,
+        ocs:C6605,
+        ocs:C7800,
+        ocs:C8434,
+        ocs:C9235,
+        ocs:C10400,
         ocs:C10568,
         ocs:C11531,
         ocs:C11991,
@@ -14,16 +22,8 @@ ocs:C11945 a skos:Concept ;
         ocs:C28881,
         ocs:C30078,
         ocs:C30860,
-        ocs:C3089,
         ocs:C32296,
         ocs:C42283,
         ocs:C43333,
-        ocs:C43625,
-        ocs:C5396,
-        ocs:C5463,
-        ocs:C6605,
-        ocs:C7800,
-        ocs:C8434,
-        ocs:C9,
-        ocs:C9235 .
+        ocs:C43625 .
 

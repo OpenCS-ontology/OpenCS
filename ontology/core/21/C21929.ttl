@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21929 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C4099,
-        ocs:C5196 ;
+    skos:broader ocs:C4099,
+        ocs:C5196,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Forward_error_correction> ;
     skos:prefLabel "Forward error correction" ;
-    skos:related ocs:C12485,
+    skos:related ocs:C3,
+        ocs:C5816,
+        ocs:C6402,
+        ocs:C7502,
+        ocs:C12485,
         ocs:C16106,
         ocs:C16978,
         ocs:C18626,
@@ -15,13 +19,9 @@ ocs:C21929 a skos:Concept ;
         ocs:C19877,
         ocs:C24469,
         ocs:C27316,
-        ocs:C3,
         ocs:C32049,
         ocs:C34469,
         ocs:C35138,
         ocs:C37934,
-        ocs:C40267,
-        ocs:C5816,
-        ocs:C6402,
-        ocs:C7502 .
+        ocs:C40267 .
 

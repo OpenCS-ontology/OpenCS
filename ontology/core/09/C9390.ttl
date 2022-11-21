@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9390 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Electronic_submission> ;
     skos:prefLabel "Electronic submission" ;
     skos:related ocs:C1,
+        ocs:C2,
+        ocs:C31,
+        ocs:C1622,
+        ocs:C1804,
+        ocs:C8614,
+        ocs:C9096,
         ocs:C11595,
         ocs:C11927,
         ocs:C12810,
         ocs:C13698,
-        ocs:C1622,
         ocs:C16778,
-        ocs:C1804,
-        ocs:C2,
-        ocs:C29853,
-        ocs:C31,
-        ocs:C8614,
-        ocs:C9096 .
+        ocs:C29853 .
 

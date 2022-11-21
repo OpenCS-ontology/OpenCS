@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28248 a skos:Concept ;
-    skos:broader ocs:C12486,
-        ocs:C172 ;
+    skos:broader ocs:C172,
+        ocs:C12486 ;
     skos:closeMatch <http://dbpedia.org/resource/Phonestheme> ;
     skos:prefLabel "Phonestheme" ;
-    skos:related ocs:C12110,
-        ocs:C13210,
-        ocs:C1451,
-        ocs:C14998,
-        ocs:C26019,
-        ocs:C26304,
+    skos:related ocs:C1451,
         ocs:C2761,
         ocs:C7467,
-        ocs:C7630 .
+        ocs:C7630,
+        ocs:C12110,
+        ocs:C13210,
+        ocs:C14998,
+        ocs:C26019,
+        ocs:C26304 .
 

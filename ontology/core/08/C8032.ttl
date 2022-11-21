@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8032 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Quasi-opportunistic_supercomputing> ;
     skos:prefLabel "Quasi-opportunistic supercomputing" ;
-    skos:related ocs:C12475,
-        ocs:C14257,
+    skos:related ocs:C27,
         ocs:C1590,
-        ocs:C22554,
-        ocs:C25618,
-        ocs:C26030,
-        ocs:C26345,
-        ocs:C27,
-        ocs:C27098,
         ocs:C2878,
-        ocs:C34979,
-        ocs:C40330,
         ocs:C5181,
         ocs:C6312,
         ocs:C6714,
         ocs:C7735,
-        ocs:C8704 .
+        ocs:C8704,
+        ocs:C12475,
+        ocs:C14257,
+        ocs:C22554,
+        ocs:C25618,
+        ocs:C26030,
+        ocs:C26345,
+        ocs:C27098,
+        ocs:C34979,
+        ocs:C40330 .
 

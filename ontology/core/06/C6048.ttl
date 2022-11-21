@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6048 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Coverage_map> ;
     skos:prefLabel "Coverage map" ;
-    skos:related ocs:C1219,
-        ocs:C12999,
+    skos:related ocs:C3,
         ocs:C155,
-        ocs:C21604,
-        ocs:C3,
+        ocs:C1219,
         ocs:C3044,
+        ocs:C5853,
+        ocs:C6763,
+        ocs:C7216,
+        ocs:C8700,
+        ocs:C12999,
+        ocs:C21604,
         ocs:C32135,
         ocs:C32756,
         ocs:C35081,
         ocs:C35931,
         ocs:C37679,
         ocs:C42783,
-        ocs:C45299,
-        ocs:C5853,
-        ocs:C6763,
-        ocs:C7216,
-        ocs:C8700 .
+        ocs:C45299 .
 

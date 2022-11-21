@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2318 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_15693> ;
     skos:prefLabel "ISO/IEC 15693" ;
-    skos:related ocs:C12229,
+    skos:related ocs:C3410,
+        ocs:C4917,
+        ocs:C6133,
+        ocs:C7502,
+        ocs:C12229,
         ocs:C12698,
         ocs:C14275,
         ocs:C16371,
@@ -14,12 +18,8 @@ ocs:C2318 a skos:Concept ;
         ocs:C24213,
         ocs:C25850,
         ocs:C28069,
-        ocs:C3410,
         ocs:C36670,
         ocs:C36766,
         ocs:C37472,
-        ocs:C44676,
-        ocs:C4917,
-        ocs:C6133,
-        ocs:C7502 .
+        ocs:C44676 .
 

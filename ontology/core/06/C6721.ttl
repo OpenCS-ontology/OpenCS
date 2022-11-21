@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6721 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C17,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Video_Share> ;
     skos:prefLabel "Video Share" ;
-    skos:related ocs:C12186,
+    skos:related ocs:C1855,
+        ocs:C3695,
+        ocs:C3933,
+        ocs:C5285,
+        ocs:C7877,
+        ocs:C8515,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C12186,
         ocs:C15530,
         ocs:C17999,
-        ocs:C1855,
         ocs:C21981,
         ocs:C27704,
         ocs:C29949,
         ocs:C30664,
         ocs:C33285,
         ocs:C34908,
-        ocs:C3695,
-        ocs:C3933,
-        ocs:C42007,
-        ocs:C5285,
-        ocs:C7877,
-        ocs:C8515,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C42007 .
 

@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23835 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C8704 ;
+    skos:broader ocs:C8704,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Projective_cone> ;
     skos:prefLabel "Projective cone" .
 

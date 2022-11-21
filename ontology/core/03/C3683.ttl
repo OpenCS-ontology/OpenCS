@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3683 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Vital_Product_Data> ;
     skos:prefLabel "Vital Product Data" ;
-    skos:related ocs:C11960,
-        ocs:C1318,
-        ocs:C20114,
-        ocs:C2054,
-        ocs:C30122,
+    skos:related ocs:C44,
         ocs:C302,
+        ocs:C1318,
+        ocs:C2054,
+        ocs:C4384,
+        ocs:C6223,
+        ocs:C11960,
+        ocs:C20114,
+        ocs:C30122,
         ocs:C31965,
         ocs:C32160,
         ocs:C39237,
         ocs:C40559,
-        ocs:C41110,
-        ocs:C4384,
-        ocs:C44,
-        ocs:C6223 .
+        ocs:C41110 .
 

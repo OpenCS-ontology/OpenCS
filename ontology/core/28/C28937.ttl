@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28937 a skos:Concept ;
-    skos:broader ocs:C12111,
+    skos:broader ocs:C545,
         ocs:C3236,
         ocs:C4099,
-        ocs:C545 ;
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/IEEE_802.11ah> ;
     skos:prefLabel "IEEE 802.11ah" ;
-    skos:related ocs:C19721,
+    skos:related ocs:C4665,
+        ocs:C7216,
+        ocs:C8784,
+        ocs:C19721,
         ocs:C21424,
         ocs:C33773,
         ocs:C34513,
@@ -24,8 +27,5 @@ ocs:C28937 a skos:Concept ;
         ocs:C43449,
         ocs:C44700,
         ocs:C45519,
-        ocs:C45666,
-        ocs:C4665,
-        ocs:C7216,
-        ocs:C8784 .
+        ocs:C45666 .
 

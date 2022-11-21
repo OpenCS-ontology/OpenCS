@@ -2,17 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5525 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Predictive_learning> ;
     skos:prefLabel "Predictive learning" ;
-    skos:related ocs:C13677,
+    skos:related ocs:C25,
+        ocs:C7301,
+        ocs:C13677,
         ocs:C16353,
         ocs:C16711,
         ocs:C17261,
         ocs:C18566,
         ocs:C21157,
-        ocs:C25,
         ocs:C31543,
         ocs:C33737,
         ocs:C34323,
@@ -20,6 +21,5 @@ ocs:C5525 a skos:Concept ;
         ocs:C36272,
         ocs:C37012,
         ocs:C44471,
-        ocs:C44492,
-        ocs:C7301 .
+        ocs:C44492 .
 

@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17435 a skos:Concept ;
-    skos:broader ocs:C12262,
-        ocs:C1449,
+    skos:broader ocs:C1449,
         ocs:C4152,
-        ocs:C5298 ;
+        ocs:C5298,
+        ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/Logarithmic_number_system> ;
     skos:prefLabel "Logarithmic number system" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C5566,
+        ocs:C7280,
+        ocs:C8581,
+        ocs:C9743,
+        ocs:C12262,
         ocs:C12315,
         ocs:C16377,
         ocs:C18434,
@@ -19,9 +23,5 @@ ocs:C17435 a skos:Concept ;
         ocs:C24266,
         ocs:C31030,
         ocs:C31341,
-        ocs:C35045,
-        ocs:C5566,
-        ocs:C7280,
-        ocs:C8581,
-        ocs:C9743 .
+        ocs:C35045 .
 

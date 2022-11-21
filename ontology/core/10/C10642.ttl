@@ -2,16 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10642 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Demo_effect> ;
     skos:prefLabel "Demo effect" ;
-    skos:related ocs:C12446,
+    skos:related ocs:C22,
+        ocs:C44,
+        ocs:C331,
+        ocs:C969,
+        ocs:C1904,
+        ocs:C6448,
+        ocs:C12446,
         ocs:C12454,
         ocs:C15250,
         ocs:C18519,
-        ocs:C1904,
-        ocs:C22,
         ocs:C25631,
         ocs:C26016,
         ocs:C28061,
@@ -19,9 +23,5 @@ ocs:C10642 a skos:Concept ;
         ocs:C29600,
         ocs:C29796,
         ocs:C31152,
-        ocs:C331,
-        ocs:C42716,
-        ocs:C44,
-        ocs:C6448,
-        ocs:C969 .
+        ocs:C42716 .
 

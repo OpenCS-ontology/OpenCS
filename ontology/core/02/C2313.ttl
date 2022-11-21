@@ -5,7 +5,9 @@ ocs:C2313 a skos:Concept ;
     skos:broader ocs:C8 ;
     skos:closeMatch <http://dbpedia.org/resource/Semantic_Application_Design_Language> ;
     skos:prefLabel "Semantic Application Design Language" ;
-    skos:related ocs:C1092,
+    skos:related ocs:C8,
+        ocs:C1092,
+        ocs:C7500,
         ocs:C25681,
         ocs:C35570,
         ocs:C38056,
@@ -19,7 +21,5 @@ ocs:C2313 a skos:Concept ;
         ocs:C41877,
         ocs:C43831,
         ocs:C44161,
-        ocs:C44939,
-        ocs:C7500,
-        ocs:C8 .
+        ocs:C44939 .
 

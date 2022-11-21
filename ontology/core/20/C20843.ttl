@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20843 a skos:Concept ;
-    skos:broader ocs:C13320,
-        ocs:C2800,
-        ocs:C5698 ;
+    skos:broader ocs:C2800,
+        ocs:C5698,
+        ocs:C13320 ;
     skos:closeMatch <http://dbpedia.org/resource/Redirected_walking> ;
     skos:prefLabel "Redirected walking" .
 

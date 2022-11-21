@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14145 a skos:Concept ;
-    skos:broader ocs:C11635,
-        ocs:C4149 ;
+    skos:broader ocs:C4149,
+        ocs:C11635 ;
     skos:closeMatch <http://dbpedia.org/resource/Negation_normal_form> ;
     skos:prefLabel "Negation normal form" ;
-    skos:related ocs:C10825,
-        ocs:C11635,
-        ocs:C13855,
-        ocs:C22706,
-        ocs:C26788,
+    skos:related ocs:C429,
         ocs:C3894,
-        ocs:C41098,
         ocs:C4149,
         ocs:C4263,
-        ocs:C429,
-        ocs:C45667,
         ocs:C4596,
         ocs:C5714,
         ocs:C6003,
         ocs:C6497,
-        ocs:C9698 .
+        ocs:C9698,
+        ocs:C10825,
+        ocs:C11635,
+        ocs:C13855,
+        ocs:C22706,
+        ocs:C26788,
+        ocs:C41098,
+        ocs:C45667 .
 

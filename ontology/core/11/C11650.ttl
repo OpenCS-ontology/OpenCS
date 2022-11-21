@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11650 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Autotel> ;
     skos:prefLabel "Autotel" ;
-    skos:related ocs:C10975,
+    skos:related ocs:C382,
+        ocs:C796,
+        ocs:C6967,
+        ocs:C7864,
+        ocs:C9113,
+        ocs:C10975,
         ocs:C13582,
         ocs:C15282,
         ocs:C15640,
@@ -15,11 +20,6 @@ ocs:C11650 a skos:Concept ;
         ocs:C31469,
         ocs:C32672,
         ocs:C35725,
-        ocs:C382,
         ocs:C40962,
-        ocs:C44538,
-        ocs:C6967,
-        ocs:C7864,
-        ocs:C796,
-        ocs:C9113 .
+        ocs:C44538 .
 

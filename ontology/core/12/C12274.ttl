@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12274 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Enigma.io> ;
     skos:prefLabel "Enigma.io" ;
-    skos:related ocs:C10979,
+    skos:related ocs:C34,
+        ocs:C2674,
+        ocs:C3344,
+        ocs:C3896,
+        ocs:C4857,
+        ocs:C5700,
+        ocs:C6225,
+        ocs:C9488,
+        ocs:C10979,
         ocs:C11537,
         ocs:C12694,
         ocs:C18405,
         ocs:C20446,
         ocs:C23505,
-        ocs:C2674,
-        ocs:C3344,
         ocs:C33744,
-        ocs:C34,
-        ocs:C37135,
-        ocs:C3896,
-        ocs:C4857,
-        ocs:C5700,
-        ocs:C6225,
-        ocs:C9488 .
+        ocs:C37135 .
 

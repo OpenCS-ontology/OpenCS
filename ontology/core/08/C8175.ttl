@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8175 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Active_Format_Description> ;
     skos:prefLabel "Description format" ;
-    skos:related ocs:C11252,
-        ocs:C12317,
+    skos:related ocs:C2,
         ocs:C17,
-        ocs:C2,
         ocs:C20,
         ocs:C22,
         ocs:C30,
         ocs:C33,
+        ocs:C76,
         ocs:C3401,
-        ocs:C35166,
-        ocs:C41158,
         ocs:C5818,
         ocs:C7105,
-        ocs:C76,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C11252,
+        ocs:C12317,
+        ocs:C35166,
+        ocs:C41158 .
 

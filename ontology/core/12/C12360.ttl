@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12360 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C18,
         ocs:C24 ;
     skos:prefLabel "Interactive control" .
 

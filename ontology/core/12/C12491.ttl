@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12491 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_access> ;
     skos:prefLabel "Information access" ;
     skos:related ocs:C1,
+        ocs:C4,
+        ocs:C23,
+        ocs:C178,
+        ocs:C1404,
+        ocs:C1961,
+        ocs:C3736,
+        ocs:C4218,
+        ocs:C9546,
         ocs:C10507,
         ocs:C11087,
         ocs:C11578,
-        ocs:C1404,
         ocs:C14238,
         ocs:C17608,
-        ocs:C178,
-        ocs:C1961,
-        ocs:C23,
         ocs:C25681,
         ocs:C31201,
-        ocs:C3736,
-        ocs:C4,
-        ocs:C41877,
-        ocs:C4218,
-        ocs:C9546 .
+        ocs:C41877 .
 

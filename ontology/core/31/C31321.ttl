@@ -5,10 +5,12 @@ ocs:C31321 a skos:Concept ;
     skos:broader ocs:C23181 ;
     skos:closeMatch <http://dbpedia.org/resource/Join_point> ;
     skos:prefLabel "Join point" ;
-    skos:related ocs:C10219,
+    skos:related ocs:C19,
+        ocs:C6072,
+        ocs:C6941,
+        ocs:C10219,
         ocs:C10720,
         ocs:C12389,
-        ocs:C19,
         ocs:C22095,
         ocs:C23181,
         ocs:C29905,
@@ -17,7 +19,5 @@ ocs:C31321 a skos:Concept ;
         ocs:C37447,
         ocs:C37654,
         ocs:C42280,
-        ocs:C44841,
-        ocs:C6072,
-        ocs:C6941 .
+        ocs:C44841 .
 

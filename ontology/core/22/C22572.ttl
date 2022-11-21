@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22572 a skos:Concept ;
-    skos:broader ocs:C13006,
-        ocs:C8464 ;
+    skos:broader ocs:C8464,
+        ocs:C13006 ;
     skos:closeMatch <http://dbpedia.org/resource/Topic_sentence> ;
     skos:prefLabel "Topic sentence" ;
-    skos:related ocs:C13055,
+    skos:related ocs:C8464,
+        ocs:C13055,
         ocs:C17260,
-        ocs:C26884,
-        ocs:C8464 .
+        ocs:C26884 .
 

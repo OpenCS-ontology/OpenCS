@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5728 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Film_format> ;
     skos:prefLabel "Film format" ;
-    skos:related ocs:C12473,
+    skos:related ocs:C1394,
+        ocs:C3842,
+        ocs:C12473,
         ocs:C12580,
-        ocs:C13652,
-        ocs:C1394,
-        ocs:C3842 .
+        ocs:C13652 .
 

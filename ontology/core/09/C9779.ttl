@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9779 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/No_free_lunch_in_search_and_optimization> ;
     skos:prefLabel "No free lunch in search and optimization" ;
-    skos:related ocs:C10390,
-        ocs:C13208,
-        ocs:C13610,
-        ocs:C14353,
-        ocs:C14921,
-        ocs:C22750,
+    skos:related ocs:C8,
         ocs:C25,
-        ocs:C27563,
-        ocs:C29055,
-        ocs:C33290,
         ocs:C3837,
         ocs:C4603,
         ocs:C5197,
         ocs:C5704,
         ocs:C6880,
         ocs:C7553,
-        ocs:C8,
-        ocs:C9780 .
+        ocs:C9780,
+        ocs:C10390,
+        ocs:C13208,
+        ocs:C13610,
+        ocs:C14353,
+        ocs:C14921,
+        ocs:C22750,
+        ocs:C27563,
+        ocs:C29055,
+        ocs:C33290 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7020 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Supply_chain_cyber_security> ;
     skos:prefLabel "Supply chain cyber security" ;
-    skos:related ocs:C11278,
+    skos:related ocs:C35,
+        ocs:C2941,
+        ocs:C6031,
+        ocs:C8025,
+        ocs:C8614,
+        ocs:C11278,
         ocs:C11447,
         ocs:C14466,
         ocs:C14645,
         ocs:C16481,
         ocs:C24596,
-        ocs:C2941,
         ocs:C30412,
         ocs:C30563,
-        ocs:C35,
         ocs:C38527,
         ocs:C39016,
-        ocs:C41159,
-        ocs:C6031,
-        ocs:C8025,
-        ocs:C8614 .
+        ocs:C41159 .
 

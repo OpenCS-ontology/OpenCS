@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27055 a skos:Concept ;
-    skos:broader ocs:C5706,
-        ocs:C622 ;
+    skos:broader ocs:C622,
+        ocs:C5706 ;
     skos:closeMatch <http://dbpedia.org/resource/Lip_sync> ;
     skos:prefLabel "Lip sync" ;
-    skos:related ocs:C11254,
-        ocs:C22711,
-        ocs:C28881,
-        ocs:C520,
+    skos:related ocs:C520,
         ocs:C622,
-        ocs:C7255 .
+        ocs:C7255,
+        ocs:C11254,
+        ocs:C22711,
+        ocs:C28881 .
 

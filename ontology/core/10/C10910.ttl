@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10910 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/IEEE_802.18> ;
     skos:prefLabel "IEEE 802.18" ;
-    skos:related ocs:C12334,
-        ocs:C1307,
-        ocs:C16040,
+    skos:related ocs:C1307,
         ocs:C1679,
+        ocs:C4720,
+        ocs:C9388,
+        ocs:C12334,
+        ocs:C16040,
         ocs:C20483,
         ocs:C27620,
         ocs:C28032,
@@ -22,7 +24,5 @@ ocs:C10910 a skos:Concept ;
         ocs:C42991,
         ocs:C43573,
         ocs:C44282,
-        ocs:C44780,
-        ocs:C4720,
-        ocs:C9388 .
+        ocs:C44780 .
 

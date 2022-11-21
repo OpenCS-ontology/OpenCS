@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23110 a skos:Concept ;
-    skos:broader ocs:C10396,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/Exploration_problem> ;
     skos:prefLabel "Exploration problem" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C8,
         ocs:C114,
+        ocs:C979,
+        ocs:C3694,
+        ocs:C10396,
         ocs:C15029,
         ocs:C15963,
         ocs:C17236,
@@ -16,13 +19,10 @@ ocs:C23110 a skos:Concept ;
         ocs:C34535,
         ocs:C35770,
         ocs:C35805,
-        ocs:C3694,
         ocs:C36944,
         ocs:C38095,
         ocs:C41082,
         ocs:C43810,
         ocs:C44174,
-        ocs:C45365,
-        ocs:C8,
-        ocs:C979 .
+        ocs:C45365 .
 

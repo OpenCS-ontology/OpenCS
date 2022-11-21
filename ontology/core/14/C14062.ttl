@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14062 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Focal_Plane_Arrays> ;
     skos:prefLabel "Focal Plane Arrays" .
 

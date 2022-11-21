@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3698 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Arithmetic_underflow> ;
     skos:prefLabel "Arithmetic underflow" ;
     skos:related ocs:C1083,
+        ocs:C3172,
+        ocs:C4816,
+        ocs:C5690,
+        ocs:C7280,
+        ocs:C7602,
         ocs:C12262,
         ocs:C16377,
         ocs:C21384,
@@ -16,13 +21,8 @@ ocs:C3698 a skos:Concept ;
         ocs:C24266,
         ocs:C31030,
         ocs:C31341,
-        ocs:C3172,
         ocs:C35045,
         ocs:C37239,
         ocs:C37518,
-        ocs:C43784,
-        ocs:C4816,
-        ocs:C5690,
-        ocs:C7280,
-        ocs:C7602 .
+        ocs:C43784 .
 

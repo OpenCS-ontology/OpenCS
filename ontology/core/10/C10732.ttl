@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10732 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/125_High_Speed_Mode> ;
     skos:prefLabel "125 High Speed Mode" ;
-    skos:related ocs:C12111,
+    skos:related ocs:C4665,
+        ocs:C12111,
         ocs:C18797,
         ocs:C19350,
         ocs:C21424,
@@ -19,6 +20,5 @@ ocs:C10732 a skos:Concept ;
         ocs:C42902,
         ocs:C44092,
         ocs:C45456,
-        ocs:C45627,
-        ocs:C4665 .
+        ocs:C45627 .
 

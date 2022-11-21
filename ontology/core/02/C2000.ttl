@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2000 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Telecine> ;
     skos:prefLabel "Telecine" ;
-    skos:related ocs:C12544,
+    skos:related ocs:C4448,
+        ocs:C12544,
         ocs:C13095,
         ocs:C13466,
         ocs:C13509,
@@ -19,6 +20,5 @@ ocs:C2000 a skos:Concept ;
         ocs:C38826,
         ocs:C39777,
         ocs:C40199,
-        ocs:C40628,
-        ocs:C4448 .
+        ocs:C40628 .
 

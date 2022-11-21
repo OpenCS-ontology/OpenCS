@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26386 a skos:Concept ;
-    skos:broader ocs:C11278,
-        ocs:C2941 ;
+    skos:broader ocs:C2941,
+        ocs:C11278 ;
     skos:closeMatch <http://dbpedia.org/resource/Sandbox_(software_development)> ;
     skos:prefLabel "Sandbox (software development)" ;
-    skos:related ocs:C11278,
+    skos:related ocs:C9,
+        ocs:C7530,
+        ocs:C8614,
+        ocs:C11278,
         ocs:C16627,
         ocs:C18258,
         ocs:C20800,
@@ -22,8 +25,5 @@ ocs:C26386 a skos:Concept ;
         ocs:C42516,
         ocs:C43109,
         ocs:C45107,
-        ocs:C45524,
-        ocs:C7530,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C45524 .
 

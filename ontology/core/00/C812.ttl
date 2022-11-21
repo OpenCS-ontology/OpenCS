@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C812 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Plumbr> ;
     skos:prefLabel "Plumbr" ;
-    skos:related ocs:C10336,
-        ocs:C1142,
-        ocs:C25960,
+    skos:related ocs:C1142,
         ocs:C2766,
-        ocs:C28944,
         ocs:C3729,
+        ocs:C6966,
+        ocs:C7900,
+        ocs:C10336,
+        ocs:C25960,
+        ocs:C28944,
         ocs:C37844,
         ocs:C38167,
         ocs:C38412,
         ocs:C39149,
         ocs:C43036,
-        ocs:C43716,
-        ocs:C6966,
-        ocs:C7900 .
+        ocs:C43716 .
 

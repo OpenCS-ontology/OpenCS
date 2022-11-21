@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3543 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:prefLabel "Outbound communication" ;
-    skos:related ocs:C11144,
-        ocs:C1595,
+    skos:related ocs:C2,
         ocs:C17,
-        ocs:C2,
         ocs:C30,
-        ocs:C31779,
-        ocs:C3231,
         ocs:C33,
         ocs:C35,
-        ocs:C36473,
-        ocs:C4099,
         ocs:C515,
+        ocs:C1595,
+        ocs:C3231,
+        ocs:C4099,
         ocs:C5565,
         ocs:C5861,
         ocs:C6185,
         ocs:C6764,
-        ocs:C8704 .
+        ocs:C8704,
+        ocs:C11144,
+        ocs:C31779,
+        ocs:C36473 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4337 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C18,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Device_independence> ;
     skos:prefLabel "Device independence" ;
-    skos:related ocs:C1253,
+    skos:related ocs:C9,
+        ocs:C31,
+        ocs:C444,
+        ocs:C792,
+        ocs:C1253,
+        ocs:C2674,
+        ocs:C5514,
+        ocs:C5698,
+        ocs:C6072,
+        ocs:C7106,
         ocs:C19481,
         ocs:C26161,
-        ocs:C2674,
         ocs:C28881,
-        ocs:C31,
         ocs:C31152,
         ocs:C31489,
         ocs:C34356,
         ocs:C34668,
         ocs:C38488,
-        ocs:C44344,
-        ocs:C444,
-        ocs:C5514,
-        ocs:C5698,
-        ocs:C6072,
-        ocs:C7106,
-        ocs:C792,
-        ocs:C9 .
+        ocs:C44344 .
 

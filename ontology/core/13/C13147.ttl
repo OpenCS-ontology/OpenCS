@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13147 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Comprehensive_layout> ;
     skos:prefLabel "Comprehensive layout" ;
-    skos:related ocs:C10905,
-        ocs:C10982,
-        ocs:C11699,
-        ocs:C13024,
-        ocs:C2135,
-        ocs:C26965,
-        ocs:C28533,
-        ocs:C44325,
+    skos:related ocs:C2135,
         ocs:C4871,
         ocs:C5051,
         ocs:C5477,
         ocs:C5746,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C10905,
+        ocs:C10982,
+        ocs:C11699,
+        ocs:C13024,
+        ocs:C26965,
+        ocs:C28533,
+        ocs:C44325 .
 

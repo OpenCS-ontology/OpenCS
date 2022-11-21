@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13711 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Foxton_Technology> ;
     skos:prefLabel "Foxton Technology" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C27,
+        ocs:C3946,
+        ocs:C4816,
+        ocs:C8388,
+        ocs:C8455,
+        ocs:C10320,
         ocs:C11258,
         ocs:C13617,
         ocs:C17243,
         ocs:C19487,
         ocs:C25171,
         ocs:C26638,
-        ocs:C27,
         ocs:C28168,
         ocs:C31030,
-        ocs:C3946,
-        ocs:C44259,
-        ocs:C4816,
-        ocs:C8388,
-        ocs:C8455 .
+        ocs:C44259 .
 

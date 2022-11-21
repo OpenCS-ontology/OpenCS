@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26258 a skos:Concept ;
-    skos:broader ocs:C10219,
-        ocs:C10557,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C10219,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Delimited_continuation> ;
     skos:prefLabel "Delimited continuation" ;
-    skos:related ocs:C10219,
+    skos:related ocs:C19,
         ocs:C1083,
+        ocs:C2009,
+        ocs:C3537,
+        ocs:C4214,
+        ocs:C4937,
+        ocs:C5049,
+        ocs:C6941,
+        ocs:C10219,
         ocs:C12108,
         ocs:C18086,
-        ocs:C19,
-        ocs:C2009,
         ocs:C20208,
         ocs:C24148,
         ocs:C26454,
         ocs:C28783,
         ocs:C28944,
-        ocs:C3537,
-        ocs:C4214,
-        ocs:C45443,
-        ocs:C4937,
-        ocs:C5049,
-        ocs:C6941 .
+        ocs:C45443 .
 

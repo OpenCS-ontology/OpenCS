@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29011 a skos:Concept ;
-    skos:broader ocs:C13320,
-        ocs:C8021,
-        ocs:C9605 ;
+    skos:broader ocs:C8021,
+        ocs:C9605,
+        ocs:C13320 ;
     skos:closeMatch <http://dbpedia.org/resource/Screen-door_effect> ;
     skos:prefLabel "Screen-door effect" ;
-    skos:related ocs:C13725,
+    skos:related ocs:C22,
+        ocs:C2416,
+        ocs:C3244,
+        ocs:C8021,
+        ocs:C8638,
+        ocs:C13725,
         ocs:C15787,
         ocs:C21488,
-        ocs:C22,
         ocs:C22257,
         ocs:C23498,
-        ocs:C2416,
         ocs:C26733,
         ocs:C26790,
         ocs:C28806,
-        ocs:C3244,
-        ocs:C36598,
-        ocs:C8021,
-        ocs:C8638 .
+        ocs:C36598 .
 

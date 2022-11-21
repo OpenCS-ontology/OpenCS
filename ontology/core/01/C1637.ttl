@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1637 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Cisco_Nexus_switches> ;
     skos:prefLabel "Cisco Nexus switches" ;
-    skos:related ocs:C11106,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C3193,
+        ocs:C3428,
+        ocs:C4159,
+        ocs:C5840,
+        ocs:C11106,
         ocs:C13786,
         ocs:C13857,
         ocs:C14165,
         ocs:C17187,
         ocs:C18745,
         ocs:C22191,
-        ocs:C26,
-        ocs:C3193,
-        ocs:C3428,
         ocs:C38231,
         ocs:C38451,
         ocs:C38894,
-        ocs:C4159,
         ocs:C42584,
-        ocs:C42853,
-        ocs:C490,
-        ocs:C5840 .
+        ocs:C42853 .
 

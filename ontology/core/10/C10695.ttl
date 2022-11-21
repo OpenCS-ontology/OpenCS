@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10695 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_appliance> ;
     skos:prefLabel "Information appliance" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C9,
         ocs:C11,
         ocs:C1338,
-        ocs:C20400,
-        ocs:C24143,
-        ocs:C29012,
-        ocs:C31489,
-        ocs:C35370,
-        ocs:C37441,
-        ocs:C44483,
         ocs:C5702,
         ocs:C6172,
         ocs:C7103,
         ocs:C7166,
         ocs:C7736,
         ocs:C8614,
-        ocs:C9,
         ocs:C9047,
-        ocs:C9113 .
+        ocs:C9113,
+        ocs:C10368,
+        ocs:C20400,
+        ocs:C24143,
+        ocs:C29012,
+        ocs:C31489,
+        ocs:C35370,
+        ocs:C37441,
+        ocs:C44483 .
 

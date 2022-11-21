@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C944 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/CMS_EXEC> ;
     skos:prefLabel "CMS EXEC" ;
-    skos:related ocs:C10284,
-        ocs:C12815,
-        ocs:C1386,
-        ocs:C14271,
-        ocs:C19,
-        ocs:C30078,
-        ocs:C32486,
-        ocs:C34227,
+    skos:related ocs:C19,
         ocs:C42,
-        ocs:C44344,
+        ocs:C1386,
         ocs:C4877,
         ocs:C5698,
         ocs:C6926,
         ocs:C8581,
         ocs:C9235,
         ocs:C9433,
-        ocs:C9941 .
+        ocs:C9941,
+        ocs:C10284,
+        ocs:C12815,
+        ocs:C14271,
+        ocs:C30078,
+        ocs:C32486,
+        ocs:C34227,
+        ocs:C44344 .
 

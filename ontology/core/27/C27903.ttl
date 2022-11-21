@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27903 a skos:Concept ;
-    skos:broader ocs:C10557,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Discrete_Laplace_operator> ;
     skos:prefLabel "Discrete Laplace operator" ;
     skos:related ocs:C15460,

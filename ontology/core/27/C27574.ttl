@@ -2,15 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27574 a skos:Concept ;
-    skos:broader ocs:C12373,
+    skos:broader ocs:C390,
         ocs:C3393,
-        ocs:C390,
         ocs:C4197,
         ocs:C5745,
-        ocs:C8704 ;
+        ocs:C8704,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Weighted_fair_queueing> ;
     skos:prefLabel "Weighted fair queueing" ;
-    skos:related ocs:C12111,
+    skos:related ocs:C4197,
+        ocs:C8704,
+        ocs:C12111,
         ocs:C15172,
         ocs:C16953,
         ocs:C17371,
@@ -26,8 +28,6 @@ ocs:C27574 a skos:Concept ;
         ocs:C40876,
         ocs:C41260,
         ocs:C41340,
-        ocs:C4197,
         ocs:C44036,
-        ocs:C45252,
-        ocs:C8704 .
+        ocs:C45252 .
 

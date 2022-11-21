@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9498 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Table_sharing> ;
     skos:prefLabel "Table sharing" ;
-    skos:related ocs:C10803,
+    skos:related ocs:C6909,
+        ocs:C10803,
         ocs:C18102,
         ocs:C18619,
         ocs:C22244,
@@ -16,6 +17,5 @@ ocs:C9498 a skos:Concept ;
         ocs:C28991,
         ocs:C34123,
         ocs:C37671,
-        ocs:C42236,
-        ocs:C6909 .
+        ocs:C42236 .
 

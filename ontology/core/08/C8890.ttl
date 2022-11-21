@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8890 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Multi-task_learning> ;
     skos:prefLabel "Multi-task learning" ;
-    skos:related ocs:C11030,
+    skos:related ocs:C8,
+        ocs:C21,
+        ocs:C25,
+        ocs:C5498,
+        ocs:C9022,
+        ocs:C9538,
+        ocs:C11030,
         ocs:C15346,
         ocs:C18966,
         ocs:C19354,
         ocs:C19537,
         ocs:C20377,
-        ocs:C21,
         ocs:C24136,
-        ocs:C25,
         ocs:C25040,
         ocs:C25196,
         ocs:C26398,
         ocs:C35079,
         ocs:C35604,
         ocs:C44492,
-        ocs:C44766,
-        ocs:C5498,
-        ocs:C8,
-        ocs:C9022,
-        ocs:C9538 .
+        ocs:C44766 .
 

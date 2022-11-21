@@ -2,16 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13379 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Link_prefetching> ;
     skos:prefLabel "Link prefetching" ;
-    skos:related ocs:C16338,
+    skos:related ocs:C2464,
+        ocs:C4918,
+        ocs:C8614,
+        ocs:C8771,
+        ocs:C9647,
+        ocs:C16338,
         ocs:C20205,
         ocs:C22597,
         ocs:C24323,
-        ocs:C2464,
         ocs:C26528,
         ocs:C28801,
         ocs:C34262,
@@ -20,9 +24,5 @@ ocs:C13379 a skos:Concept ;
         ocs:C39727,
         ocs:C40510,
         ocs:C40902,
-        ocs:C42899,
-        ocs:C4918,
-        ocs:C8614,
-        ocs:C8771,
-        ocs:C9647 .
+        ocs:C42899 .
 

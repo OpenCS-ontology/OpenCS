@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11091 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C12,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Organizational_unit_(computing)> ;
     skos:prefLabel "Organizational unit" ;
-    skos:related ocs:C1410,
+    skos:related ocs:C380,
+        ocs:C1410,
+        ocs:C8105,
+        ocs:C9938,
         ocs:C14417,
         ocs:C17530,
         ocs:C22450,
@@ -18,13 +21,10 @@ ocs:C11091 a skos:Concept ;
         ocs:C33191,
         ocs:C35197,
         ocs:C36631,
-        ocs:C380,
         ocs:C38524,
         ocs:C39967,
         ocs:C40789,
         ocs:C42278,
         ocs:C43338,
-        ocs:C43509,
-        ocs:C8105,
-        ocs:C9938 .
+        ocs:C43509 .
 

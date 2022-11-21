@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2207 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Short_Code_(computer_language)> ;
     skos:prefLabel "Short Code" ;
     skos:related ocs:C10,
-        ocs:C11991,
-        ocs:C12257,
-        ocs:C1333,
-        ocs:C17204,
-        ocs:C180,
         ocs:C19,
-        ocs:C21718,
-        ocs:C23863,
-        ocs:C23867,
-        ocs:C39394,
-        ocs:C41659,
+        ocs:C180,
+        ocs:C1333,
         ocs:C6072,
         ocs:C6280,
         ocs:C6714,
         ocs:C7800,
-        ocs:C9381 .
+        ocs:C9381,
+        ocs:C11991,
+        ocs:C12257,
+        ocs:C17204,
+        ocs:C21718,
+        ocs:C23863,
+        ocs:C23867,
+        ocs:C39394,
+        ocs:C41659 .
 

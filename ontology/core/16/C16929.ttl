@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16929 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C8325 ;
+    skos:broader ocs:C8325,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/Predicate_abstraction> ;
     skos:prefLabel "Predicate abstraction" ;
-    skos:related ocs:C12346,
-        ocs:C126,
+    skos:related ocs:C126,
+        ocs:C8748,
+        ocs:C12346,
         ocs:C13255,
         ocs:C13408,
         ocs:C14249,
@@ -19,6 +20,5 @@ ocs:C16929 a skos:Concept ;
         ocs:C27805,
         ocs:C34795,
         ocs:C41223,
-        ocs:C43371,
-        ocs:C8748 .
+        ocs:C43371 .
 

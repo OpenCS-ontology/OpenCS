@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5016 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Reaxys> ;
     skos:prefLabel "Reaxys" ;
-    skos:related ocs:C11446,
-        ocs:C134,
+    skos:related ocs:C134,
         ocs:C5254,
-        ocs:C5349 .
+        ocs:C5349,
+        ocs:C11446 .
 

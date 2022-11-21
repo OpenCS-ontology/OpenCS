@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8622 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/White_point> ;
     skos:prefLabel "White point" ;
-    skos:related ocs:C12849,
+    skos:related ocs:C740,
+        ocs:C1935,
+        ocs:C2531,
+        ocs:C5469,
+        ocs:C6942,
+        ocs:C8099,
+        ocs:C12849,
         ocs:C16339,
         ocs:C17520,
-        ocs:C1935,
         ocs:C20260,
         ocs:C20871,
         ocs:C21845,
         ocs:C22083,
         ocs:C23732,
-        ocs:C2531,
         ocs:C30704,
         ocs:C38432,
         ocs:C41646,
-        ocs:C45041,
-        ocs:C5469,
-        ocs:C6942,
-        ocs:C740,
-        ocs:C8099 .
+        ocs:C45041 .
 

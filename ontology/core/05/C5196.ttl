@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5196 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Decoding_methods> ;
     skos:prefLabel "Decoding methods" ;
-    skos:related ocs:C16106,
+    skos:related ocs:C6402,
+        ocs:C16106,
         ocs:C16978,
         ocs:C18626,
         ocs:C21929,
@@ -22,6 +23,5 @@ ocs:C5196 a skos:Concept ;
         ocs:C43048,
         ocs:C44130,
         ocs:C44265,
-        ocs:C44441,
-        ocs:C6402 .
+        ocs:C44441 .
 

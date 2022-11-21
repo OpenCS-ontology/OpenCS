@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9509 a skos:Concept ;
-    skos:broader ocs:C29,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C29,
+        ocs:C31 ;
     skos:prefLabel "Public Description" ;
     skos:related ocs:C31 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2929 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/.NET_Remoting> ;
     skos:prefLabel ".NET Remoting" ;
-    skos:related ocs:C11152,
+    skos:related ocs:C578,
+        ocs:C661,
+        ocs:C3176,
+        ocs:C7530,
+        ocs:C9033,
+        ocs:C11152,
         ocs:C11293,
         ocs:C12439,
         ocs:C20015,
         ocs:C22144,
         ocs:C23051,
         ocs:C31661,
-        ocs:C3176,
         ocs:C31894,
         ocs:C33458,
         ocs:C38945,
         ocs:C41816,
-        ocs:C45816,
-        ocs:C578,
-        ocs:C661,
-        ocs:C7530,
-        ocs:C9033 .
+        ocs:C45816 .
 

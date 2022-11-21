@@ -2,14 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17793 a skos:Concept ;
-    skos:broader ocs:C12806,
-        ocs:C5466 ;
+    skos:broader ocs:C5466,
+        ocs:C12806 ;
     skos:closeMatch <http://dbpedia.org/resource/Millicode> ;
     skos:prefLabel "Millicode" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C15,
+        ocs:C856,
+        ocs:C4863,
+        ocs:C5625,
+        ocs:C8698,
+        ocs:C10320,
         ocs:C12690,
         ocs:C13025,
-        ocs:C15,
         ocs:C17204,
         ocs:C19487,
         ocs:C21256,
@@ -17,9 +21,5 @@ ocs:C17793 a skos:Concept ;
         ocs:C22907,
         ocs:C35886,
         ocs:C41469,
-        ocs:C43544,
-        ocs:C4863,
-        ocs:C5625,
-        ocs:C856,
-        ocs:C8698 .
+        ocs:C43544 .
 

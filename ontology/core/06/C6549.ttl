@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6549 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Access_management> ;
     skos:prefLabel "Access management" ;
-    skos:related ocs:C20171,
+    skos:related ocs:C435,
+        ocs:C20171,
         ocs:C20874,
-        ocs:C435,
         ocs:C44990 .
 

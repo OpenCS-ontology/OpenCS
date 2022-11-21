@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18539 a skos:Concept ;
-    skos:broader ocs:C12146,
-        ocs:C3395 ;
+    skos:broader ocs:C3395,
+        ocs:C12146 ;
     skos:closeMatch <http://dbpedia.org/resource/Business_architecture> ;
     skos:prefLabel "Business architecture" ;
-    skos:related ocs:C10617,
+    skos:related ocs:C3395,
+        ocs:C10617,
         ocs:C17238,
         ocs:C28526,
         ocs:C30335,
         ocs:C31201,
-        ocs:C3395,
         ocs:C34421,
         ocs:C38363,
         ocs:C38667,

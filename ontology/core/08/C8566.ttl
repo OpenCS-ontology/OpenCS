@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8566 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Communication_source> ;
     skos:prefLabel "Communication source" ;
-    skos:related ocs:C10934,
-        ocs:C11032,
+    skos:related ocs:C3,
+        ocs:C941,
         ocs:C1940,
-        ocs:C21471,
-        ocs:C22203,
-        ocs:C24859,
-        ocs:C3,
-        ocs:C32772,
-        ocs:C36688,
         ocs:C4099,
         ocs:C5816,
         ocs:C5862,
         ocs:C9222,
-        ocs:C941 .
+        ocs:C10934,
+        ocs:C11032,
+        ocs:C21471,
+        ocs:C22203,
+        ocs:C24859,
+        ocs:C32772,
+        ocs:C36688 .
 

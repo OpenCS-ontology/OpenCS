@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3151 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C35 ;
     skos:prefLabel "Account Status" ;
-    skos:related ocs:C13305,
-        ocs:C17,
-        ocs:C197,
-        ocs:C2,
-        ocs:C21976,
+    skos:related ocs:C2,
         ocs:C3,
+        ocs:C5,
+        ocs:C17,
         ocs:C30,
         ocs:C33,
-        ocs:C5,
-        ocs:C5160,
+        ocs:C197,
         ocs:C525,
+        ocs:C5160,
         ocs:C5619,
         ocs:C6069,
         ocs:C7006,
-        ocs:C7458 .
+        ocs:C7458,
+        ocs:C13305,
+        ocs:C21976 .
 

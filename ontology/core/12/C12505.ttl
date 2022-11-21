@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12505 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Panning_(camera)> ;
     skos:prefLabel "Panning (camera)" ;
-    skos:related ocs:C13509,
-        ocs:C2895,
+    skos:related ocs:C2895,
         ocs:C3374,
         ocs:C6019,
         ocs:C6075,
-        ocs:C8746 .
+        ocs:C8746,
+        ocs:C13509 .
 

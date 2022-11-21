@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11997 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C13,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C12,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Metaknowledge> ;
     skos:prefLabel "Metaknowledge" ;
-    skos:related ocs:C10801,
-        ocs:C11021,
+    skos:related ocs:C8,
         ocs:C12,
-        ocs:C15769,
         ocs:C2062,
         ocs:C3343,
-        ocs:C38919,
-        ocs:C8 .
+        ocs:C10801,
+        ocs:C11021,
+        ocs:C15769,
+        ocs:C38919 .
 

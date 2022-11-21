@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17060 a skos:Concept ;
-    skos:broader ocs:C10670,
-        ocs:C248,
+    skos:broader ocs:C248,
         ocs:C2801,
         ocs:C3840,
-        ocs:C4256 ;
+        ocs:C4256,
+        ocs:C10670 ;
     skos:prefLabel "Nonparametric discriminant analysis" .
 

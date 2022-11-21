@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17687 a skos:Concept ;
-    skos:broader ocs:C13662,
+    skos:broader ocs:C660,
         ocs:C5818,
-        ocs:C660,
-        ocs:C8464 ;
+        ocs:C8464,
+        ocs:C13662 ;
     skos:prefLabel "Segment specification" ;
     skos:related ocs:C1,
-        ocs:C10673,
-        ocs:C23394,
-        ocs:C28814,
+        ocs:C924,
         ocs:C6332,
         ocs:C8464,
-        ocs:C924 .
+        ocs:C10673,
+        ocs:C23394,
+        ocs:C28814 .
 

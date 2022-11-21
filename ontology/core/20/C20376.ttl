@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20376 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C12638 ;
     skos:closeMatch <http://dbpedia.org/resource/Graph_drawing> ;
     skos:prefLabel "Graph drawing" ;
-    skos:related ocs:C14693,
+    skos:related ocs:C8660,
+        ocs:C14693,
         ocs:C15414,
         ocs:C17717,
         ocs:C19336,
@@ -21,6 +22,5 @@ ocs:C20376 a skos:Concept ;
         ocs:C42271,
         ocs:C42848,
         ocs:C43652,
-        ocs:C45150,
-        ocs:C8660 .
+        ocs:C45150 .
 

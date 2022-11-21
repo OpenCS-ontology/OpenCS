@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3784 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Attack_model> ;
     skos:prefLabel "Attack model" ;
     skos:related ocs:C1027,
+        ocs:C4218,
+        ocs:C5692,
         ocs:C14539,
         ocs:C17091,
         ocs:C17856,
@@ -23,8 +25,6 @@ ocs:C3784 a skos:Concept ;
         ocs:C35391,
         ocs:C39105,
         ocs:C39180,
-        ocs:C4218,
         ocs:C43934,
-        ocs:C43963,
-        ocs:C5692 .
+        ocs:C43963 .
 

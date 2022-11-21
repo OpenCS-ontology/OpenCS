@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6309 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/External_Data_Representation> ;
     skos:prefLabel "External Data Representation" ;
-    skos:related ocs:C11152,
+    skos:related ocs:C686,
+        ocs:C7203,
+        ocs:C8614,
+        ocs:C11152,
         ocs:C11550,
         ocs:C11927,
         ocs:C13068,
@@ -20,8 +23,5 @@ ocs:C6309 a skos:Concept ;
         ocs:C24323,
         ocs:C29359,
         ocs:C30500,
-        ocs:C45269,
-        ocs:C686,
-        ocs:C7203,
-        ocs:C8614 .
+        ocs:C45269 .
 

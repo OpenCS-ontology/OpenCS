@@ -2,15 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14275 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Capture_effect> ;
     skos:prefLabel "Capture effect" ;
-    skos:related ocs:C10376,
+    skos:related ocs:C3,
+        ocs:C154,
+        ocs:C5036,
+        ocs:C7159,
+        ocs:C7502,
+        ocs:C10376,
         ocs:C10975,
         ocs:C14053,
         ocs:C14260,
-        ocs:C154,
         ocs:C15505,
         ocs:C18001,
         ocs:C19342,
@@ -18,10 +22,6 @@ ocs:C14275 a skos:Concept ;
         ocs:C25850,
         ocs:C28069,
         ocs:C28744,
-        ocs:C3,
         ocs:C34890,
-        ocs:C36707,
-        ocs:C5036,
-        ocs:C7159,
-        ocs:C7502 .
+        ocs:C36707 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4698 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Scene_description_language> ;
     skos:prefLabel "Scene description language" ;
-    skos:related ocs:C1028,
+    skos:related ocs:C22,
+        ocs:C1028,
+        ocs:C4778,
+        ocs:C5961,
+        ocs:C8439,
         ocs:C14024,
         ocs:C18992,
         ocs:C19041,
         ocs:C19559,
         ocs:C20960,
         ocs:C21609,
-        ocs:C22,
         ocs:C25631,
         ocs:C29907,
         ocs:C33219,
         ocs:C35225,
         ocs:C35454,
-        ocs:C41006,
-        ocs:C4778,
-        ocs:C5961,
-        ocs:C8439 .
+        ocs:C41006 .
 

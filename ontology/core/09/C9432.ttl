@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9432 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Network_performance> ;
     skos:prefLabel "Network performance" ;
-    skos:related ocs:C12111,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C686,
+        ocs:C4197,
+        ocs:C5506,
+        ocs:C5616,
+        ocs:C8614,
+        ocs:C12111,
         ocs:C15065,
         ocs:C20691,
         ocs:C21769,
         ocs:C24323,
         ocs:C24469,
-        ocs:C26,
         ocs:C29359,
         ocs:C29419,
-        ocs:C3,
         ocs:C36688,
         ocs:C37577,
-        ocs:C38817,
-        ocs:C4197,
-        ocs:C5506,
-        ocs:C5616,
-        ocs:C686,
-        ocs:C8614 .
+        ocs:C38817 .
 

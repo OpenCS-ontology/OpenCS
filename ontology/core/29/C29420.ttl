@@ -2,15 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29420 a skos:Concept ;
-    skos:broader ocs:C13253,
-        ocs:C6505 ;
+    skos:broader ocs:C6505,
+        ocs:C13253 ;
     skos:closeMatch <http://dbpedia.org/resource/C_character_classification> ;
     skos:prefLabel "C character classification" ;
-    skos:related ocs:C14163,
+    skos:related ocs:C2301,
+        ocs:C8323,
+        ocs:C9162,
+        ocs:C14163,
         ocs:C14990,
         ocs:C16375,
         ocs:C21019,
-        ocs:C2301,
         ocs:C24135,
         ocs:C24544,
         ocs:C31489,
@@ -19,7 +21,5 @@ ocs:C29420 a skos:Concept ;
         ocs:C34815,
         ocs:C41472,
         ocs:C42900,
-        ocs:C43060,
-        ocs:C8323,
-        ocs:C9162 .
+        ocs:C43060 .
 

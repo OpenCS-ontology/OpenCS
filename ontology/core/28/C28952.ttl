@@ -2,18 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28952 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C7056 ;
+    skos:broader ocs:C7056,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Max-min_fairness> ;
     skos:prefLabel "Max-min fairness" ;
-    skos:related ocs:C12111,
+    skos:related ocs:C26,
+        ocs:C4197,
+        ocs:C7340,
+        ocs:C8704,
+        ocs:C12111,
         ocs:C15172,
         ocs:C16022,
         ocs:C16953,
         ocs:C17371,
         ocs:C20691,
         ocs:C24323,
-        ocs:C26,
         ocs:C27568,
         ocs:C27574,
         ocs:C30037,
@@ -21,9 +24,6 @@ ocs:C28952 a skos:Concept ;
         ocs:C38888,
         ocs:C39574,
         ocs:C41260,
-        ocs:C4197,
         ocs:C44036,
-        ocs:C45252,
-        ocs:C7340,
-        ocs:C8704 .
+        ocs:C45252 .
 

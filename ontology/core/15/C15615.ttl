@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15615 a skos:Concept ;
-    skos:broader ocs:C13682,
-        ocs:C2321,
+    skos:broader ocs:C2321,
         ocs:C3740,
         ocs:C5201,
-        ocs:C8517 ;
+        ocs:C8517,
+        ocs:C13682 ;
     skos:closeMatch <http://dbpedia.org/resource/Landweber_iteration> ;
     skos:prefLabel "Landweber iteration" ;
-    skos:related ocs:C13682,
-        ocs:C14414,
-        ocs:C16904,
-        ocs:C2005,
-        ocs:C22483,
-        ocs:C22854,
+    skos:related ocs:C2005,
         ocs:C2321,
         ocs:C2364,
+        ocs:C13682,
+        ocs:C14414,
+        ocs:C16904,
+        ocs:C22483,
+        ocs:C22854,
         ocs:C26880,
         ocs:C29811,
         ocs:C33141,

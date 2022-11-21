@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4236 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C24,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Tactical_communications> ;
     skos:prefLabel "Tactical communications" ;
     skos:related ocs:C1,
+        ocs:C3,
+        ocs:C515,
+        ocs:C1502,
+        ocs:C5689,
+        ocs:C8024,
         ocs:C12582,
         ocs:C14053,
         ocs:C14628,
-        ocs:C1502,
         ocs:C26560,
         ocs:C28069,
-        ocs:C3,
-        ocs:C32919,
-        ocs:C515,
-        ocs:C5689,
-        ocs:C8024 .
+        ocs:C32919 .
 

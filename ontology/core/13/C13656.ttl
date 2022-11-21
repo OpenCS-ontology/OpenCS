@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13656 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21 ;
     skos:prefLabel "Skin Classification" ;
-    skos:related ocs:C15453,
+    skos:related ocs:C248,
         ocs:C2005,
-        ocs:C248,
-        ocs:C8760 .
+        ocs:C8760,
+        ocs:C15453 .
 

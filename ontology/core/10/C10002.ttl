@@ -7,7 +7,10 @@ ocs:C10002 a skos:Concept ;
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Multi-monitor> ;
     skos:prefLabel "Multi-monitor" ;
-    skos:related ocs:C1904,
+    skos:related ocs:C9,
+        ocs:C653,
+        ocs:C1904,
+        ocs:C9442,
         ocs:C22257,
         ocs:C24015,
         ocs:C24235,
@@ -18,8 +21,5 @@ ocs:C10002 a skos:Concept ;
         ocs:C32920,
         ocs:C42489,
         ocs:C44318,
-        ocs:C45499,
-        ocs:C653,
-        ocs:C9,
-        ocs:C9442 .
+        ocs:C45499 .
 

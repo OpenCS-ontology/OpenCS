@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1963 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/O-code> ;
     skos:prefLabel "O-code" ;
-    skos:related ocs:C11194,
-        ocs:C11262,
-        ocs:C12974,
-        ocs:C17472,
+    skos:related ocs:C9,
         ocs:C19,
-        ocs:C22322,
-        ocs:C23863,
-        ocs:C23867,
-        ocs:C41659,
-        ocs:C42633,
         ocs:C4321,
-        ocs:C45438,
-        ocs:C45618,
         ocs:C5515,
         ocs:C5698,
         ocs:C5709,
         ocs:C6024,
         ocs:C6299,
         ocs:C6466,
-        ocs:C9 .
+        ocs:C11194,
+        ocs:C11262,
+        ocs:C12974,
+        ocs:C17472,
+        ocs:C22322,
+        ocs:C23863,
+        ocs:C23867,
+        ocs:C41659,
+        ocs:C42633,
+        ocs:C45438,
+        ocs:C45618 .
 

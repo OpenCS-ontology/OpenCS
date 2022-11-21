@@ -2,12 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4560 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C2,
-        ocs:C6 ;
+    skos:broader ocs:C2,
+        ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_verification> ;
     skos:prefLabel "Data verification" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C2674,
+        ocs:C3034,
+        ocs:C3231,
+        ocs:C4768,
+        ocs:C6225,
+        ocs:C6754,
+        ocs:C8327,
+        ocs:C9492,
+        ocs:C10444,
         ocs:C10764,
         ocs:C10827,
         ocs:C11759,
@@ -15,14 +24,5 @@ ocs:C4560 a skos:Concept ;
         ocs:C14239,
         ocs:C15912,
         ocs:C20446,
-        ocs:C24783,
-        ocs:C2674,
-        ocs:C3034,
-        ocs:C3231,
-        ocs:C4768,
-        ocs:C6,
-        ocs:C6225,
-        ocs:C6754,
-        ocs:C8327,
-        ocs:C9492 .
+        ocs:C24783 .
 

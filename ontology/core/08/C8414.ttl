@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8414 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:prefLabel "Hand manipulation" ;
-    skos:related ocs:C16,
+    skos:related ocs:C2,
+        ocs:C16,
         ocs:C17,
-        ocs:C18287,
-        ocs:C19558,
-        ocs:C2,
         ocs:C22,
         ocs:C2800,
         ocs:C4861,
         ocs:C6069,
         ocs:C8754,
-        ocs:C9664 .
+        ocs:C9664,
+        ocs:C18287,
+        ocs:C19558 .
 

@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5402 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C23 ;
     skos:closeMatch <http://dbpedia.org/resource/Database_design> ;
     skos:prefLabel "Database design" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C84,
+        ocs:C2414,
+        ocs:C3896,
+        ocs:C3934,
+        ocs:C10444,
         ocs:C10720,
         ocs:C12185,
         ocs:C12694,
@@ -17,12 +22,7 @@ ocs:C5402 a skos:Concept ;
         ocs:C17905,
         ocs:C18405,
         ocs:C18567,
-        ocs:C2414,
         ocs:C27386,
         ocs:C28349,
-        ocs:C36084,
-        ocs:C3896,
-        ocs:C3934,
-        ocs:C6,
-        ocs:C84 .
+        ocs:C36084 .
 

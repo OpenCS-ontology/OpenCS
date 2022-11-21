@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12499 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/SUMIT> ;
     skos:prefLabel "SUMIT" ;
     skos:related ocs:C11,
+        ocs:C74,
+        ocs:C521,
+        ocs:C735,
+        ocs:C8345,
+        ocs:C9093,
         ocs:C11052,
         ocs:C12556,
         ocs:C13022,
         ocs:C30033,
-        ocs:C32920,
-        ocs:C521,
-        ocs:C735,
-        ocs:C74,
-        ocs:C8345,
-        ocs:C9093 .
+        ocs:C32920 .
 

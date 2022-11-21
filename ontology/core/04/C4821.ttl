@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4821 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Distributed_switching> ;
     skos:prefLabel "Distributed switching" ;
-    skos:related ocs:C10638,
+    skos:related ocs:C5282,
+        ocs:C6027,
+        ocs:C8010,
+        ocs:C10638,
         ocs:C11465,
         ocs:C11769,
         ocs:C13714,
@@ -17,8 +20,5 @@ ocs:C4821 a skos:Concept ;
         ocs:C30510,
         ocs:C34141,
         ocs:C41110,
-        ocs:C43051,
-        ocs:C5282,
-        ocs:C6027,
-        ocs:C8010 .
+        ocs:C43051 .
 

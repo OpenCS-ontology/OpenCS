@@ -5,7 +5,11 @@ ocs:C19487 a skos:Concept ;
     skos:broader ocs:C1253 ;
     skos:closeMatch <http://dbpedia.org/resource/X86> ;
     skos:prefLabel "x86" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C856,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C10320,
         ocs:C11258,
         ocs:C12323,
         ocs:C17204,
@@ -16,9 +20,5 @@ ocs:C19487 a skos:Concept ;
         ocs:C31346,
         ocs:C31489,
         ocs:C33174,
-        ocs:C37538,
-        ocs:C5463,
-        ocs:C6172,
-        ocs:C856,
-        ocs:C9 .
+        ocs:C37538 .
 

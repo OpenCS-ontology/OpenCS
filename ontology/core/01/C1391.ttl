@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1391 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Surfel> ;
     skos:prefLabel "Surfel" ;
     skos:related ocs:C15806,

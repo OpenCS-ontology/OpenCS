@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4163 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C34,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligence_analysis> ;
     skos:prefLabel "Intelligence analysis" ;
-    skos:related ocs:C11290,
+    skos:related ocs:C250,
         ocs:C1331,
+        ocs:C1845,
+        ocs:C3059,
+        ocs:C7113,
+        ocs:C8126,
+        ocs:C11290,
         ocs:C15046,
         ocs:C15118,
-        ocs:C1845,
         ocs:C19079,
         ocs:C24510,
-        ocs:C250,
         ocs:C28057,
-        ocs:C3059,
         ocs:C33610,
         ocs:C41927,
-        ocs:C42724,
-        ocs:C7113,
-        ocs:C8126 .
+        ocs:C42724 .
 

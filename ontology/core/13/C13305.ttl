@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13305 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Telecommunications_service> ;
     skos:prefLabel "Telecommunications service" ;
-    skos:related ocs:C10084,
+    skos:related ocs:C3,
+        ocs:C515,
+        ocs:C3692,
+        ocs:C5148,
+        ocs:C5232,
+        ocs:C6171,
+        ocs:C6731,
+        ocs:C10084,
         ocs:C12172,
         ocs:C12307,
         ocs:C15165,
         ocs:C18217,
         ocs:C20574,
         ocs:C23964,
-        ocs:C3,
         ocs:C30667,
-        ocs:C3692,
-        ocs:C37641,
-        ocs:C5148,
-        ocs:C515,
-        ocs:C5232,
-        ocs:C6171,
-        ocs:C6731 .
+        ocs:C37641 .
 

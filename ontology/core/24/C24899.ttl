@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24899 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C390,
-        ocs:C5745 ;
+    skos:broader ocs:C390,
+        ocs:C5745,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_queue> ;
     skos:prefLabel "Virtual queue" ;
-    skos:related ocs:C10764,
+    skos:related ocs:C358,
+        ocs:C6027,
+        ocs:C10764,
         ocs:C13514,
         ocs:C13585,
         ocs:C15185,
@@ -17,8 +19,6 @@ ocs:C24899 a skos:Concept ;
         ocs:C25293,
         ocs:C27114,
         ocs:C35797,
-        ocs:C358,
         ocs:C36382,
-        ocs:C39574,
-        ocs:C6027 .
+        ocs:C39574 .
 

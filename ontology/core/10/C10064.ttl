@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10064 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Database_security> ;
     skos:prefLabel "Database security" ;
-    skos:related ocs:C1047,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C35,
+        ocs:C1047,
+        ocs:C1399,
+        ocs:C4513,
+        ocs:C5418,
+        ocs:C7106,
+        ocs:C8711,
         ocs:C10565,
         ocs:C12185,
         ocs:C13307,
-        ocs:C1399,
         ocs:C25176,
-        ocs:C35,
         ocs:C38304,
         ocs:C39016,
         ocs:C40554,
         ocs:C43629,
-        ocs:C44266,
-        ocs:C4513,
-        ocs:C5418,
-        ocs:C6,
-        ocs:C7106,
-        ocs:C8711,
-        ocs:C9 .
+        ocs:C44266 .
 

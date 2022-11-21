@@ -2,15 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10336 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Jazelle> ;
     skos:prefLabel "Jazelle" ;
-    skos:related ocs:C10320,
-        ocs:C11293,
+    skos:related ocs:C856,
         ocs:C1142,
-        ocs:C14627,
         ocs:C1866,
+        ocs:C5698,
+        ocs:C6172,
+        ocs:C6447,
+        ocs:C10320,
+        ocs:C11293,
+        ocs:C14627,
         ocs:C22284,
         ocs:C23863,
         ocs:C35849,
@@ -20,9 +24,5 @@ ocs:C10336 a skos:Concept ;
         ocs:C42633,
         ocs:C43036,
         ocs:C45438,
-        ocs:C45618,
-        ocs:C5698,
-        ocs:C6172,
-        ocs:C6447,
-        ocs:C856 .
+        ocs:C45618 .
 

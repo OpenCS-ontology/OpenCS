@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C136 a skos:Concept ;
-    skos:broader ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/ThoughtTreasure> ;
     skos:prefLabel "ThoughtTreasure" ;
-    skos:related ocs:C1451,
+    skos:related ocs:C8,
+        ocs:C32,
+        ocs:C482,
+        ocs:C928,
+        ocs:C1451,
+        ocs:C2468,
+        ocs:C3791,
+        ocs:C5852,
+        ocs:C7650,
+        ocs:C8710,
+        ocs:C8965,
         ocs:C16092,
         ocs:C17796,
         ocs:C23928,
-        ocs:C2468,
         ocs:C25681,
         ocs:C28117,
         ocs:C28119,
-        ocs:C32,
-        ocs:C3791,
         ocs:C41547,
         ocs:C43845,
-        ocs:C44162,
-        ocs:C482,
-        ocs:C5852,
-        ocs:C7650,
-        ocs:C8,
-        ocs:C8710,
-        ocs:C8965,
-        ocs:C928 .
+        ocs:C44162 .
 

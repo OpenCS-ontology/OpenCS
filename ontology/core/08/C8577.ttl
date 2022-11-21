@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8577 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/WebSocket> ;
     skos:prefLabel "WebSocket" ;
-    skos:related ocs:C14360,
+    skos:related ocs:C31,
+        ocs:C355,
+        ocs:C2674,
+        ocs:C4231,
+        ocs:C4918,
+        ocs:C5203,
+        ocs:C8771,
+        ocs:C14360,
         ocs:C16338,
         ocs:C16966,
         ocs:C17235,
@@ -15,14 +22,7 @@ ocs:C8577 a skos:Concept ;
         ocs:C24131,
         ocs:C24323,
         ocs:C26528,
-        ocs:C2674,
-        ocs:C31,
-        ocs:C355,
         ocs:C40510,
         ocs:C40902,
-        ocs:C41498,
-        ocs:C4231,
-        ocs:C4918,
-        ocs:C5203,
-        ocs:C8771 .
+        ocs:C41498 .
 

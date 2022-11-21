@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13698 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Self-archiving> ;
     skos:prefLabel "Self-archiving" ;
-    skos:related ocs:C11446,
+    skos:related ocs:C406,
+        ocs:C5349,
+        ocs:C8614,
+        ocs:C9096,
+        ocs:C11446,
         ocs:C11462,
         ocs:C11595,
         ocs:C13280,
@@ -15,9 +19,5 @@ ocs:C13698 a skos:Concept ;
         ocs:C22391,
         ocs:C31319,
         ocs:C32616,
-        ocs:C406,
-        ocs:C41375,
-        ocs:C5349,
-        ocs:C8614,
-        ocs:C9096 .
+        ocs:C41375 .
 

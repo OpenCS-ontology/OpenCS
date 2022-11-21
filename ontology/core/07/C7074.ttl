@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7074 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Serial_FPDP> ;
     skos:prefLabel "Serial FPDP" ;
-    skos:related ocs:C10741,
+    skos:related ocs:C6866,
+        ocs:C9093,
+        ocs:C9717,
+        ocs:C10741,
         ocs:C13386,
         ocs:C22530,
         ocs:C27319,
         ocs:C32592,
-        ocs:C41110,
-        ocs:C6866,
-        ocs:C9093,
-        ocs:C9717 .
+        ocs:C41110 .
 

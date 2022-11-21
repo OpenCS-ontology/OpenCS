@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26239 a skos:Concept ;
-    skos:broader ocs:C11540,
-        ocs:C2684,
-        ocs:C8614 ;
+    skos:broader ocs:C2684,
+        ocs:C8614,
+        ocs:C11540 ;
     skos:closeMatch <http://dbpedia.org/resource/BitTorrent> ;
     skos:prefLabel "BitTorrent" ;
-    skos:related ocs:C11540,
+    skos:related ocs:C26,
+        ocs:C4129,
+        ocs:C4907,
+        ocs:C8614,
+        ocs:C11540,
         ocs:C14223,
         ocs:C16369,
         ocs:C16980,
@@ -15,13 +19,9 @@ ocs:C26239 a skos:Concept ;
         ocs:C18764,
         ocs:C22597,
         ocs:C24871,
-        ocs:C26,
         ocs:C27557,
         ocs:C28881,
         ocs:C31489,
         ocs:C33417,
-        ocs:C37175,
-        ocs:C4129,
-        ocs:C4907,
-        ocs:C8614 .
+        ocs:C37175 .
 

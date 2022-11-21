@@ -2,15 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2202 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Parity_benchmark> ;
     skos:prefLabel "Parity benchmark" ;
-    skos:related ocs:C13633,
+    skos:related ocs:C2768,
+        ocs:C9382,
+        ocs:C13633,
         ocs:C14353,
         ocs:C20846,
         ocs:C23496,
-        ocs:C2768,
         ocs:C29966,
         ocs:C30824,
         ocs:C31626,
@@ -22,6 +23,5 @@ ocs:C2202 a skos:Concept ;
         ocs:C37267,
         ocs:C37985,
         ocs:C41798,
-        ocs:C45180,
-        ocs:C9382 .
+        ocs:C45180 .
 

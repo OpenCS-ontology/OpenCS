@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C393 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Fragmentation_(computing)> ;
     skos:prefLabel "Fragmentation (computing)" ;
-    skos:related ocs:C1242,
+    skos:related ocs:C9,
+        ocs:C1242,
+        ocs:C3160,
+        ocs:C3915,
+        ocs:C7476,
+        ocs:C7900,
+        ocs:C8782,
         ocs:C13486,
         ocs:C13783,
         ocs:C23864,
@@ -14,14 +20,8 @@ ocs:C393 a skos:Concept ;
         ocs:C25960,
         ocs:C27651,
         ocs:C31489,
-        ocs:C3160,
         ocs:C36439,
         ocs:C38819,
-        ocs:C3915,
         ocs:C40313,
-        ocs:C42695,
-        ocs:C7476,
-        ocs:C7900,
-        ocs:C8782,
-        ocs:C9 .
+        ocs:C42695 .
 

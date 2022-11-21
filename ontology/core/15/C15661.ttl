@@ -5,7 +5,12 @@ ocs:C15661 a skos:Concept ;
     skos:broader ocs:C9262 ;
     skos:closeMatch <http://dbpedia.org/resource/Interrupt_request_(PC_architecture)> ;
     skos:prefLabel "Interrupt request" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C6403,
+        ocs:C7750,
+        ocs:C9262,
+        ocs:C9267,
+        ocs:C10320,
         ocs:C10568,
         ocs:C13022,
         ocs:C14470,
@@ -13,10 +18,5 @@ ocs:C15661 a skos:Concept ;
         ocs:C19487,
         ocs:C39429,
         ocs:C41110,
-        ocs:C45375,
-        ocs:C6403,
-        ocs:C7750,
-        ocs:C9,
-        ocs:C9262,
-        ocs:C9267 .
+        ocs:C45375 .
 

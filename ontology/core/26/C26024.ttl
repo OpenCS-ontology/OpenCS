@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26024 a skos:Concept ;
-    skos:broader ocs:C10332,
-        ocs:C10557,
-        ocs:C7330,
-        ocs:C8564 ;
+    skos:broader ocs:C7330,
+        ocs:C8564,
+        ocs:C10332,
+        ocs:C10557 ;
     skos:closeMatch <http://dbpedia.org/resource/Operator_associativity> ;
     skos:prefLabel "Operator associativity" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C1631,
+        ocs:C8616,
+        ocs:C10284,
         ocs:C10332,
         ocs:C10557,
         ocs:C10719,
         ocs:C11527,
-        ocs:C1631,
         ocs:C18434,
-        ocs:C19,
         ocs:C24642,
         ocs:C25460,
         ocs:C26461,
         ocs:C27521,
-        ocs:C31014,
-        ocs:C8616 .
+        ocs:C31014 .
 

@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24142 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C3312 ;
+    skos:broader ocs:C3312,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/Invoice_processing> ;
     skos:prefLabel "Invoice processing" ;
-    skos:related ocs:C10270,
+    skos:related ocs:C3077,
+        ocs:C3312,
+        ocs:C4768,
+        ocs:C6637,
+        ocs:C7333,
+        ocs:C10270,
         ocs:C11861,
         ocs:C23103,
         ocs:C24050,
-        ocs:C3077,
         ocs:C31318,
-        ocs:C3312,
-        ocs:C35701,
-        ocs:C4768,
-        ocs:C6637,
-        ocs:C7333 .
+        ocs:C35701 .
 

@@ -2,13 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21877 a skos:Concept ;
-    skos:broader ocs:C11384,
-        ocs:C2469,
+    skos:broader ocs:C2469,
         ocs:C2978,
-        ocs:C3401 ;
+        ocs:C3401,
+        ocs:C11384 ;
     skos:closeMatch <http://dbpedia.org/resource/Graphoid> ;
     skos:prefLabel "Graphoid" ;
-    skos:related ocs:C11384,
+    skos:related ocs:C2874,
+        ocs:C11384,
         ocs:C12748,
         ocs:C14161,
         ocs:C15414,
@@ -18,7 +19,6 @@ ocs:C21877 a skos:Concept ;
         ocs:C22495,
         ocs:C26265,
         ocs:C27330,
-        ocs:C2874,
         ocs:C30864,
         ocs:C32757,
         ocs:C41629 .

@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20042 a skos:Concept ;
-    skos:broader ocs:C13047,
-        ocs:C3057,
-        ocs:C3444 ;
+    skos:broader ocs:C3057,
+        ocs:C3444,
+        ocs:C13047 ;
     skos:closeMatch <http://dbpedia.org/resource/Learning_sciences> ;
     skos:prefLabel "Learning sciences" ;
     skos:related ocs:C1,
-        ocs:C10260,
-        ocs:C11875,
+        ocs:C8,
         ocs:C18,
         ocs:C2367,
         ocs:C3444,
-        ocs:C37105,
-        ocs:C8 .
+        ocs:C10260,
+        ocs:C11875,
+        ocs:C37105 .
 

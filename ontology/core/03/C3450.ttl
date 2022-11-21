@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3450 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer_number_format> ;
     skos:prefLabel "Computer number format" ;
-    skos:related ocs:C10696,
+    skos:related ocs:C2879,
+        ocs:C5290,
+        ocs:C6026,
+        ocs:C8581,
+        ocs:C10696,
         ocs:C12262,
         ocs:C16377,
         ocs:C17721,
@@ -16,10 +20,6 @@ ocs:C3450 a skos:Concept ;
         ocs:C23874,
         ocs:C24189,
         ocs:C28063,
-        ocs:C2879,
         ocs:C37239,
-        ocs:C43784,
-        ocs:C5290,
-        ocs:C6026,
-        ocs:C8581 .
+        ocs:C43784 .
 

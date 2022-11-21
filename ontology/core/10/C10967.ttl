@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10967 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/RoboTurk> ;
     skos:prefLabel "RoboTurk" ;
     skos:related ocs:C114,
+        ocs:C5635,
+        ocs:C6307,
+        ocs:C6986,
         ocs:C11619,
         ocs:C17236,
         ocs:C19558,
@@ -18,8 +21,5 @@ ocs:C10967 a skos:Concept ;
         ocs:C34504,
         ocs:C36206,
         ocs:C36316,
-        ocs:C37010,
-        ocs:C5635,
-        ocs:C6307,
-        ocs:C6986 .
+        ocs:C37010 .
 

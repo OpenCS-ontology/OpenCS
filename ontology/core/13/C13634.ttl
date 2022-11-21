@@ -7,7 +7,9 @@ ocs:C13634 a skos:Concept ;
         ocs:C34 ;
     skos:closeMatch <http://dbpedia.org/resource/Patent_classification> ;
     skos:prefLabel "Patent classification" ;
-    skos:related ocs:C16398,
+    skos:related ocs:C6,
+        ocs:C8614,
+        ocs:C16398,
         ocs:C23056,
         ocs:C24730,
         ocs:C26600,
@@ -16,7 +18,5 @@ ocs:C13634 a skos:Concept ;
         ocs:C31789,
         ocs:C32561,
         ocs:C33830,
-        ocs:C34393,
-        ocs:C6,
-        ocs:C8614 .
+        ocs:C34393 .
 

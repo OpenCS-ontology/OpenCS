@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23732 a skos:Concept ;
-    skos:broader ocs:C12484,
-        ocs:C5469 ;
+    skos:broader ocs:C5469,
+        ocs:C12484 ;
     skos:closeMatch <http://dbpedia.org/resource/Planckian_locus> ;
     skos:prefLabel "Planckian locus" ;
-    skos:related ocs:C11670,
-        ocs:C12484,
-        ocs:C12849,
-        ocs:C2074,
-        ocs:C20871,
-        ocs:C21845,
-        ocs:C22083,
-        ocs:C23675,
+    skos:related ocs:C2074,
         ocs:C5469,
         ocs:C6420,
         ocs:C6942,
         ocs:C8099,
-        ocs:C8622 .
+        ocs:C8622,
+        ocs:C11670,
+        ocs:C12484,
+        ocs:C12849,
+        ocs:C20871,
+        ocs:C21845,
+        ocs:C22083,
+        ocs:C23675 .
 

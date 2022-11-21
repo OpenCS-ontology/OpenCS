@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1333 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Subroutine> ;
     skos:prefLabel "Subroutine" ;
-    skos:related ocs:C10284,
-        ocs:C10320,
-        ocs:C10720,
-        ocs:C1083,
-        ocs:C11293,
-        ocs:C12257,
-        ocs:C12846,
-        ocs:C17204,
+    skos:related ocs:C9,
         ocs:C19,
+        ocs:C1083,
         ocs:C2009,
         ocs:C2057,
-        ocs:C21718,
         ocs:C3036,
         ocs:C4321,
         ocs:C6072,
         ocs:C6255,
         ocs:C6714,
         ocs:C6941,
-        ocs:C9 .
+        ocs:C10284,
+        ocs:C10320,
+        ocs:C10720,
+        ocs:C11293,
+        ocs:C12257,
+        ocs:C12846,
+        ocs:C17204,
+        ocs:C21718 .
 

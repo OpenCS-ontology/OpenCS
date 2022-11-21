@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28112 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C13747,
-        ocs:C4099,
-        ocs:C8021 ;
+    skos:broader ocs:C4099,
+        ocs:C8021,
+        ocs:C12582,
+        ocs:C13747 ;
     skos:prefLabel "Time over threshold" .
 

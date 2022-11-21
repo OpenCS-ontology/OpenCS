@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2655 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Pointing_device_gesture> ;
     skos:prefLabel "Pointing device gesture" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C9,
+        ocs:C841,
+        ocs:C946,
+        ocs:C1253,
+        ocs:C5086,
+        ocs:C5702,
+        ocs:C6069,
+        ocs:C6476,
+        ocs:C10368,
         ocs:C11016,
         ocs:C11700,
-        ocs:C1253,
         ocs:C15214,
         ocs:C19298,
         ocs:C24825,
         ocs:C24871,
         ocs:C26634,
         ocs:C28881,
-        ocs:C34966,
-        ocs:C5086,
-        ocs:C5702,
-        ocs:C6069,
-        ocs:C6476,
-        ocs:C841,
-        ocs:C9,
-        ocs:C946 .
+        ocs:C34966 .
 

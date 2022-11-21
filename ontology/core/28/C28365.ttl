@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28365 a skos:Concept ;
-    skos:broader ocs:C11492,
-        ocs:C7603 ;
+    skos:broader ocs:C7603,
+        ocs:C11492 ;
     skos:prefLabel "Machine-Readable Data Files" ;
-    skos:related ocs:C2193,
-        ocs:C27607,
-        ocs:C2979,
-        ocs:C34,
-        ocs:C4,
-        ocs:C425,
-        ocs:C5467,
+    skos:related ocs:C4,
         ocs:C6,
-        ocs:C7849 .
+        ocs:C34,
+        ocs:C425,
+        ocs:C2193,
+        ocs:C2979,
+        ocs:C5467,
+        ocs:C7849,
+        ocs:C27607 .
 

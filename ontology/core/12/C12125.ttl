@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12125 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:prefLabel "Telephone box" ;
     skos:related ocs:C2,
         ocs:C22,
-        ocs:C25293,
         ocs:C5565,
         ocs:C7661,
         ocs:C8291,
         ocs:C8614,
-        ocs:C9611 .
+        ocs:C9611,
+        ocs:C25293 .
 

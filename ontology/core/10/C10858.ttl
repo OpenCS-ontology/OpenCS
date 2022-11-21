@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10858 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Interconnect_agreement> ;
     skos:prefLabel "Interconnect agreement" ;
-    skos:related ocs:C21894,
+    skos:related ocs:C3105,
+        ocs:C4166,
+        ocs:C4874,
+        ocs:C7288,
+        ocs:C7661,
+        ocs:C8614,
+        ocs:C9113,
+        ocs:C21894,
         ocs:C22407,
         ocs:C25293,
         ocs:C26450,
-        ocs:C3105,
         ocs:C31392,
         ocs:C36124,
         ocs:C36384,
         ocs:C37035,
         ocs:C38592,
         ocs:C39681,
-        ocs:C4166,
-        ocs:C42853,
-        ocs:C4874,
-        ocs:C7288,
-        ocs:C7661,
-        ocs:C8614,
-        ocs:C9113 .
+        ocs:C42853 .
 

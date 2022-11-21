@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8557 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Command_verb> ;
     skos:prefLabel "Command verb" ;
-    skos:related ocs:C12810,
+    skos:related ocs:C18,
+        ocs:C2464,
+        ocs:C5702,
+        ocs:C6755,
+        ocs:C7736,
+        ocs:C12810,
         ocs:C13413,
         ocs:C14148,
         ocs:C15131,
         ocs:C15633,
         ocs:C16613,
-        ocs:C18,
         ocs:C18494,
         ocs:C19315,
-        ocs:C2464,
         ocs:C26634,
         ocs:C27206,
         ocs:C27391,
         ocs:C30078,
-        ocs:C37875,
-        ocs:C5702,
-        ocs:C6755,
-        ocs:C7736 .
+        ocs:C37875 .
 

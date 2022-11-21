@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8542 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Content Model" ;
-    skos:related ocs:C1443,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C17,
         ocs:C21,
+        ocs:C30,
+        ocs:C318,
+        ocs:C1443,
+        ocs:C5554,
+        ocs:C8614,
         ocs:C23709,
         ocs:C24783,
-        ocs:C30,
         ocs:C31343,
-        ocs:C318,
-        ocs:C36913,
-        ocs:C5554,
-        ocs:C8614 .
+        ocs:C36913 .
 

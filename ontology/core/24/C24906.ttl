@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24906 a skos:Concept ;
-    skos:broader ocs:C11445,
-        ocs:C4220,
-        ocs:C5913 ;
+    skos:broader ocs:C4220,
+        ocs:C5913,
+        ocs:C11445 ;
     skos:closeMatch <http://dbpedia.org/resource/Aerodrome_mapping_database> ;
     skos:prefLabel "Aerodrome mapping database" ;
-    skos:related ocs:C10090,
+    skos:related ocs:C1651,
+        ocs:C7918,
+        ocs:C10090,
         ocs:C11887,
         ocs:C13713,
-        ocs:C1651,
         ocs:C22279,
         ocs:C25251,
         ocs:C31518,
         ocs:C32050,
         ocs:C41224,
         ocs:C41434,
-        ocs:C42151,
-        ocs:C7918 .
+        ocs:C42151 .
 

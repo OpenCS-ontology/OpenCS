@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12548 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Brain_simulation> ;
     skos:prefLabel "Brain simulation" ;
-    skos:related ocs:C13186,
-        ocs:C17234,
-        ocs:C27322,
-        ocs:C37012,
+    skos:related ocs:C8,
         ocs:C3848,
         ocs:C3932,
         ocs:C5070,
         ocs:C7256,
         ocs:C7735,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C13186,
+        ocs:C17234,
+        ocs:C27322,
+        ocs:C37012 .
 

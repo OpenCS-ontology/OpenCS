@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1683 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Paper_data_storage> ;
     skos:prefLabel "Paper data storage" ;
-    skos:related ocs:C10772,
+    skos:related ocs:C2057,
+        ocs:C3231,
+        ocs:C6072,
+        ocs:C7255,
+        ocs:C10772,
         ocs:C10785,
         ocs:C11129,
         ocs:C12488,
         ocs:C12755,
         ocs:C15673,
-        ocs:C2057,
-        ocs:C29301,
-        ocs:C3231,
-        ocs:C6072,
-        ocs:C7255 .
+        ocs:C29301 .
 

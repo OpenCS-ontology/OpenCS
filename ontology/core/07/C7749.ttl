@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7749 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Vector_monitor> ;
     skos:prefLabel "Vector monitor" ;
-    skos:related ocs:C12815,
+    skos:related ocs:C22,
+        ocs:C653,
+        ocs:C8021,
+        ocs:C9027,
+        ocs:C12815,
         ocs:C13155,
         ocs:C13725,
         ocs:C15533,
         ocs:C20066,
         ocs:C21609,
-        ocs:C22,
         ocs:C22257,
-        ocs:C35621,
-        ocs:C653,
-        ocs:C8021,
-        ocs:C9027 .
+        ocs:C35621 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5465 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Global_Location_Number> ;
     skos:prefLabel "Global Location Number" ;
-    skos:related ocs:C1031,
+    skos:related ocs:C6,
+        ocs:C1031,
+        ocs:C2211,
+        ocs:C2974,
+        ocs:C4917,
+        ocs:C7611,
         ocs:C11861,
         ocs:C12011,
         ocs:C12755,
-        ocs:C2211,
         ocs:C23319,
         ocs:C27613,
-        ocs:C2974,
         ocs:C30090,
         ocs:C31096,
         ocs:C32652,
-        ocs:C37274,
-        ocs:C4917,
-        ocs:C6,
-        ocs:C7611 .
+        ocs:C37274 .
 

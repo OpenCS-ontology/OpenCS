@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6110 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Wiener_filter> ;
     skos:prefLabel "Wiener filter" ;
-    skos:related ocs:C11253,
-        ocs:C123,
-        ocs:C14585,
-        ocs:C15866,
-        ocs:C25518,
-        ocs:C27320,
-        ocs:C31688,
-        ocs:C34690,
+    skos:related ocs:C123,
+        ocs:C746,
         ocs:C3987,
         ocs:C5042,
         ocs:C5298,
         ocs:C5505,
         ocs:C6125,
-        ocs:C746 .
+        ocs:C11253,
+        ocs:C14585,
+        ocs:C15866,
+        ocs:C25518,
+        ocs:C27320,
+        ocs:C31688,
+        ocs:C34690 .
 

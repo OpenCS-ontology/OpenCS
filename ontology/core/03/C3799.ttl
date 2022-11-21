@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3799 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Directory_(computing)> ;
     skos:prefLabel "Directory" ;
-    skos:related ocs:C1165,
+    skos:related ocs:C9,
+        ocs:C328,
+        ocs:C1165,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C9938,
         ocs:C14271,
         ocs:C15750,
         ocs:C19000,
@@ -18,11 +23,6 @@ ocs:C3799 a skos:Concept ;
         ocs:C28881,
         ocs:C30078,
         ocs:C31489,
-        ocs:C328,
         ocs:C42252,
-        ocs:C45497,
-        ocs:C6605,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9938 .
+        ocs:C45497 .
 

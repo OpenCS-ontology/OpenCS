@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25515 a skos:Concept ;
-    skos:broader ocs:C1444,
-        ocs:C936 ;
+    skos:broader ocs:C936,
+        ocs:C1444 ;
     skos:closeMatch <http://dbpedia.org/resource/Line_wrap_and_word_wrap> ;
     skos:prefLabel "Line wrap and word wrap" ;
-    skos:related ocs:C13253,
-        ocs:C14557,
+    skos:related ocs:C77,
         ocs:C1860,
-        ocs:C23162,
-        ocs:C24783,
-        ocs:C28801,
-        ocs:C30078,
         ocs:C5126,
         ocs:C5477,
         ocs:C5870,
         ocs:C6416,
-        ocs:C77,
         ocs:C8464,
         ocs:C9162,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C13253,
+        ocs:C14557,
+        ocs:C23162,
+        ocs:C24783,
+        ocs:C28801,
+        ocs:C30078 .
 

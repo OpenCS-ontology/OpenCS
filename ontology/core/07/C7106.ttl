@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7106 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Cloud_computing> ;
     skos:prefLabel "Cloud computing" ;
-    skos:related ocs:C12238,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C26,
+        ocs:C31,
+        ocs:C197,
         ocs:C1253,
+        ocs:C2352,
+        ocs:C2674,
+        ocs:C5698,
+        ocs:C8614,
+        ocs:C12238,
         ocs:C12810,
         ocs:C15182,
-        ocs:C197,
-        ocs:C2352,
         ocs:C24143,
         ocs:C24871,
-        ocs:C26,
         ocs:C26161,
-        ocs:C2674,
         ocs:C28881,
-        ocs:C31,
         ocs:C31489,
-        ocs:C35701,
-        ocs:C5698,
-        ocs:C6,
-        ocs:C8614,
-        ocs:C9 .
+        ocs:C35701 .
 

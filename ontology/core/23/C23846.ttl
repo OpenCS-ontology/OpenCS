@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23846 a skos:Concept ;
-    skos:broader ocs:C13511,
-        ocs:C4756 ;
+    skos:broader ocs:C4756,
+        ocs:C13511 ;
     skos:closeMatch <http://dbpedia.org/resource/Computer-assisted_proof> ;
     skos:prefLabel "Computer-assisted proof" ;
     skos:related ocs:C1,
-        ocs:C10479,
-        ocs:C12474,
-        ocs:C13511,
         ocs:C1598,
-        ocs:C21497,
-        ocs:C22394,
         ocs:C2418,
-        ocs:C25442,
         ocs:C2978,
-        ocs:C40165,
         ocs:C4756,
         ocs:C5865,
         ocs:C7903,
-        ocs:C9450 .
+        ocs:C9450,
+        ocs:C10479,
+        ocs:C12474,
+        ocs:C13511,
+        ocs:C21497,
+        ocs:C22394,
+        ocs:C25442,
+        ocs:C40165 .
 

@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22305 a skos:Concept ;
-    skos:broader ocs:C11531,
-        ocs:C539 ;
+    skos:broader ocs:C539,
+        ocs:C11531 ;
     skos:prefLabel "Name suffix" ;
-    skos:related ocs:C12313,
-        ocs:C2761,
+    skos:related ocs:C6,
+        ocs:C8,
         ocs:C31,
         ocs:C32,
-        ocs:C6,
+        ocs:C2761,
         ocs:C7603,
-        ocs:C8 .
+        ocs:C12313 .
 

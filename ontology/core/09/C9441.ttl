@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9441 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Modal_window> ;
     skos:prefLabel "Modal window" ;
-    skos:related ocs:C10052,
-        ocs:C11989,
-        ocs:C12325,
+    skos:related ocs:C841,
         ocs:C1787,
-        ocs:C24871,
-        ocs:C28881,
-        ocs:C30078,
-        ocs:C37013,
         ocs:C3944,
         ocs:C4223,
-        ocs:C44483,
         ocs:C5702,
         ocs:C6020,
         ocs:C7736,
         ocs:C7819,
         ocs:C8129,
         ocs:C8269,
-        ocs:C841,
-        ocs:C9220 .
+        ocs:C9220,
+        ocs:C10052,
+        ocs:C11989,
+        ocs:C12325,
+        ocs:C24871,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C37013,
+        ocs:C44483 .
 

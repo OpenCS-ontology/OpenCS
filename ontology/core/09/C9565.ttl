@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9565 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C26 ;
     skos:prefLabel "Point Name" ;
-    skos:related ocs:C1595,
-        ocs:C2,
-        ocs:C20957,
+    skos:related ocs:C2,
+        ocs:C3,
+        ocs:C7,
         ocs:C22,
         ocs:C23,
         ocs:C26,
-        ocs:C3,
-        ocs:C3236,
         ocs:C33,
+        ocs:C1595,
+        ocs:C3236,
         ocs:C4386,
-        ocs:C7,
-        ocs:C9605 .
+        ocs:C9605,
+        ocs:C20957 .
 

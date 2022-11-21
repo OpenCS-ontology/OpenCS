@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1395 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_exchange> ;
     skos:prefLabel "Information exchange" ;
-    skos:related ocs:C11861,
-        ocs:C13744,
-        ocs:C14926,
-        ocs:C19693,
-        ocs:C197,
+    skos:related ocs:C3,
         ocs:C25,
         ocs:C26,
         ocs:C29,
-        ocs:C3,
+        ocs:C197,
         ocs:C3896,
-        ocs:C40214,
         ocs:C4099,
         ocs:C5816,
         ocs:C7512,
         ocs:C8387,
         ocs:C8566,
-        ocs:C9931 .
+        ocs:C9931,
+        ocs:C11861,
+        ocs:C13744,
+        ocs:C14926,
+        ocs:C19693,
+        ocs:C40214 .
 

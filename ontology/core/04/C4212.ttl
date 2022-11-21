@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4212 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Reflection_(computer_graphics)> ;
     skos:prefLabel "Reflection (computer graphics)" ;
-    skos:related ocs:C12454,
+    skos:related ocs:C22,
+        ocs:C6443,
+        ocs:C6448,
+        ocs:C12454,
         ocs:C18519,
         ocs:C21609,
-        ocs:C22,
         ocs:C28061,
         ocs:C29796,
-        ocs:C39285,
-        ocs:C6443,
-        ocs:C6448 .
+        ocs:C39285 .
 

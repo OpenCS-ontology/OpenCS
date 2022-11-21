@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14222 a skos:Concept ;
-    skos:broader ocs:C10720,
-        ocs:C3282 ;
+    skos:broader ocs:C3282,
+        ocs:C10720 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_method_table> ;
     skos:prefLabel "Virtual method table" ;
-    skos:related ocs:C10608,
-        ocs:C10720,
+    skos:related ocs:C19,
+        ocs:C329,
+        ocs:C659,
         ocs:C1083,
+        ocs:C3176,
+        ocs:C3282,
+        ocs:C4321,
+        ocs:C10608,
+        ocs:C10720,
         ocs:C10909,
         ocs:C14636,
-        ocs:C19,
         ocs:C21130,
         ocs:C24970,
         ocs:C25127,
         ocs:C27131,
-        ocs:C3176,
-        ocs:C3282,
-        ocs:C329,
         ocs:C38481,
-        ocs:C39309,
-        ocs:C4321,
-        ocs:C659 .
+        ocs:C39309 .
 

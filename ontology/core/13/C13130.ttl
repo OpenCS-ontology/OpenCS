@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13130 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C3,
-        ocs:C4 ;
+    skos:broader ocs:C3,
+        ocs:C4,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Videotex> ;
     skos:prefLabel "Videotex" ;
-    skos:related ocs:C12815,
+    skos:related ocs:C9,
+        ocs:C26,
+        ocs:C31,
+        ocs:C6766,
+        ocs:C6861,
+        ocs:C8614,
+        ocs:C9045,
+        ocs:C9162,
+        ocs:C9443,
+        ocs:C12815,
         ocs:C12851,
         ocs:C14538,
         ocs:C16205,
         ocs:C16953,
         ocs:C18701,
-        ocs:C26,
         ocs:C26014,
-        ocs:C31,
         ocs:C32115,
         ocs:C34952,
-        ocs:C36766,
-        ocs:C6766,
-        ocs:C6861,
-        ocs:C8614,
-        ocs:C9,
-        ocs:C9045,
-        ocs:C9162,
-        ocs:C9443 .
+        ocs:C36766 .
 

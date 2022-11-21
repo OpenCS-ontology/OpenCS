@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25079 a skos:Concept ;
-    skos:broader ocs:C10321,
-        ocs:C11705,
-        ocs:C7106,
+    skos:broader ocs:C7106,
         ocs:C8612,
-        ocs:C8753 ;
+        ocs:C8753,
+        ocs:C10321,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Weblet> ;
     skos:prefLabel "Weblet" ;
-    skos:related ocs:C12810,
+    skos:related ocs:C319,
+        ocs:C2464,
+        ocs:C2812,
+        ocs:C2981,
+        ocs:C7530,
+        ocs:C8614,
+        ocs:C12810,
         ocs:C19184,
         ocs:C19848,
         ocs:C22668,
         ocs:C24143,
-        ocs:C2464,
         ocs:C26882,
         ocs:C27339,
-        ocs:C2812,
         ocs:C28533,
         ocs:C28988,
-        ocs:C2981,
-        ocs:C319,
-        ocs:C38403,
-        ocs:C7530,
-        ocs:C8614 .
+        ocs:C38403 .
 

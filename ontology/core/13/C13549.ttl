@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13549 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Stereopsis> ;
     skos:prefLabel "Stereopsis" ;
-    skos:related ocs:C13745,
-        ocs:C14925,
+    skos:related ocs:C244,
         ocs:C1811,
+        ocs:C2422,
+        ocs:C2883,
+        ocs:C13745,
+        ocs:C14925,
         ocs:C21886,
         ocs:C23153,
-        ocs:C2422,
-        ocs:C244,
         ocs:C25249,
-        ocs:C2883,
         ocs:C34586,
         ocs:C36940,
         ocs:C44726 .

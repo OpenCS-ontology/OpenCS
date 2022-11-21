@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6708 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Prolog_syntax_and_semantics> ;
     skos:prefLabel "Prolog syntax and semantics" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C3308,
+        ocs:C6531,
+        ocs:C7825,
+        ocs:C10284,
         ocs:C10327,
         ocs:C10622,
         ocs:C10671,
@@ -18,11 +21,8 @@ ocs:C6708 a skos:Concept ;
         ocs:C25460,
         ocs:C26635,
         ocs:C29762,
-        ocs:C3308,
         ocs:C35691,
         ocs:C39073,
         ocs:C39136,
-        ocs:C41006,
-        ocs:C6531,
-        ocs:C7825 .
+        ocs:C41006 .
 

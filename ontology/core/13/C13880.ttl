@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13880 a skos:Concept ;
-    skos:broader ocs:C11282,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C11282 ;
     skos:closeMatch <http://dbpedia.org/resource/Permutation_graph> ;
     skos:prefLabel "Permutation graph" ;
     skos:related ocs:C14693,

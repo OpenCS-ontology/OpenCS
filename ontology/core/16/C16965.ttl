@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16965 a skos:Concept ;
-    skos:broader ocs:C12313,
-        ocs:C539 ;
+    skos:broader ocs:C539,
+        ocs:C12313 ;
     skos:closeMatch <http://dbpedia.org/resource/Infix> ;
     skos:prefLabel "Infix" ;
-    skos:related ocs:C11932,
+    skos:related ocs:C539,
+        ocs:C1952,
+        ocs:C2025,
+        ocs:C3261,
+        ocs:C4755,
+        ocs:C6545,
+        ocs:C7501,
+        ocs:C11932,
         ocs:C12313,
         ocs:C12443,
         ocs:C12486,
         ocs:C13096,
-        ocs:C1952,
-        ocs:C2025,
         ocs:C23243,
         ocs:C25015,
         ocs:C25169,
         ocs:C26896,
         ocs:C32159,
-        ocs:C3261,
         ocs:C33645,
-        ocs:C35238,
-        ocs:C4755,
-        ocs:C539,
-        ocs:C6545,
-        ocs:C7501 .
+        ocs:C35238 .
 

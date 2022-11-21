@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21953 a skos:Concept ;
-    skos:broader ocs:C11389,
-        ocs:C6754,
-        ocs:C7458 ;
+    skos:broader ocs:C6754,
+        ocs:C7458,
+        ocs:C11389 ;
     skos:closeMatch <http://dbpedia.org/resource/Certified_check> ;
     skos:prefLabel "Certified check" ;
-    skos:related ocs:C11389,
+    skos:related ocs:C2124,
+        ocs:C4001,
+        ocs:C7458,
+        ocs:C11389,
         ocs:C11486,
         ocs:C12752,
         ocs:C12993,
@@ -15,10 +18,7 @@ ocs:C21953 a skos:Concept ;
         ocs:C16179,
         ocs:C17400,
         ocs:C18100,
-        ocs:C2124,
         ocs:C26695,
         ocs:C33193,
-        ocs:C4001,
-        ocs:C40399,
-        ocs:C7458 .
+        ocs:C40399 .
 

@@ -5,7 +5,9 @@ ocs:C14022 a skos:Concept ;
     skos:broader ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_robot> ;
     skos:prefLabel "Mobile robot" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C7,
+        ocs:C8,
+        ocs:C10396,
         ocs:C15308,
         ocs:C15963,
         ocs:C16890,
@@ -20,7 +22,5 @@ ocs:C14022 a skos:Concept ;
         ocs:C33579,
         ocs:C33887,
         ocs:C34991,
-        ocs:C36715,
-        ocs:C7,
-        ocs:C8 .
+        ocs:C36715 .
 

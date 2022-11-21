@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2111 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Hot_spare> ;
     skos:prefLabel "Hot spare" ;
-    skos:related ocs:C10326,
+    skos:related ocs:C6,
+        ocs:C2878,
+        ocs:C6173,
+        ocs:C6312,
+        ocs:C10326,
         ocs:C10501,
         ocs:C10568,
         ocs:C11188,
         ocs:C12348,
         ocs:C12812,
         ocs:C13550,
-        ocs:C2878,
         ocs:C36822,
         ocs:C37940,
         ocs:C39275,
         ocs:C42878,
         ocs:C43308,
-        ocs:C45518,
-        ocs:C6,
-        ocs:C6173,
-        ocs:C6312 .
+        ocs:C45518 .
 

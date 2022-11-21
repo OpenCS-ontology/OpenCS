@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23597 a skos:Concept ;
-    skos:broader ocs:C11529,
+    skos:broader ocs:C669,
         ocs:C3843,
-        ocs:C669,
         ocs:C8130,
-        ocs:C8637 ;
+        ocs:C8637,
+        ocs:C11529 ;
     skos:prefLabel "SPEECH DISTORTION" ;
-    skos:related ocs:C10917,
-        ocs:C10985,
+    skos:related ocs:C515,
         ocs:C1340,
-        ocs:C13677,
         ocs:C2308,
-        ocs:C28281,
         ocs:C4099,
-        ocs:C515,
         ocs:C6221,
         ocs:C7600,
         ocs:C8291,
-        ocs:C9596 .
+        ocs:C9596,
+        ocs:C10917,
+        ocs:C10985,
+        ocs:C13677,
+        ocs:C28281 .
 

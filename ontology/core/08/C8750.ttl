@@ -2,12 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8750 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_deduplication> ;
     skos:prefLabel "Data deduplication" ;
-    skos:related ocs:C13242,
+    skos:related ocs:C3231,
+        ocs:C7106,
+        ocs:C7436,
+        ocs:C7476,
+        ocs:C8298,
+        ocs:C9426,
+        ocs:C9938,
+        ocs:C13242,
         ocs:C13412,
         ocs:C13783,
         ocs:C14271,
@@ -15,14 +22,7 @@ ocs:C8750 a skos:Concept ;
         ocs:C17533,
         ocs:C28881,
         ocs:C31489,
-        ocs:C3231,
         ocs:C35544,
         ocs:C37133,
-        ocs:C37209,
-        ocs:C7106,
-        ocs:C7436,
-        ocs:C7476,
-        ocs:C8298,
-        ocs:C9426,
-        ocs:C9938 .
+        ocs:C37209 .
 

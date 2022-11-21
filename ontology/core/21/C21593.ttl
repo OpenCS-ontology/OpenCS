@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21593 a skos:Concept ;
-    skos:broader ocs:C11187,
-        ocs:C7848 ;
+    skos:broader ocs:C7848,
+        ocs:C11187 ;
     skos:closeMatch <http://dbpedia.org/resource/Chasles'_theorem_(kinematics)> ;
     skos:prefLabel "Chasles' theorem" ;
-    skos:related ocs:C14263,
+    skos:related ocs:C6226,
+        ocs:C7848,
+        ocs:C14263,
         ocs:C15416,
         ocs:C16671,
         ocs:C18773,
         ocs:C21715,
-        ocs:C24703,
-        ocs:C6226,
-        ocs:C7848 .
+        ocs:C24703 .
 

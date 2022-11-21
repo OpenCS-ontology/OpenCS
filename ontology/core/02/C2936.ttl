@@ -2,14 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2936 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/EPROM> ;
     skos:prefLabel "EPROM" ;
-    skos:related ocs:C10320,
-        ocs:C10568,
+    skos:related ocs:C9,
         ocs:C11,
-        ocs:C13875,
         ocs:C3118,
         ocs:C3160,
         ocs:C4259,
@@ -17,6 +15,8 @@ ocs:C2936 a skos:Concept ;
         ocs:C5970,
         ocs:C6223,
         ocs:C7007,
-        ocs:C9,
-        ocs:C9908 .
+        ocs:C9908,
+        ocs:C10320,
+        ocs:C10568,
+        ocs:C13875 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7022 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/VQuad-HD> ;
     skos:prefLabel "VQuad-HD" ;
-    skos:related ocs:C11040,
+    skos:related ocs:C2000,
+        ocs:C2722,
+        ocs:C4095,
+        ocs:C4433,
+        ocs:C5506,
+        ocs:C11040,
         ocs:C11323,
         ocs:C12544,
         ocs:C13256,
         ocs:C19334,
-        ocs:C2000,
-        ocs:C2722,
         ocs:C27572,
         ocs:C29174,
         ocs:C31011,
         ocs:C31517,
         ocs:C39584,
         ocs:C40353,
-        ocs:C4095,
-        ocs:C4433,
         ocs:C45148,
-        ocs:C45662,
-        ocs:C5506 .
+        ocs:C45662 .
 

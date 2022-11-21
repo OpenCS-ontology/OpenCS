@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1390 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_as_a_service> ;
     skos:prefLabel "Data as a service" ;
-    skos:related ocs:C10904,
+    skos:related ocs:C7106,
+        ocs:C9553,
+        ocs:C10904,
         ocs:C14627,
         ocs:C16599,
         ocs:C17238,
@@ -21,7 +23,5 @@ ocs:C1390 a skos:Concept ;
         ocs:C35701,
         ocs:C39323,
         ocs:C43115,
-        ocs:C44052,
-        ocs:C7106,
-        ocs:C9553 .
+        ocs:C44052 .
 

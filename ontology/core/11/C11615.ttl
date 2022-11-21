@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11615 a skos:Concept ;
-    skos:broader ocs:C12,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C12 ;
     skos:closeMatch <http://dbpedia.org/resource/Informating> ;
     skos:prefLabel "Informating" ;
-    skos:related ocs:C12602,
-        ocs:C21471,
-        ocs:C2380,
-        ocs:C32772,
-        ocs:C36688,
+    skos:related ocs:C2380,
         ocs:C4099,
         ocs:C5816,
-        ocs:C8566 .
+        ocs:C8566,
+        ocs:C12602,
+        ocs:C21471,
+        ocs:C32772,
+        ocs:C36688 .
 

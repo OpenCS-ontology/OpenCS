@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4381 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Universal_powerline_bus> ;
     skos:prefLabel "Universal powerline bus" ;
-    skos:related ocs:C11153,
-        ocs:C1206,
+    skos:related ocs:C1206,
         ocs:C1626,
+        ocs:C2316,
+        ocs:C6933,
+        ocs:C7701,
+        ocs:C7740,
+        ocs:C8089,
+        ocs:C8386,
+        ocs:C11153,
         ocs:C19350,
         ocs:C19721,
         ocs:C20231,
         ocs:C20686,
         ocs:C21554,
         ocs:C22845,
-        ocs:C2316,
         ocs:C25575,
         ocs:C34130,
-        ocs:C35778,
-        ocs:C6933,
-        ocs:C7701,
-        ocs:C7740,
-        ocs:C8089,
-        ocs:C8386 .
+        ocs:C35778 .
 

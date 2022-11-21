@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7436 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/File_verification> ;
     skos:prefLabel "File verification" ;
-    skos:related ocs:C13767,
+    skos:related ocs:C3936,
+        ocs:C4026,
+        ocs:C4218,
+        ocs:C8750,
+        ocs:C13767,
         ocs:C15591,
         ocs:C16125,
         ocs:C17903,
@@ -18,13 +22,9 @@ ocs:C7436 a skos:Concept ;
         ocs:C37133,
         ocs:C37209,
         ocs:C39101,
-        ocs:C3936,
         ocs:C39524,
         ocs:C40146,
-        ocs:C4026,
         ocs:C40584,
-        ocs:C4218,
         ocs:C42307,
-        ocs:C43191,
-        ocs:C8750 .
+        ocs:C43191 .
 

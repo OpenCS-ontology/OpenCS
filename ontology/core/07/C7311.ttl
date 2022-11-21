@@ -2,13 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7311 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Rule-based_system> ;
     skos:prefLabel "Rule-based system" ;
     skos:related ocs:C1,
+        ocs:C8,
         ocs:C10,
+        ocs:C25,
+        ocs:C852,
+        ocs:C6400,
+        ocs:C6531,
+        ocs:C8751,
+        ocs:C9022,
         ocs:C10327,
         ocs:C10479,
         ocs:C10616,
@@ -17,14 +24,7 @@ ocs:C7311 a skos:Concept ;
         ocs:C15444,
         ocs:C23248,
         ocs:C23909,
-        ocs:C25,
         ocs:C27665,
         ocs:C31724,
-        ocs:C36972,
-        ocs:C6400,
-        ocs:C6531,
-        ocs:C8,
-        ocs:C852,
-        ocs:C8751,
-        ocs:C9022 .
+        ocs:C36972 .
 

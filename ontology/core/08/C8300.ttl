@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8300 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Agricultural_Information_Management_Standards> ;
     skos:prefLabel "Agricultural Information Management Standards" ;
-    skos:related ocs:C11646,
+    skos:related ocs:C4,
+        ocs:C2931,
+        ocs:C3896,
+        ocs:C6915,
+        ocs:C6944,
+        ocs:C9836,
+        ocs:C11646,
         ocs:C11927,
         ocs:C16778,
         ocs:C25681,
         ocs:C25972,
         ocs:C28801,
-        ocs:C2931,
         ocs:C37046,
         ocs:C37598,
-        ocs:C3896,
-        ocs:C4,
-        ocs:C42124,
-        ocs:C6915,
-        ocs:C6944,
-        ocs:C9836 .
+        ocs:C42124 .
 

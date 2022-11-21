@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1186 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/One-key_MAC> ;
     skos:prefLabel "One-key MAC" ;
-    skos:related ocs:C18803,
+    skos:related ocs:C4218,
+        ocs:C4751,
+        ocs:C18803,
         ocs:C20993,
         ocs:C22949,
         ocs:C23875,
@@ -22,8 +24,6 @@ ocs:C1186 a skos:Concept ;
         ocs:C36161,
         ocs:C37264,
         ocs:C38401,
-        ocs:C4218,
         ocs:C42241,
-        ocs:C45551,
-        ocs:C4751 .
+        ocs:C45551 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2845 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Still_frame> ;
     skos:prefLabel "Still frame" ;
-    skos:related ocs:C1023,
+    skos:related ocs:C17,
+        ocs:C22,
+        ocs:C520,
+        ocs:C742,
+        ocs:C797,
+        ocs:C1023,
+        ocs:C3077,
+        ocs:C6032,
+        ocs:C9604,
+        ocs:C9611,
         ocs:C11752,
         ocs:C12430,
         ocs:C13065,
-        ocs:C17,
         ocs:C20569,
-        ocs:C22,
-        ocs:C27256,
-        ocs:C3077,
-        ocs:C520,
-        ocs:C6032,
-        ocs:C742,
-        ocs:C797,
-        ocs:C9604,
-        ocs:C9611 .
+        ocs:C27256 .
 

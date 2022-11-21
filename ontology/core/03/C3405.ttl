@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3405 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C17,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/MUSIC-N> ;
     skos:prefLabel "MUSIC-N" ;
-    skos:related ocs:C10778,
+    skos:related ocs:C19,
+        ocs:C520,
+        ocs:C1253,
+        ocs:C4397,
+        ocs:C8441,
+        ocs:C8718,
+        ocs:C10778,
         ocs:C11042,
         ocs:C11254,
         ocs:C11487,
         ocs:C12277,
-        ocs:C1253,
-        ocs:C19,
         ocs:C26575,
-        ocs:C37917,
-        ocs:C4397,
-        ocs:C520,
-        ocs:C8441,
-        ocs:C8718 .
+        ocs:C37917 .
 

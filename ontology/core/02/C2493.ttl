@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2493 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Customer_representative> ;
     skos:prefLabel "Customer representative" ;
-    skos:related ocs:C18274,
+    skos:related ocs:C28,
+        ocs:C3844,
+        ocs:C4558,
+        ocs:C5237,
+        ocs:C7610,
+        ocs:C18274,
         ocs:C25957,
-        ocs:C28,
         ocs:C28080,
         ocs:C29790,
         ocs:C31890,
         ocs:C31920,
         ocs:C35207,
         ocs:C37174,
-        ocs:C3844,
         ocs:C38555,
         ocs:C40422,
         ocs:C41038,
         ocs:C41437,
-        ocs:C44988,
-        ocs:C4558,
-        ocs:C5237,
-        ocs:C7610 .
+        ocs:C44988 .
 

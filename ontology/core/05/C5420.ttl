@@ -5,7 +5,9 @@ ocs:C5420 a skos:Concept ;
     skos:broader ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Generic_filter> ;
     skos:prefLabel "Generic filter" ;
-    skos:related ocs:C11331,
+    skos:related ocs:C5251,
+        ocs:C8635,
+        ocs:C11331,
         ocs:C12474,
         ocs:C16069,
         ocs:C16190,
@@ -16,7 +18,5 @@ ocs:C5420 a skos:Concept ;
         ocs:C33304,
         ocs:C41913,
         ocs:C42656,
-        ocs:C44499,
-        ocs:C5251,
-        ocs:C8635 .
+        ocs:C44499 .
 

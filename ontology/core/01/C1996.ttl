@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1996 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C33,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C33 ;
     skos:prefLabel "Task network" .
 

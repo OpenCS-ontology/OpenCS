@@ -2,30 +2,30 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17625 a skos:Concept ;
-    skos:broader ocs:C3393,
-        ocs:C390,
-        ocs:C4197,
-        ocs:C816 ;
+    skos:broader ocs:C390,
+        ocs:C816,
+        ocs:C3393,
+        ocs:C4197 ;
     skos:closeMatch <http://dbpedia.org/resource/Token_bucket> ;
     skos:prefLabel "Token bucket" ;
-    skos:related ocs:C11455,
+    skos:related ocs:C26,
+        ocs:C390,
+        ocs:C4197,
+        ocs:C4502,
+        ocs:C11455,
         ocs:C15589,
         ocs:C16351,
         ocs:C17371,
         ocs:C20691,
         ocs:C24870,
-        ocs:C26,
         ocs:C27574,
         ocs:C30218,
         ocs:C37577,
         ocs:C38312,
-        ocs:C390,
         ocs:C39948,
         ocs:C41620,
-        ocs:C4197,
         ocs:C42093,
         ocs:C43185,
         ocs:C44036,
-        ocs:C4502,
         ocs:C45252 .
 

@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28783 a skos:Concept ;
-    skos:broader ocs:C10917,
-        ocs:C4321 ;
+    skos:broader ocs:C4321,
+        ocs:C10917 ;
     skos:closeMatch <http://dbpedia.org/resource/Tail_call> ;
     skos:prefLabel "Tail call" ;
-    skos:related ocs:C10219,
-        ocs:C10284,
-        ocs:C10720,
+    skos:related ocs:C19,
         ocs:C1083,
-        ocs:C11547,
-        ocs:C12108,
         ocs:C1333,
-        ocs:C19,
         ocs:C2009,
-        ocs:C20208,
-        ocs:C20907,
-        ocs:C24148,
-        ocs:C25057,
-        ocs:C27380,
         ocs:C4321,
         ocs:C4937,
         ocs:C5049,
         ocs:C6941,
-        ocs:C8441 .
+        ocs:C8441,
+        ocs:C10219,
+        ocs:C10284,
+        ocs:C10720,
+        ocs:C11547,
+        ocs:C12108,
+        ocs:C20208,
+        ocs:C20907,
+        ocs:C24148,
+        ocs:C25057,
+        ocs:C27380 .
 

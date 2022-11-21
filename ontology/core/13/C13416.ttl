@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13416 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C10 ;
     skos:prefLabel "Compact Pattern" ;
-    skos:related ocs:C13221,
-        ocs:C21,
+    skos:related ocs:C21,
         ocs:C26,
-        ocs:C26409,
-        ocs:C2937,
         ocs:C30,
-        ocs:C4099,
         ocs:C669,
-        ocs:C8367 .
+        ocs:C2937,
+        ocs:C4099,
+        ocs:C8367,
+        ocs:C13221,
+        ocs:C26409 .
 

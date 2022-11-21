@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5407 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Stereo_imaging> ;
     skos:prefLabel "Stereo imaging" ;
-    skos:related ocs:C1340,
+    skos:related ocs:C3,
+        ocs:C520,
+        ocs:C1340,
+        ocs:C3843,
+        ocs:C6295,
+        ocs:C7973,
         ocs:C13521,
         ocs:C15341,
         ocs:C15505,
@@ -14,11 +19,6 @@ ocs:C5407 a skos:Concept ;
         ocs:C25195,
         ocs:C26575,
         ocs:C29049,
-        ocs:C3,
         ocs:C37306,
-        ocs:C3843,
-        ocs:C42394,
-        ocs:C520,
-        ocs:C6295,
-        ocs:C7973 .
+        ocs:C42394 .
 

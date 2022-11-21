@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17019 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C4099,
+    skos:broader ocs:C4099,
         ocs:C5706,
         ocs:C6124,
-        ocs:C6834 ;
+        ocs:C6834,
+        ocs:C12582 ;
     skos:prefLabel "Timing error detector" .
 

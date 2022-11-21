@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5204 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Line_segment> ;
     skos:prefLabel "Line segment" ;
-    skos:related ocs:C13409,
-        ocs:C1884 .
+    skos:related ocs:C1884,
+        ocs:C13409 .
 

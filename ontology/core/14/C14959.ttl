@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14959 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C9690 ;
+    skos:broader ocs:C9690,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/Coordinate_time> ;
     skos:prefLabel "Coordinate time" ;
-    skos:related ocs:C18988,
-        ocs:C1941 .
+    skos:related ocs:C1941,
+        ocs:C18988 .
 

@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14060 a skos:Concept ;
-    skos:broader ocs:C10511,
-        ocs:C3072,
-        ocs:C3401 ;
+    skos:broader ocs:C3072,
+        ocs:C3401,
+        ocs:C10511 ;
     skos:closeMatch <http://dbpedia.org/resource/Pseudocircle> ;
     skos:prefLabel "Pseudocircle" .
 

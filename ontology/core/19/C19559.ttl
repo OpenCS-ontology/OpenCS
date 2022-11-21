@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19559 a skos:Concept ;
-    skos:broader ocs:C11689,
-        ocs:C4199,
-        ocs:C6448 ;
+    skos:broader ocs:C4199,
+        ocs:C6448,
+        ocs:C11689 ;
     skos:closeMatch <http://dbpedia.org/resource/Polygonal_modeling> ;
     skos:prefLabel "Polygonal modeling" ;
-    skos:related ocs:C11689,
-        ocs:C18519,
+    skos:related ocs:C22,
+        ocs:C331,
+        ocs:C969,
         ocs:C1904,
+        ocs:C2927,
+        ocs:C8399,
+        ocs:C8662,
+        ocs:C11689,
+        ocs:C18519,
         ocs:C19229,
         ocs:C21609,
-        ocs:C22,
         ocs:C23564,
         ocs:C27489,
-        ocs:C2927,
         ocs:C29600,
-        ocs:C331,
         ocs:C33277,
         ocs:C36542,
         ocs:C39921,
-        ocs:C44381,
-        ocs:C8399,
-        ocs:C8662,
-        ocs:C969 .
+        ocs:C44381 .
 

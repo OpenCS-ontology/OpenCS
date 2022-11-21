@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7076 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Mobile_service> ;
     skos:prefLabel "Mobile service" ;
-    skos:related ocs:C12853,
+    skos:related ocs:C512,
+        ocs:C5511,
+        ocs:C8612,
+        ocs:C9113,
+        ocs:C12853,
         ocs:C26409,
         ocs:C27455,
         ocs:C27912,
         ocs:C35564,
         ocs:C37179,
-        ocs:C42038,
-        ocs:C512,
-        ocs:C5511,
-        ocs:C8612,
-        ocs:C9113 .
+        ocs:C42038 .
 

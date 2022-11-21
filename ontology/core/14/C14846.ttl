@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14846 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C4534 ;
+    skos:broader ocs:C4534,
+        ocs:C11886 ;
     skos:closeMatch <http://dbpedia.org/resource/GeoSciML> ;
     skos:prefLabel "GeoSciML" ;
-    skos:related ocs:C19460,
+    skos:related ocs:C2438,
+        ocs:C3430,
+        ocs:C4835,
+        ocs:C9836,
+        ocs:C19460,
         ocs:C23889,
-        ocs:C2438,
         ocs:C24477,
         ocs:C29317,
         ocs:C30182,
         ocs:C31287,
-        ocs:C3430,
         ocs:C40725,
-        ocs:C45231,
-        ocs:C4835,
-        ocs:C9836 .
+        ocs:C45231 .
 

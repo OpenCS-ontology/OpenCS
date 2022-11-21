@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20654 a skos:Concept ;
-    skos:broader ocs:C10768,
-        ocs:C5506 ;
+    skos:broader ocs:C5506,
+        ocs:C10768 ;
     skos:prefLabel "Maximum phonation time" ;
-    skos:related ocs:C10985,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C2300,
-        ocs:C5506 .
+        ocs:C5506,
+        ocs:C10985 .
 

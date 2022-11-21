@@ -3,11 +3,18 @@
 
 ocs:C1151 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/ONVIF> ;
     skos:prefLabel "ONVIF" ;
-    skos:related ocs:C1049,
+    skos:related ocs:C464,
+        ocs:C1049,
+        ocs:C3084,
+        ocs:C4433,
+        ocs:C4710,
+        ocs:C6644,
+        ocs:C8016,
+        ocs:C8515,
         ocs:C13252,
         ocs:C14160,
         ocs:C20540,
@@ -16,14 +23,7 @@ ocs:C1151 a skos:Concept ;
         ocs:C24716,
         ocs:C28911,
         ocs:C29359,
-        ocs:C3084,
         ocs:C33414,
         ocs:C34719,
-        ocs:C36124,
-        ocs:C4433,
-        ocs:C464,
-        ocs:C4710,
-        ocs:C6644,
-        ocs:C8016,
-        ocs:C8515 .
+        ocs:C36124 .
 

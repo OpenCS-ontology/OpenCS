@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1389 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Artificial_bee_colony_algorithm> ;
     skos:prefLabel "Artificial bee colony algorithm" ;
     skos:related ocs:C1,
+        ocs:C3837,
+        ocs:C5197,
+        ocs:C5704,
+        ocs:C7553,
         ocs:C10390,
         ocs:C11701,
         ocs:C11746,
@@ -20,9 +24,5 @@ ocs:C1389 a skos:Concept ;
         ocs:C27563,
         ocs:C29055,
         ocs:C34414,
-        ocs:C36684,
-        ocs:C3837,
-        ocs:C5197,
-        ocs:C5704,
-        ocs:C7553 .
+        ocs:C36684 .
 

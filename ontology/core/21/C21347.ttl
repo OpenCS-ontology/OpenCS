@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21347 a skos:Concept ;
-    skos:broader ocs:C2115,
-        ocs:C836 ;
+    skos:broader ocs:C836,
+        ocs:C2115 ;
     skos:prefLabel "Spatial Autocorrelations" ;
-    skos:related ocs:C17728,
-        ocs:C28028,
-        ocs:C836,
+    skos:related ocs:C836,
         ocs:C8517,
-        ocs:C8756 .
+        ocs:C8756,
+        ocs:C17728,
+        ocs:C28028 .
 

@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6259 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24 ;
     skos:prefLabel "Surgical camera" ;
-    skos:related ocs:C10396,
-        ocs:C10668,
-        ocs:C1253,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C22,
         ocs:C24,
+        ocs:C1253,
         ocs:C2605,
+        ocs:C10396,
+        ocs:C10668,
         ocs:C38249 .
 

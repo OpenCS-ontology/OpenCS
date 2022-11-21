@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17339 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C198,
+    skos:broader ocs:C198,
         ocs:C2878,
-        ocs:C3283 ;
+        ocs:C3283,
+        ocs:C12098 ;
     skos:prefLabel "Fault tolerant distributed algorithms" .
 

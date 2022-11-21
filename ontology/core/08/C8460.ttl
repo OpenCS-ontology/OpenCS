@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8460 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Netlist> ;
     skos:prefLabel "Netlist" ;
-    skos:related ocs:C10377,
+    skos:related ocs:C254,
+        ocs:C5336,
+        ocs:C6797,
+        ocs:C10377,
         ocs:C10965,
         ocs:C11252,
         ocs:C14650,
         ocs:C19400,
         ocs:C23473,
-        ocs:C254,
         ocs:C26090,
         ocs:C27883,
         ocs:C28039,
         ocs:C28343,
-        ocs:C37773,
-        ocs:C5336,
-        ocs:C6797 .
+        ocs:C37773 .
 

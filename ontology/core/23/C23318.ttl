@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C23318 a skos:Concept ;
-    skos:broader ocs:C11705,
-        ocs:C7447 ;
+    skos:broader ocs:C7447,
+        ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/Inter_frame> ;
     skos:prefLabel "Inter frame" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C523,
+        ocs:C7447,
+        ocs:C11323,
         ocs:C16860,
         ocs:C19334,
         ocs:C23673,
@@ -16,7 +18,5 @@ ocs:C23318 a skos:Concept ;
         ocs:C35808,
         ocs:C40353,
         ocs:C42514,
-        ocs:C45687,
-        ocs:C523,
-        ocs:C7447 .
+        ocs:C45687 .
 

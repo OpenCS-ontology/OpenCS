@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26286 a skos:Concept ;
-    skos:broader ocs:C1253,
-        ocs:C1498,
-        ocs:C176 ;
+    skos:broader ocs:C176,
+        ocs:C1253,
+        ocs:C1498 ;
     skos:prefLabel "Hypermedia software" ;
-    skos:related ocs:C1386,
-        ocs:C18,
+    skos:related ocs:C18,
         ocs:C28,
         ocs:C31,
-        ocs:C4973,
-        ocs:C6757,
         ocs:C76,
-        ocs:C934 .
+        ocs:C934,
+        ocs:C1386,
+        ocs:C4973,
+        ocs:C6757 .
 

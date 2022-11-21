@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10014 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23 ;
     skos:prefLabel "Subject Name" ;
-    skos:related ocs:C13545,
+    skos:related ocs:C4,
+        ocs:C7,
         ocs:C16,
         ocs:C17,
-        ocs:C17235,
         ocs:C19,
         ocs:C23,
         ocs:C31,
         ocs:C35,
         ocs:C3799,
-        ocs:C4,
-        ocs:C7,
         ocs:C7006,
-        ocs:C7603 .
+        ocs:C7603,
+        ocs:C13545,
+        ocs:C17235 .
 

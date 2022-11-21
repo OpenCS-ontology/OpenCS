@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22706 a skos:Concept ;
-    skos:broader ocs:C11635,
-        ocs:C3894 ;
+    skos:broader ocs:C3894,
+        ocs:C11635 ;
     skos:closeMatch <http://dbpedia.org/resource/De_Morgan's_laws> ;
     skos:prefLabel "De Morgan's laws" ;
-    skos:related ocs:C10825,
+    skos:related ocs:C126,
+        ocs:C3894,
+        ocs:C4073,
+        ocs:C4149,
+        ocs:C5421,
+        ocs:C5714,
+        ocs:C8077,
+        ocs:C10825,
         ocs:C11283,
         ocs:C11635,
-        ocs:C126,
         ocs:C13855,
         ocs:C14145,
         ocs:C15662,
         ocs:C17884,
         ocs:C32129,
         ocs:C38679,
-        ocs:C3894,
-        ocs:C4073,
-        ocs:C4149,
-        ocs:C45667,
-        ocs:C5421,
-        ocs:C5714,
-        ocs:C8077 .
+        ocs:C45667 .
 

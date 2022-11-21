@@ -2,20 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5467 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_(computing)> ;
     skos:prefLabel "Data" ;
-    skos:related ocs:C10284,
-        ocs:C10320,
-        ocs:C11531,
-        ocs:C11927,
+    skos:related ocs:C19,
+        ocs:C856,
         ocs:C1253,
-        ocs:C14162,
-        ocs:C17204,
-        ocs:C19,
-        ocs:C21718,
         ocs:C3231,
         ocs:C3984,
         ocs:C4321,
@@ -25,5 +19,11 @@ ocs:C5467 a skos:Concept ;
         ocs:C6661,
         ocs:C7476,
         ocs:C7800,
-        ocs:C856 .
+        ocs:C10284,
+        ocs:C10320,
+        ocs:C11531,
+        ocs:C11927,
+        ocs:C14162,
+        ocs:C17204,
+        ocs:C21718 .
 

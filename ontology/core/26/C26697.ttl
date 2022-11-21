@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26697 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C5087,
-        ocs:C6116 ;
+    skos:broader ocs:C5087,
+        ocs:C6116,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Theil–Sen_estimator> ;
     skos:prefLabel "Theil–Sen estimator" ;
-    skos:related ocs:C13877,
+    skos:related ocs:C662,
+        ocs:C4752,
+        ocs:C5087,
+        ocs:C6116,
+        ocs:C13877,
         ocs:C18625,
         ocs:C21628,
         ocs:C25294,
         ocs:C28403,
         ocs:C35924,
         ocs:C39575,
-        ocs:C41664,
-        ocs:C4752,
-        ocs:C5087,
-        ocs:C6116,
-        ocs:C662 .
+        ocs:C41664 .
 

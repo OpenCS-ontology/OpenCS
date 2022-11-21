@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7510 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_privacy> ;
     skos:prefLabel "Information privacy" ;
-    skos:related ocs:C12378,
-        ocs:C12510,
+    skos:related ocs:C5,
+        ocs:C6,
         ocs:C13,
+        ocs:C35,
+        ocs:C197,
+        ocs:C394,
         ocs:C1399,
+        ocs:C2970,
+        ocs:C5493,
+        ocs:C8390,
+        ocs:C8614,
+        ocs:C12378,
+        ocs:C12510,
         ocs:C14026,
         ocs:C14105,
-        ocs:C197,
         ocs:C26014,
-        ocs:C2970,
-        ocs:C35,
         ocs:C37237,
         ocs:C38347,
-        ocs:C394,
-        ocs:C45697,
-        ocs:C5,
-        ocs:C5493,
-        ocs:C6,
-        ocs:C8390,
-        ocs:C8614 .
+        ocs:C45697 .
 

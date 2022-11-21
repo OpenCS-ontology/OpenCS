@@ -5,7 +5,10 @@ ocs:C39252 a skos:Concept ;
     skos:broader ocs:C32522 ;
     skos:closeMatch <http://dbpedia.org/resource/Unix_security> ;
     skos:prefLabel "Unix security" ;
-    skos:related ocs:C12605,
+    skos:related ocs:C9,
+        ocs:C4513,
+        ocs:C4997,
+        ocs:C12605,
         ocs:C13578,
         ocs:C14271,
         ocs:C14983,
@@ -20,8 +23,5 @@ ocs:C39252 a skos:Concept ;
         ocs:C34358,
         ocs:C34914,
         ocs:C40900,
-        ocs:C42619,
-        ocs:C4513,
-        ocs:C4997,
-        ocs:C9 .
+        ocs:C42619 .
 

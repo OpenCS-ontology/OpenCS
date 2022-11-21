@@ -5,9 +5,7 @@ ocs:C13102 a skos:Concept ;
     skos:broader ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Homograph> ;
     skos:prefLabel "Homograph" ;
-    skos:related ocs:C12486,
-        ocs:C13096,
-        ocs:C2025,
+    skos:related ocs:C2025,
         ocs:C2847,
         ocs:C3741,
         ocs:C4755,
@@ -15,5 +13,7 @@ ocs:C13102 a skos:Concept ;
         ocs:C6308,
         ocs:C6416,
         ocs:C7131,
-        ocs:C8020 .
+        ocs:C8020,
+        ocs:C12486,
+        ocs:C13096 .
 

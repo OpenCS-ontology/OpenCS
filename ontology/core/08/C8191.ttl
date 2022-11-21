@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8191 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Smart_device> ;
     skos:prefLabel "Smart device" ;
-    skos:related ocs:C10695,
+    skos:related ocs:C9,
         ocs:C11,
+        ocs:C1338,
+        ocs:C2605,
+        ocs:C9047,
+        ocs:C9113,
+        ocs:C10695,
         ocs:C11153,
         ocs:C12698,
-        ocs:C1338,
         ocs:C17132,
         ocs:C17536,
         ocs:C17554,
         ocs:C20800,
         ocs:C21424,
         ocs:C24643,
-        ocs:C2605,
         ocs:C28598,
         ocs:C28881,
         ocs:C29046,
         ocs:C31489,
-        ocs:C35370,
-        ocs:C9,
-        ocs:C9047,
-        ocs:C9113 .
+        ocs:C35370 .
 

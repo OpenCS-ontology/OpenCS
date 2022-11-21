@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17107 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C12099,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C12098,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Parity_game> ;
     skos:prefLabel "Parity game" ;
-    skos:related ocs:C15025,
+    skos:related ocs:C3678,
+        ocs:C15025,
         ocs:C15414,
         ocs:C17700,
         ocs:C17845,
         ocs:C23904,
-        ocs:C3678,
         ocs:C37205,
         ocs:C37945,
         ocs:C38374,

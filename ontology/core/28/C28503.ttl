@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C28503 a skos:Concept ;
-    skos:broader ocs:C13413,
-        ocs:C7736 ;
+    skos:broader ocs:C7736,
+        ocs:C13413 ;
     skos:closeMatch <http://dbpedia.org/resource/User_interface_design> ;
     skos:prefLabel "User interface design" ;
     skos:related ocs:C1,
-        ocs:C1253,
-        ocs:C13413,
-        ocs:C14148,
+        ocs:C9,
         ocs:C18,
+        ocs:C1253,
         ocs:C2135,
-        ocs:C21847,
-        ocs:C22811,
-        ocs:C28533,
-        ocs:C28881,
-        ocs:C31201,
-        ocs:C32547,
         ocs:C4292,
         ocs:C5051,
         ocs:C5702,
         ocs:C7736,
         ocs:C8269,
-        ocs:C9,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C13413,
+        ocs:C14148,
+        ocs:C21847,
+        ocs:C22811,
+        ocs:C28533,
+        ocs:C28881,
+        ocs:C31201,
+        ocs:C32547 .
 

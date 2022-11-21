@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11064 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:prefLabel "Digital removal" ;
     skos:related ocs:C1,
-        ocs:C13116,
         ocs:C2,
-        ocs:C22 .
+        ocs:C22,
+        ocs:C13116 .
 

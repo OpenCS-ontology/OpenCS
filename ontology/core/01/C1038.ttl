@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1038 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_extraction> ;
     skos:prefLabel "Knowledge extraction" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C6,
+        ocs:C8,
+        ocs:C13,
+        ocs:C25,
+        ocs:C3791,
+        ocs:C3896,
+        ocs:C7170,
+        ocs:C8576,
+        ocs:C9836,
+        ocs:C10382,
         ocs:C12694,
         ocs:C12977,
-        ocs:C13,
         ocs:C13744,
         ocs:C21072,
-        ocs:C25,
         ocs:C25681,
         ocs:C28117,
         ocs:C35570,
-        ocs:C3791,
-        ocs:C3896,
         ocs:C40114,
         ocs:C41591,
-        ocs:C41877,
-        ocs:C6,
-        ocs:C7170,
-        ocs:C8,
-        ocs:C8576,
-        ocs:C9836 .
+        ocs:C41877 .
 

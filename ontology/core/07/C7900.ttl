@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7900 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Thrashing_(computer_science)> ;
     skos:prefLabel "Thrashing" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C393,
         ocs:C1242,
+        ocs:C3985,
+        ocs:C8704,
+        ocs:C8782,
+        ocs:C10320,
         ocs:C20685,
         ocs:C23864,
         ocs:C25960,
         ocs:C27610,
         ocs:C38368,
         ocs:C38819,
-        ocs:C393,
         ocs:C39623,
-        ocs:C3985,
         ocs:C40313,
         ocs:C40322,
         ocs:C40529,
         ocs:C41696,
-        ocs:C42695,
-        ocs:C8704,
-        ocs:C8782,
-        ocs:C9 .
+        ocs:C42695 .
 

@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20298 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C2369,
+    skos:broader ocs:C2369,
         ocs:C3740,
-        ocs:C5854 ;
+        ocs:C5854,
+        ocs:C12582 ;
     skos:prefLabel "Pet scanners" ;
-    skos:related ocs:C10321,
-        ocs:C10510,
-        ocs:C14126,
-        ocs:C2,
+    skos:related ocs:C2,
         ocs:C22,
-        ocs:C695 .
+        ocs:C695,
+        ocs:C10321,
+        ocs:C10510,
+        ocs:C14126 .
 

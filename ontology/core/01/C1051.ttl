@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1051 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Braille> ;
     skos:prefLabel "Braille" ;
-    skos:related ocs:C11669,
-        ocs:C11719,
-        ocs:C13253,
-        ocs:C24890,
-        ocs:C25565,
-        ocs:C30694,
-        ocs:C4397,
+    skos:related ocs:C4397,
         ocs:C5126,
         ocs:C5862,
         ocs:C6282,
         ocs:C7131,
         ocs:C7714,
         ocs:C7858,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C11669,
+        ocs:C11719,
+        ocs:C13253,
+        ocs:C24890,
+        ocs:C25565,
+        ocs:C30694 .
 

@@ -6,7 +6,10 @@ ocs:C26460 a skos:Concept ;
         ocs:C8895 ;
     skos:closeMatch <http://dbpedia.org/resource/System_under_test> ;
     skos:prefLabel "System under test" ;
-    skos:related ocs:C1253,
+    skos:related ocs:C9,
+        ocs:C1253,
+        ocs:C7053,
+        ocs:C8895,
         ocs:C13313,
         ocs:C18415,
         ocs:C19404,
@@ -22,8 +25,5 @@ ocs:C26460 a skos:Concept ;
         ocs:C42031,
         ocs:C42333,
         ocs:C45409,
-        ocs:C45493,
-        ocs:C7053,
-        ocs:C8895,
-        ocs:C9 .
+        ocs:C45493 .
 

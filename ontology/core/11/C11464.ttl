@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11464 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/StrataFlash> ;
     skos:prefLabel "StrataFlash" ;
-    skos:related ocs:C10073,
+    skos:related ocs:C3160,
+        ocs:C7238,
+        ocs:C7622,
+        ocs:C8967,
+        ocs:C10073,
         ocs:C10320,
         ocs:C13222,
         ocs:C13783,
@@ -15,12 +19,8 @@ ocs:C11464 a skos:Concept ;
         ocs:C21929,
         ocs:C22079,
         ocs:C24195,
-        ocs:C3160,
         ocs:C33839,
         ocs:C36517,
         ocs:C38915,
-        ocs:C43131,
-        ocs:C7238,
-        ocs:C7622,
-        ocs:C8967 .
+        ocs:C43131 .
 

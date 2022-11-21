@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3847 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Template_matching> ;
     skos:prefLabel "Template matching" ;
-    skos:related ocs:C11150,
+    skos:related ocs:C7,
+        ocs:C21,
+        ocs:C248,
+        ocs:C1501,
+        ocs:C5462,
+        ocs:C8021,
+        ocs:C11150,
         ocs:C13142,
         ocs:C13684,
         ocs:C14863,
-        ocs:C1501,
         ocs:C19157,
-        ocs:C21,
         ocs:C21158,
-        ocs:C248,
         ocs:C25687,
         ocs:C26688,
         ocs:C31308,
         ocs:C32479,
         ocs:C33828,
         ocs:C37582,
-        ocs:C38859,
-        ocs:C5462,
-        ocs:C7,
-        ocs:C8021 .
+        ocs:C38859 .
 

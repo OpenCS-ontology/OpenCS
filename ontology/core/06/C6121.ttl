@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6121 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Machine-readable bibliographic data" ;
-    skos:related ocs:C11492,
+    skos:related ocs:C4,
         ocs:C1940,
+        ocs:C7849,
+        ocs:C11492,
         ocs:C22687,
-        ocs:C27607,
-        ocs:C4,
-        ocs:C7849 .
+        ocs:C27607 .
 

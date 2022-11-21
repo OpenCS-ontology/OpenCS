@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10964 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_feed> ;
     skos:prefLabel "Data feed" ;
-    skos:related ocs:C10069,
+    skos:related ocs:C31,
         ocs:C1025,
+        ocs:C2931,
+        ocs:C4500,
+        ocs:C6553,
+        ocs:C9836,
+        ocs:C10069,
         ocs:C14418,
         ocs:C22668,
         ocs:C26014,
         ocs:C28117,
         ocs:C28559,
-        ocs:C2931,
         ocs:C29853,
-        ocs:C31,
         ocs:C32413,
         ocs:C32788,
         ocs:C34036,
         ocs:C34117,
         ocs:C35570,
         ocs:C36276,
-        ocs:C38561,
-        ocs:C4500,
-        ocs:C6553,
-        ocs:C9836 .
+        ocs:C38561 .
 

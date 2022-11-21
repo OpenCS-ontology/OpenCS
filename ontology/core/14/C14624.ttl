@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14624 a skos:Concept ;
-    skos:broader ocs:C13318,
-        ocs:C1833 ;
+    skos:broader ocs:C1833,
+        ocs:C13318 ;
     skos:closeMatch <http://dbpedia.org/resource/Association_list> ;
     skos:prefLabel "Association list" ;
-    skos:related ocs:C12108,
-        ocs:C1333,
-        ocs:C14255,
+    skos:related ocs:C1333,
         ocs:C1454,
+        ocs:C2885,
+        ocs:C5192,
+        ocs:C8022,
+        ocs:C8441,
+        ocs:C8522,
+        ocs:C12108,
+        ocs:C14255,
         ocs:C26456,
         ocs:C26753,
         ocs:C28116,
         ocs:C28232,
-        ocs:C2885,
         ocs:C36112,
         ocs:C37685,
         ocs:C41512,
         ocs:C41603,
-        ocs:C44390,
-        ocs:C5192,
-        ocs:C8022,
-        ocs:C8441,
-        ocs:C8522 .
+        ocs:C44390 .
 

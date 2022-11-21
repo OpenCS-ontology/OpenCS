@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4428 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Telematics> ;
     skos:prefLabel "Telematics" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C3,
+        ocs:C197,
         ocs:C1302,
         ocs:C1346,
         ocs:C1508,
-        ocs:C16218,
-        ocs:C197,
-        ocs:C21424,
-        ocs:C23009,
-        ocs:C28169,
-        ocs:C3,
         ocs:C3236,
         ocs:C3246,
         ocs:C6311,
         ocs:C6862,
         ocs:C9100,
         ocs:C9113,
-        ocs:C9154 .
+        ocs:C9154,
+        ocs:C12641,
+        ocs:C16218,
+        ocs:C21424,
+        ocs:C23009,
+        ocs:C28169 .
 

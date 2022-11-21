@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10551 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Inductive_reasoning> ;
     skos:prefLabel "Inductive reasoning" ;
-    skos:related ocs:C1092,
-        ocs:C11088,
-        ocs:C126,
-        ocs:C14620,
+    skos:related ocs:C126,
+        ocs:C1092,
         ocs:C1834,
         ocs:C2978,
         ocs:C3579,
         ocs:C6290,
-        ocs:C9834 .
+        ocs:C9834,
+        ocs:C11088,
+        ocs:C14620 .
 

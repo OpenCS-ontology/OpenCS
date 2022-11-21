@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8519 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Octree> ;
     skos:prefLabel "Octree" ;
-    skos:related ocs:C11325,
+    skos:related ocs:C22,
+        ocs:C969,
+        ocs:C3443,
+        ocs:C4518,
+        ocs:C8452,
+        ocs:C8565,
+        ocs:C8893,
+        ocs:C11325,
         ocs:C13296,
         ocs:C14416,
         ocs:C19299,
         ocs:C20046,
         ocs:C20539,
         ocs:C21609,
-        ocs:C22,
         ocs:C24145,
         ocs:C26515,
         ocs:C28240,
         ocs:C30271,
-        ocs:C3443,
         ocs:C36311,
-        ocs:C40501,
-        ocs:C4518,
-        ocs:C8452,
-        ocs:C8565,
-        ocs:C8893,
-        ocs:C969 .
+        ocs:C40501 .
 

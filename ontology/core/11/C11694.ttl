@@ -3,18 +3,12 @@
 
 ocs:C11694 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C3 ;
+        ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Pager> ;
     skos:prefLabel "Pager" ;
-    skos:related ocs:C10975,
-        ocs:C13514,
-        ocs:C22407,
-        ocs:C28758,
-        ocs:C3,
+    skos:related ocs:C3,
         ocs:C3236,
-        ocs:C35370,
-        ocs:C35725,
         ocs:C5692,
         ocs:C5917,
         ocs:C6763,
@@ -22,5 +16,11 @@ ocs:C11694 a skos:Concept ;
         ocs:C7877,
         ocs:C8614,
         ocs:C9113,
-        ocs:C9154 .
+        ocs:C9154,
+        ocs:C10975,
+        ocs:C13514,
+        ocs:C22407,
+        ocs:C28758,
+        ocs:C35370,
+        ocs:C35725 .
 

@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13220 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Domain_Application_Protocol> ;
     skos:prefLabel "Domain Application Protocol" ;
-    skos:related ocs:C13252,
+    skos:related ocs:C30,
+        ocs:C31,
+        ocs:C176,
+        ocs:C1998,
+        ocs:C2464,
+        ocs:C4987,
+        ocs:C7616,
+        ocs:C13252,
         ocs:C17205,
         ocs:C17238,
-        ocs:C176,
         ocs:C17804,
         ocs:C18734,
-        ocs:C1998,
         ocs:C22597,
-        ocs:C2464,
         ocs:C28941,
-        ocs:C30,
         ocs:C30000,
-        ocs:C31,
         ocs:C32954,
-        ocs:C38306,
-        ocs:C4987,
-        ocs:C7616 .
+        ocs:C38306 .
 

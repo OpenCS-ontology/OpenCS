@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21619 a skos:Concept ;
-    skos:broader ocs:C12257,
-        ocs:C12312,
-        ocs:C4321 ;
+    skos:broader ocs:C4321,
+        ocs:C12257,
+        ocs:C12312 ;
     skos:closeMatch <http://dbpedia.org/resource/Hand_coding> ;
     skos:prefLabel "Hand coding" ;
-    skos:related ocs:C10725,
+    skos:related ocs:C19,
+        ocs:C442,
+        ocs:C2057,
+        ocs:C4321,
+        ocs:C5962,
+        ocs:C6072,
+        ocs:C6280,
+        ocs:C6852,
+        ocs:C10725,
         ocs:C12257,
         ocs:C17204,
-        ocs:C19,
         ocs:C19147,
-        ocs:C2057,
         ocs:C21201,
         ocs:C23867,
         ocs:C24783,
         ocs:C25549,
         ocs:C28073,
         ocs:C39939,
-        ocs:C43054,
-        ocs:C4321,
-        ocs:C442,
-        ocs:C5962,
-        ocs:C6072,
-        ocs:C6280,
-        ocs:C6852 .
+        ocs:C43054 .
 

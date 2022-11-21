@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26941 a skos:Concept ;
-    skos:broader ocs:C11383,
-        ocs:C5493,
-        ocs:C8711 ;
+    skos:broader ocs:C5493,
+        ocs:C8711,
+        ocs:C11383 ;
     skos:closeMatch <http://dbpedia.org/resource/Virtual_private_database> ;
     skos:prefLabel "Virtual private database" ;
-    skos:related ocs:C1060,
+    skos:related ocs:C6,
+        ocs:C1060,
+        ocs:C4028,
+        ocs:C5497,
+        ocs:C7286,
+        ocs:C7651,
+        ocs:C8327,
         ocs:C10988,
         ocs:C12185,
         ocs:C18383,
@@ -17,11 +23,5 @@ ocs:C26941 a skos:Concept ;
         ocs:C36084,
         ocs:C37009,
         ocs:C38130,
-        ocs:C4028,
-        ocs:C41190,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C7286,
-        ocs:C7651,
-        ocs:C8327 .
+        ocs:C41190 .
 

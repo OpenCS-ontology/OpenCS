@@ -5,10 +5,11 @@ ocs:C6647 a skos:Concept ;
     skos:broader ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Cost_estimation_in_software_engineering> ;
     skos:prefLabel "Cost estimation in software engineering" ;
-    skos:related ocs:C10222,
+    skos:related ocs:C28,
+        ocs:C6116,
+        ocs:C10222,
         ocs:C13589,
         ocs:C18801,
-        ocs:C28,
         ocs:C28080,
         ocs:C29427,
         ocs:C37174,
@@ -19,6 +20,5 @@ ocs:C6647 a skos:Concept ;
         ocs:C42657,
         ocs:C43494,
         ocs:C43715,
-        ocs:C45378,
-        ocs:C6116 .
+        ocs:C45378 .
 

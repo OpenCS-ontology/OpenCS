@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6333 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Scale_factor_(computer_science)> ;
     skos:prefLabel "Scale factor (computer science)" ;
-    skos:related ocs:C12262,
+    skos:related ocs:C3179,
+        ocs:C3450,
+        ocs:C6255,
+        ocs:C8581,
+        ocs:C12262,
         ocs:C14162,
         ocs:C22430,
         ocs:C22452,
         ocs:C23874,
         ocs:C28063,
         ocs:C31030,
-        ocs:C3179,
-        ocs:C3450,
         ocs:C37239,
         ocs:C37518,
         ocs:C37917,
         ocs:C42983,
         ocs:C43784,
-        ocs:C45395,
-        ocs:C6255,
-        ocs:C8581 .
+        ocs:C45395 .
 

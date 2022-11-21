@@ -2,12 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2371 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/RuleML_Symposium> ;
     skos:prefLabel "RuleML Symposium" ;
-    skos:related ocs:C10327,
+    skos:related ocs:C852,
         ocs:C1092,
+        ocs:C3340,
+        ocs:C5421,
+        ocs:C5925,
+        ocs:C6531,
+        ocs:C8513,
+        ocs:C10327,
         ocs:C12064,
         ocs:C14156,
         ocs:C16252,
@@ -17,13 +23,7 @@ ocs:C2371 a skos:Concept ;
         ocs:C27665,
         ocs:C29762,
         ocs:C30368,
-        ocs:C3340,
         ocs:C38679,
         ocs:C43075,
-        ocs:C45642,
-        ocs:C5421,
-        ocs:C5925,
-        ocs:C6531,
-        ocs:C8513,
-        ocs:C852 .
+        ocs:C45642 .
 

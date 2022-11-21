@@ -5,7 +5,9 @@ ocs:C4610 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/VESA_BIOS_Extensions> ;
     skos:prefLabel "VESA BIOS Extensions" ;
-    skos:related ocs:C10568,
+    skos:related ocs:C9,
+        ocs:C653,
+        ocs:C10568,
         ocs:C12323,
         ocs:C12724,
         ocs:C13586,
@@ -18,7 +20,5 @@ ocs:C4610 a skos:Concept ;
         ocs:C31489,
         ocs:C36633,
         ocs:C39555,
-        ocs:C44318,
-        ocs:C653,
-        ocs:C9 .
+        ocs:C44318 .
 

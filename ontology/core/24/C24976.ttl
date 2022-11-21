@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24976 a skos:Concept ;
-    skos:broader ocs:C11445,
-        ocs:C4597 ;
+    skos:broader ocs:C4597,
+        ocs:C11445 ;
     skos:closeMatch <http://dbpedia.org/resource/Maneuvering_area> ;
     skos:prefLabel "Maneuvering area" ;
-    skos:related ocs:C11445,
+    skos:related ocs:C4597,
+        ocs:C6412,
+        ocs:C8764,
+        ocs:C9437,
+        ocs:C11445,
         ocs:C14012,
         ocs:C20450,
         ocs:C24351,
-        ocs:C31583,
-        ocs:C4597,
-        ocs:C6412,
-        ocs:C8764,
-        ocs:C9437 .
+        ocs:C31583 .
 

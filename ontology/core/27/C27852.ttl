@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27852 a skos:Concept ;
-    skos:broader ocs:C1386,
+    skos:broader ocs:C637,
+        ocs:C1386,
         ocs:C2801,
         ocs:C5319,
-        ocs:C637,
         ocs:C6756 ;
     skos:prefLabel "Script recognition" .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10609 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_silo> ;
     skos:prefLabel "Information silo" ;
-    skos:related ocs:C10979,
+    skos:related ocs:C25,
+        ocs:C197,
+        ocs:C2979,
+        ocs:C3395,
+        ocs:C3896,
+        ocs:C6944,
+        ocs:C7106,
+        ocs:C8500,
+        ocs:C10979,
         ocs:C11886,
         ocs:C12238,
         ocs:C12694,
-        ocs:C197,
         ocs:C21399,
-        ocs:C25,
-        ocs:C2979,
         ocs:C30335,
-        ocs:C3395,
         ocs:C35459,
         ocs:C38873,
-        ocs:C3896,
         ocs:C40270,
-        ocs:C45470,
-        ocs:C6944,
-        ocs:C7106,
-        ocs:C8500 .
+        ocs:C45470 .
 

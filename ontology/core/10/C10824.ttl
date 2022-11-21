@@ -3,12 +3,14 @@
 
 ocs:C10824 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C27,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Pentium> ;
     skos:prefLabel "Pentium" ;
-    skos:related ocs:C10320,
-        ocs:C1721,
+    skos:related ocs:C1721,
+        ocs:C6172,
+        ocs:C9542,
+        ocs:C10320,
         ocs:C19487,
         ocs:C25171,
         ocs:C25252,
@@ -18,7 +20,5 @@ ocs:C10824 a skos:Concept ;
         ocs:C33174,
         ocs:C36894,
         ocs:C38463,
-        ocs:C39896,
-        ocs:C6172,
-        ocs:C9542 .
+        ocs:C39896 .
 

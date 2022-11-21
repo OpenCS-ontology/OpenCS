@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15610 a skos:Concept ;
-    skos:broader ocs:C12977,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C12977 ;
     skos:closeMatch <http://dbpedia.org/resource/Conceptual_graph> ;
     skos:prefLabel "Conceptual graph" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C6,
+        ocs:C8,
+        ocs:C524,
+        ocs:C928,
+        ocs:C1451,
+        ocs:C2418,
+        ocs:C2523,
+        ocs:C8635,
+        ocs:C8894,
+        ocs:C10616,
         ocs:C10825,
         ocs:C11646,
         ocs:C12977,
-        ocs:C1451,
         ocs:C14693,
         ocs:C17905,
         ocs:C21872,
-        ocs:C2418,
-        ocs:C2523,
         ocs:C27386,
         ocs:C28352,
-        ocs:C34481,
-        ocs:C524,
-        ocs:C6,
-        ocs:C8,
-        ocs:C8635,
-        ocs:C8894,
-        ocs:C928 .
+        ocs:C34481 .
 

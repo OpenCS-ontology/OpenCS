@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C394 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Identity_theft> ;
     skos:prefLabel "Identity theft" ;
-    skos:related ocs:C12011,
+    skos:related ocs:C35,
+        ocs:C2941,
+        ocs:C7006,
+        ocs:C7604,
+        ocs:C8614,
+        ocs:C9489,
+        ocs:C9838,
+        ocs:C12011,
         ocs:C12378,
         ocs:C12510,
         ocs:C17046,
         ocs:C18100,
         ocs:C20937,
         ocs:C25487,
-        ocs:C2941,
-        ocs:C35,
-        ocs:C37095,
-        ocs:C7006,
-        ocs:C7604,
-        ocs:C8614,
-        ocs:C9489,
-        ocs:C9838 .
+        ocs:C37095 .
 

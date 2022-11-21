@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8216 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Geometric_feature_learning> ;
     skos:prefLabel "Geometric feature learning" ;
-    skos:related ocs:C11598,
+    skos:related ocs:C8,
+        ocs:C21,
+        ocs:C25,
+        ocs:C2005,
+        ocs:C3077,
+        ocs:C11598,
         ocs:C13142,
         ocs:C13610,
         ocs:C14465,
         ocs:C14863,
         ocs:C15346,
         ocs:C19354,
-        ocs:C2005,
         ocs:C20377,
-        ocs:C21,
-        ocs:C25,
-        ocs:C3077,
         ocs:C31308,
         ocs:C32055,
         ocs:C32479,
-        ocs:C37748,
-        ocs:C8 .
+        ocs:C37748 .
 

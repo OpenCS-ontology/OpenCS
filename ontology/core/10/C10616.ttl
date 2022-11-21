@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10616 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C13,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Expert_system> ;
     skos:prefLabel "Expert system" ;
     skos:related ocs:C1,
-        ocs:C10327,
-        ocs:C11724,
-        ocs:C12977,
-        ocs:C13,
-        ocs:C15444,
-        ocs:C21269,
-        ocs:C23248,
-        ocs:C25,
-        ocs:C27665,
-        ocs:C32,
-        ocs:C4269,
         ocs:C6,
+        ocs:C8,
+        ocs:C13,
+        ocs:C25,
+        ocs:C32,
+        ocs:C852,
+        ocs:C4269,
         ocs:C6531,
         ocs:C6749,
         ocs:C7311,
-        ocs:C8,
-        ocs:C852,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C10327,
+        ocs:C11724,
+        ocs:C12977,
+        ocs:C15444,
+        ocs:C21269,
+        ocs:C23248,
+        ocs:C27665 .
 

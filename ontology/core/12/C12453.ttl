@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12453 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C18,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Hands-free_computing> ;
     skos:prefLabel "Hands-free computing" ;
-    skos:related ocs:C10630,
-        ocs:C11339,
-        ocs:C13993,
+    skos:related ocs:C2,
         ocs:C16,
         ocs:C18,
-        ocs:C2,
-        ocs:C23978,
-        ocs:C24825,
+        ocs:C850,
         ocs:C2655,
-        ocs:C26634,
-        ocs:C30078,
-        ocs:C31891,
-        ocs:C44100,
         ocs:C5702,
         ocs:C6069,
         ocs:C6476,
         ocs:C7621,
-        ocs:C850,
-        ocs:C9603 .
+        ocs:C9603,
+        ocs:C10630,
+        ocs:C11339,
+        ocs:C13993,
+        ocs:C23978,
+        ocs:C24825,
+        ocs:C26634,
+        ocs:C30078,
+        ocs:C31891,
+        ocs:C44100 .
 

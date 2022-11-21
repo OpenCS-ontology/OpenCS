@@ -2,18 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13113 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/HeliOS> ;
     skos:prefLabel "HeliOS" ;
-    skos:related ocs:C10400,
+    skos:related ocs:C9,
+        ocs:C27,
+        ocs:C44,
+        ocs:C6714,
+        ocs:C7476,
+        ocs:C10400,
         ocs:C10683,
         ocs:C12683,
         ocs:C14271,
         ocs:C19000,
         ocs:C20800,
         ocs:C26097,
-        ocs:C27,
         ocs:C27602,
         ocs:C27721,
         ocs:C31489,
@@ -21,9 +25,5 @@ ocs:C13113 a skos:Concept ;
         ocs:C36601,
         ocs:C39279,
         ocs:C41970,
-        ocs:C42619,
-        ocs:C44,
-        ocs:C6714,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C42619 .
 

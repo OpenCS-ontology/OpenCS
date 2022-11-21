@@ -2,12 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26325 a skos:Concept ;
-    skos:broader ocs:C12373,
-        ocs:C5745,
-        ocs:C8704 ;
+    skos:broader ocs:C5745,
+        ocs:C8704,
+        ocs:C12373 ;
     skos:closeMatch <http://dbpedia.org/resource/Processor_sharing> ;
     skos:prefLabel "Processor sharing" ;
-    skos:related ocs:C12373,
+    skos:related ocs:C6408,
+        ocs:C12373,
         ocs:C15779,
         ocs:C18439,
         ocs:C20087,
@@ -25,6 +26,5 @@ ocs:C26325 a skos:Concept ;
         ocs:C40876,
         ocs:C40920,
         ocs:C41000,
-        ocs:C45748,
-        ocs:C6408 .
+        ocs:C45748 .
 

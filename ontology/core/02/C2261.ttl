@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2261 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Weak_symbol> ;
     skos:prefLabel "Weak symbol" ;
     skos:related ocs:C115,
+        ocs:C7800,
+        ocs:C9160,
         ocs:C11991,
         ocs:C13366,
         ocs:C14271,
@@ -21,7 +23,5 @@ ocs:C2261 a skos:Concept ;
         ocs:C39309,
         ocs:C39339,
         ocs:C39715,
-        ocs:C42619,
-        ocs:C7800,
-        ocs:C9160 .
+        ocs:C42619 .
 

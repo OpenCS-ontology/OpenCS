@@ -7,11 +7,13 @@ ocs:C8079 a skos:Concept ;
         ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Literal_pool> ;
     skos:prefLabel "Literal pool" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C15,
+        ocs:C856,
+        ocs:C4321,
+        ocs:C10320,
         ocs:C11991,
         ocs:C12257,
         ocs:C12974,
-        ocs:C15,
         ocs:C17204,
         ocs:C18295,
         ocs:C19487,
@@ -19,7 +21,5 @@ ocs:C8079 a skos:Concept ;
         ocs:C22453,
         ocs:C32719,
         ocs:C35009,
-        ocs:C39214,
-        ocs:C4321,
-        ocs:C856 .
+        ocs:C39214 .
 

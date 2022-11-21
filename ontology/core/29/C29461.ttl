@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29461 a skos:Concept ;
-    skos:broader ocs:C10222,
-        ocs:C13685,
-        ocs:C2250,
-        ocs:C4257 ;
+    skos:broader ocs:C2250,
+        ocs:C4257,
+        ocs:C10222,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Cramér–Rao_bound> ;
     skos:prefLabel "Cramér–Rao bound" ;
     skos:related ocs:C10138,

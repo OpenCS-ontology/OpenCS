@@ -2,13 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8726 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Ghosting_(television)> ;
     skos:prefLabel "Ghosting" ;
-    skos:related ocs:C12699,
+    skos:related ocs:C1724,
+        ocs:C7216,
+        ocs:C12699,
         ocs:C14053,
-        ocs:C1724,
         ocs:C17926,
         ocs:C19342,
         ocs:C21097,
@@ -21,6 +22,5 @@ ocs:C8726 a skos:Concept ;
         ocs:C34890,
         ocs:C36707,
         ocs:C38826,
-        ocs:C42783,
-        ocs:C7216 .
+        ocs:C42783 .
 

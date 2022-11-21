@@ -2,17 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9552 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Planner_(programming_language)> ;
     skos:prefLabel "Planner" ;
     skos:related ocs:C1,
+        ocs:C8,
+        ocs:C19,
+        ocs:C858,
+        ocs:C4269,
+        ocs:C6531,
+        ocs:C8441,
         ocs:C10327,
         ocs:C11095,
         ocs:C15335,
         ocs:C16092,
-        ocs:C19,
         ocs:C20208,
         ocs:C20907,
         ocs:C23248,
@@ -20,11 +25,6 @@ ocs:C9552 a skos:Concept ;
         ocs:C25382,
         ocs:C29292,
         ocs:C37695,
-        ocs:C4269,
         ocs:C44864,
-        ocs:C45548,
-        ocs:C6531,
-        ocs:C8,
-        ocs:C8441,
-        ocs:C858 .
+        ocs:C45548 .
 

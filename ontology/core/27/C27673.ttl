@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27673 a skos:Concept ;
-    skos:broader ocs:C13373,
-        ocs:C5298,
-        ocs:C7502 ;
+    skos:broader ocs:C5298,
+        ocs:C7502,
+        ocs:C13373 ;
     skos:closeMatch <http://dbpedia.org/resource/Spectral_correlation_density> ;
     skos:prefLabel "Spectral correlation density" ;
-    skos:related ocs:C10509,
+    skos:related ocs:C2168,
+        ocs:C5505,
+        ocs:C5769,
+        ocs:C10509,
         ocs:C13373,
         ocs:C15788,
         ocs:C17872,
-        ocs:C2168,
         ocs:C22494,
         ocs:C26182,
         ocs:C34943,
-        ocs:C45813,
-        ocs:C5505,
-        ocs:C5769 .
+        ocs:C45813 .
 

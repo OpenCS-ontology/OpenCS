@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5580 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C26,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Authorized_domain> ;
     skos:prefLabel "Authorized domain" ;
-    skos:related ocs:C12999,
+    skos:related ocs:C3522,
+        ocs:C6234,
+        ocs:C7808,
+        ocs:C12999,
         ocs:C21875,
         ocs:C27103,
         ocs:C28997,
         ocs:C30635,
         ocs:C32350,
-        ocs:C3522,
         ocs:C35224,
-        ocs:C36382,
-        ocs:C6234,
-        ocs:C7808 .
+        ocs:C36382 .
 

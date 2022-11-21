@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16901 a skos:Concept ;
-    skos:broader ocs:C10444,
-        ocs:C12185,
-        ocs:C5402 ;
+    skos:broader ocs:C5402,
+        ocs:C10444,
+        ocs:C12185 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_definition_language> ;
     skos:prefLabel "Data definition language" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C6,
+        ocs:C264,
         ocs:C1060,
+        ocs:C5497,
+        ocs:C6754,
+        ocs:C10444,
         ocs:C12185,
         ocs:C13767,
         ocs:C14025,
@@ -18,10 +22,6 @@ ocs:C16901 a skos:Concept ;
         ocs:C18567,
         ocs:C20517,
         ocs:C26088,
-        ocs:C264,
         ocs:C30561,
-        ocs:C36084,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C6754 .
+        ocs:C36084 .
 

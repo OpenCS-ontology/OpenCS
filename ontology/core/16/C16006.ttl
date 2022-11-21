@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16006 a skos:Concept ;
-    skos:broader ocs:C11721,
-        ocs:C7008 ;
+    skos:broader ocs:C7008,
+        ocs:C11721 ;
     skos:closeMatch <http://dbpedia.org/resource/Echolocation_jamming> ;
     skos:prefLabel "Echolocation jamming" ;
     skos:related ocs:C18366,

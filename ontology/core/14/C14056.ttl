@@ -2,11 +2,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14056 a skos:Concept ;
-    skos:broader ocs:C10566,
+    skos:broader ocs:C248,
         ocs:C1566,
         ocs:C2005,
-        ocs:C248,
         ocs:C2801,
-        ocs:C7021 ;
+        ocs:C7021,
+        ocs:C10566 ;
     skos:prefLabel "Support vector machines face recognition" .
 

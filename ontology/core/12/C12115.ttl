@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12115 a skos:Concept ;
-    skos:broader ocs:C15,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C15 ;
     skos:closeMatch <http://dbpedia.org/resource/Hierarchical_INTegration> ;
     skos:prefLabel "Hierarchical INTegration" ;
-    skos:related ocs:C13151,
+    skos:related ocs:C15,
         ocs:C1414,
-        ocs:C15,
+        ocs:C3141,
+        ocs:C5205,
+        ocs:C7735,
+        ocs:C9245,
+        ocs:C13151,
         ocs:C22554,
         ocs:C23022,
         ocs:C25043,
         ocs:C26030,
         ocs:C26367,
         ocs:C29418,
-        ocs:C3141,
         ocs:C39621,
-        ocs:C44730,
-        ocs:C5205,
-        ocs:C7735,
-        ocs:C9245 .
+        ocs:C44730 .
 

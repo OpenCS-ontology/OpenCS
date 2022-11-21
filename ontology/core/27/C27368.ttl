@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27368 a skos:Concept ;
-    skos:broader ocs:C10327,
-        ocs:C6531,
+    skos:broader ocs:C6531,
         ocs:C6941,
         ocs:C8751,
-        ocs:C8753 ;
+        ocs:C8753,
+        ocs:C10327 ;
     skos:prefLabel "Equational programming" .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14165 a skos:Concept ;
-    skos:broader ocs:C13857,
-        ocs:C4197 ;
+    skos:broader ocs:C4197,
+        ocs:C13857 ;
     skos:closeMatch <http://dbpedia.org/resource/Cisco_Catalyst> ;
     skos:prefLabel "Cisco Catalyst" ;
-    skos:related ocs:C10503,
+    skos:related ocs:C26,
+        ocs:C490,
+        ocs:C1637,
+        ocs:C2917,
+        ocs:C3428,
+        ocs:C4197,
+        ocs:C5343,
+        ocs:C5840,
+        ocs:C7857,
+        ocs:C10503,
         ocs:C11106,
         ocs:C13786,
         ocs:C13857,
         ocs:C15589,
-        ocs:C1637,
         ocs:C19350,
         ocs:C19722,
         ocs:C24563,
-        ocs:C26,
-        ocs:C2917,
-        ocs:C3428,
         ocs:C38894,
-        ocs:C4197,
         ocs:C42584,
-        ocs:C44663,
-        ocs:C490,
-        ocs:C5343,
-        ocs:C5840,
-        ocs:C7857 .
+        ocs:C44663 .
 

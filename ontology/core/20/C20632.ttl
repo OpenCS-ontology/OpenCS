@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20632 a skos:Concept ;
-    skos:broader ocs:C5293,
-        ocs:C81 ;
+    skos:broader ocs:C81,
+        ocs:C5293 ;
     skos:closeMatch <http://dbpedia.org/resource/Exploration_of_Mercury> ;
     skos:prefLabel "Exploration of Mercury" ;
-    skos:related ocs:C19614,
+    skos:related ocs:C81,
         ocs:C2252,
+        ocs:C3952,
+        ocs:C19614,
         ocs:C25126,
         ocs:C26021,
-        ocs:C26842,
-        ocs:C3952,
-        ocs:C81 .
+        ocs:C26842 .
 

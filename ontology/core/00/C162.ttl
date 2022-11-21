@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C162 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Jaguar_(supercomputer)> ;
     skos:prefLabel "Jaguar" ;
-    skos:related ocs:C14257,
+    skos:related ocs:C27,
+        ocs:C750,
+        ocs:C2478,
+        ocs:C7735,
+        ocs:C8785,
+        ocs:C14257,
         ocs:C16231,
         ocs:C20959,
         ocs:C21883,
         ocs:C23292,
         ocs:C24207,
-        ocs:C2478,
         ocs:C24785,
         ocs:C26030,
         ocs:C26342,
         ocs:C26345,
-        ocs:C27,
         ocs:C40330,
-        ocs:C44583,
-        ocs:C750,
-        ocs:C7735,
-        ocs:C8785 .
+        ocs:C44583 .
 

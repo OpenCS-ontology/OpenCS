@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20264 a skos:Concept ;
-    skos:broader ocs:C12257,
-        ocs:C1253 ;
+    skos:broader ocs:C1253,
+        ocs:C12257 ;
     skos:closeMatch <http://dbpedia.org/resource/Source_code_escrow> ;
     skos:prefLabel "Source code escrow" ;
-    skos:related ocs:C11293,
-        ocs:C12257,
+    skos:related ocs:C9,
+        ocs:C620,
         ocs:C1253,
+        ocs:C2543,
+        ocs:C7170,
+        ocs:C7511,
+        ocs:C9931,
+        ocs:C11293,
+        ocs:C12257,
         ocs:C14002,
         ocs:C18258,
-        ocs:C2543,
         ocs:C27996,
         ocs:C31489,
         ocs:C35608,
         ocs:C35701,
-        ocs:C39522,
-        ocs:C620,
-        ocs:C7170,
-        ocs:C7511,
-        ocs:C9,
-        ocs:C9931 .
+        ocs:C39522 .
 

@@ -3,11 +3,17 @@
 
 ocs:C10076 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C33,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Legacy_mode> ;
     skos:prefLabel "Legacy mode" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C567,
+        ocs:C5147,
+        ocs:C6190,
+        ocs:C8345,
+        ocs:C8718,
+        ocs:C10320,
         ocs:C12323,
         ocs:C13022,
         ocs:C15167,
@@ -15,11 +21,5 @@ ocs:C10076 a skos:Concept ;
         ocs:C21399,
         ocs:C22508,
         ocs:C24871,
-        ocs:C31489,
-        ocs:C5147,
-        ocs:C567,
-        ocs:C6190,
-        ocs:C8345,
-        ocs:C8718,
-        ocs:C9 .
+        ocs:C31489 .
 

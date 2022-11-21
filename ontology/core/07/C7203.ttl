@@ -2,11 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7203 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/SDXF> ;
     skos:prefLabel "SDXF" ;
-    skos:related ocs:C10822,
+    skos:related ocs:C3896,
+        ocs:C5192,
+        ocs:C5308,
+        ocs:C6309,
+        ocs:C7476,
+        ocs:C8511,
+        ocs:C9836,
+        ocs:C10822,
         ocs:C11531,
         ocs:C11927,
         ocs:C13068,
@@ -15,12 +22,5 @@ ocs:C7203 a skos:Concept ;
         ocs:C15902,
         ocs:C22266,
         ocs:C27982,
-        ocs:C28591,
-        ocs:C3896,
-        ocs:C5192,
-        ocs:C5308,
-        ocs:C6309,
-        ocs:C7476,
-        ocs:C8511,
-        ocs:C9836 .
+        ocs:C28591 .
 

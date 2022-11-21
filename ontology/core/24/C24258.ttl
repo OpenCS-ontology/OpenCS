@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24258 a skos:Concept ;
-    skos:broader ocs:C13750,
-        ocs:C7106 ;
+    skos:broader ocs:C7106,
+        ocs:C13750 ;
     skos:closeMatch <http://dbpedia.org/resource/Visual_extinction> ;
     skos:prefLabel "Visual extinction" .
 

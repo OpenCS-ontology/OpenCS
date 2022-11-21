@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3211 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C34,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31,
+        ocs:C34 ;
     skos:prefLabel "Ibm watson" .
 

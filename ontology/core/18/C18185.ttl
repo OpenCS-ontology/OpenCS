@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18185 a skos:Concept ;
-    skos:broader ocs:C10639,
-        ocs:C5037,
-        ocs:C7502 ;
+    skos:broader ocs:C5037,
+        ocs:C7502,
+        ocs:C10639 ;
     skos:closeMatch <http://dbpedia.org/resource/Snake-in-the-box> ;
     skos:prefLabel "Snake-in-the-box" ;
     skos:related ocs:C1086,
+        ocs:C5037,
+        ocs:C6402,
         ocs:C14693,
         ocs:C16528,
         ocs:C30401,
@@ -24,7 +26,5 @@ ocs:C18185 a skos:Concept ;
         ocs:C44221,
         ocs:C44250,
         ocs:C44935,
-        ocs:C45670,
-        ocs:C5037,
-        ocs:C6402 .
+        ocs:C45670 .
 

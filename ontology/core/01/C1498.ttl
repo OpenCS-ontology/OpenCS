@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1498 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Hypertext> ;
     skos:prefLabel "Hypertext" ;
-    skos:related ocs:C11334,
-        ocs:C13608,
+    skos:related ocs:C6,
         ocs:C17,
-        ocs:C17235,
+        ocs:C31,
         ocs:C176,
+        ocs:C2464,
+        ocs:C5702,
+        ocs:C8614,
+        ocs:C11334,
+        ocs:C13608,
+        ocs:C17235,
         ocs:C17804,
         ocs:C18734,
         ocs:C22597,
         ocs:C22849,
-        ocs:C2464,
         ocs:C24783,
         ocs:C26337,
         ocs:C28117,
         ocs:C28801,
         ocs:C28881,
-        ocs:C31,
-        ocs:C40049,
-        ocs:C5702,
-        ocs:C6,
-        ocs:C8614 .
+        ocs:C40049 .
 

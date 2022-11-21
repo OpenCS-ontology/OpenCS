@@ -5,7 +5,9 @@ ocs:C27826 a skos:Concept ;
     skos:broader ocs:C8864 ;
     skos:closeMatch <http://dbpedia.org/resource/Iterator_pattern> ;
     skos:prefLabel "Iterator pattern" ;
-    skos:related ocs:C10182,
+    skos:related ocs:C8864,
+        ocs:C9535,
+        ocs:C10182,
         ocs:C10608,
         ocs:C10720,
         ocs:C10862,
@@ -20,7 +22,5 @@ ocs:C27826 a skos:Concept ;
         ocs:C36628,
         ocs:C36729,
         ocs:C37822,
-        ocs:C44286,
-        ocs:C8864,
-        ocs:C9535 .
+        ocs:C44286 .
 

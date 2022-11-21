@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1680 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C23,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_search_process> ;
     skos:prefLabel "Information search process" ;
-    skos:related ocs:C10507,
-        ocs:C11182,
-        ocs:C14238,
-        ocs:C27031,
-        ocs:C27094,
-        ocs:C4762,
+    skos:related ocs:C4762,
         ocs:C6915,
         ocs:C8200,
         ocs:C8990,
-        ocs:C9704 .
+        ocs:C9704,
+        ocs:C10507,
+        ocs:C11182,
+        ocs:C14238,
+        ocs:C27031,
+        ocs:C27094 .
 

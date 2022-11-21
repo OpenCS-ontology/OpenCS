@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19291 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C7733 ;
+    skos:broader ocs:C7733,
+        ocs:C12098 ;
     skos:closeMatch <http://dbpedia.org/resource/PlusCal> ;
     skos:prefLabel "PlusCal" ;
-    skos:related ocs:C12780,
+    skos:related ocs:C27,
+        ocs:C30,
+        ocs:C2177,
+        ocs:C4918,
+        ocs:C6022,
+        ocs:C6346,
+        ocs:C7797,
+        ocs:C12780,
         ocs:C12852,
         ocs:C13206,
         ocs:C14950,
         ocs:C18566,
         ocs:C21264,
-        ocs:C2177,
         ocs:C26752,
-        ocs:C27,
         ocs:C29869,
-        ocs:C30,
         ocs:C30700,
         ocs:C34712,
         ocs:C37681,
         ocs:C38725,
-        ocs:C40062,
-        ocs:C4918,
-        ocs:C6022,
-        ocs:C6346,
-        ocs:C7797 .
+        ocs:C40062 .
 

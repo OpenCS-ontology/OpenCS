@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13372 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Batch_processing> ;
     skos:prefLabel "Batch processing" ;
-    skos:related ocs:C10320,
-        ocs:C10772,
+    skos:related ocs:C6,
+        ocs:C9,
+        ocs:C19,
         ocs:C1130,
         ocs:C1253,
         ocs:C1386,
-        ocs:C14271,
-        ocs:C19,
-        ocs:C22878,
         ocs:C2353,
-        ocs:C28881,
-        ocs:C30078,
         ocs:C3036,
-        ocs:C31489,
         ocs:C5702,
-        ocs:C6,
         ocs:C6072,
         ocs:C6714,
-        ocs:C9,
-        ocs:C9035 .
+        ocs:C9035,
+        ocs:C10320,
+        ocs:C10772,
+        ocs:C14271,
+        ocs:C22878,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C31489 .
 

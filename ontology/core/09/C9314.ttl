@@ -2,18 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9314 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Progressive_refinement> ;
     skos:prefLabel "Progressive refinement" ;
-    skos:related ocs:C11234,
+    skos:related ocs:C22,
+        ocs:C2881,
+        ocs:C7699,
+        ocs:C8021,
+        ocs:C11234,
         ocs:C12012,
         ocs:C19041,
-        ocs:C22,
         ocs:C22983,
         ocs:C27616,
-        ocs:C2881,
         ocs:C29600,
         ocs:C29796,
         ocs:C30271,
@@ -22,7 +24,5 @@ ocs:C9314 a skos:Concept ;
         ocs:C39310,
         ocs:C40693,
         ocs:C42371,
-        ocs:C44165,
-        ocs:C7699,
-        ocs:C8021 .
+        ocs:C44165 .
 

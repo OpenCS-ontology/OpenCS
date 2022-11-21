@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21983 a skos:Concept ;
-    skos:broader ocs:C13685,
-        ocs:C2250 ;
+    skos:broader ocs:C2250,
+        ocs:C13685 ;
     skos:closeMatch <http://dbpedia.org/resource/Pseudolikelihood> ;
     skos:prefLabel "Pseudolikelihood" ;
-    skos:related ocs:C10222,
+    skos:related ocs:C2874,
+        ocs:C6021,
+        ocs:C10222,
         ocs:C12748,
         ocs:C19174,
         ocs:C26265,
         ocs:C28074,
-        ocs:C2874,
         ocs:C29461,
         ocs:C30115,
         ocs:C30864,
         ocs:C38829,
-        ocs:C41362,
-        ocs:C6021 .
+        ocs:C41362 .
 

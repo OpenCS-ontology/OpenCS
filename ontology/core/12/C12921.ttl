@@ -2,11 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12921 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Common_ISDN_Application_Programming_Interface> ;
     skos:prefLabel "Common ISDN Application Programming Interface" ;
-    skos:related ocs:C1210,
+    skos:related ocs:C9,
+        ocs:C1210,
+        ocs:C2917,
+        ocs:C2982,
+        ocs:C3966,
+        ocs:C6821,
+        ocs:C6861,
+        ocs:C8087,
+        ocs:C9931,
         ocs:C14152,
         ocs:C15589,
         ocs:C19350,
@@ -14,14 +22,6 @@ ocs:C12921 a skos:Concept ;
         ocs:C22669,
         ocs:C26809,
         ocs:C28881,
-        ocs:C2917,
-        ocs:C2982,
         ocs:C34719,
-        ocs:C38753,
-        ocs:C3966,
-        ocs:C6821,
-        ocs:C6861,
-        ocs:C8087,
-        ocs:C9,
-        ocs:C9931 .
+        ocs:C38753 .
 

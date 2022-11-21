@@ -6,7 +6,10 @@ ocs:C23082 a skos:Concept ;
         ocs:C4597 ;
     skos:closeMatch <http://dbpedia.org/resource/Traffic_collision_avoidance_system> ;
     skos:prefLabel "Traffic collision avoidance system" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C511,
+        ocs:C4597,
+        ocs:C5030,
+        ocs:C12641,
         ocs:C13785,
         ocs:C15050,
         ocs:C16585,
@@ -17,8 +20,5 @@ ocs:C23082 a skos:Concept ;
         ocs:C28020,
         ocs:C31202,
         ocs:C36681,
-        ocs:C36804,
-        ocs:C4597,
-        ocs:C5030,
-        ocs:C511 .
+        ocs:C36804 .
 

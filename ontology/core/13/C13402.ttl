@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13402 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C11,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Home_energy_monitor> ;
     skos:prefLabel "Home energy monitor" ;
-    skos:related ocs:C11153,
-        ocs:C1626,
+    skos:related ocs:C1626,
+        ocs:C7740,
+        ocs:C8386,
+        ocs:C11153,
         ocs:C21317,
         ocs:C24065,
-        ocs:C24892,
-        ocs:C7740,
-        ocs:C8386 .
+        ocs:C24892 .
 

@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22852 a skos:Concept ;
-    skos:broader ocs:C10390,
-        ocs:C5197 ;
+    skos:broader ocs:C5197,
+        ocs:C10390 ;
     skos:closeMatch <http://dbpedia.org/resource/Firefly_algorithm> ;
     skos:prefLabel "Firefly algorithm" ;
-    skos:related ocs:C10390,
+    skos:related ocs:C5197,
+        ocs:C5704,
+        ocs:C7553,
+        ocs:C9022,
+        ocs:C10390,
         ocs:C11746,
         ocs:C12530,
         ocs:C13208,
@@ -21,9 +25,5 @@ ocs:C22852 a skos:Concept ;
         ocs:C33291,
         ocs:C37049,
         ocs:C38436,
-        ocs:C39152,
-        ocs:C5197,
-        ocs:C5704,
-        ocs:C7553,
-        ocs:C9022 .
+        ocs:C39152 .
 

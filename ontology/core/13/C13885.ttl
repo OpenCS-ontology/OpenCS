@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13885 a skos:Concept ;
-    skos:broader ocs:C10390,
+    skos:broader ocs:C1134,
+        ocs:C10390,
         ocs:C10502,
-        ocs:C1134,
         ocs:C11372 ;
     skos:prefLabel "Sequential ordering problem" .
 

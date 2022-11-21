@@ -2,16 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8620 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Byte_order_mark> ;
     skos:prefLabel "Byte order mark" ;
-    skos:related ocs:C11927,
+    skos:related ocs:C2078,
+        ocs:C3398,
+        ocs:C5126,
+        ocs:C9162,
+        ocs:C11927,
         ocs:C13253,
         ocs:C13704,
         ocs:C14271,
         ocs:C14557,
-        ocs:C2078,
         ocs:C21496,
         ocs:C23162,
         ocs:C23560,
@@ -20,8 +23,5 @@ ocs:C8620 a skos:Concept ;
         ocs:C30504,
         ocs:C32013,
         ocs:C33894,
-        ocs:C3398,
-        ocs:C40665,
-        ocs:C5126,
-        ocs:C9162 .
+        ocs:C40665 .
 

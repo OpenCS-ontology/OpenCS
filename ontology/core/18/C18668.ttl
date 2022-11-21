@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18668 a skos:Concept ;
-    skos:broader ocs:C1496,
-        ocs:C5613,
-        ocs:C661 ;
+    skos:broader ocs:C661,
+        ocs:C1496,
+        ocs:C5613 ;
     skos:prefLabel "Distributed object computing" .
 

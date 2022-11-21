@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8458 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C5 ;
+    skos:broader ocs:C5,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Cyberwarfare> ;
     skos:prefLabel "Cyberwarfare" ;
-    skos:related ocs:C10191,
-        ocs:C11146,
-        ocs:C14466,
+    skos:related ocs:C35,
         ocs:C1502,
-        ocs:C17046,
-        ocs:C17873,
-        ocs:C27557,
         ocs:C2941,
-        ocs:C29663,
-        ocs:C30412,
-        ocs:C30563,
-        ocs:C35,
         ocs:C3815,
         ocs:C7113,
         ocs:C8025,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10191,
+        ocs:C11146,
+        ocs:C14466,
+        ocs:C17046,
+        ocs:C17873,
+        ocs:C27557,
+        ocs:C29663,
+        ocs:C30412,
+        ocs:C30563 .
 

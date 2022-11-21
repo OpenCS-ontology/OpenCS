@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1414 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Surveillance_performance_index> ;
     skos:prefLabel "Surveillance performance index" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C3141,
+        ocs:C5205,
+        ocs:C8298,
+        ocs:C9267,
+        ocs:C10320,
         ocs:C12115,
         ocs:C18797,
         ocs:C23022,
@@ -15,13 +19,9 @@ ocs:C1414 a skos:Concept ;
         ocs:C29359,
         ocs:C29418,
         ocs:C30689,
-        ocs:C3141,
         ocs:C31772,
         ocs:C37997,
         ocs:C38894,
         ocs:C39890,
-        ocs:C44730,
-        ocs:C5205,
-        ocs:C8298,
-        ocs:C9267 .
+        ocs:C44730 .
 

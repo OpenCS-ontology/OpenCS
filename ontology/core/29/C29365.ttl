@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29365 a skos:Concept ;
-    skos:broader ocs:C12580,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12580 ;
     skos:closeMatch <http://dbpedia.org/resource/Active_pixel_sensor> ;
     skos:prefLabel "CMOS sensor" ;
-    skos:related ocs:C10700,
+    skos:related ocs:C4448,
+        ocs:C6075,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C10700,
         ocs:C11324,
         ocs:C12580,
         ocs:C13065,
@@ -14,9 +18,5 @@ ocs:C29365 a skos:Concept ;
         ocs:C22066,
         ocs:C29172,
         ocs:C39878,
-        ocs:C43094,
-        ocs:C4448,
-        ocs:C6075,
-        ocs:C7789,
-        ocs:C8021 .
+        ocs:C43094 .
 

@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5143 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/WiBro> ;
     skos:prefLabel "WiBro" ;
-    skos:related ocs:C15774,
+    skos:related ocs:C4197,
+        ocs:C9113,
+        ocs:C15774,
         ocs:C19350,
         ocs:C19721,
         ocs:C24558,
@@ -19,10 +21,8 @@ ocs:C5143 a skos:Concept ;
         ocs:C37037,
         ocs:C37303,
         ocs:C41460,
-        ocs:C4197,
         ocs:C42210,
         ocs:C43573,
         ocs:C44055,
-        ocs:C44538,
-        ocs:C9113 .
+        ocs:C44538 .
 

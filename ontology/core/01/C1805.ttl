@@ -2,17 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1805 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Underscore> ;
     skos:prefLabel "Underscore" ;
-    skos:related ocs:C10284,
-        ocs:C11288,
-        ocs:C12983,
+    skos:related ocs:C19,
         ocs:C1860,
-        ocs:C19,
-        ocs:C24544,
-        ocs:C25563,
         ocs:C3398,
         ocs:C4922,
         ocs:C5113,
@@ -21,5 +16,10 @@ ocs:C1805 a skos:Concept ;
         ocs:C6258,
         ocs:C6416,
         ocs:C7131,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C10284,
+        ocs:C11288,
+        ocs:C12983,
+        ocs:C24544,
+        ocs:C25563 .
 

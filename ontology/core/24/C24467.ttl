@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24467 a skos:Concept ;
-    skos:broader ocs:C10275,
-        ocs:C5854 ;
+    skos:broader ocs:C5854,
+        ocs:C10275 ;
     skos:closeMatch <http://dbpedia.org/resource/Panchromatic_film> ;
     skos:prefLabel "Panchromatic film" ;
-    skos:related ocs:C10275,
+    skos:related ocs:C966,
+        ocs:C10275,
         ocs:C12053,
         ocs:C12473,
-        ocs:C42852,
-        ocs:C966 .
+        ocs:C42852 .
 

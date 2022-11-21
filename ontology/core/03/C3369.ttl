@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3369 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C22 ;
     skos:prefLabel "Japanese chess" ;
-    skos:related ocs:C1134,
-        ocs:C13317,
-        ocs:C13610,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C17,
-        ocs:C2192,
         ocs:C22,
         ocs:C25,
-        ocs:C29055,
         ocs:C33,
+        ocs:C1134,
+        ocs:C2192,
         ocs:C8499,
         ocs:C8614,
-        ocs:C8753 .
+        ocs:C8753,
+        ocs:C13317,
+        ocs:C13610,
+        ocs:C29055 .
 

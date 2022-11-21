@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10667 a skos:Concept ;
-    skos:broader ocs:C33,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C33,
+        ocs:C35 ;
     skos:prefLabel "Reporting source" ;
     skos:related ocs:C1,
+        ocs:C5,
+        ocs:C6,
         ocs:C12,
         ocs:C26,
         ocs:C35,
         ocs:C4099,
-        ocs:C5,
-        ocs:C5702,
-        ocs:C6 .
+        ocs:C5702 .
 

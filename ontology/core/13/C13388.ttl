@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13388 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C23,
+        ocs:C31 ;
     skos:prefLabel "Book Classification" ;
-    skos:related ocs:C10220,
-        ocs:C12317,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C25,
         ocs:C34,
         ocs:C6023,
         ocs:C6749,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10220,
+        ocs:C12317 .
 

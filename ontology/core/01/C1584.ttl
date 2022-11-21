@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1584 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C30,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C24,
+        ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Cooperative_distributed_problem_solving> ;
     skos:prefLabel "Cooperative distributed problem solving" ;
-    skos:related ocs:C10997,
+    skos:related ocs:C2579,
+        ocs:C5673,
+        ocs:C9373,
+        ocs:C10997,
         ocs:C12304,
         ocs:C13610,
         ocs:C19376,
         ocs:C23770,
-        ocs:C2579,
         ocs:C27965,
         ocs:C29173,
-        ocs:C37586,
-        ocs:C5673,
-        ocs:C9373 .
+        ocs:C37586 .
 

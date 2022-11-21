@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6886 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C17,
         ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Laserdisc_player> ;
     skos:prefLabel "Laserdisc player" ;
-    skos:related ocs:C10785,
-        ocs:C11040,
-        ocs:C12430,
-        ocs:C22680,
-        ocs:C2473,
+    skos:related ocs:C2473,
         ocs:C3022,
-        ocs:C35988,
         ocs:C3636,
         ocs:C4448,
         ocs:C4725,
         ocs:C4916,
-        ocs:C7255 .
+        ocs:C7255,
+        ocs:C10785,
+        ocs:C11040,
+        ocs:C12430,
+        ocs:C22680,
+        ocs:C35988 .
 

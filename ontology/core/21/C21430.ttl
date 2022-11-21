@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21430 a skos:Concept ;
-    skos:broader ocs:C11635,
-        ocs:C6545 ;
+    skos:broader ocs:C6545,
+        ocs:C11635 ;
     skos:closeMatch <http://dbpedia.org/resource/Negative_verb> ;
     skos:prefLabel "Negative verb" ;
-    skos:related ocs:C20016,
+    skos:related ocs:C6545,
+        ocs:C7183,
+        ocs:C7501,
+        ocs:C7793,
+        ocs:C20016,
         ocs:C22126,
         ocs:C24499,
         ocs:C25169,
@@ -14,9 +18,5 @@ ocs:C21430 a skos:Concept ;
         ocs:C31787,
         ocs:C32159,
         ocs:C34204,
-        ocs:C35238,
-        ocs:C6545,
-        ocs:C7183,
-        ocs:C7501,
-        ocs:C7793 .
+        ocs:C35238 .
 

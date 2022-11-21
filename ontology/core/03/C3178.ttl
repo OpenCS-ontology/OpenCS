@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3178 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Unified_communications> ;
     skos:prefLabel "Unified communications" ;
-    skos:related ocs:C10225,
-        ocs:C13514,
+    skos:related ocs:C3,
         ocs:C16,
         ocs:C197,
+        ocs:C279,
+        ocs:C420,
+        ocs:C7106,
+        ocs:C8515,
+        ocs:C8614,
+        ocs:C10225,
+        ocs:C13514,
         ocs:C20540,
         ocs:C22407,
-        ocs:C279,
         ocs:C28758,
-        ocs:C3,
         ocs:C30005,
         ocs:C34631,
         ocs:C35499,
         ocs:C35701,
-        ocs:C40504,
-        ocs:C420,
-        ocs:C7106,
-        ocs:C8515,
-        ocs:C8614 .
+        ocs:C40504 .
 

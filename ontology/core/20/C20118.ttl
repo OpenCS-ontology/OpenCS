@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20118 a skos:Concept ;
-    skos:broader ocs:C10616,
-        ocs:C6749 ;
+    skos:broader ocs:C6749,
+        ocs:C10616 ;
     skos:closeMatch <http://dbpedia.org/resource/Legal_expert_system> ;
     skos:prefLabel "Legal expert system" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
+        ocs:C651,
+        ocs:C852,
+        ocs:C1722,
+        ocs:C2580,
+        ocs:C3900,
+        ocs:C4269,
+        ocs:C7311,
+        ocs:C7409,
+        ocs:C10616,
         ocs:C11724,
         ocs:C12977,
         ocs:C15444,
         ocs:C16802,
-        ocs:C1722,
         ocs:C21269,
         ocs:C23183,
         ocs:C23248,
-        ocs:C2580,
         ocs:C27665,
-        ocs:C31008,
-        ocs:C3900,
-        ocs:C4269,
-        ocs:C651,
-        ocs:C7311,
-        ocs:C7409,
-        ocs:C8,
-        ocs:C852 .
+        ocs:C31008 .
 

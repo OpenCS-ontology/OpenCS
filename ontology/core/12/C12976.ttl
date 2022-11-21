@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12976 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C18,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Haptic_technology> ;
     skos:prefLabel "Haptic technology" ;
-    skos:related ocs:C10368,
+    skos:related ocs:C8,
+        ocs:C24,
+        ocs:C2417,
+        ocs:C5086,
+        ocs:C7736,
+        ocs:C7850,
+        ocs:C9603,
+        ocs:C10368,
         ocs:C10396,
         ocs:C13320,
         ocs:C17236,
         ocs:C21424,
         ocs:C21609,
-        ocs:C24,
-        ocs:C2417,
         ocs:C27445,
         ocs:C28881,
-        ocs:C44595,
-        ocs:C5086,
-        ocs:C7736,
-        ocs:C7850,
-        ocs:C8,
-        ocs:C9603 .
+        ocs:C44595 .
 

@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18580 a skos:Concept ;
-    skos:broader ocs:C12979,
-        ocs:C9601 ;
+    skos:broader ocs:C9601,
+        ocs:C12979 ;
     skos:closeMatch <http://dbpedia.org/resource/Microsoft_SenseCam> ;
     skos:prefLabel "Microsoft SenseCam" ;
-    skos:related ocs:C12979,
+    skos:related ocs:C6019,
+        ocs:C6788,
+        ocs:C7850,
+        ocs:C9601,
+        ocs:C12979,
         ocs:C13065,
         ocs:C17132,
         ocs:C19161,
@@ -15,9 +19,5 @@ ocs:C18580 a skos:Concept ;
         ocs:C28764,
         ocs:C29061,
         ocs:C31110,
-        ocs:C39979,
-        ocs:C6019,
-        ocs:C6788,
-        ocs:C7850,
-        ocs:C9601 .
+        ocs:C39979 .
 

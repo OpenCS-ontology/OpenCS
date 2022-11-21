@@ -5,7 +5,12 @@ ocs:C5667 a skos:Concept ;
     skos:broader ocs:C9 ;
     skos:closeMatch <http://dbpedia.org/resource/OCFS2> ;
     skos:prefLabel "OCFS2" ;
-    skos:related ocs:C10911,
+    skos:related ocs:C9,
+        ocs:C6312,
+        ocs:C6905,
+        ocs:C7476,
+        ocs:C9938,
+        ocs:C10911,
         ocs:C14271,
         ocs:C15477,
         ocs:C17533,
@@ -18,10 +23,5 @@ ocs:C5667 a skos:Concept ;
         ocs:C39186,
         ocs:C43345,
         ocs:C44617,
-        ocs:C45269,
-        ocs:C6312,
-        ocs:C6905,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9938 .
+        ocs:C45269 .
 

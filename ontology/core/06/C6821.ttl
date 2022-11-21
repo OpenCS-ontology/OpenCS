@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6821 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C30 ;
     skos:closeMatch <http://dbpedia.org/resource/Intelligent_Network> ;
     skos:prefLabel "Intelligent Network" ;
-    skos:related ocs:C22407,
-        ocs:C25293,
-        ocs:C27704,
-        ocs:C28470,
-        ocs:C28758,
+    skos:related ocs:C3,
         ocs:C2917,
-        ocs:C3,
-        ocs:C31755,
-        ocs:C37726,
         ocs:C3933,
-        ocs:C44880,
         ocs:C5917,
         ocs:C6027,
         ocs:C6987,
         ocs:C8872,
         ocs:C9113,
-        ocs:C9154 .
+        ocs:C9154,
+        ocs:C22407,
+        ocs:C25293,
+        ocs:C27704,
+        ocs:C28470,
+        ocs:C28758,
+        ocs:C31755,
+        ocs:C37726,
+        ocs:C44880 .
 

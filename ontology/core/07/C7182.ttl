@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7182 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Novell_Embedded_Systems_Technology> ;
     skos:prefLabel "Novell Embedded Systems Technology" ;
-    skos:related ocs:C10514,
+    skos:related ocs:C3,
+        ocs:C9,
         ocs:C11,
+        ocs:C490,
+        ocs:C686,
+        ocs:C2935,
+        ocs:C10514,
         ocs:C16953,
         ocs:C18862,
         ocs:C24348,
         ocs:C25172,
         ocs:C26769,
         ocs:C28881,
-        ocs:C2935,
         ocs:C29359,
         ocs:C29855,
-        ocs:C3,
         ocs:C32268,
         ocs:C35331,
         ocs:C39947,
         ocs:C40689,
-        ocs:C42612,
-        ocs:C490,
-        ocs:C686,
-        ocs:C9 .
+        ocs:C42612 .
 

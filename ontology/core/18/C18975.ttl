@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18975 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C122 ;
+    skos:broader ocs:C122,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Stochastic_cellular_automaton> ;
     skos:prefLabel "Stochastic cellular automaton" ;
     skos:related ocs:C122,
+        ocs:C6594,
+        ocs:C6909,
+        ocs:C7689,
+        ocs:C9373,
         ocs:C14123,
         ocs:C25461,
         ocs:C30864,
         ocs:C33043,
         ocs:C37437,
         ocs:C38273,
-        ocs:C42980,
-        ocs:C6594,
-        ocs:C6909,
-        ocs:C7689,
-        ocs:C9373 .
+        ocs:C42980 .
 

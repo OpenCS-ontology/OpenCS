@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6338 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Glossy_display> ;
     skos:prefLabel "Glossy display" ;
-    skos:related ocs:C21424,
-        ocs:C22257,
+    skos:related ocs:C653,
         ocs:C2241,
+        ocs:C3984,
+        ocs:C6083,
+        ocs:C8021,
+        ocs:C9605,
+        ocs:C21424,
+        ocs:C22257,
         ocs:C29012,
         ocs:C34356,
         ocs:C34909,
-        ocs:C36953,
-        ocs:C3984,
-        ocs:C6083,
-        ocs:C653,
-        ocs:C8021,
-        ocs:C9605 .
+        ocs:C36953 .
 

@@ -5,7 +5,9 @@ ocs:C23109 a skos:Concept ;
     skos:broader ocs:C8561 ;
     skos:closeMatch <http://dbpedia.org/resource/MMT_Observatory> ;
     skos:prefLabel "MMT Observatory" ;
-    skos:related ocs:C14006,
+    skos:related ocs:C597,
+        ocs:C8561,
+        ocs:C14006,
         ocs:C14268,
         ocs:C17174,
         ocs:C18230,
@@ -15,7 +17,5 @@ ocs:C23109 a skos:Concept ;
         ocs:C24698,
         ocs:C25028,
         ocs:C26524,
-        ocs:C32423,
-        ocs:C597,
-        ocs:C8561 .
+        ocs:C32423 .
 

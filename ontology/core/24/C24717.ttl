@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24717 a skos:Concept ;
-    skos:broader ocs:C12112,
-        ocs:C8664 ;
+    skos:broader ocs:C8664,
+        ocs:C12112 ;
     skos:closeMatch <http://dbpedia.org/resource/Chaotic_bubble> ;
     skos:prefLabel "Chaotic bubble" ;
     skos:related ocs:C13992,

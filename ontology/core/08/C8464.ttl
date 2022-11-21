@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8464 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Paragraph> ;
     skos:prefLabel "Paragraph" ;
-    skos:related ocs:C11699,
-        ocs:C12477,
-        ocs:C13577,
-        ocs:C13872,
-        ocs:C1860,
+    skos:related ocs:C1860,
         ocs:C2023,
-        ocs:C23011,
-        ocs:C25515,
-        ocs:C25563,
-        ocs:C28801,
         ocs:C5126,
         ocs:C6416,
         ocs:C9162,
-        ocs:C9606 .
+        ocs:C9606,
+        ocs:C11699,
+        ocs:C12477,
+        ocs:C13577,
+        ocs:C13872,
+        ocs:C23011,
+        ocs:C25515,
+        ocs:C25563,
+        ocs:C28801 .
 

@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6171 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Information_transfer> ;
     skos:prefLabel "Information transfer" ;
-    skos:related ocs:C1146,
+    skos:related ocs:C3,
+        ocs:C515,
+        ocs:C1146,
+        ocs:C2582,
+        ocs:C4099,
+        ocs:C6117,
+        ocs:C7502,
+        ocs:C8952,
         ocs:C12942,
         ocs:C13305,
         ocs:C15165,
         ocs:C24469,
-        ocs:C2582,
         ocs:C25930,
         ocs:C26814,
-        ocs:C3,
-        ocs:C37232,
-        ocs:C4099,
-        ocs:C515,
-        ocs:C6117,
-        ocs:C7502,
-        ocs:C8952 .
+        ocs:C37232 .
 

@@ -2,13 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1910 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Resident_set_size> ;
     skos:prefLabel "Resident set size" ;
     skos:related ocs:C1156,
         ocs:C1242,
+        ocs:C3985,
+        ocs:C5337,
+        ocs:C7900,
+        ocs:C8782,
+        ocs:C9600,
         ocs:C13228,
         ocs:C17698,
         ocs:C23864,
@@ -16,15 +21,10 @@ ocs:C1910 a skos:Concept ;
         ocs:C30866,
         ocs:C36439,
         ocs:C38819,
-        ocs:C3985,
         ocs:C40313,
         ocs:C40322,
         ocs:C40529,
         ocs:C41696,
         ocs:C42252,
-        ocs:C42695,
-        ocs:C5337,
-        ocs:C7900,
-        ocs:C8782,
-        ocs:C9600 .
+        ocs:C42695 .
 

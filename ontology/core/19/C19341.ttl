@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19341 a skos:Concept ;
-    skos:broader ocs:C13253,
-        ocs:C7917 ;
+    skos:broader ocs:C7917,
+        ocs:C13253 ;
     skos:closeMatch <http://dbpedia.org/resource/Shift_JIS> ;
     skos:prefLabel "Shift JIS" ;
-    skos:related ocs:C13253,
-        ocs:C13704,
-        ocs:C23560,
-        ocs:C24544,
-        ocs:C33894,
-        ocs:C40665,
-        ocs:C5126,
+    skos:related ocs:C5126,
         ocs:C6189,
         ocs:C7446,
         ocs:C7966,
         ocs:C9162,
-        ocs:C9598 .
+        ocs:C9598,
+        ocs:C13253,
+        ocs:C13704,
+        ocs:C23560,
+        ocs:C24544,
+        ocs:C33894,
+        ocs:C40665 .
 

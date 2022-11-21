@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8790 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
+    skos:broader ocs:C2,
+        ocs:C19,
         ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Identifier> ;
     skos:prefLabel "Identifier" ;
-    skos:related ocs:C10182,
-        ocs:C10284,
-        ocs:C10408,
-        ocs:C11086,
-        ocs:C12257,
-        ocs:C1333,
-        ocs:C17204,
+    skos:related ocs:C6,
         ocs:C19,
-        ocs:C2057,
-        ocs:C20957,
         ocs:C220,
+        ocs:C1333,
+        ocs:C2057,
         ocs:C3036,
         ocs:C3896,
         ocs:C4321,
         ocs:C4937,
-        ocs:C6,
         ocs:C6255,
         ocs:C6714,
-        ocs:C9162 .
+        ocs:C9162,
+        ocs:C10182,
+        ocs:C10284,
+        ocs:C10408,
+        ocs:C11086,
+        ocs:C12257,
+        ocs:C17204,
+        ocs:C20957 .
 

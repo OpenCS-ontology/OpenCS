@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12446 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Raster_bar> ;
     skos:prefLabel "Raster bar" ;
-    skos:related ocs:C10642,
+    skos:related ocs:C44,
+        ocs:C2434,
+        ocs:C6584,
+        ocs:C9027,
+        ocs:C9262,
+        ocs:C10642,
         ocs:C12261,
         ocs:C15817,
         ocs:C16993,
         ocs:C21949,
-        ocs:C2434,
         ocs:C28061,
         ocs:C28172,
         ocs:C28280,
         ocs:C34890,
         ocs:C36598,
-        ocs:C40199,
-        ocs:C44,
-        ocs:C6584,
-        ocs:C9027,
-        ocs:C9262 .
+        ocs:C40199 .
 

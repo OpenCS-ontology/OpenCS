@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6608 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Silhouette_(clustering)> ;
     skos:prefLabel "Silhouette" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C8271,
+        ocs:C9594,
+        ocs:C10382,
         ocs:C14252,
         ocs:C14322,
         ocs:C20811,
@@ -23,7 +25,5 @@ ocs:C6608 a skos:Concept ;
         ocs:C38213,
         ocs:C42682,
         ocs:C42787,
-        ocs:C45859,
-        ocs:C8271,
-        ocs:C9594 .
+        ocs:C45859 .
 

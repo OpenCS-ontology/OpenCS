@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3481 a skos:Concept ;
-    skos:broader ocs:C13,
-        ocs:C23,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C13,
+        ocs:C23 ;
     skos:prefLabel "Event retrieval" .
 

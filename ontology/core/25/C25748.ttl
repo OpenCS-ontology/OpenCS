@@ -2,10 +2,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25748 a skos:Concept ;
-    skos:broader ocs:C12099,
-        ocs:C3401,
+    skos:broader ocs:C3401,
         ocs:C3515,
-        ocs:C7825 ;
+        ocs:C7825,
+        ocs:C12099 ;
     skos:closeMatch <http://dbpedia.org/resource/Monadic_second-order_logic> ;
     skos:prefLabel "Monadic second-order logic" .
 

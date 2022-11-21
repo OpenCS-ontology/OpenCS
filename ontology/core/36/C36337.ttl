@@ -5,7 +5,12 @@ ocs:C36337 a skos:Concept ;
     skos:broader ocs:C28016 ;
     skos:closeMatch <http://dbpedia.org/resource/Inter-processor_interrupt> ;
     skos:prefLabel "Inter-processor interrupt" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C856,
+        ocs:C4804,
+        ocs:C4863,
+        ocs:C9262,
+        ocs:C10320,
         ocs:C10568,
         ocs:C12683,
         ocs:C12764,
@@ -18,10 +23,5 @@ ocs:C36337 a skos:Concept ;
         ocs:C39429,
         ocs:C39896,
         ocs:C40633,
-        ocs:C45375,
-        ocs:C4804,
-        ocs:C4863,
-        ocs:C856,
-        ocs:C9,
-        ocs:C9262 .
+        ocs:C45375 .
 

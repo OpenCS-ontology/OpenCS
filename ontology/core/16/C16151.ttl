@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16151 a skos:Concept ;
-    skos:broader ocs:C10973,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C10973 ;
     skos:closeMatch <http://dbpedia.org/resource/Pixelation> ;
     skos:prefLabel "Pixelation" ;
-    skos:related ocs:C1023,
+    skos:related ocs:C22,
+        ocs:C969,
+        ocs:C1023,
+        ocs:C1904,
+        ocs:C8021,
         ocs:C13155,
         ocs:C18519,
-        ocs:C1904,
         ocs:C20066,
         ocs:C21609,
-        ocs:C22,
         ocs:C28881,
         ocs:C29600,
         ocs:C33188,
         ocs:C34585,
         ocs:C41394,
         ocs:C41662,
-        ocs:C41932,
-        ocs:C8021,
-        ocs:C969 .
+        ocs:C41932 .
 

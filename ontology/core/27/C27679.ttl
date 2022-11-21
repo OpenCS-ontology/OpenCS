@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27679 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Flat-field_correction> ;
     skos:prefLabel "Flat-field correction" ;
-    skos:related ocs:C10318,
+    skos:related ocs:C6041,
+        ocs:C7789,
+        ocs:C8021,
+        ocs:C8246,
+        ocs:C10318,
         ocs:C10993,
         ocs:C12580,
         ocs:C13065,
@@ -14,9 +18,5 @@ ocs:C27679 a skos:Concept ;
         ocs:C28945,
         ocs:C42391,
         ocs:C42753,
-        ocs:C43094,
-        ocs:C6041,
-        ocs:C7789,
-        ocs:C8021,
-        ocs:C8246 .
+        ocs:C43094 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13180 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Collaborative_editing> ;
     skos:prefLabel "Collaborative editing" ;
-    skos:related ocs:C10225,
+    skos:related ocs:C672,
+        ocs:C1253,
+        ocs:C2981,
+        ocs:C3896,
+        ocs:C5876,
+        ocs:C7369,
+        ocs:C8614,
+        ocs:C10225,
         ocs:C11036,
         ocs:C11055,
         ocs:C11540,
         ocs:C11927,
         ocs:C12257,
-        ocs:C1253,
         ocs:C12810,
         ocs:C16369,
         ocs:C22668,
         ocs:C23866,
         ocs:C28801,
-        ocs:C2981,
-        ocs:C33863,
-        ocs:C3896,
-        ocs:C5876,
-        ocs:C672,
-        ocs:C7369,
-        ocs:C8614 .
+        ocs:C33863 .
 

@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2407 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Wirehead_(science_fiction)> ;
     skos:prefLabel "Wirehead" ;
-    skos:related ocs:C11329,
+    skos:related ocs:C2055,
+        ocs:C11329,
         ocs:C14032,
-        ocs:C18038,
-        ocs:C2055 .
+        ocs:C18038 .
 

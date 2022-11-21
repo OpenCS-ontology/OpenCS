@@ -5,12 +5,17 @@ ocs:C532 a skos:Concept ;
     skos:broader ocs:C8 ;
     skos:closeMatch <http://dbpedia.org/resource/Sussman_Anomaly> ;
     skos:prefLabel "Sussman Anomaly" ;
-    skos:related ocs:C13858,
+    skos:related ocs:C8,
+        ocs:C685,
+        ocs:C2200,
+        ocs:C5776,
+        ocs:C8086,
+        ocs:C9552,
+        ocs:C13858,
         ocs:C13982,
         ocs:C17345,
         ocs:C18078,
         ocs:C21264,
-        ocs:C2200,
         ocs:C23063,
         ocs:C26519,
         ocs:C29173,
@@ -18,10 +23,5 @@ ocs:C532 a skos:Concept ;
         ocs:C34321,
         ocs:C35500,
         ocs:C36544,
-        ocs:C43845,
-        ocs:C5776,
-        ocs:C685,
-        ocs:C8,
-        ocs:C8086,
-        ocs:C9552 .
+        ocs:C43845 .
 

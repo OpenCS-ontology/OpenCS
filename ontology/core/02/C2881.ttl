@@ -5,12 +5,14 @@ ocs:C2881 a skos:Concept ;
     skos:broader ocs:C7 ;
     skos:closeMatch <http://dbpedia.org/resource/Image_plane> ;
     skos:prefLabel "Image plane" ;
-    skos:related ocs:C12454,
+    skos:related ocs:C22,
+        ocs:C969,
+        ocs:C2662,
+        ocs:C8021,
+        ocs:C12454,
         ocs:C15632,
         ocs:C21609,
-        ocs:C22,
         ocs:C22398,
-        ocs:C2662,
         ocs:C27264,
         ocs:C29474,
         ocs:C29600,
@@ -19,7 +21,5 @@ ocs:C2881 a skos:Concept ;
         ocs:C39182,
         ocs:C39953,
         ocs:C42166,
-        ocs:C42716,
-        ocs:C8021,
-        ocs:C969 .
+        ocs:C42716 .
 

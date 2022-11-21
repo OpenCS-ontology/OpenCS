@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3809 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Internet_area_network> ;
     skos:prefLabel "Internet area network" ;
-    skos:related ocs:C1130,
+    skos:related ocs:C3,
+        ocs:C26,
+        ocs:C36,
+        ocs:C1130,
+        ocs:C2352,
+        ocs:C2935,
+        ocs:C6861,
+        ocs:C7106,
+        ocs:C9035,
         ocs:C12815,
         ocs:C16953,
         ocs:C19350,
-        ocs:C2352,
         ocs:C25133,
-        ocs:C26,
         ocs:C26161,
         ocs:C26809,
         ocs:C27570,
         ocs:C28758,
         ocs:C29274,
-        ocs:C2935,
-        ocs:C3,
-        ocs:C36,
         ocs:C36124,
-        ocs:C41461,
-        ocs:C6861,
-        ocs:C7106,
-        ocs:C9035 .
+        ocs:C41461 .
 

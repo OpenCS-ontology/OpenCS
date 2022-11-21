@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12389 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C28,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C19,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/Data-driven_programming> ;
     skos:prefLabel "Data-driven programming" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C3398,
+        ocs:C6941,
+        ocs:C8751,
+        ocs:C8864,
+        ocs:C10284,
         ocs:C10720,
         ocs:C11545,
         ocs:C16968,
-        ocs:C19,
         ocs:C23181,
         ocs:C23909,
         ocs:C28603,
         ocs:C31724,
         ocs:C33311,
-        ocs:C3398,
         ocs:C36601,
         ocs:C36972,
         ocs:C37447,
         ocs:C38237,
         ocs:C43888,
-        ocs:C45142,
-        ocs:C6941,
-        ocs:C8751,
-        ocs:C8864 .
+        ocs:C45142 .
 

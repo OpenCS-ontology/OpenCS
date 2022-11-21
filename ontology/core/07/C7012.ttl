@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7012 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/NEC_µPD7720> ;
     skos:prefLabel "NEC µPD7720" ;
-    skos:related ocs:C1149,
+    skos:related ocs:C566,
+        ocs:C1149,
+        ocs:C2478,
+        ocs:C3935,
+        ocs:C4863,
+        ocs:C7971,
+        ocs:C8579,
         ocs:C11814,
         ocs:C19556,
         ocs:C19994,
         ocs:C22448,
-        ocs:C2478,
         ocs:C26328,
         ocs:C29530,
         ocs:C31889,
-        ocs:C3935,
-        ocs:C43505,
-        ocs:C4863,
-        ocs:C566,
-        ocs:C7971,
-        ocs:C8579 .
+        ocs:C43505 .
 

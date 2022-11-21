@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2863 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Crash_(computing)> ;
     skos:prefLabel "Crash" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C9,
         ocs:C1083,
+        ocs:C6072,
+        ocs:C8455,
+        ocs:C8783,
+        ocs:C9425,
+        ocs:C10214,
         ocs:C17213,
         ocs:C23580,
         ocs:C24871,
@@ -16,10 +21,5 @@ ocs:C2863 a skos:Concept ;
         ocs:C36806,
         ocs:C40322,
         ocs:C42695,
-        ocs:C45069,
-        ocs:C6072,
-        ocs:C8455,
-        ocs:C8783,
-        ocs:C9,
-        ocs:C9425 .
+        ocs:C45069 .
 

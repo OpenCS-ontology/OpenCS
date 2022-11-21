@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4760 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_comparison> ;
     skos:prefLabel "File comparison" ;
-    skos:related ocs:C11927,
-        ocs:C12257,
-        ocs:C14271,
-        ocs:C14557,
+    skos:related ocs:C9,
         ocs:C1694,
-        ocs:C20840,
-        ocs:C21545,
-        ocs:C28881,
-        ocs:C30078,
         ocs:C3398,
-        ocs:C38603,
-        ocs:C39235,
         ocs:C5126,
         ocs:C5145,
         ocs:C6714,
         ocs:C7430,
-        ocs:C9,
         ocs:C9162,
-        ocs:C9782 .
+        ocs:C9782,
+        ocs:C11927,
+        ocs:C12257,
+        ocs:C14271,
+        ocs:C14557,
+        ocs:C20840,
+        ocs:C21545,
+        ocs:C28881,
+        ocs:C30078,
+        ocs:C38603,
+        ocs:C39235 .
 

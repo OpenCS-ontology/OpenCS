@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5431 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:prefLabel "Brain disorder diagnosis" ;
-    skos:related ocs:C20377,
+    skos:related ocs:C7,
         ocs:C21,
         ocs:C25,
-        ocs:C29175,
         ocs:C3063,
         ocs:C6756,
-        ocs:C7 .
+        ocs:C20377,
+        ocs:C29175 .
 

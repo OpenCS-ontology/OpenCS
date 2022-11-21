@@ -2,13 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C24247 a skos:Concept ;
-    skos:broader ocs:C13511,
-        ocs:C4756,
+    skos:broader ocs:C4756,
         ocs:C7903,
-        ocs:C8786 ;
+        ocs:C8786,
+        ocs:C13511 ;
     skos:closeMatch <http://dbpedia.org/resource/Larch_Prover> ;
     skos:prefLabel "Larch Prover" ;
-    skos:related ocs:C10273,
+    skos:related ocs:C4756,
+        ocs:C8534,
+        ocs:C9772,
+        ocs:C10273,
         ocs:C12474,
         ocs:C13511,
         ocs:C14986,
@@ -18,8 +21,5 @@ ocs:C24247 a skos:Concept ;
         ocs:C25442,
         ocs:C26635,
         ocs:C28286,
-        ocs:C45817,
-        ocs:C4756,
-        ocs:C8534,
-        ocs:C9772 .
+        ocs:C45817 .
 

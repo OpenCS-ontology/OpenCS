@@ -2,12 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3747 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Propagation_constraint> ;
     skos:prefLabel "Propagation constraint" ;
-    skos:related ocs:C10444,
+    skos:related ocs:C224,
+        ocs:C4028,
+        ocs:C10444,
         ocs:C11603,
         ocs:C12185,
         ocs:C12750,
@@ -17,12 +19,10 @@ ocs:C3747 a skos:Concept ;
         ocs:C17701,
         ocs:C18414,
         ocs:C20517,
-        ocs:C224,
         ocs:C23231,
         ocs:C26088,
         ocs:C28120,
         ocs:C30800,
         ocs:C33744,
-        ocs:C38452,
-        ocs:C4028 .
+        ocs:C38452 .
 

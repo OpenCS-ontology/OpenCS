@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2814 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C35,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_asset> ;
     skos:prefLabel "Digital asset" ;
-    skos:related ocs:C11531,
-        ocs:C12492,
-        ocs:C13095,
-        ocs:C15008,
-        ocs:C17,
-        ocs:C2135,
-        ocs:C21609,
+    skos:related ocs:C17,
         ocs:C22,
-        ocs:C22683,
-        ocs:C28881,
+        ocs:C797,
+        ocs:C2135,
         ocs:C3896,
         ocs:C4004,
         ocs:C4335,
         ocs:C6219,
         ocs:C6234,
-        ocs:C797,
-        ocs:C8069 .
+        ocs:C8069,
+        ocs:C11531,
+        ocs:C12492,
+        ocs:C13095,
+        ocs:C15008,
+        ocs:C21609,
+        ocs:C22683,
+        ocs:C28881 .
 

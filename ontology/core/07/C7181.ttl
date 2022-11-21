@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7181 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C28,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/ITSEC> ;
     skos:prefLabel "ITSEC" ;
-    skos:related ocs:C12052,
+    skos:related ocs:C35,
+        ocs:C3757,
+        ocs:C6906,
+        ocs:C12052,
         ocs:C17669,
         ocs:C17878,
         ocs:C18529,
@@ -15,14 +18,11 @@ ocs:C7181 a skos:Concept ;
         ocs:C27336,
         ocs:C31028,
         ocs:C33988,
-        ocs:C35,
         ocs:C35047,
         ocs:C35388,
-        ocs:C3757,
         ocs:C38399,
         ocs:C39372,
         ocs:C41226,
         ocs:C41901,
-        ocs:C45654,
-        ocs:C6906 .
+        ocs:C45654 .
 

@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1643 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/AI_effect> ;
     skos:prefLabel "AI effect" ;
     skos:related ocs:C1,
-        ocs:C10616,
-        ocs:C11033,
-        ocs:C11381,
-        ocs:C11874,
+        ocs:C7,
+        ocs:C8,
         ocs:C13,
         ocs:C25,
-        ocs:C27116,
-        ocs:C29292,
         ocs:C3077,
         ocs:C3848,
         ocs:C3900,
         ocs:C4269,
+        ocs:C9022,
+        ocs:C10616,
+        ocs:C11033,
+        ocs:C11381,
+        ocs:C11874,
+        ocs:C27116,
+        ocs:C29292,
         ocs:C43472,
-        ocs:C43845,
-        ocs:C7,
-        ocs:C8,
-        ocs:C9022 .
+        ocs:C43845 .
 

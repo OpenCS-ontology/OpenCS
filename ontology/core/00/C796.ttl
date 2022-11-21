@@ -3,11 +3,18 @@
 
 ocs:C796 a skos:Concept ;
     skos:broader ocs:C2,
-        ocs:C26,
-        ocs:C3 ;
+        ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Air_interface> ;
     skos:prefLabel "Air interface" ;
-    skos:related ocs:C1210,
+    skos:related ocs:C634,
+        ocs:C1210,
+        ocs:C4255,
+        ocs:C6987,
+        ocs:C7877,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C9332,
         ocs:C20116,
         ocs:C21976,
         ocs:C25712,
@@ -16,12 +23,5 @@ ocs:C796 a skos:Concept ;
         ocs:C31469,
         ocs:C37065,
         ocs:C37303,
-        ocs:C39175,
-        ocs:C4255,
-        ocs:C634,
-        ocs:C6987,
-        ocs:C7877,
-        ocs:C9113,
-        ocs:C9154,
-        ocs:C9332 .
+        ocs:C39175 .
 

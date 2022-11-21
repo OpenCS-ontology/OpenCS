@@ -5,11 +5,14 @@ ocs:C22508 a skos:Concept ;
     skos:broader ocs:C5147 ;
     skos:closeMatch <http://dbpedia.org/resource/Long_mode> ;
     skos:prefLabel "Long mode" ;
-    skos:related ocs:C10320,
+    skos:related ocs:C9,
+        ocs:C1251,
+        ocs:C5147,
+        ocs:C6542,
+        ocs:C10320,
         ocs:C10994,
         ocs:C11258,
         ocs:C12323,
-        ocs:C1251,
         ocs:C14162,
         ocs:C19487,
         ocs:C25171,
@@ -19,8 +22,5 @@ ocs:C22508 a skos:Concept ;
         ocs:C38819,
         ocs:C39623,
         ocs:C39896,
-        ocs:C41696,
-        ocs:C5147,
-        ocs:C6542,
-        ocs:C9 .
+        ocs:C41696 .
 

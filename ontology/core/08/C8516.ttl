@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8516 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Particle_filter> ;
     skos:prefLabel "Particle filter" ;
-    skos:related ocs:C14620,
+    skos:related ocs:C1844,
+        ocs:C2874,
+        ocs:C3987,
+        ocs:C5856,
+        ocs:C7553,
+        ocs:C7689,
+        ocs:C14620,
         ocs:C16916,
         ocs:C18408,
-        ocs:C1844,
         ocs:C22075,
         ocs:C23865,
         ocs:C27563,
-        ocs:C2874,
         ocs:C31167,
         ocs:C35042,
         ocs:C36314,
         ocs:C38763,
-        ocs:C3987,
-        ocs:C41470,
-        ocs:C5856,
-        ocs:C7553,
-        ocs:C7689 .
+        ocs:C41470 .
 

@@ -5,7 +5,9 @@ ocs:C19008 a skos:Concept ;
     skos:broader ocs:C10396 ;
     skos:closeMatch <http://dbpedia.org/resource/Visual_servoing> ;
     skos:prefLabel "Visual servoing" ;
-    skos:related ocs:C10396,
+    skos:related ocs:C7,
+        ocs:C5083,
+        ocs:C10396,
         ocs:C15029,
         ocs:C17236,
         ocs:C23110,
@@ -21,7 +23,5 @@ ocs:C19008 a skos:Concept ;
         ocs:C35805,
         ocs:C36944,
         ocs:C37901,
-        ocs:C44928,
-        ocs:C5083,
-        ocs:C7 .
+        ocs:C44928 .
 

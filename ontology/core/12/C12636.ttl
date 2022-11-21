@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12636 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Helmet-mounted_display> ;
     skos:prefLabel "Helmet-mounted display" ;
-    skos:related ocs:C13856,
+    skos:related ocs:C511,
+        ocs:C9944,
+        ocs:C13856,
         ocs:C16191,
         ocs:C16352,
         ocs:C21767,
         ocs:C22021,
-        ocs:C36804,
-        ocs:C511,
-        ocs:C9944 .
+        ocs:C36804 .
 

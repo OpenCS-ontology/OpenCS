@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12813 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Reason_maintenance> ;
     skos:prefLabel "Reason maintenance" ;
-    skos:related ocs:C10616,
+    skos:related ocs:C8,
+        ocs:C2010,
+        ocs:C3579,
+        ocs:C5507,
+        ocs:C5659,
+        ocs:C5714,
+        ocs:C10616,
         ocs:C12579,
         ocs:C12977,
         ocs:C15444,
         ocs:C17674,
         ocs:C17823,
         ocs:C19908,
-        ocs:C2010,
         ocs:C20246,
         ocs:C28119,
         ocs:C28809,
         ocs:C29292,
-        ocs:C3579,
         ocs:C42757,
-        ocs:C45548,
-        ocs:C5507,
-        ocs:C5659,
-        ocs:C5714,
-        ocs:C8 .
+        ocs:C45548 .
 

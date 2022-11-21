@@ -2,16 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C305 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/KISS_(TNC)> ;
     skos:prefLabel "KISS (TNC)" ;
-    skos:related ocs:C10826,
+    skos:related ocs:C2699,
+        ocs:C10826,
         ocs:C17404,
         ocs:C20314,
         ocs:C21424,
         ocs:C24323,
-        ocs:C2699,
         ocs:C29293,
         ocs:C29359,
         ocs:C36766,

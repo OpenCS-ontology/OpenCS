@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18216 a skos:Concept ;
-    skos:broader ocs:C7040,
-        ocs:C936 ;
+    skos:broader ocs:C936,
+        ocs:C7040 ;
     skos:closeMatch <http://dbpedia.org/resource/International_scientific_vocabulary> ;
     skos:prefLabel "International scientific vocabulary" ;
-    skos:related ocs:C12313,
-        ocs:C12486,
-        ocs:C13210,
-        ocs:C17707,
-        ocs:C24499,
+    skos:related ocs:C539,
         ocs:C2472,
         ocs:C2761,
         ocs:C2847,
         ocs:C2900,
-        ocs:C539 .
+        ocs:C12313,
+        ocs:C12486,
+        ocs:C13210,
+        ocs:C17707,
+        ocs:C24499 .
 

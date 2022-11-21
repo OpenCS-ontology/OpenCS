@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7960 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C2 ;
+    skos:broader ocs:C2,
+        ocs:C17 ;
     skos:prefLabel "Audiovisual device" ;
-    skos:related ocs:C10135,
-        ocs:C11934,
-        ocs:C16,
-        ocs:C2,
-        ocs:C22,
+    skos:related ocs:C2,
         ocs:C3,
+        ocs:C16,
+        ocs:C22,
         ocs:C33,
         ocs:C4099,
         ocs:C5722,
         ocs:C6069,
-        ocs:C9596 .
+        ocs:C9596,
+        ocs:C10135,
+        ocs:C11934 .
 

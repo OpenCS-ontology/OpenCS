@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4660 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Graph_Style_Sheets> ;
     skos:prefLabel "Graph Style Sheets" ;
-    skos:related ocs:C12477,
+    skos:related ocs:C2931,
+        ocs:C3679,
+        ocs:C4747,
+        ocs:C9836,
+        ocs:C12477,
         ocs:C13181,
         ocs:C19579,
         ocs:C28117,
-        ocs:C2931,
         ocs:C30368,
         ocs:C31903,
         ocs:C33108,
         ocs:C33916,
-        ocs:C3679,
         ocs:C38072,
         ocs:C39973,
         ocs:C41158,
         ocs:C42124,
-        ocs:C43831,
-        ocs:C4747,
-        ocs:C9836 .
+        ocs:C43831 .
 

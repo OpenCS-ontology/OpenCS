@@ -5,7 +5,9 @@ ocs:C22502 a skos:Concept ;
     skos:broader ocs:C8614 ;
     skos:closeMatch <http://dbpedia.org/resource/Extension_mechanisms_for_DNS> ;
     skos:prefLabel "Extension mechanisms for DNS" ;
-    skos:related ocs:C18213,
+    skos:related ocs:C6473,
+        ocs:C8614,
+        ocs:C18213,
         ocs:C20205,
         ocs:C20540,
         ocs:C23851,
@@ -21,7 +23,5 @@ ocs:C22502 a skos:Concept ;
         ocs:C40832,
         ocs:C42100,
         ocs:C42747,
-        ocs:C44017,
-        ocs:C6473,
-        ocs:C8614 .
+        ocs:C44017 .
 

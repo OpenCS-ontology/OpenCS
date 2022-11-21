@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9016 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Advice_taker> ;
     skos:prefLabel "Advice taker" ;
-    skos:related ocs:C1134,
-        ocs:C11874,
-        ocs:C12474,
-        ocs:C12926,
+    skos:related ocs:C8,
+        ocs:C685,
+        ocs:C1134,
         ocs:C1631,
-        ocs:C16381,
-        ocs:C16924,
         ocs:C1936,
         ocs:C2439,
-        ocs:C28286,
         ocs:C2872,
         ocs:C4269,
         ocs:C4756,
-        ocs:C685,
-        ocs:C8,
         ocs:C8441,
-        ocs:C9552 .
+        ocs:C9552,
+        ocs:C11874,
+        ocs:C12474,
+        ocs:C12926,
+        ocs:C16381,
+        ocs:C16924,
+        ocs:C28286 .
 

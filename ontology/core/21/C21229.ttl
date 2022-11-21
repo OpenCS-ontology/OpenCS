@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C21229 a skos:Concept ;
-    skos:broader ocs:C12638,
-        ocs:C3903 ;
+    skos:broader ocs:C3903,
+        ocs:C12638 ;
     skos:closeMatch <http://dbpedia.org/resource/PIMEX> ;
     skos:prefLabel "PIMEX" ;
     skos:related ocs:C19850,

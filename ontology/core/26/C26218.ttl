@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C26218 a skos:Concept ;
-    skos:broader ocs:C12110,
-        ocs:C1451 ;
+    skos:broader ocs:C1451,
+        ocs:C12110 ;
     skos:closeMatch <http://dbpedia.org/resource/Vantage_theory> ;
     skos:prefLabel "Vantage theory" .
 

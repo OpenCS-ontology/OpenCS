@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C364 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10 ;
     skos:prefLabel "Imaging problem" ;
-    skos:related ocs:C11701,
-        ocs:C4861,
+    skos:related ocs:C4861,
         ocs:C6943,
         ocs:C8021,
         ocs:C8499,
-        ocs:C8517 .
+        ocs:C8517,
+        ocs:C11701 .
 

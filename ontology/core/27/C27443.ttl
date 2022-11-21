@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27443 a skos:Concept ;
-    skos:broader ocs:C1844,
-        ocs:C246 ;
+    skos:broader ocs:C246,
+        ocs:C1844 ;
     skos:closeMatch <http://dbpedia.org/resource/Tree_diagram_(probability_theory)> ;
     skos:prefLabel "Tree diagram" ;
     skos:related ocs:C246,
         ocs:C2726,
+        ocs:C6594,
+        ocs:C9246,
         ocs:C33093,
         ocs:C40063,
         ocs:C41059,
         ocs:C42482,
-        ocs:C44592,
-        ocs:C6594,
-        ocs:C9246 .
+        ocs:C44592 .
 

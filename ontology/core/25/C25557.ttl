@@ -5,7 +5,11 @@ ocs:C25557 a skos:Concept ;
     skos:broader ocs:C3799 ;
     skos:closeMatch <http://dbpedia.org/resource/Application_directory> ;
     skos:prefLabel "Application directory" ;
-    skos:related ocs:C2064,
+    skos:related ocs:C9,
+        ocs:C2064,
+        ocs:C6605,
+        ocs:C7476,
+        ocs:C7800,
         ocs:C24871,
         ocs:C28881,
         ocs:C30078,
@@ -16,9 +20,5 @@ ocs:C25557 a skos:Concept ;
         ocs:C38488,
         ocs:C41604,
         ocs:C42936,
-        ocs:C45173,
-        ocs:C6605,
-        ocs:C7476,
-        ocs:C7800,
-        ocs:C9 .
+        ocs:C45173 .
 

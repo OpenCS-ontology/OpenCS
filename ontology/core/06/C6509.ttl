@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6509 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Noisy_data> ;
     skos:prefLabel "Data Noise" ;
-    skos:related ocs:C11450,
-        ocs:C1566,
-        ocs:C16,
+    skos:related ocs:C16,
         ocs:C21,
         ocs:C25,
         ocs:C34,
-        ocs:C4201,
         ocs:C669,
+        ocs:C1566,
+        ocs:C4201,
         ocs:C6793,
         ocs:C8021,
         ocs:C8517,
-        ocs:C8753 .
+        ocs:C8753,
+        ocs:C11450 .
 

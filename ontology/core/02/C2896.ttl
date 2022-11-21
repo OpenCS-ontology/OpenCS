@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2896 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C17,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C16,
+        ocs:C17 ;
     skos:closeMatch <http://dbpedia.org/resource/Music_informatics> ;
     skos:prefLabel "Music informatics" ;
-    skos:related ocs:C11042,
-        ocs:C11487,
+    skos:related ocs:C2,
+        ocs:C8,
+        ocs:C19,
+        ocs:C520,
         ocs:C1253,
         ocs:C1443,
         ocs:C1449,
-        ocs:C19,
-        ocs:C2,
         ocs:C2057,
+        ocs:C8718,
+        ocs:C11042,
+        ocs:C11487,
         ocs:C26575,
         ocs:C30312,
-        ocs:C38517,
-        ocs:C520,
-        ocs:C8,
-        ocs:C8718 .
+        ocs:C38517 .
 

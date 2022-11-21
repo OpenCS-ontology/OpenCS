@@ -2,22 +2,22 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C29199 a skos:Concept ;
-    skos:broader ocs:C10492,
-        ocs:C1449,
-        ocs:C4152 ;
+    skos:broader ocs:C1449,
+        ocs:C4152,
+        ocs:C10492 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_down_converter> ;
     skos:prefLabel "Digital down converter" ;
-    skos:related ocs:C10376,
-        ocs:C123,
+    skos:related ocs:C123,
         ocs:C1274,
         ocs:C1449,
         ocs:C1727,
-        ocs:C19342,
-        ocs:C23968,
-        ocs:C42625,
-        ocs:C44628,
         ocs:C4511,
         ocs:C5035,
         ocs:C5042,
-        ocs:C6816 .
+        ocs:C6816,
+        ocs:C10376,
+        ocs:C19342,
+        ocs:C23968,
+        ocs:C42625,
+        ocs:C44628 .
 

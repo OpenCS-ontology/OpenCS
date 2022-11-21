@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C27120 a skos:Concept ;
-    skos:broader ocs:C12262,
-        ocs:C4816 ;
+    skos:broader ocs:C4816,
+        ocs:C12262 ;
     skos:closeMatch <http://dbpedia.org/resource/Sticky_bit> ;
     skos:prefLabel "Sticky bit" ;
-    skos:related ocs:C1048,
+    skos:related ocs:C9,
+        ocs:C273,
+        ocs:C1048,
+        ocs:C7476,
+        ocs:C9938,
         ocs:C13578,
         ocs:C14271,
         ocs:C19000,
         ocs:C19902,
         ocs:C22970,
         ocs:C26754,
-        ocs:C273,
         ocs:C31489,
         ocs:C34914,
         ocs:C37964,
         ocs:C39252,
         ocs:C42619,
-        ocs:C43104,
-        ocs:C7476,
-        ocs:C9,
-        ocs:C9938 .
+        ocs:C43104 .
 

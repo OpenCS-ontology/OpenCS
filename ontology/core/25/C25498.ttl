@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C25498 a skos:Concept ;
-    skos:broader ocs:C11462,
-        ocs:C3896 ;
+    skos:broader ocs:C3896,
+        ocs:C11462 ;
     skos:closeMatch <http://dbpedia.org/resource/Spire> ;
     skos:prefLabel "Spire" .
 

@@ -2,12 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2022 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/PEEK_and_POKE> ;
     skos:prefLabel "PEEK and POKE" ;
-    skos:related ocs:C10053,
+    skos:related ocs:C9,
+        ocs:C44,
+        ocs:C4259,
+        ocs:C5463,
+        ocs:C6172,
+        ocs:C7478,
+        ocs:C8434,
+        ocs:C8787,
+        ocs:C10053,
         ocs:C10320,
         ocs:C14162,
         ocs:C16205,
@@ -15,14 +23,6 @@ ocs:C2022 a skos:Concept ;
         ocs:C19487,
         ocs:C21718,
         ocs:C38819,
-        ocs:C4259,
-        ocs:C44,
         ocs:C45443,
-        ocs:C45812,
-        ocs:C5463,
-        ocs:C6172,
-        ocs:C7478,
-        ocs:C8434,
-        ocs:C8787,
-        ocs:C9 .
+        ocs:C45812 .
 

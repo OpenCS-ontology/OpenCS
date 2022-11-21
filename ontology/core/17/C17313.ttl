@@ -5,12 +5,14 @@ ocs:C17313 a skos:Concept ;
     skos:broader ocs:C2005 ;
     skos:closeMatch <http://dbpedia.org/resource/Relevance_vector_machine> ;
     skos:prefLabel "Relevance vector machine" ;
-    skos:related ocs:C11030,
+    skos:related ocs:C2005,
+        ocs:C6021,
+        ocs:C9022,
+        ocs:C11030,
         ocs:C15879,
         ocs:C16153,
         ocs:C16169,
         ocs:C19354,
-        ocs:C2005,
         ocs:C22643,
         ocs:C25040,
         ocs:C25196,
@@ -20,7 +22,5 @@ ocs:C17313 a skos:Concept ;
         ocs:C33141,
         ocs:C34750,
         ocs:C35397,
-        ocs:C41275,
-        ocs:C6021,
-        ocs:C9022 .
+        ocs:C41275 .
 

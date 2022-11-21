@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22927 a skos:Concept ;
-    skos:broader ocs:C11087,
-        ocs:C9546 ;
+    skos:broader ocs:C9546,
+        ocs:C11087 ;
     skos:closeMatch <http://dbpedia.org/resource/Human-centered_computing> ;
     skos:prefLabel "Human-centered computing" ;
     skos:related ocs:C1,
-        ocs:C11087,
-        ocs:C1196,
-        ocs:C13153,
-        ocs:C13413,
-        ocs:C16613,
-        ocs:C17394,
         ocs:C18,
-        ocs:C31201,
+        ocs:C1196,
         ocs:C4094,
         ocs:C4292,
         ocs:C5876,
         ocs:C7355,
         ocs:C7736,
         ocs:C9047,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C11087,
+        ocs:C13153,
+        ocs:C13413,
+        ocs:C16613,
+        ocs:C17394,
+        ocs:C31201 .
 

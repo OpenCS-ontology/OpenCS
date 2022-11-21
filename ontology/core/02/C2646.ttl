@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2646 a skos:Concept ;
-    skos:broader ocs:C32,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Semantic_translation> ;
     skos:prefLabel "Semantic translation" ;
-    skos:related ocs:C12154,
-        ocs:C12819,
+    skos:related ocs:C404,
         ocs:C1451,
+        ocs:C3037,
+        ocs:C3896,
+        ocs:C5402,
+        ocs:C12154,
+        ocs:C12819,
         ocs:C15209,
         ocs:C20153,
         ocs:C20667,
         ocs:C28117,
-        ocs:C3037,
         ocs:C35570,
-        ocs:C3896,
         ocs:C39393,
         ocs:C40051,
-        ocs:C404,
         ocs:C42623,
         ocs:C44676,
         ocs:C45073,
-        ocs:C45685,
-        ocs:C5402 .
+        ocs:C45685 .
 

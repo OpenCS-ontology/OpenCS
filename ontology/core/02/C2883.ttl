@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2883 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Stereoscopy> ;
     skos:prefLabel "Stereoscopy" ;
-    skos:related ocs:C11774,
+    skos:related ocs:C244,
+        ocs:C2422,
+        ocs:C7910,
+        ocs:C8021,
+        ocs:C11774,
         ocs:C13320,
         ocs:C13549,
         ocs:C13745,
@@ -14,11 +18,7 @@ ocs:C2883 a skos:Concept ;
         ocs:C14925,
         ocs:C21609,
         ocs:C23153,
-        ocs:C2422,
-        ocs:C244,
         ocs:C25249,
         ocs:C28881,
-        ocs:C36940,
-        ocs:C7910,
-        ocs:C8021 .
+        ocs:C36940 .
 

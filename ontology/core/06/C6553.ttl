@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6553 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_resource> ;
     skos:prefLabel "Web resource" ;
-    skos:related ocs:C10904,
-        ocs:C22597,
+    skos:related ocs:C31,
         ocs:C2464,
+        ocs:C2931,
+        ocs:C3896,
+        ocs:C8614,
+        ocs:C9836,
+        ocs:C10904,
+        ocs:C22597,
         ocs:C26337,
         ocs:C28117,
         ocs:C28801,
         ocs:C28941,
-        ocs:C2931,
         ocs:C30237,
-        ocs:C31,
         ocs:C35570,
         ocs:C37042,
         ocs:C37046,
         ocs:C38059,
-        ocs:C3896,
         ocs:C41158,
         ocs:C42124,
-        ocs:C43255,
-        ocs:C8614,
-        ocs:C9836 .
+        ocs:C43255 .
 

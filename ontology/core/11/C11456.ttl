@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11456 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_scholarship> ;
     skos:prefLabel "Digital scholarship" ;
-    skos:related ocs:C13306,
-        ocs:C15008,
-        ocs:C16878,
-        ocs:C17,
+    skos:related ocs:C17,
         ocs:C2199,
-        ocs:C25968,
         ocs:C3067,
         ocs:C6219,
         ocs:C6234,
         ocs:C7062,
         ocs:C8068,
-        ocs:C9057 .
+        ocs:C9057,
+        ocs:C13306,
+        ocs:C15008,
+        ocs:C16878,
+        ocs:C25968 .
 

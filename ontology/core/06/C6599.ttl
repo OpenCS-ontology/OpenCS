@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6599 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C29,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Knowledge_compilation> ;
     skos:prefLabel "Knowledge compilation" ;
-    skos:related ocs:C10278,
+    skos:related ocs:C8,
+        ocs:C4149,
+        ocs:C4263,
+        ocs:C9393,
+        ocs:C9450,
+        ocs:C10278,
         ocs:C10914,
         ocs:C12977,
         ocs:C13686,
@@ -19,10 +24,5 @@ ocs:C6599 a skos:Concept ;
         ocs:C30824,
         ocs:C31925,
         ocs:C32783,
-        ocs:C38410,
-        ocs:C4149,
-        ocs:C4263,
-        ocs:C8,
-        ocs:C9393,
-        ocs:C9450 .
+        ocs:C38410 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1345 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Interpreter_directive> ;
     skos:prefLabel "Interpreter directive" ;
-    skos:related ocs:C10248,
+    skos:related ocs:C9,
+        ocs:C19,
+        ocs:C328,
+        ocs:C1386,
+        ocs:C6072,
+        ocs:C6605,
+        ocs:C7064,
+        ocs:C7800,
+        ocs:C10248,
         ocs:C10284,
         ocs:C11545,
         ocs:C11991,
         ocs:C12257,
         ocs:C13372,
-        ocs:C1386,
         ocs:C14271,
-        ocs:C19,
         ocs:C23867,
         ocs:C30078,
         ocs:C31489,
-        ocs:C328,
         ocs:C34227,
-        ocs:C36601,
-        ocs:C6072,
-        ocs:C6605,
-        ocs:C7064,
-        ocs:C7800,
-        ocs:C9 .
+        ocs:C36601 .
 

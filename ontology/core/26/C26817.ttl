@@ -4,7 +4,10 @@
 ocs:C26817 a skos:Concept ;
     skos:broader ocs:C5692 ;
     skos:prefLabel "On-the-fly encryption" ;
-    skos:related ocs:C12211,
+    skos:related ocs:C9,
+        ocs:C5692,
+        ocs:C7476,
+        ocs:C12211,
         ocs:C13579,
         ocs:C16481,
         ocs:C25340,
@@ -16,8 +19,5 @@ ocs:C26817 a skos:Concept ;
         ocs:C38723,
         ocs:C39657,
         ocs:C40478,
-        ocs:C44003,
-        ocs:C5692,
-        ocs:C7476,
-        ocs:C9 .
+        ocs:C44003 .
 

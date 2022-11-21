@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22894 a skos:Concept ;
-    skos:broader ocs:C11618,
-        ocs:C4209 ;
+    skos:broader ocs:C4209,
+        ocs:C11618 ;
     skos:closeMatch <http://dbpedia.org/resource/Model_transformation_language> ;
     skos:prefLabel "Model transformation language" ;
-    skos:related ocs:C11618,
+    skos:related ocs:C4209,
+        ocs:C5869,
+        ocs:C11618,
         ocs:C16598,
         ocs:C22273,
         ocs:C23394,
@@ -23,7 +25,5 @@ ocs:C22894 a skos:Concept ;
         ocs:C38382,
         ocs:C41719,
         ocs:C42006,
-        ocs:C4209,
-        ocs:C45334,
-        ocs:C5869 .
+        ocs:C45334 .
 

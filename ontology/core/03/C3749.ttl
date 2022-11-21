@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3749 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Life_hack> ;
     skos:prefLabel "Life hack" ;
-    skos:related ocs:C10284,
-        ocs:C1386,
+    skos:related ocs:C1386,
+        ocs:C4500,
+        ocs:C7915,
+        ocs:C8441,
+        ocs:C9235,
+        ocs:C10284,
         ocs:C17175,
         ocs:C24143,
         ocs:C30078,
         ocs:C31489,
         ocs:C34227,
-        ocs:C41097,
-        ocs:C4500,
-        ocs:C7915,
-        ocs:C8441,
-        ocs:C9235 .
+        ocs:C41097 .
 

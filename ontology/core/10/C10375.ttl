@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10375 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Hexspeak> ;
     skos:prefLabel "Hexspeak" ;
-    skos:related ocs:C10133,
+    skos:related ocs:C9,
+        ocs:C4333,
+        ocs:C8763,
+        ocs:C8783,
+        ocs:C10133,
         ocs:C12095,
         ocs:C12573,
         ocs:C15500,
@@ -14,9 +18,5 @@ ocs:C10375 a skos:Concept ;
         ocs:C23580,
         ocs:C29790,
         ocs:C31346,
-        ocs:C35741,
-        ocs:C4333,
-        ocs:C8763,
-        ocs:C8783,
-        ocs:C9 .
+        ocs:C35741 .
 

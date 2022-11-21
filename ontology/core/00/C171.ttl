@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C171 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/Data_loss_prevention_software> ;
     skos:prefLabel "Data loss prevention software" ;
-    skos:related ocs:C10064,
-        ocs:C10565,
-        ocs:C13307,
-        ocs:C1399,
+    skos:related ocs:C35,
         ocs:C197,
-        ocs:C25123,
-        ocs:C28881,
+        ocs:C1399,
         ocs:C2941,
         ocs:C3039,
-        ocs:C35,
-        ocs:C35701,
-        ocs:C41003,
         ocs:C4197,
         ocs:C4984,
         ocs:C5692,
         ocs:C7106,
         ocs:C7239,
-        ocs:C8614 .
+        ocs:C8614,
+        ocs:C10064,
+        ocs:C10565,
+        ocs:C13307,
+        ocs:C25123,
+        ocs:C28881,
+        ocs:C35701,
+        ocs:C41003 .
 

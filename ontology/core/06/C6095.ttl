@@ -2,15 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6095 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C18,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Non-player_character> ;
     skos:prefLabel "Non-player character" ;
-    skos:related ocs:C11262,
+    skos:related ocs:C8,
+        ocs:C2061,
+        ocs:C5137,
+        ocs:C5533,
+        ocs:C7220,
+        ocs:C11262,
         ocs:C12257,
         ocs:C13509,
-        ocs:C2061,
         ocs:C21609,
         ocs:C24871,
         ocs:C28881,
@@ -19,9 +23,5 @@ ocs:C6095 a skos:Concept ;
         ocs:C33979,
         ocs:C35621,
         ocs:C41788,
-        ocs:C41932,
-        ocs:C5137,
-        ocs:C5533,
-        ocs:C7220,
-        ocs:C8 .
+        ocs:C41932 .
 

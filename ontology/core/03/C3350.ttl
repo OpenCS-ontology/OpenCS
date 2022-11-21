@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3350 a skos:Concept ;
-    skos:broader ocs:C35,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C35 ;
     skos:closeMatch <http://dbpedia.org/resource/ISO/IEC_19794-5> ;
     skos:prefLabel "ISO/IEC 19794-5" ;
-    skos:related ocs:C10797,
+    skos:related ocs:C248,
+        ocs:C5393,
+        ocs:C8437,
+        ocs:C9489,
+        ocs:C10797,
         ocs:C16378,
         ocs:C23848,
-        ocs:C248,
         ocs:C27695,
         ocs:C27953,
         ocs:C32977,
-        ocs:C45561,
-        ocs:C5393,
-        ocs:C8437,
-        ocs:C9489 .
+        ocs:C45561 .
 

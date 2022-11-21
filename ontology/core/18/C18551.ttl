@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18551 a skos:Concept ;
-    skos:broader ocs:C1595,
-        ocs:C545,
+    skos:broader ocs:C545,
+        ocs:C1595,
         ocs:C7106 ;
     skos:prefLabel "Iot gateway" .
 

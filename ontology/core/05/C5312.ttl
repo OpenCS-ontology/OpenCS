@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5312 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Digital_Commons> ;
     skos:prefLabel "Digital Commons" ;
-    skos:related ocs:C10413,
+    skos:related ocs:C3896,
+        ocs:C5877,
+        ocs:C8797,
+        ocs:C10413,
         ocs:C11462,
         ocs:C11595,
         ocs:C11886,
@@ -18,8 +21,5 @@ ocs:C5312 a skos:Concept ;
         ocs:C21591,
         ocs:C24639,
         ocs:C37598,
-        ocs:C3896,
-        ocs:C41375,
-        ocs:C5877,
-        ocs:C8797 .
+        ocs:C41375 .
 

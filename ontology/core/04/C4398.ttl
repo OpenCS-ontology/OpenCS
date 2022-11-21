@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4398 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C11,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Real-time_locating_system> ;
     skos:prefLabel "Real-time locating system" ;
-    skos:related ocs:C10587,
+    skos:related ocs:C525,
+        ocs:C838,
+        ocs:C1793,
+        ocs:C4917,
+        ocs:C6495,
+        ocs:C9113,
+        ocs:C10587,
         ocs:C10770,
         ocs:C12641,
         ocs:C12850,
         ocs:C15882,
-        ocs:C1793,
         ocs:C19494,
         ocs:C21424,
         ocs:C35931,
-        ocs:C44290,
-        ocs:C4917,
-        ocs:C525,
-        ocs:C6495,
-        ocs:C838,
-        ocs:C9113 .
+        ocs:C44290 .
 

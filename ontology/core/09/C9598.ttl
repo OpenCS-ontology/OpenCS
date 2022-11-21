@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9598 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/JIS_X_0208> ;
     skos:prefLabel "JIS X 0208" ;
-    skos:related ocs:C13253,
+    skos:related ocs:C5126,
+        ocs:C6505,
+        ocs:C7446,
+        ocs:C7966,
+        ocs:C9162,
+        ocs:C13253,
         ocs:C19341,
         ocs:C20976,
         ocs:C23560,
         ocs:C25565,
-        ocs:C40665,
-        ocs:C5126,
-        ocs:C6505,
-        ocs:C7446,
-        ocs:C7966,
-        ocs:C9162 .
+        ocs:C40665 .
 

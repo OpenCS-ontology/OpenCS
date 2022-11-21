@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5057 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Cross-reference> ;
     skos:prefLabel "Cross-reference" ;
-    skos:related ocs:C10220,
+    skos:related ocs:C31,
+        ocs:C425,
+        ocs:C1498,
+        ocs:C2464,
+        ocs:C6852,
+        ocs:C8203,
+        ocs:C10220,
         ocs:C10801,
         ocs:C11927,
         ocs:C12257,
-        ocs:C1498,
         ocs:C17804,
         ocs:C22568,
-        ocs:C2464,
         ocs:C26337,
         ocs:C27199,
         ocs:C28801,
         ocs:C28881,
-        ocs:C31,
-        ocs:C40360,
-        ocs:C425,
-        ocs:C6852,
-        ocs:C8203 .
+        ocs:C40360 .
 

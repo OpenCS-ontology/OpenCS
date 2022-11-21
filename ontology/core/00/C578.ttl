@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C578 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C28 ;
     skos:closeMatch <http://dbpedia.org/resource/OLE_Automation> ;
     skos:prefLabel "OLE Automation" ;
     skos:related ocs:C1085,
+        ocs:C2929,
+        ocs:C2981,
+        ocs:C3176,
+        ocs:C4261,
+        ocs:C5514,
+        ocs:C9033,
         ocs:C11293,
         ocs:C14632,
         ocs:C20015,
         ocs:C28881,
-        ocs:C2929,
-        ocs:C2981,
-        ocs:C3176,
         ocs:C31894,
         ocs:C33249,
         ocs:C38945,
         ocs:C40418,
         ocs:C41816,
-        ocs:C4261,
-        ocs:C43507,
-        ocs:C5514,
-        ocs:C9033 .
+        ocs:C43507 .
 

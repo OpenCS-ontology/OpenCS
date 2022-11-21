@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12154 a skos:Concept ;
-    skos:broader ocs:C29,
-        ocs:C32,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C29,
+        ocs:C32 ;
     skos:closeMatch <http://dbpedia.org/resource/Representation_term> ;
     skos:prefLabel "Representation term" ;
-    skos:related ocs:C11927,
-        ocs:C1488,
+    skos:related ocs:C1488,
+        ocs:C2646,
+        ocs:C3037,
+        ocs:C3896,
+        ocs:C6139,
+        ocs:C6579,
+        ocs:C11927,
         ocs:C15209,
         ocs:C18791,
         ocs:C19693,
         ocs:C20153,
         ocs:C23269,
-        ocs:C2646,
         ocs:C28739,
-        ocs:C3037,
         ocs:C33040,
         ocs:C35637,
-        ocs:C3896,
         ocs:C39393,
         ocs:C44676,
         ocs:C45073,
-        ocs:C45685,
-        ocs:C6139,
-        ocs:C6579 .
+        ocs:C45685 .
 

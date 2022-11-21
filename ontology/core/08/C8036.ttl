@@ -2,11 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8036 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Three-state_bus> ;
     skos:prefLabel "Three-state bus" ;
-    skos:related ocs:C12640,
+    skos:related ocs:C74,
+        ocs:C521,
+        ocs:C982,
+        ocs:C7534,
+        ocs:C8475,
+        ocs:C12640,
         ocs:C13386,
         ocs:C20178,
         ocs:C32592,
@@ -14,10 +19,5 @@ ocs:C8036 a skos:Concept ;
         ocs:C39723,
         ocs:C41110,
         ocs:C41599,
-        ocs:C45125,
-        ocs:C521,
-        ocs:C74,
-        ocs:C7534,
-        ocs:C8475,
-        ocs:C982 .
+        ocs:C45125 .
 

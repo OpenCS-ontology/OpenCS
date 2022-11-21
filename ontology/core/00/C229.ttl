@@ -2,18 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C229 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Intel_850> ;
     skos:prefLabel "Intel 850" ;
-    skos:related ocs:C10684,
+    skos:related ocs:C1810,
+        ocs:C2939,
+        ocs:C6341,
+        ocs:C10684,
         ocs:C13875,
-        ocs:C1810,
         ocs:C21617,
         ocs:C23432,
         ocs:C25107,
         ocs:C29183,
-        ocs:C2939,
         ocs:C29530,
         ocs:C29728,
         ocs:C33838,
@@ -22,6 +23,5 @@ ocs:C229 a skos:Concept ;
         ocs:C38427,
         ocs:C39215,
         ocs:C39621,
-        ocs:C43764,
-        ocs:C6341 .
+        ocs:C43764 .
 

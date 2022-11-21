@@ -2,14 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7732 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C24,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Pose_(computer_vision)> ;
     skos:prefLabel "Pose" ;
-    skos:related ocs:C14080,
-        ocs:C14465,
+    skos:related ocs:C7,
+        ocs:C948,
         ocs:C1573,
+        ocs:C5083,
+        ocs:C14080,
+        ocs:C14465,
         ocs:C22975,
         ocs:C26631,
         ocs:C26688,
@@ -17,8 +20,5 @@ ocs:C7732 a skos:Concept ;
         ocs:C31648,
         ocs:C37720,
         ocs:C41132,
-        ocs:C44174,
-        ocs:C5083,
-        ocs:C7,
-        ocs:C948 .
+        ocs:C44174 .
 

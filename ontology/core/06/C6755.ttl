@@ -2,11 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6755 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C18 ;
     skos:closeMatch <http://dbpedia.org/resource/Scratch_input> ;
     skos:prefLabel "Scratch input" ;
-    skos:related ocs:C13413,
+    skos:related ocs:C78,
+        ocs:C946,
+        ocs:C5702,
+        ocs:C7736,
+        ocs:C8557,
+        ocs:C9601,
+        ocs:C13413,
         ocs:C14148,
         ocs:C18494,
         ocs:C26634,
@@ -15,11 +21,5 @@ ocs:C6755 a skos:Concept ;
         ocs:C28468,
         ocs:C30078,
         ocs:C32962,
-        ocs:C39979,
-        ocs:C5702,
-        ocs:C7736,
-        ocs:C78,
-        ocs:C8557,
-        ocs:C946,
-        ocs:C9601 .
+        ocs:C39979 .
 

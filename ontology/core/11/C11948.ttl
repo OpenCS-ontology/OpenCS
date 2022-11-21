@@ -2,13 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11948 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Low-complexity_art> ;
     skos:prefLabel "Low-complexity art" ;
-    skos:related ocs:C12448,
-        ocs:C41780,
-        ocs:C5093,
+    skos:related ocs:C5093,
         ocs:C5833,
-        ocs:C9022 .
+        ocs:C9022,
+        ocs:C12448,
+        ocs:C41780 .
 

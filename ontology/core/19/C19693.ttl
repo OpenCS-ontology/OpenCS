@@ -2,31 +2,31 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C19693 a skos:Concept ;
-    skos:broader ocs:C11886,
-        ocs:C11927,
+    skos:broader ocs:C473,
         ocs:C1395,
         ocs:C2979,
-        ocs:C473 ;
+        ocs:C11886,
+        ocs:C11927 ;
     skos:closeMatch <http://dbpedia.org/resource/National_Information_Exchange_Model> ;
     skos:prefLabel "National Information Exchange Model" ;
-    skos:related ocs:C11886,
+    skos:related ocs:C197,
+        ocs:C473,
+        ocs:C2260,
+        ocs:C3896,
+        ocs:C6139,
+        ocs:C6579,
+        ocs:C11886,
         ocs:C11927,
         ocs:C12154,
         ocs:C18791,
-        ocs:C197,
         ocs:C21066,
-        ocs:C2260,
         ocs:C23269,
         ocs:C23709,
         ocs:C28117,
         ocs:C33040,
         ocs:C35570,
         ocs:C35637,
-        ocs:C3896,
         ocs:C40725,
         ocs:C44676,
-        ocs:C45073,
-        ocs:C473,
-        ocs:C6139,
-        ocs:C6579 .
+        ocs:C45073 .
 

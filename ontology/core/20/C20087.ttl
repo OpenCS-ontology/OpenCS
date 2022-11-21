@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C20087 a skos:Concept ;
-    skos:broader ocs:C12817,
-        ocs:C5745 ;
+    skos:broader ocs:C5745,
+        ocs:C12817 ;
     skos:closeMatch <http://dbpedia.org/resource/Polling_system> ;
     skos:prefLabel "Polling system" ;
     skos:related ocs:C12373,

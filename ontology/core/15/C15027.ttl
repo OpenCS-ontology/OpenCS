@@ -2,20 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15027 a skos:Concept ;
-    skos:broader ocs:C10803,
-        ocs:C11386,
-        ocs:C4218,
+    skos:broader ocs:C4218,
         ocs:C5072,
         ocs:C6953,
-        ocs:C8664 ;
+        ocs:C8664,
+        ocs:C10803,
+        ocs:C11386 ;
     skos:closeMatch <http://dbpedia.org/resource/TestU01> ;
     skos:prefLabel "TestU01" ;
-    skos:related ocs:C15398,
+    skos:related ocs:C5072,
+        ocs:C6953,
+        ocs:C15398,
         ocs:C24912,
         ocs:C25255,
         ocs:C25445,
         ocs:C27702,
-        ocs:C28909,
-        ocs:C5072,
-        ocs:C6953 .
+        ocs:C28909 .
 

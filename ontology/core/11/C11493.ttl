@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C11493 a skos:Concept ;
-    skos:broader ocs:C27,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C27 ;
     skos:closeMatch <http://dbpedia.org/resource/Berkeley_IRAM_project> ;
     skos:prefLabel "Berkeley IRAM project" ;
-    skos:related ocs:C10320,
-        ocs:C11,
+    skos:related ocs:C11,
+        ocs:C15,
+        ocs:C805,
+        ocs:C3231,
+        ocs:C5336,
+        ocs:C10320,
         ocs:C13617,
         ocs:C13875,
-        ocs:C15,
         ocs:C18379,
         ocs:C23432,
         ocs:C26155,
         ocs:C26791,
         ocs:C27610,
         ocs:C31754,
-        ocs:C3231,
         ocs:C35049,
-        ocs:C37538,
-        ocs:C5336,
-        ocs:C805 .
+        ocs:C37538 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7129 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C33,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Trace_table> ;
     skos:prefLabel "Trace table" ;
     skos:related ocs:C10,
-        ocs:C16173,
         ocs:C19,
+        ocs:C2258,
+        ocs:C3988,
+        ocs:C7407,
+        ocs:C7529,
+        ocs:C16173,
         ocs:C19507,
         ocs:C20343,
-        ocs:C2258,
         ocs:C24943,
         ocs:C27399,
         ocs:C32644,
         ocs:C37560,
-        ocs:C3988,
         ocs:C40730,
-        ocs:C43054,
-        ocs:C7407,
-        ocs:C7529 .
+        ocs:C43054 .
 

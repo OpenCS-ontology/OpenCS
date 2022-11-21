@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C16528 a skos:Concept ;
-    skos:broader ocs:C10639,
-        ocs:C3401 ;
+    skos:broader ocs:C3401,
+        ocs:C10639 ;
     skos:closeMatch <http://dbpedia.org/resource/Cube-connected_cycles> ;
     skos:prefLabel "Cube-connected cycles" ;
     skos:related ocs:C14894,

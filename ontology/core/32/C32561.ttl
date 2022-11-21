@@ -6,10 +6,12 @@ ocs:C32561 a skos:Concept ;
         ocs:C19619 ;
     skos:closeMatch <http://dbpedia.org/resource/Software_patent> ;
     skos:prefLabel "Software patent" ;
-    skos:related ocs:C10,
+    skos:related ocs:C9,
+        ocs:C10,
+        ocs:C1253,
+        ocs:C6234,
         ocs:C11933,
         ocs:C12257,
-        ocs:C1253,
         ocs:C13144,
         ocs:C13306,
         ocs:C14002,
@@ -21,7 +23,5 @@ ocs:C32561 a skos:Concept ;
         ocs:C31489,
         ocs:C31789,
         ocs:C33830,
-        ocs:C34393,
-        ocs:C6234,
-        ocs:C9 .
+        ocs:C34393 .
 

@@ -2,11 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4747 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Redland_RDF_Application_Framework> ;
     skos:prefLabel "Redland RDF Application Framework" ;
-    skos:related ocs:C10392,
+    skos:related ocs:C4660,
+        ocs:C4921,
+        ocs:C7552,
+        ocs:C9836,
+        ocs:C10392,
         ocs:C19579,
         ocs:C28117,
         ocs:C29375,
@@ -18,9 +22,5 @@ ocs:C4747 a skos:Concept ;
         ocs:C41158,
         ocs:C44135,
         ocs:C44163,
-        ocs:C45750,
-        ocs:C4660,
-        ocs:C4921,
-        ocs:C7552,
-        ocs:C9836 .
+        ocs:C45750 .
 

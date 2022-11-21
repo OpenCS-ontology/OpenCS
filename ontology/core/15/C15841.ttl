@@ -2,13 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15841 a skos:Concept ;
-    skos:broader ocs:C11282,
-        ocs:C3401,
+    skos:broader ocs:C3401,
         ocs:C5722,
-        ocs:C8660 ;
+        ocs:C8660,
+        ocs:C11282 ;
     skos:closeMatch <http://dbpedia.org/resource/PQ_tree> ;
     skos:prefLabel "PQ tree" ;
-    skos:related ocs:C13296,
+    skos:related ocs:C8452,
+        ocs:C8519,
+        ocs:C8522,
+        ocs:C8565,
+        ocs:C13296,
         ocs:C18220,
         ocs:C20046,
         ocs:C24541,
@@ -22,9 +26,5 @@ ocs:C15841 a skos:Concept ;
         ocs:C43467,
         ocs:C45211,
         ocs:C45671,
-        ocs:C45739,
-        ocs:C8452,
-        ocs:C8519,
-        ocs:C8522,
-        ocs:C8565 .
+        ocs:C45739 .
 

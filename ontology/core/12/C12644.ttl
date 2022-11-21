@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12644 a skos:Concept ;
-    skos:broader ocs:C18,
-        ocs:C24,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C18,
+        ocs:C24 ;
     skos:closeMatch <http://dbpedia.org/resource/Ambient_intelligence> ;
     skos:prefLabel "Ambient intelligence" ;
-    skos:related ocs:C17236,
+    skos:related ocs:C8,
         ocs:C18,
-        ocs:C24139,
+        ocs:C263,
         ocs:C2576,
         ocs:C2605,
-        ocs:C263,
-        ocs:C28117,
-        ocs:C29046,
         ocs:C3236,
-        ocs:C43586,
         ocs:C4917,
         ocs:C7166,
-        ocs:C8,
         ocs:C8172,
         ocs:C9047,
         ocs:C9601,
         ocs:C9603,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C17236,
+        ocs:C24139,
+        ocs:C28117,
+        ocs:C29046,
+        ocs:C43586 .
 

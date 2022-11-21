@@ -2,25 +2,25 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4802 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Crash-only_software> ;
     skos:prefLabel "Crash-only software" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C1625,
+        ocs:C3514,
+        ocs:C3833,
+        ocs:C4760,
+        ocs:C5698,
+        ocs:C6941,
+        ocs:C9842,
+        ocs:C10214,
         ocs:C12815,
-        ocs:C1625,
         ocs:C18969,
         ocs:C24007,
         ocs:C24143,
         ocs:C24871,
         ocs:C33413,
-        ocs:C3514,
         ocs:C36806,
         ocs:C37875,
-        ocs:C3833,
-        ocs:C45438,
-        ocs:C4760,
-        ocs:C5698,
-        ocs:C6941,
-        ocs:C9842 .
+        ocs:C45438 .
 

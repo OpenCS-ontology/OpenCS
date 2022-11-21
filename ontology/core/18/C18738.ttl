@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C18738 a skos:Concept ;
-    skos:broader ocs:C12148,
-        ocs:C13047,
-        ocs:C3057 ;
+    skos:broader ocs:C3057,
+        ocs:C12148,
+        ocs:C13047 ;
     skos:closeMatch <http://dbpedia.org/resource/Student_approaches_to_learning> ;
     skos:prefLabel "Student approaches to learning" ;
     skos:related ocs:C3444 .

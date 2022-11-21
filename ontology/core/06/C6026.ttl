@@ -2,12 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6026 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C2,
-        ocs:C9 ;
+    skos:broader ocs:C2,
+        ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Nibble> ;
     skos:prefLabel "Nibble" ;
-    skos:related ocs:C10213,
+    skos:related ocs:C3450,
+        ocs:C5290,
+        ocs:C7512,
+        ocs:C9162,
+        ocs:C10213,
         ocs:C10320,
         ocs:C10696,
         ocs:C12262,
@@ -16,9 +20,5 @@ ocs:C6026 a skos:Concept ;
         ocs:C14162,
         ocs:C16377,
         ocs:C17204,
-        ocs:C21496,
-        ocs:C3450,
-        ocs:C5290,
-        ocs:C7512,
-        ocs:C9162 .
+        ocs:C21496 .
 

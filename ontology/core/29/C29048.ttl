@@ -5,7 +5,9 @@ ocs:C29048 a skos:Concept ;
     skos:broader ocs:C11705 ;
     skos:closeMatch <http://dbpedia.org/resource/MPEG-4> ;
     skos:prefLabel "MPEG-4" ;
-    skos:related ocs:C11323,
+    skos:related ocs:C8021,
+        ocs:C9113,
+        ocs:C11323,
         ocs:C12152,
         ocs:C12544,
         ocs:C19334,
@@ -19,7 +21,5 @@ ocs:C29048 a skos:Concept ;
         ocs:C39584,
         ocs:C40353,
         ocs:C44962,
-        ocs:C45687,
-        ocs:C8021,
-        ocs:C9113 .
+        ocs:C45687 .
 

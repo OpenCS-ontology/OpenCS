@@ -2,21 +2,21 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15692 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C9022 ;
+    skos:broader ocs:C9022,
+        ocs:C10382 ;
     skos:prefLabel "Signal clustering" ;
-    skos:related ocs:C13677,
-        ocs:C16,
+    skos:related ocs:C16,
+        ocs:C29,
+        ocs:C33,
+        ocs:C1938,
+        ocs:C4099,
+        ocs:C5620,
+        ocs:C13677,
         ocs:C16054,
         ocs:C18805,
-        ocs:C1938,
         ocs:C25519,
-        ocs:C29,
         ocs:C29024,
         ocs:C30728,
-        ocs:C33,
         ocs:C35693,
-        ocs:C36165,
-        ocs:C4099,
-        ocs:C5620 .
+        ocs:C36165 .
 

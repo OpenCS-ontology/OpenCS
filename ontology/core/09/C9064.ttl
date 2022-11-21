@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C9064 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11 ;
     skos:closeMatch <http://dbpedia.org/resource/Advanced_Boolean_Expression_Language> ;
     skos:prefLabel "Advanced Boolean Expression Language" ;
     skos:related ocs:C1097,
+        ocs:C5336,
+        ocs:C9908,
         ocs:C13747,
         ocs:C17790,
         ocs:C19400,
@@ -21,7 +23,5 @@ ocs:C9064 a skos:Concept ;
         ocs:C33984,
         ocs:C34718,
         ocs:C36420,
-        ocs:C43781,
-        ocs:C5336,
-        ocs:C9908 .
+        ocs:C43781 .
 

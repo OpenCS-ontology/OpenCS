@@ -2,12 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4104 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3,
+    skos:broader ocs:C3,
+        ocs:C26,
         ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Evolved_High_Speed_Packet_Access> ;
     skos:prefLabel "Evolved High Speed Packet Access" ;
-    skos:related ocs:C17999,
+    skos:related ocs:C3236,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C17999,
         ocs:C19905,
         ocs:C24558,
         ocs:C25712,
@@ -15,14 +18,11 @@ ocs:C4104 a skos:Concept ;
         ocs:C29697,
         ocs:C30728,
         ocs:C32302,
-        ocs:C3236,
         ocs:C32715,
         ocs:C34908,
         ocs:C35370,
         ocs:C35692,
         ocs:C35897,
         ocs:C37303,
-        ocs:C41460,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C41460 .
 

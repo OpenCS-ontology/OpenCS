@@ -2,12 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C3262 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C10 ;
     skos:closeMatch <http://dbpedia.org/resource/Rule_complex> ;
     skos:prefLabel "Rule complex" ;
-    skos:related ocs:C10997,
+    skos:related ocs:C3753,
+        ocs:C10997,
         ocs:C36126,
-        ocs:C3753,
         ocs:C39333 .
 

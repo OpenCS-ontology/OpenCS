@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14096 a skos:Concept ;
-    skos:broader ocs:C12029,
-        ocs:C5625 ;
+    skos:broader ocs:C5625,
+        ocs:C12029 ;
     skos:prefLabel "Trip start" ;
     skos:related ocs:C1,
         ocs:C26,

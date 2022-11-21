@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13144 a skos:Concept ;
-    skos:broader ocs:C28,
-        ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C28,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Open_standard> ;
     skos:prefLabel "Open standard" ;
-    skos:related ocs:C10904,
-        ocs:C11886,
-        ocs:C11927,
+    skos:related ocs:C9,
         ocs:C1253,
-        ocs:C14627,
-        ocs:C21747,
-        ocs:C22597,
         ocs:C2674,
-        ocs:C28801,
-        ocs:C28881,
         ocs:C2981,
-        ocs:C31489,
-        ocs:C32481,
         ocs:C3679,
-        ocs:C37440,
         ocs:C4918,
         ocs:C5034,
         ocs:C8614,
-        ocs:C9,
-        ocs:C9931 .
+        ocs:C9931,
+        ocs:C10904,
+        ocs:C11886,
+        ocs:C11927,
+        ocs:C14627,
+        ocs:C21747,
+        ocs:C22597,
+        ocs:C28801,
+        ocs:C28881,
+        ocs:C31489,
+        ocs:C32481,
+        ocs:C37440 .
 

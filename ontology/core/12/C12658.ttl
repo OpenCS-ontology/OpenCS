@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12658 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C3 ;
+    skos:broader ocs:C3,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/GPRS_roaming_exchange> ;
     skos:prefLabel "GPRS roaming exchange" ;
-    skos:related ocs:C12853,
-        ocs:C20540,
-        ocs:C22407,
-        ocs:C27704,
-        ocs:C29799,
-        ocs:C3039,
-        ocs:C31755,
-        ocs:C34908,
-        ocs:C35200,
+    skos:related ocs:C3039,
         ocs:C3933,
-        ocs:C41910,
         ocs:C4197,
-        ocs:C44251,
         ocs:C5917,
         ocs:C6660,
         ocs:C6987,
         ocs:C8614,
         ocs:C8872,
-        ocs:C9154 .
+        ocs:C9154,
+        ocs:C12853,
+        ocs:C20540,
+        ocs:C22407,
+        ocs:C27704,
+        ocs:C29799,
+        ocs:C31755,
+        ocs:C34908,
+        ocs:C35200,
+        ocs:C41910,
+        ocs:C44251 .
 

@@ -2,14 +2,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5526 a skos:Concept ;
-    skos:broader ocs:C11,
-        ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C11,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/Embedded_HTTP_server> ;
     skos:prefLabel "Embedded HTTP server" ;
-    skos:related ocs:C10320,
-        ocs:C10904,
+    skos:related ocs:C9,
         ocs:C1464,
+        ocs:C5912,
+        ocs:C10320,
+        ocs:C10904,
         ocs:C15478,
         ocs:C16966,
         ocs:C17235,
@@ -21,7 +23,5 @@ ocs:C5526 a skos:Concept ;
         ocs:C29359,
         ocs:C31489,
         ocs:C41498,
-        ocs:C42350,
-        ocs:C5912,
-        ocs:C9 .
+        ocs:C42350 .
 

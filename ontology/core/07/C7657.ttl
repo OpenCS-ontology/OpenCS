@@ -2,17 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7657 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Overengineering> ;
     skos:prefLabel "Overengineering" ;
-    skos:related ocs:C1253,
-        ocs:C23162,
-        ocs:C24544,
-        ocs:C32090,
-        ocs:C427,
+    skos:related ocs:C427,
+        ocs:C1253,
         ocs:C4292,
         ocs:C7671,
         ocs:C9162,
-        ocs:C9607 .
+        ocs:C9607,
+        ocs:C23162,
+        ocs:C24544,
+        ocs:C32090 .
 

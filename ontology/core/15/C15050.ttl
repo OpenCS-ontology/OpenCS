@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15050 a skos:Concept ;
-    skos:broader ocs:C12999,
-        ocs:C4597 ;
+    skos:broader ocs:C4597,
+        ocs:C12999 ;
     skos:closeMatch <http://dbpedia.org/resource/Automatic_dependent_surveillance_–_broadcast> ;
     skos:prefLabel "Automatic dependent surveillance-broadcast" ;
-    skos:related ocs:C12641,
+    skos:related ocs:C511,
+        ocs:C4597,
+        ocs:C12641,
         ocs:C15283,
         ocs:C15666,
         ocs:C16585,
@@ -19,7 +21,5 @@ ocs:C15050 a skos:Concept ;
         ocs:C28020,
         ocs:C30105,
         ocs:C30313,
-        ocs:C36681,
-        ocs:C4597,
-        ocs:C511 .
+        ocs:C36681 .
 

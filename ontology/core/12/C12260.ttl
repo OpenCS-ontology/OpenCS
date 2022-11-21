@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12260 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6,
-        ocs:C9 ;
+    skos:broader ocs:C6,
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/System_migration> ;
     skos:prefLabel "System migration" ;
-    skos:related ocs:C11262,
-        ocs:C11759,
-        ocs:C1253,
-        ocs:C13101,
-        ocs:C15309,
-        ocs:C17204,
+    skos:related ocs:C1253,
         ocs:C2057,
-        ocs:C21399,
-        ocs:C24143,
         ocs:C3036,
-        ocs:C34200,
-        ocs:C35459,
-        ocs:C37875,
         ocs:C4321,
-        ocs:C45402,
         ocs:C4817,
         ocs:C6072,
         ocs:C6225,
         ocs:C7106,
-        ocs:C9035 .
+        ocs:C9035,
+        ocs:C11262,
+        ocs:C11759,
+        ocs:C13101,
+        ocs:C15309,
+        ocs:C17204,
+        ocs:C21399,
+        ocs:C24143,
+        ocs:C34200,
+        ocs:C35459,
+        ocs:C37875,
+        ocs:C45402 .
 

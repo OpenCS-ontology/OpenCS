@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2773 a skos:Concept ;
-    skos:broader ocs:C25,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Darwin_among_the_Machines> ;
     skos:prefLabel "Darwin among the Machines" ;
-    skos:related ocs:C10396,
-        ocs:C11143,
-        ocs:C13465,
+    skos:related ocs:C8,
         ocs:C1466,
-        ocs:C14921,
-        ocs:C34709,
         ocs:C3848,
         ocs:C7334,
         ocs:C7553,
-        ocs:C8,
-        ocs:C9795 .
+        ocs:C9795,
+        ocs:C10396,
+        ocs:C11143,
+        ocs:C13465,
+        ocs:C14921,
+        ocs:C34709 .
 

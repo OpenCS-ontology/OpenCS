@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C13169 a skos:Concept ;
-    skos:broader ocs:C26,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C26 ;
     skos:closeMatch <http://dbpedia.org/resource/External_Short_Messaging_Entity> ;
     skos:prefLabel "External Short Messaging Entity" ;
-    skos:related ocs:C10084,
+    skos:related ocs:C3,
+        ocs:C686,
+        ocs:C3746,
+        ocs:C4865,
+        ocs:C5917,
+        ocs:C6861,
+        ocs:C7102,
+        ocs:C8614,
+        ocs:C10084,
         ocs:C10992,
         ocs:C16953,
         ocs:C24323,
         ocs:C26262,
         ocs:C29359,
-        ocs:C3,
         ocs:C30763,
         ocs:C31286,
         ocs:C31755,
-        ocs:C3746,
         ocs:C39289,
-        ocs:C44125,
-        ocs:C4865,
-        ocs:C5917,
-        ocs:C686,
-        ocs:C6861,
-        ocs:C7102,
-        ocs:C8614 .
+        ocs:C44125 .
 

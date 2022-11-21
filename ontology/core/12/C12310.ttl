@@ -2,15 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12310 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C21,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C10,
+        ocs:C21 ;
     skos:closeMatch <http://dbpedia.org/resource/Chain_code> ;
     skos:prefLabel "Chain code" ;
     skos:related ocs:C2937,
+        ocs:C4584,
+        ocs:C5368,
         ocs:C36912,
         ocs:C37007,
-        ocs:C41438,
-        ocs:C4584,
-        ocs:C5368 .
+        ocs:C41438 .
 

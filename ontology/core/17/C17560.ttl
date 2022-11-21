@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17560 a skos:Concept ;
-    skos:broader ocs:C12111,
-        ocs:C4099 ;
+    skos:broader ocs:C4099,
+        ocs:C12111 ;
     skos:closeMatch <http://dbpedia.org/resource/Meteor_burst_communications> ;
     skos:prefLabel "Meteor burst communications" ;
-    skos:related ocs:C11669,
-        ocs:C3,
+    skos:related ocs:C3,
         ocs:C3044,
+        ocs:C5618,
+        ocs:C7159,
+        ocs:C9263,
+        ocs:C11669,
         ocs:C35931,
         ocs:C38701,
         ocs:C43783,
-        ocs:C45495,
-        ocs:C5618,
-        ocs:C7159,
-        ocs:C9263 .
+        ocs:C45495 .
 

@@ -2,24 +2,24 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C4763 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Affirming_a_disjunct> ;
     skos:prefLabel "Affirming a disjunct" ;
-    skos:related ocs:C10464,
+    skos:related ocs:C1315,
+        ocs:C4170,
+        ocs:C4557,
+        ocs:C5925,
+        ocs:C7299,
+        ocs:C7343,
+        ocs:C9834,
+        ocs:C10464,
         ocs:C10877,
         ocs:C11283,
-        ocs:C1315,
         ocs:C16037,
         ocs:C21382,
         ocs:C23668,
         ocs:C26760,
         ocs:C38823,
-        ocs:C4170,
-        ocs:C44811,
-        ocs:C4557,
-        ocs:C5925,
-        ocs:C7299,
-        ocs:C7343,
-        ocs:C9834 .
+        ocs:C44811 .
 

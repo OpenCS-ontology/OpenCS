@@ -2,26 +2,26 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10929 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C33,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Execution_model> ;
     skos:prefLabel "Execution model" ;
-    skos:related ocs:C11991,
-        ocs:C12006,
-        ocs:C12257,
-        ocs:C12974,
-        ocs:C15,
-        ocs:C15309,
-        ocs:C23863,
+    skos:related ocs:C15,
         ocs:C27,
-        ocs:C27898,
-        ocs:C31489,
-        ocs:C39243,
+        ocs:C856,
         ocs:C4321,
         ocs:C6887,
         ocs:C7800,
-        ocs:C856,
         ocs:C8704,
-        ocs:C8751 .
+        ocs:C8751,
+        ocs:C11991,
+        ocs:C12006,
+        ocs:C12257,
+        ocs:C12974,
+        ocs:C15309,
+        ocs:C23863,
+        ocs:C27898,
+        ocs:C31489,
+        ocs:C39243 .
 

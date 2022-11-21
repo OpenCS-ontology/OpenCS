@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C17576 a skos:Concept ;
-    skos:broader ocs:C10382,
-        ocs:C10904,
-        ocs:C1142 ;
+    skos:broader ocs:C1142,
+        ocs:C10382,
+        ocs:C10904 ;
     skos:closeMatch <http://dbpedia.org/resource/Java_Data_Mining> ;
     skos:prefLabel "Java Data Mining" ;
-    skos:related ocs:C10382,
+    skos:related ocs:C13,
+        ocs:C25,
+        ocs:C34,
+        ocs:C6116,
+        ocs:C9428,
+        ocs:C9488,
+        ocs:C9874,
+        ocs:C10382,
         ocs:C10870,
         ocs:C10937,
         ocs:C11030,
         ocs:C11875,
         ocs:C12206,
         ocs:C12238,
-        ocs:C13,
         ocs:C16984,
-        ocs:C25,
         ocs:C25520,
         ocs:C26767,
         ocs:C26825,
-        ocs:C34,
-        ocs:C38984,
-        ocs:C6116,
-        ocs:C9428,
-        ocs:C9488,
-        ocs:C9874 .
+        ocs:C38984 .
 

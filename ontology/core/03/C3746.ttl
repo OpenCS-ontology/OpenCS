@@ -3,11 +3,17 @@
 
 ocs:C3746 a skos:Concept ;
     skos:broader ocs:C3,
-        ocs:C31,
-        ocs:C9 ;
+        ocs:C9,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/SMS_gateway> ;
     skos:prefLabel "SMS gateway" ;
-    skos:related ocs:C10084,
+    skos:related ocs:C5672,
+        ocs:C5917,
+        ocs:C6114,
+        ocs:C7102,
+        ocs:C9113,
+        ocs:C9154,
+        ocs:C10084,
         ocs:C13169,
         ocs:C14983,
         ocs:C15597,
@@ -18,11 +24,5 @@ ocs:C3746 a skos:Concept ;
         ocs:C31286,
         ocs:C31755,
         ocs:C36500,
-        ocs:C44125,
-        ocs:C5672,
-        ocs:C5917,
-        ocs:C6114,
-        ocs:C7102,
-        ocs:C9113,
-        ocs:C9154 .
+        ocs:C44125 .
 

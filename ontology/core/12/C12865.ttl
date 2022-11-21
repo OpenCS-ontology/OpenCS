@@ -2,29 +2,29 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12865 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C29,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C29 ;
     skos:closeMatch <http://dbpedia.org/resource/Map_(higher-order_function)> ;
     skos:prefLabel "Map" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C19,
+        ocs:C4591,
+        ocs:C4937,
+        ocs:C6941,
+        ocs:C8441,
+        ocs:C8864,
+        ocs:C10284,
         ocs:C10720,
         ocs:C10862,
         ocs:C11128,
         ocs:C11333,
         ocs:C12108,
         ocs:C12848,
-        ocs:C19,
         ocs:C20208,
         ocs:C20907,
         ocs:C27380,
         ocs:C28783,
         ocs:C35502,
         ocs:C38301,
-        ocs:C41762,
-        ocs:C4591,
-        ocs:C4937,
-        ocs:C6941,
-        ocs:C8441,
-        ocs:C8864 .
+        ocs:C41762 .
 

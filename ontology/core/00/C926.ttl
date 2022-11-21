@@ -2,18 +2,18 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C926 a skos:Concept ;
-    skos:broader ocs:C22,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C22 ;
     skos:closeMatch <http://dbpedia.org/resource/Composite_image_filter> ;
     skos:prefLabel "Composite image filter" ;
-    skos:related ocs:C15194,
+    skos:related ocs:C2716,
+        ocs:C6913,
+        ocs:C15194,
         ocs:C23074,
         ocs:C25026,
-        ocs:C2716,
         ocs:C32519,
         ocs:C32554,
         ocs:C38695,
         ocs:C40590,
-        ocs:C41756,
-        ocs:C6913 .
+        ocs:C41756 .
 

@@ -2,28 +2,28 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C7296 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/MPEG-21> ;
     skos:prefLabel "MPEG-21" ;
-    skos:related ocs:C11214,
+    skos:related ocs:C17,
+        ocs:C3522,
+        ocs:C3896,
+        ocs:C4641,
+        ocs:C6234,
+        ocs:C11214,
         ocs:C11323,
         ocs:C11927,
-        ocs:C17,
         ocs:C18498,
         ocs:C19321,
         ocs:C19334,
         ocs:C22714,
         ocs:C29048,
         ocs:C31114,
-        ocs:C3522,
         ocs:C36030,
         ocs:C36741,
-        ocs:C3896,
         ocs:C40353,
         ocs:C44962,
-        ocs:C45687,
-        ocs:C4641,
-        ocs:C6234 .
+        ocs:C45687 .
 

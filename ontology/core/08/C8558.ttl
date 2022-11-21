@@ -2,9 +2,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C8558 a skos:Concept ;
-    skos:broader ocs:C24,
-        ocs:C33,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C24,
+        ocs:C33 ;
     skos:closeMatch <http://dbpedia.org/resource/Odometer> ;
     skos:prefLabel "Odometer" ;
     skos:related ocs:C12641 .

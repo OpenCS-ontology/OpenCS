@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2194 a skos:Concept ;
-    skos:broader ocs:C21,
-        ocs:C25,
-        ocs:C7 ;
+    skos:broader ocs:C7,
+        ocs:C21,
+        ocs:C25 ;
     skos:closeMatch <http://dbpedia.org/resource/Ground_truth> ;
     skos:prefLabel "Ground truth" ;
-    skos:related ocs:C10275,
+    skos:related ocs:C25,
+        ocs:C10275,
         ocs:C11030,
         ocs:C12641,
-        ocs:C25,
         ocs:C25196 .
 

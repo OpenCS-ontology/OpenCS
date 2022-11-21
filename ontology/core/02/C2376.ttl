@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C2376 a skos:Concept ;
-    skos:broader ocs:C16,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C16 ;
     skos:closeMatch <http://dbpedia.org/resource/Accent_kernel> ;
     skos:prefLabel "Accent kernel" ;
-    skos:related ocs:C12683,
+    skos:related ocs:C9,
+        ocs:C8901,
+        ocs:C12683,
         ocs:C12851,
         ocs:C14271,
         ocs:C16229,
@@ -21,7 +23,5 @@ ocs:C2376 a skos:Concept ;
         ocs:C38819,
         ocs:C40322,
         ocs:C42619,
-        ocs:C42695,
-        ocs:C8901,
-        ocs:C9 .
+        ocs:C42695 .
 

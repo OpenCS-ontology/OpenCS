@@ -2,14 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15880 a skos:Concept ;
-    skos:broader ocs:C12582,
-        ocs:C8021 ;
+    skos:broader ocs:C8021,
+        ocs:C12582 ;
     skos:closeMatch <http://dbpedia.org/resource/Charge_sharing> ;
     skos:prefLabel "Charge sharing" ;
-    skos:related ocs:C10377,
+    skos:related ocs:C210,
+        ocs:C10377,
         ocs:C11613,
         ocs:C12381,
-        ocs:C210,
         ocs:C22699,
         ocs:C24204,
         ocs:C37773,

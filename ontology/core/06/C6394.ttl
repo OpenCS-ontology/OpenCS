@@ -2,11 +2,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C6394 a skos:Concept ;
-    skos:broader ocs:C19,
-        ocs:C9 ;
+    skos:broader ocs:C9,
+        ocs:C19 ;
     skos:closeMatch <http://dbpedia.org/resource/Wild_branch> ;
     skos:prefLabel "Wild branch" ;
-    skos:related ocs:C10214,
+    skos:related ocs:C794,
+        ocs:C856,
+        ocs:C10214,
         ocs:C14162,
         ocs:C17204,
         ocs:C19699,
@@ -19,7 +21,5 @@ ocs:C6394 a skos:Concept ;
         ocs:C39753,
         ocs:C40322,
         ocs:C41092,
-        ocs:C41964,
-        ocs:C794,
-        ocs:C856 .
+        ocs:C41964 .
 

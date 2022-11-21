@@ -2,19 +2,19 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C10393 a skos:Concept ;
-    skos:broader ocs:C10,
-        ocs:C13,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C10,
+        ocs:C13 ;
     skos:closeMatch <http://dbpedia.org/resource/Geohash> ;
     skos:prefLabel "Geohash" ;
-    skos:related ocs:C11641,
+    skos:related ocs:C2541,
+        ocs:C3446,
+        ocs:C5088,
+        ocs:C8708,
+        ocs:C11641,
         ocs:C11862,
         ocs:C25142,
-        ocs:C2541,
-        ocs:C3446,
         ocs:C36311,
         ocs:C37444,
-        ocs:C41265,
-        ocs:C5088,
-        ocs:C8708 .
+        ocs:C41265 .
 

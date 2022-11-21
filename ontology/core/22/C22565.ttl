@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C22565 a skos:Concept ;
-    skos:broader ocs:C12641,
-        ocs:C7447 ;
+    skos:broader ocs:C7447,
+        ocs:C12641 ;
     skos:closeMatch <http://dbpedia.org/resource/Terrestrial_reference_frame> ;
     skos:prefLabel "Terrestrial reference frame" ;
     skos:related ocs:C20371,

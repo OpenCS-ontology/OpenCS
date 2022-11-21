@@ -2,8 +2,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C1659 a skos:Concept ;
-    skos:broader ocs:C23,
-        ocs:C32,
-        ocs:C8 ;
+    skos:broader ocs:C8,
+        ocs:C23,
+        ocs:C32 ;
     skos:prefLabel "Biomedical text" .
 

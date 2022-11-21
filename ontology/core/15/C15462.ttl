@@ -2,11 +2,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C15462 a skos:Concept ;
-    skos:broader ocs:C13750,
-        ocs:C7106 ;
+    skos:broader ocs:C7106,
+        ocs:C13750 ;
     skos:closeMatch <http://dbpedia.org/resource/Molecular_cloud> ;
     skos:prefLabel "Molecular cloud" ;
-    skos:related ocs:C17246,
+    skos:related ocs:C597,
+        ocs:C17246,
         ocs:C23210,
         ocs:C23296,
         ocs:C23430,
@@ -17,6 +18,5 @@ ocs:C15462 a skos:Concept ;
         ocs:C29212,
         ocs:C34450,
         ocs:C34547,
-        ocs:C37041,
-        ocs:C597 .
+        ocs:C37041 .
 

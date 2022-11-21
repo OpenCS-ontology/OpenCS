@@ -2,23 +2,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14864 a skos:Concept ;
-    skos:broader ocs:C13210,
-        ocs:C308,
-        ocs:C4522 ;
+    skos:broader ocs:C308,
+        ocs:C4522,
+        ocs:C13210 ;
     skos:closeMatch <http://dbpedia.org/resource/Bernese_German_phonology> ;
     skos:prefLabel "Bernese German phonology" ;
-    skos:related ocs:C12167,
+    skos:related ocs:C2025,
+        ocs:C4522,
+        ocs:C12167,
         ocs:C13096,
         ocs:C16899,
         ocs:C17395,
         ocs:C17799,
         ocs:C18819,
         ocs:C19817,
-        ocs:C2025,
         ocs:C21819,
         ocs:C22993,
         ocs:C23276,
         ocs:C24902,
-        ocs:C37693,
-        ocs:C4522 .
+        ocs:C37693 .
 

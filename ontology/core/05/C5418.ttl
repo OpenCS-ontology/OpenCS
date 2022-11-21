@@ -2,12 +2,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C5418 a skos:Concept ;
-    skos:broader ocs:C17,
-        ocs:C31,
-        ocs:C4 ;
+    skos:broader ocs:C4,
+        ocs:C17,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Web_access_management> ;
     skos:prefLabel "Web access management" ;
-    skos:related ocs:C10064,
+    skos:related ocs:C816,
+        ocs:C4513,
+        ocs:C5674,
+        ocs:C5731,
+        ocs:C9909,
+        ocs:C10064,
         ocs:C10565,
         ocs:C15411,
         ocs:C17656,
@@ -20,10 +25,5 @@ ocs:C5418 a skos:Concept ;
         ocs:C33015,
         ocs:C37731,
         ocs:C37914,
-        ocs:C44603,
-        ocs:C4513,
-        ocs:C5674,
-        ocs:C5731,
-        ocs:C816,
-        ocs:C9909 .
+        ocs:C44603 .
 

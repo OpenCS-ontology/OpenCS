@@ -2,11 +2,14 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C12164 a skos:Concept ;
-    skos:broader ocs:C31,
-        ocs:C6 ;
+    skos:broader ocs:C6,
+        ocs:C31 ;
     skos:closeMatch <http://dbpedia.org/resource/Prepared_statement> ;
     skos:prefLabel "Prepared statement" ;
-    skos:related ocs:C10284,
+    skos:related ocs:C6,
+        ocs:C5497,
+        ocs:C9056,
+        ocs:C10284,
         ocs:C12185,
         ocs:C13984,
         ocs:C16874,
@@ -17,8 +20,5 @@ ocs:C12164 a skos:Concept ;
         ocs:C33457,
         ocs:C36084,
         ocs:C45138,
-        ocs:C45343,
-        ocs:C5497,
-        ocs:C6,
-        ocs:C9056 .
+        ocs:C45343 .
 

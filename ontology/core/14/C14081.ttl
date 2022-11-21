@@ -2,27 +2,27 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ocs:C14081 a skos:Concept ;
-    skos:broader ocs:C12098,
-        ocs:C13408,
+    skos:broader ocs:C914,
         ocs:C3905,
         ocs:C7903,
-        ocs:C914 ;
+        ocs:C12098,
+        ocs:C13408 ;
     skos:closeMatch <http://dbpedia.org/resource/Property_Specification_Language> ;
     skos:prefLabel "Property Specification Language" ;
-    skos:related ocs:C1097,
+    skos:related ocs:C254,
+        ocs:C1097,
+        ocs:C5459,
+        ocs:C7903,
         ocs:C12098,
         ocs:C13408,
         ocs:C19400,
         ocs:C20736,
         ocs:C23473,
-        ocs:C254,
         ocs:C26090,
         ocs:C27107,
         ocs:C30044,
         ocs:C35746,
         ocs:C35757,
         ocs:C37773,
-        ocs:C42888,
-        ocs:C5459,
-        ocs:C7903 .
+        ocs:C42888 .
 
