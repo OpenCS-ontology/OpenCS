@@ -27,3 +27,22 @@ jobs:
           prerelease: true
           title: "Development build"
           files: package/*
+
+      - name: "Prepare ontology files for commit"
+        run: |
+          mkdir output_files
+          gzip -cd package/opencs.ttl.gz > output_files/opencs.ttl
+          gzip -cd package/opencs.rdf.gz > output_files/opencs.rdf
+          gzip -cd package/opencs.nt.gz > output_files/opencs.nt
+
+      - name: "Push the files to the Github Pages repository"
+        uses: "cpina/github-action-push-to-another-repository@main"
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'output_files'
+          destination-github-username: 'opencs-ontology'
+          destination-repository-name: 'opencs-ontology.github.io'
+          user-name: ci-worker
+          target-directory: /releases/latest
+          target-branch: main
