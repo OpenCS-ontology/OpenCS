@@ -28,14 +28,26 @@ jobs:
           title: "Development build"
           files: package/*
 
-      - name: "Prepare ontology files for commit"
+      - name: Prepare files to be committed to another repository
         run: |
           mkdir output_files
           gzip -cd package/opencs.ttl.gz > output_files/opencs.ttl
           gzip -cd package/opencs.rdf.gz > output_files/opencs.rdf
           gzip -cd package/opencs.nt.gz > output_files/opencs.nt
 
-      - name: "Push the files to the Github Pages repository"
+      - name: "Install required packages for Python"
+        run: python -m pip install pyyaml PyGithub
+
+      - name: "Generate pages for Github Pages repository"
+        run: python /app/generate_pages.py dev $GITHUB_REPOSITORY output_files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "Prepare Github Pages static files"
+        run: |
+          mv output_files/page.md output_files/index.md
+
+      - name: "Push files for dev version"
         uses: "cpina/github-action-push-to-another-repository@main"
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
@@ -44,5 +56,5 @@ jobs:
           destination-github-username: 'opencs-ontology'
           destination-repository-name: 'opencs-ontology.github.io'
           user-name: ci-worker
-          target-directory: /releases/latest
+          target-directory: /releases/dev/
           target-branch: main
