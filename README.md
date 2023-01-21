@@ -14,6 +14,7 @@ See also **[the documentation](https://github.com/OpenCS-ontology/OpenCS/wiki/)*
   - `core` – core of the ontology, split into one Turtle file per concept. The files are grouped by 1000 into directories to help with potential filesystem or file browser issues.
   - `makg_extra.ttl.gz` – extra assertions carried over from MAKG
   - `opencs_to_makg.ttl.gz` – equivalence relations between OpenCS and MAKG
+  - `shacl_constraints.ttl` - the file with SHACL constraints for ontology validation
 
 ## Releases
 The `dev` release tag corresponds to the main branch in the repository and is updated automatically.
