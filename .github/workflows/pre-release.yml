@@ -20,6 +20,25 @@ jobs:
       - name: "Package ontology"
         run: python /app/package.py opencs package dev
 
+      - name: "Download robot.jar"
+        uses: wei/wget@v1
+        with:
+          args: https://github.com/ontodev/robot/releases/download/v1.9.1/robot.jar
+        
+      - name: "Java installation"
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin' 
+          java-version: '17'   
+          
+      - name: "Infer additional assertions"
+        run: |
+          bash opencs/inference/infer_assertions.sh
+          touch inferred_assertions.ttl
+          bash opencs/inference/ofn_to_ttl.sh inferred_assertions.ofn inferred_assertions.ttl
+          rm output_opencs.ttl opencs2.ttl
+          mv inferred_assertions.ttl package/inferred_assertions.ttl
+
       - uses: "marvinpinto/action-automatic-releases@v1.2.1"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
