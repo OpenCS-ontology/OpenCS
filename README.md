@@ -37,5 +37,27 @@ The OpenCS ontology and all other contents of this repository are licensed under
 
 ## Authors
 
-- [Piotr Sowiński](https://github.com/Ostrzyciel)
-- The authors of the [Microsoft Academic Knowledge Graph](https://makg.org/)
+People who have contributed to OpenCS or the tools used to build or maintain it, in alphabetic username order.
+
+- Anastasiya Danilenka ([@adanilenka](https://github.com/adanilenka))
+- Aleksander Zawisza ([@AleksanderZawisza](https://github.com/AleksanderZawisza))
+- Aleksandra Nawrocka ([@alexnawr](https://github.com/alexnawr))
+- Arkadiusz Zalas ([@azalas](https://github.com/alexnawr))
+- Krystian Kurek ([@KrystianKurek](https://github.com/KrystianKurek))
+- Łukasz Pancer ([@luki139](https://github.com/luki139))
+- Mateusz Kierznowski ([@mateuszkierznowski](https://github.com/mateuszkierznowski))
+- Mikołaj Zalewski ([@mikolajzalewsk](https://github.com/mikolajzalewski))
+- Mateusz Jastrzębiowski ([@mjastrzebiowski](https://github.com/mjastrzebiowski))
+- Aleksandra Muszkowska ([@muszkowska](https://github.com/muszkowska))
+- Nazira Tukeyeva ([@nazirait](https://github.com/nazirait))
+- Piotr Sowiński ([@Ostrzyciel](https://github.com/Ostrzyciel))
+- Przemysław Olender ([@przemekolender](https://github.com/przemekolender))
+- Paweł Golik ([@Shaveek23](https://github.com/Shaveek23))
+- Dawid Przybyliński ([@Szwagi3r](https://github.com/Szwagi3r))
+- Dominika Umiastowska ([@umiastowskad](https://github.com/umiastowskad))
+- Paweł Wesołowski ([@wesolowskip](https://github.com/wesolowskip))
+- Jan Wojtas ([@wojtas000](https://github.com/wojtas000))
+- **The authors of the [Microsoft Academic Knowledge Graph](https://makg.org/)**, which OpenCS was initially derived from
+
+### Maintainer
+**Piotr Sowiński ([@Ostrzyciel](https://github.com/Ostrzyciel))**
