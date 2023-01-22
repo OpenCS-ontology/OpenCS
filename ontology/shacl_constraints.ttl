@@ -1,0 +1,60 @@
+@prefix ocsh: <https://w3id.org/ocs/shacl/constraints.shacl#> .
+@prefix ocs: <https://w3id.org/ocs/ont/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/ocs/shacl/constraints.shacl>
+    rdf:type owl:Ontology ;
+    rdfs:comment "SHACL constraints for the OpenCS ontology" ;
+    rdfs:label "OpenCS SHACL"@en .
+
+ocsh:SinglePrefLabelPerLanguageRule
+	a sh:NodeShape ;
+	sh:targetClass skos:Concept  ;
+    sh:message "Concept needs to have at most one skos:prefLabel per language" ;
+	sh:property [
+		sh:path skos:prefLabel ;
+		sh:uniqueLang true ;
+	] .
+
+ocsh:SingleDefinitionPerLanguageRule
+	a sh:NodeShape ;
+	sh:targetClass skos:Concept  ;
+    sh:message "Concept needs to have at most one skos:definition per language" ;
+	sh:property [
+		sh:path skos:definition ;
+		sh:uniqueLang true ;
+	] .
+
+ocsh:RootRule
+    a sh:NodeShape ;
+    sh:in (ocs:C1) .
+
+ocsh:NonRootsHaveSingleBroaderRule
+    a sh:NodeShape ;
+	sh:targetClass skos:Concept  ;
+    sh:message "Concepts other than Computer Science need broader concept" ;
+    sh:or (
+		[
+			sh:property [
+				sh:path skos:broader ;
+				sh:minCount 1 ;
+			]
+		]
+		[
+		    sh:node ocsh:RootRule ;
+		]
+	) .
+
+ocsh:NoCyclesRule
+    a sh:NodeShape ;
+	sh:targetClass skos:Concept  ;
+    sh:message "The skos:broader hierarchy should not contain cycles" ;
+	sh:property [
+		sh:path  ([sh:oneOrMorePath skos:broader] skos:prefLabel) ;
+		sh:disjoint skos:prefLabel ;
+	] .
