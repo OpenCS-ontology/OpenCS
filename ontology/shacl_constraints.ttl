@@ -1,18 +1,18 @@
-@prefix ex: <http://datashapes.org/shasf/tests/expression/advanced.test.shacl#> .
-@prefix exOnt: <http://datashapes.org/shasf/tests/expression/advanced.test.ont#> .
-@prefix exData: <http://datashapes.org/shasf/tests/expression/advanced.test.data#> .
+@prefix ocsh: <https://w3id.org/ocs/shacl/constraints.shacl#> .
+@prefix ocs: <https://w3id.org/ocs/ont/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-<http://datashapes.org/shasf/tests/expression/advanced.test.shacl>
-    rdf:type owl:Ontology ;
-    rdfs:label "Test of advanced features" ;
-.
 
-ex:SinglePrefLabelPerLanguageRule
+<https://w3id.org/ocs/shacl/constraints.shacl>
+    rdf:type owl:Ontology ;
+    rdfs:comment "SHACL constraints for the OpenCS ontology" ;
+    rdfs:label "OpenCS SHACL"@en .
+
+ocsh:SinglePrefLabelPerLanguageRule
 	a sh:NodeShape ;
 	sh:targetClass skos:Concept  ;
     sh:message "Concept needs to have at most one skos:prefLabel per language" ;
@@ -21,7 +21,7 @@ ex:SinglePrefLabelPerLanguageRule
 		sh:uniqueLang true ;
 	] .
 
-ex:SingleDefinitionPerLanguageRule
+ocsh:SingleDefinitionPerLanguageRule
 	a sh:NodeShape ;
 	sh:targetClass skos:Concept  ;
     sh:message "Concept needs to have at most one skos:definition per language" ;
@@ -30,8 +30,11 @@ ex:SingleDefinitionPerLanguageRule
 		sh:uniqueLang true ;
 	] .
 
+ocsh:RootRule
+    a sh:NodeShape ;
+    sh:in (ocs:C1) .
 
-ex:NonRootsHaveSingleBroaderRule
+ocsh:NonRootsHaveSingleBroaderRule
     a sh:NodeShape ;
 	sh:targetClass skos:Concept  ;
     sh:message "Concepts other than Computer Science need broader concept" ;
@@ -43,19 +46,15 @@ ex:NonRootsHaveSingleBroaderRule
 			]
 		]
 		[
-			sh:property [
-		        sh:path skos:prefLabel ;
-		        sh:pattern "^Computer science$" ;
-	        ] ;
+		    sh:node ocsh:RootRule ;
 		]
 	) .
 
-
-ex:NoCyclesRule
-	a sh:NodeShape ;
+ocsh:NoCyclesRule
+    a sh:NodeShape ;
 	sh:targetClass skos:Concept  ;
-    sh:message "Path longer than 9 detected" ;
+    sh:message "The skos:broader hierarchy should not contain cycles" ;
 	sh:property [
-		sh:path  (skos:broader skos:broader skos:broader skos:broader skos:broader skos:broader skos:broader skos:broader skos:broader) ;
-		sh:maxCount 0 ;
+		sh:path  ([sh:oneOrMorePath skos:broader] skos:prefLabel) ;
+		sh:disjoint skos:prefLabel ;
 	] .
