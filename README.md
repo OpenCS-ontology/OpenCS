@@ -52,6 +52,7 @@ People who have contributed to OpenCS or the tools used to build or maintain it,
 - Nazira Tukeyeva ([@nazirait](https://github.com/nazirait))
 - Piotr Sowiński ([@Ostrzyciel](https://github.com/Ostrzyciel))
 - Przemysław Olender ([@przemekolender](https://github.com/przemekolender))
+- Rafał Klimek ([@rklimek123](https://github.com/rklimek123))
 - Paweł Golik ([@Shaveek23](https://github.com/Shaveek23))
 - Dawid Przybyliński ([@Szwagi3r](https://github.com/Szwagi3r))
 - Dominika Umiastowska ([@umiastowskad](https://github.com/umiastowskad))
