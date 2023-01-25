@@ -40,7 +40,7 @@ The OpenCS ontology and all other contents of this repository are licensed under
 People who have contributed to OpenCS or the tools used to build or maintain it, in alphabetic username order.
 
 - Anastasiya Danilenka ([@adanilenka](https://github.com/adanilenka))
-- Aleksander Zawisza ([@AleksanderZawisza](https://github.com/AleksanderZawisza))
+- Aleksander Podsiad ([@AleksanderZawisza](https://github.com/AleksanderZawisza))
 - Aleksandra Nawrocka ([@alexnawr](https://github.com/alexnawr))
 - Arkadiusz Zalas ([@azalas](https://github.com/alexnawr))
 - Krystian Kurek ([@KrystianKurek](https://github.com/KrystianKurek))
