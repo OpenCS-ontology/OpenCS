@@ -16,9 +16,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: opencs
-          
-      - name: "Validate ontology"
-        run: python /app/validate.py opencs
 
       - name: "Package ontology"
         run: python /app/package.py opencs package dev

@@ -1,0 +1,24 @@
+name: "validate"
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    name: "Validate ontology"
+    runs-on: "ubuntu-latest"
+    container: ghcr.io/opencs-ontology/ci-worker:main
+
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v2
+        with:
+          path: opencs
+
+      - name: "Validate ontology with SHACL"
+        run: python /app/validate.py opencs
