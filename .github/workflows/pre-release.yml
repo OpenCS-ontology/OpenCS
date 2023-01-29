@@ -30,7 +30,7 @@ jobs:
         run: |
           bash /app/inference/infer_assertions.sh
           touch inferred_assertions.ttl
-          bash /app/inference/ofn_to_ttl.sh inferred_assertions.ofn inferred_assertions.ttl
+          bash /app/inference/ofn_to_ttl.sh inferred_assertions.ofn inferred.ttl
           rm output_opencs.ttl opencs2.ttl
           gzip inferred_assertions.ttl
           mv inferred_assertions.ttl.gz package/inferred.ttl.gz
