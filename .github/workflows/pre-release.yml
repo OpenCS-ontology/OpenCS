@@ -20,11 +20,11 @@ jobs:
       - name: "Package ontology"
         run: python /app/package.py opencs package dev
         
-      - name: "Java installation"
+      - name: "Install Java"
         uses: actions/setup-java@v3
         with:
-          distribution: 'temurin' 
-          java-version: '17'   
+          distribution: 'temurin'
+          java-version: '17'
           
       - name: "Infer additional assertions"
         run: |
