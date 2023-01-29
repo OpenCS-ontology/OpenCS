@@ -26,6 +26,12 @@ jobs:
           prerelease: false
           files: package/*
 
+      - name: "Install Java"
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
       - name: "Infer additional assertions"
         run: |
           bash /app/inference/infer_assertions.sh
