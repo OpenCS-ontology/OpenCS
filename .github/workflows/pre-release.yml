@@ -30,10 +30,10 @@ jobs:
         run: |
           bash /app/inference/infer_assertions.sh
           touch inferred_assertions.ttl
-          bash /app/inference/ofn_to_ttl.sh inferred_assertions.ofn inferred.ttl
+          bash /app/inference/ofn_to_ttl.sh inferred_assertions.ofn inferred_assertions.ttl
           rm output_opencs.ttl opencs2.ttl
-          gzip inferred.ttl
-          mv inferred.ttl.gz package/inferred.ttl.gz
+          gzip inferred_assertions.ttl
+          mv inferred_assertions.ttl.gz package/inferred.ttl.gz
 
       - uses: "marvinpinto/action-automatic-releases@v1.2.1"
         with:
