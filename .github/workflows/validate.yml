@@ -20,5 +20,5 @@ jobs:
         with:
           path: opencs
 
-      - name: "Validate ontology"
+      - name: "Validate ontology with SHACL"
         run: python /app/validate.py opencs
