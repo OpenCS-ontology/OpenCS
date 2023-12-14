@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
         with:
           path: opencs
 
@@ -35,12 +35,12 @@ jobs:
           gzip inferred_assertions.ttl
           mv inferred_assertions.ttl.gz package/inferred.ttl.gz
 
-      - uses: "softprops/action-gh-release@v1"
+      - uses: "marvinpinto/action-automatic-releases@v1.2.1"
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
-          tag_name: "dev"
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "dev"
           prerelease: true
-          name: "Development build"
+          title: "Development build"
           files: package/*
 
       - name: Prepare files to be committed to another repository
@@ -66,7 +66,7 @@ jobs:
         with:
           source-directory: 'output_files'
           destination-github-username: 'opencs-ontology'
-      #    destination-repository-name: 'opencs-ontology.github.io'
-      #    user-name: ci-worker
-      #    target-directory: /releases/dev/
-      #    target-branch: main
+          destination-repository-name: 'opencs-ontology.github.io'
+          user-name: ci-worker
+          target-directory: /releases/dev/
+          target-branch: main
