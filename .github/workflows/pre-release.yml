@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: opencs
 
@@ -35,13 +35,6 @@ jobs:
           gzip inferred_assertions.ttl
           mv inferred_assertions.ttl.gz package/inferred.ttl.gz
 
-     # - uses: "marvinpinto/action-automatic-releases@latest"
-     #   with:
-     #     repo_token: "${{ secrets.GITHUB_TOKEN }}"
-     #     automatic_release_tag: "dev"
-     #     prerelease: true
-     #     title: "Development build"
-     #     files: package/*
       - uses: "softprops/action-gh-release@v1"
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
@@ -57,22 +50,22 @@ jobs:
           gzip -cd package/opencs.rdf.gz > output_files/opencs.rdf
           gzip -cd package/opencs.nt.gz > output_files/opencs.nt
 
-     # - name: "Generate pages for Github Pages repository"
-     #   run: python /app/generate_pages.py dev $GITHUB_REPOSITORY output_files
-     #   env:
-     #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: "Generate pages for Github Pages repository"
+        run: python /app/generate_pages.py dev $GITHUB_REPOSITORY output_files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-     # - name: "Prepare Github Pages static files"
-     #   run: |
-     #     mv output_files/page.md output_files/index.md
+      - name: "Prepare Github Pages static files"
+        run: |
+          mv output_files/page.md output_files/index.md
 
-      #- name: "Push files for dev version"
-      #  uses: "cpina/github-action-push-to-another-repository@main"
-      #  env:
-      #    SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-      #  with:
-      #    source-directory: 'output_files'
-      #    destination-github-username: 'opencs-ontology'
+      - name: "Push files for dev version"
+        uses: "cpina/github-action-push-to-another-repository@main"
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'output_files'
+          destination-github-username: 'opencs-ontology'
       #    destination-repository-name: 'opencs-ontology.github.io'
       #    user-name: ci-worker
       #    target-directory: /releases/dev/
