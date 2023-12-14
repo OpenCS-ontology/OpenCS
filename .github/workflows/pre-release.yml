@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: opencs
 
@@ -35,12 +35,12 @@ jobs:
           gzip inferred_assertions.ttl
           mv inferred_assertions.ttl.gz package/inferred.ttl.gz
 
-      - uses: "marvinpinto/action-automatic-releases@v1.2.1"
+      - uses: "softprops/action-gh-release@v1"
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "dev"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          tag_name: "dev"
           prerelease: true
-          title: "Development build"
+          name: "Development build"
           files: package/*
 
       - name: Prepare files to be committed to another repository
