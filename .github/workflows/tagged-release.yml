@@ -20,12 +20,6 @@ jobs:
       - name: "Package ontology"
         run: python /app/package.py opencs package "$GITHUB_REF_NAME"
 
-      - name: "Install Java"
-        uses: actions/setup-java@v3
-        with:
-          distribution: 'temurin'
-          java-version: '17'
-
       - name: "Infer additional assertions"
         run: |
           bash /app/inference/infer_assertions.sh
