@@ -10,7 +10,8 @@
 @base <https://w3id.org/ocs/ont/papers> .
 
 <https://w3id.org/ocs/ont/papers> rdf:type owl:Ontology ;
-                                   rdfs:comment "This ontology describes properties used in OpenCS knowledge graph about research articles from the domain of Computer Science." .
+                                   rdfs:comment "This ontology describes properties used in OpenCS knowledge graph about research articles from the domain of Computer Science."@en ;
+                                   rdfs:label "OpenCS Knowledge Graph ontology"@en .
 
 #################################################################
 #    Object Properties
@@ -22,7 +23,7 @@ ocs_papers:hasRelated rdf:type owl:ObjectProperty ,
                                owl:IrreflexiveProperty ;
                       rdfs:domain fabio:ResearchPaper ;
                       rdfs:range ocs_papers:RelatedObjectRelation ;
-                      rdfs:comment "Represents a relation between research paper and other object. Points to RelatedObjectRelation class. Other properties are then used to further describe the relation." .
+                      rdfs:comment "Represents a relation between research paper and other object. Points to RelatedObjectRelation class. Other properties are then used to further describe the relation."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/hasRelatedPaper
@@ -32,7 +33,7 @@ ocs_papers:hasRelatedPaper rdf:type owl:ObjectProperty ;
                                     owl:IrreflexiveProperty ;
                            rdfs:domain fabio:ResearchPaper ;
                            rdfs:range ocs_papers:RelatedPaperRelation ;
-                           rdfs:comment "Indicates that a research paper has similar content to another research paper, determined by the cosine similarity of their embeddings." .
+                           rdfs:comment "Indicates that a research paper has similar content to another research paper, determined by the cosine similarity of their embeddings."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/hasRelatedTopic
@@ -42,7 +43,7 @@ ocs_papers:hasRelatedTopic rdf:type owl:ObjectProperty ;
                                     owl:IrreflexiveProperty ;
                            rdfs:domain fabio:ResearchPaper ;
                            rdfs:range ocs_papers:RelatedTopicRelation ;
-                           rdfs:comment "Specifies a list of topics or concepts that are related to the given research paper." .
+                           rdfs:comment "Specifies a list of topics or concepts that are related to the given research paper."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/hasRelationTarget
@@ -50,7 +51,7 @@ ocs_papers:hasRelationTarget rdf:type owl:ObjectProperty ,
                                       owl:FunctionalProperty ,
                                       owl:IrreflexiveProperty ;
                              rdfs:domain ocs_papers:RelatedObjectRelation ;
-                             rdfs:comment "Target of the relation. An object that is associated with a given research paper." .
+                             rdfs:comment "Target of the relation. An object that is associated with a given research paper."@en .
 
 
 #################################################################
@@ -62,7 +63,7 @@ ocs_papers:hasRelationScore rdf:type owl:DatatypeProperty ,
                                      owl:FunctionalProperty ;
                             rdfs:domain ocs_papers:RelatedObjectRelation ;
                             rdfs:range xsd:float ;
-                            rdfs:comment "Quantifies how much the target of the relationship is related to a given research paper." .
+                            rdfs:comment "Quantifies how much the target of the relationship is related to a given research paper."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/hasWordEmbedding
@@ -70,7 +71,7 @@ ocs_papers:hasWordEmbedding rdf:type owl:DatatypeProperty ,
                                      owl:FunctionalProperty ;
                             rdfs:domain fabio:ResearchPaper ;
                             rdfs:range xsd:string ;
-                            rdfs:comment "Represents the embedded vector of the title and abstract of a given research paper." .
+                            rdfs:comment "Represents the embedded vector of the title and abstract of a given research paper."@en .
 
 
 #################################################################
@@ -87,19 +88,27 @@ skos:Concept rdf:type owl:Class .
 
 ###  https://w3id.org/ocs/ont/papers/RelatedObjectRelation
 ocs_papers:RelatedObjectRelation rdf:type owl:Class ;
-                                 rdfs:comment "A helper class used to better desribe relation between a given research paper and other object e.g. another paper or a concept." .
+                                 rdfs:comment "A helper class used to better desribe relation between a given research paper and other object e.g. another paper or a concept."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/RelatedPaperRelation
 ocs_papers:RelatedPaperRelation rdf:type owl:Class ;
-                                rdfs:subClassOf ocs_papers:RelatedObjectRelation ;
-                                rdfs:comment "A helper class to better decribe relationship between two research papers." .
+                                rdfs:subClassOf ocs_papers:RelatedObjectRelation ,
+                                                [ rdf:type owl:Restriction ;
+                                                  owl:onProperty ocs_papers:hasRelationTarget ;
+                                                  owl:allValuesFrom fabio:ResearchPaper
+                                                ] ;
+                                rdfs:comment "A helper class to better decribe relationship between two research papers."@en .
 
 
 ###  https://w3id.org/ocs/ont/papers/RelatedTopicRelation
 ocs_papers:RelatedTopicRelation rdf:type owl:Class ;
-                                rdfs:subClassOf ocs_papers:RelatedObjectRelation ;
-                                rdfs:comment "A helper class to better describe relation between a given research paper and a relevant concept." .
+                                rdfs:subClassOf ocs_papers:RelatedObjectRelation ,
+                                                [ rdf:type owl:Restriction ;
+                                                  owl:onProperty ocs_papers:hasRelationTarget ;
+                                                  owl:allValuesFrom skos:Concept
+                                                ] ;
+                                rdfs:comment "A helper class to better describe relation between a given research paper and a relevant concept."@en .
 
 
-###  Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
