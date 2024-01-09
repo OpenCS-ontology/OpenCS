@@ -48,6 +48,9 @@ jobs:
         run: |
           TAG_PATH=/releases/${GITHUB_REF_NAME#v}
           echo "TAG_PATH=$TAG_PATH" >> $GITHUB_ENV
+      
+      - name: "Convert concepts to JSONLD files for ontology web browser"
+        run: python /app/convert_to_jsonld.py stable/opencs.ttl browser
 
       - name: "Generate pages for Github Pages repository"
         run: python /app/generate_pages.py ${GITHUB_REF_NAME#v} $GITHUB_REPOSITORY output_files
@@ -59,6 +62,18 @@ jobs:
           cp output_files/page.md tag/index.md
           cp output_files/page.md stable/index.md
           cp output_files/versions.md versions/index.md
+      
+      - name: "Push JSONLD browser directory to the website repo"
+        uses: "cpina/github-action-push-to-another-repository@main"
+        env: 
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'browser'
+          destination-github-username: 'opencs-ontology'
+          destination-repository-name: 'opencs-ontology.github.io'
+          user-name: ci-worker
+          target-directory: browser
+          target-branch: main
 
       - name: "Push files for current tag version"
         uses: "cpina/github-action-push-to-another-repository@main"
