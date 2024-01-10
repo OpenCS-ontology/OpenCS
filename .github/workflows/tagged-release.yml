@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: "Checkout repository"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: opencs
 
@@ -29,9 +29,10 @@ jobs:
           gzip inferred_assertions.ttl
           mv inferred_assertions.ttl.gz package/inferred.ttl.gz
 
-      - uses: "marvinpinto/action-automatic-releases@v1.2.1"
+      - uses: "softprops/action-gh-release@v1"
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          tag_name: "${GITHUB_REF_NAME#v}"
           prerelease: false
           files: package/*
 
@@ -46,7 +47,7 @@ jobs:
 
       - name: "Set target directory variable for current tag version"
         run: |
-          TAG_PATH=/releases/${GITHUB_REF_NAME#v}
+          TAG_PATH=releases/${GITHUB_REF_NAME#v}
           echo "TAG_PATH=$TAG_PATH" >> $GITHUB_ENV
 
       - name: "Generate pages for Github Pages repository"
@@ -59,39 +60,19 @@ jobs:
           cp output_files/page.md tag/index.md
           cp output_files/page.md stable/index.md
           cp output_files/versions.md versions/index.md
-
+      - name: "Set up git"
+        uses: webfactory/ssh-agent@v0.7.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_DEPLOY_KEY }}
       - name: "Push files for current tag version"
-        uses: "cpina/github-action-push-to-another-repository@main"
-        env:
-          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-        with:
-          source-directory: 'tag'
-          destination-github-username: 'opencs-ontology'
-          destination-repository-name: 'opencs-ontology.github.io'
-          user-name: ci-worker
-          target-directory: ${{ env.TAG_PATH }}
-          target-branch: main
-
-      - name: "Push files for stable version"
-        uses: "cpina/github-action-push-to-another-repository@main"
-        env:
-          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-        with:
-          source-directory: 'stable'
-          destination-github-username: 'opencs-ontology'
-          destination-repository-name: 'opencs-ontology.github.io'
-          user-name: ci-worker
-          target-directory: /releases/stable/
-          target-branch: main
-
-      - name: "Push files for list of versions"
-        uses: "cpina/github-action-push-to-another-repository@main"
-        env:
-          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-        with:
-          source-directory: 'versions'
-          destination-github-username: 'opencs-ontology'
-          destination-repository-name: 'opencs-ontology.github.io'
-          user-name: ci-worker
-          target-directory: /releases/versions/
-          target-branch: main
+        run: |
+          git clone git@github.com:OpenCS-ontology/OpenCS-ontology.github.io.git
+          cp -a tag/. OpenCS-ontology.github.io/$TAG_PATH
+          cp -a stable/. OpenCS-ontology.github.io/releases/stable/
+          cp -a versions/. OpenCS-ontology.github.io/releases/versions/ 
+          cd OpenCS-ontology.github.io
+          git config user.name "opencs-ontology"
+          git config user.email "test@test.com"
+          git add $TAG_PATH/* releases/stable/* releases/versions/*
+          git commit -m "New tagged release: test"
+          git push
