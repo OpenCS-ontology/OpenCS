@@ -72,7 +72,7 @@ jobs:
           destination-github-username: 'opencs-ontology'
           destination-repository-name: 'opencs-ontology.github.io'
           user-name: ci-worker
-          target-directory: browser
+          target-directory: assets/data
           target-branch: main
 
       - name: "Push files for current tag version"
