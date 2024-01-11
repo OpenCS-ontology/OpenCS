@@ -16,9 +16,16 @@ jobs:
 
     steps:
       - name: "Checkout repository"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: opencs
 
       - name: "Validate ontology with SHACL"
-        run: python /app/validate.py opencs
+        run: bash /app/validate_jena.sh
+
+      - name: "Upload validation report"
+        if: '!cancelled()'
+        uses: actions/upload-artifact@v3
+        with:
+          name: validation_report
+          path: package/validation_report.ttl
