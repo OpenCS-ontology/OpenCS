@@ -58,3 +58,13 @@ ocsh:NoCyclesRule
 		sh:path  ([sh:oneOrMorePath skos:broader] skos:prefLabel) ;
 		sh:disjoint skos:prefLabel ;
 	] .
+
+ocsh:RelatedBroaderDisjoint 
+	a sh:NodeShape ;
+	sh:targetClass skos:Concept ;
+	sh:message "Hierarchical links (skos:broader, transitively) and associative links (skos:related) should be disjoint" ;
+	sh:property [
+		sh:severity sh:Warning ;
+		sh:path [ sh:oneOrMorePath skos:broader ; ] ;
+		sh:disjoint skos:related ;
+	] .
