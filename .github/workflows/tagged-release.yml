@@ -45,6 +45,10 @@ jobs:
           cp output_files/opencs.* tag
           cp output_files/opencs.* stable
 
+      - name: "Prepare data for ontology web browser"
+        run: |
+          python /app/prepare_browser_data.py stable/opencs.ttl browser
+
       - name: "Set target directory variable for current tag version"
         run: |
           TAG_PATH=releases/${GITHUB_REF_NAME#v}
@@ -60,19 +64,22 @@ jobs:
           cp output_files/page.md tag/index.md
           cp output_files/page.md stable/index.md
           cp output_files/versions.md versions/index.md
+
       - name: "Set up git"
         uses: webfactory/ssh-agent@v0.7.0
         with:
           ssh-private-key: ${{ secrets.SSH_DEPLOY_KEY }}
+
       - name: "Push files for current tag version"
         run: |
           git clone git@github.com:OpenCS-ontology/OpenCS-ontology.github.io.git
           cp -a tag/. OpenCS-ontology.github.io/$TAG_PATH
           cp -a stable/. OpenCS-ontology.github.io/releases/stable/
           cp -a versions/. OpenCS-ontology.github.io/releases/versions/ 
+          cp -a browser/. OpenCS-ontology.github.io/assets/data/
           cd OpenCS-ontology.github.io
           git config user.name "opencs-ontology"
           git config user.email "test@test.com"
-          git add $TAG_PATH/* releases/stable/* releases/versions/*
+          git add $TAG_PATH/* releases/stable/* releases/versions/* assets/*
           git commit -m "New tagged release: test"
           git push
