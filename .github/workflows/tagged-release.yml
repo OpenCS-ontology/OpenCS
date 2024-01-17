@@ -79,7 +79,7 @@ jobs:
           cp -a browser/. OpenCS-ontology.github.io/assets/data/
           cd OpenCS-ontology.github.io
           git config user.name "opencs-ontology"
-          git config user.email "test@test.com"
+          git config user.email "ci-worker@opencs-ontology.github.io"
           git add $TAG_PATH/* releases/stable/* releases/versions/* assets/*
-          git commit -m "New tagged release: test"
+          git commit -m "New tagged release: ${GITHUB_REF_NAME#v}"
           git push
