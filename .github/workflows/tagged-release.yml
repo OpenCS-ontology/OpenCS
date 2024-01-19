@@ -32,7 +32,7 @@ jobs:
       - uses: "softprops/action-gh-release@v1"
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
-          tag_name: "${GITHUB_REF_NAME#v}"
+          tag_name: "${{  github.ref_name }}"
           prerelease: false
           files: package/*
 
