@@ -42,7 +42,11 @@ People who have contributed to OpenCS or the tools used to build or maintain it,
 - Anastasiya Danilenka ([@adanilenka](https://github.com/adanilenka))
 - Aleksander Podsiad ([@AleksanderZawisza](https://github.com/AleksanderZawisza))
 - Aleksandra Nawrocka ([@alexnawr](https://github.com/alexnawr))
-- Arkadiusz Zalas ([@azalas](https://github.com/alexnawr))
+- Kinga Ułasik ([@ARUMHC](https://github.com/ARUMHC))
+- Arkadiusz Zalas ([@azalas](https://github.com/azalas))
+- Bartosz Grabek ([@Bartosz7](https://github.com/Bartosz7))
+- Patryk Tomaszewski ([@Filmos](https://github.com/Filmos))
+- Jakub Fołtyn ([@jakfol1217](https://github.com/jakfol1217))
 - Krystian Kurek ([@KrystianKurek](https://github.com/KrystianKurek))
 - Łukasz Pancer ([@luki139](https://github.com/luki139))
 - Mateusz Kierznowski ([@mateuszkierznowski](https://github.com/mateuszkierznowski))
@@ -50,6 +54,7 @@ People who have contributed to OpenCS or the tools used to build or maintain it,
 - Mateusz Jastrzębiowski ([@mjastrzebiowski](https://github.com/mjastrzebiowski))
 - Aleksandra Muszkowska ([@muszkowska](https://github.com/muszkowska))
 - Nazira Tukeyeva ([@nazirait](https://github.com/nazirait))
+- Kacper Grzymkowski ([@niegrzybkowski](https://github.com/niegrzybkowski))
 - Piotr Sowiński ([@Ostrzyciel](https://github.com/Ostrzyciel))
 - Przemysław Olender ([@przemekolender](https://github.com/przemekolender))
 - Rafał Klimek ([@rklimek123](https://github.com/rklimek123))
@@ -61,4 +66,5 @@ People who have contributed to OpenCS or the tools used to build or maintain it,
 - **The authors of the [Microsoft Academic Knowledge Graph](https://makg.org/)**, which OpenCS was initially derived from
 
 ### Maintainer
+
 **Piotr Sowiński ([@Ostrzyciel](https://github.com/Ostrzyciel))**
